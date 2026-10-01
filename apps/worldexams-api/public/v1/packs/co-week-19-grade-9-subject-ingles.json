@@ -19,25 +19,25 @@
           "feedback": "Incorrect. We need past simple for present wishes."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "wish / had",
           "is_correct": true,
           "feedback": "Correct! \"Wish + Past Simple\" expresses a desire for a different present reality."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "wish / would have",
           "is_correct": false,
           "feedback": "Incorrect. \"Would\" is for habits or future changes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "hope / had",
           "is_correct": false,
           "feedback": "Incorrect. \"Hope\" is for possible future events."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Utilizamos *wish* seguido del pasado simple para expresar que nos gustaría que la realidad presente fuera diferente a como es.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Complaining about a repetitive behavior.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "didn't leave",
           "is_correct": false,
           "feedback": "Incorrect. This describes a state."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "wouldn't leave",
           "is_correct": true,
           "feedback": "Correct! \"Wish + would\" is used to complain about annoying habits or to request a change."
@@ -129,7 +129,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Cuando queremos expresar molestia o queja sobre un comportamiento repetitivo de otras personas, utilizamos *wish + would* seguido del infinitivo.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -157,25 +157,25 @@
           "feedback": "Incorrect."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "spoke",
           "is_correct": true,
           "feedback": "Correct! \"If only + Past Simple\" for a present desire."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "would speak",
           "is_correct": false,
           "feedback": "Incorrect."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "had spoken",
           "is_correct": false,
           "feedback": "Incorrect. This would refer to the past."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "*If only* funciona de manera similar a *I wish*, pero a menudo tiene un matiz de mayor intensidad o deseo. Con el pasado simple, se refiere a una situación actual.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Wishing to be in a different place (formal).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "was",
           "is_correct": false,
           "feedback": "Incorrect. (In B2 level, \"were\" is preferred for all persons)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "were",
           "is_correct": true,
           "feedback": "Correct! Using \"were\" after \"wish\" for all persons is formal and grammatically standard in B2."
@@ -221,7 +221,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Al igual que en el segundo condicional, después de *wish* se prefiere el uso de *were* para todas las personas gramaticales en contextos formales.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "Regretting a lack of action during a historical event.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "wish / did",
           "is_correct": false,
           "feedback": "Incorrect. This refers to the present."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "hope / had done",
           "is_correct": false,
           "feedback": "Incorrect. \"Hope\" is for the future."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "wish / had done",
           "is_correct": true,
           "feedback": "Correct! Past Perfect for a past regret."
@@ -267,7 +267,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Para expresar que alguien se arrepiente de una decisión o falta de acción en el pasado, usamos la estructura *wish + past perfect*.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -295,13 +295,13 @@
           "feedback": "Incorrect. Personal desire for a different state."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "I wish I had studied harder for the ethics test.",
           "is_correct": false,
           "feedback": "Incorrect. Personal regret about the past."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "I wish you would stop talking during the presentation.",
           "is_correct": true,
           "feedback": "Correct! \"Wish + would\" expresses a complaint or desire for someone else to change their behavior."
@@ -313,7 +313,7 @@
           "feedback": "Incorrect. Personal desire for a different state."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Es un matiz importante del nivel B2: *wish + would* solo se usa para quejas sobre otros o para cosas fuera de nuestro control, nunca para deseos sobre nosotros mismos (como *I wish I would be...*).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -347,19 +347,19 @@
           "feedback": "Incorrect. \"Wish\" is not for positive future desires that are possible."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "hope / have",
           "is_correct": true,
           "feedback": "Correct! \"Hope\" is used for positive, possible future outcomes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "wish / had",
           "is_correct": false,
           "feedback": "Incorrect. This would mean you are not having a good time now."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Diferenciamos entre *wish* (deseos imposibles o improbables) y *hope* (deseos posibles para el futuro). Para desear algo bueno a alguien en el futuro, usamos *hope*.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,25 +387,25 @@
           "feedback": "Incorrect."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "would agree",
           "is_correct": true,
           "feedback": "Correct! Expresses a desire for a change in behavior or situation that is currently frustrating."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "had agreed",
           "is_correct": false,
           "feedback": "Incorrect. This refers to a specific past moment."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "were agreeing",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "*If only + would* es una forma común de expresar frustración ante la inacción de otros y desear fervientemente un cambio de actitud.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "Identifying an error in a philosophical reflection.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "I wish I would be",
           "is_correct": true,
           "feedback": "Correct! You cannot use \"would\" for a wish about yourself. It should be \"I wish I were\" or \"I wish I was\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "If only I had known",
           "is_correct": false,
           "feedback": "Incorrect. Correct use for past regret."
@@ -451,7 +451,7 @@
           "feedback": "Incorrect. Correct use for present desire."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Una de las reglas de oro es que no se usa *wish + would* con el sujeto *I* o *we* cuando el deseo es sobre un estado propio. En esos casos usamos el pasado simple.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -485,19 +485,19 @@
           "feedback": "Incorrect. This refers to future behavior."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "I wish I hadn't cheated; it goes against my values.",
           "is_correct": true,
           "feedback": "Correct! Past perfect for a completed past regret."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "I hope I didn't cheat.",
           "is_correct": false,
           "feedback": "Incorrect. You know you did."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El arrepentimiento por una acción moral específica del pasado se comunica de manera más efectiva y gramaticalmente correcta con *wish + past perfect*.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -525,13 +525,13 @@
           "feedback": "Incorrect."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "wish / loved / wouldn't have",
           "is_correct": true,
           "feedback": "Correct! Correct use of wish, past for present desire, and conditional result."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "wish / would love / didn't have",
           "is_correct": false,
           "feedback": "Incorrect."
@@ -543,7 +543,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Este ejercicio final evalúa la integración de *wish* para estados presentes (*wish things were*) y el uso de condicionales para proyectar los resultados de esos deseos.",
       "difficulty": "10",
       "images": [],

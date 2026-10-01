@@ -13,31 +13,31 @@
       "context": "En una clase de biología en un colegio de Medellín, una docente presenta un esquema con dos líneas de defensa del cuerpo humano: las barreras externas y las células especializadas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La piel y las mucosas del tracto respiratorio, que impiden la entrada de microorganismos.",
           "is_correct": true,
           "feedback": "Correcto. La piel intacta y las mucosas con cilios y mucus son la primera barrera física y química contra patógenos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los linfocitos T citotóxicos que destruyen células infectadas.",
           "is_correct": false,
           "feedback": "Incorrecto. Los linfocitos T citotóxicos son parte de la inmunidad adaptativa, no de las barreras innatas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los anticuerpos IgG producidos por los linfocitos B.",
           "is_correct": false,
           "feedback": "Incorrecto. Los anticuerpos son moléculas de la respuesta adaptativa humoral, específica y de aparición tardía."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La memoria inmunológica generada después de una infección.",
           "is_correct": false,
           "feedback": "Incorrecto. La memoria inmunológica es una propiedad de la inmunidad adaptativa, no de la innata."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El sistema inmune humano tiene dos grandes líneas: la inmunidad innata (presente desde el nacimiento, no específica, rápida) y la inmunidad adaptativa (específica, con memoria, más lenta). Dentro de la innata están las barreras físicas como la piel, las mucosas, el pH ácido del estómago, los cilios del epitelio respiratorio y la lisozima de las lágrimas y la saliva.",
       "difficulty": "4",
       "images": [],
@@ -71,19 +71,19 @@
           "feedback": "Incorrecto. Los linfocitos T CD8+ destruyen células infectadas, no secretan anticuerpos."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Los linfocitos B diferenciados en células plasmáticas.",
           "is_correct": true,
           "feedback": "Correcto. Tras reconocer al antígeno, los linfocitos B se diferencian en células plasmáticas que secretan grandes cantidades de anticuerpos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Las células dendríticas del bazo.",
           "is_correct": false,
           "feedback": "Incorrecto. Las células dendríticas son presentadoras de antígeno, no fábricas de anticuerpos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La inmunidad humoral depende de los linfocitos B: al activarse con ayuda de los linfocitos T helper CD4+, proliferan y una fracción se convierte en células plasmáticas, células altamente especializadas que secretan anticuerpos específicos contra el antígeno que las activó. Otra fracción queda como célula B de memoria.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En una campaña de vacunación en un barrio de Bogotá, una enfermera explica que las vacunas enseñan al cuerpo a defenderse antes de enfrentarse al virus verdadero.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Estimula la producción de células de memoria que reconocen rápidamente al patógeno en una infección real.",
           "is_correct": true,
           "feedback": "Correcto. Las vacunas exponen al sistema inmune a antígenos inactivados o atenuados para generar linfocitos B y T de memoria."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Introduce antibióticos que destruyen bacterias antes de que se multipliquen.",
           "is_correct": false,
           "feedback": "Incorrecto. Las vacunas no contienen antibióticos; los antibióticos son medicamentos contra bacterias, no vacunas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sustituye los glóbulos rojos dañados por glóbulos nuevos.",
           "is_correct": false,
           "feedback": "Incorrecto. Las vacunas no afectan la producción de glóbulos rojos ni modifican la médula ósea de esa manera."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Aumenta la temperatura corporal para matar virus con calor.",
           "is_correct": false,
           "feedback": "Incorrecto. La fiebre es una respuesta del cuerpo, pero el principio de la vacuna es la memoria inmunológica, no el calor."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La vacunación aprovecha la memoria inmunológica: al exponer al organismo a una versión atenuada, inactivada o a fragmentos del patógeno, se generan linfocitos B y T de memoria. Ante una exposición real futura, la respuesta secundaria es más rápida, intensa y específica, lo que evita o atenúa la enfermedad.",
       "difficulty": "4",
       "images": [],
@@ -157,13 +157,13 @@
           "feedback": "Incorrecto. La respuesta adaptativa específica tarda días y se basa en anticuerpos y linfocitos T; este es un proceso inmediato."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "inflamación aguda, parte de la respuesta inmune innata.",
           "is_correct": true,
           "feedback": "Correcto. La inflamación aguda es una respuesta innata mediada por histamina, prostaglandinas y células como neutrófilos y macrófagos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "producción masiva de anticuerpos IgG.",
           "is_correct": false,
           "feedback": "Incorrecto. La producción de anticuerpos es adaptativa y se evidencia semanas después, no en horas."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. La autoinmunidad ataca moléculas propias; la inflamación aquí responde a un daño con microorganismos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La inflamación aguda es una respuesta vascular y celular que aísla y elimina el agente dañino. Incluye dilatación de vasos sanguíneos (enrojecimiento y calor), aumento de la permeabilidad (hinchazón) y estimulación de terminaciones nerviosas (dolor). Células como neutrófilos y macrófagos fagocitan restos celulares y bacterias en la zona.",
       "difficulty": "4",
       "images": [],
@@ -295,13 +295,13 @@
           "feedback": "Incorrecto. El VIH no infecta principalmente linfocitos B; su blanco son los linfocitos T CD4+."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "los linfocitos T CD4+ helper, reduciendo la coordinación de la respuesta inmune.",
           "is_correct": true,
           "feedback": "Correcto. El VIH infecta y destruye linfocitos T CD4+, lo que disminuye la capacidad de orquestar respuestas humorales y celulares."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "los glóbulos rojos, causando anemia e hipoxia tisular.",
           "is_correct": false,
           "feedback": "Incorrecto. El VIH no infecta eritrocitos porque estos no tienen núcleo ni receptores CD4."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. El VIH no infecta plaquetas; las plaquetopenias en sida son efecto secundario, no mecanismo central."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El VIH usa la proteína CD4 y correceptores CCR5 o CXCR4 para entrar a los linfocitos T helper CD4+. Al destruirlos progresivamente, el paciente pierde la coordinación de respuestas inmunes, lo que favorece infecciones oportunistas y ciertos cánceres. Los antirretrovirales actuales controlan la replicación viral pero no eliminan el reservorio.",
       "difficulty": "6",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Una madre en Manizales lleva a su hijo al servicio de urgencias porque tiene fiebre alta, dificultad para respirar y una mancha oscura en la piel luego de una herida con un clavo oxidado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "antibióticos de amplio espectro únicamente.",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque pueden administrarse, no son la intervención específica que neutraliza la toxina del tétanos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "inmunoglobulina antitetánica y toxoide tetánico para reforzar su protección.",
           "is_correct": true,
           "feedback": "Correcto. La inmunoglobulina aporta anticuerpos neutralizantes inmediatos y el toxoide induce memoria contra futuras exposiciones."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. El plasma fresco no aporta anticuerpos específicos en cantidad suficiente contra la toxina tetánica."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El tétanos es causado por la toxina de Clostridium tetani, que bloquea neurotransmisores inhibidores causando espasmos musculares. El manejo inmediato combina inmunoglobulina hiperinmune antitetánica (pasiva) con toxoide tetánico (activa) más desbridamiento de la herida. La inmunoglobulina neutraliza toxina circulante y el toxoide induce memoria inmunológica.",
       "difficulty": "6",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En una práctica de laboratorio en un colegio de Ibagué, los estudiantes analizan un suero sanguíneo con electroforesis y observan bandas en las regiones de las inmunoglobulinas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "una infección viral aguda con respuesta citotóxica.",
           "is_correct": false,
           "feedback": "Incorrecto. Las infecciones virales suelen elevar IgM e IgG; IgE alta sugiere otro proceso."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "una respuesta alérgica o parasitaria con activación de Th2 y basófilos.",
           "is_correct": true,
           "feedback": "Correcto. IgE alta y eosinofilia se asocian con alergias tipo I y parasitosis, procesos mediados por linfocitos Th2."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. La autoinmunidad anti-receptor de acetilcolina produce miastenia gravis y se asocia a anticuerpos específicos, no a IgE alta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La inmunoglobulina E participa en alergias tipo I y en la defensa contra parásitos helmintos. Su producción depende de linfocitos Th2 que secretan interleucinas como IL-4 e IL-5, esta última responsable del reclutamiento de eosinófilos. Por eso eosinofilia e IgE elevada suelen ir de la mano en alergias y parasitosis.",
       "difficulty": "8",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "Un paciente en Bogotá recibe un trasplante renal de un donante cadavérico y a las semanas se le eleva la creatinina; el equipo médico sospecha rechazo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "anticuerpos IgE contra alérgenos del injerto.",
           "is_correct": false,
           "feedback": "Incorrecto. El rechazo no se debe a IgE ni a alérgenos, sino al reconocimiento inmune de moléculas extrañas del donante."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "macrófagos que fagocitan glóbulos rojos del receptor.",
           "is_correct": false,
           "feedback": "Incorrecto. Los macrófagos participan pero el rechazo agudo implica sobre todo linfocitos T CD8+ citotóxicos del receptor."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "linfocitos T CD8+ del receptor que reconocen moléculas MHC del donante como extrañas.",
           "is_correct": true,
           "feedback": "Correcto. Los linfocitos T CD8+ del receptor atacan células del injerto que expresan MHC no propias, causando necrosis tubular."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. La eosinofilia aparece en alergias y parasitosis; el rechazo agudo es sobre todo una respuesta T citotóxica."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El rechazo agudo ocurre semanas después del trasplante por linfocitos T CD8+ del receptor que reconocen como extrañas las moléculas MHC del injerto. Por eso es clave tipificar HLA/MHC de donante y receptor y usar inmunosupresores que frenen la activación T, como los inhibidores de calcineurina.",
       "difficulty": "8",
       "images": [],
@@ -611,19 +611,19 @@
       "context": "Una enfermera en un hospital de Popayán aplica una inyección intramuscular de penicilina y minutos después el paciente presenta ronquera, dificultad para respirar y caída de la presión arterial.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "IgE unida a mastocitos que libera histamina y otros mediadores al reconocer el alérgeno.",
           "is_correct": true,
           "feedback": "Correcto. En la alergia tipo I, IgE específica contra el fármaco se une a mastocitos; la nueva exposición dispara la liberación de histamina."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "complejos inmunes de IgG depositados en tejidos vasculares.",
           "is_correct": false,
           "feedback": "Incorrecto. Los complejos inmunes median la reacción tipo III, no la anafilaxia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "linfocitos T CD8+ citotóxicos contra células propias.",
           "is_correct": false,
           "feedback": "Incorrecto. La respuesta T citotóxica es tipo IV; la anafilaxia es tipo I mediada por IgE."
@@ -635,7 +635,7 @@
           "feedback": "Incorrecto. El complejo de ataque de membrana C5b-9 actúa contra células, no es el mediador principal de la anafilaxia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La anafilaxia es una reacción alérgica tipo I sistémica, potencialmente mortal. En la primera exposición se generan IgE específicas que se fijan a receptores de alta afinidad en mastocitos y basófilos; en una reexposición, el alérgeno entrecruza esas IgE y desencadena liberación masiva de histamina, triptasa y leucotrienos, causando broncoconstricción y vasodilatación.",
       "difficulty": "8",
       "images": [],
@@ -657,13 +657,13 @@
       "context": "Un investigador en Tunja compara la sangre de pacientes con tuberculosis activa frente a controles sanos y mide liberación de interferón gamma ante antígenos de Mycobacterium tuberculosis.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "la cantidad de anticuerpos IgG específicos contra la bacteria.",
           "is_correct": false,
           "feedback": "Incorrecto. El interferón gamma es una citocina celular, no un anticuerpo; mide respuesta T, no humoral."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "la respuesta inmune celular mediada por linfocitos T helper CD4+ de tipo Th1.",
           "is_correct": true,
           "feedback": "Correcto. Los linfocitos T CD4+ Th1 de personas previamente sensibilizadas liberan IFN-gamma al reconocer antígenos tuberculosos."
@@ -681,7 +681,7 @@
           "feedback": "Incorrecto. El complemento participa en la respuesta innata pero no es el marcador medido en esta prueba."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La prueba IGRA (Interferon Gamma Release Assay) cuantifica el IFN-gamma liberado por linfocitos T CD4+ Th1 sensibilizados al exponerse a antígenos ESAT-6 y CFP-10 de M. tuberculosis. Es una alternativa a la prueba cutánea de tuberculina para detectar infección tuberculosa latente, especialmente útil en personas vacunadas con BCG.",
       "difficulty": "8",
       "images": [],
@@ -709,13 +709,13 @@
           "feedback": "Incorrecto. Selección positiva retiene precisamente a los T que sí reconocen MHC propio; los incapaces son eliminados."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "linfocitos T que reaccionan con demasiada fuerza contra antígenos propios.",
           "is_correct": true,
           "feedback": "Correcto. La selección negativa elimina linfocitos T autorreactivos que reaccionarían contra tejidos propios del organismo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "macrófagos y células dendríticas presentadoras de antígeno.",
           "is_correct": false,
           "feedback": "Incorrecto. El timo selecciona linfocitos T, no macrófagos ni células dendríticas."
@@ -727,7 +727,7 @@
           "feedback": "Incorrecto. La maduración de linfocitos B ocurre en médula ósea, no en el timo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "En el timo ocurren dos selecciones: la selección positiva favorece linfocitos T cuyos receptores TCR reconocen MHC propio cargado con algún péptido, asegurando utilidad; la selección negativa elimina los T con demasiada avidez por complejos MHC-péptido propio, previniendo autoinmunidad. Los sobrevivientes son linfocitos T naïve que emigran a órganos linfoides periféricos.",
       "difficulty": "8",
       "images": [],
@@ -755,25 +755,25 @@
           "feedback": "Incorrecto. Para inducir IgA mucosal las vacunas suelen requerir adyuvantes o plataformas especiales, no es su ventaja principal."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "generan anticuerpos neutralizantes contra las proteínas L1 de la cápside viral, impidiendo la infección inicial.",
           "is_correct": true,
           "feedback": "Correcto. Las vacunas de VPH contienen partículas similares a virus con proteína L1; inducen anticuerpos neutralizantes que bloquean el ingreso viral."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "eliminan infecciones activas ya establecidas en el cuello uterino.",
           "is_correct": false,
           "feedback": "Incorrecto. Las vacunas son profilácticas; las lesiones establecidas requieren tamizaje citológico y tratamientos médicos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "actúan integrando su genoma al ADN de las células epiteliales.",
           "is_correct": false,
           "feedback": "Incorrecto. Las vacunas actuales son subunitarias y no contienen ADN viral, por lo que no se integran al genoma."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Las vacunas contra el VPH son subunitarias: contienen partículas similares a virus (VLP) formadas por la proteína estructural L1. Inducen anticuerpos neutralizantes que bloquean el ingreso del virus a las células epiteliales, previniendo la infección persistente y, por tanto, el cáncer cervicouterino. Son profilácticas, no terapéuticas.",
       "difficulty": "10",
       "images": [],
@@ -801,13 +801,13 @@
           "feedback": "Incorrecto. Los corticoides no sustituyen al timo, cuya involución es propia del envejecimiento."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "modular la hiperinflamación sistémica y mejorar la respuesta vascular a vasopresores.",
           "is_correct": true,
           "feedback": "Correcto. En sepsis con choque refractario, los corticoides modulan citocinas proinflamatorias y restauran la sensibilidad a catecolaminas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "aumentar la producción de anticuerpos específicos contra la bacteria causal.",
           "is_correct": false,
           "feedback": "Incorrecto. Los corticoides a dosis altas suprimen, no estimulan, la producción de anticuerpos específicos."
@@ -819,7 +819,7 @@
           "feedback": "Incorrecto. Los corticoides favorecen marginación y apoptosis de neutrófilos; no estimulan su función microbicida."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "En sepsis con choque que no responde a volumen ni vasopresores, las guías recomiendan hidrocortisona a dosis de estrés. Este glucocorticoide reduce la transcripción de citocinas proinflamatorias, estabiliza membranas y reincorpora receptores de vasopresores, mejorando la presión arterial. Su uso debe ser juicioso porque también aumenta el riesgo de infecciones secundarias.",
       "difficulty": "10",
       "images": [],
@@ -841,19 +841,19 @@
       "context": "En un foro de salud pública en Cartagena, expertos debaten la pertinencia de nuevas vacunas de ARN mensajero contra virus respiratorios.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "las de ARN inducen la producción endógena de la proteína antigénica sin riesgo de réplica viral, mientras que las atenuadas usan virus vivos con replicación controlada.",
           "is_correct": true,
           "feedback": "Correcto. Las vacunas de ARNm hacen que las células del vacunado fabriquen el antígeno; las atenuadas llevan virus vivos que se replican de forma limitada."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "las de ARN solo estimulan inmunidad celular y ninguna humoral.",
           "is_correct": false,
           "feedback": "Incorrecto. Las vacunas de ARNm también inducen anticuerpos neutralizantes y respuesta T CD8+, no solo inmunidad celular."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "las atenuadas carecen completamente de cualquier efecto secundario.",
           "is_correct": false,
           "feedback": "Incorrecto. Las vacunas atenuadas pueden causar cuadros leves y están contraindicadas en inmunosuprimidos, precisamente por su capacidad de replicación."
@@ -865,7 +865,7 @@
           "feedback": "Incorrecto. El ARNm vacunal no se integra al ADN ni se transmite a la línea germinal; se degrada en horas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las vacunas de ARN mensajero introducen en las células del vacunado una secuencia que codifica la proteína antigénica; el ARNm se traduce en el citoplasma sin entrar al núcleo y es degradado rápidamente. Esto genera una respuesta inmune robusta sin riesgo de integración genómica. Las atenuadas, en cambio, usan virus vivos con replicación limitada, lo que da larga inmunidad pero exige cuidados en inmunosuprimidos.",
       "difficulty": "10",
       "images": [],

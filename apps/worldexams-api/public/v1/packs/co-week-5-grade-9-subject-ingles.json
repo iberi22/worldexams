@@ -19,13 +19,13 @@
           "feedback": "Incorrect. \"Since\" requires the Present Perfect."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "have been",
           "is_correct": true,
           "feedback": "Correct! Present Perfect is used for actions in an unfinished period starting in the past."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "am going",
           "is_correct": false,
           "feedback": "Incorrect. This refers to the present or future arrangement."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect. Past Perfect is for an action before another past action."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para acciones que han ocurrido repetidamente desde un punto en el pasado hasta el presente, utilizamos el *Present Perfect*.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Reviewing future predictions.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "will be generating",
           "is_correct": true,
           "feedback": "Correct! Future Continuous describes an action that will be in progress or a standard situation in the future."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "have generated",
           "is_correct": false,
           "feedback": "Incorrect. This is Present Perfect."
@@ -129,7 +129,7 @@
           "feedback": "Incorrect. This is usually for fixed arrangements."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El *Futuro Continuo* se usa frecuentemente para proyectar situaciones que serán normales o estarán ocurriendo en un punto específico del futuro.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -157,13 +157,13 @@
           "feedback": "Incorrect. The continuous form is better to explain a present result of a recent activity."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "have been watching",
           "is_correct": true,
           "feedback": "Correct! Present Perfect Continuous explains a present state resulting from a recent continuous action."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "had watched",
           "is_correct": false,
           "feedback": "Incorrect. Past Perfect doesn't explain a current physical state as well."
@@ -175,7 +175,7 @@
           "feedback": "Incorrect. Simple present is for habits."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Usamos el *Presente Perfecto Continuo* para explicar por qué alguien tiene un aspecto determinado en el presente (ojos rojos) debido a una actividad reciente.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -203,13 +203,13 @@
           "feedback": "Incorrect. \"In 2020\" requires Past Simple."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "decided / have changed",
           "is_correct": true,
           "feedback": "Correct! Past Simple for the specific year and Present Perfect for the ongoing change."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "decided / changed",
           "is_correct": false,
           "feedback": "Incorrect. \"Since then\" requires Present Perfect."
@@ -221,7 +221,7 @@
           "feedback": "Incorrect. \"In 2020\" cannot be used with Present Perfect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Este ejercicio evalúa la capacidad de alternar entre un evento puntual en el pasado (*decided*) y un proceso que llega hasta hoy (*have changed*).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -341,13 +341,13 @@
           "feedback": "Incorrect. \"Started\" is a point, not a duration."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "I have been on a diet since three weeks.",
           "is_correct": false,
           "feedback": "Incorrect. \"Since\" needs a specific starting point (date/time), not a period."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "I have been on a diet for three weeks.",
           "is_correct": true,
           "feedback": "Correct! \"For\" is used for periods of time with Present Perfect."
@@ -359,7 +359,7 @@
           "feedback": "Incorrect. \"Ago\" is only for Past Simple."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "*For* se utiliza para indicar la duración de un periodo, mientras que *since* se usa para el punto de inicio. Ambas son fundamentales con el *Present Perfect*.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -433,25 +433,25 @@
           "feedback": "Incorrect. Correct use of Past Simple."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "had been using",
           "is_correct": false,
           "feedback": "Incorrect. Correct use of Past Perfect Continuous for duration before a past event."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "has advanced",
           "is_correct": false,
           "feedback": "Incorrect. Correct use of Present Perfect for recent changes."
         },
         {
-          "letter": "D",
+          "letter": "B",
           "text": "will have used",
           "is_correct": true,
           "feedback": "Correct! This should be Future Continuous (*will be using*) because it refers to the ongoing state in the future, not its completion."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": "El contexto sugiere que en el futuro el uso de la IA será una actividad continua y normal, por lo que el *Futuro Continuo* es más adecuado que el *Futuro Perfecto*.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -525,25 +525,25 @@
           "feedback": "Incorrect. Doesn't use the full range of B2 tenses."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "have affected / had happened / will be affecting",
           "is_correct": true,
           "feedback": "Correct! Present Perfect for recent impact, Past Perfect for the distant past, and Future Continuous for future influence."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "had affected / has happened / will have affected",
           "is_correct": false,
           "feedback": "Incorrect. Tenses are logically misplaced."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "affect / happen / affect",
           "is_correct": false,
           "feedback": "Incorrect. Too simple for B2 level."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Este ejercicio final requiere integrar los tres planos temporales (pasado, presente y futuro) usando las formas perfectas y continuas que caracterizan el nivel B2.",
       "difficulty": "10",
       "images": [],

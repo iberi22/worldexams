@@ -65,25 +65,25 @@
           "feedback": "El titular es el encabezado que resume la noticia, no un párrafo completo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Lead o entradilla.",
           "is_correct": true,
           "feedback": "El lead o entradilla es el primer párrafo que condensa los datos más relevantes del suceso."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cuerpo de la noticia.",
           "is_correct": false,
           "feedback": "El cuerpo es el desarrollo detallado de la información, que viene después de la entradilla."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Pie de foto.",
           "is_correct": false,
           "feedback": "El pie de foto es el texto que acompaña y explica una imagen."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La noticia suele seguir una estructura de \"pirámide invertida\". El lead o entradilla es el componente esencial que presenta el núcleo de la información, permitiendo al lector enterarse de lo principal desde el comienzo.",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "Un editor le dice a un periodista joven en Cali: \"Tu texto es bueno, pero tiene demasiados tecnicismos médicos para una noticia de interés general sobre la salud\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La brevedad absoluta.",
           "is_correct": false,
           "feedback": "El editor no se refiere al tamaño del texto, sino al vocabulario utilizado."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La precisión terminológica.",
           "is_correct": false,
           "feedback": "Aunque la precisión es importante, el exceso de tecnicismos atenta contra la accesibilidad."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "La adecuación al público.",
           "is_correct": true,
           "feedback": "El lenguaje periodístico debe adaptarse para que sea comprendido por personas que no son expertas en el tema."
@@ -175,7 +175,7 @@
           "feedback": "El problema señalado no es la falta de creatividad, sino la dificultad del lenguaje."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La adecuación es el principio por el cual el emisor selecciona el registro lingüístico apropiado según el receptor y el canal. En el periodismo, esto implica usar un lenguaje accesible sin perder el rigor.",
       "difficulty": "6",
       "images": [],
@@ -249,13 +249,13 @@
           "feedback": "\"Injusto\" es un adjetivo calificativo muy subjetivo que toma una posición."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Incremento en la tarifa del transporte público en Bucaramanga provoca protestas.",
           "is_correct": true,
           "feedback": "Esta opción relata los hechos (el incremento y las protestas) sin adjetivos subjetivos como \"polémico\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Terrible noticia para los usuarios del transporte en Bucaramanga por alza de precios.",
           "is_correct": false,
           "feedback": "\"Terrible noticia\" es una valoración emocional que no es neutral."
@@ -267,7 +267,7 @@
           "feedback": "Aunque es neutral, es demasiado vaga al no especificar que es un aumento ni la reacción social."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La objetividad se logra mediante la selección de sustantivos y verbos precisos, evitando adjetivos que expresen la opinión del periodista. En este caso, \"polémico\" es una valoración, mientras que \"provoca protestas\" es un hecho verificable.",
       "difficulty": "8",
       "images": [],
@@ -295,13 +295,13 @@
           "feedback": "Es al revés, el enunciado 2 es el que aporta el marcador y el minuto."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El enunciado 1 utiliza un lenguaje valorativo, mientras que el 2 es puramente informativo.",
           "is_correct": true,
           "feedback": "\"Sufrida\", \"heroica\" y \"formidable\" son valoraciones; el 2 solo da los hechos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El enunciado 2 busca emocionar al lector mediante el uso de metáforas.",
           "is_correct": false,
           "feedback": "El enunciado 2 es seco y factual, no usa metáforas."
@@ -313,7 +313,7 @@
           "feedback": "Sí hay diferencia en el enfoque y el tipo de palabras elegidas (valorativas vs. neutras)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El análisis de textos periodísticos permite distinguir entre información (hechos comprobables) y opinión o interpretación (valoraciones del emisor). El periodismo deportivo suele mezclar ambas, pero es importante saber diferenciarlas.",
       "difficulty": "8",
       "images": [],
@@ -341,25 +341,25 @@
           "feedback": "Aunque el problema es real, la forma de expresarlo incluye una demanda y una advertencia subjetiva."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Se aleja del informativo al usar formas imperativas y juicios de valor sobre la urgencia del tema.",
           "is_correct": true,
           "feedback": "El uso de \"es imperativo\" y \"antes de que sea tarde\" refleja la posición y la exhortación del autor."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es incorrecta gramaticalmente para el periodismo porque usa la primera persona implícita.",
           "is_correct": false,
           "feedback": "No es incorrecta; en el periodismo de opinión es válido expresar posturas personales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Carece de rigor periodístico porque no cita una fuente estadística inmediata.",
           "is_correct": false,
           "feedback": "Las columnas de opinión no siempre requieren citas estadísticas en cada frase, su valor es el argumento."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El lenguaje periodístico varía según el género. Mientras la noticia busca la distancia, la columna de opinión utiliza un lenguaje persuasivo y exhortativo, empleando recursos para convencer al lector de una postura determinada.",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "Considera el impacto de las redes sociales en el lenguaje periodístico actual. Muchos medios ahora usan titulares conocidos como \"clickbait\" (anzuelo de clics), por ejemplo: \"No creerás lo que pasó en este barrio de Cali, haz clic para saber más\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que son demasiado largos y cansan al lector.",
           "is_correct": false,
           "feedback": "Generalmente son cortos, el problema no es la longitud."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que sacrifican la claridad informativa por la curiosidad morbosa, ocultando los datos clave.",
           "is_correct": true,
           "feedback": "El \"clickbait\" atenta contra la función principal de informar de manera clara y directa desde el titular."
@@ -405,7 +405,7 @@
           "feedback": "No son ilegales, pero sí son cuestionados desde la ética profesional del periodismo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El lenguaje periodístico debe ser honesto. El clickbait distorsiona la promesa informativa al omitir el \"qué\" para forzar una interacción, lo cual degrada la función social del periodismo.",
       "difficulty": "10",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "Un medio de comunicación nacional decide cubrir una protesta social. Un periodista redacta: \"La turba violenta bloqueó las vías principales, impidiendo el libre derecho a la movilidad de los ciudadanos trabajadores\". Otro periodista escribe: \"Manifestantes cerraron las avenidas como medida de presión para exigir mejoras laborales al Gobierno\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El primer texto es el único correcto porque describe la violencia de los hechos.",
           "is_correct": false,
           "feedback": "\"Turba violenta\" es una etiqueta cargada que puede no ser representativa de toda la protesta."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El segundo texto es incorrecto porque no defiende los derechos de los ciudadanos.",
           "is_correct": false,
           "feedback": "El periodismo no debe \"defender\" bandos, sino informar con neutralidad los hechos."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Ambos textos demuestran que la elección del léxico puede sesgar la percepción del lector sobre un mismo hecho.",
           "is_correct": true,
           "feedback": "Palabras como \"turba\" frente a \"manifestantes\" o \"violenta\" frente a \"medida de presión\" crean marcos mentales distintos."
@@ -451,7 +451,7 @@
           "feedback": "Los adjetivos son herramientas poderosas que pueden orientar la opinión del lector de manera sutil o directa."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La evaluación crítica del lenguaje periodístico implica reconocer que las palabras no son neutras. El uso de términos con connotaciones negativas o positivas revela la línea editorial del medio o los prejuicios del periodista.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación | Notas |\n| :--- | :---: | :--- |\n| Técnico | 30/30 | Cumple con el protocolo v5.2 y la estructura solicitada. |\n| Curricular | 40/40 | Alineado con los temas de lenguaje periodístico para grado 7. |\n| Contexto | 20/20 | Uso adecuado de contextos colombianos (Bogotá, Medellín, Cali, El Espectador). |\n| Redacción | 10/10 | Lenguaje claro y adaptado al nivel educativo. |\n| **Total** | **100/100** | |",
       "difficulty": "10",
       "images": [],

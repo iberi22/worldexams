@@ -13,13 +13,13 @@
       "context": "Identifying a completed action in the past.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "go",
           "is_correct": false,
           "feedback": "Incorrect. We need the past form for \"last year\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "went",
           "is_correct": true,
           "feedback": "Correct! \"Went\" is the irregular past of \"go\"."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect. We use Past Simple for completed actions at a specific time."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El Pasado Simple se utiliza para acciones que comenzaron y terminaron en un momento específico del pasado (como \"last year\").\n\n---",
       "difficulty": "4",
       "images": [],
@@ -71,19 +71,19 @@
           "feedback": "Incorrect. After \"didn't\", we use the base form, not the past form."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "didn't do",
           "is_correct": true,
           "feedback": "Correct! \"Didn't\" + base form is the correct negative structure."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "don't do",
           "is_correct": false,
           "feedback": "Incorrect. This is present tense, but the context is \"yesterday\"."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Para formar oraciones negativas en el Pasado Simple, usamos el auxiliar \"didn't\" (did not) seguido del verbo en su forma base.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Describing an action in progress in the past.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "watched",
           "is_correct": false,
           "feedback": "Incorrect. This would be a completed action, but the specific time implies progress."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "was watching",
           "is_correct": true,
           "feedback": "Correct! Past Continuous describes an action in progress at a specific past moment."
@@ -129,7 +129,7 @@
           "feedback": "Incorrect. \"I\" takes \"was\", not \"were\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El Pasado Continuo (was/were + -ing) se usa para describir acciones que estaban ocurriendo en un momento específico del pasado.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "Interrupted actions in the past.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "played",
           "is_correct": false,
           "feedback": "Incorrect. \"Played\" implies a completed action, but the context shows an interruption."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "were playing",
           "is_correct": true,
           "feedback": "Correct! The action in progress (playing) is interrupted by another action (raining)."
@@ -175,7 +175,7 @@
           "feedback": "Incorrect. \"We\" is plural and requires \"were\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Cuando una acción prolongada en el pasado (Pasado Continuo) es interrumpida por otra acción corta (Pasado Simple), usamos \"when\" para conectarlas.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Asking questions about past activities.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Did / go",
           "is_correct": true,
           "feedback": "Correct! \"Did\" + base form is the correct structure for past questions."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Were / go",
           "is_correct": false,
           "feedback": "Incorrect. \"Were\" is not used with base verbs in questions."
@@ -221,7 +221,7 @@
           "feedback": "Incorrect. This is present, but the context is \"last weekend\"."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las preguntas en el Pasado Simple comienzan con el auxiliar \"Did\", seguido del sujeto y el verbo en su forma base.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -249,25 +249,25 @@
           "feedback": "Incorrect. This is a historical event in the past."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "was",
           "is_correct": true,
           "feedback": "Correct! \"Was\" is the past of \"is\" for singular subjects."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "were",
           "is_correct": false,
           "feedback": "Incorrect. \"The Battle\" is singular."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "been",
           "is_correct": false,
           "feedback": "Incorrect. \"Been\" is a past participle and needs an auxiliary."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Para hechos históricos o biografías, usamos el Pasado Simple. \"Was\" y \"were\" son las formas pasadas del verbo \"to be\".\n\n---",
       "difficulty": "6",
       "images": [],
@@ -295,25 +295,25 @@
           "feedback": "Incorrect. Usually, \"while\" suggests two continuous actions."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "was cooking / was setting",
           "is_correct": true,
           "feedback": "Correct! Both actions were happening at the same time."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "cooks / sets",
           "is_correct": false,
           "feedback": "Incorrect. This is present, but the context is past."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "is cooking / is setting",
           "is_correct": false,
           "feedback": "Incorrect. Present Continuous in a past context."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Usamos el Pasado Continuo en ambas partes de la oración cuando dos acciones estaban ocurriendo simultáneamente en el pasado, usualmente conectadas por \"while\".\n\n---",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "Distinguishing between background information and main events.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "1 and 2",
           "is_correct": true,
           "feedback": "Correct! Past Continuous sets the scene or background."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Only 3",
           "is_correct": false,
           "feedback": "Incorrect. Decided is the main action that happened."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1 and 3",
           "is_correct": false,
           "feedback": "Incorrect. Decided is not part of the background atmosphere."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "All of them",
           "is_correct": false,
           "feedback": "Incorrect. There is a clear distinction between background and main action."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En la narración, el Pasado Continuo se utiliza para \"pintar el escenario\" (la atmósfera de fondo), mientras que el Pasado Simple se usa para las acciones principales que ocurren.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "Identifying the correct sequence of events.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "I was eating when the phone rang.",
           "is_correct": false,
           "feedback": "Incorrect. This is an interruption, not a sequence."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "I got up, brushed my teeth, and had breakfast.",
           "is_correct": true,
           "feedback": "Correct! These are sequential actions in the past."
@@ -405,7 +405,7 @@
           "feedback": "Incorrect. This is a single continuous state."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Para narrar una serie de acciones cortas que ocurrieron una tras otra en el pasado, usamos una lista de verbos en Pasado Simple.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -479,25 +479,25 @@
           "feedback": "Incorrect. Too informal."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "I sincerely apologize for the delay; I was experiencing some technical issues yesterday.",
           "is_correct": true,
           "feedback": "Correct! Formal, clear, and uses Past Continuous to explain context."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "I didn't did it on purpose, so don't be mad.",
           "is_correct": false,
           "feedback": "Incorrect. Grammatically wrong and too informal."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "I am sorry I am not doing the work last week.",
           "is_correct": false,
           "feedback": "Incorrect. Uses present continuous for a past event."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En el nivel B1, se espera que el estudiante pueda elegir el tono adecuado (formal/informal) y usar estructuras gramaticales precisas para justificar acciones pasadas.\n\n---",
       "difficulty": "10",
       "images": [],

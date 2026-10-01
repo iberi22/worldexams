@@ -59,31 +59,31 @@
       "context": "En un mapa del barrio donde vive Valentina en Bogotá, el parque está ubicado 3 cuadras al este y 2 al norte de su casa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "(3, 2), donde 3 corresponde al eje x (este) y 2 al eje y (norte).",
           "is_correct": true,
           "feedback": "El primer número del par ordenado es la coordenada en x y el segundo en y."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "(2, 3), porque 2 es el desplazamiento vertical.",
           "is_correct": false,
           "feedback": "El orden (x, y) es fijo: primero el horizontal, luego el vertical."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "(-3, -2), porque está al este y al norte.",
           "is_correct": false,
           "feedback": "Al este y al norte los valores son positivos, no negativos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "(0, 0), porque se parte del origen.",
           "is_correct": false,
           "feedback": "El origen es la casa, no el parque."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Todo punto en el plano cartesiano se representa mediante un par ordenado (x, y). El primer valor indica el desplazamiento horizontal y el segundo el vertical. El orden es estricto: cambiarlo lleva a un punto diferente.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En un taller de dibujo en Cali, los estudiantes marcan los siguientes puntos sobre una cuadrícula: A(2, 3), B(-2, 3), C(-2, -3) y D(2, -3).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Un rectángulo, porque los lados son paralelos a los ejes y los cuatro ángulos son rectos.",
           "is_correct": true,
           "feedback": "Las coordenadas comparten valores en x o en y, formando lados paralelos a los ejes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un rombo, porque todos los lados miden igual.",
           "is_correct": false,
           "feedback": "Los lados horizontales miden 4, pero los verticales solo 6; no es un rombo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un triángulo, porque el orden de los puntos no cierra una figura.",
           "is_correct": false,
           "feedback": "Los cuatro puntos, unidos en orden, cierran una figura de cuatro lados."
@@ -129,7 +129,7 @@
           "feedback": "El círculo no tiene esquinas; la figura tiene cuatro vértices rectos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Cuando dos puntos comparten coordenada en x (línea vertical) y otros dos comparten coordenada en y (línea horizontal), se obtienen segmentos paralelos a los ejes. La figura resultante es un rectángulo cuyas dimensiones son las diferencias en x y en y.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "En un plano de Bucaramanga se localizan tres bibliotecas públicas: B1 en (1, 4), B2 en (-1, 4) y B3 en (0, -2).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Son simétricas respecto al eje y porque están a igual distancia (1 unidad) y a la misma altura (y = 4).",
           "is_correct": true,
           "feedback": "B1(1,4) y B2(-1,4) son reflexiones en el eje y."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Son puntos idénticos porque comparten coordenada.",
           "is_correct": false,
           "feedback": "B1 y B2 son distintos porque sus abscisas son diferentes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Están alineadas verticalmente, una sobre la otra.",
           "is_correct": false,
           "feedback": "Comparten la ordenada, pero sus abscisas difieren; están a la misma altura, no alineadas verticalmente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No guardan ninguna relación especial.",
           "is_correct": false,
           "feedback": "Existe simetría respecto al eje y; eso es una relación geométrica precisa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Dos puntos son simétricos respecto al eje y cuando tienen la misma ordenada y abscisas opuestas. Esta propiedad es clave para entender reflexiones, plegados y figuras geométricas construidas por simetría, frecuentes en arte, arquitectura y diseño.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Un equipo de cartógrafos juveniles en Bogotá debe decidir dónde ubicar el punto de inicio (origen) del plano de su barrio. Algunos proponen la plaza central, otros la esquina noroeste y otros un semáforo en una avenida principal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Elegir un punto de referencia estable, fácilmente localizable y desde el cual todas las direcciones (positivas y negativas) tengan sentido lógico.",
           "is_correct": true,
           "feedback": "Un buen origen debe ser fijo, reconocible y permitir coordenadas positivas y negativas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Elegir siempre el extremo superior derecho del mapa.",
           "is_correct": false,
           "feedback": "Ubicarlo en una esquina limita el uso de valores negativos y dificulta la lectura."
@@ -359,7 +359,7 @@
           "feedback": "Eso generaría coordenadas muy grandes y poco prácticas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El origen (0, 0) puede elegirse en cualquier punto del plano, pero su selección impacta la utilidad del mapa. Un buen origen es estable (no cambia con el tiempo), reconocible (una plaza, un cruce, un monumento) y permite organizar el territorio de manera coherente con valores positivos y negativos.",
       "difficulty": "10",
       "images": [],

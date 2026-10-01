@@ -70,19 +70,19 @@
           "feedback": "Incorrecto. Ad ignorantiam ocurre cuando se afirma que algo es verdadero solo porque no se ha demostrado su falsedad."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Falacia de ataque a la persona (ad hominem)",
           "is_correct": true,
           "feedback": "Correcto. La falacia ad hominem desvía la atención del debate real atacando directamente la credibilidad, origen o conducta moral del oponente para desacreditar su tesis sin analizarla."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Falacia de apelación al pueblo (ad populum)",
           "is_correct": false,
           "feedback": "Incorrecto. Ad populum busca convencer apelando al sentimiento, prejuicio o supuesta mayoría de la multitud."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La falacia ad hominem es un recurso retórico muy común que invalida el debate honesto al sustituir la refutación objetiva de premisas por la descalificación personal del emisor.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Un estudiante de Trujillo analiza un discurso de opinión sobre el uso de la energía solar en el norte peruano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Falacia de apelación a la ignorancia; porque asume que la energía solar no existe en el Perú",
           "is_correct": false,
           "feedback": "Incorrecto. El autor no habla sobre la existencia científica de la energía solar, sino sobre el congresista."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Falacia ad hominem; deforma el debate técnico de la energía solar al atacar la conducta familiar privada del proponente",
           "is_correct": true,
           "feedback": "Correcto. El autor ataca un defecto moral personal del congresista (pensión de alimentos) para desacreditar una ley de energía solar totalmente ajena a su vida familiar, distorsionando la validez fáctica y técnica del proyecto de ley."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. No caricaturiza o deforma la propuesta de la ley; se enfoca en descalificar moralmente al congresista."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Atacar la vida íntima o familiar de un legislador para invalidar la viabilidad o utilidad de sus propuestas de infraestructura pública es un ejemplo paradigmático de la falacia ad hominem (ataque a la persona).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,19 +193,19 @@
       "context": "Se estudia la falacia de apelación al pueblo (ad populum) en debates sobre transporte informal en Lima.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque miente sobre el número de personas que usan los colectivos informales en Lima Norte",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque el dato numérico sea alto, el error lógico no es la veracidad del uso, sino la conclusión de calidad del servicio."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Porque el Ministerio de Transportes prohíbe el uso de la palabra 'colectivo' en discursos públicos",
           "is_correct": false,
           "feedback": "Incorrecto. El Ministerio no prohíbe palabras; la inconsistencia es de naturaleza argumentativa lógica."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Porque asume erróneamente que la preferencia masiva o uso popular de un servicio demuestra su seguridad y legalidad, invisibilizando los problemas de informalidad y riesgo real de accidentes",
           "is_correct": true,
           "feedback": "Correcto. El hecho de que muchas personas usen un transporte por necesidad de traslado rápido (debido a la crisis de transporte) no demuestra lógicamente que el servicio sea seguro, eficiente o legal. Asociar verdad o bondad a la opinión de la multitud define a la falacia ad populum."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. La validez no depende de citar expertos extranjeros de forma obligatoria, sino de no forzar la conclusión en base a mayorías de uso."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La falacia ad populum (o apelación a la multitud) concluye que una idea es buena, correcta o verdadera basándose exclusivamente en que cuenta con la aprobación o el uso masivo de la mayoría, ocultando las deficiencias técnicas u éticas reales del fenómeno.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -250,19 +250,19 @@
           "feedback": "Incorrecto. La química es una ciencia experimental de alta jerarquía académica y científica."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Comete la falacia ad verecundiam; porque apela al prestigio de un científico en química para validar una afirmación sobre medicina y nutrición infantil, un área ajena a su especialidad científica directa",
           "is_correct": true,
           "feedback": "Correcto. Un premio Nobel de Química es autoridad en su campo exacto (química molecular, enlaces, etc.), pero su opinión sobre pediatría, nutrición o prevención inmunológica infantil no posee el mismo rango especializado, constituyendo una apelación indebida a la autoridad por fuera de su campo real de conocimiento."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que los premios Nobel de Química tienen prohibido conceder entrevistas sobre alimentos de origen andino",
           "is_correct": false,
           "feedback": "Incorrecto. No existen prohibiciones jurídicas o científicas internacionales que impidan a los científicos dar entrevistas sobre granos andinos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La falacia ad verecundiam ocurre cuando se defiende una conclusión apelando a la autoridad de un personaje famoso o experto de renombre en un campo ajeno al tema en debate, pretendiendo que su prestigio general blinde sus opiniones particulares.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,13 +424,13 @@
           "feedback": "Incorrecto. El columnista no ataca el sueldo de los científicos; los califica de 'respetables e irracionales' de forma general."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Falacia ad ignorantiam; porque asume que el río Rímac no desemboca en el océano Pacífico",
           "is_correct": false,
           "feedback": "Incorrecto. El curso geográfico del río es irrelevante para el error de lógica de equilibrar las posturas de contaminación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Falacia de la falsa equivalencia (o falso equilibrio); al equiparar de forma injustificada dos posturas con niveles de evidencia y rigor empírico abismalmente desiguales, presentándolas como simétricas",
           "is_correct": true,
           "feedback": "Correcto. La falsa equivalencia ocurre cuando se pretende dar igual peso o autoridad a un postulado avalado por estudios empíricos científicos y replicables (los científicos) y a otro sustentado solo en la negación corporativa interesada (la empresa sin muestras), forzando un punto medio imparcial que deforma la realidad científica."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. No apela a mayorías de consumo de pescado andino o de río para defender su tesis."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El afán de simetría o imparcialidad periodística mal entendida conduce a menudo a la falacia de falsa equivalencia. Equiparar la ciencia empírica contrastada con la mera opinión o desinformación no es objetividad, sino un sesgo de falso equilibrio que perjudica la comprensión pública del problema de salud.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -475,19 +475,19 @@
           "feedback": "Incorrecto. No deforma los ingredientes de la infusión, sino la consecuencia regulatoria municipal."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Falacia de la pendiente resbaladiza; al argumentar que una medida reguladora menor (empadronar emolienteros) conducirá ineludiblemente al colapso legal total de la provincia, infundiendo temor infundado en el auditorio",
           "is_correct": true,
           "feedback": "Correcto. El vecino conecta de forma espuria un empadronamiento legal con el tráfico de tierras y mafias, proyectando un escenario catastrófico sin nexos de causalidad válidos o lógicos, típico de la pendiente resbaladiza."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Falacia ad hominem; al revelar que el alcalde compró un automóvil importado en lugar de usar bicicleta",
           "is_correct": false,
           "feedback": "Incorrecto. No ataca la vida privada o moral del alcalde en este fragmento de discurso vecinal."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La pendiente resbaladiza desvía la discusión fáctica hacia la emoción del miedo. En lugar de evaluar la conveniencia o viabilidad de empadronar a los emolienteros, se arrastra al auditorio a un apocalipsis de delincuencia ficticio.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -514,25 +514,25 @@
           "feedback": "Incorrecto. No se comparan desastres de distinta índole volcánica en la frase analizada."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Falacia de apelación a la ignorancia (ad ignorantiam); al pretender que la falta de predicción del día exacto (ignorancia temporal) valida la inutilidad de instalar sistemas científicos de alerta preventivos de lluvias",
           "is_correct": true,
           "feedback": "Correcto. Sostiene que como no se sabe el día preciso de caída (ausencia de demostración perfecta de un detalle temporal), entonces la prevención general de lluvias es inútil. Esto atenta contra la lógica de gestión de riesgos, donde los sistemas de alerta salvan vidas al medir variaciones de humedad en tiempo real."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Falacia del espantapájaros; porque caricaturiza al Ministerio de Economía presentándolo como un banco privado",
           "is_correct": false,
           "feedback": "Incorrecto. No se deforma el perfil del Ministerio; se desvaloriza la ciencia de prevención basándose en un vacío de predicción absoluta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Falacia ad populum; porque asume que todos los pobladores de Chosica se oponen a las alertas de lluvias",
           "is_correct": false,
           "feedback": "Incorrecto. No basa su razonamiento de rechazo en la opinión o preferencia de los vecinos del distrito."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La falacia ad ignorantiam en discursos preventivos suele usarse de forma dañina: alegar que como no hay certeza absoluta e infalible del microdetalle de un evento, entonces toda inversión científica de protección colectiva es un desperdicio, bloqueando la reducción de riesgos de desastres.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Incorrecto. El ataque no se dirige a las finanzas privadas de Arguedas, sino a la propuesta cultural indigenista de forma caricaturesca."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Falacia del espantapájaros; porque deforma, caricaturiza y simplifica de forma ridícula la tesis indigenista (que abogaba por la modernidad respetando la identidad cultural), presentándola como un deseo absurdo de atraso medieval forzado",
           "is_correct": true,
           "feedback": "Correcto. El indigenismo arguediano o de Mariátegui jamás propuso aislar al indígena o prohibir la tecnología; defendía la interculturalidad (modernidad simétrica). Los detractores construyeron un 'espantapájaros' (el indigenismo como retorno al neolítico) para atacarlo de forma fácil y burda ante el público costeño ilustrado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Falacia ad ignorantiam; porque asume que en los Andes no existen ponchos de lana de oveja",
           "is_correct": false,
           "feedback": "Incorrecto. Los ponchos existen y son parte de la cultura, pero el error no reside en el dato textil, sino en la caricaturización de la propuesta política."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. El argumento no analiza la causa física de la desaparición de ritos, sino que atribuye un deseo de atraso absurdo al indigenismo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La falacia del espantapájaros deforma deliberadamente los postulados de la corriente contraria (indigenismo, socialismo, ecologismo) para evitar discutir la demanda real de justicia, presentándola ante la opinión pública como una utopía anacrónica o absurda.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Incorrecto. El error no es apelar a la opinión de la multitud sobre los soldados, sino el diseño trunco de alternativas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Falacia ad hominem; al atacar moralmente los antecedentes penales de los delincuentes locales",
           "is_correct": false,
           "feedback": "Incorrecto. No realiza un ataque personal a un oponente específico para desviar una propuesta técnica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Falacia del falso dilema (o falsa dicotomía); al reducir de manera tramposa el problema complejo de la seguridad a solo dos alternativas extremas y excluyentes, forzando al oyente a elegir la postura del autor ante el miedo a la catástrofe",
           "is_correct": true,
           "feedback": "Correcto. El falso dilema oculta de forma deliberada que existen múltiples vías, estrategias y políticas intermedias para combatir la delincuencia (ej. mejorar la inteligencia policial, patrullaje integrado municipal, iluminación, prevención social), obligando de manera tramposa a elegir el patrullaje militarizado como única opción ante la rendición total."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. La falacia del falso dilema se caracteriza por el diseño restrictivo de las opciones iniciales, no por los medios de transporte de la marina."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La falacia del falso dilema (o falsa bifurcación) es una técnica de manipulación discursiva muy eficaz en contextos de crisis o miedo. Reduce artificialmente las opciones de un problema multifactorial a solo dos caminos opuestos, donde el camino rechazado es tan catastrófico que empuja al receptor a abrazar sin objeciones la propuesta extrema del orador.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -700,19 +700,19 @@
           "feedback": "Incorrecto. Elegir expresarse en una lengua nativa es un acto lingüístico soberano y no se asocia al sesgo de confirmación."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Busca, acepta y comparte únicamente aquellas informaciones o noticias de opinión que confirman y respaldan sus propios prejuicios ideológicos preexistentes, ignorando de manera deliberada las evidencias que los contradicen",
           "is_correct": true,
           "feedback": "Correcto. El sesgo de confirmación es la tendencia cognitiva a privilegiar los datos que ratifican las opiniones del sujeto. En redes sociales, esto conduce a la creación de burbujas informativas (cámaras de eco) donde se multiplican las noticias falsas por falta de contrastación crítica."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Exige que el Ministerio de Educación reestructure el plan de estudios escolares de la costa de forma democrática",
           "is_correct": false,
           "feedback": "Incorrecto. Exigir reformas al plan escolar es una postura política cívica; no constituye la definición técnica de este sesgo cognitivo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El sesgo de confirmación atenta contra el pensamiento crítico y la coherencia argumentativa. Al automatizar la aceptación de discursos afines y censurar la disidencia fáctica, el ciudadano pierde la capacidad de contrastar fuentes y evaluar la solidez de las evidencias en el debate público.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -835,19 +835,19 @@
           "feedback": "Incorrecto. La omisión de citar leyes internacionales no es la falla lógica de petición de principio."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Incurre en petición de principio (razonamiento circular); al pretender demostrar la justicia e ineludible necesidad del despido libre utilizando como argumento y prueba de su tesis la propia definición reformulada del despido libre",
           "is_correct": true,
           "feedback": "Correcto. La petición de principio o círculo vicioso ocurre cuando la tesis que se pretende demostrar se incluye de manera implícita o explícita en las premisas de la argumentación (afirma que el despido libre es justo porque permite despedir de forma justa, y que es motor porque es motor). El argumento gira sobre sí mismo sin aportar evidencias o datos empíricos externos que validen la premisa inicial."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Aplica de forma incorrecta el gerundio de posterioridad en el verbo 'rescindir' afectando la sintaxis del párrafo",
           "is_correct": false,
           "feedback": "Incorrecto. No hay un mal uso de gerundios en la frase; el error es puramente lógico-argumental de carácter circular."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La petición de principio (o petitio principii) es una de las falacias lógicas más difíciles de detectar para el lector desatento. Consiste en reformular con sinónimos o giros verbales la propia conclusión que se desea probar, presentándola de forma fraudulenta como si fuera la premisa explicativa o evidencia demostrativa de la tesis.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -874,13 +874,13 @@
           "feedback": "Incorrecto. Dejar de sancionar las falacias no erradica las jergas; al contrario, puede multiplicar discursos polarizados de bajo registro."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La obligación de que todos los peruanos aprendan a debatir bajo las reglas del latín clásico del virreinato",
           "is_correct": false,
           "feedback": "Incorrecto. Las reglas de argumentación no obligan a retornar a la lengua muerta de la colonia de forma alguna."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La desintegración del debate democrático racional, la normalización de prejuicios discriminatorios mediante la demagogia persuasiva y la atrofia del pensamiento crítico ciudadano frente a las desigualdades del país",
           "is_correct": true,
           "feedback": "Correcto. Tolerar o no deconstruir las falacias (como el falso dilema, ad hominem o el espantapájaros) permite que la posverdad y la demagogia colonicen el espacio público. Esto facilita la propagación de estereotipos racistas, raciocinios excluyentes y odios sociales dirigidos a minorías o sectores marginados (ej. indios, migrantes), destruyendo la posibilidad de un diálogo intercultural simétrico y socavando los cimientos de la convivencia democrática republicana."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Las exportaciones de metales pesados no dependen directamente de la deconstrucción ética de falacias sobre racismo en medios locales."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La alfabetización argumentativa es una defensa de la democracia. Develar las falacias del discurso del poder y de los medios evita la manipulación colectiva de los ciudadanos, permitiendo construir debates de políticas basados en hechos objetivos, rigor moral y sensibilidad intercultural andina y amazónica.",
       "difficulty": "10",
       "images": [],

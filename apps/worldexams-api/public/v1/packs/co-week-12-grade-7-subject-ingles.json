@@ -65,25 +65,25 @@
           "feedback": "Incorrect. If the verb already ends in 'e', you only add 'd'."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "danced",
           "is_correct": true,
           "feedback": "Correct! We just add 'd' to verbs ending in 'e'."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "dancied",
           "is_correct": false,
           "feedback": "Incorrect. This spelling change is for verbs ending in consonant + y."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "dancen",
           "is_correct": false,
           "feedback": "Incorrect. This is not a past tense form for this verb."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student remembers the specific spelling rule for regular verbs ending in 'e'.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -111,13 +111,13 @@
           "feedback": "Incorrect. This is present tense."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "played",
           "is_correct": true,
           "feedback": "Correct! \"Played\" is the past simple of the regular verb \"play\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "plaied",
           "is_correct": false,
           "feedback": "Incorrect. Since \"play\" ends in vowel + y, we don't change 'y' to 'i'."
@@ -129,7 +129,7 @@
           "feedback": "Incorrect. This is the continuous form."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student understands the use of the past tense suffix with a regular verb in a sentence with a past time marker (Last Saturday).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -203,25 +203,25 @@
           "feedback": "Incorrect. Present tense."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "watched",
           "is_correct": true,
           "feedback": "Correct! Past simple of the regular verb \"watch\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "watches",
           "is_correct": false,
           "feedback": "Incorrect. Present tense for third person singular."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "watching",
           "is_correct": false,
           "feedback": "Incorrect. Present continuous."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student applies the past simple rule to a regular verb within a coherent sentence.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -249,13 +249,13 @@
           "feedback": "Incorrect. She visited her grandparents."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "She helped her grandmother.",
           "is_correct": true,
           "feedback": "Correct! The text says \"She helped her grandmother in the garden\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "She studied for a test.",
           "is_correct": false,
           "feedback": "Incorrect. This is not mentioned."
@@ -267,7 +267,7 @@
           "feedback": "Incorrect. She talked with him."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student applies reading skills to identify specific actions expressed in the regular past tense.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Spelling rules for verbs ending in 'y'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "studyed",
           "is_correct": false,
           "feedback": "Incorrect. Spelling error."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "studied",
           "is_correct": true,
           "feedback": "Correct! Change 'y' to 'i' and add 'ed' for verbs ending in consonant + y."
@@ -313,7 +313,7 @@
           "feedback": "Incorrect. Missing the 'i'."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student applies the specific spelling rule for regular verbs ending in consonant + \"y\" in the past tense.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -341,25 +341,25 @@
           "feedback": "Incorrect. \"Wash\" should be in the past: \"washed\"."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Last night I washed my car and cleaned my house.",
           "is_correct": true,
           "feedback": "Correct! Both verbs are correctly conjugated in the past."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Last night I washed my car and clean my house.",
           "is_correct": false,
           "feedback": "Incorrect. Both verbs must be in the past tense to maintain consistency."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Last night I washing my car and cleaning my house.",
           "is_correct": false,
           "feedback": "Incorrect. Continuous forms without \"was/were\" are incomplete and don't fit a finished action."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student analyzes the consistency of verb tenses within a compound sentence describing past events.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,13 +387,13 @@
           "feedback": "Incorrect. For CVC verbs, the last consonant must be doubled."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "stopped",
           "is_correct": true,
           "feedback": "Correct! Double the 'p' before adding -ed."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "stopied",
           "is_correct": false,
           "feedback": "Incorrect. This is only for 'y' endings."
@@ -405,7 +405,7 @@
           "feedback": "Incorrect. This is the present continuous."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student analyzes the spelling rule for doubling consonants in regular past tense verbs with a CVC pattern.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -439,19 +439,19 @@
           "feedback": "Incorrect. They visited \"many museums\"."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "They arrived late, stayed for a few days, and explored the city.",
           "is_correct": true,
           "feedback": "Correct! 10:00 PM is late, three days is a few days, and museums/walking are exploring."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "They hated the trip.",
           "is_correct": false,
           "feedback": "Incorrect. It says \"the best trip ever\"."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "The student evaluates the information in a past tense narrative to determine the most accurate summary of events.",
       "difficulty": "10",
       "images": [],

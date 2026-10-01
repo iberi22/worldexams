@@ -13,19 +13,19 @@
       "context": "En la ciclovía dominical de Bogotá, sobre la carrera Séptima, un profesor marca con tiza el punto de partida y el punto de llegada de un niño en patineta para explicar el movimiento.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La posición indica el lugar respecto a un punto de referencia y el desplazamiento es el cambio entre la posición final y la inicial.",
           "is_correct": true,
           "feedback": "Correcta, porque define posición como ubicación y desplazamiento como cambio de posición."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La posición es la velocidad de la patineta y el desplazamiento es el tiempo que tarda.",
           "is_correct": false,
           "feedback": "Incorrecta, porque velocidad y tiempo son magnitudes distintas de la posición y el desplazamiento."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La posición es la distancia total recorrida y el desplazamiento es la rapidez del recorrido.",
           "is_correct": false,
           "feedback": "Incorrecta, porque confunde distancia recorrida con ubicación y rapidez con cambio de posición."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecta, porque la posición es un punto y el desplazamiento es el cambio entre dos puntos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La posición describe dónde está un objeto frente a un origen, mientras el desplazamiento mide cuánto y hacia dónde cambió de lugar. En la ciclovía, el punto de partida es la posición inicial y la flecha hasta la llegada representa el desplazamiento.",
       "difficulty": "4",
       "images": [],
@@ -65,25 +65,25 @@
           "feedback": "Incorrecta, porque el color no influye en la rapidez física del movimiento."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Porque la rapidez media divide la distancia entre el tiempo empleado, y al variar el tiempo cambia el resultado.",
           "is_correct": true,
           "feedback": "Correcta, porque a igual distancia, mayor tiempo implica menor rapidez media."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque la rapidez se mide solo en kilómetros sin considerar el tiempo.",
           "is_correct": false,
           "feedback": "Incorrecta, porque la rapidez siempre relaciona distancia con tiempo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque ambos buses tienen la misma rapidez por recorrer la misma ruta.",
           "is_correct": false,
           "feedback": "Incorrecta, porque ignorar el tiempo contradice la definición de rapidez media."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La rapidez media es distancia total sobre tiempo total. Si la distancia es igual pero el tiempo cambia por paradas, la rapidez media cambia. Esto explica por qué el transporte urbano con muchas paradas es más lento aunque cubra el mismo trayecto.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En la ciclovía de Medellín, una ciclista recorre 6000 metros en línea recta hacia el norte en 600 segundos, sin devolverse, durante una jornada recreativa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Rapidez 1 metro por segundo y velocidad 0 metros por segundo hacia el norte.",
           "is_correct": false,
           "feedback": "Incorrecta, porque en un trayecto recto sin retorno el desplazamiento equals la distancia y la velocidad no es cero."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Rapidez 10 metros por segundo y velocidad 10 metros por segundo hacia el norte.",
           "is_correct": true,
           "feedback": "Correcta, porque 6000 dividido entre 600 equals 10, y al ser recto coinciden rapidez y magnitud de velocidad con dirección norte."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecta, porque la rapidez no puede ser cero si hubo recorrido de 6000 metros."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La rapidez media usa distancia total y la velocidad media usa desplazamiento con dirección. En movimientos rectos sin retorno ambas magnitudes coinciden, lo que permite calcular 6000 metros entre 600 segundos como 10 metros por segundo hacia el norte.",
       "difficulty": "6",
       "images": [],
@@ -157,25 +157,25 @@
           "feedback": "Incorrecta, porque invierte los valores: la distancia suma todo lo recorrido y el desplazamiento resta por dirección."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Distancia 1000 metros y desplazamiento 600 metros hacia el norte.",
           "is_correct": true,
           "feedback": "Correcta, porque distancia equals 800 más 200, y desplazamiento equals 800 menos 200 hacia el norte."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Distancia 800 metros y desplazamiento 200 metros hacia el sur.",
           "is_correct": false,
           "feedback": "Incorrecta, porque olvida sumar el tramo de regreso en la distancia y calcula mal la dirección neta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Distancia 100 metros y desplazamiento 1000 metros hacia el sur.",
           "is_correct": false,
           "feedback": "Incorrecta, porque ningún cálculo corresponde a la suma de tramos ni a la diferencia con dirección."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La distancia acumula todo lo recorrido sin importar la dirección, mientras el desplazamiento resta los tramos opuestos. Este caso de TransMilenio muestra por qué rapidez y velocidad pueden diferir cuando hay cambios de sentido.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En una competencia en Tunja, un ciclista boyacense aumenta su velocidad de 5 metros por segundo a 11 metros por segundo en 3 segundos durante el embalaje final.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "3 metros por segundo al cuadrado, porque se divide mal el tiempo entre la velocidad final.",
           "is_correct": false,
           "feedback": "Incorrecta, porque la aceleración requiere el cambio de velocidad entre el tiempo, no el tiempo entre la velocidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2 metros por segundo al cuadrado, porque 6 metros por segundo divididos entre 3 segundos dan ese valor.",
           "is_correct": true,
           "feedback": "Correcta, porque la aceleración equals cambio de velocidad sobre tiempo: 11 menos 5 equals 6, entre 3 equals 2."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecta, porque multiplicar velocidad por tiempo da una distancia aproximada, no una aceleración."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La aceleración mide qué tan rápido cambia la velocidad. Con un aumento de 6 metros por segundo en 3 segundos, la aceleración es de 2 metros por segundo al cuadrado, valor típico de un embalaje potente de ciclistas colombianos.",
       "difficulty": "6",
       "images": [],
@@ -249,25 +249,25 @@
           "feedback": "Incorrecta, porque distancias iguales en tiempos iguales indican velocidad constante, no aceleración."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El movimiento es rectilíneo uniforme, porque la velocidad se mantiene constante en 1.5 metros por segundo.",
           "is_correct": true,
           "feedback": "Correcta, porque 15 metros entre 10 segundos equals 1.5 constante, propio del movimiento uniforme."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El patinador está en reposo, porque su posición cambia con el tiempo.",
           "is_correct": false,
           "feedback": "Incorrecta, porque si la posición cambia hay movimiento, no reposo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La rapidez es cero, porque el intervalo de tiempo es de 10 segundos.",
           "is_correct": false,
           "feedback": "Incorrecta, porque la rapidez se calcula con distancia y tiempo, y aquí la distancia no es cero."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Analizar una tabla de posición contra tiempo permite identificar patrones: si el cociente distancia entre tiempo es constante, el movimiento es uniforme. Graficarlo da una línea recta, herramienta central en física de grado séptimo.",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En Pereira, la secretaría de movilidad discute dos propuestas para reducir accidentes cerca de un colegio: instalar reductores que obligan a frenar de 40 a 10 kilómetros por hora, o solo poner una señal informativa sin control de velocidad. Un grupo escolar debe evaluar con datos de frenado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Solo poner la señal, porque la rapidez no influye en la distancia de frenado ni en la gravedad de un choque.",
           "is_correct": false,
           "feedback": "Incorrecta, porque a mayor rapidez la distancia de frenado y la energía del impacto aumentan notablemente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Instalar reductores, porque obligan a disminuir la rapidez y permiten frenar en menor distancia con desaceleración controlada.",
           "is_correct": true,
           "feedback": "Correcta, porque evalúa evidencia física: menor velocidad implica menor distancia y menor riesgo para peatones."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecta, porque mayor rapidez aumenta distancia de frenado y severidad de lesiones."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Evaluar medidas de seguridad vial exige usar física: la energía crece con el cuadrado de la rapidez y la distancia de frenado también aumenta. Los reductores imponen una desaceleración que protege a escolares en Pereira.",
       "difficulty": "10",
       "images": [],
@@ -433,25 +433,25 @@
           "feedback": "Incorrecta, porque al girar cambia la dirección de la velocidad y se requiere fricción que puede superarse en bajada."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Rechazarla, porque girar implica aceleración centrípeta que exige fricción, y a alta rapidez en bajada el carro puede derrapar.",
           "is_correct": true,
           "feedback": "Correcta, porque aplica correctamente el carácter vectorial de la velocidad y los límites de adherencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Aceptarla, porque la gravedad en bajada elimina toda aceleración del carro.",
           "is_correct": false,
           "feedback": "Incorrecta, porque en bajada la gravedad aumenta la rapidez y se necesita frenar, no acelerar más."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Rechazarla, porque ningún carro en Manizales puede moverse por las pendientes de la ciudad.",
           "is_correct": false,
           "feedback": "Incorrecta, porque los carros sí se mueven en pendientes; el problema es la maniobra insegura a alta rapidez, no la imposibilidad de moverse."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En una curva la dirección cambia y aparece aceleración hacia el centro que depende de la rapidez al cuadrado. A alta rapidez se necesita más fricción de la disponible y ocurre el derrape, por eso la propuesta del curso es físicamente insegura y debe rechazarse.",
       "difficulty": "10",
       "images": [],

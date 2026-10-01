@@ -13,19 +13,19 @@
       "context": "Un ingeniero de sonido en Guadalajara analiza una onda de sonido pura que se comporta como una función sinusoidal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Amplitud: 3; Período: 3.14 (2π / 2)",
           "is_correct": true,
           "feedback": "¡Correcto! Para f(x) = A sen(Bx), la amplitud es |A| = 3, y el período es T = 2π / B = 2π / 2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Amplitud: 2; Período: 3",
           "is_correct": false,
           "feedback": "Incorrecto. Se intercambiaron los conceptos de amplitud y coeficiente de frecuencia de período."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Amplitud: 3; Período: 2π",
           "is_correct": false,
           "feedback": "Incorrecto. El período se calcula dividiendo 2π por el coeficiente de x, no multiplicando."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. El período de las funciones sen(x) o cos(x) tiene un numerador de 2π, no de π."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual a |A| y un período calculado mediante T = 2π / B. Para la función dada, A = 3 y B = 2. Por lo tanto, la amplitud es 3 y el período exacto es 2π / 2 ≈ 3.14 radianes.",
       "difficulty": "4",
       "images": [],
@@ -58,31 +58,31 @@
       "context": "Un ingeniero de sonido en CDMX analiza una onda de sonido pura que se comporta como una función sinusoidal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Amplitud: 4; Período: 2.09 (2π / 3)",
           "is_correct": true,
           "feedback": "¡Correcto! Para f(x) = A sen(Bx), la amplitud es |A| = 4, y el período es T = 2π / B = 2π / 3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Amplitud: 3; Período: 4",
           "is_correct": false,
           "feedback": "Incorrecto. Se intercambiaron los conceptos de amplitud y coeficiente de frecuencia de período."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Amplitud: 4; Período: 3π",
           "is_correct": false,
           "feedback": "Incorrecto. El período se calcula dividiendo 2π por el coeficiente de x, no multiplicando."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Amplitud: 4; Período: π / 3",
           "is_correct": false,
           "feedback": "Incorrecto. El período de las funciones sen(x) o cos(x) tiene un numerador de 2π, no de π."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual a |A| y un período calculado mediante T = 2π / B. Para la función dada, A = 4 y B = 3. Por lo tanto, la amplitud es 4 y el período exacto es 2π / 3 ≈ 2.09 radianes.",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Un ingeniero de sonido en Veracruz analiza una onda de sonido pura que se comporta como una función sinusoidal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Amplitud: 6; Período: 3.14 (2π / 2)",
           "is_correct": true,
           "feedback": "¡Correcto! Para f(x) = A sen(Bx), la amplitud es |A| = 6, y el período es T = 2π / B = 2π / 2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Amplitud: 2; Período: 6",
           "is_correct": false,
           "feedback": "Incorrecto. Se intercambiaron los conceptos de amplitud y coeficiente de frecuencia de período."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. El período de las funciones sen(x) o cos(x) tiene un numerador de 2π, no de π."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual a |A| y un período calculado mediante T = 2π / B. Para la función dada, A = 6 y B = 2. Por lo tanto, la amplitud es 6 y el período exacto es 2π / 2 ≈ 3.14 radianes.",
       "difficulty": "6",
       "images": [],
@@ -193,31 +193,31 @@
       "context": "Un ingeniero de sonido en Mazatlán analiza una onda de sonido pura que se comporta como una función sinusoidal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Amplitud: 7; Período: 2.09 (2π / 3)",
           "is_correct": true,
           "feedback": "¡Correcto! Para f(x) = A sen(Bx), la amplitud es |A| = 7, y el período es T = 2π / B = 2π / 3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Amplitud: 3; Período: 7",
           "is_correct": false,
           "feedback": "Incorrecto. Se intercambiaron los conceptos de amplitud y coeficiente de frecuencia de período."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Amplitud: 7; Período: 3π",
           "is_correct": false,
           "feedback": "Incorrecto. El período se calcula dividiendo 2π por el coeficiente de x, no multiplicando."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Amplitud: 7; Período: π / 3",
           "is_correct": false,
           "feedback": "Incorrecto. El período de las funciones sen(x) o cos(x) tiene un numerador de 2π, no de π."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual a |A| y un período calculado mediante T = 2π / B. Para la función dada, A = 7 y B = 3. Por lo tanto, la amplitud es 7 y el período exacto es 2π / 3 ≈ 2.09 radianes.",
       "difficulty": "10",
       "images": [],
@@ -238,31 +238,31 @@
       "context": "Un ingeniero de sonido en Guanajuato analiza una onda de sonido pura que se comporta como una función sinusoidal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Amplitud: 8; Período: 1.57 (2π / 4)",
           "is_correct": true,
           "feedback": "¡Correcto! Para f(x) = A sen(Bx), la amplitud es |A| = 8, y el período es T = 2π / B = 2π / 4."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Amplitud: 4; Período: 8",
           "is_correct": false,
           "feedback": "Incorrecto. Se intercambiaron los conceptos de amplitud y coeficiente de frecuencia de período."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Amplitud: 8; Período: 4π",
           "is_correct": false,
           "feedback": "Incorrecto. El período se calcula dividiendo 2π por el coeficiente de x, no multiplicando."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Amplitud: 8; Período: π / 4",
           "is_correct": false,
           "feedback": "Incorrecto. El período de las funciones sen(x) o cos(x) tiene un numerador de 2π, no de π."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual a |A| y un período calculado mediante T = 2π / B. Para la función dada, A = 8 y B = 4. Por lo tanto, la amplitud es 8 y el período exacto es 2π / 4 ≈ 1.57 radianes.",
       "difficulty": "10",
       "images": [],
@@ -283,31 +283,31 @@
       "context": "Un ingeniero de sonido en Puebla analiza una onda de sonido pura que se comporta como una función sinusoidal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Amplitud: 9; Período: 3.14 (2π / 2)",
           "is_correct": true,
           "feedback": "¡Correcto! Para f(x) = A sen(Bx), la amplitud es |A| = 9, y el período es T = 2π / B = 2π / 2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Amplitud: 2; Período: 9",
           "is_correct": false,
           "feedback": "Incorrecto. Se intercambiaron los conceptos de amplitud y coeficiente de frecuencia de período."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Amplitud: 9; Período: 2π",
           "is_correct": false,
           "feedback": "Incorrecto. El período se calcula dividiendo 2π por el coeficiente de x, no multiplicando."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Amplitud: 9; Período: π / 2",
           "is_correct": false,
           "feedback": "Incorrecto. El período de las funciones sen(x) o cos(x) tiene un numerador de 2π, no de π."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual a |A| y un período calculado mediante T = 2π / B. Para la función dada, A = 9 y B = 2. Por lo tanto, la amplitud es 9 y el período exacto es 2π / 2 ≈ 3.14 radianes.",
       "difficulty": "6",
       "images": [],
@@ -328,19 +328,19 @@
       "context": "Un ingeniero de sonido en Morelia analiza una onda de sonido pura que se comporta como una función sinusoidal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Amplitud: 10; Período: 2.09 (2π / 3)",
           "is_correct": true,
           "feedback": "¡Correcto! Para f(x) = A sen(Bx), la amplitud es |A| = 10, y el período es T = 2π / B = 2π / 3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Amplitud: 3; Período: 10",
           "is_correct": false,
           "feedback": "Incorrecto. Se intercambiaron los conceptos de amplitud y coeficiente de frecuencia de período."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Amplitud: 10; Período: 3π",
           "is_correct": false,
           "feedback": "Incorrecto. El período se calcula dividiendo 2π por el coeficiente de x, no multiplicando."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. El período de las funciones sen(x) o cos(x) tiene un numerador de 2π, no de π."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual a |A| y un período calculado mediante T = 2π / B. Para la función dada, A = 10 y B = 3. Por lo tanto, la amplitud es 10 y el período exacto es 2π / 3 ≈ 2.09 radianes.",
       "difficulty": "6",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "Un ingeniero de sonido en Oaxaca analiza una onda de sonido pura que se comporta como una función sinusoidal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Amplitud: 11; Período: 1.57 (2π / 4)",
           "is_correct": true,
           "feedback": "¡Correcto! Para f(x) = A sen(Bx), la amplitud es |A| = 11, y el período es T = 2π / B = 2π / 4."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Amplitud: 4; Período: 11",
           "is_correct": false,
           "feedback": "Incorrecto. Se intercambiaron los conceptos de amplitud y coeficiente de frecuencia de período."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Amplitud: 11; Período: 4π",
           "is_correct": false,
           "feedback": "Incorrecto. El período se calcula dividiendo 2π por el coeficiente de x, no multiplicando."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. El período de las funciones sen(x) o cos(x) tiene un numerador de 2π, no de π."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual a |A| y un período calculado mediante T = 2π / B. Para la función dada, A = 11 y B = 4. Por lo tanto, la amplitud es 11 y el período exacto es 2π / 4 ≈ 1.57 radianes.",
       "difficulty": "8",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Un ingeniero de sonido en Guadalajara analiza una onda de sonido pura que se comporta como una función sinusoidal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Amplitud: 13; Período: 2.09 (2π / 3)",
           "is_correct": true,
           "feedback": "¡Correcto! Para f(x) = A sen(Bx), la amplitud es |A| = 13, y el período es T = 2π / B = 2π / 3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Amplitud: 3; Período: 13",
           "is_correct": false,
           "feedback": "Incorrecto. Se intercambiaron los conceptos de amplitud y coeficiente de frecuencia de período."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. El período de las funciones sen(x) o cos(x) tiene un numerador de 2π, no de π."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual a |A| y un período calculado mediante T = 2π / B. Para la función dada, A = 13 y B = 3. Por lo tanto, la amplitud es 13 y el período exacto es 2π / 3 ≈ 2.09 radianes.",
       "difficulty": "10",
       "images": [],
@@ -508,31 +508,31 @@
       "context": "Un ingeniero de sonido en CDMX analiza una onda de sonido pura que se comporta como una función sinusoidal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Amplitud: 14; Período: 1.57 (2π / 4)",
           "is_correct": true,
           "feedback": "¡Correcto! Para f(x) = A sen(Bx), la amplitud es |A| = 14, y el período es T = 2π / B = 2π / 4."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Amplitud: 4; Período: 14",
           "is_correct": false,
           "feedback": "Incorrecto. Se intercambiaron los conceptos de amplitud y coeficiente de frecuencia de período."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Amplitud: 14; Período: 4π",
           "is_correct": false,
           "feedback": "Incorrecto. El período se calcula dividiendo 2π por el coeficiente de x, no multiplicando."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Amplitud: 14; Período: π / 4",
           "is_correct": false,
           "feedback": "Incorrecto. El período de las funciones sen(x) o cos(x) tiene un numerador de 2π, no de π."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual a |A| y un período calculado mediante T = 2π / B. Para la función dada, A = 14 y B = 4. Por lo tanto, la amplitud es 14 y el período exacto es 2π / 4 ≈ 1.57 radianes.",
       "difficulty": "10",
       "images": [],
@@ -553,31 +553,31 @@
       "context": "Un ingeniero de sonido en Monterrey analiza una onda de sonido pura que se comporta como una función sinusoidal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Amplitud: 15; Período: 3.14 (2π / 2)",
           "is_correct": true,
           "feedback": "¡Correcto! Para f(x) = A sen(Bx), la amplitud es |A| = 15, y el período es T = 2π / B = 2π / 2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Amplitud: 2; Período: 15",
           "is_correct": false,
           "feedback": "Incorrecto. Se intercambiaron los conceptos de amplitud y coeficiente de frecuencia de período."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Amplitud: 15; Período: 2π",
           "is_correct": false,
           "feedback": "Incorrecto. El período se calcula dividiendo 2π por el coeficiente de x, no multiplicando."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Amplitud: 15; Período: π / 2",
           "is_correct": false,
           "feedback": "Incorrecto. El período de las funciones sen(x) o cos(x) tiene un numerador de 2π, no de π."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual a |A| y un período calculado mediante T = 2π / B. Para la función dada, A = 15 y B = 2. Por lo tanto, la amplitud es 15 y el período exacto es 2π / 2 ≈ 3.14 radianes.",
       "difficulty": "8",
       "images": [],
@@ -598,31 +598,31 @@
       "context": "Un ingeniero de sonido en Veracruz analiza una onda de sonido pura que se comporta como una función sinusoidal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Amplitud: 16; Período: 2.09 (2π / 3)",
           "is_correct": true,
           "feedback": "¡Correcto! Para f(x) = A sen(Bx), la amplitud es |A| = 16, y el período es T = 2π / B = 2π / 3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Amplitud: 3; Período: 16",
           "is_correct": false,
           "feedback": "Incorrecto. Se intercambiaron los conceptos de amplitud y coeficiente de frecuencia de período."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Amplitud: 16; Período: 3π",
           "is_correct": false,
           "feedback": "Incorrecto. El período se calcula dividiendo 2π por el coeficiente de x, no multiplicando."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Amplitud: 16; Período: π / 3",
           "is_correct": false,
           "feedback": "Incorrecto. El período de las funciones sen(x) o cos(x) tiene un numerador de 2π, no de π."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual a |A| y un período calculado mediante T = 2π / B. Para la función dada, A = 16 y B = 3. Por lo tanto, la amplitud es 16 y el período exacto es 2π / 3 ≈ 2.09 radianes.",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Un ingeniero de sonido en Mazatlán analiza una onda de sonido pura que se comporta como una función sinusoidal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Amplitud: 17; Período: 1.57 (2π / 4)",
           "is_correct": true,
           "feedback": "¡Correcto! Para f(x) = A sen(Bx), la amplitud es |A| = 17, y el período es T = 2π / B = 2π / 4."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Amplitud: 4; Período: 17",
           "is_correct": false,
           "feedback": "Incorrecto. Se intercambiaron los conceptos de amplitud y coeficiente de frecuencia de período."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. El período de las funciones sen(x) o cos(x) tiene un numerador de 2π, no de π."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual a |A| y un período calculado mediante T = 2π / B. Para la función dada, A = 17 y B = 4. Por lo tanto, la amplitud es 17 y el período exacto es 2π / 4 ≈ 1.57 radianes.",
       "difficulty": "10",
       "images": [],
@@ -733,31 +733,31 @@
       "context": "Un ingeniero de sonido en Puebla analiza una onda de sonido pura que se comporta como una función sinusoidal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Amplitud: 19; Período: 2.09 (2π / 3)",
           "is_correct": true,
           "feedback": "¡Correcto! Para f(x) = A sen(Bx), la amplitud es |A| = 19, y el período es T = 2π / B = 2π / 3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Amplitud: 3; Período: 19",
           "is_correct": false,
           "feedback": "Incorrecto. Se intercambiaron los conceptos de amplitud y coeficiente de frecuencia de período."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Amplitud: 19; Período: 3π",
           "is_correct": false,
           "feedback": "Incorrecto. El período se calcula dividiendo 2π por el coeficiente de x, no multiplicando."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Amplitud: 19; Período: π / 3",
           "is_correct": false,
           "feedback": "Incorrecto. El período de las funciones sen(x) o cos(x) tiene un numerador de 2π, no de π."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual a |A| y un período calculado mediante T = 2π / B. Para la función dada, A = 19 y B = 3. Por lo tanto, la amplitud es 19 y el período exacto es 2π / 3 ≈ 2.09 radianes.",
       "difficulty": "10",
       "images": [],
@@ -778,31 +778,31 @@
       "context": "Un ingeniero de sonido en Morelia analiza una onda de sonido pura que se comporta como una función sinusoidal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Amplitud: 20; Período: 1.57 (2π / 4)",
           "is_correct": true,
           "feedback": "¡Correcto! Para f(x) = A sen(Bx), la amplitud es |A| = 20, y el período es T = 2π / B = 2π / 4."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Amplitud: 4; Período: 20",
           "is_correct": false,
           "feedback": "Incorrecto. Se intercambiaron los conceptos de amplitud y coeficiente de frecuencia de período."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Amplitud: 20; Período: 4π",
           "is_correct": false,
           "feedback": "Incorrecto. El período se calcula dividiendo 2π por el coeficiente de x, no multiplicando."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Amplitud: 20; Período: π / 4",
           "is_correct": false,
           "feedback": "Incorrecto. El período de las funciones sen(x) o cos(x) tiene un numerador de 2π, no de π."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual a |A| y un período calculado mediante T = 2π / B. Para la función dada, A = 20 y B = 4. Por lo tanto, la amplitud es 20 y el período exacto es 2π / 4 ≈ 1.57 radianes.",
       "difficulty": "10",
       "images": [],
@@ -823,19 +823,19 @@
       "context": "Un ingeniero de sonido en Oaxaca analiza una onda de sonido pura que se comporta como una función sinusoidal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Amplitud: 21; Período: 3.14 (2π / 2)",
           "is_correct": true,
           "feedback": "¡Correcto! Para f(x) = A sen(Bx), la amplitud es |A| = 21, y el período es T = 2π / B = 2π / 2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Amplitud: 2; Período: 21",
           "is_correct": false,
           "feedback": "Incorrecto. Se intercambiaron los conceptos de amplitud y coeficiente de frecuencia de período."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Amplitud: 21; Período: 2π",
           "is_correct": false,
           "feedback": "Incorrecto. El período se calcula dividiendo 2π por el coeficiente de x, no multiplicando."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. El período de las funciones sen(x) o cos(x) tiene un numerador de 2π, no de π."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual a |A| y un período calculado mediante T = 2π / B. Para la función dada, A = 21 y B = 2. Por lo tanto, la amplitud es 21 y el período exacto es 2π / 2 ≈ 3.14 radianes.",
       "difficulty": "10",
       "images": [],

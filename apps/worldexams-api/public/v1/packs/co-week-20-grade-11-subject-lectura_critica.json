@@ -105,13 +105,13 @@
       "context": "Un anuncio publicitario de una marca de leche vegetal incluye el eslogan: \"El poder de la naturaleza en tu vaso\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Persuasivo que otorga un valor altamente positivo y virtuoso al producto.",
           "is_correct": true,
           "feedback": "Correcto. Los adjetivos o sustantivos de impacto de carga encomiástica (\"poder\", \"vitalidad\") buscan seducir al consumidor."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Técnico para medir los vatios de energía eléctrica producida por la leche.",
           "is_correct": false,
           "feedback": "Incorrecto. La palabra se usa connotativamente en el discurso publicitario y no como magnitud de la física."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. El eslogan es una frase de mercadeo y no una cita de investigación académica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El lenguaje publicitario utiliza términos connotativos cargados de prestigio para asociar beneficios intangibles al consumo del producto.",
       "difficulty": "4",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En un ensayo se lee: \"El desempleo informal ha aumentado. **Por lo tanto**, se requieren políticas activas de primer empleo para jóvenes\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La conclusión o propuesta derivada de la problemática expuesta en la primera oración.",
           "is_correct": true,
           "feedback": "Correcto. \"Por lo tanto\" es un conector de consecuencia lógica que introduce la deducción o medida requerida."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un ejemplo detallado de un joven contratado en Bogotá.",
           "is_correct": false,
           "feedback": "Incorrecto. No aporta un caso individual ejemplificador sino una medida general de política pública."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una contradicción que niega el aumento del desempleo.",
           "is_correct": false,
           "feedback": "Incorrecto. Conecta lógicamente la causa (desempleo) con la respuesta de solución (políticas)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Una definición extraída de un diccionario de economía.",
           "is_correct": false,
           "feedback": "Incorrecto. Propone una acción de política y no una definición conceptual."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Los conectores consecutivos estructuran el razonamiento deductivo dentro de los textos argumentativos.",
       "difficulty": "4",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En una viñeta satírica sobre la burocracia, se observa a un ciudadano frente a una ventanilla de atención. El funcionario detrás del cristal le entrega un formulario que dice: \"Pida la cita para solicitar el turno de pedir la cita\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El bucle absurdo e infinito de trámites que impide lograr la atención real del ciudadano.",
           "is_correct": true,
           "feedback": "Correcto. La sátira ridiculiza la trampa burocrática mostrando la hiper-reglamentación que anula el propósito del servicio público."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La amabilidad y eficiencia del funcionario al entregar el formulario impreso.",
           "is_correct": false,
           "feedback": "Incorrecto. El formulario es una trampa de estancamiento y no una muestra de eficiencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La calidad tipográfica de las letras impresas en el papel de ventanilla.",
           "is_correct": false,
           "feedback": "Incorrecto. La crítica es sobre la inutilidad del trámite y no sobre la imprenta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El precio económico de los servicios gubernamentales en Colombia.",
           "is_correct": false,
           "feedback": "Incorrecto. La viñeta no aborda tarifas sino el laberinto de la tramitomanía."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La ironía discursiva en la caricatura social devela lo absurdo de ciertos procedimientos institucionales mediante la exageración de sus paradojas.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Un comercial de televisión de comida rápida presenta a una familia cenando en la mesa mientras una voz en off dice: \"El verdadero amor se comparte en el sabor de nuestra hamburguesa\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Transferir el valor afectivo y ético del \"amor familiar\" hacia el consumo del bien mercantil.",
           "is_correct": true,
           "feedback": "Correcto. La publicidad sustituye el valor nutricional por una emoción positiva de unión familiar para estimular las ventas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ofrecer un desglose riguroso del aporte calórico y de grasas saturadas del plato.",
           "is_correct": false,
           "feedback": "Incorrecto. El anuncio elude el tema calórico nutricional para centrarse en la emoción afectiva."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. El foco es la afectividad familiar y no el ahorro de servicios públicos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El análisis discursivo publicitario desenmascara las asociaciones simbólicas donde emociones universales (como el amor) se adscriben a la compra de productos.",
       "difficulty": "6",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "Dos noticias cubren el aumento del salario mínimo. La Noticia A titula: \"Histórico incremento salarial protegerá el bolsillo de los trabajadores\". La Noticia B titula: \"Aumento del salario mínimo genera grave riesgo de inflación y desempleo\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Encuadre noticioso (*framing*) diferenciado según la postura editorial de cada medio.",
           "is_correct": true,
           "feedback": "Correcto. Un medio resalta el beneficio social (Noticia A) y el otro privilegia los riesgos macroeconómicos (Noticia B)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un error tipográfico cometido por la misma agencia de noticias.",
           "is_correct": false,
           "feedback": "Incorrecto. Son dos decisiones editoriales conscientemente contrapuestas sobre el mismo hecho."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Traductología entre el español y el portugués.",
           "is_correct": false,
           "feedback": "Incorrecto. Ambos titulares están escritos en español; difieren en el enfoque ideológico."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Demostración de que el salario mínimo no cambiará en Colombia.",
           "is_correct": false,
           "feedback": "Incorrecto. Ambos reportan sobre el incremento ya decretado, juzgando sus impactos de manera opuesta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El *framing* periodístico orienta la atención del lector destacando aspectos positivos o negativos de la misma realidad según el sesgo editorial del medio.",
       "difficulty": "6",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En un texto expositivo sobre los ecosistemas colombianos se lee: \"Los manglares actúan como barreras naturales. **Estos bosques costeros** frenan la erosión provocada por el oleaje del mar\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Una anáfora por sustitución nominal que retoma el concepto de \"manglares\" sin repetir la palabra.",
           "is_correct": true,
           "feedback": "Correcto. La sustitución por hiperónimo/definición nominal mantiene la referencia fluida en el texto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un conector de contraste que contradice la importancia de los manglares.",
           "is_correct": false,
           "feedback": "Incorrecto. Reafirma la función de los manglares sustituyendo el término para no repetirlo."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Es un sintagma nominal demostrativo y no una forma conjugada verbal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La anáfora léxica garantiza la cohesión en los textos expositivos manteniendo la continuidad del sujeto mediante paráfrasis o hiperónimos.",
       "difficulty": "6",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "En una infografía sobre la seguridad vial en Colombia, se presenta un diagrama con el porcentaje de siniestralidad por tipo de vehículo: Motocicletas 60%, Automóviles 25%, Camiones 10%, Otros 5%.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Los conductores de motocicletas, por concentrar la mayoría absoluta (60%) de los eventos.",
           "is_correct": true,
           "feedback": "Correcto. La lectura del dato cuantitativo demuestra que el sector de motociclistas es la variable crítica del problema."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los camiones de carga de gran tonelaje por representar el 10% del total.",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque relevante, el 10% es sustancialmente menor al 60% de las motocicletas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los peatones que caminan por senderos ecológicos en los parques nacionales.",
           "is_correct": false,
           "feedback": "Incorrecto. El diagrama evalúa siniestralidad de vehículos viales y no caminantes de parques."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Omitir toda regulación vehicular y enfocarse en la aviación comercial.",
           "is_correct": false,
           "feedback": "Incorrecto. El informe infográfico atañe a la siniestralidad terrestre."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La extracción de conclusiones operativas a partir de gráficos porcentuales en infografías exige identificar la variable de mayor impacto numérico.",
       "difficulty": "6",
       "images": [],
@@ -473,31 +473,31 @@
       "context": "Un candidato a un cargo de elección popular difunde un comercial donde afirma: \"Mi opositor quiere destruir la familia porque propone subsidios para madres solteras\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Caricaturiza una propuesta de ayuda social (subsidio a madres) transformándola falsamente en un intento deliberado por \"destruir la familia\".",
           "is_correct": true,
           "feedback": "Correcto. Deforma intencionalmente la medida del adversario atribuyéndole una intención malvada exagerada para atacarla fácilmente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Aporta estudios sociológicos de la Universidad Nacional sobre la estructura familiar.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay estudios de soporte; hay una manipulación falaz de la propuesta opositora."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cita de forma textual la Constitución Política de Colombia.",
           "is_correct": false,
           "feedback": "Incorrecto. La falacia deforma la verdad y no apela al rigor constitucional."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Demuestra que las madres solteras no necesitan ningún apoyo del Estado.",
           "is_correct": false,
           "feedback": "Incorrecto. El fallo no es la validez del subsidio sino la distorsión calumniosa del argumento ajeno."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La falacia del hombre de paja deforma la postura del oponente convirtiéndola en una amenaza caricaturesca para generar rechazo fácil en el público.",
       "difficulty": "8",
       "images": [],
@@ -519,31 +519,31 @@
       "context": "En una caricatura política colombiana sobre la abstención, se muestra una urna de votación llena de polvo dentro de un museo, con una placa que dice: \"Reliquia del siglo XX. Se usaba cuando los ciudadanos creían que su voto cambiaba las cosas\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El desencanto y la deslegitimación de la democracia representativa, percibida como una institución obsoleta e inútil.",
           "is_correct": true,
           "feedback": "Correcto. Colocar la urna como pieza de museo representa la muerte de la fe ciudadana en la eficacia del sistema electoral."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El compromiso del gobierno con la preservación del patrimonio histórico de la nación.",
           "is_correct": false,
           "feedback": "Incorrecto. La viñeta no elogia la conservación museística sino que satiriza el colapso de la confianza en el voto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una recomendación para construir más museos de arte moderno en las ciudades.",
           "is_correct": false,
           "feedback": "Incorrecto. La crítica es sobre la apatía política y no sobre la infraestructura cultural."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que la abstención en Colombia es del 0% en todas las elecciones.",
           "is_correct": false,
           "feedback": "Incorrecto. Representar la urna abandonada en un museo simboliza justamente el triunfo de la abstención y el escepticismo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La metáfora del museo en la caricatura de opinión funciona como un dispositivo satírico para señalar la caducidad o pérdida de sentido de las instituciones políticas.",
       "difficulty": "8",
       "images": [],
@@ -565,31 +565,31 @@
       "context": "Un texto informativo sobre el hidrógeno verde en la transición energética de Colombia incluye dos gráficos: Gráfico 1: \"Costo de producción por kilo ($ USD)\". Gráfico 2: \"Emisiones de CO2 comparadas con el diésel\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Aunque el costo inicial de producción (Gráfico 1) sea superior, la reducción drástica de emisiones (Gráfico 2) justifica su adopción ambiental.",
           "is_correct": true,
           "feedback": "Correcto. Cruzar ambas variables (financiera y ambiental) permite argumentar el balance de costo-beneficio de la energía limpia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El hidrógeno verde es más contaminante que el diésel pero mucho más barato de producir.",
           "is_correct": false,
           "feedback": "Incorrecto. Invierte los datos científicos: el hidrógeno no emite CO2 directo pero su tecnología inicial es costosa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El diésel es un combustible renovable producido por las plantas de carbón.",
           "is_correct": false,
           "feedback": "Incorrecto. El diésel es un derivado del petróleo no renovable."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ambos gráficos demuestran que la energía eólica debe ser prohibida en Colombia.",
           "is_correct": false,
           "feedback": "Incorrecto. Ninguno de los dos gráficos aborda la energía eólica sino el hidrógeno y el diésel."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La síntesis analítica de múltiples textos discontinuos exige sopesar variables contrapuestas (económicas vs. ambientales) para construir juicios fundados.",
       "difficulty": "8",
       "images": [],
@@ -611,13 +611,13 @@
       "context": "Un artículo periodístico sobre el uso de vapeadores en jóvenes titula: \"La epidemia silenciosa que destruye los pulmones adolescentes\". En el cuerpo del texto no se cita ninguna estadística del Ministerio de Salud ni ningún estudio médico, solo testimonios alarmados de dos padres de familia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Generaliza una \"epidemia\" mediante un titular alarmista sin aportar respaldo estadístico ni evidencia médica verificable.",
           "is_correct": true,
           "feedback": "Correcto. Usar términos médicos graves (\"epidemia\") sustentándolos solo en impresiones familiares viola el rigor del periodismo de salud."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Cita a demasiados científicos e investigadores en toxicología pulmonar.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto adolece justamente de la falta de citas de expertos médicos."
@@ -635,7 +635,7 @@
           "feedback": "Incorrecto. El artículo ataca los vapeadores pero lo hace mediante el pánico infundado sin datos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El análisis de rigor noticioso exige verificar que los titulares de impacto médico/epidemológico estén sustentados en estudios clínicos y estadísticas oficiales.",
       "difficulty": "8",
       "images": [],
@@ -703,19 +703,19 @@
       "context": "Un ensayista argumenta: \"La censura en las redes sociales para eliminar el discurso de odio es un remedio peor que la enfermedad. Entregar a empresas privadas el poder de decidir qué se puede decir convierte a los algoritmos en los nuevos inquisidores del pensamiento humano\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La libertad de expresión es un derecho fundamental que no debe ser controlado ni privatizado por corporaciones tecnológicas.",
           "is_correct": true,
           "feedback": "Correcto. El autor cuestiona que corporaciones privadas monopolicen el juicio sobre lo que los ciudadanos pueden o no expresar libremente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las empresas privadas de tecnología deben ser las únicas gobernantes de los países.",
           "is_correct": false,
           "feedback": "Incorrecto. El ensayo combate justamente el poder inquisitorial de las corporaciones informáticas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El discurso de odio es la forma de comunicación más deseable en una democracia.",
           "is_correct": false,
           "feedback": "Incorrecto. El autor rechaza el discurso de odio pero advierte que el remedio de la censura privada es aún más peligroso."
@@ -727,7 +727,7 @@
           "feedback": "Incorrecto. \"Inquisidores\" es una metáfora retórica y no una afirmación de cronología histórica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El análisis filosófico de textos de opinión sobre tecnología evalúa el choque entre el control del odio en redes y los riesgos autoritarios de la censura corporativa.",
       "difficulty": "8",
       "images": [],
@@ -749,13 +749,13 @@
       "context": "Un grupo editorial lanza un periódico donde el 80% del espacio de la sección de \"Noticias de Salud\" está compuesto por infografías financiadas directamente por laboratorios farmacéuticos que promocionan sus propios medicamentos para el insomnio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Incurre en una grave deshonestidad al disfrazar la publicidad comercial farmacéutica con el formato gráfico del periodismo de salud.",
           "is_correct": true,
           "feedback": "Correcto. Presentar anuncios publicitarios encubiertos como si fueran informes noticiosos de salud engolosina y manipula al lector."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Cumple de forma modélica con la libertad de prensa y el rigor científico universal.",
           "is_correct": false,
           "feedback": "Incorrecto. La mezcla interesada de publicidad encubierta rompe los principios básicos del periodismo independiente."
@@ -773,7 +773,7 @@
           "feedback": "Incorrecto. Es un negocio de pauta publicitaria comercial financiado por empresas privadas farmacéuticas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluar la integridad ética de los medios implica detectar la publicidad engañosa disfrazada de contenidos noticiosos o infográficos informativos.",
       "difficulty": "10",
       "images": [],
@@ -841,13 +841,13 @@
       "context": "Un portal de internet publica un estudio de dos párrafos que afirma: \"Consumir tres tazas de café al día elimina el riesgo de padecer cualquier tipo de cáncer\". El estudio fue realizado en un laboratorio observando células en una caja de Petri sometidas a concentraciones de cafeína líquida pura.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Extrapolar abusivamente un experimento *in vitro* celular a la complejidad del organismo humano completo y la prevención del cáncer.",
           "is_correct": true,
           "feedback": "Correcto. Confundir la reacción de células aisladas en un plato de vidrio con el metabolismo humano complejo es una falsificación desinformadora."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Citar el nombre de la caja de Petri en la publicación digital.",
           "is_correct": false,
           "feedback": "Incorrecto. Citar el instrumental no es el error; la falla es la extrapolación ilícita de resultados en vitro a seres humanos."
@@ -865,7 +865,7 @@
           "feedback": "Incorrecto. La hora de publicación no determina el rigor científico del contenido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La evaluación crítica de la ciencia en los medios exige impedir que experimentos de laboratorio celular (*in vitro*) se vendan como curas milagrosas en seres humanos.",
       "difficulty": "10",
       "images": [],
@@ -887,13 +887,13 @@
       "context": "Un ensayista concluye su obra sobre la democracia en Colombia con la frase: \"La salud de una república no se mide por la sumisión de sus ciudadanos al poder de turno, sino por la fortaleza institucional para garantizar que quien disienta pueda hacerlo sin temor a ser destruido\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La garantía de la libertad de disenso y la protección de la oposición como núcleo de la democracia constitucional.",
           "is_correct": true,
           "feedback": "Correcto. Medir la democracia por la protección al que piensa diferente consagra el pluralismo y los derechos fundamentales frente al autoritarismo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El deber ciudadano de obedecer sin cuestionamientos todas las órdenes de los gobernantes.",
           "is_correct": false,
           "feedback": "Incorrecto. El autor rechaza la \"sumisión al poder de turno\" como métrica republicana."
@@ -911,7 +911,7 @@
           "feedback": "Incorrecto. Las instituciones democráticas sólidas garantizan la participación libre y el disenso."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La evaluación de textos de filosofía política exige reconocer que la protección del disenso y los derechos de la oposición constitutiva son el indicador superior de una sociedad libre.",
       "difficulty": "10",
       "images": [],

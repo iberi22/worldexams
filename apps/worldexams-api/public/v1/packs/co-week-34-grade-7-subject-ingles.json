@@ -13,19 +13,19 @@
       "context": "Identifying movement from one side to another.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Into",
           "is_correct": false,
           "feedback": "Incorrect. This means entering a space."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Under",
           "is_correct": false,
           "feedback": "Incorrect. This means below."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Across",
           "is_correct": true,
           "feedback": "Correct! \"Across\" is used for crossing from one side to another."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect. This means moving inside a 3D space."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "The student identifies the basic meaning of the preposition \"across\".\n\n---",
       "difficulty": "4",
       "images": [],
@@ -65,25 +65,25 @@
           "feedback": "Incorrect. This is the opposite (leaving)."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Into",
           "is_correct": true,
           "feedback": "Correct! \"Into\" indicates movement to the inside of a place."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Over",
           "is_correct": false,
           "feedback": "Incorrect. This means above something."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Through",
           "is_correct": false,
           "feedback": "Incorrect. While you can walk through a library, \"into\" is the specific one for entering."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student identifies the preposition for entering a contained space.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -203,25 +203,25 @@
           "feedback": "Incorrect. You don't jump \"under\" to get to the other side of a wall."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "over",
           "is_correct": true,
           "feedback": "Correct! \"Over\" indicates movement above something to get to the other side."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "into",
           "is_correct": false,
           "feedback": "Incorrect. You don't jump into a solid wall."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "through",
           "is_correct": false,
           "feedback": "Incorrect. Unless there is a hole, you go over."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student applies the correct preposition for movement across a barrier above its top.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "A description of an adventure trail.\n\n\"First, walk through the forest. Then, go across the wooden bridge. Finally, climb up the hill to see the waterfall.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Walking through the forest.",
           "is_correct": false,
           "feedback": "Incorrect. This is the first step."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Crossing the wooden bridge.",
           "is_correct": true,
           "feedback": "Correct! \"Go across the wooden bridge\" is the second instruction."
@@ -267,7 +267,7 @@
           "feedback": "Incorrect. This is the final result."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student applies reading strategies to sequence events involving movement prepositions.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Analyzing the difference between \"through\" and \"across\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "I am walking across the forest.",
           "is_correct": false,
           "feedback": "Incorrect. A forest is a 3D space (through)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "I am walking through the park.",
           "is_correct": true,
           "feedback": "Correct! Walking \"through\" a park implies moving among its trees and paths."
@@ -359,7 +359,7 @@
           "feedback": "Incorrect. You don't walk over a park unless you are in a plane."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student analyzes the relationship between the type of environment and the appropriate movement preposition.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -433,25 +433,25 @@
           "feedback": "Incorrect. \"Down\" means high to low."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "The water travels through different types of environments before reaching its end.",
           "is_correct": true,
           "feedback": "Correct! Mountains (down), plains (across), city (through), ocean (into)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "The water stays in the mountains forever.",
           "is_correct": false,
           "feedback": "Incorrect. It flows out of them."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "The water only moves in a straight line through the city.",
           "is_correct": false,
           "feedback": "Incorrect. The text doesn't specify it's straight, only that it passes through."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student evaluates a set of movement descriptions to identify a comprehensive summary of the described process.",
       "difficulty": "10",
       "images": [],

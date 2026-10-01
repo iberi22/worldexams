@@ -13,13 +13,13 @@
       "context": "Reporting a simple statement about a festival.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "starts",
           "is_correct": false,
           "feedback": "Incorrect. We need to backshift the tense."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "started",
           "is_correct": true,
           "feedback": "Correct! Present Simple shifts to Past Simple in Reported Speech."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect. Inappropriate tense shift."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "En el discurso indirecto (*Reported Speech*), los verbos suelen dar un \"paso atrás\" en el tiempo (*backshift*). El Presente Simple se convierte en Pasado Simple.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "Reporting a travel experience.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "visited",
           "is_correct": false,
           "feedback": "Incorrect. Past Simple is for Direct Past."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "had visited",
           "is_correct": true,
           "feedback": "Correct! Present Perfect shifts to Past Perfect."
@@ -83,7 +83,7 @@
           "feedback": "Incorrect. Changes the meaning."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El Presente Perfecto (*have visited*) se transforma en Pasado Perfecto (*had visited*) al reportar lo que alguien dijo en un momento anterior.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "Reporting a question about cultural habits.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "that",
           "is_correct": false,
           "feedback": "Incorrect. \"That\" is for statements, not questions."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "do",
           "is_correct": false,
           "feedback": "Incorrect. Auxiliaries are not used in reported questions."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "if",
           "is_correct": true,
           "feedback": "Correct! We use \"if\" or \"whether\" for yes/no questions in reported speech."
@@ -129,7 +129,7 @@
           "feedback": "Incorrect. This is for specific information questions."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Para reportar preguntas de sí/no, utilizamos los conectores *if* o *whether*. Además, el orden de la oración vuelve a ser el de una afirmación (sujeto + verbo).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -157,13 +157,13 @@
           "feedback": "Incorrect. Missing backshift."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "was",
           "is_correct": true,
           "feedback": "Correct! Backshift of \"is\" and change to statement word order."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "were",
           "is_correct": false,
           "feedback": "Incorrect. \"Museum\" is singular."
@@ -175,7 +175,7 @@
           "feedback": "Incorrect. Inappropriate tense."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "En las preguntas con *Wh-* (where, what, why), mantenemos la palabra interrogativa pero cambiamos el orden a sujeto + verbo y aplicamos el retroceso temporal (*is* → *was*).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -203,25 +203,25 @@
           "feedback": "Incorrect. Missing backshift."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "would host",
           "is_correct": true,
           "feedback": "Correct! \"Will\" shifts to \"would\" in Reported Speech."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "hosts",
           "is_correct": false,
           "feedback": "Incorrect. Changes the future meaning."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "was going to host",
           "is_correct": false,
           "feedback": "Incorrect. While similar in meaning, the direct shift of \"will\" is \"would\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El auxiliar de futuro *will* siempre se convierte en *would* cuando reportamos una declaración o promesa hecha en el pasado.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Reporting an advice about local customs.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "should try",
           "is_correct": true,
           "feedback": "Correct! \"Should\" doesn't change in Reported Speech."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "must try",
           "is_correct": false,
           "feedback": "Incorrect. Changes the nuance from advice to obligation."
@@ -267,7 +267,7 @@
           "feedback": "Incorrect. This is the shift for \"must\"."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Algunos verbos modales como *should*, *could*, *might* y *ought to* no cambian de forma cuando se pasan al discurso indirecto.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -341,13 +341,13 @@
           "feedback": "Incorrect. \"Say\" cannot be followed directly by an object pronoun without \"to\"."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "She told me that she loved the festival.",
           "is_correct": true,
           "feedback": "Correct! \"Tell\" must be followed by an object (me, him, her)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "She told that she loved the festival.",
           "is_correct": false,
           "feedback": "Incorrect. \"Tell\" requires an object."
@@ -359,7 +359,7 @@
           "feedback": "Incorrect. Missing backshift of \"love\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "A nivel B2, es vital distinguir: *say* se usa para la cita en sí, mientras que *tell* requiere mencionar a quién se le está hablando (un objeto indirecto).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "Reporting a request or order.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "that I show",
           "is_correct": false,
           "feedback": "Incorrect. Commands and requests use the infinitive."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "to show",
           "is_correct": true,
           "feedback": "Correct! For requests/orders, we use \"to + infinitive\"."
@@ -405,7 +405,7 @@
           "feedback": "Incorrect. This is for questions, not requests."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Para reportar peticiones u órdenes, utilizamos la estructura: *verbo de reporte + objeto + to + infinitivo*. Si es negativo, usamos *not to*.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "Finding an error in a long reported sentence.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "told",
           "is_correct": true,
           "feedback": "Correct! \"Told\" requires an object (e.g., \"told me\"). It should be \"said\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "had been",
           "is_correct": false,
           "feedback": "Incorrect. Correct backshift from \"was\" or \"have been\"."
@@ -451,7 +451,7 @@
           "feedback": "Incorrect. Correct shift from \"next year\" in the original context (though \"the following year\" is more formal)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El error más común es usar *tell* sin un destinatario. Siempre que usemos *tell*, debemos indicar a quién se dirige la información (*told me*, *told the class*).\n\n---",
       "difficulty": "10",
       "images": [],
@@ -485,19 +485,19 @@
           "feedback": "Incorrect. Inverted word order."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "had decided",
           "is_correct": true,
           "feedback": "Correct! Backshift and statement word order."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "I had decided",
           "is_correct": false,
           "feedback": "Incorrect. The \"why\" is already there, but B is a common trap. Wait, C is better."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "En las preguntas reportadas, el orden de las palabras cambia de interrogativo (*have you decided*) a afirmativo (*I had decided*). No se usan auxiliares de pregunta como *did* o *do*.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -525,25 +525,25 @@
           "feedback": "Incorrect. Missing backshifts."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "had finished / would have finished",
           "is_correct": true,
           "feedback": "Correct! Backshift of Present Perfect and Future Perfect."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "has finished / would finish",
           "is_correct": false,
           "feedback": "Incorrect. Mixed backshifts."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "did finish / had finished",
           "is_correct": false,
           "feedback": "Incorrect. Incorrect tense logic."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Este ejercicio final evalúa la capacidad de reportar estructuras complejas como el Presente Perfecto y el Futuro Perfecto en una sola situación comunicativa.",
       "difficulty": "10",
       "images": [],

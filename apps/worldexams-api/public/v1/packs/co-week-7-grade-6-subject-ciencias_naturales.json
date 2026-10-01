@@ -13,31 +13,31 @@
       "context": "En una huerta de Bogotá, la profesora escribe en el tablero los ingredientes que una hoja de acelga necesita para fabricar su alimento.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Luz solar, agua y dióxido de carbono",
           "is_correct": true,
           "feedback": "Correcto. Esos tres ingredientes permiten fabricar glucosa y liberar oxígeno."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Oxígeno, carne y tierra seca",
           "is_correct": false,
           "feedback": "Incorrecto. Las plantas no comen carne ni usan oxígeno como ingrediente de la fotosíntesis."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Azúcar, proteína y grasa",
           "is_correct": false,
           "feedback": "Incorrecto. Esos son productos o nutrientes de animales, no ingredientes de la fotosíntesis."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Sal, vinagre y humo",
           "is_correct": false,
           "feedback": "Incorrecto. Ninguno de esos elementos participa en la fabricación del alimento vegetal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La fotosíntesis usa energía luminosa para unir agua y dióxido de carbono y producir glucosa.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "En Medellín, los estudiantes ven burbujas de oxígeno salir de una planta acuática de elodea iluminada dentro de un vaso.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Oxígeno, que luego usan los animales para respirar",
           "is_correct": true,
           "feedback": "Correcto. El oxígeno es el gas liberado por la fotosíntesis."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Dióxido de carbono, que es el alimento de la planta",
           "is_correct": false,
           "feedback": "Incorrecto. El dióxido de carbono es ingrediente que entra, no el gas que sale."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Nitrógeno, que forma las nubes del cielo",
           "is_correct": false,
           "feedback": "Incorrecto. El nitrógeno abunda en el aire pero no es producto de la fotosíntesis."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Hidrógeno puro, que explota con el sol",
           "is_correct": false,
           "feedback": "Incorrecto. La planta no libera hidrógeno gaseoso puro."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Entran agua y dióxido de carbono; salen glucosa y oxígeno gracias a la luz.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En el Valle del Cauca, un cañaduzal al sol produce azúcar que luego se vende como panela en el mercado de Cali.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "En los cloroplastos, gracias a la clorofila que capta la luz",
           "is_correct": true,
           "feedback": "Correcto. El cloroplasto con clorofila es el sitio exacto de la fotosíntesis."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En las mitocondrias, gracias a la hemoglobina de la sangre",
           "is_correct": false,
           "feedback": "Incorrecto. Las mitocondrias respiran y la hemoglobina es de animales, no de plantas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "En la pared celular, gracias a la madera dura",
           "is_correct": false,
           "feedback": "Incorrecto. La pared da soporte, pero no capta luz ni fabrica azúcar."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Sin luz no hay fotosíntesis; la raíz absorbe agua y sales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La clorofila dentro del cloroplasto absorbe luz roja y azul y refleja el verde que vemos.",
       "difficulty": "6",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En el páramo de Chingaza, los frailejones abren pequeños poros en sus hojas durante el día y los cierran de noche.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Estomas, que dejan entrar dióxido de carbono y salir oxígeno y vapor de agua",
           "is_correct": true,
           "feedback": "Correcto. Los estomas regulan el intercambio de gases y la pérdida de agua."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Bronquios, que llevan aire a los pulmones de la planta",
           "is_correct": false,
           "feedback": "Incorrecto. Los bronquios son de animales con pulmones, no de plantas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Pupilas, que permiten ver la luz del sol",
           "is_correct": false,
           "feedback": "Incorrecto. Las plantas no tienen ojos ni pupilas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Raíces aéreas, que absorben tierra sólida",
           "is_correct": false,
           "feedback": "Incorrecto. Las raíces absorben agua, y los poros de la hoja son los estomas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Los estomas son poros con células guardianas que se abren de día para fotosintetizar y se cierran para ahorrar agua.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En Barranquilla, un atleta corre por el malecón del río Magdalena y respira más rápido al aumentar el esfuerzo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La respiración celular, que usa oxígeno y glucosa para liberar energía",
           "is_correct": true,
           "feedback": "Correcto. Al respirar rápido lleva más oxígeno para producir energía en las mitocondrias."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La fotosíntesis, porque suda bajo el sol",
           "is_correct": false,
           "feedback": "Incorrecto. Los humanos no tienen clorofila ni hacen fotosíntesis."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La germinación, porque sus piernas crecen como plantas",
           "is_correct": false,
           "feedback": "Incorrecto. La germinación es el nacimiento de una planta desde la semilla."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Pisar arena no produce energía dentro del músculo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La respiración celular ocurre en mitocondrias de plantas y animales: glucosa más oxígeno generan energía, agua y dióxido de carbono.",
       "difficulty": "6",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En Cali, una cartelera compara la fotosíntesis de día y la respiración de noche en una planta de plátano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La fotosíntesis fabrica glucosa y oxígeno de día, y la respiración usa esa glucosa día y noche para dar energía",
           "is_correct": true,
           "feedback": "Correcto. La planta fotosintetiza con luz pero respira siempre para vivir."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La planta solo fotosintetiza de noche y solo respira de día",
           "is_correct": false,
           "feedback": "Incorrecto. La fotosíntesis exige luz; la respiración ocurre las 24 horas."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Respiran en sus mitocondrias e intercambian gases por estomas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Fotosíntesis y respiración son opuestos y complementarios: una guarda energía y la otra la libera para crecer.",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En la feria de Manizales, un equipo mete una planta acuática en un tubo con agua y un sensor que mide oxígeno bajo luz intensa y luego en oscuridad.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Con luz el oxígeno aumenta por fotosíntesis mayor que la respiración, y en oscuridad disminuye porque solo respira",
           "is_correct": true,
           "feedback": "Correcto. De día predomina la producción de oxígeno; de noche solo hay consumo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El oxígeno aumenta igual en luz y oscuridad porque la planta no respira",
           "is_correct": false,
           "feedback": "Incorrecto. En oscuridad no hay fotosíntesis y el oxígeno baja por la respiración."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Las plantas acuáticas intercambian gases disueltos con el agua."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluar curvas de oxígeno demuestra que fotosíntesis y respiración ocurren a la vez, pero la luz inclina la balanza.",
       "difficulty": "10",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "En Bucaramanga, tres afirmaciones se debaten: 1) Las plantas solo fotosintetizan y los animales solo respiran. 2) El dióxido de carbono entra por estomas y el oxígeno sale por ellos. 3) Sin intercambio de gases no hay ni fotosíntesis ni respiración.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La 1 es falsa porque las plantas también respiran, la 2 es verdadera y la 3 es verdadera",
           "is_correct": true,
           "feedback": "Correcto. Las plantas hacen ambos procesos y dependen de los estomas para los gases."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las tres son verdaderas porque las plantas nunca usan oxígeno",
           "is_correct": false,
           "feedback": "Incorrecto. Las plantas consumen oxígeno en sus mitocondrias para obtener energía."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Las tres son falsas porque los estomas no existen en las hojas",
           "is_correct": false,
           "feedback": "Incorrecto. Los estomas son poros reales visibles al microscopio."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. La 1 es el error clásico: ignora la respiración vegetal permanente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Juzgar exige corregir la idea errónea más común: toda célula viva con mitocondrias respira, sea planta o animal.",
       "difficulty": "10",
       "images": [],

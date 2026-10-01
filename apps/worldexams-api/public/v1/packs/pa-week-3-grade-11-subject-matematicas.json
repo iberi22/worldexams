@@ -64,13 +64,13 @@
           "feedback": "Incorrecto. Probablemente se cometió un error en el signo al multiplicar por el valor negativo de b."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "18",
           "is_correct": true,
           "feedback": "Correcto. Sustituyendo: 3(4) - 2(-3) = 12 + 6 = 18."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la operación aritmética básica tras la sustitución de valores."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Error de signos en el cálculo del resultado final."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Cálculo del valor numérico de una expresión algebraica mediante la sustitución de variables por valores reales.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -103,19 +103,19 @@
       "context": "En una clase de álgebra en un colegio de Santiago, se definen las características de los polinomios multivariables.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. Este es solo el grado relativo a la variable x en el primer término."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "5",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el grado relativo a la variable y en el segundo término."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "6",
           "is_correct": true,
           "feedback": "Correcto. El grado absoluto es la mayor suma de exponentes de las variables en un término. Aquí, 1 + 5 = 6."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Se sumaron todos los exponentes del polinomio, lo cual no define el grado."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Definición y determinación del grado absoluto de un polinomio multivariable.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -154,13 +154,13 @@
           "feedback": "Incorrecto. Esta expresión representa el cuadrado del triple de un número."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$3x^2 - 5$",
           "is_correct": true,
           "feedback": "Correcto. Triple indica multiplicar por 3, cuadrado de un número es x^2, y disminuido en cinco es -5."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$3(x - 5)^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta expresión representa el triple del cuadrado de la diferencia entre un número y cinco."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Esto representaría la tercera parte del cuadrado, no el triple."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Traducción de enunciados en lenguaje natural a expresiones en lenguaje algebraico.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Un arquitecto en la Ciudad de Panamá simplifica las expresiones de las dimensiones de un local comercial.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$10x^2 + 4x - 4$",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumaron los términos de x^2 en lugar de restarlos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$6x^2 + 4x - 4$",
           "is_correct": true,
           "feedback": "Correcto. (8-2)x^2 + (-3+7)x + (5-9) = 6x^2 + 4x - 4."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Al sumar términos semejantes, los exponentes de las variables permanecen iguales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Reducción de términos semejantes en una expresión polinómica.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -250,19 +250,19 @@
           "feedback": "Incorrecto. Errores en la suma algebraica de los coeficientes de los términos."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$5x^2 + 3x - 5$",
           "is_correct": true,
           "feedback": "Correcto. (3+2)x^2 + (-5+8)x + (2-7) = 5x^2 + 3x - 5."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x^2 + 3x - 5$",
           "is_correct": false,
           "feedback": "Incorrecto. Error al sumar los términos cuadráticos de ambos polinomios."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Operación de adición de polinomios identificando y sumando coeficientes de términos con el mismo grado.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -283,31 +283,31 @@
       "context": "Un agricultor en Boquete resta la pérdida de cultivos de su proyección total usando expresiones algebraicas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$3x^2 + 7x - 7$",
           "is_correct": true,
           "feedback": "Correcto. (5-2)x^2 + (3-(-4))x + (-6-1) = 3x^2 + 7x - 7."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$3x^2 - x - 5$",
           "is_correct": false,
           "feedback": "Incorrecto. No se aplicó el cambio de signo necesario a los términos del sustraendo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$7x^2 - x - 5$",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumaron los polinomios en lugar de restarlos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$3x^2 + 7x - 5$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la resta de los términos independientes del polinomio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Operación de sustracción de polinomios aplicando la regla del opuesto al sustraendo.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Incorrecto. Se omitieron los términos cruzados resultantes de la distribución completa."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x^2 + x - 12$",
           "is_correct": true,
           "feedback": "Correcto. x*x - 3x + 4x - 12 = x^2 + x - 12."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x^2 + 7x - 12$",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumaron los valores absolutos de las constantes en lugar de considerar sus signos."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Se sumaron los binomios en lugar de multiplicarlos como se pedía."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Multiplicación de binomios aplicando la propiedad distributiva.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,13 +424,13 @@
           "feedback": "Incorrecto. Se sumaron los exponentes en lugar de restarlos durante el proceso de división."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$3x^3 y^2$",
           "is_correct": true,
           "feedback": "Correcto. 12/4 = 3, x^{5-2} = x^3, y^{3-1} = y^2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$8x^3 y^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Se restaron los coeficientes numéricos en lugar de dividirlos."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Error al operar con los exponentes de las variables correspondientes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "División de monomios aplicando las leyes fundamentales de los exponentes.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Un topógrafo verifica la precisión de un cálculo de área utilizando la división larga de polinomios en un plano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x + 2$",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el divisor; el cociente debe ser el factor que completa el trinomio."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x + 3$",
           "is_correct": true,
           "feedback": "Correcto. (x+2)(x+3) = x^2 + 5x + 6, por lo que el cociente es x+3."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Error en el proceso de división o en la factorización del trinomio."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Ejecución de la división de un polinomio entre un binomio lineal.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "Un estudiante panameño utiliza la regla de Ruffini para encontrar el residuo de una división sintética en su tarea.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "1",
           "is_correct": false,
           "feedback": "Incorrecto. Error al evaluar el valor x=1 en la expresión del polinomio."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "0",
           "is_correct": false,
           "feedback": "Incorrecto. El residuo no es nulo, indicando que el binomio no es un factor exacto."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "-3",
           "is_correct": true,
           "feedback": "Correcto. Por el Teorema del Residuo, P(1) = 1 - 2 + 3 - 5 = -3."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Solo se consideró el valor del término independiente del dividendo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Aplicación del Teorema del Residuo para hallar el resto de una división polinómica.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Un analista de riesgos en la Bolsa de Valores de Panamá simplifica una expresión de potencias y fracciones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$2x^2 y$",
           "is_correct": false,
           "feedback": "Incorrecto. Error al elevar el coeficiente al cubo y al operar con las potencias."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{2x^2}{y}$",
           "is_correct": true,
           "feedback": "Correcto. (8x^6 / y^3) * (y^2 / 4x^4) = 2 x^{6-4} y^{2-3} = 2x^2 / y."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Se multiplicaron exponentes en lugar de aplicar las leyes de división."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Simplificación de expresiones algebraicas complejas utilizando leyes de exponentes y fracciones.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,25 +649,25 @@
           "feedback": "Incorrecto. Esta es la suma de cuadrados, no el resultado de una diferencia."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$4a^2 - 9b^2$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando (A+B)(A-B) = A^2 - B^2, resulta 4a^2 - 9b^2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$4a^2 - 12ab + 9b^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el desarrollo de un binomio al cuadrado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$2a^2 - 3b^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Se olvidó elevar los coeficientes numéricos a la potencia dos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Aplicación del producto notable \"producto de la suma por la diferencia de dos cantidades\".\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,13 +694,13 @@
           "feedback": "Incorrecto. Probablemente solo se multiplicaron los primeros dos términos constantes."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "-6",
           "is_correct": false,
           "feedback": "Incorrecto. Error en el cálculo de los signos al realizar la multiplicación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "6",
           "is_correct": true,
           "feedback": "Correcto. El término independiente es el producto de todas las constantes: (-1) * 2 * (-3) = 6."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Ninguna de las constantes es nula, por lo que su producto no es cero."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Identificación del término independiente en el producto de varios binomios lineales.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,25 +739,25 @@
           "feedback": "Incorrecto. No se completó la simplificación algebraica de los términos."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$\\frac{x}{x - 1}$",
           "is_correct": true,
           "feedback": "Correcto. ((x+1)/x) / ((x^2-1)/x^2) = (x+1)/x * x^2/((x+1)(x-1)) = x/(x-1)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{1}{x - 1}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se simplificó el factor x de forma errónea durante el proceso."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x - 1$",
           "is_correct": false,
           "feedback": "Incorrecto. Resultado obtenido de una manipulación inválida de las fracciones algebraicas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Simplificación de fracciones algebraicas complejas (fracción de fracciones).\n\n---",
       "difficulty": "9",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Un científico de materiales analiza la expansión de una aleación usando un polinomio de Newton.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "5",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el coeficiente de los términos de grado 4 y 1 mezclados."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "10",
           "is_correct": true,
           "feedback": "Correcto. Según el Triángulo de Pascal para n=5, los coeficientes son 1, 5, 10, 10, 5, 1."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Este coeficiente solo aplica para los términos extremos de la expansión."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Aplicación del Teorema del Binomio para encontrar coeficientes específicos.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Un matemático panameño demuestra una propiedad sobre la divisibilidad de polinomios superiores.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "5",
           "is_correct": false,
           "feedback": "Incorrecto. Al evaluar el residuo con este valor, no se obtiene el resultado cero."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3",
           "is_correct": true,
           "feedback": "Correcto. Por el Teorema del Factor, P(2) = 8 - 4k + 8 - 4 = 0. Entonces 12 = 4k, por lo que k = 3."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Error al resolver la ecuación lineal resultante para hallar la constante k."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Aplicación del Teorema del Factor para determinar parámetros desconocidos en polinomios.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación |\n| --- | --- |\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
       "difficulty": "10",
       "images": [],

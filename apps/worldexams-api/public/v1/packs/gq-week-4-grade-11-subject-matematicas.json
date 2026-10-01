@@ -64,25 +64,25 @@
           "feedback": "El 2 es el exponente de uno de los terminos, pero no es el mayor."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "4",
           "is_correct": true,
           "feedback": "¡Correcto! El grado de un polinomio es el mayor de los exponentes de su variable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "3",
           "is_correct": false,
           "feedback": "El 3 es el coeficiente principal, no el exponente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "7",
           "is_correct": false,
           "feedback": "El 7 es el termino independiente, no el grado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El grado de un polinomio de una sola variable es el mayor exponente al que esta elevada dicha variable. Determina el comportamiento de la funcion y el numero maximo de raices que puede tener.",
       "difficulty": "4",
       "images": [],
@@ -115,19 +115,19 @@
           "feedback": "No basta con el numero de variables, deben ser exactamente las mismas con los mismos exponentes."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Que sean terminos semejantes (misma parte literal con mismos exponentes).",
           "is_correct": true,
           "feedback": "¡Correcto! Solo los terminos semejantes pueden combinarse mediante suma o resta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que ambos terminos sean positivos.",
           "is_correct": false,
           "feedback": "Se pueden sumar terminos positivos con negativos sin problemas."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La reduccion de terminos semejantes es la operacion base para simplificar expresiones algebraicas. Se basa en la propiedad distributiva: $ax^n + bx^n = (a + b)x^n$.",
       "difficulty": "4",
       "images": [],
@@ -154,25 +154,25 @@
           "feedback": "Error en el calculo de los terminos."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "7",
           "is_correct": true,
           "feedback": "¡Correcto! $2(2^2) - 3(2) + 5 = 2(4) - 6 + 5 = 8 - 6 + 5 = 7$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "9",
           "is_correct": false,
           "feedback": "Error al realizar la suma y resta final."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "11",
           "is_correct": false,
           "feedback": "Error al elevar al cuadrado o multiplicar."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El valor numerico de una expresion algebraica se obtiene al sustituir las variables por numeros especificos y realizar las operaciones indicadas respetando la jerarquia de las mismas.",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Un estudiante de Mongomo estudia los productos notables para agilizar sus calculos algebraicos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$a^2 + b^2$",
           "is_correct": false,
           "feedback": "Falta el termino intermedio (el doble producto). Este es un error comun."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a^2 + 2ab + b^2$",
           "is_correct": true,
           "feedback": "¡Correcto! El cuadrado de un binomio es igual al cuadrado del primero, mas el doble del primero por el segundo, mas el cuadrado del segundo."
@@ -217,7 +217,7 @@
           "feedback": "Esto es simplemente multiplicar el binomio por 2, no elevarlo al cuadrado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Los productos notables son formulas que permiten obtener el resultado de ciertas multiplicaciones de polinomios de forma directa, sin necesidad de realizar todas las distributivas. El binomio al cuadrado es el mas fundamental de ellos.",
       "difficulty": "6",
       "images": [],
@@ -244,25 +244,25 @@
           "feedback": "En una diferencia de cuadrados el signo entre los terminos debe ser negativo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$x^2 - 25$",
           "is_correct": true,
           "feedback": "¡Correcto! El producto de una suma por una diferencia es igual a la diferencia de los cuadrados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x^2 - 10x + 25$",
           "is_correct": false,
           "feedback": "Este seria el desarrollo de $(x - 5)^2$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$2x - 10$",
           "is_correct": false,
           "feedback": "Error total en la operacion algebraica."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La formula $(a + b)(a - b) = a^2 - b^2$ se conoce como diferencia de cuadrados. Es extremadamente util en la factorizacion de expresiones y en la simplificacion de calculos geometricos.",
       "difficulty": "6",
       "images": [],
@@ -289,25 +289,25 @@
           "feedback": "El segundo termino tambien debe dividirse por 2x."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$3x^2 - 2x$",
           "is_correct": true,
           "feedback": "¡Correcto! Se divide cada termino del numerador entre el monomio del denominador."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$3x^3 - 2x^2$",
           "is_correct": false,
           "feedback": "Al dividir potencias de la misma base, se restan los exponentes ($x^3/x = x^2$)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$4x^2 - 2x$",
           "is_correct": false,
           "feedback": "Error al dividir el primer coeficiente ($6/2 = 3$)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Para dividir un polinomio por un monomio, aplicamos la propiedad distributiva de la division respecto a la suma/resta, dividiendo cada termino del polinomio individualmente y aplicando las leyes de los exponentes.",
       "difficulty": "6",
       "images": [],
@@ -328,19 +328,19 @@
       "context": "Un profesor en Luba explica como simplificar el producto de una constante por un polinomio: $5(x^2 - 2x + 1)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$5x^2 - 2x + 1$",
           "is_correct": false,
           "feedback": "El factor 5 debe multiplicar a todos los terminos del polinomio."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$5x^2 - 10x + 1$",
           "is_correct": false,
           "feedback": "Falta multiplicar el termino independiente (1) por 5."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$5x^2 - 10x + 5$",
           "is_correct": true,
           "feedback": "¡Correcto! El 5 se distribuye sobre cada uno de los tres terminos."
@@ -352,7 +352,7 @@
           "feedback": "Se ha cambiado el signo negativo del termino central incorrectamente."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La propiedad distributiva del producto sobre la suma/resta permite eliminar parentesis multiplicando el factor externo por cada uno de los elementos dentro del agrupamiento.",
       "difficulty": "6",
       "images": [],
@@ -379,13 +379,13 @@
           "feedback": "Error al operar los terminos independientes (+3 - 5 = -2)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$5x - 2$",
           "is_correct": true,
           "feedback": "¡Correcto! Sumamos las x ($2x+3x=5x$) y los numeros ($3-5=-2$)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$6x^2 - 15$",
           "is_correct": false,
           "feedback": "Se han multiplicado los terminos en lugar de sumarlos."
@@ -397,7 +397,7 @@
           "feedback": "Al sumar terminos semejantes, los exponentes de las variables no cambian."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La suma de polinomios consiste en agrupar y operar exclusivamente los terminos que son semejantes entre si, manteniendo intacta la parte literal y sus exponentes.",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Un ingeniero en el Puerto de Malabo factoriza una expresion de carga: $x^2 - 7x + 10$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(x - 10)(x - 1)$",
           "is_correct": false,
           "feedback": "Esto daria x^2 - 11x + 10."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(x - 5)(x - 2)$",
           "is_correct": true,
           "feedback": "¡Correcto! -5 y -2 multiplicados dan +10 y sumados dan -7."
@@ -487,7 +487,7 @@
           "feedback": "Esta no es la estructura correcta para un trinomio de este tipo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Para factorizar un trinomio de la forma $x^2 + bx + c$, buscamos dos numeros que multiplicados den $c$ (10) y sumados den $b$ (-7). En este caso, los numeros son -5 y -2.",
       "difficulty": "8",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Un estudiante en Annobon simplifica una fraccion algebraica para resolver un problema de distancias maritimas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x + 3$",
           "is_correct": false,
           "feedback": "Solo seria x+3 si el numerador fuera (x+3)^2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x - 3$",
           "is_correct": true,
           "feedback": "¡Correcto! El numerador es una diferencia de cuadrados $(x+3)(x-3)$, y el factor $(x+3)$ se cancela."
@@ -532,7 +532,7 @@
           "feedback": "Error al realizar la division de los terminos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La simplificacion de fracciones algebraicas requiere factorizar primero tanto el numerador como el denominador para identificar y cancelar factores comunes. La diferencia de cuadrados es clave aqui.",
       "difficulty": "8",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "Un arquitecto en Mongomo calcula el perimetro de una figura compuesta por tres lados de longitud $2x + 1$ y uno de longitud $x - 4$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$3x - 3$",
           "is_correct": false,
           "feedback": "Error al no multiplicar por 3 los primeros lados."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$6x + 3$",
           "is_correct": false,
           "feedback": "Falta sumar el cuarto lado."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$7x - 1$",
           "is_correct": true,
           "feedback": "¡Correcto! $3(2x + 1) + (x - 4) = 6x + 3 + x - 4 = 7x - 1$."
@@ -577,7 +577,7 @@
           "feedback": "Error en el manejo de los terminos independientes (+3 - 4 = -1)."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Este problema requiere modelar una situacion real mediante una expresion algebraica, aplicar la propiedad distributiva y reducir terminos semejantes para obtener la forma mas simple posible.",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Falta el termino central que resulta de las multiplicaciones cruzadas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$2x^2 - 5x - 12$",
           "is_correct": true,
           "feedback": "¡Correcto! $2x^2 - 8x + 3x - 12 = 2x^2 - 5x - 12$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$2x^2 + 5x - 12$",
           "is_correct": false,
           "feedback": "Error en el signo del termino central (-8x + 3x es -5x)."
@@ -622,7 +622,7 @@
           "feedback": "El primer coeficiente debe ser 2 (2x * x)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La multiplicacion de polinomios se basa en la propiedad distributiva aplicada de forma exhaustiva (metodo FOIL por sus siglas en ingles: First, Outer, Inner, Last). Luego se reducen los terminos semejantes.",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Un estudiante en Evinayong intenta factorizar la expresion $ax + ay + bx + by$ por agrupacion de terminos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$a(x + y) + b(x + y)$",
           "is_correct": false,
           "feedback": "Esta es una factorizacion parcial correcta, pero se puede simplificar mas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(a + b)(x + y)$",
           "is_correct": true,
           "feedback": "¡Correcto! Agrupando (ax+ay) y (bx+by), extraemos factores comunes y luego el parentesis comun."
@@ -667,7 +667,7 @@
           "feedback": "Esta expansion no coincide con la expresion original."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La factorizacion por agrupacion se aplica cuando no hay un factor comun a todos los terminos, pero si a grupos de ellos. Es el paso previo para entender factorizaciones mas complejas.",
       "difficulty": "8",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "Un tecnico en Bata necesita simplificar el cuadrado de un trinomio simple: $(x + 1 + y)^2$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x^2$",
           "is_correct": true,
           "feedback": "¡Correcto! Al elevar al cuadrado un polinomio, el primer paso incluye elevar cada termino individual al cuadrado."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2x$",
           "is_correct": false,
           "feedback": "Este seria un termino de doble producto, no el primero."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x^2 + 1 + y^2$",
           "is_correct": false,
           "feedback": "Esto solo seria una parte de la expansion total."
@@ -712,7 +712,7 @@
           "feedback": "Elevar al cuadrado cambia los grados de los terminos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La expansion de un multinomio al cuadrado sigue el patron: la suma de los cuadrados de cada termino mas el doble producto de todas las combinaciones posibles de pares de terminos.",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "El cubo de una resta no es igual a la resta de los cubos (faltan terminos intermedios)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$(x - y)(x^2 + xy + y^2)$",
           "is_correct": true,
           "feedback": "¡Correcto! Esta es la formula notable para la diferencia de cubos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(x - y)(x^2 - xy + y^2)$",
           "is_correct": false,
           "feedback": "Esta formula es incorrecta; el signo central del segundo factor debe ser positivo."
@@ -757,7 +757,7 @@
           "feedback": "Esta es la factorizacion de la suma de cubos ($x^3 + y^3$)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La factorizacion de suma y diferencia de cubos es una herramienta avanzada que permite descomponer polinomios de tercer grado en factores de primer y segundo grado. Es fundamental en el calculo de limites y derivadas.",
       "difficulty": "10",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Se debe sumar el cuadrado de la mitad del coeficiente de x."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "100",
           "is_correct": false,
           "feedback": "Este es el cuadrado de 10, pero falta dividir por 2 primero."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "25",
           "is_correct": true,
           "feedback": "¡Correcto! La mitad de 10 es 5, y 5 al cuadrado es 25. La expresion queda $(x + 5)^2$."
@@ -802,7 +802,7 @@
           "feedback": "5 es la mitad de 10, pero hay que elevarlo al cuadrado."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Completar el cuadrado es una tecnica para transformar un trinomio de la forma $x^2 + bx$ en $(x + b/2)^2$ mediante la suma del termino $(b/2)^2$. Es el paso fundamental para derivar la formula general de las ecuaciones cuadraticas.",
       "difficulty": "10",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Aunque es una factorizacion parcial correcta, se puede extraer un factor comun mas grande."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$5(x + 1)(x + 3)$",
           "is_correct": true,
           "feedback": "¡Correcto! Extrayendo el factor comun 5 queda $x^2 + 4x + 3$, que se factoriza como $(x+1)(x+3)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$5(x^2 + 4x + 15)$",
           "is_correct": false,
           "feedback": "Error al no dividir el termino independiente (15) por el factor comun (5)."
@@ -847,7 +847,7 @@
           "feedback": "El desarrollo de esto daria $5x^2 + 20x + 20$, no termina en 15."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La factorizacion completa implica primero buscar el Maximo Comun Factor (MCF) de todos los terminos y luego aplicar otros metodos (como trinomio de la forma $x^2 + bx + c$) a lo que queda dentro del parentesis.",
       "difficulty": "10",
       "images": [],
@@ -874,13 +874,13 @@
           "feedback": "El teorema del resto dice que el resto es P(a). P(1) = 1^100 - 1 = 0."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "0",
           "is_correct": true,
           "feedback": "¡Correcto! $P(1) = 1^{100} - 1 = 1 - 1 = 0$. Esto indica que x-1 es un factor de P(x)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "-1",
           "is_correct": false,
           "feedback": "Error al evaluar el polinomio en x = 1."
@@ -892,7 +892,7 @@
           "feedback": "El teorema del resto no tiene relacion directa con los exponentes de esta forma."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El Teorema del Resto establece que el residuo de dividir un polinomio $P(x)$ entre $(x - a)$ es igual al valor numerico del polinomio evaluado en $a$, es decir, $P(a)$. Es una herramienta poderosa para verificar la divisibilidad de polinomios de alto grado.\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
       "difficulty": "10",
       "images": [],

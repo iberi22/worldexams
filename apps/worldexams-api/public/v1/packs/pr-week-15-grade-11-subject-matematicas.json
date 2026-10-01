@@ -13,13 +13,13 @@
       "context": "Durante un taller de preparación académica en la Escuela Superior Loaiza Cordero de Yauco, Gabriel resuelve un ejercicio propuesto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$115^{\\circ}$",
           "is_correct": true,
           "feedback": "Correcto. Dos ángulos suplementarios suman $180^{\\circ}$, por lo que $180 - 65 = 115$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$125^{\\circ}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error aritmético de sustracción."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Esta es la diferencia básica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Dos ángulos son suplementarios si su suma es igual a $180^{\\circ}$. Por lo tanto, si uno mide $65^{\\circ}$, el otro mide $180^{\\circ} - 65^{\\circ} = 115^{\\circ}$.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -115,19 +115,19 @@
           "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$20$",
           "is_correct": true,
           "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$25$",
           "is_correct": false,
           "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Como parte de las olimpiades científicas en Ponce, Mateo aplica conceptos algebraicos en la Escuela Superior Ponce High.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$10$",
           "is_correct": false,
           "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$15$",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$20$",
           "is_correct": true,
           "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$15$",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$20$",
           "is_correct": true,
           "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -250,19 +250,19 @@
           "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$20$",
           "is_correct": true,
           "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$25$",
           "is_correct": false,
           "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -340,19 +340,19 @@
           "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$20$",
           "is_correct": true,
           "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$25$",
           "is_correct": false,
           "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "En San Juan, Valentina estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior de la Universidad de Puerto Rico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$10$",
           "is_correct": false,
           "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$15$",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$20$",
           "is_correct": true,
           "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -475,19 +475,19 @@
           "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$20$",
           "is_correct": true,
           "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$25$",
           "is_correct": false,
           "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -520,19 +520,19 @@
           "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$20$",
           "is_correct": true,
           "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$25$",
           "is_correct": false,
           "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -598,19 +598,19 @@
       "context": "Durante un taller de preparación académica en la Escuela Superior José Gautier Benítez de Caguas, Keylor resuelve un ejercicio propuesto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$10$",
           "is_correct": false,
           "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$15$",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$20$",
           "is_correct": true,
           "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,19 +643,19 @@
       "context": "Durante un taller de preparación académica en la Escuela Superior Luis Muñoz Rivera de Utuado, Carmen resuelve un ejercicio propuesto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$10$",
           "is_correct": false,
           "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$15$",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$20$",
           "is_correct": true,
           "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -700,19 +700,19 @@
           "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$20$",
           "is_correct": true,
           "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$25$",
           "is_correct": false,
           "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$15$",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$20$",
           "is_correct": true,
           "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -835,19 +835,19 @@
           "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$20$",
           "is_correct": true,
           "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$25$",
           "is_correct": false,
           "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "En Mayagüez, Valentina diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior de Mayagüez (SILA).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$10$",
           "is_correct": false,
           "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$15$",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$20$",
           "is_correct": true,
           "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
       "difficulty": "10",
       "images": [],

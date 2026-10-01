@@ -13,19 +13,19 @@
       "context": "En Bogotá, un curso de 30 estudiantes registra las edades y se organizan en una tabla de frecuencias.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El número de veces que aparece esa categoría en los datos.",
           "is_correct": true,
           "feedback": "Correcto. La frecuencia absoluta es el conteo de observaciones de la categoría."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La proporción del total que representa la categoría.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso es la frecuencia relativa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La categoría que aparece más veces.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso es la moda, no la frecuencia absoluta de una categoría."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. La frecuencia es un conteo, no un promedio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La frecuencia absoluta de una categoría es el número de observaciones que pertenecen a ella; se denota usualmente como $f_i$.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "En Medellín, se explica cómo se calcula la frecuencia relativa de una categoría.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\frac{f_i}{n}$",
           "is_correct": true,
           "feedback": "Correcto. La frecuencia relativa es el cociente entre la frecuencia absoluta y el total de datos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{n}{f_i}$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste el cociente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$f_i \\cdot n$",
           "is_correct": false,
           "feedback": "Incorrecto. Es una división, no un producto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$f_i - n$",
           "is_correct": false,
           "feedback": "Incorrecto. No es una resta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La frecuencia relativa es $f_i/n$ y expresa la proporción de datos que caen en la categoría; al sumar todas resulta $1$.",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En Barranquilla, una encuesta de 50 personas pregunta por su deporte favorito. El fútbol fue elegido por 20 personas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$40\\%$",
           "is_correct": true,
           "feedback": "Correcto. $\\frac{20}{50} = 0.4 = 40\\%$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$25\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. $\\frac{20}{50}$ no es $0.25$."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Confundiste el conteo con el porcentaje."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Porcentaje $= \\frac{20}{50} \\cdot 100 = 40\\%$.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En Bucaramanga, una tabla de frecuencias de notas tiene intervalos. Las frecuencias absolutas son $3$, $7$, $12$ y $8$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$22$",
           "is_correct": true,
           "feedback": "Correcto. $3 + 7 + 12 = 22$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$30$",
           "is_correct": false,
           "feedback": "Incorrecto. Incluiste también el cuarto intervalo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$12$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es solo el tercer intervalo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$19$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste solo $7 + 12$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La frecuencia acumulada hasta el tercer intervalo es la suma $3 + 7 + 12 = 22$.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En Pereira, se agrupan datos en el intervalo $[20, 30)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$25$",
           "is_correct": true,
           "feedback": "Correcto. La marca de clase es el punto medio: $\\frac{20 + 30}{2} = 25$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$20$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el límite inferior del intervalo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$30$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el límite superior del intervalo."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. $10$ es la amplitud del intervalo, no su marca."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La marca de clase es el punto medio del intervalo: $\\frac{20 + 30}{2} = 25$.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En Manizales, se construye una tabla con 5 intervalos a partir de datos cuyo valor mínimo es 12 y máximo es 62.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$10$",
           "is_correct": true,
           "feedback": "Correcto. El rango es $62 - 12 = 50$; $\\frac{50}{5} = 10$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$50$",
           "is_correct": false,
           "feedback": "Incorrecto. $50$ es el rango total de los datos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$12$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el valor mínimo."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Confundiste el número de intervalos con la amplitud."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El rango es $62 - 12 = 50$. Con 5 intervalos de igual ancho, la amplitud es $\\frac{50}{5} = 10$.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En Cartagena, una tabla de frecuencias de 60 datos tiene frecuencias $10$, $15$, $20$, $x$ y $5$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$10$",
           "is_correct": true,
           "feedback": "Correcto. La suma de frecuencias debe ser $60$: $10 + 15 + 20 + x + 5 = 60$, luego $x = 10$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$15$",
           "is_correct": false,
           "feedback": "Incorrecto. La suma daría $65$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$5$",
           "is_correct": false,
           "feedback": "Incorrecto. La suma daría $55$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$20$",
           "is_correct": false,
           "feedback": "Incorrecto. La suma daría $70$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La suma de todas las frecuencias absolutas es el total de datos: $10 + 15 + 20 + x + 5 = 60$, por lo que $x = 10$.",
       "difficulty": "8",
       "images": [],

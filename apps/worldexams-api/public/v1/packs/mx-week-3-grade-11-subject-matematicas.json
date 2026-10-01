@@ -19,25 +19,25 @@
           "feedback": "8 es el número que se suma a x, no el valor de x."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "12",
           "is_correct": true,
           "feedback": "Para despejar x, restamos 8 de 20 (20 - 8 = 12)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "28",
           "is_correct": false,
           "feedback": "Se sumó 8 a 20 en lugar de restarlo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "10",
           "is_correct": false,
           "feedback": "Cálculo incorrecto de la resta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En una ecuación lineal de primer grado, el objetivo es despejar la incógnita. Si un número está sumando a la variable, pasa al otro lado de la igualdad realizando la operación contraria, que es la resta. Por lo tanto, x = 20 - 8 = 12.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -64,13 +64,13 @@
           "feedback": "Esto indicaría que el refresco cuesta 3 pesos más, no el triple."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "r = 3c",
           "is_correct": true,
           "feedback": "\"Triple\" significa multiplicar por 3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "c = 3r",
           "is_correct": false,
           "feedback": "Esto indicaría que el chicle es el triple de caro que el refresco."
@@ -82,7 +82,7 @@
           "feedback": "Esto indicaría que el refresco cuesta la tercera parte que el chicle."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La traducción del lenguaje común al lenguaje algebraico es fundamental. La palabra \"triple\" indica una relación multiplicativa por tres. Si el precio del refresco (r) es el triple del precio del chicle (c), entonces r = 3 \\times c.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -154,25 +154,25 @@
           "feedback": "Esto sería el doble menos 5 años."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "2x + 5",
           "is_correct": true,
           "feedback": "\"Doble\" es 2x, y \"más 5 años\" es sumar 5."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x + 10",
           "is_correct": false,
           "feedback": "Expresión incorrecta para el doble más 5."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "5x + 2",
           "is_correct": false,
           "feedback": "Los valores están intercambiados."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Traducimos paso a paso: \"la edad de Juan\" es x. \"El doble de la de Juan\" es 2x. \"Más 5 años\" significa adicionar 5 a la cantidad anterior. Por lo tanto, la edad del padre se expresa como 2x + 5.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Un vendedor en un mercado de Puebla vende naranjas y necesita resolver una ecuación para cuadrar sus cuentas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "1.66",
           "is_correct": false,
           "feedback": "Error al restar 5 en lugar de sumarlo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5",
           "is_correct": true,
           "feedback": "3x = 10 + 5; 3x = 15; x = 15 / 3 = 5."
@@ -217,7 +217,7 @@
           "feedback": "Cálculo incorrecto del despeje."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Primero, pasamos el término constante (-5) al otro lado sumando: 3x = 10 + 5 = 15. Luego, despejamos x dividiendo por 3: x = 15 / 3 = 5. Podemos verificar sustituyendo x=5 en la ecuación original: 3(5) - 5 = 15 - 5 = 10.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,31 +238,31 @@
       "context": "Un estudiante en Toluca debe resolver una ecuación donde la incógnita aparece en ambos lados de la igualdad.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "3",
           "is_correct": true,
           "feedback": "5x - 2x = 11 - 2; 3x = 9; x = 9 / 3 = 3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "4",
           "is_correct": false,
           "feedback": "Error en la resta de los términos constantes o variables."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1.5",
           "is_correct": false,
           "feedback": "Error en el despeje final."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "-3",
           "is_correct": false,
           "feedback": "Error de signos en el proceso de resolución."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Agrupamos los términos con x en un lado y los términos constantes en el otro. Restamos 2x de ambos lados: 5x - 2x + 2 = 11. Restamos 2 de ambos lados: 3x = 11 - 2 = 9. Finalmente, dividimos entre 3: x = 9 / 3 = 3.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "Un sastre en Tlaxcala tiene 45 metros de tela y los divide en dos partes, una de las cuales mide el doble que la otra.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "15 metros",
           "is_correct": true,
           "feedback": "x + 2x = 45; 3x = 45; x = 15."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "30 metros",
           "is_correct": false,
           "feedback": "Esta es la medida de la parte más larga (2x)."
@@ -307,7 +307,7 @@
           "feedback": "Cálculo incorrecto de la proporción."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Sea x la longitud de la parte corta. La otra parte mide el doble, es decir, 2x. La suma de ambas partes es igual al total de la tela: x + 2x = 45. Simplificando: 3x = 45. Dividiendo por 3: x = 15. La parte corta mide 15 metros.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Error al no distribuir el 2 o al no sumar el 6 resultante."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "10",
           "is_correct": true,
           "feedback": "2x - 6 = 14; 2x = 20; x = 10."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "4",
           "is_correct": false,
           "feedback": "Error en el manejo de signos al despejar."
@@ -352,7 +352,7 @@
           "feedback": "Error de cálculo en la resolución."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Aplicamos la propiedad distributiva: 2 \\times x - 2 \\times 3 = 14, lo que da 2x - 6 = 14. Pasamos el -6 sumando: 2x = 14 + 6 = 20. Despejamos x dividiendo entre 2: x = 20 / 2 = 10.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -385,19 +385,19 @@
           "feedback": "x=0 es una solución, pero no la única."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Infinitas soluciones",
           "is_correct": true,
           "feedback": "Es una identidad; cualquier valor de x satisface la igualdad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Dos soluciones",
           "is_correct": false,
           "feedback": "Las ecuaciones lineales de primer grado tienen máximo una solución, a menos que sean identidades."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Al simplificar la ecuación restando 2x de ambos lados, obtenemos 5 = 5. Como esta igualdad es siempre verdadera independientemente del valor de x, se trata de una identidad y posee un número infinito de soluciones (todos los números reales).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Un pequeño empresario en Hidalgo calcula el precio de venta de un producto que incluye un IVA del 16%.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$487.20",
           "is_correct": false,
           "feedback": "Esto es restar el 16% del total, lo cual es un error común."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$500.00",
           "is_correct": true,
           "feedback": "x * 1.16 = 580; x = 580 / 1.16 = 500."
@@ -442,7 +442,7 @@
           "feedback": "Se sumó el 16% en lugar de usarlo como factor para encontrar el original."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El precio con IVA se calcula multiplicando el precio base (x) por 1.16 (que representa el 100% + 16%). La ecuación es 1.16x = 580. Para hallar x, dividimos: x = 580 / 1.16. El resultado es $500.00 pesos.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,31 +463,31 @@
       "context": "Un estudiante de preparatoria en San Luis Potosí resuelve una ecuación lineal que contiene fracciones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "12",
           "is_correct": true,
           "feedback": "Multiplicando por 6: 3x + 2x = 60; 5x = 60; x = 12."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "6",
           "is_correct": false,
           "feedback": "Error al operar con las fracciones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "20",
           "is_correct": false,
           "feedback": "Error en la simplificación de la ecuación."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "15",
           "is_correct": false,
           "feedback": "Error en el despeje final de la incógnita."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para eliminar los denominadores, multiplicamos toda la ecuación por el mínimo común múltiplo de 2 y 3, que es 6. Obtenemos: 6(x/2) + 6(x/3) = 6(10) \\rightarrow 3x + 2x = 60. Sumando términos semejantes: 5x = 60. Dividiendo entre 5: x = 12.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -520,19 +520,19 @@
           "feedback": "Este es el número medio (x + 1)."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "25",
           "is_correct": true,
           "feedback": "x + (x+1) + (x+2) = 72; 3x + 3 = 72; 3x = 69; x = 23. El mayor es 23 + 2 = 25."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "26",
           "is_correct": false,
           "feedback": "Error al plantear o resolver la ecuación."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Definimos los números como x, x+1 y x+2. Su suma es: x + x + 1 + x + 2 = 72 \\rightarrow 3x + 3 = 72. Despejamos x: 3x = 69 \\rightarrow x = 23. Los números son 23, 24 y 25. El número mayor solicitado es 25.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -559,25 +559,25 @@
           "feedback": "Error en la distribución o división por el coeficiente 2."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "a = (P / 2) - b",
           "is_correct": true,
           "feedback": "Dividimos entre 2: P/2 = a + b. Luego restamos b."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "a = 2P - b",
           "is_correct": false,
           "feedback": "Se multiplicó por 2 en lugar de dividir."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "a = P - b / 2",
           "is_correct": false,
           "feedback": "Error en el orden de los términos al despejar."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Para despejar \"a\", primero dividimos ambos lados por 2: P / 2 = a + b. Posteriormente, restamos \"b\" de ambos lados para dejar sola la variable \"a\": a = (P / 2) - b. También es equivalente a a = (P - 2b) / 2.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,25 +604,25 @@
           "feedback": "Esto dejaría 350 litros."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "8 horas",
           "is_correct": true,
           "feedback": "380 = 500 - 15t; 15t = 500 - 380; 15t = 120; t = 8."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "12 horas",
           "is_correct": false,
           "feedback": "Error al resolver la resta o la división."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "6 horas",
           "is_correct": false,
           "feedback": "Cálculo incorrecto del tiempo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Planteamos la ecuación sustituyendo L por 380: 380 = 500 - 15t. Movemos los términos: 15t = 500 - 380 \\rightarrow 15t = 120. Despejamos el tiempo dividiendo entre 15: t = 120 / 15 = 8. En 8 horas tendrá 380 litros.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "x no puede ser 6 ya que anularía el denominador."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "8",
           "is_correct": true,
           "feedback": "12(x-6) = 3x; 12x - 72 = 3x; 9x = 72; x = 8."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "4",
           "is_correct": false,
           "feedback": "Error al aplicar productos cruzados o al resolver la ecuación resultante."
@@ -667,7 +667,7 @@
           "feedback": "Resultado incorrecto del despeje."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Usamos productos cruzados: 12(x - 6) = 3x. Distribuimos: 12x - 72 = 3x. Agrupamos las x: 12x - 3x = 72 \\rightarrow 9x = 72. Dividiendo entre 9: x = 8. Verificamos: 12/8 = 1.5; 3/(8-6) = 3/2 = 1.5.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Un estudiante analiza una ecuación que no tiene solución debido a una contradicción aritmética.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Tiene una solución única (x = 0).",
           "is_correct": false,
           "feedback": "Si x=0, 6=4, lo cual es falso."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "No tiene solución.",
           "is_correct": true,
           "feedback": "Al simplificar queda 6 = 4, una contradicción lógica."
@@ -712,7 +712,7 @@
           "feedback": "Si x=2, 3(4)=12 y 3(2)+4=10. Falso."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Al desarrollar el lado izquierdo: 3x + 6 = 3x + 4. Si restamos 3x de ambos lados, llegamos a la expresión 6 = 4. Como esto es una contradicción (nunca es cierto), concluimos que no existe ningún valor de x que satisfaga la ecuación original.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,19 +733,19 @@
       "context": "Un químico en un laboratorio del IPN mezcla dos soluciones ácidas para obtener una concentración específica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "5 litros",
           "is_correct": true,
           "feedback": "0.20x + 0.50(10) = 0.40(x + 10); 0.20x + 5 = 0.40x + 4; 1 = 0.20x; x = 5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "10 litros",
           "is_correct": false,
           "feedback": "Error en el planteamiento de los porcentajes o en la resolución."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2.5 litros",
           "is_correct": false,
           "feedback": "Error de cálculo al despejar la incógnita."
@@ -757,7 +757,7 @@
           "feedback": "Resultado incorrecto para la mezcla dada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Planteamos la ecuación basada en la cantidad de ácido puro: (litros \\times concentración). 0.20x + 0.50(10) = 0.40(x + 10). Resolviendo: 0.20x + 5 = 0.40x + 4. Restamos 0.20x y 4: 1 = 0.20x. Despejamos x: x = 1 / 0.20 = 5 litros.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -874,25 +874,25 @@
           "feedback": "La igualdad no se cumpliría para todo x; resultaría en 4x = 4x - 7."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "0",
           "is_correct": true,
           "feedback": "4x - 7 + k = 4x - 8 + 1; 4x - 7 + k = 4x - 7. Para que sea identidad, k debe ser 0."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "-7",
           "is_correct": false,
           "feedback": "Error al simplificar los términos constantes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "1",
           "is_correct": false,
           "feedback": "Resultado incorrecto para lograr una identidad."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Desarrollamos el lado derecho: 4(x - 2) + 1 = 4x - 8 + 1 = 4x - 7. La ecuación queda: 4x - 7 + k = 4x - 7. Para que tenga infinitas soluciones, ambos lados deben ser idénticos. Por comparación directa, vemos que k debe ser igual a 0.\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 100 |\n| Curricular | 100 |\n| Contexto | 100 |\n| Redacción | 100 |\n| **Total** | **100** |",
       "difficulty": "10",
       "images": [],
@@ -913,19 +913,19 @@
       "context": "Mauricio renta un salón de fiestas en Toluca para un evento escolar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "30 invitados",
           "is_correct": true,
           "feedback": "¡Correcto! Planteando la ecuación: 120x + 1500 = 5100. Restando 1500 queda 120x = 3600. Dividiendo entre 120, x = 30."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "42 invitados",
           "is_correct": false,
           "feedback": "Incorrecto. Se calculó dividiendo todo el presupuesto directamente sin restar la cuota fija."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "25 invitados",
           "is_correct": false,
           "feedback": "Incorrecto. Esta cantidad de invitados dejaría presupuesto sin utilizar habiendo espacio para más."
@@ -937,7 +937,7 @@
           "feedback": "Incorrecto. Esta cantidad superaría el presupuesto total disponible por Mauricio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Planteamos la ecuación lineal donde x representa el número de invitados: 120x + 1500 = 5100. Despejamos la variable: primero restamos la cuota fija de ambos lados: 120x = 5100 - 1500 = 3600. Luego dividimos entre el costo unitario por invitado: x = 3600 / 120 = 30 invitados.",
       "difficulty": "4",
       "images": [],
@@ -958,19 +958,19 @@
       "context": "Un estudiante en Querétaro resuelve una ecuación lineal con coeficientes fraccionarios en su examen mensual.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "18",
           "is_correct": true,
           "feedback": "¡Correcto! Sumando 5 en ambos lados: (2/3)x = 12. Multiplicando por 3: 2x = 36. Dividiendo entre 2: x = 18."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "8",
           "is_correct": false,
           "feedback": "Incorrecto. Se multiplicó de forma errónea por la fracción en el despeje."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "12",
           "is_correct": false,
           "feedback": "Incorrecto. Esto representaría el resultado intermedio antes de multiplicar por la inversa de la fracción."
@@ -982,7 +982,7 @@
           "feedback": "Incorrecto. No se aplicaron correctamente las operaciones inversas para despejar la variable x."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para despejar x de la ecuación (2/3)x - 5 = 7, primero sumamos 5 a ambos lados para aislar el término con la variable: (2/3)x = 12. Luego, multiplicamos ambos lados por 3: 2x = 36. Por último, dividimos entre 2: x = 18.",
       "difficulty": "4",
       "images": [],
@@ -1093,19 +1093,19 @@
       "context": "Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 5.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "5",
           "is_correct": true,
           "feedback": "¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "10",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error al dividir los coeficientes resultantes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. No se agruparon de manera correcta los términos lineales."
@@ -1117,7 +1117,7 @@
           "feedback": "Incorrecto. Se sumaron las constantes de ambos lados en vez de restarlas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para resolver 4x + 5 = 2x + 15, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 5 = 15. Restamos 5 a ambos lados: 2x = 10. Dividimos por 2: x = 5.",
       "difficulty": "6",
       "images": [],
@@ -1138,13 +1138,13 @@
       "context": "Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 6.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "5",
           "is_correct": true,
           "feedback": "¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "10",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error al dividir los coeficientes resultantes."
@@ -1162,7 +1162,7 @@
           "feedback": "Incorrecto. Se sumaron las constantes de ambos lados en vez de restarlas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para resolver 4x + 6 = 2x + 16, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 6 = 16. Restamos 6 a ambos lados: 2x = 10. Dividimos por 2: x = 5.",
       "difficulty": "6",
       "images": [],
@@ -1183,19 +1183,19 @@
       "context": "Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 7.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "5",
           "is_correct": true,
           "feedback": "¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "10",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error al dividir los coeficientes resultantes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. No se agruparon de manera correcta los términos lineales."
@@ -1207,7 +1207,7 @@
           "feedback": "Incorrecto. Se sumaron las constantes de ambos lados en vez de restarlas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para resolver 4x + 7 = 2x + 17, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 7 = 17. Restamos 7 a ambos lados: 2x = 10. Dividimos por 2: x = 5.",
       "difficulty": "6",
       "images": [],
@@ -1273,13 +1273,13 @@
       "context": "Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 9.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "5",
           "is_correct": true,
           "feedback": "¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "10",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error al dividir los coeficientes resultantes."
@@ -1297,7 +1297,7 @@
           "feedback": "Incorrecto. Se sumaron las constantes de ambos lados en vez de restarlas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para resolver 4x + 9 = 2x + 19, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 9 = 19. Restamos 9 a ambos lados: 2x = 10. Dividimos por 2: x = 5.",
       "difficulty": "6",
       "images": [],
@@ -1408,13 +1408,13 @@
       "context": "Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 12.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "5",
           "is_correct": true,
           "feedback": "¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "10",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error al dividir los coeficientes resultantes."
@@ -1432,7 +1432,7 @@
           "feedback": "Incorrecto. Se sumaron las constantes de ambos lados en vez de restarlas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para resolver 4x + 12 = 2x + 22, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 12 = 22. Restamos 12 a ambos lados: 2x = 10. Dividimos por 2: x = 5.",
       "difficulty": "8",
       "images": [],
@@ -1498,19 +1498,19 @@
       "context": "Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 14.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "5",
           "is_correct": true,
           "feedback": "¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "10",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error al dividir los coeficientes resultantes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. No se agruparon de manera correcta los términos lineales."
@@ -1522,7 +1522,7 @@
           "feedback": "Incorrecto. Se sumaron las constantes de ambos lados en vez de restarlas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para resolver 4x + 14 = 2x + 24, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 14 = 24. Restamos 14 a ambos lados: 2x = 10. Dividimos por 2: x = 5.",
       "difficulty": "8",
       "images": [],
@@ -1543,31 +1543,31 @@
       "context": "Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 15.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "5",
           "is_correct": true,
           "feedback": "¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "10",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error al dividir los coeficientes resultantes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. No se agruparon de manera correcta los términos lineales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "15",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumaron las constantes de ambos lados en vez de restarlas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para resolver 4x + 15 = 2x + 25, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 15 = 25. Restamos 15 a ambos lados: 2x = 10. Dividimos por 2: x = 5.",
       "difficulty": "8",
       "images": [],
@@ -1588,31 +1588,31 @@
       "context": "Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 16.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "5",
           "is_correct": true,
           "feedback": "¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "10",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error al dividir los coeficientes resultantes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. No se agruparon de manera correcta los términos lineales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "15",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumaron las constantes de ambos lados en vez de restarlas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para resolver 4x + 16 = 2x + 26, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 16 = 26. Restamos 16 a ambos lados: 2x = 10. Dividimos por 2: x = 5.",
       "difficulty": "8",
       "images": [],
@@ -1633,31 +1633,31 @@
       "context": "Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 17.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "5",
           "is_correct": true,
           "feedback": "¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "10",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error al dividir los coeficientes resultantes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. No se agruparon de manera correcta los términos lineales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "15",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumaron las constantes de ambos lados en vez de restarlas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para resolver 4x + 17 = 2x + 27, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 17 = 27. Restamos 17 a ambos lados: 2x = 10. Dividimos por 2: x = 5.",
       "difficulty": "10",
       "images": [],
@@ -1768,13 +1768,13 @@
       "context": "Un problema de modelación con ecuaciones lineales en una cooperativa escolar de México, caso 20.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "5",
           "is_correct": true,
           "feedback": "¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "10",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error al dividir los coeficientes resultantes."
@@ -1792,7 +1792,7 @@
           "feedback": "Incorrecto. Se sumaron las constantes de ambos lados en vez de restarlas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para resolver 4x + 20 = 2x + 30, agrupamos los términos con x en un miembro y las constantes en el otro. Restamos 2x a ambos lados: 2x + 20 = 30. Restamos 20 a ambos lados: 2x = 10. Dividimos por 2: x = 5.",
       "difficulty": "10",
       "images": [],

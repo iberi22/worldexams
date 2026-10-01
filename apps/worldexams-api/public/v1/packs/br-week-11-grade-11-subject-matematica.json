@@ -1093,19 +1093,19 @@
       "context": "Em uma obra em Fortaleza, um mestre de obras precisa dividir um terreno triangular em duas partes proporcionais usando o Teorema de Tales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "45 m",
           "is_correct": false,
           "feedback": "Incorreto: 45 m seria a profundidade do terreno de 15 m de frente."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "50 m",
           "is_correct": false,
           "feedback": "Incorreto: a proporção é direta: 10/30 = 20/x resulta em x = 60 m."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "60 m",
           "is_correct": true,
           "feedback": "Correto: por Tales, 10/30 = 20/x, logo x = 60 m."
@@ -1117,7 +1117,7 @@
           "feedback": "Incorreto: valor acima do proporcional esperado."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Pelo Teorema de Tales, as frentes e as profundidades são diretamente proporcionais: 10/30 = 20/x, então x = (20 × 30)/10 = 60 m.",
       "difficulty": "6",
       "images": [],
@@ -1138,13 +1138,13 @@
       "context": "Um professor em Salvador explica que a razão entre as áreas de figuras semelhantes depende da razão de semelhança.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "36 cm²",
           "is_correct": false,
           "feedback": "Incorreto: 36 seria o resultado se a área crescesse na razão 3, mas ela cresce na razão ao quadrado."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "108 cm²",
           "is_correct": true,
           "feedback": "Correto: a área cresce na razão 3² = 9, logo 12 × 9 = 108 cm²."
@@ -1162,7 +1162,7 @@
           "feedback": "Incorreto: valor correspondente à razão 12, não à razão 3."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Em figuras semelhantes, a razão entre as áreas é o quadrado da razão de semelhança. Com razão 3, a razão das áreas é 9, então a área do maior é 12 × 9 = 108 cm².",
       "difficulty": "6",
       "images": [],
@@ -1189,25 +1189,25 @@
           "feedback": "Incorreto: 3,2 m seria o resultado se a sombra e a altura fossem proporcionais de forma invertida."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "5 m",
           "is_correct": true,
           "feedback": "Correto: 1/0,8 = h/4, logo h = 4/0,8 = 5 m."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "4,8 m",
           "is_correct": false,
           "feedback": "Incorreto: valor próximo, mas a proporção correta resulta em 5 m."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "6 m",
           "is_correct": false,
           "feedback": "Incorreto: a razão entre sombras é 4/0,8 = 5, então a altura deve ser 5 × 1 = 5 m."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Os triângulos formados pela vareta e pelo poste com suas sombras são semelhantes. Assim, 1/0,8 = h/4, o que dá h = 5 m.",
       "difficulty": "6",
       "images": [],
@@ -1273,13 +1273,13 @@
       "context": "Um projetista em Goiânia dimensiona uma caixa d'água cuja tampa é um quadrado inscrito em um triângulo retângulo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "13 cm",
           "is_correct": true,
           "feedback": "Correto: a hipotenusa é a soma das projeções: 4 + 9 = 13 cm."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "36 cm",
           "is_correct": false,
           "feedback": "Incorreto: 36 é o produto das projeções, não a hipotenusa."
@@ -1297,7 +1297,7 @@
           "feedback": "Incorreto: valor sem relação direta com as projeções dadas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Nas relações métricas, a projeção da altura sobre a hipotenusa divide-a em dois segmentos m e n cuja soma é a própria hipotenusa: a = m + n = 4 + 9 = 13 cm.",
       "difficulty": "6",
       "images": [],
@@ -1318,13 +1318,13 @@
       "context": "Um engenheiro em Campinas verifica se uma estrutura triangular está em escala correta comparando as medidas de duas peças.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "14 cm",
           "is_correct": false,
           "feedback": "Incorreto: 14 seria o dobro de 7, mas a razão de semelhança é 3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "21 cm",
           "is_correct": true,
           "feedback": "Correto: a razão de semelhança é 15/5 = 3, então o lado correspondente a BC mede 7 × 3 = 21 cm."
@@ -1342,7 +1342,7 @@
           "feedback": "Incorreto: valor sem correspondência com a razão de semelhança."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "A razão de semelhança é k = 15/5 = 3. Todos os lados correspondentes são multiplicados por 3, logo o lado correspondente a BC mede 7 × 3 = 21 cm.",
       "difficulty": "6",
       "images": [],
@@ -1363,19 +1363,19 @@
       "context": "Um cartógrafo em Brasília usa o Teorema de Tales para calcular distâncias em um mapa com ruas paralelas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "12 cm",
           "is_correct": false,
           "feedback": "Incorreto: a proporcionalidade dá 13,5 cm, não 12 cm."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "15 cm",
           "is_correct": false,
           "feedback": "Incorreto: 15 é a média aritmética dos trechos da Paulista."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "13,5 cm",
           "is_correct": true,
           "feedback": "Correto: 12/9 = 18/x, logo x = (18 × 9)/12 = 13,5 cm."
@@ -1387,7 +1387,7 @@
           "feedback": "Incorreto: 24 seria 12 + 12, sem base proporcional."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Pelo Teorema de Tales, 12/9 = 18/x ⇒ x = 162/12 = 13,5 cm.",
       "difficulty": "8",
       "images": [],
@@ -1414,25 +1414,25 @@
           "feedback": "Incorreto: valor da projeção do outro cateto."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "1,96 cm",
           "is_correct": true,
           "feedback": "Correto: o outro cateto mede 24 cm (tripla pitagórica 7-24-25), e pela relação b² = a·n, n = 49/25 = 1,96 cm."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "4,8 cm",
           "is_correct": false,
           "feedback": "Incorreto: valor da altura relativa à hipotenusa, não da projeção."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "6,4 cm",
           "is_correct": false,
           "feedback": "Incorreto: sem relação com as medidas dadas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Pelo teorema de Pitágoras, o outro cateto é √(625 − 49) = √576 = 24 cm. Pela relação métrica b² = a·n (cateto ao quadrado igual à hipotenusa vezes sua projeção), a projeção do cateto de 7 cm é n = 49/25 = 1,96 cm.",
       "difficulty": "8",
       "images": [],
@@ -1549,25 +1549,25 @@
           "feedback": "Incorreto: 8 m corresponderia a uma razão invertida."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "9 m",
           "is_correct": true,
           "feedback": "Correto: 1,8/2,4 = h/12, logo h = (1,8 × 12)/2,4 = 9 m."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "10 m",
           "is_correct": false,
           "feedback": "Incorreto: valor aproximado, mas a proporção exata resulta em 9 m."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "16 m",
           "is_correct": false,
           "feedback": "Incorreto: 16 é o resultado de multiplicar a sombra pela altura da pessoa, sem proporção."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Os triângulos formados por pessoa/sombra e árvore/sombra são semelhantes: 1,8/2,4 = h/12, então h = (1,8 × 12)/2,4 = 21,6/2,4 = 9 m.",
       "difficulty": "8",
       "images": [],
@@ -1588,13 +1588,13 @@
       "context": "Em uma olimpíada de matemática em Teresina, propõe-se o uso combinado do Teorema de Tales com a semelhança de triângulos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "6 cm",
           "is_correct": false,
           "feedback": "Incorreto: 6 resultaria de 4,5 + 1,5, sem base proporcional."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "7,5 cm",
           "is_correct": true,
           "feedback": "Correto: 3/4,5 = 5/x, logo x = (5 × 4,5)/3 = 7,5 cm."
@@ -1612,7 +1612,7 @@
           "feedback": "Incorreto: 9 seria o dobro de 4,5, sem relação com a proporção dada."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Pelo Teorema de Tales: 3/4,5 = 5/x ⇒ x = 22,5/3 = 7,5 cm.",
       "difficulty": "8",
       "images": [],
@@ -1678,13 +1678,13 @@
       "context": "Um pesquisador em Vitória investiga a relação entre as projeções dos catetos em triângulos retângulos semelhantes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "10 cm",
           "is_correct": false,
           "feedback": "Incorreto: 10 é a média aritmética das projeções."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "12 cm",
           "is_correct": true,
           "feedback": "Correto: pela relação h² = m·n = 144, logo h = 12 cm."
@@ -1702,7 +1702,7 @@
           "feedback": "Incorreto: 20 é próximo da hipotenusa (25), não da altura."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "A soma das projeções é a hipotenusa (a = 25) e o produto m·n = 144. A relação métrica da altura é h² = m·n, então h = √144 = 12 cm.",
       "difficulty": "10",
       "images": [],
@@ -1723,19 +1723,19 @@
       "context": "Um candidato ao ITA em São Paulo resolve um problema que combina semelhança de triângulos e razão entre volumes de sólidos semelhantes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "3/5",
           "is_correct": true,
           "feedback": "Correto: a razão dos volumes é (razão linear)³, então k = ∛(27/125) = 3/5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "9/25",
           "is_correct": false,
           "feedback": "Incorreto: 9/25 seria a razão entre as áreas das bases."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "27/125",
           "is_correct": false,
           "feedback": "Incorreto: 27/125 é a razão entre os volumes, não entre as alturas."
@@ -1747,7 +1747,7 @@
           "feedback": "Incorreto: é a razão inversa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Em sólidos semelhantes, a razão entre os volumes é o cubo da razão linear. Assim, k³ = 27/125, logo k = ∛(27/125) = 3/5.",
       "difficulty": "10",
       "images": [],
@@ -1768,31 +1768,31 @@
       "context": "Em uma competição de matemática em Belo Horizonte, os alunos devem julgar uma afirmação sobre a altura de um triângulo retângulo inscrito em uma semicircunferência.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "36 cm²",
           "is_correct": true,
           "feedback": "Correto: pela relação h² = m·n, temos m·n = 6² = 36 cm²."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "12 cm²",
           "is_correct": false,
           "feedback": "Incorreto: 12 é o dobro da altura, sem relação com o produto pedido."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "42,25 cm²",
           "is_correct": false,
           "feedback": "Incorreto: 42,25 é o quadrado do raio, não o produto das projeções."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "72 cm²",
           "is_correct": false,
           "feedback": "Incorreto: 72 seria o dobro de 36, sem fundamento nas relações métricas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "A hipotenusa é o diâmetro da semicircunferência (13 cm), informação que confirma a configuração, mas a relação pedida vem de h² = m·n: m·n = 6² = 36 cm².",
       "difficulty": "10",
       "images": [],

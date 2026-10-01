@@ -13,13 +13,13 @@
       "context": "En una tienda de Bogotá un cartel muestra que el costo de $48.000 se redondeó a $50.000 para un cálculo rápido.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Aproximarlo al valor más cercano de una unidad de referencia",
           "is_correct": true,
           "feedback": "Es correcta porque redondear busca el valor más próximo a la decena, centena o mil, según se elija."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Escribirlo con todos sus decimales",
           "is_correct": false,
           "feedback": "Error conceptual: eso conserva el valor exacto y no es una aproximación."
@@ -37,7 +37,7 @@
           "feedback": "Error conceptual: dividir transforma el número y no corresponde al redondeo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Redondear es reemplazar un número por otro cercano que sea más fácil de usar, tomando como referencia una unidad (decena, centena o mil). El resultado es una aproximación útil para calcular rápido.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "En Medellín un estudiante debe redondear el número 73 a la decena más cercana para estimar una suma.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "70",
           "is_correct": true,
           "feedback": "Es correcta porque la cifra de las unidades es 3, menor que 5, así que se aproxima a 70."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "80",
           "is_correct": false,
           "feedback": "Error conceptual: aproxima hacia arriba aunque el 3 está más cerca de 70."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "73",
           "is_correct": false,
           "feedback": "Error conceptual: deja el número sin redondear, conservando las unidades."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "100",
           "is_correct": false,
           "feedback": "Error conceptual: redondea a la centena en vez de a la decena más cercana."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para redondear a la decena se observa la cifra de las unidades: si es 5 o más se sube, y si es menor que 5 se conserva. Como 73 tiene 3 unidades, se aproxima a 70.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En Manizales un comprador estima el costo de 3 cuadernos que cuestan $4.900 cada uno, redondeando a miles.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$15.000",
           "is_correct": true,
           "feedback": "Es correcta porque 3 × $5.000 = $15.000 como estimación rápida."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$12.000",
           "is_correct": false,
           "feedback": "Error conceptual: usa un precio menor al redondeado para estimar la compra."
@@ -129,7 +129,7 @@
           "feedback": "Error conceptual: usa un precio redondeado equivocado para cada cuaderno."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Estimar el costo consiste en redondear el precio y multiplicar por la cantidad. Redondear $4.900 a $5.000 y multiplicar por 3 da $15.000, un valor cercano al real y fácil de calcular mentalmente.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En Cali un estudiante quiere estimar la suma 198 + 305 redondeando cada número a la centena más cercana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "500",
           "is_correct": true,
           "feedback": "Es correcta porque 198 ≈ 200 y 305 ≈ 300, y 200 + 300 = 500."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "400",
           "is_correct": false,
           "feedback": "Error conceptual: redondea 305 a 200 en vez de a 300."
@@ -175,7 +175,7 @@
           "feedback": "Error conceptual: calcula el valor exacto en lugar de estimar por redondeo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La estimación por redondeo agrupa los sumandos en centenas para simplificar la operación. Al redondear 198 a 200 y 305 a 300 se obtiene 500, coherente con el resultado exacto de 503.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En Cartagena una vendedora calcula mentalmente el precio de 4 camisetas que cuestan $19.800 cada una, redondeando a $20.000.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$80.000",
           "is_correct": true,
           "feedback": "Es correcta porque 4 × $20.000 = $80.000 como estimación rápida."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$76.000",
           "is_correct": false,
           "feedback": "Error conceptual: usa el valor exacto y no el redondeado para estimar mentalmente."
@@ -221,7 +221,7 @@
           "feedback": "Error conceptual: redondea a un valor demasiado alto y sobreestima el total."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Estimar con redondeo simplifica el cálculo mental. Al tomar $19.800 como $20.000 y multiplicar por 4 se obtiene $80.000, un valor cercano al exacto de $79.200.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En Neiva un estudiante estima el producto 29 × 41 redondeando ambos factores a la decena más cercana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "1.200, porque 29 ≈ 30 y 41 ≈ 40, y 30 × 40 = 1.200",
           "is_correct": true,
           "feedback": "Es correcta porque redondea ambos factores y multiplica los valores aproximados."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1.000, porque 30 × 30 = 900 y se aproxima a 1.000",
           "is_correct": false,
           "feedback": "Error conceptual: redondea 41 a 30 en vez de a 40."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "800, porque 20 × 40 = 800",
           "is_correct": false,
           "feedback": "Error conceptual: redondea 29 a 20, cuando está más cerca de 30."
@@ -267,7 +267,7 @@
           "feedback": "Error conceptual: redondea 41 a 50, alejándose del valor real."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para estimar productos se redondea cada factor a la decena más cercana y se multiplica. Con 29 ≈ 30 y 41 ≈ 40, la estimación 1.200 queda cerca del producto exacto, que es 1.189.",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En Bogotá un estudiante afirma que usar redondeo siempre da el resultado exacto de una operación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La estimación es cercana pero no exacta, y sirve para verificar resultados",
           "is_correct": true,
           "feedback": "Es correcta porque el redondeo aproxima el valor y ayuda a detectar respuestas poco razonables."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La estimación siempre es exacta",
           "is_correct": false,
           "feedback": "Error conceptual: al redondear se pierde precisión, por eso no es exacta."
@@ -313,7 +313,7 @@
           "feedback": "Error conceptual: pueden acercarse, pero no coinciden de forma obligatoria."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La estimación proporciona un valor aproximado, no exacto. Su utilidad está en anticipar el orden de magnitud de un resultado y en detectar errores cuando un cálculo se aleja demasiado de lo estimado.",
       "difficulty": "8",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "En Manizales un estudiante afirma: \"Al redondear 250 a la centena más cercana siempre se obtiene 200\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "No, porque 250 está a igual distancia de 200 y de 300, y por convención se redondea a 300",
           "is_correct": true,
           "feedback": "Es correcta porque cuando la cifra es 5 se acostumbra subir al valor siguiente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sí, porque siempre se redondea hacia abajo",
           "is_correct": false,
           "feedback": "Error conceptual: el redondeo no siempre baja; depende de la cifra que se observa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sí, porque el número termina en 5 y el 5 siempre baja",
           "is_correct": false,
           "feedback": "Error conceptual: la convención habitual es subir cuando la cifra es 5."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No, porque 250 no se puede redondear",
           "is_correct": false,
           "feedback": "Error conceptual: cualquier número se puede redondear eligiendo la unidad de referencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El redondeo de un valor que termina en 5 sigue una convención: se aproxima al valor superior. Por eso 250 se redondea a 300, y no a 200, para no sesgar sistemáticamente los resultados hacia abajo.",
       "difficulty": "10",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "En Cartagena una familia quiere calcular rápido si le alcanza el dinero para 6 productos de $12.300 cada uno antes de llegar a la caja.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Redondear $12.300 a $12.000 y multiplicar por 6, porque da un estimado rápido y cercano",
           "is_correct": true,
           "feedback": "Es correcta porque 6 × $12.000 = $72.000, un valor cercano al total exacto de $73.800."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Calcular con todos los decimales exactos antes de decidir",
           "is_correct": false,
           "feedback": "Error conceptual: hacer el cálculo exacto a mano es más lento y no es necesario para una primera estimación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Multiplicar solo el primer producto por 6",
           "is_correct": false,
           "feedback": "Error conceptual: usa un solo precio y supone que todos los productos cuestan lo mismo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Redondear a $20.000 para asegurar que alcanza el dinero",
           "is_correct": false,
           "feedback": "Error conceptual: redondear muy alto da una sobreestimación que no refleja el costo real."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Elegir una estrategia de estimación depende del objetivo: calcular con rapidez y con precisión suficiente. Redondear $12.300 a $12.000 y multiplicar por 6 ofrece un estimado cercano que permite decidir sin hacer la operación exacta.",
       "difficulty": "10",
       "images": [],

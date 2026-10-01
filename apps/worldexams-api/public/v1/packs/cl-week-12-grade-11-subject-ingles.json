@@ -19,13 +19,13 @@
           "feedback": "Incorrect. A dilemma is a problem, not a solution."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "dilemma",
           "is_correct": true,
           "feedback": "Correct. An ethical dilemma is a choice between two moral imperatives."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "certainty",
           "is_correct": false,
           "feedback": "Incorrect. Dilemmas involve uncertainty and conflict."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect. Dilemmas usually involve internal or external disagreement."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Ethical dilemma' is the standard term for a complex moral choice.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "Discussing moral philosophy.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "suggest",
           "is_correct": false,
           "feedback": "Incorrect. Subject-verb agreement ('theory' is singular)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "suggests",
           "is_correct": true,
           "feedback": "Correct. Present simple for a general definition of a theory."
@@ -82,7 +82,7 @@
           "feedback": "Incorrect. Past tense."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The present simple 'suggests' is used to define the core tenet of a philosophical theory.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -109,25 +109,25 @@
           "feedback": "Incorrect. First conditional."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "would you do",
           "is_correct": true,
           "feedback": "Correct. Second conditional for a hypothetical scenario."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "will you do",
           "is_correct": false,
           "feedback": "Incorrect. Inconsistent with 'found'."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "have you done",
           "is_correct": false,
           "feedback": "Incorrect. Present perfect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The second conditional 'if + past simple, would + verb' is used to ask about an imaginary situation.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Article about whistleblowing.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "whistleblower",
           "is_correct": true,
           "feedback": "Correct. This is the specific term for someone who exposes wrongdoing."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "accomplice",
           "is_correct": false,
           "feedback": "Incorrect. An accomplice helps in the wrongdoing."
@@ -172,7 +172,7 @@
           "feedback": "Incorrect. A benefactor provides financial help."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "'Whistleblower' is the correct term for an individual who reveals unethical behavior within an organization.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Discussion on corporate ethics.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "beneficial",
           "is_correct": false,
           "feedback": "Incorrect. It might be profitable but is not 'beneficial' in an ethical context."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "unethical",
           "is_correct": true,
           "feedback": "Correct. Not conforming to high moral standards."
@@ -217,7 +217,7 @@
           "feedback": "Incorrect. It is never mandatory to be unethical."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Unethical' is the appropriate adjective for actions that violate moral principles.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -244,25 +244,25 @@
           "feedback": "Incorrect. If it's illegal, it's usually considered wrong anyway."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "legal",
           "is_correct": true,
           "feedback": "Correct. The text contrasts law with morality."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "public",
           "is_correct": false,
           "feedback": "Incorrect. Public doesn't contrast with moral here."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "expensive",
           "is_correct": false,
           "feedback": "Incorrect. Price is unrelated to morality."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The distinction between 'legal' (following the law) and 'moral' (doing what is right) is a key concept in ethics.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,25 +289,25 @@
           "feedback": "Incorrect. This refers to the present or future."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "should have disclosed",
           "is_correct": true,
           "feedback": "Correct. 'Should have + past participle' for past criticism or regret."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "must disclose",
           "is_correct": false,
           "feedback": "Incorrect. Obligation in the present."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "could disclose",
           "is_correct": false,
           "feedback": "Incorrect. Possibility in the present."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Should have disclosed' expresses a past obligation that was not met.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,25 +334,25 @@
           "feedback": "Incorrect. A resolution solves a conflict."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "conflict",
           "is_correct": true,
           "feedback": "Correct. A conflict of interest is the formal term."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "alignment",
           "is_correct": false,
           "feedback": "Incorrect. Alignment is the opposite of conflict."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "benefit",
           "is_correct": false,
           "feedback": "Incorrect. While there may be a personal benefit, the situation is a conflict."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Conflict of interest' is the specific term for the ethical situation described.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,13 +379,13 @@
           "feedback": "Incorrect. Active voice."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "are being debated",
           "is_correct": true,
           "feedback": "Correct. Present continuous passive for an ongoing discussion."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "have debated",
           "is_correct": false,
           "feedback": "Incorrect. Active voice."
@@ -397,7 +397,7 @@
           "feedback": "Incorrect. Present simple."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The present continuous passive 'are being debated' describes the current, ongoing nature of the ethical discussion.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,13 +424,13 @@
           "feedback": "Incorrect. Consequentialism focuses on results, not intentions."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "consequences",
           "is_correct": true,
           "feedback": "Correct. The name of the theory itself gives the answer."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "tradition",
           "is_correct": false,
           "feedback": "Incorrect. Focuses on results."
@@ -442,7 +442,7 @@
           "feedback": "Incorrect. Focuses on moral results."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Consequences' are the primary focus of consequentialist ethical frameworks.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "Discussing social justice.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "wealth",
           "is_correct": false,
           "feedback": "Incorrect. Focuses on money."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "opportunity",
           "is_correct": true,
           "feedback": "Correct. This is the specific ethical/social concept."
@@ -577,7 +577,7 @@
           "feedback": "Incorrect. Not the standard phrase."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Equality of opportunity' is a central concept in modern ethical and political debate.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Conclusion of an essay on ethics.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "budget",
           "is_correct": false,
           "feedback": "Incorrect. Financial plan."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "moral compass",
           "is_correct": true,
           "feedback": "Correct. Metaphor for one's inner sense of right and wrong."
@@ -667,7 +667,7 @@
           "feedback": "Incorrect. Professional life."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Moral compass' is a common metaphorical term for a person's internal sense of ethical guidance.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Definition of empathy.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Apathy",
           "is_correct": false,
           "feedback": "Incorrect. Lack of interest."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Empathy",
           "is_correct": true,
           "feedback": "Correct. Fundamental for ethical behavior."
@@ -712,7 +712,7 @@
           "feedback": "Incorrect. Being simple."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Empathy' is a key emotional skill required for ethical reasoning and social connection.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,25 +739,25 @@
           "feedback": "Incorrect. 'Must' doesn't take 'to'."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "ought to",
           "is_correct": true,
           "feedback": "Correct. 'Ought to' expresses moral obligation."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "would to",
           "is_correct": false,
           "feedback": "Incorrect. 'Would' doesn't take 'to'."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "can to",
           "is_correct": false,
           "feedback": "Incorrect. 'Can' doesn't take 'to'."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Ought to' is a modal verb used to express a moral duty or recommendation.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -784,25 +784,25 @@
           "feedback": "Incorrect. Rights should not be flexible in this way."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "inalienable",
           "is_correct": true,
           "feedback": "Correct. Inalienable means unable to be taken away or given away by the possessor."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "optional",
           "is_correct": false,
           "feedback": "Incorrect. Rights are not optional."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "temporary",
           "is_correct": false,
           "feedback": "Incorrect. Rights should be permanent."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Inalienable' is the formal term used in human rights documents to describe the permanent nature of fundamental rights.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Incorrect. Backshifted in reported speech."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "did not",
           "is_correct": true,
           "feedback": "Correct. Backshifted from 'do not' to 'did not'."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "have not",
           "is_correct": false,
           "feedback": "Incorrect. Present perfect."
@@ -847,7 +847,7 @@
           "feedback": "Incorrect. Future."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "In reported speech, we backshift tenses: 'The ends do not justify...' becomes '...argued that the ends did not justify...'.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Final thought on responsibility.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Accountability",
           "is_correct": true,
           "feedback": "Correct. Accountability is the obligation of an individual or organization to account for its activities."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Anonymity",
           "is_correct": false,
           "feedback": "Incorrect. Being unknown."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Impunity",
           "is_correct": false,
           "feedback": "Incorrect. Exemption from punishment or loss."
@@ -892,7 +892,7 @@
           "feedback": "Incorrect. Lack of interest."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "'Accountability' is a central ethical concept involving responsibility and the expectation of evaluation.",
       "difficulty": "10",
       "images": [],

@@ -13,13 +13,13 @@
       "context": "Un estudiante preuniversitario de San Marcos lee el célebre 'Discurso en el Politeama' de Manuel González Prada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "¡El Perú es un mendigo sentado en un banco de oro!",
           "is_correct": false,
           "feedback": "Incorrecto. Esta frase se le atribuye popularmente a Antonio Raimondi en sus exploraciones geográficas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "¡Los viejos a la tumba, los jóvenes a la obra!",
           "is_correct": true,
           "feedback": "Correcto. Esta es la arenga emblemática que resume el llamado a la renovación social y moral del Perú de González Prada en el Politeama."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Este lema es propio de las reformas agrarias del siglo XX y discursos comunistas, no de González Prada en este discurso."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "González Prada pronuncia en 1888 su famoso discurso donde convoca a la juventud a asumir la reconstrucción moral y material del Perú tras el desastre de la Guerra del Pacífico, acuñando la arenga '¡Los viejos a la tumba, los jóvenes a la obra!'.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -109,13 +109,13 @@
           "feedback": "Incorrecto. El ensayo cuestiona ver a la selva solo como proveedora de recursos y propone un modelo sostenible basado en los saberes locales."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El desarrollo de la Amazonía requiere integrar de manera equitativa el conocimiento tradicional indígena",
           "is_correct": true,
           "feedback": "Correcto. El autor propone reconocer los saberes ecológicos nativos como 'ciencia viva' como requisito indispensable para un desarrollo sostenible real."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La selva peruana carece por completo de recursos económicos explotables",
           "is_correct": false,
           "feedback": "Incorrecto. Se menciona que es vista como una reserva, pero el autor no niega los recursos, sino la forma destructiva de extraerlos."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. El texto aboga por valorar sus conocimientos de forma autónoma en su territorio, no por su asimilación incondicional a la costa."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La tesis es la idea central que el ensayista busca validar. Aquí, se defiende que para un desarrollo sostenible auténtico de la selva se debe cambiar la mirada mercantilista y valorar el conocimiento indígena.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -154,25 +154,25 @@
           "feedback": "Incorrecto. La tesis no es una pregunta, sino una afirmación categórica que se defiende."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La tesis es la postura u opinión central del autor, mientras que los argumentos son las razones y evidencias que sostienen dicha postura",
           "is_correct": true,
           "feedback": "Correcto. La tesis es la columna vertebral ideológica del ensayo; los argumentos son las premisas lógicas, datos y hechos que demuestran su validez."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La tesis aparece únicamente en la conclusión y los argumentos solo en la introducción",
           "is_correct": false,
           "feedback": "Incorrecto. Por lo general, la tesis se plantea en la introducción y se refuerza en la conclusión; los argumentos se desarrollan en el cuerpo del texto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La tesis es objetiva y científica, mientras que los argumentos son de carácter subjetivo y emocional",
           "is_correct": false,
           "feedback": "Incorrecto. Los argumentos deben buscar solidez objetiva y lógica para sostener una tesis que puede ser un punto de vista subjetivo o debatible."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La tesis constituye el postulado principal defendido en el ensayo. Los argumentos son el andamiaje demostrativo que valida dicha postura ante el lector.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Un estudiante de Lima analiza los argumentos del indigenismo y el hispanismo en debates culturales del siglo XX.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que el español nunca llegó a hablarse en el territorio peruano",
           "is_correct": false,
           "feedback": "Incorrecto. El español es la lengua mayoritaria y oficial, por lo que negar su existencia es absurdo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que invisibiliza el papel del quechua como lengua general de integración andina prehispánica (Qhapaq Ñan)",
           "is_correct": true,
           "feedback": "Correcto. Un contraargumento histórico sólido es recordar que el quechua (y el aimara) ya cumplían funciones de lenguas generales y de cohesión en el Tahuantinsuyo antes de la llegada del español."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Esto sería validar un prejuicio hispanista, no cuestionar críticamente el argumento desde una perspectiva andina."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El contraargumento demuestra que la cohesión lingüística andina ya existía mediante el quechua como lengua general del Imperio incaico, matizando la afirmación de que la integración nacional comenzó de forma exclusiva con el castellano.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -250,19 +250,19 @@
           "feedback": "Incorrecto. Este hecho es neutral respecto a si el voto debe ser voluntario u obligatorio."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "La obligatoriedad del voto reduce la calidad democrática al forzar a votar a ciudadanos desinformados y apáticos",
           "is_correct": true,
           "feedback": "Correcto. Este argumento ataca directamente la premisa de la obligatoriedad, señalando que produce un efecto negativo en la democracia al obligar a votar sin convicción ni información."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Los peruanos prefieren votar los días domingos para no interrumpir su trabajo",
           "is_correct": false,
           "feedback": "Incorrecto. Este es un detalle logístico que no aborda la discusión de fondo sobre la libertad de sufragio."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Un contraargumento eficaz expone las consecuencias negativas o las inconsistencias éticas del postulado de la parte contraria, en este caso, cuestionando la supuesta bondad de la obligatoriedad del sufragio.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "Un estudiante de Trujillo redacta un ensayo sobre el impacto de la comida rápida en el perfil nutricional escolar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Argumento de autoridad",
           "is_correct": false,
           "feedback": "Incorrecto. No está citando directamente la declaración de un experto o institución reputada en el área."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Argumento de hecho o estadístico",
           "is_correct": true,
           "feedback": "Correcto. Apoya su afirmación en un dato numérico concreto y medible (un aumento del 15% de sobrepeso infantil en la región)."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. No apela a principios de justicia, bien o deber ser, sino a una cifra empírica del problema de salud."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El uso de datos estadísticos empíricos y verificables (el 15% de aumento) dota al ensayo de objetividad y rigor científico, clasificándose como un argumento de hecho.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,25 +334,25 @@
           "feedback": "Incorrecto. No se citan estudios científicos ni expertos en aeronáutica u economía."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Argumento por analogía",
           "is_correct": true,
           "feedback": "Correcto. El autor compara la prohibición de la minería (causa de ingresos) con apagar los motores de un avión (fuente de propulsión), sugiriendo que ambas acciones producen una caída fatal por similitud de funcionamiento estructural."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Argumento de definición conceptual",
           "is_correct": false,
           "feedback": "Incorrecto. No se definen los términos 'minería' o 'economía regional'."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Argumento generalizador por inducción",
           "is_correct": false,
           "feedback": "Incorrecto. No parte de múltiples casos particulares para establecer una ley general, sino de una sola comparación ilustrativa."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El argumento analógico busca convencer al lector estableciendo un paralelismo lógico entre un fenómeno conocido y fácil de juzgar (los motores del avión) y otro complejo y debatible (la minería en Cajamarca).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,19 +418,19 @@
       "context": "Se estudia el concepto de 'argumento de autoridad' en ensayos sobre la identidad andina peruana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Mi abuelo, que vive en Huancavelica, me contó que el quechua expresa sentimientos muy profundos",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque es un testimonio de gran valor familiar y afectivo, no cumple con los criterios de autoridad académica o científica requeridos en un ensayo riguroso."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Una encuesta realizada en redes sociales donde el 90% afirma que el quechua es muy musical",
           "is_correct": false,
           "feedback": "Incorrecto. Esto representa la opinión popular o de sentido común (argumento ad populum), no una autoridad experta."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Según el lingüista peruano Alfredo Torero, el quechua posee una complejidad morfológica y fonológica que permite una notable precisión semántica y lírica",
           "is_correct": true,
           "feedback": "Correcto. Alfredo Torero es un reconocido lingüista e investigador de las lenguas andinas; su opinión especializada constituye un argumento de autoridad académica indiscutible."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Este es un argumento de hecho histórico de carácter general, no una cita de autoridad especializada."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El argumento de autoridad recurre al prestigio y conocimiento especializado de un experto consagrado en la materia (en este caso, el lingüista Alfredo Torero) para respaldar la veracidad del postulado del ensayista.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,19 +463,19 @@
       "context": "Un debate argumentativo en Huancayo aborda los beneficios y desventajas del turismo masivo en Cusco.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es innegable que; establece una relación de causa y efecto inmediato",
           "is_correct": false,
           "feedback": "Incorrecto. Esta frase sirve para introducir una idea evidente o conceder un punto, no para contraargumentar."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "genera; marca una condición indispensable de tipo económico",
           "is_correct": false,
           "feedback": "Incorrecto. Es el verbo de la oración subordinada, no un conector discursivo."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "No obstante; establece una relación de oposición o contraste (adversativa) frente al beneficio económico planteado al inicio",
           "is_correct": true,
           "feedback": "Correcto. 'No obstante' es un conector adversativo que permite al ensayista introducir el reverso negativo de la situación (daño ecológico/patrimonial) tras haber admitido el beneficio económico inicial."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Es una frase verbal que denota sugerencia, no un nexo de oposición lógica."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El uso de conectores adversativos (no obstante, sin embargo, por el contrario) es clave en el desarrollo argumentativo para equilibrar puntos de vista y guiar el razonamiento hacia la síntesis del autor.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -520,19 +520,19 @@
           "feedback": "Incorrecto. El autor apoya la educación del indio como vía de liberación y emancipación racional."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Las medidas asistenciales, discursos compasivos y leyes paternalistas que no alteran la estructura de opresión feudal",
           "is_correct": true,
           "feedback": "Correcto. El autor rechaza la 'filantropía' paternalista (caridad, discursos compasivos de las élites limeñas) porque considera que el indio necesita justicia social y rebelarse, no piedad limosnera de quienes lo explotan."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El uso de la violencia armada de los indios para defender sus derechos comunitarios",
           "is_correct": false,
           "feedback": "Incorrecto. González Prada, por el contrario, justifica la rebelión activa del indígena ante el abuso terrateniente."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "González Prada desmitifica las campañas filantrópicas y religiosas de su época. Sostiene que la opresión del indígena es un problema económico y social basado en el abuso del hacendado, el juez y el sacerdote, por lo que requiere una transformación real de las estructuras de poder y no simples paliativos morales.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Incorrecto. Mariátegui analiza el pasado virreinal precisamente para explicar y resolver el problema agrario de su época (años 20)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Probar que la agricultura colonial era mucho más eficiente que la incaica",
           "is_correct": false,
           "feedback": "Incorrecto. Sostiene lo contrario: que la economía incaica era altamente eficiente y solidaria, y la colonial fue destructora de ese equilibrio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sustentar la tesis de que los problemas del indio contemporáneo tienen un origen histórico estructural y no son de carácter biológico o racial",
           "is_correct": true,
           "feedback": "Correcto. Al rastrear el origen de la servidumbre y el gamonalismo en el sistema de encomiendas y repartimientos virreinales, el autor demuestra que la marginación del indígena es un producto histórico-económico heredado, rebatiendo las teorías racistas que afirmaban la inferioridad natural del indio."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. El objetivo no es un reclamo monetario contemporáneo a España, sino la reestructuración interna del régimen de propiedad de la tierra en la República peruana."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El análisis histórico-económico permite a Mariátegui deconstruir el racismo científico de la oligarquía peruana, demostrando que la postración social de la población andina responde a determinantes materiales e históricos que deben ser modificados políticamente.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -610,19 +610,19 @@
           "feedback": "Incorrecto. Se mencionan 'relaciones de producción y educación', lo que alude a condiciones materiales e intelectuales concretas."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Una definición estructural e ideológica basada en la transformación de la base económica y cultural de la sociedad",
           "is_correct": true,
           "feedback": "Correcto. El autor define 'revolución' no como relevo de la élite de gobierno (superficial), sino como un cambio profundo en la economía (relaciones de producción) y en la conciencia colectiva (educación)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La apología de la desobediencia civil pacífica como único método de cambio",
           "is_correct": false,
           "feedback": "Incorrecto. El texto no discute el método (violento o pacífico), sino la esencia y profundidad del cambio que califica como 'verdadero'."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El autor realiza una redefinición del término para elevar el estándar de discusión, contraponiendo la definición común y trivial de revolución (golpe de estado o recambio de líderes) con una de carácter científico y social.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -655,19 +655,19 @@
           "feedback": "Incorrecto. Es un fenómeno físico inexistente en el país (Perú tiene un solo huso horario)."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "La desconexión histórica entre el Estado (leyes, burocracia, élite limeña) y las necesidades reales de la población andina, rural y amazónica",
           "is_correct": true,
           "feedback": "Correcto. La metáfora del 'país oficial frente al país real' (desarrollada por ensayistas como Basadre) alude a la brecha existente entre el sistema legal y la institucionalidad formal centralizada y la vida cotidiana, marginada y autogestionaria de las mayorías nacionales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La supremacía militar del Perú sobre sus vecinos sudamericanos en tiempos de crisis",
           "is_correct": false,
           "feedback": "Incorrecto. La expresión no tiene un carácter chauvinista o de análisis de defensa militar externa."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La tensión entre 'país oficial' y 'país real' es un concepto central de la sociología y el ensayo histórico peruano, que describe cómo las instituciones del Estado central operan de espaldas a la diversidad pluricultural y necesidades urgentes de la nación real.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Incorrecto. Es justamente al revés en cuanto a rigores de medición matemática y estadística."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El ensayo de opinión literaria prohíbe el uso de la primera persona y la metáfora lírica",
           "is_correct": false,
           "feedback": "Incorrecto. El ensayo de opinión permite una gran libertad estilística, incluyendo metáforas e introspección personal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El ensayo científico exige el uso riguroso del método de citación estandarizado (ej. APA, Vancouver) y evidencia empírica contrastable, mientras que el literario prioriza la fuerza retórica, el estilo estético y la coherencia lógica interna del autor",
           "is_correct": true,
           "feedback": "Correcto. El ensayo científico debe someterse a criterios de replicabilidad, revisión por pares y citación exacta para sostener su validez empírica; el ensayo literario es un género híbrido de frontera, donde el valor reside en la originalidad interpretativa y la belleza del estilo argumentativo."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. El ensayo literario expone puntos de vista muy definidos y tesis interpretativas vigorosas respaldadas por argumentos estéticos y críticos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La diferencia estriba en los propósitos y comunidades discursivas de ambos géneros. El ensayo científico busca la generación de conocimiento verificable y sistematizado bajo cánones rigurosos; el literario es una exploración libre y creativa de ideas que interpela la sensibilidad del lector.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. La Constitución peruana sí contempla la protección del concebido en su artículo 2, por lo que posee un anclaje normativo real."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Porque el Argumento B se basa exclusivamente en creencias mágicas o mitológicas no científicas",
           "is_correct": false,
           "feedback": "Incorrecto. El Argumento B apela a derechos humanos modernos de salud pública y autonomía corporal reconocidos por la OMS."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque ambos argumentos parten de axiomas morales distintos e incompatibles entre sí, donde cada uno es lógicamente coherente con sus propias premisas de valor primordial",
           "is_correct": true,
           "feedback": "Correcto. La irresolubilidad se debe a que chocan dos principios éticos considerados supremos por sus defensores (el derecho a la vida del concebido frente al derecho a la salud y autonomía de la madre). No hay un terreno común neutral para dirimir cuál principio debe subordinar al otro sin elegir previamente una postura filosófica determinante."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. La embriología y la ginecología poseen certeza absoluta sobre el desarrollo fetal; el debate no es biológico básico, sino ético, jurídico y social."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Los dilemas morales complejos ocurren cuando chocan valores fundamentales protegidos por distintas corrientes del pensamiento ético e institucional. La resolución de estos conflictos exige debates racionales parlamentarios y jurídicos que sopesen prioridades constitucionales y de derechos humanos en circunstancias específicas.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -835,19 +835,19 @@
           "feedback": "Incorrecto. El autor justamente critica que los modelos bipolares clásicos (como la división terrateniente-indio) ya no explican la complejidad actual."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Se requiere desarrollar nuevas categorías de análisis que interpreten la heterogeneidad del capitalismo informal y la identidad andina urbana contemporánea",
           "is_correct": true,
           "feedback": "Correcto. El ensayista contemporáneo debe captar fenómenos nuevos como la movilidad social impulsada por el comercio informal, la migración exitosa de segunda y tercera generación y la reconfiguración espacial de la periferia urbana, que desbordan las explicaciones bipolares tradicionales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Se debe declarar que la pobreza extrema y la discriminación racial han desaparecido del Perú contemporáneo",
           "is_correct": false,
           "feedback": "Incorrecto. La reconfiguración de clases no significa la desaparición de la pobreza o racismo; solo complejiza los canales y actores de la misma."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El Perú contemporáneo presenta dinámicas socioeconómicas híbridas. La vieja estructura feudal terrateniente dio paso a una sociedad de mercado altamente informalizada con fuerte base andina urbana. Por ello, el ensayo contemporáneo debe renovar sus herramientas teóricas para no caer en anacronismos descriptivos.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -874,13 +874,13 @@
           "feedback": "Incorrecto. Ad ignorantiam ocurre cuando se afirma que algo es verdadero solo porque no se ha demostrado su falsedad."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Falacia de apelación a la autoridad (ad verecundiam); porque cita a una entidad académica ajena a la universidad",
           "is_correct": false,
           "feedback": "Incorrecto. Ad verecundiam ocurre cuando se defiende una idea apelando a la opinión de un experto fuera de su campo de especialidad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Falacia de ataque a la persona (ad hominem); porque busca descalificar el proyecto de ley deslegitimando la conducta moral del proponente, en lugar de analizar el contenido o viabilidad de la propuesta de tarifas",
           "is_correct": true,
           "feedback": "Correcto. La falacia ad hominem desvía la atención del debate real (la conveniencia del proyecto sobre tarifas universitarias) atacando la credibilidad personal del emisor (las denuncias de plagio). Aunque la denuncia sea moralmente censurable, la ley en sí misma debe ser analizada por sus propios méritos fácticos y técnicos."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. El espantapájaros consiste en caricaturizar la postura contraria para atacarla más fácilmente; aquí el foco es el ataque personal directo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La falacia ad hominem (ataque a la persona) es muy recurrente en debates públicos y políticos. Su error de razonamiento reside en asumir que los defectos personales, morales o de historial de un emisor invalidan automáticamente la verdad de sus afirmaciones o el valor técnico de sus proyectos legislativos.",
       "difficulty": "10",
       "images": [],

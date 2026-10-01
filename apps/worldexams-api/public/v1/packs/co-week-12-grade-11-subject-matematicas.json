@@ -13,13 +13,13 @@
       "context": "En una empresa textil de Medellín, se modela el volumen de producción diaria en función del tiempo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$3x^2 + 2x$",
           "is_correct": true,
           "feedback": "Se aplica correctamente la regla del producto derivando ambos factores."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2x^2 + 2x$",
           "is_correct": false,
           "feedback": "Incorrecto: se derivó mal el segundo término."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto: se derivó como suma simple en vez de producto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicando la regla del producto $(u \\cdot v)' = u'v + uv'$, donde $u=x^2$ ($u'=2x$) y $v=1x+1$ ($v'=1$): $f'(x) = 2x(1x+1) + x^2(1) = 2x^2 + 2x + 1x^2 = 3x^2 + 2x$.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "Un laboratorio farmacéutico en Bogotá analiza la concentración de un medicamento en el torrente sanguíneo a lo largo de las horas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\frac{2}{(x + 1)^2}$",
           "is_correct": true,
           "feedback": "Correcto: la resta en el numerador simplifica adecuadamente a la constante."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{2x}{(x + 1)^2}$",
           "is_correct": false,
           "feedback": "Incorrecto: no se simplificaron las x del numerador."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto: se omitió elevar el denominador al cuadrado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicando la regla del cociente $(\\frac{u}{v})' = \\frac{u'v - uv'}{v^2}$, donde $u=2x$ ($u'=2$) y $v=x+1$ ($v'=1$): $f'(x) = \\frac{2(x+1) - 2x(1)}{(x+1)^2} = \\frac{2x + 2 - 2x}{(x+1)^2} = \\frac{2}{(x+1)^2}$.",
       "difficulty": "4",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En la ciudad de Cali, un sistema de transporte masivo monitorea la velocidad de los buses y la aceleración instantánea.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$15x^2 + 2x$",
           "is_correct": true,
           "feedback": "Se aplica correctamente la regla del producto derivando ambos factores."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$10x^2 + 2x$",
           "is_correct": false,
           "feedback": "Incorrecto: se derivó mal el segundo término."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$15x^2 + x$",
           "is_correct": false,
           "feedback": "Incorrecto: se omitió multiplicar el coeficiente por 2."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$5x^2 + 3x$",
           "is_correct": false,
           "feedback": "Incorrecto: se derivó como suma simple en vez de producto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aplicando la regla del producto $(u \\cdot v)' = u'v + uv'$, donde $u=x^2$ ($u'=2x$) y $v=5x+1$ ($v'=5$): $f'(x) = 2x(5x+1) + x^2(5) = 10x^2 + 2x + 5x^2 = 15x^2 + 2x$.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "Un ingeniero civil en el proyecto del metro de Bogotá evalúa la curva de deformación de una viga de concreto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\frac{6}{(x + 1)^2}$",
           "is_correct": true,
           "feedback": "Correcto: la resta en el numerador simplifica adecuadamente a la constante."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{6x}{(x + 1)^2}$",
           "is_correct": false,
           "feedback": "Incorrecto: no se simplificaron las x del numerador."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{12}{(x + 1)^2}$",
           "is_correct": false,
           "feedback": "Incorrecto: se sumaron los términos del numerador en vez de restarlos."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto: se omitió elevar el denominador al cuadrado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicando la regla del cociente $(\\frac{u}{v})' = \\frac{u'v - uv'}{v^2}$, donde $u=6x$ ($u'=6$) y $v=x+1$ ($v'=1$): $f'(x) = \\frac{6(x+1) - 6x(1)}{(x+1)^2} = \\frac{6x + 6 - 6x}{(x+1)^2} = \\frac{6}{(x+1)^2}$.",
       "difficulty": "6",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En un estudio económico en Bucaramanga, se analiza el costo marginal y la utilidad máxima de una fábrica de calzado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$27x^2 + 2x$",
           "is_correct": true,
           "feedback": "Se aplica correctamente la regla del producto derivando ambos factores."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$18x^2 + 2x$",
           "is_correct": false,
           "feedback": "Incorrecto: se derivó mal el segundo término."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto: se derivó como suma simple en vez de producto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicando la regla del producto $(u \\cdot v)' = u'v + uv'$, donde $u=x^2$ ($u'=2x$) y $v=9x+1$ ($v'=9$): $f'(x) = 2x(9x+1) + x^2(9) = 18x^2 + 2x + 9x^2 = 27x^2 + 2x$.",
       "difficulty": "6",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "En una empresa textil de Medellín, se modela el volumen de producción diaria en función del tiempo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$6x(x^2 + 11)^2$",
           "is_correct": true,
           "feedback": "Correcto: se multiplicó por la derivada interna 2x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$3(x^2 + 11)^2$",
           "is_correct": false,
           "feedback": "Incorrecto: se olvidó multiplicar por la derivada interna del paréntesis."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto: no se redujo el exponente exterior."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por regla de la cadena, la derivada de $u^3$ es $3u^2 \\cdot u'$. Con $u = x^2 + 11$, $u' = 2x$. Por tanto, $f'(x) = 3(x^2 + 11)^2 \\cdot (2x) = 6x(x^2 + 11)^2$.",
       "difficulty": "8",
       "images": [],
@@ -519,13 +519,13 @@
       "context": "Un laboratorio farmacéutico en Bogotá analiza la concentración de un medicamento en el torrente sanguíneo a lo largo de las horas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$48x^3 + 6x$",
           "is_correct": true,
           "feedback": "Correcto: se multiplicaron exponentes por coeficientes y se restarion 1 a los exponentes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$48x^4 + 6x$",
           "is_correct": false,
           "feedback": "Incorrecto: no se disminuyó el exponente del primer término."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto: se derivó 6x simplemente como 3."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicando la regla de la potencia y suma: $(c x^n)' = c n x^{n-1}$. Así, $(12x^4)' = 48x^3$ y $(3x^2)' = 6x$, dando $f'(x) = 48x^3 + 6x$.",
       "difficulty": "8",
       "images": [],
@@ -565,31 +565,31 @@
       "context": "En el puerto de Buenaventura, se registra el nivel de la marea y la tasa de variación del nivel del agua.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$39x^2 + 2x$",
           "is_correct": true,
           "feedback": "Se aplica correctamente la regla del producto derivando ambos factores."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$26x^2 + 2x$",
           "is_correct": false,
           "feedback": "Incorrecto: se derivó mal el segundo término."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$39x^2 + x$",
           "is_correct": false,
           "feedback": "Incorrecto: se omitió multiplicar el coeficiente por 2."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$13x^2 + 3x$",
           "is_correct": false,
           "feedback": "Incorrecto: se derivó como suma simple en vez de producto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aplicando la regla del producto $(u \\cdot v)' = u'v + uv'$, donde $u=x^2$ ($u'=2x$) y $v=13x+1$ ($v'=13$): $f'(x) = 2x(13x+1) + x^2(13) = 26x^2 + 2x + 13x^2 = 39x^2 + 2x$.",
       "difficulty": "8",
       "images": [],
@@ -611,13 +611,13 @@
       "context": "Un cultivo de flores en la Sabana de Bogotá estudia la tasa de crecimiento de las plantas bajo ciertas condiciones de riego.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\frac{14}{(x + 1)^2}$",
           "is_correct": true,
           "feedback": "Correcto: la resta en el numerador simplifica adecuadamente a la constante."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{14x}{(x + 1)^2}$",
           "is_correct": false,
           "feedback": "Incorrecto: no se simplificaron las x del numerador."
@@ -635,7 +635,7 @@
           "feedback": "Incorrecto: se omitió elevar el denominador al cuadrado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicando la regla del cociente $(\\frac{u}{v})' = \\frac{u'v - uv'}{v^2}$, donde $u=14x$ ($u'=14$) y $v=x+1$ ($v'=1$): $f'(x) = \\frac{14(x+1) - 14x(1)}{(x+1)^2} = \\frac{14x + 14 - 14x}{(x+1)^2} = \\frac{14}{(x+1)^2}$.",
       "difficulty": "8",
       "images": [],
@@ -657,19 +657,19 @@
       "context": "En la ciudad de Cali, un sistema de transporte masivo monitorea la velocidad de los buses y la aceleración instantánea.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$6x(x^2 + 15)^2$",
           "is_correct": true,
           "feedback": "Correcto: se multiplicó por la derivada interna 2x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$3(x^2 + 15)^2$",
           "is_correct": false,
           "feedback": "Incorrecto: se olvidó multiplicar por la derivada interna del paréntesis."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$6x^2(x^2 + 15)^2$",
           "is_correct": false,
           "feedback": "Incorrecto: se elevó x al cuadrado en la derivada interna."
@@ -681,7 +681,7 @@
           "feedback": "Incorrecto: no se redujo el exponente exterior."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por regla de la cadena, la derivada de $u^3$ es $3u^2 \\cdot u'$. Con $u = x^2 + 15$, $u' = 2x$. Por tanto, $f'(x) = 3(x^2 + 15)^2 \\cdot (2x) = 6x(x^2 + 15)^2$.",
       "difficulty": "8",
       "images": [],
@@ -749,13 +749,13 @@
       "context": "En un proyecto agrícola en el departamento del Tolima, se calcula la producción máxima de arroz optimizando la fertilización.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$51x^2 + 2x$",
           "is_correct": true,
           "feedback": "Se aplica correctamente la regla del producto derivando ambos factores."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$34x^2 + 2x$",
           "is_correct": false,
           "feedback": "Incorrecto: se derivó mal el segundo término."
@@ -773,7 +773,7 @@
           "feedback": "Incorrecto: se derivó como suma simple en vez de producto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicando la regla del producto $(u \\cdot v)' = u'v + uv'$, donde $u=x^2$ ($u'=2x$) y $v=17x+1$ ($v'=17$): $f'(x) = 2x(17x+1) + x^2(17) = 34x^2 + 2x + 17x^2 = 51x^2 + 2x$.",
       "difficulty": "10",
       "images": [],
@@ -795,13 +795,13 @@
       "context": "Una empresa de energía solar en Barranquilla modela la acumulación diaria de energía mediante la tasa de radiación captada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\frac{18}{(x + 1)^2}$",
           "is_correct": true,
           "feedback": "Correcto: la resta en el numerador simplifica adecuadamente a la constante."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{18x}{(x + 1)^2}$",
           "is_correct": false,
           "feedback": "Incorrecto: no se simplificaron las x del numerador."
@@ -819,7 +819,7 @@
           "feedback": "Incorrecto: se omitió elevar el denominador al cuadrado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicando la regla del cociente $(\\frac{u}{v})' = \\frac{u'v - uv'}{v^2}$, donde $u=18x$ ($u'=18$) y $v=x+1$ ($v'=1$): $f'(x) = \\frac{18(x+1) - 18x(1)}{(x+1)^2} = \\frac{18x + 18 - 18x}{(x+1)^2} = \\frac{18}{(x+1)^2}$.",
       "difficulty": "10",
       "images": [],
@@ -887,19 +887,19 @@
       "context": "Un centro meteorológico en Cartagena registra el incremento de la temperatura promedio durante el medio día.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$80x^3 + 6x$",
           "is_correct": true,
           "feedback": "Correcto: se multiplicaron exponentes por coeficientes y se restarion 1 a los exponentes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$80x^4 + 6x$",
           "is_correct": false,
           "feedback": "Incorrecto: no se disminuyó el exponente del primer término."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$20x^3 + 3x$",
           "is_correct": false,
           "feedback": "Incorrecto: se olvidó multiplicar por los exponentes originales."
@@ -911,7 +911,7 @@
           "feedback": "Incorrecto: se derivó 6x simplemente como 3."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicando la regla de la potencia y suma: $(c x^n)' = c n x^{n-1}$. Así, $(20x^4)' = 80x^3$ y $(3x^2)' = 6x$, dando $f'(x) = 80x^3 + 6x$.",
       "difficulty": "10",
       "images": [],

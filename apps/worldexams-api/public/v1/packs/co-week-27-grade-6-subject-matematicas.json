@@ -13,31 +13,31 @@
       "context": "En Bogotá, la profesora dibuja en el tablero un triángulo con sus tres lados de igual longitud.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Equilátero",
           "is_correct": true,
           "feedback": "Es correcto: un triángulo equilátero tiene sus tres lados de la misma longitud."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Isósceles",
           "is_correct": false,
           "feedback": "Error conceptual: el isósceles tiene solo dos lados iguales, no los tres."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Escaleno",
           "is_correct": false,
           "feedback": "Error conceptual: el escaleno tiene todos los lados de distinta medida."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Rectángulo",
           "is_correct": false,
           "feedback": "Error conceptual: rectángulo clasifica por los ángulos (uno de 90°), no por los lados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Los triángulos se clasifican por sus lados en equilátero (tres iguales), isósceles (dos iguales) y escaleno (todos distintos). Observar primero la longitud de los lados permite nombrar la figura correctamente.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "En Medellín, Juan mide con un transportador los tres ángulos de varios triángulos dibujados en su cuaderno.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "180°",
           "is_correct": true,
           "feedback": "Es correcto: en todo triángulo la suma de los ángulos internos es 180°."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "360°",
           "is_correct": false,
           "feedback": "Error conceptual: 360° es la suma de los ángulos de un cuadrilátero, no de un triángulo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "90°",
           "is_correct": false,
           "feedback": "Error conceptual: 90° es la medida de un solo ángulo recto, no la suma de los tres."
@@ -83,7 +83,7 @@
           "feedback": "Error conceptual: 270° no corresponde a la suma de los ángulos internos de ninguna figura básica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La suma de los ángulos internos de cualquier triángulo es una propiedad constante: 180°. Este resultado permite hallar un ángulo desconocido cuando se conocen los otros dos.",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En Barranquilla, un arquitecto revisa el plano de una rampa y observa que uno de los ángulos del triángulo mide exactamente 90°.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Rectángulo",
           "is_correct": true,
           "feedback": "Es correcto: un triángulo con un ángulo de 90° se llama rectángulo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Acutángulo",
           "is_correct": false,
           "feedback": "Error conceptual: el acutángulo tiene los tres ángulos menores de 90°."
@@ -175,7 +175,7 @@
           "feedback": "Error conceptual: equilátero clasifica por los lados, no por los ángulos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Según sus ángulos, un triángulo es rectángulo (un ángulo de 90°), acutángulo (todos menores de 90°) u obtusángulo (uno mayor de 90°). El ángulo de 90° es la marca que identifica al rectángulo.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En Pereira, un estudiante tiene tres palillos que miden 3 cm, 4 cm y 8 cm e intenta armar un triángulo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "No, porque 3 + 4 = 7 es menor que 8",
           "is_correct": true,
           "feedback": "Es correcto: la suma de dos lados debe ser mayor que el tercero y 7 no supera a 8."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sí, porque 3 + 4 + 8 = 15",
           "is_correct": false,
           "feedback": "Error conceptual: sumar los tres lados no verifica la desigualdad triangular."
@@ -267,7 +267,7 @@
           "feedback": "Error conceptual: los lados no necesitan ser iguales; solo deben cumplir la desigualdad triangular."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La desigualdad triangular exige que la suma de dos lados cualesquiera sea mayor que el tercero. Aquí 3 + 4 = 7 < 8, así que los palillos no cierran un triángulo.",
       "difficulty": "8",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "En Manizales, un triángulo tiene dos ángulos conocidos: 35° y 85°.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "60° y es acutángulo",
           "is_correct": true,
           "feedback": "Es correcto: 180° − 35° − 85° = 60°, y los tres ángulos son menores de 90°."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "50° y es acutángulo",
           "is_correct": false,
           "feedback": "Error conceptual: 50° resulta de restar mal; 180° − 35° − 85° = 60°."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "60° y es rectángulo",
           "is_correct": false,
           "feedback": "Error conceptual: 60° es correcto, pero ningún ángulo mide 90°, así que no es rectángulo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "70° y es acutángulo",
           "is_correct": false,
           "feedback": "Error conceptual: 70° no cumple la suma; el tercer ángulo es 60°."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Primero se halla el ángulo faltante (60°) y luego se revisa si alguno es de 90° o mayor. Como los tres son menores de 90°, el triángulo es acutángulo.",
       "difficulty": "8",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "En Ibagué, un estudiante afirma: \"Todo triángulo con dos lados iguales es equilátero\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "No, porque con dos lados iguales el triángulo es isósceles; el equilátero necesita los tres lados iguales",
           "is_correct": true,
           "feedback": "Es correcto: dos lados iguales definen al isósceles, no al equilátero."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sí, porque dos lados iguales obligan al tercero a ser igual",
           "is_correct": false,
           "feedback": "Error conceptual: el tercer lado puede tener otra longitud sin violar ninguna regla."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sí, porque entonces los tres ángulos serían iguales",
           "is_correct": false,
           "feedback": "Error conceptual: los ángulos iguales corresponden al equilátero, que exige los tres lados iguales."
@@ -405,7 +405,7 @@
           "feedback": "Error conceptual: sí puede tener lados iguales; el isósceles y el equilátero son ejemplos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La clasificación por lados es precisa: isósceles (dos iguales), equilátero (tres iguales) y escaleno (todos distintos). Tener dos lados iguales no obliga al tercero a serlo.",
       "difficulty": "10",
       "images": [],

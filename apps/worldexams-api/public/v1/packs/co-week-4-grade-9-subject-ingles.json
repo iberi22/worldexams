@@ -65,13 +65,13 @@
           "feedback": "Incorrect. While possible for a spontaneous decision, \"be going to\" is better for a planned intention."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "am going to recycle",
           "is_correct": true,
           "feedback": "Correct! \"Be going to\" expresses a personal intention or plan."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "recycle",
           "is_correct": false,
           "feedback": "Incorrect. This describes a current habit, not a future intention."
@@ -83,7 +83,7 @@
           "feedback": "Incorrect. This usually refers to a fixed arrangement or an action in progress."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para expresar intenciones o planes personales que ya hemos decidido, la estructura más adecuada es *be going to*.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Talking about a scheduled event.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "will start",
           "is_correct": false,
           "feedback": "Incorrect. While used for future, it's less specific than the arrangement form."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "is taking place",
           "is_correct": true,
           "feedback": "Correct! Present Continuous is used for fixed arrangements in the future."
@@ -129,7 +129,7 @@
           "feedback": "Incorrect. Missing the auxiliary \"is\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El Presente Continuo (*is taking place*) se utiliza para hablar de compromisos o eventos organizados que ocurrirán en un futuro cercano.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "Describing an ongoing action in the future.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "will use",
           "is_correct": false,
           "feedback": "Incorrect. This just predicts the use, not the ongoing state at that time."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "will be using",
           "is_correct": true,
           "feedback": "Correct! Future Continuous describes an action that will be in progress at a specific time in the future."
@@ -175,7 +175,7 @@
           "feedback": "Incorrect. This is Future Perfect, implying the action is finished by then."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El Futuro Continuo (*will be using*) se emplea para describir acciones que estarán ocurriendo en un momento específico del futuro, a menudo indicado por frases como \"this time next year\".\n\n---",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Discussing long-term goals for a city.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "will implement",
           "is_correct": false,
           "feedback": "Incorrect. This just states a future act."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "will have implemented",
           "is_correct": true,
           "feedback": "Correct! Future Perfect shows an action that will be completed by a certain point in the future."
@@ -267,7 +267,7 @@
           "feedback": "Incorrect. This is an intention, but \"By 2050\" usually triggers a Perfect tense."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Usamos el Futuro Perfecto (*will have implemented*) para indicar que una acción habrá sido completada antes de un momento determinado en el futuro (*By 2050*).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "Distinguishing between future forms.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "I will visit the recycling plant tomorrow.",
           "is_correct": false,
           "feedback": "Incorrect. This sounds like a spontaneous decision."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "I am going to visit the recycling plant tomorrow.",
           "is_correct": false,
           "feedback": "Incorrect. This is a plan or intention, but not necessarily a firm arrangement with others."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "I am visiting the recycling plant tomorrow morning.",
           "is_correct": true,
           "feedback": "Correct! Present Continuous for future indicates a fixed arrangement."
@@ -313,7 +313,7 @@
           "feedback": "Incorrect. This is more about the ongoing activity during the day."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "En el nivel B2, es clave distinguir que el Presente Continuo para el futuro implica que ya se han hecho los arreglos necesarios (como una cita o reserva) con otras personas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Understanding the use of \"will\" for spontaneous offers.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "will take",
           "is_correct": true,
           "feedback": "Correct! \"Will\" is used for spontaneous decisions or offers made at the moment of speaking."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "am going to take",
           "is_correct": false,
           "feedback": "Incorrect. This would imply you already planned to take it before the person spoke."
@@ -359,7 +359,7 @@
           "feedback": "Incorrect. This would mean you are already in the process of taking it."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Cuando tomamos una decisión en el mismo momento en que estamos hablando (una oferta o decisión espontánea), el tiempo correcto es *will*.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,13 +387,13 @@
           "feedback": "Incorrect. Simple future doesn't emphasize the state by that time."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "will have disappeared",
           "is_correct": true,
           "feedback": "Correct! Future Perfect emphasizes the completion of the disappearance by the deadline."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "will be disappearing",
           "is_correct": false,
           "feedback": "Incorrect. This shows the process, but the context usually focuses on the result by the deadline."
@@ -405,7 +405,7 @@
           "feedback": "Incorrect. This is happening now, but doesn't project the finality by the end of the century."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Al proyectar resultados finales en una fecha lejana como \"el fin del siglo\", el Futuro Perfecto es la forma más precisa para hablar de lo que ya habrá ocurrido para entonces.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -433,13 +433,13 @@
           "feedback": "Incorrect. Correct for a future event."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "are going to collect",
           "is_correct": false,
           "feedback": "Incorrect. Correct for an intention."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "will be collecting",
           "is_correct": true,
           "feedback": "Correct! This should be Future Perfect (*will have collected*) because it refers to the total amount of waste accumulated by the end of the event."
@@ -451,7 +451,7 @@
           "feedback": "Incorrect. Correct for a prediction/opinion."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El Futuro Continuo (*will be collecting*) describiría la acción mientras ocurre. Como el contexto habla del resultado al finalizar el evento, se requiere el Futuro Perfecto (*will have collected*).\n\n---",
       "difficulty": "10",
       "images": [],

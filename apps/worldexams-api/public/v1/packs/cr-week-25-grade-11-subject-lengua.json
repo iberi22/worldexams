@@ -19,13 +19,13 @@
           "feedback": "Incorrecto. Aunque describe el paisaje, la obra se centra en el conflicto humano."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Denunciar las injusticias sociales y la explotación de los trabajadores por las compañías extranjeras.",
           "is_correct": true,
           "feedback": "¡Correcto! Es una de las novelas de denuncia social más importantes de Costa Rica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Explicar científicamente el proceso de cultivo del banano.",
           "is_correct": false,
           "feedback": "Incorrecto. La obra es literaria y narrativa, no un tratado técnico."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Al contrario, critica la influencia de los enclaves bananeros."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Identificar la intención comunicativa de los grandes autores nacionales es clave para comprender la relación entre la literatura y la identidad social de Costa Rica.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -64,25 +64,25 @@
           "feedback": "Incorrecto. \"espiritu\" y \"dinamico\" son esdrújulas y deben tildarse siempre."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Es fundamental realizar un análisis técnico del área de logística.",
           "is_correct": true,
           "feedback": "¡Correcto! \"análisis\" y \"técnico\" son esdrújulas y llevan tilde según la regla."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El periodico publico una noticia sobre la economia nacional.",
           "is_correct": false,
           "feedback": "Incorrecto. \"periodico\" es esdrújula y debe llevar tilde (periódico)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Debemos cuidar los oceanos para proteger la biodiversidad.",
           "is_correct": false,
           "feedback": "Incorrecto. \"oceanos\" es esdrújula (o-cé-a-nos) y debe tildarse (océanos)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La regla de las palabras esdrújulas es absoluta: todas se tildan. Dominar la ortografía es una competencia básica para el éxito académico en el bachillerato costarricense.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -109,13 +109,13 @@
           "feedback": "Incorrecto. Su obra trasciende la descripción de costumbres locales."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Neoclasicismo",
           "is_correct": false,
           "feedback": "Incorrecto. El neoclasicismo es racionalista; Eunice es profundamente imaginativa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Vanguardismo / Surrealismo",
           "is_correct": true,
           "feedback": "¡Correcto! Su poesía es innovadora, compleja y cargada de una estética vanguardista."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Su voz rompe con el sentimentalismo romántico del siglo XIX."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Eunice Odio representa la vanguardia poética de Costa Rica, explorando mundos interiores y simbólicos con una maestría técnica excepcional.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -199,25 +199,25 @@
           "feedback": "Incorrecto. Se escribe \"piscina\"."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Los científicos analizaron la efervescencia de la muestra.",
           "is_correct": true,
           "feedback": "¡Correcto! Ambas palabras están correctamente escritas con 'sc'."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es necesario dicipar las dudas sobre el proyecto.",
           "is_correct": false,
           "feedback": "Incorrecto. Se escribe \"disipar\" (solo con 's')."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La facinación por la tecnología crece en los jóvenes.",
           "is_correct": false,
           "feedback": "Incorrecto. Se escribe \"fascinación\" (con 'sc')."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La ortografía de palabras con 'sc' suele presentar dificultades. Es importante memorizar términos comunes y aplicar las reglas de derivación.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "Un estudiante envía un mensaje a la dirección de su colegio para justificar una ausencia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Hola profe, no pude ir porque me sentía mal, ahí le mando el papel.",
           "is_correct": false,
           "feedback": "Incorrecto. Registro demasiado informal para una comunicación oficial."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Estimada Dirección: Por este medio adjunto el comprobante médico que justifica mi ausencia del día de ayer.",
           "is_correct": true,
           "feedback": "¡Correcto! Usa un tono formal, léxico preciso y estructura de comunicación oficial."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Aunque es directo, carece del formalismo y la precisión necesarios en una justificación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Saber adaptar el lenguaje según el receptor y el propósito de la comunicación es una de las habilidades más importantes de la competencia comunicativa.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Incorrecto. El autor suele ir al inicio para facilitar el orden alfabético."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Año, Autor, Título, Ciudad.",
           "is_correct": false,
           "feedback": "Incorrecto. No es el formato estándar más reconocido."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Apellido, Nombre del autor. (Año). Título del libro. Editorial.",
           "is_correct": true,
           "feedback": "¡Correcto! Es la estructura base del sistema APA, ampliamente utilizado en Costa Rica."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Orden poco práctico para la búsqueda bibliográfica."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La sistematización de las fuentes de información es fundamental para la ética investigativa y la claridad en la producción de textos académicos.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -514,25 +514,25 @@
           "feedback": "Incorrecto. No se sustituye un término por otro con el que tiene relación de proximidad."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Prosopopeya / Personificación",
           "is_correct": true,
           "feedback": "¡Correcto! Se le otorgan partes del cuerpo (brazos) y acciones humanas (abrazar) a un elemento inanimado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Hipérbaton",
           "is_correct": false,
           "feedback": "Incorrecto. El orden sintáctico es bastante regular."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Oxímoron",
           "is_correct": false,
           "feedback": "Incorrecto. No hay una contradicción de términos opuestos en la misma frase (como \"hielo abrasador\")."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La personificación es un recurso lírico que permite humanizar el entorno, creando imágenes sensoriales que conectan con la experiencia del lector.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -604,25 +604,25 @@
           "feedback": "Incorrecto. El texto habla del financiamiento, no de la mano de obra física."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "En esa época, el sector cafetalero tenía un gran poder político y económico para decidir sobre grandes obras públicas.",
           "is_correct": true,
           "feedback": "¡Correcto! El origen del financiamiento implica el poder de ese grupo social."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "A los ticos de entonces no les gustaba el café y por eso le pusieron impuestos.",
           "is_correct": false,
           "feedback": "Incorrecto. El impuesto era a la exportación, no al consumo interno por desagrado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El teatro es hoy en día un beneficio para las empresas de café.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto habla del pasado histórico de su construcción."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Inferir es leer \"entre líneas\", conectando los datos explícitos con el contexto histórico y social que sugieren.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Incorrecto. Separa el sujeto del verbo, lo cual es un error."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Los turistas llegaron temprano; pero no pudieron ver el cráter.",
           "is_correct": false,
           "feedback": "Incorrecto. Antes de \"pero\" suele ir una coma, no punto y coma en frases cortas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El clima en San Carlos es muy húmedo; por las tardes suelen presentarse fuertes aguaceros.",
           "is_correct": true,
           "feedback": "¡Correcto! Son dos ideas completas con una relación de continuidad temática."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Uso inadecuado de signos para una lista simple."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El punto y coma es un signo de puntuación avanzado que permite organizar ideas complejas, marcando una pausa mayor que la coma pero menor que el punto seguido.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -694,13 +694,13 @@
           "feedback": "Incorrecto. Es la purificación de las emociones en el espectador."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Hamartia",
           "is_correct": true,
           "feedback": "¡Correcto! Es el \"error trágico\" o debilidad del protagonista que desencadena la desgracia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Anagnórisis",
           "is_correct": false,
           "feedback": "Incorrecto. Es el momento del reconocimiento o descubrimiento de la verdad."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Es un discurso que el personaje dice para sí mismo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Conocer los conceptos del drama clásico ayuda al estudiante a analizar la construcción de personajes y tramas en la literatura universal y nacional.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,25 +739,25 @@
           "feedback": "Incorrecto. No hay una exageración de cantidad, sino una metáfora temporal."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Antítesis / Contraste",
           "is_correct": true,
           "feedback": "¡Correcto! Contrapone la formación actual (\"profesionales\") con una realidad desaparecida (\"mundo que ya no existe\")."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Aliteración",
           "is_correct": false,
           "feedback": "Incorrecto. No se repiten sonidos para crear efectos auditivos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Epíteto",
           "is_correct": false,
           "feedback": "Incorrecto. No se añaden adjetivos innecesarios para resaltar cualidades obvias."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La antítesis es un recurso poderoso en la argumentación para resaltar contradicciones y generar un impacto crítico en el lector.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Incorrecto. Ignora el profundo cambio temático entre movimientos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El Modernismo buscaba la evasión estética; el Repertorio Americano buscaba el compromiso social, la identidad latinoamericana y la crítica política.",
           "is_correct": true,
           "feedback": "¡Correcto! Se pasa del \"arte por el arte\" al arte como herramienta de transformación social."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los modernistas escribían en verso y los del repertorio solo en prosa.",
           "is_correct": false,
           "feedback": "Incorrecto. Ambos movimientos utilizaron diversos formatos literarios."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. El Modernismo es un movimiento continental; el Repertorio es una revista fundamental fundada en Costa Rica."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Entender las corrientes literarias ayuda a ver cómo los escritores costarricenses han dialogado con las ideas de su tiempo y han buscado una voz propia.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -874,25 +874,25 @@
           "feedback": "Incorrecto. La frase sugiere un papel activo de \"conversación\" y \"puesta a prueba\"."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Que el lector debe ser un agente crítico y reflexivo que cuestiona lo que lee y su propia forma de pensar.",
           "is_correct": true,
           "feedback": "¡Correcto! La lectura se ve como un proceso dialéctico y de autoconocimiento."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que para leer bien no se debe hablar en voz alta.",
           "is_correct": false,
           "feedback": "Incorrecto. Interpretación literal y errónea de \"conversación silenciosa\"."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que el autor siempre tiene la razón y el lector debe aprenderla.",
           "is_correct": false,
           "feedback": "Incorrecto. La frase habla de poner a prueba prejuicios, lo que implica una interacción simétrica."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Esta pregunta evalúa la capacidad de abstracción y comprensión de conceptos complejos sobre el proceso comunicativo, nivel óptimo para un egresado de bachillerato.\n\n---",
       "difficulty": "10",
       "images": [],

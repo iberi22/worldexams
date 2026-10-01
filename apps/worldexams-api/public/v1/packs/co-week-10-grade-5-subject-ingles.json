@@ -13,31 +13,31 @@
       "context": "In a school in Bogotá, the teacher shows a picture of a neighborhood and points to a place where people borrow books.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "A library.",
           "is_correct": true,
           "feedback": "A library is the place where people borrow and read books."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "A market.",
           "is_correct": false,
           "feedback": "A market is a place to buy food and other products, not to borrow books."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "A stadium.",
           "is_correct": false,
           "feedback": "A stadium is used for sports events, not for borrowing books."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "A bakery.",
           "is_correct": false,
           "feedback": "A bakery sells bread and cakes, not books."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Recognizing the English name of a common community place by its function.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "Read: \"María lives near a park. Every Sunday, she goes there to play with her dog and meet her friends.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Because she plays with her dog and meets her friends there.",
           "is_correct": true,
           "feedback": "The text says María goes to the park to play with her dog and meet her friends."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Because she buys vegetables there.",
           "is_correct": false,
           "feedback": "Buying vegetables is not mentioned in the passage."
@@ -83,7 +83,7 @@
           "feedback": "Seeing a doctor is not part of the passage."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Inferring the reason for visiting a place from a short descriptive text in English.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "A teacher in Cali asks, \"Where can you buy fruit, vegetables and fresh fish in your neighborhood?\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "At the market.",
           "is_correct": true,
           "feedback": "The market is the place where people buy fruit, vegetables and fish."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "At the library.",
           "is_correct": false,
           "feedback": "The library lends books; it does not sell food."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "At the school.",
           "is_correct": false,
           "feedback": "The school is for learning, not for buying fresh food."
@@ -129,7 +129,7 @@
           "feedback": "The park is for recreation and does not sell fruit or fish."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Applying vocabulary about community places to answer a question about shopping.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "Pedro describes his neighborhood in Manizales: \"There ___ a big park near my house, and I go there every weekend.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "is.",
           "is_correct": true,
           "feedback": "\"There is\" is used with a singular noun like \"a big park\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "are.",
           "is_correct": false,
           "feedback": "\"There are\" is used with plural nouns, not with \"a big park\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "am.",
           "is_correct": false,
           "feedback": "\"Am\" is used with the pronoun \"I\", not with \"there\"."
@@ -175,7 +175,7 @@
           "feedback": "\"Be\" is the base form and cannot complete this sentence alone."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Using \"there is\" correctly to describe a singular place in the neighborhood.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Read: \"The school is next to the library. The market is across from the park. The hospital is behind the school.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Across from the park.",
           "is_correct": true,
           "feedback": "The text states that the market is across from the park."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Next to the library.",
           "is_correct": false,
           "feedback": "Next to the library is the school, not the market."
@@ -221,7 +221,7 @@
           "feedback": "The text does not place the market inside the hospital."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Applying reading comprehension to locate places using prepositions of place.",
       "difficulty": "6",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "Read: 'A neighborhood is more than streets and houses. It has a park where children play, a library where people read, a market where families buy food and a school where children learn. These places help people live together and build a community.'",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Community places like parks, libraries, markets and schools help people live together.",
           "is_correct": true,
           "feedback": "The text explains that these shared places strengthen the community."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Neighborhoods are only streets and houses.",
           "is_correct": false,
           "feedback": "The text says a neighborhood is more than streets and houses."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Libraries are the only important place in a neighborhood.",
           "is_correct": false,
           "feedback": "The text lists several important places, not only the library."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Children should never play in the park.",
           "is_correct": false,
           "feedback": "The text presents the park as a place where children play."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluating the main idea of a short text about the importance of community places.",
       "difficulty": "10",
       "images": [],

@@ -59,19 +59,19 @@
       "context": "En clase en Medellín, se diferencia bioma y ecosistema.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El bioma agrupa ecosistemas con condiciones climáticas similares a gran escala.",
           "is_correct": true,
           "feedback": "Correcto. Ej.: bioma selva tropical."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El bioma es más pequeño que un ecosistema.",
           "is_correct": false,
           "feedback": "Incorrecto. Es más extenso."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El ecosistema se limita a zonas urbanas.",
           "is_correct": false,
           "feedback": "Incorrecto. Puede estar en cualquier lugar."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Tienen escalas distintas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los biomas se definen principalmente por el clima y la vegetación dominante.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En clase en Cali, se identifica la selva húmeda tropical.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Alta biodiversidad, clima cálido y húmedo, y ríos caudalosos.",
           "is_correct": true,
           "feedback": "Correcto. Es selva húmeda tropical."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Climas fríos y nevados permanentes.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso corresponde a los Andes altos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Suelos desérticos.",
           "is_correct": false,
           "feedback": "Incorrecto. Tiene alta humedad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Escasa vegetación.",
           "is_correct": false,
           "feedback": "Incorrecto. Es muy boscosa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La Amazonía alberga cerca del 10 % de la biodiversidad mundial.",
       "difficulty": "4",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En clase en Tunja, se estudian cadenas alimentarias.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Fabrican su propio alimento mediante fotosíntesis o quimiosíntesis.",
           "is_correct": true,
           "feedback": "Correcto. Son las plantas, algas y algunas bacterias."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se alimentan de otros seres vivos.",
           "is_correct": false,
           "feedback": "Incorrecto. Son consumidores."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Descomponen materia orgánica muerta.",
           "is_correct": false,
           "feedback": "Incorrecto. Son descomponedores."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Son parásitos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las plantas son la base de las cadenas tróficas al transformar la energía solar.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "En clase en Manizales, se clasifican consumidores.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Consumidor secundario (carnívoro).",
           "is_correct": true,
           "feedback": "Correcto. Se alimenta de herbívoros."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Productor primario.",
           "is_correct": false,
           "feedback": "Incorrecto. No fotosintetiza."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Descomponedor.",
           "is_correct": false,
           "feedback": "Incorrecto. No descompone materia."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Consumidor primario (herbívoro).",
           "is_correct": false,
           "feedback": "Incorrecto. No come plantas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Los consumidores secundarios se alimentan de consumidores primarios como el venado.",
       "difficulty": "6",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En clase en Popayán, se analiza la deforestación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Reduce la biodiversidad, altera el ciclo del agua y aumenta el calentamiento global.",
           "is_correct": true,
           "feedback": "Correcto. Tiene múltiples consecuencias."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Aumenta la producción agrícola.",
           "is_correct": false,
           "feedback": "Incorrecto. Puede empobrecer el suelo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Disminuye el efecto invernadero.",
           "is_correct": false,
           "feedback": "Incorrecto. Lo aumenta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Protege a las especies endémicas.",
           "is_correct": false,
           "feedback": "Incorrecto. Las pone en riesgo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La deforestación es una de las principales amenazas a la biodiversidad colombiana.",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En un proyecto en Bucaramanga, se discute la conservación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Solo declarar parques sin gestionarlos.",
           "is_correct": false,
           "feedback": "Incorrecto. La gestión es clave."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Combinar áreas protegidas, educación ambiental y uso sostenible.",
           "is_correct": true,
           "feedback": "Correcto. Requiere estrategias integrales."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Reduce biodiversidad."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La conservación efectiva combina ciencia, política y participación comunitaria.",
       "difficulty": "10",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "En un cierre en Medellín, se reflexiona sobre la riqueza nacional.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Por su variedad de ecosistemas, alta biodiversidad y posición geográfica.",
           "is_correct": true,
           "feedback": "Correcto. Factores físicos y biológicos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Por tener muchas ciudades.",
           "is_correct": false,
           "feedback": "Incorrecto. La diversidad no depende de ciudades."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. No tiene relación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Colombia ocupa los primeros lugares en biodiversidad de aves, anfibios y plantas.",
       "difficulty": "10",
       "images": [],

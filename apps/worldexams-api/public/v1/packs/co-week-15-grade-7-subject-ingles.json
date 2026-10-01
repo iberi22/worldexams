@@ -13,31 +13,31 @@
       "context": "Past states of feelings.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "was",
           "is_correct": true,
           "feedback": "Correct! \"Was\" is the past of \"to be\" for \"I\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "were",
           "is_correct": false,
           "feedback": "Incorrect. \"Were\" is for plural subjects."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "am",
           "is_correct": false,
           "feedback": "Incorrect. \"Am\" is present tense."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "did",
           "is_correct": false,
           "feedback": "Incorrect. \"Did\" is an auxiliary for other verbs, not for states."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "The student identifies the correct past form of the verb \"to be\" for the first person singular.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -65,13 +65,13 @@
           "feedback": "Incorrect. \"Play\" is regular (+ed)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Watched",
           "is_correct": false,
           "feedback": "Incorrect. \"Watch\" is regular (+ed)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Bought",
           "is_correct": true,
           "feedback": "Correct! \"Buy\" is irregular; its past is \"bought\"."
@@ -83,7 +83,7 @@
           "feedback": "Incorrect. \"Visit\" is regular (+ed)."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "The student distinguishes between regular and irregular past verb forms.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -117,19 +117,19 @@
           "feedback": "Incorrect. Both verbs are irregular."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "saw / ate",
           "is_correct": true,
           "feedback": "Correct! Irregular past forms of \"see\" and \"eat\"."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "seen / eaten",
           "is_correct": false,
           "feedback": "Incorrect. These are past participles."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "The student understands and applies multiple irregular past verb forms in a sentence.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "Asking for specific past information.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "When",
           "is_correct": false,
           "feedback": "Incorrect. This asks about time."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Where",
           "is_correct": false,
           "feedback": "Incorrect. This asks about place."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "What",
           "is_correct": true,
           "feedback": "Correct! \"What\" asks about the object or thing (the food)."
@@ -175,7 +175,7 @@
           "feedback": "Incorrect. This asks about people."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "The student understands the use of Wh- question words in the context of past information.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Correcting a negative statement.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "not went",
           "is_correct": false,
           "feedback": "Incorrect. Missing the auxiliary \"did\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "didn't go",
           "is_correct": true,
           "feedback": "Correct! \"Didn't\" + base form."
@@ -221,7 +221,7 @@
           "feedback": "Incorrect. \"Wasn't\" is only for \"to be\" or continuous."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student applies the correct structure for negative sentences in the Past Simple.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Combining regular and irregular verbs.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "finished / gave",
           "is_correct": true,
           "feedback": "Correct! \"Finished\" (regular) and \"gave\" (irregular)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "finish / give",
           "is_correct": false,
           "feedback": "Incorrect. Present tense."
@@ -313,7 +313,7 @@
           "feedback": "Incorrect. Present tense third person."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "The student applies knowledge of both regular and irregular past conjugations within the same context.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -341,13 +341,13 @@
           "feedback": "Incorrect. \"Saw\" should be \"see\"."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Were you saw your teacher at the park?",
           "is_correct": false,
           "feedback": "Incorrect. Use \"Did\" for actions."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Did you see your teacher at the park?",
           "is_correct": true,
           "feedback": "Correct! \"Did\" + subject + base form."
@@ -359,7 +359,7 @@
           "feedback": "Incorrect. Incorrect verb form after \"did\"."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "The student analyzes question structures to ensure the auxiliary and verb form are correct.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "Comparing past and present using a short paragraph.\n\n\"In 2020, I was 11 years old. I lived in Bucaramanga and I didn't know English. Now, I am 13, I live in Bogotá, and I speak English very well.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "The person still lives in Bucaramanga.",
           "is_correct": false,
           "feedback": "Incorrect. They live in Bogotá now."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "The person's city and English skills.",
           "is_correct": true,
           "feedback": "Correct! Both the location and language ability have changed."
@@ -405,7 +405,7 @@
           "feedback": "Incorrect. Multiple changes are mentioned."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student analyzes a text to identify multiple points of contrast between two time periods.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -439,19 +439,19 @@
           "feedback": "Incorrect. They also drew and presented."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "The project involved research, creative work, and a final presentation.",
           "is_correct": true,
           "feedback": "Correct! Reading (research), drawing (creative), and presenting (final step)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "The students were sad about the project.",
           "is_correct": false,
           "feedback": "Incorrect. They were \"very happy\"."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "The student evaluates a chronological sequence of actions and summarizes the process described in the past tense.",
       "difficulty": "10",
       "images": [],

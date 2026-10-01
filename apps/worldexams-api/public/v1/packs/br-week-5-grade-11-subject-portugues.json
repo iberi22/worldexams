@@ -25,19 +25,19 @@
           "feedback": "Incorreto. A tipologia argumentativa foca na defesa de teses, ideias e pontos de vista lógicos."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Tipologia Injuntiva (ou Instrucional).",
           "is_correct": true,
           "feedback": "Correto! A tipologia injuntiva instrui, ensina e orienta passos práticos a serem seguidos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Tipologia Expositiva.",
           "is_correct": false,
           "feedback": "Incorreto. A tipologia expositiva apresenta informações, dados e explicações conceituais de forma neutra, sem ditar ordens."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "A tipologia injuntiva (ou instrucional) rege textos de cunho prático ou normativo (como receitas de cozinha, regulamentos civis, bulas de remédio e manuais de informática). Ela foca em orientar o receptor por meio de ordens diretas ou sugestões imperativas de ações passo a passo.",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Um verbete de enciclopédia sobre a Mata Atlântica detalha as extensões territoriais da floresta brasileira de forma impessoal e denotativa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Narrativa de suspense, buscando contar histórias de ficção de fantasmas assustadores nas trilhas paulistas da mata.",
           "is_correct": false,
           "feedback": "Incorreto. Enciclopédias de referência trazem fatos reais de ciência, longe de focar em suspense ou histórias de ficção."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Expositiva, pois apresenta informações conceituais, dados geográficos e explicações objetivas sobre a mata sem debater opiniões pessoais.",
           "is_correct": true,
           "feedback": "Correto! Apresentar um conceito e explicá-lo cientificamente de forma neutra caracteriza a tipologia expositiva."
@@ -172,7 +172,7 @@
           "feedback": "Incorreto. O texto é impessoal e neutro, buscando o rigor científico, longe do estilo apaixonado de artigos opinativos partidários."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "A tipologia expositiva (ou informativa-explicativa) visa transmitir conhecimentos de forma clara, precisa, lógica e impessoal. Não há debate de opiniões (como na argumentativa) nem comandos de ação (como na injuntiva); o objetivo é apenas elucidar conceitos e expor fatos verídicos de forma denotativa.",
       "difficulty": "4",
       "images": [],
@@ -289,25 +289,25 @@
           "feedback": "Incorreto. O texto é factual, científico e descritivo de medição física real, longe de mitologias lúdicas indígenas de ficção."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Sequência Descritiva (retrato estático físico do estado atual da água) a serviço da Exposição (fornecer dados científicos neutros ao governo).",
           "is_correct": true,
           "feedback": "Correto! A descrição das qualidades da água (\"turva\", \"odor forte\") dá suporte à exposição de dados factuais do diagnóstico técnico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sequência Injuntiva de debate partidário, ordenando que o leitor mude de partido político imediatamente no Paraná de forma irônica.",
           "is_correct": false,
           "feedback": "Incorreto. Não há discussões partidárias de deboche nem ordens diretivas civis penais de imperativo no trecho de relatório."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Sequência de Ficção Científica pura, relatando as viagens de peixes falantes mecânicos em rios de mercúrio de florestas rústicas do sul.",
           "is_correct": false,
           "feedback": "Incorreto. O texto lida com ecologia real mensurável de poluição urbana, sem peixes falantes mecânicos ou fantasia literária de robôs."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Na redação técnica e acadêmica brasileira de ecologia, a sequência descritiva (retratar as condições físicas sensoriais do ecossistema) serve como base de sustentação factual para a tipologia expositiva (apresentar dados, análises de laboratório e relatórios de medição denotativa de poluição lagoana).",
       "difficulty": "6",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Incorreto. Editais são secos, formais, burocráticos e impessoais, distanciando-se de consolações de poesias líricas barrocas de vestibular."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Tipologia Narrativa de ficção policial, para contar histórias divertidas de detetives particulares correndo atrás de alunos atrasados de Porto Alegre.",
           "is_correct": false,
           "feedback": "Incorreto. O foco de regulamentos de vestibulares não é ficção policial recreativa, mas sim estipular termos civis e regras formais de seleção."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Tipologia Injuntiva (ou Prescritiva), pois estabelece normas legais obrigatórias, ordens formais e procedimentos que os candidatos devem seguir.",
           "is_correct": true,
           "feedback": "Correto! Regulamentos oficiais, leis estatais e editais públicos operam com tipologia prescritiva injuntiva para padronizar comportamentos."
@@ -352,7 +352,7 @@
           "feedback": "Incorreto. Não há adjetivação lírica de beleza dos portões, mas sim estipulação formal e rígida de horários e regras civis de fechamento."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Regulamentos, editais públicos, estatutos civis e leis federais enquadram-se na tipologia injuntiva-prescritiva (textos de lei). Eles estabelecem deveres morais ou jurídicos de forma imperativa (\"deve\", \"fica proibido\", \"será eliminado\"), visando orientar e padronizar procedimentos sociais no país.",
       "difficulty": "6",
       "images": [],
@@ -379,13 +379,13 @@
           "feedback": "Incorreto. Divulgação de novas energias limpas de grafeno lida com ciência de ponta real e física moderna, livre de lendas de dragões medievais."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Combinar a Exposição (definir o grafeno e explicar cientificamente o painel solar) com a Descrição técnica (detalhar a flexibilidade e cor física dos painéis).",
           "is_correct": true,
           "feedback": "Correto! Apresentar dados explicativos neutros amparados em retratos detalhados físicos de materiais científicos de ponta é a espinha do gênero."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Usar a Injuntiva penal punitiva, com ordens judiciais de prisão imediata para os moradores de Recife que não instalarem grafeno nas lajes das casas.",
           "is_correct": false,
           "feedback": "Incorreto. Divulgação científica informa e conscientiza de forma didática amigável, sem poder jurídico penal de prisões e multas fiscais de prefeitura."
@@ -397,7 +397,7 @@
           "feedback": "Incorreto. É um texto informativo e técnico de engenharia aplicada e inovação física, sem metas de canções românticas de Bossa Nova de praia."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "O texto explicativo e científico de divulgação concilia sequências expositivas (ensinar conceitos teóricos e processos de energia solar de grafeno de forma neutra) com sequências descritivas técnicas (detalhar as propriedades físicas flexíveis dos novos painéis orgânicos), garantindo uma recepção didática ideal por leigos.",
       "difficulty": "6",
       "images": [],
@@ -430,19 +430,19 @@
           "feedback": "Incorreto. Não há relatos temporais cronológicos de dramas românticos de ficção medieval, apenas descrição promocional moderna de tecido de roupa."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Tipologia Descritiva (retrato estático de propriedades luxuosas e qualidades do terno) com o intuito conativo de seduzir e convencer o comprador.",
           "is_correct": true,
           "feedback": "Correto! Apresentar os traços físicos positivos de requinte do produto apoia o apelo conativo publicitário de venda corporativa."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Tipologia Injuntiva de leis federais, prescrevendo instruções obrigatórias e passos punitivos para o uso do terno na prefeitura de São Paulo.",
           "is_correct": false,
           "feedback": "Incorreto. Anúncios sugerem de forma comercial atraente o produto, livre de coerções penais obrigatórias de textos de leis de editais."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "A descrição publicitária (tipologia descritiva) atua a serviço da persuasão comercial de marcas de luxo de vestuário. Selecionar adjetivos e atributos de grande prestígio social (\"Corte impecável, costura invisível\") materializa o apelo conativo ou apelativo de sedução do consumidor executivo paulista.",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Um artigo de divulgação científica escrito por um agrônomo de Manaus analisa a fotossíntese de plantas aquáticas tropicais (vitórias-régias) nos rios da bacia amazônica de forma neutra.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "A tipologia narrativa romântica, com diálogos de amor bucólicos fictícios de ninfas aquáticas nos rios tropicais em silêncio.",
           "is_correct": false,
           "feedback": "Incorreto. O agrônomo descreve anatomia biológica real de flutuação vegetal, livre de mitologias gregas infantis românticas de ninfas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "A tipologia expositiva (explicar processos de fotossíntese de energia) amparada na tipologia descritiva (detalhar os canais internos físicos de flutuação vegetal).",
           "is_correct": true,
           "feedback": "Correto! A exposição conceitual de botânica de longo prazo assenta-se perfeitamente sobre retratos estruturais de folhas reais de flutuação."
@@ -487,7 +487,7 @@
           "feedback": "Incorreto. Árvores e folhas realizam reações biológicas naturais, livres de manuais mecânicos de montagem rústica ou códigos de robôs de informática."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "A redação científica biológica equilibra exposição de processos de vida tropicais (expositiva) com o detalhamento anatômico das partes das plantas (descritiva). Essa mescla tipológica garante clareza factual denotativa ideal de estudos escolares no vestibular brasileiro.",
       "difficulty": "8",
       "images": [],
@@ -514,25 +514,25 @@
           "feedback": "Incorreto. O locutor lê notícia de crime policial de asfalto de forma factual denotativa rápida, livre de sermões de poesias líricas barrocas medievais."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Tipologia Narrativa (relatar as ações do crime e a subsequente prisão pela polícia de forma rápida no tempo cronológico de ontem).",
           "is_correct": true,
           "feedback": "Correto! O relato cronológico de fatos policiais sucessivos reais quentes caracteriza a narração jornalística diária rápida."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Tipologia Injuntiva técnica de receitas culinárias, prescrevendo temperos de comida de forma de bulas farmacêuticas na hora paulista.",
           "is_correct": false,
           "feedback": "Incorreto. Não se trazem receitas culinárias ou temperos de jantares no boletim de crime de fraudes de cartórios paulistanos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Tipologia Argumentativa de tese de doutorado de linguística lusa, para analisar a acentuação ortográfica oficial das palavras usadas no boletim.",
           "is_correct": false,
           "feedback": "Incorreto. Notícias policiais de rádio são ágeis e directas para o público pedestre do trânsito, livres de pedantismos ou teses acadêmicas de filologia."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "O boletim de rádio de notícias quentes policiais estrutura-se sobre a tipologia narrativa jornalística rápida (\"prendeu ontem um quadrilheiro de fraudes\"). O tempo cronológico e o relato das ações encadeadas sequenciais de crime fornecem o dinamismo necessário para informar os motoristas do trânsito paulista de forma ágil.",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "Em um ensaio de vestibular na USP, discute-se o uso de \"sequências narrativas inseridas\" em sermões religiosos barrocos do padre Antônio Vieira escritos na Bahia colonial do século dezoito.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Proibir que fiéis participem de pescarias e multar os marinheiros portugueses de Salvador com base em leis do trânsito marinho.",
           "is_correct": false,
           "feedback": "Incorreto. O padre prega teologia moral e ética bíblica nas igrejas coloniais baianas, sem poder fiscal de aplicação de multas de trânsito marinhas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Servir de alegoria didática ilustrativa de grande impacto visual para prender a atenção do ouvinte e legitimar a tese teológica defendida.",
           "is_correct": true,
           "feedback": "Correto! Histórias ilustrativas ou parábolas narrativas rápidas atuam para clarificar e reforçar o raciocínio lógico argumentativo do orador barroco."
@@ -577,7 +577,7 @@
           "feedback": "Incorreto. A meta é a conversão moral ética e cívica dos cidadãos coloniais sob a fé católica lusa e não manuais secos de engenharia de armas navais."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Os sermões de Vieira são monumentos da tipologia argumentativa (Sermão da Sexagésima, Sermão de Santo Antônio aos Peixes). No entanto, Vieira insere pequenas parábolas ou sequências narrativas dinâmicas (alegorias de peixes) para ilustrar e fixar de forma pedagógica as teses morais abstratas combatidas nos púlpitos do Barroco colonial baiano.",
       "difficulty": "8",
       "images": [],
@@ -610,19 +610,19 @@
           "feedback": "Incorreto. Regulamentos operam de forma diretiva preventiva de engenharia de segurança, sem suspense ou heróis de romances de ficção."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Tipologia Prescritiva (injuntiva de alta obrigatoriedade legal de procedimentos), ditando condutas físicas obrigatórias rígidas de segurança por meio de verbos no imperativo.",
           "is_correct": true,
           "feedback": "Correto! \"Ao soar o alarme... interrompa, dirija-se\" estabelece de forma rígida a conduta salvadora sob riscos reais de explosões paulistas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Tipologia Descritiva de luxo, qualificando com requinte e adjetivos de cores a beleza física das chamas de fogo nos tanques de petróleo.",
           "is_correct": false,
           "feedback": "Incorreto. O regulamento visa salvar vidas humanas de trabalhadores da fábrica paulistana de refinaria, sem elogiar esteticamente cores de incêndios."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "A tipologia prescritiva (variante de alta obrigatoriedade legal da injunção) caracteriza regulamentos industriais de emergência, códigos de trânsito e leis de tráfego. O tom peremptório imperioso (\"interrompa imediatamente, dirija-se\") visa padronizar condutas humanas salvas de riscos físicos e acidentes sob severas consequências de vida ou morte no país.",
       "difficulty": "8",
       "images": [],
@@ -694,13 +694,13 @@
           "feedback": "Incorreto. Adjetivos qualificativos e descrições técnicas de dados de saneamento enriquecem a tese de debate argumentativo (Competência 3)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Funcionar como forte sustentação factual ilustrativa, dando concretude física do asfalto à tese abstrata de debate contra o descaso das prefeituras paulistas.",
           "is_correct": true,
           "feedback": "Correto! Descrever as condições reais da favela de São Paulo de forma cirúrgica legitima a cobrança ética e política da tese do candidato."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Mudar o gênero da redação dissertativa para romance de ficção policial e forçar a banca do ENEM a pontuar o texto como poesia lírica barroca de rimas.",
           "is_correct": false,
           "feedback": "Incorreto. Inserir pequenas descrições não altera o gênero dissertativo estrutural para romance de ficção policial, nem transforma redação em sonetos de rimas."
@@ -712,7 +712,7 @@
           "feedback": "Incorreto. Corretores corrigem as redações com base no texto padrão escrito entregue de forma virtual, sem viagens obrigatórias ao asfalto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Nas redações formais do ENEM (Competência 3), sequências descritivas precisas de mazelas urbanas locais (asfalto quebrado, falta de rede de esgoto nas periferias de São Paulo) atuam como \"provas factuais e ilustrações concretas\" que embasam e dão grande poder de convencimento à tese abstrata de crítica de políticas públicas defendida pelo candidato de forma dissertativa.",
       "difficulty": "8",
       "images": [],
@@ -733,19 +733,19 @@
       "context": "Em um ensaio de crítica jornalística publicado em Porto Alegre, discute-se o conceito de \"narrativização das notícias de catástrofes naturais no Brasil\" em portais digitais contemporâneos da internet.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "A narrativização é inquestionavelmente positiva de verdade porque proíbe o debate de teorias científicas difíceis e educa o cérebro das pessoas em Porto Alegre de forma mecânica.",
           "is_correct": false,
           "feedback": "Incorreto. A narrativização dramática isolada enfraquece a compreensão conceitual macroscópica das falhas de engenharia do asfalto e de canais estaduais."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Os portais gaúchos deveriam ser punidos judicialmente por crime de lesa-pátria contra as regras de notícias de Portugal de 1500 por usarem histórias humanas reais de celular.",
           "is_correct": false,
           "feedback": "Incorreto. Contar histórias humanas reais de resgates não constitui crime civil de trânsito; a queixa é de balanço tipológico investigativo jornalístico."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "A ênfase na narrativa dramática individual apela ao melodrama sensorial rápido (comove o leitor receptor), mas desvia a atenção pública das causas estruturais de descaso de saneamento básico governamental de longo prazo.",
           "is_correct": true,
           "feedback": "Correto! Focar apenas em dramas de suspense individuais esvazia a crítica expositiva racional e científica sobre obras públicas de asfalto e canais de escoamento."
@@ -757,7 +757,7 @@
           "feedback": "Incorreto. Trata-se de uma estratégia mercadológica humana de cliques rápidos corporativos na web eletrônica contemporânea de rede de mídias."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Substituir a exposição técnico-científica das enchentes (tipologia expositiva de dados de saneamento e clima gaúcho) pela comoção dramática de personagens de resgates (tipologia narrativa de suspense rápido de asfalto) constitui uma conhecida estratégia mercantilista de mídias eletrônicas de cliques rápidos. Embora gere alta empatia e visualizações na web, essa estratégia enfraquece o debate democrático e analítico sobre a responsabilidade de prefeituras por obras públicas paradas de drenagem de águas urbanas no país.",
       "difficulty": "10",
       "images": [],
@@ -829,25 +829,25 @@
           "feedback": "Incorreto. O hibridismo machadiano de alternar reflexões críticas com descrições irônicas cariocas é exatamente o ápice de sua genialidade literária."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "O romance possui tipologia narrativa como dominante (linha temporal de ações do Rio imperial), valendo-se de longas sequências descritivas e argumentações irônicas do narrador de forma integrada.",
           "is_correct": true,
           "feedback": "Correto! As sequências heterogêneas se apoiam e se alternam dinamicamente sob a regência dramática da narrativa machadiana carioca de prestígio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "As tipologias machadianas entram em colapso total impossibilitando que os alunos de Letras da USP compreendam a língua portuguesa escrita de Machado de Assis.",
           "is_correct": false,
           "feedback": "Incorreto. A prosa machadiana é modelo de elegância e fluidez sintática culta literária, amplamente estudada em vestibular de Letras de todas as universidades paulistas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "A única tipologia que rege de verdade os livros de Machado de Assis é a injutiva de receitas culinárias de doces baianos do século dezoito de forma de bulas de remédio.",
           "is_correct": false,
           "feedback": "Incorreto. Machado de Assis escreve literatura clássica de ficção realista de alta costura humana psicológica e não manuais instrucionais agrários ou de temperos de cozinha de colônia."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "A teoria das sequências textuais de Jean-Michel Adam explica que os textos reais do vestibular brasileiro são heterogêneos. Um romance de Machado de Assis (esfera literária) possui a tipologia narrativa de ações cronológicas do Rio imperial como dominante (a matriz de sentido), mas costura com refinamento estilístico sequências descritivas (qualificar fisicamente as personagens cariocas) e sequências argumentativas (reflexões irônicas e teses morais abstratas do narrador sobre o egoísmo humano), garantindo o mérito estético elevado do clássico de vestibular paulista.",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Um coletivo de estudantes do Ensino Médio de Brasília organiza uma campanha comunitária em uma favela local para orientar os moradores de rua sobre as regras obrigatórias de primeiros socorros em acidentes domésticos sob fiação elétrica perigosa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Soneto lírico clássico em versos alexandrinos repletos de rimas ricas e declarações de amor românticas dedicadas aos deuses da eletricidade romana antiga em silêncio.",
           "is_correct": false,
           "feedback": "Incorreto. Situações de emergência médica de choque elétrico demandam instruções visuais e passos práticos imediatos, livre de sonetos barrocos de amor."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Dissertação acadêmica de doutorado de cem páginas debatendo o orçamento estatal de asfalto e as leis financeiras do mercado de cobre de forma de tese abstrata de economia.",
           "is_correct": false,
           "feedback": "Incorreto. O morador leigo desesperado diante de um acidente elétrico doméstico imediato não lerá teses econômicas de longo prazo de Brasília de forma acadêmica."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "O infográfico visual misto (sequência injutiva instrucional de passos diretos numerados de primeiros socorros) com verbos no imperativo associados a desenhos claros de segurança de celular.",
           "is_correct": true,
           "feedback": "Correto! Desenhos de passos numerados associados a comandos simples (\"Desligue o disjuntor na hora, Afaste a vítima com madeira\") salvam vidas em segundos."
@@ -892,7 +892,7 @@
           "feedback": "Incorreto. Certidões públicas são registros formais burocráticos de estado civil de cartórios federais, sem utilidade médica para choques elétricos de emergência de asfalto."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Para situações críticas de primeiros socorros domésticos graves sob riscos elétricos ou queimaduras corporais nas periferias urbanas brasileiras (como na favela do Sol Nascente em Brasília), o gênero de mídias \"infográfico de utilidade pública\" de base tipológica injutiva-instrucional numerada (\"Passo 1: Desligue o disjuntor; Passo 2: Use um cabo de madeira seco para afastar a fiação\") constitui a ferramenta comunicativa de maior eficácia salvadora de vidas. Ele combina a clareza e autoridade de comandos diretos de asfalto com a rapidez visual de desenhos de celular, prevenindo acidentes fatais por falta de informação técnica no cotidiano de forma prática, democrática e inclusiva no país.",
       "difficulty": "10",
       "images": [],

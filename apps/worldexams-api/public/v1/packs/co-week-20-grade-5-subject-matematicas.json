@@ -13,13 +13,13 @@
       "context": "En el salón de clase de un colegio de Ibagué, la profesora escribe en el tablero la expresión 6 + 2 = 8 y pregunta a sus estudiantes qué representa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Una relación donde dos expresiones tienen el mismo valor.",
           "is_correct": true,
           "feedback": "En una igualdad, el valor de un lado es exactamente igual al valor del otro lado."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una operación que siempre da un resultado mayor que sus términos.",
           "is_correct": false,
           "feedback": "El resultado de una igualdad no tiene que ser mayor; solo debe ser equivalente."
@@ -37,7 +37,7 @@
           "feedback": "Precisamente la igualdad establece una relación de equivalencia entre dos expresiones."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Reconocer la igualdad como una relación de equivalencia entre dos expresiones con el mismo valor.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Un estudiante de grado quinto en Cúcuta ahorra dinero para comprar un cuaderno. Tiene 5.000 COP y le falta una cantidad desconocida para completar 12.000 COP.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "7.000 COP.",
           "is_correct": true,
           "feedback": "12.000 - 5.000 = 7.000 COP, y al sumar 7.000 + 5.000 se obtiene 12.000."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5.000 COP.",
           "is_correct": false,
           "feedback": "5.000 COP es lo que ya tiene, no lo que le falta."
@@ -129,7 +129,7 @@
           "feedback": "12.000 COP es la meta total, no la cantidad que falta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Resolver una ecuación simple de suma restando el término conocido al total.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En una tienda escolar de Sincelejo, una estudiante tenía cierta cantidad de lápices, regaló 4 y le quedaron 9.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "13 lápices.",
           "is_correct": true,
           "feedback": "9 + 4 = 13, y al restar 13 - 4 se obtiene 9."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5 lápices.",
           "is_correct": false,
           "feedback": "5 lápices resultarían de restar 9 - 4, operación que no corresponde a esta ecuación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "9 lápices.",
           "is_correct": false,
           "feedback": "9 es la cantidad que le quedó después de regalar los lápices."
@@ -175,7 +175,7 @@
           "feedback": "36 lápices resultarían de multiplicar 9 por 4, no de despejar una resta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Resolver una ecuación simple de resta sumando el término conocido al resultado.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En el mercado de Barranquilla, 3 bolsas iguales de naranjas cuestan en total 21.000 COP.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "7.000 COP.",
           "is_correct": true,
           "feedback": "21.000 ÷ 3 = 7.000 COP, y 3 × 7.000 = 21.000."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "18.000 COP.",
           "is_correct": false,
           "feedback": "18.000 COP resultaría de restar 21.000 - 3.000, no de repartir el total en 3 bolsas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "21.000 COP.",
           "is_correct": false,
           "feedback": "21.000 COP es el costo de las 3 bolsas juntas, no de una sola."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "63.000 COP.",
           "is_correct": false,
           "feedback": "63.000 COP resultaría de multiplicar 21.000 por 3, lo cual aumenta el total."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Resolver una ecuación simple de multiplicación dividiendo el total entre el número de grupos.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "En una balanza en el aula de un colegio de Manizales se colocan 2 cajas iguales y 3 pesas de 1 unidad en un platillo, y 11 pesas de 1 unidad en el otro. La balanza queda en equilibrio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "4.",
           "is_correct": true,
           "feedback": "11 - 3 = 8 y 8 ÷ 2 = 4; además 2 × 4 + 3 = 11."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5.",
           "is_correct": false,
           "feedback": "Con x = 5 se tendría 2 × 5 + 3 = 13, que no equilibra las 11 pesas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "7.",
           "is_correct": false,
           "feedback": "Con x = 7 se tendría 2 × 7 + 3 = 17, mayor que 11."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "8.",
           "is_correct": false,
           "feedback": "8 es el resultado de 11 - 3, pero aún falta repartirlo entre las 2 cajas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analizar una ecuación de dos pasos separando primero el término constante y luego el coeficiente.",
       "difficulty": "8",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En una papelería de Villavicencio, Andrés compró una cartulina y un marcador de 2.000 COP. Pagó en total 6.500 COP y quiere saber cuánto costó la cartulina.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "x + 2.000 = 6.500, entonces la cartulina costó 4.500 COP.",
           "is_correct": true,
           "feedback": "6.500 - 2.000 = 4.500 COP, y 4.500 + 2.000 = 6.500."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x - 2.000 = 6.500, entonces la cartulina costó 8.500 COP.",
           "is_correct": false,
           "feedback": "La ecuación de resta no corresponde, porque el marcador se suma al total."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x + 2.000 = 6.500, entonces la cartulina costó 6.500 COP.",
           "is_correct": false,
           "feedback": "6.500 COP es el total pagado, no el precio de la cartulina."
@@ -313,7 +313,7 @@
           "feedback": "Solo hay una cartulina, por lo que no se debe duplicar ni dividir el total entre dos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Analizar un problema cotidiano, plantear la ecuación correcta y hallar el valor desconocido.",
       "difficulty": "8",
       "images": [],

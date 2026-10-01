@@ -103,13 +103,13 @@
       "context": "Estructura Atómica, Tabla Periódica y Enlaces Químicos - Caso N° 3.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El sistema responde de forma proporcional a las variables involucradas manteniendo la consistencia teórica de $Electronegatividad$.",
           "is_correct": true,
           "feedback": "Correcto. La respuesta del sistema refleja la ley física/química de $Electronegatividad$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El sistema permanece completamente inerte sin registrar variación alguna.",
           "is_correct": false,
           "feedback": "Incorrecto. Las variables se modifican según las ecuaciones del modelo."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. El fenómeno sigue un patrón determinista bien definido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las observaciones experimentales confirman las predicciones del modelo teórico de Electronegatividad.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Estructura Atómica, Tabla Periódica y Enlaces Químicos - Caso N° 4.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El sistema responde de forma proporcional a las variables involucradas manteniendo la consistencia teórica de $Enlace Iónico$.",
           "is_correct": true,
           "feedback": "Correcto. La respuesta del sistema refleja la ley física/química de $Enlace Iónico$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El sistema permanece completamente inerte sin registrar variación alguna.",
           "is_correct": false,
           "feedback": "Incorrecto. Las variables se modifican según las ecuaciones del modelo."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. El fenómeno sigue un patrón determinista bien definido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las observaciones experimentales confirman las predicciones del modelo teórico de Enlace Iónico.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,19 +193,19 @@
       "context": "Estructura Atómica, Tabla Periódica y Enlaces Químicos - Caso N° 5.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Se aplica la ecuación correspondiente a $Enlace Covalente$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Química.",
           "is_correct": true,
           "feedback": "Correcto. Refleja la formulación correcta para $Enlace Covalente$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida.",
           "is_correct": false,
           "feedback": "Incorrecto. Las unidades deben ser consistentes en el sistema SI."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se ignora la influencia de las condiciones iniciales del experimento.",
           "is_correct": false,
           "feedback": "Incorrecto. Las condiciones iniciales determinan la solución del sistema."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Las constantes del sistema tienen valores finitos y definidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La aplicación cuantitativa de Enlace Covalente requiere el uso riguroso de las ecuaciones de Química General.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,19 +238,19 @@
       "context": "Estructura Atómica, Tabla Periódica y Enlaces Químicos - Caso N° 6.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Se aplica la ecuación correspondiente a $Número Atómico y Másico$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Química.",
           "is_correct": true,
           "feedback": "Correcto. Refleja la formulación correcta para $Número Atómico y Másico$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida.",
           "is_correct": false,
           "feedback": "Incorrecto. Las unidades deben ser consistentes en el sistema SI."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se ignora la influencia de las condiciones iniciales del experimento.",
           "is_correct": false,
           "feedback": "Incorrecto. Las condiciones iniciales determinan la solución del sistema."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Las constantes del sistema tienen valores finitos y definidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La aplicación cuantitativa de Número Atómico y Másico requiere el uso riguroso de las ecuaciones de Química General.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "Estructura Atómica, Tabla Periódica y Enlaces Químicos - Caso N° 7.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Se aplica la ecuación correspondiente a $Configuración Electrónica$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Química.",
           "is_correct": true,
           "feedback": "Correcto. Refleja la formulación correcta para $Configuración Electrónica$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida.",
           "is_correct": false,
           "feedback": "Incorrecto. Las unidades deben ser consistentes en el sistema SI."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Las constantes del sistema tienen valores finitos y definidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La aplicación cuantitativa de Configuración Electrónica requiere el uso riguroso de las ecuaciones de Química General.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,31 +328,31 @@
       "context": "Estructura Atómica, Tabla Periódica y Enlaces Químicos - Caso N° 8.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Se aplica la ecuación correspondiente a $Electronegatividad$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Química.",
           "is_correct": true,
           "feedback": "Correcto. Refleja la formulación correcta para $Electronegatividad$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida.",
           "is_correct": false,
           "feedback": "Incorrecto. Las unidades deben ser consistentes en el sistema SI."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se ignora la influencia de las condiciones iniciales del experimento.",
           "is_correct": false,
           "feedback": "Incorrecto. Las condiciones iniciales determinan la solución del sistema."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Se asume que la constante del proceso es igual a cero en todo instante.",
           "is_correct": false,
           "feedback": "Incorrecto. Las constantes del sistema tienen valores finitos y definidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La aplicación cuantitativa de Electronegatividad requiere el uso riguroso de las ecuaciones de Química General.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,31 +418,31 @@
       "context": "Estructura Atómica, Tabla Periódica y Enlaces Químicos - Caso N° 10.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Se aplica la ecuación correspondiente a $Enlace Covalente$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Química.",
           "is_correct": true,
           "feedback": "Correcto. Refleja la formulación correcta para $Enlace Covalente$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida.",
           "is_correct": false,
           "feedback": "Incorrecto. Las unidades deben ser consistentes en el sistema SI."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se ignora la influencia de las condiciones iniciales del experimento.",
           "is_correct": false,
           "feedback": "Incorrecto. Las condiciones iniciales determinan la solución del sistema."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Se asume que la constante del proceso es igual a cero en todo instante.",
           "is_correct": false,
           "feedback": "Incorrecto. Las constantes del sistema tienen valores finitos y definidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La aplicación cuantitativa de Enlace Covalente requiere el uso riguroso de las ecuaciones de Química General.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,19 +463,19 @@
       "context": "Estructura Atómica, Tabla Periódica y Enlaces Químicos - Caso N° 11.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El cambio en las variables modifica el estado final según las restricciones impuestas por $Número Atómico y Másico$ y las leyes de Química.",
           "is_correct": true,
           "feedback": "Correcto. El análisis deductivo confirma el impacto directo sobre el estado final."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El estado final es independiente de cualquier cambio realizado en el estado inicial.",
           "is_correct": false,
           "feedback": "Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance.",
           "is_correct": false,
           "feedback": "Incorrecto. El balance se mantiene bajo las leyes de conservación."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. No se puede crear masa ni energía de la nada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El análisis analítico de Número Atómico y Másico demuestra la coherencia interna de los modelos en Química General.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "Estructura Atómica, Tabla Periódica y Enlaces Químicos - Caso N° 12.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El cambio en las variables modifica el estado final según las restricciones impuestas por $Configuración Electrónica$ y las leyes de Química.",
           "is_correct": true,
           "feedback": "Correcto. El análisis deductivo confirma el impacto directo sobre el estado final."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El estado final es independiente de cualquier cambio realizado en el estado inicial.",
           "is_correct": false,
           "feedback": "Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance.",
           "is_correct": false,
           "feedback": "Incorrecto. El balance se mantiene bajo las leyes de conservación."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. No se puede crear masa ni energía de la nada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El análisis analítico de Configuración Electrónica demuestra la coherencia interna de los modelos en Química General.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "Estructura Atómica, Tabla Periódica y Enlaces Químicos - Caso N° 13.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El cambio en las variables modifica el estado final según las restricciones impuestas por $Electronegatividad$ y las leyes de Química.",
           "is_correct": true,
           "feedback": "Correcto. El análisis deductivo confirma el impacto directo sobre el estado final."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El estado final es independiente de cualquier cambio realizado en el estado inicial.",
           "is_correct": false,
           "feedback": "Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance.",
           "is_correct": false,
           "feedback": "Incorrecto. El balance se mantiene bajo las leyes de conservación."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. No se puede crear masa ni energía de la nada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El análisis analítico de Electronegatividad demuestra la coherencia interna de los modelos en Química General.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,31 +598,31 @@
       "context": "Estructura Atómica, Tabla Periódica y Enlaces Químicos - Caso N° 14.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El cambio en las variables modifica el estado final según las restricciones impuestas por $Enlace Iónico$ y las leyes de Química.",
           "is_correct": true,
           "feedback": "Correcto. El análisis deductivo confirma el impacto directo sobre el estado final."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El estado final es independiente de cualquier cambio realizado en el estado inicial.",
           "is_correct": false,
           "feedback": "Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance.",
           "is_correct": false,
           "feedback": "Incorrecto. El balance se mantiene bajo las leyes de conservación."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La energía o materia total aumenta exponencialmente sin fuente externa.",
           "is_correct": false,
           "feedback": "Incorrecto. No se puede crear masa ni energía de la nada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El análisis analítico de Enlace Iónico demuestra la coherencia interna de los modelos en Química General.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,19 +643,19 @@
       "context": "Estructura Atómica, Tabla Periódica y Enlaces Químicos - Caso N° 15.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El cambio en las variables modifica el estado final según las restricciones impuestas por $Enlace Covalente$ y las leyes de Química.",
           "is_correct": true,
           "feedback": "Correcto. El análisis deductivo confirma el impacto directo sobre el estado final."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El estado final es independiente de cualquier cambio realizado en el estado inicial.",
           "is_correct": false,
           "feedback": "Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance.",
           "is_correct": false,
           "feedback": "Incorrecto. El balance se mantiene bajo las leyes de conservación."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. No se puede crear masa ni energía de la nada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El análisis analítico de Enlace Covalente demuestra la coherencia interna de los modelos en Química General.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,31 +733,31 @@
       "context": "Estructura Atómica, Tabla Periódica y Enlaces Químicos - Caso N° 17.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Configuración Electrónica$.",
           "is_correct": true,
           "feedback": "Correcto. La evaluación fundamentada confirma la solidez del modelo para $Configuración Electrónica$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa.",
           "is_correct": false,
           "feedback": "Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El modelo sólo funciona si se desestiman las unidades del Sistema Internacional.",
           "is_correct": false,
           "feedback": "Incorrecto. Debe operar de forma consistente en el Sistema Internacional."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El modelo presenta inconsistencias graves al asumir que el rendimiento puede superar el 100%.",
           "is_correct": false,
           "feedback": "Incorrecto. El modelo respeta el límite físico del 100% de eficiencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La evaluación crítica de modelos en Química General exige verificar el cumplimiento de los límites teóricos de Configuración Electrónica.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,19 +778,19 @@
       "context": "Estructura Atómica, Tabla Periódica y Enlaces Químicos - Caso N° 18.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Electronegatividad$.",
           "is_correct": true,
           "feedback": "Correcto. La evaluación fundamentada confirma la solidez del modelo para $Electronegatividad$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa.",
           "is_correct": false,
           "feedback": "Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El modelo sólo funciona si se desestiman las unidades del Sistema Internacional.",
           "is_correct": false,
           "feedback": "Incorrecto. Debe operar de forma consistente en el Sistema Internacional."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. El modelo respeta el límite físico del 100% de eficiencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La evaluación crítica de modelos en Química General exige verificar el cumplimiento de los límites teóricos de Electronegatividad.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,31 +823,31 @@
       "context": "Estructura Atómica, Tabla Periódica y Enlaces Químicos - Caso N° 19.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Enlace Iónico$.",
           "is_correct": true,
           "feedback": "Correcto. La evaluación fundamentada confirma la solidez del modelo para $Enlace Iónico$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa.",
           "is_correct": false,
           "feedback": "Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El modelo sólo funciona si se desestiman las unidades del Sistema Internacional.",
           "is_correct": false,
           "feedback": "Incorrecto. Debe operar de forma consistente en el Sistema Internacional."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El modelo presenta inconsistencias graves al asumir que el rendimiento puede superar el 100%.",
           "is_correct": false,
           "feedback": "Incorrecto. El modelo respeta el límite físico del 100% de eficiencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La evaluación crítica de modelos en Química General exige verificar el cumplimiento de los límites teóricos de Enlace Iónico.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Estructura Atómica, Tabla Periódica y Enlaces Químicos - Caso N° 20.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Enlace Covalente$.",
           "is_correct": true,
           "feedback": "Correcto. La evaluación fundamentada confirma la solidez del modelo para $Enlace Covalente$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa.",
           "is_correct": false,
           "feedback": "Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. El modelo respeta el límite físico del 100% de eficiencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La evaluación crítica de modelos en Química General exige verificar el cumplimiento de los límites teóricos de Enlace Covalente.\n\n---",
       "difficulty": "10",
       "images": [],

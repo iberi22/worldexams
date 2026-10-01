@@ -13,19 +13,19 @@
       "context": "En Bogotá, un estudiante plantea la ecuación $x + 7 = 12$ para hallar un número desconocido.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$5$",
           "is_correct": true,
           "feedback": "Correcto. Se resta $7$ en ambos lados: $x = 12 - 7 = 5$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$19$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste $7$ en lugar de restarlo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$-5$",
           "is_correct": false,
           "feedback": "Incorrecto. El resultado debe ser positivo al restar $12 - 7$."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Ese es el término que se resta, no el valor de $x$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para despejar $x$ se aplica la operación inversa: $x = 12 - 7 = 5$.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "En Medellín, se resuelve la ecuación $3x = 15$ para determinar el precio unitario de un producto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$5$",
           "is_correct": true,
           "feedback": "Correcto. Se divide entre $3$: $x = \\frac{15}{3} = 5$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$45$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste $15$ por $3$ en lugar de dividir."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$12$",
           "is_correct": false,
           "feedback": "Incorrecto. Restaste $3$ de $15$ sin aplicar la operación inversa."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Sumaste $3$ a $15$ en lugar de dividir."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El $3$ multiplica a $x$, así que se despeja dividiendo: $x = \\frac{15}{3} = 5$.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En Cali, un comerciante modela sus ganancias con la ecuación $2x - 5 = 11$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$8$",
           "is_correct": true,
           "feedback": "Correcto. $2x = 11 + 5 = 16$, luego $x = \\frac{16}{2} = 8$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$3$",
           "is_correct": false,
           "feedback": "Incorrecto. Restaste $5$ de $11$ antes de dividir."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Error al sumar $11 + 5$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Se suma $5$ en ambos lados: $2x = 16$, y se divide entre $2$: $x = 8$.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En Barranquilla, se resuelve la ecuación $4x + 3 = 2x + 11$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$4$",
           "is_correct": true,
           "feedback": "Correcto. $4x - 2x = 11 - 3$, es decir $2x = 8$, entonces $x = 4$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$7$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste mal al agrupar los términos constantes."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Olvidaste dividir entre $2$ al final."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Se agrupan variables a un lado y constantes al otro: $4x - 2x = 11 - 3 \\Rightarrow 2x = 8 \\Rightarrow x = 4$.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En Bucaramanga, se resuelve la ecuación $2(x - 3) = 10$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$8$",
           "is_correct": true,
           "feedback": "Correcto. $x - 3 = 5$, entonces $x = 5 + 3 = 8$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$5$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el valor de $x - 3$, no de $x$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$2$",
           "is_correct": false,
           "feedback": "Incorrecto. Restaste $3$ al resultado de la división."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Dividiste mal entre $2$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Se divide entre $2$: $x - 3 = 5$; luego se suma $3$: $x = 8$.",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En Manizales, la suma de dos números enteros consecutivos es $47$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$23$",
           "is_correct": true,
           "feedback": "Correcto. $x + (x+1) = 47 \\Rightarrow 2x = 46 \\Rightarrow x = 23$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$24$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el número mayor, no el menor."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. La suma de $25$ y $26$ no es $47$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Si el menor es $x$, el mayor es $x+1$. $x + x + 1 = 47 \\Rightarrow 2x = 46 \\Rightarrow x = 23$.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En Cartagena, se resuelve la ecuación $3(x + 2) = 2x + 11$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$5$",
           "is_correct": true,
           "feedback": "Correcto. $3x + 6 = 2x + 11 \\Rightarrow x = 5$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$11$",
           "is_correct": false,
           "feedback": "Incorrecto. No distribuiste el $3$ antes de agrupar."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$1$",
           "is_correct": false,
           "feedback": "Incorrecto. Error al restar las constantes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$17$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste en lugar de restar los términos con $x$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Se distribuye: $3x + 6 = 2x + 11$. Al agrupar, $3x - 2x = 11 - 6 \\Rightarrow x = 5$.",
       "difficulty": "8",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "En Medellín, un gimnasio ofrece dos planes. El plan A cobra $80000\\text{ COP}$ de inscripción más $5000\\text{ COP}$ por clase; el plan B cobra $15000\\text{ COP}$ por clase sin inscripción.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$8$ clases",
           "is_correct": true,
           "feedback": "Correcto. $80000 + 5000n = 15000n \\Rightarrow 80000 = 10000n \\Rightarrow n = 8$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$10$ clases",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste $80000$ entre $8000$ por un error en la diferencia de tarifas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$6$ clases",
           "is_correct": false,
           "feedback": "Incorrecto. Error al despejar la incógnita."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$16$ clases",
           "is_correct": false,
           "feedback": "Incorrecto. Usaste la tarifa de $5000$ en lugar de la diferencia de $10000$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Igualando costos: $80000 + 5000n = 15000n$. Entonces $80000 = 10000n$ y $n = 8$ clases.",
       "difficulty": "10",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "En Popayán, el perímetro de un terreno rectangular es $46\\text{ m}$. El largo mide $3\\text{ m}$ más que el ancho.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$10\\text{ m}$",
           "is_correct": true,
           "feedback": "Correcto. $2(w + w + 3) = 46 \\Rightarrow 4w + 6 = 46 \\Rightarrow w = 10$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$13\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el largo, no el ancho."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. Dividiste el perímetro entre $4$ sin considerar el ajuste del largo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Con ancho $w$ y largo $w+3$: perímetro $= 2(w + w + 3) = 46$. Así $4w + 6 = 46$, $4w = 40$ y $w = 10\\text{ m}$.",
       "difficulty": "10",
       "images": [],

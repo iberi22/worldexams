@@ -13,13 +13,13 @@
       "context": "En el laboratorio de química de la Universidad del Valle en Cali, se estudia una reacción reversible en fase gaseosa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Las velocidades de la reacción directa e inversa son exactamente iguales.",
           "is_correct": true,
           "feedback": "Correcto. El equilibrio es dinámico y ocurre cuando $v_{directa} = v_{inversa}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La concentración de los reactivos se vuelve cero.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso ocurre en reacciones irreversibles completas."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. La masa se conserva en todo sistema cerrado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El equilibrio químico es dinámico y se caracteriza por la igualdad de velocidades en ambos sentidos.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "En Bogotá se analiza la expresión matemática de la constante de equilibrio $K_c$ para la reacción $aA + bB \\rightleftharpoons cC + dD$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$K_c = \\frac{[C]^c [D]^d}{[A]^a [B]^b}$.",
           "is_correct": true,
           "feedback": "Correcto. Es el cociente entre productos y reactivos elevados a sus coeficientes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$K_c = \\frac{[A]^a [B]^b}{[C]^c [D]^d}$.",
           "is_correct": false,
           "feedback": "Incorrecto. Colocó reactivos en el numerador."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$K_c = [A] + [B] - [C] - [D]$.",
           "is_correct": false,
           "feedback": "Incorrecto. No se suman concentraciones."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Los coeficientes son exponentes, no factores."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La constante $K_c$ relaciona concentraciones de productos sobre reactivos elevadas a sus coeficientes estequiométricos.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En Medellín se estudia el Principio de Le Chatelier en sistemas cerrados.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El sistema se desplaza en el sentido que contrarreste la perturbación aplicada.",
           "is_correct": true,
           "feedback": "Correcto. Se reajusta para aliviar la tensión impuesta (concentración, T o P)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El sistema precipita inmediatamente todos los gases.",
           "is_correct": false,
           "feedback": "Incorrecto. Depende del tipo de modificación aplicada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La constante de equilibrio $K_c$ cambia ante variaciones de presión.",
           "is_correct": false,
           "feedback": "Incorrecto. $K_c$ solo varía con la temperatura."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Se destruye la reversibilidad del sistema.",
           "is_correct": false,
           "feedback": "Incorrecto. El sistema busca alcanzar un nuevo estado de equilibrio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Le Chatelier predice la dirección del desplazamiento frente a cambios en variables de estado.",
       "difficulty": "4",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En Barranquilla se evalúa el efecto de la adición de un catalizador a una mezcla en equilibrio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "No altera $K_c$ ni desplaza la posición del equilibrio; solo acelera el tiempo para alcanzarlo.",
           "is_correct": true,
           "feedback": "Correcto. Aumenta por igual las velocidades directa e inversa al bajar la energía de activación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Aumenta $K_c$ favoreciendo la formación de productos.",
           "is_correct": false,
           "feedback": "Incorrecto. Los catalizadores no modifican las constantes termodinámicas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Desplaza el equilibrio hacia la izquierda.",
           "is_correct": false,
           "feedback": "Incorrecto. No altera la proporción de reactivos y productos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Inactiva los reactivos permanentemente.",
           "is_correct": false,
           "feedback": "Incorrecto. El catalizador se recupera inalterado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Un catalizador acorta el tiempo para llegar al equilibrio pero no modifica las concentraciones finales en equilibrio.",
       "difficulty": "4",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "Dada la reacción exotérmica $N_{2(g)} + 3H_{2(g)} \\rightleftharpoons 2NH_{3(g)} + calor$ en Tunja.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Hacia la izquierda (favorece reactivos $N_2$ y $H_2$).",
           "is_correct": true,
           "feedback": "Correcto. En reacciones exotérmicas, el calor actúa como producto; añadir calor desplaza a reactivos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Hacia la derecha (favorece producto $NH_3$).",
           "is_correct": false,
           "feedback": "Incorrecto. Eso ocurriría en una reacción endotérmica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No sufre ningún cambio.",
           "is_correct": false,
           "feedback": "Incorrecto. Cambios de temperatura alteran siempre el equilibrio."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Las moléculas aumentan su energía cinética."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Al elevar la temperatura en un sistema exotérmico, el sistema consume calor desplazándose hacia la izquierda.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "Para la reacción $2SO_{2(g)} + O_{2(g)} \\rightleftharpoons 2SO_{3(g)}$ a $500^\\circ\\text{C}$ en Bucaramanga.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Aumenta la producción de $SO_3$ porque el sistema se desplaza hacia el menor número de moles gaseosos (2 moles vs 3 moles).",
           "is_correct": true,
           "feedback": "Correcto. Pasar de 3 moles a 2 moles de gas reduce la presión."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Disminuye la producción de $SO_3$.",
           "is_correct": false,
           "feedback": "Incorrecto. El desplazamiento favorece el lado con menos moles de gas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El gas $SO_3$ se convierte en agua pura.",
           "is_correct": false,
           "feedback": "Incorrecto. No se altera la naturaleza elemental."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La presión no influye sobre balances gaseosos.",
           "is_correct": false,
           "feedback": "Incorrecto. Afecta si hay diferencia en moles de gas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El aumento de presión favorece la dirección con menor número de moles de gas (de 3 a 2 moles).",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En Manizales se mezcla $N_2O_4$ (incoloro) y $NO_2$ (marrón) en un tubo cerrado: $N_2O_{4(g)} \\rightleftharpoons 2NO_{2(g)}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Hacia la derecha (producirá más $NO_2$), porque $Q_c = 1.0 < K_c$.",
           "is_correct": true,
           "feedback": "Correcto. $Q_c = [1.0]^2 / 1.0 = 1.0$. Como $Q_c < K_c$, se forman más productos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Hacia la izquierda, porque $Q_c > K_c$.",
           "is_correct": false,
           "feedback": "Incorrecto. $Q_c$ es 1.0, menor que $K_c = 4.0$."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Permanece en fase gaseosa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "$Q_c = [NO_2]^2/[N_2O_4] = 1.0 / 1.0 = 1.0$. Al ser $Q_c < 4.0$, la reacción avanza hacia productos.",
       "difficulty": "6",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "En Cartagena se analiza el sistema amortiguador del plasma sanguíneo $H_2CO_3 \\rightleftharpoons HCO_3^- + H^+$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El equilibrio se desplaza a la izquierda consumiendo $H^+$, lo que aumenta el pH (alcalosis respiratoria).",
           "is_correct": true,
           "feedback": "Correcto. Al bajar $H_2CO_3$, se consumen protones para reponerlo, aumentando el pH."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Disminuye el pH produciendo acidosis.",
           "is_correct": false,
           "feedback": "Incorrecto. La hiperventilación eleva el pH."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Aumenta la concentración de $H^+$.",
           "is_correct": false,
           "feedback": "Incorrecto. Los protones disminuyen."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Precipitan las proteínas plasmáticas.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una respuesta de amortiguación ácida."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La remoción de $CO_2/H_2CO_3$ consume $H^+$, elevando el pH sanguíneo (alcalosis).",
       "difficulty": "6",
       "images": [],
@@ -473,19 +473,19 @@
       "context": "Dada la reacción $A_{(g)} \\rightleftharpoons 2B_{(g)}$ con $K_c = 0.5 \\text{ M}$ en Bogotá. Si en un recipiente de 1 L se colocan 2 moles de A.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$0.75 \\text{ M}$.",
           "is_correct": true,
           "feedback": "Correcto. $K_c = [4x^2]/(2-x) = 0.5 Rightarrow 4x^2 + 0.5x - 1 = 0 Rightarrow x \\approx 0.44 \\text{ M} Rightarrow [B] = 2x \\approx 0.75 \\text{ M}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2.00 \\text{ M}$.",
           "is_correct": false,
           "feedback": "Incorrecto. Asumió conversión completa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$1.00 \\text{ M}$.",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la resolución de la ecuación cuadrática."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. Olvidó multiplicar $x$ por 2 para el compuesto B."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Resolviendo $K_c = (2x)^2 / (2-x) = 0.5$, la concentración de B es $2x \\approx 0.75 \\text{ M}$.",
       "difficulty": "8",
       "images": [],
@@ -519,31 +519,31 @@
       "context": "En Cali se estudia el producto de solubilidad $K_{sp}$ del $AgCl$ ($1.8 \\times 10^{-10}$).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$1.34 \\times 10^{-5} \\text{ M}$.",
           "is_correct": true,
           "feedback": "Correcto. $K_{sp} = s^2 Rightarrow s = \\sqrt{1.8 \\times 10^{-10}} = 1.34 \\times 10^{-5} \\text{ M}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$1.8 \\times 10^{-10} \\text{ M}$.",
           "is_correct": false,
           "feedback": "Incorrecto. Es el valor del $K_{sp}$, no de la solubilidad $s$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$3.24 \\times 10^{-20} \\text{ M}$.",
           "is_correct": false,
           "feedback": "Incorrecto. Elevó $K_{sp}$ al cuadrado en lugar de extraer raíz."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$0.9 \\times 10^{-5} \\text{ M}$.",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió $K_{sp}$ entre 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para una sal 1:1, $K_{sp} = s^2 Rightarrow s = \\sqrt{K_{sp}} = 1.34 \\times 10^{-5} \\text{ M}$.",
       "difficulty": "8",
       "images": [],
@@ -611,31 +611,31 @@
       "context": "En Pasto se analiza la relación $\\Delta G^\\circ = -RT \\ln K$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\Delta G^\\circ < 0$ (negativo) y el equilibrio está fuertemente desplazado hacia productos.",
           "is_correct": true,
           "feedback": "Correcto. Como $K > 1$, $ln K > 0 Rightarrow \\Delta G^\\circ < 0$, favoreciendo productos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\Delta G^\\circ > 0$ y predominan reactivos.",
           "is_correct": false,
           "feedback": "Incorrecto. $K > 1$ implica $\\Delta G^\\circ < 0$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\Delta G^\\circ = 0$ y no hay productos.",
           "is_correct": false,
           "feedback": "Incorrecto. $\\Delta G^\\circ = 0$ ocurre solo cuando $K = 1$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La reacción no puede ocurrir.",
           "is_correct": false,
           "feedback": "Incorrecto. Es altamente espontánea en estado estándar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Un valor $K gg 1$ genera $\\Delta G^\\circ < 0$, indicando un equilibrio que favorece ampliamente la formación de productos.",
       "difficulty": "8",
       "images": [],
@@ -657,13 +657,13 @@
       "context": "En Bucaramanga se evapora agua en un recipiente abierto vs un recipiente cerrado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque las moléculas de vapor se escapan al entorno impidiendo que la velocidad de condensación iguale a la de evaporación.",
           "is_correct": true,
           "feedback": "Correcto. Es un sistema abierto que pierde materia continuamente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque el agua en recipiente abierto no se evapora.",
           "is_correct": false,
           "feedback": "Incorrecto. Se evapora de forma continua."
@@ -681,7 +681,7 @@
           "feedback": "Incorrecto. La presión atmosférica se mantiene."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El equilibrio químico/físico requiere un sistema cerrado para evitar la pérdida de sustancias.",
       "difficulty": "8",
       "images": [],
@@ -703,13 +703,13 @@
       "context": "En Tunja se mide el pH de una solución de ácido débil $HA$ $0.1 \\text{ M}$ encontrando $pH = 3.0$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$1.0 \\times 10^{-5}$.",
           "is_correct": true,
           "feedback": "Correcto. $[H^+] = 10^{-3} \\text{ M}$. $K_a = [H^+]^2 / [HA] = (10^{-3})^2 / 0.1 = 10^{-6} / 10^{-1} = 10^{-5}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$1.0 \\times 10^{-3}$.",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó elevar $[H^+]$ al cuadrado."
@@ -727,7 +727,7 @@
           "feedback": "Incorrecto. Usó el valor de pH directamente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "$[H^+] = 10^{-3} \\text{ M}$. $K_a = (10^{-3})^2 / 0.1 = 10^{-5}$.",
       "difficulty": "8",
       "images": [],
@@ -749,31 +749,31 @@
       "context": "En una planta química en Barranquilla se evalúa optimizar la síntesis del metanol: $CO_{(g)} + 2H_{2(g)} \\rightleftharpoons CH_3OH_{(g)}$ ($\\Delta H < 0$).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Alta presión y baja temperatura.",
           "is_correct": true,
           "feedback": "Correcto. Alta presión desplaza a menor moles de gas (1 mol vs 3 moles); baja temperatura favorece la reacción exotérmica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Baja presión y alta temperatura.",
           "is_correct": false,
           "feedback": "Incorrecto. Desplazaría el equilibrio hacia los reactivos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Baja presión y baja temperatura.",
           "is_correct": false,
           "feedback": "Incorrecto. La baja presión reduce el rendimiento."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Alta presión y alta temperatura.",
           "is_correct": false,
           "feedback": "Incorrecto. La alta temperatura disminuye el rendimiento exotérmico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Le Chatelier: Alta presión favorece el lado con 1 mol de gas; baja temperatura favorece el proceso exotérmico.",
       "difficulty": "10",
       "images": [],
@@ -795,13 +795,13 @@
       "context": "En Medellín se estudia la intoxicación por monóxido de carbono ($CO$), que compite con el $O_2$ por la hemoglobina ($Hb$): $HbO_2 + CO \\rightleftharpoons HbCO + O_2$ ($K_c \\approx 200$).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Aumenta drásticamente la concentración de $O_2$, desplazando el equilibrio a la izquierda para liberar la hemoglobina del $CO$.",
           "is_correct": true,
           "feedback": "Correcto. Un exceso masivo de $O_2$ desplaza el equilibrio por Le Chatelier forzando la expulsión del $CO$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Destruye los eritrocitos para formar células nuevas.",
           "is_correct": false,
           "feedback": "Incorrecto. No destruye los glóbulos rojos."
@@ -819,7 +819,7 @@
           "feedback": "Incorrecto. No se busca acidificar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Al aumentar masivamente la $[O_2]$, Le Chatelier desplaza la reacción reversible hacia la izquierda desasociando la carboxihemoglobina.",
       "difficulty": "10",
       "images": [],
@@ -841,13 +841,13 @@
       "context": "Un grupo ambiental en Cali evalúa la lluvia ácida causada por el equilibrio de dióxido de azufre en gotas de lluvia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Oxida el $SO_2$ a $SO_3$, generando ácido sulfúrico ($H_2SO_4$) totalmente disociado e irreversible.",
           "is_correct": true,
           "feedback": "Correcto. La oxidación convierte un ácido débil en uno fuerte e irreversible ($H_2SO_4$)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Neutraliza la acidez convirtiéndola en sal de cocina.",
           "is_correct": false,
           "feedback": "Incorrecto. La oxidación aumenta la fuerza ácida."
@@ -865,7 +865,7 @@
           "feedback": "Incorrecto. No impide las lluvias."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La conversión de $SO_2$ en $SO_3$ produce ácido sulfúrico, un ácido fuerte que baja drásticamente el pH.",
       "difficulty": "10",
       "images": [],
@@ -887,31 +887,31 @@
       "context": "En un proceso biofarmacéutico en Bogotá, se purifica una proteína usando una columna de afinidad en equilibrio dinámico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Modificando el pH o la fuerza iónica del tampón para desplazar la constante de asociación del equilibrio.",
           "is_correct": true,
           "feedback": "Correcto. Alterar el pH o sales debilita la unión reversible liberando la proteína intacta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Calentando a 200 °C para incinerar la matriz.",
           "is_correct": false,
           "feedback": "Incorrecto. La temperatura destruiría la proteína."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Adicionando ácido clorhídrico concentrado.",
           "is_correct": false,
           "feedback": "Incorrecto. El ácido fuerte desnaturalizaría la proteína."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Aplicando corriente eléctrica de alto voltaje.",
           "is_correct": false,
           "feedback": "Incorrecto. La elución se logra por desplazamiento iónico suave."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El cambio suave de pH o sales altera las interacciones débiles en equilibrio, permitiendo liberar la proteína funcional.",
       "difficulty": "10",
       "images": [],

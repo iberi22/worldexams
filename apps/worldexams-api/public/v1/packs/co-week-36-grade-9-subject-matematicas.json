@@ -13,13 +13,13 @@
       "context": "En una guía de geometría entregada en un colegio de Bogotá se introduce el concepto de figuras compuestas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La región delimitada por la combinación o superposición de varias figuras planas y resaltada con un color o tramado distinto en el dibujo.",
           "is_correct": true,
           "feedback": "Correcto: la región resaltada corresponde a la combinación de varias figuras básicas del plano."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El área de toda la figura, calculada únicamente como el producto del largo por el ancho total.",
           "is_correct": false,
           "feedback": "Equivocado: esa fórmula solo aplica a un rectángulo completo, no a figuras compuestas con huecos o adiciones."
@@ -37,7 +37,7 @@
           "feedback": "Confundes perímetro (longitud) con área (superficie); el contorno no define la región resaltada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El área sombreada es la región interior limitada por la combinación de figuras planas (rectángulos, triángulos, círculos, trapecios), destacada con color o trama en el dibujo. Su cálculo exige sumar o restar las áreas de las figuras que la componen, de acuerdo con la configuración propuesta y el enunciado de cada situación.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "Una docente de Medellín explica la estrategia general para calcular áreas en figuras compuestas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Calcular el área del rectángulo (base por altura) y el área del semicírculo ($\\pi \\cdot r^2 / 2$), y luego sumar ambos resultados.",
           "is_correct": true,
           "feedback": "Estrategia correcta: cada parte se calcula con su propia fórmula y los resultados se suman."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Multiplicar la base del rectángulo por el radio del semicírculo y dividir entre dos.",
           "is_correct": false,
           "feedback": "Mezclas dimensiones de figuras distintas sin fórmula que las respalde; esa operación no representa un área válida."
@@ -83,7 +83,7 @@
           "feedback": "No se mezclan longitudes (perímetro) con superficies (área) porque las unidades son diferentes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para figuras compuestas se descompone la región en figuras básicas, se aplica la fórmula de cada una (A_rect = b·h, A_tri = b·h/2, A_circ = π·r², A_trap = (B+b)·h/2) y se suman los resultados. Si una parte se encuentra \"hueca\", como un círculo dentro de un rectángulo, esa área se resta en lugar de sumarse. Esta organización facilita la resolución y reduce errores de cálculo.",
       "difficulty": "4",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En la Plaza de Bolívar de Bogotá se instala una jardinera cuadrada con una fuente circular en el centro.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$36 - 4\\pi \\approx 23{,}44 \\text{ m}^2$",
           "is_correct": true,
           "feedback": "Correcto: A_cuadrado = 6² = 36 m²; A_fuente = π · 2² = 4π; diferencia = 36 − 4π ≈ 23,44."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$36 \\text{ m}^2$",
           "is_correct": false,
           "feedback": "No restaste el círculo; ese sería el área del cuadrado completo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$4\\pi \\approx 12{,}57 \\text{ m}^2$",
           "is_correct": false,
           "feedback": "Calculaste solo el área del círculo, pero olvidaste restarla del área del cuadrado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$36 + 4\\pi \\approx 48{,}57 \\text{ m}^2$",
           "is_correct": false,
           "feedback": "Sumaste en lugar de restar, lo que da un valor mayor que el área total del cuadrado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para hallar el área sombreada cuando hay un \"hueco\" interior, se aplica A_sombreada = A_total − A_hueco. Aquí, A_total = 6 · 6 = 36 m² y A_hueco = π · 2² = 4π. Por tanto, A = 36 − 4π ≈ 23,44 m². Verificar la operación de resta es clave en problemas con figuras compuestas.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En una tienda de marcos de Medellín se fabrica un marco rectangular para un cuadro familiar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "200 cm²",
           "is_correct": true,
           "feedback": "Correcto: A_ext = 30 · 24 = 720 cm²; A_int = 26 · 20 = 520 cm²; A_marco = 720 − 520 = 200 cm²."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "720 cm²",
           "is_correct": false,
           "feedback": "Calculaste solo el área del rectángulo exterior, sin restar el hueco central."
@@ -267,7 +267,7 @@
           "feedback": "Restaste las dimensiones sueltas en vez de las áreas: (30 − 26)(24 − 20) = 4 · 4 = 16, no 96."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Un marco rectangular se modela como la diferencia entre dos rectángulos concéntricos. Su área se obtiene con A_marco = A_exterior − A_interior. Para este caso: 30 · 24 − 26 · 20 = 720 − 520 = 200 cm². Identificar correctamente la pieza que se resta es esencial para no subestimar ni sobreestimar el resultado.",
       "difficulty": "6",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "En una finca cerca de Medellín hay un terreno trapezoidal con una piscina triangular en su interior.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "104 m²",
           "is_correct": true,
           "feedback": "Correcto: A_trap = (20 + 12) · 8 / 2 = 128 m²; A_pisc = 12 · 4 / 2 = 24 m²; diferencia = 128 − 24 = 104 m²."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "152 m²",
           "is_correct": false,
           "feedback": "Sumaste 128 + 24 = 152; contar dos veces la piscina sobreestima el área disponible."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "128 m²",
           "is_correct": false,
           "feedback": "Calculaste el área total del trapecio sin descontar la piscina interior."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "24 m²",
           "is_correct": false,
           "feedback": "Calculaste únicamente el área de la piscina; falta restarla al área del trapecio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El área disponible se obtiene restando el área de la piscina (triángulo) al área del trapecio. Se aplican A_trapecio = (B + b) · h / 2 y A_triángulo = (b · h) / 2. Para nuestro caso: A = 128 − 24 = 104 m². Es fundamental identificar qué figura se suma y qué figura se resta en cada configuración compuesta.",
       "difficulty": "8",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "En una escuela rural de Bogotá se diseña un parque con forma de semicírculo y un jardín circular interior.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\dfrac{41\\pi}{2} \\approx 64{,}37 \\text{ m}^2$",
           "is_correct": true,
           "feedback": "Correcto: A_semicírculo = π · 7² / 2 = 49π / 2; A_jardín = π · 2² = 4π; diferencia = (49π − 8π) / 2 = 41π / 2 ≈ 64,37."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\dfrac{49\\pi}{2} \\approx 76{,}93 \\text{ m}^2$",
           "is_correct": false,
           "feedback": "Calculaste solo el área del semicírculo; falta descontar el jardín interior."
@@ -451,7 +451,7 @@
           "feedback": "Sumaste 49π / 2 + 4π = 57π / 2; en una resta el resultado no puede superar al semicírculo inicial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El área disponible para juegos se obtiene restando el área del jardín circular interior al área del semicírculo exterior. A_parque = π · R² / 2 − π · r² = π (R² / 2 − r²). Para R = 7 m y r = 2 m: A = π (49 / 2 − 4) = 41π / 2 ≈ 64,37 m². Verificar el orden de las operaciones con sumas y restas de múltiplos de π es un buen hábito.",
       "difficulty": "8",
       "images": [],

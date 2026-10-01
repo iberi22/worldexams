@@ -59,31 +59,31 @@
       "context": "Un bus de Medellín recorre la misma ruta todos los días a velocidad constante.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "12000 COP",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: al duplicar la cantidad, el precio se duplica porque es proporcionalidad directa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "8000 COP",
           "is_correct": false,
           "feedback": "Explica el error conceptual: suma solo 2000 COP en lugar de mantener la proporción doble."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "6000 COP",
           "is_correct": false,
           "feedback": "Explica el error conceptual: mantiene el precio aunque aumenta la cantidad de cuadernos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "10000 COP",
           "is_correct": false,
           "feedback": "Explica el error conceptual: estima un valor intermedio sin aplicar el factor de proporcionalidad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En una situación de proporcionalidad directa, el valor total se obtiene multiplicando por el mismo factor. Como 4 es el doble de 2, el precio es el doble de 6000 COP, es decir 12000 COP.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Una panadería de Cali vende 3 pandebonos por 4500 COP.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "10500 COP",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: cada pandebono cuesta 1500 COP y 7 por 1500 da 10500."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "9500 COP",
           "is_correct": false,
           "feedback": "Explica el error conceptual: resta una cantidad arbitraria en vez de multiplicar el valor unitario."
@@ -129,7 +129,7 @@
           "feedback": "Explica el error conceptual: calcula el precio de 5 unidades y no de 7 unidades."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Primero se halla el valor unitario dividiendo 4500 entre 3, lo que da 1500 COP. Luego se multiplica 1500 por 7 para obtener 10500 COP. Este es el procedimiento básico de la regla de tres simple directa.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "Un taller de Barranquilla registra el consumo de tela para uniformes: con 15 metros se hacen 6 uniformes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "27.5 metros",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: cada uniforme usa 2.5 metros y 11 por 2.5 da 27.5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "25 metros",
           "is_correct": false,
           "feedback": "Explica el error conceptual: supone 10 metros más sin calcular el valor unitario real."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "30 metros",
           "is_correct": false,
           "feedback": "Explica el error conceptual: redondea hacia arriba y duplica la tela inicial de forma incorrecta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "22 metros",
           "is_correct": false,
           "feedback": "Explica el error conceptual: usa el doble de uniformes menos uno sin ajustar la proporción."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El análisis parte del valor unitario: 15 dividido en 6 es 2.5 metros por uniforme. Para 11 uniformes se multiplica 11 por 2.5, lo que da 27.5 metros. Verificar la constante de proporcionalidad evita errores aditivos.",
       "difficulty": "8",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "Dos estudiantes de Montería discuten: Ana dice que si un grifo llena un tanque en 6 horas, dos grifos iguales lo llenan en 3 horas. Luis dice que lo llenan en 12 horas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Ana, porque es proporcionalidad inversa y el tiempo se reduce a la mitad",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: más grifos reducen el tiempo, 6 dividido en 2 es 3 horas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Luis, porque es proporcionalidad directa y el tiempo se duplica",
           "is_correct": false,
           "feedback": "Explica el error conceptual: aplica relación directa cuando más caudal reduce el tiempo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ana, porque es proporcionalidad directa y el tiempo se mantiene igual",
           "is_correct": false,
           "feedback": "Explica el error conceptual: acierta el valor pero justifica con el tipo de relación equivocado."
@@ -451,7 +451,7 @@
           "feedback": "Explica el error conceptual: supone que el segundo grifo no aporta caudal adicional."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El caudal total se duplica con dos grifos, así que el tiempo se reduce a la mitad: es proporcionalidad inversa. Evaluar el argumento implica identificar primero el tipo de relación y luego calcular 6 dividido en 2 igual a 3 horas, por lo que Ana tiene razón.",
       "difficulty": "10",
       "images": [],

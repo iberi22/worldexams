@@ -19,25 +19,25 @@
           "feedback": "Incorrect. \"Was\" is for singular subjects like I, He, She, and It."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Were",
           "is_correct": true,
           "feedback": "Correct! \"Were\" is the past plural form of \"to be\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Am",
           "is_correct": false,
           "feedback": "Incorrect. \"Am\" is a present form."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Is",
           "is_correct": false,
           "feedback": "Incorrect. \"Is\" is a present form."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student identifies the correct past conjugation of the verb \"to be\" for plural pronouns.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -65,25 +65,25 @@
           "feedback": "Incorrect. \"Weren't\" is the contraction of \"were not\"."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Wasn't",
           "is_correct": true,
           "feedback": "Correct! \"Wasn't\" is the short form of \"was not\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Don't",
           "is_correct": false,
           "feedback": "Incorrect. \"Don't\" is used for the Present Simple."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Isn't",
           "is_correct": false,
           "feedback": "Incorrect. \"Isn't\" is used for the Present Simple."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student remembers the correct negative contraction for the third person singular in the past.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -203,25 +203,25 @@
           "feedback": "Incorrect. \"We\" is plural and requires \"were\"."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "were",
           "is_correct": true,
           "feedback": "Correct! \"Were\" is the past plural form for \"We\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "are",
           "is_correct": false,
           "feedback": "Incorrect. \"Are\" is present, but the context is \"last night\"."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "was'nt",
           "is_correct": false,
           "feedback": "Incorrect. The context (winning) implies they WERE happy, not that they weren't."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student applies the correct past conjugation of \"to be\" based on a plural subject and a positive context.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -249,25 +249,25 @@
           "feedback": "Incorrect. \"Weather\" is singular and requires \"was\"."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "It was very hot.",
           "is_correct": true,
           "feedback": "Correct! The text explicitly says \"The weather was very hot\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "It wasn't hot.",
           "is_correct": false,
           "feedback": "Incorrect. The text says it was hot."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "They were hot.",
           "is_correct": false,
           "feedback": "Incorrect. \"They\" is for plural; weather is singular."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student applies reading strategies to identify a specific past description in a text.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -347,19 +347,19 @@
           "feedback": "Incorrect. The tenses are reversed."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Last year I was 11, now I am 12.",
           "is_correct": true,
           "feedback": "Correct! \"Was\" for the past and \"am\" for the present."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Last year I were 11, now I am 12.",
           "is_correct": false,
           "feedback": "Incorrect. \"Were\" is not used with \"I\"."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "The student analyzes the temporal markers (last year, now) to select the correct verb tenses.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,25 +387,25 @@
           "feedback": "Incorrect. The text says he was \"very active\"."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Technology was different in his time.",
           "is_correct": true,
           "feedback": "Correct! The text says there were no cell phones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "There were many cell phones in the past.",
           "is_correct": false,
           "feedback": "Incorrect. The text says there were NONE."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "He were always at home.",
           "is_correct": false,
           "feedback": "Incorrect. His favorite place was the park."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student analyzes a text about the past to identify a logical deduction or fact.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "A summary of a historical figure.\n\n\"Gabriel García Márquez was a famous Colombian writer. He was born in Aracataca. His books were very popular all over the world. He was a Nobel Prize winner.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "It is a text about a person who is currently writing popular books.",
           "is_correct": false,
           "feedback": "Incorrect. The use of \"was\" indicates he is a historical figure."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "It is a text about a writer who was only famous in Aracataca.",
           "is_correct": false,
           "feedback": "Incorrect. It says his books were popular \"all over the world\"."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "It is a biographical summary of a successful and globally recognized historical figure.",
           "is_correct": true,
           "feedback": "Correct! The past tense and the mention of the Nobel Prize and world popularity support this."
@@ -451,7 +451,7 @@
           "feedback": "Incorrect. The text lists his successes."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "The student evaluates the use of the past tense and the provided facts to identify the most accurate summary of the text.",
       "difficulty": "10",
       "images": [],

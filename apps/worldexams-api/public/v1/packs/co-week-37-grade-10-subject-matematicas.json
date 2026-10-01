@@ -13,13 +13,13 @@
       "context": "En Cali, Mariana calcula el área entre dos curvas en clase de cálculo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\int_a^b [f(x) + g(x)]\\, dx$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste las funciones; lo correcto es restar la inferior a la superior."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\int_a^b [f(x) - g(x)]\\, dx$",
           "is_correct": true,
           "feedback": "Correcto. El área entre curvas es la integral de la diferencia entre la curva superior y la inferior."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Eso es una resta de valores puntuales, no una integral."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Cuando $f(x) \\geq g(x)$ en $[a, b]$, el área encerrada entre las curvas se obtiene integrando la diferencia $f(x) - g(x)$ en ese intervalo, lo que representa el \"ancho vertical\" sumado a lo largo del recorrido.",
       "difficulty": "4",
       "images": [],
@@ -65,25 +65,25 @@
           "feedback": "Incorrecto. Para volúmenes se usa otra técnica de integración."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El área de la región limitada por las gráficas de $f$ y $g$ entre $x = a$ y $x = b$.",
           "is_correct": true,
           "feedback": "Correcto. La integral de la diferencia entrega el área entre las curvas en ese intervalo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La longitud del arco de $f$ entre $a$ y $b$.",
           "is_correct": false,
           "feedback": "Incorrecto. La longitud de arco se calcula con otra fórmula."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El valor promedio de $f$ en $[a, b]$.",
           "is_correct": false,
           "feedback": "Incorrecto. El valor promedio se obtiene dividiendo la integral entre $(b - a)$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La integral definida de la diferencia de dos funciones en un intervalo entrega el área de la región encerrada entre ambas curvas en ese intervalo, lo que conecta el concepto de integral con una medida geométrica.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En Medellín, Santiago identifica la curva superior y la curva inferior entre $f(x) = x^2 + 4$ y $g(x) = 2x + 1$ en $[1, 3]$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x^2 + 2x + 3$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste los términos en lugar de restarlos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x^2 - 2x + 3$",
           "is_correct": true,
           "feedback": "Correcto. $(x^2 + 4) - (2x + 1) = x^2 - 2x + 3$."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Sumaste $4$ y $1$ en lugar de restarlos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Restar término a término: $(x^2 + 4) - (2x + 1) = x^2 - 2x + 3$. Esta diferencia es la función \"altura\" cuya integral en $[1, 3]$ dará el área entre las curvas.",
       "difficulty": "4",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En Barranquilla, dos líneas de producción generan ingresos diarios (en millones de COP) modelados por $R_1(t) = 8t + 10$ y $R_2(t) = t^2 + 2$ durante $t \\in [1, 3]$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$40$ millones de COP",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste las integrales en lugar de restar."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\frac{20}{3}$ millones de COP",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor corresponde a otra integral distinta."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$10$ millones de COP",
           "is_correct": false,
           "feedback": "Incorrecto. El cálculo no corresponde a esta integral."
         },
         {
-          "letter": "D",
+          "letter": "A",
           "text": "$\\frac{118}{3}$ millones de COP, aproximadamente $39.33$ millones.",
           "is_correct": true,
           "feedback": "Correcto. $\\int_1^3 (-t^2 + 8t + 8)\\, dt = \\left[-\\frac{t^3}{3} + 4t^2 + 8t\\right]_1^3 = 51 - \\frac{35}{3} = \\frac{118}{3} \\approx 39.33$ millones de COP."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": "El excedente acumulado equivale a $\\int_1^3 [(8t + 10) - (t^2 + 2)]\\, dt = \\int_1^3 (-t^2 + 8t + 8)\\, dt$. Evaluando: $\\left[-\\frac{t^3}{3} + 4t^2 + 8t\\right]_1^3 = \\left(-9 + 36 + 24\\right) - \\left(-\\frac{1}{3} + 4 + 8\\right) = 51 - \\frac{35}{3} = \\frac{118}{3}$, es decir, aproximadamente $39.33$ millones de COP en el intervalo.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En Bogotá, se debe calcular el área limitada por las curvas $y = 4 - x^2$ y $y = x^2 - 2x$ en el intervalo donde se cruzan.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = -2$ y $x = 1$",
           "is_correct": false,
           "feedback": "Incorrecto. Esos puntos no satisfacen la igualdad original."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = -1$ y $x = 2$",
           "is_correct": true,
           "feedback": "Correcto. $2x^2 - 2x - 4 = 0$ da $x^2 - x - 2 = 0$, cuyas raíces son $x = -1$ y $x = 2$."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Solo una raíz es correcta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Igualar las funciones lleva a $4 - x^2 = x^2 - 2x$, es decir, $2x^2 - 2x - 4 = 0$, que se simplifica a $x^2 - x - 2 = 0$. Aplicando factorización: $(x - 2)(x + 1) = 0$, con raíces $x = -1$ y $x = 2$.",
       "difficulty": "6",
       "images": [],
@@ -295,25 +295,25 @@
           "feedback": "Incorrecto. Aunque aquí sí se cumple, falta justificar resolviendo la desigualdad."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "En todo el intervalo $[-2, 2]$, porque resolver $6 - x^2 \\geq x$ da $-3 \\leq x \\leq 2$ y ese rango contiene a $[-2, 2]$.",
           "is_correct": true,
           "feedback": "Correcto. La parábola está por encima de la recta en todo $[-2, 2]$ porque la inecuación $6 - x^2 \\geq x$ se cumple para $-3 \\leq x \\leq 2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solo en $x = 0$.",
           "is_correct": false,
           "feedback": "Incorrecto. Hay un rango más amplio donde se cumple la desigualdad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Nunca; la recta siempre está por encima.",
           "is_correct": false,
           "feedback": "Incorrecto. En $x = 0$, la parábola da $6$ y la recta $0$; la parábola está muy por encima."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Resolver $6 - x^2 \\geq x$ lleva a $x^2 + x - 6 \\leq 0$, es decir, $(x + 3)(x - 2) \\leq 0$. La solución es $-3 \\leq x \\leq 2$. Intersectando con $[-2, 2]$, obtenemos $[-2, 2]$ donde la parábola está por encima de la recta en todo el intervalo.",
       "difficulty": "8",
       "images": [],
@@ -341,13 +341,13 @@
           "feedback": "Incorrecto. Si inviertes el orden, el resultado cambia de signo y deja de representar un área."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Es incorrecta; se debe integrar la diferencia entre la curva superior y la inferior para obtener un valor positivo de área.",
           "is_correct": true,
           "feedback": "Correcto. Integrar la diferencia en el orden equivocado puede dar un valor negativo, lo que no representa área."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es correcta solo si las curvas no se cruzan en el intervalo.",
           "is_correct": false,
           "feedback": "Incorrecto. El principio de orden superior/inferior aplica siempre."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. El orden superior/inferior aplica para todo tipo de funciones."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Si se resta la curva superior menos la inferior, la integral entrega el área. Si se resta en el orden contrario, el resultado es el negativo del área. Por eso, antes de integrar, hay que determinar correctamente cuál curva está por encima en el intervalo.",
       "difficulty": "8",
       "images": [],
@@ -525,13 +525,13 @@
           "feedback": "Incorrecto. Integraste en el orden equivocado, pero al menos obtuviste el signo correcto. Faltó verificar el orden."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\int_0^1 (x - x^3)\\, dx = \\frac{1}{2} - \\frac{1}{4} = \\frac{1}{4}$, porque en ese intervalo $x \\geq x^3$.",
           "is_correct": true,
           "feedback": "Correcto. La diferencia correcta es $x - x^3$, y su integral en $[0, 1]$ da $\\frac{1}{4}$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$1$ porque las curvas coinciden en los extremos.",
           "is_correct": false,
           "feedback": "Incorrecto. La coincidencia en extremos no implica que el área sea 1."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto. Sí se intersectan en $x = 0$ y $x = 1$, pero el área interior está bien definida."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "En $[0, 1]$, $x \\geq x^3$ (por ejemplo, en $x = 0.5$: $0.5 \\geq 0.125$). Por eso, el área entre las curvas es $\\int_0^1 (x - x^3)\\, dx = \\left[\\frac{x^2}{2} - \\frac{x^4}{4}\\right]_0^1 = \\frac{1}{2} - \\frac{1}{4} = \\frac{1}{4}$ unidades cuadradas.",
       "difficulty": "10",
       "images": [],

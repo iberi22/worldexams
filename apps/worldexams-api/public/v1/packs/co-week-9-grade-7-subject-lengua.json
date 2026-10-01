@@ -19,25 +19,25 @@
           "feedback": "Incorrecto. Los neologismos son palabras nuevas que se incorporan al idioma."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Arcaísmos",
           "is_correct": true,
           "feedback": "¡Correcto! Son términos antiguos que nos ayudan a entender el contexto histórico de la obra."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Regionalismos",
           "is_correct": false,
           "feedback": "Incorrecto. Son palabras propias de una región, aunque pueden ser antiguas, no todas lo son."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Tecnicismos",
           "is_correct": false,
           "feedback": "Incorrecto. Son palabras propias de una ciencia u oficio específico."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El análisis de textos del siglo XIX requiere un manejo de vocabulario histórico. Los arcaísmos (como \"ansina\", \"mesmo\" o \"vuestra merced\") le dan sabor de época al texto y nos permiten viajar en el tiempo a través de la lectura.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -65,25 +65,25 @@
           "feedback": "Incorrecto. La descripción es una técnica artística con un propósito estético y emocional."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Crear una atmósfera que refleje los sentimientos de los personajes y resalte la belleza del territorio nacional.",
           "is_correct": true,
           "feedback": "¡Correcto! Es un recurso clave para la ambientación y el patriotismo literario."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ocultar que el autor no sabe cómo continuar la historia de amor.",
           "is_correct": false,
           "feedback": "Incorrecto. Al contrario, las descripciones preparan el terreno para los eventos emocionales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Darle consejos al lector sobre cómo cuidar el medio ambiente.",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque valoran la naturaleza, su fin es literario y no un manual de ecología moderno."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Analizar el paisaje en el siglo XIX no es solo mirar árboles. Es entender cómo ese entorno condiciona la vida de los personajes y cómo el autor expresa su amor por la geografía de Colombia a través de la palabra.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -163,19 +163,19 @@
           "feedback": "Incorrecto. El autor elige detalles específicos para provocar una reacción en el lector."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Una actitud irónica y crítica hacia la vanidad y la falta de sentido común del personaje.",
           "is_correct": true,
           "feedback": "¡Correcto! Se burla de quien intenta aparentar lo que no es o lo que no encaja con su realidad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Miedo de que Don Prudencio se enferme por el calor.",
           "is_correct": false,
           "feedback": "Incorrecto. No es una preocupación médica, sino un juicio social."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El análisis de la ironía permite descubrir la intención crítica del autor. En el costumbrismo, esto servía para educar al público sobre la importancia de la sencillez y la autenticidad frente a las apariencias vacías.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -203,25 +203,25 @@
           "feedback": "Incorrecto. Es al revés: la arenga busca persuadir."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El poema tiene una función expresiva/poética (sentimientos); la arenga tiene una función apelativa (mover a la acción).",
           "is_correct": true,
           "feedback": "¡Correcto! Cada texto tiene un propósito distinto según el uso del lenguaje."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambos tienen la misma función porque fueron escritos en el siglo XIX.",
           "is_correct": false,
           "feedback": "Incorrecto. El tiempo no define la función lingüística; el propósito del autor sí."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ninguno tiene función porque la literatura no sirve para nada práctico.",
           "is_correct": false,
           "feedback": "Incorrecto. La literatura cumple funciones estéticas, sociales y comunicativas vitales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En el análisis de textos es crucial identificar para qué fueron escritos. El siglo XIX colombiano fue rico en ambos: textos para conmover el alma (poesía) y textos para transformar la sociedad (discursos políticos).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -249,13 +249,13 @@
           "feedback": "Incorrecto. \"Gigantes dormidos\" es una metáfora, no una descripción literal de sueño."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Metáfora; exalta la geografía colombiana como un símbolo de protección y fuerza nacional.",
           "is_correct": true,
           "feedback": "¡Correcto! Identifica las montañas con gigantes para darles una dimensión heroica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Símil; compara las montañas con gigantes usando la palabra \"como\".",
           "is_correct": false,
           "feedback": "Incorrecto. No usa nexos comparativos como \"como\" o \"parece\"."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Aunque hay magnitud, la figura dominante es la identificación metafórica."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El análisis de imágenes espaciales en el siglo XIX revela mucho sobre el nacionalismo de la época. Convertir la naturaleza en símbolos heroicos era una forma de dar \"personalidad\" y orgullo a la nueva nación colombiana.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Camila analiza el final trágico de una obra romántica. Nota que el destino parece estar en contra de los amantes y que la fatalidad es inevitable.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que todo se puede solucionar con dinero y buenos contactos.",
           "is_correct": false,
           "feedback": "Incorrecto. El dinero no puede salvar a los protagonistas románticos de su destino."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una visión pesimista donde el amor ideal choca contra la realidad, la enfermedad o las barreras sociales.",
           "is_correct": true,
           "feedback": "¡Correcto! El romanticismo valora la belleza del sufrimiento y la imposibilidad del ideal."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Esta visión es contraria al temple de ánimo romántico."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Entender la cosmovisión del autor es parte del análisis crítico. En el siglo XIX, la muerte joven y el sacrificio por amor se veían como actos de suprema nobleza espiritual, reflejando una sensibilidad muy distinta a la actual.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,25 +387,25 @@
           "feedback": "Incorrecto. Se refiere precisamente a que el realismo va más allá de la ropa."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Que mientras el costumbrismo solo describe lo externo, el realismo analiza los motivos psicológicos y las contradicciones humanas.",
           "is_correct": true,
           "feedback": "¡Correcto! El realismo busca la verdad interna de los personajes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que el costumbrismo es para niños y el realismo para adultos.",
           "is_correct": false,
           "feedback": "Incorrecto. No es una división por edades, sino por profundidad artística."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que no hay ninguna diferencia y el crítico está inventando cosas.",
           "is_correct": false,
           "feedback": "Incorrecto. La evolución literaria hacia la profundidad psicológica es un hecho estudiado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Analizar la evolución de los géneros es fundamental. Pasar del \"cuadro de costumbres\" (descripción externa) a la \"novela realista\" (estudio del carácter) marca la madurez de la literatura colombiana a finales del siglo XIX.\n\n---",
       "difficulty": "10",
       "images": [],

@@ -13,13 +13,13 @@
       "context": "En una clase en Cali, la profesora pregunta qué medios de comunicación usan los estudiantes en su casa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La televisión.",
           "is_correct": true,
           "feedback": "La televisión es un medio masivo tradicional que llega a millones de personas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un mensaje hablado entre dos amigos en el patio.",
           "is_correct": false,
           "feedback": "La conversación entre dos personas es comunicación interpersonal, no masiva."
@@ -37,7 +37,7 @@
           "feedback": "Un susurro no es un medio masivo ni tradicional de comunicación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Reconocer ejemplos de medios de comunicación masivos tradicionales y diferenciarlos de la comunicación interpersonal.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "Un grupo de padres de familia en un pueblo de Santander quiere difundir información sobre una jornada de vacunación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Radio local, carteleras en la plaza y mensajes por redes sociales del colegio.",
           "is_correct": true,
           "feedback": "Combinar radio, carteleras y redes sociales amplía el alcance a distintas edades."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Solo mensajes en una lengua extranjera desconocida para la comunidad.",
           "is_correct": false,
           "feedback": "Usar una lengua desconocida limita la comprensión del mensaje."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solo susurros entre los padres en el parque.",
           "is_correct": false,
           "feedback": "Los susurros no alcanzan a toda la comunidad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Solo correos físicos enviados al extranjero.",
           "is_correct": false,
           "feedback": "Los correos al extranjero no llegan a la comunidad local."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Seleccionar medios de comunicación adecuados para informar a una comunidad diversa.",
       "difficulty": "6",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "Lee: \"Internet permite acceder a noticias, pero también a información falsa o sin verificar, conocida como fake news.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Verificar la fuente, comparar con otros medios y comprobar la fecha de la información.",
           "is_correct": true,
           "feedback": "Comprobar fuentes y fechas ayuda a distinguir información confiable de noticias falsas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Compartir la primera noticia que aparezca sin revisarla.",
           "is_correct": false,
           "feedback": "Compartir sin verificar contribuye a difundir información falsa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Creer todo lo que dice una sola página web sin importar su origen.",
           "is_correct": false,
           "feedback": "Una sola página no garantiza veracidad; hay que comparar fuentes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ignorar toda la información sin leerla.",
           "is_correct": false,
           "feedback": "Ignorar todo no permite tomar decisiones informadas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aplicar criterios de verificación de información en medios digitales para evitar la desinformación.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En una escuela de Armenia, los estudiantes realizan un periódico mural para informar a sus compañeros.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Información veraz, clara, con datos comprobables y sin lenguaje ofensivo.",
           "is_correct": true,
           "feedback": "Una buena noticia es veraz, clara y respetuosa con las personas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Rumores inventados para llamar la atención.",
           "is_correct": false,
           "feedback": "Los rumores sin base desinforman a la comunidad escolar."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Datos falsos exagerados para hacer reír.",
           "is_correct": false,
           "feedback": "La exageración y la mentira no son características de una buena noticia."
@@ -221,7 +221,7 @@
           "feedback": "Los chismes no son información confiable y pueden dañar a las personas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicar criterios periodísticos básicos para producir noticias escolares responsables.",
       "difficulty": "6",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "Lee: \"Algunos medios de comunicación pueden difundir información con sesgos políticos o comerciales, lo que influye en la opinión de las personas.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Formarse una visión incompleta o distorsionada de la realidad.",
           "is_correct": true,
           "feedback": "Recibir información sesgada limita la mirada crítica sobre los hechos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Conocer siempre la verdad absoluta de los hechos.",
           "is_correct": false,
           "feedback": "Ningún medio, y menos uno sesgado, garantiza la verdad absoluta."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Mejorar automáticamente el pensamiento crítico.",
           "is_correct": false,
           "feedback": "Un solo medio sesgado no favorece el pensamiento crítico, sino que lo reduce."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Eliminar la posibilidad de informarse por otros medios.",
           "is_correct": false,
           "feedback": "Las personas siempre pueden consultar otras fuentes para ampliar su visión."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analizar la influencia de los medios sesgados en la opinión pública y la importancia del contraste informativo.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Lee: 'Los medios de comunicación cumplen un papel clave en la sociedad: informar, entretener, educar y permitir la participación ciudadana. Sin embargo, su influencia debe ir acompañada de pensamiento crítico y de respeto por la dignidad humana.'",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Informarse en distintas fuentes, verificar datos y compartir información respetuosa y veraz.",
           "is_correct": true,
           "feedback": "Diversificar fuentes y verificar datos fortalece la participación ciudadana informada."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Consumir solo lo que diga un único medio favorito sin cuestionar.",
           "is_correct": false,
           "feedback": "Depender de un solo medio limita la visión de la realidad."
@@ -359,7 +359,7 @@
           "feedback": "Aislarse de la información impide participar de forma activa en la sociedad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluar el uso ético y democrático de los medios de comunicación en la vida comunitaria.",
       "difficulty": "10",
       "images": [],

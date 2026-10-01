@@ -19,25 +19,25 @@
           "feedback": "Incorrect. Public trans connects people."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "congestion",
           "is_correct": true,
           "feedback": "Correct. Congestion is the state of being overcrowded with traffic."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "speed",
           "is_correct": false,
           "feedback": "Incorrect. It aims to increase speed by reducing congestion."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "ruralization",
           "is_correct": false,
           "feedback": "Incorrect. This refers to the country, not the city."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Congestion' is the standard term for the overcrowding of traffic or people in urban areas.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "Discussing city growth.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "grows",
           "is_correct": false,
           "feedback": "Incorrect. Present simple."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "has been growing",
           "is_correct": true,
           "feedback": "Correct. Present perfect continuous for a trend starting in the past and continuing."
@@ -82,7 +82,7 @@
           "feedback": "Incorrect. Simple future."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The present perfect continuous highlights the ongoing nature of the city's population growth.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -109,25 +109,25 @@
           "feedback": "Incorrect. Second conditional."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "had invested",
           "is_correct": true,
           "feedback": "Correct. Mixed conditional (past action, present result)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "has invested",
           "is_correct": false,
           "feedback": "Incorrect. Present perfect."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "would invest",
           "is_correct": false,
           "feedback": "Incorrect. 'Would' not used in 'if' clause."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The mixed conditional (if + past perfect, would + verb) connects a past failure to invest with a current negative situation.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Article about \"gentrification\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Gentrification",
           "is_correct": true,
           "feedback": "Correct. Specific term for the process described."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Urbanization",
           "is_correct": false,
           "feedback": "Incorrect. Broad term for city growth."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Migration",
           "is_correct": false,
           "feedback": "Incorrect. Broad term for moving."
@@ -172,7 +172,7 @@
           "feedback": "Incorrect. Part of the process, but not the whole sociological term."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "'Gentrification' is the sociological term for the transformation of working-class neighborhoods into wealthier ones.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrect. Sprawl is the opposite of concentration."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "sprawl",
           "is_correct": true,
           "feedback": "Correct. Urban sprawl is the outward expansion of cities."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "density",
           "is_correct": false,
           "feedback": "Incorrect. Sprawl leads to low density."
@@ -217,7 +217,7 @@
           "feedback": "Incorrect. Sprawl often separates communities."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Urban sprawl' refers to the rapid, often unplanned, geographic expansion of cities into nearby rural areas.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Describing an experience in a new city.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "is used to",
           "is_correct": false,
           "feedback": "Incorrect. This means he is already accustomed; 'getting used to' shows the process."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "is getting used to",
           "is_correct": true,
           "feedback": "Correct. 'Be getting used to' describes the process of becoming accustomed."
@@ -397,7 +397,7 @@
           "feedback": "Incorrect. Simple present doesn't show the current process."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Is getting used to' describes the ongoing process of adapting to a new environment.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Critique of \"concrete jungles\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "oasis",
           "is_correct": false,
           "feedback": "Incorrect. An oasis is a fertile spot in a desert."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "concrete jungle",
           "is_correct": true,
           "feedback": "Correct. Metaphor for an unpleasant, crowded city environment."
@@ -442,7 +442,7 @@
           "feedback": "Incorrect. Focuses on fun rather than the harshness."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Concrete jungle' is a common critical metaphor for a city that feels dominated by grey buildings and lack of nature.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Incorrect. Travels for pleasure."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "commuter",
           "is_correct": true,
           "feedback": "Correct. Travels for work."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "resident",
           "is_correct": false,
           "feedback": "Incorrect. Just lives there, doesn't necessarily travel."
@@ -487,7 +487,7 @@
           "feedback": "Incorrect. Born there."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Commuter' is the specific term for someone who travels regularly between home and work.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Incorrect. Active voice."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "has been transformed",
           "is_correct": true,
           "feedback": "Correct. Present perfect passive for a completed change with present result."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "is transforming",
           "is_correct": false,
           "feedback": "Incorrect. Active voice."
@@ -532,7 +532,7 @@
           "feedback": "Incorrect. Simple present."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The present perfect passive describes a completed process of change that defines the current state of a place.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,31 +553,31 @@
       "context": "Discussing city diversity.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "cosmopolitan",
           "is_correct": true,
           "feedback": "Correct. Cosmopolitan means containing people from many different countries."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "provincial",
           "is_correct": false,
           "feedback": "Incorrect. Provincial means narrow-minded or typical of a province."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "isolated",
           "is_correct": false,
           "feedback": "Incorrect. Isolation is the opposite of cosmopolitanism."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "homogeneous",
           "is_correct": false,
           "feedback": "Incorrect. Homogeneous means all the same."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "'Cosmopolitan' is the ideal adjective for a city that is multicultural and globally connected.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Conditional about public transport.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "is",
           "is_correct": false,
           "feedback": "Incorrect. First conditional."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "were",
           "is_correct": true,
           "feedback": "Correct. Second conditional for a hypothetical situation."
@@ -622,7 +622,7 @@
           "feedback": "Incorrect. Third conditional."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The second conditional 'if + were' describes how a hypothetical improvement would change behavior.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,25 +649,25 @@
           "feedback": "Incorrect. Prioritizing parking usually hurts walkability."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "walkability",
           "is_correct": true,
           "feedback": "Correct. Walkability is the measure of how friendly an area is to walking."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "isolation",
           "is_correct": false,
           "feedback": "Incorrect. Negative."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "construction",
           "is_correct": false,
           "feedback": "Incorrect. Too broad."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Walkability' is a key concept in modern urban planning focused on human-centric design.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "Incorrect. The heart is the center."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "outskirts",
           "is_correct": true,
           "feedback": "Correct. The outer edges of a city."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "plaza",
           "is_correct": false,
           "feedback": "Incorrect. A plaza is a central square."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "landmark",
           "is_correct": false,
           "feedback": "Incorrect. A landmark is a recognizable feature."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Outskirts' is the standard term for the peripheral areas of a city.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Text about \"smart cities\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "ignore",
           "is_correct": false,
           "feedback": "Incorrect. Smart cities actively use data."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "optimize",
           "is_correct": true,
           "feedback": "Correct. To optimize means to make the best or most effective use of a resource."
@@ -802,7 +802,7 @@
           "feedback": "Incorrect. They use, don't delete, services."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Optimize' describes the goal of using data to make city systems more efficient.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Reporting a city planning decision.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "will",
           "is_correct": false,
           "feedback": "Incorrect. Backshifted in reported speech."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "would be",
           "is_correct": true,
           "feedback": "Correct. Backshifted from 'will be' to 'would be' in reported speech."
@@ -847,7 +847,7 @@
           "feedback": "Incorrect. Present perfect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "In reported speech, we change 'will be' to 'would be' when reporting a future plan in the past tense.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Final thought on urban community.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "sense of community",
           "is_correct": true,
           "feedback": "Correct. Feeling of belonging to a group."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "feeling of isolation",
           "is_correct": false,
           "feedback": "Incorrect. The text says 'Despite...', implying a positive despite the density."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "lack of connection",
           "is_correct": false,
           "feedback": "Incorrect. Also negative."
@@ -892,7 +892,7 @@
           "feedback": "Incorrect. Unrelated to the social point."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "'Sense of community' is the standard term for the feeling of belonging and mutual support within a neighborhood.",
       "difficulty": "10",
       "images": [],

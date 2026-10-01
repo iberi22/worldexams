@@ -58,31 +58,31 @@
       "context": "Choose the correct English word for the given definition.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "itinerary",
           "is_correct": true,
           "feedback": "Correct! 'itinerary' matches the definition."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "baggage",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "destination",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "passport",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Choose the correct English word for the given definition.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "luggage",
           "is_correct": true,
           "feedback": "Correct! 'luggage' matches the definition."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "ticket",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
@@ -172,7 +172,7 @@
           "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
       "difficulty": "4",
       "images": [],
@@ -193,31 +193,31 @@
       "context": "Choose the correct English word for the given definition.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "passenger",
           "is_correct": true,
           "feedback": "Correct! 'passenger' matches the definition."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "pedestrian",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "commuter",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "tourist",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
       "difficulty": "5",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Choose the correct English word for the given definition.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "customs",
           "is_correct": true,
           "feedback": "Correct! 'customs' matches the definition."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "security",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
@@ -262,7 +262,7 @@
           "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
       "difficulty": "6",
       "images": [],
@@ -283,19 +283,19 @@
       "context": "Choose the correct English word for the given definition.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "boarding pass",
           "is_correct": true,
           "feedback": "Correct! 'boarding pass' matches the definition."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "visa",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "receipt",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
@@ -307,7 +307,7 @@
           "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
       "difficulty": "5",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "Choose the correct English word for the given definition.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "sightseeing",
           "is_correct": true,
           "feedback": "Correct! 'sightseeing' matches the definition."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "shopping",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
@@ -352,7 +352,7 @@
           "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
       "difficulty": "6",
       "images": [],
@@ -373,31 +373,31 @@
       "context": "Choose the correct English word for the given definition.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "souvenir",
           "is_correct": true,
           "feedback": "Correct! 'souvenir' matches the definition."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "gift",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "award",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "prize",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
       "difficulty": "5",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Choose the correct English word for the given definition.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "delay",
           "is_correct": true,
           "feedback": "Correct! 'delay' matches the definition."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "cancellation",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
@@ -442,7 +442,7 @@
           "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Choose the correct English word for the given definition.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "check-in",
           "is_correct": true,
           "feedback": "Correct! 'check-in' matches the definition."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "check-out",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
@@ -487,7 +487,7 @@
           "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
       "difficulty": "7",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Choose the correct English word for the given definition.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "layover",
           "is_correct": true,
           "feedback": "Correct! 'layover' matches the definition."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "stopover",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
@@ -532,7 +532,7 @@
           "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
       "difficulty": "8",
       "images": [],
@@ -598,31 +598,31 @@
       "context": "Choose the correct English word for the given definition.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "guidebook",
           "is_correct": true,
           "feedback": "Correct! 'guidebook' matches the definition."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "map",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "dictionary",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "encyclopedia",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
       "difficulty": "8",
       "images": [],
@@ -643,19 +643,19 @@
       "context": "Choose the correct English word for the given definition.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "backpack",
           "is_correct": true,
           "feedback": "Correct! 'backpack' matches the definition."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "suitcase",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "briefcase",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
@@ -667,7 +667,7 @@
           "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
       "difficulty": "7",
       "images": [],
@@ -688,31 +688,31 @@
       "context": "Choose the correct English word for the given definition.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "overseas",
           "is_correct": true,
           "feedback": "Correct! 'overseas' matches the definition."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "domestic",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "local",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "national",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
       "difficulty": "8",
       "images": [],
@@ -733,31 +733,31 @@
       "context": "Choose the correct English word for the given definition.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "budget",
           "is_correct": true,
           "feedback": "Correct! 'budget' matches the definition."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "expense",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "cost",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "price",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
       "difficulty": "9",
       "images": [],
@@ -778,19 +778,19 @@
       "context": "Choose the correct English word for the given definition.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "insurance",
           "is_correct": true,
           "feedback": "Correct! 'insurance' matches the definition."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "warranty",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "guarantee",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
@@ -802,7 +802,7 @@
           "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
       "difficulty": "10",
       "images": [],
@@ -823,19 +823,19 @@
       "context": "Choose the correct English word for the given definition.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "vaccination",
           "is_correct": true,
           "feedback": "Correct! 'vaccination' matches the definition."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "medication",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "prescription",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
@@ -847,7 +847,7 @@
           "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
       "difficulty": "9",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Choose the correct English word for the given definition.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "jet lag",
           "is_correct": true,
           "feedback": "Correct! 'jet lag' matches the definition."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "fatigue",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "exhaustion",
           "is_correct": false,
           "feedback": "Incorrect. Try again."
@@ -892,7 +892,7 @@
           "feedback": "Incorrect. Try again."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
       "difficulty": "10",
       "images": [],

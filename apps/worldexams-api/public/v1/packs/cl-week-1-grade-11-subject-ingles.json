@@ -13,19 +13,19 @@
       "context": "A news headline about climate change.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "have risen",
           "is_correct": true,
           "feedback": "Correct. The present perfect is used for actions starting in the past and continuing to the present."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "rose",
           "is_correct": false,
           "feedback": "Incorrect. This would imply the rising finished at a specific point in the past."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "are rising",
           "is_correct": false,
           "feedback": "Incorrect. While they are rising, the sentence specifies \"since the late 19th century.\""
@@ -37,7 +37,7 @@
           "feedback": "Incorrect. The past perfect is used for an action completed before another past action."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "The present perfect 'have risen' is used with 'since' to describe a situation that began in the past and persists in the present.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -64,13 +64,13 @@
           "feedback": "Incorrect. Finite means limited, which refers to fossil fuels."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "renewable",
           "is_correct": true,
           "feedback": "Correct. Renewable sources like solar and wind are key to sustainability."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "fossil",
           "is_correct": false,
           "feedback": "Incorrect. Fossil fuels are the primary cause of the emissions being discussed."
@@ -82,7 +82,7 @@
           "feedback": "Incorrect. Depleted means used up."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Renewable' is the appropriate term for energy sources that are not exhausted when used, such as solar or wind power.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Talking about future environmental goals.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "will hope",
           "is_correct": false,
           "feedback": "Incorrect. This expresses a simple future hope rather than a projected completion."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "will have aimed",
           "is_correct": true,
           "feedback": "Correct. The future perfect is used to describe an action that will be completed by a certain point in the future."
@@ -127,7 +127,7 @@
           "feedback": "Incorrect. This is the past tense."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The future perfect 'will have aimed' is used to project the state of an action at a specific future deadline.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -154,13 +154,13 @@
           "feedback": "Incorrect. Static means unchanging."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "domino",
           "is_correct": true,
           "feedback": "Correct. A domino effect occurs when one event sets off a chain of similar events."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "isolated",
           "is_correct": false,
           "feedback": "Incorrect. The text describes disruption across \"entire ecosystems,\" not in isolation."
@@ -172,7 +172,7 @@
           "feedback": "Incorrect. Extinction is usually permanent and the resulting disruptions are difficult to reverse."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The term 'domino effect' metaphorically describes how the loss of one species triggers a sequence of negative impacts throughout an ecosystem.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -244,25 +244,25 @@
           "feedback": "Incorrect. This is the opposite of city growth."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "urbanization",
           "is_correct": true,
           "feedback": "Correct. Urbanization refers to the process of making an area more urban."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "migration",
           "is_correct": false,
           "feedback": "Incorrect. While migration causes urbanization, the term for city growth itself is urbanization."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "congestion",
           "is_correct": false,
           "feedback": "Incorrect. Congestion is a symptom of urbanization, not the name of the process."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Urbanization is the standard sociological and geographical term for the expansion and development of cities.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "Environmental advocacy.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "footprint",
           "is_correct": true,
           "feedback": "Correct. A carbon footprint is the total amount of greenhouse gases produced by an individual or entity."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "track",
           "is_correct": false,
           "feedback": "Incorrect. 'Track' is not the standard term used with 'carbon' in this context."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "impact",
           "is_correct": false,
           "feedback": "Incorrect. While we reduce our 'impact', the specific idiomatic term is 'footprint'."
@@ -397,7 +397,7 @@
           "feedback": "Incorrect. 'Shadow' is not used in this scientific context."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "'Carbon footprint' is a common environmental term for the measure of impact on the climate.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Incorrect. The UN was established in the past."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "was",
           "is_correct": true,
           "feedback": "Correct. Use the past simple passive for a completed action in the past."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "has been",
           "is_correct": false,
           "feedback": "Incorrect. This would imply it is still in the process of being established."
@@ -487,7 +487,7 @@
           "feedback": "Incorrect. 'The United Nations' is treated as a singular organization."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "A specific past date (1945) requires the past simple.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Incorrect. Malnutrition is the result, but the state of lacking access is food insecurity."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Famine",
           "is_correct": false,
           "feedback": "Incorrect. Famine is an extreme and widespread scarcity of food."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Food insecurity",
           "is_correct": true,
           "feedback": "Correct. This is the formal term for lacking consistent access to food."
@@ -532,7 +532,7 @@
           "feedback": "Incorrect. Poverty is a cause, but not the specific definition of the food situation."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Food insecurity is the technical term for the condition described.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "Talking about a past event with current relevance.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "leave",
           "is_correct": false,
           "feedback": "Incorrect. Present tense."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "have left",
           "is_correct": false,
           "feedback": "Incorrect. Present perfect is for past to present."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "had left",
           "is_correct": true,
           "feedback": "Correct. The past perfect is used for an action that happened before another past action."
@@ -577,7 +577,7 @@
           "feedback": "Incorrect. This describes an action in progress."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "The past perfect 'had left' establishes the sequence of two past events.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorrect. The text lists ranching as the cause."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "driver",
           "is_correct": true,
           "feedback": "Correct. In this context, 'driver' means the main cause or force behind a process."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "solution",
           "is_correct": false,
           "feedback": "Incorrect. Agriculture is the problem."
@@ -622,7 +622,7 @@
           "feedback": "Incorrect. Deforestation is the process."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Driver' is a common term in social and environmental sciences to describe a primary cause.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Incorrect. Inequality may have worsened."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "exacerbated",
           "is_correct": true,
           "feedback": "Correct. To exacerbate means to make a problem or bad situation worse."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "stabilized",
           "is_correct": false,
           "feedback": "Incorrect. Stabilization would mean it stopped changing."
@@ -667,7 +667,7 @@
           "feedback": "Incorrect. Globalization isn't a sentient being."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Exacerbated' correctly identifies the negative impact of globalization mentioned in the text.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "Incorrect. 'Entitled' is stronger."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "entitled",
           "is_correct": true,
           "feedback": "Correct. To be entitled to something means to have a right to it."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "requested",
           "is_correct": false,
           "feedback": "Incorrect. These are fundamental rights."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "supposed",
           "is_correct": false,
           "feedback": "Incorrect. This implies a weak expectation."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Entitled' is the formal term used in legal and rights-based contexts.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Incorrect. This expresses a weak possibility."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "would",
           "is_correct": false,
           "feedback": "Incorrect. This is conditional."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "must",
           "is_correct": true,
           "feedback": "Correct. 'Must' expresses strong obligation or necessity."
@@ -757,7 +757,7 @@
           "feedback": "Incorrect. This expresses ability or possibility."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "'Must' is used to express a strong necessity, which is appropriate for the urgent tone of environmental protection.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -784,25 +784,25 @@
           "feedback": "Incorrect. The goal is the opposite."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "eliminate",
           "is_correct": true,
           "feedback": "Correct. The goal of a circular economy is to design out waste."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "ignore",
           "is_correct": false,
           "feedback": "Incorrect. The circular economy is a strategy to manage materials."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "export",
           "is_correct": false,
           "feedback": "Incorrect. Exporting waste is not the same."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The core principle of a circular economy is to minimize or eliminate waste through better design and reuse.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,19 +823,19 @@
       "context": "News report on water scarcity.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "abundance",
           "is_correct": false,
           "feedback": "Incorrect. Abundance means plenty."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "surplus",
           "is_correct": false,
           "feedback": "Incorrect. Surplus means an extra amount."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "shortages",
           "is_correct": true,
           "feedback": "Correct. A shortage is a state where something needed cannot be obtained in sufficient amounts."
@@ -847,7 +847,7 @@
           "feedback": "Incorrect. 'Flows' refers to the movement of water."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "'Shortages' correctly describes the lack of water that causes the mentioned conflicts.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -880,19 +880,19 @@
           "feedback": "Incorrect. The author wants to change the system."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "address",
           "is_correct": true,
           "feedback": "Correct. In this context, to 'address' means to think about and begin to deal with an issue."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "witness",
           "is_correct": false,
           "feedback": "Incorrect. 'Witnessing' is passive."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "'Address' is the appropriate verb for dealing with complex social issues.",
       "difficulty": "10",
       "images": [],

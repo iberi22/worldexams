@@ -19,25 +19,25 @@
           "feedback": "Incorrecto. Esta es la fórmula para el monto en interés compuesto."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$I = C \\cdot i \\cdot t$",
           "is_correct": true,
           "feedback": "Correcto. El interés simple es el producto del capital (C) por la tasa (i) por el tiempo (t)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$I = C / (i \\cdot t)$",
           "is_correct": false,
           "feedback": "Incorrecto. Los factores deben multiplicarse, no dividirse."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$I = M - i$",
           "is_correct": false,
           "feedback": "Incorrecto. El interés es el monto menos el capital, no menos la tasa."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En el interés simple, el rendimiento se calcula siempre sobre el capital original. La fórmula $I = C \\cdot i \\cdot t$ permite hallar la ganancia total multiplicando el monto invertido, la tasa expresada en decimal y el número de periodos.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -70,19 +70,19 @@
           "feedback": "Incorrecto. Eso se conoce como Tasa de Interés (i)."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "La cantidad de dinero inicial invertida o prestada.",
           "is_correct": true,
           "feedback": "Correcto. El capital es la suma original sobre la cual se calculan los intereses."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El tiempo que dura la inversión.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso se representa con la letra t o n."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El Capital, también llamado Principal, es la base monetaria sobre la cual se realiza la operación financiera. Es el valor presente o inicial de la transacción.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Un joven planea abrir una cuenta de ahorro y compara diferentes tasas de interés.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "12",
           "is_correct": false,
           "feedback": "Incorrecto. No se debe usar el número entero, sino su equivalencia en proporción."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "1.2",
           "is_correct": false,
           "feedback": "Incorrecto. Esto representaría un 120%, no un 12%."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "0.12",
           "is_correct": true,
           "feedback": "Correcto. Las tasas porcentuales se dividen entre 100 para obtener su valor decimal: 12 / 100 = 0.12."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Esto representa un 1.2%."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Las tasas de interés suelen expresarse en porcentaje (por cada cien). Para los cálculos matemáticos, es indispensable convertirlas a su forma decimal dividiendo entre 100.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrecto. Este es el interés de un solo año."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$1,000 pesos",
           "is_correct": true,
           "feedback": "Correcto. I = 10,000 * 0.05 * 2 = 1,000."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$11,000 pesos",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el Monto total, la pregunta pide solo el interés ganado."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Posible error al confundir la tasa o el periodo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Aplicamos la fórmula $I = C \\cdot i \\cdot t$. Multiplicamos el capital ($10,000) por la tasa decimal (0.05) y por el tiempo (2). La ganancia resultante es de $1,000 pesos.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -244,25 +244,25 @@
           "feedback": "Incorrecto. Este sería el interés si el plazo fuera de un año completo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$600 pesos",
           "is_correct": true,
           "feedback": "Correcto. I = 5,000 * 0.24 * (6/12) = 600. El tiempo debe estar en años."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$720 pesos",
           "is_correct": false,
           "feedback": "Incorrecto. Posible error al no convertir los meses a años correctamente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$5,600 pesos",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el monto total, no el interés."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Es crucial que la tasa y el tiempo estén en la misma unidad. Si la tasa es anual (0.24), los 6 meses deben expresarse como $6/12 = 0.5$ años. $I = 5,000 \\cdot 0.24 \\cdot 0.5 = 600$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Incorrecto. Este es solo el interés ganado, falta sumar el capital inicial."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$8,800 pesos",
           "is_correct": false,
           "feedback": "Incorrecto. Solo calculó el interés de un año."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$10,400 pesos",
           "is_correct": true,
           "feedback": "Correcto. I = 8,000 * 0.10 * 3 = 2,400. M = 8,000 + 2,400 = 10,400."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Error en el cálculo del interés o de la suma."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Primero calculamos el interés simple: $8,000 \\cdot 0.10 \\cdot 3 = 2,400$. Luego sumamos este valor al capital original para obtener el Monto total: $8,000 + 2,400 = 10,400$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,31 +328,31 @@
       "context": "Se analiza el rendimiento de una cuenta que paga intereses mensualmente.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$600 pesos",
           "is_correct": true,
           "feedback": "Correcto. I = 20,000 * 0.01 * 3 = 600. Como la tasa es mensual, el tiempo debe estar en meses."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$200 pesos",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el interés de un solo mes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$2,400 pesos",
           "is_correct": false,
           "feedback": "Incorrecto. Aplicó la tasa mensual como si fuera anual para el cálculo de un año."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$1,200 pesos",
           "is_correct": false,
           "feedback": "Incorrecto. Posible error al calcular los meses de un trimestre."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Un trimestre tiene 3 meses. Dado que la tasa ya es mensual (0.01), multiplicamos directamente: $20,000 \\cdot 0.01 \\cdot 3 = 600$. No fue necesario convertir la tasa a anual.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,25 +424,25 @@
           "feedback": "Incorrecto. El interés total sería de $3,000, no concuerda con los $3,600 reales."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "12%",
           "is_correct": true,
           "feedback": "Correcto. I = 18,600 - 15,000 = 3,600. 3,600 = 15,000 * i * 2 => 3,600 = 30,000i => i = 0.12."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "24%",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la tasa total por los dos años, la pregunta pide la tasa anual."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "6%",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió el interés total entre el capital sin considerar los dos años de plazo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Primero restamos el capital del monto para hallar el interés: $18,600 - 15,000 = 3,600$. Luego despejamos $i$ de la fórmula: $i = I / (C \\cdot t)$. Así, $i = 3,600 / (15,000 \\cdot 2) = 3,600 / 30,000 = 0.12$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Incorrecto. El interés generado sería de $1,800."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "15 meses",
           "is_correct": true,
           "feedback": "Correcto. t = I / (C * i) = 2,700 / (12,000 * 0.015) = 2,700 / 180 = 15."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "18 meses",
           "is_correct": false,
           "feedback": "Incorrecto. Posible error en la división o en la conversión de la tasa."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. El interés generado sería de $2,160."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Despejamos el tiempo ($t$) de la fórmula de interés simple: $t = I / (C \\cdot i)$. Como la tasa es mensual, el resultado de $t$ estará expresado directamente en meses. Dividir $2,700$ entre $(12,000 \\cdot 0.015)$ resulta en 15.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "Un estudiante de administración compara el interés ganado en dos cuentas diferentes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$20,000 pesos",
           "is_correct": false,
           "feedback": "Incorrecto. Un capital de $20,000 generaría $4,800 de interés, sumando $24,800."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$20,161.29 pesos",
           "is_correct": true,
           "feedback": "Correcto. C = M / (1 + i*t) = 25,000 / (1 + 0.06*4) = 25,000 / 1.24 = 20,161.29."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. El capital es demasiado alto, superaría el monto objetivo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Para hallar el capital conociendo el monto, usamos la fórmula $C = M / (1 + i \\cdot t)$. Sustituyendo los valores: $25,000 / (1 + 0.06 \\cdot 4) = 25,000 / 1.24$. El resultado indica la inversión inicial necesaria.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -610,19 +610,19 @@
           "feedback": "Incorrecto. Este sería el recargo si la tasa fuera del 1% diario."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$30,600 pesos",
           "is_correct": true,
           "feedback": "Correcto. I = 30,000 * 0.001 * 20 = 600. Monto = 30,000 + 600 = 30,600."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$36,000 pesos",
           "is_correct": false,
           "feedback": "Incorrecto. Error en el posicionamiento del punto decimal de la tasa."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La tasa diaria es 0.1%, que equivale a 0.001 en decimal. Multiplicamos por el capital y los días: $30,000 \\cdot 0.001 \\cdot 20 = 600$. Al sumarlo al valor original de la factura, obtenemos $30,600$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "Un analista financiero en el IPN evalúa una inversión que rinde intereses cada cuatrimestre.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$54,000 pesos",
           "is_correct": false,
           "feedback": "Incorrecto. Solo consideró un año de inversión."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$60,000 pesos",
           "is_correct": false,
           "feedback": "Incorrecto. Posible error al contar los cuatrimestres."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$62,000 pesos",
           "is_correct": true,
           "feedback": "Correcto. 2 años tienen 6 cuatrimestres. I = 50,000 * 0.04 * 6 = 12,000. M = 50,000 + 12,000 = 62,000."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Error en la multiplicación de los periodos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Un año tiene 3 cuatrimestres, por lo que 2 años tienen 6. Multiplicamos el capital por la tasa cuatrimestral y por el número total de cuatrimestres: $50,000 \\cdot 0.04 \\cdot 6 = 12,000$. El monto final es $62,000$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Incorrecto. No consideró la equivalencia de los tiempos de ambas inversiones."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$9,000 pesos",
           "is_correct": false,
           "feedback": "Incorrecto. Posible error en el cálculo de los trimestres."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$6,000 pesos",
           "is_correct": true,
           "feedback": "Correcto. Tiempo (t) = 2,000 / (10,000 * 0.04) = 5 semestres. Como un semestre son dos trimestres, 5 semestres = 10 trimestres. C = 3,000 / (0.05 * 10) = 6,000."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Error en el despeje de las variables."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Este problema requiere dos pasos. Primero usamos la segunda inversión para hallar el tiempo: $t = 2,000 / (10,000 \\cdot 0.04) = 5$ semestres. Convertimos este tiempo a la unidad de la primera tasa: $5$ semestres = $10$ trimestres. Finalmente hallamos el capital: $C = 3,000 / (0.05 \\cdot 10) = 6,000$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. El interés total sería de $11,000."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$40,000 pesos",
           "is_correct": true,
           "feedback": "Correcto. 0.10x + 0.12(100,000 - x) = 10,800. 0.10x + 12,000 - 0.12x = 10,800. -0.02x = -1,200. x = 60,000 (al 10%). Por lo tanto, 40,000 al 12%."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$60,000 pesos",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el monto invertido al 10%."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. No satisface la ecuación de intereses totales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Planteamos un sistema de ecuaciones: $x + y = 100,000$ y $0.10x + 0.12y = 10,800$. Al resolver por sustitución, encontramos que la parte invertida a la tasa mayor ($12%$) es de $40,000 pesos.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,19 +823,19 @@
       "context": "Un analista compara el interés simple con la inflación para determinar el rendimiento real.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "21%",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó las tasas en lugar de considerar el efecto erosivo de la inflación."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "9%",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque es la diferencia directa, financieramente se usa la tasa real (i - infla) / (1 + infla)."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "8.49%",
           "is_correct": true,
           "feedback": "Correcto. Tasa real = (0.15 - 0.06) / (1 + 0.06) = 0.09 / 1.06 ≈ 0.0849."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Ignoró por completo el efecto de la inflación."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La tasa de rendimiento real se calcula mediante la fórmula de Fisher: $r = (i - f) / (1 + f)$, donde $i$ es la tasa nominal y $f$ la inflación. Esto muestra cuánto creció realmente el valor del dinero por encima del aumento de precios.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -874,13 +874,13 @@
           "feedback": "Incorrecto. En 20 años el interés sería igual al doble del capital."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "15%",
           "is_correct": true,
           "feedback": "Correcto. I = 3C. 3C = C * i * 20 => 3 = 20i => i = 3/20 = 0.15 (15%)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "5%",
           "is_correct": false,
           "feedback": "Incorrecto. En 20 años el interés sería igual al capital inicial."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. En 20 años el interés sería igual a cuatro veces el capital."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Establecemos la condición $I = 3C$. Sustituimos en la fórmula fundamental: $3C = C \\cdot i \\cdot 20$. Cancelamos el capital $C$ de ambos lados y despejamos la tasa: $i = 3 / 20 = 0.15$. La tasa requerida es del $15%$ anual.",
       "difficulty": "10",
       "images": [],

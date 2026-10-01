@@ -13,19 +13,19 @@
       "context": "En Santa Cruz, Jhonny en el Colegio Nacional Santa Cruz analiza el ejercicio #1: f(x) = 4x⁵ - 3x³ + 7x - 12.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Grado 5",
           "is_correct": true,
           "feedback": "¡Correcto! El grado absoluto es el mayor exponente de la variable en el polinomio con coeficiente no nulo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Grado 3",
           "is_correct": false,
           "feedback": "Incorrecto. 3 es el exponente del término cúbico, no el grado máximo del polinomio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Grado 4",
           "is_correct": false,
           "feedback": "Incorrecto. 4 es el coeficiente principal del término cuadrático/quíntico."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. 1 es el exponente del término lineal 7x."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El grado de un polinomio de una sola variable equivale al exponente más alto de la variable con coeficiente distinto de cero. En f(x) = 4x⁵ - 3x³ + 7x - 12, el término de mayor exponente es 4x⁵, por lo que el grado es 5.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,31 +58,31 @@
       "context": "En Cochabamba, Marisol en el Colegio Nacional Sucre analiza el ejercicio #2: P(x) = x³ - 2x² - 5x + 6.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "(0, 6)",
           "is_correct": true,
           "feedback": "¡Correcto! P(0) = 0 - 0 - 0 + 6 = 6. Por tanto, el punto es (0, 6)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "(0, -6)",
           "is_correct": false,
           "feedback": "Incorrecto. Erraste en el signo del término independiente c = 6."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "(6, 0)",
           "is_correct": false,
           "feedback": "Incorrecto. Intercambiaste la abscisa y la ordenada en el par ordenado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "(0, 0)",
           "is_correct": false,
           "feedback": "Incorrecto. El corte con el eje y solo sería el origen si el término independiente fuera nulo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El punto de corte con el eje de las ordenadas (eje y) se calcula evaluando la función en x = 0: P(0) = 6.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,31 +103,31 @@
       "context": "En Sucre, Walter en el Colegio Nacional Junín analiza el ejercicio #3: P(x) = 2x³ - x² + 3x - 5.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "-31",
           "is_correct": true,
           "feedback": "¡Correcto! P(-2) = 2(-8) - 4 + 3(-2) - 5 = -16 - 4 - 6 - 5 = -31."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "-21",
           "is_correct": false,
           "feedback": "Incorrecto. Elevaste (-2)² dando -4 de forma errónea sin respetar el signo exterior."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "15",
           "is_correct": false,
           "feedback": "Incorrecto. Consideraste (-2)³ como 8 positivo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "-11",
           "is_correct": false,
           "feedback": "Incorrecto. Omitiste multiplicar por 2 el término cúbico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Sustituyendo x = -2 en P(x): P(-2) = 2(-2)³ - (-2)² + 3(-2) - 5 = 2(-8) - 4 - 6 - 5 = -31.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,31 +148,31 @@
       "context": "En Potosí, Sonia en el Colegio Nacional Bolívar analiza el ejercicio #4: f(x) = 2x² - 12x + 10.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "x = 3",
           "is_correct": true,
           "feedback": "¡Correcto! x_v = -b/(2a) = -(-12)/(2*2) = 12/4 = 3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = -3",
           "is_correct": false,
           "feedback": "Incorrecto. Erraste en el signo de la fórmula del vértice."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x = 6",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste multiplicar por a = 2 el denominador."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "x = 12",
           "is_correct": false,
           "feedback": "Incorrecto. No dividiste entre 2a."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En una función cuadrática f(x) = ax² + bx + c, la coordenada x del vértice viene dada por x_v = -b / (2a). Sustituyendo a = 2 y b = -12 obtenemos x_v = 3.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -238,31 +238,31 @@
       "context": "En Tarija, Yolanda en el Colegio Nacional San Luis analiza el ejercicio #6: P(x) = x³ - 6x² + 11x - 6 entre (x - 1).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Q(x) = x² - 5x + 6",
           "is_correct": true,
           "feedback": "¡Correcto! Dividiendo sintéticamente por r = 1, los coeficientes resultantes son 1, -5, 6 con residuo 0."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Q(x) = x² - 7x + 18",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste el valor de la raíz en lugar de operar sintéticamente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Q(x) = x² + 5x + 6",
           "is_correct": false,
           "feedback": "Incorrecto. Erraste en los signos de los términos del cociente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Q(x) = x² - 6x + 11",
           "is_correct": false,
           "feedback": "Incorrecto. Copiaste los coeficientes originales del dividendo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aplicando división sintética a 1, -6, 11, -6 con r = 1: El cociente obtenido es Q(x) = x² - 5x + 6.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,31 +328,31 @@
       "context": "En Cobija, Marcela en el Colegio Don Bosco analiza el ejercicio #8: f(x) = 3x - 2 y g(x) = 2x + 4.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "f(g(x)) = 6x + 10",
           "is_correct": true,
           "feedback": "¡Correcto! f(g(x)) = 3(2x + 4) - 2 = 6x + 12 - 2 = 6x + 10."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "f(g(x)) = 6x + 12",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste restar la constante 2 de la función f(x)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "f(g(x)) = 5x + 2",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste las funciones en lugar de componerlas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "f(g(x)) = 6x² + 8x - 8",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste f(x) por g(x) en lugar de realizar la composición."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La función compuesta f(g(x)) se obtiene sustituyendo g(x) en la variable x de f(x): f(2x + 4) = 3(2x + 4) - 2 = 6x + 10.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "En El Alto, Grover en el Colegio San Calixto analiza el ejercicio #9: f(x) = 4x + 8.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "f⁻¹(x) = (x - 8) / 4",
           "is_correct": true,
           "feedback": "¡Correcto! y = 4x + 8 ⇒ y - 8 = 4x ⇒ x = (y - 8)/4. Intercambiando variables: f⁻¹(x) = (x - 8)/4."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "f⁻¹(x) = (x + 8) / 4",
           "is_correct": false,
           "feedback": "Incorrecto. Erraste en el signo al trasponer la constante 8."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Calculaste la función recíproca en lugar de la función inversa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para hallar la función inversa, igualamos y = 4x + 8 y despejamos x: x = (y - 8)/4. Intercambiando variables resulta f⁻¹(x) = (x - 8)/4.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,19 +418,19 @@
       "context": "En La Paz, Carlos en el Colegio Nacional Ayacucho analiza el ejercicio #10: (x² - 16) / (x² - 2x - 8).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "(x + 4) / (x + 2)",
           "is_correct": true,
           "feedback": "¡Correcto! (x - 4)(x + 4) / [(x - 4)(x + 2)] = (x + 4) / (x + 2)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "(x - 4) / (x - 2)",
           "is_correct": false,
           "feedback": "Incorrecto. Cancelaste el factor incorrecto en el numerador."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. Cancelaste erróneamente los términos cuadráticos y lineales."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Erraste en el signo del término independiente del denominador."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Factorizamos el numerador: x² - 16 = (x - 4)(x + 4). Factorizamos el denominador: x² - 2x - 8 = (x - 4)(x + 2). Cancelando (x - 4), resulta (x + 4) / (x + 2).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,19 +463,19 @@
       "context": "En Santa Cruz, Ana en el Colegio Nacional Santa Cruz analiza el ejercicio #11: P(x) = 2x³ - 3x² + kx - 8 para que sea divisible por (x - 2).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "k = 2",
           "is_correct": true,
           "feedback": "¡Correcto! P(2) = 2(8) - 3(4) + 2k - 8 = 16 - 12 + 2k - 8 = 2k - 4 = 0 ⇒ 2k = 4 ⇒ k = 2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "k = -2",
           "is_correct": false,
           "feedback": "Incorrecto. Erraste en el signo al despejar 2k = 4."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "k = 4",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste dividir entre el coeficiente 2 de k."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Cometiste un error de signos acumulado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por el Teorema del Factor, P(x) es divisible por (x - 2) si P(2) = 0. P(2) = 16 - 12 + 2k - 8 = 2k - 4 = 0 ⇒ k = 2.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "En Cochabamba, Marcos en el Colegio Nacional Sucre analiza el ejercicio #12: x³ - 3x² - 4x + 12 = 0.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "x = 3, x = 2, x = -2",
           "is_correct": true,
           "feedback": "¡Correcto! x²(x - 3) - 4(x - 3) = (x - 3)(x² - 4) = (x - 3)(x - 2)(x + 2) = 0 ⇒ x = 3, 2, -2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = -3, x = 1, x = -1",
           "is_correct": false,
           "feedback": "Incorrecto. Factorizaste de forma errónea la diferencia de cuadrados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x = 3, x = 4, x = -4",
           "is_correct": false,
           "feedback": "Incorrecto. Tomaste la raíz cuadrada de 16 en lugar de 4."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Asumiste que x = 0 era raíz sin ser término independiente nulo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Agrupamos los términos: x²(x - 3) - 4(x - 3) = 0 ⇒ (x - 3)(x² - 4) = 0 ⇒ (x - 3)(x - 2)(x + 2) = 0. Por lo tanto, x = 3, x = 2 y x = -2.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,31 +553,31 @@
       "context": "En Sucre, Lidia en el Colegio Nacional Junín analiza el ejercicio #13: recortando cuadrados de lado x en las esquinas de una lámina de 12 cm de lado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "V(x) = x(12 - 2x)²",
           "is_correct": true,
           "feedback": "¡Correcto! Los lados de la base miden (12 - 2x) cm y la altura es x cm. El volumen es base × altura: V(x) = x(12 - 2x)²."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "V(x) = x(12 - x)²",
           "is_correct": false,
           "feedback": "Incorrecto. Descontaste solo un cuadrado x en lugar de dos por cada dimensión."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "V(x) = 144x - 4x²",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde al área de la lámina, no al volumen tridimensional."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "V(x) = (12 - 2x)³",
           "is_correct": false,
           "feedback": "Incorrecto. Asumiste que la altura también medía (12 - 2x)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Al cortar cuadrados de esquina de lado x, el largo y el ancho de la base se reducen a (12 - 2x). El área de la base es (12 - 2x)². La altura es x. El volumen es V(x) = x(12 - 2x)².\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,31 +598,31 @@
       "context": "En Potosí, Andrés en el Colegio Nacional Bolívar analiza el ejercicio #14: (x - 1)/(x + 3) ≤ 0.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El intervalo semihabierto (-3, 1]",
           "is_correct": true,
           "feedback": "¡Correcto! Puntos críticos x = -3 (abierto) y x = 1 (cerrado). El cociente es ≤ 0 en (-3, 1]."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El intervalo cerrado [-3, 1]",
           "is_correct": false,
           "feedback": "Incorrecto. Incluiste x = -3, pero este valor anula el denominador produciendo indeterminación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La unión (-∞, -3) ∪ [1, ∞)",
           "is_correct": false,
           "feedback": "Incorrecto. Seleccionaste los intervalos donde la expresión es positiva."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El intervalo semihabierto [-3, 1)",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la apertura y cierre de los extremos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Los puntos críticos son x = -3 y x = 1. Evaluando signos en los intervalos, la solución es (-3, 1], excluyendo -3 por ser restricción del denominador.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "En Oruro, Zulma en el Colegio Nacional Potosí analiza el ejercicio #15: |2x - 5| = 9.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "x = 7 y x = -2",
           "is_correct": true,
           "feedback": "¡Correcto! 2x - 5 = 9 ⇒ 2x = 14 ⇒ x = 7; o 2x - 5 = -9 ⇒ 2x = -4 ⇒ x = -2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 7 y x = 2",
           "is_correct": false,
           "feedback": "Incorrecto. Erraste en el signo de la segunda solución al despejar."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Cometiste errores de suma en las constantes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La ecuación |2x - 5| = 9 se descompone en dos casos: 1) 2x - 5 = 9 ⇒ x = 7. 2) 2x - 5 = -9 ⇒ x = -2.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,19 +733,19 @@
       "context": "En Trinidad, Willy en el Liceo Pantaleón Dalence analiza el ejercicio #17: f(x) = x³ - 3x² - 9x + 5.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El intervalo abierto (1, ∞)",
           "is_correct": true,
           "feedback": "¡Correcto! f'(x) = 3x² - 6x - 9, f''(x) = 6x - 6. Igualando a cero 6x - 6 > 0 ⇒ x > 1."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El intervalo abierto (-∞, 1)",
           "is_correct": false,
           "feedback": "Incorrecto. En este intervalo f''(x) < 0, lo que representa concavidad hacia abajo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El intervalo abierto (-1, 3)",
           "is_correct": false,
           "feedback": "Incorrecto. Este representa el intervalo de decrecimiento de la función."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Confundiste el punto crítico x = 3 con el punto de inflexión x = 1."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Primera derivada: f'(x) = 3x² - 6x - 9. Segunda derivada: f''(x) = 6x - 6. Para concavidad hacia arriba exigimos f''(x) > 0 ⇒ 6x - 6 > 0 ⇒ x > 1. El intervalo es (1, ∞).\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,19 +778,19 @@
       "context": "En Cobija, Teresa en el Colegio Don Bosco analiza el ejercicio #18: x² + y² = 25 y x - y = 1.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "(4, 3) y (-3, -4)",
           "is_correct": true,
           "feedback": "¡Correcto! De y = x - 1: x² + (x - 1)² = 25 ⇒ 2x² - 2x - 24 = 0 ⇒ x² - x - 12 = 0 ⇒ (x - 4)(x + 3) = 0 ⇒ (4, 3) y (-3, -4)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "(5, 0) y (0, -5)",
           "is_correct": false,
           "feedback": "Incorrecto. Estos puntos no cumplen la ecuación lineal x - y = 1."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "(3, 4) y (-4, -3)",
           "is_correct": false,
           "feedback": "Incorrecto. Intercambiaste las coordenadas de x e y en los puntos."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Erraste en los signos de la ordenada y."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Sustituimos y = x - 1 en x² + y² = 25: x² + (x - 1)² = 25 ⇒ 2x² - 2x - 24 = 0 ⇒ x² - x - 12 = 0 ⇒ (x - 4)(x + 3) = 0. Raíces: x = 4 (y = 3) y x = -3 (y = -4).\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "En La Paz, Roxana en el Colegio Nacional Ayacucho analiza el ejercicio #20: (5x - 1) / (x² - 1) = A/(x - 1) + B/(x + 1).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "A = 2 y B = 3",
           "is_correct": true,
           "feedback": "¡Correcto! 5x - 1 = A(x + 1) + B(x - 1). Para x = 1: 4 = 2A ⇒ A = 2. Para x = -1: -6 = -2B ⇒ B = 3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "A = 3 y B = 2",
           "is_correct": false,
           "feedback": "Incorrecto. Intercambiaste los valores numéricos de A y B."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "A = 5 y B = -1",
           "is_correct": false,
           "feedback": "Incorrecto. Tomaste los coeficientes del numerador directamente."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Evaluaste con errores los puntos críticos x = 1 y x = -1."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Igualamos numeradores: 5x - 1 = A(x + 1) + B(x - 1). Evaluando en x = 1: 4 = 2A ⇒ A = 2. Evaluando en x = -1: -6 = -2B ⇒ B = 3.",
       "difficulty": "10",
       "images": [],

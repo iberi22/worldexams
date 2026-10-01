@@ -19,13 +19,13 @@
           "feedback": "Incorrecto. La puntuación ayuda a la cohesión, pero no garantiza por sí sola el sentido global."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que todas las ideas se relacionen con un mismo tema principal.",
           "is_correct": true,
           "feedback": "¡Correcto! La unidad temática es la base de la coherencia global."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que el texto tenga exactamente tres párrafos.",
           "is_correct": false,
           "feedback": "Incorrecto. La extensión del texto no determina su coherencia."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. El vocabulario complejo no asegura que el texto tenga sentido o esté bien organizado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La coherencia global se refiere al significado total del texto. Un texto es coherente cuando el lector puede identificar de qué trata (el tema) y cómo se conectan las partes para explicar ese tema.",
       "difficulty": "4",
       "images": [],
@@ -71,19 +71,19 @@
           "feedback": "Incorrecto. Aunque el castillo está en Cartagena, \"allí\" se refiere específicamente al sitio mencionado justo antes."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Al Castillo de San Felipe.",
           "is_correct": true,
           "feedback": "¡Correcto! \"Allí\" es un adverbio que funciona como referencia anafórica de lugar para evitar repetir el nombre del monumento."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "A la historia.",
           "is_correct": false,
           "feedback": "Incorrecto. La historia es un concepto abstracto, no un lugar físico al que pueda referirse \"allí\"."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La anáfora es un mecanismo que consiste en el uso de palabras (pronombres, adverbios) que remiten a un elemento mencionado anteriormente, manteniendo el hilo conductor del texto.",
       "difficulty": "4",
       "images": [],
@@ -111,13 +111,13 @@
           "feedback": "Incorrecto. Es repetitivo y no aplica elipsis."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Los jaguares son felinos americanos. Habitan principalmente en selvas tropicales.",
           "is_correct": true,
           "feedback": "¡Correcto! En la segunda oración se omite el sujeto \"Los jaguares\" porque el lector ya sabe de quién se habla."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El café colombiano es famoso. El café colombiano se exporta a todo el mundo.",
           "is_correct": false,
           "feedback": "Incorrecto. Repite innecesariamente el sujeto completo."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. No hay elipsis del sujeto en la segunda oración (el sujeto es \"las arepas\")."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La elipsis permite que el texto sea más fluido y dinámico, confiando en la capacidad del lector para recuperar la información omitida a partir de lo dicho anteriormente.",
       "difficulty": "6",
       "images": [],
@@ -209,19 +209,19 @@
           "feedback": "Incorrecto. Hay una relación de finalidad y consecuencia lógica."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "El cultivo de flores es una industria importante en Colombia. Me gusta mucho comer pizza los sábados.",
           "is_correct": true,
           "feedback": "¡Correcto! No hay ninguna relación lógica ni temática entre la industria de las flores y el gusto personal por la pizza."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Gabriel García Márquez ganó el Premio Nobel en 1982. Su obra cumbre es Cien años de soledad.",
           "is_correct": false,
           "feedback": "Incorrecto. Ambas oraciones hablan del mismo autor y sus logros."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Un texto coherente debe avanzar de forma lógica. Saltos temáticos bruscos sin conectores o explicaciones rompen la coherencia y confunden al lector.",
       "difficulty": "6",
       "images": [],
@@ -249,25 +249,25 @@
           "feedback": "Incorrecto. Aquí las ideas están al mismo nivel jerárquico como una lista."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Progresión de temas derivados, donde un tema general se desglosa en varios aspectos.",
           "is_correct": true,
           "feedback": "¡Correcto! El tema general (medidas de convivencia) se divide en tres puntos específicos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Progresión constante, donde se repite la misma información con diferentes palabras.",
           "is_correct": false,
           "feedback": "Incorrecto. Cada punto añade una medida distinta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Progresión circular, donde el texto termina exactamente donde empezó sin añadir nada.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto avanza hacia una conclusión tras enumerar medidas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La progresión temática es la forma en que se dosifica la información nueva (rema) respecto a la información ya conocida (tema). Los marcadores de orden son fundamentales para los textos expositivos.",
       "difficulty": "8",
       "images": [],
@@ -295,13 +295,13 @@
           "feedback": "Incorrecto. Hortaliza incluye al tomate, pero no es su sinónimo directo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Es un hiperónimo que engloba a los elementos mencionados anteriormente.",
           "is_correct": true,
           "feedback": "¡Correcto! Permite referirse a todo el grupo de vegetales sin repetirlos uno por uno."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es un antónimo que sirve para contrastar los tipos de siembra.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay contraste, sino inclusión."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. \"Hortalizas\" es un sustantivo común, no un pronombre."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El hiperónimo es una palabra cuyo significado abarca al de otras más específicas (hipónimos). Usar hiperónimos ayuda a sintetizar y categorizar la información en el texto.",
       "difficulty": "8",
       "images": [],

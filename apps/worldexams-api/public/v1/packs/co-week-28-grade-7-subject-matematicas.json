@@ -19,25 +19,25 @@
           "feedback": "Incorrecto. 100 metros equivalen a un hectómetro, no a un kilómetro."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "1 000 metros",
           "is_correct": true,
           "feedback": "Correcto. El prefijo kilo significa mil: 1 km = 1 000 m."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "10 metros",
           "is_correct": false,
           "feedback": "Incorrecto. 10 metros equivalen a un decámetro."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "10 000 metros",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor corresponde a 10 kilómetros, no a uno."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En el sistema métrico decimal, kilo equivale a 1 000. Por eso 1 kilómetro = 1 000 metros, 1 kilogramo = 1 000 gramos y 1 kilolitro = 1 000 litros.",
       "difficulty": "4",
       "images": [],
@@ -111,25 +111,25 @@
           "feedback": "Incorrecto. Ese valor multiplica por 100 en vez de por 1 000."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "3 500 metros",
           "is_correct": true,
           "feedback": "Correcto. De km a m se multiplica por 1 000: 3,5 × 1 000 = 3 500 m."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "35 000 metros",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor multiplica por 10 000, diez veces más de lo debido."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "0,35 metros",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor divide en vez de multiplicar."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Convertir de una unidad mayor (km) a una menor (m) exige multiplicar por la equivalencia: 3,5 × 1 000 = 3 500 metros.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En Cartagena, un pescador pesa su pesca del día: un pargo de 4 kg y una sierra de 750 g. Quiere reportar el total en gramos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "1 150 g",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor suma 4 + 750 sin convertir los kilos a gramos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "4 750 g",
           "is_correct": true,
           "feedback": "Correcto. 4 kg = 4 000 g; 4 000 + 750 = 4 750 g."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Ese valor multiplica por 10 000 en vez de por 1 000."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Primero se unifican las unidades: 4 kg × 1 000 = 4 000 g. Luego se suma: 4 000 + 750 = 4 750 gramos.",
       "difficulty": "6",
       "images": [],
@@ -249,13 +249,13 @@
           "feedback": "Incorrecto. Ese valor resta mal las cantidades sin convertir 1,2 km a metros."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La del Mirador, por 50 metros",
           "is_correct": true,
           "feedback": "Correcto. 1,2 km = 1 200 m; 1 200 - 1 150 = 50 m a favor del Mirador."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La de la Cascada, por 50 metros",
           "is_correct": false,
           "feedback": "Incorrecto. La diferencia es 50 m, pero a favor del Mirador, no de la Cascada."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Las unidades difieren: 1,2 km son 1 200 m, no 1 150 m."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para comparar se unifican unidades: 1,2 × 1 000 = 1 200 m. Como 1 200 > 1 150, la ruta del Mirador es más larga por 50 metros.",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En Pereira, un tanque de reserva tiene 2,5 m³ de capacidad y el fontanero necesita saber a cuántos litros equivale para comprar el hipoclorito.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "2 500 litros",
           "is_correct": true,
           "feedback": "Correcto. 1 m³ = 1 000 L, así que 2,5 × 1 000 = 2 500 litros."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "250 litros",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor multiplica por 100 en vez de por 1 000."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Ese valor divide en vez de multiplicar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Un metro cúbico contiene 1 000 litros (un cubo de 10 dm × 10 dm × 10 dm = 1 000 dm³ = 1 000 L). Entonces 2,5 m³ = 2 500 litros.",
       "difficulty": "8",
       "images": [],
@@ -341,13 +341,13 @@
           "feedback": "Incorrecto. Ese valor junta los dígitos 3 y 45 sin convertir las horas a minutos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "225 minutos",
           "is_correct": true,
           "feedback": "Correcto. 3 × 60 = 180; 180 + 45 = 225 minutos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "345 segundos",
           "is_correct": false,
           "feedback": "Incorrecto. Además de juntar mal los dígitos, cambia la unidad a segundos."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Ese valor multiplica 3 × 45, operación sin sentido en este contexto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "1 hora = 60 minutos. Se convierten las 3 horas (180 min) y se suman los 45 minutos sueltos: 180 + 45 = 225 minutos.",
       "difficulty": "8",
       "images": [],
@@ -387,13 +387,13 @@
           "feedback": "Incorrecto. Compara mililitros con litros sin convertir: 1,5 L son 1 500 mL, no 1,5 mL."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "No, porque 5 vasos suman 1 250 mL y faltan 250 mL; se necesitan 6 vasos",
           "is_correct": true,
           "feedback": "Correcto. 1,5 L = 1 500 mL; 1 500 ÷ 250 = 6 vasos exactos. Con 5 faltan 250 mL."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sí, porque 1,5 litros equivalen a 150 mL y 5 vasos sobran",
           "is_correct": false,
           "feedback": "Incorrecto. 1,5 L equivalen a 1 500 mL, no a 150 mL."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. 15 vasos sumarían 3 750 mL, más del doble de lo pedido."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Unificando a mililitros: 1,5 × 1 000 = 1 500 mL. Dividiendo 1 500 ÷ 250 = 6 vasos. La afirmación es incorrecta: con 5 vasos solo se juntan 1 250 mL.",
       "difficulty": "10",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "En Neiva, dos ciclistas discuten cuál ruta de entrenamiento es más corta: la ruta A mide 2 km y 350 m; la ruta B mide 2 400 m.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La ruta A, porque 2 km y 350 m = 2 350 m, menor que 2 400 m",
           "is_correct": true,
           "feedback": "Correcto. 2 × 1 000 + 350 = 2 350 m; 2 350 < 2 400, así que A es más corta por 50 m."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La ruta B, porque 2 400 es menor que 2 350",
           "is_correct": false,
           "feedback": "Incorrecto. 2 400 es mayor que 2 350, no menor."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Son iguales porque ambas rondan los dos kilómetros",
           "is_correct": false,
           "feedback": "Incorrecto. Redondear no es comparar: difieren en 50 metros exactos."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. La conclusión coincide por casualidad, pero sumar km con m sin convertir es inválido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Ruta A = 2 000 + 350 = 2 350 m. Ruta B = 2 400 m. Como 2 350 < 2 400, la ruta A es más corta por 50 metros.",
       "difficulty": "10",
       "images": [],

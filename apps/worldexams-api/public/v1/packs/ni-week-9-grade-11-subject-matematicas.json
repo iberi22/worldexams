@@ -19,25 +19,25 @@
           "feedback": "Incorrecto. Esta no es la distancia euclidiana."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$",
           "is_correct": true,
           "feedback": "Correcto. Esta fórmula deriva del Teorema de Pitágoras aplicado a las diferencias de las coordenadas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$d = \\sqrt{(x_2 + x_1)^2 + (y_2 + y_1)^2}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se deben restar las coordenadas, no sumarlas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$d = \\frac{x_1 + x_2}{2}$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es parte de la fórmula del punto medio."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La distancia entre dos puntos es la longitud del segmento que los une. Se calcula hallando la raíz cuadrada de la suma de los cuadrados de las diferencias de sus coordenadas $x$ e $y$.",
       "difficulty": "4",
       "images": [],
@@ -64,13 +64,13 @@
           "feedback": "Incorrecto. Solo se sumaron las coordenadas sin promediarlas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$(4, 7)$",
           "is_correct": true,
           "feedback": "Correcto. Punto medio = $((x_1+x_2)/2, (y_1+y_2)/2) = (8/2, 14/2) = (4, 7)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(2, 3)$",
           "is_correct": false,
           "feedback": "Incorrecto. Se restaron las coordenadas en lugar de sumarlas."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. El promedio de 4 y 10 no es 5."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El punto medio es el promedio aritmético de las coordenadas de los extremos. Geométricamente, es el punto que divide al segmento en dos partes iguales.",
       "difficulty": "4",
       "images": [],
@@ -109,25 +109,25 @@
           "feedback": "Incorrecto. La pendiente es el cambio en y sobre el cambio en x."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$m = \\frac{y_2 - y_1}{x_2 - x_1}$",
           "is_correct": true,
           "feedback": "Correcto. La pendiente representa la razón de cambio vertical respecto al cambio horizontal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$m = (y_2 - y_1)(x_2 - x_1)$",
           "is_correct": false,
           "feedback": "Incorrecto. La pendiente es una razón, no un producto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$m = \\frac{y_2 + y_1}{x_2 + x_1}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se deben restar los valores para hallar los desplazamientos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La pendiente cuantifica la inclinación de la recta. Un valor positivo indica ascenso, uno negativo indica descenso y cero indica una línea horizontal.",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Diferentes formas de escribir la ecuación de una línea.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$y = mx + b$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la forma pendiente-intercepto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$y - y_1 = m(x - x_1)$",
           "is_correct": true,
           "feedback": "Correcto. Esta forma permite construir la ecuación conociendo un punto y la inclinación."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Esta es la forma simétrica o canónica."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La forma punto-pendiente es especialmente útil cuando se conocen las coordenadas de un punto específico por donde pasa la recta y su pendiente $m$.",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrecto. Esta es la condición para rectas perpendiculares."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$m_1 = m_2$",
           "is_correct": true,
           "feedback": "Correcto. Las rectas paralelas tienen exactamente la misma inclinación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$m_1 = -m_2$",
           "is_correct": false,
           "feedback": "Incorrecto. Pendientes opuestas no garantizan paralelismo."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Esta condición no define la relación geométrica de paralelismo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Dos rectas son paralelas si y solo si tienen la misma pendiente y diferentes interceptos con el eje $y$, lo que asegura que nunca se crucen.",
       "difficulty": "6",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "El diseño de dos avenidas que se cruzan en ángulo recto (90°) cerca del Mercado Oriental.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$m_1 \\cdot m_2 = -1$",
           "is_correct": true,
           "feedback": "Correcto. Las pendientes de rectas perpendiculares son recíprocas y opuestas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$m_1 = m_2$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la condición de paralelismo."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. La relación es multiplicativa, no aditiva."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para que dos rectas formen un ángulo de 90°, el producto de sus pendientes debe ser -1. Si una tiene pendiente 2, la otra debe tener pendiente -1/2.",
       "difficulty": "6",
       "images": [],
@@ -295,19 +295,19 @@
           "feedback": "Incorrecto. Se tomó el coeficiente de y."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$(0, 3)$",
           "is_correct": true,
           "feedback": "Correcto. En el eje y, $x=0$. Entonces $-2y + 6 = 0 \\Rightarrow 2y = 6 \\Rightarrow y = 3$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(0, -3)$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signo en la transposición de términos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Para encontrar el intercepto con el eje $y$, sustituimos $x=0$ en la ecuación y despejamos $y$. El punto siempre tiene la forma $(0, y)$.",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Un cálculo de la ecuación de una recta que pasa por un punto y es paralela a otra.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$y = -3x + 5$",
           "is_correct": false,
           "feedback": "Incorrecto. Las pendientes deben ser iguales para que sean paralelas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$y = 3x + 5$",
           "is_correct": true,
           "feedback": "Correcto. Al ser paralela, hereda la pendiente $m=3$. Al pasar por $(0,5)$, el intercepto $b=5$."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. El intercepto con y debe ser positivo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Rectas paralelas comparten la misma pendiente. Usamos la forma $y = mx + b$ sustituyendo $m$ por 3 y $b$ por el valor dado en el punto $(0, 5)$.",
       "difficulty": "6",
       "images": [],
@@ -424,25 +424,25 @@
           "feedback": "Incorrecto. Si k=5, la pendiente entre los últimos dos puntos no es igual a la de los primeros."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$k = 6$",
           "is_correct": true,
           "feedback": "Correcto. La pendiente entre los primeros dos es $(4-2)/(3-1) = 2/2 = 1$. Entonces entre los últimos debe ser $(k-4)/(5-3) = 1 \\Rightarrow (k-4)/2 = 1 \\Rightarrow k-4 = 2 \\Rightarrow k = 6$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$k = 7$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de cálculo en la igualdad de pendientes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$k = 8$",
           "is_correct": false,
           "feedback": "Incorrecto. Valor inconsistente con una progresión lineal."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Tres puntos son colineales si la pendiente calculada con cualquier par de ellos es la misma. Esto define una tasa de cambio constante.",
       "difficulty": "6",
       "images": [],
@@ -508,31 +508,31 @@
       "context": "Una recta perpendicular que pasa por un punto dado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$y = -1/2 x + 2$",
           "is_correct": true,
           "feedback": "Correcto. La pendiente perpendicular es -1/2. Entonces $y - 1 = -1/2(x - 2) \\Rightarrow y = -1/2 x + 1 + 1 \\Rightarrow y = -1/2 x + 2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$y = -1/2 x + 1$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en el cálculo del intercepto b."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$y = 1/2 x + 0$",
           "is_correct": false,
           "feedback": "Incorrecto. Se usó la recíproca pero no la opuesta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$y = -2x + 5$",
           "is_correct": false,
           "feedback": "Incorrecto. La pendiente debe ser recíproca."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La pendiente de la recta perpendicular es el recíproco negativo de la pendiente original. Aplicamos este valor en la forma punto-pendiente.",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "Un análisis de la forma simétrica de la recta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\frac{x}{4} + \\frac{y}{2} = 1$",
           "is_correct": false,
           "feedback": "Incorrecto. Se ignoró el signo negativo del intercepto en y."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{x}{4} - \\frac{y}{2} = 1$",
           "is_correct": true,
           "feedback": "Correcto. La forma es $x/a + y/b = 1$, donde $a=4$ y $b=-2$."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Se intercambiaron los interceptos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La forma simétrica $x/a + y/b = 1$ permite ver directamente dónde cruza la recta a cada uno de los ejes coordenados.",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorrecto. No se aplicó la fórmula de la distancia."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "2 unidades",
           "is_correct": true,
           "feedback": "Correcto. $d = |3(0) + 4(0) - 10| / \\sqrt{3^2 + 4^2} = |-10| / 5 = 2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "5 unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Se usó solo el denominador de la fórmula."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Error aritmético en la división final."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La distancia de un punto a una recta se calcula mediante el valor absoluto de la ecuación evaluada en el punto, dividido por el módulo del vector normal de la recta.",
       "difficulty": "8",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Incorrecto. La tangente de 30° es $\\sqrt{3}/3$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "45°",
           "is_correct": true,
           "feedback": "Correcto. El ángulo es $\\arctan(1) = 45^\\circ$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "60°",
           "is_correct": false,
           "feedback": "Incorrecto. La tangente de 60° es $\\sqrt{3}$."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. La pendiente de 90° es indefinida."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La pendiente de una recta es igual a la tangente del ángulo que forma con el eje positivo de las abscisas ($m = \\tan \\theta$).",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Un sistema de ecuaciones representado gráficamente por dos rectas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(3, 4)$",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface la segunda ecuación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(2, 3)$",
           "is_correct": true,
           "feedback": "Correcto. Igualando: $x + 1 = -x + 5 \\Rightarrow 2x = 4 \\Rightarrow x = 2$. Entonces $y = 2 + 1 = 3$."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. No satisface la primera ecuación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El punto de intersección es el conjunto de coordenadas que satisfacen ambas ecuaciones simultáneamente. Gráficamente, es el lugar donde las dos líneas se cruzan.",
       "difficulty": "8",
       "images": [],
@@ -739,25 +739,25 @@
           "feedback": "Incorrecto. Esta es una línea horizontal, no vertical."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$x = 2$",
           "is_correct": true,
           "feedback": "Correcto. El punto medio es $(2, 0)$. El segmento es horizontal ($m=0$), por lo que la mediatriz es vertical ($m$ indefinida) y pasa por x=2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$y = x$",
           "is_correct": false,
           "feedback": "Incorrecto. No es perpendicular al segmento dado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 0$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta línea pasa por uno de los extremos, no por el medio."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La mediatriz es la recta perpendicular a un segmento que pasa por su punto medio. En este caso, el segmento está sobre el eje $x$, por lo que su mediatriz es una recta vertical.",
       "difficulty": "10",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Área de un triángulo definido por interceptos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "6 unidades cuadradas",
           "is_correct": false,
           "feedback": "Incorrecto. Error al aplicar la fórmula del área del triángulo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "12 unidades cuadradas",
           "is_correct": true,
           "feedback": "Correcto. Interceptos: $x=6$ (base), $y=4$ (altura). Área = $(6 \\times 4) / 2 = 12$."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Error al hallar los interceptos con los ejes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El triángulo es rectángulo con vértices en el origen y los dos interceptos de la recta. Aplicamos la fórmula base por altura entre dos.",
       "difficulty": "10",
       "images": [],
@@ -835,19 +835,19 @@
           "feedback": "Incorrecto. $\\tan(45^\\circ) = 1$."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "60°",
           "is_correct": true,
           "feedback": "Correcto. La pendiente de la segunda recta es $\\sqrt{3}$. El ángulo es $\\arctan(\\sqrt{3}) = 60^\\circ$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "75°",
           "is_correct": false,
           "feedback": "Incorrecto. Valor inconsistente con las pendientes notables."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El ángulo entre el eje $x$ y una recta que pasa por el origen es simplemente el arco-tangente de su pendiente. $\\sqrt{3}$ es la pendiente característica de los 60 grados.",
       "difficulty": "10",
       "images": [],

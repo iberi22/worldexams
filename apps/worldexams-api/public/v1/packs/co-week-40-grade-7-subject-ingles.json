@@ -13,13 +13,13 @@
       "context": "Identifying an opposite personality trait.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Quiet",
           "is_correct": false,
           "feedback": "Incorrect. Shy people are usually quiet."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Outgoing",
           "is_correct": true,
           "feedback": "Correct! Outgoing refers to someone who is friendly and socially confident."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student identifies basic antonyms for personality adjectives.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "Identifying an environmental action.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Reduce",
           "is_correct": true,
           "feedback": "Correct! \"Reduce\" is the practice of using less material or energy."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Reuse",
           "is_correct": false,
           "feedback": "Incorrect. This means using it again."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Recycle",
           "is_correct": false,
           "feedback": "Incorrect. This means turning it into something new."
@@ -83,7 +83,7 @@
           "feedback": "Incorrect. Not one of the \"3 Rs\" of the environment."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "The student identifies the specific meaning of environmental sustainability terms.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -111,13 +111,13 @@
           "feedback": "Incorrect. Salt is uncountable."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "much",
           "is_correct": true,
           "feedback": "Correct! \"Much\" is used for large quantities of uncountable nouns."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "few",
           "is_correct": false,
           "feedback": "Incorrect. For uncountable, use \"little\"."
@@ -129,7 +129,7 @@
           "feedback": "Incorrect. In this context, it implies an excess."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student understands the correct quantifier for uncountable nouns in a nutritional context.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -157,25 +157,25 @@
           "feedback": "Incorrect. Comparative form."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "highest",
           "is_correct": true,
           "feedback": "Correct! Superlative form for a short adjective."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "most high",
           "is_correct": false,
           "feedback": "Incorrect. \"High\" is a short adjective."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "as high",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student understands the correct superlative form for a short adjective.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "Describing a relative position in a city.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "opposite",
           "is_correct": false,
           "feedback": "Incorrect. \"Opposite\" usually refers to one thing."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "behind",
           "is_correct": false,
           "feedback": "Incorrect."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "between",
           "is_correct": true,
           "feedback": "Correct! \"Between\" indicates a position in the middle of two points."
@@ -221,7 +221,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "The student applies knowledge of prepositions of place to describe city layouts.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "A text about climate change.\n\n\"Climate change is causing many problems. In Colombia, some glaciers are melting. We should use more renewable energy, like solar power, to help the planet.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Letting the glaciers melt.",
           "is_correct": false,
           "feedback": "Incorrect. This is a problem, not a solution."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Using renewable energy sources like solar power.",
           "is_correct": true,
           "feedback": "Correct! The text explicitly recommends this."
@@ -267,7 +267,7 @@
           "feedback": "Incorrect. It suggests a change in the TYPE of energy."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student applies reading strategies to identify a proposed solution in an environmental text.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -295,13 +295,13 @@
           "feedback": "Incorrect. Long adjective."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "more interesting",
           "is_correct": true,
           "feedback": "Correct! Comparative form for long adjectives."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "the most interesting",
           "is_correct": false,
           "feedback": "Incorrect. Comparing two things."
@@ -313,7 +313,7 @@
           "feedback": "Incorrect. Missing the second \"as\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student applies the comparative rule for long adjectives.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -341,25 +341,25 @@
           "feedback": "Incorrect. In simple questions, \"any\" is more standard."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Is there any sugar in the kitchen?",
           "is_correct": true,
           "feedback": "Correct! \"Any\" is the standard quantifier for questions and negatives."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Are there any sugar in the kitchen?",
           "is_correct": false,
           "feedback": "Incorrect. \"Sugar\" is uncountable, needs singular \"Is there\"."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Is there many sugar in the kitchen?",
           "is_correct": false,
           "feedback": "Incorrect. \"Many\" is for countable nouns."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student analyzes the grammatical requirements for countability, number agreement, and quantifier type in a question.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,25 +387,25 @@
           "feedback": "Incorrect. She is taller than her sister."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "She has a generous personality and a medium height compared to her siblings.",
           "is_correct": true,
           "feedback": "Correct! Helpful/sharing means generous; \"between\" the heights of siblings means medium height."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "She has short hair.",
           "is_correct": false,
           "feedback": "Incorrect. The text says \"long\"."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "She is taller than her brother.",
           "is_correct": false,
           "feedback": "Incorrect. She is \"shorter than\" him."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student analyzes complex comparative data and personality descriptors to identify an accurate summary.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -433,13 +433,13 @@
           "feedback": "Incorrect. It also helps with waste and community connection."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "The project is a waste of time for the residents.",
           "is_correct": false,
           "feedback": "Incorrect. They say it makes them \"connected and happy\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "The project successfully combines environmental sustainability with community well-being.",
           "is_correct": true,
           "feedback": "Correct! Reusing/recycling (sustainability) and connection/happiness (well-being)."
@@ -451,7 +451,7 @@
           "feedback": "Incorrect. They say they feel happy."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "The student evaluates a multifaceted description of a project to identify its broad success and impact.",
       "difficulty": "10",
       "images": [],

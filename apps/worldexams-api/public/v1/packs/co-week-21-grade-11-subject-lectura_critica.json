@@ -13,31 +13,31 @@
       "context": "Lea la famosa afirmación del filósofo Ludwig Wittgenstein en el *Tractatus Logico-Philosophicus*: \"Los límites de mi lenguaje significan los límites de mi mundo\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El conocimiento y la conceptualización de la realidad están determinados por los recursos lingüísticos de los que disponemos.",
           "is_correct": true,
           "feedback": "Correcto. Lo que no podemos nombrar o conceptualizar mediante el lenguaje queda fuera de nuestro horizonte de representación del mundo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los lenguajes humanos deben ser reemplazados por señas corporales en todas las escuelas.",
           "is_correct": false,
           "feedback": "Incorrecto. Wittgenstein analiza el alcance epistemológico del lenguaje verbal y no propone su abolición por señas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El tamaño de los diccionarios impresos determina la superficie geográfica de un país.",
           "is_correct": false,
           "feedback": "Incorrecto. Los límites son de representación del mundo mental y no de fronteras terrestres físicas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Todos los idiomas del mundo poseen exactamente el mismo número de palabras.",
           "is_correct": false,
           "feedback": "Incorrecto. El aforismo atañe al límite del pensamiento expresable y no a un recuento de vocabulario."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Comprender la filosofía del lenguaje implica examinar cómo la estructura del lenguaje configura las fronteras de nuestro pensamiento y percepción de la realidad.",
       "difficulty": "4",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En la teoría de Paul Grice sobre las **implicaturas conversacionales**, cuando una persona le pregunta a su amigo: \"¿Tienes hora?\" y este responde: \"El panadero acaba de abrir\", no hay una respuesta literal, pero hay comunicación efectiva.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El oyente realiza una inferencia pragmática basada en el Principio de Cooperación y el conocimiento compartido de la rutina del barrio.",
           "is_correct": true,
           "feedback": "Correcto. El oyente deduce que abrir la panadería equivale a una hora aproximada (ej. 6:00 a.m.), descifrando la implicatura implícita."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El panadero es un experto relojero que vende relojes de pared.",
           "is_correct": false,
           "feedback": "Incorrecto. La respuesta apela al hábito temporal de apertura y no a la venta de instrumentos de hora."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. No es una incoherencia sino una respuesta indirecta comprensible por la implicatura conversacional."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las implicaturas de Grice explican cómo los hablantes comunican mucho más de lo que dicen literalmente apoyándose en el contexto y la cooperación.",
       "difficulty": "6",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "Noam Chomsky postuló la existencia de una **Gramática Universal**, argumentando que los seres humanos nacemos con una facultad del lenguaje innata que nos permite adquirir cualquier lengua con pasmosa rapidez a partir de estímulos finitos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Una mera conducta aprendida desde cero exclusivamente por repetición e imitación del entorno (conductismo).",
           "is_correct": true,
           "feedback": "Correcto. Chomsky combate el empirismo/conductismo radical de Skinner al demostrar que la mente posee estructuras lingüísticas innatas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una capacidad presente en todos los seres humanos del planeta Tierra.",
           "is_correct": false,
           "feedback": "Incorrecto. Chomsky reafirma la universalidad humana de la facultad del lenguaje."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un sistema de signos que utiliza sonidos articulados para comunicar.",
           "is_correct": false,
           "feedback": "Incorrecto. El nativismo chomskiano valida la articulación fónica; lo que objeta es el aprendizaje por tabla rasa."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Chomsky sostiene que es una facultad biológica de la especie evolucionada hace milenios."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El debate entre el nativismo chomskiano (facultad innata) y el conductismo (aprendizaje por imitación) es un eje temático de la lingüística cognitiva.",
       "difficulty": "6",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "Michel Foucault argumentó en *Las palabras y las cosas* que el lenguaje de cada época histórica está configurado por una **episteme**, es decir, un marco inconsciente de reglas que determina qué es posible pensar, decir o saber en ese tiempo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Deben analizarse dentro de las reglas de pensamiento de su época y no juzgarse solo desde los prejuicios del presente.",
           "is_correct": true,
           "feedback": "Correcto. La episteme exige comprender la estructura del saber propia de cada período histórico sin anacronismos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Eran verdades absolutas escritas por divinidades inmortales.",
           "is_correct": false,
           "feedback": "Incorrecto. Foucault demuestra la historicidad y relatividad de las construcciones del saber humano."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. El análisis foucaultiano aborda los regímenes históricos del discurso humano y sus instituciones."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La arqueología del saber de Foucault analiza cómo las estructuras del discurso e instituciones de cada época delimitan lo que se considera \"verdad\".",
       "difficulty": "6",
       "images": [],
@@ -473,19 +473,19 @@
       "context": "Lea la siguiente paradoja del filósofo Epiménides el cretense: \"Todos los cretenses son unos mentirosos\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Si la frase es verdadera, Epiménides miente, luego es falsa; si es falsa, Epiménides dice la verdad, luego es verdadera.",
           "is_correct": true,
           "feedback": "Correcto. La autorreferencia crea un bucle lógico donde la verdad de la premisa implica su falsedad y viceversa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque los habitantes de la isla de Creta no hablaban ningún idioma.",
           "is_correct": false,
           "feedback": "Incorrecto. Los cretenses hablaban griego; la paradoja es de valor de verdad lógico autorreferencial."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque demuestra que las mentiras son ilegales en los tribunales griegos.",
           "is_correct": false,
           "feedback": "Incorrecto. El dilema no es de código penal sino de la estructura formal de los enunciados que se refieren a sí mismos."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. El vicio o paradoja reside en la autorreferencia de la verdad y no en el estilo poético."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El estudio de las paradojas semánticas autorreferenciales analiza las limitaciones de la lógica formal en los lenguajes naturales.",
       "difficulty": "8",
       "images": [],
@@ -519,13 +519,13 @@
       "context": "En la teoría de la **hipótesis Sapir-Whorf** (relatividad lingüística), se sostiene que la estructura de la lengua materna influye de forma decisiva en los patrones de pensamiento y en la forma en que los hablantes perciben el mundo (por ejemplo, lenguas con decenas de nombres para el color blanco/nieve).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que la diversidad de idiomas refleja diferentes modos de estructurar la experiencia y la categorización de la realidad.",
           "is_correct": true,
           "feedback": "Correcto. Sapir y Whorf sostienen que hablar lenguas distintas implica habitar mundos perceptivos levemente diferentes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que solo las lenguas europeas son capaces de expresar pensamientos lógicos de alta complejidad.",
           "is_correct": false,
           "feedback": "Incorrecto. La hipótesis rechaza las jerarquías etnocéntricas y postula que cada lengua categoriza la realidad de forma rica."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto. La relatividad muestra justamente la dificultad de traducir cosmovisiones intrincadas entre lenguas distantes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La hipótesis Sapir-Whorf examina la intersección entre lingüística, antropología y cognición, mostrando el papel de la lengua en la percepción cultural.",
       "difficulty": "8",
       "images": [],
@@ -565,31 +565,31 @@
       "context": "Gottlob Frege introdujo la distinción entre **Sentido** (*Sinn*) y **Referencia** (*Bedeutung*). Las expresiones \"El lucero del alba\" y \"El lucero del atardecer\" nombran al mismo planeta (Venus), por lo que tienen la misma referencia, pero distintos sentidos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "En el modo de presentación o perspectiva cognitiva a través de la cual se da a conocer el objeto (mañana vs. tarde).",
           "is_correct": true,
           "feedback": "Correcto. El Sentido es la forma o ruta informativa en que el objeto es presentado a la mente, aunque la entidad física (Venus) sea la misma."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En que una expresión es verdadera y la otra es una mentira astronómica.",
           "is_correct": false,
           "feedback": "Incorrecto. Ambas expresiones son astronómicamente verdaderas sobre el planeta Venus."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "En que el planeta Venus desaparece del sistema solar durante el mediodía.",
           "is_correct": false,
           "feedback": "Incorrecto. El planeta permanece; lo que cambia es la visibilidad según el momento del día."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "En que una frase está en idioma latín y la otra en idioma griego antiguo.",
           "is_correct": false,
           "feedback": "Incorrecto. La distinción fregeana es de semántica filosófica (modo de presentación) y no de idioma."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La distinción fregeana entre sentido (modo de dar el objeto) y referencia (el objeto mismo) es clave en la semántica de las descripciones.",
       "difficulty": "8",
       "images": [],
@@ -611,31 +611,31 @@
       "context": "Mikhail Bakhtin introdujo el concepto de **intertextualidad** y **polifonía**, sosteniendo que ningún enunciado es completamente original, sino que todo discurso es una respuesta a discursos anteriores y una anticipación de discursos futuros.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Modula su voz tejiendo un diálogo implícito con las voces, prejuicios y expectativas de la tradición de su comunidad.",
           "is_correct": true,
           "feedback": "Correcto. La polifonía bajtiniana demuestra que en la voz de un solo hablante resuenan y responden múltiples voces sociales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Inventa por primera vez en la historia todas las palabras que pronuncia en la plaza.",
           "is_correct": false,
           "feedback": "Incorrecto. Bakhtin rechaza el mito de la adánida originalidad absoluta; nos servimos de palabras cargadas de usos previos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Habla en un idioma desconocido para que nadie entienda su propuesta.",
           "is_correct": false,
           "feedback": "Incorrecto. El diálogo polifónico busca la resonancia social con la cultura de los oyentes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Utiliza un altavoz electrónico de alta potencia para acallar a los opositores.",
           "is_correct": false,
           "feedback": "Incorrecto. La polifonía es un concepto semiótico-discursivo de resonancia de voces y no un volumen físico del sonido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La polifonía y el dialogismo bajtiniano revelan que los textos son cruces de voces sociales en constante interacción histórica.",
       "difficulty": "8",
       "images": [],
@@ -703,19 +703,19 @@
       "context": "El filósofo Umberto Eco, en *Lector in fabula*, afirma que el texto es una \"máquina perezosa\" que exige la cooperación interpretativa del lector para llenar los espacios en blanco o \"baches de significado\" que el autor no explicitó.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Activo y co-creador, donde el lector actualiza el sentido del texto aportando sus propios conocimientos previos.",
           "is_correct": true,
           "feedback": "Correcto. El texto no lo dice todo; el lector debe realizar inferencias y actualizar los implícitos para que el texto funcione."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Pasivo y receptivo, donde el lector se limita a memorizar mecánicamente los signos gráficos.",
           "is_correct": false,
           "feedback": "Incorrecto. Eco rechaza la lectura pasiva; la metáfora exige la cooperación activa del lector para dotar de vida al texto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Inútil, porque los textos no contienen ninguna información relevante.",
           "is_correct": false,
           "feedback": "Incorrecto. Eco defiende la riqueza de la interpretación guiada por las pistas del texto."
@@ -727,7 +727,7 @@
           "feedback": "Incorrecto. Toda lectura de cualquier ciudadano requiere de este trabajo cooperativo de inferencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La teoría de la recepción de Umberto Eco concibe al lector como un agente activo que reconstruye y completa el significado del texto.",
       "difficulty": "8",
       "images": [],
@@ -749,13 +749,13 @@
       "context": "Durante un conflicto armado, un medio estatal llama a los combatientes propios \"héroes de la libertad\" y a los rivales \"hordas terroristas\". Un medio opositor invierte los términos etiquetando a los primeros de \"fuerzas de ocupación\" y a los segundos de \"ejército de liberación\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El lenguaje no es un espejo neutro sino un campo de batalla ideológico donde las etiquetas construyen legitimidad o descalificación moral.",
           "is_correct": true,
           "feedback": "Correcto. La nominación léxica de los actores de un conflicto impone una valoración ética e ideológica de la violencia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ambos medios de comunicación utilizan el Diccionario de la RAE con absoluta imparcialidad científica.",
           "is_correct": false,
           "feedback": "Incorrecto. La selección léxica evidencia un uso marcadamente ideológico y sesgado por ambas partes."
@@ -773,7 +773,7 @@
           "feedback": "Incorrecto. La forma de nombrar moldea profundamente la aprobación o condena de la sociedad frente a la guerra."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La evaluación crítica del lenguaje político revela cómo la lucha por el significado de las palabras es una extensión discursiva de los conflictos de poder.",
       "difficulty": "10",
       "images": [],
@@ -841,13 +841,13 @@
       "context": "Un movimiento social propone modificar el lenguaje institucional introduciendo marcas inclusivas de género (como el uso del desdoblamiento \"los y las\" o morfemas neutros), argumentando que \"lo que no se nombra no existe en la conciencia pública\". Sus críticos afirman que \"la gramática no cambia la realidad social\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La tensión entre la función del lenguaje como reproductor de las estructuras sociales preexistentes y su potencial como agente de transformación cultural.",
           "is_correct": true,
           "feedback": "Correcto. Enfrenta la postura de que el lenguaje refleja el orden social (y cambiarlo visibiliza a los excluidos) frente a la idea de que la gramática es autónoma de la reforma política."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una discusión técnica sobre el uso de la tinta de color en los documentos impresos.",
           "is_correct": false,
           "feedback": "Incorrecto. El debate es sobre visibilización de género y reforma social del lenguaje, no sobre la imprenta."
@@ -865,7 +865,7 @@
           "feedback": "Incorrecto. El español posee normas académicas; la discusión gira sobre la evolución consciente y la inclusión social del uso."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluar los debates sobre el lenguaje inclusivo exige ponderar las visiones sobre el poder simbólico del nombrar en la visibilización de los sujetos sociales.",
       "difficulty": "10",
       "images": [],

@@ -59,31 +59,31 @@
       "context": "En una urna en Medellín hay 6 fichas rojas y 4 fichas azules.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\frac{2}{5}$",
           "is_correct": true,
           "feedback": "Casos favorables = 4, casos totales = 10. P = 4/10 = 2/5 = 0.40."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{3}{5}$",
           "is_correct": false,
           "feedback": "Corresponde a la probabilidad de extraer una ficha roja (6/10 = 3/5)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{1}{4}$",
           "is_correct": false,
           "feedback": "Dividió 1 entre 4."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\frac{4}{6}$",
           "is_correct": false,
           "feedback": "Dividió las fichas azules entre las rojas en lugar del total."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "$P(\\text{Azul}) = \\frac{\\text{fichas azules}}{\\text{fichas totales}} = \\frac{4}{6 + 4} = \\frac{4}{10} = \\frac{2}{5} = 0.40$.",
       "difficulty": "4",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En la sucesión $2, 6, 18, 54, dots$ en Barranquilla.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Razón $r = 3$ y $a_5 = 162$",
           "is_correct": true,
           "feedback": "r = 6/2 = 3. a_5 = 54 * 3 = 162."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Razón $r = 4$ y $a_5 = 216$",
           "is_correct": false,
           "feedback": "Confundió la razón sumando +4 en lugar de multiplicar por 3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Razón $r = 3$ y $a_5 = 108$",
           "is_correct": false,
           "feedback": "Calculó 54 * 2."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Razón $r = 2$ y $a_5 = 108$",
           "is_correct": false,
           "feedback": "Asumió razón 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Es una progresión geométrica con $a_1 = 2$ y $r = \\frac{6}{2} = 3$.\nEl quinto término es $a_5 = a_4 \\cdot r = 54   imes 3 = 162$.",
       "difficulty": "4",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En un curso de 40 estudiantes en Bucaramanga, 25 juegan fútbol, 20 juegan voleibol y 10 practican ambos deportes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\frac{7}{8}$",
           "is_correct": true,
           "feedback": "Estudiantes que juegan al menos uno = 25 + 20 - 10 = 35. P = 35 / 40 = 7/8 = 0.875."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{9}{8}$",
           "is_correct": false,
           "feedback": "Sumó 25 + 20 = 45 obteniendo una probabilidad mayor a 1."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{5}{8}$",
           "is_correct": false,
           "feedback": "Calculó 25 / 40 en lugar de incluir a los de voleibol."
@@ -221,7 +221,7 @@
           "feedback": "Calculó solo la probabilidad de la intersección (10/40 = 1/4)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por inclusión y exclusión: $|\\text{Fútbol} cup\\text{Voleibol}| = 25 + 20 - 10 = 35$.\n$P = \\frac{35}{40} = \\frac{7}{8} = 0.875$.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "¿De cuántas maneras diferentes se pueden ordenar las letras de la palabra \"COLOMBIA\"?",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "20,160",
           "is_correct": true,
           "feedback": "Hay 8 letras con 2 'O's. Permutaciones con repetición = 8! / 2! = 40320 / 2 = 20160."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "40,320",
           "is_correct": false,
           "feedback": "Calculó 8! sin descontar las permutaciones de la letra 'O' repetida."
@@ -267,7 +267,7 @@
           "feedback": "Calculó 7!."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La palabra \"COLOMBIA\" tiene 8 letras en total donde la 'O' aparece 2 veces:\n$P = \\frac{8!}{2!} = \\frac{40,320}{2} = 20,160$.",
       "difficulty": "6",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "En un estudio en Manizales con $N = 500$ viviendas, se desea seleccionar una muestra sistemática de $n = 25$ viviendas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$k = 20$",
           "is_correct": true,
           "feedback": "k = N / n = 500 / 25 = 20."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$k = 25$",
           "is_correct": false,
           "feedback": "Confundió k con el tamaño de muestra n."
@@ -451,7 +451,7 @@
           "feedback": "Calculó 500 / 50."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "$k = \\frac{N}{n} = \\frac{500}{25} = 20$.",
       "difficulty": "6",
       "images": [],
@@ -519,13 +519,13 @@
       "context": "En el desarrollo de $(2x + y)^5$ en Armenia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "80",
           "is_correct": true,
           "feedback": "El término es C(5,2) * (2x)^3 * (y)^2 = 10 * 8x^3 * y^2 = 80 x^3 y^2. El coeficiente numérico es 80."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "10",
           "is_correct": false,
           "feedback": "Tomó solo el coeficiente binomial C(5,2) sin elevar 2 al cubo."
@@ -543,7 +543,7 @@
           "feedback": "Multiplicó por 16 por error."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Término con $y^2$: $\\binom{5}{2} (2x)^{5-2} y^2 = 10 \\cdot (2x)^3 y^2 = 10 \\cdot 8x^3 y^2 = 80x^3 y^2$.",
       "difficulty": "8",
       "images": [],
@@ -565,19 +565,19 @@
       "context": "Para evaluar si un tratamiento reduce la presión arterial en Cundinamarca, se plantea $H_0: \\mu \\ge 130$ vs $H_a: \\mu < 130$. El estadístico calculado es $Z_{calc} = -2.15$ y el valor crítico al 5% es $Z_{crit} = -1.645$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Se rechaza $H_0$, concluyendo que el tratamiento reduce significativamente la presión arterial.",
           "is_correct": true,
           "feedback": "Como Z_calc = -2.15 < -1.645, cae en la región de rechazo de la cola izquierda."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "No se rechaza $H_0$, porque la presión arterial aumenta.",
           "is_correct": false,
           "feedback": "El valor Z negativo confirma una reducción en los datos muestrales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se acepta $H_0$ concluyendo que el tratamiento no tiene ningún efecto.",
           "is_correct": false,
           "feedback": "El estadístico cae dentro de la región de rechazo de H0."
@@ -589,7 +589,7 @@
           "feedback": "La prueba ya es concluyente al nivel del 5%."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Dado que $Z_{calc} = -2.15 < Z_{crit} = -1.645$, el valor se sitúa en la región de rechazo de la hipótesis nula $H_0$, confirmando la eficacia del tratamiento.",
       "difficulty": "8",
       "images": [],
@@ -611,31 +611,31 @@
       "context": "La suma infinita de una serie geométrica es $S_\\infty = 20$ y su primer término es $a_1 = 5$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\frac{3}{4} = 0.75$",
           "is_correct": true,
           "feedback": "S_inf = a_1 / (1 - r) -> 20 = 5 / (1 - r) -> 1 - r = 5 / 20 = 0.25 -> r = 1 - 0.25 = 0.75."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{1}{4} = 0.25$",
           "is_correct": false,
           "feedback": "Corresponde al valor de (1 - r), se olvidó despejar r."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{1}{2} = 0.50$",
           "is_correct": false,
           "feedback": "Si r = 0.50, S_inf sería 5 / 0.5 = 10."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\frac{4}{5} = 0.80$",
           "is_correct": false,
           "feedback": "Calculó 16 / 20 de forma errónea."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "$S_\\infty = \\frac{a_1}{1 - r} Rightarrow 20 = \\frac{5}{1 - r} Rightarrow 1 - r = \\frac{5}{20} = 0.25 Rightarrow r = 0.75$.",
       "difficulty": "8",
       "images": [],
@@ -657,13 +657,13 @@
       "context": "Un grupo de 6 amigos en Neiva se sienta en una mesa redonda para cenar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "120",
           "is_correct": true,
           "feedback": "Permutación circular PC_6 = (6 - 1)! = 5! = 120."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "720",
           "is_correct": false,
           "feedback": "Calculó 6! en línea recta."
@@ -681,7 +681,7 @@
           "feedback": "Calculó 4!."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "$PC_n = (n-1)! Rightarrow PC_6 = (6-1)! = 5! = 120$.",
       "difficulty": "8",
       "images": [],
@@ -703,31 +703,31 @@
       "context": "Se lanza una moneda justa 4 veces en Villavicencio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\frac{15}{16}$",
           "is_correct": true,
           "feedback": "P(al menos 1 cara) = 1 - P(0 caras) = 1 - (1/2)^4 = 1 - 1/16 = 15/16."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{1}{16}$",
           "is_correct": false,
           "feedback": "Corresponde a la probabilidad de obtener 0 caras (todas sellos)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{1}{2}$",
           "is_correct": false,
           "feedback": "Tomó la probabilidad de un solo lanzamiento."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\frac{3}{4}$",
           "is_correct": false,
           "feedback": "Calculó 1 - 1/4 por error."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por el complemento: $P(\\text{al menos 1 cara}) = 1 - P(\\text{ninguna cara}) = 1 - left(\\frac{1}{2}\night)^4 = 1 - \\frac{1}{16} = \\frac{15}{16}$.",
       "difficulty": "8",
       "images": [],
@@ -749,13 +749,13 @@
       "context": "Se quiere encontrar el número de soluciones enteras NO NEGATIVAS a la ecuación $x_1 + x_2 + x_3 + x_4 = 6$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "84",
           "is_correct": true,
           "feedback": "CR(4,6) = C(4 + 6 - 1, 6) = C(9, 6) = C(9, 3) = (9 * 8 * 7) / 6 = 84."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "126",
           "is_correct": false,
           "feedback": "Calculó C(9,4) por error."
@@ -773,7 +773,7 @@
           "feedback": "Multiplicó 6 * 4."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Barras y estrellas: $\\binom{n+k-1}{n} = \\binom{6+4-1}{6} = \\binom{9}{6} = \\binom{9}{3} = \\frac{9   imes 8   imes 7}{6} = 84$.",
       "difficulty": "10",
       "images": [],
@@ -887,31 +887,31 @@
       "context": "Se define la suma $S = 1 + 2x + 3x^2 + 4x^3 + dots$ para $|x| < 1$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\frac{1}{(1-x)^2}$",
           "is_correct": true,
           "feedback": "Como sum 1/(1-x) = sum x^n, derivando respecto a x se tiene d/dx (1/(1-x)) = 1/(1-x)^2 = sum n * x^(n-1) = 1 + 2x + 3x^2 + ..."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{1}{1-x}$",
           "is_correct": false,
           "feedback": "Corresponde a la serie geométrica simple 1 + x + x^2 + ..."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{x}{(1-x)^2}$",
           "is_correct": false,
           "feedback": "Le falta un factor x en cada término (x + 2x^2 + 3x^3 + ...)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\frac{1}{1 - x^2}$",
           "is_correct": false,
           "feedback": "Corresponde a 1 + x^2 + x^4 + ..."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Derivando término a término la serie geométrica $\\frac{1}{1-x} = \\sum_{n=0}^\\infty x^n$:\n$\\frac{d}{dx} left( \\frac{1}{1-x}\night) = \\frac{1}{(1-x)^2} = sum_{n=1}^infty n x^{n-1} = 1 + 2x + 3x^2 + 4x^3 + dots$",
       "difficulty": "10",
       "images": [],

@@ -13,13 +13,13 @@
       "context": "Franco repasa la representación gráfica de rectas paralelas al eje horizontal en La Plata.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 3$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta ecuación representa una recta vertical (paralela al eje y)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$y = -2$",
           "is_correct": true,
           "feedback": "Correcto. Una ecuación de la forma $y = c$, donde $c$ es una constante, representa una recta horizontal con pendiente cero, paralela al eje $x$."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Esta es una recta oblicua con pendiente 1."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Una recta horizontal tiene pendiente cero. Su ecuación se reduce a la forma constante $y = c$, lo que significa que el valor de la ordenada es el mismo para cualquier valor de la abscisa.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -64,13 +64,13 @@
           "feedback": "Incorrecto. Ese concepto corresponde al término independiente $b$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La pendiente de la recta, que indica su inclinación.",
           "is_correct": true,
           "feedback": "Correcto. El coeficiente $m$ representa la pendiente de la recta, es decir, la tasa de cambio constante de $y$ respecto a $x$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La intersección de la recta con el eje horizontal.",
           "is_correct": false,
           "feedback": "Incorrecto. La intersección con el eje $x$ ocurre en el punto $(-b/m, 0)$."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Las rectas no tienen vértice."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El coeficiente principal $m$ en la ecuación explícita de la recta representa la pendiente. Mide la variación de la variable dependiente por cada unidad de cambio de la variable independiente.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -109,13 +109,13 @@
           "feedback": "Incorrecto. $-5$ es la ordenada al origen de la recta original."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$3$",
           "is_correct": true,
           "feedback": "Correcto. Dos rectas son paralelas si y solo si tienen exactamente la misma pendiente. Por ende, la pendiente de la recta paralela debe ser 3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$-\\frac{1}{3}$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta sería la pendiente de una recta perpendicular."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Cambiar el signo no da una recta paralela."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La condición matemática de paralelismo establece que dos rectas en el mismo plano son paralelas si y solo si sus pendientes son iguales ($m_1 = m_2$).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -154,25 +154,25 @@
           "feedback": "Incorrecto. Esta sería la pendiente para una recta paralela."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\frac{2}{5}$",
           "is_correct": false,
           "feedback": "Incorrecto. Solo se cambió el signo, pero debe ser también recíproca."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$-\\frac{5}{2}$",
           "is_correct": false,
           "feedback": "Incorrecto. Es recíproca pero no tiene signo opuesto."
         },
         {
-          "letter": "D",
+          "letter": "B",
           "text": "$\\frac{5}{2}$",
           "is_correct": true,
           "feedback": "Correcto. Dos rectas son perpendiculares si y solo si el producto de sus pendientes es $-1$: $m_1 \\cdot m_2 = -1 \\Rightarrow m_2 = -1 / (-2/5) = 5/2$."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": "La condición de perpendicularidad entre dos rectas establece que sus pendientes deben ser opuestas y recíprocas entre sí ($m_2 = -\\frac{1}{m_1}$).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,25 +199,25 @@
           "feedback": "Incorrecto. Esto ocurre cuando se intersectan en un único punto."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Sistema Compatible Indeterminado.",
           "is_correct": true,
           "feedback": "Correcto. Como las rectas coinciden en todos sus puntos, existen infinitas soluciones comunes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sistema Incompatible.",
           "is_correct": false,
           "feedback": "Incorrecto. Esto ocurre cuando las rectas son paralelas distintas y no tienen soluciones en común."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Sistema No Lineal.",
           "is_correct": false,
           "feedback": "Incorrecto. El sistema sigue siendo perfectamente lineal."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Un sistema de ecuaciones lineales con infinitas soluciones se denomina compatible indeterminado. Gráficamente, corresponde a dos rectas que se superponen por completo.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,31 +238,31 @@
       "context": "Julieta analiza las tarifas de dos cooperativas de electricidad en Neuquén.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$C(x) = 40x + 800$",
           "is_correct": true,
           "feedback": "Correcto. El costo variable por metro cúbico multiplicando a $x$ más el costo fijo constante de 800 resulta en $40x + 800$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$C(x) = 800x + 40$",
           "is_correct": false,
           "feedback": "Incorrecto. Esto multiplicaría el costo fijo por el consumo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$C(x) = (800 + 40)x$",
           "is_correct": false,
           "feedback": "Incorrecto. Suma de forma errónea los dos coeficientes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$C(x) = 40x$",
           "is_correct": false,
           "feedback": "Incorrecto. No incluye el cargo fijo obligatorio de 800."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La función que representa el costo mensual es una función afín donde la pendiente es el costo unitario por metro cúbico y la ordenada al origen es el costo fijo básico.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Incorrecto. Esta recta no pasa por $P_2$, ya que $2(3)+2 = 8 \\neq 10$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$y = 3x - 1$",
           "is_correct": false,
           "feedback": "Incorrecto. Tampoco satisface ambos puntos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$y = 3x + 1$",
           "is_correct": true,
           "feedback": "Correcto. Pendiente $m = \\frac{10-4}{3-1} = \\frac{6}{2} = 3$. Usando punto-pendiente: $y - 4 = 3(x - 1) \\Rightarrow y = 3x + 1$."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Pendiente mal calculada."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La pendiente de la recta se calcula mediante $m = \\frac{y_2 - y_1}{x_2 - x_1}$. Una vez obtenida la pendiente, se utiliza la forma punto-pendiente para hallar la ecuación explícita.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "Isabella compara dos abonos mensuales de gimnasio en Ushuaia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "A partir de 5 clases.",
           "is_correct": false,
           "feedback": "Incorrecto. Para 5 clases ambos cuestan lo mismo: 1750 y 1250 respectivamente (conviene Ritmo)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "A partir de 8 clases.",
           "is_correct": false,
           "feedback": "Incorrecto. Da por debajo del punto de cruce."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "A partir de 11 clases o más.",
           "is_correct": true,
           "feedback": "Correcto. Planteamos la inecuación: $1000 + 150x < 250x \\Rightarrow 1000 < 100x \\Rightarrow x > 10$. Conviene Fuerza a partir de la clase número 11."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Conviene desde antes."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Modelamos los costos mediante las funciones de costo lineal $C_1(x) = 150x + 1000$ y $C_2(x) = 250x$. El punto de intersección ocurre en $x=10$. Para consumos mayores, la opción con menor pendiente ($C_1$) es la más económica.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,25 +424,25 @@
           "feedback": "Incorrecto. No satisface la segunda ecuación."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$(3, 3)$",
           "is_correct": true,
           "feedback": "Correcto. Igualando las ecuaciones: $2x - 3 = -x + 6 \\Rightarrow 3x = 9 \\Rightarrow x = 3$. Evaluando en cualquiera de las funciones se obtiene $y = 3$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(2, 1)$",
           "is_correct": false,
           "feedback": "Incorrecto. No verifica la primera ecuación: $2(2)-3 = 1 \\neq 3$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(4, 5)$",
           "is_correct": false,
           "feedback": "Incorrecto. No verifica la segunda ecuación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Para hallar el punto de intersección entre dos curvas en el plano, se igualan sus ecuaciones para resolver el valor de $x$ y luego se calcula el valor de $y$ correspondiente.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Milagros estudia las restricciones presupuestarias para la compra de insumos en Paraná.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "20 remeras y 6 pantalones.",
           "is_correct": false,
           "feedback": "Incorrecto. El costo total sería $20(500) + 6(800) = 14800$, por debajo del presupuesto ejecutado."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "16 remeras y 10 pantalones.",
           "is_correct": true,
           "feedback": "Correcto. Planteamos el sistema: $R + P = 26$ y $500R + 800P = 16000$. Despejando $R = 26 - P$ e insertando: $500(26 - P) + 800P = 16000 \\Rightarrow 13000 - 500P + 800P = 16000 \\Rightarrow 300P = 3000 \\Rightarrow P = 10, R = 16$."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. El costo total sería $15(500) + 11(800) = 16300$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Este problema se resuelve mediante un sistema de dos ecuaciones lineales con dos incógnitas, representando una ecuación la cantidad física de prendas y la otra el valor monetario de la transacción.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "Nicolas resuelve un sistema de tres variables en un análisis de costos logísticos en Corrientes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x = 1, y = 2, z = 3$",
           "is_correct": true,
           "feedback": "Correcto. Verificando en la primera: $1+2+3=6$. En la segunda: $2(1)-2+3=3$. En la tercera: $1+2(2)-3=2$. Las tres igualdades se cumplen simultáneamente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 2, y = 2, z = 2$",
           "is_correct": false,
           "feedback": "Incorrecto. No cumple con la segunda ni la tercera ecuación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 3, y = 2, z = 1$",
           "is_correct": false,
           "feedback": "Incorrecto. En la tercera ecuación da $3 + 4 - 1 = 6 \\neq 2$."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. No satisface la segunda ecuación: $2(1)-1+4 = 5 \\neq 3$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para resolver sistemas de ecuaciones de $3 \\times 3$, se aplican operaciones elementales sobre las filas para reducir el sistema a una forma escalonada, calculando las variables de manera regresiva.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Incorrecto. No cumple con la condición de perpendicularidad."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$k = -3$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signo al operar las pendientes de las rectas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$k = 3$",
           "is_correct": true,
           "feedback": "Correcto. Despejamos las pendientes. Para $r_1$: $y = \\frac{2}{k}x - \\frac{5}{k} \\Rightarrow m_1 = \\frac{2}{k}$. Para $r_2$: $y = -\\frac{3}{2}x + 4 \\Rightarrow m_2 = -\\frac{3}{2}$. Condición: $m_1 \\cdot m_2 = -1 \\Rightarrow \\frac{2}{k} \\cdot \\left(-\\frac{3}{2}\\right) = -1 \\Rightarrow -\\frac{3}{k} = -1 \\Rightarrow k = 3$."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. No verifica la condición de perpendicularidad."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La opción correcta es $k=3$ ya que el producto de las pendientes debe ser igual a $-1$: $m_1 \\cdot m_2 = -1 \\Rightarrow \\frac{2}{k} \\cdot \\left(-\\frac{3}{2}\\right) = -1 \\Rightarrow k = 3$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorrecto. Si $a=2$, el determinante es no nulo y el sistema tiene solución única."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$a = 3$",
           "is_correct": true,
           "feedback": "Correcto. Para que sea incompatible, las rectas deben tener la misma pendiente pero distinta ordenada. Las pendientes son iguales si el determinante de la matriz es 0: $4 \\cdot a - 6 \\cdot 2 = 0 \\Rightarrow 4a = 12 \\Rightarrow a = 3$. Como las ordenadas al origen difieren ($12 \\neq 2 \\cdot 5$), no tiene solución."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$a = -3$",
           "is_correct": false,
           "feedback": "Incorrecto. Daría pendientes distintas."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Si $a=0$, el sistema tiene solución única."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Un sistema de $2 \\times 2$ es incompatible si sus rectas asociadas son paralelas pero no coincidentes. Esto ocurre cuando los coeficientes de las variables son proporcionales entre sí pero no lo son con los términos independientes.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,19 +643,19 @@
       "context": "Martina analiza la región del plano de viabilidad para un proyecto en Jujuy.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(4, 1)$",
           "is_correct": false,
           "feedback": "Incorrecto. Evaluando: $3(4) - 2(1) = 12 - 2 = 10$, que no es menor que 6."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$(3, 0)$",
           "is_correct": false,
           "feedback": "Incorrecto. $3(3) - 2(0) = 9 \\not< 6$."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$(1, 2)$",
           "is_correct": true,
           "feedback": "Correcto. Evaluando: $3(1) - 2(2) = 3 - 4 = -1$, que es estrictamente menor que 6."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. $3(2) - 2(0) = 6$, que no es estrictamente menor a 6."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Una inecuación lineal define un semiplano. Para comprobar si un punto pertenece a esta región, se sustituyen las coordenadas del punto en la expresión y se verifica la veracidad de la desigualdad.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,13 +694,13 @@
           "feedback": "Incorrecto. Esto no coincide con la tasa de variación observada."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$80\\text{ km/h}$",
           "is_correct": true,
           "feedback": "Correcto. Calculamos la tasa de cambio: $\\frac{320 - 80}{4 - 1} = \\frac{240}{3} = 80\\text{ km/h}$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$60\\text{ km/h}$",
           "is_correct": false,
           "feedback": "Incorrecto. Con esa velocidad a las 4 horas estaría en otra posición."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Supera la tasa de cambio real observada."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "En problemas de física con velocidad constante, la velocidad promedio coincide con la pendiente de la recta posición-tiempo, representando la tasa de cambio de la posición respecto del tiempo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. $(0,1)$ y $(0,5)$ no pertenecen a la recta $y=0$ (eje x)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$(-1, 0)$, $(5, 0)$ y $(2, 3)$",
           "is_correct": true,
           "feedback": "Correcto. Los vértices surgen de las intersecciones. Con el eje $x$ ($y=0$): para la primera recta, $0 = x+1 \\Rightarrow x=-1$, dando $(-1,0)$. Para la segunda, $0 = -x+5 \\Rightarrow x=5$, dando $(5,0)$. Entre ambas: $x+1 = -x+5 \\Rightarrow 2x=4 \\Rightarrow x=2, y=3$, dando $(2,3)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(1, 0)$, $(5, 0)$ y $(3, 2)$",
           "is_correct": false,
           "feedback": "Incorrecto. El punto $(1,0)$ no pertenece a la primera recta."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. No forma el triángulo delimitado por las tres rectas dadas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Los vértices de una región delimitada por rectas en el plano corresponden a las soluciones de los sistemas de ecuaciones formados por pares de estas rectas.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Lucía evalúa la validez lógica de un teorema sobre paralelismo y perpendicularidad en La Plata.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Siempre verdadera.",
           "is_correct": true,
           "feedback": "Correcto. En la geometría plana bidimensional, si dos rectas son perpendiculares a una misma tercera recta, ambas tienen pendientes que cumplen con ser opuestas y recíprocas a la de $r_3$. Por ende, tienen la misma pendiente entre sí, lo que las hace paralelas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Siempre falsa.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un teorema básico de la geometría euclidiana plana."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Esto violaría la suma de ángulos internos en la geometría plana."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Este es un teorema de la geometría euclidiana plana. Si $r_1 \\perp r_3$ y $r_2 \\perp r_3$, entonces sus pendientes respectivas $m_1$ y $m_2$ cumplen $m_1 = -1/m_3$ y $m_2 = -1/m_3$. Al igualar se tiene $m_1 = m_2$, lo que garantiza que son paralelas.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Franco analiza los límites de representación de sistemas en el espacio tridimensional en Buenos Aires.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Una recta tridimensional oblicua.",
           "is_correct": false,
           "feedback": "Incorrecto. Una recta en 3D se representa mediante la intersección de dos planos (un sistema de dos ecuaciones lineales)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un plano bidimensional infinito en el espacio.",
           "is_correct": true,
           "feedback": "Correcto. Una ecuación de primer grado con tres incógnitas define algebraicamente un plano bidimensional incrustado en el espacio de tres dimensiones $\\mathbb{R}^3$."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Eso requeriría variables elevadas al cuadrado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "En álgebra lineal y geometría analítica en el espacio, una ecuación lineal de primer grado con tres incógnitas $Ax + By + Cz = D$ es la ecuación general de un plano en $\\mathbb{R}^3$.",
       "difficulty": "10",
       "images": [],

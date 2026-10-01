@@ -59,31 +59,31 @@
       "context": "En un poema sobre el río Magdalena se incluye el siguiente verso: \"El río es una serpiente de plata que abraza las montañas de la patria\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Metáfora, al identificar directamente el río con una serpiente por su forma ondulante y su brillo.",
           "is_correct": true,
           "feedback": "Asocia dos elementos distintos (río y serpiente) sin usar conectores de comparación explícitos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Símil o comparación, porque utiliza el conector explícito \"como\".",
           "is_correct": false,
           "feedback": "No utiliza \"como\", \"parece\" o \"cual\"; por tanto es una metáfora directa y no un símil."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Hipérbole, al exagerar el tamaño de las montañas hasta el infinito.",
           "is_correct": false,
           "feedback": "La expresión identifica la forma del río, no exagera desmesuradamente una cantidad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Onomatopeya, al imitar el sonido del agua al correr.",
           "is_correct": false,
           "feedback": "No imita sonidos naturales con palabras como \"gluglu\" o \"sish\", sino que establece una equivalencia figurada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La metáfora establece una identidad intuitiva entre dos realidades que comparten rasgos semejantes (brillo y sinuosidad).",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "Lea los siguientes versos: \"Las gotas de lluvia bailan / sobre los tejados de barro / y cantan una canción de cuna / para dormitar el campo\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Transmite el movimiento rítmico y alegre con el que caen las gotas sobre el tejado.",
           "is_correct": true,
           "feedback": "Atribuye la acción de bailar para describir visualmente el rebotar rítmico de la lluvia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Indica que las gotas de lluvia tienen pies humanos e instrucción de danza.",
           "is_correct": false,
           "feedback": "Debe interpretarse en sentido figurado poético, no en sentido literal estricto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Afirma que la lluvia destruyó los tejados de las viviendas campesinas.",
           "is_correct": false,
           "feedback": "El tono es de calma y ritmo apacible (\"canción de cuna\"), no de catástrofe."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Explica el ciclo hidrográfico del agua desde las nubes hasta el mar.",
           "is_correct": false,
           "feedback": "Es una descripción lírica y evocadora, no una explicación científica de ciencias naturales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La interpretación del lenguaje figurado exige trascender el significado literal para comprender el valor estético y sensorial.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "Observe la terminación de los siguientes versos de un poema escolar: \"La luna mira la *rama* (1) / donde canta el *jilguero* (2) / abrazado a su *cama* (3) / bajo el claro *lucero* (4)\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Rima cruzada o alternada (ABAB), pues rima el verso 1 con el 3 (rama/cama) y el 2 con el 4 (jilguero/lucero).",
           "is_correct": true,
           "feedback": "El verso 1 rima con el 3 y el verso 2 rima con el 4, formando el patrón alterno ABAB."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Rima pareada (AABB), pues riman los versos seguidos 1 con 2 y 3 con 4.",
           "is_correct": false,
           "feedback": "\"Rama\" no rima con \"jilguero\", por lo que no es un esquema AABB."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Rima abrazada (ABBA), donde el primer verso rima con el cuarto.",
           "is_correct": false,
           "feedback": "\"Rama\" (1) no rima con \"lucero\" (4), descartando la rima abrazada."
@@ -175,7 +175,7 @@
           "feedback": "Existen coincidencias consonantes claras entre los versos impares y pares."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El esquema de rima analizado (ABAB) demuestra la estructuración métrica tradicional en la lírica castellana.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Lea el siguiente poema corto: \"¡Qué tristeza siente el viento / cuando cae la tarde fría! / Llora sombras por los montes / y suspira noche y día\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Melancolía y tristeza contemplativa.",
           "is_correct": true,
           "feedback": "Palabras como \"tristeza\", \"tarde fría\", \"llora\" y \"suspira\" construyen un clima de nostalgia y melancolía."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Euforia y entusiasmo festivo.",
           "is_correct": false,
           "feedback": "El poema no contiene términos asociados al festejo o a la alegría desbordante."
@@ -221,7 +221,7 @@
           "feedback": "La atmósfera es melancólica y poética, no de terror o espanto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El tono poético o voz lírica refleja la emoción predominante que sostiene la atmósfera estética de la obra.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "Lea los siguientes versos de un poema de la Costa Caribe colombiana: \"El sol es un tambor de fuego / que despierta la cumbia en la playa\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Porque su luz y calor intensos marcan el ritmo del día soleado en el Caribe con la energía del tambor.",
           "is_correct": true,
           "feedback": "Vincula el calor ardiente del sol con el ritmo festivo y la calidez del instrumento autóctono."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque el sol emite retumbos acústicos que se escuchan a miles de kilómetros.",
           "is_correct": false,
           "feedback": "El sol no emite un sonido de tambor audible; la relación es poética y sensorial."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque el sol está construido de madera de balsa y cuero de chivo.",
           "is_correct": false,
           "feedback": "Es una interpretación literal disparatada que ignora el sentido figurado del poema."
@@ -267,7 +267,7 @@
           "feedback": "La imagen celebra el paisaje y la cultura caribeña, no constituye una denuncia ecológica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las metáforas regionales integran elementos del entorno natural y cultural para potenciar la riqueza expresiva del texto lírico.",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Compare las terminaciones de estos dos pares de versos: Par 1: \"Canta la *cotorra* / sobre la *porra*\". Par 2: \"Canta la *cotorra* / en la *finca*\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El Par 1 posee rima consonante perfecta (-orra), mientras que el Par 2 no presenta rima (versos libres).",
           "is_correct": true,
           "feedback": "Par 1 rima en \"-orra\" totalmente; Par 2 termina en palabras con sonidos completamente distintos (-orra / -inca)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El Par 1 es un texto en prosa y el Par 2 es un poema dramático.",
           "is_correct": false,
           "feedback": "Ambos pares son estructuras en verso; la diferencia estriba únicamente en la presencia o ausencia de rima."
@@ -313,7 +313,7 @@
           "feedback": "Al recitarlos se percibe con claridad el eco fónico en el Par 1 frente a la ausencia en el Par 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La presencia de rima aporta musicalidad y ritmo cadencioso a la recitación de los poemas.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "Un crítico literario sostiene: \"Los poemas infantiles que emplean rima y metáforas sencillas ayudan a desarrollar la conciencia fonológica y la sensibilidad estética en los niños\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La rima ayuda a identificar patrones de sonido en las palabras y la metáfora ejercita el pensamiento abstracto y la creatividad.",
           "is_correct": true,
           "feedback": "La discriminación de sonidos finales favorece la fonología y la metáfora estimula la imaginación interpretativa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los poemas sustituyen la necesidad de aprender a sumar y restar en las clases de matemáticas.",
           "is_correct": false,
           "feedback": "La lírica promueve competencias del lenguaje, pero no reemplaza el pensamiento lógico-matemático."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La poesía obliga a los estudiantes a memorizar diccionarios completos de gramática.",
           "is_correct": false,
           "feedback": "La poesía busca el disfrute estético y expresivo, no la memorización mecánica de tratados gramaticales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Todos los textos de ciencias naturales deberían escribirse en verso con rima obligatoria.",
           "is_correct": false,
           "feedback": "Los textos científicos requieren claridad expositiva y objetividad, no restricciones métricas líricas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluar el impacto pedagógico de la lírica implica reconocer cómo la musicalidad y el lenguaje figurado estimulan el desarrollo cognitivo e imaginativo.",
       "difficulty": "10",
       "images": [],

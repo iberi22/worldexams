@@ -13,13 +13,13 @@
       "context": "In a fifth-grade class in Medellin, the teacher shows flashcards of sports like soccer, swimming, and basketball.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "\"Can\".",
           "is_correct": true,
           "feedback": "\"Can\" expresses ability in English (e.g., I can swim)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "\"Must\".",
           "is_correct": false,
           "feedback": "\"Must\" expresses obligation, not ability."
@@ -37,7 +37,7 @@
           "feedback": "\"May\" is mainly used for permission or possibility, not ability."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Reconocer el modal \"can\" como el verbo que expresa habilidad en inglés.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "Read: \"Camila can play soccer very well. She cannot play tennis because she does not have a racket.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Because she does not have a racket, so she is not able to play tennis.",
           "is_correct": true,
           "feedback": "\"Cannot\" expresses lack of ability or the impossibility of doing something."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Because tennis is a very easy sport.",
           "is_correct": false,
           "feedback": "Difficulty is not mentioned; the reason is the missing racket."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Because she wants to play soccer all day.",
           "is_correct": false,
           "feedback": "The text focuses on the racket, not on her preferences."
@@ -83,7 +83,7 @@
           "feedback": "The text does not say tennis is only for adults."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Comprender el uso de \"can\" y \"cannot\" para hablar de habilidades reales.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "A student in Cali wants to describe what his friends can do: \"Mateo can run fast. Laura can swim. Juan cannot ride a bike.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Juan cannot ride a bike.",
           "is_correct": true,
           "feedback": "\"Cannot\" shows that Juan does not have the ability to ride a bike."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Juan can ride a bike.",
           "is_correct": false,
           "feedback": "According to the text, Juan cannot ride a bike."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Juan cans ride a bike.",
           "is_correct": false,
           "feedback": "\"Can\" does not take a final -s; we say \"Juan can ride\"."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Juan don't can ride a bike.",
           "is_correct": false,
           "feedback": "The correct negative is \"cannot\" or \"can't\", not \"don't can\"."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aplicar la forma negativa \"cannot\" para describir lo que alguien no sabe hacer.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "At a sports day in Bucaramanga, a teacher asks the students: \"Can you play basketball? Can you swim? Can you ride a bike?\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "No, I can't.",
           "is_correct": true,
           "feedback": "\"No, I can't\" is the standard short negative answer with \"can\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Yes, I can't.",
           "is_correct": false,
           "feedback": "\"Yes\" contradicts the negative \"can't\"; they cannot be used together."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No, I don't can.",
           "is_correct": false,
           "feedback": "\"Don't can\" is not grammatical in English."
@@ -175,7 +175,7 @@
           "feedback": "The correct negative is \"cannot\" or \"can't\", not \"not can\"."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicar respuestas cortas afirmativas y negativas con \"can\" en conversaciones sencillas.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "Read: \"My sister is a good athlete. She can run, jump and play volleyball. She cannot ski because there are no mountains near our town.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "play volleyball.",
           "is_correct": true,
           "feedback": "The text says she can play volleyball, so this option fits the sentence."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "ski.",
           "is_correct": false,
           "feedback": "The sentence already says she cannot ski, so this option contradicts it."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "fly a plane.",
           "is_correct": false,
           "feedback": "Flying a plane is not mentioned among her abilities."
@@ -221,7 +221,7 @@
           "feedback": "Writing a novel is not related to the sports abilities described."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicar la información del texto para completar oraciones con \"can\" y \"cannot\".",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "Compare: \"Andres can play soccer, but he cannot swim. Mariana can swim and play tennis, but she cannot ride a horse.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Both can play at least one sport, but their abilities are different.",
           "is_correct": true,
           "feedback": "Andres can play soccer and Mariana can swim and play tennis; both are able to do sports."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Neither of them can do any sport.",
           "is_correct": false,
           "feedback": "Both can do at least one sport, so this is incorrect."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Both can ride a horse.",
           "is_correct": false,
           "feedback": "Only Mariana can ride a horse; Andres is not mentioned as able to."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Both cannot swim.",
           "is_correct": false,
           "feedback": "Mariana can swim, so it is not true that both cannot swim."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analizar habilidades comunes y diferentes usando \"can\" y \"cannot\".",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Read: \"Daniel can play basketball at school. Daniel cannot play tennis because he does not have time to practice.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Daniel has the ability to play basketball, but lacks time to practice tennis, so he cannot play it well.",
           "is_correct": true,
           "feedback": "The text shows ability for basketball and a practical limitation for tennis."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Daniel is unable to do any kind of sport.",
           "is_correct": false,
           "feedback": "The text clearly states Daniel can play basketball."
@@ -313,7 +313,7 @@
           "feedback": "The text mentions that he does have time issues, not lack of interest."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Analizar causas de habilidad o falta de habilidad según el contexto presentado.",
       "difficulty": "8",
       "images": [],

@@ -13,19 +13,19 @@
       "context": "Trabajo, Energía Mecánica y Conservación - Caso N° 1.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Constituye un principio fundamental de Física - Mecánica que explica el comportamiento del sistema según las leyes de la naturaleza.",
           "is_correct": true,
           "feedback": "Correcto. La definición de $Trabajo Mecánico$ corresponde con los principios teóricos de Física - Mecánica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Representa un fenómeno aislado sin relación con las leyes de conservación en Física.",
           "is_correct": false,
           "feedback": "Incorrecto. El concepto de $Trabajo Mecánico$ está íntimamente ligado a las leyes de Física."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es una magnitud exclusivamente teórica que no se puede medir experimentalmente en el laboratorio.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una propiedad medible y verificable."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Se aplica de forma general bajo condiciones estándar MKS."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El estudio de Trabajo Mecánico es clave para comprender los fundamentos teóricos y prácticos de Física - Mecánica.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Trabajo, Energía Mecánica y Conservación - Caso N° 4.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El sistema responde de forma proporcional a las variables involucradas manteniendo la consistencia teórica de $Conservación de la Energía$.",
           "is_correct": true,
           "feedback": "Correcto. La respuesta del sistema refleja la ley física/química de $Conservación de la Energía$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El sistema permanece completamente inerte sin registrar variación alguna.",
           "is_correct": false,
           "feedback": "Incorrecto. Las variables se modifican según las ecuaciones del modelo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se produce una pérdida total de masa violando las leyes de conservación.",
           "is_correct": false,
           "feedback": "Incorrecto. Las leyes de conservación se cumplen siempre."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. El fenómeno sigue un patrón determinista bien definido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las observaciones experimentales confirman las predicciones del modelo teórico de Conservación de la Energía.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Trabajo, Energía Mecánica y Conservación - Caso N° 6.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Se aplica la ecuación correspondiente a $Trabajo Mecánico$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Física.",
           "is_correct": true,
           "feedback": "Correcto. Refleja la formulación correcta para $Trabajo Mecánico$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida.",
           "is_correct": false,
           "feedback": "Incorrecto. Las unidades deben ser consistentes en el sistema SI."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Las constantes del sistema tienen valores finitos y definidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La aplicación cuantitativa de Trabajo Mecánico requiere el uso riguroso de las ecuaciones de Física - Mecánica.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "Trabajo, Energía Mecánica y Conservación - Caso N° 8.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Se aplica la ecuación correspondiente a $Energía Potencial Gravitatoria$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Física.",
           "is_correct": true,
           "feedback": "Correcto. Refleja la formulación correcta para $Energía Potencial Gravitatoria$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida.",
           "is_correct": false,
           "feedback": "Incorrecto. Las unidades deben ser consistentes en el sistema SI."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Las constantes del sistema tienen valores finitos y definidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La aplicación cuantitativa de Energía Potencial Gravitatoria requiere el uso riguroso de las ecuaciones de Física - Mecánica.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,31 +418,31 @@
       "context": "Trabajo, Energía Mecánica y Conservación - Caso N° 10.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Se aplica la ecuación correspondiente a $Potencia Eléctrica/Mecánica$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Física.",
           "is_correct": true,
           "feedback": "Correcto. Refleja la formulación correcta para $Potencia Eléctrica/Mecánica$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida.",
           "is_correct": false,
           "feedback": "Incorrecto. Las unidades deben ser consistentes en el sistema SI."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se ignora la influencia de las condiciones iniciales del experimento.",
           "is_correct": false,
           "feedback": "Incorrecto. Las condiciones iniciales determinan la solución del sistema."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Se asume que la constante del proceso es igual a cero en todo instante.",
           "is_correct": false,
           "feedback": "Incorrecto. Las constantes del sistema tienen valores finitos y definidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La aplicación cuantitativa de Potencia Eléctrica/Mecánica requiere el uso riguroso de las ecuaciones de Física - Mecánica.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,19 +463,19 @@
       "context": "Trabajo, Energía Mecánica y Conservación - Caso N° 11.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El cambio en las variables modifica el estado final según las restricciones impuestas por $Trabajo Mecánico$ y las leyes de Física.",
           "is_correct": true,
           "feedback": "Correcto. El análisis deductivo confirma el impacto directo sobre el estado final."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El estado final es independiente de cualquier cambio realizado en el estado inicial.",
           "is_correct": false,
           "feedback": "Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance.",
           "is_correct": false,
           "feedback": "Incorrecto. El balance se mantiene bajo las leyes de conservación."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. No se puede crear masa ni energía de la nada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El análisis analítico de Trabajo Mecánico demuestra la coherencia interna de los modelos en Física - Mecánica.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,31 +508,31 @@
       "context": "Trabajo, Energía Mecánica y Conservación - Caso N° 12.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El cambio en las variables modifica el estado final según las restricciones impuestas por $Energía Cinética$ y las leyes de Física.",
           "is_correct": true,
           "feedback": "Correcto. El análisis deductivo confirma el impacto directo sobre el estado final."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El estado final es independiente de cualquier cambio realizado en el estado inicial.",
           "is_correct": false,
           "feedback": "Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance.",
           "is_correct": false,
           "feedback": "Incorrecto. El balance se mantiene bajo las leyes de conservación."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La energía o materia total aumenta exponencialmente sin fuente externa.",
           "is_correct": false,
           "feedback": "Incorrecto. No se puede crear masa ni energía de la nada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El análisis analítico de Energía Cinética demuestra la coherencia interna de los modelos en Física - Mecánica.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Trabajo, Energía Mecánica y Conservación - Caso N° 14.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El cambio en las variables modifica el estado final según las restricciones impuestas por $Conservación de la Energía$ y las leyes de Física.",
           "is_correct": true,
           "feedback": "Correcto. El análisis deductivo confirma el impacto directo sobre el estado final."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El estado final es independiente de cualquier cambio realizado en el estado inicial.",
           "is_correct": false,
           "feedback": "Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. No se puede crear masa ni energía de la nada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El análisis analítico de Conservación de la Energía demuestra la coherencia interna de los modelos en Física - Mecánica.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Trabajo, Energía Mecánica y Conservación - Caso N° 15.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El cambio en las variables modifica el estado final según las restricciones impuestas por $Potencia Eléctrica/Mecánica$ y las leyes de Física.",
           "is_correct": true,
           "feedback": "Correcto. El análisis deductivo confirma el impacto directo sobre el estado final."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El estado final es independiente de cualquier cambio realizado en el estado inicial.",
           "is_correct": false,
           "feedback": "Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. No se puede crear masa ni energía de la nada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El análisis analítico de Potencia Eléctrica/Mecánica demuestra la coherencia interna de los modelos en Física - Mecánica.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Trabajo, Energía Mecánica y Conservación - Caso N° 17.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Energía Cinética$.",
           "is_correct": true,
           "feedback": "Correcto. La evaluación fundamentada confirma la solidez del modelo para $Energía Cinética$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa.",
           "is_correct": false,
           "feedback": "Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. El modelo respeta el límite físico del 100% de eficiencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La evaluación crítica de modelos en Física - Mecánica exige verificar el cumplimiento de los límites teóricos de Energía Cinética.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,19 +778,19 @@
       "context": "Trabajo, Energía Mecánica y Conservación - Caso N° 18.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Energía Potencial Gravitatoria$.",
           "is_correct": true,
           "feedback": "Correcto. La evaluación fundamentada confirma la solidez del modelo para $Energía Potencial Gravitatoria$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa.",
           "is_correct": false,
           "feedback": "Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El modelo sólo funciona si se desestiman las unidades del Sistema Internacional.",
           "is_correct": false,
           "feedback": "Incorrecto. Debe operar de forma consistente en el Sistema Internacional."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. El modelo respeta el límite físico del 100% de eficiencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La evaluación crítica de modelos en Física - Mecánica exige verificar el cumplimiento de los límites teóricos de Energía Potencial Gravitatoria.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,31 +823,31 @@
       "context": "Trabajo, Energía Mecánica y Conservación - Caso N° 19.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Conservación de la Energía$.",
           "is_correct": true,
           "feedback": "Correcto. La evaluación fundamentada confirma la solidez del modelo para $Conservación de la Energía$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa.",
           "is_correct": false,
           "feedback": "Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El modelo sólo funciona si se desestiman las unidades del Sistema Internacional.",
           "is_correct": false,
           "feedback": "Incorrecto. Debe operar de forma consistente en el Sistema Internacional."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El modelo presenta inconsistencias graves al asumir que el rendimiento puede superar el 100%.",
           "is_correct": false,
           "feedback": "Incorrecto. El modelo respeta el límite físico del 100% de eficiencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La evaluación crítica de modelos en Física - Mecánica exige verificar el cumplimiento de los límites teóricos de Conservación de la Energía.\n\n---",
       "difficulty": "10",
       "images": [],

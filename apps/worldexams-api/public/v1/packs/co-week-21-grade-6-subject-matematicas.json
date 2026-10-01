@@ -13,13 +13,13 @@
       "context": "En una clase de matemáticas en Bogotá la profesora escribe la letra n en una expresión.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Un valor desconocido o que puede variar, llamado variable",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: la variable ocupa el lugar de un número que no se conoce o que cambia según la situación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Siempre el número 14, por su posición en el abecedario",
           "is_correct": false,
           "feedback": "Explica el error conceptual: la letra no vale por su posición en el abecedario; representa un valor variable."
@@ -37,7 +37,7 @@
           "feedback": "Explica el error conceptual: el resultado se obtiene al final; la letra es un dato de partida, no la respuesta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La variable es el corazón del álgebra: una letra que representa un número desconocido o cambiante. Entenderla permite pasar de la aritmética con números fijos al lenguaje general del álgebra.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "En una tienda de Medellín el tendero calcula \"el doble de un número de panelas\" y lo llama 2n.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "2n",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: el doble significa multiplicar por 2, y en álgebra 2 × n se escribe 2n."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "n + 2",
           "is_correct": false,
           "feedback": "Explica el error conceptual: eso es el número aumentado en 2, no duplicado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "n²",
           "is_correct": false,
           "feedback": "Explica el error conceptual: eso es el número al cuadrado (n × n), no el doble."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "2 + n + 2",
           "is_correct": false,
           "feedback": "Explica el error conceptual: agrega doses en vez de multiplicar la cantidad por 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "\"El doble de n\" se traduce como 2 × n = 2n. Cada palabra del lenguaje común (doble, triple, mitad) tiene una operación asociada que debe identificarse al traducir.",
       "difficulty": "4",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En Tunja un agricultor reparte la mitad de su cosecha x entre sus hijos y aparta 3 bultos para la casa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "x/2 - 3 dividido entre 2",
           "is_correct": false,
           "feedback": "Explica el error conceptual: esta opción describe mal el reparto; la expresión correcta descuenta primero y luego divide."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "x - 3",
           "is_correct": false,
           "feedback": "Explica el error conceptual: resta los 3 bultos pero no divide entre los dos hijos."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "x/2 + 3",
           "is_correct": false,
           "feedback": "Explica el error conceptual: suma los bultos apartados en vez de restarlos antes de repartir."
         },
         {
-          "letter": "D",
+          "letter": "A",
           "text": "(x - 3)/2",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: primero se apartan los 3 bultos (x - 3) y el resto se divide entre 2."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": "El orden de las operaciones importa al traducir: primero se aparta (x − 3) y luego se reparte (÷ 2). Los paréntesis en (x − 3)/2 conservan ese orden correcto.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En Bucaramanga un bus cobra el pasaje con la expresión 3x + 2, donde x vale 5 (en miles de COP) por un recargo especial.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "17 (miles de COP)",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: 3 × 5 + 2 = 15 + 2 = 17."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "25 (miles de COP)",
           "is_correct": false,
           "feedback": "Explica el error conceptual: suma 3 + 2 y multiplica por 5, ignorando la jerarquía de operaciones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "16 (miles de COP)",
           "is_correct": false,
           "feedback": "Explica el error conceptual: calcula 3 × 5 = 15 pero olvida sumar el 2 final."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "10 (miles de COP)",
           "is_correct": false,
           "feedback": "Explica el error conceptual: multiplica 3 × 2 y suma x, alterando el orden de la expresión."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluar es reemplazar la variable y operar con jerarquía: primero la multiplicación (3 × 5 = 15) y luego la suma (15 + 2 = 17). La jerarquía de operaciones no cambia en álgebra.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En Manizales un juego da puntos con la expresión 2n + 3. Un jugador quiere llegar a 11 puntos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "n = 4, porque 2 × 4 + 3 = 11",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: al reemplazar n = 4 se obtiene 8 + 3 = 11, justo la meta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "n = 3, porque 2 × 3 + 3 = 11",
           "is_correct": false,
           "feedback": "Explica el error conceptual: 2 × 3 + 3 = 9, no alcanza la meta de 11 puntos."
@@ -313,7 +313,7 @@
           "feedback": "Explica el error conceptual: confunde el valor buscado de n con el resultado de la expresión."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Hallar n es invertir la expresión: si 2n + 3 = 11, entonces 2n = 8 y n = 4. Verificar reemplazando confirma la solución, estrategia base para resolver ecuaciones.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En Pereira el triple de la edad de Ana menos 2 años es igual a 10 años.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "4 años, porque 3 × 4 - 2 = 10",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: la ecuación 3e - 2 = 10 da 3e = 12 y e = 4, que verifica la igualdad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3 años, porque 3 × 3 - 2 = 10",
           "is_correct": false,
           "feedback": "Explica el error conceptual: 3 × 3 - 2 = 7, no cumple la condición de 10 años."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "6 años, porque 3 × 6 - 2 = 10",
           "is_correct": false,
           "feedback": "Explica el error conceptual: 3 × 6 - 2 = 16, supera el valor indicado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "10 años, porque es el resultado",
           "is_correct": false,
           "feedback": "Explica el error conceptual: 10 es el resultado de la expresión, no la edad buscada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Traducir el enunciado da 3e − 2 = 10; despejar: 3e = 12, e = 4. El ciclo completo (traducir → despejar → verificar) es el método algebraico para problemas verbales.",
       "difficulty": "8",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "En Pasto una mamá compra 3 cuadernos a c pesos cada uno y 2 lápices de 2.000 COP cada uno. El cuaderno vale 5.000 COP.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "3c + 4000, total 19.000 COP",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: 3 cuadernos (3c) más 2 × 2.000 = 4.000; con c = 5.000: 15.000 + 4.000 = 19.000."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3c + 2000, total 17.000 COP",
           "is_correct": false,
           "feedback": "Explica el error conceptual: cuenta un solo lápiz en vez de los dos comprados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "5c, total 25.000 COP",
           "is_correct": false,
           "feedback": "Explica el error conceptual: suma cantidades de artículos distintos como si tuvieran el mismo precio."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "3c × 4000, total 60.000.000 COP",
           "is_correct": false,
           "feedback": "Explica el error conceptual: multiplica los dos grupos en vez de sumarlos, obteniendo un valor absurdo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Modelar combina términos con variable (3c) y constantes (4000): total = 3c + 4000. Evaluar con c = 5000 da 19.000 COP, cerrando el ciclo entre situación real, modelo y respuesta.",
       "difficulty": "10",
       "images": [],

@@ -13,19 +13,19 @@
       "context": "En Bogotá, en clase de geometría se estudian las leyes de resolución de triángulos oblicuángulos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\frac{a}{\\operatorname{sen} A} = \\frac{b}{\\operatorname{sen} B} = \\frac{c}{\\operatorname{sen} C}$",
           "is_correct": true,
           "feedback": "Correcto. Cada lado es proporcional al seno de su ángulo opuesto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{\\operatorname{sen} A}{a} = \\frac{b}{\\operatorname{sen} B}$",
           "is_correct": false,
           "feedback": "Incorrecto. La relación debe mantener el mismo orden lado-seno en todas las razones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$a^2 = b^2 + c^2 - 2bc\\cos A$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la ley del coseno, no la de los senos."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. No se relacionan lados con ángulos directamente, sino con senos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ley de los senos establece que la razón entre cada lado y el seno de su ángulo opuesto es constante: $\\frac{a}{\\operatorname{sen} A} = \\frac{b}{\\operatorname{sen} B} = \\frac{c}{\\operatorname{sen} C}$.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "En Medellín, se repasa la ley del coseno para resolver triángulos cuando se conocen dos lados y el ángulo comprendido.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$c^2 = a^2 + b^2 - 2ab\\cos C$",
           "is_correct": true,
           "feedback": "Correcto. El cuadrado del lado buscado es la suma de cuadrados menos el doble producto por el coseno del ángulo opuesto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$c^2 = a^2 + b^2 + 2ab\\cos C$",
           "is_correct": false,
           "feedback": "Incorrecto. El signo del término con coseno es negativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$c^2 = a^2 - b^2 - 2ab\\cos C$",
           "is_correct": false,
           "feedback": "Incorrecto. La suma de cuadrados es $a^2 + b^2$."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. La ley involucra cuadrados de los lados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ley del coseno generaliza el teorema de Pitágoras: $c^2 = a^2 + b^2 - 2ab\\cos C$, donde $C$ es el ángulo opuesto al lado $c$.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En Cali, un estudiante debe elegir qué ley usar según los datos disponibles del triángulo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Cuando se conocen dos ángulos y un lado, o dos lados y un ángulo opuesto.",
           "is_correct": true,
           "feedback": "Correcto. La ley de los senos relaciona ángulos con lados opuestos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Solo cuando el triángulo es rectángulo.",
           "is_correct": false,
           "feedback": "Incorrecto. Para triángulos rectángulos basta la trigonometría básica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cuando se conocen los tres lados.",
           "is_correct": false,
           "feedback": "Incorrecto. Con tres lados conviene la ley del coseno."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Ese caso (LAL) se resuelve con la ley del coseno."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ley de los senos es ideal para los casos ALA y LLA (ángulo-lado-ángulo y lado-lado-ángulo opuesto), donde intervienen ángulos y lados opuestos.",
       "difficulty": "4",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En Bucaramanga, un triángulo tiene lados $a = 7$ cm, $b = 9$ cm y el ángulo comprendido $C = 60^\\circ$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\sqrt{67} \\approx 8.19$ cm",
           "is_correct": true,
           "feedback": "Correcto. $c^2 = 49 + 81 - 2(7)(9)\\cos 60^\\circ = 130 - 63 = 67$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sqrt{130} \\approx 11.40$ cm",
           "is_correct": false,
           "feedback": "Incorrecto. No restaste el término $2ab\\cos C$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\sqrt{60} \\approx 7.75$ cm",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste en vez de restar el término con coseno."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\sqrt{73} \\approx 8.54$ cm",
           "is_correct": false,
           "feedback": "Incorrecto. Aplicaste mal el producto de los lados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "$c^2 = 7^2 + 9^2 - 2(7)(9)\\cos 60^\\circ = 49 + 81 - 63 = 67$, por lo que $c = \\sqrt{67} \\approx 8.19$ cm.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En Pereira, un triángulo tiene ángulos $A = 50^\\circ$, $B = 60^\\circ$ y lado $c = 12$ cm.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\frac{12\\operatorname{sen} 50^\\circ}{\\operatorname{sen} 70^\\circ} \\approx 9.78$ cm",
           "is_correct": true,
           "feedback": "Correcto. $C = 180^\\circ - 50^\\circ - 60^\\circ = 70^\\circ$ y $a = \\frac{c\\operatorname{sen} A}{\\operatorname{sen} C}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{12\\operatorname{sen} 60^\\circ}{\\operatorname{sen} 70^\\circ} \\approx 11.06$ cm",
           "is_correct": false,
           "feedback": "Incorrecto. Usaste el ángulo $B$ en vez de $A$."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. No dividiste entre el seno del ángulo opuesto a $c$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "$C = 180^\\circ - 50^\\circ - 60^\\circ = 70^\\circ$. Por la ley de los senos, $a = \\frac{12\\operatorname{sen} 50^\\circ}{\\operatorname{sen} 70^\\circ} \\approx 9.78$ cm.",
       "difficulty": "6",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "En Cúcuta, un triángulo tiene lados $a = 8$ cm, $b = 11$ cm y $c = 15$ cm.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Aproximadamente $103.1^\\circ$",
           "is_correct": true,
           "feedback": "Correcto. $\\cos C = \\frac{64 + 121 - 225}{2(8)(11)} = -\\frac{40}{176} \\approx -0.227$, luego $C \\approx 103.1^\\circ$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Aproximadamente $76.9^\\circ$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese sería el ángulo complementario; aquí el coseno es negativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Aproximadamente $90^\\circ$",
           "is_correct": false,
           "feedback": "Incorrecto. No cumple Pitágoras: $15^2 \\neq 8^2 + 11^2$."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. El coseno calculado no corresponde a $120^\\circ$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "$\\cos C = \\frac{8^2 + 11^2 - 15^2}{2(8)(11)} = \\frac{64 + 121 - 225}{176} = -\\frac{40}{176} \\approx -0.227$, por lo que $C \\approx 103.1^\\circ$ (ángulo obtuso).",
       "difficulty": "8",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "En Pasto, un lote triangular tiene lados de $12$ m y $15$ m con un ángulo comprendido de $120^\\circ$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$45\\sqrt{3} \\approx 77.94$ m²",
           "is_correct": true,
           "feedback": "Correcto. Área $= \\frac{1}{2}ab\\operatorname{sen} C = \\frac{1}{2}(12)(15)\\operatorname{sen} 120^\\circ = 90 \\cdot \\frac{\\sqrt{3}}{2} = 45\\sqrt{3}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$90\\sqrt{3} \\approx 155.88$ m²",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste el factor $\\frac{1}{2}$."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. Aplicaste la fórmula sin el seno del ángulo comprendido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El área de un triángulo es $\\frac{1}{2}ab\\operatorname{sen} C = \\frac{1}{2}(12)(15)\\operatorname{sen} 120^\\circ = 90 \\cdot \\frac{\\sqrt{3}}{2} = 45\\sqrt{3} \\approx 77.94$ m².",
       "difficulty": "10",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "En Ibagué, un triángulo tiene lados de $5$ cm, $6$ cm y $7$ cm.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Aproximadamente $78.5^\\circ$",
           "is_correct": true,
           "feedback": "Correcto. $\\cos C = \\frac{25 + 36 - 49}{2(5)(6)} = \\frac{12}{60} = 0.2$, luego $C \\approx 78.46^\\circ$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Aproximadamente $60^\\circ$",
           "is_correct": false,
           "feedback": "Incorrecto. El triángulo no es equilátero."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. El coseno calculado es positivo, por lo que el ángulo es agudo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El ángulo mayor se opone al lado mayor ($7$ cm). $\\cos C = \\frac{5^2 + 6^2 - 7^2}{2(5)(6)} = \\frac{12}{60} = 0.2$, de donde $C \\approx 78.46^\\circ$.",
       "difficulty": "10",
       "images": [],
@@ -519,13 +519,13 @@
       "context": "En Villavicencio, un topógrafo mide dos lados de un terreno de $200$ m y $300$ m. El ángulo opuesto al lado de $200$ m es $40^\\circ$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Existen dos terrenos posibles con esos datos (caso ambiguo).",
           "is_correct": true,
           "feedback": "Correcto. $b\\operatorname{sen} A = 300\\operatorname{sen} 40^\\circ \\approx 192.8 < 200 < 300$, por lo que hay dos triángulos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Solo existe un terreno posible.",
           "is_correct": false,
           "feedback": "Incorrecto. Las condiciones generan el caso ambiguo con dos soluciones."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto. No hay ninguna condición de perpendicularidad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En el caso LLA, con $b\\operatorname{sen} A < a < b$ ($192.8 < 200 < 300$) existen dos triángulos posibles; por eso el topógrafo debe medir otro dato para fijar el terreno.",
       "difficulty": "10",
       "images": [],

@@ -25,19 +25,19 @@
           "feedback": "Incorrecto. La mediana es el valor central que divide al conjunto ordenado en dos partes iguales."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "La moda.",
           "is_correct": true,
           "feedback": "Correcto. Por definición, la moda es el parámetro estadístico que corresponde al valor que registra la mayor frecuencia absoluta en la distribución."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La desviación estándar.",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es una medida de dispersión, no de tendencia central."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La moda es la medida de tendencia central que identifica al valor o categoría más común o frecuente dentro de una muestra estadística.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -109,25 +109,25 @@
           "feedback": "Incorrecto. Los valores de la variable discreta se representan en el eje horizontal."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La frecuencia absoluta (o relativa) de cada valor.",
           "is_correct": true,
           "feedback": "Correcto. La altura de cada barra en el eje vertical representa cuántas veces se repite el valor correspondiente en la muestra (frecuencia)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El acumulado acumulativo de la varianza.",
           "is_correct": false,
           "feedback": "Incorrecto. La varianza no se grafica en barras de distribución simple."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El desvío estándar de los datos.",
           "is_correct": false,
           "feedback": "Incorrecto. El desvío no se representa directamente en la altura de las barras individuales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En un diagrama de barras o de columnas, el eje horizontal contiene los valores discretos de la variable de estudio, mientras que el eje vertical representa las frecuencias absolutas o relativas asociadas.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -154,25 +154,25 @@
           "feedback": "Incorrecto. Los datos pueden ser cualquier valor constante positivo o negativo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Que todos los datos de la muestra son idénticos (valores constantes).",
           "is_correct": true,
           "feedback": "Correcto. La desviación estándar mide la dispersión de los datos respecto a la media. Si no hay dispersión ($\\sigma=0$), significa que todos los datos coinciden exactamente con el promedio, por lo que son todos idénticos entre sí."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que se cometió un error grave en la recolección de los datos.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un resultado perfectamente válido si no existe variabilidad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que la distribución de frecuencias es perfectamente simétrica y bimodal.",
           "is_correct": false,
           "feedback": "Incorrecto. No implica bimodilidad."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La desviación estándar mide la dispersión o variabilidad. Si su valor es cero, no existe ningún tipo de dispersión, lo que significa que todas las observaciones individuales toman exactamente el mismo valor constante.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -205,19 +205,19 @@
           "feedback": "Incorrecto. Si la cantidad es par, no hay un único dato central, sino dos."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Calcular el promedio de los dos datos centrales del conjunto previamente ordenado de menor a mayor.",
           "is_correct": true,
           "feedback": "Correcto. Si hay un número par de datos, la mediana es el promedio aritmético de las dos observaciones centrales ordenadas de menor a mayor."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Dividir la suma total de las observaciones por la mitad del número de elementos.",
           "is_correct": false,
           "feedback": "Incorrecto. Esto no se asocia al cálculo de la mediana."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Cuando el tamaño muestral $N$ es par, el conjunto ordenado tiene dos valores centrales en las posiciones $N/2$ y $N/2 + 1$. La mediana se define como el promedio aritmético de estos dos datos.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Incorrecto. Se intercambiaron valores de forma errónea."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Promedio = $60$, Mediana = $50$",
           "is_correct": true,
           "feedback": "Correcto. Promedio: $\\frac{40+50+60+40+110}{5} = \\frac{300}{5} = 60\\text{ mm}$. Para la mediana, ordenamos: $40, 40, 50, 60, 110$. El valor central de la lista es 50."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Promedio = $50$, Mediana = $50$",
           "is_correct": false,
           "feedback": "Incorrecto. El cálculo del promedio está equivocado."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. 40 es la moda, no la mediana."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La media es la suma de los datos dividido entre el total ($300/5 = 60$). Para hallar la mediana, se ordena el conjunto: $\\{40, 40, 50, 60, 110\\}$; al ser $N=5$ impar, la mediana es el dato de la tercera posición, es decir, $50$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Camila analiza el consumo diario de energía eléctrica en hogares de Mendoza a partir de datos agrupados.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$100$",
           "is_correct": false,
           "feedback": "Incorrecto. Esto es la amplitud del intervalo de clase."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$250$",
           "is_correct": true,
           "feedback": "Correcto. La marca de clase es el punto medio del intervalo: $x_i = \\frac{lim_{\\text{inferior}} + lim_{\\text{superior}}}{2} = \\frac{200+300}{2} = 250$."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Esto representa el extremo superior."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La marca de clase es el valor representativo de un intervalo en una distribución agrupada. Se calcula determinando el valor promedio aritmético de sus límites inferior y superior.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,25 +424,25 @@
           "feedback": "Incorrecto. Estos son los valores extremos de la muestra (mínimo y máximo)."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$Q_1 = 4, Q_3 = 12$",
           "is_correct": true,
           "feedback": "Correcto. La mediana ($Q_2$) es 8. El primer cuartil es la mediana de la mitad inferior $\\{2, 4, 5\\}$, que es 4. El tercer cuartil es la mediana de la mitad superior $\\{10, 12, 15\\}$, que es 12."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$Q_1 = 5, Q_3 = 10$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de posición en la división por cuartiles."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$Q_1 = 4, Q_3 = 10$",
           "is_correct": false,
           "feedback": "Incorrecto. El cuartil superior está subestimado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Los cuartiles dividen la distribución ordenada en cuatro segmentos equivalentes. Al ser $N=7$, calculamos $Q_2 = 8$. De allí, $Q_1$ es el punto medio inferior ($4$) y $Q_3$ es el punto medio superior ($12$).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Julieta analiza la distribución de salarios en una pyme en Neuquén mediante un diagrama de caja.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\$50000$, representa la diferencia entre la mediana y el cuartil inferior.",
           "is_correct": false,
           "feedback": "Incorrecto. El rango intercuartílico involucra a los cuartiles extremos de la caja."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\$150000$, representa la dispersión del $50\\%$ central de los salarios de los empleados.",
           "is_correct": true,
           "feedback": "Correcto. El IQR se calcula como $Q_3 - Q_1 = 300000 - 150000 = 150000$. Representa la amplitud de la caja, que contiene al $50\\%$ central de las observaciones."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. El IQR se mide sobre los cuartiles, no sobre el desvío estándar."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El rango intercuartílico (IQR) es la diferencia absoluta entre el tercer y primer cuartil ($Q_3 - Q_1$). Describe la dispersión de la mitad central de las observaciones y define la longitud de la caja en el boxplot.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Lautaro analiza el impacto de la inflación sobre los sueldos de los empleados en San Juan.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Tanto la media como la varianza aumentan en $\\$10000$.",
           "is_correct": false,
           "feedback": "Incorrecto. La varianza mide distancias internas y es insensible a sumas constantes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La media aumenta en $\\$10000$, pero la varianza permanece exactamente igual.",
           "is_correct": true,
           "feedback": "Correcto. Al sumar una constante a todos los datos, la media se desplaza en esa misma cantidad. Sin embargo, dado que la distancia interna entre los datos no varía, las medidas de dispersión (varianza y desvío) se mantienen idénticas."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. La media aritmética sí cambia ante modificaciones homogéneas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Por propiedades de los estadísticos: la media de una variable trasladada es $\\mu_{x+c} = \\mu_x + c$, mientras que la varianza es invariante ante traslaciones: $\\sigma^2_{x+c} = \\sigma^2_x$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -610,19 +610,19 @@
           "feedback": "Incorrecto. Este umbral no contempla la tolerancia de 1,5 veces la longitud de la caja."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Cualquier sueldo estrictamente mayor que $\\$320000$.",
           "is_correct": true,
           "feedback": "Correcto. El IQR es $200000 - 120000 = 80000$. El límite superior para valores atípicos es $Q_3 + 1,5 \\cdot \\text{IQR} = 200000 + 1,5 \\cdot (80000) = 200000 + 120000 = 320000$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Cualquier sueldo mayor que $\\$400000$.",
           "is_correct": false,
           "feedback": "Incorrecto. Umbral excesivamente elevado para la identificación estándar de valores atípicos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El criterio de Tukey establece que un dato es un valor atípico superior si se encuentra más allá de $Q_3 + 1,5 \\cdot \\text{IQR}$. Calculando: $200000 + 1,5 \\cdot 80000 = 320000$, por lo que todo salario superior a $\\$320000$ es un outlier.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -700,19 +700,19 @@
           "feedback": "Incorrecto. No contempla la ponderación respecto del promedio del grupo."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Tienen exactamente la misma homogeneidad relativa porque poseen el mismo coeficiente de variación ($20\\%$).",
           "is_correct": true,
           "feedback": "Correcto. Calculamos el coeficiente de variación ($\\text{CV} = \\sigma / \\mu$): para el grupo A: $1,2 / 6 = 0,20$ ($20\\%$). Para el grupo B: $1,6 / 8 = 0,20$ ($20\\%$). Al ser idénticos, su variabilidad relativa es igual."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ninguno de los dos grupos presenta parámetros estables para comparar.",
           "is_correct": false,
           "feedback": "Incorrecto. El coeficiente de variación es la herramienta adimensional idónea para realizar esta comparación."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Para comparar la variabilidad de dos muestras con medias distintas, se utiliza el Coeficiente de Variación ($\\text{CV} = \\sigma / \\mu$). En ambos grupos el $\\text{CV} = 0,20$, demostrando que poseen exactamente la misma variabilidad relativa.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Incorrecto. Esto es la frecuencia marginal respecto al total general."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$33,3\\%$",
           "is_correct": true,
           "feedback": "Correcto. Limitamos el análisis al subgrupo del GBA (total de $20 + 40 = 60$ usuarios). Dentro de este grupo, los satisfechos son 20. La frecuencia condicionada es $20 / 60 \\approx 0,3333$, es decir, un $33,3\\%$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$50\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. No divide por el total correcto de la fila marginal del GBA."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Este es el porcentaje total de usuarios del GBA de la muestra completa."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La frecuencia condicionada restringe el espacio de análisis a una fila o columna específica. En este caso, de los $60$ usuarios pertenecientes al GBA, la proporción de satisfechos es $\\frac{20}{60} \\approx 33,3\\%$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. Si el valor fuera 8, la suma daría 33, con un promedio de 6,6, distinto de 7."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$10$",
           "is_correct": true,
           "feedback": "Correcto. Si la media es 7 para 5 datos, la suma total debe ser $7 \\times 5 = 35$. La suma de los 4 datos conocidos es $3 + 5 + 8 + 9 = 25$. El valor faltante es $35 - 25 = 10$. El conjunto ordenado es $\\{3, 5, 8, 9, 10\\}$, cuya mediana es 8, verificando el supuesto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$7$",
           "is_correct": false,
           "feedback": "Incorrecto. Si el valor es 7, la mediana del conjunto ordenado $\\{3, 5, 7, 8, 9\\}$ sería 7, lo que contradice la consigna."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Excedería el total de la suma requerido para sostener el promedio de 7."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Dado que el promedio de los $5$ datos es $7$, la suma agregada es $35$. Restando las cuatro observaciones conocidas ($25$), despejamos el valor faltante de $10$. Ordenando la muestra $\\{3, 5, 8, 9, 10\\}$ se comprueba que el valor central es $8$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Facundo evalúa críticamente los gráficos informativos presentados en los medios de prensa en Posadas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El gráfico es técnicamente deshonesto e incorrecto porque, al no iniciar el eje en cero, distorsiona visualmente la proporción real entre las dos magnitudes, exagerando una diferencia menor.",
           "is_correct": true,
           "feedback": "Correcto. Modificar el origen del eje vertical altera la escala visual y la proporcionalidad física de las barras, induciendo a un error grave de interpretación del lector."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El gráfico es completamente correcto y honesto ya que las tasas reales de $8\\%$ y $6\\%$ figuran de forma escrita en la imagen.",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque figuren los números escritos, el impacto visual distorsionado genera una interpretación sesgada."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. El principio de proporcionalidad visual es ineludible en gráficos de barras."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los gráficos de barras se basan en el principio de proporcionalidad entre la altura geométrica de la barra y la magnitud cuantitativa representada. Desplazar el origen del eje vertical altera drásticamente esta proporcionalidad, constituyendo una distorsión visual deshonesta.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -874,25 +874,25 @@
           "feedback": "Incorrecto. En distribuciones con gran desigualdad de ingresos, la media se ve severamente afectada por valores atípicos muy altos, sobreestimando la realidad del habitante promedio."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La mediana, porque es insensible a valores atípicos extremos, indicando un nivel de ingresos para el cual la mitad de las familias de la comunidad se encuentra exactamente por debajo de él.",
           "is_correct": true,
           "feedback": "Correcto. Al no verse sesgada por unos pocos salarios astronómicos, la mediana describe de manera mucho más fiel el nivel de vida típico de la mayoría de los habitantes de la comunidad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambas son igualmente descriptivas en cualquier tipo de distribución demográfica nacional.",
           "is_correct": false,
           "feedback": "Incorrecto. En entornos asimétricos o con gran dispersión, las diferencias conceptuales entre media y mediana son críticas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La moda, porque describe de manera exacta el ingreso del habitante con mayor cantidad de tierras en el pueblo.",
           "is_correct": false,
           "feedback": "Incorrecto. La moda describe el valor más frecuente, pero no define rangos de desigualdad de forma robusta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La mediana es una medida de tendencia central robusta ante la presencia de valores atípicos y distribuciones con un sesgo asimétrico marcado. En poblaciones con altos índices de desigualdad socioeconómica, la mediana refleja de manera mucho más fiel las condiciones típicas de la mayoría de las familias de la población.",
       "difficulty": "10",
       "images": [],

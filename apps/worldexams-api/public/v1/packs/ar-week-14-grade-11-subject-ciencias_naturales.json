@@ -13,19 +13,19 @@
       "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 1.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Corriente = $22,00\\text{ A}$, Potencia = $4840,0\\text{ W}$",
           "is_correct": true,
           "feedback": "Correcto. $I = 220 / 10 = 22,00\\text{ A}$. $P = V \\cdot I = 4840,0\\text{ W}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Corriente = $44,00\\text{ A}$, Potencia = $4840,0\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Corriente = $22,00\\text{ A}$, Potencia = $2420,0\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió la potencia por dos."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{10} = 22,00\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 22.00 = 4840,0\\text{ W}$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 2.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Corriente = $11,00\\text{ A}$, Potencia = $2420,0\\text{ W}$",
           "is_correct": true,
           "feedback": "Correcto. $I = 220 / 20 = 11,00\\text{ A}$. $P = V \\cdot I = 2420,0\\text{ W}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Corriente = $22,00\\text{ A}$, Potencia = $2420,0\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{20} = 11,00\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 11.00 = 2420,0\\text{ W}$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 3.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Corriente = $7,33\\text{ A}$, Potencia = $1613,3\\text{ W}$",
           "is_correct": true,
           "feedback": "Correcto. $I = 220 / 30 = 7,33\\text{ A}$. $P = V \\cdot I = 1613,3\\text{ W}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Corriente = $14,67\\text{ A}$, Potencia = $1613,3\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{30} = 7,33\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 7.33 = 1613,3\\text{ W}$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 4.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Corriente = $5,50\\text{ A}$, Potencia = $1210,0\\text{ W}$",
           "is_correct": true,
           "feedback": "Correcto. $I = 220 / 40 = 5,50\\text{ A}$. $P = V \\cdot I = 1210,0\\text{ W}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Corriente = $11,00\\text{ A}$, Potencia = $1210,0\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Corriente = $5,50\\text{ A}$, Potencia = $605,0\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió la potencia por dos."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{40} = 5,50\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 5.50 = 1210,0\\text{ W}$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,19 +193,19 @@
       "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 5.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Corriente = $4,40\\text{ A}$, Potencia = $968,0\\text{ W}$",
           "is_correct": true,
           "feedback": "Correcto. $I = 220 / 50 = 4,40\\text{ A}$. $P = V \\cdot I = 968,0\\text{ W}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Corriente = $8,80\\text{ A}$, Potencia = $968,0\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Corriente = $4,40\\text{ A}$, Potencia = $484,0\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió la potencia por dos."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{50} = 4,40\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 4.40 = 968,0\\text{ W}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 6.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Corriente = $3,67\\text{ A}$, Potencia = $806,7\\text{ W}$",
           "is_correct": true,
           "feedback": "Correcto. $I = 220 / 60 = 3,67\\text{ A}$. $P = V \\cdot I = 806,7\\text{ W}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Corriente = $7,33\\text{ A}$, Potencia = $806,7\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{60} = 3,67\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 3.67 = 806,7\\text{ W}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,31 +283,31 @@
       "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 7.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Corriente = $3,14\\text{ A}$, Potencia = $691,4\\text{ W}$",
           "is_correct": true,
           "feedback": "Correcto. $I = 220 / 70 = 3,14\\text{ A}$. $P = V \\cdot I = 691,4\\text{ W}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Corriente = $6,29\\text{ A}$, Potencia = $691,4\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Corriente = $3,14\\text{ A}$, Potencia = $345,7\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió la potencia por dos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Corriente = $10\\text{ A}$, Potencia = $1000\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{70} = 3,14\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 3.14 = 691,4\\text{ W}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 8.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Corriente = $2,75\\text{ A}$, Potencia = $605,0\\text{ W}$",
           "is_correct": true,
           "feedback": "Correcto. $I = 220 / 80 = 2,75\\text{ A}$. $P = V \\cdot I = 605,0\\text{ W}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Corriente = $5,50\\text{ A}$, Potencia = $605,0\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{80} = 2,75\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 2.75 = 605,0\\text{ W}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,31 +373,31 @@
       "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 9.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Corriente = $2,44\\text{ A}$, Potencia = $537,8\\text{ W}$",
           "is_correct": true,
           "feedback": "Correcto. $I = 220 / 90 = 2,44\\text{ A}$. $P = V \\cdot I = 537,8\\text{ W}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Corriente = $4,89\\text{ A}$, Potencia = $537,8\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Corriente = $2,44\\text{ A}$, Potencia = $268,9\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió la potencia por dos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Corriente = $10\\text{ A}$, Potencia = $1000\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{90} = 2,44\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 2.44 = 537,8\\text{ W}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,31 +418,31 @@
       "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 10.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Corriente = $2,20\\text{ A}$, Potencia = $484,0\\text{ W}$",
           "is_correct": true,
           "feedback": "Correcto. $I = 220 / 100 = 2,20\\text{ A}$. $P = V \\cdot I = 484,0\\text{ W}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Corriente = $4,40\\text{ A}$, Potencia = $484,0\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Corriente = $2,20\\text{ A}$, Potencia = $242,0\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió la potencia por dos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Corriente = $10\\text{ A}$, Potencia = $1000\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{100} = 2,20\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 2.20 = 484,0\\text{ W}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,31 +463,31 @@
       "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 11.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Corriente = $2,00\\text{ A}$, Potencia = $440,0\\text{ W}$",
           "is_correct": true,
           "feedback": "Correcto. $I = 220 / 110 = 2,00\\text{ A}$. $P = V \\cdot I = 440,0\\text{ W}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Corriente = $4,00\\text{ A}$, Potencia = $440,0\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Corriente = $2,00\\text{ A}$, Potencia = $220,0\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió la potencia por dos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Corriente = $10\\text{ A}$, Potencia = $1000\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{110} = 2,00\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 2.00 = 440,0\\text{ W}$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 13.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Corriente = $1,69\\text{ A}$, Potencia = $372,3\\text{ W}$",
           "is_correct": true,
           "feedback": "Correcto. $I = 220 / 130 = 1,69\\text{ A}$. $P = V \\cdot I = 372,3\\text{ W}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Corriente = $3,38\\text{ A}$, Potencia = $372,3\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Corriente = $1,69\\text{ A}$, Potencia = $186,2\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió la potencia por dos."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{130} = 1,69\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 1.69 = 372,3\\text{ W}$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 15.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Corriente = $1,47\\text{ A}$, Potencia = $322,7\\text{ W}$",
           "is_correct": true,
           "feedback": "Correcto. $I = 220 / 150 = 1,47\\text{ A}$. $P = V \\cdot I = 322,7\\text{ W}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Corriente = $2,93\\text{ A}$, Potencia = $322,7\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{150} = 1,47\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 1.47 = 322,7\\text{ W}$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 17.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Corriente = $1,29\\text{ A}$, Potencia = $284,7\\text{ W}$",
           "is_correct": true,
           "feedback": "Correcto. $I = 220 / 170 = 1,29\\text{ A}$. $P = V \\cdot I = 284,7\\text{ W}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Corriente = $2,59\\text{ A}$, Potencia = $284,7\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{170} = 1,29\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 1.29 = 284,7\\text{ W}$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,19 +778,19 @@
       "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 18.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Corriente = $1,22\\text{ A}$, Potencia = $268,9\\text{ W}$",
           "is_correct": true,
           "feedback": "Correcto. $I = 220 / 180 = 1,22\\text{ A}$. $P = V \\cdot I = 268,9\\text{ W}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Corriente = $2,44\\text{ A}$, Potencia = $268,9\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Corriente = $1,22\\text{ A}$, Potencia = $134,4\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió la potencia por dos."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{180} = 1,22\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 1.22 = 268,9\\text{ W}$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 19.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Corriente = $1,16\\text{ A}$, Potencia = $254,7\\text{ W}$",
           "is_correct": true,
           "feedback": "Correcto. $I = 220 / 190 = 1,16\\text{ A}$. $P = V \\cdot I = 254,7\\text{ W}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Corriente = $2,32\\text{ A}$, Potencia = $254,7\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{190} = 1,16\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 1.16 = 254,7\\text{ W}$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Circuitos de corriente continua y potencia eléctrica Caso N° 20.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Corriente = $1,10\\text{ A}$, Potencia = $242,0\\text{ W}$",
           "is_correct": true,
           "feedback": "Correcto. $I = 220 / 200 = 1,10\\text{ A}$. $P = V \\cdot I = 242,0\\text{ W}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Corriente = $2,20\\text{ A}$, Potencia = $242,0\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Duplicó la corriente de manera errónea."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Corriente = $1,10\\text{ A}$, Potencia = $121,0\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió la potencia por dos."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Valores fijos que no responden a la resistencia dada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por la Ley de Ohm, $I = \\frac{V}{R} = \\frac{220}{200} = 1,10\\text{ A}$. La potencia es $P = V \\cdot I = 220 \\cdot 1.10 = 242,0\\text{ W}$.",
       "difficulty": "10",
       "images": [],

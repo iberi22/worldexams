@@ -59,31 +59,31 @@
       "context": "En un taller de carpintería en Cali, un ebanista empuja horizontalmente una viga de madera aplicando una fuerza constante de $80\\text{ N}$ y la desplaza $5\\text{ m}$ en la misma dirección y sentido.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$400\\text{ J}$",
           "is_correct": true,
           "feedback": "Correcto. $W = F \\cdot d = 80\\text{ N} \\times 5\\text{ m} = 400\\text{ J}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$16\\text{ J}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste erróneamente la fuerza entre el desplazamiento ($80/5$)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$85\\text{ J}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste fuerza y desplazamiento; el trabajo se obtiene multiplicando."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$75\\text{ J}$",
           "is_correct": false,
           "feedback": "Incorrecto. Restaste desplazamiento a la fuerza, operación sin sentido físico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "$W = F \\cdot d \\cdot \\cos\\theta$. Con fuerza y desplazamiento paralelos ($\\theta = 0^\\circ$), $W = 80\\text{ N} \\times 5\\text{ m} = 400\\text{ J}$.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En el puerto de Barranquilla, las grúas pórtico mueven contenedores rápidamente entre los buques y los patios de almacenamiento.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Watt (W)",
           "is_correct": true,
           "feedback": "Correcto. $1\\text{ W} = 1\\text{ J/s}$; el watt es la unidad SI de potencia en homenaje a James Watt."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Joule (J)",
           "is_correct": false,
           "feedback": "Incorrecto. El joule mide energía o trabajo, no potencia."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. El pascal mide presión."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La potencia relaciona trabajo y tiempo: $P = W/t$. Su unidad SI es el watt ($1\\text{ W} = 1\\text{ J/s}$), aunque también se usan caballos de fuerza (HP) o kilovatios (kW).",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En un edificio residencial del centro de Medellín, el motor de un ascensor sube una carga de $1200\\text{ N}$ hasta una altura de $8\\text{ m}$ en $12\\text{ s}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$800\\text{ W}$",
           "is_correct": true,
           "feedback": "Correcto. $W = 1200 \\times 8 = 9600\\text{ J}$ y $P = 9600/12 = 800\\text{ W}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$14400\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste peso por altura pero olvidaste dividir por el tiempo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$9600\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Obtuviste el trabajo pero no lo dividiste entre el tiempo."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Dividiste la altura entre el tiempo sin considerar la fuerza aplicada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "$P_{\\text{media}} = W/t = (F \\cdot d)/t = (1200 \\cdot 8)/12 = 800\\text{ W}$.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En una finca cafetera de Manizales, se usa una palanca de primer género para mover rocas. El punto de apoyo se ubica a $0{,}5\\text{ m}$ de la roca ($200\\text{ N}$) y a $1{,}5\\text{ m}$ del extremo donde se aplica la fuerza.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\approx 66{,}7\\text{ N}$",
           "is_correct": true,
           "feedback": "Correcto. Por equilibrio de momentos $F_1 \\cdot d_1 = F_2 \\cdot d_2$, entonces $F_1 = (200 \\cdot 0{,}5)/1{,}5 = 66{,}67\\text{ N}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$200\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Solo si las distancias fueran iguales la fuerza aplicada igualaría a la carga."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Es la mitad de la carga, pero aquí las distancias no son iguales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Ley de la palanca: $F_1 \\cdot d_1 = F_2 \\cdot d_2$. La fuerza mínima es $F_1 = (200 \\cdot 0{,}5)/1{,}5 \\approx 66{,}7\\text{ N}$.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En un taller mecánico de Medellín, un montacargas eleva un motor de $800\\text{ N}$ a una altura de $2\\text{ m}$, realizando un trabajo total de $2000\\text{ J}$ sobre el sistema.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$80\\%$",
           "is_correct": true,
           "feedback": "Correcto. $\\eta = (W_{\\text{útil}}/W_{\\text{total}}) \\cdot 100 = (800 \\cdot 2/2000) \\cdot 100 = 80\\%$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$25\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. Obtuviste la fracción inversa o confundiste trabajo total con trabajo útil."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Calculaste una proporción entre trabajo útil y altura, no entre útil y total."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La eficiencia compara el trabajo útil con el trabajo total invertido: $\\eta = (W_{\\text{útil}}/W_{\\text{total}}) \\cdot 100$. Aquí $W_{\\text{útil}} = 1600\\text{ J}$ y $\\eta = 80\\%$.",
       "difficulty": "6",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En el sistema de cable aéreo de Pereira, se transportan $20$ personas con un peso promedio de $700\\text{ N}$ cada una hasta una altura de $400\\text{ m}$ en $2$ minutos. La eficiencia global del sistema electromecánico es del $60\\%$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\approx 77\\,778\\text{ W}$",
           "is_correct": true,
           "feedback": "Correcto. $W_{\\text{útil}} = 20 \\cdot 700 \\cdot 400 = 5\\,600\\,000\\text{ J}$; $P_{\\text{útil}} = 5\\,600\\,000/120 \\approx 46\\,667\\text{ W}$; $P_{\\text{total}} = P_{\\text{útil}}/\\eta \\approx 77\\,778\\text{ W}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\approx 46\\,667\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Obtuviste la potencia útil, pero olvidaste considerar la eficiencia menor a $100\\%$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\approx 28\\,000\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste peso total por tiempo y dividiste por la altura, sin coherencia dimensional."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\approx 9\\,333\\text{ W}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste trabajo total entre $600\\text{ s}$, pero no calculaste correctamente $W_{\\text{total}}$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "$W_{\\text{útil}} = mgh$ para subir las personas, $P_{\\text{útil}} = W/t$, y la potencia de entrada es $P_{\\text{entrada}} = P_{\\text{útil}}/\\eta$. Con $\\eta = 0{,}6$, se obtiene $\\approx 77\\,778\\text{ W}$.",
       "difficulty": "8",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "En un aserrío de Bucaramanga, se comparan dos sistemas para subir troncos de $1200\\text{ N}$ a una plataforma de $1{,}2\\text{ m}$ de altura: (a) un plano inclinado ideal de $3\\text{ m}$ y (b) un aparejo con dos poleas móviles (ideal).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Plano: VM $= 2{,}5$ y fuerza ≈ $480\\text{ N}$; Aparejo: VM $= 4$ y fuerza $= 300\\text{ N}$.",
           "is_correct": true,
           "feedback": "Correcto. Plano: $F = P \\cdot h/L = 1200 \\cdot 1{,}2/3 = 480\\text{ N}$, VM $= 3/1{,}2 = 2{,}5$. Aparejo con $2$ poleas móviles: VM $= 2^2 = 4$, $F = 1200/4 = 300\\text{ N}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Plano: VM $= 3$ y fuerza $= 400\\text{ N}$; Aparejo: VM $= 2$ y fuerza $= 600\\text{ N}$.",
           "is_correct": false,
           "feedback": "Incorrecto. Usaste la longitud como denominador sin considerar la altura."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Plano: VM $= 2{,}5$ y fuerza $= 480\\text{ N}$; Aparejo: VM $= 2$ y fuerza $= 600\\text{ N}$.",
           "is_correct": false,
           "feedback": "Incorrecto. Solo una polea móvil tendría VM $= 2$; con dos, la VM teórica es $4$."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Confundiste la altura con la longitud al calcular VM del plano."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La VM teórica del plano inclinado ideal es $L/h$, mientras que la de un aparejo con $n$ poleas móviles es $2^n$. En el aparejo de $2$ poleas, VM $= 4$ y la fuerza baja a $300\\text{ N}$.",
       "difficulty": "8",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "Un agricultor en una finca cafetera de Manizales debe subir sacos de café de $600\\text{ N}$ a la plataforma de un camión a $1{,}2\\text{ m}$ de altura. Tiene tres opciones mecánicas ideales disponibles: (a) plano inclinado de $3\\text{ m}$, (b) plano inclinado de $6\\text{ m}$, (c) polea móvil simple.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El plano de $6\\text{ m}$ (VM $= 5$) es la mejor opción porque minimiza la fuerza necesaria a $120\\text{ N}$, aunque implique mayor distancia recorrida.",
           "is_correct": true,
           "feedback": "Correcto. VM del plano de $6\\text{ m}$ $= 6/1{,}2 = 5$; fuerza $= 600/5 = 120\\text{ N}$. La polea móvil da VM $= 2$ y el plano de $3\\text{ m}$ da VM $= 2{,}5$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La polea móvil simple es la mejor opción porque tiene VM fija de $2$ y siempre será mejor que cualquier plano.",
           "is_correct": false,
           "feedback": "Incorrecto. La polea tiene VM $= 2$, menor que la VM $= 5$ del plano de $6\\text{ m}$."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. La VM depende de la geometría de la máquina, no del trabajo útil total."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La VM teórica es: plano $= L/h$, polea móvil $= 2$. El plano de $6\\text{ m}$ ofrece la mayor VM ($5$) y por tanto la menor fuerza ($120\\text{ N}$), aunque el trabajador deba recorrer más distancia.",
       "difficulty": "10",
       "images": [],

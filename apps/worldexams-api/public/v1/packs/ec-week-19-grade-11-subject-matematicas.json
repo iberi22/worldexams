@@ -13,13 +13,13 @@
       "context": "Un estudiante de física en la Universidad San Francisco de Quito identifica las componentes de un vector en el espacio tridimensional.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(x, y)$",
           "is_correct": false,
           "feedback": "Incorrecto. Estas son coordenadas para el plano bidimensional (R²)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(x, y, z)$",
           "is_correct": true,
           "feedback": "Correcto. En el espacio, se requiere una tercera coordenada para la profundidad o altura (eje z)."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Aunque se usa en física (espacio-tiempo), la representación puramente espacial es $(x, y, z)$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El espacio tridimensional (R³) se describe mediante una terna ordenada de números reales correspondientes a tres ejes mutuamente perpendiculares.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "Suma de vectores en el espacio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(5, 1, 0)$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la suma de la tercera componente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(5, 1, 3)$",
           "is_correct": true,
           "feedback": "Correcto. Sumando componente a componente: $(1+4, 2-1, 3+0) = (5, 1, 3)$."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Error en la suma de la segunda componente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La suma de vectores en R³ se realiza sumando de forma independiente las componentes correspondientes de cada eje.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -154,13 +154,13 @@
           "feedback": "Incorrecto. Simple suma de desplazamientos en los ejes."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "12 m",
           "is_correct": false,
           "feedback": "Incorrecto. Valor de la componente más grande, no de la distancia total."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "13 m",
           "is_correct": true,
           "feedback": "Correcto. Distancia = $\\sqrt{3^2 + 4^2 + 12^2} = \\sqrt{9 + 16 + 144} = \\sqrt{169} = 13$."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Error en el cálculo aritmético."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La distancia entre el origen y un punto $(x, y, z)$ es equivalente a la magnitud del vector posición de dicho punto.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrecto. Error en el manejo de signos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "3",
           "is_correct": true,
           "feedback": "Correcto. $\\vec{a} \\cdot \\vec{b} = (2)(4) + (-3)(1) + (1)(-2) = 8 - 3 - 2 = 3$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(8, -3, -2)$",
           "is_correct": false,
           "feedback": "Incorrecto. El producto escalar da como resultado un número (escalar), no un vector."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Sumó todos los valores absolutos de los productos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El producto escalar es una operación que combina dos vectores para obtener un número real, multiplicando y sumando sus componentes respectivas.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -283,19 +283,19 @@
       "context": "Determinación del ángulo entre vectores.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$30^\\circ$",
           "is_correct": false,
           "feedback": "Incorrecto. $\\cos(30^\\circ) = \\sqrt{3}/2 \\approx 0.866$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$45^\\circ$",
           "is_correct": false,
           "feedback": "Incorrecto. $\\cos(45^\\circ) = \\sqrt{2}/2 \\approx 0.707$."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$60^\\circ$",
           "is_correct": true,
           "feedback": "Correcto. $\\cos \\theta = \\frac{\\vec{u} \\cdot \\vec{v}}{|\\vec{u}| |\\vec{v}|} = \\frac{0.5}{1 \\cdot 1} = 0.5 \\Rightarrow \\theta = 60^\\circ$."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. El producto escalar debería ser 0."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Uso de la definición geométrica del producto escalar para calcular el ángulo de separación entre dos direcciones en el espacio.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Vector unitario en la misma dirección.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(1, 1, 1)$",
           "is_correct": false,
           "feedback": "Incorrecto. Su magnitud es $\\sqrt{3} \\neq 1$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(\\frac{1}{\\sqrt{3}}, \\frac{1}{\\sqrt{3}}, \\frac{1}{\\sqrt{3}})$",
           "is_correct": true,
           "feedback": "Correcto. Se obtiene dividiendo cada componente por la magnitud del vector original."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Este es el vector unitario del eje $z$, no tiene la misma dirección que $\\vec{v}$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La normalización de un vector permite obtener un vector de magnitud uno conservando su orientación original.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Concepto de producto vectorial (o producto cruz).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Un número real escalar.",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el resultado del producto escalar."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un vector que es perpendicular a ambos vectores originales.",
           "is_correct": true,
           "feedback": "Correcto. El producto vectorial genera un nuevo vector siguiendo la regla de la mano derecha."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. La dirección es ortogonal al plano que forman."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El producto vectorial es una operación exclusiva de R³ que permite encontrar direcciones normales a un plano definido por dos vectores.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -514,25 +514,25 @@
           "feedback": "Incorrecto. Ese sería el producto escalar."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$\\vec{k}$",
           "is_correct": true,
           "feedback": "Correcto. Por la regla de la mano derecha o el ciclo de vectores unitarios, el producto de $x$ con $y$ da el eje $z$ positivo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$-\\vec{k}$",
           "is_correct": false,
           "feedback": "Incorrecto. Este sería el resultado de $\\vec{j} \\times \\vec{i}$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$1$",
           "is_correct": false,
           "feedback": "Incorrecto. El resultado debe ser un vector."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Conocimiento de la base ortonormal de R³ y el comportamiento cíclico del producto vectorial entre sus componentes fundamentales.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "Área de un paralelogramo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "5 unidades²",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó las magnitudes en lugar de multiplicarlas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "6 unidades²",
           "is_correct": true,
           "feedback": "Correcto. El área es la magnitud del producto vectorial. $\\vec{u} \\times \\vec{v} = (0, 0, 6)$. Magnitud = 6."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Los vectores no son paralelos, por lo que encierran un área."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Interpretación geométrica de la magnitud del producto vectorial como el área de la superficie plana definida por los dos vectores.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -604,25 +604,25 @@
           "feedback": "Incorrecto. Esto solo sería la magnitud del producto vectorial."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El volumen del paralelepípedo formado por los tres vectores.",
           "is_correct": true,
           "feedback": "Correcto. El triple producto escalar combina el área de la base con la altura proyectada del tercer vector."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El perímetro de la figura espacial.",
           "is_correct": false,
           "feedback": "Incorrecto. El perímetro no se calcula con productos de este tipo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La suma de los volúmenes de las pirámides internas.",
           "is_correct": false,
           "feedback": "Incorrecto. No es una representación estándar del triple producto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Relación entre operaciones vectoriales y el cálculo de volúmenes de sólidos poliédricos en el espacio.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Incorrecto. Error en el cálculo de la magnitud del producto vectorial."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\sqrt{3}/2$ unidades²",
           "is_correct": true,
           "feedback": "Correcto. Vectores: $\\vec{AB} = (-1, 1, 0)$, $\\vec{AC} = (-1, 0, 1)$. Producto cruz: $(1, 1, 1)$. Magnitud: $\\sqrt{3}$. Área triángulo = Magnitud / 2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\sqrt{3}$ unidades²",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó dividir por 2 para el área del triángulo."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. No consideró la componente en el eje z resultante del producto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Uso de vectores de posición y productos vectoriales para hallar áreas de superficies triangulares en coordenadas 3D.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Propiedades del producto vectorial.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\vec{u} \\times \\vec{v} = \\vec{v} \\times \\vec{u}$",
           "is_correct": false,
           "feedback": "Incorrecto. El producto vectorial es anticonmutativo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\vec{u} \\times \\vec{v} = -(\\vec{v} \\times \\vec{u})$",
           "is_correct": true,
           "feedback": "Correcto. Al cambiar el orden, la dirección del vector resultante se invierte según la regla de la mano derecha."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Olvidó distribuir el producto vectorial al segundo término."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Reconocimiento de las leyes algebraicas que rigen el comportamiento de los productos vectoriales, especialmente su naturaleza no conmutativa.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Incorrecto. Esta es la componente ortogonal al eje z."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$(0, 0, 3)$",
           "is_correct": true,
           "feedback": "Correcto. $\\text{proj}_b a = \\frac{\\vec{a} \\cdot \\vec{b}}{|\\vec{b}|^2} \\vec{b} = \\frac{3}{1^2} (0, 0, 1) = (0, 0, 3)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "3",
           "is_correct": false,
           "feedback": "Incorrecto. La proyección vectorial debe ser un vector, no un escalar."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Esta es la dirección unitaria, pero no considera la magnitud de la proyección."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Cálculo de componentes vectoriales paralelas a una dirección dada utilizando la fórmula de proyección ortogonal.\n\n---",
       "difficulty": "10",
       "images": [],

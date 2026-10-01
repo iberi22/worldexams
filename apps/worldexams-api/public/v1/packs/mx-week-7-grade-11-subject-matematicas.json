@@ -148,19 +148,19 @@
       "context": "En un laboratorio de física en Puebla, se mide la velocidad de un objeto que se mueve a ritmo constante sin aceleración. La gráfica de velocidad vs tiempo es una línea horizontal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$m = 0$",
           "is_correct": true,
           "feedback": "¡Correcto! Una recta horizontal no tiene inclinación respecto al eje x, por lo que su razón de cambio es cero."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$m = 1$",
           "is_correct": false,
           "feedback": "Una pendiente de 1 corresponde a una recta con una inclinación de 45 grados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La pendiente es infinita o no está definida.",
           "is_correct": false,
           "feedback": "Esto ocurre con las rectas verticales, que son perpendiculares al eje x."
@@ -172,7 +172,7 @@
           "feedback": "Esta pendiente indicaría un decrecimiento constante a 45 grados hacia abajo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Una recta horizontal tiene una ecuación de la forma $y = b$. Como el valor de $y$ no cambia al variar $x$, el cambio en $y$ es 0, resultando en una pendiente $m = 0$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,25 +199,25 @@
           "feedback": "Revisa el cálculo: (12 - 3) / (5 - 2) = 9 / 3 = 3."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$m = 3$",
           "is_correct": true,
           "feedback": "¡Correcto! Aplicando la fórmula m = (y2 - y1) / (x2 - x1) obtenemos (12 - 3) / (5 - 2) = 9 / 3 = 3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$m = 4.5$",
           "is_correct": false,
           "feedback": "Posiblemente dividiste entre 2 en lugar de la diferencia de las x (5 - 2 = 3)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$m = 9$",
           "is_correct": false,
           "feedback": "Este es el valor de la diferencia de las y, pero falta dividirlo entre la diferencia de las x."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La pendiente se calcula como la razón entre el cambio vertical y el cambio horizontal: $m = \\frac{y_2 - y_1}{x_2 - x_1}$. En este caso, $m = \\frac{12 - 3}{5 - 2} = \\frac{9}{3} = 3$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Estás multiplicando la tarifa fija por los kilómetros, cuando debería ser el costo por km."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$C(k) = 8k + 15$",
           "is_correct": true,
           "feedback": "¡Correcto! El costo por kilómetro (8) es la pendiente y el banderazo (15) es la ordenada al origen."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$C(k) = 23k$",
           "is_correct": false,
           "feedback": "Esto asume que no hay cuota fija y que el costo total por km es la suma de ambos valores, lo cual es incorrecto."
@@ -262,7 +262,7 @@
           "feedback": "La tarifa base es un costo inicial positivo que se suma, no se resta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "En problemas de costos, el valor variable (por unidad) es la pendiente ($m$) y el valor fijo (inicial) es la ordenada al origen ($b$). La estructura es $y = mx + b$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Este es el punto de corte con el eje y, no con el eje x."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x = 3$",
           "is_correct": true,
           "feedback": "¡Correcto! Para hallar la intersección con x igualamos y a cero: 0 = -4x + 12 => 4x = 12 => x = 3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = -3$",
           "is_correct": false,
           "feedback": "Al trasponer los términos, el signo de x resulta positivo: 4x = 12 implica x = 3."
@@ -307,7 +307,7 @@
           "feedback": "Cuando x = 0 obtenemos la intersección con el eje y, que es 12."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La intersección con el eje $x$ ocurre cuando el valor de la función es cero ($y = 0$). Se debe resolver la ecuación lineal resultante para despejar $x$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,25 +379,25 @@
           "feedback": "Media hora son 30 minutos, no 0.5 minutos. 1200 - 40(0.5) = 1180."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "0 litros",
           "is_correct": true,
           "feedback": "¡Correcto! 30 minutos * 40 l/min = 1200 litros vaciados. 1200 - 1200 = 0."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "600 litros",
           "is_correct": false,
           "feedback": "Revisa el cálculo: 40 * 30 = 1200. No 600."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "400 litros",
           "is_correct": false,
           "feedback": "1200 - (40 * 30) = 0."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Primero se convierten las unidades de tiempo a las del modelo (minutos). Media hora = 30 min. Luego se evalúa la función: $V(30) = 1200 - 40(30) = 1200 - 1200 = 0$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Esta es la misma pendiente, lo que resultaría en una recta paralela."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$m = -\\frac{3}{4}$",
           "is_correct": false,
           "feedback": "Solo cambiaste el signo, pero para perpendicularidad se requiere el recíproco negativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$m = -\\frac{4}{3}$",
           "is_correct": true,
           "feedback": "¡Correcto! Dos rectas son perpendiculares si m1 * m2 = -1. El recíproco negativo de 3/4 es -4/3."
@@ -487,7 +487,7 @@
           "feedback": "Este es el recíproco, pero falta el cambio de signo para que el producto sea -1."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La condición de perpendicularidad entre dos rectas con pendientes $m_1$ y $m_2$ es que su producto sea $-1$. Esto implica que $m_2 = -\\frac{1}{m_1}$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -514,25 +514,25 @@
           "feedback": "El 5 es la coordenada y, pero no es necesariamente la ordenada al origen b."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$y = -2x + 3$",
           "is_correct": true,
           "feedback": "¡Correcto! Usando y - y1 = m(x - x1): y - 5 = -2(x + 1) => y - 5 = -2x - 2 => y = -2x + 3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$y = -2x + 7$",
           "is_correct": false,
           "feedback": "Probablemente sumaste 2 al 5 en lugar de restarlo al trasponer."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$y = 2x + 3$",
           "is_correct": false,
           "feedback": "La pendiente debe ser negativa según el enunciado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Se utiliza la forma punto-pendiente: $y - y_1 = m(x - x_1)$. Sustituyendo: $y - 5 = -2(x - (-1))$, que simplifica a $y = -2x + 3$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "Un sistema de riego por goteo en Sonora entrega agua de forma constante. Se observa que después de 2 horas se han entregado 15 litros, y después de 5 horas se han entregado 37.5 litros.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "15 l/h",
           "is_correct": false,
           "feedback": "15 litros es el total a las 2 horas, no la tasa por hora."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "7.5 l/h",
           "is_correct": true,
           "feedback": "¡Correcto! m = (37.5 - 15) / (5 - 2) = 22.5 / 3 = 7.5."
@@ -577,7 +577,7 @@
           "feedback": "Esta es la diferencia total de litros entre los dos tiempos, no la tasa horaria."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La razón de cambio es la pendiente entre los puntos $(2, 15)$ y $(5, 37.5)$. Se calcula mediante la fórmula de la pendiente: $\\frac{\\Delta y}{\\Delta x}$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,25 +604,25 @@
           "feedback": "No has despejado la variable y para llevar la ecuación a la forma y = mx + b."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$m = 1.5, b = 4$",
           "is_correct": true,
           "feedback": "¡Correcto! -2y = -3x - 8 => y = (-3/-2)x + (-8/-2) => y = 1.5x + 4."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$m = -1.5, b = -4$",
           "is_correct": false,
           "feedback": "Cuidado con los signos al dividir entre -2."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$m = 0.66, b = 2.66$",
           "is_correct": false,
           "feedback": "Despejaste x en lugar de y o dividiste los coeficientes al revés."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Para identificar $m$ y $b$ en la forma general $Ax + By + C = 0$, se despeja $y$: $y = -\\frac{A}{B}x - \\frac{C}{B}$. Aquí, $y = -\\frac{3}{-2}x - \\frac{8}{-2} = 1.5x + 4$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Aquí duplicaste la altura inicial (b), no la velocidad (m)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$H(t) = 2.4t + 20$",
           "is_correct": true,
           "feedback": "¡Correcto! La velocidad de ascenso es la pendiente (1.2). Al duplicarla obtenemos 2.4."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$H(t) = 2.4t + 40$",
           "is_correct": false,
           "feedback": "Duplicaste ambos valores, pero el enunciado dice que la altura inicial permanece igual."
@@ -667,7 +667,7 @@
           "feedback": "Esto sería reducir la velocidad a la mitad."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Modificar la velocidad de cambio implica cambiar el valor de la pendiente ($m$). Los cambios en el valor inicial afectan a la ordenada al origen ($b$).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Dos proyectiles siguen trayectorias lineales en un simulador: $y = x + 2$ y $y = -2x + 11$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(2, 4)$",
           "is_correct": false,
           "feedback": "Si x = 2, la primera da y = 4 pero la segunda da y = 7. No es el punto de cruce."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(3, 5)$",
           "is_correct": true,
           "feedback": "¡Correcto! Igualando x + 2 = -2x + 11 => 3x = 9 => x = 3. Sustituyendo, y = 3 + 2 = 5."
@@ -712,7 +712,7 @@
           "feedback": "x=3 es correcto, pero y debe ser 5."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El punto de intersección se halla igualando las dos funciones ($f(x) = g(x)$) para encontrar el valor de $x$ común, y luego sustituyendo ese valor en cualquiera de las funciones para obtener $y$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,25 +739,25 @@
           "feedback": "400 * 60 = 24,000. C(60) = 250(60) + 15,000 = 15,000 + 15,000 = 30,000. Los costos superan ingresos."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "100 pares",
           "is_correct": true,
           "feedback": "¡Correcto! Ingreso I(x) = 400x. Igualando: 400x = 250x + 15000 => 150x = 15000 => x = 100."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "150 pares",
           "is_correct": false,
           "feedback": "Este número de pares generaría una ganancia, no es el punto mínimo de equilibrio."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "38 pares",
           "is_correct": false,
           "feedback": "Este cálculo es erróneo; se requiere igualar las funciones de costo e ingreso."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El punto de equilibrio se alcanza cuando la función de ingresos $I(x) = P \\cdot x$ es igual a la función de costos $C(x) = m \\cdot x + b$. La solución indica la cantidad necesaria para no tener pérdidas ni ganancias.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Si m = 80,000, a los 10 años valdría 0. El valor final debe ser 200,000."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Depreciación: \\$60,000/año; $V(t) = 800000 - 60000t$",
           "is_correct": true,
           "feedback": "¡Correcto! m = (200,000 - 800,000) / 10 = -60,000. El valor baja 60 mil por año."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Depreciación: \\$20,000/año; $V(t) = 800000 - 20000t$",
           "is_correct": false,
           "feedback": "Esta depreciación es muy baja para llegar a 200,000 en 10 años."
@@ -802,7 +802,7 @@
           "feedback": "Esta función describe un aumento de valor, no una depreciación (pérdida de valor)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La depreciación lineal se modela con una pendiente negativa. La pendiente es la pérdida de valor por unidad de tiempo: $m = \\frac{V_{final} - V_{inicial}}{t_{final} - t_{inicial}}$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -835,19 +835,19 @@
           "feedback": "El valor constante b (5000) es el base, y el coeficiente m (1200) es el aumento por año."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Por cada año adicional de estudio, el salario aumenta \\$1,200; el salario base es \\$5,000.",
           "is_correct": true,
           "feedback": "¡Correcto! La pendiente m=1200 indica el cambio en y por cada unidad de x, y b=5000 es el valor inicial."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El salario máximo es 5000 y disminuye 1200 por año.",
           "is_correct": false,
           "feedback": "La pendiente es positiva, lo que indica un aumento, no una disminución."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "En modelos lineales aplicados, la pendiente $m$ representa la tasa de variación unitaria (cuánto cambia $y$ por cada unidad de $x$), mientras que la ordenada al origen $b$ representa el valor de la variable dependiente cuando la independiente es cero.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -880,19 +880,19 @@
           "feedback": "5+4 = 9 (no es <= 8). Falla la segunda condición."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$(4, 3)$",
           "is_correct": true,
           "feedback": "¡Correcto! 2(4)+3 = 11 (>= 10) y 4+3 = 7 (<= 8). Satisface ambas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(1, 9)$",
           "is_correct": false,
           "feedback": "1+9 = 10 (no es <= 8). Falla la segunda condición."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Resolver un sistema de desigualdades implica encontrar la región del plano (o puntos específicos) que cumplan todas las restricciones al mismo tiempo. Se verifica sustituyendo los valores de $x$ e $y$ en cada inecuación.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -913,13 +913,13 @@
       "context": "Un conductor de taxi en la CDMX cobra una tarifa con base en una función lineal del kilometraje recorrido.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "T(x) = 8x + 15",
           "is_correct": true,
           "feedback": "¡Correcto! La tarifa fija representa la ordenada al origen (15) y la tarifa por kilómetro representa la pendiente (8). Por lo tanto, T(x) = 8x + 15."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "T(x) = 15x + 8",
           "is_correct": false,
           "feedback": "Incorrecto. Esto significaría cobrar $15 pesos por kilómetro con un banderazo de $8 pesos."
@@ -937,7 +937,7 @@
           "feedback": "Incorrecto. Esta ecuación omitiría cobrar el banderazo o cuota de inicio del viaje."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Una función afín tiene la forma f(x) = mx + b, donde m es la pendiente (tasa de cambio unitaria) y b es la ordenada al origen (valor inicial). Aquí, el costo fijo es b = 15 y el costo variable es m = 8 por km. La función resultante es T(x) = 8x + 15.",
       "difficulty": "4",
       "images": [],
@@ -1003,13 +1003,13 @@
       "context": "Análisis de funciones lineales afines en México, caso 3.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "(0, -25)",
           "is_correct": true,
           "feedback": "¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "(0, 25)",
           "is_correct": false,
           "feedback": "Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen."
@@ -1027,7 +1027,7 @@
           "feedback": "Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 3x - 25: f(0) = 3(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).",
       "difficulty": "4",
       "images": [],
@@ -1048,13 +1048,13 @@
       "context": "Análisis de funciones lineales afines en México, caso 4.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "(0, -25)",
           "is_correct": true,
           "feedback": "¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "(0, 25)",
           "is_correct": false,
           "feedback": "Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen."
@@ -1072,7 +1072,7 @@
           "feedback": "Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 4x - 25: f(0) = 4(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).",
       "difficulty": "4",
       "images": [],
@@ -1093,19 +1093,19 @@
       "context": "Análisis de funciones lineales afines en México, caso 5.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "(0, -25)",
           "is_correct": true,
           "feedback": "¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "(0, 25)",
           "is_correct": false,
           "feedback": "Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "(5.0, 0)",
           "is_correct": false,
           "feedback": "Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función)."
@@ -1117,7 +1117,7 @@
           "feedback": "Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 5x - 25: f(0) = 5(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).",
       "difficulty": "6",
       "images": [],
@@ -1138,31 +1138,31 @@
       "context": "Análisis de funciones lineales afines en México, caso 6.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "(0, -25)",
           "is_correct": true,
           "feedback": "¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "(0, 25)",
           "is_correct": false,
           "feedback": "Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "(4.2, 0)",
           "is_correct": false,
           "feedback": "Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "(0, 0)",
           "is_correct": false,
           "feedback": "Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 6x - 25: f(0) = 6(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).",
       "difficulty": "6",
       "images": [],
@@ -1228,13 +1228,13 @@
       "context": "Análisis de funciones lineales afines en México, caso 8.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "(0, -25)",
           "is_correct": true,
           "feedback": "¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "(0, 25)",
           "is_correct": false,
           "feedback": "Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen."
@@ -1252,7 +1252,7 @@
           "feedback": "Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 8x - 25: f(0) = 8(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).",
       "difficulty": "6",
       "images": [],
@@ -1273,13 +1273,13 @@
       "context": "Análisis de funciones lineales afines en México, caso 9.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "(0, -25)",
           "is_correct": true,
           "feedback": "¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "(0, 25)",
           "is_correct": false,
           "feedback": "Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen."
@@ -1297,7 +1297,7 @@
           "feedback": "Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 9x - 25: f(0) = 9(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).",
       "difficulty": "6",
       "images": [],
@@ -1318,31 +1318,31 @@
       "context": "Análisis de funciones lineales afines en México, caso 10.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "(0, -25)",
           "is_correct": true,
           "feedback": "¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "(0, 25)",
           "is_correct": false,
           "feedback": "Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "(2.5, 0)",
           "is_correct": false,
           "feedback": "Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "(0, 0)",
           "is_correct": false,
           "feedback": "Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 10x - 25: f(0) = 10(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).",
       "difficulty": "6",
       "images": [],
@@ -1363,19 +1363,19 @@
       "context": "Análisis de funciones lineales afines en México, caso 11.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "(0, -25)",
           "is_correct": true,
           "feedback": "¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "(0, 25)",
           "is_correct": false,
           "feedback": "Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "(2.3, 0)",
           "is_correct": false,
           "feedback": "Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función)."
@@ -1387,7 +1387,7 @@
           "feedback": "Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 11x - 25: f(0) = 11(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).",
       "difficulty": "8",
       "images": [],
@@ -1453,19 +1453,19 @@
       "context": "Análisis de funciones lineales afines en México, caso 13.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "(0, -25)",
           "is_correct": true,
           "feedback": "¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "(0, 25)",
           "is_correct": false,
           "feedback": "Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "(1.9, 0)",
           "is_correct": false,
           "feedback": "Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función)."
@@ -1477,7 +1477,7 @@
           "feedback": "Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 13x - 25: f(0) = 13(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).",
       "difficulty": "8",
       "images": [],
@@ -1498,19 +1498,19 @@
       "context": "Análisis de funciones lineales afines en México, caso 14.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "(0, -25)",
           "is_correct": true,
           "feedback": "¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "(0, 25)",
           "is_correct": false,
           "feedback": "Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "(1.8, 0)",
           "is_correct": false,
           "feedback": "Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función)."
@@ -1522,7 +1522,7 @@
           "feedback": "Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 14x - 25: f(0) = 14(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).",
       "difficulty": "8",
       "images": [],
@@ -1543,13 +1543,13 @@
       "context": "Análisis de funciones lineales afines en México, caso 15.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "(0, -25)",
           "is_correct": true,
           "feedback": "¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "(0, 25)",
           "is_correct": false,
           "feedback": "Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen."
@@ -1567,7 +1567,7 @@
           "feedback": "Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 15x - 25: f(0) = 15(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).",
       "difficulty": "8",
       "images": [],
@@ -1588,31 +1588,31 @@
       "context": "Análisis de funciones lineales afines en México, caso 16.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "(0, -25)",
           "is_correct": true,
           "feedback": "¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "(0, 25)",
           "is_correct": false,
           "feedback": "Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "(1.6, 0)",
           "is_correct": false,
           "feedback": "Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "(0, 0)",
           "is_correct": false,
           "feedback": "Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 16x - 25: f(0) = 16(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).",
       "difficulty": "8",
       "images": [],
@@ -1678,31 +1678,31 @@
       "context": "Análisis de funciones lineales afines en México, caso 18.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "(0, -25)",
           "is_correct": true,
           "feedback": "¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "(0, 25)",
           "is_correct": false,
           "feedback": "Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "(1.4, 0)",
           "is_correct": false,
           "feedback": "Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "(0, 0)",
           "is_correct": false,
           "feedback": "Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 18x - 25: f(0) = 18(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).",
       "difficulty": "10",
       "images": [],
@@ -1723,31 +1723,31 @@
       "context": "Análisis de funciones lineales afines en México, caso 19.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "(0, -25)",
           "is_correct": true,
           "feedback": "¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "(0, 25)",
           "is_correct": false,
           "feedback": "Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "(1.3, 0)",
           "is_correct": false,
           "feedback": "Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "(0, 0)",
           "is_correct": false,
           "feedback": "Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 19x - 25: f(0) = 19(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).",
       "difficulty": "10",
       "images": [],
@@ -1768,31 +1768,31 @@
       "context": "Análisis de funciones lineales afines en México, caso 20.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "(0, -25)",
           "is_correct": true,
           "feedback": "¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "(0, 25)",
           "is_correct": false,
           "feedback": "Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "(1.2, 0)",
           "is_correct": false,
           "feedback": "Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "(0, 0)",
           "is_correct": false,
           "feedback": "Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La intersección con el eje y de cualquier función f(x) se halla evaluando f(0). Para f(x) = 20x - 25: f(0) = 20(0) - 25 = -25. Por lo tanto, el punto coordenado correspondiente es (0, -25).",
       "difficulty": "10",
       "images": [],

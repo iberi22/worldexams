@@ -59,19 +59,19 @@
       "context": "En una urna en Medellín hay 12 fichas numeradas del 1 al 12.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\frac{1}{2}$",
           "is_correct": true,
           "feedback": "Los números pares del 1 al 12 son {2, 4, 6, 8, 10, 12}, en total 6 casos favorables sobre 12 posibles (6/12 = 1/2)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{1}{3}$",
           "is_correct": false,
           "feedback": "Se contó un número menor de pares o se simplificó incorrectamente la fracción 6/12."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{5}{12}$",
           "is_correct": false,
           "feedback": "Se contaron solo 5 números pares omitiendo uno de ellos."
@@ -83,7 +83,7 @@
           "feedback": "Se contaron los números impares en lugar de los números pares."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los pares entre 1 y 12 son 6 números. Por tanto, la probabilidad es $P(\\text{par}) = \\frac{6}{12} = \\frac{1}{2} = 0.5$.",
       "difficulty": "4",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "Se lanzan dos dados honestos de 6 caras de forma simultánea.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\frac{1}{6}$",
           "is_correct": true,
           "feedback": "Los pares que suman 7 son (1,6), (2,5), (3,4), (4,3), (5,2), (6,1). Son 6 casos favorables sobre 36 posibles: 6/36 = 1/6."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{7}{36}$",
           "is_correct": false,
           "feedback": "Se confundió el valor de la suma deseada (7) con la cantidad de parejas favorables."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{5}{36}$",
           "is_correct": false,
           "feedback": "Se omitió una de las combinaciones posibles que suman 7."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\frac{1}{12}$",
           "is_correct": false,
           "feedback": "Se dividió el total de posibles sumas (12) entre el espacio muestral o se realizó un cálculo desacertado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El espacio muestral de dos dados consta de $6   imes 6 = 36$ resultados. Las combinaciones que suman 7 son 6 pares ordenados. La probabilidad es $\\frac{6}{36} = \\frac{1}{6}$.",
       "difficulty": "6",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En un mazo estándar de 52 cartas de póker, se extrae una carta al azar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\frac{4}{13}$",
           "is_correct": true,
           "feedback": "Hay 4 Ases y 13 Corazones. El As de Corazones está en ambos grupos. N(As U Corazones) = 4 + 13 - 1 = 16. P = 16/52 = 4/13."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{17}{52}$",
           "is_correct": false,
           "feedback": "Se sumaron 4 Ases + 13 Corazones sin restar la carta que cumple ambas condiciones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{9}{26}$",
           "is_correct": false,
           "feedback": "Se sobreestimó el número de elementos favorables."
@@ -359,7 +359,7 @@
           "feedback": "Se calculó la probabilidad de extraer específicamente el As de Corazones (intersección en lugar de unión)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicando el principio de inclusión-exclusión: $P(\\text{As} cup\\text{Corazón}) = \\frac{4}{52} + \\frac{13}{52} - \\frac{1}{52} = \\frac{16}{52} = \\frac{4}{13}$.",
       "difficulty": "6",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "Juan lanza 3 monedas equilibradas al mismo tiempo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\frac{3}{8}$",
           "is_correct": true,
           "feedback": "El espacio muestral tiene 2^3 = 8 resultados. Los eventos con exactamente 2 caras son (C,C,S), (C,S,C), (S,C,C), es decir 3 casos. P = 3/8."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{1}{4}$",
           "is_correct": false,
           "feedback": "Se contaron solo 2 resultados favorables en lugar de 3."
@@ -405,7 +405,7 @@
           "feedback": "Corresponde a la probabilidad de obtener exactamente 3 caras (C,C,C)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Con $n=3$ lanzamientos independientes de monedas, la probabilidad de obtener $k=2$ caras es $\\binom{3}{2} (1/2)^3 = 3 \\cdot \\frac{1}{8} = \\frac{3}{8}$.",
       "difficulty": "6",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "En un lote de 20 bombillos producidos en una fábrica de Pereira, se sabe que 4 son defectuosos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\frac{4}{5}$",
           "is_correct": true,
           "feedback": "Los bombillos no defectuosos son 20 - 4 = 16. La probabilidad es 16/20 = 4/5 = 0.8."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{1}{5}$",
           "is_correct": false,
           "feedback": "Se calculó la probabilidad de que el bombillo SÍ esté defectuoso (4/20 = 1/5)."
@@ -451,7 +451,7 @@
           "feedback": "Se asumió un número menor de bombillos defectuosos (2 de 20)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La probabilidad del evento complemento $P(E^c) = 1 - P(E) = 1 - \\frac{4}{20} = 1 - \\frac{1}{5} = \\frac{4}{5} = 0.8$.",
       "difficulty": "6",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "En una empresa de Manizales, el 70% de los empleados habla inglés, el 40% habla francés y el 20% habla ambos idiomas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\frac{2}{7}$",
           "is_correct": true,
           "feedback": "P(Francés | Inglés) = P(Francés n Inglés) / P(Inglés) = 0.20 / 0.70 = 2/7."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{1}{2}$",
           "is_correct": false,
           "feedback": "Se dividió el 20% entre el 40% que habla francés en lugar del grupo condicional de inglés."
@@ -497,7 +497,7 @@
           "feedback": "Se tomó solo la probabilidad conjunta P(Inglés n Francés) = 20% sin aplicar la condición."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La probabilidad condicional se define como $P(A|B) = \\frac{P(A cap B)}{P(B)}$. Aquí $P(\\text{Francés}|\\text{Inglés}) = \\frac{0.20}{0.70} = \\frac{2}{7}$.",
       "difficulty": "8",
       "images": [],
@@ -519,13 +519,13 @@
       "context": "Dos estudiantes, Felipe y Mateo, resuelven de forma independiente un problema de matemáticas. La probabilidad de que Felipe lo resuelva es 0.6 y de que Mateo lo resuelva es 0.8.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "0.92",
           "is_correct": true,
           "feedback": "P(al menos uno) = 1 - P(ninguno). P(ninguno) = (1 - 0.6)*(1 - 0.8) = 0.4 * 0.2 = 0.08. Luego 1 - 0.08 = 0.92."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "0.88",
           "is_correct": false,
           "feedback": "Se sumó 0.6 + 0.8 y se restó la suma simple de fallos."
@@ -543,7 +543,7 @@
           "feedback": "Se calculó el promedio simple entre 0.6 y 0.8."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para eventos independientes, $P(A cup B) = 1 - P(A^c cap B^c) = 1 - (1 - 0.6)(1 - 0.8) = 1 - (0.4)(0.2) = 1 - 0.08 = 0.92$.",
       "difficulty": "8",
       "images": [],
@@ -565,13 +565,13 @@
       "context": "Un laboratorio médico en Cartagena realiza pruebas para detectar una enfermedad. La prueba da positivo en el 95% de las personas enfermas (sensibilidad). Se sabe que el 2% de la población padece la enfermedad.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "0.019",
           "is_correct": true,
           "feedback": "P(Enfermo n Positivo) = P(Enfermo) * P(Positivo | Enfermo) = 0.02 * 0.95 = 0.019."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "0.095",
           "is_correct": false,
           "feedback": "Se corrió la coma decimal calculando 0.1 * 0.95."
@@ -589,7 +589,7 @@
           "feedback": "Se tomó solo la prevalencia de la enfermedad ignorando la sensibilidad de la prueba."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La probabilidad de la intersección se obtiene mediante el producto $P(E cap T) = P(E) \\cdot P(T|E) = 0.02   imes 0.95 = 0.019$.",
       "difficulty": "8",
       "images": [],
@@ -611,19 +611,19 @@
       "context": "Un dado trucado de 6 caras tiene la propiedad de que la probabilidad de obtener un número par es el doble de la probabilidad de obtener un número impar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\frac{2}{9}$",
           "is_correct": true,
           "feedback": "Hay 3 impares (1,3,5) con peso x cada uno y 3 pares (2,4,6) con peso 2x cada uno. Total = 3x + 6x = 9x = 1 -> x = 1/9. El número 6 es par, su prob es 2x = 2/9."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{1}{6}$",
           "is_correct": false,
           "feedback": "Se asumió incorrectamente que el dado sigue siendo justo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{1}{9}$",
           "is_correct": false,
           "feedback": "Se asignó el peso de los números impares al número 6."
@@ -635,7 +635,7 @@
           "feedback": "Se calculó la probabilidad de todo el evento de obtener cualquier par dividido entre 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Sean $p$ la probabilidad de cada cara impar y $2p$ la de cada cara par. Como hay 3 caras impares y 3 pares: $3(p) + 3(2p) = 1 Rightarrow 9p = 1 Rightarrow p = \\frac{1}{9}$. La cara 6 es par, por tanto $P(6) = 2p = \\frac{2}{9}$.",
       "difficulty": "8",
       "images": [],
@@ -657,19 +657,19 @@
       "context": "En un juego de azar en Tunja, un participante gana si al lanzar 2 dados la suma obtenida es 10 o más.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\frac{1}{6}$",
           "is_correct": true,
           "feedback": "Las combinaciones que suman 10 o más son: suma 10: (4,6),(5,5),(6,4) [3]; suma 11: (5,6),(6,5) [2]; suma 12: (6,6) [1]. Total = 6 casos. P = 6/36 = 1/6."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{1}{12}$",
           "is_correct": false,
           "feedback": "Se contaron únicamente 3 casos favorables (suma igual a 10), ignorando 11 y 12."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{5}{36}$",
           "is_correct": false,
           "feedback": "Se omitió la combinación (6,6) en la cuenta."
@@ -681,7 +681,7 @@
           "feedback": "Se contaron 9 casos favorables por error."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los casos favorables para suma $ge 10$ son ${(4,6), (5,5), (6,4), (5,6), (6,5), (6,6)}$, que suman 6 resultados de 36 posibles. $P = \\frac{6}{36} = \\frac{1}{6}$.",
       "difficulty": "8",
       "images": [],
@@ -703,31 +703,31 @@
       "context": "Una urna contiene 5 canicas rojas y 5 canicas negras. Se extrae una canica, se observa su color y se devuelve a la urna junto con 2 canicas adicionales del mismo color. Luego se extrae una segunda canica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\frac{1}{2}$",
           "is_correct": true,
           "feedback": "Por teorema de probabilidad total: P(R2) = P(R2|R1)*P(R1) + P(R2|N1)*P(N1) = (7/12)*(5/10) + (5/12)*(5/10) = (1/2)*(7/12 + 5/12) = 1/2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{7}{12}$",
           "is_correct": false,
           "feedback": "Corresponde a la probabilidad condicional P(R2|R1), no a la probabilidad total P(R2)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{5}{12}$",
           "is_correct": false,
           "feedback": "Corresponde a la probabilidad condicional P(R2|N1)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\frac{7}{24}$",
           "is_correct": false,
           "feedback": "Se multiplicó P(R1) por P(R2|R1) pero se omitió el segundo camino de la probabilidad total."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aplicando el teorema de la probabilidad total: $P(R_2) = P(R_2|R_1)P(R_1) + P(R_2|N_1)P(N_1) = left(\\frac{7}{12}\night)left(\\frac{1}{2}\night) + left(\\frac{5}{12}\night)left(\\frac{1}{2}\night) = \\frac{1}{2}left(\\frac{12}{12}\night) = \\frac{1}{2}$.",
       "difficulty": "8",
       "images": [],
@@ -795,13 +795,13 @@
       "context": "Tres tiradores A, B y C disparan simultáneamente a un blanco. Sus probabilidades de acertar son 0.5, 0.6 y 0.8 respectivamente.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "0.46",
           "is_correct": true,
           "feedback": "Los casos son: (A n B n C') + (A n B' n C) + (A' n B n C) = (0.5*0.6*0.2) + (0.5*0.4*0.8) + (0.5*0.6*0.8) = 0.06 + 0.16 + 0.24 = 0.46."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "0.24",
           "is_correct": false,
           "feedback": "Se calculó únicamente el caso en que falló A (A' n B n C)."
@@ -819,7 +819,7 @@
           "feedback": "Se omitió el caso en el que falla el tirador B."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Sumamos las tres combinaciones donde 2 aciertan y 1 falla:\n$P = (0.5)(0.6)(0.2) + (0.5)(0.4)(0.8) + (0.5)(0.6)(0.8) = 0.06 + 0.16 + 0.24 = 0.46$.",
       "difficulty": "10",
       "images": [],

@@ -13,31 +13,31 @@
       "context": "Expressing a general truth (Zero Conditional).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "heat / boils",
           "is_correct": true,
           "feedback": "Correct! Zero conditional uses Present Simple in both clauses for facts."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "heat / will boil",
           "is_correct": false,
           "feedback": "Incorrect. This sounds like a specific prediction, but Zero is for general facts."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "heats / boil",
           "is_correct": false,
           "feedback": "Incorrect. Subject-verb agreement errors."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "heated / boiled",
           "is_correct": false,
           "feedback": "Incorrect. This is past tense."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El Condicional Cero se usa para hechos científicos o verdades universales. La estructura es: If + Presente Simple, Presente Simple.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -65,13 +65,13 @@
           "feedback": "Incorrect. \"Will\" never goes in the \"if\" clause."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "have / will go",
           "is_correct": true,
           "feedback": "Correct! First conditional: If + Present Simple, Will + base form."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "had / would go",
           "is_correct": false,
           "feedback": "Incorrect. This is Second Conditional (imaginary)."
@@ -83,7 +83,7 @@
           "feedback": "Incorrect. This would be a general habit, not a specific plan."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El Primer Condicional se usa para situaciones reales o muy probables en el futuro. Usamos el Presente Simple después de \"if\" y \"will\" en la otra parte.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -111,13 +111,13 @@
           "feedback": "Incorrect. Needs auxiliary verbs."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "don't do / will be",
           "is_correct": true,
           "feedback": "Correct! Negative present simple in \"if\" clause and future in result."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "won't do / is",
           "is_correct": false,
           "feedback": "Incorrect. \"Will\" cannot be in the \"if\" clause."
@@ -129,7 +129,7 @@
           "feedback": "Incorrect. \"You\" takes \"don't\", not \"doesn't\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para formar la parte negativa del condicional, usamos \"don't\" o \"doesn't\" en la condición y \"won't\" en el resultado.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -203,25 +203,25 @@
           "feedback": "Incorrect. \"Will\" expresses certainty, but the speaker says \"I'm not sure\"."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "might",
           "is_correct": true,
           "feedback": "Correct! \"Might\" is used in conditionals to show a possibility instead of a certainty."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "am",
           "is_correct": false,
           "feedback": "Incorrect."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "must",
           "is_correct": false,
           "feedback": "Incorrect. This would be an obligation."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En lugar de \"will\", podemos usar otros verbos modales como \"might\" o \"may\" en el resultado del condicional para indicar que la consecuencia no es segura, sino solo posible.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -249,13 +249,13 @@
           "feedback": "Incorrect. This is a prediction for the future."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "will have",
           "is_correct": true,
           "feedback": "Correct! First conditional for a real future consequence."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "has",
           "is_correct": false,
           "feedback": "Incorrect. Plural subject."
@@ -267,7 +267,7 @@
           "feedback": "Incorrect. Not the standard conditional structure."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El Primer Condicional es ideal para advertencias sobre el medio ambiente, donde una acción (o falta de acción) hoy tendrá un efecto real mañana.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -295,25 +295,25 @@
           "feedback": "Incorrect. No \"will\" in the \"if\" clause."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "You will pass the exam if you study hard.",
           "is_correct": true,
           "feedback": "Correct! The order can be result + if + condition (no comma needed)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "You pass the exam if you will study hard.",
           "is_correct": false,
           "feedback": "Incorrect."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "If you study hard you will pass.",
           "is_correct": false,
           "feedback": "Incorrect. Needs a comma when \"if\" starts the sentence."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Se puede cambiar el orden de las cláusulas: [Condition], [Result] (con coma) o [Result] [Condition] (sin coma). Nunca se pone \"will\" en la parte del \"if\".\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,25 +387,25 @@
           "feedback": "Incorrect. A bit long for a direct instruction."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "drink",
           "is_correct": true,
           "feedback": "Correct! We can use an imperative in the result clause for instructions."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "drinking",
           "is_correct": false,
           "feedback": "Incorrect."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "you should to drink",
           "is_correct": false,
           "feedback": "Incorrect. \"Should\" is not followed by \"to\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En lugar de \"will\", podemos usar el imperativo (la base del verbo) en la cláusula de resultado para dar instrucciones o consejos directos basados en una condición.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -433,13 +433,13 @@
           "feedback": "Incorrect. This is the correct result form."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "if",
           "is_correct": false,
           "feedback": "Incorrect. Correct conjunction."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "will pass",
           "is_correct": true,
           "feedback": "Correct! Error found. We must use Present Simple \"pass\" after \"if\"."
@@ -451,7 +451,7 @@
           "feedback": "Incorrect. Correct noun."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Uno de los errores más persistentes en B1 es intentar usar el futuro (will) en ambas partes de la oración. La regla gramatical prohíbe el uso de \"will\" inmediatamente después de \"if\" en este tipo de oraciones.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -519,31 +519,31 @@
       "context": "Selecting the best conclusion for a conditional argument.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "people might consume less sugar and improve their health.",
           "is_correct": true,
           "feedback": "Correct! Follows the logic of cause and effect with a modal of possibility."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "everyone will become a millionaire.",
           "is_correct": false,
           "feedback": "Incorrect. Illogical conclusion."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "sugar was very popular in the past.",
           "is_correct": false,
           "feedback": "Incorrect. Irrelevant to the conditional argument."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "the taxes didn't work because they are expensive.",
           "is_correct": false,
           "feedback": "Incorrect. Contradicts the \"if ... are approved\" future focus."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para completar un argumento condicional, el estudiante debe identificar una consecuencia que sea tanto gramaticalmente posible como lógicamente coherente con las premisas dadas.",
       "difficulty": "10",
       "images": [],

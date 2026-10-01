@@ -58,13 +58,13 @@
       "context": "Describing a past space mission.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "watched",
           "is_correct": false,
           "feedback": "Incorrect. Active voice."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "was watched",
           "is_correct": true,
           "feedback": "Correct. Past simple passive for a completed historical event."
@@ -82,7 +82,7 @@
           "feedback": "Incorrect. Present tense."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The past simple passive 'was watched' describes how the audience experienced a specific historical event.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Speculating about alien life.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "exists",
           "is_correct": false,
           "feedback": "Incorrect. First conditional."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "existed",
           "is_correct": true,
           "feedback": "Correct. Second conditional for a hypothetical present situation."
@@ -127,7 +127,7 @@
           "feedback": "Incorrect. 'Would' not used in 'if' clause."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The second conditional 'if + past simple' is used to talk about an imaginary or unlikely current situation.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrect. Issues on Earth are important."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "pressing",
           "is_correct": true,
           "feedback": "Correct. Pressing means requiring urgent attention."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "trivial",
           "is_correct": false,
           "feedback": "Incorrect. Trivial means of little importance."
@@ -217,7 +217,7 @@
           "feedback": "Incorrect. If they were solved, there would be no debate."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Pressing' describes urgent and serious problems that require immediate action and resources.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Incorrect. Active voice."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "is being analyzed",
           "is_correct": true,
           "feedback": "Correct. Present continuous passive for an ongoing process."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "analyzed",
           "is_correct": false,
           "feedback": "Incorrect. Past simple."
@@ -307,7 +307,7 @@
           "feedback": "Incorrect. Active voice."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The present continuous passive describes the current and continuous scientific work being done.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Incorrect. Study of the Earth."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Astrophysics",
           "is_correct": true,
           "feedback": "Correct. Study of the physics of the universe."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Biology",
           "is_correct": false,
           "feedback": "Incorrect. Study of life."
@@ -352,7 +352,7 @@
           "feedback": "Incorrect. Study of plants."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Astrophysics' is the correct scientific discipline for studying the physical nature of stars and galaxies.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "Talking about a past astronomical discovery.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "suspect",
           "is_correct": false,
           "feedback": "Incorrect. Present tense."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "have suspected",
           "is_correct": false,
           "feedback": "Incorrect. Present perfect."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "had suspected",
           "is_correct": true,
           "feedback": "Correct. Past perfect for an action before another past point."
@@ -397,7 +397,7 @@
           "feedback": "Incorrect. Third person singular present."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "The past perfect 'had suspected' establishes that the suspicion existed before the actual photograph was taken.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Critique of \"space debris\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "benefit",
           "is_correct": false,
           "feedback": "Incorrect. Debris is harmful."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "threat",
           "is_correct": true,
           "feedback": "Correct. A threat is a person or thing likely to cause damage or danger."
@@ -442,7 +442,7 @@
           "feedback": "Incorrect. We know it's there and what it is."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Threat' is the appropriate term for the danger posed by the growing amount of junk in space.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Incorrect. Pilots fly planes; astronauts travel in space."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "astronaut",
           "is_correct": true,
           "feedback": "Correct. The specific term for a space traveler."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "driver",
           "is_correct": false,
           "feedback": "Incorrect. Refers to ground vehicles."
@@ -487,7 +487,7 @@
           "feedback": "Incorrect. Refers to water vehicles."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Astronaut' is the professional title for individuals who travel beyond Earth's atmosphere.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Incorrect. Active voice."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "will have been established",
           "is_correct": true,
           "feedback": "Correct. Future perfect passive for a completed state in the future."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "established",
           "is_correct": false,
           "feedback": "Incorrect. Past tense."
@@ -532,7 +532,7 @@
           "feedback": "Incorrect. Gerund."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The future perfect passive indicates that the base will be a finished achievement by the end of the century.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Incorrect. Pressure is force."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Microgravity",
           "is_correct": true,
           "feedback": "Correct. The specific term for \"zero-g\" environments."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Friction",
           "is_correct": false,
           "feedback": "Incorrect. Resistance between surfaces."
@@ -577,7 +577,7 @@
           "feedback": "Incorrect. Speed in a direction."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Microgravity' is the scientific term for the state of apparent weightlessness experienced in orbit.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorrect. Second conditional."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "hadn't been",
           "is_correct": true,
           "feedback": "Correct. Third conditional for hypothetical past."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "isn't",
           "is_correct": false,
           "feedback": "Incorrect. Present."
@@ -622,7 +622,7 @@
           "feedback": "Incorrect. 'Would' not in 'if' clause."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The third conditional is used to speculate about how historical events might have gone differently.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Incorrect. Pivotal means the opposite."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "pivotal",
           "is_correct": true,
           "feedback": "Correct. Pivotal means of crucial importance in relation to the development of something else."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "negative",
           "is_correct": false,
           "feedback": "Incorrect. The author sees them as key developers."
@@ -667,7 +667,7 @@
           "feedback": "Incorrect. Their role is intentional and planned."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Pivotal' is an excellent adjective for describing a role that is central and critically important.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Defining a galaxy.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "planet",
           "is_correct": false,
           "feedback": "Incorrect. Smaller part of a galaxy."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "galaxy",
           "is_correct": true,
           "feedback": "Correct. Large system of stars."
@@ -712,7 +712,7 @@
           "feedback": "Incorrect. Small rocky body."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Galaxy' is the standard term for a massive, gravitationally bound system of stars.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Reporting a discovery.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "have found",
           "is_correct": false,
           "feedback": "Incorrect. Backshifted in reported speech."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "had found",
           "is_correct": true,
           "feedback": "Correct. Backshifted from present perfect to past perfect."
@@ -757,7 +757,7 @@
           "feedback": "Incorrect. Future tense."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "In reported speech, we backshift the tense of the discovery to show it happened before the announcement.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -784,25 +784,25 @@
           "feedback": "Incorrect. Opposite goal."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Terraforming",
           "is_correct": true,
           "feedback": "Correct. Specific term for planet-shaping."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Mapping",
           "is_correct": false,
           "feedback": "Incorrect. Just making a map."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Mining",
           "is_correct": false,
           "feedback": "Incorrect. Extracting resources."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Terraforming' (literally 'Earth-shaping') is the term for making other planets more like Earth.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,31 +868,31 @@
       "context": "Final thought on the spirit of exploration.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "embodies",
           "is_correct": true,
           "feedback": "Correct. To embody means to be an expression of or give a tangible or visible form to an idea or quality."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "ignores",
           "is_correct": false,
           "feedback": "Incorrect. Exploration is about paying attention."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "limits",
           "is_correct": false,
           "feedback": "Incorrect. It expands knowledge."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "delays",
           "is_correct": false,
           "feedback": "Incorrect. It advances knowledge."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "'Embodies' is a sophisticated verb used to show how an activity (exploration) represents a deeper value or desire.",
       "difficulty": "10",
       "images": [],

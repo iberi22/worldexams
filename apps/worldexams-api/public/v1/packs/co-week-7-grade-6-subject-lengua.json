@@ -19,25 +19,25 @@
           "feedback": "Incorrecto. Eso es una descripción."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El relato de una serie de sucesos o acontecimientos, reales o imaginarios, que les ocurren a unos personajes en un lugar y tiempo determinados.",
           "is_correct": true,
           "feedback": "Correcto. La esencia de la narración es contar hechos que progresan en el tiempo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un diálogo entre dos personas para ponerse de acuerdo sobre un tema.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso es una conversación o debate."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Una lista de instrucciones para preparar una comida típica colombiana.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso es un texto instructivo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La narración se caracteriza por la presencia de acciones o eventos que se desarrollan cronológicamente. Los elementos básicos son: narrador, personajes, tiempo, espacio y trama (acciones).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -111,13 +111,13 @@
           "feedback": "Incorrecto. El narrador habla en primera persona (\"Yo\"), no desde afuera."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Narrador protagonista, porque participa directamente en la historia y habla en primera persona.",
           "is_correct": true,
           "feedback": "Correcto. El uso del \"yo\" indica que el personaje principal es quien cuenta su propia historia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Narrador testigo, porque cuenta lo que le pasa a otra persona.",
           "is_correct": false,
           "feedback": "Incorrecto. El narrador habla de sus propias acciones (\"Yo caminé\")."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. La primera persona es evidente en los verbos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El punto de vista o tipo de narrador determina cómo recibimos la historia. El narrador protagonista ofrece una visión subjetiva y cercana, ya que vive los hechos que relata.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "Un estudiante de grado sexto en Cali quiere escribir un mito sobre el origen de la caña de azúcar en el Valle del Cauca.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Personas reales del barrio con nombres y apellidos actuales.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso sería más propio de una crónica o anécdota."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Dioses, seres sobrenaturales o héroes legendarios con poderes especiales.",
           "is_correct": true,
           "feedback": "Correcto. Los mitos explican el origen del mundo a través de figuras sagradas o fantásticas."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. El mito pertenece a una explicación ancestral o sagrada, no científica."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El género narrativo incluye subgéneros como el mito, la leyenda, la fábula, el cuento y la novela. Cada uno tiene personajes característicos. Los mitos siempre involucran seres divinos o fuerzas de la naturaleza personificadas.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -203,13 +203,13 @@
           "feedback": "Incorrecto. El texto también da información de tiempo y lugar."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Solo el conflicto (que no tiene jinete).",
           "is_correct": false,
           "feedback": "Incorrecto. El conflicto es solo una parte de lo que se lee."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El tiempo (tres de la tarde) y el espacio o lugar (plaza de Villa de Leyva).",
           "is_correct": true,
           "feedback": "Correcto. Estos dos elementos sitúan la acción y ayudan al lector a imaginar la escena."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. El texto es puramente narrativo y descriptivo, no expresa una opinión directa."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El marco narrativo es el \"donde\" y el \"cuando\" de la historia. Un buen narrador sitúa al lector rápidamente en un contexto para que la acción tenga sentido y sea verosímil.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Analiza la diferencia entre estos dos fragmentos:\n\n1. \"El joven caminó lentamente hasta la puerta\".\n\n2. \"El joven caminó lentamente hasta la puerta, pensando que quizás su vida cambiaría para siempre al cruzarla\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Más verbos de acción física.",
           "is_correct": false,
           "feedback": "Incorrecto. El verbo principal (\"caminó\") es el mismo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La dimensión psicológica o mundo interior del personaje (sus pensamientos).",
           "is_correct": true,
           "feedback": "Correcto. Narrar no solo es contar lo que se ve por fuera, sino también lo que los personajes sienten o piensan."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. El nombre no aparece en ninguno de los dos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La narración moderna suele combinar las acciones físicas con la introspección. Conocer los pensamientos de un personaje permite que el lector empatice con él y entienda sus motivaciones en la trama.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Un narrador omnisciente es aquel que se asemeja a un \"dios\" dentro de la historia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "\"No sabía qué hacer cuando vi el fantasma en el castillo de Salgar\".",
           "is_correct": false,
           "feedback": "Incorrecto. Es primera persona (protagonista)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "\"Pedro sonreía, pero en el fondo de su corazón sentía un miedo profundo que nadie más podía notar\".",
           "is_correct": true,
           "feedback": "Correcto. El narrador omnisciente sabe incluso lo que los personajes ocultan o sienten en su interior."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Es un diálogo directo de un personaje."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El narrador omnisciente narra en tercera persona y posee un conocimiento total de los hechos, el pasado, el futuro y la psicología de todos los personajes. Es el tipo de narrador más común en las novelas clásicas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -393,19 +393,19 @@
           "feedback": "Incorrecto. Eso sería un final cerrado trágico."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Que el conflicto no se resuelve de forma definitiva, dejando que el lector imagine o interprete el desenlace.",
           "is_correct": true,
           "feedback": "Correcto. El final abierto invita a la participación activa y reflexión del lector."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que al final se explica exactamente qué pasó con cada personaje años después.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso es un final cerrado o epílogo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El final abierto es un recurso literario que rompe con la estructura tradicional del desenlace perfecto. Obliga al receptor a pensar sobre las posibilidades de la historia, basándose en las pistas dadas durante el relato.\n\n---",
       "difficulty": "10",
       "images": [],

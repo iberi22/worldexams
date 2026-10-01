@@ -13,31 +13,31 @@
       "context": "En una parada de autobús en el centro de Valencia, el Ayuntamiento coloca un cartel impreso que dice: 'Por favor, mantén limpia tu ciudad'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El canal, ya que es el soporte físico por el cual se transmite la información.",
           "is_correct": true,
           "feedback": "Correcto. El cartel impreso actúa como el medio o soporte físico que transmite el mensaje visual al receptor."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El código, porque es el sistema de signos lingüísticos en castellano.",
           "is_correct": false,
           "feedback": "Incorrecto. El código es el sistema lingüístico (idioma español), no el soporte físico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El emisor, puesto que es la entidad que diseña el anuncio municipal.",
           "is_correct": false,
           "feedback": "Incorrecto. El emisor es el Ayuntamiento de Valencia, no el cartel físico."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El receptor, ya que es el usuario de autobús que lee el mensaje.",
           "is_correct": false,
           "feedback": "Incorrecto. El receptor es el usuario que lee la advertencia, no el soporte."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El canal es el soporte físico o medio a través del cual se desplaza el mensaje desde el emisor hasta el receptor. En este contexto, el cartel de papel impreso es el soporte físico de transmisión.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,19 +58,19 @@
       "context": "Un profesor de Lengua en un instituto de Sevilla explica a sus alumnos la diferencia entre las grafías 'b' y 'v' utilizando la regla ortográfica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Metalingüística, ya que se emplea el código para hablar del propio código lingüístico.",
           "is_correct": true,
           "feedback": "Correcto. La función metalingüística se activa cuando usamos la lengua para explicar o analizar la propia lengua o sus reglas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Referencial, porque describe una realidad externa objetiva sobre la naturaleza.",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque da información, su propósito directo es normativo y gramatical sobre el código."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Apelativa, porque busca llamar la atención directa e inmediata de la RAE.",
           "is_correct": false,
           "feedback": "Incorrecto. La función apelativa busca influir en la conducta del receptor, no explicar las reglas del sistema."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. La función fática se centra en el canal de comunicación, no en las reglas ortográficas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La función metalingüística del lenguaje se manifiesta cuando el mensaje se centra en el código mismo, utilizándose la lengua castellana para analizar sus propias reglas gramaticales y de escritura.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Hugo estudia un poema de Antonio Machado para la prueba de acceso a la universidad (EBAU) y recita los versos: 'Caminante, son tus huellas / el camino y nada más; / caminante, no hay camino, / se hace camino al andar'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Poética o estética, ya que el mensaje llama la atención sobre su propia forma y belleza formal.",
           "is_correct": true,
           "feedback": "Correcto. La función poética predomina en la literatura porque el emisor busca crear un efecto estético cuidando la forma, el ritmo y el lenguaje."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Metalingüística, porque explica detalladamente la sintaxis del sustantivo 'camino'.",
           "is_correct": false,
           "feedback": "Incorrecto. No se está explicando ninguna norma ni concepto gramatical de la lengua española."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Aunque evoca un camino, el texto es altamente figurado, subjetivo y estético, por lo que prima la función poética."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La función poética o estética se enfoca en el mensaje mismo, especialmente en su forma, sonoridad y recursos literarios, siendo la función característica de las obras literarias.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,19 +283,19 @@
       "context": "Una empresa de alimentación en Toledo publica en su página web una receta tradicional que detalla minuciosamente los ingredientes y pasos para elaborar mazapanes artesanales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Representativa y conativa combinadas, pues informa objetivamente e instruye de forma directa sobre las acciones del lector.",
           "is_correct": true,
           "feedback": "Correcto. Una receta es informativa (representativa) e instruccional (apelativa/conativa) ya que guía u ordena al receptor en su hacer."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Expresiva pura, porque muestra los anhelos melancólicos del repostero que escribió la receta.",
           "is_correct": false,
           "feedback": "Incorrecto. Una receta debe ser de naturaleza práctica y objetiva, no un desahogo lírico de sentimientos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Metalingüística, ya que se centra en reescribir los orígenes etimológicos árabes de la palabra 'mazapán'.",
           "is_correct": false,
           "feedback": "Incorrecto. No es su función principal, a menos que fuera un artículo de lexicografía de la RAE."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Su objetivo no es verificar el canal, sino enseñar a cocinar un plato."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las recetas de cocina, manuales de instrucciones y guías de uso combinan la función representativa (para describir ingredientes y estados) con la conativa o apelativa (para indicar instrucciones u ordenar pasos mediante imperativos o infinitivos).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "Un aficionado en el estadio de San Mamés (Bilbao) exclama eufórico tras el gol de su equipo en el minuto noventa: '¡Madre mía, qué barbaridad de gol! ¡Es increíble lo que hace este chaval!'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Expresiva o emotiva, ya que el emisor manifiesta de forma subjetiva sus sentimientos, pasiones y asombro.",
           "is_correct": true,
           "feedback": "Correcto. La función expresiva o emotiva está centrada en el emisor y se proyecta a través de interjecciones, exclamaciones y adjetivación valorativa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Metalingüística, porque busca definir los sinónimos académicos de la palabra 'gol' en euskera.",
           "is_correct": false,
           "feedback": "Incorrecto. No reflexiona sobre el sistema lingüístico ni la gramática en ese momento."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. La exclamación expresa emoción subjetiva, no una comprobación del canal radiofónico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La función expresiva o emotiva permite al emisor exteriorizar su estado anímico, opiniones subjetivas o sentimientos, valiéndose habitualmente de entonaciones exclamativas e interjecciones.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,31 +463,31 @@
       "context": "Un cartel publicitario de una campaña institucional de salud en Galicia reza: 'Protege a los tuyos: vacúnate contra la gripe estacional en tu centro de salud más cercano'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Función apelativa o conativa, ya que se sirve de oraciones imperativas directas para modificar la conducta del receptor.",
           "is_correct": true,
           "feedback": "Correcto. Los verbos imperativos ('protege', 'vacúnate') y los posesivos de segunda persona ('tu') evidencian un fin apelativo para guiar o persuadir al receptor."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Función metalingüística, porque aclara la conjugación irregular del verbo 'vacunar'.",
           "is_correct": false,
           "feedback": "Incorrecto. No se hace mención sintáctica ni gramatical al verbo en sí, se usa pragmáticamente para pedir una acción."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Función expresiva, ya que el conselleiro de sanidad gallego describe sus propias pesadillas personales con la gripe.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay un desahogo emotivo de sentimientos; es una campaña persuasiva institucional."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Función poética, porque rima asonantemente en todos los fonemas átonos de las palabras.",
           "is_correct": false,
           "feedback": "Incorrecto. La intención estética es accesoria frente a la finalidad persuasiva de salud pública."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La función apelativa o conativa se manifiesta cuando el mensaje se dirige directamente al receptor para influir en su comportamiento, pensamientos o acciones, siendo el imperativo el modo verbal idóneo para ello.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "En un aula de bachillerato en Valencia, durante una clase de sintaxis, se oye un estruendo continuo procedente de unas taladradoras de obras en la vía pública.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El canal de comunicación aérea, debido a la introducción de ruido físico ambiental que distorsiona la audición de las ondas sonoras.",
           "is_correct": true,
           "feedback": "Correcto. El estruendo exterior es un ruido físico que afecta directamente al canal acústico (el aire), dificultando la correcta recepción de la voz del docente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El código lingüístico, puesto que las palabras en español pierden de golpe sus significados en el diccionario de la RAE.",
           "is_correct": false,
           "feedback": "Incorrecto. Las palabras siguen significando lo mismo, el problema es que el receptor no las puede oír físicamente."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. El contexto espacio-temporal sigue siendo el mismo aula de Valencia, aunque acústicamente degradado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Se denomina ruido a cualquier interferencia de carácter físico que perturba, distorsiona o devalúa la transmisión a través del canal, impidiendo una recepción nítida.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,31 +553,31 @@
       "context": "Un informe técnico emitido por el Instituto para la Conservación de la Naturaleza en Madrid comienza así: 'El incremento de la temperatura global ha acelerado la evaporación de los acuíferos en las zonas áridas peninsulares'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Representativa o referencial, porque transmite información de forma objetiva, lógica y denotativa sobre la realidad exterior.",
           "is_correct": true,
           "feedback": "Correcto. Los textos científicos y técnicos priorizan la función representativa al transmitir datos medibles y objetivos sin valoraciones personales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Estética o poética, porque el autor emplea metáforas amorosas sobre el agua evaporada.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay un fin literario ni de adorno estilístico en un informe de acuíferos peninsulares."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Apelativa, porque exige imperativamente al lector que beba menos agua del grifo.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un texto meramente descriptivo e informativo, no contiene mandatos directos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Fática, ya que el informe pretende comprobar la salud auditiva del lector del documento.",
           "is_correct": false,
           "feedback": "Incorrecto. No verifica el canal de lectura, proporciona un análisis climático."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La función de representación del lenguaje se orienta al referente o contexto, buscando ofrecer enunciados lógicos, descriptivos y objetivos sobre las cosas reales.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,19 +598,19 @@
       "context": "Dos amigos que residen en Santiago de Compostela están charlando animadamente y alternan de manera natural expresiones gallegas y castellanas en una misma frase.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Requiere que ambos interlocutores compartan el mismo código bilingüe (gallego y castellano) para garantizar que la alternancia de código no cause ruido semántico.",
           "is_correct": true,
           "feedback": "Correcto. El bilingüismo funciona de manera adecuada si ambos comparten el mismo sistema de signos (código), eliminando barreras de comprensión."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El gallego y el castellano actúan como canales físicos opuestos en el aire de Santiago.",
           "is_correct": false,
           "feedback": "Incorrecto. Son sistemas de signos (códigos), no soportes de transmisión acústicos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Impide por completo la descodificación, ya que dos idiomas mezclados anulan las leyes universales del lenguaje.",
           "is_correct": false,
           "feedback": "Incorrecto. El cerebro decodifica ambos códigos sin problemas si los conoce lingüísticamente."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. El tema real no se ve afectado por la forma bilingüe de la charla."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para que la comunicación sea exitosa, el emisor y el receptor deben compartir el mismo código (o combinación de códigos). En zonas bilingües de España, el bilingüismo enriquece la comunicación siempre que haya simetría de conocimientos.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,31 +688,31 @@
       "context": "Martín encuentra un papel arrugado en su mochila del instituto que dice: 'Espérame allí hoy a las seis'. No sabe quién lo ha escrito ni cuándo lo han metido ahí.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Porque el enunciado contiene deícticos de espacio ('allí') y de tiempo ('hoy') que solo adquieren sentido completo conociendo el contexto situacional original.",
           "is_correct": true,
           "feedback": "Correcto. Palabras como 'allí' u 'hoy' son deícticos espaciotemporales cuyo referente real depende del momento y lugar exacto de la emisión."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque el idioma en el que está escrito el papel no se corresponde con ningún código conocido en España.",
           "is_correct": false,
           "feedback": "Incorrecto. El escrito está en correcto español, lo que falla es la referencia situacional, no el código morfológico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Debido a que el papel arrugado bloquea físicamente la luz que refleja las letras.",
           "is_correct": false,
           "feedback": "Incorrecto. Las letras se leen, el problema radica en la interpretación de los deícticos pragmáticos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Puesto que la palabra 'seis' es un término técnico que requiere un grado universitario en matemáticas puras.",
           "is_correct": false,
           "feedback": "Incorrecto. El término 'seis' es de vocabulario común."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La deixis (temporal, espacial, personal) une el lenguaje con el contexto extralingüístico. Sin conocer las coordenadas del emisor (quién, cuándo, dónde), enunciados deícticos como 'allí' u 'hoy' resultan indescifrables.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -868,31 +868,31 @@
       "context": "En un examen final de bachillerato en Salamanca, un alumno se enfrenta a un poema hermético de la Generación del 27. El alumno afirma: 'Este texto no tiene ninguna función referencial; por tanto, es un mensaje defectuoso y carente de valor'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Es errónea, ya que en la lírica contemporánea el referente de la realidad se desvía o subjetiviza a través de la función poética, la cual dota al texto de un profundo valor estético y connotativo propio.",
           "is_correct": true,
           "feedback": "Correcto. El arte lírico no necesita una función representativa/referencial unívoca ni objetiva; su valor reside en la evocación lírica y en la creatividad morfosintáctica y semántica de la función poética."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es correcta, pues cualquier texto de España que carezca de datos estadísticos exactos y fórmulas físicas debe considerarse basura gramatical.",
           "is_correct": false,
           "feedback": "Incorrecto. El arte y la literatura tienen funciones estéticas legítimas independientes de los textos científico-técnicos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es errónea porque todos los poemas de la Generación del 27 tienen la única función de verificar si la tinta del bolígrafo funciona.",
           "is_correct": false,
           "feedback": "Incorrecto. Esa sería la función fática del material de escritura, lo cual carece de sentido analítico literario."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es correcta porque la RAE prohíbe de forma terminante publicar textos que requieran interpretación o uso de figuras retóricas.",
           "is_correct": false,
           "feedback": "Incorrecto. La RAE codifica la gramática y el léxico, pero no restringe la libertad de creación literaria y el uso de la retórica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La obra literaria no tiene como objetivo prioritario transmitir datos factuales u objetivos del entorno (función referencial), sino crear una experiencia estética y polisémica mediante el uso de la función poética. Por ello, la ausencia de referencia de datos no devalúa la calidad comunicativa del poema.",
       "difficulty": "10",
       "images": [],

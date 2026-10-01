@@ -13,31 +13,31 @@
       "context": "En un salón de Bogotá se preguntó por la fruta favorita: mango, mango, banano, mango, manzana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El mango",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: la moda es el dato que más se repite, y el mango aparece 3 veces."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El banano",
           "is_correct": false,
           "feedback": "Explica el error conceptual: el banano aparece una sola vez, no es el más frecuente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La manzana",
           "is_correct": false,
           "feedback": "Explica el error conceptual: la manzana aparece una sola vez, no es la moda."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No hay moda",
           "is_correct": false,
           "feedback": "Explica el error conceptual: sí hay un dato que se repite más que los otros, el mango."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La moda es el valor de mayor frecuencia en un conjunto de datos. Contar repeticiones (mango: 3, otros: 1) la identifica sin ningún cálculo.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "En Medellín las edades de 5 jugadores son: 11, 12, 10, 13, 12 años.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "12 años",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: ordenadas (10, 11, 12, 12, 13), el dato central es 12."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "11 años",
           "is_correct": false,
           "feedback": "Explica el error conceptual: toma el segundo dato sin ordenar como si fuera el centro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "11.6 años",
           "is_correct": false,
           "feedback": "Explica el error conceptual: calcula la media aritmética en vez de la mediana."
@@ -83,7 +83,7 @@
           "feedback": "Explica el error conceptual: elige el valor máximo en lugar del dato central."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La mediana es el dato del centro con los valores ordenados. Con 5 datos ordenados (10, 11, 12, 12, 13), el tercero es 12. Ordenar primero es obligatorio.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En Cali un estudiante obtuvo estas notas: 4, 5, 3, 4 (escala de 1 a 5).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "4.0",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: (4 + 5 + 3 + 4) ÷ 4 = 16 ÷ 4 = 4.0."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "4.5",
           "is_correct": false,
           "feedback": "Explica el error conceptual: suma mal los datos o divide entre un número distinto de 4."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "5.0",
           "is_correct": false,
           "feedback": "Explica el error conceptual: toma la nota máxima como si fuera el promedio."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "3.0",
           "is_correct": false,
           "feedback": "Explica el error conceptual: toma la nota mínima como si fuera el promedio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La media suma todos los valores y divide entre la cantidad de datos: 16 ÷ 4 = 4.0. Representa el valor que tendría cada dato si el total se repartiera equitativamente.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En Barranquilla una tienda vendió en 6 días: 10, 12, 10, 15, 10, 9 balones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "10 balones",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: el 10 aparece 3 veces, más que cualquier otro valor."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "9 balones",
           "is_correct": false,
           "feedback": "Explica el error conceptual: el 9 aparece una sola vez; elige el mínimo en vez del más frecuente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "15 balones",
           "is_correct": false,
           "feedback": "Explica el error conceptual: el 15 aparece una sola vez; elige el máximo en vez del más frecuente."
@@ -175,7 +175,7 @@
           "feedback": "Explica el error conceptual: calcula la media aproximada en vez de buscar la mayor frecuencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Contar frecuencias (10: tres veces; 12, 15, 9: una vez) revela la moda 10. La moda indica el valor típico o más común, útil en ventas e inventarios.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En Bucaramanga un equipo anotó estos goles por partido: 1, 2, 2, 3, 7.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque el 7 es un valor extremo que infla la media pero no mueve la mediana",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: la media sube a 3 por el 7, mientras la mediana sigue en 2, el rendimiento típico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque la mediana siempre es menor que la media",
           "is_correct": false,
           "feedback": "Explica el error conceptual: no siempre; depende de los datos, a veces la media es menor."
@@ -267,7 +267,7 @@
           "feedback": "Explica el error conceptual: la moda es 2 (aparece dos veces), no 7."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La media es sensible a valores extremos y la mediana es resistente. Con un 7 atípico, la mediana 2 describe mejor el rendimiento habitual que la media 3.",
       "difficulty": "8",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "En Pereira un estudiante tiene notas 3, 4 y 5 y quiere promedio final de 4.5 con una cuarta nota.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "6, porque (3 + 4 + 5 + 6) ÷ 4 = 4.5",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: la suma debe ser 18 (4.5 × 4) y 3 + 4 + 5 = 12, faltan 6."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5, porque ya tiene un 5",
           "is_correct": false,
           "feedback": "Explica el error conceptual: con 5 la suma es 17 y el promedio 4.25, no alcanza 4.5."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "4, porque es el promedio que quiere superar",
           "is_correct": false,
           "feedback": "Explica el error conceptual: con 4 la suma es 16 y el promedio queda en 4.0."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "4.5, porque es el promedio deseado",
           "is_correct": false,
           "feedback": "Explica el error conceptual: confunde la nota buscada con el promedio meta; con 4.5 el promedio sería 4.125."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Si el promedio de 4 datos debe ser 4.5, la suma total es 18. Restar lo acumulado (12) da la nota faltante: 6. Despejar desde la definición de media resuelve metas académicas.",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En Cartagena se encuestó el número de hijos por familia: 2, 1, 3, 2, 4, 2, 1.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Moda 2 y mediana 2",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: el 2 aparece 3 veces (moda) y ordenados (1, 1, 2, 2, 2, 3, 4) el central es 2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Moda 1 y mediana 4",
           "is_correct": false,
           "feedback": "Explica el error conceptual: el 1 aparece 2 veces (no es moda) y 4 es el máximo, no la mediana."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Moda 4 y mediana 1",
           "is_correct": false,
           "feedback": "Explica el error conceptual: invierte los papeles del máximo y el mínimo con las medidas centrales."
@@ -359,7 +359,7 @@
           "feedback": "Explica el error conceptual: el 3 aparece una vez y 7 ni siquiera es un dato de la encuesta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Calcular ambas medidas sobre los mismos datos (moda por frecuencia, mediana por orden) y hallar que coinciden en 2 refuerza la lectura completa de una distribución.",
       "difficulty": "8",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "En Manizales dos cursos comparan notas: curso A: 3, 3, 3, 5, 5, 5 y curso B: 4, 4, 4, 4, 4, 4. Ambos tienen media 4.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El curso B, porque todas sus notas son iguales a la media y no se dispersan",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: en B no hay variación (todos 4), mientras A mezcla 3 y 5 aunque promedie igual."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El curso A, porque tiene notas más altas como el 5",
           "is_correct": false,
           "feedback": "Explica el error conceptual: también tiene 3, y la consistencia se mide por variación, no por el máximo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambos igual, porque las medias son iguales",
           "is_correct": false,
           "feedback": "Explica el error conceptual: igual media no implica igual distribución; la dispersión también importa."
@@ -405,7 +405,7 @@
           "feedback": "Explica el error conceptual: más notas distintas significa menos consistencia, no más."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La media sola no cuenta toda la historia: dos grupos con igual promedio pueden dispersarse distinto. El curso B es perfectamente consistente (variación cero), lección que anticipa la idea de dispersión estadística.",
       "difficulty": "10",
       "images": [],

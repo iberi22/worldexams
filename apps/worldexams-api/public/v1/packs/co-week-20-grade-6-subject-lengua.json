@@ -19,13 +19,13 @@
           "feedback": "Incorrecto. Hay tres oraciones distintas separadas por puntos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Todos los puntos son puntos finales.",
           "is_correct": false,
           "feedback": "Incorrecto. Los primeros son puntos seguidos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Hay punto seguido entre oraciones y punto final al cerrar el texto.",
           "is_correct": true,
           "feedback": "Correcto. Cada función corresponde a un tipo de punto."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Las tres oraciones tratan el mismo día."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Punto seguido une oraciones dentro del mismo párrafo. Punto y aparte separa párrafos. Punto final cierra el texto. Usarlos bien ayuda a respirar entre ideas y a organizar la lectura.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "Un aviso de Medellín dice: «Estimados padres, los esperamos el viernes 26 a las 5 p.m. en el auditorio».",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Cierra el aviso como signo final.",
           "is_correct": false,
           "feedback": "Incorrecto. Para cerrar se usa el punto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Separa el vocativo (a quién se dirige) del resto de la oración.",
           "is_correct": true,
           "feedback": "Correcto. La coma aísla el saludo o llamado de atención."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. La coma no reemplaza verbos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La coma se usa para: 1) aislar el vocativo (Juan, ven aquí); 2) enumerar elementos (traigo pan, leche y queso); 3) marcar aposiciones; 4) separar complementos largos. No se usa para separar sujeto de verbo.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "Una receta de Pereira lleva como ingredientes: «tomates, cebolla, ajo, cilantro y aceite de oliva».",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El punto y coma, porque cada ingrediente es una oración.",
           "is_correct": false,
           "feedback": "Incorrecto. No son oraciones, son sustantivos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Los puntos suspensivos, porque la lista podría seguir.",
           "is_correct": false,
           "feedback": "Incorrecto. Los puntos suspensivos sugieren continuación indefinida."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "La coma, porque separa elementos en una enumeración.",
           "is_correct": true,
           "feedback": "Correcto. Antes del último elemento se coloca «y» en lugar de otra coma."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. El punto no separa elementos dentro de una misma oración."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Al enumerar elementos dentro de una oración, se separan con coma y antes del último se usa la conjunción «y» (o «o», si son opciones). Esta regla da ritmo y claridad a la lista.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "Un alumno de Bucaramanga escribe: «¿Cuándo empieza la clase? ¿Quién es el profesor nuevo? ¿A qué hora salimos?».",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Solo se coloca el signo al final de la pregunta.",
           "is_correct": false,
           "feedback": "Incorrecto. En español se usan dos signos: uno de apertura y otro de cierre."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se coloca el signo de apertura invertido (¿) al inicio y el de cierre (?) al final.",
           "is_correct": true,
           "feedback": "Correcto. La doble marca es una particularidad del español."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Sin signo de cierre la pregunta queda abierta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El español usa la doble marca de interrogación (¿?) y exclamación (¡!). Esta convención indica al lector, desde la primera palabra, que viene una pregunta o una exclamación y evita ambigüedades.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -301,19 +301,19 @@
           "feedback": "Incorrecto. Los dos puntos son correctos antes de la cita."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Dos puntos para introducir la cita, signos dobles de exclamación por la intensidad.",
           "is_correct": true,
           "feedback": "Correcto. Cada signo cumple una función precisa."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El punto final debería ir después de los signos de exclamación.",
           "is_correct": false,
           "feedback": "Incorrecto. El signo de cierre ya cierra la oración."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Combinar signos es válido: los dos puntos pueden anteceder exclamaciones, citas, enumeraciones y preguntas. Lo importante es que cada signo tenga una razón y no se acumulen por costumbre.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Un cuento de Neiva dice: «Entonces el abuelo murmuró — bajito, bajito — que guardáramos el secreto...».",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Las rayas son signos finales y los puntos suspensivos una coma.",
           "is_correct": false,
           "feedback": "Incorrecto. Cada signo cumple funciones distintas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las rayas enmarcan un inciso y los puntos suspensivos dejan abierto el sentido.",
           "is_correct": true,
           "feedback": "Correcto. Cada marca aporta ritmo y misterio al relato."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Cada signo tiene su uso apropiado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Las rayas (—) enmarcan incisos y diálogos. Los puntos suspensivos (...) sugieren continuidad, duda o un final abierto. Ambos signos dan expresividad al texto cuando se usan con intención.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,13 +387,13 @@
           "feedback": "Incorrecto. Una coma no debe separar sujeto de verbo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La coma sobra y debe eliminarse antes de «que».",
           "is_correct": true,
           "feedback": "Correcto. La conjunción «que» no se aísla con coma salvo en casos especiales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Falta una coma después de «estudio».",
           "is_correct": false,
           "feedback": "Incorrecto. Esa coma no aporta claridad y rompería la oración."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. No hay enumeración ni cita, solo subordinación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Una regla clave: la coma no debe separar el verbo de su complemento directo ni al sujeto del verbo. Su uso incorrecto fragmenta la oración y dificulta la comprensión.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -433,13 +433,13 @@
           "feedback": "Incorrecto. Los signos están mal empleados."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Faltan mayúsculas tras los signos y los signos de exclamación e interrogación deben ir dobles.",
           "is_correct": true,
           "feedback": "Correcto. Cada error afecta la presentación y la lectura."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solo hay que añadir comas para separar palabras.",
           "is_correct": false,
           "feedback": "Incorrecto. Las comas no resuelven los errores señalados."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. La puntuación es fundamental para la claridad."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Después de punto, signo de exclamación o de interrogación se empieza con mayúscula. Los signos dobles (¡!, ¿?) son obligatorios en español. Cuidarlos refleja respeto por el lector y por la lengua.",
       "difficulty": "10",
       "images": [],

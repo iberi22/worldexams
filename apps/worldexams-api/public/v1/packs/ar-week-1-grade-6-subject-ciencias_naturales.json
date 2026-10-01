@@ -58,13 +58,13 @@
       "context": "En una salida didáctica a la Reserva Ecológica Costanera Sur, un guía explica que los seres vivos se pueden clasificar según la cantidad de células que poseen.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Los unicelulares no tienen ADN y los pluricelulares sí.",
           "is_correct": false,
           "feedback": "Incorrecto. Todos los seres vivos contienen material genético (ADN)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los unicelulares están formados por una sola célula y los pluricelulares por muchas.",
           "is_correct": true,
           "feedback": "¡Correcto! Esa es la distinción básica basada en la organización celular."
@@ -82,7 +82,7 @@
           "feedback": "No, generalmente es al revés; los pluricelulares suelen ser macroscópicos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La clasificación en unicelulares y pluricelulares se basa en el número de células. Los organismos unicelulares realizan todas sus funciones en una única célula, mientras que los pluricelulares tienen niveles de organización más complejos.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -109,25 +109,25 @@
           "feedback": "No, si produce su alimento con luz, no consume a otros."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Autótrofo, probablemente dentro del reino de las plantas.",
           "is_correct": true,
           "feedback": "¡Muy bien! Los organismos que fabrican su alimento mediante fotosíntesis son autótrofos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Descomponedor, porque absorbe nutrientes del suelo.",
           "is_correct": false,
           "feedback": "Incorrecto. Los descomponedores son heterótrofos que degradan materia orgánica."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Carnívoro, porque necesita energía externa.",
           "is_correct": false,
           "feedback": "No, los carnívoros son heterótrofos que se alimentan de animales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La nutrición autótrofa es característica de las plantas y algunas algas/bacterias que realizan fotosíntesis. Esto les permite transformar energía lumínica y materia inorgánica en materia orgánica (alimento).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrecto. La falta de un órgano específico no quita la condición de ser vivo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Porque permite entender su evolución y su relación con otros grupos de organismos.",
           "is_correct": true,
           "feedback": "¡Correcto! La clasificación científica refleja el parentesco y la historia evolutiva."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque solo las plantas pueden estar en el mar.",
           "is_correct": false,
           "feedback": "Falso. Hay muchísimos organismos de distintos reinos en el mar."
@@ -217,7 +217,7 @@
           "feedback": "No es cierto. Muchas algas son beneficiosas e incluso comestibles."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La clasificación biológica no es caprichosa; busca organizar la diversidad según características compartidas y ancestros comunes. Identificar que las algas difieren de las plantas terrestres ayuda a comprender la complejidad de la vida acuática.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,19 +238,19 @@
       "context": "En Salta, un agricultor nota que sus cultivos crecen menos si el suelo pierde ciertos microorganismos invisibles a simple vista.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Producir oxígeno para que las plantas respiren.",
           "is_correct": false,
           "feedback": "No, esa es principalmente la función de los organismos fotosintéticos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Servir de alimento principal para los grandes carnívoros.",
           "is_correct": false,
           "feedback": "Incorrecto. Los carnívoros no se alimentan directamente de bacterias u hongos del suelo."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Transformar la materia orgánica muerta en sustancias inorgánicas útiles para las plantas.",
           "is_correct": true,
           "feedback": "¡Excelente! Reciclan los nutrientes para que vuelvan a entrar en la red trófica."
@@ -262,7 +262,7 @@
           "feedback": "No, aunque la descomposición genera calor, no es su rol biológico fundamental."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Los descomponedores cierran el ciclo de la materia. Al degradar restos de animales y plantas, liberan minerales al suelo, permitiendo que las plantas (productores) vuelvan a utilizarlos para crecer.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -289,25 +289,25 @@
           "feedback": "No, la nutrición se encarga de la obtención de energía y materia."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Relación",
           "is_correct": true,
           "feedback": "¡Correcto! La función de relación permite detectar cambios externos y responder a ellos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Reproducción",
           "is_correct": false,
           "feedback": "Incorrecto. La reproducción asegura la continuidad de la especie, no la respuesta al frío."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Fotosíntesis",
           "is_correct": false,
           "feedback": "No, los animales no realizan fotosíntesis."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La función de relación (o irritabilidad) es la que permite a los seres vivos recibir información del medio (estímulos, como el frío) y elaborar una respuesta adecuada para mantener su equilibrio interno.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "Leés en un diario de Rosario que se descubrió una nueva especie de hongo en las islas del Paraná. Algunos piensan que es una planta porque no se mueve.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque los hongos son unicelulares y las plantas no.",
           "is_correct": false,
           "feedback": "Incorrecto. Hay hongos pluricelulares (como los champiñones)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque los hongos son heterótrofos por absorción y las plantas son autótrofas.",
           "is_correct": true,
           "feedback": "¡Correcto! Los hongos no fabrican su alimento; lo absorben de materia orgánica."
@@ -352,7 +352,7 @@
           "feedback": "No es cierto. Aunque muchos prefieren la sombra, no es su característica definitoria."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La diferencia clave es el modo de nutrición. Las plantas son autótrofas (fotosíntesis). Los hongos son heterótrofos: secretan enzimas para digerir materia orgánica externa y luego absorben los nutrientes.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Un grupo conservacionista en Corrientes quiere proteger los esteros del Iberá. Argumentan que la pérdida de biodiversidad afecta la estabilidad de todo el ambiente.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque cuantas más especies hay, más lindo se ve el paisaje para el turismo.",
           "is_correct": false,
           "feedback": "Aunque es cierto, no es una justificación científica de funcionamiento biológico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque cada especie cumple una función (nicho) que permite el flujo de energía y el ciclo de nutrientes.",
           "is_correct": true,
           "feedback": "¡Correcto! La interdependencia entre especies mantiene el equilibrio del ecosistema."
@@ -442,7 +442,7 @@
           "feedback": "No necesariamente; la falta de un depredador puede causar una sobrepoblación de herbívoros que dañe las plantas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La biodiversidad garantiza que se cumplan todas las funciones ecológicas necesarias (producción, consumo, descomposición). La desaparición de una especie puede romper eslabones de las cadenas tróficas y desestabilizar el sistema completo.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación |\n| :--- | :--- |\n| Técnico | 30 |\n| Curricular | 40 |\n| Contexto | 20 |\n| Redacción | 10 |\n| **Total** | **100** |",
       "difficulty": "10",
       "images": [],

@@ -13,19 +13,19 @@
       "context": "En Santa Cruz, Jhonny en el Colegio Nacional Santa Cruz analiza el ejercicio #1: triángulo rectángulo con catetos 6 cm y 8 cm.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "sin(θ) = 3/5 = 0,6",
           "is_correct": true,
           "feedback": "¡Correcto! Hipotenusa = √(6² + 8²) = 10. sin(θ) = Cateto Opuesto / Hipotenusa = 6/10 = 3/5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "sin(θ) = 4/5 = 0,8",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste el coseno dividiendo el cateto adyacente entre la hipotenusa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "sin(θ) = 3/4 = 0,75",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste la tangente dividiendo opuesto entre adyacente."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Invertiste la razón trigonométrica dividiendo hipotenusa entre opuesto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La hipotenusa mide c = √(6² + 8²) = 10 cm. El seno del ángulo es sin(θ) = Opuesto / Hipotenusa = 6 / 10 = 3/5 = 0,6.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "En Cochabamba, Marisol en el Colegio Nacional Sucre analiza el ejercicio #2: triángulo rectángulo con hipotenusa 13 cm y cateto adyacente 5 cm.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "cos(θ) = 5/13",
           "is_correct": true,
           "feedback": "¡Correcto! cos(θ) = Cateto Adyacente / Hipotenusa = 5/13."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "cos(θ) = 12/13",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste el seno del ángulo opuesto."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Calculaste la secante en lugar del coseno."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por definición, el coseno de un ángulo agudo en un triángulo rectángulo es cos(θ) = Cateto Adyacente / Hipotenusa = 5/13.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "En Sucre, Walter en el Colegio Nacional Junín analiza el ejercicio #3: expresión tan(45°) + sin(30°).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "1,5",
           "is_correct": true,
           "feedback": "¡Correcto! tan(45°) = 1, sin(30°) = 0,5. La suma es 1 + 0,5 = 1,5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2,0",
           "is_correct": false,
           "feedback": "Incorrecto. Asumiste erróneamente que sin(30°) era igual a 1."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Asumiste que tan(45°) valía 0."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Sabemos que tan(45°) = 1 y sin(30°) = 1/2 = 0,5. Por tanto, tan(45°) + sin(30°) = 1 + 0,5 = 1,5.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "En Potosí, Sonia en el Colegio Nacional Bolívar analiza el ejercicio #4: simplifica la identidad sin²(x) + cos²(x) + tan²(x).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "sec²(x)",
           "is_correct": true,
           "feedback": "¡Correcto! Por la identidad pitagórica sin²(x) + cos²(x) = 1. Luego 1 + tan²(x) = sec²(x)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "csc²(x)",
           "is_correct": false,
           "feedback": "Incorrecto. Confundiste la secante con la cosecante."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Olvidaste sumar el término tan²(x)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la identidad fundamental sin²(x) + cos²(x) = 1. Sustituyendo: 1 + tan²(x) = sec²(x).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,31 +193,31 @@
       "context": "En Oruro, Ramiro en el Colegio Nacional Potosí analiza el ejercicio #5: evalúa cos(60°) · cos(30°) - sin(60°) · sin(30°).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "0",
           "is_correct": true,
           "feedback": "¡Correcto! Corresponde a cos(60° + 30°) = cos(90°) = 0."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1",
           "is_correct": false,
           "feedback": "Incorrecto. Confundiste cos(90°) con cos(0°)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1/2",
           "is_correct": false,
           "feedback": "Incorrecto. Evaluaste con error el producto de razones."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "√3/2",
           "is_correct": false,
           "feedback": "Incorrecto. Tomaste el valor individual de cos(30°)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por la identidad del coseno de la suma: cos(A)cos(B) - sin(A)sin(B) = cos(A + B). Aquí cos(60° + 30°) = cos(90°) = 0.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "En Trinidad, Jaime en el Liceo Pantaleón Dalence analiza el ejercicio #7: triángulo con A = 30°, a = 8 cm y B = 45°.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "b = 8√2 cm",
           "is_correct": true,
           "feedback": "¡Correcto! a / sin(A) = b / sin(B) ⇒ 8 / sin(30°) = b / sin(45°) ⇒ 8 / 0,5 = b / (√2/2) ⇒ b = 8√2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "b = 16 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste multiplicar por sin(45°) = √2/2."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Asumiste que lados opuestos a ángulos distintos eran iguales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Teorema del Seno: a / sin(A) = b / sin(B) ⇒ 8 / (1/2) = b / (√2/2) ⇒ 16 = b / (√2/2) ⇒ b = 16(√2/2) = 8√2 cm.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,31 +328,31 @@
       "context": "En Cobija, Marcela en el Colegio Don Bosco analiza el ejercicio #8: función f(x) = 3 sin(4x).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "T = π/2 rad",
           "is_correct": true,
           "feedback": "¡Correcto! El período de A sin(Bx) es T = 2π / B = 2π / 4 = π/2 rad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "T = 2π rad",
           "is_correct": false,
           "feedback": "Incorrecto. No dividiste entre la frecuencia angular B = 4."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "T = π rad",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste entre 2 en lugar de 4."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "T = 4π rad",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste por B en lugar de dividir."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El período de f(x) = A sin(Bx) se calcula como T = 2π / |B|. Con B = 4: T = 2π / 4 = π/2 radianes.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "En El Alto, Grover en el Colegio San Calixto analiza el ejercicio #9: función g(x) = -5 cos(2x) + 1.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Amplitud A = 5",
           "is_correct": true,
           "feedback": "¡Correcto! La amplitud es el valor absoluto del coeficiente de la función trigonométrica: A = |-5| = 5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Amplitud A = -5",
           "is_correct": false,
           "feedback": "Incorrecto. La amplitud es siempre una cantidad positiva o nula."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Sumaste la constante de desplazamiento vertical +1."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La amplitud de f(x) = A cos(Bx) + C es la magnitud |A|. Como el coeficiente es -5, la amplitud es |-5| = 5.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,19 +418,19 @@
       "context": "En La Paz, Carlos en el Colegio Nacional Ayacucho analiza el ejercicio #10: resuelve sin(x) = 1/2 en el intervalo agudo [0, 90°].",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "x = 30°",
           "is_correct": true,
           "feedback": "¡Correcto! El ángulo agudo cuyo seno es 1/2 es 30° (π/6 rad)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 60°",
           "is_correct": false,
           "feedback": "Incorrecto. 60° tiene seno igual a √3/2, no 1/2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x = 45°",
           "is_correct": false,
           "feedback": "Incorrecto. 45° tiene seno igual a √2/2, no 1/2."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. 90° tiene seno igual a 1."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En el primer cuadrante, el ángulo cuya razón seno equivale a 1/2 es x = arcsin(1/2) = 30°.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,31 +463,31 @@
       "context": "En Santa Cruz, Ana en el Colegio Nacional Santa Cruz analiza el ejercicio #11: simplifica (1 - cos²(x)) / sin(x).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "sin(x)",
           "is_correct": true,
           "feedback": "¡Correcto! Como 1 - cos²(x) = sin²(x), resulta sin²(x) / sin(x) = sin(x)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "cos(x)",
           "is_correct": false,
           "feedback": "Incorrecto. Confundiste sin(x) con cos(x)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "tan(x)",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste sin(x) entre cos(x) en lugar de cancelar sin(x)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "1",
           "is_correct": false,
           "feedback": "Incorrecto. Cancelaste de forma errónea los exponentes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Usando la identidad pitagórica 1 - cos²(x) = sin²(x): sin²(x) / sin(x) = sin(x).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "En Cochabamba, Marcos en el Colegio Nacional Sucre analiza el ejercicio #12: sin(x) = 3/5 con x en el I cuadrante.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "tan(x) = 3/4",
           "is_correct": true,
           "feedback": "¡Correcto! cos(x) = √(1 - 9/25) = 4/5. tan(x) = sin(x)/cos(x) = (3/5)/(4/5) = 3/4."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "tan(x) = 4/3",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la relación dividiendo coseno entre seno."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Confundiste la tangente con el coseno."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Primero hallamos cos(x) = √(1 - sin²(x)) = √(1 - 9/25) = 4/5. Luego tan(x) = sin(x)/cos(x) = (3/5)/(4/5) = 3/4.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,31 +553,31 @@
       "context": "En Sucre, Lidia en el Colegio Nacional Junín analiza el ejercicio #13: evalúa sec(60°) + csc(30°).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "4",
           "is_correct": true,
           "feedback": "¡Correcto! sec(60°) = 1/cos(60°) = 2; csc(30°) = 1/sin(30°) = 2. Suma = 2 + 2 = 4."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. Consideraste solo uno de los términos de la suma."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "√3",
           "is_correct": false,
           "feedback": "Incorrecto. Evaluaste razones sin invertirlas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "3",
           "is_correct": false,
           "feedback": "Incorrecto. Erraste en la suma de las razones recíprocas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "sec(60°) = 1 / cos(60°) = 1 / (1/2) = 2. csc(30°) = 1 / sin(30°) = 1 / (1/2) = 2. Suma = 2 + 2 = 4.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "En Potosí, Andrés en el Colegio Nacional Bolívar analiza el ejercicio #14: evalúa el valor exacto de sin(120°).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "√3/2",
           "is_correct": true,
           "feedback": "¡Correcto! 120° está en el II cuadrante donde el seno es positivo: sin(120°) = sin(180° - 60°) = sin(60°) = √3/2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "-√3/2",
           "is_correct": false,
           "feedback": "Incorrecto. Asignaste signo negativo cuando el seno es positivo en el segundo cuadrante."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Corresponde al valor de cos(120°)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Reduciendo al primer cuadrante: sin(120°) = sin(180° - 120°) = sin(60°) = √3/2.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,19 +643,19 @@
       "context": "En Oruro, Zulma en el Colegio Nacional Potosí analiza el ejercicio #15: evalúa cos(180°).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "-1",
           "is_correct": true,
           "feedback": "¡Correcto! En la circunferencia unitaria, el punto a 180° tiene coordenadas (-1, 0), por lo que cos(180°) = -1."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1",
           "is_correct": false,
           "feedback": "Incorrecto. 1 es el coseno de 0° o 360°."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0",
           "is_correct": false,
           "feedback": "Incorrecto. 0 es el coseno de 90° o 270°."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. La función coseno está definida para todos los reales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En la circunferencia trigonométrica unitaria, x = cos(θ). A θ = 180° (π rad), la abscisa es x = -1.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "En Tarija, Rosmery en el Colegio Nacional San Luis analiza el ejercicio #16: resuelve cos(2x) = 0 para x en el intervalo [0, 90°].",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "x = 45°",
           "is_correct": true,
           "feedback": "¡Correcto! cos(2x) = 0 ⇒ 2x = 90° ⇒ x = 45°."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 90°",
           "is_correct": false,
           "feedback": "Incorrecto. Para x = 90°, cos(180°) = -1 ≠ 0."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x = 30°",
           "is_correct": false,
           "feedback": "Incorrecto. Para x = 30°, cos(60°) = 1/2 ≠ 0."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Para x = 60°, cos(120°) = -1/2 ≠ 0."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El ángulo cuya razón coseno es 0 en el primer cuadrante es 90°. Por ende 2x = 90° ⇒ x = 45°.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,19 +733,19 @@
       "context": "En Trinidad, Willy en el Liceo Pantaleón Dalence analiza el ejercicio #17: convierte 120° a radianes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "2π/3 rad",
           "is_correct": true,
           "feedback": "¡Correcto! 120° × (π / 180°) = 120π / 180 = 2π/3 rad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3π/4 rad",
           "is_correct": false,
           "feedback": "Incorrecto. 3π/4 equivale a 135°."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "π/3 rad",
           "is_correct": false,
           "feedback": "Incorrecto. π/3 equivale a 60°."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. 5π/6 equivale a 150°."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para convertir grados a radianes multiplicamos por (π / 180°): 120° × (π / 180°) = 120π / 180 = 2π/3 rad.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "En El Alto, Felipe en el Colegio San Calixto analiza el ejercicio #19: simplifica sec(x) · cos(x).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "1",
           "is_correct": true,
           "feedback": "¡Correcto! sec(x) = 1/cos(x). Luego (1/cos(x)) · cos(x) = 1."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "tan(x)",
           "is_correct": false,
           "feedback": "Incorrecto. Confundiste la secante con el seno."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Confundiste las identidades recíprocas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por definición de razón recíproca, sec(x) = 1 / cos(x). Así, sec(x) · cos(x) = (1/cos(x)) · cos(x) = 1.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "En La Paz, Roxana en el Colegio Nacional Ayacucho analiza el ejercicio #20: sector circular con radio r = 10 cm y ángulo central θ = 2 rad.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "s = 20 cm",
           "is_correct": true,
           "feedback": "¡Correcto! La fórmula de longitud de arco es s = r · θ = 10 · 2 = 20 cm."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "s = 10 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste multiplicar por el ángulo θ = 2 rad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "s = 5 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste en lugar de multiplicar."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Multiplicaste por 4 en lugar de 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La longitud de arco s en una circunferencia de radio r con ángulo central θ en radianes es s = r · θ = 10 cm × 2 rad = 20 cm.",
       "difficulty": "10",
       "images": [],

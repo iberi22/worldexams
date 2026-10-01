@@ -381,31 +381,31 @@
       "context": "En una clase de geometría en Pereira, la profesora dibuja una circunferencia en el tablero y señala sus partes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El centro.",
           "is_correct": true,
           "feedback": "Todos los puntos de la circunferencia están a igual distancia del centro."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El radio.",
           "is_correct": false,
           "feedback": "El radio es la distancia del centro a la circunferencia, no un punto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La cuerda.",
           "is_correct": false,
           "feedback": "La cuerda es un segmento que une dos puntos de la circunferencia."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El diámetro.",
           "is_correct": false,
           "feedback": "El diámetro es un segmento que pasa por el centro y une dos puntos de la circunferencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Reconocer el centro como el punto equidistante de todos los puntos de la circunferencia.",
       "difficulty": "4",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "Valentina observa una rueda de bicicleta y mide la distancia del centro al borde.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El diámetro mide el doble del radio.",
           "is_correct": true,
           "feedback": "El diámetro equivale a dos radios porque une dos puntos pasando por el centro."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El radio mide el doble del diámetro.",
           "is_correct": false,
           "feedback": "Es al contrario: el diámetro es el doble del radio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El radio y el diámetro siempre miden lo mismo.",
           "is_correct": false,
           "feedback": "El diámetro siempre es mayor: equivale a dos radios."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El radio no tiene ninguna relación con el diámetro.",
           "is_correct": false,
           "feedback": "Sí existe relación: el diámetro es dos veces el radio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Comprender la relación entre el radio y el diámetro de una circunferencia.",
       "difficulty": "4",
       "images": [],
@@ -565,19 +565,19 @@
       "context": "Tomás dibuja una circunferencia y traza un segmento que une dos puntos del borde sin pasar por el centro.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Cuerda, porque une dos puntos de la circunferencia.",
           "is_correct": true,
           "feedback": "La cuerda es cualquier segmento que une dos puntos de la circunferencia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Radio, porque va del centro al borde.",
           "is_correct": false,
           "feedback": "El radio sale del centro; el segmento trazado une dos puntos del borde."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Diámetro, porque pasa por el centro.",
           "is_correct": false,
           "feedback": "El segmento no pasa por el centro, por eso no es un diámetro."
@@ -589,7 +589,7 @@
           "feedback": "El centro es un punto, no un segmento que une dos puntos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Analizar las diferencias entre cuerda, radio y diámetro según su posición respecto al centro.",
       "difficulty": "8",
       "images": [],
@@ -611,13 +611,13 @@
       "context": "Se comparan dos platos: el plato grande tiene un radio de 10 centímetros y el plato pequeño un radio de 5 centímetros.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El diámetro del plato grande es el doble que el del plato pequeño.",
           "is_correct": true,
           "feedback": "Si el radio es el doble, el diámetro también es el doble: 20 cm frente a 10 cm."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los dos platos tienen el mismo diámetro.",
           "is_correct": false,
           "feedback": "Los radios son diferentes, por lo que sus diámetros también lo son."
@@ -635,7 +635,7 @@
           "feedback": "El diámetro siempre es el doble del radio en cualquier círculo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Analizar la relación proporcional entre el radio y el diámetro al comparar objetos circulares.",
       "difficulty": "8",
       "images": [],
@@ -657,31 +657,31 @@
       "context": "Un estudiante afirma que si duplica el radio de una circunferencia, el diámetro sigue midiendo lo mismo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Es falsa, porque si el radio se duplica, el diámetro también se duplica.",
           "is_correct": true,
           "feedback": "Como el diámetro es el doble del radio, al duplicar el radio el diámetro crece en la misma proporción."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es verdadera, porque el diámetro no depende del radio.",
           "is_correct": false,
           "feedback": "El diámetro depende directamente del radio, que es la mitad de su medida."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es verdadera, porque el radio y el diámetro son independientes.",
           "is_correct": false,
           "feedback": "No son independientes: el diámetro siempre es dos veces el radio."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es falsa, porque el diámetro se reduce a la mitad.",
           "is_correct": false,
           "feedback": "Al aumentar el radio, el diámetro aumenta, no se reduce."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluar afirmaciones sobre la relación entre radio y diámetro y justificar su validez.",
       "difficulty": "10",
       "images": [],

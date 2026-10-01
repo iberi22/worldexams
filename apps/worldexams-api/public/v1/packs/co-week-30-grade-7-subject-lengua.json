@@ -111,13 +111,13 @@
           "feedback": "Los números aquí sirven para marcar una secuencia, no valores monetarios."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Establecer el orden lógico y cronológico en que ocurre el proceso.",
           "is_correct": true,
           "feedback": "La numeración guía el recorrido de lectura en un proceso que tiene un inicio y un fin."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Contar cuántas personas trabajan en cada una de las fases.",
           "is_correct": false,
           "feedback": "No hay información que sugiera que los números representen cantidad de trabajadores."
@@ -129,7 +129,7 @@
           "feedback": "En un ciclo, todas las etapas son necesarias; el orden es temporal, no de importancia jerárquica."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Las infografías de proceso utilizan guías numéricas para convertir una lectura espacial en una lectura secuencial, asegurando que el receptor entienda el flujo correcto de la información.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Quieres crear una infografía para explicar las reglas del fútbol de salón en tu escuela de Pasto. Tienes mucha información sobre la historia del deporte, las medidas de la cancha, las faltas y los uniformes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Poner todo el texto que encontraste en internet con letra muy pequeña.",
           "is_correct": false,
           "feedback": "Esto satura al lector y rompe el propósito de la infografía."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Seleccionar y resumir la información más importante, priorizando lo visual sobre lo textual.",
           "is_correct": true,
           "feedback": "La síntesis es la clave de la infografía; se debe dejar solo lo esencial para que el mensaje sea directo."
@@ -221,7 +221,7 @@
           "feedback": "Una infografía suele ser de una sola página o pantalla para permitir una visión global."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La producción de infografías requiere un proceso de curaduría de contenidos. El autor debe decidir qué información se puede \"decir\" con una imagen y qué información necesita obligatoriamente de la palabra escrita.",
       "difficulty": "6",
       "images": [],
@@ -255,19 +255,19 @@
           "feedback": "Las infografías digitales siguen usando texto, pero de forma dinámica."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "La interactiva permite al usuario explorar la información a su propio ritmo y por niveles de profundidad.",
           "is_correct": true,
           "feedback": "La interactividad añade una capa de participación del usuario que no existe en el formato estático."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La impresa siempre es más barata de producir en todos los casos.",
           "is_correct": false,
           "feedback": "No siempre es cierto y no es una diferencia de tipo comunicativo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La multimodalidad digital añade la dimensión de la interactividad. Esto permite que la infografía no solo sea visual, sino que también responda a las acciones del lector, facilitando el aprendizaje personalizado.",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Analiza una infografía que compara la altura del Salto del Tequendama con edificios famosos del mundo. El Salto del Tequendama aparece a la izquierda y los edificios a la derecha, todos a la misma escala visual.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La personificación de los edificios.",
           "is_correct": false,
           "feedback": "No se les está dando características humanas, solo se muestran sus dimensiones."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La analogía o comparación con objetos conocidos para dar contexto a una cifra.",
           "is_correct": true,
           "feedback": "Al comparar algo con lo que el lector ya conoce (como un edificio), se facilita la comprensión de magnitudes abstractas (como metros de altura)."
@@ -313,7 +313,7 @@
           "feedback": "Esto sería un recurso auditivo o literario, no propio del diseño visual de esta infografía."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Las infografías comparativas son muy efectivas porque aterrizan datos abstractos en referentes visuales concretos, permitiendo al cerebro realizar operaciones de tamaño y proporción de manera casi instantánea.",
       "difficulty": "8",
       "images": [],
@@ -341,13 +341,13 @@
           "feedback": "Es una interpretación literal errónea del simbolismo visual."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que el computador es más rápido que el cerebro humano.",
           "is_correct": false,
           "feedback": "La imagen sugiere lo contrario respecto al desarrollo del cerebro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una valoración negativa del uso de la tecnología frente a una idealización de la lectura tradicional.",
           "is_correct": true,
           "feedback": "Los iconos (cerebro encogido vs. grande) imponen un juicio de valor antes de que el lector analice los datos reales."
@@ -359,7 +359,7 @@
           "feedback": "Los gráficos son simbólicos, no representan cambios anatómicos reales."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El análisis crítico de infografías implica identificar cómo los recursos gráficos (tamaño, color, caricaturización) pueden usarse para manipular la opinión del lector o simplificar excesivamente problemas complejos.",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En una infografía sobre nutrición pagada por una marca de cereales azucarados, se destaca en letras grandes \"Contiene Vitaminas\" y se pone en una esquina muy pequeña, con letra gris, \"Alto en azúcar\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Siguiendo las normas legales colombianas de etiquetado de manera honesta.",
           "is_correct": false,
           "feedback": "El diseño busca minimizar la información negativa, lo cual no es necesariamente honesto aunque cumpla la ley."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Usando el tamaño y el contraste para dar relevancia a lo positivo y ocultar visualmente lo negativo.",
           "is_correct": true,
           "feedback": "La jerarquía visual dirige la atención hacia lo que la marca quiere resaltar, manipulando el recorrido de lectura."
@@ -405,7 +405,7 @@
           "feedback": "El gris sobre blanco tiene poco contraste, lo que dificulta su lectura a propósito."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La jerarquía visual es el orden en que el ojo percibe los elementos. En la lectura crítica de infografías, se debe notar cómo el diseño puede usarse para desviar la atención de datos críticos mediante la falta de contraste o el tamaño reducido.",
       "difficulty": "10",
       "images": [],

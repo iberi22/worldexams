@@ -19,25 +19,25 @@
           "feedback": "Incorrect. Logic is based on reason, not emotion."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Logic",
           "is_correct": true,
           "feedback": "Correct. The branch of philosophy concerned with reasoning."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fiction",
           "is_correct": false,
           "feedback": "Incorrect. Fiction is imaginary."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Rhetoric",
           "is_correct": false,
           "feedback": "Incorrect. Rhetoric is the art of persuasion, which may or may not use logic."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Logic' is the formal term for the systematic study of valid inference and argument.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "Discussing existentialism.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "emphasize",
           "is_correct": false,
           "feedback": "Incorrect. Subject-verb agreement ('philosophy' is singular)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "emphasizes",
           "is_correct": true,
           "feedback": "Correct. Present simple for a definition."
@@ -82,7 +82,7 @@
           "feedback": "Incorrect. Past tense."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The present simple 'emphasizes' is used to state a central characteristic of a philosophical movement.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -109,25 +109,25 @@
           "feedback": "Incorrect. 'If only' for past regret needs past perfect."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "had questioned",
           "is_correct": true,
           "feedback": "Correct. 'If only + past perfect' for past regret."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "have questioned",
           "is_correct": false,
           "feedback": "Incorrect. Present perfect."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "would question",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'If only' followed by the past perfect expresses a strong desire for the past to have been different.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Article about Socrates.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "inquiry",
           "is_correct": true,
           "feedback": "Correct. Inquiry is the act of asking for information."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "silence",
           "is_correct": false,
           "feedback": "Incorrect. Socrates was famous for talking/asking."
@@ -172,7 +172,7 @@
           "feedback": "Incorrect. He taught in public spaces."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "'Inquiry' (or 'Socratic inquiry') is the term for the investigative questioning style used by Socrates.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -289,25 +289,25 @@
           "feedback": "Incorrect. Active voice."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "is being explored",
           "is_correct": true,
           "feedback": "Correct. Present continuous passive for an ongoing area of study."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "explored",
           "is_correct": false,
           "feedback": "Incorrect. Past simple."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "has explored",
           "is_correct": false,
           "feedback": "Incorrect. Active voice."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The present continuous passive describes a topic that remains a focus of current, active investigation.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Reflecting on a philosopher's influence.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "was reading",
           "is_correct": false,
           "feedback": "Incorrect. Active voice and past continuous."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "had been widely read",
           "is_correct": true,
           "feedback": "Correct. Past perfect passive for duration/state before a past point."
@@ -397,7 +397,7 @@
           "feedback": "Incorrect. Present simple."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The past perfect passive describes the state of the philosopher's work prior to its translation.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,13 +424,13 @@
           "feedback": "Incorrect. Postmodernism usually denies absolute truth."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "objective",
           "is_correct": true,
           "feedback": "Correct. Objective means not influenced by personal feelings or opinions."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "simple",
           "is_correct": false,
           "feedback": "Incorrect. Context makes knowledge more complex, not simple."
@@ -442,7 +442,7 @@
           "feedback": "Incorrect. Truth is still a central topic of discussion."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Objective' refers to truth that is independent of individual or cultural perspective, a concept postmodernism famously questions.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,25 +469,25 @@
           "feedback": "Incorrect. A theory needs testing."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Axiom",
           "is_correct": true,
           "feedback": "Correct. A starting point assumed to be true."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Conclusion",
           "is_correct": false,
           "feedback": "Incorrect. An end point."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Question",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Axiom' is the term for a foundational principle that is accepted without proof as the basis for further reasoning.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Incorrect. Subject-verb agreement ('conclusion' is singular)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "follows",
           "is_correct": true,
           "feedback": "Correct. Present simple for a logical definition."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "followed",
           "is_correct": false,
           "feedback": "Incorrect. Past tense."
@@ -532,7 +532,7 @@
           "feedback": "Incorrect. Gerund."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "In logic, 'following from' refers to the necessary relationship between the starting points (premises) and the end result (conclusion).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -565,19 +565,19 @@
           "feedback": "Incorrect. Study of morality."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Epistemology",
           "is_correct": true,
           "feedback": "Correct. Study of knowledge."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Metaphysics",
           "is_correct": false,
           "feedback": "Incorrect. Study of the nature of reality."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "'Epistemology' is the specific philosophical name for the theory of knowledge.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "Incorrect."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Paradox",
           "is_correct": true,
           "feedback": "Correct. Standard term for a self-contradictory idea."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Slogan",
           "is_correct": false,
           "feedback": "Incorrect."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Myth",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Paradox' describes the specific type of contradictory statement that challenges normal logic.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,25 +739,25 @@
           "feedback": "Incorrect. Circular reasoning is a failure of logic."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "reasoning",
           "is_correct": true,
           "feedback": "Correct. Circular reasoning is a common logical fallacy."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "fact",
           "is_correct": false,
           "feedback": "Incorrect. It's a mistake, not a fact."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "proof",
           "is_correct": false,
           "feedback": "Incorrect. It's not a valid proof."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Reasoning' is the noun modified by 'circular' to describe this specific type of logical error.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrect. Focuses on the divine."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Humanism",
           "is_correct": true,
           "feedback": "Correct. Focuses on human value and agency."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Mysticism",
           "is_correct": false,
           "feedback": "Incorrect. Focuses on spiritual mystery."
@@ -802,7 +802,7 @@
           "feedback": "Incorrect. The belief that events are predetermined."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Humanism' is the philosophical perspective that emphasizes the dignity and potential of human beings.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,25 +829,25 @@
           "feedback": "Incorrect. Backshifted in reported speech."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "proved",
           "is_correct": true,
           "feedback": "Correct. Backshifted from 'proves' to 'proved'."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "will prove",
           "is_correct": false,
           "feedback": "Incorrect. Future."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "have proved",
           "is_correct": false,
           "feedback": "Incorrect. Present perfect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "In reported speech, we backshift the tense of the philosopher's original conclusion.\n\n---",
       "difficulty": "10",
       "images": [],

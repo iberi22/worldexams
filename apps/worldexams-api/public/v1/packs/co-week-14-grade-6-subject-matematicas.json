@@ -59,19 +59,19 @@
       "context": "En Medellín un gráfico de barras muestra los goles de 4 equipos escolares: Estrellas 8, Cometas 5, Relámpagos 11, Truenos 3.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Relámpagos, con 11 goles",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: identifica la barra más alta con el valor mayor."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Estrellas, con 8 goles",
           "is_correct": false,
           "feedback": "Explica el error conceptual: elige la primera barra alta pero no la máxima del gráfico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Truenos, con 3 goles",
           "is_correct": false,
           "feedback": "Explica el error conceptual: elige la barra más baja, que es el valor mínimo."
@@ -83,7 +83,7 @@
           "feedback": "Explica el error conceptual: selecciona un valor intermedio en lugar del máximo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En un gráfico de barras, la altura representa la cantidad. Comparar alturas permite identificar el máximo de forma visual: la barra de Relámpagos llega a 11, por encima de todas las demás.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En Cali una tabla registra las ventas de jugos en una semana: lunes 20, martes 35, miércoles 25, jueves 40.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "120 jugos",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: suma 20 más 35 más 25 más 40 y obtiene 120."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "100 jugos",
           "is_correct": false,
           "feedback": "Explica el error conceptual: omite 20 unidades al sumar de forma incompleta."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "110 jugos",
           "is_correct": false,
           "feedback": "Explica el error conceptual: comete un error de suma en las decenas finales."
@@ -129,7 +129,7 @@
           "feedback": "Explica el error conceptual: suma solo tres días y deja uno por fuera."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para obtener el total se suman todas las frecuencias de la tabla. La adición ordenada 20 más 35 es 55, más 25 es 80, más 40 es 120. El total resume el comportamiento de la semana.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En Barranquilla un gráfico lineal muestra la temperatura a las 8 a. m. 26 grados, a las 12 p. m. 31 grados y a las 4 p. m. 29 grados.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "A las 12 p. m., con 31 grados",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: identifica el punto más alto de la línea con el valor máximo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "A las 8 a. m., con 26 grados",
           "is_correct": false,
           "feedback": "Explica el error conceptual: elige el punto inicial, que es el valor más bajo."
@@ -175,7 +175,7 @@
           "feedback": "Explica el error conceptual: ignora las diferencias claras entre los tres puntos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El gráfico lineal une los valores en el tiempo y el punto más alto indica el máximo. A las 12 p. m. la línea alcanza 31 grados, por encima de 26 y 29. Leer puntos máximos ayuda a describir tendencias.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En Bucaramanga se preguntó a 40 estudiantes por su medio de transporte: 16 van en bus, 12 a pie, 8 en bicicleta y 4 en moto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "40 por ciento",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: 16 de 40 equivale a 40 de cada 100."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "16 por ciento",
           "is_correct": false,
           "feedback": "Explica el error conceptual: usa la frecuencia sin dividir entre el total de 40."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "25 por ciento",
           "is_correct": false,
           "feedback": "Explica el error conceptual: supone una cuarta parte sin calcular la fracción real."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "60 por ciento",
           "is_correct": false,
           "feedback": "Explica el error conceptual: calcula el complemento de quienes no van en bus."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El porcentaje se obtiene dividiendo la parte entre el total y multiplicando por 100. Con 16 sobre 40 se simplifica a 2 quintos, es decir 40 por ciento. Los porcentajes permiten comparar aunque cambie el total.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En Pereira un gráfico de barras compara la lluvia de abril en tres años: 2023 con 180 milímetros, 2024 con 240 milímetros y 2025 con 150 milímetros.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "2024 fue el año más lluvioso y superó a 2025 por 90 milímetros",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: identifica el máximo y calcula bien la diferencia 240 menos 150."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2023 fue el año más lluvioso con 240 milímetros",
           "is_correct": false,
           "feedback": "Explica el error conceptual: asigna a 2023 el valor que corresponde a 2024."
@@ -267,7 +267,7 @@
           "feedback": "Explica el error conceptual: ignora las alturas distintas de las tres barras."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Analizar implica ordenar y restar. El máximo es 2024 con 240 milímetros y el mínimo es 2025 con 150. La diferencia es 90 milímetros. Comparar barras con restas precisa la lectura del gráfico.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En Manizales una tabla muestra los minutos de lectura diaria de 5 estudiantes: Ana 30, Luis 45, Sara 20, Diego 45, Elena 35.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Moda 45 minutos y promedio 35 minutos",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: 45 se repite dos veces y la suma 175 entre 5 da 35."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Moda 30 minutos y promedio 35 minutos",
           "is_correct": false,
           "feedback": "Explica el error conceptual: elige un valor único como moda aunque no se repite."
@@ -359,7 +359,7 @@
           "feedback": "Explica el error conceptual: toma el mínimo como moda y subestima el promedio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La moda es el dato con mayor frecuencia, en este caso 45 minutos que aparece dos veces. El promedio es la suma 30 más 45 más 20 más 45 más 35 igual a 175, dividida entre 5, lo que da 35. Distinguir moda y promedio evita confundir lo frecuente con lo típico.",
       "difficulty": "8",
       "images": [],

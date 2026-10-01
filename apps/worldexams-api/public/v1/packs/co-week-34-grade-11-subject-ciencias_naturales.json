@@ -19,13 +19,13 @@
           "feedback": "Incorrecto. Lamarck fue un naturalista francés que propuso una teoría anterior sobre el uso y desuso de los órganos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Alfred Russel Wallace",
           "is_correct": false,
           "feedback": "Incorrecto. Wallace llegó de manera independiente a ideas similares a las de Darwin, pero la obra clásica es de Darwin."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Charles Darwin",
           "is_correct": true,
           "feedback": "Correcto. Charles Darwin publicó en 1859 El origen de las especies, donde se formula la teoría de la selección natural."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Mendel descubrió las leyes de la herencia en guisantes, no la selección natural."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Charles Darwin formuló la selección natural tras su viaje en el Beagle (1831-1836) y su observación de pinzones y tortugas en las Galápagos. La obra se publicó en 1859, el mismo año en que Wallace presentó ideas equivalentes, lo que impulsó a Darwin a divulgar su teoría acumulaba dos décadas.",
       "difficulty": "4",
       "images": [],
@@ -111,13 +111,13 @@
           "feedback": "Incorrecto. La teoría evolutiva moderna explica la diversidad por descendencia con modificación, no por creación inmutable."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "procesos de selección natural, deriva génica y especiación a lo largo de millones de años.",
           "is_correct": true,
           "feedback": "Correcto. La biodiversidad se explica por selección natural, deriva génica, mutación, migración y especiación acumulada en el tiempo geológico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "cambios introducidos por los seres humanos únicamente en los últimos siglos.",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque el ser humano modifica la biodiversidad, la diversidad actual tiene millones de años de historia evolutiva."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Aunque hay componentes estocásticos como la deriva génica, existen mecanismos direccionales como la selección natural."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Colombia es uno de los países más megadiversos del mundo gracias a su ubicación tropical, su variedad de pisos térmicos y la convergencia de dos costas y tres cordilleras. Estos factores propiciaron aislamientos geográficos y ecológicos que facilitaron la especiación, en un proceso donde la selección natural, la deriva génica y la mutación moldearon las poblaciones a lo largo del tiempo.",
       "difficulty": "4",
       "images": [],
@@ -157,13 +157,13 @@
           "feedback": "Incorrecto. El batesiano ocurre cuando una especie palatable imita a otra peligrosa; aquí varias especies comparten señal."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "mimetismo mülleriano.",
           "is_correct": true,
           "feedback": "Correcto. El mimetismo mülleriano ocurre cuando varias especies con defensa similar comparten colores de advertencia para reforzar la señal a los depredadores."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "selección direccional.",
           "is_correct": false,
           "feedback": "Incorrecto. La selección direccional es un modo de selección natural, no un tipo de mimetismo."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. La deriva génica fundadora es un mecanismo evolutivo en poblaciones pequeñas, no un tipo de mimetismo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El mimetismo mülleriano implica que varias especies, todas con defensas químicas o de otro tipo, convergen en una señal de advertencia común para que los depredadores aprendan más rápido a evitarlas. Es distinto del batesiano, en el que una especie palatable imita a una peligrosa para beneficiarse de su reputación.",
       "difficulty": "4",
       "images": [],
@@ -203,13 +203,13 @@
           "feedback": "Incorrecto. Las mutaciones no surgen \"con propósito\"; aparecen al azar y el ambiente selecciona a quienes las portan."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "selección natural de variantes preexistentes con sobrevivencia diferencial frente al insecticida.",
           "is_correct": true,
           "feedback": "Correcto. Algunos individuos poseían alelos de resistencia antes del tratamiento; el insecticida eliminó a los susceptibles y los resistentes se reprodujeron."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "herencia de caracteres adquiridos por exposición al tóxico.",
           "is_correct": false,
           "feedback": "Incorrecto. La resistencia no se genera por exposición sino por selección de variantes que ya estaban en la población."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Aunque a largo plazo puede haber especiación, la resistencia inicial es selección dentro de la misma especie."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "En toda población existe variación genética espontánea. Algunos individuos pueden tener mutaciones que les confieren resistencia a un tóxico; al aplicar el insecticida, sobreviven y se reproducen, transmitiendo esos alelos. Este es el patrón que Darwin describió y es la base de problemas de salud pública como la resistencia bacteriana a antibióticos.",
       "difficulty": "6",
       "images": [],
@@ -249,13 +249,13 @@
           "feedback": "Incorrecto. Los animales no deciden sus adaptaciones; estas son consecuencia de variación y selección a lo largo de generaciones."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "selección natural acumulada sobre variaciones genéticas favorables en ambientes fríos o de baja presión de oxígeno.",
           "is_correct": true,
           "feedback": "Correcto. Las variantes genéticas que ayudaban a sobrevivir en altura o frío se seleccionaron positivamente y se fijaron en esas poblaciones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "mutaciones puntuales que solo aparecen cuando el clima lo exige.",
           "is_correct": false,
           "feedback": "Incorrecto. Las mutaciones son al azar respecto al ambiente; la selección natural filtra las favorables."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. La aclimatación individual es fisiológica; la adaptación evolutiva es genética y poblacional."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La aclimatación es un ajuste reversible dentro de la vida de un organismo, mientras que la adaptación evolutiva es un cambio heredable en la población. Las adaptaciones surgen porque ciertas variantes genéticas confieren ventaja en un ambiente particular y, con el tiempo, aumentan su frecuencia por selección natural.",
       "difficulty": "6",
       "images": [],
@@ -295,25 +295,25 @@
           "feedback": "Incorrecto. No descendemos del chimpancé actual; compartimos un ancestro común hace millones de años."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "humanos y chimpancés comparten un ancestro común relativamente reciente en el tiempo evolutivo.",
           "is_correct": true,
           "feedback": "Correcto. La alta similitud genética indica un ancestro común compartido hace unos 6 a 7 millones de años, no descendencia directa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "los chimpancés deberían evolucionar a humanos en pocos años.",
           "is_correct": false,
           "feedback": "Incorrecto. Cada linaje ha seguido su propia trayectoria evolutiva desde el ancestro común."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "las diferencias genéticas no tienen valor evolutivo alguno.",
           "is_correct": false,
           "feedback": "Incorrecto. Pequeñas diferencias genéticas pueden tener efectos funcionales importantes y acumulativos a escala evolutiva."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La comparación de secuencias moleculares permite estimar parentesco y tiempo de divergencia. Humanos y chimpancés comparten gran parte de su genoma porque su separación evolutiva es relativamente reciente dentro de la historia de los primates; desde entonces, cada linaje acumuló cambios propios que explican sus diferencias actuales.",
       "difficulty": "6",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "Un ecólogo en la Amazonia colombiana nota que tras una inundación severa una pequeña población de primates queda aislada en una isla fluvial durante generaciones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "selección natural estabilizadora únicamente.",
           "is_correct": false,
           "feedback": "Incorrecto. En poblaciones pequeñas y aisladas el mecanismo predominante es la deriva génica, no la selección estabilizadora."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "deriva génica, efecto fundador y posible cuello de botella poblacional.",
           "is_correct": true,
           "feedback": "Correcto. Una población pequeña aislada experimenta cambios aleatorios de frecuencias alélicas por deriva y puede fijar alelos diferentes a los de la población original."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. El aislamiento geográfico reduce el flujo génico; la migración masiva es lo opuesto al escenario descrito."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Los eventos catastróficos que reducen drásticamente el tamaño poblacional producen cuellos de botella, donde la diversidad genética de la nueva población refleja el azar de quienes sobrevivieron. Si además hay aislamiento, opera la deriva génica y eventualmente la selección local, generando divergencia respecto a la población original y posibles procesos de especiación.",
       "difficulty": "8",
       "images": [],
@@ -473,31 +473,31 @@
       "context": "Una bióloga estudia dos especies de aves muy similares que coexisten en el mismo bosque pero cantan repertorios diferentes y no se cruzan entre sí.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "aislamiento precigótico etológico o de comportamiento.",
           "is_correct": true,
           "feedback": "Correcto. Las diferencias de canto o cortejo son barreras precigóticas etológicas que impiden el apareamiento entre especies."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "aislamiento postcigótico por inviabilidad del híbrido.",
           "is_correct": false,
           "feedback": "Incorrecto. Aquí no se han formado híbridos siquiera; la barrera es anterior al cigoto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "aislamiento mecánico por diferencia de genitales.",
           "is_correct": false,
           "feedback": "Incorrecto. El aislamiento mecánico se refiere a incompatibilidades morfológicas de los órganos reproductores."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "aislamiento por separación de hábitats ecológicos.",
           "is_correct": false,
           "feedback": "Incorrecto. El aislamiento ecológico ocurre por ocupación de nichos distintos; aquí comparten el mismo bosque."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El aislamiento reproductivo precigótico evita la fecundación: incluye mecanismos etológicos (canto, cortejo), temporales (épocas de reproducción distintas), ecológicos (hábitats diferentes), mecánicos (estructuras incompatibles) y gaméticos. Las aves que no se cruzan por distinto canto ilustran perfectamente el aislamiento etológico, uno de los más estudiados en ornitología.",
       "difficulty": "8",
       "images": [],
@@ -519,13 +519,13 @@
       "context": "Un paleontólogo en el desierto de La Tatacoa encuentra fósiles de mamíferos que muestran transición gradual entre formas más antiguas y modernas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "creación especial de cada especie.",
           "is_correct": false,
           "feedback": "Incorrecto. La creación especial no predice transiciones graduales; la evolución sí."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "evolución por descendencia con modificación a lo largo de generaciones.",
           "is_correct": true,
           "feedback": "Correcto. Las transiciones morfológicas graduales son uno de los argumentos clásicos del registro fósil en favor de la evolución."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto. Los cambios evolutivos en el registro fósil tienen base genética; el clima actúa como presión selectiva, no como inductor directo de cambios."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Series como las de caballos, ballenas o ammonites muestran cómo rasgos cambian gradualmente a lo largo de millones de años, con formas intermedias entre el ancestro y los descendientes modernos. Esta gradualidad es coherente con la teoría sintética de la evolución que combina selección natural, mutación, deriva y flujo génico.",
       "difficulty": "8",
       "images": [],
@@ -709,25 +709,25 @@
           "feedback": "Incorrecto. El aislamiento no implica extinción inmediata; las poblaciones pueden persistir."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "especiación alopátrica si se establece aislamiento reproductivo entre ellas.",
           "is_correct": true,
           "feedback": "Correcto. La especiación alopátrica ocurre cuando una barrera geográfica impide el flujo génico y se acumula divergencia hasta generar especies distintas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "fusión genética acelerada por especiación simpátrica.",
           "is_correct": false,
           "feedback": "Incorrecto. La especiación simpátrica no requiere barrera geográfica; el caso describe alopatría."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "mantenimiento obligatorio de la capacidad de cruzamiento indefinidamente.",
           "is_correct": false,
           "feedback": "Incorrecto. Si las diferencias genéticas son suficientes, el aislamiento reproductivo puede volverse permanente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La especiación alopátrica es el modo más común: una barrera geográfica (río, cordillera, mar) divide la población; la selección y la deriva actúan de manera distinta a cada lado y, con el tiempo, se acumulan diferencias genéticas. Si al reencontrarse los individuos ya no se reproducen o su progenie es inviable, el aislamiento reproductivo se ha completado y surgen dos especies.",
       "difficulty": "8",
       "images": [],
@@ -755,25 +755,25 @@
           "feedback": "Incorrecto. Los virus no responden \"con propósito\"; la presión selectiva favorece variantes preexistentes o surgidas al azar."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "selección natural sobre mutantes generados al azar cuya Spike evade mejor la inmunidad previa.",
           "is_correct": true,
           "feedback": "Correcto. Las mutaciones aleatorias producen variantes; las que escapan a anticuerpos preexistentes se seleccionan y vuelven dominantes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "pérdida del material genético viral por envejecimiento del virus.",
           "is_correct": false,
           "feedback": "Incorrecto. El virus no \"envejece\"; las nuevas variantes surgen por mutaciones y selección, no por desgaste."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "especiación instantánea hacia un nuevo virus no relacionado.",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque las variantes difieren, siguen siendo el mismo virus con cambios graduales; no hay especiación instantánea."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La evolución viral es un caso acelerado de selección natural: altas tasas de mutación, poblaciones enormes y tiempos de generación cortos. Las variantes que portan mutaciones en la Spike capaces de evadir anticuerpos preexistentes tienen ventaja selectiva en poblaciones vacunadas o previamente infectadas, y se vuelven dominantes, fenómeno conocido como escape inmune.",
       "difficulty": "10",
       "images": [],
@@ -801,13 +801,13 @@
           "feedback": "Incorrecto. No hay base biológica para ese cambio radical; preocupa más el riesgo de evolución de resistencia."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "puede surgir resistencia genética en las poblaciones de mosquitos, disminuyendo la efectividad de la estrategia a largo plazo.",
           "is_correct": true,
           "feedback": "Correcto. Como cualquier intervención a gran escala, genera presión selectiva que puede seleccionar variantes resistentes y reducir el efecto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "no hay riesgo evolutivo alguno porque los mosquitos no varían genéticamente.",
           "is_correct": false,
           "feedback": "Incorrecto. Las poblaciones naturales de Aedes aegypti son altamente variables y evolucionan con rapidez."
@@ -819,7 +819,7 @@
           "feedback": "Incorrecto. Sin base, los organismos liberados suelen tener menor fitness y su impacto se modula por la selección natural."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Cualquier estrategia de control a gran escala aplica presión selectiva intensa. En poblaciones de mosquitos, las variantes con mutaciones que evaden la modificación genética tienden a aumentar su frecuencia con el tiempo, fenómeno análogo al de resistencia a insecticidas. Por eso la liberación debe planificarse con monitoreo genético y combinarse con otras medidas como reducción de criaderos.",
       "difficulty": "10",
       "images": [],
@@ -841,13 +841,13 @@
       "context": "Un equipo de científicos debate en Bogotá si el concepto de \"raza\" en humanos tiene fundamento biológico o si es una construcción social.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "la mayor parte de la variación genética humana ocurre dentro de las poblaciones y no entre ellas, lo que hace biológicamente cuestionable el concepto tradicional de raza.",
           "is_correct": true,
           "feedback": "Correcto. Estudios genéticos muestran que la variación entre individuos de una misma población suele superar la variación entre poblaciones."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "las razas humanas son categorías biológicas claras con diferencias genéticas profundas y fijas.",
           "is_correct": false,
           "feedback": "Incorrecto. La genética moderna ha mostrado que las categorías raciales tradicionales no tienen base biológica clara y son discontinuas en realidad."
@@ -865,7 +865,7 @@
           "feedback": "Incorrecto. Existe variación genética entre humanos, pero esta no se estructura en \"razas\" con límites nítidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los estudios de Lewontin y posteriores han mostrado que la mayor parte de la variación genética humana (alrededor del 85%) está dentro de las poblaciones, y solo una fracción menor entre grupos continentales. Por ello, el concepto de raza no corresponde a una realidad genética discreta y se entiende mejor como una construcción social con efectos históricos y políticos.",
       "difficulty": "10",
       "images": [],

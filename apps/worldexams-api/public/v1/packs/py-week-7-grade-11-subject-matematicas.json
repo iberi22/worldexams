@@ -13,19 +13,19 @@
       "context": "En Asunción, un grupo de estudiantes de Paraguay analiza un problema de Ecuaciones Cuadráticas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Término cuadrático.",
           "is_correct": true,
           "feedback": "¡Correcto! El término con exponente 2 es el término cuadrático de la ecuación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Término lineal.",
           "is_correct": false,
           "feedback": "Incorrecto. El término lineal es $bx$, que tiene exponente 1."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Término independiente.",
           "is_correct": false,
           "feedback": "Incorrecto. El término independiente es $c$, que no posee variable visible."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. El coeficiente principal es solo el valor numérico $a$, no el término completo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El término $ax^2$ se denomina término cuadrático de la ecuación de segundo grado, y su coeficiente $a$ debe ser distinto de cero.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "En Encarnación, un grupo de estudiantes de Paraguay analiza un problema de Ecuaciones Cuadráticas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "5 segundos",
           "is_correct": true,
           "feedback": "¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 1)(t - 5) = 0. La mayor raíz es 5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "7 segundos",
           "is_correct": false,
           "feedback": "Incorrecto. Esta raíz no satisface la ecuación de altura dada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2 segundos",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde al despeje correcto de los factores lineales."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Aunque el lanzamiento inicia en un instante temprano, se busca el tiempo de caída posterior."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ecuación $t^2 - 6t + 5 = 0$ se factoriza como $(t - 1)(t - 5) = 0$, lo que da como soluciones $t = 1$ y $t = 5$. El instante posterior de caída corresponde al mayor de estos valores, 5 segundos.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,19 +193,19 @@
       "context": "En Ciudad del Este, un grupo de estudiantes de Paraguay analiza un problema de Ecuaciones Cuadráticas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "5 segundos",
           "is_correct": true,
           "feedback": "¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 2)(t - 5) = 0. La mayor raíz es 5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "8 segundos",
           "is_correct": false,
           "feedback": "Incorrecto. Esta raíz no satisface la ecuación de altura dada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "4 segundos",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde al despeje correcto de los factores lineales."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Aunque el lanzamiento inicia en un instante temprano, se busca el tiempo de caída posterior."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ecuación $t^2 - 7t + 10 = 0$ se factoriza como $(t - 2)(t - 5) = 0$, lo que da como soluciones $t = 2$ y $t = 5$. El instante posterior de caída corresponde al mayor de estos valores, 5 segundos.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,31 +238,31 @@
       "context": "En Caacupé, un grupo de estudiantes de Paraguay analiza un problema de Ecuaciones Cuadráticas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "5 segundos",
           "is_correct": true,
           "feedback": "¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 3)(t - 5) = 0. La mayor raíz es 5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "9 segundos",
           "is_correct": false,
           "feedback": "Incorrecto. Esta raíz no satisface la ecuación de altura dada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "6 segundos",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde al despeje correcto de los factores lineales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "0 segundos",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque el lanzamiento inicia en un instante temprano, se busca el tiempo de caída posterior."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La ecuación $t^2 - 8t + 15 = 0$ se factoriza como $(t - 3)(t - 5) = 0$, lo que da como soluciones $t = 3$ y $t = 5$. El instante posterior de caída corresponde al mayor de estos valores, 5 segundos.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,19 +283,19 @@
       "context": "En Pilar, un grupo de estudiantes de Paraguay analiza un problema de Ecuaciones Cuadráticas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "5 segundos",
           "is_correct": true,
           "feedback": "¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 4)(t - 5) = 0. La mayor raíz es 5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "10 segundos",
           "is_correct": false,
           "feedback": "Incorrecto. Esta raíz no satisface la ecuación de altura dada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "8 segundos",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde al despeje correcto de los factores lineales."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Aunque el lanzamiento inicia en un instante temprano, se busca el tiempo de caída posterior."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ecuación $t^2 - 9t + 20 = 0$ se factoriza como $(t - 4)(t - 5) = 0$, lo que da como soluciones $t = 4$ y $t = 5$. El instante posterior de caída corresponde al mayor de estos valores, 5 segundos.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,19 +328,19 @@
       "context": "En Coronel Oviedo, un grupo de estudiantes de Paraguay analiza un problema de Ecuaciones Cuadráticas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "5 segundos",
           "is_correct": true,
           "feedback": "¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 1)(t - 5) = 0. La mayor raíz es 5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "7 segundos",
           "is_correct": false,
           "feedback": "Incorrecto. Esta raíz no satisface la ecuación de altura dada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2 segundos",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde al despeje correcto de los factores lineales."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Aunque el lanzamiento inicia en un instante temprano, se busca el tiempo de caída posterior."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ecuación $t^2 - 6t + 5 = 0$ se factoriza como $(t - 1)(t - 5) = 0$, lo que da como soluciones $t = 1$ y $t = 5$. El instante posterior de caída corresponde al mayor de estos valores, 5 segundos.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,31 +373,31 @@
       "context": "En Concepción, un grupo de estudiantes de Paraguay analiza un problema de Ecuaciones Cuadráticas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "5 segundos",
           "is_correct": true,
           "feedback": "¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 2)(t - 5) = 0. La mayor raíz es 5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "8 segundos",
           "is_correct": false,
           "feedback": "Incorrecto. Esta raíz no satisface la ecuación de altura dada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "4 segundos",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde al despeje correcto de los factores lineales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "0 segundos",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque el lanzamiento inicia en un instante temprano, se busca el tiempo de caída posterior."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La ecuación $t^2 - 7t + 10 = 0$ se factoriza como $(t - 2)(t - 5) = 0$, lo que da como soluciones $t = 2$ y $t = 5$. El instante posterior de caída corresponde al mayor de estos valores, 5 segundos.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,31 +418,31 @@
       "context": "En Villarrica, un grupo de estudiantes de Paraguay analiza un problema de Ecuaciones Cuadráticas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "5 segundos",
           "is_correct": true,
           "feedback": "¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 3)(t - 5) = 0. La mayor raíz es 5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "9 segundos",
           "is_correct": false,
           "feedback": "Incorrecto. Esta raíz no satisface la ecuación de altura dada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "6 segundos",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde al despeje correcto de los factores lineales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "0 segundos",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque el lanzamiento inicia en un instante temprano, se busca el tiempo de caída posterior."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La ecuación $t^2 - 8t + 15 = 0$ se factoriza como $(t - 3)(t - 5) = 0$, lo que da como soluciones $t = 3$ y $t = 5$. El instante posterior de caída corresponde al mayor de estos valores, 5 segundos.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "En San Lorenzo, un grupo de estudiantes de Paraguay analiza un problema de Ecuaciones Cuadráticas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "5 segundos",
           "is_correct": true,
           "feedback": "¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 1)(t - 5) = 0. La mayor raíz es 5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "7 segundos",
           "is_correct": false,
           "feedback": "Incorrecto. Esta raíz no satisface la ecuación de altura dada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2 segundos",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde al despeje correcto de los factores lineales."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Aunque el lanzamiento inicia en un instante temprano, se busca el tiempo de caída posterior."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ecuación $t^2 - 6t + 5 = 0$ se factoriza como $(t - 1)(t - 5) = 0$, lo que da como soluciones $t = 1$ y $t = 5$. El instante posterior de caída corresponde al mayor de estos valores, 5 segundos.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "En Encarnación, un grupo de estudiantes de Paraguay analiza un problema de Ecuaciones Cuadráticas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "5 segundos",
           "is_correct": true,
           "feedback": "¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 3)(t - 5) = 0. La mayor raíz es 5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "9 segundos",
           "is_correct": false,
           "feedback": "Incorrecto. Esta raíz no satisface la ecuación de altura dada."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Aunque el lanzamiento inicia en un instante temprano, se busca el tiempo de caída posterior."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La ecuación $t^2 - 8t + 15 = 0$ se factoriza como $(t - 3)(t - 5) = 0$, lo que da como soluciones $t = 3$ y $t = 5$. El instante posterior de caída corresponde al mayor de estos valores, 5 segundos.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "En Caacupé, un grupo de estudiantes de Paraguay analiza un problema de Ecuaciones Cuadráticas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "5 segundos",
           "is_correct": true,
           "feedback": "¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 1)(t - 5) = 0. La mayor raíz es 5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "7 segundos",
           "is_correct": false,
           "feedback": "Incorrecto. Esta raíz no satisface la ecuación de altura dada."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Aunque el lanzamiento inicia en un instante temprano, se busca el tiempo de caída posterior."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La ecuación $t^2 - 6t + 5 = 0$ se factoriza como $(t - 1)(t - 5) = 0$, lo que da como soluciones $t = 1$ y $t = 5$. El instante posterior de caída corresponde al mayor de estos valores, 5 segundos.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,19 +733,19 @@
       "context": "En Pilar, un grupo de estudiantes de Paraguay analiza un problema de Ecuaciones Cuadráticas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "5 segundos",
           "is_correct": true,
           "feedback": "¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 2)(t - 5) = 0. La mayor raíz es 5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "8 segundos",
           "is_correct": false,
           "feedback": "Incorrecto. Esta raíz no satisface la ecuación de altura dada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "4 segundos",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde al despeje correcto de los factores lineales."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Aunque el lanzamiento inicia en un instante temprano, se busca el tiempo de caída posterior."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ecuación $t^2 - 7t + 10 = 0$ se factoriza como $(t - 2)(t - 5) = 0$, lo que da como soluciones $t = 2$ y $t = 5$. El instante posterior de caída corresponde al mayor de estos valores, 5 segundos.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,19 +778,19 @@
       "context": "En Coronel Oviedo, un grupo de estudiantes de Paraguay analiza un problema de Ecuaciones Cuadráticas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "5 segundos",
           "is_correct": true,
           "feedback": "¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 3)(t - 5) = 0. La mayor raíz es 5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "9 segundos",
           "is_correct": false,
           "feedback": "Incorrecto. Esta raíz no satisface la ecuación de altura dada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "6 segundos",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde al despeje correcto de los factores lineales."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Aunque el lanzamiento inicia en un instante temprano, se busca el tiempo de caída posterior."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ecuación $t^2 - 8t + 15 = 0$ se factoriza como $(t - 3)(t - 5) = 0$, lo que da como soluciones $t = 3$ y $t = 5$. El instante posterior de caída corresponde al mayor de estos valores, 5 segundos.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,19 +823,19 @@
       "context": "En Concepción, un grupo de estudiantes de Paraguay analiza un problema de Ecuaciones Cuadráticas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "5 segundos",
           "is_correct": true,
           "feedback": "¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 4)(t - 5) = 0. La mayor raíz es 5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "10 segundos",
           "is_correct": false,
           "feedback": "Incorrecto. Esta raíz no satisface la ecuación de altura dada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "8 segundos",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde al despeje correcto de los factores lineales."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Aunque el lanzamiento inicia en un instante temprano, se busca el tiempo de caída posterior."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ecuación $t^2 - 9t + 20 = 0$ se factoriza como $(t - 4)(t - 5) = 0$, lo que da como soluciones $t = 4$ y $t = 5$. El instante posterior de caída corresponde al mayor de estos valores, 5 segundos.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "En Villarrica, un grupo de estudiantes de Paraguay analiza un problema de Ecuaciones Cuadráticas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "5 segundos",
           "is_correct": true,
           "feedback": "¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 1)(t - 5) = 0. La mayor raíz es 5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "7 segundos",
           "is_correct": false,
           "feedback": "Incorrecto. Esta raíz no satisface la ecuación de altura dada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2 segundos",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde al despeje correcto de los factores lineales."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Aunque el lanzamiento inicia en un instante temprano, se busca el tiempo de caída posterior."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ecuación $t^2 - 6t + 5 = 0$ se factoriza como $(t - 1)(t - 5) = 0$, lo que da como soluciones $t = 1$ y $t = 5$. El instante posterior de caída corresponde al mayor de estos valores, 5 segundos.",
       "difficulty": "10",
       "images": [],

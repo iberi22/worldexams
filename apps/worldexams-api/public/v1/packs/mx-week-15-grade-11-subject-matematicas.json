@@ -13,19 +13,19 @@
       "context": "Para medir la altura de un asta bandera en un zócalo de Oaxaca, se usa un teodolito.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "10.15 metros",
           "is_correct": true,
           "feedback": "¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "8.65 metros",
           "is_correct": false,
           "feedback": "Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "27.5 metros",
           "is_correct": false,
           "feedback": "Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En el triángulo rectángulo formado, el cateto adyacente es la distancia horizontal d = 15 m. El cateto opuesto (altura parcial del asta, y) se obtiene mediante: tan(30°) = y / d -> y = d * tan(30°) = 15 * 0.577 ≈ 8.65 m. Sumamos la altura del teodolito para la altura total: H = y + 1.5 ≈ 10.15 m.",
       "difficulty": "4",
       "images": [],
@@ -58,19 +58,19 @@
       "context": "Para medir la altura de un asta bandera en un zócalo de Puebla, se usa un teodolito.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "11.31 metros",
           "is_correct": true,
           "feedback": "¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "9.81 metros",
           "is_correct": false,
           "feedback": "Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "30.96 metros",
           "is_correct": false,
           "feedback": "Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En el triángulo rectángulo formado, el cateto adyacente es la distancia horizontal d = 17 m. El cateto opuesto (altura parcial del asta, y) se obtiene mediante: tan(30°) = y / d -> y = d * tan(30°) = 17 * 0.577 ≈ 9.81 m. Sumamos la altura del teodolito para la altura total: H = y + 1.5 ≈ 11.31 m.",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Para medir la altura de un asta bandera en un zócalo de Morelia, se usa un teodolito.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "13.62 metros",
           "is_correct": true,
           "feedback": "¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "12.12 metros",
           "is_correct": false,
           "feedback": "Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "37.9 metros",
           "is_correct": false,
           "feedback": "Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En el triángulo rectángulo formado, el cateto adyacente es la distancia horizontal d = 21 m. El cateto opuesto (altura parcial del asta, y) se obtiene mediante: tan(30°) = y / d -> y = d * tan(30°) = 21 * 0.577 ≈ 12.12 m. Sumamos la altura del teodolito para la altura total: H = y + 1.5 ≈ 13.62 m.",
       "difficulty": "6",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Para medir la altura de un asta bandera en un zócalo de Guadalajara, se usa un teodolito.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "14.77 metros",
           "is_correct": true,
           "feedback": "¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "13.27 metros",
           "is_correct": false,
           "feedback": "Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m)."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En el triángulo rectángulo formado, el cateto adyacente es la distancia horizontal d = 23 m. El cateto opuesto (altura parcial del asta, y) se obtiene mediante: tan(30°) = y / d -> y = d * tan(30°) = 23 * 0.577 ≈ 13.27 m. Sumamos la altura del teodolito para la altura total: H = y + 1.5 ≈ 14.77 m.",
       "difficulty": "10",
       "images": [],
@@ -283,31 +283,31 @@
       "context": "Para medir la altura de un asta bandera en un zócalo de Veracruz, se usa un teodolito.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "17.08 metros",
           "is_correct": true,
           "feedback": "¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "15.58 metros",
           "is_correct": false,
           "feedback": "Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "48.29 metros",
           "is_correct": false,
           "feedback": "Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "15.0 metros",
           "is_correct": false,
           "feedback": "Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En el triángulo rectángulo formado, el cateto adyacente es la distancia horizontal d = 27 m. El cateto opuesto (altura parcial del asta, y) se obtiene mediante: tan(30°) = y / d -> y = d * tan(30°) = 27 * 0.577 ≈ 15.58 m. Sumamos la altura del teodolito para la altura total: H = y + 1.5 ≈ 17.08 m.",
       "difficulty": "6",
       "images": [],
@@ -328,19 +328,19 @@
       "context": "Para medir la altura de un asta bandera en un zócalo de Mérida, se usa un teodolito.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "18.23 metros",
           "is_correct": true,
           "feedback": "¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "16.73 metros",
           "is_correct": false,
           "feedback": "Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "51.76 metros",
           "is_correct": false,
           "feedback": "Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En el triángulo rectángulo formado, el cateto adyacente es la distancia horizontal d = 29 m. El cateto opuesto (altura parcial del asta, y) se obtiene mediante: tan(30°) = y / d -> y = d * tan(30°) = 29 * 0.577 ≈ 16.73 m. Sumamos la altura del teodolito para la altura total: H = y + 1.5 ≈ 18.23 m.",
       "difficulty": "6",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "Para medir la altura de un asta bandera en un zócalo de Chihuahua, se usa un teodolito.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "19.39 metros",
           "is_correct": true,
           "feedback": "¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "17.89 metros",
           "is_correct": false,
           "feedback": "Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "55.23 metros",
           "is_correct": false,
           "feedback": "Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En el triángulo rectángulo formado, el cateto adyacente es la distancia horizontal d = 31 m. El cateto opuesto (altura parcial del asta, y) se obtiene mediante: tan(30°) = y / d -> y = d * tan(30°) = 31 * 0.577 ≈ 17.89 m. Sumamos la altura del teodolito para la altura total: H = y + 1.5 ≈ 19.39 m.",
       "difficulty": "8",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Para medir la altura de un asta bandera en un zócalo de Oaxaca, se usa un teodolito.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "21.7 metros",
           "is_correct": true,
           "feedback": "¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "20.2 metros",
           "is_correct": false,
           "feedback": "Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m)."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En el triángulo rectángulo formado, el cateto adyacente es la distancia horizontal d = 35 m. El cateto opuesto (altura parcial del asta, y) se obtiene mediante: tan(30°) = y / d -> y = d * tan(30°) = 35 * 0.577 ≈ 20.2 m. Sumamos la altura del teodolito para la altura total: H = y + 1.5 ≈ 21.7 m.",
       "difficulty": "10",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "Para medir la altura de un asta bandera en un zócalo de Puebla, se usa un teodolito.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "22.85 metros",
           "is_correct": true,
           "feedback": "¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "21.35 metros",
           "is_correct": false,
           "feedback": "Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "65.62 metros",
           "is_correct": false,
           "feedback": "Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En el triángulo rectángulo formado, el cateto adyacente es la distancia horizontal d = 37 m. El cateto opuesto (altura parcial del asta, y) se obtiene mediante: tan(30°) = y / d -> y = d * tan(30°) = 37 * 0.577 ≈ 21.35 m. Sumamos la altura del teodolito para la altura total: H = y + 1.5 ≈ 22.85 m.",
       "difficulty": "10",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "Para medir la altura de un asta bandera en un zócalo de CDMX, se usa un teodolito.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "24.0 metros",
           "is_correct": true,
           "feedback": "¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "22.5 metros",
           "is_correct": false,
           "feedback": "Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m)."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En el triángulo rectángulo formado, el cateto adyacente es la distancia horizontal d = 39 m. El cateto opuesto (altura parcial del asta, y) se obtiene mediante: tan(30°) = y / d -> y = d * tan(30°) = 39 * 0.577 ≈ 22.5 m. Sumamos la altura del teodolito para la altura total: H = y + 1.5 ≈ 24.0 m.",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Para medir la altura de un asta bandera en un zócalo de Guadalajara, se usa un teodolito.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "26.31 metros",
           "is_correct": true,
           "feedback": "¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "24.81 metros",
           "is_correct": false,
           "feedback": "Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m)."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En el triángulo rectángulo formado, el cateto adyacente es la distancia horizontal d = 43 m. El cateto opuesto (altura parcial del asta, y) se obtiene mediante: tan(30°) = y / d -> y = d * tan(30°) = 43 * 0.577 ≈ 24.81 m. Sumamos la altura del teodolito para la altura total: H = y + 1.5 ≈ 26.31 m.",
       "difficulty": "10",
       "images": [],
@@ -688,31 +688,31 @@
       "context": "Para medir la altura de un asta bandera en un zócalo de Monterrey, se usa un teodolito.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "27.46 metros",
           "is_correct": true,
           "feedback": "¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "25.96 metros",
           "is_correct": false,
           "feedback": "Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "79.49 metros",
           "is_correct": false,
           "feedback": "Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "24.0 metros",
           "is_correct": false,
           "feedback": "Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En el triángulo rectángulo formado, el cateto adyacente es la distancia horizontal d = 45 m. El cateto opuesto (altura parcial del asta, y) se obtiene mediante: tan(30°) = y / d -> y = d * tan(30°) = 45 * 0.577 ≈ 25.96 m. Sumamos la altura del teodolito para la altura total: H = y + 1.5 ≈ 27.46 m.",
       "difficulty": "10",
       "images": [],
@@ -733,19 +733,19 @@
       "context": "Para medir la altura de un asta bandera en un zócalo de Veracruz, se usa un teodolito.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "28.62 metros",
           "is_correct": true,
           "feedback": "¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "27.12 metros",
           "is_correct": false,
           "feedback": "Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "82.96 metros",
           "is_correct": false,
           "feedback": "Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En el triángulo rectángulo formado, el cateto adyacente es la distancia horizontal d = 47 m. El cateto opuesto (altura parcial del asta, y) se obtiene mediante: tan(30°) = y / d -> y = d * tan(30°) = 47 * 0.577 ≈ 27.12 m. Sumamos la altura del teodolito para la altura total: H = y + 1.5 ≈ 28.62 m.",
       "difficulty": "10",
       "images": [],
@@ -958,13 +958,13 @@
       "context": "Un topógrafo en Monterrey necesita recordar las funciones recíprocas para realizar cálculos de distancias.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Cosecante",
           "is_correct": false,
           "feedback": "La cosecante es la recíproca del seno."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Secante",
           "is_correct": true,
           "feedback": "Correcto. La secante (sec) se define como 1/coseno, es decir, Hipotenusa / Cateto adyacente."
@@ -982,7 +982,7 @@
           "feedback": "El seno y el coseno son funciones complementarias (co-funciones), no recíprocas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Cada una de las tres razones fundamentales (seno, coseno, tangente) tiene una función recíproca: $\\sec \\theta = \\frac{1}{\\cos \\theta}$, $\\csc \\theta = \\frac{1}{\\operatorname{sen} \\theta}$ y $\\cot \\theta = \\frac{1}{\\tan \\theta}$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -1009,13 +1009,13 @@
           "feedback": "Este es el seno del ángulo opuesto al cateto de 3, o el coseno del ángulo opuesto al cateto de 4."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$4/5$",
           "is_correct": true,
           "feedback": "Correcto. El cateto adyacente al ángulo opuesto al de 3 es el cateto de 4. Hipotenusa = 5. Cos = CA/H = 4/5."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$3/4$",
           "is_correct": false,
           "feedback": "Esta es la tangente del ángulo."
@@ -1027,7 +1027,7 @@
           "feedback": "Esta es la cotangente del ángulo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "En un triángulo $(3, 4, 5)$, para el ángulo $\\theta$ opuesto al lado 3: el cateto opuesto es $3$ y el cateto adyacente es $4$. La hipotenusa es $5$. Entonces, $\\cos \\theta = \\frac{CA}{H} = \\frac{4}{5}$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -1048,19 +1048,19 @@
       "context": "Un arquitecto en Puebla utiliza ángulos notables para el diseño de una rampa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$0$",
           "is_correct": false,
           "feedback": "Este es el valor de la tangente de 0 grados."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$0.5$",
           "is_correct": false,
           "feedback": "Este es el valor del seno de 30 grados."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$1$",
           "is_correct": true,
           "feedback": "Correcto. A 45 grados, los dos catetos son iguales, por lo que su razón (tangente) es 1."
@@ -1072,7 +1072,7 @@
           "feedback": "Este es el valor de la tangente de 60 grados."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "En un triángulo rectángulo isósceles (ángulos de $45^{\\circ}$), los catetos tienen la misma longitud $a$. La tangente es el cateto opuesto entre el adyacente: $\\tan(45^{\\circ}) = a/a = 1$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -1093,13 +1093,13 @@
       "context": "Un ingeniero en el Estado de México mide el ángulo de elevación hacia la punta de una torre.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$10.0\\text{ m}$",
           "is_correct": false,
           "feedback": "Usaste seno en lugar de tangente o hiciste un redondeo excesivo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$11.54\\text{ m}$",
           "is_correct": true,
           "feedback": "Correcto. h = 20 × tan(30°) = 20 × 0.577 = 11.54."
@@ -1117,7 +1117,7 @@
           "feedback": "Valor incorrecto producto de un error de procedimiento."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La altura de la torre ($h$) y la distancia a la base ($20\\text{ m}$) forman los catetos de un triángulo rectángulo. Usamos la tangente: $\\tan(30^{\\circ}) = h / 20$. Despejando: $h = 20 \\cdot \\tan(30^{\\circ}) = 20 \\cdot 0.577 = 11.54\\text{ metros}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -1144,25 +1144,25 @@
           "feedback": "Multiplicaste la altura por la tangente en lugar de dividir."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$109.89\\text{ m}$",
           "is_correct": true,
           "feedback": "Correcto. d = 40 / tan(20°) = 40 / 0.364 ≈ 109.89."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$42.56\\text{ m}$",
           "is_correct": false,
           "feedback": "Error en la elección de la razón trigonométrica o su aplicación."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$116.96\\text{ m}$",
           "is_correct": false,
           "feedback": "Usaste el seno en lugar de la tangente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El ángulo de depresión es igual al ángulo de elevación desde el barco. La altura ($40\\text{ m}$) es el cateto opuesto y la distancia ($d$) es el cateto adyacente. $\\tan(20^{\\circ}) = 40 / d$, por lo tanto $d = 40 / \\tan(20^{\\circ}) = 40 / 0.364 \\approx 109.89\\text{ metros}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -1189,25 +1189,25 @@
           "feedback": "Este es el valor del seno de 30 grados o el coseno de 60 grados."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$\\sqrt{3}/2$",
           "is_correct": true,
           "feedback": "Correcto. En un triángulo notable de 30-60-90, el seno de 60 es el cateto mayor entre la hipotenusa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\sqrt{2}/2$",
           "is_correct": false,
           "feedback": "Este es el valor del seno y coseno de 45 grados."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$1$",
           "is_correct": false,
           "feedback": "Este es el valor del seno de 90 grados."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El ángulo de $60^{\\circ}$ forma parte del triángulo equilátero dividido a la mitad. Sus lados están en proporción $1 : \\sqrt{3} : 2$. El seno es el cateto opuesto ($\\sqrt{3}$) entre la hipotenusa ($2$), es decir, $\\sqrt{3}/2$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -1234,13 +1234,13 @@
           "feedback": "La suma de seno y coseno no es 1; la suma de sus cuadrados es 1."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$0.8$",
           "is_correct": true,
           "feedback": "Correcto. Por la identidad pitagórica cos²θ = 1 - sen²θ = 1 - 0.36 = 0.64. √0.64 = 0.8."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$0.6$",
           "is_correct": false,
           "feedback": "Esto solo ocurriría a 45 grados, donde ambos valen √2/2."
@@ -1252,7 +1252,7 @@
           "feedback": "Si el seno es 0.6, el coseno no puede ser 1."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Usamos la identidad fundamental $\\operatorname{sen}^2 \\theta + \\cos^2 \\theta = 1$. Sustituyendo: $(0.6)^2 + \\cos^2 \\theta = 1 \\Rightarrow 0.36 + \\cos^2 \\theta = 1 \\Rightarrow \\cos^2 \\theta = 0.64$. Al estar en el primer cuadrante, el coseno es positivo: $\\cos \\theta = \\sqrt{0.64} = 0.8$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -1279,13 +1279,13 @@
           "feedback": "Este es el valor del cateto opuesto (10 × sen 37°)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "8 m",
           "is_correct": true,
           "feedback": "Correcto. CA = H × cos(θ) = 10 × 0.8 = 8."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "7.5 m",
           "is_correct": false,
           "feedback": "Valor incorrecto producto de un error de procedimiento."
@@ -1297,7 +1297,7 @@
           "feedback": "Dividiste en lugar de multiplicar; el cateto debe ser menor que la hipotenusa."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Relacionamos el cateto adyacente ($CA$) con la hipotenusa ($H$) mediante el coseno: $\\cos(37^{\\circ}) = CA / 10$. Despejando: $CA = 10 \\cdot \\cos(37^{\\circ}) = 10 \\cdot 0.8 = 8\\text{ metros}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -1318,13 +1318,13 @@
       "context": "Un estudiante estudia la relación entre las funciones trigonométricas y sus complementos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\operatorname{sen}(65^{\\circ})$",
           "is_correct": false,
           "feedback": "El seno de un ángulo no es igual al seno de su complemento."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\cos(65^{\\circ})$",
           "is_correct": true,
           "feedback": "Correcto. El seno de un ángulo es igual al coseno de su ángulo complementario (90 - 25 = 65)."
@@ -1342,7 +1342,7 @@
           "feedback": "Esto solo sería cierto si el ángulo fuera 0."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Las \"co-funciones\" trigonométricas cumplen que la función de un ángulo es igual a la co-función de su complemento. Por lo tanto, $\\operatorname{sen}(\\theta) = \\cos(90^{\\circ} - \\theta)$. Para $\\theta = 25^{\\circ}$, el complemento es $65^{\\circ}$, así que $\\operatorname{sen}(25^{\\circ}) = \\cos(65^{\\circ})$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -1363,19 +1363,19 @@
       "context": "Un ingeniero civil analiza las fuerzas en un cable que sostiene un puente colgante en Chiapas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$12/13$",
           "is_correct": false,
           "feedback": "Este es el valor del seno del ángulo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$13/5$",
           "is_correct": false,
           "feedback": "Este es el valor de la secante (recíproca del coseno)."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$13/12$",
           "is_correct": true,
           "feedback": "Correcto. CA=5, H=13 -> CO = √(13²-5²) = 12. Sen = 12/13, por lo que Csc = 13/12."
@@ -1387,7 +1387,7 @@
           "feedback": "Este es el valor de la cotangente del ángulo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Primero hallamos el cateto opuesto usando Pitágoras: $CO = \\sqrt{13^2 - 5^2} = \\sqrt{169 - 25} = 12$. La razón del seno es $CO/H = 12/13$. La cosecante es la recíproca del seno: $\\csc \\theta = 1 / \\operatorname{sen} \\theta = 13/12$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -1408,13 +1408,13 @@
       "context": "Un estudiante de física en la UNAM calcula el trabajo realizado por una fuerza constante.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$1$",
           "is_correct": false,
           "feedback": "Solo consideraste uno de los productos recíprocos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2$",
           "is_correct": true,
           "feedback": "Correcto. Por definición de recíprocas, sen×csc = 1 y cos×sec = 1. Entonces 1 + 1 = 2."
@@ -1432,7 +1432,7 @@
           "feedback": "Aunque esto es igual a 1, la expresión original suma 2."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Las funciones recíprocas cumplen que su producto es la unidad: $\\operatorname{sen} \\theta \\cdot \\csc \\theta = 1$ y $\\cos \\theta \\cdot \\sec \\theta = 1$. La expresión simplificada es $1 + 1 = 2$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -1504,13 +1504,13 @@
           "feedback": "Este valor es la mitad de la cuerda para un ángulo de 30 grados."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$10\\text{ cm}$",
           "is_correct": true,
           "feedback": "Correcto. Un triángulo con radio-radio y ángulo de 60° es equilátero, por lo que la cuerda mide igual que el radio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$10\\sqrt{3}\\text{ cm}$",
           "is_correct": false,
           "feedback": "Este sería el valor si el ángulo fuera de 120 grados."
@@ -1522,7 +1522,7 @@
           "feedback": "Valor incorrecto producto de un error de procedimiento."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Al unir los extremos de la cuerda con el centro del círculo, se forma un triángulo isósceles con dos lados iguales al radio ($10\\text{ cm}$). Si el ángulo central es de $60^{\\circ}$, los otros dos ángulos también deben ser de $60^{\\circ}$ ($[180-60]/2 = 60$). El triángulo es equilátero, por lo que la cuerda mide $10\\text{ cm}$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -1639,25 +1639,25 @@
           "feedback": "En estos puntos el seno es 0, por lo que la tangente es 0 (está definida)."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$90^{\\circ}$ y $270^{\\circ}$",
           "is_correct": true,
           "feedback": "Correcto. En estos puntos el coseno es 0, y como tan = sen/cos, la división entre cero no está definida."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$45^{\\circ}$ y $225^{\\circ}$",
           "is_correct": false,
           "feedback": "En estos puntos la tangente vale 1."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$90^{\\circ}$ únicamente",
           "is_correct": false,
           "feedback": "También en 270 grados el coseno se anula, produciendo otra asíntota."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La tangente se define como $\\frac{\\operatorname{sen} \\theta}{\\cos \\theta}$. Esta función no está definida cuando el denominador es cero. En el intervalo $[0, 360)$, el coseno es cero en $90^{\\circ}$ y en $270^{\\circ}$. En estos puntos, la gráfica de la función presenta asíntotas verticales.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -1678,13 +1678,13 @@
       "context": "Se plantea un problema de reducción al primer cuadrante para ángulos mayores a 90 grados.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$1/2$",
           "is_correct": false,
           "feedback": "Este es el valor del seno de 150 grados."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$-\\sqrt{3}/2$",
           "is_correct": true,
           "feedback": "Correcto. El ángulo de referencia es 30°. Cos(150°) = -Cos(30°) = -√3/2."
@@ -1702,7 +1702,7 @@
           "feedback": "Este es el valor del coseno de 120 grados."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El ángulo $150^{\\circ}$ está en el segundo cuadrante. Su ángulo de referencia es $180^{\\circ} - 150^{\\circ} = 30^{\\circ}$. En el segundo cuadrante, el coseno es negativo. Por lo tanto, $\\cos(150^{\\circ}) = -\\cos(30^{\\circ}) = -\\sqrt{3}/2$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -1729,25 +1729,25 @@
           "feedback": "Esta simplificación solo sería correcta si el denominador fuera 1."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$2 \\sec^2 \\theta$",
           "is_correct": true,
           "feedback": "Correcto. Al sumar las fracciones queda (1-senθ + 1+senθ)/(1-sen²θ) = 2/cos²θ = 2 sec²θ."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$2 \\csc^2 \\theta$",
           "is_correct": false,
           "feedback": "El denominador resultante es cos²θ, lo que lleva a la secante, no a la cosecante."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$1$",
           "is_correct": false,
           "feedback": "La expresión no se simplifica a la unidad."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Sumamos las fracciones buscando un denominador común: $\\frac{(1 - \\operatorname{sen} \\theta) + (1 + \\operatorname{sen} \\theta)}{(1 + \\operatorname{sen} \\theta)(1 - \\operatorname{sen} \\theta)} = \\frac{2}{1 - \\operatorname{sen}^2 \\theta}$. Usando la identidad pitagórica, el denominador es $\\cos^2 \\theta$. Así, la expresión es $\\frac{2}{\\cos^2 \\theta} = 2 \\sec^2 \\theta$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -1774,13 +1774,13 @@
           "feedback": "Olvidaste multiplicar por el seno del ángulo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$20\\text{ cm}^2$",
           "is_correct": true,
           "feedback": "Correcto. Área = (1/2)ab sen C = (1/2)(8)(10) sen 30° = 40 × 0.5 = 20."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$20\\sqrt{3}\\text{ cm}^2$",
           "is_correct": false,
           "feedback": "Usaste el coseno de 30 grados en lugar del seno."
@@ -1792,7 +1792,7 @@
           "feedback": "Error en la aplicación de la fórmula o en el cálculo aritmético."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El área de un triángulo puede calcularse si se conocen dos lados y el ángulo entre ellos mediante la fórmula $A = \\frac{1}{2} ab \\operatorname{sen} C$. Sustituyendo: $A = \\frac{1}{2} (8) (10) \\operatorname{sen}(30^{\\circ}) = 40 \\cdot 0.5 = 20\\text{ cm}^2$.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntaje |\n|-----------|---------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
       "difficulty": "10",
       "images": [],

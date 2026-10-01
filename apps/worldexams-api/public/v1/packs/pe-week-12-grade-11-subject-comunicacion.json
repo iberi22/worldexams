@@ -19,13 +19,13 @@
           "feedback": "Incorrecto. El tipo de sujeto y el número de adjetivos no determinan la estructura de una oración compuesta."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Estar unida únicamente por un signo de puntuación al final del párrafo.",
           "is_correct": false,
           "feedback": "Incorrecto. Toda oración tiene puntuación final, esto no define si es compuesta."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Poseer dos o más proposiciones, cada una con su respectivo verbo conjugado o perífrasis verbal.",
           "is_correct": true,
           "feedback": "¡Correcto! Una oración compuesta se caracteriza por tener más de una estructura oracional interna (proposiciones), cada una con su propio verbo."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Las oraciones compuestas pueden tener todo tipo de complementos sintácticos en sus proposiciones."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La oración compuesta se conforma sintácticamente por la unión de dos o más proposiciones que expresan ideas complejas coordinadas, subordinadas o yuxtapuestas, lo que implica la presencia de más de un verbo conjugado.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,19 +58,19 @@
       "context": "Los estudiantes del Colegio San Miguel en Piura clasifican oraciones compuestas coordinadas según sus nexos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "O / u",
           "is_correct": false,
           "feedback": "Incorrecto. Estos son nexos disyuntivos que plantean opciones excluyentes."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Y / e / ni",
           "is_correct": false,
           "feedback": "Incorrecto. Estos son nexos copulativos que indican adición o suma de proposiciones."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Pero / sin embargo / sino que",
           "is_correct": true,
           "feedback": "¡Correcto! Los nexos adversativos introducen un contraste u oposición entre las proposiciones de una oración compuesta coordinada."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Estos son nexos subordinantes que expresan una relación de causa."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Los coordinantes adversativos enlazan proposiciones de igual jerarquía sintáctica introduciendo una rectificación, limitación u oposición entre el significado de la primera y la segunda idea.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "En un taller de lenguaje en Arequipa, se analiza el fragmento: \"María estudia arquitectura en la UNSA; su hermano Diego prefiere postular a medicina en la UNMSM\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Coordinada yuxtapuesta.",
           "is_correct": true,
           "feedback": "¡Correcto! Las proposiciones se enlazan mediante signos de puntuación (en este caso, punto y coma) sin conectores ni nexos gramaticales explícitos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Subordinada sustantiva de sujeto.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay una relación de subordinación ni una proposición que actúe como sujeto de otra."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Las adjetivas modifican a un sustantivo mediante pronombres relativos como \"que\" o \"cual\"."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La yuxtaposición es un mecanismo sintáctico para formar oraciones compuestas donde las proposiciones se colocan una al lado de la otra, unidas por comas, puntos y comas o dos puntos, manteniendo su independencia gramatical directa.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -160,19 +160,19 @@
           "feedback": "Incorrecto. No expresa el destinatario de la acción verbal principal."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Sujeto de la oración principal.",
           "is_correct": true,
           "feedback": "¡Correcto! La proposición subordinada sustantiva actúa como el sujeto del verbo \"preocupa\". Es equivalente a decir: \"Eso preocupa a los comunistas\"."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Complemento circunstancial de causa.",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque de fondo hay una causa, formalmente funciona como el sujeto gramatical del verbo \"preocupa\"."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Las proposiciones subordinadas sustantivas funcionan como un sustantivo dentro de la oración principal. Al conmutar la proposición por el pronombre neutro \"eso\" (\"Eso preocupa\"), se evidencia que cumple el rol de sujeto sintáctico.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,25 +199,25 @@
           "feedback": "Incorrecto. Las proposiciones subordinadas sustantivas no modifican a sustantivos de esta forma, sino que desempeñan funciones propias del núcleo del sujeto o del predicado."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Subordinada adjetiva que modifica al sustantivo antecedente \"El arqueólogo\".",
           "is_correct": true,
           "feedback": "¡Correcto! La proposición \"que descubrió las tumbas en Sipán\" actúa como un adjetivo que especifica y califica al sustantivo antecedente directo \"arqueólogo\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Subordinada adverbial temporal que modifica directamente al verbo \"Sipán\".",
           "is_correct": false,
           "feedback": "Incorrecto. No indica tiempo y \"Sipán\" no es un verbo, es un sustantivo propio de lugar."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Subordinada sustantiva de sujeto que complementa al verbo \"conferencia\".",
           "is_correct": false,
           "feedback": "Incorrecto. Modifica a \"arqueólogo\" y se introduce por un pronombre relativo, lo que la define estructuralmente como adjetiva."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Las proposiciones subordinadas adjetivas (o de relativo) son introducidas por pronombres relativos (\"que\", \"quien\", \"cual\") y desempeñan la función de adyacente o modificador directo de un sustantivo antecedente.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,19 +238,19 @@
       "context": "Durante las clases de razonamiento verbal para el ingreso a la UNMSM, se propone identificar la función de la proposición subordinada en: \"Diego prometió que donaría una colección de libros al colegio de su pueblo\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Objeto directo (OD).",
           "is_correct": true,
           "feedback": "¡Correcto! Se puede conmutar por el pronombre \"lo\": \"Diego lo prometió\". La proposición completa responde a la pregunta de qué es lo prometido por el sujeto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Objeto indirecto (OI).",
           "is_correct": false,
           "feedback": "Incorrecto. El objeto indirecto de una promesa sería el destinatario (a quién le promete), lo cual no es el caso de la proposición."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Atributo del sujeto.",
           "is_correct": false,
           "feedback": "Incorrecto. Las proposiciones atributivas exigen un verbo copulativo (ser, estar, parecer), pero \"prometer\" es un verbo transitivo predicativo."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. El complemento agente aparece solo en oraciones en voz pasiva introducido por la preposición \"por\", lo cual no ocurre aquí."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las subordinadas sustantivas de objeto directo completan la significación de un verbo transitivo. La prueba de conmutación pronominal por \"lo\" resulta infalible para asegurar esta función gramatical.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Incorrecto. Esta oración es subordinada adverbial causal, pues explica el motivo físico directo (\"porque\")."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Aunque las heladas afectaron la sierra central en junio, los agricultores de Huancayo lograron salvar gran parte de sus cultivos.",
           "is_correct": true,
           "feedback": "¡Correcto! El nexo \"Aunque\" introduce una proposición concesiva que plantea un obstáculo o dificultad que no impidió el resultado de la acción principal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Si las lluvias se retrasan de forma inusual en la sierra, la producción de papa disminuirá drásticamente.",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es una oración compuesta condicional introducida por el nexo de hipótesis \"Si\"."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Es una oración compuesta subordinada adverbial final que denota propósito (\"para que\")."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Las oraciones subordinadas adverbiales concesivas expresan un impedimento u obstáculo a la acción principal, pero que no logra anularla ni evitar su realización. Sus nexos típicos son \"aunque\", \"a pesar de que\", \"por más que\".\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,19 +328,19 @@
       "context": "Al redactar un ensayo para el curso de Historia sobre la rebelión de Túpac Amaru II, un estudiante cusqueño debe enlazar dos acontecimientos cronológicos sucesivos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "En cuanto Túpac Amaru II capturó al corregidor Arriaga en Tinta, los rebeldes emitieron un bando de libertad para los esclavos.",
           "is_correct": true,
           "feedback": "¡Correcto! El nexo \"En cuanto\" introduce una proposición subordinada adverbial temporal que fija la simultaneidad o inmediatez cronológica de la acción principal."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Túpac Amaru II movilizó un gran ejército rebelde con el propósito de abolir el sistema de mitas coloniales.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una oración de finalidad (\"con el propósito de\"), no indica tiempo cronológico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los rebeldes andinos combatieron ferozmente de modo que las tropas realistas tuvieron que replegarse a Lima.",
           "is_correct": false,
           "feedback": "Incorrecto. Esta oración introduce una relación coordinada consecutiva o subordinada ilativa, no temporal."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Se trata de una estructura concesiva, que no define una relación temporal exacta de eventos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las subordinadas adverbiales temporales funcionan como complementos circunstanciales de tiempo de la oración principal, indicando anterioridad, simultaneidad o posterioridad cronológica. Sus nexos comunes son \"cuando\", \"en cuanto\", \"apenas\", \"mientras\".\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,13 +379,13 @@
           "feedback": "Incorrecto. El nexo \"dado que\" introduce una proposición causal, asumiendo un hecho ya consumado y cierto."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Aunque no cuente con todos los recursos económicos necesarios, me prepararé con dedicación para ingresar a la UNI.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una oración concesiva (\"Aunque\"), no propiamente condicional de hipótesis futura."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Siempre que mantenga un promedio ponderado sobresaliente en mis cursos de ingeniería, la universidad renovará mi beca.",
           "is_correct": true,
           "feedback": "¡Correcto! El nexo compuesto \"Siempre que\" funciona como un condicional equivalente a \"si\", que delimita el requisito hipotético ineludible."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Es una proposición subordinada final que denota objetivo (\"para que\")."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Las subordinadas adverbiales condicionales expresan una condición indispensable (prótasis) de cuya veracidad o cumplimiento depende que se verifique el enunciado principal (apódosis).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,19 +418,19 @@
       "context": "En Trujillo, un corrector de textos analiza la redacción de un artículo de opinión sobre la conservación del patrimonio arqueológico de Chan Chan.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Subordinada adjetiva especificativa de lugar.",
           "is_correct": false,
           "feedback": "Incorrecto. No modifica un sustantivo ni se refiere a coordenadas espaciales."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Subordinada sustantiva en función de sujeto del verbo prohibir.",
           "is_correct": false,
           "feedback": "Incorrecto. El sujeto de prohibir es tácito u omitido; la proposición expresa consecuencia o finalidad."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Subordinada adverbial consecutiva o ilativa.",
           "is_correct": true,
           "feedback": "¡Correcto! El conector \"de modo que\" enlaza una consecuencia natural y lógica que se desprende directamente de lo planteado en la proposición anterior."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. No indica causa de Chan Chan, sino la consecuencia protectora que se busca alcanzar."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Las subordinadas ilativas o consecutivas plantean la consecuencia o derivación directa de la proposición antecedente. El nexo de enlace suele ser \"de manera que\", \"de modo que\", \"así que\", \"por consiguiente\".\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Un estudiante de quinto de secundaria en Chimbote está corrigiendo una oración compuesta en la que se ha empleado de forma incorrecta el pronombre relativo \"que\" precedido por la preposición \"de\" (dequeísmo).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Estoy seguro de que los ingenieros chimbotanos resolverán el problema del puerto pesquero.",
           "is_correct": false,
           "feedback": "Incorrecto. El adjetivo \"seguro\" rige la preposición \"de\" (seguro de algo); por ende, esta construcción es correcta (queísmo evitado)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los pescadores locales piensan de que la veda de anchoveta debería prolongarse dos semanas más.",
           "is_correct": true,
           "feedback": "¡Correcto! El verbo \"pensar\" es transitivo directo y no rige preposición (pensar algo, no pensar *de* algo). Agregar \"de que\" es un error sintáctico de dequeísmo."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. El sustantivo \"esperanza\" exige complemento preposicional con \"de\" (esperanza de algo); el uso es normativamente adecuado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El dequeísmo consiste en usar la preposición \"de\" antes de la conjunción \"que\" cuando la sintaxis de la oración no la exige. Para verificar, se puede sustituir la subordinada por el pronombre \"algo\": \"Los pescadores piensan *algo*\" (correcto) vs. \"Los pescadores piensan *de algo*\" (incorrecto).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -610,19 +610,19 @@
           "feedback": "Incorrecto. Las comas en oraciones adjetivas alteran drásticamente el alcance semántico de la proposición, no son puramente estéticas."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "En la oración I, se especifica que solo el subgrupo de comuneros que protestó recibió apoyo; en la oración II, se afirma que la totalidad de los comuneros protestó y todos recibieron apoyo.",
           "is_correct": true,
           "feedback": "¡Correcto! La proposición adjetiva especificativa (I) restringe el sustantivo \"comuneros\"; la adjetiva explicativa (II) añade una aclaración sobre todo el universo de comuneros sin restringir el sujeto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La oración I es sintácticamente incorrecta porque las oraciones subordinadas adjetivas siempre exigen llevar comas de forma obligatoria.",
           "is_correct": false,
           "feedback": "Incorrecto. Ambas oraciones son correctas, pero expresan realidades de alcance semántico distintas."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La puntuación incide directamente en la sintaxis y semántica. Las adjetivas especificativas delimitan al sustantivo antecedente (no llevan comas); las explicativas se refieren a toda la extensión del sustantivo y van entre comas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,13 +694,13 @@
           "feedback": "Incorrecto. El infinitivo no es un verbo conjugado copulativo ni hay nexo copulativo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Funciona como una proposición subordinada sustantiva de objeto directo en la que el infinitivo \"cantar\" actúa como núcleo del predicado subordinado.",
           "is_correct": true,
           "feedback": "¡Correcto! Los verbos de percepción (oír, ver, escuchar) admiten subordinadas sustantivas de infinitivo que cumplen la función global de objeto directo del verbo principal (\"lo oyeron\")."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es una frase adjetiva explicativa que modifica de forma redundante al sujeto de la oración.",
           "is_correct": false,
           "feedback": "Incorrecto. No modifica a los \"biólogos\", sino que es el objeto percibido (\"a las aves cantar\")."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. La oración está en voz activa y no contiene la partícula \"se\" ni complementos agentes de pasiva."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Los infinitivos pueden encabezar proposiciones subordinadas sustantivas (oraciones de infinitivo) cuando dependen de verbos de percepción sensitiva (ver, oír) o causativos (hacer, dejar), ejerciendo el rol sintáctico de objeto directo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,19 +733,19 @@
       "context": "En un debate académico sobre el lenguaje inclusivo y la evolución sintáctica en la Universidad Nacional de San Agustín, se evalúa la siguiente estructura compleja: \"Quien asuma de que la sintaxis es inmutable ignora de que los hablantes son los que la modifican\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La oración es completamente correcta y fluida; las construcciones \"asuma de que\" e \"ignora de que\" evitan caer en queísmos.",
           "is_correct": false,
           "feedback": "Incorrecto. Al contrario, incurre en vicios graves de dequeísmo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Incurre en un error de concordancia de género entre el pronombre relativo \"Quien\" y el sustantivo \"hablantes\".",
           "is_correct": false,
           "feedback": "Incorrecto. El pronombre de tercera persona singular \"Quien\" concuerda perfectamente con \"asuma\" e \"ignora\"; el problema está en las preposiciones."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Presenta dos faltas graves de dequeísmo; los verbos transitivos \"asumir\" e \"ignorar\" exigen oraciones subordinadas sustantivas directas sin preposición (\"asuma que\" / \"ignora que\").",
           "is_correct": true,
           "feedback": "¡Correcto! Tanto \"asumir\" como \"ignorar\" son verbos transitivos que no admiten la preposición \"de\" antes de su objeto directo sustantivo (\"asumir algo\", \"ignorar algo\")."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. \"Queísmo\" es omitir una preposición necesaria; aquí se han insertado preposiciones innecesarias de forma incorrecta."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Los verbos de entendimiento, voluntad y lengua (asumir, ignorar, decir, pensar, desear) rigen objeto directo. La inserción de la preposición \"de\" entre estos verbos y sus respectivas proposiciones subordinadas sustantivas constituye el vicio de dequeísmo.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,19 +778,19 @@
       "context": "Un evaluador del examen de admisión de la UNMSM dictamina la validez de oraciones condicionales que emplean combinaciones de tiempos verbales (concordancia verbal).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Es gramaticalmente correcta; la hipótesis en el pasado va en pretérito pluscuamperfecto de subjuntivo (\"hubieran conocido\") y la consecuencia en condicional compuesto de indicativo (\"habrían tomado\").",
           "is_correct": true,
           "feedback": "¡Correcto! Corresponde a una condicional imposible o irreal de pasado, cuya correlación estándar exige subjuntivo en la hipótesis y condicional compuesto en el resultado."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es incorrecta; debió usarse el futuro simple del indicativo en la prótasis (\"Si los comuneros conocerán...\") para concordar con el condicional de la apódosis.",
           "is_correct": false,
           "feedback": "Incorrecto. En el español estándar, la conjunción condicional \"si\" nunca admite el futuro del indicativo (\"Si conocerán\" es un error grave)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es incoherente; se debió emplear el presente del subjuntivo en ambos verbos (\"Si los comuneros conozcan..., habrán tomado...\").",
           "is_correct": false,
           "feedback": "Incorrecto. Desvirtúa el sentido temporal retrospectivo de la hipótesis en el pasado."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Esta estructura es plenamente válida y recomendada en todos los registros formales y académicos del español global."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La correlación temporal en las condicionales irreales del pasado (hipótesis sobre algo que ya no ocurrió) exige de forma unívoca el pretérito pluscuamperfecto del subjuntivo (hubiera/hubiese) en la prótasis y el condicional compuesto (habría) en la apódosis.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Incorrecto. El encabalgamiento de dos relativas adjetivas sin nexos coordinantes genera una asimetría y confusión sintáctica."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Incurre en un error insalvable de dequeísmo al omitir la preposición \"de\" antes de la conjunción \"que\" en el verbo \"esperaba\".",
           "is_correct": false,
           "feedback": "Incorrecto. \"Esperar\" es transitivo (\"esperaba algo\"); añadir un \"de\" aquí sería incorrecto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Presenta una anacoluto o desorganización sintáctica por yuxtaponer dos oraciones adjetivas relativas sobre el mismo antecedente (\"estudiante\") sin un nexo coordinante que las articule (\"que ingresó y a quien todos felicitaban\").",
           "is_correct": true,
           "feedback": "¡Correcto! Modificar un sustantivo con dos oraciones adjetivas distintas requiere coordinarlas con \"y\" u otro nexo para mantener el equilibrio y la simetría gramatical de la oración."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. El pronombre personal de sujeto \"él\" es adecuado y no genera redundancias obligatorias de reemplazo por \"el cual\"."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El anacoluto o asimetría sintáctica ocurre cuando se quiebra la consistencia estructural de una oración. Al enlazar múltiples proposiciones adjetivas relativas al mismo antecedente, es mandatorio coordinarlas de forma simétrica (\"que ingresó *y* a quien felicitaban\") para preservar la coherencia jerárquica.\n\n---",
       "difficulty": "10",
       "images": [],

@@ -58,31 +58,31 @@
       "context": "En la clase práctica del Liceo N° 5 en Paysandú, Joaquín y sus compañeros debaten sobre la pared celular.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El peptidoglicano (mureína).",
           "is_correct": true,
           "feedback": "Correcto. La pared de las bacterias verdaderas está hecha de peptidoglicano, ausente en eucariotas vegetales (celulosa) y hongos (quitina)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La celulosa estructural de cadena larga.",
           "is_correct": false,
           "feedback": "Incorrecto. La celulosa es el componente principal de las paredes celulares vegetales, no de las bacterias."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La quitina fibrosa insoluble en agua.",
           "is_correct": false,
           "feedback": "Incorrecto. La quitina se encuentra en paredes celulares de hongos y exoesqueletos de artrópodos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Los fosfolípidos anfipáticos de membrana.",
           "is_correct": false,
           "feedback": "Incorrecto. Los fosfolípidos forman la membrana plasmática, no la pared celular estructural externa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La composición de la pared bacteriana permite clasificar a las bacterias en Gram positivas y Gram negativas mediante tinción diferencial. En este contexto, Joaquín de Paysandú determinó correctamente la respuesta correcta.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,31 +103,31 @@
       "context": "Para el proyecto final de ciencias en el Liceo Piloto de Tacuarembó, Camila investiga acerca de ribosomas y sedimentación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Las procariotas poseen ribosomas 70S, mientras que las eucariotas tienen ribosomas 80S en su citosol.",
           "is_correct": true,
           "feedback": "Correcto. El coeficiente de sedimentación difiere evolutivamente: 70S (subunidades 50S y 30S) frente a 80S (subunidades 60S y 40S)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las procariotas carecen por completo de ribosomas y sintetizan proteínas en el núcleo.",
           "is_correct": false,
           "feedback": "Incorrecto. Todas las células vivas necesitan ribosomas para traducir su código genético en proteínas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Las eucariotas poseen ribosomas compuestos únicamente por lípidos insaturados.",
           "is_correct": false,
           "feedback": "Incorrecto. Los ribosomas son complejos ribonucleoproteicos formados por ARNr y proteínas estructurales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Las procariotas tienen ribosomas de mayor masa molecular que sedimentan a 100S.",
           "is_correct": false,
           "feedback": "Incorrecto. Los ribosomas procariotas son más pequeños y livianos que los eucariotas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La diferencia estructural entre los ribosomas 70S y 80S es la base para el diseño de antibióticos que atacan bacterias sin dañar al hospedador. En este contexto, Camila de Tacuarembó determinó correctamente la respuesta correcta.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "En el taller de Ciencias Naturales en Las Piedras, Sofía observa un modelo experimental de la envoltura nuclear.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Las eucariotas poseen carioteca (envoltura nuclear), mientras que las procariotas tienen ADN circular libre en el nucleoide.",
           "is_correct": true,
           "feedback": "Correcto. La presencia de envoltura nuclear es el criterio divisorio evolutivo clave que define a las células eucariotas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las procariotas tienen núcleo verdadero pero carecen de ADN helicoidal de doble hebra.",
           "is_correct": false,
           "feedback": "Incorrecto. Las procariotas se caracterizan precisamente por carecer de núcleo delimitado por membrana."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Las bacterias carecen de aparato de Golgi o cualquier organelo membranoso."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La membrana nuclear en eucariotas regula estrictamente el transporte de ARNm y proteínas, separando la transcripción de la traducción. En este contexto, Sofía de Las Piedras determinó correctamente la respuesta correcta.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,19 +238,19 @@
       "context": "Durante una actividad de laboratorio en el Liceo N° 3 de Melo, Martín analiza la pared celular.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El peptidoglicano (mureína).",
           "is_correct": true,
           "feedback": "Correcto. La pared de las bacterias verdaderas está hecha de peptidoglicano, ausente en eucariotas vegetales (celulosa) y hongos (quitina)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La celulosa estructural de cadena larga.",
           "is_correct": false,
           "feedback": "Incorrecto. La celulosa es el componente principal de las paredes celulares vegetales, no de las bacterias."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La quitina fibrosa insoluble en agua.",
           "is_correct": false,
           "feedback": "Incorrecto. La quitina se encuentra en paredes celulares de hongos y exoesqueletos de artrópodos."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Los fosfolípidos forman la membrana plasmática, no la pared celular estructural externa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La composición de la pared bacteriana permite clasificar a las bacterias en Gram positivas y Gram negativas mediante tinción diferencial. En este contexto, Martín de Melo determinó correctamente la respuesta correcta.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "Para el proyecto final de ciencias en el Liceo N° 5 de Florida, Gastón investiga acerca de los plásmidos bacterianos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Son fragmentos extracromosómicos de ADN circular que codifican para resistencia a antibióticos o toxinas.",
           "is_correct": true,
           "feedback": "Correcto. Los plásmidos confieren ventajas adicionales que facilitan la supervivencia bacteriana frente a factores hostiles."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Son organelos de reserva energética de naturaleza polisacárida soluble.",
           "is_correct": false,
           "feedback": "Incorrecto. Son polímeros de nucleótidos (ADN), no carbohidratos de reserva."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. El flagelo bacteriano está compuesto de flagelina y no guarda relación con plásmidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La transferencia de plásmidos mediante conjugación es un mecanismo principal de propagación de resistencia bacteriana a antibióticos. En este contexto, Gastón de Florida determinó correctamente la respuesta correcta.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Durante una actividad de laboratorio en el Liceo N° 2 de Paysandú, Felipe analiza ribosomas y sedimentación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Las procariotas poseen ribosomas 70S, mientras que las eucariotas tienen ribosomas 80S en su citosol.",
           "is_correct": true,
           "feedback": "Correcto. El coeficiente de sedimentación difiere evolutivamente: 70S (subunidades 50S y 30S) frente a 80S (subunidades 60S y 40S)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las procariotas carecen por completo de ribosomas y sintetizan proteínas en el núcleo.",
           "is_correct": false,
           "feedback": "Incorrecto. Todas las células vivas necesitan ribosomas para traducir su código genético en proteínas."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Los ribosomas procariotas son más pequeños y livianos que los eucariotas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La diferencia estructural entre los ribosomas 70S y 80S es la base para el diseño de antibióticos que atacan bacterias sin dañar al hospedador. En este contexto, Felipe de Paysandú determinó correctamente la respuesta correcta.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,31 +508,31 @@
       "context": "En la clase práctica del Liceo N° 3 en Tacuarembó, Juana y sus compañeros debaten sobre los plásmidos bacterianos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Son fragmentos extracromosómicos de ADN circular que codifican para resistencia a antibióticos o toxinas.",
           "is_correct": true,
           "feedback": "Correcto. Los plásmidos confieren ventajas adicionales que facilitan la supervivencia bacteriana frente a factores hostiles."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Son organelos de reserva energética de naturaleza polisacárida soluble.",
           "is_correct": false,
           "feedback": "Incorrecto. Son polímeros de nucleótidos (ADN), no carbohidratos de reserva."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sirven para regular la presión osmótica de la vacuola central de almacenamiento.",
           "is_correct": false,
           "feedback": "Incorrecto. Las bacterias carecen de vacuola central, propia de células vegetales eucariotas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Constituyen el motor flagelar que permite el desplazamiento en fluidos de alta densidad.",
           "is_correct": false,
           "feedback": "Incorrecto. El flagelo bacteriano está compuesto de flagelina y no guarda relación con plásmidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La transferencia de plásmidos mediante conjugación es un mecanismo principal de propagación de resistencia bacteriana a antibióticos. En este contexto, Juana de Tacuarembó determinó correctamente la respuesta correcta.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "Para el proyecto final de ciencias en el Liceo N° 4 de Fray Bentos, Ignacio investiga acerca de la envoltura nuclear.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Las eucariotas poseen carioteca (envoltura nuclear), mientras que las procariotas tienen ADN circular libre en el nucleoide.",
           "is_correct": true,
           "feedback": "Correcto. La presencia de envoltura nuclear es el criterio divisorio evolutivo clave que define a las células eucariotas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las procariotas tienen núcleo verdadero pero carecen de ADN helicoidal de doble hebra.",
           "is_correct": false,
           "feedback": "Incorrecto. Las procariotas se caracterizan precisamente por carecer de núcleo delimitado por membrana."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Las eucariotas carecen de membrana y su ADN es lineal flotando libre en los ribosomas.",
           "is_correct": false,
           "feedback": "Incorrecto. Las eucariotas tienen su ADN contenido dentro del núcleo celular mediante cromosomas lineales."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Las bacterias carecen de aparato de Golgi o cualquier organelo membranoso."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La membrana nuclear en eucariotas regula estrictamente el transporte de ARNm y proteínas, separando la transcripción de la traducción. En este contexto, Ignacio de Fray Bentos determinó correctamente la respuesta correcta.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Mientras repasa para el examen parcial en Las Piedras, Paula estudia detenidamente la pared celular.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El peptidoglicano (mureína).",
           "is_correct": true,
           "feedback": "Correcto. La pared de las bacterias verdaderas está hecha de peptidoglicano, ausente en eucariotas vegetales (celulosa) y hongos (quitina)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La celulosa estructural de cadena larga.",
           "is_correct": false,
           "feedback": "Incorrecto. La celulosa es el componente principal de las paredes celulares vegetales, no de las bacterias."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Los fosfolípidos forman la membrana plasmática, no la pared celular estructural externa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La composición de la pared bacteriana permite clasificar a las bacterias en Gram positivas y Gram negativas mediante tinción diferencial. En este contexto, Paula de Las Piedras determinó correctamente la respuesta correcta.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,31 +643,31 @@
       "context": "En el taller de Ciencias Naturales en Melo, Diego observa un modelo experimental de ribosomas y sedimentación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Las procariotas poseen ribosomas 70S, mientras que las eucariotas tienen ribosomas 80S en su citosol.",
           "is_correct": true,
           "feedback": "Correcto. El coeficiente de sedimentación difiere evolutivamente: 70S (subunidades 50S y 30S) frente a 80S (subunidades 60S y 40S)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las procariotas carecen por completo de ribosomas y sintetizan proteínas en el núcleo.",
           "is_correct": false,
           "feedback": "Incorrecto. Todas las células vivas necesitan ribosomas para traducir su código genético en proteínas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Las eucariotas poseen ribosomas compuestos únicamente por lípidos insaturados.",
           "is_correct": false,
           "feedback": "Incorrecto. Los ribosomas son complejos ribonucleoproteicos formados por ARNr y proteínas estructurales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Las procariotas tienen ribosomas de mayor masa molecular que sedimentan a 100S.",
           "is_correct": false,
           "feedback": "Incorrecto. Los ribosomas procariotas son más pequeños y livianos que los eucariotas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La diferencia estructural entre los ribosomas 70S y 80S es la base para el diseño de antibióticos que atacan bacterias sin dañar al hospedador. En este contexto, Diego de Melo determinó correctamente la respuesta correcta.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "En la clase práctica del Liceo N° 2 en Florida, Agustín y sus compañeros debaten sobre la envoltura nuclear.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Las eucariotas poseen carioteca (envoltura nuclear), mientras que las procariotas tienen ADN circular libre en el nucleoide.",
           "is_correct": true,
           "feedback": "Correcto. La presencia de envoltura nuclear es el criterio divisorio evolutivo clave que define a las células eucariotas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las procariotas tienen núcleo verdadero pero carecen de ADN helicoidal de doble hebra.",
           "is_correct": false,
           "feedback": "Incorrecto. Las procariotas se caracterizan precisamente por carecer de núcleo delimitado por membrana."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Las bacterias carecen de aparato de Golgi o cualquier organelo membranoso."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La membrana nuclear en eucariotas regula estrictamente el transporte de ARNm y proteínas, separando la transcripción de la traducción. En este contexto, Agustín de Florida determinó correctamente la respuesta correcta.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,19 +778,19 @@
       "context": "Para el proyecto final de ciencias en el Liceo N° 3 de Montevideo, Sebastián investiga acerca de la pared celular.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El peptidoglicano (mureína).",
           "is_correct": true,
           "feedback": "Correcto. La pared de las bacterias verdaderas está hecha de peptidoglicano, ausente en eucariotas vegetales (celulosa) y hongos (quitina)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La celulosa estructural de cadena larga.",
           "is_correct": false,
           "feedback": "Incorrecto. La celulosa es el componente principal de las paredes celulares vegetales, no de las bacterias."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La quitina fibrosa insoluble en agua.",
           "is_correct": false,
           "feedback": "Incorrecto. La quitina se encuentra en paredes celulares de hongos y exoesqueletos de artrópodos."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Los fosfolípidos forman la membrana plasmática, no la pared celular estructural externa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La composición de la pared bacteriana permite clasificar a las bacterias en Gram positivas y Gram negativas mediante tinción diferencial. En este contexto, Sebastián de Montevideo determinó correctamente la respuesta correcta.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,19 +823,19 @@
       "context": "Mientras repasa para el examen parcial en Colonia del Sacramento, Valentina estudia detenidamente ribosomas y sedimentación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Las procariotas poseen ribosomas 70S, mientras que las eucariotas tienen ribosomas 80S en su citosol.",
           "is_correct": true,
           "feedback": "Correcto. El coeficiente de sedimentación difiere evolutivamente: 70S (subunidades 50S y 30S) frente a 80S (subunidades 60S y 40S)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las procariotas carecen por completo de ribosomas y sintetizan proteínas en el núcleo.",
           "is_correct": false,
           "feedback": "Incorrecto. Todas las células vivas necesitan ribosomas para traducir su código genético en proteínas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Las eucariotas poseen ribosomas compuestos únicamente por lípidos insaturados.",
           "is_correct": false,
           "feedback": "Incorrecto. Los ribosomas son complejos ribonucleoproteicos formados por ARNr y proteínas estructurales."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Los ribosomas procariotas son más pequeños y livianos que los eucariotas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La diferencia estructural entre los ribosomas 70S y 80S es la base para el diseño de antibióticos que atacan bacterias sin dañar al hospedador. En este contexto, Valentina de Colonia del Sacramento determinó correctamente la respuesta correcta.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "En el taller de Ciencias Naturales en Paysandú, Santiago observa un modelo experimental de los plásmidos bacterianos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Son fragmentos extracromosómicos de ADN circular que codifican para resistencia a antibióticos o toxinas.",
           "is_correct": true,
           "feedback": "Correcto. Los plásmidos confieren ventajas adicionales que facilitan la supervivencia bacteriana frente a factores hostiles."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Son organelos de reserva energética de naturaleza polisacárida soluble.",
           "is_correct": false,
           "feedback": "Incorrecto. Son polímeros de nucleótidos (ADN), no carbohidratos de reserva."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sirven para regular la presión osmótica de la vacuola central de almacenamiento.",
           "is_correct": false,
           "feedback": "Incorrecto. Las bacterias carecen de vacuola central, propia de células vegetales eucariotas."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. El flagelo bacteriano está compuesto de flagelina y no guarda relación con plásmidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La transferencia de plásmidos mediante conjugación es un mecanismo principal de propagación de resistencia bacteriana a antibióticos. En este contexto, Santiago de Paysandú determinó correctamente la respuesta correcta.",
       "difficulty": "10",
       "images": [],

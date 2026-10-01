@@ -19,13 +19,13 @@
           "feedback": "Incorrect. We use Present Perfect for experiences."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "have been",
           "is_correct": true,
           "feedback": "Correct! Present Perfect (have + past participle) for life experiences."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "am",
           "is_correct": false,
           "feedback": "Incorrect. This is present tense."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect. \"I\" takes \"have\", not \"has\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El Presente Perfecto se utiliza para hablar de experiencias que han ocurrido en algún momento de la vida, sin especificar exactamente cuándo.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -71,19 +71,19 @@
           "feedback": "Incorrect. This is for a specific time in the past."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Have / eaten",
           "is_correct": true,
           "feedback": "Correct! \"Have + past participle\" for questions about experiences."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Has / eaten",
           "is_correct": false,
           "feedback": "Incorrect. \"You\" takes \"have\"."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Para preguntar sobre experiencias de vida usamos \"Have you ever + participio pasado\".\n\n---",
       "difficulty": "4",
       "images": [],
@@ -157,13 +157,13 @@
           "feedback": "Incorrect. \"For\" is used for periods of time (e.g., 5 years)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "since",
           "is_correct": true,
           "feedback": "Correct! \"Since\" is used for a specific starting point in time."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "during",
           "is_correct": false,
           "feedback": "Incorrect. Not the standard preposition for present perfect duration."
@@ -175,7 +175,7 @@
           "feedback": "Incorrect. This means he stopped living there."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Usamos \"since\" para indicar el punto de inicio de una acción que continúa hasta el presente.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "Using \"for\" for duration.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "for",
           "is_correct": true,
           "feedback": "Correct! \"For\" is used to show a duration or period of time."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "since",
           "is_correct": false,
           "feedback": "Incorrect. \"Since\" needs a specific point in time, not a number of years."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "ago",
           "is_correct": false,
           "feedback": "Incorrect. \"Ago\" is only used with Past Simple."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "yet",
           "is_correct": false,
           "feedback": "Incorrect. \"Yet\" is used for expectations in negatives/questions."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "\"For\" se utiliza para indicar la duración de una acción (cuánto tiempo ha pasado).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Talking about Colombian world-famous personalities.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "won",
           "is_correct": false,
           "feedback": "Incorrect. Her career is ongoing, so Present Perfect is better."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "has won",
           "is_correct": true,
           "feedback": "Correct! Present perfect connects the past with the current status of her career."
@@ -267,7 +267,7 @@
           "feedback": "Incorrect. This is present simple."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Cuando hablamos de los logros de alguien que sigue activo en su carrera, el Presente Perfecto es el tiempo más apropiado porque los eventos pueden repetirse.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Contrasting Present Perfect and Past Simple.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "drank / haven't drunk",
           "is_correct": false,
           "feedback": "Incorrect. Tenses are in the wrong places."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "have drunk / didn't drink",
           "is_correct": true,
           "feedback": "Correct! \"Today\" is an unfinished time (Present Perfect); \"yesterday\" is finished (Past Simple)."
@@ -313,7 +313,7 @@
           "feedback": "Incorrect. Grammatically incorrect forms."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Este es un punto clave de B1: usar Presente Perfecto para tiempos no terminados (today, this week) y Pasado Simple para tiempos terminados (yesterday, last year).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "Using \"just\" for recent actions.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "just",
           "is_correct": true,
           "feedback": "Correct! \"Just\" indicates that the action happened a very short time ago."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "yet",
           "is_correct": false,
           "feedback": "Incorrect. \"Yet\" goes at the end of negative sentences or questions."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "ever",
           "is_correct": false,
           "feedback": "Incorrect. \"Ever\" is for questions about experiences in general."
@@ -359,7 +359,7 @@
           "feedback": "Incorrect. Would mean you haven't eaten, but the response says \"no thanks\"."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La palabra \"just\" se coloca entre el auxiliar y el participio para indicar que una acción acaba de ocurrir.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -433,13 +433,13 @@
           "feedback": "Incorrect. Correct participle for \"know\"."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "for",
           "is_correct": false,
           "feedback": "Incorrect. Correct preposition for a period of time."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "have met",
           "is_correct": true,
           "feedback": "Correct! This is an error. Meeting someone is a specific event in the past; it should be \"We met\" (Past Simple)."
@@ -451,7 +451,7 @@
           "feedback": "Incorrect. Correct use to show a state that continues to the present."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "En B1 se debe saber que eventos únicos de inicio (como conocer a alguien o nacer) se expresan en Pasado Simple, aunque la relación resultante use Presente Perfecto.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -479,13 +479,13 @@
           "feedback": "Incorrect. Past simple is possible in American English but Present Perfect is preferred in B1 tests."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "\"Have you finished your chores yet?\" - \"Yes, I have already finished them.\"",
           "is_correct": true,
           "feedback": "Correct! Uses both \"yet\" and \"already\" perfectly in Present Perfect."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "\"Did you finish already?\" - \"No, I haven't finished already.\"",
           "is_correct": false,
           "feedback": "Incorrect. \"Already\" is not used in negative responses of this type; \"yet\" is needed."
@@ -497,7 +497,7 @@
           "feedback": "Incorrect. Grammatically broken."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "\"Yet\" se usa en preguntas y negativas (al final), mientras que \"already\" se usa en afirmaciones para indicar que algo ocurrió antes de lo esperado.\n\n---",
       "difficulty": "10",
       "images": [],

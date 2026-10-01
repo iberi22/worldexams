@@ -19,13 +19,13 @@
           "feedback": "Incorreto: o valor que mais se repete é a moda."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "A soma de todos os valores dividida pela quantidade de valores",
           "is_correct": true,
           "feedback": "Correto: essa é a definição de média aritmética simples."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "O valor central do conjunto após a ordenação",
           "is_correct": false,
           "feedback": "Incorreto: o valor central após ordenar é a mediana."
@@ -37,7 +37,7 @@
           "feedback": "Incorreto: essa diferença é a amplitude do conjunto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "A média aritmética simples é o quociente entre a soma de todos os valores e a quantidade de valores. É a medida de tendência central mais utilizada.",
       "difficulty": "4",
       "images": [],
@@ -109,13 +109,13 @@
           "feedback": "Incorreto: esse procedimento calcula a média, não a mediana."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Ordenar os valores e tomar o termo central",
           "is_correct": true,
           "feedback": "Correto: com quantidade ímpar, a mediana é o valor que ocupa a posição central após a ordenação."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Tomar a média dos dois valores centrais",
           "is_correct": false,
           "feedback": "Incorreto: esse procedimento é usado quando a quantidade de valores é par."
@@ -127,7 +127,7 @@
           "feedback": "Incorreto: esse procedimento identifica a moda."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Com n ímpar, a mediana é o elemento central do rol ordenado, ocupando a posição (n + 1)/2. Com n par, a mediana é a média dos dois valores centrais.",
       "difficulty": "4",
       "images": [],
@@ -193,31 +193,31 @@
       "context": "Um estudante em Salvador calcula a média das notas de uma prova.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "8",
           "is_correct": true,
           "feedback": "Correto: (6 + 8 + 10)/3 = 24/3 = 8."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "7",
           "is_correct": false,
           "feedback": "Incorreto: 7 seria a média de 6, 7 e 8."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "9",
           "is_correct": false,
           "feedback": "Incorreto: 9 seria a média de 8, 9 e 10."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "24",
           "is_correct": false,
           "feedback": "Incorreto: 24 é a soma das notas, antes da divisão pela quantidade."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Média = (6 + 8 + 10)/3 = 24/3 = 8. A soma das notas é dividida pela quantidade de provas.",
       "difficulty": "6",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Um auxiliar administrativo em Recife organiza as alturas dos funcionários para encontrar a mediana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "7",
           "is_correct": false,
           "feedback": "Incorreto: 7 é o segundo valor do rol, não o central."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "9",
           "is_correct": true,
           "feedback": "Correto: com 5 valores, a mediana é o 3º termo do rol, que é 9."
@@ -262,7 +262,7 @@
           "feedback": "Incorreto: 12 é o 4º termo do rol, acima da posição central."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "O conjunto já está ordenado e tem 5 elementos. A mediana é o termo da posição (5 + 1)/2 = 3, ou seja, 9.",
       "difficulty": "6",
       "images": [],
@@ -283,31 +283,31 @@
       "context": "Um vendedor em Fortaleza analisa o número de vendas diárias na semana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "5",
           "is_correct": true,
           "feedback": "Correto: o valor 5 aparece 3 vezes, mais do que qualquer outro."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorreto: 2 aparece apenas uma vez."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "7",
           "is_correct": false,
           "feedback": "Incorreto: 7 aparece apenas uma vez."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "5,3",
           "is_correct": false,
           "feedback": "Incorreto: 5,3 é a média aritmética do conjunto, não a moda."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "A moda é o valor de maior frequência. No conjunto {2, 5, 5, 5, 7, 8}, o valor 5 aparece três vezes e é a moda.",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "Um professor em Manaus calcula a média final de um aluno com pesos diferentes por bimestre.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "7,0",
           "is_correct": false,
           "feedback": "Incorreto: 7,0 seria a média aritmética simples de 6, 7 e 8."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "6,8",
           "is_correct": true,
           "feedback": "Correto: (7·2 + 8·3 + 6·5)/10 = (14 + 24 + 30)/10 = 68/10 = 6,8."
@@ -352,7 +352,7 @@
           "feedback": "Incorreto: 7,5 superestimaria a média, ignorando o peso maior da nota 6."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Média ponderada = (7·2 + 8·3 + 6·5)/(2 + 3 + 5) = 68/10 = 6,8. Cada nota é multiplicada pelo seu peso antes da divisão.",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Um meteorologista em Goiânia compara as temperaturas máximas registradas na semana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "30",
           "is_correct": false,
           "feedback": "Incorreto: 30 é apenas um dos valores do conjunto, não a amplitude."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "55",
           "is_correct": true,
           "feedback": "Correto: a amplitude é o maior valor menos o menor, 67 − 12 = 55."
@@ -397,7 +397,7 @@
           "feedback": "Incorreto: 12 é o valor mínimo do conjunto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "A amplitude é a diferença entre o maior e o menor valor: 67 − 12 = 55.",
       "difficulty": "6",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Um pesquisador em Porto Alegre calcula a variância das notas de quatro alunos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "2",
           "is_correct": true,
           "feedback": "Correto: a média é 4; os desvios são −2, 0, 0 e 2, e a média dos quadrados é (4 + 0 + 0 + 4)/4 = 2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "√2",
           "is_correct": false,
           "feedback": "Incorreto: √2 é o desvio padrão, não a variância."
@@ -532,7 +532,7 @@
           "feedback": "Incorreto: 8 é a soma dos quadrados dos desvios, antes da divisão pela quantidade."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "A média é 4. Os desvios são −2, 0, 0 e 2; seus quadrados somam 4 + 0 + 0 + 4 = 8. A variância populacional é 8/4 = 2, e o desvio padrão é √2.",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Um professor em Natal compara o desempenho de duas turmas com a mesma média.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "A turma A, pois tem menor desvio padrão",
           "is_correct": true,
           "feedback": "Correto: menor desvio padrão indica notas mais concentradas em torno da média."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "A turma B, pois tem maior desvio padrão",
           "is_correct": false,
           "feedback": "Incorreto: maior desvio padrão indica maior dispersão."
@@ -622,7 +622,7 @@
           "feedback": "Incorreto: variar mais significa menos homogeneidade."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "O desvio padrão mede a dispersão em torno da média. Com desvio 0,5, as notas da turma A estão mais concentradas perto de 7, tornando-a mais homogênea.",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Um coordenador em São José dos Campos analisa a distribuição de idades dos alunos em uma tabela de frequências.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "16",
           "is_correct": false,
           "feedback": "Incorreto: as posições 15ª e 16ª do rol já caem na idade 17."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "17",
           "is_correct": true,
           "feedback": "Correto: as frequências acumuladas até 16 anos somam 13, e até 17 anos somam 25; as posições 15ª e 16ª estão na idade 17."
@@ -667,7 +667,7 @@
           "feedback": "Incorreto: 15,5 está abaixo da região central do rol de 30 elementos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Com 30 alunos, a mediana é a média das posições 15ª e 16ª. As frequências acumuladas indicam que esses dois valores são 17, logo a mediana é 17.",
       "difficulty": "8",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "Um analista em Vitória estima o salário médio de funcionários a partir de faixas salariais.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "R$ 1250",
           "is_correct": true,
           "feedback": "Correto: (250·10 + 750·20 + 1250·30 + 1750·40)/100 = 125000/100 = 1250."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "R$ 1000",
           "is_correct": false,
           "feedback": "Incorreto: R$ 1000 seria a média dos pontos médios sem considerar as frequências."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "R$ 1500",
           "is_correct": false,
           "feedback": "Incorreto: R$ 1500 é o ponto médio aproximado da faixa com maior frequência, não a média geral."
@@ -712,7 +712,7 @@
           "feedback": "Incorreto: R$ 1125 resultaria de um cálculo incorreto das somas ponderadas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Os pontos médios são 250, 750, 1250 e 1750. A média estimada é (250·10 + 750·20 + 1250·30 + 1750·40)/100 = 125000/100 = R$ 1250.",
       "difficulty": "8",
       "images": [],
@@ -733,19 +733,19 @@
       "context": "Um candidato ao ENEM avalia afirmações sobre dispersão em um gráfico de notas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "A turma com menor desvio padrão tem notas mais concentradas em torno da média",
           "is_correct": true,
           "feedback": "Correto: o desvio padrão mede exatamente a dispersão em torno da média."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "A turma com maior desvio padrão tem média maior",
           "is_correct": false,
           "feedback": "Incorreto: a média é a mesma para as duas turmas, como dado no enunciado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Desvio padrão nulo indica que a média é nula",
           "is_correct": false,
           "feedback": "Incorreto: desvio nulo indica que todos os valores são iguais à média, que pode ser qualquer valor."
@@ -757,7 +757,7 @@
           "feedback": "Incorreto: conjuntos diferentes podem ter o mesmo desvio padrão."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "O desvio padrão quantifica a dispersão dos dados em torno da média. Quanto menor ele é, mais homogêneo é o conjunto, independentemente do valor da média.",
       "difficulty": "10",
       "images": [],
@@ -778,31 +778,31 @@
       "context": "Um coordenador em Belo Horizonte acompanha o consumo mensal de água da escola para planejar o orçamento.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "26",
           "is_correct": true,
           "feedback": "Correto: a soma dos seis meses é 21·6 = 126; descontando os cinco primeiros (100), junho foi 26 m³."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "21",
           "is_correct": false,
           "feedback": "Incorreto: 21 seria o consumo se junho fosse igual à média."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "24",
           "is_correct": false,
           "feedback": "Incorreto: 24 é apenas o valor do mês de fevereiro."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "20",
           "is_correct": false,
           "feedback": "Incorreto: 20 é o valor que mais se repete, não o consumo de junho."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "A soma dos seis meses é 21·6 = 126 m³. A soma dos cinco primeiros é 20 + 24 + 16 + 20 + 20 = 100. Logo, junho consumiu 126 − 100 = 26 m³.",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Um analista em Campinas avalia os salários de uma pequena empresa com um valor discrepante.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "A mediana, pois a média é fortemente influenciada pelo salário de R$ 5000",
           "is_correct": true,
           "feedback": "Correto: a média é 1970, acima de 4 dos 5 salários; a mediana é 1250."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "A média, pois considera todos os salários",
           "is_correct": false,
           "feedback": "Incorreto: a média (1970) não representa bem a maioria, puxada pelo valor extremo."
@@ -847,7 +847,7 @@
           "feedback": "Incorreto: não há valor repetido, portanto não há moda."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "A média é (1100 + 1200 + 1250 + 1300 + 5000)/5 = 1970, acima de quatro salários. A mediana é 1250, valor típico da equipe. Quando há valores discrepantes, a mediana é preferível.",
       "difficulty": "10",
       "images": [],

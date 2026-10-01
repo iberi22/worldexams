@@ -13,13 +13,13 @@
       "context": "En un colegio de Pasto, la profesora explica que el frailejon vive en el paramo, donde hace frio, hay viento fuerte y la luz es muy intensa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Una caracteristica o comportamiento que le ayuda a sobrevivir y reproducirse en su ambiente",
           "is_correct": true,
           "feedback": "Correcto. La adaptacion es una caracteristica heredable que favorece la supervivencia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un cambio que el animal decide hacer en un momento dado",
           "is_correct": false,
           "feedback": "Incorrecto. Las adaptaciones se heredan; no son decisiones momentaneas."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. La adaptacion es el rasgo, no el lugar que habita."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las adaptaciones son caracteristicas anatomicas, fisiologicas o de comportamiento que se heredan y que aumentan las probabilidades de sobrevivir y dejar descendencia en un ambiente determinado; el pelaje denso del frailejon y su tallo con pelos que retienen agua son ejemplos tipicos del paramo.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "En un bosque seco del Tolima, los arboles pierden sus hojas en la temporada seca, mientras en la selva del Choco las hojas permanecen verdes todo el ano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Porque al perder las hojas reducen la perdida de agua por evaporacion y sobreviven a la sequia",
           "is_correct": true,
           "feedback": "Correcto. La caida de hojas es una adaptacion que disminuye la perdida de agua."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque las hojas se aburren de estar en el arbol",
           "is_correct": false,
           "feedback": "Incorrecto. Las plantas no tienen sentimientos ni decisiones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque el arbol quiere quedar sin hojas para verse diferente",
           "is_correct": false,
           "feedback": "Incorrecto. La perdida de hojas responde a la escasez de agua, no a la apariencia."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque las hojas se convierten en raices al caer",
           "is_correct": false,
           "feedback": "Incorrecto. Las hojas caidas se descomponen y forman materia organica, no raices."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En los bosques secos, la temporada de pocas lluvias exige ahorrar agua; los arboles caducifolios pierden sus hojas, reducen la superficie de transpiracion y entran en una especie de reposo que les permite sobrevivir hasta el regreso de las lluvias.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En una salida de campo a un manglar de la costa Caribe, los estudiantes observan que las raices de los mangles sobresalen del agua lodosa y que sus semillas germinan en el propio arbol.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Las raices aereas les permiten respirar en un suelo lodoso pobre en oxigeno y las semillas que germinan en el arbol favorecen su establecimiento en el lodo",
           "is_correct": true,
           "feedback": "Correcto. Ambas son adaptaciones al ambiente salino y anegado del manglar."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las raices sobresalen porque el mangle quiere crecer mas alto",
           "is_correct": false,
           "feedback": "Incorrecto. Las raices aereas cumplen la funcion de respirar en el lodo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Las semillas germinan en el arbol porque no les gusta el suelo",
           "is_correct": false,
           "feedback": "Incorrecto. La germinacion en el arbol ayuda a la plántula a establecerse."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El mangle no tiene ninguna adaptacion y crece por casualidad",
           "is_correct": false,
           "feedback": "Incorrecto. El mangle presenta adaptaciones claras al ambiente del manglar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El manglar es un ambiente salino, con lodo pobre en oxigeno y mareas; los mangles presentan raices aereas o zancudas que captan oxigeno y semillas que germinan sobre el arbol (viviparas), lo que permite que la plántula caiga ya formada y se fije en el lodo.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "Un biologo del Amazonas explica que algunos peces electrices y ciertos bagres tienen organos que producen descargas o detectan campos electricos en aguas turbias.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Les permiten orientarse, detectar presas y comunicarse en aguas oscuras y turbias donde la vista es poco util",
           "is_correct": true,
           "feedback": "Correcto. La electrolocalizacion compensa la falta de visibilidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Les sirven para cambiar el color del agua del rio",
           "is_correct": false,
           "feedback": "Incorrecto. Las descargas electricas no cambian el color del agua."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Los rios amazonicos suelen ser turbios y oscuros."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En aguas turbias, oscuras o ricas en sedimentos, la vision resulta poco eficaz; por eso algunos peces han desarrollado organos electricos que generan campos y receptores que los detectan, lo que les permite orientarse, encontrar alimento y comunicarse sin depender de la luz.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En un paramo de Santander, los estudiantes observan que una planta pequena de hojas gruesas y peludas vive donde el viento es fuerte y la temperatura baja de noche.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Las hojas gruesas y peludas retienen el calor y reducen la perdida de agua, adaptaciones utiles en el frio, el viento y la intensa radiacion del paramo",
           "is_correct": true,
           "feedback": "Correcto. Relaciona los rasgos con las condiciones extremas del paramo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las hojas gruesas sirven para flotar en el agua",
           "is_correct": false,
           "feedback": "Incorrecto. El paramo no es un ambiente acuatico."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Esa caracteristica es propia de plantas de ambientes frios y secos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En el paramo, la baja temperatura, el viento y la fuerte radiacion solar exigen adaptaciones: hojas pequenas, gruesas y cubiertas de pelos que aïslan del frio, reducen la transpiracion y protegen del exceso de luz; estas caracteristicas distinguen a muchas plantas de alta montana.",
       "difficulty": "6",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "En un foro escolar de Villavicencio, tres estudiantes afirman: 1) Las adaptaciones se heredan de una generacion a otra. 2) Un organismo puede adaptarse en minutos si lo necesita. 3) El ambiente influye en cuales rasgos resultan ventajosos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La 1 es verdadera, la 2 es falsa porque las adaptaciones surgen a lo largo de muchas generaciones y la 3 es verdadera porque el ambiente determina que rasgos resultan ventajosos",
           "is_correct": true,
           "feedback": "Correcto. Distingue herencia y tiempos evolutivos del papel del ambiente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las tres son verdaderas porque un animal puede cambiar sus genes cuando quiere",
           "is_correct": false,
           "feedback": "Incorrecto. Los organismos no cambian sus genes por voluntad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solo la 2 es verdadera y las demas son falsas",
           "is_correct": false,
           "feedback": "Incorrecto. La 2 es falsa; las adaptaciones no ocurren en minutos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Las tres son falsas porque el ambiente no influye en la evolucion",
           "is_correct": false,
           "feedback": "Incorrecto. El ambiente es clave para la seleccion de rasgos ventajosos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluar estas afirmaciones exige distinguir los tiempos de la evolucion: las adaptaciones son rasgos heredables que se acumulan en las poblaciones a lo largo de muchas generaciones, no cambios voluntarios ni inmediatos; el ambiente actua como filtro que favorece a los individuos mejor dotados para sobrevivir y reproducirse.",
       "difficulty": "10",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "Una fundacion de una ciudad colombiana dispone de un presupuesto limitado en COP para proteger una especie amenazada cuyo habitat se esta fragmentando.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Conservar y conectar los fragmentos de habitat y reducir las amenazas directas, porque mantener el ambiente donde la especie esta adaptada es la forma mas sostenible de protegerla",
           "is_correct": true,
           "feedback": "Correcto. Conservar el habitat respeta las adaptaciones y es eficaz a largo plazo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Llevar unos pocos individuos a un zoologico y no hacer nada mas con el habitat",
           "is_correct": false,
           "feedback": "Incorrecto. Sin habitat, la especie no se recupera en la naturaleza."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Introducir la especie en un ambiente muy distinto esperando que se adapte en poco tiempo",
           "is_correct": false,
           "feedback": "Incorrecto. La adaptacion requiere muchas generaciones y no garantiza exito."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ignorar la fragmentacion y dejar que la especie se adapte sola",
           "is_correct": false,
           "feedback": "Incorrecto. La fragmentacion reduce el habitat y las poblaciones."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluar estrategias de conservacion exige considerar las adaptaciones de la especie: cada organismo esta ajustado a su ambiente, por lo que proteger y conectar los fragmentos de habitat y reducir amenazas como la tala o la caza es mas eficaz y sostenible que trasladar individuos a ambientes muy distintos.",
       "difficulty": "10",
       "images": [],

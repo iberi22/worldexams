@@ -59,19 +59,19 @@
       "context": "Lee: \"Una reseña es un texto breve que describe una obra y expresa una opinión sobre ella para ayudar a otros lectores a decidir si la leen.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Informar sobre el libro y recomendar o desaconsejar su lectura con razones.",
           "is_correct": true,
           "feedback": "La reseña orienta al lector combinando información y opinión argumentada."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Contar toda la historia y revelar el final.",
           "is_correct": false,
           "feedback": "Revelar el final quita el interés y no es la función de una reseña."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Vender el libro a cualquier precio.",
           "is_correct": false,
           "feedback": "La reseña no es un anuncio comercial; ofrece una valoración honesta."
@@ -83,7 +83,7 @@
           "feedback": "Una reseña es breve y original, no una copia de la obra."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Comprender el propósito comunicativo de la reseña como texto de opinión informada.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "Un estudiante escribe una reseña de \"La telaraña de Carlota\" para el periódico escolar de Bucaramanga.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "\"Me pareció una historia conmovedora que enseña sobre la amistad.\"",
           "is_correct": true,
           "feedback": "Es una valoración personal, por eso expresa una opinión."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "\"El libro fue escrito por E. B. White.\"",
           "is_correct": false,
           "feedback": "Es un dato verificable sobre el autor, no una opinión."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "\"La primera edición se publicó en 1952.\"",
           "is_correct": false,
           "feedback": "Es un hecho comprobable sobre la publicación, no una opinión."
@@ -129,7 +129,7 @@
           "feedback": "Es un dato contable y verificable, no una opinión."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicar la distinción entre opinión y hecho dentro de una reseña.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Lee: \"La reseña combinó el resumen, los hechos verificables y la opinión del autor, con un lenguaje claro y respetuoso.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Incluir un resumen breve, hechos del libro y su opinión con razones claras.",
           "is_correct": true,
           "feedback": "La combinación de resumen, datos y opinión argumentada caracteriza la buena reseña."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Escribir solo su opinión sin mencionar el libro.",
           "is_correct": false,
           "feedback": "Sin presentar el libro, el lector no entiende qué se está valorando."
@@ -221,7 +221,7 @@
           "feedback": "Una reseña describe y valora la obra; no la modifica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar los criterios para redactar una reseña completa y confiable.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "Lee: \"Reseña 1: 'El libro tiene 120 páginas.' Reseña 2: 'El libro es aburrido porque sus capítulos son muy largos.'\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La primera es un hecho verificable; la segunda es una opinión personal.",
           "is_correct": true,
           "feedback": "El número de páginas se comprueba; el aburrimiento es una valoración subjetiva."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las dos son hechos verificables.",
           "is_correct": false,
           "feedback": "El aburrimiento no se puede verificar objetivamente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Las dos son opiniones personales.",
           "is_correct": false,
           "feedback": "El número de páginas es un dato objetivo, no una opinión."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La primera es una opinión y la segunda es un hecho.",
           "is_correct": false,
           "feedback": "Es al revés: la primera es un hecho y la segunda una opinión."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analizar y distinguir hechos verificables de opiniones personales en una reseña.",
       "difficulty": "8",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "Lee: \"Reseñar un libro no es contar todo lo que pasa, sino dar pistas sobre su valor y dejar que el lector descubra la historia.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Porque quita el interés del lector y no ayuda a que decida por sí mismo.",
           "is_correct": true,
           "feedback": "Revelar el final elimina la sorpresa y reduce las ganas de leer la obra."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque el final nunca existe en los libros.",
           "is_correct": false,
           "feedback": "Todos los libros narrativos tienen un desenlace."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque así la reseña queda más larga.",
           "is_correct": false,
           "feedback": "La extensión no es la razón; se trata de no dañar la experiencia lectora."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque nadie puede leer el final de un libro.",
           "is_correct": false,
           "feedback": "El final está disponible para quien lee la obra completa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analizar por qué la reseña debe orientar sin arruinar la experiencia de la lectura.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Lee: \"Escribir reseñas enseña a distinguir hechos de opiniones, a argumentar con razones y a recomendar lecturas a otros. Por eso, muchos docentes colombianos las proponen en la escuela.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque ayuda a distinguir hechos de opiniones, argumentar con razones y recomendar lecturas.",
           "is_correct": true,
           "feedback": "La reseña entrena el pensamiento crítico y la expresión argumentada."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque solo sirve para llenar páginas sin aprender.",
           "is_correct": false,
           "feedback": "La reseña desarrolla habilidades concretas de análisis y escritura."
@@ -359,7 +359,7 @@
           "feedback": "Una buena reseña exige pensamiento propio, no copia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluar el aporte de la reseña al desarrollo del pensamiento crítico y la lectura autónoma.",
       "difficulty": "10",
       "images": [],

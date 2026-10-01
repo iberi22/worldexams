@@ -13,13 +13,13 @@
       "context": "En Asunción, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Propiedad conmutativa.",
           "is_correct": true,
           "feedback": "¡Correcto! La conmutatividad indica que el orden de los sumandos no altera la suma."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Propiedad asociativa.",
           "is_correct": false,
           "feedback": "Incorrecto. La asociatividad se aplica a la agrupación de tres o más sumandos."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Esta relaciona la multiplicación con la suma."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La propiedad conmutativa establece que para cualesquiera números reales $a$ y $b$, el orden de la operación no cambia el resultado, es decir, $a + b = b + a$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,19 +58,19 @@
       "context": "En San Lorenzo, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La temperatura es estrictamente mayor que 18 °C y menor o igual que 42 °C.",
           "is_correct": true,
           "feedback": "¡Correcto! Paréntesis excluye el límite inferior y corchete incluye el superior."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La temperatura es mayor o igual que 18 °C y menor o igual que 42 °C.",
           "is_correct": false,
           "feedback": "Incorrecto. El límite inferior 18 está excluido porque tiene un paréntesis."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La temperatura es estrictamente mayor que 18 °C y estrictamente menor que 42 °C.",
           "is_correct": false,
           "feedback": "Incorrecto. El límite superior 42 está incluido porque tiene un corchete."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. El intervalo abarca todos los números reales entre ambos valores."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El intervalo semiabierto $(a, b]$ incluye al extremo derecho $b$ pero excluye al izquierdo $a$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,19 +103,19 @@
       "context": "En Luque, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$|24 - 54|$ km",
           "is_correct": true,
           "feedback": "¡Correcto! El valor absoluto de la diferencia de dos coordenadas reales da la distancia métrica entre ellas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$|24| + |54|$ km",
           "is_correct": false,
           "feedback": "Incorrecto. Esto sumaría las distancias desde el inicio, dando un valor erróneo de 78 km."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$24 - 54$ km",
           "is_correct": false,
           "feedback": "Incorrecto. El resultado de esta resta es negativo (-30), y las distancias físicas deben ser no negativas."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. La distancia no se calcula sumando las coordenadas reales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La distancia entre dos puntos $x_1, x_2$ en la recta real está dada por la métrica $d = |x_1 - x_2|$. En este caso, $|24 - 54| = |-30| = 30$ km.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "En Encarnación, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Números irracionales ($\\mathbb{I}$).",
           "is_correct": true,
           "feedback": "¡Correcto! $\\sqrt{5}$ es un número irracional porque su desarrollo decimal es infinito no periódico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Números racionales ($\\mathbb{Q}$).",
           "is_correct": false,
           "feedback": "Incorrecto. No se puede escribir como fracción de dos enteros."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Los números naturales son enteros positivos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las raíces cuadradas de números enteros que no son cuadrados perfectos son siempre irracionales, con decimales infinitos no periódicos.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -238,19 +238,19 @@
       "context": "En Caacupé, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "₲ 132.000",
           "is_correct": true,
           "feedback": "¡Correcto! El 12% de 150.000 es 18,000, restándolo da 132,000."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "₲ 141.000",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el porcentaje de descuento aplicado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "₲ 168.000",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó el descuento en lugar de restarlo."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Calculó un porcentaje incorrecto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \\text{porcentaje}): 150.000 \\times (1 - 0.12) = 132000$ Guaraníes.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,19 +328,19 @@
       "context": "En Coronel Oviedo, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "₲ 126.000",
           "is_correct": true,
           "feedback": "¡Correcto! El 16% de 150.000 es 24,000, restándolo da 126,000."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "₲ 138.000",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el porcentaje de descuento aplicado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "₲ 174.000",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó el descuento en lugar de restarlo."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Calculó un porcentaje incorrecto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \\text{porcentaje}): 150.000 \\times (1 - 0.16) = 126000$ Guaraníes.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,19 +418,19 @@
       "context": "En Villarrica, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "₲ 120.000",
           "is_correct": true,
           "feedback": "¡Correcto! El 20% de 150.000 es 30,000, restándolo da 120,000."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "₲ 135.000",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el porcentaje de descuento aplicado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "₲ 180.000",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó el descuento en lugar de restarlo."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Calculó un porcentaje incorrecto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \\text{porcentaje}): 150.000 \\times (1 - 0.20) = 120000$ Guaraníes.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,31 +463,31 @@
       "context": "En Asunción, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "₲ 117.000",
           "is_correct": true,
           "feedback": "¡Correcto! El 22% de 150.000 es 33,000, restándolo da 117,000."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "₲ 133.500",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el porcentaje de descuento aplicado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "₲ 183.000",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó el descuento en lugar de restarlo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "₲ 110.400",
           "is_correct": false,
           "feedback": "Incorrecto. Calculó un porcentaje incorrecto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \\text{porcentaje}): 150.000 \\times (1 - 0.22) = 117000$ Guaraníes.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "En San Lorenzo, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "₲ 114.000",
           "is_correct": true,
           "feedback": "¡Correcto! El 24% de 150.000 es 36,000, restándolo da 114,000."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "₲ 132.000",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el porcentaje de descuento aplicado."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Calculó un porcentaje incorrecto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \\text{porcentaje}): 150.000 \\times (1 - 0.24) = 114000$ Guaraníes.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,31 +553,31 @@
       "context": "En Luque, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "₲ 111.000",
           "is_correct": true,
           "feedback": "¡Correcto! El 26% de 150.000 es 39,000, restándolo da 111,000."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "₲ 130.500",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el porcentaje de descuento aplicado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "₲ 189.000",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó el descuento en lugar de restarlo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "₲ 103.200",
           "is_correct": false,
           "feedback": "Incorrecto. Calculó un porcentaje incorrecto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \\text{porcentaje}): 150.000 \\times (1 - 0.26) = 111000$ Guaraníes.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "En Encarnación, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "₲ 108.000",
           "is_correct": true,
           "feedback": "¡Correcto! El 28% de 150.000 es 42,000, restándolo da 108,000."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "₲ 129.000",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el porcentaje de descuento aplicado."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Calculó un porcentaje incorrecto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \\text{porcentaje}): 150.000 \\times (1 - 0.28) = 108000$ Guaraníes.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "En Ciudad del Este, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "₲ 105.000",
           "is_correct": true,
           "feedback": "¡Correcto! El 30% de 150.000 es 45,000, restándolo da 105,000."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "₲ 127.500",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el porcentaje de descuento aplicado."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Calculó un porcentaje incorrecto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \\text{porcentaje}): 150.000 \\times (1 - 0.30) = 105000$ Guaraníes.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,31 +688,31 @@
       "context": "En Caacupé, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "₲ 102.000",
           "is_correct": true,
           "feedback": "¡Correcto! El 32% de 150.000 es 48,000, restándolo da 102,000."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "₲ 126.000",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el porcentaje de descuento aplicado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "₲ 198.000",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó el descuento en lugar de restarlo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "₲ 92.400",
           "is_correct": false,
           "feedback": "Incorrecto. Calculó un porcentaje incorrecto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \\text{porcentaje}): 150.000 \\times (1 - 0.32) = 102000$ Guaraníes.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "En Pilar, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "₲ 99.000",
           "is_correct": true,
           "feedback": "¡Correcto! El 34% de 150.000 es 51,000, restándolo da 99,000."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "₲ 124.500",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el porcentaje de descuento aplicado."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Calculó un porcentaje incorrecto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \\text{porcentaje}): 150.000 \\times (1 - 0.34) = 99000$ Guaraníes.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,31 +778,31 @@
       "context": "En Coronel Oviedo, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "₲ 96.000",
           "is_correct": true,
           "feedback": "¡Correcto! El 36% de 150.000 es 54,000, restándolo da 96,000."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "₲ 123.000",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el porcentaje de descuento aplicado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "₲ 204.000",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó el descuento en lugar de restarlo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "₲ 85.200",
           "is_correct": false,
           "feedback": "Incorrecto. Calculó un porcentaje incorrecto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \\text{porcentaje}): 150.000 \\times (1 - 0.36) = 96000$ Guaraníes.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,31 +823,31 @@
       "context": "En Concepción, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "₲ 93.000",
           "is_correct": true,
           "feedback": "¡Correcto! El 38% de 150.000 es 57,000, restándolo da 93,000."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "₲ 121.500",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el porcentaje de descuento aplicado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "₲ 207.000",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó el descuento en lugar de restarlo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "₲ 81.600",
           "is_correct": false,
           "feedback": "Incorrecto. Calculó un porcentaje incorrecto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \\text{porcentaje}): 150.000 \\times (1 - 0.38) = 93000$ Guaraníes.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "En Villarrica, un grupo de estudiantes de Paraguay analiza un problema de Números Reales, Intervalos y Operaciones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "₲ 90.000",
           "is_correct": true,
           "feedback": "¡Correcto! El 40% de 150.000 es 60,000, restándolo da 90,000."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "₲ 120.000",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el porcentaje de descuento aplicado."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Calculó un porcentaje incorrecto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \\text{porcentaje}): 150.000 \\times (1 - 0.40) = 90000$ Guaraníes.",
       "difficulty": "10",
       "images": [],

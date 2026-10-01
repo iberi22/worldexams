@@ -13,13 +13,13 @@
       "context": "En un colegio de Quibdó, la profesora explica que la Constitución de 1991 reconoce a Colombia como un país pluricultural y multiétnico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que en su territorio conviven comunidades con culturas, lenguas y tradiciones diversas.",
           "is_correct": true,
           "feedback": "La pluralidad se expresa en la convivencia de pueblos y culturas diferentes en el país."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que todos sus habitantes tienen exactamente las mismas costumbres.",
           "is_correct": false,
           "feedback": "Precisamente la riqueza del país está en la variedad de sus culturas."
@@ -37,7 +37,7 @@
           "feedback": "Muchas comunidades mantienen vivas sus lenguas, fiestas y saberes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Reconocimiento del carácter pluricultural y multiétnico de la nación colombiana consagrado en la Constitución.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "Una familia afrocolombiana de San Basilio de Palenque conserva su lengua propia, sus cantos y su gastronomía, reconocidos como patrimonio cultural de la humanidad.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Una herencia cultural con lengua, música, gastronomía y tradiciones propias.",
           "is_correct": true,
           "feedback": "Los aportes afrocolombianos enriquecen la identidad cultural del país."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una sola fiesta nacional sin diferencias regionales.",
           "is_correct": false,
           "feedback": "La comunidad preserva múltiples expresiones culturales, no una única celebración."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La desaparición de las lenguas indígenas del país.",
           "is_correct": false,
           "feedback": "Las comunidades afro e indígenas coexisten y conservan sus propias tradiciones."
@@ -83,7 +83,7 @@
           "feedback": "Las comunidades afrocolombianas forman parte de la nación y su institucionalidad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Comprensión de los aportes culturales de la población afrocolombiana a la identidad nacional.",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En una vereda de Santander, una familia campesina cultiva café y enseña a sus hijos las labores del campo y las recetas tradicionales de la región.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La conservación de saberes agrícolas, recetas y tradiciones del campo.",
           "is_correct": true,
           "feedback": "Los campesinos transmiten conocimientos sobre cultivos, alimentos y vida rural."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La construcción de grandes ciudades sin zonas rurales.",
           "is_correct": false,
           "feedback": "Las comunidades campesinas habitan y cuidan el campo, no lo eliminan."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La eliminación de los cultivos de las regiones.",
           "is_correct": false,
           "feedback": "Su labor principal es producir alimentos y mantener los cultivos."
@@ -175,7 +175,7 @@
           "feedback": "Las comunidades campesinas participan activamente en las fiestas y tradiciones locales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Identificación de los aportes de las comunidades campesinas a la cultura y la economía del país.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Durante una izada de bandera en un colegio de Barranquilla, los estudiantes presentan bailes como el mapalé, el bambuco y la cumbia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La diversidad de expresiones culturales y musicales de las regiones de Colombia.",
           "is_correct": true,
           "feedback": "Los distintos bailes representan tradiciones de diferentes regiones del país."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que solo existe un baile en todo el territorio nacional.",
           "is_correct": false,
           "feedback": "La variedad de danzas presentadas demuestra justamente lo contrario."
@@ -221,7 +221,7 @@
           "feedback": "Cada región tiene sus propias expresiones musicales y dancísticas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Valoración de la diversidad de expresiones culturales regionales como parte de la identidad colombiana.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "En un debate escolar en Bogotá, un estudiante afirma: \"Las comunidades indígenas, afro y campesinas deben ser respetadas igual que cualquier otra\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La igualdad y el respeto por la diversidad étnica y cultural de la nación.",
           "is_correct": true,
           "feedback": "La Constitución garantiza la igualdad y la protección de la diversidad cultural."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La superioridad de una cultura sobre todas las demás.",
           "is_correct": false,
           "feedback": "La Constitución rechaza cualquier forma de discriminación o supremacía cultural."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La prohibición de las lenguas propias de cada comunidad.",
           "is_correct": false,
           "feedback": "El Estado protege las lenguas y tradiciones de los grupos étnicos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La obligación de que todos abandonen sus tradiciones.",
           "is_correct": false,
           "feedback": "La diversidad cultural se respeta y se promueve, no se elimina."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Análisis del principio de igualdad y respeto a la diversidad como fundamento de la convivencia en Colombia.",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En el gobierno escolar de un colegio de Pasto se proponen acciones para valorar la diversidad: incluir lenguas indígenas en los actos culturales, conocer las tradiciones afro y campesinas y evitar la discriminación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Son valiosas porque promueven el respeto, el reconocimiento y la convivencia entre culturas.",
           "is_correct": true,
           "feedback": "Reconocer y valorar la diversidad fortalece la convivencia y la identidad colectiva."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Son innecesarias porque todas las culturas ya son iguales en la práctica.",
           "is_correct": false,
           "feedback": "Persisten situaciones de discriminación que estas acciones buscan superar."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Son dañinas porque obligan a olvidar las tradiciones propias.",
           "is_correct": false,
           "feedback": "Las propuestas buscan sumar y reconocer culturas, sin eliminar ninguna."
@@ -359,7 +359,7 @@
           "feedback": "El respeto por la diversidad es importante en todos los territorios del país."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evaluación de propuestas escolares orientadas a proteger y valorar la diversidad cultural colombiana.",
       "difficulty": "10",
       "images": [],

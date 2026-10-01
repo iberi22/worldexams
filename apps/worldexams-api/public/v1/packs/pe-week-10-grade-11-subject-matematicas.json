@@ -58,13 +58,13 @@
       "context": "Un estudiante de Arequipa repasa temas de tema-w10 como parte de su preparación para postular a la UNT.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$180^\\circ$",
           "is_correct": true,
           "feedback": "Correcto. La suma de los ángulos interiores de cualquier triángulo es siempre $180^\\circ$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$90^\\circ$",
           "is_correct": false,
           "feedback": "Incorrecto. Dos ángulos rectos ya suman 180 grados, ningún triángulo tiene suma 90."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Valor que contradice el teorema de la geometría plana euclidiana."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por el teorema fundamental de la geometría triangular euclidiana, la suma de los tres ángulos interiores de todo triángulo es equivalente a un ángulo llano ($180^\\circ$).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Un estudiante de Cajamarca repasa temas de tema-w10 como parte de su preparación para postular a la UNPRG.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$2.67\\pi$",
           "is_correct": true,
           "feedback": "Correcto. El área del sector circular es la fracción correspondiente del área total."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$5.33\\pi$",
           "is_correct": false,
           "feedback": "Incorrecto. Error al usar la fórmula del sector o duplicar el resultado."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Corresponde al área del círculo completo, no al sector."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El área de un sector circular es $A = \\frac{\\theta}{360^\\circ} \\pi r^2$. Con $\\theta = 60^\\circ$ y $r = 4$, tenemos $A = \\frac{60}{360} \\pi (4)^2 = \\frac{1}{6} \\pi (16) = 2.67\\pi$ m$^2$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,19 +283,19 @@
       "context": "Un estudiante de Tarapoto repasa temas de tema-w10 como parte de su preparación para postular a la UNMSM.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$40$ m",
           "is_correct": true,
           "feedback": "Correcto. El perímetro de un paralelogramo es la suma de sus cuatro lados, es decir, dos veces la suma de sus lados adyacentes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$20.0$ m",
           "is_correct": false,
           "feedback": "Incorrecto. Solo se sumó la longitud de dos lados adyacentes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$44$ m",
           "is_correct": false,
           "feedback": "Incorrecto. Error de suma de los términos adyacentes."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Error de cálculo aritmético en las multiplicaciones."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El perímetro se calcula sumando el duplo de la longitud de cada uno de sus lados desiguales: $P = 2(8 + 12) = 40$ m.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,31 +328,31 @@
       "context": "Un estudiante de Moquegua repasa temas de tema-w10 como parte de su preparación para postular a la UNSA.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$720^\\circ$",
           "is_correct": true,
           "feedback": "Correcto. La suma de los ángulos interiores de un polígono de n lados cumple la relación estándar."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$900^\\circ$",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumó un factor de lado adicional en la fórmula."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$540^\\circ$",
           "is_correct": false,
           "feedback": "Incorrecto. Se restó un factor de lado de la expresión de polígonos regulares."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$1080^\\circ$",
           "is_correct": false,
           "feedback": "Incorrecto. No se aplicó el descuento de los dos lados iniciales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La fórmula para la suma de ángulos internos es $S = (n - 2) \\cdot 180^\\circ$. Para $n = 6$ lados, la suma es $(6 - 2) \\cdot 180^\\circ = 720^\\circ$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Un estudiante de Cusco repasa temas de tema-w10 como parte de su preparación para postular a la UNALM.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$24$ metros",
           "is_correct": true,
           "feedback": "Correcto. Por semejanza de triángulos, la relación altura/sombra se mantiene constante."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$29$ metros",
           "is_correct": false,
           "feedback": "Incorrecto. Proporcionalidad incorrecta."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Se confundió la longitud de la sombra con la altura del edificio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los triángulos formados por la altura de los objetos y sus sombras son semejantes. Planteamos la proporción: sombra = 3 veces la sombra del poste.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,19 +418,19 @@
       "context": "Un estudiante de Piura repasa temas de tema-w10 como parte de su preparación para postular a la Udep.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "20 m",
           "is_correct": true,
           "feedback": "Correcto. 40 cm multiplicados por 50 resulta en 2000 cm, que equivale exactamente a 20 metros."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2 m",
           "is_correct": false,
           "feedback": "Incorrecto. Error de conversión de unidades por un factor de 10."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "200 m",
           "is_correct": false,
           "feedback": "Incorrecto. Excede por mucho el valor real de escala de reducción."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. No se puede mantener el mismo valor numérico de centímetros a metros."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Multiplicamos la medida del plano por el factor de escala: $40 \\text{ cm} \\times 50 = 2000 \\text{ cm}$. Convertimos a metros dividiendo entre 100: $2000 / 100 = 20 \\text{ m}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,19 +463,19 @@
       "context": "Un estudiante de Puno repasa temas de tema-w10 como parte de su preparación para postular a la PUCP.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$150^\\circ$",
           "is_correct": true,
           "feedback": "Correcto. Los ángulos conjugados internos entre paralelas son suplementarios, por lo que su suma es 180 grados."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$30^\\circ$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor correspondería al ángulo alterno interno o correspondiente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$60^\\circ$",
           "is_correct": false,
           "feedback": "Incorrecto. Se calculó como si fueran complementarios en lugar de suplementarios."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Error al operar la diferencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los ángulos conjugados internos formados por rectas paralelas cortadas por una secante suman siempre $180^\\circ$. Por lo tanto, el ángulo conjugado mide $180^\\circ - 30^\\circ = 150^\\circ$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "Un estudiante de Ica repasa temas de tema-w10 como parte de su preparación para postular a la UNT.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$9$",
           "is_correct": true,
           "feedback": "Correcto. La razón de las áreas de dos figuras semejantes es igual al cuadrado de la razón de semejanza, es decir, 9."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$3$",
           "is_correct": false,
           "feedback": "Incorrecto. La razón de las áreas no es lineal respecto al factor de escala de los lados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$6$",
           "is_correct": false,
           "feedback": "Incorrecto. No se multiplica por el doble del factor de escala."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Este factor de escala cúbico correspondería al volumen de sólidos tridimensionales semejantes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La relación entre las superficies de dos polígonos semejantes es igual al cuadrado de la razón de semejanza de sus longitudes homólogas: Razón de Áreas es 9.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,19 +598,19 @@
       "context": "Un estudiante de Pucallpa repasa temas de tema-w10 como parte de su preparación para postular a la UNI.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$10$ m",
           "is_correct": true,
           "feedback": "Correcto. Las diagonales se cruzan perpendicularmente en sus puntos medios, formándose un triángulo rectángulo de catetos 3a y 4a, dando un lado de 5a."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$12$ m",
           "is_correct": false,
           "feedback": "Incorrecto. Una dimensión del lado no puede ser igual a una de las diagonales en este caso."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$16$ m",
           "is_correct": false,
           "feedback": "Incorrecto. Excede la longitud teórica permitida para el lado."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Error de cálculo en la hipotenusa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las diagonales de un rombo se cortan perpendicularmente en sus puntos medios, dividiéndolo en cuatro triángulos rectángulos. Sus catetos son la mitad de las diagonales: $6$ m y $8$ m. Aplicando Pitágoras para el lado: L = 10 m.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "Un estudiante de Trujillo repasa temas de tema-w10 como parte de su preparación para postular a la UNSCH.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$20$ unidades",
           "is_correct": true,
           "feedback": "Correcto. Calculamos la raíz de la suma de diferencias de coordenadas al cuadrado."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$28$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumaron directamente las diferencias de coordenadas de los ejes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$22$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Error al evaluar los cuadrados parciales."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Error de cálculo de la distancia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La distancia es la raíz cuadrada de la suma de los cuadrados de las diferencias, resultando en 20 unidades.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -823,31 +823,31 @@
       "context": "Un estudiante de Tacna repasa temas de tema-w10 como parte de su preparación para postular a la UNALM.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$4$ m",
           "is_correct": true,
           "feedback": "Correcto. Por el teorema de Poncelet para triángulos rectángulos, la suma de los catetos es igual a la hipotenusa más dos veces el inradio."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$5$ m",
           "is_correct": false,
           "feedback": "Incorrecto. Error al aplicar la relación de Poncelet."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$8$ m",
           "is_correct": false,
           "feedback": "Incorrecto. Este valor corresponde al diámetro del inradio, no al inradio."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$2.0$ m",
           "is_correct": false,
           "feedback": "Incorrecto. Subestimación por mala división de la constante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El triángulo de lados es rectángulo. Por el Teorema de Poncelet el inradio mide 4 m.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Un estudiante de Huanuco repasa temas de tema-w10 como parte de su preparación para postular a la Udep.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$2\\sqrt{3}$ m",
           "is_correct": true,
           "feedback": "Correcto. La altura de un triángulo equilátero de lado L es la mitad del lado por la raíz de 3, dando el valor exacto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2$ m",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a la mitad del lado, no a la altura vertical."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$4\\sqrt{3}$ m",
           "is_correct": false,
           "feedback": "Incorrecto. Error al duplicar el factor de proporcionalidad geométrico."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Se confundió la constante de la diagonal del cuadrado con la de la altura."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La altura mide la mitad del lado por la raíz de 3, lo que resulta en la altura de 2 veces la raíz de 3.",
       "difficulty": "10",
       "images": [],

@@ -19,25 +19,25 @@
           "feedback": "Incorrecto. El diagrama circular muestra partes de un todo en un momento dado, no una evolución temporal."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Gráfico de líneas",
           "is_correct": true,
           "feedback": "Correcto. El gráfico de líneas une los valores mensuales y muestra tendencias y cambios en el tiempo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Pictograma con dibujos",
           "is_correct": false,
           "feedback": "Incorrecto. El pictograma es ilustrativo y poco preciso para comparar 12 valores continuos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Tabla sin gráfico",
           "is_correct": false,
           "feedback": "Incorrecto. La tabla presenta los datos, pero no es un gráfico ni facilita ver la tendencia visual."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Las variables temporales continuas se representan con gráficos de líneas: el eje horizontal lleva los meses y el vertical la temperatura. La pendiente entre puntos revela aumentos y descensos de forma inmediata.",
       "difficulty": "4",
       "images": [],
@@ -111,13 +111,13 @@
           "feedback": "Incorrecto. El jueves es el segundo valor más alto, pero el viernes lo supera."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Viernes, 50 unidades",
           "is_correct": true,
           "feedback": "Correcto. La barra más alta corresponde al viernes con 50 unidades."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Martes, 35 unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Esa barra es intermedia; hay dos barras más altas que ella."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Esa es la barra más baja, correspondiente a las menores ventas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "En un gráfico de barras la altura es proporcional a la frecuencia. Comparar alturas permite ordenar los datos sin operar: el viernes tiene la barra más alta con 50 unidades y el lunes la más baja con 20.",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En Cartagena, en Bazurto, un puesto registra la venta de pescados en un día: 40 mojarras, 30 pargos, 20 sierras y 10 meros. Se representará en un diagrama circular.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "40 grados",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor copia la frecuencia sin convertirla a proporción de 360 grados."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "144 grados",
           "is_correct": true,
           "feedback": "Correcto. Las mojarras son 40/100 = 0,4 del total y 0,4 × 360° = 144°."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Ese ángulo corresponde a la mitad; las mojarras son el 40%, no el 50%."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Total = 100 pescados. Fracción de mojarras = 40/100 = 2/5. Ángulo = 2/5 × 360° = 144°. Cada categoría se convierte igual: pargos 108°, sierras 72° y meros 36°, que suman 360°.",
       "difficulty": "6",
       "images": [],
@@ -203,25 +203,25 @@
           "feedback": "Incorrecto. Ese valor copia la frecuencia 24 sin dividir entre el total 60."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "40%",
           "is_correct": true,
           "feedback": "Correcto. 24/60 = 0,4 = 40%."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "30%",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor usaría 18 personas; el intervalo 20-30 tiene 24."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "60%",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor confunde el total con el porcentaje del intervalo modal."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El porcentaje es frecuencia relativa × 100: 24/60 × 100 = 40%. El intervalo 20-30 es la clase modal por tener la barra más alta del histograma.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En Bucaramanga, en la UIS, un gráfico de líneas muestra el precio del café en COP por carga durante 4 meses: enero 1.800.000 COP, febrero 1.900.000 COP, marzo 1.700.000 COP, abril 2.000.000 COP.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Enero a febrero, aumento de 200.000 COP",
           "is_correct": false,
           "feedback": "Incorrecto. El aumento enero-febrero es de 100.000 COP, menor que el de marzo-abril."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Febrero a marzo, aumento de 200.000 COP",
           "is_correct": false,
           "feedback": "Incorrecto. De febrero a marzo el precio bajó 200.000 COP; no hubo aumento."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Marzo a abril, aumento de 300.000 COP",
           "is_correct": true,
           "feedback": "Correcto. De 1.700.000 a 2.000.000 el aumento es 300.000 COP, el mayor del periodo."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Esos meses no son consecutivos y la diferencia es 200.000 COP, menor que 300.000."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Se restan valores consecutivos: feb−ene = +100.000; mar−feb = −200.000; abr−mar = +300.000. El mayor aumento es marzo-abril. En el gráfico corresponde al segmento con mayor pendiente positiva.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En Pereira, en la Universidad del Café, un diagrama de barras dobles compara la asistencia de hombres y mujeres a tres talleres: taller 1: 30 hombres y 50 mujeres; taller 2: 45 hombres y 35 mujeres; taller 3: 40 hombres y 40 mujeres.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Taller 2 mayor total y taller 3 mayor diferencia",
           "is_correct": false,
           "feedback": "Incorrecto. El taller 2 suma 80 y el 3 tiene diferencia cero; ambas afirmaciones fallan."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Taller 1 mayor total y taller 1 mayor diferencia",
           "is_correct": true,
           "feedback": "Correcto. Totales: T1 = 80, T2 = 80, T3 = 80; todos empatan en 80, pero T1 empata en el máximo y su diferencia 20 es la mayor."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. El taller 1 suma 80, no 100; la diferencia del taller 2 es 10, menor que 20."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Totales: 30+50 = 80; 45+35 = 80; 40+40 = 80. Hay empate triple en asistencia, por lo que el máximo es 80 (talleres 1 y 2). Diferencias: |30−50| = 20; |45−35| = 10; |40−40| = 0. La mayor diferencia es la del taller 1 con 20.",
       "difficulty": "8",
       "images": [],
@@ -341,25 +341,25 @@
           "feedback": "Incorrecto. Las líneas son para tiempo y 18% corresponde a otro cálculo; novela es 180/400."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Diagrama circular y 45%",
           "is_correct": true,
           "feedback": "Correcto. Las categorías cualitativas se comparan con circular o barras; 180/400 = 0,45 = 45%."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Histograma y 45%",
           "is_correct": false,
           "feedback": "Incorrecto. El porcentaje es correcto, pero el histograma es para datos numéricos agrupados en intervalos, no para géneros."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Pictograma y 30%",
           "is_correct": false,
           "feedback": "Incorrecto. El pictograma es impreciso y 30% corresponde a infantil (120/400), no a novela."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Total = 400 libros. Novela = 180/400 = 45%. Para variable cualitativa nominal convienen barras o circular; el circular muestra cada parte del todo. El histograma se reserva para variables cuantitativas continuas por intervalos.",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En Santa Marta, en el Parque Tayrona, un guardabosques registra aves avistadas en 5 días con un gráfico de barras: lunes 12, martes 18, miércoles 15, jueves 21, viernes 24.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "18 y martes con 18",
           "is_correct": false,
           "feedback": "Incorrecto. El promedio no es 18 y el martes iguala pero no supera ese valor erróneo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "18 y jueves con 21",
           "is_correct": true,
           "feedback": "Correcto. Total 90/5 = 18; lunes 12 y miércoles 15 están bajo 18, martes lo iguala y jueves lo supera primero."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. 15 es el dato del miércoles, no el promedio; además igualar no es superar."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Suma = 12 + 18 + 15 + 21 + 24 = 90; promedio = 90/5 = 18. Recorrido: lunes bajo, martes igual, miércoles bajo, jueves 21 > 18 por primera vez. Analizar combina medida de tendencia con lectura secuencial del gráfico.",
       "difficulty": "8",
       "images": [],
@@ -433,13 +433,13 @@
           "feedback": "Incorrecto. Empezar en cero es la práctica correcta; no exagera sino que muestra la proporción real."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El B, porque recorta el eje y exagera visualmente un aumento pequeño",
           "is_correct": true,
           "feedback": "Correcto. Al iniciar en 90, una subida de 100 a 110 parece duplicarse aunque solo es del 10%."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambos son engañosos porque usan barras",
           "is_correct": false,
           "feedback": "Incorrecto. Las barras no son engañosas por sí mismas; el problema es el recorte del eje en B."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. Los datos coinciden, pero la escala visual cambia la percepción; B magnifica diferencias menores."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Evaluar gráficos exige revisar la escala: de 100 a 110 hay +10%, pero con eje desde 90 la barra pasa de altura 10 a altura 20 y parece duplicarse. El gráfico honesto (A) inicia en cero para que las alturas sean proporcionales a los valores.",
       "difficulty": "10",
       "images": [],

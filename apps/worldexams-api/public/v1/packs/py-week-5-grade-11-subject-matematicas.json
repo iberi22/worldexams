@@ -58,19 +58,19 @@
       "context": "En San Lorenzo, un grupo de estudiantes de Paraguay analiza un problema de Ecuaciones Lineales y Modelos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$5$",
           "is_correct": true,
           "feedback": "¡Correcto! $3x = 27 - 12 \\implies 3x = 15 \\implies x = 5$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$7$",
           "is_correct": false,
           "feedback": "Incorrecto. Si $x = 7$, entonces $3(7) + 12 = 33 \\neq 27$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$3$",
           "is_correct": false,
           "feedback": "Incorrecto. Si $x = 3$, entonces $3(3) + 12 = 21 \\neq 27$."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Revisa el procedimiento de despeje aritmético."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Restamos 12 a ambos miembros: $3x = 15$. Luego dividimos entre 3: $x = 5$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "En Encarnación, un grupo de estudiantes de Paraguay analiza un problema de Ecuaciones Lineales y Modelos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "3 piezas",
           "is_correct": true,
           "feedback": "¡Correcto! $C(x) - costo\\_fijo = 15.000 \\implies 5.000x = 15.000 \\implies x = 3$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5 piezas",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa la resta de los costos fijos y la división por 5.000."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2 piezas",
           "is_correct": false,
           "feedback": "Incorrecto. El costo resultante de producir 2 piezas no coincide."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Con 4 piezas el costo semanal sería superior."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Planteamos la ecuación: $5.000x + 30000 = 45000$. Restamos 30000: $5.000x = 15.000$. Dividimos por 5.000: $x = 3$ piezas.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "En Ciudad del Este, un grupo de estudiantes de Paraguay analiza un problema de Ecuaciones Lineales y Modelos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "3 piezas",
           "is_correct": true,
           "feedback": "¡Correcto! $C(x) - costo\\_fijo = 15.000 \\implies 5.000x = 15.000 \\implies x = 3$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5 piezas",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa la resta de los costos fijos y la división por 5.000."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Con 4 piezas el costo semanal sería superior."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Planteamos la ecuación: $5.000x + 35000 = 50000$. Restamos 35000: $5.000x = 15.000$. Dividimos por 5.000: $x = 3$ piezas.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,31 +238,31 @@
       "context": "En Caacupé, un grupo de estudiantes de Paraguay analiza un problema de Ecuaciones Lineales y Modelos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "3 piezas",
           "is_correct": true,
           "feedback": "¡Correcto! $C(x) - costo\\_fijo = 15.000 \\implies 5.000x = 15.000 \\implies x = 3$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5 piezas",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa la resta de los costos fijos y la división por 5.000."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2 piezas",
           "is_correct": false,
           "feedback": "Incorrecto. El costo resultante de producir 2 piezas no coincide."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "4 piezas",
           "is_correct": false,
           "feedback": "Incorrecto. Con 4 piezas el costo semanal sería superior."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Planteamos la ecuación: $5.000x + 40000 = 55000$. Restamos 40000: $5.000x = 15.000$. Dividimos por 5.000: $x = 3$ piezas.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,31 +328,31 @@
       "context": "En Coronel Oviedo, un grupo de estudiantes de Paraguay analiza un problema de Ecuaciones Lineales y Modelos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "3 piezas",
           "is_correct": true,
           "feedback": "¡Correcto! $C(x) - costo\\_fijo = 15.000 \\implies 5.000x = 15.000 \\implies x = 3$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5 piezas",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa la resta de los costos fijos y la división por 5.000."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2 piezas",
           "is_correct": false,
           "feedback": "Incorrecto. El costo resultante de producir 2 piezas no coincide."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "4 piezas",
           "is_correct": false,
           "feedback": "Incorrecto. Con 4 piezas el costo semanal sería superior."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Planteamos la ecuación: $5.000x + 50000 = 65000$. Restamos 50000: $5.000x = 15.000$. Dividimos por 5.000: $x = 3$ piezas.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,31 +418,31 @@
       "context": "En Villarrica, un grupo de estudiantes de Paraguay analiza un problema de Ecuaciones Lineales y Modelos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "3 piezas",
           "is_correct": true,
           "feedback": "¡Correcto! $C(x) - costo\\_fijo = 15.000 \\implies 5.000x = 15.000 \\implies x = 3$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5 piezas",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa la resta de los costos fijos y la división por 5.000."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2 piezas",
           "is_correct": false,
           "feedback": "Incorrecto. El costo resultante de producir 2 piezas no coincide."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "4 piezas",
           "is_correct": false,
           "feedback": "Incorrecto. Con 4 piezas el costo semanal sería superior."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Planteamos la ecuación: $5.000x + 60000 = 75000$. Restamos 60000: $5.000x = 15.000$. Dividimos por 5.000: $x = 3$ piezas.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "En Luque, un grupo de estudiantes de Paraguay analiza un problema de Ecuaciones Lineales y Modelos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "3 piezas",
           "is_correct": true,
           "feedback": "¡Correcto! $C(x) - costo\\_fijo = 15.000 \\implies 5.000x = 15.000 \\implies x = 3$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5 piezas",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa la resta de los costos fijos y la división por 5.000."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Con 4 piezas el costo semanal sería superior."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Planteamos la ecuación: $5.000x + 75000 = 90000$. Restamos 75000: $5.000x = 15.000$. Dividimos por 5.000: $x = 3$ piezas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,31 +598,31 @@
       "context": "En Encarnación, un grupo de estudiantes de Paraguay analiza un problema de Ecuaciones Lineales y Modelos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "3 piezas",
           "is_correct": true,
           "feedback": "¡Correcto! $C(x) - costo\\_fijo = 15.000 \\implies 5.000x = 15.000 \\implies x = 3$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5 piezas",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa la resta de los costos fijos y la división por 5.000."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2 piezas",
           "is_correct": false,
           "feedback": "Incorrecto. El costo resultante de producir 2 piezas no coincide."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "4 piezas",
           "is_correct": false,
           "feedback": "Incorrecto. Con 4 piezas el costo semanal sería superior."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Planteamos la ecuación: $5.000x + 80000 = 95000$. Restamos 80000: $5.000x = 15.000$. Dividimos por 5.000: $x = 3$ piezas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,31 +733,31 @@
       "context": "En Pilar, un grupo de estudiantes de Paraguay analiza un problema de Ecuaciones Lineales y Modelos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "3 piezas",
           "is_correct": true,
           "feedback": "¡Correcto! $C(x) - costo\\_fijo = 15.000 \\implies 5.000x = 15.000 \\implies x = 3$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5 piezas",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa la resta de los costos fijos y la división por 5.000."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2 piezas",
           "is_correct": false,
           "feedback": "Incorrecto. El costo resultante de producir 2 piezas no coincide."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "4 piezas",
           "is_correct": false,
           "feedback": "Incorrecto. Con 4 piezas el costo semanal sería superior."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Planteamos la ecuación: $5.000x + 95000 = 110000$. Restamos 95000: $5.000x = 15.000$. Dividimos por 5.000: $x = 3$ piezas.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,31 +778,31 @@
       "context": "En Coronel Oviedo, un grupo de estudiantes de Paraguay analiza un problema de Ecuaciones Lineales y Modelos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "3 piezas",
           "is_correct": true,
           "feedback": "¡Correcto! $C(x) - costo\\_fijo = 15.000 \\implies 5.000x = 15.000 \\implies x = 3$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5 piezas",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa la resta de los costos fijos y la división por 5.000."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2 piezas",
           "is_correct": false,
           "feedback": "Incorrecto. El costo resultante de producir 2 piezas no coincide."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "4 piezas",
           "is_correct": false,
           "feedback": "Incorrecto. Con 4 piezas el costo semanal sería superior."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Planteamos la ecuación: $5.000x + 100000 = 115000$. Restamos 100000: $5.000x = 15.000$. Dividimos por 5.000: $x = 3$ piezas.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,19 +823,19 @@
       "context": "En Concepción, un grupo de estudiantes de Paraguay analiza un problema de Ecuaciones Lineales y Modelos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "3 piezas",
           "is_correct": true,
           "feedback": "¡Correcto! $C(x) - costo\\_fijo = 15.000 \\implies 5.000x = 15.000 \\implies x = 3$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5 piezas",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa la resta de los costos fijos y la división por 5.000."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2 piezas",
           "is_correct": false,
           "feedback": "Incorrecto. El costo resultante de producir 2 piezas no coincide."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Con 4 piezas el costo semanal sería superior."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Planteamos la ecuación: $5.000x + 105000 = 120000$. Restamos 105000: $5.000x = 15.000$. Dividimos por 5.000: $x = 3$ piezas.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,31 +868,31 @@
       "context": "En Villarrica, un grupo de estudiantes de Paraguay analiza un problema de Ecuaciones Lineales y Modelos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "3 piezas",
           "is_correct": true,
           "feedback": "¡Correcto! $C(x) - costo\\_fijo = 15.000 \\implies 5.000x = 15.000 \\implies x = 3$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5 piezas",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa la resta de los costos fijos y la división por 5.000."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2 piezas",
           "is_correct": false,
           "feedback": "Incorrecto. El costo resultante de producir 2 piezas no coincide."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "4 piezas",
           "is_correct": false,
           "feedback": "Incorrecto. Con 4 piezas el costo semanal sería superior."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Planteamos la ecuación: $5.000x + 110000 = 125000$. Restamos 110000: $5.000x = 15.000$. Dividimos por 5.000: $x = 3$ piezas.",
       "difficulty": "10",
       "images": [],

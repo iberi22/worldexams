@@ -19,13 +19,13 @@
           "feedback": "Incorrecto. El texto aborda aspectos culturales, históricos y ecológicos del México contemporáneo, desvinculado de reglamentos contables coloniales."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El papel y la relevancia de bono demográfico en la dinámica de la región.",
           "is_correct": true,
           "feedback": "Correcto. El texto expone de manera explícita la trascendencia de bono demográfico para entender la problemática o fenómeno de la zona."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una teoría de la física moderna abstracta desprovista de registro empírico terrestre.",
           "is_correct": false,
           "feedback": "Incorrecto. El escrito se enfoca en realidades tangibles y de campo observables, no en teorías físicas abstractas."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. No se menciona ninguna prohibición de índole académica artística en las facultades."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El fragmento señala textualmente y describe la relevancia de bono demográfico como el eje central de su exposición informativa.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -109,25 +109,25 @@
           "feedback": "Incorrecto. Concebir el sistema como cerrado contradice la interconexión dinámica de flujos descrita."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Un flujo dinámico e interconectado, ejemplificado por el papel de pensiones del IMSS.",
           "is_correct": true,
           "feedback": "Correcto. El autor argumenta que pensiones del IMSS representa la interdependencia y dinamismo del sistema, que no puede entenderse de forma aislada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un inventario de catálogos administrativos inalterable dictado por las aduanas arancelarias.",
           "is_correct": false,
           "feedback": "Incorrecto. El enfoque del autor es de ecología o sociocultural, no arancelario o fiscal de aduanas comerciales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Una imitación dócil de los modelos de planeación de las ciudades del viejo mundo.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto exalta el desarrollo autónomo o la asimilación creativa de la realidad local de la federación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La dinámica de pensiones del IMSS sirve para ilustrar que los procesos estudiados operan como flujos interconectados de gran escala.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -154,25 +154,25 @@
           "feedback": "Incorrecto. El autor valora positivamente este concepto, no lo presenta como un error de método."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Funcionar como un valioso solidaridad generacional para evaluar y diagnosticar el estado del equilibrio general del medio.",
           "is_correct": true,
           "feedback": "Correcto. Se introduce este término para ilustrar cómo ciertos elementos reflejan de manera fáctica las alteraciones o salud del sistema."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Limitar el acceso de las mujeres y minorías a la educación superior en México.",
           "is_correct": false,
           "feedback": "Incorrecto. No guarda relación con la restricción de derechos educativos de género o minorías de la federación."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Promover la compra masiva de insumos agroquímicos industriales importados.",
           "is_correct": false,
           "feedback": "Incorrecto. Al contrario, el uso excesivo de agroquímicos o el mercantilismo son señalados como factores de riesgo a regular."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El concepto de solidaridad generacional representa el instrumento metodológico o biológico para medir cuantitativa y cualitativamente el impacto del desarrollo sobre el entorno.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "**Pasaje:** *La transición demográfica y el envejecimiento poblacional en México*\n\nMéxico atraviesa una transición demográfica acelerada que redefinirá de forma profunda el panorama económico, laboral y de salud pública en las próximas décadas. El país está transitando del histórico bono demográfico —donde la población joven y productiva representaba la gran mayoría— hacia un envejecimiento demográfico progresivo, caracterizado por el aumento de la esperanza de vida y el descenso drástico de las tasas de natalidad. Este cambio ejerce una presión financiera severa sobre los sistemas de pensiones e instituciones de seguridad social como el IMSS, exigiendo una reestructuración urgente de la economía del cuidado y de los servicios de salud geriátrica con un enfoque ético de derechos humanos y solidaridad intergeneracional.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El enfoque esencialista que busca encapsular la realidad en definiciones fijas e inmutables.",
           "is_correct": true,
           "feedback": "Correcto. El autor aboga por superar visiones estáticas de envejecimiento para acoger un marco dinámico de transformación y resiliencia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La recolección manual y el saneamiento ecológico de las costas de la península de Yucatán.",
           "is_correct": false,
           "feedback": "Incorrecto. El saneamiento manual es valorado como una medida paliativa necesaria, no es cuestionado por el autor de esta sección."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. La variable lingüística del voseo rioplatense no es objeto de debate en este fragmento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Frente a envejecimiento, el autor rechaza la rigidez conceptual, proponiendo esquemas abiertos que asimilen la constante evolución histórica del medio.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorrecto. No se asocia con catástrofes financieras directas o parálisis comercial total en el texto."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Funciona como el refugio o cimiento que estabiliza el sistema y le otorga viabilidad frente a las perturbaciones.",
           "is_correct": true,
           "feedback": "Correcto. La cohesión de demografía geriátrica (ya sea el dosel del bosque, el acuífero arcilloso o la base mestiza) actúa como la cobija y protección del equilibrio general."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fuerza a la población a abandonar de forma permanente la cuenca para migrar a las costas.",
           "is_correct": false,
           "feedback": "Incorrecto. Se busca la permanencia y el desarrollo sustentable de las comunidades en su propio territorio de origen."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Al contrario, se fomenta y valora la ciencia unida a la ética de resguardo público."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La integridad de demografía geriátrica es indispensable: su destrucción o fragmentación rompe el microclima o tejido que cobija y da sustento al equilibrio colectivo.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,25 +289,25 @@
           "feedback": "Incorrecto. Pavimentar anula la recarga pluvial o destruye el dosel forestal, empeorando el estrés ambiental de la zona."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Creación de corredores y esquemas de custodia que involucren a un actuario del IMSS de forma activa.",
           "is_correct": true,
           "feedback": "Correcto. Involucrar a un actuario del IMSS garantiza que la conservación del recurso se asocie con el bienestar social de las familias de la demarcación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Privatización total de las zonas de amortiguamiento para ceder el control a corporativos extranjeros.",
           "is_correct": false,
           "feedback": "Incorrecto. Entregar los bienes comunes a corporativos extranjeros contradice la apología del resguardo y acceso social abierto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Suspensión de las clases de educación superior de la SEP de manera permanente.",
           "is_correct": false,
           "feedback": "Incorrecto. No se asocia con el cierre permanente de facultades o cese de clases escolares de la federación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Involucrar activamente a un actuario del IMSS en el resguardo de la cuenca o bosque garantiza la viabilidad social y ética del proyecto sustentable.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,25 +334,25 @@
           "feedback": "Incorrecto. Las prácticas ecológicas y sustentables de autosustento pueden generar ingresos alternativos valiosos de ecoturismo o silvicultura."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Aplicando una estrategia compatible con el equilibrio del entorno y la subsistencia social.",
           "is_correct": true,
           "feedback": "Correcto. Harmonizar la generación de valor económico con el cuidado del patrimonio natural o simbólico es la clave de la sustentabilidad cívica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fomentando el uso desmedido de pesticidas agroquímicos o la centralización urbana de los recursos.",
           "is_correct": false,
           "feedback": "Incorrecto. Su acción reduce pesticidas u opone resistencia a la centralización, protegiendo lo local de forma activa."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Violando las directrices federales de la Secretaría de Educación Pública.",
           "is_correct": false,
           "feedback": "Incorrecto. El aprovechamiento ejidal sustentable es legal y respaldado por la normatividad federal de la federación vigente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El rol de un demografía pura encarna la transición ética indispensable: el autosustento respetuoso que custodia la resiliencia de su región.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -385,19 +385,19 @@
           "feedback": "Incorrecto. No se asocia directamente con la deparación espontánea de monumentos de la época virreinal colonial de México."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Un fallo sistémico común donde el ritmo de extracción o impacto supera la capacidad de asimilación del sistema.",
           "is_correct": true,
           "feedback": "Correcto. Ambos casos demuestran que vulnerar las tasas de recarga o reposición desestabiliza y colapsa de forma acelerada la resiliencia del medio."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La abolición obligatoria de las materias de ética y humanidades en las universidades del país.",
           "is_correct": false,
           "feedback": "Incorrecto. El colapso de polinizadores o acuíferos no se produce por revocar planes de estudio de filosofía."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La comparación con geriatría social resalta el principio de ecología sistémica: la explotación desmedida compromete a los vectores de estabilidad general.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "**Pasaje:** *La transición demográfica y el envejecimiento poblacional en México*\n\nMéxico atraviesa una transición demográfica acelerada que redefinirá de forma profunda el panorama económico, laboral y de salud pública en las próximas décadas. El país está transitando del histórico bono demográfico —donde la población joven y productiva representaba la gran mayoría— hacia un envejecimiento demográfico progresivo, caracterizado por el aumento de la esperanza de vida y el descenso drástico de las tasas de natalidad. Este cambio ejerce una presión financiera severa sobre los sistemas de pensiones e instituciones de seguridad social como el IMSS, exigiendo una reestructuración urgente de la economía del cuidado y de los servicios de salud geriátrica con un enfoque ético de derechos humanos y solidaridad intergeneracional.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La solidificación inmediata de la roca caliza permeable del Caribe.",
           "is_correct": false,
           "feedback": "Incorrecto. La contracción del suelo arcilloso o deparación forestal no solidifica la caliza marina caribeña, mezclando de forma absurda los temas geográficos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La degradación severa de economía plateada, comprometiendo la biodiversidad y la calidad de vida de las familias mexicanas.",
           "is_correct": true,
           "feedback": "Correcto. Ignorar los límites de carga biofísica o social de la zona conduce a fallos graves en cascada que deterioran el patrimonio común y aumentan la vulnerabilidad."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Los problemas biofísicos no tienen la propiedad legal de suspender regulaciones impositivas del agro."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La degradación continuada de economía plateada ilustra que la omisión de límites ecológicos o cívicos genera daños acumulativos irreversibles para el porvenir nacional.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "**Pasaje:** *La migración de retorno y la reinserción educativa de jóvenes*\n\nLa migración de retorno de miles de familias mexicanas procedentes de los Estados Unidos ha generado un desafío urgente de integración para el sistema educativo de la Secretaría de Educación Pública (SEP). Los jóvenes retornados (dreamers), nacidos o educados en el extranjero, a menudo enfrentan serias barreras administrativas de revalidación de estudios, además de dificultades de bilingüismo, discriminación y rezago cultural en las aulas mexicanas. Su reinserción escolar exitosa exige políticas inclusivas, capacitación docente y adaptaciones curriculares que valoren su capital cultural bilingüe y faciliten su desarrollo humano en el país.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Suspender de forma definitiva todo presupuesto para investigación científica o cultural en las entidades de la República.",
           "is_correct": false,
           "feedback": "Incorrecto. Limitar la investigación debilita la toma de decisiones de la federación y el desarrollo integral de las regiones."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Garantizar esquemas de inclusión orientados a solventar el problema de revalidación SEP de forma viable.",
           "is_correct": true,
           "feedback": "Correcto. Aplicar la tesis crítica exige que jóvenes dreamers actúe de manera directa para corregir exclusiones, democratizando los recursos o el arte."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Las variables lingüísticas de la península o de Argentina carecen de pertinencia cívica para resolver el centralismo o desabasto local."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Delegar programas de inclusión a jóvenes dreamers concretiza el ideal de justicia distributiva frente a revalidación SEP, mitigando brechas geográficas y socioeconómicas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "**Pasaje:** *La migración de retorno y la reinserción educativa de jóvenes*\n\nLa migración de retorno de miles de familias mexicanas procedentes de los Estados Unidos ha generado un desafío urgente de integración para el sistema educativo de la Secretaría de Educación Pública (SEP). Los jóvenes retornados (dreamers), nacidos o educados en el extranjero, a menudo enfrentan serias barreras administrativas de revalidación de estudios, además de dificultades de bilingüismo, discriminación y rezago cultural en las aulas mexicanas. Su reinserción escolar exitosa exige políticas inclusivas, capacitación docente y adaptaciones curriculares que valoren su capital cultural bilingüe y faciliten su desarrollo humano en el país.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Impide que los agricultores del bajío importen maquinaria pesada directamente desde el extranjero.",
           "is_correct": false,
           "feedback": "Incorrecto. El desarrollo mecánico agroindustrial es un asunto de comercio, desvinculado de la exclusión social descrita en el texto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Genera condiciones inequitativas donde las familias periféricas ven vulnerado su derecho debido a revalidación SEP.",
           "is_correct": true,
           "feedback": "Correcto. La asimetría (digital, de museos o de salud) margina a amplios sectores por razones de geografía y economía, limitando su bienestar y desarrollo humano."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Las playas caribeñas y el sargazo no guardan relación lógica con la conectividad de los estados de la República."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La brecha provocada por revalidación SEP segrega a la población, privando a los estados periféricos de oportunidades básicas de educación, conectividad, salud o consumo estético.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Incorrecto. El autor rechaza cualquier sesgo de superioridad o desprecio intelectual biológico de capacidad."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La capital o el modelo de mercado tradicional constituía el único polo idóneo para validar y gestionar capital bilingüe.",
           "is_correct": true,
           "feedback": "Correcto. El centralismo (institucional o de mercado) presupone que solo el núcleo central concentra la legitimidad, recursos y criterios de validación de capital bilingüe de la federación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La descentralización provocaría la pérdida del idioma español en beneficio de lenguas de Europa.",
           "is_correct": false,
           "feedback": "Incorrecto. El idioma español no se ve amenazado por la equidad distributiva o el resguardo regional de bienes comunes."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Las exploraciones subacuáticas de cenotes no forman parte del debate de este fragmento educativo o de servicios."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La macrocefalia institucional asume una jerarquía de legitimidad, concentrando en el centro del país la gestión de capital bilingüe en detrimento de los estados de la República.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorrecto. Las deparaciones líricas de paralelismo o antítesis novohispanas no inciden en la viabilidad de resolver problemas contemporáneos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La inmensa inversión en infraestructura y reinserción de jóvenes especializada requerida para garantizar condiciones seguras de operación en zonas remotas de la República.",
           "is_correct": true,
           "feedback": "Correcto. Señalar que la descentralización o saneamiento demanda tendidos de red complejos, capacitación y costos elevados introduce variables de realismo técnico y financiero indispensable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La preferencia de los creadores locales de viajar al extranjero para comercializar sus productos.",
           "is_correct": false,
           "feedback": "Incorrecto. La elección de viaje de profesionales particulares no afecta las variables logísticas de la obra pública de la federación."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. No constituye un planteamiento real ni una deparación pertinente al diseño de políticas sustentables de la federación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Destacar los costos y la complejidad física de instalar reinserción de jóvenes técnica en parajes agrestes matiza el optimismo de la reforma, mostrando que es un proceso gradual.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,13 +694,13 @@
           "feedback": "Incorrecto. El autor emplea vocablos metafóricos de asfixia o estancamiento intelectual de ideas, no de ventilación de aire de salas de arte."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Ahoga la diversidad, precariza a la periferia y subordina el bienestar a criterios de educación transnacional.",
           "is_correct": true,
           "feedback": "Correcto. Limitar la planeación a criterios puramente utilitarios de mercado o de centralismo de la capital estrangula el dinamismo y las oportunidades del resto de la federación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Impide el tránsito de camiones mercantiles de carga en la aduana fronteriza del norte.",
           "is_correct": false,
           "feedback": "Incorrecto. El flujo de aduana norteña es un asunto comercial de transporte, ajeno al debate de centralismo de servicios de la capital."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. La variable lingüística del voseo no forma parte del debate de centralización o sesgo mercantil institucional de México."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La concentración de la validación o del abasto bajo el sesgo de educación transnacional anula el desarrollo periférico, forzando a los talentos y familias a migrar o a quedar marginadas de los deparaciones comunes.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,25 +739,25 @@
           "feedback": "Incorrecto. El autor critica el centralismo y valora de forma sumamente positiva las deparaciones de equidad distributiva."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Respalda de forma decidida la transición hacia esquemas que pongan el recurso en diálogo con pedagogo escolar de manera integrada.",
           "is_correct": true,
           "feedback": "Correcto. El tono general hacia museos itinerantes, deparación de conectividad rural, educación a distancia e inclusión de dreamers es aprobatorio, exaltando su impacto en la cohesión social."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Recomienda deparar toda actividad científica o biológica del CONACYT en la península de Yucatán.",
           "is_correct": false,
           "feedback": "Incorrecto. Valora de hecho la investigación científica y biológica como herramientas clave de diagnóstico ecológico y de resguardo público de la zona."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Propone la fusión de todas las universidades públicas de la federación en corporaciones de negocios de Monterrey.",
           "is_correct": false,
           "feedback": "Incorrecto. Esta propuesta privatizadora contradice la apología del bien común y resguardo social de la federación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El autor adopta un tono comprometido con las reformas que integran pedagogo escolar, considerándolas indispensables para consolidar un federalismo equitativo y democrático.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. El autor critica justamente reducir los derechos a meras deparaciones de rentabilidad de corto plazo de mercado."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Arancelario, centrado en deparar las transacciones e importaciones de la comarca con el extranjero.",
           "is_correct": false,
           "feedback": "Incorrecto. Las aduanas arancelarias comerciales no justifican el disfrute del patrimonio o la equidad educativa de las familias de la periferia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "De justicia cultural y social, que sitúa al aprendizaje, el bienestar y la conectividad como derechos públicos indispensables para el desarrollo de la dignidad humana.",
           "is_correct": true,
           "feedback": "Correcto. El acceso equitativo a la cultura, salud y conectividad es un derecho consagrado que fundamenta la cohesión de una sociedad democrática plural."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Las deparaciones defendidas son enteramente laicas, seculares, científicas y de pluralidad moderna de la federación."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Oponerse a criterios puramente reinserción SEP reivindica que el éxito de una federación armónica descansa en dotar a todo ciudadano de las condiciones para ejercitar su potencial de desarrollo.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "**Pasaje:** *La migración de retorno y la reinserción educativa de jóvenes*\n\nLa migración de retorno de miles de familias mexicanas procedentes de los Estados Unidos ha generado un desafío urgente de integración para el sistema educativo de la Secretaría de Educación Pública (SEP). Los jóvenes retornados (dreamers), nacidos o educados en el extranjero, a menudo enfrentan serias barreras administrativas de revalidación de estudios, además de dificultades de bilingüismo, discriminación y rezago cultural en las aulas mexicanas. Su reinserción escolar exitosa exige políticas inclusivas, capacitación docente y adaptaciones curriculares que valoren su capital cultural bilingüe y faciliten su desarrollo humano en el país.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Desalojar de forma forzada a toda la población del centro metropolitano para reubicarla en las deparaciones de Chiapas.",
           "is_correct": false,
           "feedback": "Incorrecto. El desalojo forzado de familias es una medida autoritaria e inviable que viola los derechos humanos y el equilibrio de la federación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Transitar hacia una planeación federalista y equitativa que respete los límites de carga ecológicos locales y democratice el acceso a bienes mediante inclusión escolar.",
           "is_correct": true,
           "feedback": "Correcto. Integrar criterios de resguardo biofísico y descentralización de la deparación garantiza un desarrollo cívico justo, respetuoso de los recursos y de la dignidad de todos los estados."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. La soberanía de planeación de México debe responder a los derechos de sus propios deparados, no a corporativos extranjeros de telecomunicaciones."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La deparación de fondo reclama conciliar el resguardo de la biosfera en el centro con políticas de deparación para toda la población del territorio de la federación.",
       "difficulty": "10",
       "images": [],
@@ -913,13 +913,13 @@
       "context": "María, de la Ciudad de México, lee en su clase de metodología un artículo científico sobre la calidad del aire.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Usar lenguaje figurado para emocionar al lector.",
           "is_correct": false,
           "feedback": "Incorrecto: el lenguaje figurado es propio de la literatura; el texto científico busca precisión."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Emplear un lenguaje objetivo, preciso y verificable.",
           "is_correct": true,
           "feedback": "Correcto: la objetividad, la precisión conceptual y la verificabilidad son rasgos centrales del discurso científico."
@@ -937,7 +937,7 @@
           "feedback": "Incorrecto: el texto científico debe explicar su método para que otros puedan replicarlo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El discurso científico se caracteriza por la objetividad, la precisión y la verificabilidad: las afirmaciones deben poder comprobarse y el método debe describirse. Rasgos como la emoción, la opinión sin sustento o el ocultamiento del procedimiento corresponden a otros tipos de discurso.",
       "difficulty": "4",
       "images": [],
@@ -1009,13 +1009,13 @@
           "feedback": "Incorrecto: las conclusiones no van al inicio; el orden típico parte de la introducción."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Resultados, método, introducción, conclusiones.",
           "is_correct": false,
           "feedback": "Incorrecto: la introducción precede al método y a los resultados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Introducción, método, resultados, discusión y conclusiones.",
           "is_correct": true,
           "feedback": "Correcto: ese es el orden canónico (IMRyD) que sigue la lógica de la investigación."
@@ -1027,7 +1027,7 @@
           "feedback": "Incorrecto: la introducción debe presentar el problema antes del método."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La estructura IMRyD (Introducción, Método, Resultados y Discusión) organiza el artículo siguiendo la lógica de la investigación: primero se plantea el problema, luego se explica cómo se estudió, después se muestran los hallazgos y finalmente se interpretan y concluyen.",
       "difficulty": "4",
       "images": [],
@@ -1048,19 +1048,19 @@
       "context": "Diego, de Monterrey, lee un ensayo académico y observa que el autor cita a otros investigadores.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Alargar el texto para que parezca más serio.",
           "is_correct": false,
           "feedback": "Incorrecto: citar no busca inflar la extensión."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Evitar tener que escribir ideas propias.",
           "is_correct": false,
           "feedback": "Incorrecto: el texto académico combina voces ajenas con aportes propios del autor."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Reconocer las fuentes, respaldar afirmaciones y situar el trabajo dentro de la investigación existente.",
           "is_correct": true,
           "feedback": "Correcto: la cita da crédito, sustenta lo dicho y conecta con la comunidad académica."
@@ -1072,7 +1072,7 @@
           "feedback": "Incorrecto: la cita, al contrario, permite localizar y consultar la fuente."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Citar cumple tres funciones: reconocer la autoría de las ideas ajenas (evitar el plagio), respaldar las afirmaciones propias con evidencia y ubicar la investigación dentro de un diálogo académico. La cita transparenta las fuentes y permite al lector rastrearlas.",
       "difficulty": "4",
       "images": [],
@@ -1099,13 +1099,13 @@
           "feedback": "Incorrecto: parafrasear citando la fuente es una práctica académica correcta."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Copiar un párrafo de otro autor y presentarlo como propio, sin citar.",
           "is_correct": true,
           "feedback": "Correcto: usar las palabras ajenas sin reconocer la autoría es plagio, una falta académica grave."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Resumir un capítulo indicando el autor y el año de publicación.",
           "is_correct": false,
           "feedback": "Incorrecto: resumir con referencia correcta es legítimo."
@@ -1117,7 +1117,7 @@
           "feedback": "Incorrecto: la cita textual bien señalada es válida académicamente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El plagio consiste en presentar ideas, palabras o datos de otros como propios, sin reconocer la fuente. Parafrasear, resumir o citar son legítimos cuando se indica la procedencia. La honestidad académica exige distinguir siempre entre lo propio y lo ajeno.",
       "difficulty": "6",
       "images": [],
@@ -1144,25 +1144,25 @@
           "feedback": "Incorrecto: la oración plantea una relación condicional por comprobar, no un resultado cerrado."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Una hipótesis: una afirmación comprobable sobre la relación entre dos variables.",
           "is_correct": true,
           "feedback": "Correcto: la oración propone que el mantenimiento (variable) afecta la disponibilidad de agua (variable), en forma de predicción comprobable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un dato estadístico.",
           "is_correct": false,
           "feedback": "Incorrecto: no hay cifras; hay una predicción condicional."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Una cita bibliográfica.",
           "is_correct": false,
           "feedback": "Incorrecto: no se remite a una fuente; se formula una conjetura de investigación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La hipótesis es una afirmación provisional y comprobable que establece una relación esperada entre variables. La oración condiciona la disponibilidad de agua al mantenimiento de la infraestructura: es exactamente una predicción que la investigación deberá confirmar o refutar.",
       "difficulty": "6",
       "images": [],
@@ -1234,13 +1234,13 @@
           "feedback": "Incorrecto: la corrección de estilo es otra cosa; aquí se evalúa el contenido científico."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La revisión por pares (arbitraje): especialistas evalúan la calidad del estudio antes de su publicación.",
           "is_correct": true,
           "feedback": "Correcto: el arbitraje anónimo de expertos es el filtro de calidad de la ciencia publicada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La censura gubernamental de la ciencia.",
           "is_correct": false,
           "feedback": "Incorrecto: la revisión por pares evalúa rigor científico; no es una censura del Estado."
@@ -1252,7 +1252,7 @@
           "feedback": "Incorrecto: publicar en redes no implica evaluación de expertos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La revisión por pares (peer review) es el proceso en el que especialistas del mismo campo evalúan, de forma anónima, la calidad, validez y originalidad de un estudio antes de su publicación. Es un filtro de calidad que distingue a la literatura científica seria de las publicaciones sin control.",
       "difficulty": "6",
       "images": [],
@@ -1279,25 +1279,25 @@
           "feedback": "Incorrecto: la contundencia de la promesa no es un criterio científico; las afirmaciones absolutas suelen ser señal de pseudociencia."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El segundo, porque se expresa con cautela, matiza y se apoya en evidencia contrastada.",
           "is_correct": true,
           "feedback": "Correcto: la ciencia evita afirmaciones absolutas y matiza sus conclusiones según la evidencia disponible."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El primero, porque es más fácil de entender.",
           "is_correct": false,
           "feedback": "Incorrecto: la claridad no equivale a rigor científico."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El segundo, porque es más largo.",
           "is_correct": false,
           "feedback": "Incorrecto: la extensión no determina el carácter científico de un texto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El discurso científico se caracteriza por la cautela: matiza afirmaciones, reconoce límites y se apoya en evidencia. Las promesas absolutas (\"elimina el 100%\") son típicas de la pseudociencia y la publicidad engañosa. Evaluar el carácter científico exige atender al tono, la evidencia y el matiz, no a la claridad o la extensión.",
       "difficulty": "6",
       "images": [],
@@ -1330,19 +1330,19 @@
           "feedback": "Incorrecto: los instrumentos pertenecen a la sección de método."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Interpretar los resultados, responder la pregunta de investigación y señalar implicaciones.",
           "is_correct": true,
           "feedback": "Correcto: las conclusiones cierran el estudio: qué significan los hallazgos y qué implican."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Agradecer a los participantes del estudio.",
           "is_correct": false,
           "feedback": "Incorrecto: los agradecimientos son una sección aparte."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Las conclusiones interpretan los resultados a la luz de la pregunta de investigación, explican su significado, reconocen limitaciones y proponen implicaciones o líneas futuras. Cierran el ciclo del artículo: del problema inicial a la respuesta final.",
       "difficulty": "6",
       "images": [],
@@ -1369,25 +1369,25 @@
           "feedback": "Incorrecto: la facilidad de lectura no es un criterio de confiabilidad académica."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La publicación universitaria, porque tiene autoría institucional, revisión y respaldo académico.",
           "is_correct": true,
           "feedback": "Correcto: las instituciones académicas garantizan procesos de revisión y autoría identificable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El foro de comentarios, porque reúne muchas opiniones.",
           "is_correct": false,
           "feedback": "Incorrecto: la cantidad de opiniones no equivale a rigor científico."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Las tres fuentes son igualmente confiables.",
           "is_correct": false,
           "feedback": "Incorrecto: difieren radicalmente en autoría, revisión y respaldo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Evaluar fuentes exige considerar la autoría, el respaldo institucional y los procesos de revisión. Una publicación universitaria ofrece autoría identificable y control de calidad; un blog anónimo o un foro carecen de esos filtros. La confiabilidad no depende de la facilidad de lectura ni de la cantidad de opiniones.",
       "difficulty": "8",
       "images": [],
@@ -1408,13 +1408,13 @@
       "context": "José, de Monterrey, analiza una gráfica de barras que compara el consumo de agua por habitante en cinco ciudades del país.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Leer solo los títulos de las columnas más altas.",
           "is_correct": false,
           "feedback": "Incorrecto: seleccionar solo las columnas altas distorsiona la comparación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Revisar los ejes, las unidades de medida y el título para comprender qué se compara.",
           "is_correct": true,
           "feedback": "Correcto: la interpretación exige leer los elementos de la gráfica: título, ejes y unidades."
@@ -1432,7 +1432,7 @@
           "feedback": "Incorrecto: la lectura visual aproximada no sustituye la información de los ejes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Los textos discontinuos, como las gráficas, exigen una lectura específica: primero el título (qué se compara), luego los ejes (qué variables) y las unidades (en qué se mide). Interpretar sin esos elementos lleva a conclusiones erróneas. La gráfica es un lenguaje con reglas propias de lectura.",
       "difficulty": "8",
       "images": [],
@@ -1459,25 +1459,25 @@
           "feedback": "Incorrecto: el idioma no determina el carácter científico."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Recurre a generalizaciones absolutas (\"siempre\") y descalifica a quien disiente en lugar de aportar evidencia.",
           "is_correct": true,
           "feedback": "Correcto: la ciencia matiza y debate con evidencia; descalificar al oponente y generalizar sin datos es un rasgo pseudocientífico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Menciona alimentos.",
           "is_correct": false,
           "feedback": "Incorrecto: el tema no define el rigor del texto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Tiene un autor.",
           "is_correct": false,
           "feedback": "Incorrecto: tener autor no garantiza cientificidad."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El texto pseudocientífico se reconoce por sus recursos: generalizaciones absolutas, apelación a la opinión común y descalificación del disenso en lugar de evidencia. La ciencia se caracteriza por la cautela, la matización y la disposición a revisar las afirmaciones ante nuevos datos.",
       "difficulty": "8",
       "images": [],
@@ -1510,19 +1510,19 @@
           "feedback": "Incorrecto: el procedimiento pertenece al método."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Situar la investigación en el contexto del conocimiento existente y justificar su pertinencia.",
           "is_correct": true,
           "feedback": "Correcto: el estado del arte muestra qué se sabe, qué falta y por qué este estudio aporta algo nuevo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Agradecer a los autores citados.",
           "is_correct": false,
           "feedback": "Incorrecto: el repaso de la literatura no es un agradecimiento."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El marco teórico o estado del arte revisa la investigación previa para ubicar el estudio dentro del conocimiento acumulado, identificar vacíos y justificar la pertinencia del trabajo. Es la base que muestra por qué la nueva investigación es necesaria y qué aporta.",
       "difficulty": "8",
       "images": [],
@@ -1588,19 +1588,19 @@
       "context": "Ximena, de Mérida, investiga sobre el flamenco rosado: encuentra el informe original de un censo de aves y una nota de periódico que lo resume.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La nota de periódico es más confiable porque es más reciente.",
           "is_correct": false,
           "feedback": "Incorrecto: la fecha no determina la jerarquía entre fuente primaria y secundaria."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El informe y la nota tienen exactamente el mismo valor.",
           "is_correct": false,
           "feedback": "Incorrecto: difieren en su relación con los datos originales."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "El informe es una fuente primaria (datos originales) y la nota es una fuente secundaria que los interpreta o resume.",
           "is_correct": true,
           "feedback": "Correcto: la fuente primaria contiene la información original; la secundaria la difunde, resume o comenta."
@@ -1612,7 +1612,7 @@
           "feedback": "Incorrecto: el medio de publicación no define la jerarquía; lo define la relación con los datos originales."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Las fuentes primarias contienen la información original (informes, datos, documentos); las secundarias la interpretan, resumen o difunden (notas, reseñas, manuales). Para verificar afirmaciones, conviene acudir a la fuente primaria; para conocer el contexto, las secundarias ayudan, pero siempre con conciencia de su mediación.",
       "difficulty": "8",
       "images": [],
@@ -1639,25 +1639,25 @@
           "feedback": "Incorrecto: carece de autoría y de control de calidad."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Un artículo de una revista científica con revisión por pares, reciente y con referencias.",
           "is_correct": true,
           "feedback": "Correcto: la revista arbitrada garantiza calidad, actualidad y trazabilidad de las fuentes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un video de opinión de una persona famosa.",
           "is_correct": false,
           "feedback": "Incorrecto: la fama no respalda el rigor científico."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Un foro de viajeros que visitaron la zona.",
           "is_correct": false,
           "feedback": "Incorrecto: las experiencias de viaje no son evidencia científica contrastada."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Seleccionar fuentes académicas exige criterios: autoría identificable, revisión por pares, actualidad y referencias verificables. La revista científica arbitrada reúne esos criterios; las redes, los videos de opinión y los foros no pasan por filtros de calidad científica, por más populares que sean.",
       "difficulty": "10",
       "images": [],
@@ -1678,19 +1678,19 @@
       "context": "Fernanda, de Monterrey, lee el resumen de un estudio que concluye: \"como la contaminación aumentó y también las enfermedades respiratorias, la contaminación causó las enfermedades\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es un ejemplo correcto de método científico.",
           "is_correct": false,
           "feedback": "Incorrecto: la conclusión confunde correlación con causalidad."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El error es usar demasiados datos.",
           "is_correct": false,
           "feedback": "Incorrecto: el problema no es la cantidad de datos, sino la interpretación de su relación."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Confunde correlación con causalidad: que dos fenómenos aumenten juntos no prueba que uno cause al otro.",
           "is_correct": true,
           "feedback": "Correcto: la covariación no basta para establecer causa; harían falta controles y análisis de otras variables."
@@ -1702,7 +1702,7 @@
           "feedback": "Incorrecto: la falla es lógica, no de citación."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "\"Post hoc ergo propter hoc\" o confusión entre correlación y causalidad: dos variables que varían juntas no implican que una cause la otra. La ciencia exige controlar variables y descartar explicaciones alternativas antes de afirmar causalidad. Evaluar conclusiones implica revisar si los datos realmente las sustentan.",
       "difficulty": "10",
       "images": [],
@@ -1735,19 +1735,19 @@
           "feedback": "Incorrecto: estar en campo no garantiza representatividad."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "No, porque la muestra es pequeña y no representativa de la diversidad del estado.",
           "is_correct": true,
           "feedback": "Correcto: generalizar exige una muestra que refleje la variedad de la población estudiada."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No, porque los datos son demasiado precisos.",
           "is_correct": false,
           "feedback": "Incorrecto: la precisión de los datos no resuelve el problema de representatividad."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La validez externa de un estudio depende de la representatividad de su muestra. Una muestra pequeña y local (cinco familias de una calle) solo permite hablar de ese grupo; extender las conclusiones a todo el estado es una generalización indebida. Evaluar conclusiones exige revisar la relación entre muestra y población.",
       "difficulty": "10",
       "images": [],
@@ -1768,19 +1768,19 @@
       "context": "Carlos, de Guadalajara, termina su ensayo académico y encuentra que copió un párrafo de una fuente sin citarla; su compañero le sugiere cambiarlo por sus propias palabras.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Dejar el párrafo tal como está, porque nadie lo notará.",
           "is_correct": false,
           "feedback": "Incorrecto: el plagio no deja de ser falta académica porque pase desapercibido."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Cambiar algunas palabras del párrafo sin citar la fuente.",
           "is_correct": false,
           "feedback": "Incorrecto: disfrazar el texto ajeno sigue siendo plagio si no se reconoce la procedencia."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Parafrasear la idea con palabras propias y citar la fuente de donde se tomó.",
           "is_correct": true,
           "feedback": "Correcto: el uso legítimo de ideas ajenas exige reformular y reconocer la autoría."
@@ -1792,7 +1792,7 @@
           "feedback": "Incorrecto: escribirlo en su computadora no lo convierte en autor de la idea."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La honestidad académica exige distinguir lo propio de lo ajeno. Parafrasear con palabras propias y citar la fuente es el uso legítimo del conocimiento; copiar, incluso con cambios superficiales, sin reconocer la autoría, constituye plagio. La decisión correcta combina reformulación y referencia explícita.",
       "difficulty": "10",
       "images": [],

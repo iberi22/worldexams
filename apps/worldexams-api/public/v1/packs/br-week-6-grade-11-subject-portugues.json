@@ -19,13 +19,13 @@
           "feedback": "Incorreto. A coesão catafórica antecipa um termo ou ideia que ainda será apresentado no texto."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Coesão Anafórica.",
           "is_correct": true,
           "feedback": "Correto! A coesão anafórica retoma elementos que já foram ditos no texto para evitar repetições desnecessárias."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Elipse de conjunções.",
           "is_correct": false,
           "feedback": "Incorreto. Elipse é a omissão de termos óbvios e não a retomada explícita de palavras passadas por pronomes."
@@ -37,7 +37,7 @@
           "feedback": "Incorreto. Coerência refere-se à lógica interna e harmonia de ideias do texto, não aos mecanismos de ligação gramatical."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "A coesão anafórica ocorre quando um elemento (normalmente um pronome relativo, demonstrativo ou pessoal, ou mesmo um sinônimo) retoma um referente que já apareceu anteriormente na superfície textual, garantindo a continuidade do fluxo informativo.",
       "difficulty": "4",
       "images": [],
@@ -109,13 +109,13 @@
           "feedback": "Incorreto. O pronome não antecipa ideias futuras, mas retoma o substantivo que já apareceu na oração anterior."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Coesão anafórica, retomando o substantivo plural de gênero feminino \"novas leis de trânsito\" para evitar sua repetição literal desnecessária.",
           "is_correct": true,
           "feedback": "Correto! \"Elas\" substitui de forma elegante o referente que já foi enunciado na primeira frase."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Preconceito linguístico regional, devido ao uso exclusivo de termos de gírias juvenis das praias catarinenses.",
           "is_correct": false,
           "feedback": "Incorreto. O uso de pronomes de retomada é norma padrão escrita elegante comum, livre de preconceitos ou gírias de nicho."
@@ -127,7 +127,7 @@
           "feedback": "Incorreto. Pelo contrário, a retomada perfeita facilita a compreensão rápida e garante a fluidez lógica informativa do texto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "A coesão anafórica realizada por pronomes pessoais (\"Elas\" retomando \"as novas leis de trânsito\") garante a articulação gramatical do texto. Ela economiza termos de repetição exaustiva irritante, mantendo o foco informativo centrado no mesmo referente.",
       "difficulty": "4",
       "images": [],
@@ -154,25 +154,25 @@
           "feedback": "Incorreto. Não se usam marcas comerciais, mas sim numerais de retomada de ordem sintática de escrita."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Coesão anafórica por numerais ordinais de ordenação de termos, retomando respectivamente \"O Tietê\" (primeiro) e \"o Pinheiros\" (segundo) na ordem em que foram apresentados.",
           "is_correct": true,
           "feedback": "Correto! É um recurso elegante de coesão sequencial para separar as ações de dois referentes diferentes sem repetir seus nomes próprios."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Coesão catafórica de suspense, antecipando mistérios assustadores de romances de ficção que ainda serão contados nas páginas seguintes.",
           "is_correct": false,
           "feedback": "Incorreto. Os ordinais de retomada servem para organizar e clarificar fatos passados imediatos e não para criar mistérios de suspense de romance."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Pleonasmo de redundância gramatical inútil do português clássico de Portugal de 1500, que deve ser banido das redações paulistas.",
           "is_correct": false,
           "feedback": "Incorreto. É um mecanismo de coesão legítimo e altamente valorizado pelas bancas de vestibular de redação do ENEM por sua precisão e elegância."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "A coesão anafórica por organizadores ordinais (\"o primeiro\", \"o segundo\") permite ao escritor de redação acadêmica retomar referentes de forma ordenada e unívoca, desfazendo ambiguidades que poderiam poluir a leitura de teses e argumentos complexos.",
       "difficulty": "4",
       "images": [],
@@ -199,25 +199,25 @@
           "feedback": "Incorreto. O texto é gramaticalmente completo e não faz omissão oculta de verbos de plantações."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Coesão lexical por hiperonímia e sinonímia (\"preservar essa floresta\" retomando por classe geral a ideia de \"matas nativas\").",
           "is_correct": true,
           "feedback": "Correto! Substituir termos específicos por equivalentes mais gerais ou sinônimos garante a continuidade das ideias sem repetições exaustivas de vocábulos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Coesão catafórica de suspense, antecipando o nome científico de cada árvore que ainda será plantada no interior da floresta do sul.",
           "is_correct": false,
           "feedback": "Incorreto. O termo \"floresta\" é conceitualmente genérico e atua para retomar fatos passados do parágrafo de forma lógica e não para antecipar mistérios de ficção de suspense."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Pleonasmo de redundância inútil de erros gramaticais de fala que devem ser severamente punidos com multas fiscais de prefeitura.",
           "is_correct": false,
           "feedback": "Incorreto. Trata-se de um excelente e elogiável mecanismo de variação lexical, fundamental para obter nota máxima na Competência 4 do ENEM."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "A coesão lexical por substituição hiperonímica (usar o termo mais abrangente \"floresta\" para retomar o termo específico \"matas nativas\") é um recurso de estilo refinado. Evita a mesmice vocabular e enriquece a redação dissertativo-argumentativa formal do ENEM.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Incorreto. O anúncio é em português padrão elegante de fácil e agradável leitura rápida, sem omissões caóticas incompreensíveis."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "O pronome \"Ela\" atua como anáfora retomando \"A verdadeira sofisticação\", e o ponto final omite de forma implícita um conectivo de adversidade (mas/porém) entre as orações.",
           "is_correct": true,
           "feedback": "Correto! A oposição implícita de sentido de ideias (\"não berra; [mas sim] sussurra\") confere grande elegância, brevidade e sofisticação à oração de moda de luxo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Há pleonasmo de redundância inútil repetindo termos vulgares das feiras de peixes de Salvador com gírias de trânsito locais rústicas.",
           "is_correct": false,
           "feedback": "Incorreto. A linguagem do anúncio de luxo é altamente qualificada e polida, livre de termos rústicos vulgares de trânsito."
@@ -307,7 +307,7 @@
           "feedback": "Incorreto. A finalidade do anúncio é comercial e de marketing de roupas de marcas contemporâneas de prestígio, sem objetivos paroquiais medievais."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "O anúncio publicitário de luxo economiza conectivos explícitos (recorrendo ao assíndeto ou coordenação implícita por justaposição: \"não berra; sussurra\") para criar um ritmo textual ágil, breve e elegante. A retomada anafórica pelo pronome pessoal (\"Ela\") garante a perfeita conexão gramatical das ideias.",
       "difficulty": "6",
       "images": [],
@@ -340,19 +340,19 @@
           "feedback": "Incorreto. O foco do conectivo não é a marcação de tempo do relógio de ontem, mas sim o nexo lógico de causa e efeito."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Relação de causa e efeito (consequência lógica), indicando que a ameaça ambiental é o resultado direto da conduta poluidora das indústrias modernas.",
           "is_correct": true,
           "feedback": "Correto! \"Consequentemente\" liga de forma perfeita e lógica a causa (descarte de efluentes) ao seu efeito nocivo real."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Relação de explicação metalinguística de dicionário, definindo de forma didática o significado da palavra gaúcha \"efluentes\".",
           "is_correct": false,
           "feedback": "Incorreto. Não se define o significado de palavras no dicionário, apenas se expõe as causas de riscos ecológicos estruturais de longo prazo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Os operadores argumentativos de consequência lógica (como \"consequentemente\", \"portanto\", \"como resultado\", \"por conseguinte\") são ferramentas essenciais de coesão sequencial (Competência 4 do ENEM). Eles consolidam o raciocínio lógico-discursivo, provando que a tese defendida decorre de fatos concretos apresentados no parágrafo.",
       "difficulty": "6",
       "images": [],
@@ -385,19 +385,19 @@
           "feedback": "Incorreto. Não há comparações físicas de brilho de materiais no enunciado, apenas a indicação de barreiras de preço."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Oposição ou quebra de expectativa lógica (adversidade), contrastando as excelentes qualidades físicas do grafeno com a barreira de mercado do preço elevado de fabricação.",
           "is_correct": true,
           "feedback": "Correto! \"No entanto\" introduz de forma clara uma restrição importante ao sucesso imediato de uso de novas matérias-primas limpas de tecnologia."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Explicação religiosa medieval lusa, buscando converter a mente dos engenheiros do Nordeste à fé dos padres jesuítas de 1549.",
           "is_correct": false,
           "feedback": "Incorreto. Trata-se de um artigo secular contemporâneo de engenharia física aplicada e comércio de mídias, livre de sermões medievais teológicos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "As conjunções adversativas (como \"no entanto\", \"porém\", \"contudo\", \"todavia\", \"entretanto\") guiam a leitura, introduzindo uma oposição ou barreira que contraria a expectativa gerada pela oração anterior de sucesso pleno. São indispensáveis para refinar o raciocínio crítico da tipologia argumentativa de mídias nacionais no vestibular brasileiro.",
       "difficulty": "6",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "No rádio de um táxi que cruza a Avenida Paulista, o locutor lê um alerta aos motoristas paulistanas: \"Evitem o centro paulistano amanhã. Concomitantemente ao feriado civil, ocorrerá uma maratona de pedestres no asfalto paulistano\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Relação de oposição de ideias, indicando que a maratona de pedestres foi proibida e cancelada pelas autoridades de trânsito na hora paulista.",
           "is_correct": false,
           "feedback": "Incorreto. A maratona ocorrerá de verdade; o conectivo não atua como bloqueio de oposição ou cancelamento de atos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Relação de concomitância (tempo simultâneo), indicando que o feriado civil e a maratona ocorrerão no mesmo período temporal de amanhã.",
           "is_correct": true,
           "feedback": "Correto! \"Concomitantemente\" liga dois eventos distantes provando sua simultaneidade cronológica no asfalto da capital."
@@ -532,7 +532,7 @@
           "feedback": "Incorreto. É um termo formal, culto e contemporâneo para indicar tempo simultâneo, comum na escrita de exames e jornais nacionais."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "O operador de tempo simultâneo ou concomitância (como \"concomitantemente\", \"simultaneamente\", \"ao mesmo tempo\", \"enquanto\") é valioso para a coesão sequencial. Ele alerta o leitor de que duas ações do contexto real ocorrem na mesma faixa de tempo cronológico, exigindo readequações de condutas ou planejamentos espaciais rápidos das pessoas do trânsito urbano paulista.",
       "difficulty": "8",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "Em um ensaio de vestibular na USP, discute-se o uso de \"anotações catafóricas antecipatórias\" em sermões religiosos barrocos escritos na Bahia colonial do século dezoito de autoria do padre Antônio Vieira.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Um erro feio de concordância nominal, pois ele deveria usar obrigatoriedade legal de catacreses gastas para humilhar as igrejas de Salvador.",
           "is_correct": false,
           "feedback": "Incorreto. É um mecanismo de coesão catafórica correto, elegante e planejado retoricamente pelo orador barroco."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Uma falha biológica do cérebro de fiéis portugueses coloniais que não dominavam a língua portuguesa tradicional escrita de Portugal.",
           "is_correct": false,
           "feedback": "Incorreto. Vieira é mestre soberano de Letras, oratória sacra de prestígio internacional e manipula a gramática com refinamento absoluto."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Um mecanismo de coesão catafórica, em que o pronome demonstrativo neutro \"Isto\" aponta para a frente, antecipando uma informação que ainda será explicitada na oração seguinte.",
           "is_correct": true,
           "feedback": "Correto! Prorromper o texto de forma catafórica com \"Isto\" de antemão prende o leitor receptor ao suspense teológico que vem na oração."
@@ -577,7 +577,7 @@
           "feedback": "Incorreto. Trata-se de um excelente e elogiável mecanismo de variação sintática, distante de gírias informais ou fraudes lúdicas."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "A coesão catafórica ocorre quando o pronome demonstrativo neutro (\"Isto\", \"Este\", \"Esta\") atua para antecipar ideias, teses ou conceitos complexos que o redator de redação do ENEM ou orador barroco ainda apresentará na oração seguinte, prendendo de forma persuasiva a atenção do receptor leitor à sequência de argumentos lógicos.",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Em um ensaio de crítica de redações acadêmicas publicado em Curitiba, avalia-se a redação de um estudante do Paraná que usou repetitivamente o conectivo \"além disso\" em todas as frases do parágrafo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Nota máxima inquestionável de Competência 4 do ENEM, pois repetir o conectivo \"além disso\" prova que o aluno domina de forma didática o acúmulo de ideias de forma mecânica.",
           "is_correct": false,
           "feedback": "Incorreto. Repetir à exaustão o mesmo operador textual reduz a nota de coesão do vestibular e revela pobreza vocabular severa do redator."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Monotonia sintática e pobreza de repertório de conectivos de ligação (falha de coesão interoracional), exigindo a variação por sinônimos lógicos equivalentes (como \"outrossim\", \"somado a isso\", \"ademais\").",
           "is_correct": true,
           "feedback": "Correto! O candidato acumula repetições irritantes do mesmo conectivo aditivo, prejudicando a fluidez estética escrita exigida no ENEM."
@@ -667,7 +667,7 @@
           "feedback": "Incorreto. Os estudantes sabem escrever, demandando apenas orientações pedagógicas tradicionais de variação vocabular e riqueza de repertório de operadores textuais."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "A Competência 4 da correção oficial da redação dissertativa do ENEM pontua a variedade de operadores textuais e a ausência de repetições exaustivas cansativas de conectivos de ligação. Acumular o mesmo operador aditivo (\"além disso\") nas orações gera pobreza de estilo (monotonia sintática), a qual deve ser superada pelo uso de sinônimos de acúmulo lógico de prestígio (como \"outrossim\", \"ademais\", \"adicionalmente\", \"soma-se a isso\").",
       "difficulty": "8",
       "images": [],
@@ -694,13 +694,13 @@
           "feedback": "Incorreto. O foco é a ironia crítica política sobre obras municipais paradas e não proibições de sapatos de luxo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Destacar o contraste lógico (adversidade radical) entre a mentira triunfante do discurso oficial paulistano (\"asfalto indestrutível\") e a crua realidade factual empírica imediata (\"asfalto derretido como chocolate\") de forma irônica.",
           "is_correct": true,
           "feedback": "Correto! Revelar o abismo lógico entre discursos e fatos concretos com \"Porém\" gera o deboche e o humor crítico desejados pelo escritor."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Oferecer um manual de computação eletrônica detalhando as ligas de silício e cobre das fábricas de informática do Paraná nas margens do rio.",
           "is_correct": false,
           "feedback": "Incorreto. É um texto de humor e sátira política de asfalto municipal e não manual técnico industrial de chips eletrônicos de robôs."
@@ -712,7 +712,7 @@
           "feedback": "Incorreto. O colunista critica obras públicas paradas e a propaganda oficial eleitoral, sem fins escolares formais de filologia arcaica europeia antiga."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Colunistas de opinião e jornalistas satíricos utilizam os conectivos de oposição (como \"porém\", \"contudo\", \"entretanto\", \"no entanto\") para desmascarar discursos institucionais pomposos vazios. Contrapor a jactância de propaganda política com a realidade crua de infraestrutura esburacada com \"Porém\" produz o efeito estético de humor crítico e conscientização cívica dos cidadãos leitores.",
       "difficulty": "8",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorreto. Corretores humanos avaliam a redação (Competência 4) analisando a relevância lógica de sentido de cada conectivo empregado e não contagem cega fria quantitativa de tinta."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "O Ministério da Educação deveria prender judicialmente com base em leis de trânsito os professores de Porto Alegre que coloquem muitos conectivos nas redações.",
           "is_correct": false,
           "feedback": "Incorreto. Debates acadêmicos curriculares de vestibular e regras escolares de Letras no Brasil são imunes a prisões ou processos penais de prefeituras de tráfego."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "É impertinente e anti-pedagógica, pois a coesão sequencial de alta qualidade depende do uso funcional lógico-discursivo adequado dos conectivos no texto e não da contagem mecânica puramente quantitativa de partículas gramaticais.",
           "is_correct": true,
           "feedback": "Correto! Conectivos devem tecer ligações lógicas de sentido reais e não acumular-se de forma inautêntica decorativa apenas para inflar textos escolares do ENEM."
@@ -802,7 +802,7 @@
           "feedback": "Incorreto. Conectivos são heranças históricas milenares estruturais de evolução orgânica da língua portuguesa e do latim clássico europeu."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "A avaliação escolar democrática da redação do ENEM (Competência 4) repudia cartilhas mecânicas e contagens quantitativas cegas de conectivos escritas de forma inautêntica (\"acumular conjunções apenas para obter nota rápida\"). Avaliar a coesão sequencial de vestibular de prestígio requer analisar o nexo de sentido e a coerência lógica real que cada conjunção (consequentemente, contudo, ademais, embora) tece na construção dos argumentos lógicos de defesa de tese dos candidatos nas cidades brasileiras do país.",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Em um seminário acadêmico de Letras na USP de São Paulo, debate-se a tese de que \"a coerência textual não reside apenas na superfície do papel de redação, mas constitui um evento cognitivo construído de forma integrada na mente do leitor em silêncio absoluto\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Um texto que apresente ausência total de conectivos escritos explícitos (assíndeto radical) é necessariamente ininteligível e incoerente de forma científica absoluta em São Paulo.",
           "is_correct": false,
           "feedback": "Incorreto. Poemas concretistas e provérbios rápidos de mídias são altamente coerentes e inteligíveis na mente humana embora careçam de conjunções físicas explícitas no papel."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "É perfeitamente possível haver textos altamente coerentes (lógicos e compreensíveis) que possuam pouca ou nenhuma coesão explícita (conectivos), dependendo da ativação do conhecimento de mundo do receptor leitor.",
           "is_correct": true,
           "feedback": "Correto! A mente reconstrói de forma natural e sem conectivos físicos rústicos os nexos de sentido implícitos das conversas diárias das pessoas."
@@ -847,7 +847,7 @@
           "feedback": "Incorreto. Trata-se de ferramentas biológicas evolutivas humanas milenares da escrita para evitar redundâncias cansativas, longe de robôs industriais mecânicos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "A linguística textual contemporânea de base científica comprova a distinção entre coesão (conexão física e gramatical de superfície do papel por conectivos e pronomes) e coerência (construção lógica global de sentido mental). A coerência é cognitiva e pragmática: o leitor atua de forma ativa, preenchendo as lacunas e elipses sintáticas de conversas ou poemas com o seu conhecimento de mundo (contexto compartilhado nacional) sem demandar a presença mecânica de conectivos explícitos em todas as linhas.",
       "difficulty": "10",
       "images": [],
@@ -880,19 +880,19 @@
           "feedback": "Incorreto. É uma peça comunitária de mobilização civil voluntária de estudantes, longe de atuações cartorárias oficiais ou prisões penais de Brasília."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "O slogan liga duas ações de forma implícita (causa e efeito: se dirigir bêbado, causará sofrimento extremo à família) sob forte tom imperativo apelativo (\"Não corra riscos!\") para chocar os motoristas e evitar tragédias.",
           "is_correct": true,
           "feedback": "Correto! A ausência de conectivos de ligação formal extensos agiliza a leitura rápida do pedestre e condutor do asfalto, unindo eficácia cívica e impacto sensorial forte."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Trata-se de uma receita culinária de cozinha prescrevendo temperos de comida de forma de bulas de remédio de informática para robôs do Paraná.",
           "is_correct": false,
           "feedback": "Incorreto. O afiche comunitário é cívico-social preventivo urgente de segurança viária de tráfego, sem receitas de comida ou robôs eletrônicos industriais de informática."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Para campanhas rápidas de segurança de trânsito no asfalto das metrópoles brasileiras (como em Brasília), a eficácia comunicativa exige textos de coesão ágil e imediata. Omitir conectivos formais extensos de parágrafos dissertativos (\"Consequentemente, em decorrência do consumo de álcool, haverá sofrimento familiar\") e substituí-los pela justaposição rápida imediata com forte carga de hipérboles dramáticas (\"beber ao volante, família chora lágrimas de sangue\") acelera de forma dramática a recepção visual de condutores de veículos e pedestres do asfalto de Brasília. O nexo lógico de causa e efeito é reconstituído de forma instantânea e natural pela mente humana, provando a força da coerência pragmática na conscientização social e prevenção de mortes violentas de tráfego de forma inclusiva, rápida e democrática no país de mídias de rede.",
       "difficulty": "10",
       "images": [],

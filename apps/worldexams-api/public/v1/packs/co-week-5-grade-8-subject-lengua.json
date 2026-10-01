@@ -59,13 +59,13 @@
       "context": "La literatura medieval se difundía a través de dos grandes oficios: uno popular y oral, y otro culto y escrito.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Mester de juglaría",
           "is_correct": false,
           "feedback": "El mester de juglaría era el oficio de los juglares, de carácter popular y oral."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Mester de clerecía",
           "is_correct": true,
           "feedback": "Correcto. Los clérigos usaban la \"cuaderna vía\" para enseñar valores cristianos a través de sus escritos."
@@ -83,7 +83,7 @@
           "feedback": "Los trovadores eran poetas cultos de las cortes, pero su temática era principalmente el amor cortés."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El mester de clerecía se distingue por ser una literatura escrita por personas instruidas (clérigos), con temas religiosos o históricos y una métrica fija de catorce sílabas.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -111,13 +111,13 @@
           "feedback": "Aunque el Cid gana riquezas, su objetivo principal no es el dinero, sino limpiar su nombre."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El honor",
           "is_correct": true,
           "feedback": "Correcto. El destierro supone la pérdida del honor público, que el Cid recupera mediante sus conquistas y lealtad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El poder político",
           "is_correct": false,
           "feedback": "El Cid busca servir a su rey, no arrebatarle el trono o gobernar por su cuenta de forma independiente."
@@ -129,7 +129,7 @@
           "feedback": "Los cantares de gesta buscan la gloria terrenal y la memoria, pero el motor de la acción es el honor."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El honor es el eje central de la épica medieval española. El Cid demuestra ser un caballero ejemplar que, a pesar de la injusticia, mantiene su lealtad al monarca.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -163,19 +163,19 @@
           "feedback": "En esa época convivían diversas hablas romances y el árabe/hebreo culto."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Había una convivencia cultural y lingüística entre el mundo árabe y el romance.",
           "is_correct": true,
           "feedback": "Correcto. Las jarchas son testimonios de bilingüismo y mestizaje cultural."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La literatura estaba prohibida para las clases populares.",
           "is_correct": false,
           "feedback": "Las jarchas son precisamente una muestra de la lírica popular que se filtró en poemas cultos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Las jarchas son los testimonios más antiguos de la lengua romance (predecesora del español) y demuestran el intercambio cultural en Al-Ándalus.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -301,19 +301,19 @@
           "feedback": "El lenguaje juglaresco buscaba ser claro y accesible para el pueblo."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Facilitar la memorización del poema para el juglar y resaltar las virtudes del héroe.",
           "is_correct": true,
           "feedback": "Correcto. Eran fórmulas mnemotécnicas y recursos para enfatizar la nobleza del protagonista."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Cumplir con las leyes gramaticales impuestas por la Iglesia en el siglo XII.",
           "is_correct": false,
           "feedback": "La gramática no era regulada por leyes eclesiásticas de esa forma en la literatura popular."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La literatura de transmisión oral dependía de recursos como la repetición y las fórmulas fijas para que el artista pudiera recordar miles de versos y el público pudiera seguir el hilo narrativo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -341,25 +341,25 @@
           "feedback": "En ambos periodos el amor es un tema lírico, no una transacción."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El amor se vuelve una experiencia interior más melancólica y reflexiva sobre el propio yo del poeta.",
           "is_correct": true,
           "feedback": "Correcto. El Renacimiento profundiza en la psicología del amante y el análisis de su sufrimiento."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se abandona la naturaleza como escenario y se prefiere la descripción de grandes batallas.",
           "is_correct": false,
           "feedback": "La naturaleza se vuelve un escenario idealizado fundamental en el Renacimiento."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El amor desaparece de la literatura y es sustituido por temas exclusivamente científicos.",
           "is_correct": false,
           "feedback": "El amor es el tema central de la lírica renacentista."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Mientras que el amor cortés era un juego de convenciones sociales y vasallaje, la lírica renacentista (como la de Garcilaso) explora la melancolía y la introspección emocional.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,13 +387,13 @@
           "feedback": "El anonimato juglaresco se debe a la naturaleza colectiva y oral de la tradición, no solo al analfabetismo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El inicio de una conciencia de \"autor\" culto que se enorgullece de su habilidad técnica y conocimiento.",
           "is_correct": true,
           "feedback": "Correcto. Los clérigos valoraban su formación académica y el prestigio de su escritura."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que la Iglesia obligaba a poner nombres para cobrar impuestos por cada libro.",
           "is_correct": false,
           "feedback": "No existe evidencia de impuestos de autoría cobrados por la Iglesia de esa forma."
@@ -405,7 +405,7 @@
           "feedback": "La tradición oral convivió con la escrita durante siglos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La conciencia de autoría es un rasgo de la literatura culta. Berceo, por ejemplo, se presenta como un mediador instruido que traduce temas sagrados para el pueblo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -433,25 +433,25 @@
           "feedback": "El Cid es una obra realista, no fantástica; el poder del rey es político y legal."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Porque la lealtad al monarca sostenía el orden feudal, y la rebelión se consideraba una ruptura del orden divino.",
           "is_correct": true,
           "feedback": "Correcto. El rey era el representante de Dios en la tierra; rebelarse era un pecado y un crimen social grave."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque el Cid planeaba casarse con la hija del rey y necesitaba su permiso.",
           "is_correct": false,
           "feedback": "El Cid ya estaba casado con Doña Jimena; el objetivo era recuperar el favor real."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque en la Edad Media no existía el concepto de justicia ni de leyes escritas.",
           "is_correct": false,
           "feedback": "Existían leyes (fueros) y un sistema de justicia, aunque basado en el honor y el estamento."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La literatura épica no solo entretenía, sino que reforzaba los valores del sistema feudal. La mesura del Cid ante el rey Alfonso lo consagra como el caballero perfecto.\n\n---",
       "difficulty": "10",
       "images": [],

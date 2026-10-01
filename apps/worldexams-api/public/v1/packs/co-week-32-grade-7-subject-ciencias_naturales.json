@@ -13,31 +13,31 @@
       "context": "En un colegio de Medellín, la profesora muestra una lámina con la boca, el esófago, el estómago y los intestinos, y pregunta por dónde empieza el recorrido de un bocado de arepa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "En la boca, donde los dientes trituran y la saliva humedece el alimento.",
           "is_correct": true,
           "feedback": "Correcta, porque la digestión mecánica y parte de la química empiezan en la boca."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En el estómago, que es el único lugar donde ocurre toda la digestión.",
           "is_correct": false,
           "feedback": "Incorrecta, porque el estómago es importante pero el proceso ya empezó antes en la boca."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "En el intestino grueso, donde entra primero todo lo que se come.",
           "is_correct": false,
           "feedback": "Incorrecta, porque al intestino grueso solo llegan los restos al final del recorrido."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "En los pulmones, que muelen el alimento con el aire que respiran.",
           "is_correct": false,
           "feedback": "Incorrecta, porque los pulmones sirven para respirar y no reciben alimentos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El sistema digestivo es un tubo largo donde cada parte cumple una tarea. En la boca los dientes cortan y muelen, y la saliva ablanda el bolo alimenticio. Luego pasa por el esófago hasta el estómago y los intestinos. Recordar este orden ayuda a entender dónde ocurre cada transformación.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "En una tienda escolar de Cali, dos estudiantes comparan etiquetas: un paquete de papas fritas y una porción de mango. La profesora pregunta qué aportan los nutrientes principales de cada uno.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Los carbohidratos forman los huesos y las proteínas sirven solo para dar sed.",
           "is_correct": false,
           "feedback": "Incorrecta, porque los huesos se forman sobre todo con calcio y las proteínas construyen tejidos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los carbohidratos aportan energía rápida y las proteínas sirven para crecer y reparar tejidos.",
           "is_correct": true,
           "feedback": "Correcta, porque distingue la función energética de los carbohidratos y la estructural de las proteínas."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecta, porque ningún nutriente reemplaza al agua ni limpia los dientes por sí solo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Los carbohidratos como el arroz, la papa y el plátano dan energía para estudiar y jugar. Las proteínas como el fríjol, el huevo y el pescado ayudan a formar músculos y a sanar heridas. Una dieta sana combina ambos en porciones adecuadas, más frutas y verduras.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En Bucaramanga, un curso mastica un trozo de pan durante un minuto sin tragarlo y nota que el sabor se vuelve más dulce con el tiempo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque los dientes agregan azúcar al pan mientras lo muelen con fuerza.",
           "is_correct": false,
           "feedback": "Incorrecta, porque los dientes solo trituran y no producen azúcar."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque la saliva contiene una sustancia que empieza a transformar el almidón del pan en azúcares simples.",
           "is_correct": true,
           "feedback": "Correcta, porque aplica la acción de la digestión química que ocurre en la boca."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecta, porque el calor de la boca no convierte el almidón por sí solo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La saliva no solo moja: también trae una sustancia que rompe el almidón en pedazos más pequeños y dulces. Por eso el pan, la yuca o el arroz saben más dulces si se mastican despacio. Masticar bien facilita además el trabajo del estómago y de los intestinos.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En Pasto, una familia compra con 60000 COP el mercado de la semana: arroz, fríjol, huevos, plátano, zanahoria, guayaba y un poco de carne. La hija menor solo quiere comer paquetes y gaseosa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque los paquetes son más caros y lo caro siempre nutre menos que lo barato.",
           "is_correct": false,
           "feedback": "Incorrecta, porque el precio no define el valor nutritivo de un alimento."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque combina energía, proteínas, vitaminas y fibra, mientras los paquetes aportan exceso de grasa, sal y azúcar sin nutrientes variados.",
           "is_correct": true,
           "feedback": "Correcta, porque compara la variedad nutritiva con el exceso de productos ultraprocesados."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecta, porque el problema es la falta de nutrientes, no el aburrimiento."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Una alimentación balanceada reúne cereales, leguminosas, proteínas animales o vegetales, frutas y verduras. Los paquetes y la gaseosa tienen mucha energía vacía pero pocas vitaminas y fibra. Comer variado con productos colombianos frescos protege del sobrepeso y de la desnutrición a la vez.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En un laboratorio escolar de Manizales, tres tubos con leche reciben distinto tratamiento: al tubo X no se le agrega nada, al tubo Y se le agrega jugo gástrico simulado, y al tubo Z se le agrega solo agua. Después de una hora, solo el tubo Y muestra cambios claros.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El agua es el mejor digestivo porque el tubo Z se ve igual que al inicio.",
           "is_correct": false,
           "feedback": "Incorrecta, porque no mostrar cambios indica que el agua no digirió la leche."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El jugo gástrico simulado produjo la digestión, y los tubos X y Z sirven como comparación que lo confirma.",
           "is_correct": true,
           "feedback": "Correcta, porque interpreta el control y el efecto del tratamiento ácido sobre las proteínas."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecta, porque en el estómago real las proteínas de la leche sí se digieren."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El estómago produce un líquido ácido que deshace las proteínas y activa su digestión. Los tubos sin ese líquido son controles: muestran cómo se vería la leche sin digestión. Comparar el tubo Y con los controles permite concluir que el cambio se debe al jugo gástrico y no al paso del tiempo.",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En Cartagena, un niño come muy rápido, casi sin masticar, toma poca agua y come poca fibra. Al día siguiente siente dolor de estómago y estreñimiento.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "No hay relación, porque masticar y la fibra nunca afectan la digestión de nadie.",
           "is_correct": false,
           "feedback": "Incorrecta, porque la masticación y la fibra sí facilitan el tránsito intestinal."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Comer sin masticar sobrecarga al estómago y la falta de fibra y agua endurece las heces y dificulta su salida.",
           "is_correct": true,
           "feedback": "Correcta, porque conecta cada hábito con su efecto digestivo correspondiente."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecta, porque la respiración no determina la consistencia de las heces."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Masticar bien reduce el tamaño del bolo y mezcla la saliva, lo que alivia el trabajo del estómago. La fibra de frutas, verduras y fríjol, junto con suficiente agua, ablanda las heces y ayuda al intestino grueso a moverlas. Comer despacio, tomar agua y incluir fibra previenen el dolor y el estreñimiento.",
       "difficulty": "8",
       "images": [],
@@ -341,25 +341,25 @@
           "feedback": "Incorrecta, porque el exceso de azúcar se asocia con caries, sobrepeso y bajones de energía."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La lonchera Y es mejor porque combina agua, energía, calcio, proteínas y vitaminas en porciones adecuadas.",
           "is_correct": true,
           "feedback": "Correcta, porque analiza el aporte equilibrado frente al exceso de azúcar y grasa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambas son idénticas porque todo lo que viene en paquete nutre exactamente igual.",
           "is_correct": false,
           "feedback": "Incorrecta, porque la composición de cada lonchera es muy distinta en nutrientes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ninguna sirve porque en el colegio está prohibido comer a cualquier hora.",
           "is_correct": false,
           "feedback": "Incorrecta, porque el refrigerio escolar es necesario y lo que importa es su calidad."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Analizar una lonchera es revisar sus grupos de alimentos: bebida, fruta, proteína y energía. La lonchera Y hidrata con agua y aporta nutrientes para huesos y músculos. La lonchera X concentra azúcar, sal y grasa, que en exceso enferman. Elegir bien el refrigerio diario marca la diferencia en el crecimiento.",
       "difficulty": "8",
       "images": [],
@@ -387,13 +387,13 @@
           "feedback": "Incorrecta, porque ningún suplemento reproduce la fibra y la variedad de una dieta real."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La campaña 1 es mejor porque crea un hábito diario saludable, y la campaña 2 falla porque mantiene el exceso de azúcar y grasa.",
           "is_correct": true,
           "feedback": "Correcta, porque evalúa el cambio de hábito sostenido frente al atajo sin efecto real."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La campaña 2 es mejor porque las pastillas eliminan la necesidad de tomar agua.",
           "is_correct": false,
           "feedback": "Incorrecta, porque el agua es insustituible para la digestión y la hidratación."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecta, porque cambiar la oferta de la tienda sí mejora lo que comen cada día."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Evaluar campañas es mirar su efecto duradero. Cambiar la tienda transforma decenas de decisiones cada semana y reduce azúcar de verdad. Repartir vitaminas sin cambiar la comida deja intacta la causa del problema. La mejor estrategia combina entorno saludable, educación y agua disponible siempre.",
       "difficulty": "10",
       "images": [],
@@ -433,13 +433,13 @@
           "feedback": "Incorrecta, porque en el estómago la digestión queda incompleta y la absorción principal falta."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Ambas son falsas porque el cuerpo fabrica alimentos solo con respirar aire puro.",
           "is_correct": false,
           "feedback": "Incorrecta, porque respirar aporta oxígeno pero no los nutrientes que vienen de la comida."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La primera es falsa y la segunda es verdadera, porque los nutrientes deben pasar a la sangre para alimentar cada célula.",
           "is_correct": true,
           "feedback": "Correcta, porque juzga cada afirmación con la función real de la absorción intestinal."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecta, porque dos afirmaciones opuestas no pueden ser verdaderas al mismo tiempo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Sin el intestino delgado, los alimentos pasarían sin entregar sus nutrientes y el cuerpo sufriría desnutrición aunque comiera mucho. La absorción lleva azúcares, aminoácidos, grasas pequeñas, vitaminas y minerales a la sangre, que los reparte a cada célula. Por eso cada órgano del tubo digestivo es necesario y ninguno sobra.",
       "difficulty": "10",
       "images": [],

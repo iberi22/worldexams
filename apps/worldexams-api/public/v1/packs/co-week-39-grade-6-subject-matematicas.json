@@ -13,19 +13,19 @@
       "context": "En los juegos intercolegiados de Bogotá se lanza una moneda honesta para decidir qué equipo empieza el partido.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "1/2",
           "is_correct": true,
           "feedback": "Es correcta porque la moneda tiene dos resultados igualmente probables: cara y sello."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1/3",
           "is_correct": false,
           "feedback": "Error conceptual: la moneda solo tiene dos resultados posibles, no tres."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1/4",
           "is_correct": false,
           "feedback": "Error conceptual: confunde el número de lanzamientos con el número de resultados posibles."
@@ -37,7 +37,7 @@
           "feedback": "Error conceptual: obtener cara no es seguro; también puede salir sello."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La probabilidad de un evento simple se escribe como la fracción entre casos favorables y casos posibles. En una moneda hay dos resultados posibles y solo uno es cara, por eso la probabilidad es 1/2.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "En el festival escolar de Medellín un estudiante lee en un cartel que la probabilidad de obtener cara con una moneda es 1/2.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Que al repetir muchos lanzamientos, cerca de la mitad serán cara",
           "is_correct": true,
           "feedback": "Es correcta porque la probabilidad describe la frecuencia esperada al repetir el experimento muchas veces."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que en el próximo lanzamiento saldrá cara con seguridad",
           "is_correct": false,
           "feedback": "Error conceptual: la probabilidad no garantiza el resultado de un solo lanzamiento."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que cara nunca puede salir",
           "is_correct": false,
           "feedback": "Error conceptual: 1/2 indica que cara sí puede salir, no que sea imposible."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que solo existe un resultado posible",
           "is_correct": false,
           "feedback": "Error conceptual: existen dos resultados y por eso la fracción no es 1/1."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Una probabilidad de 1/2 no predice un lanzamiento aislado, sino el comportamiento esperado tras muchas repeticiones. Cuanto mayor es el número de intentos, más se acerca la frecuencia de caras a la mitad de los lanzamientos.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En una caseta del festival escolar de Cali hay una ruleta dividida en 8 sectores iguales numerados del 1 al 8.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "1/2",
           "is_correct": true,
           "feedback": "Es correcta porque hay 4 números pares (2, 4, 6, 8) entre 8 sectores: 4/8 = 1/2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1/4",
           "is_correct": false,
           "feedback": "Error conceptual: subestima los casos favorables; hay cuatro números pares, no dos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "3/8",
           "is_correct": false,
           "feedback": "Error conceptual: cuenta mal los números pares de la ruleta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "1/8",
           "is_correct": false,
           "feedback": "Error conceptual: considera solo un sector favorable en lugar de los cuatro pares."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Los números pares de la ruleta son 2, 4, 6 y 8, es decir cuatro casos favorables de ocho posibles. La fracción 4/8 se simplifica a 1/2, que es la probabilidad de obtener un número par.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En un juego de mesa de los intercolegiados en Barranquilla se lanza un dado honesto de 6 caras numeradas del 1 al 6.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "1/3",
           "is_correct": true,
           "feedback": "Es correcta porque los casos favorables son 5 y 6: 2/6 = 1/3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "4/6",
           "is_correct": false,
           "feedback": "Error conceptual: confunde los números mayores que 4 con los menores que 4."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2/4",
           "is_correct": false,
           "feedback": "Error conceptual: usa cuatro resultados posibles cuando el dado tiene seis."
@@ -175,7 +175,7 @@
           "feedback": "Error conceptual: cuenta un solo caso favorable en lugar de los dos correctos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los números mayores que 4 en un dado son 5 y 6, que dan dos casos favorables de seis posibles. La probabilidad es 2/6, que al simplificar resulta 1/3.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En una rifa del festival escolar de Bucaramanga hay una bolsa con 3 balotas rojas, 5 azules y 2 verdes, todas del mismo tamaño.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "3/10",
           "is_correct": true,
           "feedback": "Es correcta porque hay 3 balotas rojas entre 10 balotas en total: 3/10."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3/7",
           "is_correct": false,
           "feedback": "Error conceptual: divide solo entre las balotas no rojas en lugar del total."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "5/10",
           "is_correct": false,
           "feedback": "Error conceptual: usa la cantidad de balotas azules y no la de rojas."
@@ -221,7 +221,7 @@
           "feedback": "Error conceptual: toma la cantidad de balotas verdes, no las rojas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El total de balotas es 3 + 5 + 2 = 10 y las favorables son las 3 rojas. Por eso la probabilidad de sacar una balota roja es 3/10, que ya está en su forma más simple.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "En un puesto del festival escolar de Pereira un jugador gana si saca un número par con un dado o si obtiene cara con una moneda.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Los dos eventos tienen la misma probabilidad",
           "is_correct": true,
           "feedback": "Es correcta porque par y cara valen 1/2 cada uno: 3/6 y 1/2 representan lo mismo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sacar número par es más probable que sacar cara",
           "is_correct": false,
           "feedback": "Error conceptual: 3/6 es igual a 1/2, así que no es más probable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sacar cara es más probable que sacar número par",
           "is_correct": false,
           "feedback": "Error conceptual: 1/2 es igual a 3/6; ninguna opción supera a la otra."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No se pueden comparar eventos de experimentos distintos",
           "is_correct": false,
           "feedback": "Error conceptual: dos probabilidades siempre se pueden comparar como fracciones."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Obtener número par tiene probabilidad 3/6 = 1/2 y obtener cara tiene probabilidad 1/2. Al comparar ambas fracciones se observa que son equivalentes, de modo que los dos eventos son igualmente probables.",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En el festival escolar de Ibagué una ruleta tiene 12 sectores iguales: 5 rojos, 3 azules y 4 verdes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es más probable caer en un sector que no sea rojo",
           "is_correct": true,
           "feedback": "Es correcta porque los no rojos son 7 de 12, mientras que los rojos son 5 de 12."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es más probable caer en un sector rojo",
           "is_correct": false,
           "feedback": "Error conceptual: 5/12 es menor que 7/12, así que el rojo es menos probable."
@@ -313,7 +313,7 @@
           "feedback": "Error conceptual: con los sectores contados ya se puede calcular la probabilidad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los sectores no rojos son los 3 azules más los 4 verdes, es decir 7 de 12. Como 7/12 es mayor que 5/12, es más probable caer en un sector que no sea rojo que en uno rojo.",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En la final de los juegos intercolegiados en Santa Marta se lanzan dos monedas honestas al mismo tiempo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "1/2",
           "is_correct": true,
           "feedback": "Es correcta porque los resultados son CC, CS, SC y SS; dos de ellos tienen exactamente una cara: 2/4 = 1/2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1/4",
           "is_correct": false,
           "feedback": "Error conceptual: cuenta solo el caso cara-sello y olvida sello-cara."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "3/4",
           "is_correct": false,
           "feedback": "Error conceptual: incluye el caso de dos caras, que no cumple la condición."
@@ -359,7 +359,7 @@
           "feedback": "Error conceptual: usa un total de tres resultados cuando en realidad hay cuatro."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Al lanzar dos monedas hay cuatro resultados igualmente probables: CC, CS, SC y SS. Dos de ellos (CS y SC) tienen exactamente una cara, así que la probabilidad es 2/4, que se simplifica a 1/2.",
       "difficulty": "8",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "En el festival escolar de Villavicencio un estudiante afirma: \"Como un dado tiene 6 números, la probabilidad de sacar un número par es mayor que la de sacar un número impar\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "No, porque hay 3 números pares y 3 impares, así que ambas probabilidades son iguales",
           "is_correct": true,
           "feedback": "Es correcta porque los pares (2, 4, 6) y los impares (1, 3, 5) son tres casos cada uno: 3/6 en ambos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sí, porque hay más números pares que impares",
           "is_correct": false,
           "feedback": "Error conceptual: en un dado del 1 al 6 hay la misma cantidad de pares e impares."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sí, porque el 6 es un número par especial",
           "is_correct": false,
           "feedback": "Error conceptual: que exista un 6 par no altera el conteo total de pares e impares."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No, porque no se puede calcular la probabilidad de un dado",
           "is_correct": false,
           "feedback": "Error conceptual: la probabilidad de un dado honesto sí se calcula contando sus caras."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En un dado del 1 al 6 los números pares son 2, 4 y 6, y los impares son 1, 3 y 5. Como hay tres casos favorables para cada evento sobre seis posibles, las probabilidades son iguales y valen 1/2.",
       "difficulty": "10",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "En la feria escolar de Neiva un estudiante quiere estimar la probabilidad de que una ruleta se detenga en rojo, pero no conoce cuántos sectores de cada color tiene.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Girar la ruleta muchas veces y comparar cuántas veces cae en rojo con el total de giros",
           "is_correct": true,
           "feedback": "Es correcta porque repetir el experimento permite estimar la probabilidad a partir de la frecuencia observada."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Girar la ruleta una sola vez y anotar el color que sale",
           "is_correct": false,
           "feedback": "Error conceptual: un solo giro no representa el comportamiento del azar."
@@ -451,7 +451,7 @@
           "feedback": "Error conceptual: sin conocer el total de sectores no se puede completar el cálculo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Cuando no se conocen los casos posibles, se estima la probabilidad repitiendo el experimento muchas veces y comparando la frecuencia del evento favorable con el total de ensayos. Cuantos más giros se realizan, más confiable es la estimación obtenida.",
       "difficulty": "10",
       "images": [],

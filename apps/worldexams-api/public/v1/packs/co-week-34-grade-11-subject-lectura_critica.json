@@ -13,19 +13,19 @@
       "context": "En una función del Teatro Colón en Bogotá, los estudiantes ven una obra de José María Arguedas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La exploración de la identidad nacional, el conflicto social y la diversidad regional.",
           "is_correct": true,
           "feedback": "El teatro colombiano refleja la realidad pluricultural del país."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La evasión total de temas sociales.",
           "is_correct": false,
           "feedback": "Por el contrario, los aborda."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El uso exclusivo del dialecto costeño.",
           "is_correct": false,
           "feedback": "Integra diversas variantes lingüísticas."
@@ -37,7 +37,7 @@
           "feedback": "La crítica política ha sido frecuente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El teatro colombiano se nutre de la diversidad cultural y de los debates sociales.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "En clase en Medellín, se recuerdan obras de Gonzalo Buenaventura.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Texto dramático, personajes, diálogos, acotaciones y montaje escénico.",
           "is_correct": true,
           "feedback": "Todos estos elementos son constitutivos del texto dramático."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Solo narración y descripción.",
           "is_correct": false,
           "feedback": "También hay diálogo y acción."
@@ -83,7 +83,7 @@
           "feedback": "No toda obra es musical."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El texto dramático incluye diálogos, acotaciones y se completa en escena con la puesta en escena.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En un taller en Cali, se analizan las acotaciones de una obra.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Indicar gestos, movimientos, tono, escenografía y sonidos sugeridos por el autor.",
           "is_correct": true,
           "feedback": "Orientan la puesta en escena."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sustituir los diálogos.",
           "is_correct": false,
           "feedback": "Los complementan."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cambiar el argumento principal.",
           "is_correct": false,
           "feedback": "Las acotaciones no modifican la trama central."
@@ -129,7 +129,7 @@
           "feedback": "Pueden reforzarlo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las acotaciones son instrucciones del autor para la representación escénica.",
       "difficulty": "4",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "En clase en Armenia, se diferencia entre acto y escena.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El acto es una unidad estructural mayor; la escena es una subdivisión del acto.",
           "is_correct": true,
           "feedback": "Los actos marcan cambios importantes; las escenas cambios menores."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "No existen diferencias.",
           "is_correct": false,
           "feedback": "Son unidades distintas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La escena es más larga que el acto.",
           "is_correct": false,
           "feedback": "La jerarquía es inversa."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El acto es solo musical.",
           "is_correct": false,
           "feedback": "Puede incluir diálogos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La estructura clásica suele dividirse en tres actos con escenas interiores.",
       "difficulty": "6",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "En un taller en Santa Marta, se analizan diálogos de una obra de Enrique Buenaventura.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El flashback o retrospectiva mediante diálogo.",
           "is_correct": true,
           "feedback": "Es un recurso habitual en el teatro."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Eliminar toda referencia al pasado.",
           "is_correct": false,
           "feedback": "El pasado es esencial para la psicología del personaje."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cambiar el título de la obra.",
           "is_correct": false,
           "feedback": "No modifica la historia."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Sustituir el conflicto.",
           "is_correct": false,
           "feedback": "Confunde la trama."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El flashback permite profundizar en la motivación de los personajes.",
       "difficulty": "6",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En clase en Ibagué, se comparan géneros dramáticos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La tragedia termina en derrota; la comedia busca el humor y обычно termina en reconciliación.",
           "is_correct": true,
           "feedback": "La distinción clásica se basa en el desenlace."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La comedia es siempre dramática.",
           "is_correct": false,
           "feedback": "Busca generar risa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No existen diferencias históricas.",
           "is_correct": false,
           "feedback": "Son categorías distintas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La tragedia evita la emoción.",
           "is_correct": false,
           "feedback": "La provoca intensamente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aristóteles distinguió tragedia y comedia según el efecto emocional buscado.",
       "difficulty": "6",
       "images": [],
@@ -387,13 +387,13 @@
           "feedback": "No encarna la crítica al poder."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El dictador o el caudillo.",
           "is_correct": true,
           "feedback": "Encarna la tiranía y la corrupción."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El sirviente cómico.",
           "is_correct": false,
           "feedback": "Genera humor, no crítica política."
@@ -405,7 +405,7 @@
           "feedback": "Representa el sacrificio familiar."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El arquetipo del caudillo es recurrente en dramaturgos que reflexionan sobre la historia colombiana.",
       "difficulty": "6",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "En Tunja, se prepara una lectura dramática.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Variar el tono, la intensidad y el ritmo según las acotaciones y emociones.",
           "is_correct": true,
           "feedback": "La lectura dramática interpreta al personaje."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Leer monótonamente.",
           "is_correct": false,
           "feedback": "Pierde expresividad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ignorar las acotaciones.",
           "is_correct": false,
           "feedback": "Las acotaciones guían la lectura."
@@ -451,7 +451,7 @@
           "feedback": "El texto es fijo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La lectura en voz alta exige atención a pausas, énfasis y matices interpretativos.",
       "difficulty": "6",
       "images": [],
@@ -479,13 +479,13 @@
           "feedback": "Se aleja del realismo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Permite expresar la falta de sentido y la alienación del individuo moderno.",
           "is_correct": true,
           "feedback": "Conecta con problemáticas urbanas y sociales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Defiende la lógica racional.",
           "is_correct": false,
           "feedback": "Cuestiona la racionalidad."
@@ -497,7 +497,7 @@
           "feedback": "Rechaza la moraleja explícita."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Autores como Ionesco inspiran a creadores colombianos para explorar lo absurdo cotidiano.",
       "difficulty": "8",
       "images": [],
@@ -565,13 +565,13 @@
       "context": "En Pereira, se debate sobre la identidad cultural en el teatro.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Reconstruye memorias colectivas y visibiliza tradiciones regionales.",
           "is_correct": true,
           "feedback": "El teatro es memoria y diálogo cultural."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Copia modelos europeos sin crítica.",
           "is_correct": false,
           "feedback": "Dialoga críticamente con ellos."
@@ -589,7 +589,7 @@
           "feedback": "La reconoce y celebra."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El teatro colombiano es una herramienta para la memoria y la interculturalidad.",
       "difficulty": "8",
       "images": [],
@@ -611,19 +611,19 @@
       "context": "En clase en Bogotá, se estudian las técnicas de puesta en escena.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Teatro participativo o interactivo.",
           "is_correct": true,
           "feedback": "El público se vuelve parte del espectáculo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Teatro de butaca exclusivamente.",
           "is_correct": false,
           "feedback": "Separa actores y público."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Teatro leído sin representación.",
           "is_correct": false,
           "feedback": "No incluye interacción."
@@ -635,7 +635,7 @@
           "feedback": "No implica participación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El teatro participativo amplía la experiencia estética y social del espectador.",
       "difficulty": "8",
       "images": [],
@@ -703,13 +703,13 @@
       "context": "En clase en Medellín, se discuten los retos del teatro independiente.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La falta de espacios, financiamiento y políticas culturales sostenidas.",
           "is_correct": true,
           "feedback": "El sector enfrenta limitaciones estructurales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El exceso de apoyo estatal.",
           "is_correct": false,
           "feedback": "Generalmente el apoyo es limitado."
@@ -727,7 +727,7 @@
           "feedback": "Existe pluralidad estética."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El teatro independiente requiere políticas públicas que promuevan la diversidad escénica.",
       "difficulty": "8",
       "images": [],
@@ -841,13 +841,13 @@
       "context": "En una evaluación en Armenia, se critica una puesta en escena.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La cantidad de actores.",
           "is_correct": false,
           "feedback": "No define la calidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La coherencia entre texto, actuación, dirección y propuesta escénica.",
           "is_correct": true,
           "feedback": "Evalúa la totalidad artística."
@@ -865,7 +865,7 @@
           "feedback": "No es criterio principal."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La evaluación teatral integra componentes artísticos y técnicos.",
       "difficulty": "10",
       "images": [],

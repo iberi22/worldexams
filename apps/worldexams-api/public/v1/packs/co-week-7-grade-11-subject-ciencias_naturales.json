@@ -13,19 +13,19 @@
       "context": "Un patinador sobre hielo en Bogotá gira sobre su propio eje vertical y encoje sus brazos hacia el pecho.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Conservación de la cantidad de movimiento angular ($L$).",
           "is_correct": true,
           "feedback": "Correcto. Al reducir el momento de inercia ($I$) al acercar los brazos, la velocidad angular ($\\omega$) aumenta para mantener $L = I \\omega$ constante."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Conservación de la masa en sistemas cerrados.",
           "is_correct": false,
           "feedback": "Incorrecto. La masa permanece invariable pero no explica el incremento de velocidad angular."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Conservación de la carga eléctrica estática.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un fenómeno mecánico, no electromagnético."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. El volumen corporal no influye en la dinámica de rotación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En ausencia de torcas externas netas ($\\sum \\tau_{ext} = 0$), el momento angular del sistema se conserva ($L = I \\omega = \\text{constante}$). Al encoger los brazos disminuye la inercia rotacional $I$, forzando un incremento en la velocidad angular $\\omega$.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "Se deja caer una esfera de acero desde la cúspide de una torre en Tunja en presencia de resistencia del aire.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque la fuerza de resistencia del aire realiza un trabajo no conservativo que disipa energía en forma de calor.",
           "is_correct": true,
           "feedback": "Correcto. La fricción con el aire es una fuerza no conservativa que convierte energía mecánica en energía térmica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque la fuerza de la gravedad destruye la energía cinética del objeto.",
           "is_correct": false,
           "feedback": "Incorrecto. La gravedad es una fuerza conservativa que transforma energía potencial en cinética."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Los efectos relativistas no son significativos a bajas velocidades."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El Teorema Trabajo-Energía para fuerzas no conservativas establece que $W_{nc} = \\Delta E_{mecanica}$. La resistencia del aire realiza trabajo negativo, provocando una disminución de la energía mecánica total disipada como calor.",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En el laboratorio de física de la Universidad del Valle en Cali, se analiza el comportamiento de un choque perfectamente elástico entre dos bolas de billar idénticas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La cantidad de movimiento lineal total ($\\vec{p}$) y la energía cinética total ($E_k$).",
           "is_correct": true,
           "feedback": "Correcto. En choques elásticos se conservan tanto la cantidad de movimiento lineal como la energía cinética total."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Únicamente la energía cinética total ($E_k$).",
           "is_correct": false,
           "feedback": "Incorrecto. El momento lineal siempre se conserva en sistemas aislados sin fuerzas externas."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Las fuerzas son transitorias e internas, no magnitudes de conservación global del sistema."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por definición, una colisión elástica en un sistema aislado es aquella en la que se conservan tanto la cantidad de movimiento lineal total ($\\sum \\vec{p}_i = \\sum \\vec{p}_f$) como la energía cinética total del sistema ($\\sum E_{ki} = \\sum E_{kf}$).",
       "difficulty": "4",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "Un carro de montaña rusa de $200\\text{ kg}$ parte del reposo desde una altura $h_A = 20\\text{ m}$ sobre el piso en un parque de atracciones de Bogotá. Se desprecia la fricción. Considere $g = 10\\text{ m/s}^2$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$17.32\\text{ m/s}$ ($\\sqrt{300}\\text{ m/s}$)",
           "is_correct": true,
           "feedback": "Correcto. Conservación de energía: $m g h_A = m g h_B + \\frac{1}{2}m v_B^2 \\implies g(h_A - h_B) = \\frac{1}{2} v_B^2 \\implies v_B = \\sqrt{2 g (20 - 5)} = \\sqrt{2(10)(15)} = \\sqrt{300} \\approx 17.32\\text{ m/s}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$20.00\\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a la velocidad al llegar al piso ($h=0$)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$10.00\\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Cálculo erróneo usando solo la diferencia de altura sin multiplicar por 2."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Corresponde al cálculo evaluado únicamente a $10\\text{ m}$ de caída."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por conservación de la energía mecánica total en ausencia de fricción: $E_A = E_B \\implies m g h_A = m g h_B + \\frac{1}{2} m v_B^2 \\implies v_B = \\sqrt{2 g (h_A - h_B)} = \\sqrt{2(10)(15)} = \\sqrt{300} \\approx 17.32\\text{ m/s}$.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "Un disco macizo de $4\\text{ kg}$ y radio $0.5\\text{ m}$ gira alrededor de su eje central a una velocidad angular de $10\\text{ rad/s}$ en Medellín. El momento de inercia del disco es $I = \\frac{1}{2} m R^2$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$25\\text{ Joules}$",
           "is_correct": true,
           "feedback": "Correcto. $I = \\frac{1}{2}(4)(0.5^2) = 2(0.25) = 0.5\\text{ kg}\\cdot\\text{m}^2$. $E_{k,rot} = \\frac{1}{2} I \\omega^2 = \\frac{1}{2}(0.5)(10^2) = 0.25 \\times 100 = 25\\text{ J}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$50\\text{ Joules}$",
           "is_correct": false,
           "feedback": "Incorrecto. Ocurre si se olvida dividir entre 2 la fórmula de la energía cinética rotacional."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$100\\text{ Joules}$",
           "is_correct": false,
           "feedback": "Incorrecto. Ocurre si se olvida el factor de la masa o el radio."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. División adicional por 2 sin justificación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "1) Momento de inercia del disco: $I = \\frac{1}{2} m R^2 = \\frac{1}{2}(4)(0.25) = 0.5\\text{ kg}\\cdot\\text{m}^2$.\n2) Energía cinética de rotación: $E_{k,rot} = \\frac{1}{2} I \\omega^2 = \\frac{1}{2}(0.5)(10)^2 = 25\\text{ J}$.",
       "difficulty": "6",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "Una bola de $1\\text{ kg}$ se mueve a $8\\text{ m/s}$ y choca frontalmente contra un resorte de constante $k = 400\\text{ N/m}$ montado horizontalmente en Neiva.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$0.4\\text{ metros}$",
           "is_correct": true,
           "feedback": "Correcto. Conservación de energía: $\\frac{1}{2}m v^2 = \\frac{1}{2}k x^2 \\implies x = v \\sqrt{\\frac{m}{k}} = 8 \\sqrt{\\frac{1}{400}} = 8 \\times \\frac{1}{20} = \\frac{8}{20} = 0.4\\text{ m}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$0.2\\text{ metros}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió la velocidad de la bola en la raíz."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$0.8\\text{ metros}$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicación errónea de la constante por 2."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Error en la simplificación de la fracción."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Toda la energía cinética de la masa se transforma en energía potencial elástica del resorte en el punto de máxima compresión: $\\frac{1}{2} m v^2 = \\frac{1}{2} k x^2 \\implies x = v \\sqrt{\\frac{m}{k}} = 8 \\sqrt{\\frac{1}{400}} = \\frac{8}{20} = 0.4\\text{ m}$.",
       "difficulty": "6",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "Un péndulo simple de longitud $L = 1\\text{ m}$ oscila en la ciudad de Manizales. Considere $g = 10\\text{ m/s}^2$ y $pi \\approx 3.14$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$1.98\\text{ segundos}$ (aproximadamente $2\\text{ s}$)",
           "is_correct": true,
           "feedback": "Correcto. $T = 2\\pi \\sqrt{\\frac{L}{g}} = 2(3.14) \\sqrt{\\frac{1}{10}} = 6.28 \\times 0.316 = 1.98\\text{ s} \\approx 2.0\\text{ s}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$6.28\\text{ segundos}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió la raíz cuadrada de la fracción $L/g$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$0.31\\text{ segundos}$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde solo a la raíz cuadrada de $1/10$ sin multiplicar por $2pi$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$3.14\\text{ segundos}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se dividió $2pi$ entre 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El período de un péndulo simple para pequeñas amplitudes viene dado por $T = 2\\pi \\sqrt{\\frac{L}{g}}$. Sustituyendo $L = 1\\text{ m}$ y $g = 10\\text{ m/s}^2$: $T = 2 \\pi \\sqrt{0.1} \\approx 6.28 \\times 0.316 \\approx 1.98\\text{ s}$.",
       "difficulty": "6",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "Dos esferas idénticas en masa y radio, una maciza y otra hueca (cascarón esférico), se sueltan simultáneamente desde el reposo desde la cima de un plano inclinado rugoso en Pasto y rueda sin deslizar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La esfera maciza, porque posee un menor momento de inercia y convierte una menor fracción de su energía en rotación.",
           "is_correct": true,
           "feedback": "Correcto. $I_{maciza} = \\frac{2}{5}mR^2 < I_{hueca} = \\frac{2}{3}mR^2$. Al requerir menos energía rotacional, la esfera maciza alcanza mayor aceleración traslacional."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La esfera hueca, porque su masa está distribuida en el borde ejerciendo mayor peso.",
           "is_correct": false,
           "feedback": "Incorrecto. Una mayor inercia rotacional disminuye la aceleración traslacional."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. La fricción estática no realiza trabajo disipativo pero determina la rotación pura."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para un cuerpo que rueda sin deslizar, $a = \\frac{g \\sin\\theta}{1 + \\frac{I}{m R^2}}$. Como $I_{maciza} = 0.4 m R^2$ es menor que $I_{hueca} = 0.67 m R^2$, el denominador es menor para la esfera maciza, dándole una mayor aceleración lineal $a$ y haciéndola llegar primero.",
       "difficulty": "8",
       "images": [],
@@ -611,13 +611,13 @@
       "context": "Un volante de inercia cilíndrico de $I = 2\\text{ kg}\\cdot\\text{m}^2$ gira a $30\\text{ rad/s}$ en un taller en Ibagué. Se le aplica una torca de frenado constante $\\tau = -6\\text{ N}\\cdot\\text{m}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$10\\text{ segundos}$",
           "is_correct": true,
           "feedback": "Correcto. Aceleración angular $\\alpha = \\frac{\\tau}{I} = \\frac{-6}{2} = -3\\text{ rad/s}^2$. Tiempo $\\Delta t = \\frac{\\omega_f - \\omega_i}{alpha} = \\frac{0 - 30}{-3} = 10\\text{ s}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$5\\text{ segundos}$",
           "is_correct": false,
           "feedback": "Incorrecto. División errónea de la velocidad entre la torca directamente."
@@ -635,7 +635,7 @@
           "feedback": "Incorrecto. Sobredimensionamiento del tiempo de desaceleración."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "1) Aceleración angular: $\\alpha = \\frac{\\sum \\tau}{I} = \\frac{-6\\text{ N}\\cdot\\text{m}}{2\\text{ kg}\\cdot\\text{m}^2} = -3\\text{ rad/s}^2$.\n2) Cinemática rotacional: $\\omega(t) = \\omega_0 + \\alpha t \\implies 0 = 30 - 3 t \\implies t = \\frac{30}{3} = 10\\text{ s}$.",
       "difficulty": "8",
       "images": [],
@@ -657,31 +657,31 @@
       "context": "Una masa $m$ realiza un movimiento armónico simple (MAS) de amplitud $A$ y frecuencia angular $\\omega$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = \\pm \\frac{A}{\\sqrt{2}} \\approx \\pm 0.707 A$",
           "is_correct": true,
           "feedback": "Correcto. $E_p = \\frac{1}{2} k x^2 = \\frac{1}{2} E_{total} = \\frac{1}{4} k A^2 \\implies x^2 = \\frac{A^2}{2} \\implies x = \\pm \\frac{A}{\\sqrt{2}}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = \\pm \\frac{A}{2}$",
           "is_correct": false,
           "feedback": "Incorrecto. En $x = A/2$, la energía potencial es solo el $25%$ de la total."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 0$",
           "is_correct": false,
           "feedback": "Incorrecto. En el centro de equilibrio la energía potencial es cero y la cinética es máxima."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = \\pm A$",
           "is_correct": false,
           "feedback": "Incorrecto. En los extremos la energía cinética es cero."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La energía total es $E = \\frac{1}{2} k A^2$. Si $E_k = E_p$, entonces $E_p = \\frac{1}{2} E \\implies \\frac{1}{2} k x^2 = \\frac{1}{2} \\left(\\frac{1}{2} k A^2\\right) \\implies x^2 = \\frac{A^2}{2} \\implies x = \\pm \\frac{A}{\\sqrt{2}}$.",
       "difficulty": "8",
       "images": [],
@@ -703,19 +703,19 @@
       "context": "Un cilindro macizo uniforme de masa $M$ y radio $R$ rueda sin deslizar colina abajo por una rampa inclinada un ángulo $\\theta$ en Armenia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$a = \\frac{2}{3} g \\sin\\theta$",
           "is_correct": true,
           "feedback": "Correcto. $a = \\frac{g \\sin\\theta}{1 + I/(M R^2)} = \\frac{g \\sin\\theta}{1 + 1/2} = \\frac{g \\sin\\theta}{3/2} = \\frac{2}{3} g \\sin\\theta$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a = g \\sin\\theta$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a la aceleración de un bloque deslizante sin fricción."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$a = \\frac{1}{2} g \\sin\\theta$",
           "is_correct": false,
           "feedback": "Incorrecto. Subestimación de la componente de aceleración traslacional."
@@ -727,7 +727,7 @@
           "feedback": "Incorrecto. Aceleración correspondiente a una esfera maciza."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Fuerzas en el cilindro que rueda: $M g \\sin\\theta - f_s = M a$ y $\\tau = f_s R = I \\alpha = \\left(\\frac{1}{2} M R^2\\right)\\left(\\frac{a}{R}\\right) \\implies f_s = \\frac{1}{2} M a$. Sustituyendo: $M g \\sin\\theta - \\frac{1}{2} M a = M a \\implies M g \\sin\\theta = \\frac{3}{2} M a \\implies a = \\frac{2}{3} g \\sin\\theta$.",
       "difficulty": "8",
       "images": [],
@@ -749,13 +749,13 @@
       "context": "Se estudia el movimiento orbital de un planeta de masa $m$ en una órbita elíptica de gran excentricidad alrededor del Sol (masa $M$). Sean $r_p$ la distancia en el perihelio (punto más cercano) y $r_a$ la distancia en el afelio (punto más lejano).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$v_a = v_p \\left(\\frac{r_p}{r_a}\\right)$",
           "is_correct": true,
           "feedback": "Correcto. Por conservación del momento angular en campos centrales: $L = m r_p v_p = m r_a v_a \\implies v_a = v_p \\left(\\frac{r_p}{r_a}\\right)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$v_a = v_p \\left(\\frac{r_a}{r_p}\\right)$",
           "is_correct": false,
           "feedback": "Incorrecto. Implicaría mayor velocidad en el punto más distante."
@@ -773,7 +773,7 @@
           "feedback": "Incorrecto. Válido únicamente en órbitas perfectamente circulares."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Como la fuerza gravitacional es central, la torca neta sobre el planeta respecto al Sol es cero, por lo que el momento angular se conserva ($L = \\vec{r} \\times \\vec{p} = \\text{constante}$). En el perihelio y afelio el vector posición y velocidad son perpendiculares: $m r_p v_p = m r_a v_a \\implies v_a = v_p \\left(\\frac{r_p}{r_a}\\right)$.",
       "difficulty": "10",
       "images": [],
@@ -795,31 +795,31 @@
       "context": "Un péndulo físico consta de una varilla delgada uniforme de masa $M$ y longitud $L$ pivotada libremente por uno de sus extremos en el laboratorio de la Universidad Nacional en Bogotá. (Dato: $I_{extremo} = \\frac{1}{3} M L^2$).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\omega = \\sqrt{\\frac{3 g}{2 L}}$",
           "is_correct": true,
           "feedback": "Correcto. Para un péndulo físico $\\omega = \\sqrt{\\frac{M g d}{I}}$. El centro de masa está en $d = L/2$. $\\omega = \\sqrt{\\frac{M g (L/2)}{(1/3) M L^2}} = \\sqrt{\\frac{3 g}{2 L}}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\omega = \\sqrt{\\frac{g}{L}}$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a un péndulo simple con toda la masa concentrada en el extremo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\omega = \\sqrt{\\frac{2 g}{3 L}}$",
           "is_correct": false,
           "feedback": "Incorrecto. Inversión del factor numérico."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\omega = \\sqrt{\\frac{3 g}{L}}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió la distancia al centro de masa $L/2$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La ecuación para pequeñas oscilaciones de un péndulo físico es $\\omega = \\sqrt{\\frac{M g d}{I_{pivot}}}$. La distancia del pivote al centro de masa de la varilla es $d = \\frac{L}{2}$. Sustituyendo $I = \\frac{1}{3} M L^2$: $\\omega = \\sqrt{\\frac{M g (L/2)}{(1/3) M L^2}} = \\sqrt{\\frac{3 g}{2 L}}$.",
       "difficulty": "10",
       "images": [],
@@ -887,31 +887,31 @@
       "context": "Un cilindro macizo de masa $m$ y radio $R$ rueda sin deslizar sobre una superficie horizontal con velocidad $v_0$ y asciende por un plano inclinado de ángulo $\\theta$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$h_{max} = \\frac{3 v_0^2}{4 g}$",
           "is_correct": true,
           "feedback": "Correcto. Energía inicial $E_i = \\frac{1}{2}m v_0^2 + \\frac{1}{2}I \\omega^2 = \\frac{1}{2}m v_0^2 + \\frac{1}{4}m v_0^2 = \\frac{3}{4}m v_0^2$. Igualando a la energía potencial final $m g h_{max} = \\frac{3}{4}m v_0^2 \\implies h_{max} = \\frac{3 v_0^2}{4 g}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$h_{max} = \\frac{v_0^2}{2 g}$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a un bloque deslizante sin rotación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$h_{max} = \\frac{v_0^2}{g}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sobreestimación de la energía mecánica total."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$h_{max} = \\frac{7 v_0^2}{10 g}$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a la altura alcanzada por una esfera maciza."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Energía mecánica inicial del cilindro rodante:\n$E_{total} = E_{k,trans} + E_{k,rot} = \\frac{1}{2}m v_0^2 + \\frac{1}{2}\\left(\\frac{1}{2}m R^2\\right)\\left(\\frac{v_0}{R}\\right)^2 = \\frac{3}{4} m v_0^2$.\nAl detenerse en el punto más alto, toda esta energía se convierte en potencial gravitacional:\n$m g h_{max} = \\frac{3}{4} m v_0^2 \\implies h_{max} = \\frac{3 v_0^2}{4 g}$.",
       "difficulty": "10",
       "images": [],

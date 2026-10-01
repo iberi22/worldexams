@@ -59,13 +59,13 @@
       "context": "En un colegio de Medellín se quiere medir el patio rectangular para pedir el material de una nueva cerca perimetral.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La suma de las longitudes de todos sus lados",
           "is_correct": true,
           "feedback": "Correcto. El perímetro es la suma de los lados de la figura."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El espacio o superficie encerrada por la figura",
           "is_correct": false,
           "feedback": "Incorrecto. Eso corresponde al área, no al perímetro."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. La diagonal es solo una medida interna, no el perímetro completo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El perímetro es la suma de las longitudes de los lados. El área mide la superficie. Son conceptos distintos que no deben confundirse.",
       "difficulty": "4",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "Una cancha de fútbol de un colegio en Bucaramanga mide $60\\text{ m}$ de largo por $30\\text{ m}$ de ancho y será cubierta con césped sintético.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$1.800\\text{ m}^2$",
           "is_correct": true,
           "feedback": "Correcto. Área $= 60 \\times 30 = 1.800$ m²."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$1.500\\text{ m}^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Probablemente calculaste $50 \\times 30$ o algo similar."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$1.200\\text{ m}^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Subestimaste el largo de la cancha."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$90\\text{ m}^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste largo y ancho sin sumarlos, distorsionando el cálculo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El área de un rectángulo se obtiene multiplicando la base por la altura.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En un parque de Manizales se construye una glorieta triangular con base de $12\\text{ m}$ y altura de $5\\text{ m}$ para sembrar flores.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$30\\text{ m}^2$",
           "is_correct": true,
           "feedback": "Correcto. Área $= \\frac{b \\cdot h}{2} = \\frac{12 \\cdot 5}{2} = 30$ m²."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$60\\text{ m}^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste dividir entre 2 el producto de base por altura."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$17\\text{ m}^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Probablemente calculaste el perímetro dividido entre algo."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Multiplicaste base por altura sin dividir entre 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El área del triángulo es la mitad del producto entre la base y la altura correspondiente.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "Un terreno en forma de L en Cartagena se compone de un rectángulo de $10\\text{ m} \\times 15\\text{ m}$ y otro de $5\\text{ m} \\times 5\\text{ m}$ pegados por un lado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$175\\text{ m}^2$",
           "is_correct": true,
           "feedback": "Correcto. $10 \\times 15 + 5 \\times 5 = 150 + 25 = 175$ m²."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$200\\text{ m}^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste dimensiones mixtas en lugar de multiplicar área por área."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$150\\text{ m}^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Solo consideraste el rectángulo grande y olvidaste el pequeño."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Restaste el cuadrado pequeño en vez de sumarlo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para figuras compuestas se descompone en rectángulos o triángulos conocidos, se calcula cada área y se suman.",
       "difficulty": "8",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "Un parqueadero rectangular de un centro comercial en Medellín mide $30\\text{ m}$ de largo por $20\\text{ m}$ de ancho y se va a cercar solo el perímetro. Hay dos opciones: Cerca A a $\\$4.500$ COP por metro y Cerca B a $\\$9.500$ COP por metro. El presupuesto máximo es $\\$850.000$ COP.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Solo la Cerca A, con un costo total de $\\$450.000$ COP",
           "is_correct": true,
           "feedback": "Correcto. Perímetro $2(30+20)=100\\text{ m}$; Cerca A: $100 \\times 4.500 = 450.000$; Cerca B: $100 \\times 9.500 = 950.000$ (excede)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Solo la Cerca B, con un costo total de $\\$950.000$ COP",
           "is_correct": false,
           "feedback": "Incorrecto. La Cerca B supera el presupuesto de $\\$850.000$ COP."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cualquiera de las dos opciones cabe en el presupuesto",
           "is_correct": false,
           "feedback": "Incorrecto. Solo la opción más económica cabe dentro del límite."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. Con las dimensiones y precio por metro ya puedes calcular."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para tomar decisiones de costo se calcula primero el perímetro y luego se multiplica por el precio unitario, comparando con el presupuesto disponible.",
       "difficulty": "10",
       "images": [],

@@ -19,13 +19,13 @@
           "feedback": "La linea recta representa a las funciones lineales o afines."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Parabola",
           "is_correct": true,
           "feedback": "¡Correcto! La grafica de toda funcion cuadratica es una curva simetrica llamada parabola."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Hipérbola",
           "is_correct": false,
           "feedback": "Las hiperbolas representan funciones de proporcionalidad inversa."
@@ -37,7 +37,7 @@
           "feedback": "La circunferencia no es la grafica de una funcion, ya que a un valor de x le pueden corresponder dos de y."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La funcion cuadratica $f(x) = ax^2 + bx + c$ genera una curva caracteristica en el plano cartesiano denominada parabola. Esta curva tiene propiedades geometricas unicas, como un eje de simetria y un punto extremo llamado vertice.",
       "difficulty": "4",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "Un profesor en Bata explica como la orientacion de la parabola depende del coeficiente principal $a$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Hacia arriba (convexa)",
           "is_correct": true,
           "feedback": "¡Correcto! Si a es positivo, la parabola tiene forma de \"U\" y presenta un minimo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Hacia abajo (concava)",
           "is_correct": false,
           "feedback": "Esto ocurre si el coeficiente 'a' es negativo."
@@ -82,7 +82,7 @@
           "feedback": "Esto solo ocurriria si el coeficiente 'a' y 'b' fueran cero."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El signo del coeficiente principal $a$ determina la concavidad de la parabola. Si $a > 0$, las ramas suben y el vertice es el punto mas bajo (minimo). Si $a < 0$, las ramas bajan y el vertice es el punto mas alto (maximo).",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Un arquitecto en Mongomo utiliza la funcion $f(x) = x^2 + 7$ para diseñar la base de una estructura.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(7, 0)$",
           "is_correct": false,
           "feedback": "Este seria un punto sobre el eje X."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(0, 7)$",
           "is_correct": true,
           "feedback": "¡Correcto! Al evaluar f(0) obtenemos 7. El termino independiente 'c' indica el corte con Y."
@@ -172,7 +172,7 @@
           "feedback": "Todas las funciones cuadraticas cortan al eje Y en algun punto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El corte con el eje vertical (Y) siempre se encuentra en el punto $(0, c)$, donde $c$ es el termino independiente de la funcion en su forma polinomica.",
       "difficulty": "4",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Un estudiante en Annobon grafica la funcion $f(x) = (x - 3)^2 + 2$, que esta en forma canonica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(-3, 2)$",
           "is_correct": false,
           "feedback": "En la forma canonica $(x-h)^2 + k$, el valor de h tiene el signo cambiado."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(3, 2)$",
           "is_correct": true,
           "feedback": "¡Correcto! El vertice se lee directamente como (3, 2)."
@@ -262,7 +262,7 @@
           "feedback": "La parabola ha sido desplazada tanto horizontal como verticalmente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La forma canonica $f(x) = a(x - h)^2 + k$ es muy util porque permite identificar el vertice de la parabola de manera inmediata, sin necesidad de realizar calculos adicionales con los coeficientes.",
       "difficulty": "6",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "Un proyectil en Guinea Ecuatorial sigue la funcion de altura $h(t) = -t^2 + 4t$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$t = 0$",
           "is_correct": false,
           "feedback": "Este es el momento del lanzamiento."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$t = 2$",
           "is_correct": true,
           "feedback": "¡Correcto! El vertice esta en $t = -4 / (2 \\cdot -1) = 2$."
@@ -307,7 +307,7 @@
           "feedback": "A este tiempo aun sigue subiendo hacia el maximo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Para hallar el momento de la altura maxima en una trayectoria parabolica, buscamos la coordenada $x$ (o $t$) del vertice de la funcion. Como el coeficiente $a$ es negativo ($-1$), sabemos que el vertice representa un maximo.",
       "difficulty": "6",
       "images": [],
@@ -379,13 +379,13 @@
           "feedback": "El discriminante es negativo ($4 - 20 = -16$)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Tiene una unica raiz real.",
           "is_correct": false,
           "feedback": "El discriminante no es cero."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No tiene raices reales.",
           "is_correct": true,
           "feedback": "¡Correcto! Al ser el discriminante negativo, la parabola no toca el eje X."
@@ -397,7 +397,7 @@
           "feedback": "Como c=5, el corte con Y es en (0,5), no en el origen."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El discriminante $\\Delta = b^2 - 4ac$ es la herramienta para predecir la existencia de raices reales. Si $\\Delta < 0$, las raices son numeros complejos y la parabola esta \"flotando\" sobre el eje X (si $a>0$) o por debajo (si $a<0$).",
       "difficulty": "6",
       "images": [],
@@ -424,25 +424,25 @@
           "feedback": "El eje de simetria es una linea vertical (x=...), no horizontal."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$x = 5$",
           "is_correct": true,
           "feedback": "¡Correcto! $x = -(-10) / (2 \\cdot 1) = 10 / 2 = 5$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 10$",
           "is_correct": false,
           "feedback": "Olvido dividir por 2a en la formula."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = -5$",
           "is_correct": false,
           "feedback": "Error de signo en la aplicacion de la formula."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El eje de simetria es la recta vertical que pasa por el vertice. Divide a la parabola en dos imagenes especulares. Su valor se halla con la primera parte de la formula general: $x = -b/2a$.",
       "difficulty": "6",
       "images": [],
@@ -463,19 +463,19 @@
       "context": "Un ingeniero en Ciudad de la Paz analiza la funcion $f(x) = x^2 - 4x + 3$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(0, 3)$",
           "is_correct": false,
           "feedback": "Este es el punto de corte con el eje Y."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$(1, 0)$ y $(-3, 0)$",
           "is_correct": false,
           "feedback": "El producto de las raices debe ser +3."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$(1, 0)$ y $(3, 0)$",
           "is_correct": true,
           "feedback": "¡Correcto! Resolviendo la ecuacion $x^2 - 4x + 3 = 0$ obtenemos $x=1$ y $x=3$."
@@ -487,7 +487,7 @@
           "feedback": "El discriminante es positivo ($16 - 12 = 4$), por lo que tiene dos cortes."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Los cortes con el eje X se encuentran resolviendo la ecuacion cuadratica $f(x) = 0$. Estos valores representan las raices o ceros de la funcion y son fundamentales para bosquejar la grafica.",
       "difficulty": "8",
       "images": [],
@@ -514,25 +514,25 @@
           "feedback": "El signo +2 dentro del parentesis indica un desplazamiento a la izquierda."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "2 unidades a la izquierda y 5 hacia abajo.",
           "is_correct": true,
           "feedback": "¡Correcto! $x+2$ desplaza a la izquierda y $-5$ desplaza hacia abajo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2 unidades arriba y 5 a la izquierda.",
           "is_correct": false,
           "feedback": "Se han confundido los desplazamientos horizontales y verticales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Solo se ha desplazado 5 unidades hacia abajo.",
           "is_correct": false,
           "feedback": "El termino $(x+2)$ tambien genera un movimiento horizontal."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Las traslaciones de funciones son cambios en la posicion de la grafica. Sumar o restar fuera de la funcion desplaza verticalmente, mientras que hacerlo dentro del argumento (con $x$) desplaza horizontalmente en sentido opuesto al signo.",
       "difficulty": "8",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "En la UNGE se estudia una parabola que no corta al eje X. Se sabe que su vertice esta en $(2, 3)$ y se abre hacia arriba.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$f(x) = (x - 2)^2 + 3$",
           "is_correct": true,
           "feedback": "¡Correcto! El vertice es (2, 3) y como a=1 (>0), se abre hacia arriba y nunca llega a y=0."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$f(x) = -(x - 2)^2 + 3$",
           "is_correct": false,
           "feedback": "Esta se abre hacia abajo y si cortaria al eje X."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$f(x) = (x + 2)^2 + 3$",
           "is_correct": false,
           "feedback": "El vertice de esta seria (-2, 3)."
@@ -577,7 +577,7 @@
           "feedback": "El vertice estaria por debajo del eje X (y = -3), por lo que lo cortaria al subir."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Una parabola cuyo vertice tiene una ordenada $k$ positiva y que se abre hacia arriba ($a > 0$) estara siempre por encima del eje X. Por lo tanto, no tiene raices reales, lo que implica un discriminante negativo en su forma polinomica.",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Un fisico en Guinea Ecuatorial analiza la velocidad de un objeto que se frena: $v(t) = t^2 - 10t + 25$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Alcanza su velocidad maxima.",
           "is_correct": false,
           "feedback": "Como a=1, el vertice es un minimo, no un maximo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se detiene completamente ($v = 0$).",
           "is_correct": true,
           "feedback": "¡Correcto! $v(5) = 25 - 50 + 25 = 0$. Ademas, es una raiz doble."
@@ -622,7 +622,7 @@
           "feedback": "Esa es la velocidad inicial en t=0."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La funcion $v(t) = (t - 5)^2$ tiene su vertice en $(5, 0)$. Esto significa que el valor minimo de la velocidad es cero y ocurre en $t = 5$. El objeto se detiene momentaneamente en ese punto.",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "En un taller en Luba se analiza la funcion $f(x) = -x^2 + 6x - 9$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$y = 0$",
           "is_correct": true,
           "feedback": "¡Correcto! El vertice esta en x=3. $f(3) = -9 + 18 - 9 = 0$. Como a=-1, es un maximo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$y = 3$",
           "is_correct": false,
           "feedback": "Este es el valor de x en el vertice, no el valor maximo de la funcion."
@@ -712,7 +712,7 @@
           "feedback": "Error al evaluar la funcion en el vertice."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para hallar el valor maximo, primero calculamos la coordenada $x$ del vertice ($h = -b/2a = 3$) y luego sustituimos este valor en la funcion para obtener la coordenada $y$ ($k = f(3) = 0$).",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Un estudiante avanzado analiza la funcion $f(x) = -2x^2 + 8x - 6$ para encontrar su valor maximo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$y = 8$",
           "is_correct": false,
           "feedback": "8 es el coeficiente de x, no el valor maximo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$y = 2$",
           "is_correct": true,
           "feedback": "¡Correcto! El vertice esta en x=2. Evaluando f(2) = -2(4) + 8(2) - 6 = -8 + 16 - 6 = 2."
@@ -757,7 +757,7 @@
           "feedback": "La funcion alcanza valores superiores a cero."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El valor maximo o minimo de una funcion cuadratica es la coordenada $k$ del vertice. Se calcula hallando primero $h = -b/(2a)$ y luego evaluando la funcion en ese punto: $k = f(h)$.",
       "difficulty": "10",
       "images": [],
@@ -829,25 +829,25 @@
           "feedback": "Si el ancho es 10, el largo seria 20. El area seria 200."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$200$ $m^2$",
           "is_correct": true,
           "feedback": "¡Correcto! Area $A = x(40 - 2x) = -2x^2 + 40x$. El vertice esta en x=10, $A = 10(20) = 200$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$400$ $m^2$",
           "is_correct": false,
           "feedback": "Esto requeriria mas metros de valla."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$150$ $m^2$",
           "is_correct": false,
           "feedback": "No es el valor maximo posible."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Este es un problema clasico de optimizacion que se resuelve mediante funciones cuadraticas. Al expresar el area en funcion de una de las dimensiones, obtenemos una parabola que se abre hacia abajo. El vertice de esa parabola nos da el area maxima.",
       "difficulty": "10",
       "images": [],
@@ -874,13 +874,13 @@
           "feedback": "Los desplazamientos dependen mas de los valores de a y b combinados."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La parabola se invierte (pasa de abrirse hacia arriba a abrirse hacia abajo).",
           "is_correct": true,
           "feedback": "¡Correcto! El signo de a determina la concavidad de la funcion."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La parabola se convierte en una recta.",
           "is_correct": false,
           "feedback": "Para ser una recta, 'a' deberia ser exactamente cero."
@@ -892,7 +892,7 @@
           "feedback": "El corte con el eje Y depende exclusivamente del valor de 'c'."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El signo del coeficiente $a$ es el interruptor de la concavidad. Un cambio de signo voltea la parabola completamente (\"reflexion\" respecto a una linea horizontal que pase por el vertice original, aunque no exactamente respecto al eje X si el vertice no esta en él).\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
       "difficulty": "10",
       "images": [],

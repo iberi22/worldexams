@@ -13,13 +13,13 @@
       "context": "Una docente de Montevideo repasa el plano cartesiano con sexto año.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La abscisa: la posición horizontal respecto al origen.",
           "is_correct": true,
           "feedback": "¡Correcto! La primera coordenada es la abscisa (eje $x$)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La ordenada: la posición vertical respecto al origen.",
           "is_correct": false,
           "feedback": "Incorrecto. La ordenada es la segunda coordenada, $5$."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. La pendiente sería $\\frac{5}{-3}$, no una coordenada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Todo punto del plano se escribe $(x, y)$: la abscisa $x$ mide el desplazamiento horizontal y la ordenada $y$ el vertical.",
       "difficulty": "4",
       "images": [],
@@ -58,31 +58,31 @@
       "context": "En un liceo de Salto se memoriza la fórmula de distancia entre puntos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$",
           "is_correct": true,
           "feedback": "¡Correcto! Es el teorema de Pitágoras aplicado al plano."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$d = (x_2 - x_1) + (y_2 - y_1)$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumar diferencias no mide la distancia euclidiana."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$d = \\sqrt{(x_2 - x_1) + (y_2 - y_1)}$",
           "is_correct": false,
           "feedback": "Incorrecto. Faltan los cuadrados de cada diferencia."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$d = \\frac{(x_2 - x_1)}{(y_2 - y_1)}$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese cociente se parece al inverso de la pendiente, no a la distancia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La distancia es la hipotenusa del triángulo cuyos catetos son las diferencias de coordenadas: $d = \\sqrt{(\\Delta x)^2 + (\\Delta y)^2}$.",
       "difficulty": "4",
       "images": [],
@@ -103,19 +103,19 @@
       "context": "Un estudiante de Colonia ubica puntos en los cuadrantes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Segundo cuadrante",
           "is_correct": false,
           "feedback": "Incorrecto. El segundo tiene abscisa negativa pero ordenada positiva."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Cuarto cuadrante",
           "is_correct": false,
           "feedback": "Incorrecto. El cuarto tiene abscisa positiva y ordenada negativa."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Tercer cuadrante",
           "is_correct": true,
           "feedback": "¡Correcto! Ambas coordenadas negativas ubican el punto en el tercer cuadrante."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Estar sobre el eje $y$ exige abscisa cero."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Los signos deciden el cuadrante: $(-,-)$ es el tercero, $(-,+)$ el segundo, $(+,-)$ el cuarto y $(+,+)$ el primero.",
       "difficulty": "4",
       "images": [],
@@ -154,25 +154,25 @@
           "feedback": "Incorrecto. Sumaste las coordenadas; el punto medio promedia."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$(4, 7)$",
           "is_correct": true,
           "feedback": "¡Correcto! $\\left(\\frac{2+6}{2}, \\frac{4+10}{2}\\right) = (4, 7)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(2, 3)$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste las coordenadas de $B$ entre las de $A$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(3, 5)$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste cada coordenada de $B$ entre 2 sin promediar con $A$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El punto medio es el promedio de las coordenadas: $M = \\left(\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2}\\right) = (4, 7)$.",
       "difficulty": "4",
       "images": [],
@@ -199,25 +199,25 @@
           "feedback": "Incorrecto. Sumaste las diferencias $3 + 4$; la distancia usa Pitágoras."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$5$",
           "is_correct": true,
           "feedback": "¡Correcto! $\\sqrt{3^2 + 4^2} = \\sqrt{25} = 5$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\sqrt{7}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste sin elevar al cuadrado dentro de la raíz."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$25$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el cuadrado de la distancia; falta la raíz."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Las diferencias son $\\Delta x = 3$ y $\\Delta y = 4$: $d = \\sqrt{9 + 16} = 5$, la clásica terna 3-4-5.",
       "difficulty": "6",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorrecto. Invertiste el cociente de las diferencias."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$2$",
           "is_correct": true,
           "feedback": "¡Correcto! $m = \\frac{5 - (-1)}{3 - 0} = \\frac{6}{3} = 2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$6$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es solo $\\Delta y$; falta dividir por $\\Delta x$."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. La recta crece de izquierda a derecha: la pendiente es positiva."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "$m = \\frac{\\Delta y}{\\Delta x} = \\frac{5-(-1)}{3-0} = \\frac{6}{3} = 2$. El signo de la pendiente indica si la recta sube o baja.",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "Un arquitecto de Paysandú verifica si dos paredes son perpendiculares.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\frac{1}{2}$",
           "is_correct": false,
           "feedback": "Incorrecto. Esa pendiente daría una recta paralela."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$-2$",
           "is_correct": true,
           "feedback": "¡Correcto! Las perpendiculares cumplen $m_1 \\cdot m_2 = -1$: $\\frac{1}{2} \\cdot (-2) = -1$."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Esa es la opuesta, no la recíproca opuesta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La condición de perpendicularidad es $m_2 = -\\frac{1}{m_1}$. Con $m_1 = \\frac{1}{2}$, la perpendicular tiene pendiente $-2$.",
       "difficulty": "6",
       "images": [],
@@ -424,13 +424,13 @@
           "feedback": "Incorrecto. Ese es el corte con el eje $y$, no con el eje $x$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$(3, 0)$",
           "is_correct": true,
           "feedback": "¡Correcto! Con $y = 0$: $2x = 6$, $x = 3$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(-3, 0)$",
           "is_correct": false,
           "feedback": "Incorrecto. Revisá el signo al despejar: $x = 3$ positivo."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Falta dividir entre el coeficiente 2."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El corte con el eje $x$ ocurre cuando $y = 0$: $0 = 2x - 6$ da $x = 3$. El punto es $(3, 0)$.",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Un estudiante de Rocha clasifica un triángulo por las longitudes de sus lados.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Rectángulo, porque los lados $AB$ y $AC$ son perpendiculares (ejes).",
           "is_correct": true,
           "feedback": "¡Correcto! Un lado horizontal y otro vertical se cortan en 90° en $A$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Equilátero, porque tiene tres vértices.",
           "is_correct": false,
           "feedback": "Incorrecto. Los lados miden 4, 3 y 5: todos distintos."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. $3^2 + 4^2 = 5^2$: es rectángulo exacto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los lados miden 3, 4 y 5 y cumplen $9 + 16 = 25$: triángulo rectángulo con el ángulo recto en $A$.",
       "difficulty": "8",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Una docente de Melo pregunta por la condición de paralelismo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Pendientes iguales y ordenadas al origen distintas.",
           "is_correct": true,
           "feedback": "¡Correcto! Igual dirección, sin coincidir: paralelas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Pendientes cuyo producto sea $-1$.",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es la condición de perpendicularidad."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Pendientes opuestas se cortan simétricamente; no son paralelas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Paralelismo significa misma inclinación: $m_1 = m_2$. Para que sean rectas distintas, las ordenadas al origen deben diferir.",
       "difficulty": "8",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Incorrecto. $9 + 25 = 34 \\ne 25$; el punto no verifica la ecuación."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "En el exterior, porque $3^2 + 5^2 = 34 > 25$.",
           "is_correct": true,
           "feedback": "¡Correcto! La distancia al centro es $\\sqrt{34} > 5$, el radio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "En el interior, porque sus coordenadas son pequeñas.",
           "is_correct": false,
           "feedback": "Incorrecto. La suma de cuadrados supera el radio al cuadrado: es exterior."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. El centro es $(0, 0)$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Comparar $x^2 + y^2$ con $r^2$ ubica el punto: igual (sobre), menor (dentro), mayor (fuera). Aquí $34 > 25$: exterior.",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorrecto. Los signos del centro se invierten respecto de la ecuación y el radio es la raíz de 9."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Centro $(2, -1)$ y radio $3$",
           "is_correct": true,
           "feedback": "¡Correcto! Comparando con $(x-h)^2 + (y-k)^2 = r^2$: $h = 2$, $k = -1$, $r = 3$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Centro $(2, -1)$ y radio $9$",
           "is_correct": false,
           "feedback": "Incorrecto. El centro está bien, pero el radio es $\\sqrt{9} = 3$."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Intercambiaste las coordenadas del centro."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "En la forma canónica, el centro sale invirtiendo los signos de los términos con la variable: $(2, -1)$; el radio es $\\sqrt{9} = 3$.",
       "difficulty": "8",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "Un docente de Maldonado plantea verificar si tres puntos están alineados.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Sí, porque la pendiente entre $A$ y $B$ ($2$) es la misma que entre $B$ y $C$.",
           "is_correct": true,
           "feedback": "¡Correcto! $\\frac{5-1}{2-0} = 2$ y $\\frac{9-5}{4-2} = 2$: misma dirección, puntos colineales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "No, porque las coordenadas no son proporcionales.",
           "is_correct": false,
           "feedback": "Incorrecto. La colinealidad se mide por pendientes iguales, y aquí coinciden."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sí, porque las ordenadas son impares.",
           "is_correct": false,
           "feedback": "Incorrecto. La paridad no es criterio de alineación, aunque aquí la conclusión sea correcta."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. La alineación no exige proporcionalidad de coordenadas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Tres puntos son colineales si las pendientes entre pares consecutivos coinciden. Ambas valen 2, así que están sobre la recta $y = 2x + 1$.",
       "difficulty": "8",
       "images": [],
@@ -739,25 +739,25 @@
           "feedback": "Incorrecto. Esa es la ordenada del punto; la recta es vertical y la distancia es horizontal."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$4$ unidades",
           "is_correct": true,
           "feedback": "¡Correcto! La distancia horizontal es $|7 - 3| = 4$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\sqrt{53}$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Usaste la fórmula de distancia al origen, no a la recta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$10$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste coordenada y constante; la distancia es la diferencia absoluta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La distancia de un punto a una recta vertical $x = k$ es $|x_0 - k|$: $|7 - 3| = 4$. Es la longitud del segmento perpendicular (horizontal) a la recta.",
       "difficulty": "10",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. Los lados miden 6 y 4: no son iguales."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Un rectángulo de área 24.",
           "is_correct": true,
           "feedback": "¡Correcto! Lados 6 y 4 perpendiculares: área $6 \\times 4 = 24$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un rombo de área 12.",
           "is_correct": false,
           "feedback": "Incorrecto. Los lados no son todos iguales y el área es base por altura: 24."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Los cuatro vértices forman lados paralelos dos a dos: es un rectángulo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Los lados $AB$ y $CD$ son horizontales de largo 6; $BC$ y $DA$ verticales de largo 4. Rectángulo de área 24 unidades cuadradas.",
       "difficulty": "10",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Incorrecto. Olvidaste dividir entre 2: $\\frac{6 \\times 4}{2}$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$12$ unidades cuadradas",
           "is_correct": true,
           "feedback": "¡Correcto! Base $6$ (sobre el eje $x$) y altura $4$: $\\frac{24}{2} = 12$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$6$ unidades cuadradas",
           "is_correct": false,
           "feedback": "Incorrecto. Usaste solo la base o solo la altura como área."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Sumaste base y altura; el área triangular es la mitad del producto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Tomando $AB$ como base ($6$) y la ordenada de $C$ como altura ($4$): $A = \\frac{6 \\cdot 4}{2} = 12$ unidades cuadradas.",
       "difficulty": "10",
       "images": [],
@@ -868,31 +868,31 @@
       "context": "Un urbanista de Colonia estudia si una calle recta toca una plaza circular: la plaza es $x^2 + y^2 = 16$ y la calle es $y = x + 6$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La calle no toca la plaza: el discriminante negativo indica que no hay intersección.",
           "is_correct": true,
           "feedback": "¡Correcto! Sin soluciones reales, la recta pasa por fuera de la circunferencia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La calle es tangente a la plaza en un punto.",
           "is_correct": false,
           "feedback": "Incorrecto. La tangencia exige discriminante cero."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La calle corta la plaza en dos puntos.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso requeriría discriminante positivo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La calle pasa por el centro de la plaza.",
           "is_correct": false,
           "feedback": "Incorrecto. El centro $(0,0)$ no verifica $y = x + 6$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El signo del discriminante de la ecuación resultante clasifica la posición relativa: $\\Delta < 0$ exterior (sin contacto), $\\Delta = 0$ tangente, $\\Delta > 0$ secante. Aquí la calle no interfiere con la plaza.",
       "difficulty": "10",
       "images": [],

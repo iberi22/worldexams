@@ -59,31 +59,31 @@
       "context": "En Medellín, se evalúa el valor exacto de $\\cos(60^\\circ)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\frac{1}{2}$",
           "is_correct": true,
           "feedback": "Correcto. $\\cos(60^\\circ) = 0.5 = \\frac{1}{2}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{\\sqrt{3}}{2}$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a $\\operatorname{sen}(60^\\circ)$ o $\\cos(30^\\circ)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{\\sqrt{2}}{2}$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a $\\cos(45^\\circ)$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$1$",
           "is_correct": false,
           "feedback": "Incorrecto. $1$ es el valor de $\\cos(0^\\circ)$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En el triángulo notable $30^\\circ-60^\\circ-90^\\circ$, $\\cos(60^\\circ) = \\frac{1}{2}$.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En Cali, un observador mira la cima de una torre de $20\\text{ m}$ de altura con un ángulo de elevación de $45^\\circ$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$20\\text{ m}$",
           "is_correct": true,
           "feedback": "Correcto. $\\tan(45^\\circ) = 1 = \\frac{20}{x} \\implies x = 20\\text{ m}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$10\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste la altura entre 2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$20\\sqrt{3}\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Usaste un ángulo de elevación de $30^\\circ$."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Duplicaste la distancia real."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Como $\\tan(45^\\circ) = 1$, los dos catetos son iguales: distancia $= 20\\text{ m}$.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En Bucaramanga, una rampa de $10\\text{ m}$ de largo tiene una inclinación de $30^\\circ$ respecto a la horizontal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$5\\text{ m}$",
           "is_correct": true,
           "feedback": "Correcto. $h = 10 \\cdot \\operatorname{sen}(30^\\circ) = 10 \\cdot (1/2) = 5\\text{ m}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$5\\sqrt{3}\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste la distancia horizontal (usando coseno)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$10\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Asumiste altura igual a la rampa."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$2.5\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste por 4."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Altura $h = \\text{hipotenusa} \\cdot \\operatorname{sen}(30^\\circ) = 10 \\cdot 0.5 = 5\\text{ m}$.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En Pereira, se conoce que $\\operatorname{sen}(\\theta) = \\frac{12}{13}$ en el primer cuadrante.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\frac{12}{5}$",
           "is_correct": true,
           "feedback": "Correcto. Cateto adyacente $= \\sqrt{13^2 - 12^2} = 5$. $\\tan(\\theta) = 12/5$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{5}{12}$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la tangente (cotangente)."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Es la cosecante de $\\theta$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Cateto adyacente $= \\sqrt{169 - 144} = 5$. Por lo tanto, $\\tan(\\theta) = \\frac{\\text{opuesto}}{\\text{adyacente}} = \\frac{12}{5}$.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En Manizales, la sombra de un edificio de $30\\text{ m}$ de altura mide $10\\sqrt{3}\\text{ m}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$60^\\circ$",
           "is_correct": true,
           "feedback": "Correcto. $\\tan(\\theta) = \\frac{30}{10\\sqrt{3}} = \\frac{3}{\\sqrt{3}} = \\sqrt{3} \\implies \\theta = 60^\\circ$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$30^\\circ$",
           "is_correct": false,
           "feedback": "Incorrecto. Si fuera $30^\\circ$, la tangente valdría $\\frac{\\sqrt{3}}{3}$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$45^\\circ$",
           "is_correct": false,
           "feedback": "Incorrecto. Para $45^\\circ$, la altura y la sombra deben ser iguales."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Valor fuera de la razón notable."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "$\\tan(\\theta) = \\frac{30}{10\\sqrt{3}} = \\frac{3}{\\sqrt{3}} = \\sqrt{3} \\implies \\theta = 60^\\circ$.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En Pasto, desde la cima de un acantilado de $50\\text{ m}$ sobre el nivel del mar, se divisa un bote con un ángulo de depresión de $30^\\circ$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$50\\sqrt{3}\\text{ m}$",
           "is_correct": true,
           "feedback": "Correcto. $\\tan(30^\\circ) = \\frac{50}{d} \\implies \\frac{\\sqrt{3}}{3} = \\frac{50}{d} \\implies d = \\frac{150}{\\sqrt{3}} = 50\\sqrt{3}\\text{ m}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{50}{\\sqrt{3}}\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la razón tangente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$50\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sería correcto si el ángulo fuera $45^\\circ$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$100\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. $100\\text{ m}$ es la distancia en línea recta (hipotenusa)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "$\\tan(30^\\circ) = \\frac{50}{d} \\implies d = \\frac{50}{\\tan(30^\\circ)} = \\frac{50}{1/\\sqrt{3}} = 50\\sqrt{3}\\text{ m}$.",
       "difficulty": "8",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "En Cúcuta, simplifique la expresión trigonométrica $\\operatorname{sen}(\\theta) \\cdot \\operatorname{cot}(\\theta)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\cos(\\theta)$",
           "is_correct": true,
           "feedback": "Correcto. $\\operatorname{sen}(\\theta) \\cdot \\frac{\\cos(\\theta)}{\\operatorname{sen}(\\theta)} = \\cos(\\theta)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\operatorname{sec}(\\theta)$",
           "is_correct": false,
           "feedback": "Incorrecto. Es el recíproco del coseno."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\operatorname{tan}(\\theta)$",
           "is_correct": false,
           "feedback": "Incorrecto. Es el recíproco de la cotangente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$1$",
           "is_correct": false,
           "feedback": "Incorrecto. $1$ se obtiene multiplicando seno por cosecante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "$\\operatorname{sen}(\\theta) \\cdot \\operatorname{cot}(\\theta) = \\operatorname{sen}(\\theta) \\cdot \\frac{\\cos(\\theta)}{\\operatorname{sen}(\\theta)} = \\cos(\\theta)$.",
       "difficulty": "8",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "En Armenia, se evalúa la identidad pitagórica fundamental $1 - \\cos^2(\\theta)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\operatorname{sen}^2(\\theta)$",
           "is_correct": true,
           "feedback": "Correcto. De $\\operatorname{sen}^2(\\theta) + \\cos^2(\\theta) = 1 \\implies \\operatorname{sen}^2(\\theta) = 1 - \\cos^2(\\theta)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\operatorname{tan}^2(\\theta)$",
           "is_correct": false,
           "feedback": "Incorrecto. La tangente involucra la división por coseno."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\operatorname{sec}^2(\\theta)$",
           "is_correct": false,
           "feedback": "Incorrecto. Es $1 + \\operatorname{tan}^2(\\theta)$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\operatorname{cos}^2(\\theta)$",
           "is_correct": false,
           "feedback": "Incorrecto. Restar de 1 no devuelve la misma función."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "De $\\operatorname{sen}^2(\\theta) + \\cos^2(\\theta) = 1$ se despeja $\\operatorname{sen}^2(\\theta) = 1 - \\cos^2(\\theta)$.",
       "difficulty": "8",
       "images": [],

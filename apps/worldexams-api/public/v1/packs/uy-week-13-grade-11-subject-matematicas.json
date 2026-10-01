@@ -64,13 +64,13 @@
           "feedback": "Incorrecto. Sumaste las coordenadas pero olvidaste dividirlas entre 2."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$(2, 6)$",
           "is_correct": true,
           "feedback": "¡Correcto! $M = \\left(\\frac{-2+6}{2}, \\frac{4+8}{2}\\right) = \\left(\\frac{4}{2}, \\frac{12}{2}\\right) = (2, 6)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(8, 4)$",
           "is_correct": false,
           "feedback": "Incorrecto. Restaste las coordenadas en lugar de promediarlas."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Error en la división de la abscisa $-2+6 = 4 \\Rightarrow 4/2 = 2$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El punto medio de un segmento se obtiene promediando sus coordenadas: $M = \\left(\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2}\\right) = \\left(\\frac{-2 + 6}{2}, \\frac{4 + 8}{2}\\right) = (2, 6)$.",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Un taller de diseño urbano en Colonia verifica el criterio de perpendicularidad entre dos rectas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$m_2 = 3$",
           "is_correct": false,
           "feedback": "Incorrecto. Rectas con la misma pendiente son paralelas, no perpendiculares."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$m_2 = -\\frac{1}{3}$",
           "is_correct": true,
           "feedback": "¡Correcto! Dos rectas son perpendiculares si y solo si $m_1 \\cdot m_2 = -1 \\Rightarrow m_2 = -\\frac{1}{3}$."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Invertiste el valor pero olvidaste cambiar el signo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La condición de perpendicularidad exige que el producto de sus pendientes sea $-1$ ($m_1 \\cdot m_2 = -1$). Para $m_1 = 3$, la pendiente perpendicular es el opuesto del inverso: $m_2 = -\\frac{1}{3}$.",
       "difficulty": "6",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorrecto. Al pasar $y$ restando queda $2x - 3y - 12 = 0$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$2x - 3y - 12 = 0$",
           "is_correct": true,
           "feedback": "¡Correcto! Multiplicando por 3: $3y = 2x - 12 \\Rightarrow 2x - 3y - 12 = 0$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$2x - 3y + 4 = 0$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste multiplicar el término independiente $-4$ por 3."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Intercambiaste los coeficientes de $x$ e $y$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Multiplicamos toda la ecuación por 3 para eliminar denominadores: $3y = 2x - 12$. Reorganizando en la forma $Ax + By + C = 0$, restamos $3y$ a ambos lados: $2x - 3y - 12 = 0$.",
       "difficulty": "6",
       "images": [],
@@ -334,25 +334,25 @@
           "feedback": "Incorrecto. Los vértices están sobre el eje $x$ porque $a^2 = 25$ está bajo $x^2$."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$(\\pm 5, 0)$",
           "is_correct": true,
           "feedback": "¡Correcto! Como $a^2 = 25 \\Rightarrow a = 5$, los vértices mayores están en $(\\pm 5, 0)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(\\pm 3, 0)$",
           "is_correct": false,
           "feedback": "Incorrecto. $b = 3$ corresponde a los vértices sobre el eje menor."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(\\pm 25, 0)$",
           "is_correct": false,
           "feedback": "Incorrecto. No extrajiste la raíz cuadrada de $a^2 = 25$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Como el mayor denominador está bajo $x^2$, el eje semimayor es horizontal con $a^2 = 25 \\Rightarrow a = 5$. Por lo tanto, los vértices principales se ubican en los puntos $(\\pm a, 0) = (\\pm 5, 0)$.",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Un grupo de Tacuarembó calcula la distancia focal de la misma elipse.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(\\pm 16, 0)$",
           "is_correct": false,
           "feedback": "Incorrecto. $c^2 = a^2 - b^2 = 16$, pero olvidaste calcular $c = \\sqrt{16} = 4$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(\\pm 4, 0)$",
           "is_correct": true,
           "feedback": "¡Correcto! En la elipse $c^2 = a^2 - b^2 = 25 - 9 = 16 \\Rightarrow c = 4$. Focos en $(\\pm 4, 0)$."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Sumaste $a^2 + b^2$ (propio de la hipérbola) en lugar de restar."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "En toda elipse se cumple la relación semimajor/focal $c^2 = a^2 - b^2$.\nSustituyendo $a^2 = 25$ y $b^2 = 9$: $c^2 = 25 - 9 = 16 \\Rightarrow c = 4$.\nAl ser horizontal, los focos están en $(\\pm c, 0) = (\\pm 4, 0)$.",
       "difficulty": "6",
       "images": [],
@@ -514,25 +514,25 @@
           "feedback": "Incorrecto. $r^2 = 16 \\Rightarrow r = 4$, no 3."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$r = 4$",
           "is_correct": true,
           "feedback": "¡Correcto! Completando cuadrados: $(x-3)^2 - 9 + (y+2)^2 - 4 - 3 = 0 \\Rightarrow (x-3)^2 + (y+2)^2 = 16 \\Rightarrow r = 4$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$r = 16$",
           "is_correct": false,
           "feedback": "Incorrecto. 16 es $r^2$, debes extraer la raíz cuadrada."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$r = \\sqrt{13}$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumar el término $-3$ al pasar al lado derecho."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Agrupamos y completamos cuadrados:\n$(x^2 - 6x + 9) + (y^2 + 4y + 4) = 3 + 9 + 4$\n$(x - 3)^2 + (y + 2)^2 = 16$\nComo $r^2 = 16$, el radio es $r = \\sqrt{16} = 4$.",
       "difficulty": "8",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "En Florida se analiza la intersección entre una recta y una circunferencia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Ningún punto (recta exterior)",
           "is_correct": true,
           "feedback": "¡Correcto! La distancia del centro $(0,0)$ a $x - y + 5 = 0$ es $d = \\frac{5}{\\sqrt{2}} \\approx 3.535$. Como $d > r = 3$, la recta es exterior."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Exactamente 1 punto (recta tangente)",
           "is_correct": false,
           "feedback": "Incorrecto. Para ser tangente la distancia del centro al radio debería ser exactamente $r = 3$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2 puntos (recta secante)",
           "is_correct": false,
           "feedback": "Incorrecto. Al sustituir $y = x+5$ en $x^2+y^2=9$, el discriminante es negativo ($\\Delta < 0$)."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Una circunferencia y una recta no pueden coincidir en infinitos puntos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Sustituyendo $y = x + 5$ en $x^2 + y^2 = 9$:\n$x^2 + (x + 5)^2 = 9 \\Rightarrow x^2 + x^2 + 10x + 25 = 9 \\Rightarrow 2x^2 + 10x + 16 = 0 \\Rightarrow x^2 + 5x + 8 = 0$.\nDiscriminante: $\\Delta = 5^2 - 4(1)(8) = 25 - 32 = -7 < 0$. Al no tener soluciones reales, no hay intersección.",
       "difficulty": "8",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "En Fray Bentos se analiza la familia de cónicas a través del discriminante de la ecuación general de segundo grado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Circunferencia",
           "is_correct": false,
           "feedback": "Incorrecto. Requiere $A = C \\neq 0$ con el mismo signo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Elipse",
           "is_correct": false,
           "feedback": "Incorrecto. La elipse requiere que $A \\cdot C > 0$ (mismo signo)."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Hipérbola",
           "is_correct": true,
           "feedback": "¡Correcto! Cuando $A$ y $C$ tienen signos opuestos ($A \\cdot C < 0$), la cónica no degenerada es una hipérbola."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. La parábola requiere que $A = 0$ o $C = 0$ (es decir, $A \\cdot C = 0$)."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Cuando el término mixto $Bxy$ no está presente ($B = 0$):\n- Si $A \\cdot C > 0$ y $A \\neq C \\Rightarrow$ Elipse (o Circunferencia si $A = C$).\n- Si $A \\cdot C = 0$ (uno de los dos es cero) $\\Rightarrow$ Parábola.\n- Si $A \\cdot C < 0$ (signos opuestos) $\\Rightarrow$ Hipérbola.",
       "difficulty": "8",
       "images": [],
@@ -733,19 +733,19 @@
       "context": "Un equipo de arquitectura en Montevideo diseña un arco parabólico de $12\\text{ m}$ de luz (ancho de base) y $9\\text{ m}$ de altura máxima.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x^2 = -4y$",
           "is_correct": true,
           "feedback": "¡Correcto! Vértice en $(0,0)$, puntos de la base en $(\\pm 6, -9)$. Sustituyendo: $6^2 = 4p(-9) \\Rightarrow 36 = -36p \\Rightarrow p = -1$. Ecuación: $x^2 = -4y$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x^2 = -9y$",
           "is_correct": false,
           "feedback": "Incorrecto. Usaste el valor entero de la altura sin relacionar la luz de base $6^2 = 36$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$y^2 = -4x$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta parábola se abre hacia la izquierda, no hacia abajo."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Esta parábola se abre hacia arriba ($y > 0$)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "1) Como el arco mide $12\\text{ m}$ de ancho, se extiende $6\\text{ m}$ a la izquierda y $6\\text{ m}$ a la derecha del eje de simetría.\n2) Con vértice en $(0,0)$, los extremos del suelo están en $(6, -9)$ y $(-6, -9)$.\n3) La ecuación es $x^2 = 4py$. Sustituyendo $(6, -9)$: $6^2 = 4p(-9) \\Rightarrow 36 = -36p \\Rightarrow 4p = -4$.\n4) Por lo tanto, la ecuación es $x^2 = -4y$.",
       "difficulty": "10",
       "images": [],
@@ -784,25 +784,25 @@
           "feedback": "Incorrecto. Invertiste los semiejes $a$ y $b$."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$\\frac{x^2}{25} + \\frac{y^2}{16} = 1$",
           "is_correct": true,
           "feedback": "¡Correcto! Por definición de elipse $2a = 10 \\Rightarrow a = 5$, $c = 3$. $b^2 = a^2 - c^2 = 25 - 9 = 16$. Ecuación: $\\frac{x^2}{25} + \\frac{y^2}{16} = 1$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{x^2}{100} + \\frac{y^2}{9} = 1$",
           "is_correct": false,
           "feedback": "Incorrecto. Usaste $2a = 10 \\Rightarrow 2a^2 = 100$ en lugar de $a = 5 \\Rightarrow a^2 = 25$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\frac{x^2}{25} - \\frac{y^2}{16} = 1$",
           "is_correct": false,
           "feedback": "Incorrecto. La suma constante de distancias define una elipse (+), no una hipérbola (-)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "1) Por definición, la suma constante de distancias a dos focos define una elipse con $2a = 10 \\Rightarrow a = 5$.\n2) Los focos están en $(\\pm c, 0) = (\\pm 3, 0) \\Rightarrow c = 3$.\n3) El semieje menor satisface $b^2 = a^2 - c^2 = 5^2 - 3^2 = 25 - 9 = 16 \\Rightarrow b = 4$.\n4) La ecuación canónica es $\\frac{x^2}{25} + \\frac{y^2}{16} = 1$.",
       "difficulty": "10",
       "images": [],
@@ -868,31 +868,31 @@
       "context": "Un seminario académico en Salto analiza la intersección de dos circunferencias para resolver un problema de trilateración.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$(3, 4)$ y $(3, -4)$",
           "is_correct": true,
           "feedback": "¡Correcto! De $C_1$: $y^2 = 25 - x^2$. Sustituyendo en $C_2$: $(x-6)^2 + 25 - x^2 = 25 \\Rightarrow -12x + 36 = 0 \\Rightarrow x = 3$. Luego $y^2 = 16 \\Rightarrow y = \\pm 4$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(3, 0)$ únicamente",
           "is_correct": false,
           "feedback": "Incorrecto. $(3,0)$ está a distancia 3 del origen, no sobre la circunferencia de radio 5."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(0, 5)$ y $(6, 5)$",
           "is_correct": false,
           "feedback": "Incorrecto. Estos puntos no pertenecen simultáneamente a ambas circunferencias."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No se intersecan",
           "is_correct": false,
           "feedback": "Incorrecto. La distancia entre centros es $d = 6 < r_1 + r_2 = 10$, de modo que sí se intersecan en dos puntos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "1) Restamos las dos ecuaciones para hallar el eje radical:\n   $C_1: x^2 + y^2 = 25$\n   $C_2: x^2 - 12x + 36 + y^2 = 25$\n   Restando $C_1 - C_2$: $12x - 36 = 0 \\Rightarrow x = 3$.\n2) Sustituyendo $x = 3$ en $C_1$:\n   $3^2 + y^2 = 25 \\Rightarrow 9 + y^2 = 25 \\Rightarrow y^2 = 16 \\Rightarrow y = \\pm 4$.\n3) Los puntos de intersección son $(3, 4)$ y $(3, -4)$.",
       "difficulty": "10",
       "images": [],

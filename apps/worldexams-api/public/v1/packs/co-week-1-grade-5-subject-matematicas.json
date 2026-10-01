@@ -13,31 +13,31 @@
       "context": "En una frutería de la plaza de mercado de Paloquemao en Bogotá, un comerciante organiza manzanas en cajas de 12 unidades cada una.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "12 cajas.",
           "is_correct": true,
           "feedback": "Al dividir 144 entre 12, el cociente exacto es 12."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "10 cajas.",
           "is_correct": false,
           "feedback": "10 cajas equivalen a 120 manzanas, quedando 24 manzanas sin empacar."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "14 cajas.",
           "is_correct": false,
           "feedback": "14 cajas requerirían 168 manzanas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "144 cajas.",
           "is_correct": false,
           "feedback": "144 es la cantidad total de manzanas, no el número de cajas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La división es la operación inversa de la multiplicación y permite agrupar una cantidad total en partes iguales.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Un bus intermunicipal realiza el trayecto entre Medellín y Rionegro transportando 38 pasajeros en cada viaje.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "228 pasajeros.",
           "is_correct": true,
           "feedback": "Multiplicando 38 pasajeros por 6 viajes se obtiene 228."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "218 pasajeros.",
           "is_correct": false,
           "feedback": "Error al multiplicar 8 por 6 (se usó 42 en lugar de 48)."
@@ -129,7 +129,7 @@
           "feedback": "Corresponde a multiplicar 33 por 6 en lugar de 38 por 6."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La multiplicación permite calcular el resultado de sumar un mismo grupo repetidas veces en situaciones de tasa uniforme.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "Don Mateo compró 5 bultos de café por un valor total de $450.000 COP. Todos los bultos tuvieron exactamente el mismo precio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$90.000 COP.",
           "is_correct": true,
           "feedback": "Dividiendo $450.000 entre 5 se obtiene $90.000 por bulto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$80.000 COP.",
           "is_correct": false,
           "feedback": "5 bultos a $80.000 darían un total de $400.000 COP, faltando $50.000 COP."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$95.000 COP.",
           "is_correct": false,
           "feedback": "5 bultos a $95.000 darían un total de $475.000 COP."
@@ -175,7 +175,7 @@
           "feedback": "5 bultos a $100.000 darían un total de $500.000 COP."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El reparto equitativo de un costo total entre varias unidades se resuelve mediante una división exacta.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "Una biblioteca comunitaria en Bucaramanga tiene 1.250 libros. Deciden donar 320 libros a una escuela rural y luego reciben un paquete de 450 libros nuevos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "1.380 libros.",
           "is_correct": true,
           "feedback": "Restando los donados: 1.250 - 320 = 930. Sumando los nuevos: 930 + 450 = 1.380 libros."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1.120 libros.",
           "is_correct": false,
           "feedback": "Se restaron los dos valores (1.250 - 320 - 450) en lugar de sumar la donación recibida."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2.020 libros.",
           "is_correct": false,
           "feedback": "Se sumaron todos los valores sin considerar la salida de los libros donados."
@@ -267,7 +267,7 @@
           "feedback": "Error en la adición final de 930 + 450 (se sumaron 100 unidades extra)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El análisis del flujo de cantidades requiere identificar las entradas (adición) y salidas (sustracción) respecto al estado inicial.",
       "difficulty": "8",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "Una fábrica de galletas en Manizales empaca galletas en paquetes de 6 unidades, y luego junta 20 paquetes en cada caja grande de cartón.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "1.800 galletas.",
           "is_correct": true,
           "feedback": "Cada caja contiene 6 x 20 = 120 galletas. En 15 cajas hay 120 x 15 = 1.800 galletas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1.200 galletas.",
           "is_correct": false,
           "feedback": "Se calculó para 10 cajas en lugar de 15 cajas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "900 galletas.",
           "is_correct": false,
           "feedback": "Se multiplicó 6 x 15 x 10 omitiendo la duplicación por 20 paquetes."
@@ -313,7 +313,7 @@
           "feedback": "Se calculó para 20 cajas grandes en vez de 15 cajas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los problemas de empaquetado multinivel exigen aplicar el principio multiplicativo en cadena (unidades por empaque secundario por empaque terciario).",
       "difficulty": "8",
       "images": [],

@@ -13,13 +13,13 @@
       "context": "Introduction to narrative structure.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "character",
           "is_correct": false,
           "feedback": "Incorrect. Characters are the people in the story."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "plot",
           "is_correct": true,
           "feedback": "Correct. Plot is the sequence of events."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect. Theme is the main idea or message."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Plot' is the fundamental literary term for the arrangement of events in a narrative.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Conditional about reading.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "didn't read",
           "is_correct": false,
           "feedback": "Incorrect. Second conditional."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "hadn't read",
           "is_correct": true,
           "feedback": "Correct. Third conditional for hypothetical past."
@@ -127,7 +127,7 @@
           "feedback": "Incorrect. 'Would' not used in 'if' clause."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The third conditional allows us to reflect on the impact of a past experience (reading a book).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,31 +148,31 @@
       "context": "Article about magical realism.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Magical realism",
           "is_correct": true,
           "feedback": "Correct. A major genre in Latin American and global literature."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Science fiction",
           "is_correct": false,
           "feedback": "Incorrect. Focuses on future/technology."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Biography",
           "is_correct": false,
           "feedback": "Incorrect. Non-fiction life story."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Mystery",
           "is_correct": false,
           "feedback": "Incorrect. Focuses on solving a crime or puzzle."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "'Magical realism' is the specific literary term for the blending of mundane reality with fantastic elements.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Discussion on the role of the protagonist.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "antagonist",
           "is_correct": false,
           "feedback": "Incorrect. The antagonist opposes the main character."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "protagonist",
           "is_correct": true,
           "feedback": "Correct. The leading character."
@@ -217,7 +217,7 @@
           "feedback": "Incorrect. A type of antagonist."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Protagonist' is the technical term for the central figure in a literary work.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -244,25 +244,25 @@
           "feedback": "Incorrect. A novel is long."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "fable",
           "is_correct": true,
           "feedback": "Correct. Specifically uses animals to teach a lesson."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "essay",
           "is_correct": false,
           "feedback": "Incorrect. An essay is non-fiction."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "journal",
           "is_correct": false,
           "feedback": "Incorrect. A journal is a daily record."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Fable' is the specific term for an allegorical short story, often featuring anthropomorphized animals.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Incorrect. A flashback shows the past."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Foreshadowing",
           "is_correct": true,
           "feedback": "Correct. Foreshadowing hints at the future."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Metaphor",
           "is_correct": false,
           "feedback": "Incorrect. A metaphor compares two things."
@@ -352,7 +352,7 @@
           "feedback": "Incorrect. Irony involves contrast between expectation and reality."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Foreshadowing' is the technical term for the narrative technique of providing hints about future events.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,13 +379,13 @@
           "feedback": "Incorrect. This means 'accustomed to' in the present."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "used to",
           "is_correct": true,
           "feedback": "Correct. 'Used to' describes a past habit."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "use to",
           "is_correct": false,
           "feedback": "Incorrect grammar."
@@ -397,7 +397,7 @@
           "feedback": "Incorrect. While 'would' works for habits, 'used to' is the standard for contrasting past and present."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Used to' is the standard way to describe actions that were habitual in the past but no longer occur.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Critique of \"stream of consciousness\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "dialogue",
           "is_correct": false,
           "feedback": "Incorrect. Dialogue is external conversation."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "stream of consciousness",
           "is_correct": true,
           "feedback": "Correct. Literary technique for representing internal thought processes."
@@ -442,7 +442,7 @@
           "feedback": "Incorrect. An introduction."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Stream of consciousness' is the term for the narrative mode that mimics the continuous flow of human thought.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Incorrect. A resolution solves the plot."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "cliffhanger",
           "is_correct": true,
           "feedback": "Correct. Leaves the outcome uncertain."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "epilogue",
           "is_correct": false,
           "feedback": "Incorrect. A section at the end that provides finality."
@@ -487,7 +487,7 @@
           "feedback": "Incorrect. The most intense point, but not necessarily a suspended ending."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Cliffhanger' is the informal but widely used term for a suspenseful, unresolved ending.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -514,25 +514,25 @@
           "feedback": "Incorrect. Past simple."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "had written",
           "is_correct": true,
           "feedback": "Correct. Past perfect for an action completed before a past point."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "has written",
           "is_correct": false,
           "feedback": "Incorrect. Present perfect."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "was writing",
           "is_correct": false,
           "feedback": "Incorrect. Past continuous."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The past perfect 'had written' establishes the completion of the action before the author's retirement.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Conditional about writing.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "have",
           "is_correct": false,
           "feedback": "Incorrect. First conditional."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "had",
           "is_correct": true,
           "feedback": "Correct. Second conditional for a present hypothetical change."
@@ -622,7 +622,7 @@
           "feedback": "Incorrect. 'Would' not used in 'if' clause."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The second conditional 'if + past simple' describes the imaginary result of a hypothetical personality trait.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Conclusion of an essay on the power of stories.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "unimportant",
           "is_correct": false,
           "feedback": "Incorrect. The author says they are fundamental."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "fundamental",
           "is_correct": true,
           "feedback": "Correct. Fundamental means forming a necessary base or core; of central importance."
@@ -667,7 +667,7 @@
           "feedback": "Incorrect. Implies they are not intended or natural."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Fundamental' correctly identifies the author's perspective on the essential role of storytelling in human life.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "Incorrect. A reference for words."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "anthology",
           "is_correct": true,
           "feedback": "Correct. A collection of selected writings."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "manual",
           "is_correct": false,
           "feedback": "Incorrect. Instructions for a task."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "newspaper",
           "is_correct": false,
           "feedback": "Incorrect. Periodic publication of news."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Anthology' is the specific term for a curated collection of literary works.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Incorrect. Simple infinitive."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "to have read",
           "is_correct": true,
           "feedback": "Correct. Perfect infinitive for a completed action by a future point."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "reading",
           "is_correct": false,
           "feedback": "Incorrect. Gerund."
@@ -757,7 +757,7 @@
           "feedback": "Incorrect. Needs 'to'."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The perfect infinitive 'to have read' indicates a goal that will be a finished achievement by a specific deadline.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Incorrect. While possible in informal speech, 'had been' is more precise backshifting from 'was inspired' or 'has been inspired'."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "had been inspired",
           "is_correct": true,
           "feedback": "Correct. Backshifted from past simple or present perfect to past perfect."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "is inspired",
           "is_correct": false,
           "feedback": "Incorrect. Present tense."
@@ -847,7 +847,7 @@
           "feedback": "Incorrect. Future."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "In reported speech, we backshift tenses: the original 'My story was inspired...' becomes '...said that her story had been inspired...'.\n\n---",
       "difficulty": "10",
       "images": [],

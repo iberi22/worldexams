@@ -13,19 +13,19 @@
       "context": "La Constitución de la República Oriental del Uruguay consagra en su Artículo 1° que la nación es la asociación política de todos los habitantes comprendidos dentro de su territorio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Democracia representativa y directa, con forma republicana y unitaria.",
           "is_correct": true,
           "feedback": "Correcto. Uruguay se organiza como una república unitaria con democracia representativa acoplada a mecanismos directos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Monarquía parlamentaria hereditaria federal.",
           "is_correct": false,
           "feedback": "Incorrecto. Uruguay no posee corona ni reyes; es una república unitaria."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Confederación autocrática militar sin división de poderes.",
           "is_correct": false,
           "feedback": "Incorrecto. La Constitución consagra la república democrática con tres poderes independientes."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. El Estado uruguayo es laico y separado de toda religión desde la Constitución de 1918."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La Constitución uruguaya establece una forma republicana y unitaria de gobierno sustentada en la soberanía popular representativa y directa.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -64,25 +64,25 @@
           "feedback": "Incorrecto. El Tribunal de Cuentas es el órgano de control externo del presupuesto público."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La Asamblea General (compuesta por la Cámara de Senadores y la Cámara de Representantes).",
           "is_correct": true,
           "feedback": "Correcto. La Asamblea General es el parlamento bicameral nacional (30 senadores + Vicepresidente y 99 diputados)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El Consejo de Ministros Departamentales.",
           "is_correct": false,
           "feedback": "Incorrecto. El Consejo de Ministros integra el Poder Ejecutivo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La Suprema Corte de Justicia.",
           "is_correct": false,
           "feedback": "Incorrecto. La Suprema Corte encabeza el Poder Judicial."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La Asamblea General es el órgano bicameral de la representación nacional en Uruguay, integrado por la Cámara de Senadores y la de Representantes.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -109,13 +109,13 @@
           "feedback": "Incorrecto. No regula salarios ni presupuestos de empresas privadas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Organizar, supervisar y proclamar los resultados de los actos electorales, plebiscitos y referéndums.",
           "is_correct": true,
           "feedback": "Correcto. La Corte Electoral administra el Registro Cívico Nacional y garantiza la máxima imparcialidad en comicios."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Comandar a las fuerzas armadas durante tiempos de guerra exterior.",
           "is_correct": false,
           "feedback": "Incorrecto. El mando superior de las Fuerzas Armadas lo ejerce el Presidente de la República en Consejo de Ministros."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. La administración de justicia penal compete exclusivamente al Poder Judicial."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La Corte Electoral uruguaya goza de máxima independencia institucional, velando por la transparencia del Registro Cívico y los actos de votación.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -154,25 +154,25 @@
           "feedback": "Incorrecto. El plebiscito se utiliza para reformar el texto de la Constitución, no para derogar leyes comunes."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Referéndum contra las leyes (Artículo 79 de la Constitución).",
           "is_correct": true,
           "feedback": "Correcto. El recurso de referéndum permite al cuerpo electoral decidir la derogación de leyes aprobadas por la Asamblea General."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Juicio político parlamentario.",
           "is_correct": false,
           "feedback": "Incorrecto. El juicio político juzga la responsabilidad de altos funcionarios estatales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Acción de amparo preventivo.",
           "is_correct": false,
           "feedback": "Incorrecto. El amparo es una garantía judicial de protección de derechos fundamentales vulnerados."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El recurso de referéndum es el mecanismo de democracia directa por el cual el electorado decide si mantiene o deroga una ley dictada por el parlamento.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,25 +199,25 @@
           "feedback": "Incorrecto. Las reformas constitucionales son actos soberanos internos sin mediación diplomática."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La iniciativa popular de reforma constitucional sometida a plebiscito en la elección nacional más inmediata.",
           "is_correct": true,
           "feedback": "Correcto. El 10% de los inscritos puede presentar un proyecto de reforma constitucional que se vota en plebiscito junto a las elecciones nacionales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La firma de un decreto por parte del Intendente de Montevideo.",
           "is_correct": false,
           "feedback": "Incorrecto. Los intendentes dirigen los gobiernos departamentales y no reforman la Constitución."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Un acuerdo comercial privado sancionado por la Bolsa de Valores.",
           "is_correct": false,
           "feedback": "Incorrecto. Los tratados o contratos privados no modifican la Carta Magna del Estado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La iniciativa popular del 10% del padrón electoral permite elevar proyectos de enmienda constitucional para su ratificación plebiscitaria directa por el pueblo.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Estudias la reforma constitucional de 1997 que modificó profundamente el sistema electoral uruguayo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El nombramiento directo por el candidato que quede en tercer lugar.",
           "is_correct": false,
           "feedback": "Incorrecto. El sistema democrático consagra el triunfo de las mayorías electorales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La segunda vuelta electoral (balotaje) en noviembre entre las dos fórmulas más votadas.",
           "is_correct": true,
           "feedback": "Correcto. Si ninguna fórmula presidencial supera el 50% de los votos válidos en octubre, se celebra un balotaje en noviembre."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Uruguay es una república democrática que no contempla monarquías."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La reforma constitucional de 1997 introdujo el balotaje para asegurar legitimidad de mayoría absoluta a la fórmula presidencial electa.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,25 +289,25 @@
           "feedback": "Incorrecto. Uruguay no posee provincias sino departamentos y municipios."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Los Municipios (encabezados por el Alcalde y cuatro Concejalas/es).",
           "is_correct": true,
           "feedback": "Correcto. Creó el tercer nivel de gobierno local mediante Municipios electos por la ciudadanía en cada departamento."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los Cabildos Virreinales Abiertos.",
           "is_correct": false,
           "feedback": "Incorrecto. Los Cabildos Virreinales corresponden a la institucionalidad colonial del siglo XVIII."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Las Capitanías Generales de Frontera.",
           "is_correct": false,
           "feedback": "Incorrecto. Mismo anacronismo colonial del período hispánico."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La creación de los Municipios instituyó el tercer nivel de gobierno local para promover la participación democrática directa de las comunidades.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,25 +334,25 @@
           "feedback": "Incorrecto. La Constitución garantiza el pluralismo y la libertad de residencia en todo el territorio."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El derecho a ser protegidos en el goce de su vida, honor, libertad, seguridad, trabajo y propiedad.",
           "is_correct": true,
           "feedback": "Correcto. El Art. 7° consagra la protección estatal de la vida, honor, libertad, seguridad, trabajo y propiedad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El derecho a evadir impuestos sin sanción legal alguna.",
           "is_correct": false,
           "feedback": "Incorrecto. El cumplimiento de las cargas tributarias aprobadas por ley es un deber ciudadano."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La facultad de expropiar bienes privados sin indemnización previa.",
           "is_correct": false,
           "feedback": "Incorrecto. El Art. 32 protege la propiedad privada y exige justa y previa indemnización para expropiar."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El Artículo 7° de la Constitución constituye el pilar garantista que impone al Estado el deber de proteger la vida, libertad, trabajo y propiedad de los habitantes.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Un grupo de ciudadanos interpone un recurso de inconstitucionalidad contra una ley aprobada por el parlamento ante el órgano judicial supremo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El Tribunal de Apelaciones en lo Trabajo.",
           "is_correct": false,
           "feedback": "Incorrecto. Los Tribunales de Apelaciones revisan sentencias de primera instancia en sus respectivos fueros."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La Suprema Corte de Justicia.",
           "is_correct": true,
           "feedback": "Correcto. La Suprema Corte de Justicia ejerce en exclusiva el control concentrado de constitucionalidad de las leyes."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. El Consejo de Estado fue un órgano de facto disuelto con el retorno a la democracia en 1985."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La Suprema Corte de Justicia es el máximo órgano del Poder Judicial con potestad exclusiva para declarar la inconstitucionalidad de las leyes.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "La Ley N° 18.381 consagra en Uruguay el Derecho de Acceso a la Información Pública como una herramienta de transparencia republicana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que toda la información estatal es secreta por defecto y no se puede consultar.",
           "is_correct": false,
           "feedback": "Incorrecto. La ley consagra el principio opuesto: la publicidad es la regla y el secreto la excepción."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que toda la información producida o en posesión de organismos públicos es pública, salvo excepciones expresas de reserva, confidencialidad o secreto votadas por ley.",
           "is_correct": true,
           "feedback": "Correcto. El acceso es la regla general para promover el control ciudadano y la transparencia gubernamental."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. El ejercicio del derecho de acceso a la información pública es gratuito."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La Ley de Acceso a la Información Pública consagra el principio de transparencia republicana, garantizando el derecho ciudadano a auditar la gestión estatal.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Analizás el debate jurídico y político que rodeó a la Ley de Caducidad de la Pretensión Punitiva del Estado (N° 15.848) aprobada en 1986 y las sentencias posteriores de la Corte Interamericana de Derechos Humanos (Caso Gelman vs. Uruguay).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que las consultas populares avalan la ejecución de crímenes sin revisión de tratados.",
           "is_correct": false,
           "feedback": "Incorrecto. La CIDH dictaminó que la voluntad popular no puede conculcar derechos indisponibles garantizados por tratados internacionales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que las ratificaciones plebiscitarias de una ley de amnistía no pueden amparar la impunidad de crímenes de lesa humanidad violentando la Convención Americana de DDHH.",
           "is_correct": true,
           "feedback": "Correcto. La CIDH ratificó que las violaciones graves a los DDHH son inamnistiables e imprescriptibles, prevaleciendo sobre leyes internas sin importar si fueron respaldadas en las urnas."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. La prescripción penal ordinaria no aplica a crímenes de lesa humanidad."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El fallo Gelman sentó la supremacía de las normas imperativas del Derecho Internacional de los DDHH (*jus cogens*) sobre leyes de amnistía internas a crímenes de lesa humanidad.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Incorrecto. El Artículo 29 prohíbe expresamente la censura previa."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Prohíbe la censura previa, pero responsabiliza al autor por los abusos que cometa (calumnia e injuria) según la ley ordinaria.",
           "is_correct": true,
           "feedback": "Correcto. Toda persona es libre de emitir su opinión por cualquier medio sin censura previa, respondiendo a posteriori por los delitos cometidos en el abuso de esa libertad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Exige que todo periodista posea un carné aprobado por las intendencias.",
           "is_correct": false,
           "feedback": "Incorrecto. No se exige colegiación ni autorización previa gubernamental para ejercer la libertad de expresión."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. El debate y la crítica de las políticas públicas es pilar de la libertad republicana."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El Artículo 29 consagra el principio republicano de prohibición de la censura previa, garantizando la libertad de expresión con responsabilidad ulterior por abusos.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "En la evolución constitucional de Uruguay, la Carta Magna de 1918 separó la Iglesia del Estado y eliminó el Poder Ejecutivo Colegiado creado originalmente.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Consagró una religión oficial de estado obligatoria para los cargos públicos.",
           "is_correct": false,
           "feedback": "Incorrecto. Suprimió la religión oficial del Estado consagrando la laicidad plena."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Consagró la absoluta laicidad del Estado, garantizando la libertad de todos los cultos y eximiendo de impuestos a los templos religiosos.",
           "is_correct": true,
           "feedback": "Correcto. La Carta de 1918 separó jurídicamente la Iglesia del Estado, afirmando la neutralidad estatal en materia religiosa."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Las leyes son atribución exclusiva de los poderes laicos representativos del pueblo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La Constitución de 1918 marcó el hito secularizador que consolidó la matriz laica del Estado uruguayo y la neutralidad confesional de las instituciones públicas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,25 +649,25 @@
           "feedback": "Incorrecto. Es un procedimiento comercial o civil común, no de amparo constitucional."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Contra todo acto u omisión de autoridades públicas o particulares que lesione o amenace con laidez o arbitrariedad manifiesta un derecho constitucional no amparado por habeas corpus.",
           "is_correct": true,
           "feedback": "Correcto. El amparo protege de forma urgente cualquier derecho constitucional vulnerado por actos ilegítimos cuando no existan otros medios procesales eficaces."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Para solicitar la eximición permanente de pagar el consumo de energía eléctrica.",
           "is_correct": false,
           "feedback": "Incorrecto. El pago de tarifas públicas no constituye una lesión ilegítima de un derecho si se ajusta a derecho."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Únicamente en tiempos de declaración de estado de guerra exterior.",
           "is_correct": false,
           "feedback": "Incorrecto. Procede en tiempos de plena normalidad institucional democrática."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La Acción de Amparo es la garantía procesal urgente consagrada para restituir el goce de derechos constitucionales conculcados por ilegitimidad manifiesta.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -784,25 +784,25 @@
           "feedback": "Incorrecto. La escuela pública uruguaya es estrictamente laica y neutral según los principios varelianos."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Entre quienes sostienen que la laicidad exige la ausencia total de expresiones religiosas o identitarias en lo público y quienes defienden que el Estado laico debe garantizar la manifestación pluralista e inclusiva de todas las visiones sin privilegiar ninguna.",
           "is_correct": true,
           "feedback": "Correcto. Contrapone la tradición de estricta reserva de lo confesional al ámbito privado frente a visiones contemporáneas que promueven el libre ejercicio pluralista e inclusivo en la esfera pública sin coacción."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "En la prohibición de enseñar ciencias naturales o matemáticas en el sistema educativo.",
           "is_correct": false,
           "feedback": "Incorrecto. Las ciencias y humanidades forman el núcleo curricular del sistema educativo laico."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "En la obligación de que los jueces vistan túnicas clericales durante los juicios.",
           "is_correct": false,
           "feedback": "Incorrecto. El Poder Judicial uruguayo es laico e independiente de corporaciones eclesiásticas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El debate contemporáneo sobre la laicidad en Uruguay evoluciona desde una visión de reserva privada de creencias hacia un pluralismo garantista que abrace la diversidad en el espacio público.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,25 +829,25 @@
           "feedback": "Incorrecto. Las normas presupuestales buscan justamente controlar y ordenar el gasto público."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Evitar la 'politización' del presupuesto mediante aditivos fuera de rubro, garantizando la sostenibilidad financiera y el estricto control de la Asamblea General sobre los recursos del Estado.",
           "is_correct": true,
           "feedback": "Correcto. El marco constitucional exige que todo gasto o creación de cargo esté respaldado por créditos presupuestales debidamente financiados, protegiendo el equilibrio fiscal y la transparencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Impedir que el Poder Judicial reciba financiamiento del Tesoro Nacional.",
           "is_correct": false,
           "feedback": "Incorrecto. Todos los poderes del Estado reciben partidas presupuestales aprobadas por ley de presupuesto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Permitir que el Presidente modifique las alícuotas del IVA mediante un decreto simple sin ley.",
           "is_correct": false,
           "feedback": "Incorrecto. La creación o modificación de tributos exige ley en sentido formal aprobada por el parlamento."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Las exigencias constitucionales sobre la Ley de Presupuesto previenen aditivos demagógicos y resguardan la sostenibilidad fiscal y el control parlamentario de las finanzas públicas.\n\n---",
       "difficulty": "10",
       "images": [],

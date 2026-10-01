@@ -19,13 +19,13 @@
           "feedback": "Incorrecto. Este es el valor de un ángulo recto."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "180°",
           "is_correct": true,
           "feedback": "Correcto. Por teorema fundamental de la geometría euclidiana, la suma de los ángulos internos de un triángulo siempre es 180°."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "360°",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la suma de los ángulos externos o de los internos de un cuadrilátero."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. No corresponde a la suma de ángulos internos de un polígono básico."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La propiedad de la suma de los ángulos internos ($180°$) es la base para resolver la mayoría de los problemas de triángulos. Es una consecuencia directa del axioma de las paralelas.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,19 +58,19 @@
       "context": "Clasificación de triángulos según sus lados en un taller de arte en Cusco.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Isósceles.",
           "is_correct": false,
           "feedback": "Incorrecto. El isósceles tiene al menos dos lados iguales."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Equilátero.",
           "is_correct": false,
           "feedback": "Incorrecto. El equilátero tiene los tres lados iguales."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Escaleno.",
           "is_correct": true,
           "feedback": "Correcto. Un triángulo escaleno es aquel cuyos tres lados poseen medidas distintas."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Esta es una clasificación según sus ángulos, no sus lados."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Los triángulos se clasifican según la relación entre sus lados en equilátero (3 iguales), isósceles (2 iguales) y escaleno (ninguno igual).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -109,13 +109,13 @@
           "feedback": "Incorrecto. La suma de ángulos internos no puede exceder 180°."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "70°",
           "is_correct": true,
           "feedback": "Correcto. Por propiedad, el ángulo exterior es igual a la suma de los dos internos no adyacentes: $110 = 40 + x \\Rightarrow x = 70$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "30°",
           "is_correct": false,
           "feedback": "Incorrecto. $40 + 30 = 70$, lo cual no coincide con el ángulo exterior de 110."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. El triángulo no es necesariamente isósceles."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El Teorema del Ángulo Exterior establece que la medida de un ángulo exterior de un triángulo es igual a la suma de las medidas de los dos ángulos interiores no adyacentes a él.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -154,13 +154,13 @@
           "feedback": "Incorrecto. Cumple la desigualdad: $3+4 > 5$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "10 cm, 10 cm, 10 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Es un triángulo equilátero perfectamente válido."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2 cm, 5 cm, 8 cm",
           "is_correct": true,
           "feedback": "Correcto. Según la desigualdad triangular, la suma de dos lados debe ser mayor al tercero. $2 + 5 = 7$, que es menor que 8, por lo que no cierra el triángulo."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Satisface todas las condiciones de la desigualdad triangular."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La existencia de un triángulo está condicionada por la Desigualdad Triangular: la suma de las longitudes de dos lados cualesquiera debe ser estrictamente mayor que la longitud del tercer lado.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -334,25 +334,25 @@
           "feedback": "Incorrecto. No consideró la suma de ángulos en el triángulo parcial $ABD$."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "70°",
           "is_correct": true,
           "feedback": "Correcto. Ángulo $B$ total $= 180 - (70+30) = 80°$. La bisectriz $BD$ da dos ángulos de 40°. En el triángulo $ABD$: Ángulo $ADB = 180 - (70 + 40) = 70°$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "80°",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el valor del ángulo $B$ original."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "110°",
           "is_correct": false,
           "feedback": "Incorrecto. Este sería el ángulo suplementario (su exterior)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Primero hallamos el tercer ángulo del triángulo principal. Luego usamos la definición de bisectriz para dividir ese ángulo. Finalmente, aplicamos la suma de ángulos internos al triángulo pequeño formado por la bisectriz.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,13 +424,13 @@
           "feedback": "Incorrecto. El lado $a$ se opone al ángulo más grande, por lo que debe ser el mayor."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$c < b < a$",
           "is_correct": false,
           "feedback": "Incorrecto. El ángulo $C$ es $60°$, que es mayor que el de $40°$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$b < c < a$",
           "is_correct": true,
           "feedback": "Correcto. Ángulo $C = 180 - (80+40) = 60°$. Orden de ángulos: $B(40) < C(60) < A(80)$. Por propiedad de correspondencia, los lados siguen el mismo orden: $b < c < a$."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Contradice la regla de a mayor ángulo se opone mayor lado."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La Propiedad de Correspondencia establece que en todo triángulo, al ángulo de mayor medida se le opone el lado de mayor longitud, y viceversa. Calculamos el ángulo faltante para establecer la jerarquía completa.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Puntos notables del triángulo: El baricentro, tema común en la UNI.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "20 cm",
           "is_correct": false,
           "feedback": "Incorrecto. El baricentro no divide a la mediana por la mitad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "15 cm",
           "is_correct": true,
           "feedback": "Correcto. El baricentro divide a la mediana en relación 2:1. Si $AG = 10$, entonces $GM = 5$. La mediana completa es $10 + 5 = 15$."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. El segmento mayor $AG$ debe ser dos tercios del total."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El baricentro (punto de intersección de las medianas) se ubica a dos tercios de la distancia desde el vértice hacia el punto medio del lado opuesto. Es decir, $AG = 2 \\cdot GM$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Incorrecto. Error en el cálculo del semiperímetro o en la multiplicación final."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "84 m²",
           "is_correct": true,
           "feedback": "Correcto. Semiperímetro $s = (13+14+15)/2 = 21$. Área $= \\sqrt{21(21-13)(21-14)(21-15)} = \\sqrt{21 \\cdot 8 \\cdot 7 \\cdot 6} = \\sqrt{7056} = 84$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "42 m²",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó que la raíz de 7056 no es 42."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. No aplicó correctamente la fórmula de Herón."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Cuando se conocen los tres lados de un triángulo, se utiliza la fórmula de Herón: $A = \\sqrt{s(s-a)(s-b)(s-c)}$. Primero calculamos el semiperímetro $s$ y luego operamos bajo la raíz.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "Triángulos notables y relaciones trigonométricas básicas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$5\\sqrt{3}$ cm",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la medida del cateto mayor (adyacente a 30°)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "10 cm",
           "is_correct": true,
           "feedback": "Correcto. En el triángulo notable 30-60, la hipotenusa es siempre el doble del cateto menor (opuesto a 30°)."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. La relación es 1:2, no 1:1.5."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El triángulo 30°-60° es un triángulo notable cuya relación de lados es $k, k\\sqrt{3}, 2k$. Como el cateto menor es $5$ ($k=5$), la hipotenusa es $2k = 10$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorrecto. Aplicó mal la proporción del teorema."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "10",
           "is_correct": true,
           "feedback": "Correcto. Teorema: $AB / BC = AE / CE$. Sea $CE = x$. Entonces $6 / 4 = (5 + x) / x \\Rightarrow 6x = 20 + 4x \\Rightarrow 2x = 20 \\Rightarrow x = 10$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "7.5",
           "is_correct": false,
           "feedback": "Incorrecto. Error en el despeje de la ecuación de proporciones."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Valor obtenido por una interpretación errónea de la extensión del segmento."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El Teorema de la Bisectriz Exterior establece que la razón entre los lados que forman el ángulo es igual a la razón entre los segmentos determinados por la bisectriz sobre la recta que contiene al tercer lado.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Incorrecto. 16 es el diámetro, no el radio elevado al cuadrado."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "64$\\pi$ cm²",
           "is_correct": true,
           "feedback": "Correcto. En un triángulo rectángulo, la mediana a la hipotenusa mide la mitad de esta. Entonces hipotenusa $= 16$. El radio del círculo circunscrito es la mitad de la hipotenusa: $R = 8$. Área $= \\pi \\cdot 8^2 = 64\\pi$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "32$\\pi$ cm²",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la aplicación de la fórmula del área del círculo."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Usó el valor de la hipotenusa como radio."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Propiedad clave: en un triángulo rectángulo, el circuncentro coincide con el punto medio de la hipotenusa. Por lo tanto, el radio del círculo es igual a la mediana relativa a la hipotenusa.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "Incorrecto. La suma de distancias se relaciona con la altura, no con el lado directamente."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Igual a la altura del triángulo.",
           "is_correct": true,
           "feedback": "Correcto. Según el Teorema de Viviani, para un triángulo equilátero, la suma de las distancias desde un punto interior a los lados es igual a la longitud de su altura."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Igual al perímetro del triángulo.",
           "is_correct": false,
           "feedback": "Incorrecto. Magnitud físicamente desproporcionada."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Depende de la posición del punto $P$.",
           "is_correct": false,
           "feedback": "Incorrecto. Por el Teorema de Viviani, esta suma es invariante para cualquier punto interior."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El Teorema de Viviani es una propiedad elegante de los polígonos regulares. En el caso del triángulo equilátero, se demuestra fácilmente igualando el área total a la suma de las áreas de los tres triángulos menores formados por el punto $P$ y los lados.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. Valor obtenido por una suposición de isósceles incorrecta."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "10°",
           "is_correct": true,
           "feedback": "Correcto. Es un problema clásico que requiere trazos auxiliares (triángulo equilátero exterior). Mediante congruencia de triángulos se demuestra que el ángulo buscado es la mitad del ángulo $C$, resultando en 10°."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "40°",
           "is_correct": false,
           "feedback": "Incorrecto. Sobreestima la apertura del ángulo solicitado."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Error en la resolución del sistema de ángulos internos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Este es un problema de olimpiada que evalúa la capacidad de ver simetrías y realizar construcciones auxiliares. La relación de lados dada permite identificar triángulos congruentes ocultos que revelan las medidas angulares.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Cálculo de la distancia entre puntos notables: incentro y circuncentro.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "2 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Aproximación errónea."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sqrt{5}$ cm",
           "is_correct": true,
           "feedback": "Correcto. Hipotenusa $= 10$. Inradio $r = (6+8-10)/2 = 2$. Circunradio $R = 5$. Fórmula de Euler: $d^2 = R(R - 2r)$. $d^2 = 5(5 - 4) = 5 \\Rightarrow d = \\sqrt{5}$."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. No satisface la relación geométrica entre los centros."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Primero calculamos las dimensiones del triángulo y sus radios asociados (inradio por el Teorema de Poncelet y circunradio como mitad de la hipotenusa). Luego aplicamos el Teorema de Euler para la distancia entre estos dos centros.",
       "difficulty": "10",
       "images": [],

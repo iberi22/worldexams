@@ -70,19 +70,19 @@
           "feedback": "Incorrecto. Signos invertidos y radio no elevado al cuadrado."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$(x - 2)^2 + (y + 3)^2 = 16$",
           "is_correct": true,
           "feedback": "Correcto. Sustituyendo en la fórmula estándar."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(x - 2)^2 + (y + 3)^2 = 4$",
           "is_correct": false,
           "feedback": "Incorrecto. No se elevó el radio al cuadrado."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La ecuación estándar de una circunferencia es $(x - h)^2 + (y - k)^2 = r^2$. Con centro en $(2, -3)$ y radio 4, sustituimos: $(x - 2)^2 + (y - (-3))^2 = 4^2 \\implies (x - 2)^2 + (y + 3)^2 = 16$.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -115,19 +115,19 @@
           "feedback": "Incorrecto. Este representa el diámetro de la circunferencia."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "18.84 cm",
           "is_correct": false,
           "feedback": "Incorrecto. No se multiplicó por 2 la fórmula."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "37.68 cm",
           "is_correct": true,
           "feedback": "Correcto. Aplicando $L = 2\\pi r$."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": "La longitud de una circunferencia se calcula mediante la fórmula $L = 2\\pi r$. Con $r = 6$ cm y $\\pi \\approx 3.14$: $L \\approx 2 \\times 3.14 \\times 6 = 37.68$ cm.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -148,31 +148,31 @@
       "context": "En Fajardo, Carmen analiza un problema de modelación matemática para un proyecto de la Escuela Superior Dr. Santiago Veve Calzada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "113.04 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Se calculó el área del círculo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "12 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Este representa el diámetro de la circunferencia."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "18.84 cm",
           "is_correct": false,
           "feedback": "Incorrecto. No se multiplicó por 2 la fórmula."
         },
         {
-          "letter": "D",
+          "letter": "A",
           "text": "37.68 cm",
           "is_correct": true,
           "feedback": "Correcto. Aplicando $L = 2\\pi r$."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": "La longitud de una circunferencia se calcula mediante la fórmula $L = 2\\pi r$. Con $r = 6$ cm y $\\pi \\approx 3.14$: $L \\approx 2 \\times 3.14 \\times 6 = 37.68$ cm.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -205,19 +205,19 @@
           "feedback": "Incorrecto. Este representa el diámetro de la circunferencia."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "18.84 cm",
           "is_correct": false,
           "feedback": "Incorrecto. No se multiplicó por 2 la fórmula."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "37.68 cm",
           "is_correct": true,
           "feedback": "Correcto. Aplicando $L = 2\\pi r$."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": "La longitud de una circunferencia se calcula mediante la fórmula $L = 2\\pi r$. Con $r = 6$ cm y $\\pi \\approx 3.14$: $L \\approx 2 \\times 3.14 \\times 6 = 37.68$ cm.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -238,19 +238,19 @@
       "context": "Como parte de las olimpiades científicas en Mayagüez, Carlos aplica conceptos algebraicos en la Escuela Superior de Mayagüez (SILA).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "18.84 cm",
           "is_correct": true,
           "feedback": "Correcto. Aplicando $L = 2\\pi r$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "28.26 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Se calculó el área del círculo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "6 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Este representa el diámetro de la circunferencia."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. No se multiplicó por 2 la fórmula."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La longitud de una circunferencia se calcula mediante la fórmula $L = 2\\pi r$. Con $r = 3$ cm y $\\pi \\approx 3.14$: $L \\approx 2 \\times 3.14 \\times 3 = 18.84$ cm.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -340,19 +340,19 @@
           "feedback": "Incorrecto. Se calculó el área del círculo."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "28.26 cm",
           "is_correct": false,
           "feedback": "Incorrecto. No se multiplicó por 2 la fórmula."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "56.52 cm",
           "is_correct": true,
           "feedback": "Correcto. Aplicando $L = 2\\pi r$."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": "La longitud de una circunferencia se calcula mediante la fórmula $L = 2\\pi r$. Con $r = 9$ cm y $\\pi \\approx 3.14$: $L \\approx 2 \\times 3.14 \\times 9 = 56.52$ cm.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,31 +373,31 @@
       "context": "Un grupo de estudiantes de la Escuela Superior Patria Latorre Ramírez en Humacao realiza una investigación guiada por Sofía.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "18.84 cm",
           "is_correct": true,
           "feedback": "Correcto. Aplicando $L = 2\\pi r$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "28.26 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Se calculó el área del círculo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "6 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Este representa el diámetro de la circunferencia."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "9.42 cm",
           "is_correct": false,
           "feedback": "Incorrecto. No se multiplicó por 2 la fórmula."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La longitud de una circunferencia se calcula mediante la fórmula $L = 2\\pi r$. Con $r = 3$ cm y $\\pi \\approx 3.14$: $L \\approx 2 \\times 3.14 \\times 3 = 18.84$ cm.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "En Arecibo, José estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior Luis Muñoz Marín.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "18.84 cm",
           "is_correct": true,
           "feedback": "Correcto. Aplicando $L = 2\\pi r$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "28.26 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Se calculó el área del círculo."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. No se multiplicó por 2 la fórmula."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La longitud de una circunferencia se calcula mediante la fórmula $L = 2\\pi r$. Con $r = 3$ cm y $\\pi \\approx 3.14$: $L \\approx 2 \\times 3.14 \\times 3 = 18.84$ cm.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,31 +463,31 @@
       "context": "Un grupo de estudiantes de la Escuela Superior Medardo Carazo en Trujillo Alto realiza una investigación guiada por Diego.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "18 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Este representa el diámetro de la circunferencia."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "254.34 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Se calculó el área del círculo."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "28.26 cm",
           "is_correct": false,
           "feedback": "Incorrecto. No se multiplicó por 2 la fórmula."
         },
         {
-          "letter": "D",
+          "letter": "A",
           "text": "56.52 cm",
           "is_correct": true,
           "feedback": "Correcto. Aplicando $L = 2\\pi r$."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": "La longitud de una circunferencia se calcula mediante la fórmula $L = 2\\pi r$. Con $r = 9$ cm y $\\pi \\approx 3.14$: $L \\approx 2 \\times 3.14 \\times 9 = 56.52$ cm.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -508,31 +508,31 @@
       "context": "En San Juan, Camila diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior de la Universidad de Puerto Rico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "18.84 cm",
           "is_correct": true,
           "feedback": "Correcto. Aplicando $L = 2\\pi r$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "28.26 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Se calculó el área del círculo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "6 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Este representa el diámetro de la circunferencia."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "9.42 cm",
           "is_correct": false,
           "feedback": "Incorrecto. No se multiplicó por 2 la fórmula."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La longitud de una circunferencia se calcula mediante la fórmula $L = 2\\pi r$. Con $r = 3$ cm y $\\pi \\approx 3.14$: $L \\approx 2 \\times 3.14 \\times 3 = 18.84$ cm.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -598,31 +598,31 @@
       "context": "Como parte de las olimpiades científicas en Río Piedras, Valentina aplica conceptos algebraicos en la Escuela Superior Ramón Power y Giralt.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "113.04 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Se calculó el área del círculo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "12 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Este representa el diámetro de la circunferencia."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "18.84 cm",
           "is_correct": false,
           "feedback": "Incorrecto. No se multiplicó por 2 la fórmula."
         },
         {
-          "letter": "D",
+          "letter": "A",
           "text": "37.68 cm",
           "is_correct": true,
           "feedback": "Correcto. Aplicando $L = 2\\pi r$."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": "La longitud de una circunferencia se calcula mediante la fórmula $L = 2\\pi r$. Con $r = 6$ cm y $\\pi \\approx 3.14$: $L \\approx 2 \\times 3.14 \\times 6 = 37.68$ cm.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,31 +643,31 @@
       "context": "En Guaynabo, José analiza un problema de modelación matemática para un proyecto de la Escuela Superior Margarita Janer Palacios.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "113.04 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Se calculó el área del círculo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "12 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Este representa el diámetro de la circunferencia."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "18.84 cm",
           "is_correct": false,
           "feedback": "Incorrecto. No se multiplicó por 2 la fórmula."
         },
         {
-          "letter": "D",
+          "letter": "A",
           "text": "37.68 cm",
           "is_correct": true,
           "feedback": "Correcto. Aplicando $L = 2\\pi r$."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": "La longitud de una circunferencia se calcula mediante la fórmula $L = 2\\pi r$. Con $r = 6$ cm y $\\pi \\approx 3.14$: $L \\approx 2 \\times 3.14 \\times 6 = 37.68$ cm.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,31 +688,31 @@
       "context": "En Utuado, Mateo estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior Luis Muñoz Rivera.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "18 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Este representa el diámetro de la circunferencia."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "254.34 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Se calculó el área del círculo."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "28.26 cm",
           "is_correct": false,
           "feedback": "Incorrecto. No se multiplicó por 2 la fórmula."
         },
         {
-          "letter": "D",
+          "letter": "A",
           "text": "56.52 cm",
           "is_correct": true,
           "feedback": "Correcto. Aplicando $L = 2\\pi r$."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": "La longitud de una circunferencia se calcula mediante la fórmula $L = 2\\pi r$. Con $r = 9$ cm y $\\pi \\approx 3.14$: $L \\approx 2 \\times 3.14 \\times 9 = 56.52$ cm.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -745,19 +745,19 @@
           "feedback": "Incorrecto. Se calculó el área del círculo."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "28.26 cm",
           "is_correct": false,
           "feedback": "Incorrecto. No se multiplicó por 2 la fórmula."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "56.52 cm",
           "is_correct": true,
           "feedback": "Correcto. Aplicando $L = 2\\pi r$."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": "La longitud de una circunferencia se calcula mediante la fórmula $L = 2\\pi r$. Con $r = 9$ cm y $\\pi \\approx 3.14$: $L \\approx 2 \\times 3.14 \\times 9 = 56.52$ cm.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -778,19 +778,19 @@
       "context": "Durante un taller de preparación académica en la Escuela Superior Dra. Concepción Aponte de Bayamón, Yaritza resuelve un ejercicio propuesto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "18.84 cm",
           "is_correct": true,
           "feedback": "Correcto. Aplicando $L = 2\\pi r$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "28.26 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Se calculó el área del círculo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "6 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Este representa el diámetro de la circunferencia."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. No se multiplicó por 2 la fórmula."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La longitud de una circunferencia se calcula mediante la fórmula $L = 2\\pi r$. Con $r = 3$ cm y $\\pi \\approx 3.14$: $L \\approx 2 \\times 3.14 \\times 3 = 18.84$ cm.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -868,31 +868,31 @@
       "context": "En Cabo Rojo, Yaritza diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Monserrate León de Irizarry.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "18 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Este representa el diámetro de la circunferencia."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "254.34 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Se calculó el área del círculo."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "28.26 cm",
           "is_correct": false,
           "feedback": "Incorrecto. No se multiplicó por 2 la fórmula."
         },
         {
-          "letter": "D",
+          "letter": "A",
           "text": "56.52 cm",
           "is_correct": true,
           "feedback": "Correcto. Aplicando $L = 2\\pi r$."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": "La longitud de una circunferencia se calcula mediante la fórmula $L = 2\\pi r$. Con $r = 9$ cm y $\\pi \\approx 3.14$: $L \\approx 2 \\times 3.14 \\times 9 = 56.52$ cm.\n\n---",
       "difficulty": "10",
       "images": [],

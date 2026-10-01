@@ -19,13 +19,13 @@
           "feedback": "Incorrect. Obsolete means no longer used."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "breakthrough",
           "is_correct": true,
           "feedback": "Correct. A breakthrough is a significant development or discovery."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "drawback",
           "is_correct": false,
           "feedback": "Incorrect. A drawback is a disadvantage."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect. Legacy refers to something from the past."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Breakthrough' is used to describe a major advance in technology.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Article about the ethics of self-driving cars.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "ethical",
           "is_correct": true,
           "feedback": "Correct. Ethical dilemmas involve choices between moral imperatives."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "technical",
           "is_correct": false,
           "feedback": "Incorrect. While they are technical, the context of 'decisions' usually refers to morality/ethics in this debate."
@@ -172,7 +172,7 @@
           "feedback": "Incorrect. Aesthetic refers to beauty or appearance."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "The debate around autonomous vehicles frequently centers on the moral or ethical choices they must be programmed to make.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,19 +193,19 @@
       "context": "Discussion on the \"Internet of Things\" (IoT).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "accessibility",
           "is_correct": false,
           "feedback": "Incorrect. Accessibility usually means how easy it is to use."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "transparency",
           "is_correct": false,
           "feedback": "Incorrect. Transparency is usually seen as a positive."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "vulnerability",
           "is_correct": true,
           "feedback": "Correct. Vulnerability refers to being open to attack or harm."
@@ -217,7 +217,7 @@
           "feedback": "Incorrect. Encryption is a solution to data concerns."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "In cybersecurity, 'vulnerability' is the state of being susceptible to data breaches.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,31 +238,31 @@
       "context": "Description of a new app.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "streamline",
           "is_correct": true,
           "feedback": "Correct. To streamline means to make a system or process more efficient and effective."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "complicate",
           "is_correct": false,
           "feedback": "Incorrect. Complicate means to make things harder."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "ignore",
           "is_correct": false,
           "feedback": "Incorrect. Apps are designed to perform a task."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "delay",
           "is_correct": false,
           "feedback": "Incorrect. Delay means to make something late."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "'Streamline' is a common verb in business and technology contexts for improving efficiency.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Incorrect. First conditional."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "found",
           "is_correct": true,
           "feedback": "Correct. Second conditional for a present/future hypothetical situation."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "had found",
           "is_correct": false,
           "feedback": "Incorrect. Third conditional."
@@ -307,7 +307,7 @@
           "feedback": "Incorrect. 'Would' is not used in the 'if' clause."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The second conditional uses 'if + past simple' to discuss a hypothetical situation.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "Discussion about social media algorithms.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "curate",
           "is_correct": true,
           "feedback": "Correct. To curate means to select, organize, and look after the items in a collection."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "delete",
           "is_correct": false,
           "feedback": "Incorrect. Algorithms don't just delete content; they organize it."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "broadcast",
           "is_correct": false,
           "feedback": "Incorrect. Broadcasting is sending out to everyone, while algorithms personalize."
@@ -397,7 +397,7 @@
           "feedback": "Incorrect. Encryption is about security."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "'Curate' describes the process of selecting and presenting content tailored to a specific audience or individual.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,25 +469,25 @@
           "feedback": "Incorrect. You should never reveal your password."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "update",
           "is_correct": true,
           "feedback": "Correct. Updating means to make something more modern or current."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "forget",
           "is_correct": false,
           "feedback": "Incorrect. Forgetting your password is a problem."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "share",
           "is_correct": false,
           "feedback": "Incorrect. Sharing passwords is a security risk."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Update' is the standard term for changing a password to a new one.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "Article on Virtual Reality (VR).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "immersive",
           "is_correct": true,
           "feedback": "Correct. Immersive means providing information in a way that makes the user feel involved."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "superficial",
           "is_correct": false,
           "feedback": "Incorrect. Superficial means on the surface."
@@ -577,7 +577,7 @@
           "feedback": "Incorrect. Manual means done by hand."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "'Immersive' is the key adjective used to describe high-quality VR experiences.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,19 +643,19 @@
       "context": "Conclusion of a report on renewable energy tech.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "investment",
           "is_correct": true,
           "feedback": "Correct. Investment refers to putting money or effort into something for a future return."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "consumption",
           "is_correct": false,
           "feedback": "Incorrect. Consumption means using something up."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "neglect",
           "is_correct": false,
           "feedback": "Incorrect. Neglect would delay it even more."
@@ -667,7 +667,7 @@
           "feedback": "Incorrect. Curiosity is not enough to build infrastructure."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "'Investment' is the necessary action to build or upgrade infrastructure.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "Incorrect. They might seem friendly, but the specific term is 'phishing'."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "phishing",
           "is_correct": true,
           "feedback": "Correct. Phishing is a fraudulent attempt to obtain sensitive information."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "encrypted",
           "is_correct": false,
           "feedback": "Incorrect. Encrypted emails are secure."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "archived",
           "is_correct": false,
           "feedback": "Incorrect. Archived means stored."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Phishing' is the specific term for this type of cybercrime.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -778,31 +778,31 @@
       "context": "Text about wearable technology.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "monitor",
           "is_correct": true,
           "feedback": "Correct. To monitor means to observe and check the progress of something."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "ignore",
           "is_correct": false,
           "feedback": "Incorrect. They are designed to watch."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "fabricate",
           "is_correct": false,
           "feedback": "Incorrect. Fabricate means to invent to deceive."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "increase",
           "is_correct": false,
           "feedback": "Incorrect. They track the heart rate."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "'Monitor' is the precise verb for tracking data over time.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -874,25 +874,25 @@
           "feedback": "Incorrect. Diminish means to make less."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "augment",
           "is_correct": true,
           "feedback": "Correct. To augment means to make something greater by adding to it."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "replace",
           "is_correct": false,
           "feedback": "Incorrect. The text contrasts the tool with 'replacement'."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "restrict",
           "is_correct": false,
           "feedback": "Incorrect. Restrict means to limit."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Augment' correctly conveys the idea of enhancing or adding to existing human skills.",
       "difficulty": "10",
       "images": [],

@@ -13,13 +13,13 @@
       "context": "A fifth-grade student in Pereira paints a mural of Colombian landscapes for English class.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Yellow.",
           "is_correct": true,
           "feedback": "Ripe bananas are yellow, and \"yellow\" is the English word for that color."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Purple.",
           "is_correct": false,
           "feedback": "Purple is the color of eggplants, not ripe bananas."
@@ -37,7 +37,7 @@
           "feedback": "Orange is the color of carrots and oranges, not bananas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Recognizing basic color words in English (yellow, purple, gray, orange) associated with everyday objects.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "A student counts how many pencils there are in a classroom in Bucaramanga: \"one, two, three... ten pencils in total.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "10.",
           "is_correct": true,
           "feedback": "The cardinal number ten is written with the digits 1 and 0."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "100.",
           "is_correct": false,
           "feedback": "100 is \"one hundred\", not \"ten\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "12.",
           "is_correct": false,
           "feedback": "12 is \"twelve\", not \"ten\"."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "1.",
           "is_correct": false,
           "feedback": "1 is \"one\", not \"ten\"."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Connecting spoken cardinal numbers from one to ten with their numerical symbols in English.",
       "difficulty": "6",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "Read the price tag: \"This notebook costs fifty pesos (COP 50).\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "50.",
           "is_correct": true,
           "feedback": "Fifty equals five times ten and is written as the two-digit number 50."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "15.",
           "is_correct": false,
           "feedback": "15 is \"fifteen\", not \"fifty\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "5.",
           "is_correct": false,
           "feedback": "5 is \"five\", not \"fifty\"."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "500.",
           "is_correct": false,
           "feedback": "500 is \"five hundred\", not \"fifty\"."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Recognizing tens (twenty, thirty, forty, fifty, sixty...) by linking the spoken word to the digit.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "A teacher writes: \"100 - 25 = 75\" and asks students to read the result in English.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Seventy-five.",
           "is_correct": true,
           "feedback": "75 is read as \"seventy-five\" following the tens + ones structure."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sixty-five.",
           "is_correct": false,
           "feedback": "65 is \"sixty-five\", not \"seventy-five\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fifty-seven.",
           "is_correct": false,
           "feedback": "57 is \"fifty-seven\", not 75."
@@ -221,7 +221,7 @@
           "feedback": "705 would be \"seven hundred five\", a different number."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Forming compound numbers between twenty-one and ninety-nine in English (tens + hyphens + ones).",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "Read: \"There are three red apples, five yellow bananas, and ten green grapes on the table.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "18 pieces of fruit in total, and most are green grapes.",
           "is_correct": true,
           "feedback": "3 + 5 + 10 = 18 fruits, and grapes (10) are the most numerous."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "8 pieces of fruit, all of them yellow.",
           "is_correct": false,
           "feedback": "The total is 18, not 8, and the fruits have different colors."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "18 pieces of fruit, all of them red.",
           "is_correct": false,
           "feedback": "The fruits are red, yellow, and green, not all red."
@@ -267,7 +267,7 @@
           "feedback": "The total is 18 (3 + 5 + 10), not 15, and grapes are the most numerous."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Analyzing numerical and color information from a short descriptive English text.",
       "difficulty": "8",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "Two students compare colored pencils: \"I have twenty-five pencils: ten blue, eight red, and seven green.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "The student has 10 blue, 8 red, and 7 green pencils, totaling 25.",
           "is_correct": true,
           "feedback": "10 + 8 + 7 = 25 pencils distributed in three colors, which matches the text."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "The student has 7 blue, 8 red, and 10 green pencils, totaling 25.",
           "is_correct": false,
           "feedback": "The text states 10 blue and 7 green, so this swaps the quantities incorrectly."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "The student has 25 pencils, all of them red.",
           "is_correct": false,
           "feedback": "The pencils are blue, red, and green, not only red."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "The student has 25 pencils with no green ones.",
           "is_correct": false,
           "feedback": "The text clearly says seven green pencils are included."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Distinguishing accurate statements from inaccurate ones using numerical and color data in English.",
       "difficulty": "8",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "Read the routine sentence: \"Sara eats a delicious breakfast with fresh milk and bread at 7:00 a.m.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "In the morning.",
           "is_correct": true,
           "feedback": "7:00 a.m. corresponds to the morning hours."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "In the evening.",
           "is_correct": false,
           "feedback": "Evening refers to late afternoon/night hours (p.m.)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "At midnight.",
           "is_correct": false,
           "feedback": "Midnight is 12:00 a.m. at night, not 7:00 a.m."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "In the afternoon.",
           "is_correct": false,
           "feedback": "Afternoon is the period between noon (12:00 p.m.) and evening."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Associating times of day (a.m./p.m.) with daily meals and routines.",
       "difficulty": "4",
       "images": [],
@@ -473,31 +473,31 @@
       "context": "Carlos is talking about his sister Lucía's daily schedule.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "does.",
           "is_correct": true,
           "feedback": "Third-person singular (Lucía / she) requires \"does\" in Simple Present."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "do.",
           "is_correct": false,
           "feedback": "\"Do\" is used with I, you, we, they, not with third-person singular \"she\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "doing.",
           "is_correct": false,
           "feedback": "\"Doing\" needs an auxiliary verb (is doing) for continuous tense."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "done.",
           "is_correct": false,
           "feedback": "\"Done\" is the past participle form, not simple present."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Applying third-person singular conjugation rules (-s/-es/does) in Simple Present routines.",
       "difficulty": "6",
       "images": [],
@@ -519,19 +519,19 @@
       "context": "Look at the timeline: 6:30 a.m. Take a shower -> 7:00 a.m. Eat breakfast -> 7:30 a.m. Go to school.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "He eats breakfast.",
           "is_correct": true,
           "feedback": "According to the timeline, 7:00 a.m. breakfast follows 6:30 a.m. shower."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "He goes to school.",
           "is_correct": false,
           "feedback": "Going to school happens at 7:30 a.m., after eating breakfast."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "He plays soccer.",
           "is_correct": false,
           "feedback": "Playing soccer is not listed on this morning timeline."
@@ -543,7 +543,7 @@
           "feedback": "Going to bed is an evening activity, not a morning routine step."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Sequencing daily routine events using chronological order clues.",
       "difficulty": "6",
       "images": [],
@@ -565,31 +565,31 @@
       "context": "Two friends discuss how they travel to school every day in Cali.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "take.",
           "is_correct": true,
           "feedback": "\"Take the bus\" is the correct verb collocation for bus transportation."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "drive.",
           "is_correct": false,
           "feedback": "Students take/ride the bus; the bus driver drives the bus."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "sleep.",
           "is_correct": false,
           "feedback": "\"Sleep the bus\" is not a meaningful verb combination."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "cook.",
           "is_correct": false,
           "feedback": "\"Cook\" is used for food, not transportation."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Using common collocations for transportation routines (take the bus, walk to school).",
       "difficulty": "6",
       "images": [],
@@ -703,19 +703,19 @@
       "context": "Read the advice column: \"Going to sleep at 11:30 p.m. and waking up at 5:00 a.m. leaves children tired during school classes. Children need 8 to 9 hours of sleep every night to concentrate well.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Go to bed earlier at night to get at least 8 hours of restful sleep.",
           "is_correct": true,
           "feedback": "Sleeping earlier ensures the recommended 8-9 hours of rest for learning."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Drink coffee at midnight to stay awake during morning classes.",
           "is_correct": false,
           "feedback": "Coffee late at night disrupts sleep quality and is unhealthy for children."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Skip breakfast and run to school as fast as possible.",
           "is_correct": false,
           "feedback": "Skipping breakfast decreases energy and concentration in class."
@@ -727,7 +727,7 @@
           "feedback": "Watching TV until late reduces sleep time even further."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evaluating health and habit recommendations based on daily routine text information.",
       "difficulty": "10",
       "images": [],

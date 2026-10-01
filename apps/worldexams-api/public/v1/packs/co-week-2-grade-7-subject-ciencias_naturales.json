@@ -105,19 +105,19 @@
       "context": "En una carrera atlética escolar en el estadio de Cali, una niña siente que sus piernas se mueven con fuerza rítmica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Tejido nervioso del cerebro",
           "is_correct": false,
           "feedback": "Incorrecta porque el tejido nervioso coordina, pero no genera la fuerza del movimiento."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Tejido epitelial de la piel",
           "is_correct": false,
           "feedback": "Incorrecta porque el epitelial recubre, no produce contracción."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Tejido muscular esquelético de las piernas",
           "is_correct": true,
           "feedback": "Correcta porque sus fibras se contraen y tiran de los huesos para correr."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecta porque el tejido vascular transporta sustancias en vegetales, no mueve piernas."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El músculo esquelético está unido a los huesos y se contrae de forma voluntaria. Aplicar este concepto permite reconocer que todo movimiento corporal visible depende de la contracción muscular coordinada por el sistema nervioso.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En el hospital de Bucaramanga, un médico explica que un hueso fracturado y la sangre pertenecen a la misma familia de tejidos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque ambos transmiten impulsos nerviosos",
           "is_correct": false,
           "feedback": "Incorrecta porque la transmisión de impulsos es propia del tejido nervioso."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque ambos sostienen, conectan o transportan dentro del cuerpo",
           "is_correct": true,
           "feedback": "Correcta porque el conectivo incluye sostén como el hueso y transporte como la sangre."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecta porque la fotosíntesis ocurre en tejidos vegetales, no en animales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El tejido conectivo es diverso: el óseo da sostén, el cartilaginoso amortigua, el adiposo reserva energía y el sanguíneo transporta. Comprender esta familia evita clasificar al hueso y la sangre como sistemas aislados.",
       "difficulty": "6",
       "images": [],
@@ -249,25 +249,25 @@
           "feedback": "Incorrecta porque ninguna muestra describe células aplanadas y unidas típicas del epitelio."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "P es tejido muscular y Q es tejido nervioso por su forma y función",
           "is_correct": true,
           "feedback": "Correcta porque las fibras contráctiles indican músculo y la red estrellada indica neuronas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "P es tejido nervioso y Q es tejido muscular",
           "is_correct": false,
           "feedback": "Incorrecta porque invierte los rasgos: las neuronas no son fibras contráctiles."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ambas son tejido conectivo sanguíneo",
           "is_correct": false,
           "feedback": "Incorrecta porque la sangre muestra células separadas en plasma, no fibras ni redes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Analizar forma y organización celular permite inferir función: fibra alargada sugiere contracción y célula ramificada en red sugiere comunicación. Este razonamiento histológico es la base de la identificación de tejidos al microscopio.",
       "difficulty": "8",
       "images": [],
@@ -347,19 +347,19 @@
           "feedback": "Incorrecta porque generar células no explica el ascenso de agua ya absorbida."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Tejido vascular xilema, porque conduce savia bruta hacia arriba",
           "is_correct": true,
           "feedback": "Correcta porque el xilema transporta agua y sales desde la raíz al resto de la planta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Tejido nervioso, porque ordena el ascenso",
           "is_correct": false,
           "feedback": "Incorrecta porque las plantas carecen de tejido nervioso."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El sistema vascular vegetal tiene xilema para savia bruta ascendente y floema para savia elaborada. Identificar el sentido del flujo permite atribuir correctamente cada transporte a su tejido.",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "Un programa de radio en Pasto afirma: \"Tomar jugos cura cualquier enfermedad porque la sangre enferma se reemplaza sola sin necesidad de órganos ni sistemas\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Se acepta porque la sangre actúa de forma independiente del cuerpo",
           "is_correct": false,
           "feedback": "Incorrecta porque la sangre depende del corazón, vasos, médula ósea y otros órganos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se rechaza porque la salud depende de células, tejidos, órganos y sistemas coordinados, no de un solo tejido",
           "is_correct": true,
           "feedback": "Correcta porque aplica el modelo de niveles integrados frente a una explicación simplista."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecta porque los jugos sí aportan nutrientes, pero eso no valida la afirmación sobre curar todo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Evaluar afirmaciones de salud exige pensar en sistemas: la sangre se produce, se bombea y se filtra gracias a varios órganos. El pensamiento sistémico protege contra remedios milagrosos sin evidencia.",
       "difficulty": "10",
       "images": [],
@@ -439,19 +439,19 @@
           "feedback": "Incorrecta porque el sabor no evidencia la anatomía de los tejidos foliares."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Comparar cortes de epidermis y de nervadura, dibujar, medir y repetir en varias hojas",
           "is_correct": true,
           "feedback": "Correcta porque contrasta ambos tejidos con evidencia repetible y registrada."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Regar una planta con gaseosa y otra sin agua durante un mes",
           "is_correct": false,
           "feedback": "Incorrecta porque maltrata las plantas y no compara los dos tejidos solicitados."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Un buen diseño compara muestras equivalentes, repite observaciones y registra datos. Elegir cortes específicos de cada tejido garantiza que la conclusión responda a la pregunta de indagación planteada.",
       "difficulty": "10",
       "images": [],

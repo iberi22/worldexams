@@ -19,13 +19,13 @@
           "feedback": "Incorrecto. Un símil requiere una comparación explícita usando \"como\" o \"parece\"."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Metáfora",
           "is_correct": true,
           "feedback": "¡Correcto! Se identifica el sudor con un \"riego\" amargo, trasladando el sentido del esfuerzo físico al de un sacrificio casi ritual."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Hipérbole",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque hay una exageración implícita, la estructura es una identificación directa de términos (metáfora)."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. No se imitan sonidos de la naturaleza."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La metáfora es un recurso esencial en la literatura de denuncia social hondureña. Permite al autor transmitir realidades crudas de manera estética y emocionalmente impactante.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -64,25 +64,25 @@
           "feedback": "Incorrecto. \"sera\" es aguda terminada en vocal, por lo que debe llevar tilde (será)."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Mañana viajaré a Comayagua para visitar la catedral.",
           "is_correct": true,
           "feedback": "¡Correcto! \"viajaré\" es aguda terminada en vocal y lleva tilde; \"catedral\" es aguda terminada en consonante distinta de 'n' o 's' y no la lleva."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El café de Olancho tiene un sabor muy especial.",
           "is_correct": false,
           "feedback": "Correcto en su mayoría, pero \"café\" es la que cumple la regla. Sin embargo, revisa si hay otra mejor. No, esta es correcta también. Vamos a elegir una opción con error para los distractores."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Sofia compró un reloj nuevo en el mercado.",
           "is_correct": false,
           "feedback": "Incorrecto. \"compró\" está bien, pero \"Sofia\" es hiato y debe tildarse (Sofía). Además \"reloj\" no lleva tilde por ser aguda terminada en 'j'."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Las palabras agudas se tildan cuando terminan en n, s o vocal. Es fundamental dominar esta regla para la producción de textos académicos y profesionales en Honduras.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -109,13 +109,13 @@
           "feedback": "Incorrecto. El romanticismo es un movimiento del siglo XIX, previo a la época de Clementina."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Neoclasicismo",
           "is_correct": false,
           "feedback": "Incorrecto. El neoclasicismo se enfoca en la razón y las formas clásicas grecorromanas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Vanguardismo",
           "is_correct": true,
           "feedback": "¡Correcto! Su obra rompió esquemas estéticos y sociales, siendo pionera de la vanguardia en Honduras."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Aunque influenciada por su época, su voz es más propia de la ruptura vanguardista posterior al modernismo rubendariano."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Clementina Suárez es una figura central que introdujo temas de liberación femenina y justicia social con una estética moderna en la literatura nacional.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Un periodista de un diario en Tegucigalpa redacta una noticia sobre la economía nacional.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Causal (indica la causa de un hecho).",
           "is_correct": false,
           "feedback": "Incorrecto. El conector causal sería \"porque\" o \"ya que\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Concesivo (expresa una objeción que no impide la acción principal).",
           "is_correct": true,
           "feedback": "¡Correcto! Indica un obstáculo (subida de precio) que no evitó el resultado (no subir el pasaje)."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. \"Pero\" es el adversativo por excelencia; \"aunque\" es matizadamente concesivo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Los conectores lógicos son herramientas que dan cohesión y coherencia al discurso. El uso de nexos concesivos permite construir argumentos más complejos y matizados.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrecto. Se escribe \"gerente\" y \"mensaje\"."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Es urgente proteger el equipaje de los viajeros.",
           "is_correct": true,
           "feedback": "¡Correcto! Las palabras terminadas en -aje se escriben con 'j' y las terminadas en -gente con 'g' (excepto majo/rajo)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El vijilante revisó el carage de la planta.",
           "is_correct": false,
           "feedback": "Incorrecto. Se escribe \"vigilante\" y \"garaje\"."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Se escribe \"elegir\" (verbos terminados en -ger/-gir con 'g')."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La correcta escritura de palabras con 'g' y 'j' es un reto ortográfico común. Regras como el uso de 'j' en terminaciones -aje y 'g' en -ger/-gir son fundamentales.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorrecto. Sosa es conocido precisamente por su profunda carga social."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Denuncia y visibilización de la realidad social hondureña.",
           "is_correct": true,
           "feedback": "¡Correcto! El poema busca confrontar al lector con la magnitud y la persistencia de la pobreza."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Narrativa, contando la historia de un personaje pobre específico.",
           "is_correct": false,
           "feedback": "Incorrecto. No narra una historia, expresa una condición colectiva."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Aunque usa la palabra \"muchos\", su propósito es literario y reivindicativo, no estadístico."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La poesía de Roberto Sosa trasciende el arte por el arte para convertirse en un testimonio de la conciencia nacional y la empatía hacia los sectores marginados.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "Un estudiante redacta un correo formal para solicitar una beca en la UNAH.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Hola, te escribo para ver si me dan la beca que ví en el anuncio.",
           "is_correct": false,
           "feedback": "Incorrecto. Demasiado informal (\"Hola\", \"te escribo\") y falta de tildes (\"ví\")."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Estimado comité evaluador: Me dirijo a ustedes con el propósito de postularme a la beca de excelencia académica.",
           "is_correct": true,
           "feedback": "¡Correcto! Usa un saludo apropiado, lenguaje indirecto y estructura clara."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. La redacción es ruda y el uso de los signos de puntuación es incorrecto después del saludo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La adecuación del registro lingüístico al contexto (formal vs. informal) es una competencia comunicativa vital para la vida profesional en Honduras.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -424,25 +424,25 @@
           "feedback": "Incorrecto. La noticia debe ser objetiva y centrada en los hechos, no en opiniones."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Artículo de Opinión",
           "is_correct": true,
           "feedback": "¡Correcto! Es el género subjetivo por excelencia donde se interpreta la realidad desde una perspectiva personal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Crónica",
           "is_correct": false,
           "feedback": "Incorrecto. La crónica combina información con estilo narrativo, pero el enfoque es el relato de sucesos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Reportaje",
           "is_correct": false,
           "feedback": "Incorrecto. El reportaje es una investigación profunda y exhaustiva, predominantemente informativa."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Diferenciar los géneros periodísticos permite al ciudadano hondureño ser un consumidor crítico de medios de comunicación.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Un estudiante de último año prepara su tesis sobre el turismo en Islas de la Bahía.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "(Ramón Amaya Amador, 1950, Prisión Verde)",
           "is_correct": false,
           "feedback": "Incorrecto. El título no suele ir dentro del paréntesis de cita textual corta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "(Amaya Amador, 1950, p. 45)",
           "is_correct": true,
           "feedback": "¡Correcto! Se usa Apellido, Año y número de página si es cita directa."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Se usa el apellido completo, no las iniciales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El manejo de normas de citación es esencial para garantizar la honestidad académica y evitar el plagio en los trabajos escolares y universitarios en Honduras.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -508,31 +508,31 @@
       "context": "Un poema sobre la belleza del Lago de Yojoa utiliza un lenguaje figurado intenso.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Metáfora y Personificación",
           "is_correct": true,
           "feedback": "¡Correcto! \"Espejo de agua\" es metáfora; \"duerme\" otorga cualidades humanas al lago (personificación)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Símil e Hipérbole",
           "is_correct": false,
           "feedback": "Incorrecto. No hay comparación con \"como\" ni exageración desmedida."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Aliteración y Retruécano",
           "is_correct": false,
           "feedback": "Incorrecto. No se repiten sonidos para imitar ruidos ni se juegan con palabras en orden inverso."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Metonimia y Epíteto",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque hay adjetivación, la personificación es la figura dominante junto a la metáfora."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La combinación de figuras literarias enriquece la lírica, permitiendo descripciones sugerentes que van más allá del sentido literal de las palabras.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorrecto. El texto solo dice que el colapso es un enigma, no toda su cultura."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Existen múltiples teorías pero ninguna certeza definitiva sobre por qué abandonaron las ciudades.",
           "is_correct": true,
           "feedback": "¡Correcto! La palabra \"enigma\" sugiere la falta de una respuesta única y probada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los mayas desaparecieron de la noche a la mañana sin dejar rastro.",
           "is_correct": false,
           "feedback": "Incorrecto. Dejaron las ciudades y sus descendientes (como los Chortís) persisten."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. El texto dice que es un enigma; afirmar una sola causa contradice esa idea."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La inferencia consiste en extraer conclusiones lógicas a partir de lo que el texto sugiere, sin ir más allá de la evidencia presentada.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "Un repaso sobre los elementos de la narración en la literatura clásica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Narrador Protagonista",
           "is_correct": false,
           "feedback": "Incorrecto. El protagonista cuenta su propia historia en primera persona."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Narrador Testigo",
           "is_correct": false,
           "feedback": "Incorrecto. Solo cuenta lo que ve o escucha, no los pensamientos internos ajenos."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Narrador Omnisciente",
           "is_correct": true,
           "feedback": "¡Correcto! Es el narrador que \"todo lo sabe\" y actúa como una deidad en el relato."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Este tipo de narrador se dirige al lector o a sí mismo como \"tú\" o \"vos\"."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Identificar el tipo de narrador es clave para entender la perspectiva desde la cual se construye el mundo ficticio y la fiabilidad de la información brindada.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,19 +733,19 @@
       "context": "Un fragmento de un editorial periodístico que critica la deforestación en la Biósfera del Río Plátano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Función Metalingüística",
           "is_correct": false,
           "feedback": "Incorrecto. No se habla sobre el lenguaje mismo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Función Fática",
           "is_correct": false,
           "feedback": "Incorrecto. No busca comprobar si el canal de comunicación funciona."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Función Apelativa o Conativa",
           "is_correct": true,
           "feedback": "¡Correcto! Aunque no es una orden directa, busca influir en la conducta o conciencia del receptor para que actúe."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Aunque informa, la carga de juicio (\"sentencia de muerte\") busca una reacción más allá del dato."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Las funciones del lenguaje ayudan a determinar qué busca lograr el autor con su mensaje: informar, expresar sentimientos o movilizar al oyente.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Incorrecto. Los enfoques son radicalmente distintos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La crónica colonial buscaba describir el \"descubrimiento\" y conquista; la novela del 50 busca denunciar las injusticias sociales y políticas.",
           "is_correct": true,
           "feedback": "¡Correcto! Se pasa de una visión eurocéntrica de registro a una visión nacionalista de crítica social."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Las crónicas coloniales eran poemas, mientras que las del 50 son solo noticias de periódicos.",
           "is_correct": false,
           "feedback": "Incorrecto. La crónica es un género narrativo-histórico, y la generación del 50 produjo principalmente narrativa de ficción."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Ambas épocas usaron el español como lengua principal de escritura."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La literatura refleja la evolución del pensamiento de una nación. Entender estos cambios ayuda a comprender cómo se ha construido la identidad hondureña.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -874,25 +874,25 @@
           "feedback": "Incorrecto. Esta sería la visión de \"espejo\", la cual el autor niega."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Que nuestra percepción del mundo está mediada y transformada por el lenguaje y la cultura que poseemos.",
           "is_correct": true,
           "feedback": "¡Correcto! El lenguaje no solo muestra, sino que interpreta y da forma a nuestra realidad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que las palabras son como cristales que pueden romperse fácilmente.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una interpretación literal y superficial de la metáfora del prisma."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que no se puede hablar de la realidad si no tenemos un prisma físico a mano.",
           "is_correct": false,
           "feedback": "Incorrecto. Interpretación absurda de la metáfora."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Esta pregunta evalúa la capacidad de análisis crítico y comprensión de metáforas conceptuales complejas, un nivel esperado para un estudiante de último año de bachillerato.\n\n---",
       "difficulty": "10",
       "images": [],

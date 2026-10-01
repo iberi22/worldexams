@@ -13,19 +13,19 @@
       "context": "En un estudio de mercado realizado en Bogotá sobre una muestra representativa de 400 personas, se estimó la media de ingresos mensuales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Estadístico",
           "is_correct": true,
           "feedback": "Un estadístico o estimador puntual es cualquier medida cuantitativa calculada sobre los datos de una muestra."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Parámetro",
           "is_correct": false,
           "feedback": "Un parámetro es una propiedad fija de la población completa, no de la muestra."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sesgo",
           "is_correct": false,
           "feedback": "El sesgo mide el error sistemático en la estimación, no el valor numérico en sí."
@@ -37,7 +37,7 @@
           "feedback": "Es un parámetro específico de dispersión en la población, no el término general."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los parámetros resumen características de la población completa (desconocidos en general), mientras que los estadísticos (o estimadores) se calculan a partir de la muestra para aproximar dichos parámetros.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En un estudio sobre el rendimiento en matemáticas en Cali, se toma una muestra aleatoria de tamaño $n$ de una población con desviación estándar $\\sigma$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\sigma_{\\bar{x}} = \\frac{sigma}{\\sqrt{n}}$",
           "is_correct": true,
           "feedback": "El error estándar de la media disminuye de forma inversamente proporcional a la raíz cuadrada del tamaño de la muestra."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sigma_{\\bar{x}} = \\frac{sigma}{n}$",
           "is_correct": false,
           "feedback": "Le falta elevar n a la raíz cuadrada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\sigma_{\\bar{x}} = \\sigma \\cdot \\sqrt{n}$",
           "is_correct": false,
           "feedback": "Multiplica en lugar de dividir por la raíz de n."
@@ -129,7 +129,7 @@
           "feedback": "Invierte los términos de la fracción."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por el Teorema del Límite Central, la desviación estándar de la distribución muestral de la media (error estándar) es $\\sigma_{\\bar{x}} = \\frac{sigma}{\\sqrt{n}}$.",
       "difficulty": "4",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Un intervalo de confianza del 90% para el gasto promedio diario en transporte en Bucaramanga resultó ser $[12,000; 16,000]$ COP.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Media $\\bar{x} = 14,000$ COP y Margen de error $E = 2,000$ COP",
           "is_correct": true,
           "feedback": "Media = (12000 + 16000)/2 = 14000 COP. Margen de error = (16000 - 12000)/2 = 2000 COP."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Media $\\bar{x} = 14,000$ COP y Margen de error $E = 4,000$ COP",
           "is_correct": false,
           "feedback": "Tomó el ancho total del intervalo como el margen de error en lugar de la mitad."
@@ -267,7 +267,7 @@
           "feedback": "Tomó el límite superior como el centro del intervalo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El centro del intervalo equidistante es la media muestral $\\bar{x} = \\frac{L_{inf} + L_{sup}}{2} = 14,000$ COP, y la semidistancia al límite es el margen de error $E = \\frac{16,000 - 12,000}{2} = 2,000$ COP.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En una encuesta a 400 ciudadanos de Pereira, 240 afirmaron utilizar bicicleta los fines de semana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "0.60",
           "is_correct": true,
           "feedback": "p_hat = x / n = 240 / 400 = 0.60 (o 60%)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "0.40",
           "is_correct": false,
           "feedback": "Corresponde a la proporción muestral de personas que NO usan bicicleta (160/400)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0.24",
           "is_correct": false,
           "feedback": "Se dividió 240 entre 1000 por error de escala."
@@ -313,7 +313,7 @@
           "feedback": "Se dividió el total entre los casos favorables (400/240)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La proporción muestral $\\hat{p}$ se obtiene mediante la razón entre el número de éxitos $x$ y el tamaño total de la muestra $n$: $\\hat{p} = \\frac{240}{400} = 0.60$.",
       "difficulty": "6",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "Se quiere realizar una prueba de hipótesis para verificar si la altura promedio de las plantas en un cultivo en Cundinamarca supera los 50 cm.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$H_0: \\mu \\le 50$ cm vs $H_a: \\mu > 50$ cm",
           "is_correct": true,
           "feedback": "La hipótesis nula contiene la igualdad o la afirmación por defecto, mientras que la alternativa refleja la sospecha o prueba del investigador (mu > 50)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$H_0: \\mu > 50$ cm vs $H_a: \\mu \\le 50$ cm",
           "is_correct": false,
           "feedback": "Intercambió los roles de las hipótesis nula y alternativa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$H_0: \\mu = 50$ cm vs $H_a: \\mu < 50$ cm",
           "is_correct": false,
           "feedback": "La alternativa apunta en sentido opuesto a la sospecha planteada en el enunciado."
@@ -359,7 +359,7 @@
           "feedback": "Las hipótesis se plantean sobre los parámetros poblacionales (mu), nunca sobre los estadísticos muestrales (x_bar)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La hipótesis alternativa $H_a$ expresa la condición que el investigador desea probar (en este caso, que la media $mu$ es mayor a 50 cm). $H_0$ incluye el signo de igualdad ($le 50$).",
       "difficulty": "6",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En un estudio con nivel de significancia $\\alpha = 0.05$, un investigador obtiene un $p$-valor igual a 0.02 tras analizar los datos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Se rechaza la hipótesis nula $H_0$ porque el $p$-valor es menor que el nivel de significancia $\\alpha$.",
           "is_correct": true,
           "feedback": "Como p-valor (0.02) < alpha (0.05), existe suficiente evidencia estadística para rechazar H0."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "No se rechaza la hipótesis nula $H_0$ porque el $p$-valor es mayor que cero.",
           "is_correct": false,
           "feedback": "La regla de decisión compara el p-valor con alpha, no con cero."
@@ -405,7 +405,7 @@
           "feedback": "Un p-valor menor a alpha es completamente válido y concluyente para rechazar H0."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La regla de decisión estipula que si $p\\text{-valor} \\le \\alpha$, se rechaza $H_0$ debido a que los datos observados son altamente improbables bajo la suposición de que $H_0$ sea cierta.",
       "difficulty": "6",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "Se calcula el error estándar de la proporción muestral en un sondeo con $\\hat{p} = 0.5$ y $n = 100$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "0.05",
           "is_correct": true,
           "feedback": "sigma_p = sqrt((0.5 * 0.5) / 100) = sqrt(0.25 / 100) = sqrt(0.0025) = 0.05."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "0.25",
           "is_correct": false,
           "feedback": "Olvidó dividir por n y extraer la raíz de la fracción completa."
@@ -451,7 +451,7 @@
           "feedback": "Olvidó extraer la raíz cuadrada final al resultado de la varianza."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Sustituyendo en la fórmula: $\\sigma_{\\hat{p}} = \\sqrt{\\frac{0.5   imes 0.5}{100}} = \\sqrt{\\frac{0.25}{100}} = \\sqrt{0.0025} = 0.05$.",
       "difficulty": "6",
       "images": [],
@@ -473,19 +473,19 @@
       "context": "Un fabricante de empaques en Manizales desea estimar la masa media de sus productos con un margen de error máximo de 2 gramos y un nivel de confianza del 95% ($Z = 2$). Se sabe que la desviación estándar poblacional es $\\sigma = 10$ gramos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "100",
           "is_correct": true,
           "feedback": "n = (Z * sigma / E)^2 = (2 * 10 / 2)^2 = (10)^2 = 100."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "50",
           "is_correct": false,
           "feedback": "Olvidó elevar al cuadrado el término de la ecuación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "400",
           "is_correct": false,
           "feedback": "Multiplicó por 4 el resultado correcto."
@@ -497,7 +497,7 @@
           "feedback": "Calculó solo Z * sigma / E sin elevar al cuadrado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Despejando $n$ de la fórmula del margen de error $E = Z \\frac{sigma}{\\sqrt{n}}$ se obtiene $n = left(\\frac{Z cdot sigma}{E}\night)^2 = left(\\frac{2   imes 10}{2}\night)^2 = 10^2 = 100$.",
       "difficulty": "8",
       "images": [],
@@ -565,19 +565,19 @@
       "context": "Un informe estadístico presenta dos intervalos de confianza construidos sobre los mismos datos muestrales de salarios en Neiva:\n\nIntervalo A: $[1,200,000; 1,800,000]$ COP\n\nIntervalo B: $[1,300,000; 1,700,000]$ COP",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El Intervalo A tiene un nivel de confianza MAYOR que el Intervalo B.",
           "is_correct": true,
           "feedback": "Un intervalo más ancho ofrece mayor cobertura y por tanto corresponde a un nivel de confianza más elevado."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El Intervalo B tiene un nivel de confianza MAYOR que el Intervalo A.",
           "is_correct": false,
           "feedback": "Un intervalo más estrecho reduce la certidumbre de capturar el parámetro verdadero."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambos intervalos tienen exactamente el mismo nivel de confianza.",
           "is_correct": false,
           "feedback": "La amplitud del intervalo cambia directamente al modificar el nivel de confianza (Z)."
@@ -589,7 +589,7 @@
           "feedback": "Sí es posible, pues a mayor amplitud corresponde mayor nivel de confianza bajo la misma muestra."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para la misma muestra, a mayor amplitud del intervalo de confianza corresponde un valor crítico $Z$ más alto, y por consiguiente un mayor nivel de confianza. El Intervalo A es más amplio (ancho 600,000 vs 400,000), por lo que posee mayor confianza.",
       "difficulty": "8",
       "images": [],
@@ -657,19 +657,19 @@
       "context": "Un estudio estima que la proporción de estudiantes que practican deporte en Armenia es $\\hat{p} = 0.40$ con un margen de error del $5%$ ($E = 0.05$) al $95%$ de confianza.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$[0.35, 0.45]$",
           "is_correct": true,
           "feedback": "IC = [p_hat - E, p_hat + E] = [0.40 - 0.05, 0.40 + 0.05] = [0.35, 0.45]."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$[0.30, 0.50]$",
           "is_correct": false,
           "feedback": "Se restó y sumó el doble del margen de error (0.10)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$[0.40, 0.45]$",
           "is_correct": false,
           "feedback": "Olvidó restar el margen de error para obtener el límite inferior."
@@ -681,7 +681,7 @@
           "feedback": "Confundió la proporción muestral con el nivel de confianza."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El intervalo de confianza se construye como $\\hat{p} \\pm E = 0.40 \\pm 0.05 = [0.35, 0.45]$, o en porcentaje $[35%, 45%]$.",
       "difficulty": "8",
       "images": [],
@@ -749,31 +749,31 @@
       "context": "Un laboratorio farmacéutico en Bogotá afirma que un nuevo analgésico reduce el tiempo de alivio a menos de 20 minutos en promedio. Una muestra de 36 pacientes arrojó una media de $\\bar{x} = 18$ minutos con desviación estándar poblacional $\\sigma = 6$ minutos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$Z_{calc} = -2.00$; se RECHAZA $H_0$, respaldando la afirmación del laboratorio.",
           "is_correct": true,
           "feedback": "Z = (18 - 20) / (6 / sqrt(36)) = -2 / (6 / 6) = -2 / 1 = -2.00. Como -2.00 < -1.645, cae en la región de rechazo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$Z_{calc} = -0.33$; NO se rechaza $H_0$, descartando la eficacia.",
           "is_correct": false,
           "feedback": "Olvidó multiplicar el denominador por sqrt(36)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$Z_{calc} = 2.00$; se rechaza $H_0$ por ser una prueba bilateral únicamente.",
           "is_correct": false,
           "feedback": "Confundió el signo de la diferencia (18 - 20 es negativo)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$Z_{calc} = -1.20$; la muestra es insuficiente para concluir.",
           "is_correct": false,
           "feedback": "Calculó incorrectamente el error estándar dividiendo 6 entre 5."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "$H_0: \\mu \\ge 20$ vs $H_a: \\mu < 20$.\n$Z_{calc} = \\frac{18 - 20}{6/\\sqrt{36}} = \\frac{-2}{1} = -2.00$.\nDado que $-2.00 < -1.645$, se rechaza $H_0$ a un nivel de significancia del 5%, concluyendo que el tiempo de alivio es significativamente menor a 20 minutos.",
       "difficulty": "10",
       "images": [],
@@ -795,31 +795,31 @@
       "context": "Un politólogo en Medellín desea estimar una proporción con un margen de error máximo de $3%$ ($E = 0.03$) y $95%$ de confianza ($Z = 1.96$). No dispone de estudios previos sobre el valor de $p$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "1068",
           "is_correct": true,
           "feedback": "Cuando p es desconocido, se usa p = 0.5 para maximizar la varianza: n = (1.96^2 * 0.5 * 0.5) / (0.03^2) = (3.8416 * 0.25) / 0.0009 = 0.9604 / 0.0009 = 1067.11 -> redondeando hacia arriba n = 1068."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "534",
           "is_correct": false,
           "feedback": "Usó p = 0.25 en lugar de maximizar el producto p*(1-p) = 0.25."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "267",
           "is_correct": false,
           "feedback": "Olvidó elevar el margen de error E al cuadrado en el denominador."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "400",
           "is_correct": false,
           "feedback": "Valor predeterminado genérico no relacionado con el cálculo formal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En ausencia de información previa, se asume $p = 0.5$ para obtener el tamaño muestral máximo de seguridad:\n$n = \\frac{Z^2 \\cdot p(1-p)}{E^2} = \\frac{(1.96)^2 \\cdot (0.5)(0.5)}{(0.03)^2} = \\frac{3.8416 \\cdot 0.25}{0.0009} \\approx 1067.11$.\nSe redondea siempre al siguiente entero superior: $n = 1068$.",
       "difficulty": "10",
       "images": [],
@@ -841,31 +841,31 @@
       "context": "Dos firmas encuestadoras miden el porcentaje de aprobación de una obra de infraestructura en Cali:\n\nFirmas A: $n_A = 100$, $\\hat{p}_A = 0.60$\n\nFirmas B: $n_B = 400$, $\\hat{p}_B = 0.60$",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$E_A = 2 \\cdot E_B$",
           "is_correct": true,
           "feedback": "Como E es proporcional a 1/sqrt(n), E_A / E_B = sqrt(400) / sqrt(100) = 20 / 10 = 2. El margen de la firma A es el doble que el de B."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$E_A = 4 \\cdot E_B$",
           "is_correct": false,
           "feedback": "No aplicó la raíz cuadrada a la razón entre los tamaños muestrales (400/100 = 4)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$E_A = E_B$",
           "is_correct": false,
           "feedback": "Asumió erróneamente que tener la misma proporción muestral p_hat implica igual margen de error."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$E_A = 0.5 \\cdot E_B$",
           "is_correct": false,
           "feedback": "Invirtió la relación; la muestra más pequeña (A) produce un margen de error mayor."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Dado que $E propto \\frac{1}{\\sqrt{n}}$, se cumple $\\frac{E_A}{E_B} = \\sqrt{\\frac{n_B}{n_A}} = \\sqrt{\\frac{400}{100}} = \\sqrt{4} = 2$. Así, $E_A = 2 E_B$.",
       "difficulty": "10",
       "images": [],
@@ -887,13 +887,13 @@
       "context": "Un auditor evalúa si el saldo promedio de cuentas por cobrar en un banco de Cartagena difiere de 5,000,000 COP ($H_0: \\mu = 5,000,000$). Tras analizar una muestra, construye un intervalo de confianza del 95%: $[5,100,000; 5,800,000]$ COP.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Se RECHAZA $H_0$, porque el valor nulo de 5,000,000 COP no se encuentra contenido dentro del intervalo de confianza del 95%.",
           "is_correct": true,
           "feedback": "Si el valor hipotético bajo H0 no cae dentro del intervalo de confianza del (1 - alpha), se rechaza H0 al nivel alpha."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "No se rechaza $H_0$, porque el intervalo contiene únicamente valores positivos.",
           "is_correct": false,
           "feedback": "La regla de equivalencia evalúa si el valor puntual especificado en H0 pertenece al intervalo."
@@ -911,7 +911,7 @@
           "feedback": "Existe una equivalencia lógica completa entre intervalos de confianza y pruebas bilaterales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Cualquier valor hipotético $\\mu_0$ que quede fuera del intervalo de confianza del $(1-alpha)%$ será rechazado por una prueba de hipótesis bilateral al nivel de significancia $\\alpha$. Como $5,000,000\notin [5,100,000; 5,800,000]$, se rechaza $H_0$.",
       "difficulty": "10",
       "images": [],

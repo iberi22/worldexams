@@ -58,19 +58,19 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Mateo y su grupo investigan sobre Célula eucariota y procariota.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El nucleoide",
           "is_correct": true,
           "feedback": "¡Correcto! El nucleoide es la región del citoplasma bacteriano irregular donde se halla condensado el cromosoma único."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El nucleolo central",
           "is_correct": false,
           "feedback": "Incorrecto. El nucleolo es un organelo denso nuclear exclusivo de los eucariontes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La membrana nuclear externa",
           "is_correct": false,
           "feedback": "Incorrecto. Las bacterias carecen de membrana nuclear o carioteca."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Los plásmidos son ADN extracromosómico, pero no contienen el genoma celular bacteriano principal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los procariontes carecen de compartimentación nuclear, por lo que el material genético está en contacto directo con el citosol en el nucleoide.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Raúl Peña de Caacupé, Valentina y su grupo investigan sobre Célula eucariota y procariota.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Sintetizar proteínas a partir de la traducción del ARN mensajero",
           "is_correct": true,
           "feedback": "¡Correcto! Los ribosomas son las fábricas universales encargadas del ensamblaje de cadenas polipeptídicas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Producir ATP mediante la degradación aeróbica de la glucosa",
           "is_correct": false,
           "feedback": "Incorrecto. La síntesis de ATP aeróbica es función mitocondrial en eucariontes."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Esto corresponde a la vía secretora del aparato de Golgi eucariota."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aunque varían en su tamaño y estructura de subunidades (70S en procariontes y 80S en eucariontes), los ribosomas realizan la traducción del código genético en todos los reinos vivos.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Jorge y su grupo investigan sobre Célula eucariota y procariota.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Peptidoglucano (o mureína)",
           "is_correct": true,
           "feedback": "¡Correcto! El peptidoglucano es el polímero estructural exclusivo de las paredes celulares de las bacterias verdaderas (eubacterias)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Celulosa vegetal cristalina",
           "is_correct": false,
           "feedback": "Incorrecto. La celulosa es el polímero de glucosa que compone la pared celular de las plantas."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Los fosfolípidos forman parte de las membranas celulares, no de las paredes rígidas externas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La síntesis de peptidoglucano es el blanco de muchos antibióticos comunes (como la penicilina), lo que permite destruir bacterias patógenas sin dañar las células del hospedador.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional de Luque de Luque, Joaquín y su grupo investigan sobre Célula eucariota y procariota.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Incapacidad para delimitar y proteger el material genético en un compartimento separado del citoplasma",
           "is_correct": true,
           "feedback": "¡Correcto! La carioteca o envoltura nuclear es la doble membrana lipídica que aísla el ADN eucariota, permitiendo la regulación fina de la expresión génica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Detención inmediata de la síntesis de ácidos grasos en el retículo endoplasmático liso",
           "is_correct": false,
           "feedback": "Incorrecto. El REL sintetiza lípidos y no depende de la envoltura nuclear para su funcionamiento enzimático basal."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. La lisis ocurre por desequilibrios en la membrana plasmática y la osmolaridad del citosol frente al exterior."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La envoltura nuclear eucariota posee poros complejos que controlan el paso selectivo de proteínas y ARN, permitiendo una separación física entre la transcripción y la traducción.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Santiago y su grupo investigan sobre Célula eucariota y procariota.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque poseen un sistema de endomembranas y organelos especializados que facilitan el transporte interno y compartimentan las reacciones químicas",
           "is_correct": true,
           "feedback": "¡Correcto! La compartimentación evita que los reactivos se diluyan, optimizando los procesos en espacios reducidos y reduciendo la dependencia de la difusión simple."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque su membrana plasmática carece de permeabilidad selectiva, permitiendo el ingreso de nutrientes",
           "is_correct": false,
           "feedback": "Incorrecto. La pérdida de selectividad de la membrana provocaría la muerte celular por desequilibrio homeostático."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. La respiración aeróbica eucariota ocurre principalmente en las mitocondrias mediante cadenas transportadoras en su membrana interna."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La relación superficie-volumen limita el tamaño de las células sencillas (procariontes). Al evolucionar organelos membranosos, las células eucariotas superaron esta barrera de difusión pasiva.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,31 +418,31 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Ramón y su grupo investigan sobre Célula eucariota y procariota.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La secreción de proteínas de exportación",
           "is_correct": true,
           "feedback": "¡Correcto! El RER sintetiza proteínas y el Golgi las procesa y clasifica para su secreción en vesículas, indicando una alta actividad secretora."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El almacenamiento de triglicéridos y ácidos grasos saturados",
           "is_correct": false,
           "feedback": "Incorrecto. El almacenamiento lipídico ocurre en adipocitos con vacuolas lipídicas gigantes, sin requerir una maquinaria secretora compleja de proteínas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La contracción muscular voluntaria de respuesta rápida",
           "is_correct": false,
           "feedback": "Incorrecto. Las células musculares se especializan en citoesqueleto contráctil de actina/miosina y retículo sarcoplásmico."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La absorción pasiva de oxígeno disuelto en la sangre",
           "is_correct": false,
           "feedback": "Incorrecto. El transporte de oxígeno es mediado por la hemoglobina en eritrocitos maduros (que carecen de estos organelos)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El desarrollo de organelos en una célula refleja directamente su especialización funcional y metabólica dentro del organismo pluricelular.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,31 +463,31 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Ramón y su grupo investigan sobre Célula eucariota y procariota.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Mitocondrias y cloroplastos",
           "is_correct": true,
           "feedback": "¡Correcto! Margulis propuso que mitocondrias (de proteobacterias aerobias) y cloroplastos (de cianobacterias fotosintéticas) provienen de antiguas endosimbiosis procariontes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Lisosomas y peroxisomas",
           "is_correct": false,
           "feedback": "Incorrecto. Los lisosomas y peroxisomas pertenecen al sistema de endomembranas y no provienen de endosimbiosis bacteriana."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Aparato de Golgi y RER",
           "is_correct": false,
           "feedback": "Incorrecto. Estos organelos de endomembrana surgieron por invaginación de la membrana plasmática ancestral de la célula hospedadora."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Centrosomas y cilios",
           "is_correct": false,
           "feedback": "Incorrecto. Los cilios y centrosomas tienen componentes de microtúbulos, pero no tienen el respaldo genético evolutivo de origen endosimbiótico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Las pruebas clave de la endosimbiosis incluyen la presencia de ADN circular propio libre de histonas, ribosomas 70S y doble membrana en mitocondrias y cloroplastos.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Jorge y su grupo investigan sobre Célula eucariota y procariota.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La citocinesis (división del citoplasma)",
           "is_correct": true,
           "feedback": "¡Correcto! Los microfilamentos de actina forman el anillo contráctil durante la división citoplasmática de las células animales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La duplicación de los cromosomas lineales dentro del núcleo",
           "is_correct": false,
           "feedback": "Incorrecto. La replicación depende de enzimas nucleares del complejo de la ADN polimerasa, no de microfilamentos de actina."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Son procesos enzimáticos de las membranas mitocondriales que no involucran el citoesqueleto de actina."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La actina es el componente principal de los microfilamentos del citoesqueleto, implicada en funciones de motilidad, adhesión celular y la estrangulación del citoplasma al final de la mitosis.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Martina y su grupo investigan sobre Célula eucariota y procariota.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El nucléolo",
           "is_correct": true,
           "feedback": "¡Correcto! El nucléolo es una región densa del núcleo donde se transcriben los genes de ARNr y se empaquetan con proteínas importadas del citoplasma."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La cromatina condensada",
           "is_correct": false,
           "feedback": "Incorrecto. La cromatina es el complejo de ADN e histonas que compone los cromosomas, no se especializa únicamente en ensamblar ribosomas."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. El centrosoma se localiza en el citoplasma y actúa como organizador de microtúbulos para el huso."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El nucléolo no está rodeado por membrana plasmática propia; es un condensado de proteínas y ácidos nucleicos que rodea las regiones organizadoras nucleolares (NOR).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional Encarnación de Encarnación, Ramón y su grupo investigan sobre Célula eucariota y procariota.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Procariota 70S (subunidades 50S y 30S) y Eucariota 80S (subunidades 60S y 40S)",
           "is_correct": true,
           "feedback": "¡Correcto! Esta diferencia de tamaño y composición molecular es clave para el diseño de fármacos antibióticos selectivos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Procariota 80S (subunidades 60S y 40S) y Eucariota 70S (subunidades 50S y 30S)",
           "is_correct": false,
           "feedback": "Incorrecto. Los valores están invertidos; los procariontes poseen ribosomas más pequeños (70S)."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Todos los ribosomas celulares funcionales constan de dos subunidades distintas (una mayor y una menor) acopladas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El coeficiente de sedimentación (Svedberg, S) mide la velocidad con la que sedimenta una partícula en una ultracentrífuga, dependiendo de su masa y forma geométrica.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,19 +643,19 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Sofía y su grupo investigan sobre Célula eucariota y procariota.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Los lisosomas",
           "is_correct": true,
           "feedback": "¡Correcto! Los lisosomas contienen hidrolasas ácidas encargadas de la degradación intracelular de macromoléculas y organelos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los cloroplastos",
           "is_correct": false,
           "feedback": "Incorrecto. Los cloroplastos contienen enzimas asociadas al ciclo de Calvin y la fotosíntesis, no hidrolasas ácidas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los peroxisomas",
           "is_correct": false,
           "feedback": "Incorrecto. Los peroxisomas albergan oxidasas y catalasas para el metabolismo de ácidos grasos y peróxidos."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Los ribosomas catalizan la formación de enlaces peptídicos mediante traducción, no la degradación ácida de macromoléculas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La membrana del lisosoma posee bombas de protones que bombean activamente iones hidrógeno desde el citosol (pH ~7.2) hacia el interior para mantener el pH ácido.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional de Pilar de Pilar, Benjamín y su grupo investigan sobre Célula eucariota y procariota.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La absorción de la energía lumínica en la membrana tilacoidal",
           "is_correct": true,
           "feedback": "¡Correcto! La clorofila es el pigmento fotorreceptor encargado de absorber la luz roja y azul para impulsar el flujo electrónico fotosintético."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La síntesis proteica mitocondrial en el estroma",
           "is_correct": false,
           "feedback": "Incorrecto. La síntesis en mitocondrias es independiente de la luz solar y ocurre gracias a la maquinaria genética de la mitocondria."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El ciclo de Krebs en la matriz mitocondrial interna",
           "is_correct": false,
           "feedback": "Incorrecto. El ciclo de Krebs es un proceso de la respiración celular que ocurre en la matriz mitocondria, no depende de la clorofila."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. La síntesis de lípidos se realiza en el REL y la digestión es lisosomal; ninguna requiere clorofila."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los cloroplastos realizan la fotosíntesis convirtiendo energía electromagnética en energía química almacenada en azúcares, donde la clorofila actúa como receptor primario de fotones.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,31 +733,31 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Ramón y su grupo investigan sobre Célula eucariota y procariota.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Porque la pared celular externa limita la flexibilidad de la membrana plasmática, impidiendo la emisión de pseudópodos",
           "is_correct": true,
           "feedback": "¡Correcto! La fagocitosis exige la deformación dinámica del citoesqueleto y de la membrana, lo cual es físicamente restringido por la pared rígida."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque estos reinos carecen por completo de filamentos de actina en su citoesqueleto",
           "is_correct": false,
           "feedback": "Incorrecto. Todos los eucariontes y muchos procariontes poseen proteínas homólogas o idénticas al citoesqueleto de actina."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque la pared celular destruye químicamente las vesículas de endocitosis mediante enzimas hidrolíticas",
           "is_correct": false,
           "feedback": "Incorrecto. La pared celular es un soporte inerte de polisacáridos y no secreta enzimas destructivas contra las vesículas de la propia célula."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque la fagocitosis solo puede ocurrir en células que carecen de membrana plasmática",
           "is_correct": false,
           "feedback": "Incorrecto. Todas las células vivas poseen membrana plasmática selectiva; es el elemento universal homeostático celular."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La rigidez de la pared celular ofrece soporte mecánico y resistencia, pero restringe los cambios de forma. Por ende, plantas, hongos y bacterias absorben nutrientes solubles.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,19 +778,19 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional Ortiz Guerrero de Villarrica, Joaquín y su grupo investigan sobre Célula eucariota y procariota.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La membrana interna proviene del procarionte fagocitado y la externa de la vesícula de endocitosis de la célula hospedadora",
           "is_correct": true,
           "feedback": "¡Correcto! El proceso de endosimbiosis involucra la envoltura de la bacteria por parte de la membrana de la célula hospedadora primitiva, generando la doble envoltura."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ambas membranas se originaron por el superenrollamiento del ADN genómico libre en el citoplasma",
           "is_correct": false,
           "feedback": "Incorrecto. Las membranas están compuestas de lípidos y proteínas estructuradas en bicapa, no de ácidos nucleicos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La membrana externa fue sintetizada por ribosomas de tipo 70S y la interna por ribosomas 80S",
           "is_correct": false,
           "feedback": "Incorrecto. Los ribosomas sintetizan proteínas, no fosfolípidos directamente, y el origen es de base endosimbionte."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. El sistema de endomembranas no sintetiza ni genera las membranas de mitocondrias, ya que son organelos semiautónomos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La teoría endosimbiótica se ve reforzada por el hecho de que la composición lipídica de la membrana interna de mitocondrias posee cardiolipina, típico de bacterias.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional Dr. Pedro P. Peña de Coronel Oviedo, Liz y su grupo investigan sobre Célula eucariota y procariota.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Dominio Archaea",
           "is_correct": true,
           "feedback": "¡Correcto! Las arqueas son procariontes (sin núcleo, con ADN circular y ribosomas 70S) pero carecen de peptidoglucano en su pared celular."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Dominio Bacteria",
           "is_correct": false,
           "feedback": "Incorrecto. Las bacterias verdaderas poseen de forma universal peptidoglucano en su pared celular externa de mureína."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Los virus no son células, carecen de ribosomas y de metabolismo independiente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La taxonomía de tres dominios propuesta por Carl Woese clasifica la vida en Bacteria, Archaea y Eukarya basándose en diferencias moleculares.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Durante una actividad de laboratorio en el Colegio Nacional San José de Concepción de Concepción, Jorge y su grupo investigan sobre Célula eucariota y procariota.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La exportación de ARN mensajero maduro al citoplasma y la importación de proteínas reguladoras de la transcripción",
           "is_correct": true,
           "feedback": "¡Correcto! El complejo del poro nuclear regula de manera selectiva el tráfico bidireccional entre el núcleo (donde se transcribe el ARN) y el citoplasma (donde se traduce)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La difusión libre de moléculas de agua a través de las acuaporinas de la membrana celular externa",
           "is_correct": false,
           "feedback": "Incorrecto. Las acuaporinas se localizan en la membrana plasmática celular externa, no en la carioteca del núcleo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La fosforilación directa de la glucosa en el interior de la matriz mitocondrial interna",
           "is_correct": false,
           "feedback": "Incorrecto. Este proceso metabólico es independiente del tráfico nuclear y forma parte de la respiración celular."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Este tránsito ocurre por vesículas de transporte, mediado por el citoesqueleto sin requerir poros nucleares."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El complejo del poro nuclear (NPC) es una de las estructuras proteicas más grandes de la célula, permitiendo la difusión pasiva de metabolitos y controlando de forma activa el paso de macromoléculas.",
       "difficulty": "10",
       "images": [],

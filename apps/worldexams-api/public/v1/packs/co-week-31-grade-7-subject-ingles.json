@@ -19,13 +19,13 @@
           "feedback": "Incorrect. This is for ability or possibility."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Must",
           "is_correct": true,
           "feedback": "Correct! \"Must\" expresses strong obligation."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Might",
           "is_correct": false,
           "feedback": "Incorrect. This is for low probability."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect. This is for advice."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student identifies the basic function of the modal verb \"must\".\n\n---",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "Using \"have to\" for external obligations.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Haves to",
           "is_correct": false,
           "feedback": "Incorrect. \"Have\" is irregular."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Has to",
           "is_correct": true,
           "feedback": "Correct! \"He/She/It\" uses \"has to\"."
@@ -83,7 +83,7 @@
           "feedback": "Incorrect. This is the continuous form."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student remembers the correct conjugation of \"have to\" for the third person singular.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -111,25 +111,25 @@
           "feedback": "Incorrect. Uniforms are usually an obligation, not an option."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "have to",
           "is_correct": true,
           "feedback": "Correct! School rules are external obligations described by \"have to\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "don't have to",
           "is_correct": false,
           "feedback": "Incorrect. This would mean it's not necessary, which contradicts common school rules."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "may",
           "is_correct": false,
           "feedback": "Incorrect. This is for permission."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student understands the use of \"have to\" for external rules and regulations.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -157,13 +157,13 @@
           "feedback": "Incorrect. This means it is forbidden. It's just not necessary."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "don't have to",
           "is_correct": true,
           "feedback": "Correct! On a holiday, it is not necessary to wake up early."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "must",
           "is_correct": false,
           "feedback": "Incorrect. It's not an obligation on a holiday."
@@ -175,7 +175,7 @@
           "feedback": "Incorrect. Same as above."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student understands the meaning of \"don't have to\" as a lack of necessity.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -249,13 +249,13 @@
           "feedback": "Incorrect. They are \"free\"."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "It is not necessary to pay for them.",
           "is_correct": true,
           "feedback": "Correct! \"Don't have to pay\" means it is free."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "You mustn't use them.",
           "is_correct": false,
           "feedback": "Incorrect. They are available for use."
@@ -267,7 +267,7 @@
           "feedback": "Incorrect. You must be quiet in the whole library."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student applies reading strategies to identify a lack of obligation in a factual text.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "A parent talking to a child about chores.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "mustn't",
           "is_correct": false,
           "feedback": "Incorrect. Prohibition."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "must",
           "is_correct": true,
           "feedback": "Correct! Expresses a strong personal or parental obligation."
@@ -313,7 +313,7 @@
           "feedback": "Incorrect. Missing auxiliary."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student applies the use of \"must\" to express a specific condition or obligation in a family context.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "Analyzing instructions for an airplane trip.\n\n\"Passengers must fasten their seatbelts during takeoff. They don't have to keep them on during the whole flight, but it is recommended.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Keeping the seatbelt on for the whole flight.",
           "is_correct": false,
           "feedback": "Incorrect. It is \"recommended\", not mandatory."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Fastening the seatbelt during takeoff.",
           "is_correct": true,
           "feedback": "Correct! The text says they \"must\" do it during takeoff."
@@ -405,7 +405,7 @@
           "feedback": "Incorrect. Not mentioned as a requirement."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student analyzes text to distinguish between mandatory requirements and recommendations.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -433,13 +433,13 @@
           "feedback": "Incorrect. The author says freedom \"doesn't mean\" that."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "True freedom includes following essential rules and respecting others.",
           "is_correct": true,
           "feedback": "Correct! The author links freedom with \"must respect\" and \"have to follow rules\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Rules are only for people who are not free.",
           "is_correct": false,
           "feedback": "Incorrect. Not the author's point."
@@ -451,7 +451,7 @@
           "feedback": "Incorrect. The author says you follow them \"to live in peace\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student evaluates the philosophical relationship between freedom and obligation as presented in the text.",
       "difficulty": "10",
       "images": [],

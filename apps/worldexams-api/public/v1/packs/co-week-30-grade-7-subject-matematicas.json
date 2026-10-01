@@ -59,31 +59,31 @@
       "context": "En Medellín, doña Marta presta $500 000 al 2 % mensual durante 1 mes para surtir su tienda.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La tasa r: la fracción del capital que se cobra como interés cada mes",
           "is_correct": true,
           "feedback": "Correcto. La tasa indica que cada mes el interés es el 2 % del capital inicial, o sea 0,02 × 500 000 = $10 000."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El capital P que se prestó al inicio",
           "is_correct": false,
           "feedback": "Incorrecto. El capital es $500 000, no el 2 %."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El tiempo t que dura el préstamo",
           "is_correct": false,
           "feedback": "Incorrecto. El tiempo es 1 mes, no el 2 %."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El monto total M que se termina pagando",
           "is_correct": false,
           "feedback": "Incorrecto. El monto total es capital más interés: $510 000."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La tasa r es el porcentaje por periodo aplicado al capital inicial. Con r = 2 % = 0,02, el interés de un mes es 500 000 × 0,02 = $10 000 y el monto es $510 000.",
       "difficulty": "4",
       "images": [],
@@ -111,13 +111,13 @@
           "feedback": "Incorrecto. Ese es el interés de un solo mes; falta multiplicar por los 4 meses."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$24 000",
           "is_correct": true,
           "feedback": "Correcto. I = 200 000 × 0,03 × 4 = 6 000 × 4 = $24 000."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$12 000",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor usa 2 meses en vez de 4."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Ese valor usa una tasa del 30 % en vez del 3 %."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "I = P × r × t = 200 000 × 0,03 × 4 = $24 000. El estudiante devolverá $224 000 en total.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En Barranquilla, un taller pide un crédito de $1 000 000 al 1,5 % mensual durante 6 meses para comprar herramientas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$1 090 000",
           "is_correct": true,
           "feedback": "Correcto. I = 1 000 000 × 0,015 × 6 = $90 000; M = 1 000 000 + 90 000 = $1 090 000."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$1 015 000",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor solo incluye un mes de interés."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$1 900 000",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor suma mal el capital con el interés."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Ese valor usa una tasa del 0,15 % en vez del 1,5 %."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Primero se halla el interés (90 000) y luego se suma al capital inicial: M = P + I = $1 090 000.",
       "difficulty": "6",
       "images": [],
@@ -203,13 +203,13 @@
           "feedback": "Incorrecto. 12 % es la tasa total de los 6 meses, no la mensual."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "2 % mensual",
           "is_correct": true,
           "feedback": "Correcto. r = 60 000 ÷ (500 000 × 6) = 60 000 ÷ 3 000 000 = 0,02 = 2 % mensual."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0,2 % mensual",
           "is_correct": false,
           "feedback": "Incorrecto. Con 0,2 % el interés sería de solo $6 000."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Con 6 % mensual el interés sería de $180 000."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Despejando de I = P × r × t: r = I ÷ (P × t) = 60 000 ÷ 3 000 000 = 0,02, es decir 2 % mensual.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En Pereira, un joven compara pagar su computador con dos planes: plan X, 4 % mensual a 3 meses; plan Y, 2 % mensual a 6 meses. El capital es el mismo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Ninguno: ambos cobran el 12 % del capital",
           "is_correct": true,
           "feedback": "Correcto. X: 0,04 × 3 = 0,12. Y: 0,02 × 6 = 0,12. El interés es idéntico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El plan X, porque se termina de pagar antes",
           "is_correct": false,
           "feedback": "Incorrecto. Pagar antes no lo hace más barato si el producto tasa × tiempo es el mismo."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. A mayor tasa, mayor interés si el tiempo no lo compensa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Con el mismo capital, manda el producto r × t. Ambos planes dan 0,12, así que el interés pagado es exactamente el mismo.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En Manizales, un ahorrador deja su dinero en una cuenta que paga 5 % mensual de interés simple y quiere saber en cuánto tiempo los intereses igualan al capital inicial.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "5 meses",
           "is_correct": false,
           "feedback": "Incorrecto. En 5 meses el interés es apenas el 25 % del capital."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "20 meses",
           "is_correct": true,
           "feedback": "Correcto. Se necesita r × t = 1, o sea 0,05 × t = 1, de donde t = 20 meses."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Ese valor confunde el 5 % con 5 unidades enteras por mes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Igualar interés y capital significa P × 0,05 × t = P. Cancelando P: 0,05 × t = 1, t = 20 meses. En ese momento el monto es el doble del capital.",
       "difficulty": "8",
       "images": [],

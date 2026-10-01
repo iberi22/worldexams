@@ -13,19 +13,19 @@
       "context": "En la finca cafetera La Esperanza, ubicada en el municipio de Chinchiná, Caldas, el caficultor mide el pH del suelo donde cultiva café arábigo de alta calidad.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Un pH entre 5,0 y 6,0, ligeramente ácido.",
           "is_correct": true,
           "feedback": "Correcto. El café arábigo prospera en suelos ligeramente ácidos con pH entre 5,0 y 6,0, lo que favorece la absorción de nutrientes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un pH exactamente igual a 7,0, completamente neutro.",
           "is_correct": false,
           "feedback": "Incorrecto. Un pH neutro no es el óptimo para el café; este cultivo requiere condiciones ligeramente ácidas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un pH entre 9,0 y 10,0, fuertemente básico.",
           "is_correct": false,
           "feedback": "Incorrecto. Un suelo básico no es adecuado para el café; bloquearía la absorción de hierro y otros micronutrientes."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Un pH tan bajo sería tóxico para las raíces del cafeto y quemaría la planta en pocas semanas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El pH es una escala logarítmica que mide la concentración de iones hidrógeno (H+) en una disolución. Los valores van de 0 a 14: por debajo de 7 es ácido, 7 es neutro y por encima de 7 es básico. El café arábigo requiere suelos ligeramente ácidos (pH 5,0 a 6,0) para que las raíces absorban correctamente nutrientes como el hierro, el manganeso y el zinc. La acidez natural de los suelos volcánicos del eje cafetero es ideal para este cultivo.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "En una finca del Valle del Cauca, los trabajadores recogen naranjas Valencia y limones Tahití y notan que al cortar el limón, el jugo irrita la lengua más que el jugo de naranja.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque el limón contiene mayor concentración de ácido cítrico y otros ácidos orgánicos que liberan más iones H+ en disolución.",
           "is_correct": true,
           "feedback": "Correcto. El limón tiene ácidos orgánicos más concentrados, principalmente ácido cítrico, lo que le da un pH cercano a 2,0 a 2,5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque el limón es una base que libera iones OH- mientras que la naranja es un ácido.",
           "is_correct": false,
           "feedback": "Incorrecto. El limón es claramente ácido con pH bajo, no una base; tanto el limón como la naranja son sustancias ácidas, pero en distinta medida."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. El ácido cítrico es un ácido orgánico débil, parcialmente ionizado; el sabor intenso del limón se debe a su concentración, no a su fuerza."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El sabor ácido de los cítricos se debe a los ácidos orgánicos presentes en el jugo. El limón Tahití y el limón mandarina contienen altas concentraciones de ácido cítrico (5 a 8 % en peso), lo que les da un pH entre 2,0 y 2,5. La naranja Valencia tiene menor concentración de ácido cítrico y más azúcares, por lo que su pH es más alto (3,5 a 4,5). Aunque ambos son ácidos, la concentración de H+ libres determina el pH medido y la intensidad del sabor.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En el laboratorio del colegio de Palmira, los estudiantes miden el pH de varias sustancias usando papel indicador universal y obtienen los siguientes valores aproximados.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El jabón líquido para manos, con pH aproximado de 10.",
           "is_correct": true,
           "feedback": "Correcto. El jabón es una sal básica con pH entre 9 y 11; en la escala, valores por encima de 7 indican sustancias básicas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El vinagre comercial, con pH aproximado de 3.",
           "is_correct": false,
           "feedback": "Incorrecto. El vinagre tiene pH ácido porque contiene ácido acético; valores por debajo de 7 son ácidos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El jugo gástrico del estómago, con pH aproximado de 1,5.",
           "is_correct": false,
           "feedback": "Incorrecto. El jugo gástrico es fuertemente ácido por el ácido clorhídrico que contiene, no básico."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El agua pura destilada, con pH aproximado de 7.",
           "is_correct": false,
           "feedback": "Incorrecto. El agua pura es neutra, ni ácida ni básica; tiene pH exactamente 7 a 25 °C."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La escala de pH mide la acidez o basicidad de una disolución acuosa. Los valores inferiores a 7 indican sustancias ácidas (mayor concentración de H+), el valor 7 indica neutralidad (como el agua pura), y los valores superiores a 7 indican sustancias básicas o alcalinas (mayor concentración de OH-). Ejemplos colombianos cotidianos: el jugo de limón es ácido (pH 2), la leche es ligeramente ácida (pH 6,5), el agua de la llave puede ser neutra o ligeramente básica, y el jabón es básico (pH 10).",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En una finca cafetera de Manizales, los caficultores aplican cal agrícola (CaCO₃) al suelo y notan que el pH aumenta de 4,5 a 6,0 en pocas semanas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Porque el CaCO₃ reacciona con los ácidos del suelo formando sales neutras y agua, reduciendo la concentración de iones H+ y aumentando el pH.",
           "is_correct": true,
           "feedback": "Correcto. La cal agrícola neutraliza la acidez del suelo mediante una reacción ácido-base que consume H+."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque el carbonato de calcio añade iones H+ al suelo aumentando su concentración y bajando el pH.",
           "is_correct": false,
           "feedback": "Incorrecto. La cal no añade H+ sino que los consume; por eso el pH sube, no baja."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque el CaCO₃ se transforma en un ácido orgánico que reacciona con el aluminio del suelo.",
           "is_correct": false,
           "feedback": "Incorrecto. El carbonato de calcio no se transforma en un ácido orgánico; es una sal inorgánica básica."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. La cal es una sustancia básica, no ácida; su función es neutralizar la acidez, no acidificar más."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La acidez del suelo se corrige mediante una reacción de neutralización ácido-base. Los iones H+ libres en el suelo reaccionan con el carbonato de calcio (CaCO₃) formando dióxido de carbono, agua y iones Ca2+. Al consumirse los H+, el pH sube. En el eje cafetero colombiano, esta práctica es común porque los suelos volcánicos tienden a acidificarse naturalmente y necesitan corrección periódica para mantener el pH óptimo para el café.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En una finca cítrica de Tuluá, el dueño riega jugo de limón sobre una mancha de óxido en una reja metálica y observa cómo la mancha desaparece gradualmente.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque el ácido cítrico del limón reacciona con el óxido de hierro formando citrato de hierro soluble, que se elimina con el agua.",
           "is_correct": true,
           "feedback": "Correcto. La reacción ácido-base entre el ácido cítrico y el óxido de hierro produce una sal soluble que se lava fácilmente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque el limón disuelve físicamente el óxido como si fuera un detergente sin reaccionar.",
           "is_correct": false,
           "feedback": "Incorrecto. El limón no solo disuelve sino que reacciona químicamente con el óxido; por eso es efectivo incluso en superficies verticales."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. El jugo de limón no es abrasivo; su acción limpiadora se debe a su acidez y reacción química con el óxido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los óxidos metálicos como el óxido de hierro (Fe₂O₃) son sustancias básicas que reaccionan con ácidos formando sales solubles y agua. El ácido cítrico del limón es un ácido orgánico débil pero suficientemente fuerte para reaccionar con el óxido, generando citrato de hierro que se disuelve en agua. Este método casero es útil en zonas rurales colombianas para limpiar herramientas y rejas afectadas por la humedad del clima tropical.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En la planta de tratamiento de agua de una vereda cerca de Bucaramanga, los ingenieros miden el pH del agua del acueducto y obtienen un valor de 6,2, ligeramente ácido para consumo humano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Hidróxido de calcio (cal hidratada), porque neutraliza parcialmente la acidez del agua.",
           "is_correct": true,
           "feedback": "Correcto. El hidróxido de calcio es una base fuerte usada en el tratamiento de aguas para ajustar el pH a valores neutros."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ácido clorhídrico concentrado, porque es necesario para bajar más el pH.",
           "is_correct": false,
           "feedback": "Incorrecto. El ácido clorhídrico haría más ácida el agua, alejándola del pH neutro deseado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Vinagre comercial, porque al ser un ácido orgánico no afecta el agua tratada.",
           "is_correct": false,
           "feedback": "Incorrecto. El vinagre es ácido y bajaría aún más el pH en lugar de elevarlo."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Aunque el etanol no es ni ácido ni base, no tiene efecto neutralizante para elevar el pH."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En el tratamiento de aguas potables, ajustar el pH es esencial para evitar corrosión en tuberías y para garantizar la efectividad de la desinfección con cloro. Si el agua es ácida, se añaden bases débiles como el hidróxido de calcio (Ca(OH)₂) o el carbonato de sodio para neutralizar el exceso de iones H+. Esta operación se realiza en plantas de tratamiento de todo Colombia, incluyendo el área metropolitana de Bucaramanga, donde el agua de fuentes naturales puede ser ligeramente ácida.",
       "difficulty": "6",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En el proceso de producción de café en una finca del Quindío, los caficultores sumergen los granos verdes en tanques con agua antes del tostado, y miden el pH del agua de remojo para controlar la fermentación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El pH disminuye progresivamente porque se liberan ácidos orgánicos que incrementan la concentración de iones H+ en el agua.",
           "is_correct": true,
           "feedback": "Correcto. La fermentación produce ácidos láctico, acético y cítrico que acidifican el agua, bajando el pH de 6,5 a valores cercanos a 4,0."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El pH aumenta porque los microorganismos producen sustancias básicas como el amoníaco.",
           "is_correct": false,
           "feedback": "Incorrecto. Durante la fermentación alcohólica y láctica predominan los ácidos; el pH baja, no sube."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. La variación del pH es predecible y se correlaciona directamente con la producción de ácidos orgánicos durante la fermentación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Durante la fermentación del café, las levaduras y bacterias degradan los azúcares de la pulpa residual produciendo ácidos orgánicos como el láctico, el acético y el cítrico. Estos ácidos se disocian parcialmente en el agua liberando H+, lo que reduce el pH. Los caficultores expertos controlan el tiempo de fermentación midiendo el pH para lograr el sabor y aroma característicos del café colombiano, deteniendo el proceso antes de que aparezca acidez excesiva.",
       "difficulty": "8",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "En la altillanura colombiana, los ingenieros agrónomos del Meta analizan dos suelos para cultivar arroz: el suelo A tiene pH 4,8 y el suelo B tiene pH 6,8.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El suelo A con pH 4,8 requiere encalado porque su acidez elevada limita la disponibilidad de nutrientes para el arroz.",
           "is_correct": true,
           "feedback": "Correcto. Un pH 4,8 es demasiado ácido para el arroz, que prefiere pH entre 5,5 y 6,5; se debe aplicar cal para corregirlo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El suelo B con pH 6,8 requiere encalado porque es demasiado básico para el cultivo.",
           "is_correct": false,
           "feedback": "Incorrecto. El pH 6,8 está dentro del rango aceptable para arroz; no requiere encalado sino quizás un ligero ajuste acidificante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambos suelos requieren encalado porque todos los suelos colombianos son ácidos por naturaleza.",
           "is_correct": false,
           "feedback": "Incorrecto. Los suelos colombianos varían en pH; algunos son ácidos pero otros son neutros o alcalinos, especialmente los de zonas áridas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ninguno requiere encalado porque el arroz crece bien en cualquier valor de pH del suelo.",
           "is_correct": false,
           "feedback": "Incorrecto. El arroz tiene un rango óptimo de pH; fuera de él la producción disminuye y aparecen problemas de toxicidad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El arroz es un cultivo que tolera suelos ligeramente ácidos pero no extremadamente ácidos. El pH óptimo está entre 5,5 y 6,5. Un pH 4,8, como el del suelo A de la altillanura, es demasiado bajo: causa toxicidad por aluminio y deficiencia de fósforo, calcio y magnesio. Para corregirlo, se aplica cal agrícola (CaCO₃) o dolomita (CaMg(CO₃)₂) hasta alcanzar el pH adecuado. El suelo B con pH 6,8 es casi neutro y no necesita corrección inmediata.",
       "difficulty": "8",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "El Ministerio de Ambiente colombiano debate si autorizar el uso de un nuevo fertilizante nitrogenado que promete duplicar la producción de café, pero estudios preliminares muestran que reduce el pH del suelo en 0,5 unidades por cosecha.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "No debería autorizarse sin un plan de manejo del pH, porque la acidificación progresiva puede agotar el suelo y reducir la producción futura, a pesar del beneficio inmediato.",
           "is_correct": true,
           "feedback": "Correcto. La acidificación acumulada degrada el suelo; el aumento inmediato de producción no compensa la pérdida de fertilidad a largo plazo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Debería autorizarse sin restricciones porque duplicar la producción es siempre positivo para la economía.",
           "is_correct": false,
           "feedback": "Incorrecto. Ignorar el impacto sobre el pH produce degradación del suelo, contradiciendo los principios de sostenibilidad agrícola."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. Cambios pequeños y controlados de pH pueden ser beneficiosos si se manejan con encalado; el problema es la acidificación acumulada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El pH del suelo es un indicador clave de su fertilidad. Una reducción constante de 0,5 unidades por cosecha es significativa: si el suelo parte de pH 5,5, en pocas cosechas puede bajar a 4,5, nivel donde el aluminio se vuelve tóxico para las raíces del café. Los fertilizantes nitrogenados como el sulfato de amonio liberan H+ durante la nitrificación, acidificando el suelo. Una agricultura sostenible requiere combinar fertilización con planes de encalado periódico para mantener el pH en el rango óptimo.",
       "difficulty": "10",
       "images": [],
@@ -519,19 +519,19 @@
       "context": "En un foro científico en Medellín, expertos debaten el uso de indicadores naturales de pH extraídos del repollo morado (col lombarda) frente a indicadores sintéticos como la fenolftaleína.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Los indicadores naturales son biodegradables, de bajo costo y permiten observar cambios visibles, pero su escala de color es limitada y menos precisa que los sintéticos.",
           "is_correct": true,
           "feedback": "Correcto. La evaluación combina correctamente las ventajas ambientales y económicas con las limitaciones técnicas de los indicadores naturales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los indicadores naturales son siempre superiores a los sintéticos porque son completamente inorgánicos.",
           "is_correct": false,
           "feedback": "Incorrecto. Los indicadores naturales como la col morada contienen antocianinas, que son compuestos orgánicos; no son inorgánicos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los indicadores sintéticos deben prohibirse porque todos son cancerígenos y dañinos para los estudiantes.",
           "is_correct": false,
           "feedback": "Incorrecto. Indicadores sintéticos como la fenolftaleína son seguros en las concentraciones usadas en laboratorios escolares."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto. Las antocianinas de la col morada cambian claramente de color según el pH, de rojo en ácidos a verde en básicos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los indicadores naturales como el jugo de col morada contienen antocianinas, pigmentos vegetales que cambian de color según el pH: rojo en medios ácidos, violeta en neutros y verde-amarillento en básicos. Son biodegradables, de bajo costo y permiten experiencias seguras en el aula. Sin embargo, su rango de transición es más amplio y menos definido que el de indicadores sintéticos como la fenolftaleína o el naranja de metilo, por lo que se usan más en educación que en investigación cuantitativa.",
       "difficulty": "10",
       "images": [],

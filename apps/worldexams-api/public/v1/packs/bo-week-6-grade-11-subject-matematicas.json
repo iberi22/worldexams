@@ -58,19 +58,19 @@
       "context": "En Cochabamba, el estudiante Jhonny del Colegio Nacional Sucre resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El sistema es incompatible (no tiene solución real alguna).",
           "is_correct": true,
           "feedback": "¡Correcto! Una contradicción numérica indica que las dos ecuaciones representan rectas paralelas y por tanto no se interceptan."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El sistema tiene infinitas soluciones complejas.",
           "is_correct": false,
           "feedback": "Incorrecto. Si hay contradicción, no existe ninguna combinación de valores que satisfaga ambas ecuaciones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La solución del sistema es el punto (0, 5) en el plano.",
           "is_correct": false,
           "feedback": "Incorrecto. La igualdad 0 = 5 es una falsedad matemática, no representa coordenadas."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Las ecuaciones lineales en un plano nunca pueden tener exactamente dos puntos de cruce."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Al obtener una identidad falsa (contradicción) durante la resolución, se demuestra que el sistema carece de soluciones comunes. Se denomina sistema incompatible o inconsistente.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,31 +148,31 @@
       "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "x = 6.5, y = 5.5",
           "is_correct": true,
           "feedback": "¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 4, y = 4",
           "is_correct": false,
           "feedback": "Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x = 1, y = 2",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface el valor de la primera suma del sistema."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No tiene solución real",
           "is_correct": false,
           "feedback": "Incorrecto. El sistema es compatible determinado, por lo que tiene solución única."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,31 +193,31 @@
       "context": "En Tarija, el estudiante Sonia del Colegio Nacional Bolivar resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "x = 8.0, y = 7.0",
           "is_correct": true,
           "feedback": "¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 5, y = 5",
           "is_correct": false,
           "feedback": "Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x = 1, y = 2",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface el valor de la primera suma del sistema."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No tiene solución real",
           "is_correct": false,
           "feedback": "Incorrecto. El sistema es compatible determinado, por lo que tiene solución única."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "En Oruro, el estudiante Ramiro del Colegio Nacional Potosí resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "x = 9.5, y = 8.5",
           "is_correct": true,
           "feedback": "¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 6, y = 6",
           "is_correct": false,
           "feedback": "Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. El sistema es compatible determinado, por lo que tiene solución única."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "En Trinidad, el estudiante Marcela del Colegio Nacional Cobija resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "x = 14.0, y = 13.0",
           "is_correct": true,
           "feedback": "¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 9, y = 9",
           "is_correct": false,
           "feedback": "Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x = 1, y = 2",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface el valor de la primera suma del sistema."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. El sistema es compatible determinado, por lo que tiene solución única."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "En Santa Cruz, el estudiante Roxana del Colegio Nacional Santa Cruz resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "x = 17.0, y = 16.0",
           "is_correct": true,
           "feedback": "¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 11, y = 11",
           "is_correct": false,
           "feedback": "Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. El sistema es compatible determinado, por lo que tiene solución única."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,31 +508,31 @@
       "context": "En Cochabamba, el estudiante Jhonny del Colegio Nacional Sucre resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "x = 18.5, y = 17.5",
           "is_correct": true,
           "feedback": "¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 12, y = 12",
           "is_correct": false,
           "feedback": "Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x = 1, y = 2",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface el valor de la primera suma del sistema."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No tiene solución real",
           "is_correct": false,
           "feedback": "Incorrecto. El sistema es compatible determinado, por lo que tiene solución única."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,31 +553,31 @@
       "context": "En El Alto, el estudiante Marisol del Colegio Nacional El Alto resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "x = 20.0, y = 19.0",
           "is_correct": true,
           "feedback": "¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 13, y = 13",
           "is_correct": false,
           "feedback": "Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x = 1, y = 2",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface el valor de la primera suma del sistema."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No tiene solución real",
           "is_correct": false,
           "feedback": "Incorrecto. El sistema es compatible determinado, por lo que tiene solución única."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "x = 21.5, y = 20.5",
           "is_correct": true,
           "feedback": "¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 14, y = 14",
           "is_correct": false,
           "feedback": "Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. El sistema es compatible determinado, por lo que tiene solución única."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,19 +643,19 @@
       "context": "En Tarija, el estudiante Sonia del Colegio Nacional Bolivar resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "x = 23.0, y = 22.0",
           "is_correct": true,
           "feedback": "¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 15, y = 15",
           "is_correct": false,
           "feedback": "Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x = 1, y = 2",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface el valor de la primera suma del sistema."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. El sistema es compatible determinado, por lo que tiene solución única."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,31 +688,31 @@
       "context": "En Oruro, el estudiante Ramiro del Colegio Nacional Potosí resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "x = 24.5, y = 23.5",
           "is_correct": true,
           "feedback": "¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 16, y = 16",
           "is_correct": false,
           "feedback": "Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x = 1, y = 2",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface el valor de la primera suma del sistema."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No tiene solución real",
           "is_correct": false,
           "feedback": "Incorrecto. El sistema es compatible determinado, por lo que tiene solución única."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "En Cobija, el estudiante Jaime del Colegio Nacional Trinidad resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "x = 27.5, y = 26.5",
           "is_correct": true,
           "feedback": "¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 18, y = 18",
           "is_correct": false,
           "feedback": "Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. El sistema es compatible determinado, por lo que tiene solución única."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "En Trinidad, el estudiante Marcela del Colegio Nacional Cobija resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "x = 29.0, y = 28.0",
           "is_correct": true,
           "feedback": "¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 19, y = 19",
           "is_correct": false,
           "feedback": "Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. El sistema es compatible determinado, por lo que tiene solución única."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho resuelve sistemas de ecuaciones lineales para optimizar costos de materiales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "x = 30.5, y = 29.5",
           "is_correct": true,
           "feedback": "¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 20, y = 20",
           "is_correct": false,
           "feedback": "Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x = 1, y = 2",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface el valor de la primera suma del sistema."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. El sistema es compatible determinado, por lo que tiene solución única."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.\n\n---",
       "difficulty": "10",
       "images": [],

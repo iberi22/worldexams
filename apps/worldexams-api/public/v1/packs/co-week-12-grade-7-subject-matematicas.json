@@ -13,13 +13,13 @@
       "context": "En Bogotá, el profesor explica cómo calcular el promedio de las notas del curso.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Sumando todos los datos y dividiendo entre la cantidad de datos",
           "is_correct": true,
           "feedback": "Correcto. Esa es la definición de la media aritmética."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Tomando el dato que más se repite",
           "is_correct": false,
           "feedback": "Incorrecto. Eso describe la moda, no la media."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Eso describe el rango, no la media."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La media aritmética es $\\frac{\\text{suma de los datos}}{\\text{número de datos}}$. Resume el conjunto en un valor representativo.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En Cali, las notas de Valentina en cuatro pruebas son: $4$, $6$, $8$ y $10$ (escala de $0$ a $10$).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$7$",
           "is_correct": true,
           "feedback": "Correcto. $\\frac{4 + 6 + 8 + 10}{4} = \\frac{28}{4} = 7$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$6$",
           "is_correct": false,
           "feedback": "Incorrecto. Error al sumar las cuatro notas."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Esa es la suma; falta dividir entre $4$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Se suman los datos ($28$) y se dividen entre la cantidad de datos ($4$): media $= 7$.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En Barranquilla, el número de goles por partido de un equipo fue: $2$, $3$, $3$, $5$, $5$, $5$ y $7$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$5$",
           "is_correct": true,
           "feedback": "Correcto. El $5$ aparece $3$ veces, más que cualquier otro valor."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$3$",
           "is_correct": false,
           "feedback": "Incorrecto. Aparece $2$ veces, menos que el $5$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$2$",
           "is_correct": false,
           "feedback": "Incorrecto. Aparece una sola vez."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Aparece una sola vez."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La moda es el dato con mayor frecuencia. El $5$ se repite $3$ veces y es la moda.",
       "difficulty": "6",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "En Manizales, el grupo A de $10$ estudiantes tiene promedio $3.8$ y el grupo B de $15$ estudiantes tiene promedio $4.2$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$4.04$",
           "is_correct": true,
           "feedback": "Correcto. $\\frac{10 \\times 3.8 + 15 \\times 4.2}{25} = \\frac{38 + 63}{25} = 4.04$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$4.0$",
           "is_correct": false,
           "feedback": "Incorrecto. Promediaste $3.8$ y $4.2$ sin ponderar por el tamaño de cada grupo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$4.2$",
           "is_correct": false,
           "feedback": "Incorrecto. Tomaste solo el promedio del grupo B."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$3.9$",
           "is_correct": false,
           "feedback": "Incorrecto. Error al ponderar las sumas de cada grupo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Es un promedio ponderado: suma total $38 + 63 = 101$ entre $25$ estudiantes: $4.04$.",
       "difficulty": "8",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "En Popayán, en una tienda trabajan $12$ personas: $8$ ganan $1300000\\text{ COP}$, $3$ ganan $1500000\\text{ COP}$ y el gerente gana $8000000\\text{ COP}$. El gerente afirma que el salario medio de $1908333\\text{ COP}$ representa bien el salario típico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "No, la mediana de $1300000\\text{ COP}$ es más representativa",
           "is_correct": true,
           "feedback": "Correcto. La media está inflada por el salario del gerente; la mayoría gana $1300000$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sí, la media sí representa bien a todos",
           "is_correct": false,
           "feedback": "Incorrecto. Ningún empleado gana cerca de $1908333\\text{ COP}$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No, la moda es $1500000\\text{ COP}$",
           "is_correct": false,
           "feedback": "Incorrecto. La moda es $1300000$, con $8$ trabajadores."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. La media real es $\\frac{22900000}{12} \\approx 1908333$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La media $\\approx 1908333$ queda distorsionada por el valor extremo. La mediana (datos sexto y séptimo: $1300000$) refleja el salario típico de la mayoría.",
       "difficulty": "10",
       "images": [],

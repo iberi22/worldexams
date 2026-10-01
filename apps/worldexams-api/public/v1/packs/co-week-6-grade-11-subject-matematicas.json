@@ -13,19 +13,19 @@
       "context": "Isabella en Manizales analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{3}(x - 1) = 3$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "28",
           "is_correct": true,
           "feedback": "Correcto. Por definición de logaritmo, $x - 1 = 3^{3} = 27$, por lo que $x = 27 + 1 = 28$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "33",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "25",
           "is_correct": false,
           "feedback": "Incorrecto. Se restó en lugar de sumar el término constante 1."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{3}(x - 1) = 3$ equivale a $x - 1 = 3^{3} = 27$. Sumando 1 a ambos lados, obtenemos $x = 27 + 1 = 28$.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "Mateo en Santa Marta analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{2}(x - 2) = 4$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "18",
           "is_correct": true,
           "feedback": "Correcto. Por definición de logaritmo, $x - 2 = 2^{4} = 16$, por lo que $x = 16 + 2 = 18$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "23",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{2}(x - 2) = 4$ equivale a $x - 2 = 2^{4} = 16$. Sumando 2 a ambos lados, obtenemos $x = 16 + 2 = 18$.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "Sofia en Pasto analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{3}(x - 3) = 5$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "246",
           "is_correct": true,
           "feedback": "Correcto. Por definición de logaritmo, $x - 3 = 3^{5} = 243$, por lo que $x = 243 + 3 = 246$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "251",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "243",
           "is_correct": false,
           "feedback": "Incorrecto. Se restó en lugar de sumar el término constante 3."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{3}(x - 3) = 5$ equivale a $x - 3 = 3^{5} = 243$. Sumando 3 a ambos lados, obtenemos $x = 243 + 3 = 246$.",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "Diego en Bogotá analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{2}(x - 4) = 2$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "8",
           "is_correct": true,
           "feedback": "Correcto. Por definición de logaritmo, $x - 4 = 2^{2} = 4$, por lo que $x = 4 + 4 = 8$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "13",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "5",
           "is_correct": false,
           "feedback": "Incorrecto. Se restó en lugar de sumar el término constante 4."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{2}(x - 4) = 2$ equivale a $x - 4 = 2^{2} = 4$. Sumando 4 a ambos lados, obtenemos $x = 4 + 4 = 8$.",
       "difficulty": "4",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Valentina en Medellín analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{3}(x - 5) = 3$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "32",
           "is_correct": true,
           "feedback": "Correcto. Por definición de logaritmo, $x - 5 = 3^{3} = 27$, por lo que $x = 27 + 5 = 32$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "37",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{3}(x - 5) = 3$ equivale a $x - 5 = 3^{3} = 27$. Sumando 5 a ambos lados, obtenemos $x = 27 + 5 = 32$.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Mariana en Barranquilla analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{3}(x - 7) = 5$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "250",
           "is_correct": true,
           "feedback": "Correcto. Por definición de logaritmo, $x - 7 = 3^{5} = 243$, por lo que $x = 243 + 7 = 250$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "255",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{3}(x - 7) = 5$ equivale a $x - 7 = 3^{5} = 243$. Sumando 7 a ambos lados, obtenemos $x = 243 + 7 = 250$.",
       "difficulty": "6",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Juan en Bucaramanga analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{2}(x - 8) = 2$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "12",
           "is_correct": true,
           "feedback": "Correcto. Por definición de logaritmo, $x - 8 = 2^{2} = 4$, por lo que $x = 4 + 8 = 12$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "17",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{2}(x - 8) = 2$ equivale a $x - 8 = 2^{2} = 4$. Sumando 8 a ambos lados, obtenemos $x = 4 + 8 = 12$.",
       "difficulty": "6",
       "images": [],
@@ -473,31 +473,31 @@
       "context": "Isabella en Manizales analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{3}(x - 11) = 5$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "254",
           "is_correct": true,
           "feedback": "Correcto. Por definición de logaritmo, $x - 11 = 3^{5} = 243$, por lo que $x = 243 + 11 = 254$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "259",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "251",
           "is_correct": false,
           "feedback": "Incorrecto. Se restó en lugar de sumar el término constante 11."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "497",
           "is_correct": false,
           "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{3}(x - 11) = 5$ equivale a $x - 11 = 3^{5} = 243$. Sumando 11 a ambos lados, obtenemos $x = 243 + 11 = 254$.",
       "difficulty": "8",
       "images": [],
@@ -519,13 +519,13 @@
       "context": "Mateo en Santa Marta analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{2}(x - 12) = 2$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "16",
           "is_correct": true,
           "feedback": "Correcto. Por definición de logaritmo, $x - 12 = 2^{2} = 4$, por lo que $x = 4 + 12 = 16$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "21",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{2}(x - 12) = 2$ equivale a $x - 12 = 2^{2} = 4$. Sumando 12 a ambos lados, obtenemos $x = 4 + 12 = 16$.",
       "difficulty": "8",
       "images": [],
@@ -565,13 +565,13 @@
       "context": "Sofia en Pasto analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{3}(x - 13) = 3$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "40",
           "is_correct": true,
           "feedback": "Correcto. Por definición de logaritmo, $x - 13 = 3^{3} = 27$, por lo que $x = 27 + 13 = 40$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "45",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
@@ -589,7 +589,7 @@
           "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{3}(x - 13) = 3$ equivale a $x - 13 = 3^{3} = 27$. Sumando 13 a ambos lados, obtenemos $x = 27 + 13 = 40$.",
       "difficulty": "8",
       "images": [],
@@ -611,31 +611,31 @@
       "context": "Diego en Bogotá analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{2}(x - 14) = 4$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "30",
           "is_correct": true,
           "feedback": "Correcto. Por definición de logaritmo, $x - 14 = 2^{4} = 16$, por lo que $x = 16 + 14 = 30$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "35",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "27",
           "is_correct": false,
           "feedback": "Incorrecto. Se restó en lugar de sumar el término constante 14."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "46",
           "is_correct": false,
           "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{2}(x - 14) = 4$ equivale a $x - 14 = 2^{4} = 16$. Sumando 14 a ambos lados, obtenemos $x = 16 + 14 = 30$.",
       "difficulty": "8",
       "images": [],
@@ -657,19 +657,19 @@
       "context": "Valentina en Medellín analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{3}(x - 15) = 5$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "258",
           "is_correct": true,
           "feedback": "Correcto. Por definición de logaritmo, $x - 15 = 3^{5} = 243$, por lo que $x = 243 + 15 = 258$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "263",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "255",
           "is_correct": false,
           "feedback": "Incorrecto. Se restó en lugar de sumar el término constante 15."
@@ -681,7 +681,7 @@
           "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{3}(x - 15) = 5$ equivale a $x - 15 = 3^{5} = 243$. Sumando 15 a ambos lados, obtenemos $x = 243 + 15 = 258$.",
       "difficulty": "8",
       "images": [],
@@ -703,19 +703,19 @@
       "context": "Santiago en Cali analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{2}(x - 16) = 2$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "20",
           "is_correct": true,
           "feedback": "Correcto. Por definición de logaritmo, $x - 16 = 2^{2} = 4$, por lo que $x = 4 + 16 = 20$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "25",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "17",
           "is_correct": false,
           "feedback": "Incorrecto. Se restó en lugar de sumar el término constante 16."
@@ -727,7 +727,7 @@
           "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{2}(x - 16) = 2$ equivale a $x - 16 = 2^{2} = 4$. Sumando 16 a ambos lados, obtenemos $x = 4 + 16 = 20$.",
       "difficulty": "8",
       "images": [],
@@ -749,19 +749,19 @@
       "context": "Mariana en Barranquilla analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{3}(x - 17) = 3$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "44",
           "is_correct": true,
           "feedback": "Correcto. Por definición de logaritmo, $x - 17 = 3^{3} = 27$, por lo que $x = 27 + 17 = 44$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "49",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "41",
           "is_correct": false,
           "feedback": "Incorrecto. Se restó en lugar de sumar el término constante 17."
@@ -773,7 +773,7 @@
           "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{3}(x - 17) = 3$ equivale a $x - 17 = 3^{3} = 27$. Sumando 17 a ambos lados, obtenemos $x = 27 + 17 = 44$.",
       "difficulty": "10",
       "images": [],
@@ -795,13 +795,13 @@
       "context": "Juan en Bucaramanga analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{2}(x - 18) = 4$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "34",
           "is_correct": true,
           "feedback": "Correcto. Por definición de logaritmo, $x - 18 = 2^{4} = 16$, por lo que $x = 16 + 18 = 34$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "39",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
@@ -819,7 +819,7 @@
           "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{2}(x - 18) = 4$ equivale a $x - 18 = 2^{4} = 16$. Sumando 18 a ambos lados, obtenemos $x = 16 + 18 = 34$.",
       "difficulty": "10",
       "images": [],
@@ -841,13 +841,13 @@
       "context": "Camila en Cartagena analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{3}(x - 19) = 5$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "262",
           "is_correct": true,
           "feedback": "Correcto. Por definición de logaritmo, $x - 19 = 3^{5} = 243$, por lo que $x = 243 + 19 = 262$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "267",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
@@ -865,7 +865,7 @@
           "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{3}(x - 19) = 5$ equivale a $x - 19 = 3^{5} = 243$. Sumando 19 a ambos lados, obtenemos $x = 243 + 19 = 262$.",
       "difficulty": "10",
       "images": [],
@@ -887,19 +887,19 @@
       "context": "Alejandro en Pereira analiza un modelo de crecimiento de datos expresado mediante la escala logarítmica $\\log_{2}(x - 20) = 2$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "24",
           "is_correct": true,
           "feedback": "Correcto. Por definición de logaritmo, $x - 20 = 2^{2} = 4$, por lo que $x = 4 + 20 = 24$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "29",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumó un valor incorrecto al despejar la variable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "21",
           "is_correct": false,
           "feedback": "Incorrecto. Se restó en lugar de sumar el término constante 20."
@@ -911,7 +911,7 @@
           "feedback": "Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por la definición de logaritmo $\\log_b(A) = c \\iff A = b^c$, la ecuación $\\log_{2}(x - 20) = 2$ equivale a $x - 20 = 2^{2} = 4$. Sumando 20 a ambos lados, obtenemos $x = 4 + 20 = 24$.",
       "difficulty": "10",
       "images": [],

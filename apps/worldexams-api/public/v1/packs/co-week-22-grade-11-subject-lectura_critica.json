@@ -13,31 +13,31 @@
       "context": "Análisis de un ensayo sobre la transición energética en Colombia (Bogotá).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La transición energética debe ser justa, gradual e incluyente con las comunidades étnicas de La Guajira.",
           "is_correct": true,
           "feedback": "Es correcta porque la tesis sintetiza la propuesta de equidad social y gradualidad planteada en el texto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Colombia debe prohibir de inmediato la extracción de petróleo sin importar las consecuencias financieras.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el autor no aboga por una suspensión drástica sino por una transición gradual."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El carbón es la única fuente de riqueza sostenible para la economía nacional a largo plazo.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el ensayo cuestiona expresamente la dependencia indefinida del carbón."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Las energías renovables representan una moda pasajera promovida por países industrializados.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el escrito defiende el valor estratégico de las energías limpias."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La tesis constituye el núcleo argumentativo del ensayo y debe expresar la postura debatible del autor.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "Examen de la estructura argumentativa en la columna de opinión (Medellín).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Presenta el diagnóstico del problema ambiental, examina datos socioeconómicos y propone alternativas comunitarias.",
           "is_correct": true,
           "feedback": "Es correcta porque sigue la estructura lógica canónica: planteamiento, sustentación empírica y cierre propositivo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Relata una anécdota personal infantil y concluye con una fórmula matemática de costos energéticos.",
           "is_correct": false,
           "feedback": "Es incorrecta porque confunde un ensayo crítico con una narración autobiográfica irrelevante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Enumera los nombres de los ministros de ambiente sin ofrecer ningún análisis conceptual.",
           "is_correct": false,
           "feedback": "Es incorrecta porque una lista de nombres no constituye una argumentación articulada."
@@ -83,7 +83,7 @@
           "feedback": "Es incorrecta porque la conclusión resulta infundada si se coloca sin antecedentes argumentativos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Reconocer la arquitectura textual permite comprender la progresión del pensamiento ensayístico.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Identificación de argumentos de autoridad en un escrito académico (Cali).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Los informes científicos del Instituto Humboldt que documentan la reducción de especies endémicas.",
           "is_correct": true,
           "feedback": "Es correcta porque el Instituto Humboldt es una institución oficial y especializada en biodiversidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La opinión informal compartida por un conductor de taxi durante un trancón urbano.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el testimonio informal carece de rigor y representatividad científica."
@@ -129,7 +129,7 @@
           "feedback": "Es incorrecta porque la intuición personal no sustituye la investigación documentada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El argumento de autoridad requiere apelar a fuentes institucionales o expertas de legitimidad reconocida.",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "Evaluación de la estrategia de contraargumentación empleada (Barranquilla).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Demuestra que los costos del impacto ambiental a largo plazo superan con creces la inversión inicial en tecnología limpia.",
           "is_correct": true,
           "feedback": "Es correcta porque refuta la objeción financiera contrastando el gasto inicial con los costos futuros de inacción."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Descalifica moralmente a sus opositores tildándolos de enemigos del progreso y de la patria.",
           "is_correct": false,
           "feedback": "Es incorrecta porque incurre en una falacia ad hominem en lugar de aportar razones financieras."
@@ -175,7 +175,7 @@
           "feedback": "Es incorrecta porque la evasión temática evidencia incapacidad de contraargumentación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La contraargumentación efectiva invalida las objeciones del adversario mediante razonamientos sólidos.",
       "difficulty": "4",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "Análisis del conector adversativo 'sin embargo' en el párrafo 3 (Cartagena).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Introduce una salvedad o matiz crítico frente a los indicadores de crecimiento económico expuestos previamente.",
           "is_correct": true,
           "feedback": "Es correcta porque 'sin embargo' es un conector adversativo que contrapone una restricción a la idea anterior."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Indica la causa biológica directa por la cual las plantas realizan la fotosíntesis en el desierto.",
           "is_correct": false,
           "feedback": "Es incorrecta porque confunde un enlace discursivo con una explicación causal biológica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Anuncia la conclusión definitiva del ensayo despidiéndose formalmente de los lectores.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no se ubica en el cierre ni tiene valor recapitulativo."
@@ -221,7 +221,7 @@
           "feedback": "Es incorrecta porque no suma elementos análogos sino que introduce una oposición."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los conectores adversativos regulan los giros lógicos y las restricciones dentro de la argumentación.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Uso de la ironía discursiva en la crítica institucional (Bucaramanga).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Denunciar sarcásticamente la lentitud e ineficiencia de los trámites administrativos en el país.",
           "is_correct": true,
           "feedback": "Es correcta porque la ironía dice lo opuesto de lo que piensa para enfatizar una falla del sistema."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Elogiar genuinamente al ministerio por la prontitud en la expedición de licencias ambientales.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el texto demuestra a lo largo de los párrafos la demora del Estado."
@@ -267,7 +267,7 @@
           "feedback": "Es incorrecta porque confunde la metáfora de 'brillar' con un fenómeno de la óptica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La ironía exige interpretar la disparidad entre el significado literal y el sentido pragmático pretendido.",
       "difficulty": "6",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "Distinción entre hechos comprobables y opiniones valorativas (Pasto).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La temperatura media global ha aumentado aproximadamente 1,1 °C desde la era preindustrial.",
           "is_correct": true,
           "feedback": "Es correcta porque presenta una medición objetiva y contrastable con registros meteorológicos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La indiferencia de los ciudadanos ante el calentamiento global es una falta moral imperdonable.",
           "is_correct": false,
           "feedback": "Es incorrecta porque juzgar la indiferencia como 'falta moral' es un juicio ético o apreciación subjetiva."
@@ -451,7 +451,7 @@
           "feedback": "Es incorrecta porque expresa una preferencia individual de estilo de vida."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Diferenciar datos objetivos de juicios de valor es un pilar indispensable de la lectura crítica.",
       "difficulty": "6",
       "images": [],
@@ -519,13 +519,13 @@
       "context": "Relación entre la introducción y la conclusión del ensayo (Medellín).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La conclusión retoma la hipótesis planteada en la apertura y sintetiza la validación lograda mediante los argumentos.",
           "is_correct": true,
           "feedback": "Es correcta porque la conclusión cumple la función de cerrar el círculo argumentativo demostrando la tesis."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El último párrafo afirma lo opuesto a la introducción dejando al lector sin saber qué piensa el autor.",
           "is_correct": false,
           "feedback": "Es incorrecta porque una contradicción no resuelta destruye la coherencia del escrito."
@@ -543,7 +543,7 @@
           "feedback": "Es incorrecta porque repetir el inicio sin sintetizar el desarrollo muestra falta de elaboración."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La coherencia global exige que la conclusión selle la indagación abierta en la introducción.",
       "difficulty": "8",
       "images": [],
@@ -565,13 +565,13 @@
       "context": "Uso discursivo de analogías explicativas complejas (Cali).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Ilustrar cómo la contaminación en un tramo afecta la salud e integridad de todo el ecosistema fluvial.",
           "is_correct": true,
           "feedback": "Es correcta porque la analogía permite comprender la interconexión y fragilidad del sistema hídrico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demostrar que el agua dulce tiene la misma composición química que la sangre humana.",
           "is_correct": false,
           "feedback": "Es incorrecta porque confunde una metáfora biológica con una identidad de composición física."
@@ -589,7 +589,7 @@
           "feedback": "Es incorrecta porque aplica una interpretación literal mecánica ajena al recurso retórico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La analogía facilita la transferencia de esquemas explicativos desde un ámbito conocido a uno complejo.",
       "difficulty": "8",
       "images": [],
@@ -703,31 +703,31 @@
       "context": "Análisis de la polifonía y convergencia de perspectivas (Bucaramanga).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Permite abordar la problemática desde múltiples ángulos e intereses, ofreciendo una visión integral.",
           "is_correct": true,
           "feedback": "Es correcta porque la polifonía bien estructurada amplía el horizonte de análisis y fortalece el juicio crítico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demuestra que el autor no tenía ideas propias y tuvo que copiar textos ajenos para llenar páginas.",
           "is_correct": false,
           "feedback": "Es incorrecta porque integrar fuentes es una fortaleza metodológica y no un síntoma de falta de ideas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Genera un caos verbal que impide saber cuál es la verdadera intención del escrito.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el ensayista se encarga de articular las distintas voces bajo un hilo conductor."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Prueba que los campesinos y los académicos opinan exactamente lo mismo sobre todos los temas.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la riqueza del debate estriba precisamente en los matices y tensiones entre actores."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La polifonía discursiva pondera diferentes voces sociales para evitar reduccionismos simplistas.",
       "difficulty": "8",
       "images": [],
@@ -749,19 +749,19 @@
       "context": "Incidencia del contexto sociocultural colombiano en el escrito (Manizales).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Evidencia que el despojo de tierras y la violencia han marcado la relación con el territorio y la naturaleza.",
           "is_correct": true,
           "feedback": "Es correcta porque ubica las problemáticas ecológicas en el marco histórico de las disputas territoriales del país."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demuestra que Colombia es un país habitado exclusivamente por diplomáticos suizos en paz perpetua.",
           "is_correct": false,
           "feedback": "Es incorrecta porque niega la dolorosa realidad del conflicto interno de la nación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Prueba que la violencia no ha tenido ningún impacto en la economía agraria nacional.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el conflicto armado y el despojo han afectado profundamente el campo colombiano."
@@ -773,7 +773,7 @@
           "feedback": "Es incorrecta porque el texto se redacta en español contemporáneo estándar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Comprender el contexto sociocultural resulta imprescindible para juzgar la pertinencia de las tesis socioambientales.",
       "difficulty": "10",
       "images": [],
@@ -795,19 +795,19 @@
       "context": "Verificación de la validez de la inferencia deductiva (Pereira).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Que La Conejera cumple la función de regular las inundaciones en su entorno geográfico.",
           "is_correct": true,
           "feedback": "Es correcta porque la conclusión se deriva necesariamente de la premisa mayor universal y la premisa menor singular."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que La Conejera es una cadena de montañas ubicada en el departamento del Nariño.",
           "is_correct": false,
           "feedback": "Es incorrecta porque altera la naturaleza geográfica del objeto de estudio expresado en las premisas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que ningún humedal del planeta puede almacenar agua durante las épocas de lluvia.",
           "is_correct": false,
           "feedback": "Es incorrecta porque contradice abiertamente la premisa mayor categórica."
@@ -819,7 +819,7 @@
           "feedback": "Es incorrecta porque introduce un elemento externo infundado que no atañe a la deducción lógica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La validez deductiva exige que la conclusión esté contenida conceptualmente en las premisas de partida.",
       "difficulty": "10",
       "images": [],
@@ -841,31 +841,31 @@
       "context": "Evaluación del sesgo ideológico mediante la elección de adjetivos (Santa Marta).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La primera adjetivación denota aprobación y valentía, mientras que la segunda sugiere irresponsabilidad y riesgo.",
           "is_correct": true,
           "feedback": "Es correcta meidante la adjetivación valorativa se trasluce la simpatía o el rechazo ideológico del emisor."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ambas expresiones significan exactamente lo mismo y no revelan la postura del emisor.",
           "is_correct": false,
           "feedback": "Es incorrecta porque orientan el juicio del lector en direcciones diametralmente opuestas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La primera opción es un insulto gravísimo y la segunda es un poema de amor romántico.",
           "is_correct": false,
           "feedback": "Es incorrecta porque distorsiona completamente las funciones pragmáticas de ambas expresiones."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Demuestran que el autor desconoce el significado de las palabras en el idioma castellano.",
           "is_correct": false,
           "feedback": "Es incorrecta porque evidencia el uso preciso de la carga connotativa del léxico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El análisis del léxico adjetivo permite desenmascarar la toma de posición implícita en textos persuasivos.",
       "difficulty": "10",
       "images": [],
@@ -887,13 +887,13 @@
       "context": "Síntesis crítica global de la validez del escrito (Pasto).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque articula una tesis clara, premisas verificables, rigor en la contraargumentación y compromiso ético.",
           "is_correct": true,
           "feedback": "Es correcta porque reúne los criterios fundamentales de consistencia discursiva, validez empírica y trascendencia social."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque fue publicado en un papel con bordes dorados y tipografía dorada de lujo.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el lujo tipográfico no añade validez intelectual ni conceptual al escrito."
@@ -911,7 +911,7 @@
           "feedback": "Es incorrecta porque los incentivos materiales no forman parte de los atributos de calidad de un ensayo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La evaluación sintética final integra el análisis de forma, contenido, metodología e impacto en la comunidad lectora.",
       "difficulty": "10",
       "images": [],

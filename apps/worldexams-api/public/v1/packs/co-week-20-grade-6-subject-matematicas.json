@@ -13,13 +13,13 @@
       "context": "En una clase de arte en Bogotá los estudiantes deslizan una figura por la hoja sin girarla.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Deslizar una figura sin girarla ni cambiar su tamaño",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: la traslación mueve todos los puntos la misma distancia en la misma dirección, conservando forma y tamaño."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Girar una figura alrededor de un punto",
           "is_correct": false,
           "feedback": "Explica el error conceptual: eso describe una rotación, no una traslación."
@@ -37,7 +37,7 @@
           "feedback": "Explica el error conceptual: eso describe una reflexión, movimiento distinto de la traslación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La traslación es el movimiento más simple: cada punto se desplaza igual, así que la figura conserva forma, tamaño y orientación. Es la base para entender los demás movimientos rígidos.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "En un mapa de Medellín un punto de encuentro está en las coordenadas (2, 3) y se traslada 4 unidades a la derecha.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "(6, 3)",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: moverse a la derecha aumenta la coordenada x: 2 + 4 = 6; la y no cambia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "(2, 7)",
           "is_correct": false,
           "feedback": "Explica el error conceptual: suma las 4 unidades a la coordenada y, como si el movimiento fuera hacia arriba."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "(6, 7)",
           "is_correct": false,
           "feedback": "Explica el error conceptual: suma las 4 unidades a ambas coordenadas en vez de solo a x."
@@ -83,7 +83,7 @@
           "feedback": "Explica el error conceptual: resta en vez de sumar, moviendo el punto a la izquierda."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En el plano cartesiano, la horizontal es x y la vertical es y. Moverse a la derecha solo cambia x (2 + 4 = 6); y queda en 3. Así se modelan desplazamientos con coordenadas.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En Cali una artesana refleja un motivo bordado sobre un eje vertical para decorar una mochila.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "(-3, 1)",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: el espejo vertical cambia el signo de x (3 → -3) y conserva y = 1."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "(3, -1)",
           "is_correct": false,
           "feedback": "Explica el error conceptual: cambia el signo de y, lo que corresponde a un espejo horizontal, no vertical."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "(-3, -1)",
           "is_correct": false,
           "feedback": "Explica el error conceptual: cambia ambas coordenadas, como en un giro de media vuelta, no en una reflexión."
@@ -129,7 +129,7 @@
           "feedback": "Explica el error conceptual: deja el punto igual, como si el espejo no moviera nada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Reflejar sobre el eje vertical (eje y) transforma (x, y) en (-x, y): la distancia horizontal al espejo se conserva al otro lado y la altura no cambia.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En un plano de Bucaramanga un triángulo tiene un vértice en A(5, 4) y todo el triángulo se traslada 3 unidades a la izquierda y 2 hacia abajo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "(2, 2)",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: izquierda resta en x (5 - 3 = 2) y abajo resta en y (4 - 2 = 2)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "(8, 6)",
           "is_correct": false,
           "feedback": "Explica el error conceptual: suma en ambas coordenadas, moviendo a la derecha y hacia arriba."
@@ -313,7 +313,7 @@
           "feedback": "Explica el error conceptual: mueve bien en y pero suma en x en vez de restar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Izquierda y abajo restan: x − 3, y − 2. Así A(5, 4) → (2, 2). Toda la figura se mueve igual, por eso basta trasladar los vértices para ubicar la imagen completa.",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En una feria artesanal de Boyacá se exhiben cuatro figuras: una mariposa, una escalera en espiral, una flecha inclinada y una cometa simétrica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La mariposa",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: las alas de la mariposa son imágenes especulares; su cuerpo marca el eje vertical de simetría."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La escalera en espiral",
           "is_correct": false,
           "feedback": "Explica el error conceptual: la espiral gira sin repetirse como espejo; no tiene simetría de reflexión."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La flecha inclinada",
           "is_correct": false,
           "feedback": "Explica el error conceptual: inclinada no se refleja sobre sí misma en ningún eje."
@@ -359,7 +359,7 @@
           "feedback": "Explica el error conceptual: muchas formas naturales, como la mariposa, sí presentan simetría bilateral."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La simetría bilateral abunda en la naturaleza: el cuerpo de la mariposa divide dos alas especulares. Reconocer ejes en objetos reales es el primer paso para formalizar la simetría geométrica.",
       "difficulty": "8",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "En Manizales un maestro de obra debe repetir un motivo de baldosa en una pared larga sin deformarlo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Aplicar traslaciones repetidas del motivo, porque conservan forma y tamaño",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: repetir el mismo desplazamiento reproduce el motivo idéntico a lo largo de la pared."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Agrandar un poco el motivo en cada repetición para llenar la pared",
           "is_correct": false,
           "feedback": "Explica el error conceptual: cambiar el tamaño rompe el diseño y deforma el motivo original."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Girar el motivo al azar en cada posición para que se vea variado",
           "is_correct": false,
           "feedback": "Explica el error conceptual: los giros aleatorios destruyen el patrón regular que pide el diseño."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Reflejar el motivo solo una vez y estirarlo hasta cubrir la pared",
           "is_correct": false,
           "feedback": "Explica el error conceptual: una sola reflexión no cubre la pared y estirar deforma el motivo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Los patrones de recubrimiento (teselados) se generan con traslaciones repetidas del motivo base. Elegir el movimiento que conserva congruencia garantiza un diseño uniforme y fiel al original.",
       "difficulty": "10",
       "images": [],

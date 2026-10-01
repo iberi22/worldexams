@@ -105,19 +105,19 @@
       "context": "En Cali, Diego calcula las dimensiones de una estructura usando un triángulo rectángulo con ángulo de elevación de $45^\\circ$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$6\\sqrt{2}\\text{ m}$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando la razón trigonométrica: cos(45°) = \\sqrt{2}/2 => adyacente = 12 * (\\sqrt{2}/2) = 6\\sqrt{2}."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$12\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Este valor corresponde a la medida de la hipotenusa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$6\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se aplicó una proporción incorrecta entre los lados."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Se dividió por 4 en lugar de utilizar la razón trigonométrica adecuada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En un triángulo rectángulo, la relación entre los lados y el ángulo de $45^\\circ$ está dada por las razones trigonométricas fundamentales. Para este caso: cos(45°) = \\sqrt{2}/2 => adyacente = 12 * (\\sqrt{2}/2) = 6\\sqrt{2}.",
       "difficulty": "4",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En Barranquilla, Valentina calcula las dimensiones de una estructura usando un triángulo rectángulo con ángulo de elevación de $30^\\circ$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$20\\sqrt{3}\\text{ m}$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando la razón trigonométrica: cos(30°) = \\sqrt{3}/2 => adyacente = 40 * (\\sqrt{3}/2) = 20\\sqrt{3}."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$40\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Este valor corresponde a la medida de la hipotenusa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$20\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se aplicó una proporción incorrecta entre los lados."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$10\\sqrt{3}\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se dividió por 4 en lugar de utilizar la razón trigonométrica adecuada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En un triángulo rectángulo, la relación entre los lados y el ángulo de $30^\\circ$ está dada por las razones trigonométricas fundamentales. Para este caso: cos(30°) = \\sqrt{3}/2 => adyacente = 40 * (\\sqrt{3}/2) = 20\\sqrt{3}.",
       "difficulty": "4",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En Bucaramanga, Santiago calcula las dimensiones de una estructura usando un triángulo rectángulo con ángulo de elevación de $60^\\circ$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$15\\sqrt{3}\\text{ m}$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando la razón trigonométrica: sin(60°) = \\sqrt{3}/2 => opuesto = 30 * (\\sqrt{3}/2) = 15\\sqrt{3}."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$30\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Este valor corresponde a la medida de la hipotenusa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$15\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se aplicó una proporción incorrecta entre los lados."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$10\\sqrt{3}\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se dividió por 4 en lugar de utilizar la razón trigonométrica adecuada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En un triángulo rectángulo, la relación entre los lados y el ángulo de $60^\\circ$ está dada por las razones trigonométricas fundamentales. Para este caso: sin(60°) = \\sqrt{3}/2 => opuesto = 30 * (\\sqrt{3}/2) = 15\\sqrt{3}.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En Cartagena, Mariana calcula las dimensiones de una estructura usando un triángulo rectángulo con ángulo de elevación de $45^\\circ$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$4\\sqrt{2}\\text{ m}$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando la razón trigonométrica: sin(45°) = \\sqrt{2}/2 => opuesto = 8 * (\\sqrt{2}/2) = 4\\sqrt{2}."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$8\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Este valor corresponde a la medida de la hipotenusa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$4\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se aplicó una proporción incorrecta entre los lados."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Se dividió por 4 en lugar de utilizar la razón trigonométrica adecuada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En un triángulo rectángulo, la relación entre los lados y el ángulo de $45^\\circ$ está dada por las razones trigonométricas fundamentales. Para este caso: sin(45°) = \\sqrt{2}/2 => opuesto = 8 * (\\sqrt{2}/2) = 4\\sqrt{2}.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En Pereira, Juan calcula las dimensiones de una estructura usando un triángulo rectángulo con ángulo de elevación de $30^\\circ$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$5\\text{ m}$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando la razón trigonométrica: sin(30°) = 1/2 => opuesto = 10 * (1/2) = 5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$10\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Este valor corresponde a la medida de la hipotenusa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$7.5\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se aplicó una proporción incorrecta entre los lados."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Se dividió por 4 en lugar de utilizar la razón trigonométrica adecuada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En un triángulo rectángulo, la relación entre los lados y el ángulo de $30^\\circ$ está dada por las razones trigonométricas fundamentales. Para este caso: sin(30°) = 1/2 => opuesto = 10 * (1/2) = 5.",
       "difficulty": "6",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En Manizales, Camila calcula las dimensiones de una estructura usando un triángulo rectángulo con ángulo de elevación de $60^\\circ$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$8\\text{ m}$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando la razón trigonométrica: cos(60°) = 1/2 => adyacente = 16 * (1/2) = 8."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$16\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Este valor corresponde a la medida de la hipotenusa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$12\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se aplicó una proporción incorrecta entre los lados."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$4\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se dividió por 4 en lugar de utilizar la razón trigonométrica adecuada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En un triángulo rectángulo, la relación entre los lados y el ángulo de $60^\\circ$ está dada por las razones trigonométricas fundamentales. Para este caso: cos(60°) = 1/2 => adyacente = 16 * (1/2) = 8.",
       "difficulty": "6",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En Santa Marta, Alejandro calcula las dimensiones de una estructura usando un triángulo rectángulo con ángulo de elevación de $45^\\circ$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$10\\sqrt{2}\\text{ m}$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando la razón trigonométrica: sin(45°) = \\sqrt{2}/2 => opuesto = 20 * (\\sqrt{2}/2) = 10\\sqrt{2}."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$20\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Este valor corresponde a la medida de la hipotenusa."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Se dividió por 4 en lugar de utilizar la razón trigonométrica adecuada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En un triángulo rectángulo, la relación entre los lados y el ángulo de $45^\\circ$ está dada por las razones trigonométricas fundamentales. Para este caso: sin(45°) = \\sqrt{2}/2 => opuesto = 20 * (\\sqrt{2}/2) = 10\\sqrt{2}.",
       "difficulty": "6",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "En Bogotá, Mateo calcula las dimensiones de una estructura usando un triángulo rectángulo con ángulo de elevación de $60^\\circ$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$12\\text{ m}$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando la razón trigonométrica: cos(60°) = 1/2 => adyacente = 24 * (1/2) = 12."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$24\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Este valor corresponde a la medida de la hipotenusa."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. Se dividió por 4 en lugar de utilizar la razón trigonométrica adecuada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En un triángulo rectángulo, la relación entre los lados y el ángulo de $60^\\circ$ está dada por las razones trigonométricas fundamentales. Para este caso: cos(60°) = 1/2 => adyacente = 24 * (1/2) = 12.",
       "difficulty": "8",
       "images": [],
@@ -519,19 +519,19 @@
       "context": "En Medellín, Sofia calcula las dimensiones de una estructura usando un triángulo rectángulo con ángulo de elevación de $30^\\circ$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$25\\sqrt{3}\\text{ m}$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando la razón trigonométrica: cos(30°) = \\sqrt{3}/2 => adyacente = 50 * (\\sqrt{3}/2) = 25\\sqrt{3}."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$50\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Este valor corresponde a la medida de la hipotenusa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$25\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se aplicó una proporción incorrecta entre los lados."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto. Se dividió por 4 en lugar de utilizar la razón trigonométrica adecuada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En un triángulo rectángulo, la relación entre los lados y el ángulo de $30^\\circ$ está dada por las razones trigonométricas fundamentales. Para este caso: cos(30°) = \\sqrt{3}/2 => adyacente = 50 * (\\sqrt{3}/2) = 25\\sqrt{3}.",
       "difficulty": "8",
       "images": [],
@@ -565,13 +565,13 @@
       "context": "En Cali, Diego calcula las dimensiones de una estructura usando un triángulo rectángulo con ángulo de elevación de $60^\\circ$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$20\\sqrt{3}\\text{ m}$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando la razón trigonométrica: sin(60°) = \\sqrt{3}/2 => opuesto = 40 * (\\sqrt{3}/2) = 20\\sqrt{3}."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$40\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Este valor corresponde a la medida de la hipotenusa."
@@ -589,7 +589,7 @@
           "feedback": "Incorrecto. Se dividió por 4 en lugar de utilizar la razón trigonométrica adecuada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En un triángulo rectángulo, la relación entre los lados y el ángulo de $60^\\circ$ está dada por las razones trigonométricas fundamentales. Para este caso: sin(60°) = \\sqrt{3}/2 => opuesto = 40 * (\\sqrt{3}/2) = 20\\sqrt{3}.",
       "difficulty": "8",
       "images": [],
@@ -703,13 +703,13 @@
       "context": "En Cartagena, Mariana calcula las dimensiones de una estructura usando un triángulo rectángulo con ángulo de elevación de $60^\\circ$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$9\\text{ m}$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando la razón trigonométrica: cos(60°) = 1/2 => adyacente = 18 * (1/2) = 9."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$18\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Este valor corresponde a la medida de la hipotenusa."
@@ -727,7 +727,7 @@
           "feedback": "Incorrecto. Se dividió por 4 en lugar de utilizar la razón trigonométrica adecuada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En un triángulo rectángulo, la relación entre los lados y el ángulo de $60^\\circ$ está dada por las razones trigonométricas fundamentales. Para este caso: cos(60°) = 1/2 => adyacente = 18 * (1/2) = 9.",
       "difficulty": "8",
       "images": [],
@@ -749,13 +749,13 @@
       "context": "En Pereira, Juan calcula las dimensiones de una estructura usando un triángulo rectángulo con ángulo de elevación de $45^\\circ$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$8\\sqrt{2}\\text{ m}$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando la razón trigonométrica: sin(45°) = \\sqrt{2}/2 => opuesto = 16 * (\\sqrt{2}/2) = 8\\sqrt{2}."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$16\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Este valor corresponde a la medida de la hipotenusa."
@@ -773,7 +773,7 @@
           "feedback": "Incorrecto. Se dividió por 4 en lugar de utilizar la razón trigonométrica adecuada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En un triángulo rectángulo, la relación entre los lados y el ángulo de $45^\\circ$ está dada por las razones trigonométricas fundamentales. Para este caso: sin(45°) = \\sqrt{2}/2 => opuesto = 16 * (\\sqrt{2}/2) = 8\\sqrt{2}.",
       "difficulty": "10",
       "images": [],
@@ -795,13 +795,13 @@
       "context": "En Manizales, Camila calcula las dimensiones de una estructura usando un triángulo rectángulo con ángulo de elevación de $30^\\circ$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$50\\text{ m}$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando la razón trigonométrica: sin(30°) = 1/2 => opuesto = 100 * (1/2) = 50."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$100\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Este valor corresponde a la medida de la hipotenusa."
@@ -819,7 +819,7 @@
           "feedback": "Incorrecto. Se dividió por 4 en lugar de utilizar la razón trigonométrica adecuada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En un triángulo rectángulo, la relación entre los lados y el ángulo de $30^\\circ$ está dada por las razones trigonométricas fundamentales. Para este caso: sin(30°) = 1/2 => opuesto = 100 * (1/2) = 50.",
       "difficulty": "10",
       "images": [],
@@ -887,19 +887,19 @@
       "context": "En Pasto, Isabella calcula las dimensiones de una estructura usando un triángulo rectángulo con ángulo de elevación de $30^\\circ$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$40\\sqrt{3}\\text{ m}$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando la razón trigonométrica: cos(30°) = \\sqrt{3}/2 => adyacente = 80 * (\\sqrt{3}/2) = 40\\sqrt{3}."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$80\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Este valor corresponde a la medida de la hipotenusa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$40\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se aplicó una proporción incorrecta entre los lados."
@@ -911,7 +911,7 @@
           "feedback": "Incorrecto. Se dividió por 4 en lugar de utilizar la razón trigonométrica adecuada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En un triángulo rectángulo, la relación entre los lados y el ángulo de $30^\\circ$ está dada por las razones trigonométricas fundamentales. Para este caso: cos(30°) = \\sqrt{3}/2 => adyacente = 80 * (\\sqrt{3}/2) = 40\\sqrt{3}.",
       "difficulty": "10",
       "images": [],

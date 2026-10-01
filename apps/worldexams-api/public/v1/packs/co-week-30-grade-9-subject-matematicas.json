@@ -59,31 +59,31 @@
       "context": "En Medellín, los estudiantes observan cómo cambia la parábola al pasar de y igual a f(x) a y igual a f(x - 3).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La gráfica se desplaza 3 unidades a la derecha",
           "is_correct": true,
           "feedback": "Correcto. Restar dentro de la función desplaza a la derecha."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La gráfica se desplaza 3 unidades a la izquierda",
           "is_correct": false,
           "feedback": "Incorrecto. Eso ocurriría con y igual a f(x + 3)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La gráfica se desplaza 3 unidades hacia arriba",
           "is_correct": false,
           "feedback": "Incorrecto. El desplazamiento vertical se escribe fuera de la función."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La gráfica se desplaza 3 unidades hacia abajo",
           "is_correct": false,
           "feedback": "Incorrecto. El desplazamiento vertical se escribe fuera de la función."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Los cambios dentro del argumento actúan al contrario de lo esperado: x menos 3 mueve la gráfica 3 lugares a la derecha.",
       "difficulty": "4",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En Bucaramanga, un profesor refleja la gráfica de una función multiplicándola por menos uno.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Una reflexión respecto al eje x",
           "is_correct": true,
           "feedback": "Correcto. Cambiar el signo de las imágenes invierte la gráfica verticalmente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una reflexión respecto al eje y",
           "is_correct": false,
           "feedback": "Incorrecto. Eso corresponde a y igual a f(menos x)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un giro respecto al origen sin reflexión",
           "is_correct": false,
           "feedback": "Incorrecto. El giro de media vuelta corresponde a menos f(menos x)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Una reflexión respecto a la recta y igual a x",
           "is_correct": false,
           "feedback": "Incorrecto. Esa reflexión corresponde a la función inversa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Multiplicar la función por menos uno cambia el signo de cada y: lo que estaba arriba pasa abajo y viceversa.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En Pereira, una función cumple que f(1) = 3 y se define g(x) = 2 f(x).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "6",
           "is_correct": true,
           "feedback": "Correcto. Se duplica la imagen: 2 por 3 = 6."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el valor original de f(1) sin transformar."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1.5",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste entre 2 en vez de multiplicar por 2."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Sumaste 2 en vez de multiplicar por 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La transformación y igual a 2 f(x) estira verticalmente al doble: cada imagen queda multiplicada por 2.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En Manizales, se comparan las parábolas y igual a x al cuadrado y y igual a (x + 5) al cuadrado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La segunda es la primera desplazada 5 unidades a la izquierda",
           "is_correct": true,
           "feedback": "Correcto. Sumar 5 dentro del cuadrado mueve la gráfica a la izquierda."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La segunda es la primera desplazada 5 unidades a la derecha",
           "is_correct": false,
           "feedback": "Incorrecto. Eso ocurriría con y igual a (x - 5) al cuadrado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La segunda es la primera desplazada 5 unidades hacia arriba",
           "is_correct": false,
           "feedback": "Incorrecto. El desplazamiento vertical se escribe fuera del cuadrado."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. El desplazamiento vertical se escribe fuera del cuadrado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El vértice pasa de (0, 0) a (menos 5, 0): la forma es idéntica, solo cambia la posición horizontal.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En Cartagena, un grupo analiza la función y igual a menos x al cuadrado + 1.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "1",
           "is_correct": true,
           "feedback": "Correcto. El vértice es (0, 1) y la parábola abre hacia abajo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "0",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el máximo de y igual a menos x al cuadrado, sin el + 1."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Menos 1",
           "is_correct": false,
           "feedback": "Incorrecto. Confundiste el signo del desplazamiento vertical."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No tiene máximo",
           "is_correct": false,
           "feedback": "Incorrecto. Toda parábola que abre hacia abajo tiene un máximo en su vértice."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La reflexión invierte la parábola y el + 1 la sube: el punto más alto queda en (0, 1).",
       "difficulty": "8",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "En Santa Marta, una tabla muestra que f(2) = 5 y se define g(x) = f(x) - 3.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "2",
           "is_correct": true,
           "feedback": "Correcto. Se resta 3 a la imagen: 5 menos 3 = 2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el valor de f(2) sin la transformación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "8",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste 3 en vez de restar 3."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Olvidaste partir del valor f(2) = 5."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Restar 3 fuera de la función baja cada punto 3 unidades: g(2) = f(2) menos 3 = 2.",
       "difficulty": "8",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "En Armenia, la gráfica de f contiene al punto (3, 4) y se define g(x) = f(x + 1) + 2.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El punto (2, 6)",
           "is_correct": true,
           "feedback": "Correcto. La gráfica se mueve 1 a la izquierda y 2 hacia arriba: (2, 6)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El punto (4, 6)",
           "is_correct": false,
           "feedback": "Incorrecto. Moviste a la derecha en vez de a la izquierda."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El punto (2, 2)",
           "is_correct": false,
           "feedback": "Incorrecto. Moviste hacia abajo en vez de hacia arriba."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El punto (4, 2)",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste ambas direcciones del desplazamiento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La transformación combina x + 1 (izquierda 1) con + 2 (arriba 2): x pasa de 3 a 2 y y pasa de 4 a 6.",
       "difficulty": "8",
       "images": [],
@@ -519,13 +519,13 @@
       "context": "En Neiva, un estudiante dice que el vértice de y igual a (x - 4) al cuadrado es el punto (menos 4, 0).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El vértice es (4, 0), porque x - 4 se anula en x = 4",
           "is_correct": true,
           "feedback": "Correcto. La parábola se desplaza 4 a la derecha, no a la izquierda."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "No hay error: el vértice sí es (menos 4, 0)",
           "is_correct": false,
           "feedback": "Incorrecto. Al evaluar en menos 4 se obtiene 64, no 0."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto. Esa parábola sería y igual a x al cuadrado + 4."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El cero de x menos 4 está en x = 4: el estudiante aplicó el signo al revés y movió la parábola al lado contrario.",
       "difficulty": "10",
       "images": [],

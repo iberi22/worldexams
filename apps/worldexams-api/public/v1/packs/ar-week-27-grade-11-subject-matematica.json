@@ -19,13 +19,13 @@
           "feedback": "Incorrecto. La muestra es solo una parte representativa del total."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Población",
           "is_correct": true,
           "feedback": "Correcto. En estadística, la población es el conjunto completo de individuos u objetos que se desea estudiar."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Censo",
           "is_correct": false,
           "feedback": "Incorrecto. El censo es el proceso de recolectar datos de toda la población, no el conjunto en sí."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. El marco es la lista o registro de donde se extrae la muestra."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La población es el universo completo de estudio. En este caso, todos los votantes habilitados de la jurisdicción analizada.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,19 +58,19 @@
       "context": "Para un estudio sobre hábitos de consumo de yerba mate, se eligen 1.000 personas de distintas provincias argentinas.\n\nEstudio de mercado nacional.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Estrato",
           "is_correct": false,
           "feedback": "Incorrecto. Un estrato es una subdivisión de la población con características comunes."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Conglomerado",
           "is_correct": false,
           "feedback": "Incorrecto. Un conglomerado es un grupo natural (como un barrio) usado en ciertos muestreos."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Muestra",
           "is_correct": true,
           "feedback": "Correcto. Una muestra es un subconjunto de la población que se selecciona para obtener información sobre el total."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Un parámetro es un valor numérico que describe una característica de la población."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La muestra es la parte representativa de la población sobre la cual se realizan efectivamente las mediciones o encuestas.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -109,25 +109,25 @@
           "feedback": "Incorrecto. En el no probabilístico la elección depende del criterio del investigador."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Probabilístico o Aleatorio",
           "is_correct": true,
           "feedback": "Correcto. Se basa en el principio de equiprobabilidad, garantizando que la elección sea al azar."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Por conveniencia",
           "is_correct": false,
           "feedback": "Incorrecto. Este es un tipo de muestreo no probabilístico."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Por cuotas",
           "is_correct": false,
           "feedback": "Incorrecto. También es un método no probabilístico."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El muestreo probabilístico es aquel en el que se conoce la probabilidad de cada elemento de ser seleccionado, siendo el azar el mecanismo de elección.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Un periodista deportivo en una radio de Córdoba hace una encuesta a los oyentes que llaman por teléfono para saber quién ganará el clásico Talleres-Belgrano.\n\nMedios de comunicación y encuestas rápidas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque no se usa una computadora para elegir.",
           "is_correct": false,
           "feedback": "Incorrecto. La tecnología no define la naturaleza del muestreo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Porque la población de Córdoba es muy grande.",
           "is_correct": false,
           "feedback": "Incorrecto. El tamaño de la población no determina el tipo de muestreo."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Porque solo participan las personas que deciden llamar (autoselección), no es al azar.",
           "is_correct": true,
           "feedback": "Correcto. No todos los hinchas tienen la misma probabilidad de ser elegidos; solo los que escuchan esa radio y quieren llamar."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. No tiene relación con el método de selección."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "En el muestreo no probabilístico, no se puede garantizar que todos los miembros de la población tengan la oportunidad de ser seleccionados, lo que suele introducir sesgos importantes.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "En una fábrica de alfajores de Mar del Plata, se desea controlar la calidad de la producción diaria (10.000 unidades). Se decide elegir un alfajor cada 100 producidos.\n\nControl de calidad industrial.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Aleatorio simple",
           "is_correct": false,
           "feedback": "Incorrecto. En el simple se eligen individuos aislados sin un patrón fijo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sistemático",
           "is_correct": true,
           "feedback": "Correcto. Se elige un punto de partida al azar y luego se seleccionan elementos siguiendo un intervalo fijo (k)."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. No se eligieron grupos naturales completos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El muestreo sistemático consiste en seleccionar elementos de una lista o línea de producción utilizando un intervalo constante k = N/n.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Incorrecto. En el estratificado se sacan algunos de cada grupo; aquí se sacan grupos completos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Por conglomerados",
           "is_correct": true,
           "feedback": "Correcto. Los grupos (sucursales) se eligen al azar y se estudia a todos los miembros dentro de ellos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Aleatorio simple",
           "is_correct": false,
           "feedback": "Incorrecto. La unidad de elección no es el individuo, sino el grupo."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Este método se usa para poblaciones de difícil acceso mediante contactos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "En el muestreo por conglomerados, la población se divide en grupos naturales heterogéneos y se seleccionan algunos de estos grupos para ser censados o analizados íntegramente.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "En una encuesta telefónica sobre el uso de billeteras virtuales en Argentina, se decide llamar solo a teléfonos fijos entre las 10 y las 14 horas.\n\nError metodológico en encuestas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El tamaño de la muestra es pequeño.",
           "is_correct": false,
           "feedback": "Incorrecto. El problema no es la cantidad, sino a quiénes se llama."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Se gasta mucho dinero en llamadas.",
           "is_correct": false,
           "feedback": "Incorrecto. Esto es un tema operativo, no de validez estadística."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Presenta un sesgo de cobertura (excluye a quienes solo usan celular o trabajan en ese horario).",
           "is_correct": true,
           "feedback": "Correcto. La muestra no será representativa porque deja afuera sistemáticamente a gran parte de la población joven y trabajadora."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Es un diseño con graves fallas de representatividad."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El sesgo de cobertura ocurre cuando algunos miembros de la población tienen probabilidad cero de ser seleccionados debido al método de recolección de datos elegido.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Un estadístico explica la diferencia entre un \"parámetro\" y un \"estadístico\" o \"estimador\".\n\nConceptos teóricos fundamentales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es un valor numérico que describe una característica de toda la población.",
           "is_correct": true,
           "feedback": "Correcto. Por ejemplo, el promedio de altura de todos los argentinos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es un valor que se calcula a partir de los datos de una muestra.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso se llama estadístico o estimador."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Eso es parte del marco muestral."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los parámetros son valores fijos y desconocidos de la población, mientras que los estadísticos son valores variables calculados en la muestra para estimar a los parámetros.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Se quiere realizar un muestreo sistemático en una lista de 5.000 facturas de una empresa en Mendoza. Se necesita una muestra de 200 facturas.\n\nAuditoría contable mediante muestreo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "k = 50; se eligen las primeras 200 facturas.",
           "is_correct": false,
           "feedback": "Incorrecto. Elegir las primeras no es aleatorio."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "k = 25; se elige un número al azar entre 1 y 25, y luego cada 25 facturas.",
           "is_correct": true,
           "feedback": "Correcto. k = N / n = 5000 / 200 = 25."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. No respeta el cálculo del intervalo k necesario."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Para el muestreo sistemático, k = N/n. 5000 / 200 = 25. Se elige un \"arranque aleatorio\" entre 1 y k, y a partir de allí se suma k sucesivamente.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Incorrecto. Esto sería un muestreo no proporcional (mitad y mitad)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "200 personas",
           "is_correct": false,
           "feedback": "Incorrecto. No respeta la proporción del 20% del estrato B."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "100 personas",
           "is_correct": true,
           "feedback": "Correcto. El estrato B es el 20% de la población (2000/10000). El 20% de la muestra de 500 es 100."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Esta sería la cantidad para el estrato A."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "En el muestreo estratificado proporcional, el tamaño de la muestra de cada estrato (ni) mantiene la misma proporción que el estrato en la población (Ni/N). ni = (Ni/N) * n.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorrecto. El investigador los eligió bien, pero ellos no respondieron."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Sesgo de no respuesta",
           "is_correct": true,
           "feedback": "Correcto. Ocurre cuando la probabilidad de responder está relacionada con la variable de estudio, distorsionando los resultados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Error de tipeo",
           "is_correct": false,
           "feedback": "Incorrecto. Es un error de recolección, no de carga de datos."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Es un error sistemático, no azaroso."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El sesgo de no respuesta ocurre cuando los individuos que no contestan la encuesta tienen características o comportamientos diferentes a los que sí contestan.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,25 +739,25 @@
           "feedback": "Incorrecto. No coincide con la media poblacional."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "5",
           "is_correct": true,
           "feedback": "Correcto. La media de la población es (2+4+6+8)/4 = 5. Según la teoría, la media de las medias muestrales es siempre igual a la media poblacional."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2,5",
           "is_correct": false,
           "feedback": "Incorrecto. Esto sería si se dividiera por el tamaño de muestra."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "6,25",
           "is_correct": false,
           "feedback": "Incorrecto. No surge de las propiedades de la distribución muestral."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Una propiedad fundamental de la estadística es que el valor esperado (promedio) de la distribución muestral de la media es idéntico a la media de la población original. E[X] = μ.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Incorrecto. Es un tema menor frente al problema estructural."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Error de marco muestral (falta de paridad entre población objetivo y marco).",
           "is_correct": true,
           "feedback": "Correcto. El registro está muy desactualizado y no incluye a los nuevos usuarios ni a quienes solo tienen celular."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Error por excesiva precisión.",
           "is_correct": false,
           "feedback": "Incorrecto. No tiene sentido técnico."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. El problema es previo a la entrevista, está en la selección."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El error de marco ocurre cuando la lista de la que se extrae la muestra no coincide con la población que realmente se quiere estudiar, dejando fuera a grupos enteros o incluyendo a personas que no corresponden.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -874,13 +874,13 @@
           "feedback": "Incorrecto. El aleatorio simple suele tener mayor varianza cuando la población es heterogénea."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El método 2 (estratificado) porque asegura representación de todas las alturas.",
           "is_correct": true,
           "feedback": "Correcto. La nieve varía mucho con la altura (estratificación efectiva), por lo que este método reduce la variabilidad de la muestra."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambos son idénticos porque el tamaño total de muestra es 10.",
           "is_correct": false,
           "feedback": "Incorrecto. El diseño afecta la precisión aunque n sea igual."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Estamos evaluando la eficiencia teórica del diseño."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El muestreo estratificado es más eficiente que el aleatorio simple cuando la variable de estudio está correlacionada con los estratos. Al capturar la variabilidad entre zonas de altura, se reduce el error de estimación global.",
       "difficulty": "10",
       "images": [],

@@ -13,31 +13,31 @@
       "context": "En una escuela de Tunja, la profesora pregunta qué fecha celebran los colombianos cada 20 de julio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El Grito de Independencia de 1810 en Santa Fe de Bogotá.",
           "is_correct": true,
           "feedback": "El 20 de julio de 1810 se dio el Grito de Independencia que inició el proceso de libertad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La llegada de los españoles a Cartagena.",
           "is_correct": false,
           "feedback": "La llegada de los españoles ocurrió siglos antes, en la época de la conquista."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La fundación de la ciudad de Medellín.",
           "is_correct": false,
           "feedback": "Medellín fue fundada en otra época y no se celebra el 20 de julio."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El nacimiento de Simón Bolívar.",
           "is_correct": false,
           "feedback": "Simón Bolívar nació un 24 de julio, no el 20 de julio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Reconocer el 20 de julio de 1810 como la fecha del Grito de Independencia de Colombia.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "Lee: \"Simón Bolívar lideró los ejércitos que lucharon contra el dominio español en varios países de América, por eso lo llaman el Libertador.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Porque lideró la lucha por la libertad de Colombia y de otros países americanos.",
           "is_correct": true,
           "feedback": "Bolívar comandó las campañas que lograron la libertad frente al dominio español."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque escribió la Constitución de 1991.",
           "is_correct": false,
           "feedback": "La Constitución de 1991 fue escrita mucho después de la época de Bolívar."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque descubrió el río Magdalena.",
           "is_correct": false,
           "feedback": "El río Magdalena ya era conocido por las comunidades indígenas antes de Bolívar."
@@ -83,7 +83,7 @@
           "feedback": "Bolívar vivió en el siglo XIX y lideró la independencia, no las elecciones del siglo XX."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Comprender el papel de Simón Bolívar como líder de la independencia americana.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En un colegio de Duitama, los niños preparan una cartelera sobre la batalla que aseguró la libertad definitiva el 7 de agosto de 1819.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La batalla de Boyacá.",
           "is_correct": true,
           "feedback": "La batalla de Boyacá, el 7 de agosto de 1819, aseguró la libertad de la Nueva Granada."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La batalla de Cartagena en 1810.",
           "is_correct": false,
           "feedback": "En Cartagena hubo hechos importantes en 1810 y 1811, pero la batalla decisiva de 1819 fue Boyacá."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La batalla de Cúcuta en 1821.",
           "is_correct": false,
           "feedback": "En Cúcuta se reunió el congreso de 1821, pero la batalla decisiva fue Boyacá."
@@ -129,7 +129,7 @@
           "feedback": "No hubo una batalla decisiva de independencia en Santa Marta en 1809."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Identificar la batalla de Boyacá del 7 de agosto de 1819 como el triunfo decisivo de la independencia.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "Lee: \"Policarpa Salavarrieta, conocida como La Pola, ayudó a los patriotas pasando información y murió defendiendo la causa de la libertad.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Una heroína que apoyó a los patriotas y dio su vida por la libertad.",
           "is_correct": true,
           "feedback": "La Pola es recordada como heroína por su valor y su sacrificio por la causa patriota."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una reina española que gobernó Bogotá.",
           "is_correct": false,
           "feedback": "La Pola no fue reina; fue una joven patriota que enfrentó al gobierno español."
@@ -175,7 +175,7 @@
           "feedback": "Policarpa era colombiana y colaboró directamente con los patriotas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Reconocer a Policarpa Salavarrieta como heroína de la independencia colombiana.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "Lee: \"Además de Bolívar, en la independencia participaron criollos, indígenas, afrodescendientes y mujeres que aportaron como soldados, mensajeras y apoyo en los pueblos.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Que la libertad se logró con el esfuerzo unido de hombres y mujeres de distintos orígenes.",
           "is_correct": true,
           "feedback": "La independencia fue una obra colectiva donde muchos grupos aportaron su valor y trabajo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que solo una persona logró la libertad sin ayuda de nadie.",
           "is_correct": false,
           "feedback": "Aunque Bolívar fue el líder, miles de personas colaboraron en la lucha."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que las mujeres y los pueblos no participaron en la historia.",
           "is_correct": false,
           "feedback": "Las mujeres y las comunidades participaron con tareas clave para los patriotas."
@@ -313,7 +313,7 @@
           "feedback": "La libertad costó batallas, sacrificios y la vida de muchos héroes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Analizar la independencia como un logro colectivo de diversos grupos de la sociedad.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Lee: \"Cada año, el 20 de julio y el 7 de agosto hay desfiles, izadas de bandera y actos en las escuelas para recordar la libertad.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque recordar la historia fortalece la identidad, valora la libertad y enseña a cuidar el país.",
           "is_correct": true,
           "feedback": "Celebrar estas fechas une a los colombianos y forma ciudadanos responsables con su historia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque son días para olvidar la historia y no aprender nada de ella.",
           "is_correct": false,
           "feedback": "Estas fechas existen justamente para recordar y aprender de la historia."
@@ -359,7 +359,7 @@
           "feedback": "El 20 de julio y el 7 de agosto son fiestas propias de la historia colombiana."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Valorar la celebración de las fechas patrias como forma de cuidar la libertad y la identidad colombiana.",
       "difficulty": "10",
       "images": [],

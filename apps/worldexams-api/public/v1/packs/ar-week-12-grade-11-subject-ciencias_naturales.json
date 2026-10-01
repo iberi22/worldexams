@@ -58,31 +58,31 @@
       "context": "Análisis de energía mecánica en caída libre y pendientes Caso N° 2.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Energía cinética = $392,0\\text{ J}$",
           "is_correct": true,
           "feedback": "Correcto. $E_c = E_p = m \\cdot g \\cdot h = 4 \\cdot 9,8 \\cdot 10 = 392,0\\text{ J}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Energía cinética = $40,0\\text{ J}$",
           "is_correct": false,
           "feedback": "Incorrecto. Omitió la aceleración de la gravedad $g$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Energía cinética = $196,0\\text{ J}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió la energía total por dos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Energía cinética = $784,0\\text{ J}$",
           "is_correct": false,
           "feedback": "Incorrecto. Duplicó erróneamente la energía mecánica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Toda la energía potencial gravitatoria inicial $E_p = m \\cdot g \\cdot h = 4 \\cdot 9,8 \\cdot 10 = 392,0\\text{ J}$ se convierte en energía cinética en la base.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Análisis de energía mecánica en caída libre y pendientes Caso N° 3.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Energía cinética = $882,0\\text{ J}$",
           "is_correct": true,
           "feedback": "Correcto. $E_c = E_p = m \\cdot g \\cdot h = 6 \\cdot 9,8 \\cdot 15 = 882,0\\text{ J}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Energía cinética = $90,0\\text{ J}$",
           "is_correct": false,
           "feedback": "Incorrecto. Omitió la aceleración de la gravedad $g$."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Duplicó erróneamente la energía mecánica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Toda la energía potencial gravitatoria inicial $E_p = m \\cdot g \\cdot h = 6 \\cdot 9,8 \\cdot 15 = 882,0\\text{ J}$ se convierte en energía cinética en la base.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,31 +148,31 @@
       "context": "Análisis de energía mecánica en caída libre y pendientes Caso N° 4.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Energía cinética = $1568,0\\text{ J}$",
           "is_correct": true,
           "feedback": "Correcto. $E_c = E_p = m \\cdot g \\cdot h = 8 \\cdot 9,8 \\cdot 20 = 1568,0\\text{ J}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Energía cinética = $160,0\\text{ J}$",
           "is_correct": false,
           "feedback": "Incorrecto. Omitió la aceleración de la gravedad $g$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Energía cinética = $784,0\\text{ J}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió la energía total por dos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Energía cinética = $3136,0\\text{ J}$",
           "is_correct": false,
           "feedback": "Incorrecto. Duplicó erróneamente la energía mecánica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Toda la energía potencial gravitatoria inicial $E_p = m \\cdot g \\cdot h = 8 \\cdot 9,8 \\cdot 20 = 1568,0\\text{ J}$ se convierte en energía cinética en la base.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,31 +193,31 @@
       "context": "Análisis de energía mecánica en caída libre y pendientes Caso N° 5.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Energía cinética = $2450,0\\text{ J}$",
           "is_correct": true,
           "feedback": "Correcto. $E_c = E_p = m \\cdot g \\cdot h = 10 \\cdot 9,8 \\cdot 25 = 2450,0\\text{ J}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Energía cinética = $250,0\\text{ J}$",
           "is_correct": false,
           "feedback": "Incorrecto. Omitió la aceleración de la gravedad $g$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Energía cinética = $1225,0\\text{ J}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió la energía total por dos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Energía cinética = $4900,0\\text{ J}$",
           "is_correct": false,
           "feedback": "Incorrecto. Duplicó erróneamente la energía mecánica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Toda la energía potencial gravitatoria inicial $E_p = m \\cdot g \\cdot h = 10 \\cdot 9,8 \\cdot 25 = 2450,0\\text{ J}$ se convierte en energía cinética en la base.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Análisis de energía mecánica en caída libre y pendientes Caso N° 6.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Energía cinética = $3528,0\\text{ J}$",
           "is_correct": true,
           "feedback": "Correcto. $E_c = E_p = m \\cdot g \\cdot h = 12 \\cdot 9,8 \\cdot 30 = 3528,0\\text{ J}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Energía cinética = $360,0\\text{ J}$",
           "is_correct": false,
           "feedback": "Incorrecto. Omitió la aceleración de la gravedad $g$."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Duplicó erróneamente la energía mecánica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Toda la energía potencial gravitatoria inicial $E_p = m \\cdot g \\cdot h = 12 \\cdot 9,8 \\cdot 30 = 3528,0\\text{ J}$ se convierte en energía cinética en la base.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,31 +328,31 @@
       "context": "Análisis de energía mecánica en caída libre y pendientes Caso N° 8.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Energía cinética = $6272,0\\text{ J}$",
           "is_correct": true,
           "feedback": "Correcto. $E_c = E_p = m \\cdot g \\cdot h = 16 \\cdot 9,8 \\cdot 40 = 6272,0\\text{ J}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Energía cinética = $640,0\\text{ J}$",
           "is_correct": false,
           "feedback": "Incorrecto. Omitió la aceleración de la gravedad $g$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Energía cinética = $3136,0\\text{ J}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió la energía total por dos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Energía cinética = $12544,0\\text{ J}$",
           "is_correct": false,
           "feedback": "Incorrecto. Duplicó erróneamente la energía mecánica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Toda la energía potencial gravitatoria inicial $E_p = m \\cdot g \\cdot h = 16 \\cdot 9,8 \\cdot 40 = 6272,0\\text{ J}$ se convierte en energía cinética en la base.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,19 +463,19 @@
       "context": "Análisis de energía mecánica en caída libre y pendientes Caso N° 11.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Energía cinética = $11858,0\\text{ J}$",
           "is_correct": true,
           "feedback": "Correcto. $E_c = E_p = m \\cdot g \\cdot h = 22 \\cdot 9,8 \\cdot 55 = 11858,0\\text{ J}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Energía cinética = $1210,0\\text{ J}$",
           "is_correct": false,
           "feedback": "Incorrecto. Omitió la aceleración de la gravedad $g$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Energía cinética = $5929,0\\text{ J}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió la energía total por dos."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Duplicó erróneamente la energía mecánica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Toda la energía potencial gravitatoria inicial $E_p = m \\cdot g \\cdot h = 22 \\cdot 9,8 \\cdot 55 = 11858,0\\text{ J}$ se convierte en energía cinética en la base.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "Análisis de energía mecánica en caída libre y pendientes Caso N° 12.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Energía cinética = $14112,0\\text{ J}$",
           "is_correct": true,
           "feedback": "Correcto. $E_c = E_p = m \\cdot g \\cdot h = 24 \\cdot 9,8 \\cdot 60 = 14112,0\\text{ J}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Energía cinética = $1440,0\\text{ J}$",
           "is_correct": false,
           "feedback": "Incorrecto. Omitió la aceleración de la gravedad $g$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Energía cinética = $7056,0\\text{ J}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió la energía total por dos."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Duplicó erróneamente la energía mecánica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Toda la energía potencial gravitatoria inicial $E_p = m \\cdot g \\cdot h = 24 \\cdot 9,8 \\cdot 60 = 14112,0\\text{ J}$ se convierte en energía cinética en la base.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "Análisis de energía mecánica en caída libre y pendientes Caso N° 16.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Energía cinética = $25088,0\\text{ J}$",
           "is_correct": true,
           "feedback": "Correcto. $E_c = E_p = m \\cdot g \\cdot h = 32 \\cdot 9,8 \\cdot 80 = 25088,0\\text{ J}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Energía cinética = $2560,0\\text{ J}$",
           "is_correct": false,
           "feedback": "Incorrecto. Omitió la aceleración de la gravedad $g$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Energía cinética = $12544,0\\text{ J}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió la energía total por dos."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Duplicó erróneamente la energía mecánica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Toda la energía potencial gravitatoria inicial $E_p = m \\cdot g \\cdot h = 32 \\cdot 9,8 \\cdot 80 = 25088,0\\text{ J}$ se convierte en energía cinética en la base.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Análisis de energía mecánica en caída libre y pendientes Caso N° 17.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Energía cinética = $28322,0\\text{ J}$",
           "is_correct": true,
           "feedback": "Correcto. $E_c = E_p = m \\cdot g \\cdot h = 34 \\cdot 9,8 \\cdot 85 = 28322,0\\text{ J}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Energía cinética = $2890,0\\text{ J}$",
           "is_correct": false,
           "feedback": "Incorrecto. Omitió la aceleración de la gravedad $g$."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Duplicó erróneamente la energía mecánica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Toda la energía potencial gravitatoria inicial $E_p = m \\cdot g \\cdot h = 34 \\cdot 9,8 \\cdot 85 = 28322,0\\text{ J}$ se convierte en energía cinética en la base.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Análisis de energía mecánica en caída libre y pendientes Caso N° 18.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Energía cinética = $31752,0\\text{ J}$",
           "is_correct": true,
           "feedback": "Correcto. $E_c = E_p = m \\cdot g \\cdot h = 36 \\cdot 9,8 \\cdot 90 = 31752,0\\text{ J}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Energía cinética = $3240,0\\text{ J}$",
           "is_correct": false,
           "feedback": "Incorrecto. Omitió la aceleración de la gravedad $g$."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Duplicó erróneamente la energía mecánica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Toda la energía potencial gravitatoria inicial $E_p = m \\cdot g \\cdot h = 36 \\cdot 9,8 \\cdot 90 = 31752,0\\text{ J}$ se convierte en energía cinética en la base.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Análisis de energía mecánica en caída libre y pendientes Caso N° 19.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Energía cinética = $35378,0\\text{ J}$",
           "is_correct": true,
           "feedback": "Correcto. $E_c = E_p = m \\cdot g \\cdot h = 38 \\cdot 9,8 \\cdot 95 = 35378,0\\text{ J}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Energía cinética = $3610,0\\text{ J}$",
           "is_correct": false,
           "feedback": "Incorrecto. Omitió la aceleración de la gravedad $g$."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Duplicó erróneamente la energía mecánica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Toda la energía potencial gravitatoria inicial $E_p = m \\cdot g \\cdot h = 38 \\cdot 9,8 \\cdot 95 = 35378,0\\text{ J}$ se convierte en energía cinética en la base.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Análisis de energía mecánica en caída libre y pendientes Caso N° 20.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Energía cinética = $39200,0\\text{ J}$",
           "is_correct": true,
           "feedback": "Correcto. $E_c = E_p = m \\cdot g \\cdot h = 40 \\cdot 9,8 \\cdot 100 = 39200,0\\text{ J}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Energía cinética = $4000,0\\text{ J}$",
           "is_correct": false,
           "feedback": "Incorrecto. Omitió la aceleración de la gravedad $g$."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Duplicó erróneamente la energía mecánica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Toda la energía potencial gravitatoria inicial $E_p = m \\cdot g \\cdot h = 40 \\cdot 9,8 \\cdot 100 = 39200,0\\text{ J}$ se convierte en energía cinética en la base.",
       "difficulty": "10",
       "images": [],

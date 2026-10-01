@@ -13,13 +13,13 @@
       "context": "En el huerto escolar de una sede educativa en Popayán, los estudiantes observan distintas plantas: una lechuga, una mata de fríjol y un girasol pequeño.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La raíz.",
           "is_correct": true,
           "feedback": "La raíz fija la planta y absorbe agua y sales minerales del suelo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La flor.",
           "is_correct": false,
           "feedback": "La flor cumple una función reproductiva en la planta."
@@ -37,7 +37,7 @@
           "feedback": "La hoja realiza principalmente la fotosíntesis y el intercambio de gases."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Recordar la función principal de la raíz como vía de absorción de agua y nutrientes del suelo.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "Una docente de Manizales muestra un esquema donde la planta toma una sustancia invisible de la atmósfera para elaborar su alimento.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El dióxido de carbono.",
           "is_correct": true,
           "feedback": "Las plantas absorben dióxido de carbono (CO2) del aire para la fotosíntesis."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El nitrógeno líquido.",
           "is_correct": false,
           "feedback": "El nitrógeno líquido no se encuentra de forma natural en el aire respirable."
@@ -83,7 +83,7 @@
           "feedback": "La gasolina no es una sustancia que las plantas aprovechen; además es contaminante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Comprender que el dióxido de carbono del aire es uno de los insumos principales de la fotosíntesis.",
       "difficulty": "4",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "Una familia en Barranquilla cultiva una mata de tomate en el balcón y nota que las hojas nuevas crecen en las puntas de las ramas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El tallo.",
           "is_correct": true,
           "feedback": "El tallo sostiene la planta y transporta agua, nutrientes y alimento entre sus partes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La semilla.",
           "is_correct": false,
           "feedback": "La semilla contiene el embrión que dará origen a una nueva planta."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La raíz.",
           "is_correct": false,
           "feedback": "La raíz absorbe agua y fija la planta, pero no sostiene las hojas directamente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El pétalo de la flor.",
           "is_correct": false,
           "feedback": "Los pétalos atraen polinizadores, pero no transportan sustancias."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aplicar la función del tallo como vía de comunicación y soporte entre las diferentes partes de la planta.",
       "difficulty": "6",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "Un informe ambiental de la región Andina muestra que en zonas con muchos árboles las fuentes de agua permanecen limpias y los veranos son menos extremos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Las plantas regulan el clima local, retienen agua y evitan la erosión, mejorando las condiciones ambientales.",
           "is_correct": true,
           "feedback": "La cobertura vegetal modera la temperatura y protege el suelo y el agua."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las plantas solo consumen agua y no aportan nada a la regulación del clima.",
           "is_correct": false,
           "feedback": "Las plantas transpiran y participan activamente en el ciclo del agua."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los árboles perjudican los ríos porque tapan el cauce del agua.",
           "is_correct": false,
           "feedback": "La vegetación ribereña protege los ríos, no los obstruye de manera negativa."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El clima no se relaciona en absoluto con la cantidad de plantas presentes.",
           "is_correct": false,
           "feedback": "Existe una relación directa entre cobertura vegetal y regulación climática local."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analizar cómo la cobertura vegetal influye en el clima, el agua y la protección del suelo en un ecosistema.",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "Un colegio de Neiva decide sembrar árboles y plantas medicinales en zonas deterioradas del patio escolar, con apoyo de la comunidad educativa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Porque permite observar el crecimiento vegetal, comprender la fotosíntesis y mejorar la calidad del aire y el suelo del colegio.",
           "is_correct": true,
           "feedback": "Sembrar y cuidar plantas integra aprendizaje científico con beneficio ambiental directo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque solo sirve para decorar el colegio sin ningún otro beneficio.",
           "is_correct": false,
           "feedback": "La siembra escolar aporta beneficios ecológicos, pedagógicos y comunitarios."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque los árboles generan dióxido de carbono y contaminan el aire.",
           "is_correct": false,
           "feedback": "Las plantas absorben dióxido de carbono y liberan oxígeno, no contaminan."
@@ -359,7 +359,7 @@
           "feedback": "Toda siembra permite observar procesos como la fotosíntesis y sus efectos ambientales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evaluar una iniciativa escolar de siembra como estrategia pedagógica y ambiental relacionada con las plantas y la fotosíntesis.",
       "difficulty": "10",
       "images": [],

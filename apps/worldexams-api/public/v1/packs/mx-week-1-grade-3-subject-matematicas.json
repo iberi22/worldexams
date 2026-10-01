@@ -13,13 +13,13 @@
       "context": "En una kermés de la escuela en Guadalajara, Guadalupe anotó el número 4,372 en su cartel de ganancias.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Decenas",
           "is_correct": true,
           "feedback": "El 7 está en la segunda posición desde la derecha, que corresponde a las decenas; por eso vale 70."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Unidades",
           "is_correct": false,
           "feedback": "Las unidades es la primera posición desde la derecha; ahí está el 2, no el 7."
@@ -37,7 +37,7 @@
           "feedback": "Las unidades de millar es la cuarta posición; ahí está el 4, no el 7."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El sistema decimal es posicional: el valor de cada cifra depende de su lugar. De derecha a izquierda se leen unidades, decenas, centenas y unidades de millar. En 4,372 el 7 ocupa el lugar de las decenas y representa 70.",
       "difficulty": "4",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "Luis leyó en el periódico que el Estadio Azteca de la Ciudad de México tiene poco más de 87,000 butacas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Ocho mil setecientos cinco",
           "is_correct": true,
           "feedback": "Se lee primero las unidades de millar (ocho mil), después las centenas (setecientos) y al final las unidades (cinco)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ochenta y siete mil cinco",
           "is_correct": false,
           "feedback": "Ese sería el número 87,005; el 8 de 8,705 está en el lugar de las unidades de millar, no de las decenas de millar."
@@ -82,7 +82,7 @@
           "feedback": "Ese sería el número 8,750; en 8,705 el 5 está en las unidades, no en las decenas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Leer números exige identificar el valor de lugar de cada cifra y agruparlo correctamente: millares, centenas, decenas y unidades. Confundir posiciones produce lecturas cercanas pero distintas, por eso conviene escribir el número en forma desarrollada: 8,000 + 700 + 5.",
       "difficulty": "4",
       "images": [],
@@ -103,19 +103,19 @@
       "context": "Fernanda contou dos frascos de semillas que llevó a la clase de ciencias en Puebla: uno con 2,489 semillas y otro con 2,498 semillas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "2,489 < 2,498",
           "is_correct": true,
           "feedback": "Al comparar de izquierda a derecha, las unidades de millar y las centenas coinciden; en las decenas, 8 es menor que 9, así que 2,489 < 2,498."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2,489 > 2,498",
           "is_correct": false,
           "feedback": "Aunque el 9 aparece primero, está en las unidades del número menor; en las decenas, 8 es menor que 9."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2,489 = 2,498",
           "is_correct": false,
           "feedback": "Los números no son iguales: difieren en el lugar de las decenas (8 contra 9)."
@@ -127,7 +127,7 @@
           "feedback": "Esta comparación no establece relación de orden entre las dos cantidades distintas del problema."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para comparar números de la misma cantidad de cifras se recorre el número de izquierda a derecha y se compara en el primer lugar donde difieren. Aquí las centenas coinciden (4) y en las decenas 8 es menor que 9, por lo que 2,489 es menor que 2,498.",
       "difficulty": "6",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "El maestro pidió a los alumnos de tercero que ordenaran las alturas, en metros redondeados, de cuatro volcanes mexicanos que aparecen en un cartel de la escuela en Tijuana: Pico de Orizaba (5,610), Popocatépetl (5,452), Iztaccíhuatl (5,230) y Nevado de Toluca (4,680).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Nevado de Toluca, Iztaccíhuatl, Popocatépetl, Pico de Orizaba",
           "is_correct": true,
           "feedback": "4,680 < 5,230 < 5,452 < 5,610 corresponde al orden creciente correcto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Pico de Orizaba, Popocatépetl, Iztaccíhuatl, Nevado de Toluca",
           "is_correct": false,
           "feedback": "Ese es el orden decreciente; el problema pide de menor a mayor."
@@ -172,7 +172,7 @@
           "feedback": "4,680 es menor que 5,230, por lo que el Nevado de Toluca debe ir primero."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Ordenar números exige comparar primero el número de cifras y, entre los de igual longitud, revisar el valor de lugar de izquierda a derecha. Los cuatro datos tienen cuatro cifras, así que basta con comparar unidades de millar y luego centenas y decenas.",
       "difficulty": "6",
       "images": [],
@@ -193,31 +193,31 @@
       "context": "Diego armó una secuencia con el número de camotes que vendió su abuela en el mercado de León: 120, 140, 160, 180...",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "200",
           "is_correct": true,
           "feedback": "La regla del patrón es sumar 20 al término anterior: 180 + 20 = 200."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "190",
           "is_correct": false,
           "feedback": "190 implicaría sumar solo 10; el patrón constante de la secuencia es +20."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "210",
           "is_correct": false,
           "feedback": "210 correspondería al término siguiente, no al que continúa inmediatamente después de 180."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "220",
           "is_correct": false,
           "feedback": "220 se obtendría sumando 40; la secuencia avanza de 20 en 20."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Identificar patrones numéricos consiste en descubrir la regla de formación. Aquí la diferencia constante entre términos consecutivos es 20, por lo que el siguiente término es 180 + 20 = 200.",
       "difficulty": "6",
       "images": [],
@@ -328,31 +328,31 @@
       "context": "En un foro escolar en Monterrey, tres estudiantes comentaron sobre el número 6,495: Ana dijo que redondeado a la centena más cercana es 6,500; Beto dijo que redondeado a la decena más cercana es 6,490; Carla dijo que el valor del 4 es 40.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Solo Ana",
           "is_correct": true,
           "feedback": "Las decenas son 9 (≥ 5), así que al redondear a la centena 6,495 se convierte en 6,500; Beto debió escribir 6,500 y Carla debió decir que el 4 vale 400."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Solo Beto",
           "is_correct": false,
           "feedback": "Al redondear 6,495 a la decena, la unidad 5 sube la decena: el resultado es 6,500, no 6,490."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solo Carla",
           "is_correct": false,
           "feedback": "El 4 está en las centenas y vale 400, no 40."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ana y Beto",
           "is_correct": false,
           "feedback": "La afirmación de Beto es incorrecta porque 6,495 redondeado a la decena es 6,500."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluar afirmaciones de otros obliga a comprobar cada regla por separado: redondeo a la centena (se mira la cifra de las decenas), redondeo a la decena (se mira la unidad, y 5 redondea hacia arriba) y valor de lugar. Solo la afirmación de Ana resiste la verificación.",
       "difficulty": "10",
       "images": [],

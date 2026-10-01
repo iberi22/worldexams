@@ -115,19 +115,19 @@
           "feedback": "Incorrecto. Falta el coeficiente común."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "5x",
           "is_correct": true,
           "feedback": "Correcto. MCD de coeficientes y menor potencia de variable."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "10x2",
           "is_correct": false,
           "feedback": "Incorrecto. Excede los términos originales."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Extracción del máximo común divisor algebraico de la expresión.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -154,25 +154,25 @@
           "feedback": "Incorrecto. Es el cuadrado de resta."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$(x + y)(x - y)$",
           "is_correct": true,
           "feedback": "Correcto. Producto de binomios conjugados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(x + y)^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Cuadrado de suma."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x - y$",
           "is_correct": false,
           "feedback": "Incorrecto. Falta el otro factor."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Técnica basada en el producto notable de binomios conjugados.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Reconocimiento de un Trinomio Cuadrado Perfecto (TCP).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Suma de raíces extremas.",
           "is_correct": false,
           "feedback": "Incorrecto. Es producto, no suma."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Doble producto de raíces.",
           "is_correct": true,
           "feedback": "Correcto. $2 \\cdot \\sqrt{a} \\cdot \\sqrt{c}$."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Sin sentido."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Verificación de la estructura de un binomio al cuadrado expandido.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -244,25 +244,25 @@
           "feedback": "Incorrecto. Raíz de 9 es 3."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$(x + 3)^2$",
           "is_correct": true,
           "feedback": "Correcto. Trinomio cuadrado perfecto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(x + 3)(x - 3)$",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es para x2 - 9."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x(x + 6) + 9$",
           "is_correct": false,
           "feedback": "Incorrecto. No está en producto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Reconocimiento de las raíces de los extremos y verificación del centro.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "Factorización de $x^2 - 5x + 6$ en Puerto Plata.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(x - 6)(x + 1)$",
           "is_correct": false,
           "feedback": "Incorrecto. Producto da -6."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(x - 3)(x - 2)$",
           "is_correct": true,
           "feedback": "Correcto. Suma -5, producto +6."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. No cumple reglas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Método del trinomio de la forma $x^2 + bx + c$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,25 +334,25 @@
           "feedback": "Incorrecto. No coincide expansión."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$(a + b)(x + y)$",
           "is_correct": true,
           "feedback": "Correcto. Agrupando por parejas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$ab(x + y)$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaría a y b."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$a(x + y) + b$",
           "is_correct": false,
           "feedback": "Incorrecto. Incompleto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Agrupación estratégica para hallar binomios comunes repetidos.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -385,19 +385,19 @@
           "feedback": "Incorrecto. Daría trinomio."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$x-4, x+4$",
           "is_correct": true,
           "feedback": "Correcto. Diferencia de cuadrados perfectos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x-16, x+1$",
           "is_correct": false,
           "feedback": "Incorrecto. No cumple estructura."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Aplicación de factorización a dimensiones físicas de un rectángulo.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,25 +424,25 @@
           "feedback": "Incorrecto. Centro daría 3x."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$(2x + 1)(x + 2)$",
           "is_correct": true,
           "feedback": "Correcto. Satisface todos los términos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(2x + 2)(x + 1)$",
           "is_correct": false,
           "feedback": "Incorrecto. Centro daría 4x."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(x + 2)(x + 2)$",
           "is_correct": false,
           "feedback": "Incorrecto. Coeficiente de x2 errado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Factorización de trinomios con coeficiente principal distinto de uno.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -475,19 +475,19 @@
           "feedback": "Incorrecto. Signo medio debe ser opuesto."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$(a+b)(a^2-ab+b^2)$",
           "is_correct": true,
           "feedback": "Correcto. Estructura estándar de suma de cubos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(a+b)(a-b)^2$",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Descomposición de la suma de potencias cúbicas en factores reales.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Factorización completa de $3x^2 - 12$ en Barahona.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$3(x^2 - 4)$",
           "is_correct": false,
           "feedback": "Incorrecto. Falta un paso."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$3(x + 2)(x - 2)$",
           "is_correct": true,
           "feedback": "Correcto. Factor común y luego diferencia cuadrados."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. No es un binomio al cuadrado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Proceso secuencial de aplicación de métodos de factorización.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorrecto. Signo errado."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x - 2$",
           "is_correct": true,
           "feedback": "Correcto. $(x-3)(x-2) / (x-3)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x - 3$",
           "is_correct": false,
           "feedback": "Incorrecto. Factor no remanente."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. No son idénticos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Uso de la factorización para la simplificación de expresiones racionales.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Incorrecto. Sobra 4x2."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$(x^2+2x+2)(x^2-2x+2)$",
           "is_correct": true,
           "feedback": "Correcto. Mediante completar cuadrados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(x^2+2)(x^2-2)$",
           "is_correct": false,
           "feedback": "Incorrecto. Daría x4 - 4."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Sí se puede aunque sea difícil."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Técnica avanzada de suma y resta de términos para habilitar factorización.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Teorema del Factor: $P(1) = 0$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x + 1$",
           "is_correct": false,
           "feedback": "Incorrecto. El signo debe ser opuesto a la raíz."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x - 1$",
           "is_correct": true,
           "feedback": "Correcto. Por el Teorema del Factor."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Existe al menos uno."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Conexión directa entre los ceros de una función y sus divisores algebraicos.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,25 +739,25 @@
           "feedback": "Incorrecto. Eso es x2 - 9."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$(x+3i)(x-3i)$",
           "is_correct": true,
           "feedback": "Correcto. Diferencia de cuadrados con unidad imaginaria."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(x+3i)^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Genera término medio."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(x+9i)(x-9i)$",
           "is_correct": false,
           "feedback": "Incorrecto. Cuadrado errado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Ampliación del campo numérico para permitir factores en sumas de cuadrados.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Factorización total de $x^4 - 81$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(x^2+9)(x^2-9)$",
           "is_correct": false,
           "feedback": "Incorrecto. Incompleto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(x^2+9)(x+3)(x-3)$",
           "is_correct": true,
           "feedback": "Correcto. Descomposición sucesiva completa."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. No es binomio a la cuarta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Aplicación reiterada de la diferencia de cuadrados hasta factores irreducibles.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -835,19 +835,19 @@
           "feedback": "Incorrecto. Exactamente n."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Exactamente n.",
           "is_correct": true,
           "feedback": "Correcto. Contando multiplicidades y complejos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Depende de coeficientes.",
           "is_correct": false,
           "feedback": "Incorrecto. Solo del grado."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Propiedad estructural que rige la cantidad de raíces de cualquier polinomio.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Factorización de $2^{2x} - 1$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(2^x - 1)^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Genera término medio."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(2^x + 1)(2^x - 1)$",
           "is_correct": true,
           "feedback": "Correcto. Diferencia de cuadrados con bases exponenciales."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Ley de exponentes mal aplicada."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Reconocimiento de la estructura de cuadrados en términos de potencias.\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Context | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
       "difficulty": "10",
       "images": [],

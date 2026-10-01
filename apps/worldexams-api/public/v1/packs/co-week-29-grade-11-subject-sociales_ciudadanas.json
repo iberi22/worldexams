@@ -59,13 +59,13 @@
       "context": "Un estudiante de Soledad, Atlántico, lee el artículo 44 de la Constitución Política de Colombia y observa que la expresión clave es que los derechos de los niños \"prevalecen\" sobre los de los demás.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que los derechos de los niños solo se aplican a menores de cinco años",
           "is_correct": false,
           "feedback": "El artículo 44 protege a los niños en general; la Convención define como niño a toda persona menor de 18 años."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que los derechos de los niños prevalecen sobre los derechos de los demás y que la familia, la sociedad y el Estado deben asistirlos como obligación primordial",
           "is_correct": true,
           "feedback": "Correcto. El artículo 44 consagra la prevalencia de los derechos de los niños y la obligación primordial de familia, sociedad y Estado."
@@ -83,7 +83,7 @@
           "feedback": "Es al revés: la prevalencia significa que, ante conflictos de intereses legítimos, el interés del niño prima sobre el de los demás."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El artículo 44 de la Constitución Política de 1991 establece que la familia, la sociedad y el Estado tienen como obligación primordial asistir a los niños y adolescentes para garantizar su desarrollo integral, y consagra que sus derechos prevalecen sobre los de los demás. Enumera derechos fundamentales de los niños como la vida, la integridad física, la salud, la educación, la nutrición equilibrada, la alimentación y el derecho a un nivel de vida adecuado y la libertad de expresión. Esta cláusula de prevalencia es la base del fuero de protección integral que luego desarrolla la Ley 1098 de 2006.",
       "difficulty": "4",
       "images": [],
@@ -117,19 +117,19 @@
           "feedback": "La Ley 100 creó el sistema de seguridad social integral en salud, pensiones y riesgos laborales."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "La Ley 1098 de 2006",
           "is_correct": true,
           "feedback": "Correcto. La Ley 1098 de 2006 expide el Código de la Infancia y la Adolescencia y crea el Sistema de Responsabilidad Penal para Adolescentes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La Ley 136 de 1994",
           "is_correct": false,
           "feedback": "La Ley 136 es una norma general de organización municipal."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La Ley 1098 de 2006, Código de la Infancia y la Adolescencia, desarrolló el artículo 44 de la Constitución y transitó del antiguo \"menor\" como objeto de situación irregular al niño como sujeto de protección integral. Estructura el Sistema Nacional de Bienestar Familiar, define el restablecimiento de derechos y crea en su Libro V el Sistema de Responsabilidad Penal para Adolescentes (SRPA) para jóvenes entre 14 y 18 años. Junto con la Convención aprobada por la Ley 12 de 1991, es la columna vertebral de la política pública de niñez en Colombia.",
       "difficulty": "4",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "Santiago tiene 12 años y trabaja de lunes a sábado en una plazoleta de Bucaramanga vendiendo dulces hasta la medianoche; dejó el colegio porque el ingreso sostiene a su familia. Un vecino quiere actuar conforme a la ley.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es legal, porque trabajar ayuda al desarrollo madurativo de los menores que no estudian",
           "is_correct": false,
           "feedback": "El trabajo que interrumpe la escolaridad y expone a un niño no es \"ayuda\": es trabajo infantil en su peor forma."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Es legal si el padre de Santiago firma un permiso escrito ante la comunidad vecinal",
           "is_correct": false,
           "feedback": "Los padres no pueden disponer del derecho a la educación ni renunciar a la protección del niño."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Es trabajo infantil prohibido que vulnera educación, salud y descanso; debe reportarse a la línea del ICBF, a la Policía de Infancia y Adolescencia o a la inspección del trabajo",
           "is_correct": true,
           "feedback": "Correcto. Este trabajo nocturno y excluyente de la escuela configura la peor forma de trabajo infantil y activa rutas de restablecimiento de derechos."
@@ -221,7 +221,7 @@
           "feedback": "Los derechos de los niños son de orden público y la comunidad puede y debe denunciar su vulneración."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "En Colombia está prohibido el trabajo de menores de 15 años; entre los 15 y 17 solo se permite en condiciones muy reguladas, con autorización del Ministerio del Trabajo y sin afectar la escolaridad, y están proscritas para todos los menores las peores formas de trabajo infantil, incluyendo jornadas nocturnas. El caso de Santiago vulnera los derechos a la educación, la salud y el descanso (artículo 44 constitucional, Convenios 138 y 182 de la OIT ratificados por Colombia). La ruta incluye la línea 141 del ICBF, la Policía de Infancia y Adolescencia e inspecciones de trabajo, que derivan el caso al restablecimiento de derechos.",
       "difficulty": "6",
       "images": [],
@@ -255,19 +255,19 @@
           "feedback": "Victimizar dos veces a la afectada con el traslado invierte la responsabilidad: la medida debe centrarse en la situación, no en silenciar a la víctima."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Activar la ruta de atención integral: brindar protección a Luisa, vincular a las familias, aplicar medidas pedagógicas y correctivas, y reportar al comité escolar de convivencia cuando corresponde a situación tipo II",
           "is_correct": true,
           "feedback": "Correcto. La Ley 1620 de 2013 establece protocolos escalonados según el tipo de situación, con atención, seguimiento y participación de las familias."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ordenar expulsión automática del agresor sin debido proceso ni debido derecho a la defensa",
           "is_correct": false,
           "feedback": "Toda medida debe respetar el debido proceso y el principio educativo; la expulsión del agresor sin proceso es ilegal."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La Ley 1620 de 2013 creó el Sistema Nacional de Convivencia Escolar y un Manual de Convivencia reglado por protocolos nacionales: situaciones tipo I (conflictos manejados pedagógicamente), tipo II (agresión sistemática como el acoso y ciberacoso, que activan medidas y reportes) y tipo III (delitos o riesgos graves, que exigen remisión a las autoridades). El acoso escolar vulnera derechos de niños y adolescentes consagrados en la Convención y el artículo 44 constitucional, y la omisión del colegio puede acarrear sanciones. El enfoque combina protección de la víctima, responsabilidades con garantías y trabajo con las familias.",
       "difficulty": "6",
       "images": [],
@@ -341,25 +341,25 @@
           "feedback": "Los mayores de 14 y menores de 18 no responden en el sistema de adultos; hacerlo violaría la ley colombiana y la Convención."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El Sistema de Responsabilidad Penal para Adolescentes del Libro V de la Ley 1098 de 2006, con sanciones socioeducativas que privilegian la restitución del daño y el desarrollo de capacidades",
           "is_correct": true,
           "feedback": "Correcto. El SRPA aplica a adolescentes entre 14 y 18 años y su fin es la responsabilidad con sanciones educativo-asistenciales, no el castigo puro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ninguno, porque los menores de edad están totalmente exentos de cualquier consecuencia legal",
           "is_correct": false,
           "feedback": "Desde los 14 años sí hay responsabilidad penal diferenciada; la impunidad absoluta es un mito."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El sistema de policía cívica, que decide el caso sin juzgados",
           "is_correct": false,
           "feedback": "El SRPA es un proceso judicial con garantías ante jueces y fiscales especializados, no una medida de policía."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El Libro V de la Ley 1098 de 2006 creó el Sistema de Responsabilidad Penal para Adolescentes (SRPA), aplicable a jóvenes entre 14 y 18 años al momento del hecho. Sus principios vienen de la Convención de la ONU: el interés superior, la proporcionalidad, la reparación del daño y la búsqueda de la reinserción social. Las sanciones van desde amonestación y servicio comunitario hasta internamiento en medio semi-cerrado o cerrado, este último solo para delitos graves y como último recurso. La lógica no es la \"cárcel de adultos\" que reclama la víctima, sino asumir responsabilidades con enfoque educativo, porque el propio adolescente es sujeto de derechos.",
       "difficulty": "6",
       "images": [],
@@ -387,13 +387,13 @@
           "feedback": "Las funciones urbanísticas corresponden a otras dependencias; la personería es un órgano de control de derechos humanos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Juzgar y condenar directamente al adulto explotador",
           "is_correct": false,
           "feedback": "Las personerías no ejercen funciones jurisdicionales; juzgar es tarea de jueces y fiscales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Hacer vigilancia y promoción de los derechos humanos, recibir quejas, orientar a las familias y activar rutas con el ICBF, la Policía y el ente municipal competente",
           "is_correct": true,
           "feedback": "Correcto. La personería es el defensor del pueblo local (artículo 118 constitucional) y debe gestionar la protección de derechos de la niñez en el municipio."
@@ -405,7 +405,7 @@
           "feedback": "No existe tal figura; las sanciones patrimoniales corren por cuenta del condenado."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Los personerías municipales, creadas conforme al artículo 118 de la Constitución, son defensorías del pueblo a nivel local: promueven los derechos humanos, reciben quejas por vulneraciones y vigilan a la administración municipal. En materia de niñez, articulan la ruta de restablecimiento de derechos junto con el ICBF, la Policía de Infancia y Adolescencia, la inspección de policía y el comité municipal de política social. Además, la Constitución y la ley asignan a la Defensoría del Pueblo y a los defensores de familia funciones específicas de protección. La explotación de un adolescente en mendicidad es un delito y a la vez una de las peores formas de trabajo infantil.",
       "difficulty": "6",
       "images": [],
@@ -433,25 +433,25 @@
           "feedback": "La recreación es un derecho, pero no sustituye la identidad jurídica de la niña."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Ninguno, porque el registro solo sirve para trámites de pasaporte",
           "is_correct": false,
           "feedback": "El registro civil es la puerta de entrada a salud, educación y protección: sin él la niña es jurídicamente invisible."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "El derecho a la propiedad; se soluciona ante la oficina de instrumentos públicos",
           "is_correct": false,
           "feedback": "La inscripción de nacimiento no es un asunto de propiedad inmueble."
         },
         {
-          "letter": "D",
+          "letter": "B",
           "text": "El derecho a la identidad; el registro se practica en cualquier notaría o registraduría del estado civil, con la declaratoria de nacimiento",
           "is_correct": true,
           "feedback": "Correcto. La identidad, incluida la nacionalidad y el nombre, es un derecho fundamental (artículo 44 constitucional y artículos 7 y 8 de la Convención)."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": "El derecho a la identidad, consagrado en el artículo 44 de la Constitución como derecho fundamental de los niños, comprende el nombre, la nacionalidad y el registro inmediato tras el nacimiento, conforme a los artículos 7 y 8 de la Convención de 1989. El registro civil de nacimiento se practica en notarías y en las delegaciones de la Registraduría, es gratuito para el primer registro y no puede negarse por la ausencia del padre: la declaratoria la puede hacer la madre, parientes o cualquier persona que presenció el parto. Sin registro, la niña no accede plenamente a servicios de salud, educación ni a mecanismos de protección del Estado.",
       "difficulty": "6",
       "images": [],
@@ -473,19 +473,19 @@
       "context": "En un juzgado de familia de Medellín se debate la custodia de una niña de 10 años tras la separación de sus padres. El padre ofrece más dinero y una casa grande; la madre, menos ingresos, es quien ha ejercido los cuidados diarios y la niña manifiesta su deseo de seguir viviendo con ella y continuar en su colegio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Debe adjudicarse la custodia al padre, porque el ingreso económico es el criterio único que define el bienestar",
           "is_correct": false,
           "feedback": "El dinero no es criterio único: la jurisprudencia constitucional pondera cuidados, vínculo afectivo y proyecto de vida de la niña."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Debe ignorarse la opinión de la niña porque todos los menores carecen de capacidad para formar juicios",
           "is_correct": false,
           "feedback": "El artículo 12 de la Convención reconoce el derecho del niño a ser oído y a que su opinión sea tenida en cuenta según su edad y madurez."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Debe ponderarse el interés superior de la niña, valorando los cuidados ejercidos, la continuidad de su proyecto de vida y su opinión calificada conforme a edad y madurez",
           "is_correct": true,
           "feedback": "Correcto. La Corte Constitucional exige oír a la niña y analizar el interés superior con criterios integrales, no solo económicos."
@@ -497,7 +497,7 @@
           "feedback": "El juez de familia tiene el deber legal y constitucional de decidir en derecho con perspectiva de protección."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El interés superior del niño (artículo 3 de la Convención) es un principio de interpretación y una regla de procedimiento: obliga al juzgador a evaluar cuál decisión garantiza más efectivamente los derechos del niño concreto, y a motivar esa decisión. La jurisprudencia de la Corte Constitucional colombina ha precisado que este interés no se reduce a lo material: pesan los cuidados cotidianos, el arraigo, la educación y la opinión de la niña, que a los 10 años es plenamente cualificada para ser escuchada conforme al artículo 12 de la Convención y al artículo 44 constitucional.",
       "difficulty": "8",
       "images": [],
@@ -571,13 +571,13 @@
           "feedback": "Culpar a las víctimas ignora los incentivos económicos del hogar y la ausencia de alternativas; es un análisis superficial."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El programa fracasó exclusivamente por la falta de publicidad en redes sociales",
           "is_correct": false,
           "feedback": "La difusión no era la falla: la intervención retiraba al niño sin modificar las causas del retorno."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El programa trató el síntoma (el niño en la calle) sin abordar las causas estructurales (pobreza del hogar, desescolarización, economías informales), incumpliendo la exigencia de medidas integrales de la Ley 1098",
           "is_correct": true,
           "feedback": "Correcto. La restablecimiento de derechos debe ser integral y sostenible; sin familia y sin escuela, el retorno es predecible."
@@ -589,7 +589,7 @@
           "feedback": "El caso no menciona multas a compradores; esta opción fabrica un dato inexistente."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El enfoque de protección integral ordena que las medidas de restablecimiento de derechos sean integrales, proporcionales y sostenibles (Ley 1098 de 2006), y que el trabajo infantil se ataque con garantías de educación, apoyo familiar y políticas de ingreso, como exigen los Convenios 138 y 182 de la OIT. Un retiro del niño de la calle sin acompañamiento familiar rompe la corresponsabilidad (artículo 44 constitucional) entre familia, sociedad y Estado: la niña regresa porque la estructura que la expulsaba a la calle sigue intacta. Este caso enseña a distinguir intervenciones cosméticas de transformaciones estructurales.",
       "difficulty": "8",
       "images": [],
@@ -715,19 +715,19 @@
           "feedback": "La protección no depende del consentimiento parental: es una garantía estatal y un límite a los proveedores."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Hay riesgo de vulneración del interés superior por exposición a publicidad de actividades prohibidas o dañinas para menores, y aplican los límites de la Convención, la Ley 1098 y la regulación de inspección y vigilancia del Estado sobre proveedores de servicios digitales",
           "is_correct": true,
           "feedback": "Correcto. La protección integral exige regular los entornos digitales que afectan a niños, tal como han desarrollado la ICBF y las autoridades de consumo y telecomunicaciones."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La responsabilidad es únicamente del colegio, porque la app es de otro país y no aplica la ley colombiana",
           "is_correct": false,
           "feedback": "Las normas colombianas y los principios de la Convención alcanzan los servicios que operan y dirigen publicidad a niños en el territorio nacional."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La Convención (artículos 32 y 36) protege a los niños contra la explotación económica y toda forma de explotación que perjudique su bienestar, y la Ley 1098 de 2006 prohíbe la utilización de niños en actividades que atenten contra su dignidad. Dirigir publicidad de apuestas y vapeo a audiencias infantiles en plataformas digitales convierte el entorno virtual en un espacio de vulneración de derechos que el Estado debe regular, con apoyo en las normas de protección al consumidor y de régimen de telecomunicaciones. El caso actualiza la protección integral a la era digital y muestra que el interés superior no se detiene en la puerta de la casa.",
       "difficulty": "8",
       "images": [],
@@ -847,25 +847,25 @@
           "feedback": "Tratar igual a situaciones desiguales profundiza la desigualdad; la igualdad material es justamente lo contrario."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Es válida, porque el manual de convivencia es un contrato y quien ingresa renuncia a sus derechos fundamentales",
           "is_correct": false,
           "feedback": "Ningún reglamento interno puede prevalecer sobre derechos fundamentales de una menor; tal renuncia es jurídicamente inexistente."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Es inválida solo si la familia demuestra un daño económico con recibos, pues lo demás es disciplinario interno",
           "is_correct": false,
           "feedback": "La afectación es de derechos fundamentales (educación, salud, debido proceso reforzado), no patrimonial."
         },
         {
-          "letter": "D",
+          "letter": "B",
           "text": "Es inválida, porque expulsa a una víctima en vez de activar protocolos de atención, re-victimiza y contraviene la Ley 1620, la Ley 1098 y el interés superior; la tutela y las autoridades de educación deben ordenar su retorno con apoyos",
           "is_correct": true,
           "feedback": "Correcto. La respuesta institucional debida a una estudiante victimizada era la ruta de atención integral, no la exclusión disciplinaria."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": "Este caso pone a prueba el debido proceso con enfoque de protección integral: el manual de convivencia no puede leerse al margen de la Constitución ni de los protocolos de la Ley 1620 de 2013, que ordenan proteger a la víctima de vulneraciones de derechos. Expulsar a una niña abusada cuyos problemas de conducta derivan del trauma es una revictimización institucional que vulnera su derecho fundamental a la educación y su interés superior. La Corte Constitucional, vía tutela, ha ordenado retornos escolares y ajustes razonables en casos de estudiantes en situación de vulnerabilidad. Evaluar reglamentos escolares a la luz de los derechos es competencia ciudadana clave.",
       "difficulty": "10",
       "images": [],

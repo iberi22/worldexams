@@ -13,13 +13,13 @@
       "context": "Un estudiante de bachillerato en Madrid analiza una lista de números donde cada término se obtiene sumando una cantidad fija al anterior.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Progresión aritmética",
           "is_correct": true,
           "feedback": "Correcto. En una progresión aritmética, cada término es igual al anterior más una constante llamada diferencia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Progresión geométrica",
           "is_correct": false,
           "feedback": "En la geométrica, cada término se obtiene multiplicando el anterior por una razón constante."
@@ -37,7 +37,7 @@
           "feedback": "La serie armónica es la suma de los recíprocos de los números naturales, no tiene diferencia constante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Una progresión aritmética se define por la relación $a_n = a_{n-1} + d$, donde $d$ es la diferencia. Es un concepto fundamental en el estudio de sucesiones en 1º de Bachillerato.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -64,13 +64,13 @@
           "feedback": "Esta es la fórmula de una progresión aritmética, no geométrica."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$a_n = a_1 \\cdot r^{n-1}$",
           "is_correct": true,
           "feedback": "Correcto. Cada término se obtiene multiplicando el primero por la razón elevada a $n-1$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$a_n = a_1 \\cdot r^n$",
           "is_correct": false,
           "feedback": "Esta fórmula daría el término $a_{n+1}$ si empezamos en $a_1$."
@@ -82,7 +82,7 @@
           "feedback": "El exponente solo debe afectar a la razón $r$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "En las progresiones geométricas, el crecimiento es exponencial. El término $n$-ésimo se alcanza tras $n-1$ saltos multiplicativos desde el primer término.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Un examen de Matemáticas I en Valencia incluye una pregunta sobre la suma de términos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que la razón sea mayor que 1.",
           "is_correct": false,
           "feedback": "Si la razón es mayor que 1, la progresión es creciente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que la razón esté comprendida entre 0 y 1.",
           "is_correct": true,
           "feedback": "Correcto. Multiplicar repetidamente por un valor entre 0 y 1 reduce el valor del término."
@@ -127,7 +127,7 @@
           "feedback": "El enunciado especifica términos positivos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Para sucesiones de términos positivos, el comportamiento depende de la razón $r$. Si $0 < r < 1$, el valor absoluto de los términos disminuye hacia cero.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Un biólogo en Sevilla observa una población de bacterias que se duplica cada hora.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Progresión aritmética con $d = 2$.",
           "is_correct": false,
           "feedback": "La duplicación es un proceso multiplicativo, no aditivo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Progresión geométrica con $r = 2$.",
           "is_correct": true,
           "feedback": "Correcto. \"Duplicar\" implica multiplicar por 2 en cada paso."
@@ -172,7 +172,7 @@
           "feedback": "Esto significaría que nacen 100 bacterias fijas cada hora, independientemente de cuántas haya."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Los procesos de crecimiento donde el incremento es proporcional al valor actual (como duplicarse) se modelan mediante progresiones geométricas.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Cálculo erróneo de la posición."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Nivel 10",
           "is_correct": true,
           "feedback": "Correcto. $2 = 20 + (n-1)(-2) \\Rightarrow -18 = -2(n-1) \\Rightarrow 9 = n-1 \\Rightarrow n = 10$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Nivel 11",
           "is_correct": false,
           "feedback": "Error al despejar $n$."
@@ -262,7 +262,7 @@
           "feedback": "Resultado incoherente con la tasa de descenso."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Planteamos la ecuación $a_n = a_1 + (n-1)d$ con $a_1=20$, $d=-2$ y $a_n=2$, y despejamos el valor de $n$.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "Un atleta en Valencia entrena corriendo cada día un 10% más de distancia que el día anterior. El primer día corre 10 km.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "12 km",
           "is_correct": false,
           "feedback": "Esto sería una progresión aritmética sumando 1 km cada día."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "12,1 km",
           "is_correct": true,
           "feedback": "Correcto. Día 1: 10. Día 2: $10 \\cdot 1,1 = 11$. Día 3: $11 \\cdot 1,1 = 12,1$."
@@ -307,7 +307,7 @@
           "feedback": "Este es el resultado para el segundo día."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Se trata de una progresión geométrica con $r = 1,1$ (aumento del 10%). El tercer término es $a_3 = a_1 \\cdot r^2 = 10 \\cdot (1,1)^2 = 12,1$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,13 +379,13 @@
           "feedback": "Esto ignora el interés compuesto sobre el primer aumento."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "220,50 €",
           "is_correct": true,
           "feedback": "Correcto. $200 \\cdot (1,05)^2 = 200 \\cdot 1,1025 = 220,5$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "210 €",
           "is_correct": false,
           "feedback": "Este es el valor tras el primer año únicamente."
@@ -397,7 +397,7 @@
           "feedback": "Este es el valor tras 3 años."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La revalorización porcentual constante se calcula mediante una progresión geométrica. El valor final es $a_1 \\cdot r^n$ (siendo $n$ el número de periodos).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,13 +424,13 @@
           "feedback": "Esta es la suma de los 10 primeros impares."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "110",
           "is_correct": true,
           "feedback": "Correcto. $S_{10} = \\frac{a_1 + a_{10}}{2} \\cdot 10 = \\frac{2 + 20}{2} \\cdot 10 = 11 \\cdot 10 = 110$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "55",
           "is_correct": false,
           "feedback": "Esta es la suma de los números del 1 al 10."
@@ -442,7 +442,7 @@
           "feedback": "Cálculo erróneo de los términos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La suma de los $n$ primeros términos de una progresión aritmética es $S_n = \\frac{a_1 + a_n}{2} \\cdot n$. Aquí $a_1=2$, $a_{10}=20$ y $n=10$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,25 +469,25 @@
           "feedback": "Este es el séptimo término."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "21",
           "is_correct": true,
           "feedback": "Correcto. La serie es 1, 1, 2, 3, 5, 8, 13, 21."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "34",
           "is_correct": false,
           "feedback": "Este es el noveno término."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "15",
           "is_correct": false,
           "feedback": "Fibonacci no es una progresión aritmética."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En la sucesión de Fibonacci, cada término es la suma de los dos anteriores ($a_n = a_{n-1} + a_{n-2}$). Es un ejemplo clásico de sucesión recurrente.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -559,25 +559,25 @@
           "feedback": "Error al contar el número total de términos (debe haber 5 en total)."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "4",
           "is_correct": true,
           "feedback": "Correcto. Con 3 medios, hay $n=5$ términos. $20 = 4 + (5-1)d \\Rightarrow 16 = 4d \\Rightarrow d = 4$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "5",
           "is_correct": false,
           "feedback": "Se dividió 20-4 entre 3 en lugar de 4."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "3",
           "is_correct": false,
           "feedback": "Cálculo erróneo de la diferencia."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Interpolar $k$ medios entre $a$ y $b$ significa crear una progresión de $k+2$ términos. La diferencia se halla con $d = \\frac{b-a}{k+1}$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Un capital de 1000 € se invierte a un interés compuesto anual del 4%.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$1000 \\cdot 0,04^t$",
           "is_correct": false,
           "feedback": "La base debe ser $1 + i$, no solo el interés."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$1000 \\cdot (1,04)^t$",
           "is_correct": true,
           "feedback": "Correcto. Es una progresión geométrica donde la razón es $1 + \\text{rédito}$."
@@ -622,7 +622,7 @@
           "feedback": "Esto representaría una pérdida de valor del 4% anual."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El interés compuesto es la aplicación práctica más directa de las progresiones geométricas en finanzas, donde los intereses se capitalizan en cada periodo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -655,19 +655,19 @@
           "feedback": "Al alternar signos, no es monótona."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Oscilante y divergente.",
           "is_correct": true,
           "feedback": "Correcto. Al cambiar de signo y aumentar en valor absoluto, no tiende a un único valor ni a un único infinito."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Acotada y convergente a 0.",
           "is_correct": false,
           "feedback": "El valor absoluto tiende a infinito, no está acotada."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Una sucesión es oscilante si no es convergente ni tiende a $+\\infty$ o $-\\infty$. La presencia del factor $(-1)^n$ suele generar comportamientos alternantes.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Error al despejar la razón o el primer término."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "3",
           "is_correct": true,
           "feedback": "Correcto. $a_6 = a_3 \\cdot r^3 \\Rightarrow 96 = 12 \\cdot r^3 \\Rightarrow 8 = r^3 \\Rightarrow r = 2$. Entonces $12 = a_1 \\cdot 2^2 \\Rightarrow a_1 = 3$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "4",
           "is_correct": false,
           "feedback": "Error en el cálculo de la razón."
@@ -757,7 +757,7 @@
           "feedback": "Valor incoherente con los datos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Utilizamos la relación entre términos de una progresión geométrica: $a_n = a_m \\cdot r^{n-m}$. Primero hallamos la razón y luego retrocedemos hasta $a_1$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Aunque 1/n tiende a 0, el exponente crece a infinito; es una indeterminación $1^\\infty$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El número $e$",
           "is_correct": true,
           "feedback": "Correcto. Esta es una de las definiciones fundamentales del número de Euler ($e \\approx 2,71828$)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\pi$",
           "is_correct": false,
           "feedback": "No tiene relación directa con esta estructura de sucesión."
@@ -802,7 +802,7 @@
           "feedback": "La sucesión está acotada superiormente por 3."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La sucesión que define el número $e$ es fundamental en el estudio del cálculo y el análisis matemático en el bachillerato científico-tecnológico en España.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -880,19 +880,19 @@
           "feedback": "Solo es 1 si $n$ es impar."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "La suma oscila entre 0 y 1.",
           "is_correct": true,
           "feedback": "Correcto. $S_1=1, S_2=0, S_3=1, S_4=0...$ La serie no tiene un límite único."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La suma diverge a infinito.",
           "is_correct": false,
           "feedback": "Los términos se compensan, impidiendo que la suma crezca sin límite."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Este es un ejemplo de serie divergente por oscilación. Muestra que para que una serie geométrica tenga suma infinita, es indispensable que $|r| < 1$.\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
       "difficulty": "10",
       "images": [],

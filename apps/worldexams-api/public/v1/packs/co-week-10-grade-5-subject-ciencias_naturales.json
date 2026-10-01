@@ -59,19 +59,19 @@
       "context": "Lee: \"En un ecosistema, el agua, la luz solar, el suelo y el aire son tan importantes como las plantas y los animales\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Porque los seres vivos dependen del agua, la luz, el aire y el suelo para alimentarse, crecer y sobrevivir.",
           "is_correct": true,
           "feedback": "Los factores abióticos son condiciones esenciales para la vida."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque los animales pueden vivir sin agua durante meses.",
           "is_correct": false,
           "feedback": "Sin agua los animales no pueden sobrevivir mucho tiempo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque las plantas no necesitan luz para producir su alimento.",
           "is_correct": false,
           "feedback": "Las plantas sí necesitan luz para realizar la fotosíntesis."
@@ -83,7 +83,7 @@
           "feedback": "Cumplen funciones vitales, no decorativas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Comprender la importancia de los factores abióticos para la supervivencia de los organismos.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "Un grupo de estudiantes observa un ecosistema de páramo en el Parque Nacional Los Nevados y registra: frailejones, musgos, venados, conejos y águilas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Frailejones y musgos (productores) → conejos (consumidor primario) → águila (consumidor secundario).",
           "is_correct": true,
           "feedback": "Los productores alimentan a los consumidores primarios y estos a los secundarios."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Águila (productor) → conejo (consumidor primario) → frailejones (consumidor secundario).",
           "is_correct": false,
           "feedback": "Las águilas no son productoras porque no hacen fotosíntesis."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Musgos (consumidor secundario) → venado (productor) → águila (consumidor primario).",
           "is_correct": false,
           "feedback": "Los musgos no son consumidores y el venado no es productor."
@@ -129,7 +129,7 @@
           "feedback": "Los conejos no son descomponedores ni las águilas productoras."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicar el concepto de cadena alimenticia para ordenar organismos según su rol trófico.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En un humedal de la región de La Mojana, los estudiantes identifican tres cadenas: \"Pasto → saltamontes → rana → serpiente\" y \"Algas → camarón → pez → garza\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Consumidores secundarios, porque se alimentan de consumidores primarios.",
           "is_correct": true,
           "feedback": "Ambos se alimentan de consumidores primarios, así que son consumidores secundarios."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Productores, porque fabrican su propio alimento.",
           "is_correct": false,
           "feedback": "Los productores hacen fotosíntesis; la rana y el pez no."
@@ -175,7 +175,7 @@
           "feedback": "Ni la rana ni el pez son descomponedores."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar la clasificación de niveles tróficos para comparar cadenas alimenticias distintas.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En el suelo de un bosque andino, los estudiantes observan lombrices, hongos y bacterias que actúan sobre hojas caídas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Actúan como descomponedores, transforman la materia orgánica muerta en nutrientes para el suelo.",
           "is_correct": true,
           "feedback": "Los descomponedores reciclan la materia orgánica y enriquecen el suelo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Son productores porque fabrican su propio alimento.",
           "is_correct": false,
           "feedback": "No hacen fotosíntesis; consumen materia en descomposición."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Son consumidores terciarios porque cazan otros animales.",
           "is_correct": false,
           "feedback": "No cazan animales; procesan materia muerta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No cumplen ninguna función en el ecosistema.",
           "is_correct": false,
           "feedback": "Son fundamentales para el reciclaje de nutrientes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aplicar el concepto de descomponedores para reconocer su papel en el reciclaje de nutrientes.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "Compara: \"Cadena 1: Pasto → conejo → zorro. Cadena 2: Pasto → conejo → águila → bacteria\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La cadena 2 tiene un consumidor terciario (águila) y un descomponedor (bacteria); la cadena 1 solo llega hasta consumidor secundario.",
           "is_correct": true,
           "feedback": "La cadena 2 incluye un nivel trófico más alto y un descomponedor."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La cadena 1 tiene más productores que la cadena 2.",
           "is_correct": false,
           "feedback": "Ambas cadenas tienen un único productor (el pasto)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La cadena 2 no tiene consumidores primarios.",
           "is_correct": false,
           "feedback": "El conejo cumple ese papel en la cadena 2."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Las dos cadenas tienen exactamente la misma cantidad de niveles.",
           "is_correct": false,
           "feedback": "La cadena 2 tiene un nivel más por el águila."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analizar la estructura de cadenas alimenticias para identificar diferencias en los niveles tróficos.",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Observa: \"En una red alimenticia de manglar, los cangrejos son comidos por aves y por peces; los peces también comen camarones y son comidos por aves\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque los organismos se relacionan de varias formas: un mismo animal puede ser presa de varios depredadores y comer distintos alimentos.",
           "is_correct": true,
           "feedback": "La red muestra relaciones múltiples entre los organismos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque en realidad es una cadena sencilla sin relaciones.",
           "is_correct": false,
           "feedback": "El ejemplo muestra claramente múltiples relaciones."
@@ -313,7 +313,7 @@
           "feedback": "Las redes incluyen todos los niveles tróficos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Analizar la diferencia entre cadena y red alimenticia a partir de ejemplos concretos.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En una región de Colombia, la fumigación con químicos elimina insectos que polinizan plantas y que sirven de alimento a aves insectívoras.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Puede afectar la polinización, reducir las poblaciones de aves y desequilibrar las cadenas y redes alimenticias.",
           "is_correct": true,
           "feedback": "Eliminar eslabones clave altera todo el equilibrio ecológico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Solo afecta a los insectos fumigados, sin consecuencias para otros seres vivos.",
           "is_correct": false,
           "feedback": "Los insectos son alimento de muchas especies, por lo que hay efectos en cadena."
@@ -359,7 +359,7 @@
           "feedback": "Alterar eslabones siempre afecta la biodiversidad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluar el impacto de las acciones humanas sobre el equilibrio de los ecosistemas colombianos.",
       "difficulty": "10",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "En una escuela de Bogotá, la profesora muestra fotos de varios paisajes de Colombia y pide reconocerlos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El páramo.",
           "is_correct": true,
           "feedback": "El páramo es un ecosistema de montaña frío y húmedo que retiene y libera agua."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La selva amazónica.",
           "is_correct": false,
           "feedback": "La selva amazónica es cálida y húmeda, no fría como el páramo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El arrecife de coral.",
           "is_correct": false,
           "feedback": "Los arrecifes del Caribe son ecosistemas marinos cálidos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El bosque seco tropical.",
           "is_correct": false,
           "feedback": "El bosque seco se caracteriza por altas temperaturas y poca lluvia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Reconocer las características principales de los ecosistemas colombianos, en especial del páramo y su condición fría y húmeda.",
       "difficulty": "4",
       "images": [],
@@ -519,13 +519,13 @@
       "context": "Santiago visita el arrecife de coral en Cartagena y quiere ayudar a cuidarlo durante su paseo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "No tocar los corales y llevar su basura de regreso a la orilla.",
           "is_correct": true,
           "feedback": "Los corales son seres vivos frágiles; no tocarlos y no dejar basura protege el arrecife."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Recoger pedazos de coral para llevarlos de recuerdo.",
           "is_correct": false,
           "feedback": "Extraer corales daña el arrecife y afecta a los animales que viven allí."
@@ -543,7 +543,7 @@
           "feedback": "Pisar los corales los destruye y perjudica el arrecife."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar el conocimiento sobre los ecosistemas marinos para tomar decisiones de cuidado del entorno.",
       "difficulty": "6",
       "images": [],
@@ -565,31 +565,31 @@
       "context": "Mariana compara la selva amazónica, con muchos árboles altos y lluvia constante, y el bosque andino, ubicado en las laderas de las montañas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La temperatura, la altura y la cantidad de lluvia cambian de un lugar a otro y favorecen distintas especies.",
           "is_correct": true,
           "feedback": "Cada ecosistema ofrece condiciones de clima y relieve que permiten vivir a especies diferentes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los dos ecosistemas tienen exactamente el mismo clima y las mismas especies.",
           "is_correct": false,
           "feedback": "La selva amazónica y el bosque andino tienen clima y especies muy diferentes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Las especies cambian solo porque los árboles son de color distinto.",
           "is_correct": false,
           "feedback": "El color no determina las especies; influyen el clima, la altura y el agua."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "En los dos ecosistemas viven únicamente plantas, sin animales.",
           "is_correct": false,
           "feedback": "Ambos ecosistemas albergan gran variedad de plantas y animales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analizar cómo las condiciones del ambiente, como temperatura, altura y lluvia, determinan las especies que viven en cada ecosistema.",
       "difficulty": "8",
       "images": [],
@@ -611,19 +611,19 @@
       "context": "Un grupo de estudiantes registra en una tabla las aves observadas en dos zonas: el páramo y el bosque andino.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El bosque andino ofrece más alimento y refugio, por eso alberga más especies.",
           "is_correct": true,
           "feedback": "La mayor variedad de plantas y refugios en el bosque andino favorece más especies de aves."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En el páramo no existen aves de ninguna clase.",
           "is_correct": false,
           "feedback": "En el páramo sí viven aves, aunque en menor cantidad y variedad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Las aves del bosque andino son más grandes que todas las del páramo.",
           "is_correct": false,
           "feedback": "El tamaño no explica la cantidad de especies registradas."
@@ -635,7 +635,7 @@
           "feedback": "El páramo sí es un ecosistema; la tabla solo muestra menos especies de aves."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Analizar datos sencillos para relacionar la variedad de especies con los recursos que ofrece cada ecosistema.",
       "difficulty": "8",
       "images": [],
@@ -657,13 +657,13 @@
       "context": "En el municipio de Sibaté se propone quemar una zona de páramo para sembrar papa, y los vecinos piden opinar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es perjudicial, porque quemar el páramo daña la fuente de agua que surte a muchas comunidades.",
           "is_correct": true,
           "feedback": "El páramo almacena agua; quemarlo reduce el agua disponible para las poblaciones."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es útil, porque sembrar papa mejora el suelo del páramo para siempre.",
           "is_correct": false,
           "feedback": "La quema deteriora el suelo y tarda muchísimos años en recuperarse."
@@ -681,7 +681,7 @@
           "feedback": "El daño al páramo no se repara de inmediato con la lluvia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluar decisiones humanas que afectan los ecosistemas y reconocer el valor del páramo para el agua de las comunidades.",
       "difficulty": "10",
       "images": [],

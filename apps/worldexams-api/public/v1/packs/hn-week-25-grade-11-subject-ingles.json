@@ -19,25 +19,25 @@
           "feedback": "Incorrect. The verb 'visited' (past simple) must change to 'had visited' (past perfect) in reported speech."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Silvia said she had visited the ruins the previous year.",
           "is_correct": true,
           "feedback": "Correct! In reported speech, Past Simple changes to Past Perfect and 'last year' becomes 'the previous year'."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Silvia said she has visited the ruins last year.",
           "is_correct": false,
           "feedback": "Incorrect. 'Has visited' is present perfect; reported speech from past simple requires past perfect."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Silvia said she would visit the ruins the previous year.",
           "is_correct": false,
           "feedback": "Incorrect. 'Would' is used for future intentions in the past (will -> would), not for past actions."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En el estilo indirecto (reported speech), cuando el verbo introductorio está en pasado, el Past Simple de la oración original debe cambiar a Past Perfect. Además, las expresiones de tiempo como 'last year' cambian a 'the previous year' o 'the year before'.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -64,13 +64,13 @@
           "feedback": "Incorrect. 'Don't have to' implies lack of necessity, not prohibition."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "shouldn't",
           "is_correct": false,
           "feedback": "Incorrect. 'Shouldn't' is for advice, but this is a strict prohibition."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "must not",
           "is_correct": true,
           "feedback": "Correct! 'Must not' (or mustn't) is used to express strong prohibition, which fits the context of local laws."
@@ -82,7 +82,7 @@
           "feedback": "Incorrect. 'Might not' expresses a negative possibility, not a prohibition."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El modal 'must not' se utiliza para expresar prohibiciones legales o reglas estrictas. En este contexto, tocar el arrecife de coral no es solo una mala idea, sino que está prohibido para proteger el ecosistema.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -109,13 +109,13 @@
           "feedback": "Incorrect. This is a first conditional, but the context suggests a hypothetical situation about the current year."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "rained / would be",
           "is_correct": true,
           "feedback": "Correct! This is a second conditional (Past Simple + would) used for hypothetical or unlikely situations in the present."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "had rained / will be",
           "is_correct": false,
           "feedback": "Incorrect. Mixed conditional forms require a specific logical link between past and present results."
@@ -127,7 +127,7 @@
           "feedback": "Incorrect. 'Rains' is present simple, which doesn't match the third conditional result 'would have been'."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El segundo condicional se utiliza para hablar de situaciones hipotéticas o poco probables en el presente o futuro. Se forma con 'if' + Past Simple y 'would' + infinitivo.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -160,19 +160,19 @@
           "feedback": "Incorrect. This implies it is happening right now, but the context points to a future completion."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "will be finished",
           "is_correct": true,
           "feedback": "Correct! This is the future passive (will be + past participle), indicating an action done to the subject in the future."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "will have finished",
           "is_correct": false,
           "feedback": "Incorrect. This is future perfect active; the terminal is the object of the action 'finish'."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La voz pasiva se utiliza cuando el sujeto de la oración recibe la acción. En este caso, la terminal es construida o finalizada por trabajadores, por lo que se requiere 'will be' + el participio del verbo.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,25 +199,25 @@
           "feedback": "Incorrect. 'Get up' means to leave bed, but the sentence refers to starting a journey."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "set off",
           "is_correct": true,
           "feedback": "Correct! 'Set off' means to start a journey or trip."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "take off",
           "is_correct": false,
           "feedback": "Incorrect. 'Take off' is used for planes or removing clothes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "go through",
           "is_correct": false,
           "feedback": "Incorrect. 'Go through' means to experience or examine something."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Los 'phrasal verbs' son combinaciones de verbos y preposiciones que adquieren significados específicos. 'Set off' es el término estándar para iniciar un viaje.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorrect. 'Since' is used for a specific point in time (e.g., since 2018)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "for",
           "is_correct": true,
           "feedback": "Correct! 'For' is used to express a period or duration of time."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "during",
           "is_correct": false,
           "feedback": "Incorrect. 'During' is followed by a noun representing an event, not a duration of time."
@@ -262,7 +262,7 @@
           "feedback": "Incorrect. 'While' is used to connect two simultaneous actions."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "En el Present Perfect Continuous, utilizamos 'for' para indicar la duración de una actividad y 'since' para indicar el momento exacto en que comenzó.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "Discussing traditional food in a cultural festival in Gracias, Lempira.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "are selling",
           "is_correct": false,
           "feedback": "Incorrect. This is active voice, but baleadas are sold by people."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "are sold",
           "is_correct": true,
           "feedback": "Correct! This is the present simple passive, indicating a general fact or routine."
@@ -352,7 +352,7 @@
           "feedback": "Incorrect. This is past simple passive, but the sentence refers to a current general fact."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Usamos la voz pasiva en presente simple (am/is/are + participio) para hablar de hechos generales, procesos o situaciones donde el agente no es lo más importante.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Incorrect. This is second conditional, but the 'if' part is about the past."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "had installed / would have been",
           "is_correct": false,
           "feedback": "Incorrect. This is third conditional, but the result 'now' refers to the present."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "had installed / would be",
           "is_correct": true,
           "feedback": "Correct! This is a mixed conditional: Past Perfect in the 'if' clause (past action) and 'would' + verb in the result (present effect)."
@@ -487,7 +487,7 @@
           "feedback": "Incorrect. This is first conditional."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Los condicionales mixtos se usan para hablar de cómo una acción pasada (Past Perfect) tiene una consecuencia en el presente (would + infinitivo).\n\n---",
       "difficulty": "7",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Incorrect comparison structure."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "not / so",
           "is_correct": true,
           "feedback": "Correct! 'Not so/as ... as' is used for negative comparisons of equality."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "more / as",
           "is_correct": false,
           "feedback": "Incorrect. 'More' goes with 'than'."
@@ -667,7 +667,7 @@
           "feedback": "Incorrect. 'Less' goes with 'than'."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para comparar dos cosas que no son iguales en grado, podemos usar la estructura 'not so + adjetivo + as' o 'not as + adjetivo + as'.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Incorrect. Mixed conditional requires Past Perfect (had invested)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "invested / wouldn't be",
           "is_correct": true,
           "feedback": "Correct! Third conditional 'if' part (omitting 'if' with inversion) + second conditional result."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "invested / wouldn't have been",
           "is_correct": false,
           "feedback": "Incorrect. This would refer to a past result, but 'today' indicates a present result."
@@ -847,7 +847,7 @@
           "feedback": "Incorrect verb form."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Esta es una estructura de inversión de tercer condicional (omitimos 'if' y ponemos 'had' al principio) combinada con un resultado en presente (mixed conditional).\n\n---",
       "difficulty": "10",
       "images": [],
@@ -874,13 +874,13 @@
           "feedback": "Incorrect. 'I'd rather' about the past requires the past perfect."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "had",
           "is_correct": true,
           "feedback": "Correct! 'I'd rather' + subject + past perfect is used to express a preference about a past action that didn't happen."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "did",
           "is_correct": false,
           "feedback": "Incorrect. 'Did' is used for preferences about the present/future."
@@ -892,7 +892,7 @@
           "feedback": "Incorrect structure for 'I'd rather'."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La estructura 'would rather' seguida de un sujeto diferente y el Past Perfect se utiliza para expresar arrepentimiento o una preferencia sobre algo que ocurrió en el pasado de manera distinta.\n\n---",
       "difficulty": "10",
       "images": [],

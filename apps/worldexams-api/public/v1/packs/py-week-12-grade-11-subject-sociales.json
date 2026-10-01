@@ -13,19 +13,19 @@
       "context": "En el Colegio Nacional de la Capital de Asunción, los estudiantes repasan la fundación de la casa fuerte que dio origen a la ciudad capital.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Juan de Salazar de Espinosa",
           "is_correct": true,
           "feedback": "Correcto. Juan de Salazar de Espinosa fundó el fuerte de Asunción el 15 de agosto de 1537 a orillas del Río Paraguay."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Cristóbal Colón",
           "is_correct": false,
           "feedback": "Incorrecto. Colón llegó a las Antillas en 1492 y nunca exploró la cuenca del Río de la Plata o el Paraguay."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Hernandarias de Saavedra",
           "is_correct": false,
           "feedback": "Incorrecto. Hernandarias fue el primer gobernador criollo del Río de la Plata nacida a finales del siglo XVI."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. El Dr. Francia fue el líder fundamental de la independencia paraguaya en el siglo XIX."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La fundación de Asunción en 1537 convirtió al enclave paraguayo en el centro de expansión colonizadora y \"Madre de Ciudades\" del Cono Sur.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "En Encarnación, los alumnos estudian las Reducciones Jesuíticas establecidas en los siglos XVII y XVIII.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La Compañía de Jesús (Jesuitas)",
           "is_correct": true,
           "feedback": "Correcto. Los padres jesuitas crearon un célebre sistema de misiones donde desarrollaron la imprenta, la música, la arquitectura y preservaron la lengua guaraní."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los Monjes Franciscanos Capuchinos",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque los franciscanos fundaron pueblos antiguos (como Yaguarón), las misiones jesuíticas de Itapúa y Misiones pertenecían a la Compañía de Jesús."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. La orden militar de los templarios fue disuelta en Europa en el siglo XIV antes del descubrimiento de América."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las reducciones jesuíticas constituyeron una experiencia socio-religiosa única que legó testimonios arquitectónicos como las Ruinas de Jesús y Trinidad (Patrimonio UNESCO).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "En Asunción, se recuerdan las gestas patrióticas de la madrugada de mayo de 1811.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "14 y 15 de mayo de 1811",
           "is_correct": true,
           "feedback": "Correcto. Durante la noche del 14 y la madrugada del 15 de mayo de 1811 los próceres intimaron al gobernador Velasco dando nacimiento a la independencia paraguaya."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "25 de mayo de 1810",
           "is_correct": false,
           "feedback": "Incorrecto. El 25 de mayo de 1810 se produjo la Revolución de Mayo en Buenos Aires (Argentina)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "4 de julio de 1776",
           "is_correct": false,
           "feedback": "Incorrecto. El 4 de julio de 1776 se proclamó la independencia de los Estados Unidos de América."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Corresponde al arribo de Cristóbal Colón al continente americano."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las jornadas del 14 y 15 de mayo son la fiesta nacional patria donde Paraguay inició su vida soberana e independiente.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,19 +193,19 @@
       "context": "En el Colegio Nacional de Luque, se analiza el papel de la Real Cédula del 12 de septiembre de 1537.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El derecho de elegir libremente por voto de los vecinos al gobernador interino en caso de vacancia",
           "is_correct": true,
           "feedback": "Correcto. La Cédula Real de 1537 otorgó al Paraguay la potestad de elegir gobernadores en las urnas por votación popular criolla (ej. elección de Irala)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La potestad de abolir el catolicismo en favor de la corona inglesa",
           "is_correct": false,
           "feedback": "Incorrecto. La monarquía hispánica mantuvo una estricta adhesión al catolicismo romano."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La exención permanente de pagar cualquier tipo de tributo al Rey",
           "is_correct": false,
           "feedback": "Incorrecto. Los tributos reales como el quinto real se mantuvieron vigentes en las Indias."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. El comercio colonial estaba monopolizado por la Casa de Contratación de Sevilla."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La Real Cédula de 1537 sentó una temprana tradición autonomista y representativa que influyó en la mentalidad política paraguaya.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,31 +238,31 @@
       "context": "En Villarrica, los estudiantes investigan las batallas militares de Paraguarí y Tacuarí ocurridas a principios de 1811.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Someter a la provincia del Paraguay a la autoridad de la Junta de Buenos Aires",
           "is_correct": true,
           "feedback": "Correcto. Belgrano buscaba la anexión o subordinación de Asunción a las directivas bonaerenses, siendo derrotado en Paraguarí y Tacuarí por los jefes criollos paraguayos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Entregar el territorio paraguayo a la corona del Imperio de Portugal",
           "is_correct": false,
           "feedback": "Incorrecto. Buenos Aires buscaba unificar las provincias del antiguo virreinato bajo su mando, no entregarlas a Portugal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fundar una república federada con Gran Bretaña y Francia",
           "is_correct": false,
           "feedback": "Incorrecto. Belgrano actuaba en nombre de la junta revolucionaria del Río de la Plata."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ayudar al gobernador Velasco a proclamarse emperador vitalicio",
           "is_correct": false,
           "feedback": "Incorrecto. Belgrano luchaba contra el gobernador español Velasco, aunque la resistencia criolla paraguaya defendió su autonomía local."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Las victorias patriotas en Paraguarí (enero de 1811) y Tacuarí (marzo de 1811) demostraron la fuerza militar criolla y aceleraron la decisión de independizarse tanto de España como de Buenos Aires.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "En la ciudad de Concepción, se estudia la figura del Dr. José Gaspar Rodríguez de Francia y su rol en la junta de gobierno.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El Dr. José Gaspar Rodríguez de Francia",
           "is_correct": true,
           "feedback": "Correcto. El Dr. Francia fue la figura consular y Dictador Supremo que consolidó la soberanía paraguaya frente a amenazas externas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Pedro Juan Caballero",
           "is_correct": false,
           "feedback": "Incorrecto. Caballero fue el capitán militar héroe de la gesta de mayo que integró la Junta, pero no fue Dictador Supremo."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Iturbe fue el oficial patriota que llevó la nota de intimación al gobernador Velasco en la noche de la revolución."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El Dr. Francia guió la política de autosuficiencia y defensa irrestricta de la independencia paraguaya entre 1814 y 1840.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "En San Lorenzo, se analizan las causas sociopolíticas de las Revoluciones Comuneras en el Paraguay del siglo XVIII (1717-1735).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "\"La autoridad del común es superior a la del propio Rey\"",
           "is_correct": true,
           "feedback": "Correcto. Las Revoluciones Comuneras postularon que el poder reside en el Común (el pueblo) y está por encima de gobernadores o mandatos reales arbitrarios."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "\"Todo por el Rey y nada para el pueblo\"",
           "is_correct": false,
           "feedback": "Incorrecto. Esta divisa corresponde al absolutismo monárquico ilustrado opuesto a las reivindicaciones comuneras."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Los comuneros luchaban dentro del marco indiano hispánico sin pretensiones de unirse a Portugal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las Revoluciones Comuneras fueron un antecedente de resistencia cívica contra los abusos del poder colonial y los privilegios jesuitas en la provisión de mano de obra.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "En Pilar, la estudiante Camila analiza la política exterior de la Dictadura del Dr. Francia (1814-1840).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Cerrar las fronteras fluviales y terrestres para proteger al Paraguay de las guerras civiles del Río de la Plata y garantizar la autosuficiencia económica",
           "is_correct": true,
           "feedback": "Correcto. El aislamiento aisló al país de las devastadoras contiendas anárquicas vecinas, promoviendo la agricultura interna y resguardando la independencia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Entregar la soberanía nacional al gobierno británico a cambio de empréstitos financieros",
           "is_correct": false,
           "feedback": "Incorrecto. Francia rechazó endeudamientos externos y defendió con celo la soberanía paraguaya."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fomentar el libre comercio ilimitado con los puertos de España e Inglaterra",
           "is_correct": false,
           "feedback": "Incorrecto. Francia controló de forma estricta y reducida el comercio exterior mediante el puerto de Itapúa."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. La política promovió la permanencia y el trabajo agrícola interno obligatorio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El aislamiento francista evitó que Paraguay fuera absorbido por el expansionismo porteño o la inestabilidad de la anarquía argentina.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,19 +418,19 @@
       "context": "En Paraguarí, los estudiantes examinan el Congreso General del 12 de octubre de 1813 y sus decisiones republicanas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La proclamación de la República del Paraguay y la adopción del Consulado como gobierno",
           "is_correct": true,
           "feedback": "Correcto. El Congreso de 1813 declaró oficialmente la República del Paraguay (abandonando toda alusión a Fernando VII) eligiendo cónsules a Francia y Yegros."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La proclamación de un reino monárquico constitucional bajo la dinastía Borbón",
           "is_correct": false,
           "feedback": "Incorrecto. Paraguay rechazó la monarquía adoptando explícitamente el sistema republicano."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La anexión definitiva del territorio al Virreinato del Perú",
           "is_correct": false,
           "feedback": "Incorrecto. El Congreso ratificó la absoluta independencia de todo poder extranjero."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. La República adoptó posteriormente normas de libertad de vientres y abolición gradual."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El Congreso de 1813 convirtió a Paraguay en la pionera de las repúblicas del continente sudamericano.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,31 +463,31 @@
       "context": "Un historiador en Asunción analiza el impacto del mestizaje hispano-guaraní en la conformación de la identidad nacional.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La escasez de mujeres españolas propició la integración biológica y el pacto de parentesco (cuñadazgo) donde el idioma guaraní se preservó como lengua materna de los mestizos",
           "is_correct": true,
           "feedback": "Correcto. El guaraní fue transmitido por las madres nativas a sus hijos mestizos, convirtiéndose en el vehículo de la identidad colectiva e idioma nacional."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los españoles eliminaron por completo a la población aborigen impidiendo cualquier intercambio cultural",
           "is_correct": false,
           "feedback": "Incorrecto. En Paraguay no hubo exterminio total; la alianza inicial estructuró la sociedad mestiza."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los guaraníes obligaron a los conquistadores a olvidar el castellano adoptando la religión incaica",
           "is_correct": false,
           "feedback": "Incorrecto. Se mantuvo la religión católica y el bilingüismo, no el culto incaico."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La corona española prohibió la entrada de soldados en las tierras paraguayas durante tres siglos",
           "is_correct": false,
           "feedback": "Incorrecto. Paraguay fue el núcleo militar y administrativo colonizador del Río de la Plata."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El \"cuñadazgo\" tradicional entre hispanos y guaraníes cimentó una sociedad mestiza bilingüe donde la lengua vernácula se convirtió en el gran rasgo de cohesión cultural paraguaya.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "En el departamento de Misiones, los alumnos discuten las consecuencias socioeconómicas de la expulsión de los jesuitas en 1767 por orden de Carlos III.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El saqueo y la rápida decadencia económica de los pueblos por mala administración secular, provocando la dispersión de la población indígena",
           "is_correct": true,
           "feedback": "Correcto. Los administradores civiles y seculares no lograron mantener la prosperidad comunitaria jesuita, desintegrándose el sistema productivo misional."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El aumento de la producción textil y la transformación de las misiones en potencias industriales europeas",
           "is_correct": false,
           "feedback": "Incorrecto. Al contrario, las misiones cayeron en abandono y ruina económica progresiva."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La invasión y conquista pacífica de los pueblos por tropas del imperio ruso",
           "is_correct": false,
           "feedback": "Incorrecto. La expulsión fue ejecutada por la monarquía española sin intervención de potencias no ibéricas."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. La población indígena fue despojada o marginada perdiendo el resguardo colectivo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La expulsión de los jesuitas destruyó un modelo de desarrollo autónomo excepcional, dispersando a miles de artesanos y agricultores guaraníes.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,31 +553,31 @@
       "context": "Durante un seminario en Caazapá, se analiza la Nota del 20 de julio de 1811 enviada por la Junta de Asunción a la Junta de Buenos Aires.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El principio de independencia soberana de Paraguay y la voluntad de confederarse de igual a igual sin subordinación a Buenos Aires",
           "is_correct": true,
           "feedback": "Correcto. La Nota del 20 de julio es el documento cumbre de la diplomacia paraguaya que afirmó la autodeterminación y la soberanía absoluta de la provincia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La aceptación incondicional del Paraguay de someterse al virrey de Lima",
           "is_correct": false,
           "feedback": "Incorrecto. La nota reafirmó la ruptura con el sistema colonial y con cualquier autoridad tutelar extranjera."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La rendición de las armas paraguayas ante las tropas del rey Fernando VII",
           "is_correct": false,
           "feedback": "Incorrecto. Paraguay no se rindió a Fernando VII; fundó su propia gobernanza autónoma."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La renuncia definitiva al derecho de navegar el Río Paraná",
           "is_correct": false,
           "feedback": "Incorrecto. Exigió el libre tránsito y la eliminación de impuestos aduaneros abusivos porteños."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La Nota del 20 de julio de 1811 es considerada el acta de bautismo de la política exterior soberana del Paraguay independizado.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,19 +598,19 @@
       "context": "En Coronel Oviedo, se estudia el papel de los Cabildos como únicos órganos de representación local colonial en el Paraguay.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Administrar la justicia ordinaria, regular los precios y el abastecimiento, y velar por el orden y las obras públicas de la ciudad",
           "is_correct": true,
           "feedback": "Correcto. El Cabildo era la institución municipal vecinal encargada del gobierno local, policía, abastecimiento y justicia en primera instancia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Comandar la armada naval española en el Océano Atlántico",
           "is_correct": false,
           "feedback": "Incorrecto. Las flotas navales dependían del Ministerio de Marina y las almirantazgos reales en España."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Redactar los dogmas de la Iglesia Católica para toda Sudamérica",
           "is_correct": false,
           "feedback": "Incorrecto. El ámbito religioso correspondía a los concilios y diócesis eclesiásticas de Roma y América."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. La moneda era acuñada por las Casas de Moneda reales (ej. Potosí) y el papel moneda no existía en el Cabildo colonial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los Cabildos permitieron a los criollos ejercitar el autogobierno municipal, convirtiéndose en catalizadores del movimiento emancipador de 1811.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "Un historiador analiza en San Lorenzo el complot de 1820 descubierto por el Dr. Francia contra su gobierno.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La desarticulación de la elite porteñista y próceres militares mediante prisión y ejecuciones, consolidando el poder absoluto del Dictador Supremo",
           "is_correct": true,
           "feedback": "Correcto. El develamiento de la conspiración de 1820 provocó el encarcelamiento de los antiguos jefes revolucionarios y el endurecimiento del régimen francista."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La renuncia inmediata del Dr. Francia y el retorno del Paraguay a la corona española",
           "is_correct": false,
           "feedback": "Incorrecto. El Dr. Francia afianzó su control dictatorial sin abdicar ni reinstaurar la colonia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La firma del pacto de unión definitiva con las provincias de Brasil",
           "is_correct": false,
           "feedback": "Incorrecto. Francia mantuvo una celosa neutralidad y rechazo a pactos de anexión extranjera."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. La República continuó bajo la Dictadura Perpetua establecida desde 1816."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La severa represión de la conspiración de 1820 erradicó a la vieja clase latifundista colonial, consolidando un Estado fuerte de base campesina.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -823,31 +823,31 @@
       "context": "En Pilar, se analiza la política agraria del Estado colonial y republicano temprano en Paraguay.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Evitó la formación de una oligarquía feudal terrateniente hiperconcentrada, permitiendo el arraigo de una amplia clase campesina mestiza autosuficiente",
           "is_correct": true,
           "feedback": "Correcto. La disponibilidad de tierras públicas y comunales favoreció el desarrollo de campesinos independientes que sostuvieron la producción del país."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Provocó el colapso de toda producción de alimentos condenando a la población a la hambruna permanente",
           "is_correct": false,
           "feedback": "Incorrecto. Paraguay fue reconocido como la provisión de víveres (\"huerta de las Indias\") en el Río de la Plata."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Forzó a la totalidad de la población a convertirse en marineros mercantes de ultramar",
           "is_correct": false,
           "feedback": "Incorrecto. La población paraguaya se mantuvo con fuerte arraigo agrícola y ganadero en el territorio."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Facilitó la compra total del territorio patrio por consorcios mineros de Norteamérica",
           "is_correct": false,
           "feedback": "Incorrecto. La propiedad de la tierra se mantuvo bajo control criollo e indiano administrado localmente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La estructura agraria basada en la pequeña y mediana propiedad campesina fue el soporte social de la estabilidad política paraguaya.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Un seminario en la Universidad Nacional de Asunción concluye valorando el legado de la civilización hispano-guaraní en el Paraguay contemporáneo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El bilingüismo vivo (guaraní-castellano), la resiliencia comunitaria y el celoso sentimiento de soberanía e independencia territorial",
           "is_correct": true,
           "feedback": "Correcto. La fusión hispano-guaraní legó la cultura bilingüe, la resistencia cívica y un inquebrantable patriotismo de defensa de la patria."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La adopción de la arquitectura gótica medieval europea como estilo único de vivienda rural",
           "is_correct": false,
           "feedback": "Incorrecto. La vivienda rural tradicional (culata yovái) respondió a adaptaciones bioclimáticas locales."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. El guaraní floreció y se mantuvo invicto como seña identitaria fundamental de la nacionalidad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La síntesis hispano-guaraní fraguada durante casi tres siglos coloniales dio a luz a un pueblo con una personalidad cultural diferenciada en América Latina.",
       "difficulty": "10",
       "images": [],

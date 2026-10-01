@@ -58,13 +58,13 @@
       "context": "En Cochabamba, el estudiante Jhonny del Colegio Nacional Sucre analiza la concavidad de la función cuadrática de costos de distribución de energía.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es cóncava hacia abajo (las ramas se abren hacia abajo).",
           "is_correct": true,
           "feedback": "¡Correcto! Al ser a < 0, la parábola se abre hacia abajo y posee un punto máximo absoluto en su vértice."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es cóncava hacia arriba (las ramas se abren hacia arriba).",
           "is_correct": false,
           "feedback": "Incorrecto. Las parábolas se abren hacia arriba únicamente cuando el coeficiente cuadrático es positivo (a > 0)."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Toda parábola intercepta al eje y exactamente en el punto (0, c)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El coeficiente cuadrático a define la concavidad de la parábola. Si a < 0, la parábola es cóncava hacia abajo.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,31 +103,31 @@
       "context": "En El Alto, el estudiante Marisol del Colegio Nacional El Alto analiza la concavidad de la función cuadrática de costos de distribución de energía.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "(2, 1)",
           "is_correct": true,
           "feedback": "¡Correcto! x_v = -(-4)/(2*1) = 2. Evaluando f(2) = 2^2 - 4(2) + 5 = 1. Así, el vértice es (2, 1)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "(2, 5)",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste calcular de forma correcta la coordenada y del vértice, usando el término c directamente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "(-2, 17)",
           "is_correct": false,
           "feedback": "Incorrecto. Cometiste un error de signos al calcular x_v, resultando en -2 en lugar de 2."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "(4, 5)",
           "is_correct": false,
           "feedback": "Incorrecto. Usaste el coeficiente lineal b directamente sin dividir por 2a en el vértice."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La coordenada x del vértice es x_v = -b / (2a) = -(-4) / (2 * 1) = 2. Para la coordenada y: y_v = f(2) = 2^2 - 4(2) + 5 = 1. El vértice es (2, 1).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,31 +193,31 @@
       "context": "En Tarija, el estudiante Sonia del Colegio Nacional Bolivar analiza la concavidad de la función cuadrática de costos de distribución de energía.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "x = 5",
           "is_correct": true,
           "feedback": "¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 0",
           "is_correct": false,
           "feedback": "Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x = -5",
           "is_correct": false,
           "feedback": "Incorrecto. Error al aplicar los signos de los coeficientes en el vértice."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No se puede determinar",
           "is_correct": false,
           "feedback": "Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(10) / (2 * -1) = 5.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "En Potosí, el estudiante Yolanda del Colegio Nacional San Luis analiza la concavidad de la función cuadrática de costos de distribución de energía.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "x = 7",
           "is_correct": true,
           "feedback": "¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 0",
           "is_correct": false,
           "feedback": "Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(14) / (2 * -1) = 7.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -328,31 +328,31 @@
       "context": "En Cobija, el estudiante Jaime del Colegio Nacional Trinidad analiza la concavidad de la función cuadrática de costos de distribución de energía.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "x = 8",
           "is_correct": true,
           "feedback": "¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 0",
           "is_correct": false,
           "feedback": "Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x = -8",
           "is_correct": false,
           "feedback": "Incorrecto. Error al aplicar los signos de los coeficientes en el vértice."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No se puede determinar",
           "is_correct": false,
           "feedback": "Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(16) / (2 * -1) = 8.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "En Trinidad, el estudiante Marcela del Colegio Nacional Cobija analiza la concavidad de la función cuadrática de costos de distribución de energía.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "x = 9",
           "is_correct": true,
           "feedback": "¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 0",
           "is_correct": false,
           "feedback": "Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(18) / (2 * -1) = 9.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -418,31 +418,31 @@
       "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho analiza la concavidad de la función cuadrática de costos de distribución de energía.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "x = 10",
           "is_correct": true,
           "feedback": "¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 0",
           "is_correct": false,
           "feedback": "Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x = -10",
           "is_correct": false,
           "feedback": "Incorrecto. Error al aplicar los signos de los coeficientes en el vértice."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No se puede determinar",
           "is_correct": false,
           "feedback": "Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(20) / (2 * -1) = 10.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -553,31 +553,31 @@
       "context": "En El Alto, el estudiante Marisol del Colegio Nacional El Alto analiza la concavidad de la función cuadrática de costos de distribución de energía.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "x = 13",
           "is_correct": true,
           "feedback": "¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 0",
           "is_correct": false,
           "feedback": "Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x = -13",
           "is_correct": false,
           "feedback": "Incorrecto. Error al aplicar los signos de los coeficientes en el vértice."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No se puede determinar",
           "is_correct": false,
           "feedback": "Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(26) / (2 * -1) = 13.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,19 +598,19 @@
       "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín analiza la concavidad de la función cuadrática de costos de distribución de energía.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "x = 14",
           "is_correct": true,
           "feedback": "¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 0",
           "is_correct": false,
           "feedback": "Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x = -14",
           "is_correct": false,
           "feedback": "Incorrecto. Error al aplicar los signos de los coeficientes en el vértice."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(28) / (2 * -1) = 14.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -823,19 +823,19 @@
       "context": "En Trinidad, el estudiante Marcela del Colegio Nacional Cobija analiza la concavidad de la función cuadrática de costos de distribución de energía.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "x = 19",
           "is_correct": true,
           "feedback": "¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 0",
           "is_correct": false,
           "feedback": "Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x = -19",
           "is_correct": false,
           "feedback": "Incorrecto. Error al aplicar los signos de los coeficientes en el vértice."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(38) / (2 * -1) = 19.\n\n---",
       "difficulty": "10",
       "images": [],

@@ -13,19 +13,19 @@
       "context": "En el comedor escolar de un colegio de Pasto, una estudiante observa cómo mastica un plátano y siente que la saliva lo humedece antes de tragarlo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "En la boca",
           "is_correct": true,
           "feedback": "Correcto. La digestión inicia en la boca con la masticación y la saliva."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En el estómago",
           "is_correct": false,
           "feedback": "Incorrecto. El estómago continúa el proceso, pero no lo inicia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "En el intestino grueso",
           "is_correct": false,
           "feedback": "Incorrecto. Allí se absorbe agua y se forman las heces, no inicia la digestión."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Los pulmones pertenecen al sistema respiratorio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La digestión comienza en la boca, donde los dientes trituran el alimento y la saliva lo humedece e inicia la transformación de los almidones mediante una enzima llamada amilasa salival.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "En su casa de Barranquilla, un niño corre mientras come y su mamá le recuerda que debe masticar bien la comida antes de tragarla.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Tritura el alimento en trozos más pequeños y facilita la acción de las enzimas y la deglución",
           "is_correct": true,
           "feedback": "Correcto. Fragmentar el alimento aumenta la superficie de contacto con las enzimas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Calienta el alimento para que se cocine en la boca",
           "is_correct": false,
           "feedback": "Incorrecto. La boca no cocina el alimento."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. El sabor no es el objetivo de la masticación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Al masticar, los dientes reducen el alimento en partículas menores y aumentan su superficie, lo que permite que las enzimas actúen mejor y que el bolo alimenticio se deslice con facilidad hacia el esófago.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En un laboratorio del colegio de Tunja, los estudiantes colocan un pedazo de pan en un tubo con agua y otro con saliva diluida, ambos a la misma temperatura, y comparan los resultados después de media hora.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Que el pan en saliva se descomponga más porque la amilasa salival transforma el almidón en azúcares más simples",
           "is_correct": true,
           "feedback": "Correcto. La saliva contiene enzimas que actúan sobre el almidón."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que el pan en agua se descomponga más porque el agua es más pura",
           "is_correct": false,
           "feedback": "Incorrecto. El agua sola no contiene enzimas digestivas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que ambos se descompongan exactamente igual porque son el mismo pan",
           "is_correct": false,
           "feedback": "Incorrecto. La presencia de saliva marca la diferencia."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. La saliva sí modifica el almidón del pan."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La saliva contiene amilasa, una enzima que descompone el almidón en azúcares sencillos; por eso el pan en saliva se transforma más rápido que el pan sumergido únicamente en agua.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "Después de almorzar en el mercado de Sincelejo, un señor siente que los alimentos pasan por un tubo largo antes de llegar al estómago.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El esófago, que empuja el bolo alimenticio mediante movimientos musculares llamados movimientos peristálticos",
           "is_correct": true,
           "feedback": "Correcto. El peristaltismo impulsa el bolo por el esófago."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La tráquea, que lleva el alimento a los pulmones",
           "is_correct": false,
           "feedback": "Incorrecto. La tráquea conduce aire, no alimento."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El intestino delgado, que conecta la boca con el estómago",
           "is_correct": false,
           "feedback": "Incorrecto. El intestino delgado está después del estómago."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Las venas transportan sangre, no el bolo alimenticio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El esófago es un tubo muscular que conecta la faringe con el estómago; sus paredes se contraen y relajan de forma ordenada en movimientos peristálticos que empujan el bolo alimenticio, sin depender de la gravedad.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En una tienda de Cali, un joven compra jugo de naranja con mucha acidez y nota que su estómago produce jugos para digerir la comida.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Descompone los alimentos y reduce los microbios gracias a su acidez, formando el quimo",
           "is_correct": true,
           "feedback": "Correcto. El ácido clorhídrico y las enzimas digieren y protegen."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Enfría los alimentos para que no quemen el intestino",
           "is_correct": false,
           "feedback": "Incorrecto. El jugo gástrico no enfría; es ácido."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Absorbe todo el agua de los alimentos",
           "is_correct": false,
           "feedback": "Incorrecto. La mayor absorción de agua ocurre en el intestino grueso."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Impide que los alimentos bajen al intestino",
           "is_correct": false,
           "feedback": "Incorrecto. El estómago sí permite el paso del quimo al intestino."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El jugo gástrico contiene ácido clorhídrico y enzimas como la pepsina; su acidez descompone los alimentos, activa las enzimas y ayuda a eliminar microorganismos, transformando el bolo en una mezcla semilíquida llamada quimo.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Un equipo de estudiantes de un colegio de Manizales compara la longitud del intestino delgado y del intestino grueso y observa que el delgado es mucho más largo aunque más delgado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Su gran longitud y sus vellosidades aumentan la superficie de absorción para que los nutrientes pasen a la sangre",
           "is_correct": true,
           "feedback": "Correcto. Más superficie significa más absorción de nutrientes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es largo porque almacena los desechos durante muchos días",
           "is_correct": false,
           "feedback": "Incorrecto. El intestino grueso es el que almacena y forma las heces."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Su función principal es absorber nutrientes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El intestino delgado es el órgano principal de la absorción: su longitud y las vellosidades de su pared interna amplían enormemente la superficie disponible para que los nutrientes atraviesen hacia la sangre.",
       "difficulty": "8",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "Un médico de Bucaramanga explica a un paciente que, aunque el hígado y el páncreas no forman parte directa del tubo digestivo, sus secreciones sí llegan al intestino delgado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El hígado produce bilis que ayuda a digerir las grasas y el páncreas produce enzimas que descomponen grasas, proteínas y carbohidratos",
           "is_correct": true,
           "feedback": "Correcto. Sus secreciones vierten al intestino delgado y completan la digestión."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ambos producen sangre nueva para el sistema digestivo",
           "is_correct": false,
           "feedback": "Incorrecto. No producen sangre; vierten jugos digestivos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambos filtran el aire que respiramos al comer",
           "is_correct": false,
           "feedback": "Incorrecto. Eso no corresponde a su función digestiva."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ninguno participa en la digestión de los alimentos",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque no son parte del tubo, sí aportan jugos esenciales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El hígado y el páncreas son glándulas anexas: el hígado produce la bilis que emulsiona las grasas y el páncreas secreta enzimas que actúan sobre grasas, proteínas y carbohidratos; ambas secreciones llegan al intestino delgado para completar la digestión.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En una vereda de Nariño, una familia nota que cuando beben poca agua sus heces se vuelven duras y la evacuación es difícil.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El intestino grueso absorbe agua de los restos; si falta agua, absorbe más y las heces quedan secas y duras",
           "is_correct": true,
           "feedback": "Correcto. La absorción de agua en el colon endurece las heces."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El agua se convierte directamente en heces en el estómago",
           "is_correct": false,
           "feedback": "Incorrecto. Las heces se forman en el intestino grueso a partir de restos no digeridos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Beber poca agua produce más vitaminas en el colon",
           "is_correct": false,
           "feedback": "Incorrecto. La cantidad de agua no produce vitaminas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El intestino delgado deja de absorber nutrientes si falta agua",
           "is_correct": false,
           "feedback": "Incorrecto. El problema descrito se relaciona con el intestino grueso, no con la absorción de nutrientes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En el intestino grueso se absorbe gran parte del agua que queda en los restos alimenticios; cuando el cuerpo recibe poca agua, esa absorción se acentúa y las heces se endurecen, dificultando la evacuación.",
       "difficulty": "8",
       "images": [],

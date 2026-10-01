@@ -19,25 +19,25 @@
           "feedback": "Incorrecto. El texto aborda aspectos culturales, históricos y ecológicos del México contemporáneo, desvinculado de reglamentos contables coloniales."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El papel y la relevancia de Calzada de los Muertos en la dinámica de la región.",
           "is_correct": true,
           "feedback": "Correcto. El texto expone de manera explícita la trascendencia de Calzada de los Muertos para entender la problemática o fenómeno de la zona."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una teoría de la física moderna abstracta desprovista de registro empírico terrestre.",
           "is_correct": false,
           "feedback": "Incorrecto. El escrito se enfoca en realidades tangibles y de campo observables, no en teorías físicas abstractas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La prohibición de toda actividad de artes clásicas en las universidades públicas de la federación.",
           "is_correct": false,
           "feedback": "Incorrecto. No se menciona ninguna prohibición de índole académica artística en las facultades."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El fragmento señala textualmente y describe la relevancia de Calzada de los Muertos como el eje central de su exposición informativa.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "**Pasaje:** *Teotihuacán: el enigma de la traza urbana prehispánica*\n\nLa urbe prehispánica de Teotihuacán, fundada en el altiplano central de México, representa una de las cumbres de la planificación urbana y de la arquitectura monumental de Mesoamérica. Lejos de ser una aglomeración orgánica fortuita, la traza de la ciudad está rígidamente estructurada a partir de un eje norte-sur, conocido como la Calzada de los Muertos, orientado de manera precisa a 15.5 grados al este del norte geográfico. Esta orientación cósmica alinea las pirámides del Sol, de la Luna y de la Serpiente Emplumada con eventos astronómicos clave, como el paso cenital solar y los solsticios, reflejando una cosmología donde el diseño de la urbe imita el orden celeste. Su complejo tejido social integraba barrios pluriétnicos especializados en la talla de obsidiana, reflejando una intensa actividad comercial y un control de flujos de peregrinación de gran escala continental.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El desinterés absoluto de las comunidades ejidales locales por cuidar el patrimonio.",
           "is_correct": false,
           "feedback": "Incorrecto. Los ejidos y ciudadanos se organizan y participan activamente, no se atribuye desinterés absoluto en la lectura."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La confluencia de variables como 15.5 grados que alteran el equilibrio.",
           "is_correct": true,
           "feedback": "Correcto. El fragmento identifica expresamente a 15.5 grados como una variable causante o catalizadora de los cambios descritos."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Esto no se asocia de forma directa con los factores biofísicos o culturales detallados en la lectura."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El texto cita que 15.5 grados interviene como una de las causas directas en la evolución o alteración del fenómeno analizado.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "**Pasaje:** *Teotihuacán: el enigma de la traza urbana prehispánica*\n\nLa urbe prehispánica de Teotihuacán, fundada en el altiplano central de México, representa una de las cumbres de la planificación urbana y de la arquitectura monumental de Mesoamérica. Lejos de ser una aglomeración orgánica fortuita, la traza de la ciudad está rígidamente estructurada a partir de un eje norte-sur, conocido como la Calzada de los Muertos, orientado de manera precisa a 15.5 grados al este del norte geográfico. Esta orientación cósmica alinea las pirámides del Sol, de la Luna y de la Serpiente Emplumada con eventos astronómicos clave, como el paso cenital solar y los solsticios, reflejando una cosmología donde el diseño de la urbe imita el orden celeste. Su complejo tejido social integraba barrios pluriétnicos especializados en la talla de obsidiana, reflejando una intensa actividad comercial y un control de flujos de peregrinación de gran escala continental.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Un proceso aislado y estático que rechaza toda interacción o intercambio con el exterior.",
           "is_correct": false,
           "feedback": "Incorrecto. Concebir el sistema como cerrado contradice la interconexión dinámica de flujos descrita."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un flujo dinámico e interconectado, ejemplificado por el papel de diseño cósmico.",
           "is_correct": true,
           "feedback": "Correcto. El autor argumenta que diseño cósmico representa la interdependencia y dinamismo del sistema, que no puede entenderse de forma aislada."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. El texto exalta el desarrollo autónomo o la asimilación creativa de la realidad local de la federación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La dinámica de diseño cósmico sirve para ilustrar que los procesos estudiados operan como flujos interconectados de gran escala.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "**Pasaje:** *Teotihuacán: el enigma de la traza urbana prehispánica*\n\nLa urbe prehispánica de Teotihuacán, fundada en el altiplano central de México, representa una de las cumbres de la planificación urbana y de la arquitectura monumental de Mesoamérica. Lejos de ser una aglomeración orgánica fortuita, la traza de la ciudad está rígidamente estructurada a partir de un eje norte-sur, conocido como la Calzada de los Muertos, orientado de manera precisa a 15.5 grados al este del norte geográfico. Esta orientación cósmica alinea las pirámides del Sol, de la Luna y de la Serpiente Emplumada con eventos astronómicos clave, como el paso cenital solar y los solsticios, reflejando una cosmología donde el diseño de la urbe imita el orden celeste. Su complejo tejido social integraba barrios pluriétnicos especializados en la talla de obsidiana, reflejando una intensa actividad comercial y un control de flujos de peregrinación de gran escala continental.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Señalar una falla metodológica grave que invalida los argumentos del escrito.",
           "is_correct": false,
           "feedback": "Incorrecto. El autor valora positivamente este concepto, no lo presenta como un error de método."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Funcionar como un valioso barrios pluriétnicos para evaluar y diagnosticar el estado del equilibrio general del medio.",
           "is_correct": true,
           "feedback": "Correcto. Se introduce este término para ilustrar cómo ciertos elementos reflejan de manera fáctica las alteraciones o salud del sistema."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Al contrario, el uso excesivo de agroquímicos o el mercantilismo son señalados como factores de riesgo a regular."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El concepto de barrios pluriétnicos representa el instrumento metodológico o biológico para medir cuantitativa y cualitativamente el impacto del desarrollo sobre el entorno.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "**Pasaje:** *Teotihuacán: el enigma de la traza urbana prehispánica*\n\nLa urbe prehispánica de Teotihuacán, fundada en el altiplano central de México, representa una de las cumbres de la planificación urbana y de la arquitectura monumental de Mesoamérica. Lejos de ser una aglomeración orgánica fortuita, la traza de la ciudad está rígidamente estructurada a partir de un eje norte-sur, conocido como la Calzada de los Muertos, orientado de manera precisa a 15.5 grados al este del norte geográfico. Esta orientación cósmica alinea las pirámides del Sol, de la Luna y de la Serpiente Emplumada con eventos astronómicos clave, como el paso cenital solar y los solsticios, reflejando una cosmología donde el diseño de la urbe imita el orden celeste. Su complejo tejido social integraba barrios pluriétnicos especializados en la talla de obsidiana, reflejando una intensa actividad comercial y un control de flujos de peregrinación de gran escala continental.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El enfoque esencialista que busca encapsular la realidad en definiciones fijas e inmutables.",
           "is_correct": true,
           "feedback": "Correcto. El autor aboga por superar visiones estáticas de obsidiana volcánica para acoger un marco dinámico de transformación y resiliencia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La recolección manual y el saneamiento ecológico de las costas de la península de Yucatán.",
           "is_correct": false,
           "feedback": "Incorrecto. El saneamiento manual es valorado como una medida paliativa necesaria, no es cuestionado por el autor de esta sección."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. La variable lingüística del voseo rioplatense no es objeto de debate en este fragmento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Frente a obsidiana volcánica, el autor rechaza la rigidez conceptual, proponiendo esquemas abiertos que asimilen la constante evolución histórica del medio.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,25 +289,25 @@
           "feedback": "Incorrecto. Pavimentar anula la recarga pluvial o destruye el dosel forestal, empeorando el estrés ambiental de la zona."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Creación de corredores y esquemas de custodia que involucren a un arquitecto urbano de forma activa.",
           "is_correct": true,
           "feedback": "Correcto. Involucrar a un arquitecto urbano garantiza que la conservación del recurso se asocie con el bienestar social de las familias de la demarcación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Privatización total de las zonas de amortiguamiento para ceder el control a corporativos extranjeros.",
           "is_correct": false,
           "feedback": "Incorrecto. Entregar los bienes comunes a corporativos extranjeros contradice la apología del resguardo y acceso social abierto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Suspensión de las clases de educación superior de la SEP de manera permanente.",
           "is_correct": false,
           "feedback": "Incorrecto. No se asocia con el cierre permanente de facultades o cese de clases escolares de la federación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Involucrar activamente a un arquitecto urbano en el resguardo de la cuenca o bosque garantiza la viabilidad social y ética del proyecto sustentable.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Incorrecto. Las prácticas ecológicas y sustentables de autosustento pueden generar ingresos alternativos valiosos de ecoturismo o silvicultura."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Aplicando una estrategia compatible con el equilibrio del entorno y la subsistencia social.",
           "is_correct": true,
           "feedback": "Correcto. Harmonizar la generación de valor económico con el cuidado del patrimonio natural o simbólico es la clave de la sustentabilidad cívica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fomentando el uso desmedido de pesticidas agroquímicos o la centralización urbana de los recursos.",
           "is_correct": false,
           "feedback": "Incorrecto. Su acción reduce pesticidas u opone resistencia a la centralización, protegiendo lo local de forma activa."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. El aprovechamiento ejidal sustentable es legal y respaldado por la normatividad federal de la federación vigente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El rol de un geografía económica encarna la transición ética indispensable: el autosustento respetuoso que custodia la resiliencia de su región.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,13 +379,13 @@
           "feedback": "Incorrecto. Se trata de procesos socioeconómicos extractivos físicos intensivos, ajenos a la imitación literaria de la academia."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La deparación espontánea de los monumentos históricos de la Nueva España.",
           "is_correct": false,
           "feedback": "Incorrecto. No se asocia directamente con la deparación espontánea de monumentos de la época virreinal colonial de México."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un fallo sistémico común donde el ritmo de extracción o impacto supera la capacidad de asimilación del sistema.",
           "is_correct": true,
           "feedback": "Correcto. Ambos casos demuestran que vulnerar las tasas de recarga o reposición desestabiliza y colapsa de forma acelerada la resiliencia del medio."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. El colapso de polinizadores o acuíferos no se produce por revocar planes de estudio de filosofía."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La comparación con Paseo de la Reforma resalta el principio de ecología sistémica: la explotación desmedida compromete a los vectores de estabilidad general.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "**Pasaje:** *Teotihuacán: el enigma de la traza urbana prehispánica*\n\nLa urbe prehispánica de Teotihuacán, fundada en el altiplano central de México, representa una de las cumbres de la planificación urbana y de la arquitectura monumental de Mesoamérica. Lejos de ser una aglomeración orgánica fortuita, la traza de la ciudad está rígidamente estructurada a partir de un eje norte-sur, conocido como la Calzada de los Muertos, orientado de manera precisa a 15.5 grados al este del norte geográfico. Esta orientación cósmica alinea las pirámides del Sol, de la Luna y de la Serpiente Emplumada con eventos astronómicos clave, como el paso cenital solar y los solsticios, reflejando una cosmología donde el diseño de la urbe imita el orden celeste. Su complejo tejido social integraba barrios pluriétnicos especializados en la talla de obsidiana, reflejando una intensa actividad comercial y un control de flujos de peregrinación de gran escala continental.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La solidificación inmediata de la roca caliza permeable del Caribe.",
           "is_correct": false,
           "feedback": "Incorrecto. La contracción del suelo arcilloso o deparación forestal no solidifica la caliza marina caribeña, mezclando de forma absurda los temas geográficos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La degradación severa de luz solar natural, comprometiendo la biodiversidad y la calidad de vida de las familias mexicanas.",
           "is_correct": true,
           "feedback": "Correcto. Ignorar los límites de carga biofísica o social de la zona conduce a fallos graves en cascada que deterioran el patrimonio común y aumentan la vulnerabilidad."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Los problemas biofísicos no tienen la propiedad legal de suspender regulaciones impositivas del agro."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La degradación continuada de luz solar natural ilustra que la omisión de límites ecológicos o cívicos genera daños acumulativos irreversibles para el porvenir nacional.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Incorrecto. Limitar la investigación debilita la toma de decisiones de la federación y el desarrollo integral de las regiones."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Garantizar esquemas de inclusión orientados a solventar el problema de sesgos eurocéntricos de forma viable.",
           "is_correct": true,
           "feedback": "Correcto. Aplicar la tesis crítica exige que lingüista del CONACYT actúe de manera directa para corregir exclusiones, democratizando los recursos o el arte."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Privatizar completamente el patrimonio arqueológico e histórico para depararlo a la explotación hotelera comercial.",
           "is_correct": false,
           "feedback": "Incorrecto. El pasaje se opone a la mercantilización excluyente y defiende el carácter público de los bienes comunes."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Las variables lingüísticas de la península o de Argentina carecen de pertinencia cívica para resolver el centralismo o desabasto local."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Delegar programas de inclusión a lingüista del CONACYT concretiza el ideal de justicia distributiva frente a sesgos eurocéntricos, mitigando brechas geográficas y socioeconómicas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Incorrecto. El desarrollo mecánico agroindustrial es un asunto de comercio, desvinculado de la exclusión social descrita en el texto."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Genera condiciones inequitativas donde las familias periféricas ven vulnerado su derecho debido a sesgos eurocéntricos.",
           "is_correct": true,
           "feedback": "Correcto. La asimetría (digital, de museos o de salud) margina a amplios sectores por razones de geografía y economía, limitando su bienestar y desarrollo humano."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fuerza a toda la población del norte de la federación a hablar exclusivamente en lenguas mesoamericanas antiguas.",
           "is_correct": false,
           "feedback": "Incorrecto. La problemática no impone el uso lingüístico indígena, sino que restringe el ejercicio de los derechos de la población de los estados."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Las playas caribeñas y el sargazo no guardan relación lógica con la conectividad de los estados de la República."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La brecha provocada por sesgos eurocéntricos segrega a la población, privando a los estados periféricos de oportunidades básicas de educación, conectividad, salud o consumo estético.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "**Pasaje:** *El desciframiento del sistema de escritura maya*\n\nDurante siglos, el sistema de escritura maya tallado en estelas de piedra, vasijas de cerámica y códices de papel amate permaneció en un enigma impenetrable. Los investigadores occidentales del siglo XIX, bajo un sesgo de superioridad eurocéntrica, teorizaban que los glifos eran de carácter meramente pictográfico o ideográfico directo, negando que una cultura mesoamericana hubiese desarrollado un sistema de escritura complejo capaz de registrar el habla abstracta. El viraje definitivo ocurrió gracias al lingüista Yuri Knorozov, quien en la década de 1950 postuló que la escritura maya no era alfabética ni puramente ideográfica, sino logosilábica, basada en una combinación de logogramas (signos para palabras completas) y fonogramas (signos silábicos). Este descubrimiento, corroborado al aplicar el alfabeto fonético de Landa, permitió leer las inscripciones originales y revelar la historia dinástica de alianzas, conquistas y rituales religiosos de las cortes de las tierras bajas mayas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Los habitantes de los estados de la República carecían de la deparación intelectual para asimilar la técnica.",
           "is_correct": false,
           "feedback": "Incorrecto. El autor rechaza cualquier sesgo de superioridad o desprecio intelectual biológico de capacidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La capital o el modelo de mercado tradicional constituía el único polo idóneo para validar y gestionar logosilábica.",
           "is_correct": true,
           "feedback": "Correcto. El centralismo (institucional o de mercado) presupone que solo el núcleo central concentra la legitimidad, recursos y criterios de validación de logosilábica de la federación."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Las exploraciones subacuáticas de cenotes no forman parte del debate de este fragmento educativo o de servicios."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La macrocefalia institucional asume una jerarquía de legitimidad, concentrando en el centro del país la gestión de logosilábica en detrimento de los estados de la República.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorrecto. Las deparaciones líricas de paralelismo o antítesis novohispanas no inciden en la viabilidad de resolver problemas contemporáneos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La inmensa inversión en infraestructura y lectura dinástica especializada requerida para garantizar condiciones seguras de operación en zonas remotas de la República.",
           "is_correct": true,
           "feedback": "Correcto. Señalar que la descentralización o saneamiento demanda tendidos de red complejos, capacitación y costos elevados introduce variables de realismo técnico y financiero indispensable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La preferencia de los creadores locales de viajar al extranjero para comercializar sus productos.",
           "is_correct": false,
           "feedback": "Incorrecto. La elección de viaje de profesionales particulares no afecta las variables logísticas de la obra pública de la federación."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. No constituye un planteamiento real ni una deparación pertinente al diseño de políticas sustentables de la federación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Destacar los costos y la complejidad física de instalar lectura dinástica técnica en parajes agrestes matiza el optimismo de la reforma, mostrando que es un proceso gradual.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Incorrecto. Al contrario, se exalta el deparado valor de la herencia local, del agro y del bienestar social colectivo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La apropiación local y autogestión de escritura abstracta fortalece de forma directa la cohesión cívica y la soberanía comunitaria.",
           "is_correct": true,
           "feedback": "Correcto. Dar control a la colectividad sobre su propia realidad (salud, educación, cultura) fomenta el autorrespeto, el cuidado mutuo y la cohesión social de la federación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cada municipio de la federación debe dictar de forma obligatoria sus propias leyes mercantiles de aduana arancelaria.",
           "is_correct": false,
           "feedback": "Incorrecto. El marco de los proyectos comunitarios es cultural, educativo e identitario, sin relación con aduanas o aranceles mercantiles."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Se busca justamente descentralizar los apoyos y recursos, no acentuar el monopolio de la capital."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El empoderamiento periférico asume que los ciudadanos no deben ser meros receptores pasivos de directrices del centro, sino gestores autónomos de escritura abstracta en su demarcación.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,13 +694,13 @@
           "feedback": "Incorrecto. El autor emplea vocablos metafóricos de asfixia o estancamiento intelectual de ideas, no de ventilación de aire de salas de arte."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Ahoga la diversidad, precariza a la periferia y subordina el bienestar a criterios de eurocentrismo.",
           "is_correct": true,
           "feedback": "Correcto. Limitar la planeación a criterios puramente utilitarios de mercado o de centralismo de la capital estrangula el dinamismo y las oportunidades del resto de la federación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Impide el tránsito de camiones mercantiles de carga en la aduana fronteriza del norte.",
           "is_correct": false,
           "feedback": "Incorrecto. El flujo de aduana norteña es un asunto comercial de transporte, ajeno al debate de centralismo de servicios de la capital."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. La variable lingüística del voseo no forma parte del debate de centralización o sesgo mercantil institucional de México."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La concentración de la validación o del abasto bajo el sesgo de eurocentrismo anula el desarrollo periférico, forzando a los talentos y familias a migrar o a quedar marginadas de los deparaciones comunes.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Incorrecto. El autor critica el centralismo y valora de forma sumamente positiva las deparaciones de equidad distributiva."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Respalda de forma decidida la transición hacia esquemas que pongan el recurso en diálogo con Yuri Knorozov de manera integrada.",
           "is_correct": true,
           "feedback": "Correcto. El tono general hacia museos itinerantes, deparación de conectividad rural, educación a distancia e inclusión de dreamers es aprobatorio, exaltando su impacto en la cohesión social."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Recomienda deparar toda actividad científica o biológica del CONACYT en la península de Yucatán.",
           "is_correct": false,
           "feedback": "Incorrecto. Valora de hecho la investigación científica y biológica como herramientas clave de diagnóstico ecológico y de resguardo público de la zona."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Esta propuesta privatizadora contradice la apología del bien común y resguardo social de la federación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El autor adopta un tono comprometido con las reformas que integran Yuri Knorozov, considerándolas indispensables para consolidar un federalismo equitativo y democrático.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Incorrecto. El centralismo hídrico agota severamente el subsuelo del Valle de México; no beneficia al subsuelo de Michoacán."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El centralismo genera fallos de doble vía, mermando materialmente a la capital y excluyendo cívicamente a la periferia de epigrafía mesoamericana.",
           "is_correct": true,
           "feedback": "Correcto. El desequilibrio agota físicamente los límites ecológicos del centro (hundimientos, sobreexplotación) e impide el disfrute de epigrafía mesoamericana en la periferia nacional."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La deparación de los museos de la capital es la única vía idónea para proteger las áreas de desove de tortugas de Quintana Roo.",
           "is_correct": false,
           "feedback": "Incorrecto. No existe nexo causal que ligue la ubicación de museos artísticos en la capital con el desove de tortugas marinas costeras caribeñas."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. El sistema hídrico de abasto de agua no alimenta físicamente a las salas de arte del INBAL, mezclando de forma absurda los temas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Ambos textos revelan que el centralismo es un modelo insostenible: desborda los límites ecológicos locales en el centro y restringe el capital de epigrafía mesoamericana en la periferia nacional.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -874,13 +874,13 @@
           "feedback": "Incorrecto. El desalojo forzado de familias es una medida autoritaria e inviable que viola los derechos humanos y el equilibrio de la federación."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Transitar hacia una planeación federalista y equitativa que respete los límites de carga ecológicos locales y democratice el acceso a bienes mediante saberes científicos.",
           "is_correct": true,
           "feedback": "Correcto. Integrar criterios de resguardo biofísico y descentralización de la deparación garantiza un desarrollo cívico justo, respetuoso de los recursos y de la dignidad de todos los estados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Autorizar la deparación con asfalto impermeable de las áreas boscosas de recarga pluvial de la capital.",
           "is_correct": false,
           "feedback": "Incorrecto. Edificar asfalto impermeable sobre áreas boscosas de recarga pluvial anula la infiltración y agrava severamente el hundimiento de la cuenca."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. La soberanía de planeación de México debe responder a los derechos de sus propios deparados, no a corporativos extranjeros de telecomunicaciones."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La deparación de fondo reclama conciliar el resguardo de la biosfera en el centro con políticas de deparación para toda la población del territorio de la federación.",
       "difficulty": "10",
       "images": [],

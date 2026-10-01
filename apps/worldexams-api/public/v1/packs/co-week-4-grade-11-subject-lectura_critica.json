@@ -13,13 +13,13 @@
       "context": "Manifiesto del Creacionismo de Vicente Huidobro: \"El poeta es un pequeño Dios. No cantéis a la rosa, oh poetas, hacedla florecer en el poema\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La poesía debe crear realidades autónomas e inéditas mediante la palabra, rechazando la mera imitación de la naturaleza.",
           "is_correct": true,
           "feedback": "Huidobro proclama que el poeta no debe describir la naturaleza existente sino inventar mundos verbales independientes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El poeta debe limitarse a catalogar las especies florales autóctonas de América Latina.",
           "is_correct": false,
           "feedback": "El manifiesto no busca descripciones botánicas ni catálogos ilustrados."
@@ -37,7 +37,7 @@
           "feedback": "El creacionismo promueve la metáfora audaz como vehículo de creación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El creacionismo de Huidobro defiende la autonomía radical del arte: el poema no imita al mundo, crea su propio universo.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "Poemario *Suenan timbres* (1926) del colombiano Luis Vidales: \"Un timbre es un gallo de cobre que canta en la puerta del edificio\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Desacraliza la solemnidad de la poesía romántica tradicional introduciendo el humor y la cotidianeidad urbana.",
           "is_correct": true,
           "feedback": "Vidales rompe con el lenguaje engolado decimonónico al incorporar objetos de la modernidad técnica con desacralizadora ironía."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Rinde homenaje a los sonetos del Siglo de Oro español manteniendo la métrica en alejandrinos.",
           "is_correct": false,
           "feedback": "Los Nuevos rechazaron precisamente la métrica rancia y el retoricismo clásico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Exige la abolición inmediata de la energía eléctrica en la Bogotá de los años veinte.",
           "is_correct": false,
           "feedback": "El poema celebra la modernidad urbana y sus artefactos, no propone un retorno rural."
@@ -83,7 +83,7 @@
           "feedback": "El poeta utiliza la metáfora humorística intencionalmente como recurso estético vanguardista."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Luis Vidales y Los Nuevos renovaron la lírica colombiana al incorporar el entorno urbano moderno mediante la metáfora lúdica.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "Fragmento de *Trilce* (1922) del peruano César Vallejo: \"Quién hace tanta bulla y ni deja / testar las islas que van quedando\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Manifestar la angustia existencial y la fractura del sujeto ante el dolor humano, desarticulando la lógica verbal convencional.",
           "is_correct": true,
           "feedback": "Vallejo tuerce la sintaxis tradicional para expresar una dimensión de dolor e inconformidad que desborda el lenguaje cotidiano."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Enseñar las reglas grammaticales básicas a los estudiantes de secundaria.",
           "is_correct": false,
           "feedback": "La poesía hermética de *Trilce* es una indagación estética compleja, no un texto escolar."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Copiar las fórmulas del romanticismo francés del siglo XIX.",
           "is_correct": false,
           "feedback": "Vallejo se distancia radicalmente del romanticismo hacia una vanguardia profundamente personal."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Garantizar que el poema pueda ser cantado como un himno patriótico oficial.",
           "is_correct": false,
           "feedback": "La disrupción de *Trilce* resiste la métrica uniforme o la solemnidad de los himnos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "*Trilce* representa la cima de la vanguardia hispanoamericana al reinventar la sintaxis para volcar la fractura existencial del poeta.",
       "difficulty": "4",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "En el ensayo *La deshumanización del arte* (1925) de José Ortega y Gasset, se analiza cómo el arte joven prescinde de la anécdota humana sentimental.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El rechazo del realismo folletinesco para enfocarse en el placer estético puro de la forma, la metáfora y la ironía.",
           "is_correct": true,
           "feedback": "Ortega define que el arte nuevo no busca hacer llorar al espectador con dramas cotidianos, sino ofrecer un goce estético autónomo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La crueldad física ejercida por los artistas contra los espectadores en las galerías de arte.",
           "is_correct": false,
           "feedback": "No se refiere a violencia física sino a la distancia respecto al dramatismo sentimental decimonónico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La sustitución de los poetas por máquinas de vapor en los recitales públicos.",
           "is_correct": false,
           "feedback": "Es una categoría filosófica sobre la forma artística y el distanciamiento crítico."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La prohibición de pintar o describir figuras humanas en cualquier obra visual.",
           "is_correct": false,
           "feedback": "Significa purificación de la forma artística frente al realismo naturalista."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La \"deshumanización\" en las vanguardias alude a la ruptura con el pathos sentimentalista para priorizar la exploración formal pura.",
       "difficulty": "6",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "En la revista *Mandarina* publicada en Bogotá por el grupo vanguardista \"Los Nuevos\", se incluye una sátira sobre los poetas académicos colombianos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Funciona como plataforma combativa de debate, difusión de manifiestos y cohesión de la nueva sensibilidad estética.",
           "is_correct": true,
           "feedback": "Las revistas de vanguardia fueron el espacio vital de experimentación, polémica y aglutinamiento de las jóvenes generaciones."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es un boletín comercial destinado a la venta de terrenos en la sabana de Bogotá.",
           "is_correct": false,
           "feedback": "Tenía un propósito artístico y cultural beligerante, lejos de la especulación inmobiliaria."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es una publicación oficial del Ministerio de Educación de la época.",
           "is_correct": false,
           "feedback": "Las revistas vanguardistas eran independientes e iconoclastas frente al establecimiento oficial."
@@ -405,7 +405,7 @@
           "feedback": "Eran publicaciones desacralizadoras que polemizaban con el conservadurismo vigente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las revistas de vanguardia (*Proa*, *Martín Fierro*, *Mandarina*) fueron los catalizadores fundamentales de la polémica y la renovación literaria.",
       "difficulty": "6",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "En el poema *Altazor* (1931) de Vicente Huidobro, el Canto VII desarticula las palabras en balbuceos y sonoras sílabas invencionadas: \"Ala viva no la mueva / La lluvia cae sobre el río / Altazor desciende\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El límite trágico del lenguaje poético que, tras liberarse de la norma, desemboca en la pura sonoridad y el silencio primal.",
           "is_correct": true,
           "feedback": "En *Altazor*, el viaje en paracaídas simboliza la agonía de la palabra que busca nombrar lo inefable hasta pulverizarse en música pura."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El fracaso involuntario del autor por haber perdido sus apuntes en una estación de tren.",
           "is_correct": false,
           "feedback": "Es una de las cumbres premeditadas de la poesía de vanguardia hispanoamericana."
@@ -451,7 +451,7 @@
           "feedback": "La disolución del lenguaje en *Altazor* posee una dimensión metafísica y trágica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El Canto VII de *Altazor* representa la parábola de la palabra poética que, al buscar la libertad absoluta, se atomiza en vibración pura.",
       "difficulty": "6",
       "images": [],
@@ -473,19 +473,19 @@
       "context": "Comparamos la metáfora tradicional del Modernismo (Rubén Darío) con la metáfora vanguardista (César Vallejo / Oliverio Girondo).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Abandona la ornamentación preciosa y la armonía musical para convertirse en un choque ilógico e impactante entre realidades distantes.",
           "is_correct": true,
           "feedback": "La metáfora vanguardista crea un cortocircuito mental que no busca la belleza decorativa sino la revelación insólita."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Pasa a ser el único recurso prohibido por las normas internacionales de la literatura.",
           "is_correct": false,
           "feedback": "La vanguardia multiplicó el uso de la metáfora convirtiéndola en el motor del poema."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se limita a describir cisnes blancos en estanques de mármol de manera idéntica al Modernismo.",
           "is_correct": false,
           "feedback": "La vanguardia rechazó la cisneida y los cisnes de mármol por considerarlos clisés gastados."
@@ -497,7 +497,7 @@
           "feedback": "La metáfora vanguardista busca la intuición directa del lector sin explicaciones doctas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La metáfora vanguardista sustituyó la analogía armoniosa por la yuxtaposición insólita y la sorpresa poética.",
       "difficulty": "8",
       "images": [],
@@ -703,31 +703,31 @@
       "context": "En el poemario *Poeta en Nueva York* de Federico García Lorca (escrito durante su estancia en EE. UU. en 1929), se denuncia el dolor de la urbe mecanizada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Una pesadilla alienante donde la máquina, el dinero y la deshumanización asfixian la naturaleza y la ternura humana.",
           "is_correct": true,
           "feedback": "Lorca utiliza imágenes alucinadas para expresar el trauma del capitalismo voraz y la angustia de las minorías en la urbe."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una celebración entusiasta de las finanzas y de la arquitectura de la Bolsa de Wall Street.",
           "is_correct": false,
           "feedback": "El texto es una protesta amarga y dolorosa contra la deshumanización mercantil."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un libro de viajes turístico con recomendaciones de hoteles y restaurantes.",
           "is_correct": false,
           "feedback": "Es una de las cumbres líricas de la protesta existencial y social de la vanguardia en español."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Un manual para la construcción de rascacielos de acero.",
           "is_correct": false,
           "feedback": "Utiliza metáforas de angustia y sangre para criticar la tiranía del hormigón."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "*Poeta en Nueva York* utiliza la fuerza del surrealismo para componer una desgarradora elegía contra la alienación del mundo industrializado.",
       "difficulty": "8",
       "images": [],
@@ -749,13 +749,13 @@
       "context": "En el poema *La higuera* de Juana de Ibarbourou o los versos de Delmira Agustini, la vanguardia femenina desafía la recatada lírica doméstica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La afirmación del deseo erótico femenino, la autonomía del cuerpo y el cuestionamiento del mandato patriarcal.",
           "is_correct": true,
           "feedback": "Agustini, Storni e Ibarbourou irrumpieron con una voz audaz que reivindicó la pasión y la subjetividad femenina sin tapujos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La renuncia a escribir poesía para dedicarse exclusivamente a las labores del hogar.",
           "is_correct": false,
           "feedback": "Desafiaron los límites asignados publicando obras de inmensa potencia creadora."
@@ -773,7 +773,7 @@
           "feedback": "Escribieron con una riqueza metafórica y una audacia formal sobresalientes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La vanguardia femenina hispanoamericana liberó la voz de la mujer al nombrar la erótica, el cuerpo y el pensamiento sin tutelas.",
       "difficulty": "10",
       "images": [],
@@ -795,19 +795,19 @@
       "context": "En el manifiesto del movimiento Antropófago de Brasil (1928), Oswald de Andrade proclama: \"Tupi or not tupi, that is the question\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "En devorar la cultura europea importada, digerirla críticamente y combinarla con los mitos indígenas para crear un arte nacional autónomo.",
           "is_correct": true,
           "feedback": "Oswald de Andrade propone la digestión crítica del saber extranjero para fundar una identidad brasileña moderna y mestiza."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En la recomendación literal de practicar el canibalismo en las ciudades del Amazonas.",
           "is_correct": false,
           "feedback": "Es una metáfora estética y filosófica sobre la asimilación cultural no un acto físico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "En la prohibición absoluta de traducir obras escritas en lengua portuguesa.",
           "is_correct": false,
           "feedback": "Buscaba dialogar con las vanguardias del mundo desde la propia especificidad iberoamericana."
@@ -819,7 +819,7 @@
           "feedback": "El juego con Shakespeare (\"Tupi or not tupi\") es una apropiación irónica y desacralizadora."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La antropofagia cultural brasileña teorizó una forma audaz de descolonización artística mediante la asimilación y transformación del arte universal.",
       "difficulty": "10",
       "images": [],
@@ -841,19 +841,19 @@
       "context": "Se evalúa la vigencia de la estética vanguardista en las expresiones artísticas contemporáneas (música urbana, diseño gráfico, grafiti).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El rompimiento de las fronteras entre géneros, la libertad de montaje y la desacralización de los soportes tradicionales.",
           "is_correct": true,
           "feedback": "El arte actual mantiene el espíritu de montaje, collage y libertad expresiva inaugurado por las vanguardias de hace un siglo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La obligación estricta de usar métrica consonante en todas las publicaciones digitales.",
           "is_correct": false,
           "feedback": "Las vanguardias acabaron con la tiranía de la métrica tradicional."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La prohibición de usar imágenes en los periódicos de circulación nacional.",
           "is_correct": false,
           "feedback": "Abrieron la puerta al diseño gráfico audaz y la integración verbo-icónica."
@@ -865,7 +865,7 @@
           "feedback": "Proclamaron el dinamismo y la búsqueda de lenguajes vivos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las vanguardias legaron la libertad conceptual, la hibridación de lenguajes y la continua actitud de experimentación crítica.",
       "difficulty": "10",
       "images": [],
@@ -887,19 +887,19 @@
       "context": "Al resumir el papel histórico de las vanguardias hispanoamericanas, un crítico concluye: \"No fueron una copia de Europa, sino la invención de nuestra propia modernidad\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Apropiaron las técnicas de experimentación para expresar las contradicciones, la memoria y la identidad de América Latina con voz propia.",
           "is_correct": true,
           "feedback": "La vanguardia en nuestro continente (Huidobro, Vallejo, Asturias, De Greiff) refundó la palabra para nombrar nuestra propia realidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demuestra que los poetas hispanoamericanos se limitaron a traducir textos franceses sin cambiar una palabra.",
           "is_correct": false,
           "feedback": "La crítica reconoce la inmensa originalidad y potencia de nuestras vanguardias."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Afirma que las vanguardias solo existieron en los libros de geografía oficial.",
           "is_correct": false,
           "feedback": "Fueron movimientos vitales que transformaron la literatura y las artes."
@@ -911,7 +911,7 @@
           "feedback": "Reivindica la centralidad de la poesía como indagación sobre el ser y la cultura."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las vanguardias hispanoamericanas constituyeron un momento de madurez soberana donde la innovación técnica sirvió para nombrar la especificidad del Nuevo Mundo.",
       "difficulty": "10",
       "images": [],

@@ -13,13 +13,13 @@
       "context": "Un estudiante en un colegio de Lima repasa temas de Poblamiento de América y Altas Culturas Preincas para el examen de admisión universitario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Teoría Inmigracionista Asiática (Alex Hrdlicka)",
           "is_correct": true,
           "feedback": "Correcto. Alex Hrdlicka planteó la ruta asiática a través del Estrecho de Bering favorecida por la eustacia glacial."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Teoría Australiana (Méndez Correia)",
           "is_correct": false,
           "feedback": "Incorrecto. Méndez Correia postuló la ruta por la Antártida hasta la Patagonia."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Paul Rivet propuso el origen melanesio y polinesio transoceánico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La Teoría Asiática de Alex Hrdlicka es la más aceptada por las evidencias antropológicas y geográficas de la glaciación de Wisconsin.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,31 +103,31 @@
       "context": "Un estudiante en un colegio de Arequipa repasa temas de Poblamiento de América y Altas Culturas Preincas para el examen de admisión universitario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Teocracia basada en el control del agua y el culto a dioses terroríficos (Lanzón Monolítico)",
           "is_correct": true,
           "feedback": "Correcto. Chavín fue un estado teocrático impulsado por sacerdotes astrónomos que ejercían control mediante ritos y deidades felinicas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Imperio militar expansivo con ciudades fortificadas",
           "is_correct": false,
           "feedback": "Incorrecto. El carácter miliciano urbano se desarrolló posteriormente en culturas del Horizonte Medio como Wari."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Confederación democrática de ayllus autónomos",
           "is_correct": false,
           "feedback": "Incorrecto. En Chavín existía una marcada jerarquía teocrática dominada por sacerdotes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Estado estrictamente comercial sin templos religiosos",
           "is_correct": false,
           "feedback": "Incorrecto. La religión y la astronomía ceremonial eran la columna vertebral de Chavín."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Chavín expandió su influencia mediante un sistema teocrático donde los sacerdotes utilizaban esculturas monolíticas y el monopolio del conocimiento astronómico-agrícola.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Un estudiante en un colegio de Trujillo repasa temas de Poblamiento de América y Altas Culturas Preincas para el examen de admisión universitario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Sus finos y complejos mantos textiles con bordados policromos",
           "is_correct": true,
           "feedback": "Correcto. Paracas Necrópolis es mundialmente célebre por sus fardos funerarios y sus mantos de lana y algodón policromos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La invención de la metalurgia del bronce",
           "is_correct": false,
           "feedback": "Incorrecto. El bronce fue perfeccionado principalmente por las culturas Mochica, Tiwanaku y Wari."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Kuelap es una obra arquitectónica monumental de la cultura Chachapoyas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Paracas Necrópolis logró la máxima expresión textil del mundo prehispánico con fibras de alpaca/vicuña y tintes naturales inolvidables.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,19 +193,19 @@
       "context": "Un estudiante en un colegio de Chiclayo repasa temas de Poblamiento de América y Altas Culturas Preincas para el examen de admisión universitario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El canal de La Cumbre",
           "is_correct": true,
           "feedback": "Correcto. El canal de La Cumbre alcanzaba más de 110 km y trasladaba aguas entre valles del norte."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El acueducto de Cantalloc",
           "is_correct": false,
           "feedback": "Incorrecto. Los acueductos subterráneos de Cantalloc fueron construidos por la cultura Nasca."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El sistema de andenerías de Colca",
           "is_correct": false,
           "feedback": "Incorrecto. Los andenes del Colca son terrazas agrícolas andinas desarrolladas en Arequipa."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. El canal de Cumbemayo es una obra megalítica de la zona de Cajamarca."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los moches dominaron la ingeniería hidráulica costera construyendo represas como San José y canales como La Cumbre.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,19 +238,19 @@
       "context": "Un estudiante en un colegio de Iquitos repasa temas de Poblamiento de América y Altas Culturas Preincas para el examen de admisión universitario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Un gigantesco calendario astronómico con fines agrícolas",
           "is_correct": true,
           "feedback": "Correcto. María Reiche dedicó su vida a teorizar que las líneas eran observaciones astronómicas de solsticios y constelaciones para la siembra."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Caminos de procesión militar del imperio Wari",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponden a caminos militares sino a trazos ceremoniales y astronómicos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sistemas de canalización superficial de agua de mar",
           "is_correct": false,
           "feedback": "Incorrecto. Los geoglifos están trazados en la pampa desértica y no conducían agua salada."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Eran representaciones colectivas de carácter sagrado y astronómico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "María Reiche sostuvo que las figuras geométricas y zoomorfas de Nasca servían de calendario astronómico-agrícola.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,31 +283,31 @@
       "context": "Un estudiante en un colegio de Piura repasa temas de Poblamiento de América y Altas Culturas Preincas para el examen de admisión universitario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Wari",
           "is_correct": true,
           "feedback": "Correcto. Wari unificó los Andes centrales integrando aportes urbanos de Huarpa, religiosos de Tiwanaku y textiles/cerámicos de Nasca."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Tiahuanaco",
           "is_correct": false,
           "feedback": "Incorrecto. Tiwanaku fue un estado teocrático-colonizador altiplánico, precursor ideológico pero centrado en el Collao."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Chimú",
           "is_correct": false,
           "feedback": "Incorrecto. Chimú fue un reino costeño del Intermedio Tardío con capital en Chan Chan."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Inca",
           "is_correct": false,
           "feedback": "Incorrecto. El Tahuantinsuyo incaico constituye el Horizonte Tardío posterior."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Wari es considerado por la arqueología peruana (Luis Guillermo Lumbreras) como el primer imperio urbano y militarista panandino.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Un estudiante en un colegio de Puno repasa temas de Poblamiento de América y Altas Culturas Preincas para el examen de admisión universitario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Acceder a diversidad de productos de diferentes altitudes mediante colonias agrícolas",
           "is_correct": true,
           "feedback": "Correcto. John Murra demostró que las etnias andinas instalaban enclaves en la costa, valles y yunga para autoabastecerse."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Imponer tributación monetaria obligatoria a las poblaciones sometidas",
           "is_correct": false,
           "feedback": "Incorrecto. En los Andes no existía la moneda; la economía se basaba en la reciprocidad y redistribución."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. En la puna alta (sobre 3800 msnm) se cultivaba papa y quinua, mientras que el maíz requería valles templados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El control vertical de pisos ecológicos permitió a las sociedades andinas superar los límites de su hábitat natural.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,31 +418,31 @@
       "context": "Un estudiante en un colegio de Ayacucho repasa temas de Poblamiento de América y Altas Culturas Preincas para el examen de admisión universitario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Guitarrero II (Áncash)",
           "is_correct": true,
           "feedback": "Correcto. Thomas Lynch descubrió en la cueva de Guitarrero evidencias tempranas de cultivo de leguminosas y hortalizas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Kotosh (Huánuco)",
           "is_correct": false,
           "feedback": "Incorrecto. Kotosh corresponde al Arcaico Superior, famoso por el Templo de las Manos Cruzadas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Piquimachay (Ayacucho)",
           "is_correct": false,
           "feedback": "Incorrecto. Piquimachay evidencia pobladores del periodo Lítico o cazadores-recolectores inferiores."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Huaca Prieta (La Libertad)",
           "is_correct": false,
           "feedback": "Incorrecto. Huaca Prieta pertenece al Arcaico Superior con textiles precerámicos y mate pirograbado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Guitarrero II en el Callejón de Huaylas representa el tránsito temprano hacia la domesticación de plantas u horticultura en los Andes.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,19 +463,19 @@
       "context": "Un estudiante en un colegio de Lima repasa temas de Poblamiento de América y Altas Culturas Preincas para el examen de admisión universitario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Paracas (fase Paracas Cavernas)",
           "is_correct": true,
           "feedback": "Correcto. Los cirujanos paracas utilizaban cuchillos de obsidiana (tumi) y anestésicos naturales para operar traumatismos óseos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Chavín",
           "is_correct": false,
           "feedback": "Incorrecto. Chavín destacó en la escultura lítica ceremonial, no en cirugía médica avanzada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Tallán",
           "is_correct": false,
           "feedback": "Incorrecto. Los tallanes fueron etnias del norte peruano especializadas en el comercio marítimo."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Recuay se distinguió por su cerámica arquitectónica y escultura en piedra en Áncash."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Paracas Cavernas es reconocida mundialmente por sus exitosas intervenciones quirúrgicas de trepanación y deformaciones craneanas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,31 +508,31 @@
       "context": "Un estudiante en un colegio de Cusco repasa temas de Poblamiento de América y Altas Culturas Preincas para el examen de admisión universitario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Jaguar, serpiente y ave de rapiña",
           "is_correct": true,
           "feedback": "Correcto. La tríada sagrada chavinoide integraba colmillos de felino, cabellos de serpiente y garras de arpía."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Camélido sudamericano y pez de agua dulce",
           "is_correct": false,
           "feedback": "Incorrecto. Los camélidos eran representados en Tiwanaku y el ámbito ganadero altoandino."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Zorro costero y perro viringo",
           "is_correct": false,
           "feedback": "Incorrecto. El perro peruano aparece retratado en cerámicas moche y chiribaya posteriores."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Caimán amazónico exclusivamente sin rasgos felínicos",
           "is_correct": false,
           "feedback": "Incorrecto. El caimán aparece en el Templo Viejo, pero siempre hibridado con colmillos de jaguar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La iconografía Chavín se caracteriza por la combinación de elementos del jaguar amazónico, la serpiente y las aves rapaces.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Un estudiante en un colegio de Trujillo repasa temas de Poblamiento de América y Altas Culturas Preincas para el examen de admisión universitario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Pikillacta (Cusco) y Cajamarquilla (Lima)",
           "is_correct": true,
           "feedback": "Correcto. Pikillacta y Cajamarquilla funcionaban como centros administrativos provinciales del imperio Wari."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Chan Chan (La Libertad) y Paramonga (Lima)",
           "is_correct": false,
           "feedback": "Incorrecto. Chan Chan y Paramonga pertenecen a los reinos Chimú y Chinchay posteriores."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Cahuachi es Nasca y Sipán es un centro señorial Mochica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Wari descentralizó el control imperial edificando centros administrativos amurallados (Pikillacta, Huiracochapampa) conectados por caminos.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,19 +643,19 @@
       "context": "Un estudiante en un colegio de Chiclayo repasa temas de Poblamiento de América y Altas Culturas Preincas para el examen de admisión universitario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Mochica",
           "is_correct": true,
           "feedback": "Correcto. La tumba real del Señor de Sipán en Huaca Rajada (Lambayeque) reveló el nivel de orfebrería y jerarquía de un gobernante moche."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Chimú",
           "is_correct": false,
           "feedback": "Incorrecto. Las tumbas chimúes se concentran en las ciudadelas de Chan Chan."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cupisnique",
           "is_correct": false,
           "feedback": "Incorrecto. Cupisnique es una cultura formativa pre-moche del norte peruano."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. El Señor de Sicán (Huaca del Oro) fue descubierto por Izumi Shimada en Batán Grande."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El hallazgo de Sipán demostró la rica jerarquía teocrático-militar y el dominio metalúrgico de los gobernantes moches.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,31 +733,31 @@
       "context": "Un estudiante en un colegio de Piura repasa temas de Poblamiento de América y Altas Culturas Preincas para el examen de admisión universitario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Kotosh (Huánuco)",
           "is_correct": true,
           "feedback": "Correcto. Seiichi Izumi descubrió en Kotosh las célebres Manos Cruzadas modeladas en barro sobre el nicho del templo ceremonial."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sechín (Áncash)",
           "is_correct": false,
           "feedback": "Incorrecto. Sechín exhibe fachadas monolíticas esculpidas con guerreros y sacrificados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Chavín de Huántar (Áncash)",
           "is_correct": false,
           "feedback": "Incorrecto. Chavín posee las Cabezas Clavas y el Lanzón Monolítico."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Caral (Lima)",
           "is_correct": false,
           "feedback": "Incorrecto. Caral presenta altares con fogones centrales para quemar ofrendas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El Templo de las Manos Cruzadas de Kotosh es uno de los recintos religiosos más antiguos de la sierra central (Arcaico Superior).\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,31 +778,31 @@
       "context": "Un estudiante en un colegio de Huancayo repasa temas de Poblamiento de América y Altas Culturas Preincas para el examen de admisión universitario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El comercio mercantil marítimo en balsas a gran escala trayendo spondylus desde el Ecuador",
           "is_correct": true,
           "feedback": "Correcto. Los mercaderes de Chincha navegaban hasta Guayaquil para intercambiar la concha sagrada Spondylus por cobre y textiles."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La minería aurífera subterránea en la meseta del Collao",
           "is_correct": false,
           "feedback": "Incorrecto. La minería de oro y plata altiplánica estaba ligada a los reinos aymaras."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La construcción exclusiva de andenes en las laderas amazónicas",
           "is_correct": false,
           "feedback": "Incorrecto. La agricultura en andenes amazónicos caracterizó a los Chachapoyas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La cría intensiva de caballos y ganado vacuno",
           "is_correct": false,
           "feedback": "Incorrecto. El ganado vacuno y equino fue introducido al Perú por los invasores españoles en el siglo XVI."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La cultura Chincha desarrolló un próspero imperio comercial marítimo y terrestre conectando el sur andino con las costas del Ecuador.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Un estudiante en un colegio de Puno repasa temas de Poblamiento de América y Altas Culturas Preincas para el examen de admisión universitario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Mochica",
           "is_correct": true,
           "feedback": "Correcto. La Señora de Cao demostró el rol supremo político y religioso de las mujeres en la sociedad Mochica del norte peruano."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sikán",
           "is_correct": false,
           "feedback": "Incorrecto. Sikán gobernó el valle de La Leche con deidades como la máscara de ojos alados."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Chachapoyas construyó mausoleos de piedra como Revash y sarcófagos como Karajía."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La Señora de Cao en el complejo El Brujo revolucionó la visión del poder femenino en la historia de las civilizaciones prehispánicas.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,31 +868,31 @@
       "context": "Un estudiante en un colegio de Ayacucho repasa temas de Poblamiento de América y Altas Culturas Preincas para el examen de admisión universitario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Los temblores, terremotos y la vida subterránea",
           "is_correct": true,
           "feedback": "Correcto. El oráculo de Pachacámac en el valle de Lurín era temido y consultado porque se creía que con sus movimientos sacudía la tierra."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El trueno, la lluvia y la tempestad (Illapa)",
           "is_correct": false,
           "feedback": "Incorrecto. Illapa era el dios incaico del rayo y la tormenta agrícola."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La agricultura de la papa y el ichu altoandino",
           "is_correct": false,
           "feedback": "Incorrecto. Las deidades de la papa eran las mamitas o apus tutelares regionales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La guerra naval y la navegación costera",
           "is_correct": false,
           "feedback": "Incorrecto. Pachacámac era un oráculo supremo telúrico, respetado por costeños y serranos por su poder sísmico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Pachacámac fue el oráculo más influyente de la costa central peruana, respetado incluso por los incas tras su incorporación al imperio.\n\n---",
       "difficulty": "10",
       "images": [],

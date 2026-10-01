@@ -13,13 +13,13 @@
       "context": "Um estudante em São Paulo revisa o princípio fundamental da contagem para o ENEM.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Se uma decisão tem m opções e outra tem n opções, o total de combinações é m × n",
           "is_correct": true,
           "feedback": "Correto: o princípio multiplicativo combina as escolhas por multiplicação."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se uma decisão tem m opções e outra tem n opções, o total é m + n",
           "is_correct": false,
           "feedback": "Incorreto: a adição só se aplica a casos mutuamente exclusivos."
@@ -37,7 +37,7 @@
           "feedback": "Incorreto: a subtração não representa a combinação de escolhas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "O princípio fundamental da contagem (multiplicativo) diz que, se uma escolha pode ser feita de m modos e, para cada um deles, outra de n modos, o total de possibilidades é m × n.",
       "difficulty": "4",
       "images": [],
@@ -103,31 +103,31 @@
       "context": "Um arquiteto no Rio de Janeiro organiza a fila de apresentação de projetos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Arranjo ou permutação",
           "is_correct": true,
           "feedback": "Correto: quando a ordem altera o resultado, usam-se arranjo ou permutação."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Combinação",
           "is_correct": false,
           "feedback": "Incorreto: a combinação é usada quando a ordem não importa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Amplitude",
           "is_correct": false,
           "feedback": "Incorreto: amplitude é um conceito da estatística, não de contagem."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Média ponderada",
           "is_correct": false,
           "feedback": "Incorreto: média ponderada não é uma técnica de contagem."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Arranjos e permutações consideram a ordem dos elementos, enquanto combinações a ignoram. A escolha entre elas depende de a ordem alterar ou não o resultado.",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Um estudante em Brasília calcula o fatorial de um número pequeno.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "25",
           "is_correct": false,
           "feedback": "Incorreto: 25 é o quadrado de 5, não o fatorial."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "120",
           "is_correct": true,
           "feedback": "Correto: 5! = 5 × 4 × 3 × 2 × 1 = 120."
@@ -172,7 +172,7 @@
           "feedback": "Incorreto: 60 seria o produto 5 × 4 × 3, ignorando os fatores 2 e 1."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "O fatorial de n é o produto dos inteiros positivos de 1 até n: 5! = 5 × 4 × 3 × 2 × 1 = 120.",
       "difficulty": "4",
       "images": [],
@@ -199,25 +199,25 @@
           "feedback": "Incorreto: 7 seria a soma 3 + 4, mas as escolhas são combinadas por multiplicação."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "12",
           "is_correct": true,
           "feedback": "Correto: pelo princípio multiplicativo, 3 × 4 = 12."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "9",
           "is_correct": false,
           "feedback": "Incorreto: 9 seria 3 × 3, ignorando os 4 modelos de calça."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "34",
           "is_correct": false,
           "feedback": "Incorreto: 34 não corresponde a nenhuma operação entre 3 e 4."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Cada uma das 3 camisas pode ser combinada com cada uma das 4 calças: 3 × 4 = 12 combinações.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Incorreto: 16 seria 4², o que valeria se cada posição aceitasse repetição."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "24",
           "is_correct": true,
           "feedback": "Correto: trata-se de uma permutação: 4! = 24."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "12",
           "is_correct": false,
           "feedback": "Incorreto: 12 seria 4 × 3, ignorando as demais posições."
@@ -307,7 +307,7 @@
           "feedback": "Incorreto: 8 seria 4 × 2, sem correspondência com a permutação."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Organizar 4 livros distintos é uma permutação de 4 elementos: 4! = 4 × 3 × 2 × 1 = 24.",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Um professor em Manaus organiza a escolha de atletas para as duas primeiras posições de uma prova.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "10",
           "is_correct": false,
           "feedback": "Incorreto: 10 seria a combinação C(5,2), que ignora a ordem dos lugares."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "20",
           "is_correct": true,
           "feedback": "Correto: o 1º lugar tem 5 opções e o 2º tem 4: 5 × 4 = 20."
@@ -397,7 +397,7 @@
           "feedback": "Incorreto: 15 seria C(5,2) × 3, sem fundamento no problema."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Como 1º e 2º lugares são posições distintas, a ordem importa: A(5,2) = 5 × 4 = 20.",
       "difficulty": "6",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "Um engenheiro em Porto Alegre analisa a quantidade de placas de veículos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "26³ × 10⁴",
           "is_correct": true,
           "feedback": "Correto: cada letra tem 26 opções e cada algarismo 10, com repetição permitida."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "26 × 10",
           "is_correct": false,
           "feedback": "Incorreto: 26 × 10 consideraria apenas uma letra e um algarismo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "26³ + 10⁴",
           "is_correct": false,
           "feedback": "Incorreto: as escolhas são simultâneas e se combinam por multiplicação."
@@ -532,7 +532,7 @@
           "feedback": "Incorreto: somar quantidades de posições não conta combinações."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Com repetição permitida, cada uma das 3 posições de letra admite 26 opções e cada uma das 4 posições de algarismo admite 10: 26³ × 10⁴.",
       "difficulty": "8",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Incorreto: 16 seria 4², tratando as posições como independentes com repetição."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "24",
           "is_correct": true,
           "feedback": "Correto: as 4 letras são distintas, então o número é 4! = 24."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "12",
           "is_correct": false,
           "feedback": "Incorreto: 12 seria 4 × 3, contando apenas duas posições."
@@ -577,7 +577,7 @@
           "feedback": "Incorreto: 8 não corresponde à permutação de 4 letras distintas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Como todas as letras de AMOR são distintas, o número de anagramas é a permutação de 4 elementos: 4! = 24.",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorreto: 84 é o total de comissões de 3 entre as 9 pessoas, sem restrição."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "74",
           "is_correct": true,
           "feedback": "Correto: total (C(9,3)=84) menos as comissões só de homens (C(5,3)=10): 84 − 10 = 74."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "60",
           "is_correct": false,
           "feedback": "Incorreto: 60 resultaria de combinar C(4,2) × C(5,1) com o caso de exatamente 2 mulheres apenas."
@@ -622,7 +622,7 @@
           "feedback": "Incorreto: 50 não corresponde ao cálculo de complemento das comissões sem mulheres."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Do total de comissões, subtraem-se as formadas apenas por homens: C(9,3) − C(5,3) = 84 − 10 = 74.",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Um professor em São José dos Campos propõe anagramas com letras repetidas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "120",
           "is_correct": false,
           "feedback": "Incorreto: 120 seria 6! ÷ 6, descontando apenas uma repetição."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "60",
           "is_correct": true,
           "feedback": "Correto: 6!/(3!·2!) = 720/12 = 60."
@@ -667,7 +667,7 @@
           "feedback": "Incorreto: 720 é 6!, contando os anagramas como se todas as letras fossem distintas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "A palavra BANANA tem 6 letras, com o A repetido 3 vezes e o N repetido 2 vezes: 6!/(3!·2!) = 720/12 = 60.",
       "difficulty": "8",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "Incorreto: 56 seria o número de jogos em dois turnos (8 × 7)."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "28",
           "is_correct": true,
           "feedback": "Correto: cada jogo é uma dupla de times: C(8,2) = (8 × 7)/2 = 28."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "16",
           "is_correct": false,
           "feedback": "Incorreto: 16 seria 8 × 2, sem relação com o confronto entre todos os pares."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "64",
           "is_correct": false,
           "feedback": "Incorreto: 64 seria 8², contando pares ordenados com repetição."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Cada jogo corresponde a uma dupla de times, sem ordem: C(8,2) = 28 jogos.",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Um diretor em Belo Horizonte monta uma comissão com composição definida por gênero.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "30",
           "is_correct": true,
           "feedback": "Correto: C(4,2) × C(5,1) = 6 × 5 = 30."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "34",
           "is_correct": false,
           "feedback": "Incorreto: 34 incluiria também a comissão com 3 mulheres (C(4,3) = 4)."
@@ -757,7 +757,7 @@
           "feedback": "Incorreto: 20 seria C(4,2) × C(5,1) com um dos fatores calculado errado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Escolhem-se 2 mulheres entre 4 e 1 homem entre 5: C(4,2) × C(5,1) = 6 × 5 = 30.",
       "difficulty": "10",
       "images": [],
@@ -829,25 +829,25 @@
           "feedback": "Incorreto: 720 é o total de anagramas sem restrição (6!)."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "240",
           "is_correct": true,
           "feedback": "Correto: o bloco (AI) com as 4 consoantes forma 5 itens: 5! × 2! = 120 × 2 = 240."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "120",
           "is_correct": false,
           "feedback": "Incorreto: 120 consideraria as vogais em ordem fixa, sem o fator 2!."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "360",
           "is_correct": false,
           "feedback": "Incorreto: 360 seria 6!/2, tratando as vogais como se fossem iguais entre si."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Tratando (AI) como um bloco, há 5 itens a permutar (bloco + 4 consoantes): 5! = 120. Como A e I podem trocar de posição dentro do bloco (2 ordens), o total é 120 × 2 = 240.",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Um técnico em São Paulo divide o elenco em times para um treino tático.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "5775",
           "is_correct": true,
           "feedback": "Correto: C(12,4) × C(8,4) × C(4,4) / 3! = (495 × 70 × 1)/6 = 5775."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "34650",
           "is_correct": false,
           "feedback": "Incorreto: 34650 é o cálculo sem dividir pelas 3! ordenações dos times."
@@ -892,7 +892,7 @@
           "feedback": "Incorreto: 495 é apenas C(12,4), a escolha do primeiro time."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Escolhem-se os times em sequência, contando cada divisão 3! vezes (as permutações dos times). O número é (C(12,4) × C(8,4) × C(4,4))/3! = (495 × 70)/6 = 5775.",
       "difficulty": "10",
       "images": [],

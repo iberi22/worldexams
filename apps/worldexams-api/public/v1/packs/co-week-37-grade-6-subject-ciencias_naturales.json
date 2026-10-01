@@ -13,19 +13,19 @@
       "context": "En un colegio de Medellín, la profesora explica que el agua de lluvia que cae sobre las laderas del valle de Aburrá baja por las quebradas hasta los ríos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Evaporación, condensación, precipitación y retorno al suelo y a los ríos",
           "is_correct": true,
           "feedback": "Correcto. Ese es el recorrido continuo del agua en la naturaleza."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Condensación, precipitación, evaporación y congelamiento permanente del agua",
           "is_correct": false,
           "feedback": "Incorrecto. El agua no se congela de forma permanente en el ciclo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Precipitación, evaporación, condensación y almacenamiento únicamente en el mar",
           "is_correct": false,
           "feedback": "Incorrecto. El agua también se almacena en lagos, suelos, seres vivos y glaciares."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. La fotosíntesis no es una etapa del ciclo del agua."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El ciclo del agua es continuo: el calor del Sol evapora el agua de mares, ríos y plantas; el vapor sube, se enfría y se condensa formando nubes; luego el agua cae como precipitación, se infiltra en el suelo o escurre hacia los ríos y vuelve al mar. La energía del Sol y la gravedad son los motores de este proceso.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "En un páramo cerca de Tunja, los estudiantes observan que hacia el mediodía se forman nubes sobre los frailejones y más tarde cae la lluvia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Porque el vapor de agua se enfría al ascender y se condensa en gotitas muy pequeñas que se agrupan y flotan",
           "is_correct": true,
           "feedback": "Correcto. La condensación del vapor forma las nubes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque el agua hierve en la atmósfera por acción del Sol",
           "is_correct": false,
           "feedback": "Incorrecto. En la atmósfera el vapor se enfría, no hierve."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque las nubes son humo producido por las fábricas de la región",
           "is_correct": false,
           "feedback": "Incorrecto. Las nubes se forman por condensación del vapor de agua."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque el agua de los ríos sube líquida por el aire hasta el cielo",
           "is_correct": false,
           "feedback": "Incorrecto. El agua sube como vapor tras evaporarse, no como líquido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Cuando el aire húmedo asciende, la temperatura disminuye y el vapor de agua se condensa sobre partículas diminutas suspendidas, formando gotitas o cristales de hielo que dan origen a las nubes. Si las gotas crecen lo suficiente, caen como lluvia; si el aire es muy frío, pueden caer como granizo o nieve.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En una salida de campo a un bosque del Chocó, los estudiantes comparan cuánta agua se infiltra en dos parcelas vecinas: una cubierta de vegetación y otra sin plantas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "En la parcela con vegetación se infiltra más agua, porque las raíces y la hojarasca dejan poros que facilitan el paso del agua al suelo",
           "is_correct": true,
           "feedback": "Correcto. La cobertura vegetal favorece la infiltración."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En la parcela sin vegetación se infiltra más agua, porque el suelo desnudo es más poroso",
           "is_correct": false,
           "feedback": "Incorrecto. Sin vegetación el suelo se compacta y la infiltración disminuye."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Parte importante del agua se infiltra y alimenta los acuíferos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La vegetación aumenta la infiltración: la hojarasca protege el suelo del impacto de la lluvia y las raíces forman canales; así el agua penetra y recarga los acuíferos, mientras que en suelos desnudos la lluvia lava la capa fértil y escurre rápidamente, lo que también provoca erosión.",
       "difficulty": "6",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En una planta de tratamiento de un municipio del Cauca, el operario agrega sulfato de aluminio al agua captada para que las partículas pequeñas que están dispersas se unan entre sí.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La coagulación y floculación, que agrupan las partículas pequeñas en otras más grandes para poder retirarlas con mayor facilidad",
           "is_correct": true,
           "feedback": "Correcto. Al unir las partículas se facilita su separación posterior."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La desinfección, que elimina los microorganismos con cloro",
           "is_correct": false,
           "feedback": "Incorrecto. La desinfección usa desinfectantes como el cloro, no sulfato de aluminio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La captación, que consiste en tomar el agua del río o del embalse",
           "is_correct": false,
           "feedback": "Incorrecto. La captación es la primera etapa, cuando el agua entra a la planta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La distribución, que lleva el agua ya tratada a las casas",
           "is_correct": false,
           "feedback": "Incorrecto. La distribución es la etapa final del proceso."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En la potabilización, el agua pasa por captación, desarenado, coagulación y floculación, sedimentación, filtración y desinfección. El sulfato de aluminio se usa en la coagulación: desestabiliza las partículas que están suspendidas para que se unan en flóculos más grandes, que luego se sedimentan y finalmente se retiran en los filtros.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En una comunidad de La Guajira que no cuenta con acueducto, las familias recogen agua de lluvia en tanques y la hierven antes de consumirla.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Para eliminar los microorganismos que pueden causar enfermedades transmitidas por el agua",
           "is_correct": true,
           "feedback": "Correcto. El calor del hervor destruye bacterias y otros microorganismos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Para agregarle minerales y vitaminas al agua",
           "is_correct": false,
           "feedback": "Incorrecto. Hervir no agrega nutrientes al agua."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. El agua de lluvia no contiene sal y hervir no la separa así."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Hervir el agua durante unos minutos es una forma sencilla de desinfección casera: el calor destruye microorganismos causantes de enfermedades como la diarrea. Es una medida útil cuando no hay agua potable, pero debe complementarse con el almacenamiento limpio y tapado para evitar que el agua se vuelva a contaminar.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En Barranquilla, los estudiantes toman dos muestras del agua de un caño: una muestra turbia y otra que pasó por un filtro de arena, grava y carbón.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El filtro retiene las partículas sólidas que estaban en suspensión y por eso el agua se ve más clara, aunque todavía puede contener microorganismos",
           "is_correct": true,
           "feedback": "Correcto. La filtración aclara el agua, pero la desinfección es un paso aparte."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El filtro elimina todos los microorganismos y por eso el agua queda potable",
           "is_correct": false,
           "feedback": "Incorrecto. La filtración retira partículas, pero no garantiza la desinfección."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El filtro cambia el agua contaminada en agua destilada",
           "is_correct": false,
           "feedback": "Incorrecto. La destilación es otro proceso y requiere evaporación y condensación."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. La filtración disminuye visiblemente la turbiedad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La filtración hace pasar el agua por capas de material poroso que atrapan las partículas sólidas y reducen la turbiedad; el carbón activado retiene además algunas sustancias que causan color y olor. Sin embargo, los microorganismos son muy pequeños y su eliminación requiere una desinfección posterior, como la cloración.",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En Cali, los estudiantes comparan el caudal del río Cauca en la época de lluvias y en la época seca del año.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "En la época de lluvias aumenta la precipitación y el agua escurre hacia el río, mientras que en la época seca llueve menos y el caudal disminuye",
           "is_correct": true,
           "feedback": "Correcto. El caudal depende de las lluvias que caen en la cuenca."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En la época seca el río recibe más agua porque las plantas absorben menos",
           "is_correct": false,
           "feedback": "Incorrecto. En la época seca lo que disminuye es la precipitación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El caudal del río no cambia nunca a lo largo del año",
           "is_correct": false,
           "feedback": "Incorrecto. Los ríos colombianos varían su caudal según las lluvias."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. El calor favorece la evaporación y reduce el agua disponible."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El caudal de un río depende del agua que entra a su cuenca: la precipitación alimenta los nacimientos, los afluentes y la escorrentía superficial. Colombia tiene épocas de lluvias y épocas secas influidas por la zona de convergencia intertropical y por fenómenos como El Niño, que reducen las lluvias y hacen bajar el nivel de los ríos y embalses.",
       "difficulty": "8",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "Un municipio colombiano con presupuesto limitado en COP debe elegir una medida para asegurar el agua potable de sus habitantes durante las próximas décadas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Proteger las cuencas y los páramos que abastecen el acueducto, reducir las pérdidas de la red y mantener el tratamiento, porque así se sostiene la oferta de agua a largo plazo",
           "is_correct": true,
           "feedback": "Correcto. Cuidar la fuente, la red y el tratamiento garantiza agua segura y sostenible."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Tumbar el bosque de la cuenca alta para obtener más tierras de cultivo",
           "is_correct": false,
           "feedback": "Incorrecto. La deforestación reduce y contamina las fuentes de agua."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Suspender el tratamiento del agua para ahorrar dinero",
           "is_correct": false,
           "feedback": "Incorrecto. Sin tratamiento aumenta el riesgo de enfermedades en la población."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Esperar a que la situación mejore sin cambiar nada en la cuenca ni en la red",
           "is_correct": false,
           "feedback": "Incorrecto. Sin acciones, el deterioro de las fuentes y las pérdidas aumentan."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluar esta decisión exige comparar el costo inmediato con la sostenibilidad del servicio: la protección de páramos y cuencas asegura la cantidad y la calidad del agua, la reducción de pérdidas en la red aprovecha mejor el recurso y el tratamiento garantiza que sea segura para el consumo. Juntas, estas medidas protegen la salud y la disponibilidad de agua para las generaciones futuras.",
       "difficulty": "10",
       "images": [],

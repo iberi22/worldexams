@@ -13,13 +13,13 @@
       "context": "In a classroom in Cúcuta, a chart shows tall, short, young and old people.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Table, chair and board.",
           "is_correct": false,
           "feedback": "Table, chair and board are classroom objects, not descriptions."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Tall, short, young and old.",
           "is_correct": true,
           "feedback": "Tall, short, young and old all describe how people look or are."
@@ -37,7 +37,7 @@
           "feedback": "Dog, cat and fish are animals, not descriptions of people."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Esta pregunta presenta adjetivos básicos para describir personas en inglés. También se conecta cada palabra con retratos del salón cucuteño.",
       "difficulty": "4",
       "images": [],
@@ -111,25 +111,25 @@
           "feedback": "\"Have\" is plural and does not agree with the singular he."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Has.",
           "is_correct": true,
           "feedback": "\"Has\" agrees with the third person singular he."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Having.",
           "is_correct": false,
           "feedback": "\"Having\" needs am, is or are and is not correct alone here."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Had.",
           "is_correct": false,
           "feedback": "\"Had\" is past tense and the description is in the present."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El verbo has describe características con he, she e it en presente. También se practica describiendo a un amigo llanero.",
       "difficulty": "6",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "In Mocoa, students read: \"My friend Ana is ten years old. She has long hair. She likes to sing vallenato. She is very happy.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "To play soccer.",
           "is_correct": false,
           "feedback": "The text never mentions soccer in Ana's description."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "To cook arepas.",
           "is_correct": false,
           "feedback": "The text never mentions cooking in Ana's description."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "To swim daily.",
           "is_correct": false,
           "feedback": "The text never mentions swimming in Ana's description."
         },
         {
-          "letter": "D",
+          "letter": "A",
           "text": "To sing vallenato.",
           "is_correct": true,
           "feedback": "The text says Ana likes to sing vallenato."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": "Leer retratos exige localizar el gusto mencionado en el texto. También se aplica con una amiga que canta vallenato en Mocoa.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "At home in Apartadó, twins play: \"I am happy today. My sister is sad because her kite broke.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Sad.",
           "is_correct": true,
           "feedback": "Sad is the opposite of happy and describes the sister."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Glad.",
           "is_correct": false,
           "feedback": "Glad means the same as happy, not the opposite."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Tired.",
           "is_correct": false,
           "feedback": "Tired means needing rest, not the opposite of happy."
@@ -221,7 +221,7 @@
           "feedback": "Hungry means needing food, not the opposite of happy."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los opuestos como happy y sad describen sentimientos de los niños. También se asocian con juegos de hermanos en Apartadó.",
       "difficulty": "6",
       "images": [],
@@ -249,13 +249,13 @@
           "feedback": "Only Pedro is tall and quiet; Lucía is short and talkative."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "They are opposite in size, character and taste.",
           "is_correct": true,
           "feedback": "The notes contrast tall-quiet-reading with short-talkative-dancing."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Both like exactly the same activity.",
           "is_correct": false,
           "feedback": "Pedro likes reading while Lucía likes dancing."
@@ -267,7 +267,7 @@
           "feedback": "Both notes clearly describe Pedro and Lucía."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Analizar retratos permite comparar tamaño, carácter y gustos. También se trabaja el contraste entre dos amigos de Leticia.",
       "difficulty": "8",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "In San José del Guaviare, a teacher compares: \"My mother is a doctor\" and \"My mother is generous.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Both sentences describe her personality.",
           "is_correct": false,
           "feedback": "Only the second sentence describes personality with generous."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Both sentences name her job.",
           "is_correct": false,
           "feedback": "Only the first sentence names her job as a doctor."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "The first names her job, the second describes her personality.",
           "is_correct": true,
           "feedback": "\"A doctor\" is a profession while \"generous\" is a quality."
@@ -313,7 +313,7 @@
           "feedback": "The roles are reversed; job first, then quality."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La profesión se nombra con a o an y la cualidad con adjetivos. También se distingue el trabajo de la mamá y su generosidad.",
       "difficulty": "8",
       "images": [],
@@ -341,25 +341,25 @@
           "feedback": "Rude words hurt feelings and are wrong at a school fair."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "The kind description with true facts.",
           "is_correct": true,
           "feedback": "Kind words and true facts respect the family and teach well."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "The invented description, because lies are fun.",
           "is_correct": false,
           "feedback": "Invented facts are lies and teach wrong information."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Both descriptions are equal for children.",
           "is_correct": false,
           "feedback": "The descriptions are very different; only one respects and teaches."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Evaluar descripciones implica revisar palabras amables y datos verdaderos. También se promueve describir a la familia con respeto y verdad.",
       "difficulty": "10",
       "images": [],

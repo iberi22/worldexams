@@ -249,13 +249,13 @@
           "feedback": "Only the San Andrés trip had sun; Bogotá had rain."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "The weather changed the plans in each city.",
           "is_correct": true,
           "feedback": "Rain kept them in the hotel while sun allowed swimming daily."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Both trips stayed only in hotels.",
           "is_correct": false,
           "feedback": "Only the Bogotá trip stayed in the hotel; San Andrés swam."
@@ -267,7 +267,7 @@
           "feedback": "The diary describes real trips to Bogotá and San Andrés."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Analizar diarios permite comparar el clima y sus efectos en los planes. También se trabaja la lectura entre líneas con dos destinos colombianos.",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "In Manizales, a teacher compares: \"We are going to travel in June\" and \"We travel every June.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Both sentences describe a future plan.",
           "is_correct": false,
           "feedback": "Only the first with going to describes a future plan."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "The first is a future plan, the second is a habit.",
           "is_correct": true,
           "feedback": "\"Going to\" plans the future and \"every June\" repeats each year."
@@ -313,7 +313,7 @@
           "feedback": "The roles are reversed; every marks habit and going to marks plan."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Going to expresa planes futuros y el presente con every marca hábitos. También se contrasta con viajes que se repiten cada junio.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "In Cartagena, two travel plans for a class trip appear: one lists safe transport, hotel and museum visits; the other has no transport, no hotel and night swimming alone.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "The plan with transport, hotel and museums.",
           "is_correct": true,
           "feedback": "This plan is safe, organized and includes learning visits."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "The plan with night swimming alone.",
           "is_correct": false,
           "feedback": "Swimming alone at night is dangerous for children."
@@ -359,7 +359,7 @@
           "feedback": "The plans are very different; only one protects the children."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluar planes de viaje implica revisar transporte, hospedaje y seguridad. También se promueve viajar con adultos y visitar museos colombianos.",
       "difficulty": "10",
       "images": [],

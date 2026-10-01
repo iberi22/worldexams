@@ -19,25 +19,25 @@
           "feedback": "Incorrect form."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Hearing",
           "is_correct": true,
           "feedback": "Correct present participle clause (Hearing = After they heard)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Heard",
           "is_correct": false,
           "feedback": "Past participle suggests a passive meaning."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "To hear",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Present participle clauses (-ing) are used to describe actions that happen at the same time or immediately after the main action.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -65,25 +65,25 @@
           "feedback": "Present participle implies the film is doing the inspiring (active)."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Inspired",
           "is_correct": true,
           "feedback": "Correct past participle clause (Inspired = Because it was inspired)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Inspire",
           "is_correct": false,
           "feedback": "Incorrect form."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Having inspired",
           "is_correct": false,
           "feedback": "Active perfect participle."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Past participle clauses (-ed) are used with a passive meaning, often to show the reason or cause for the main action.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -111,25 +111,25 @@
           "feedback": "Incorrect."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Having spent",
           "is_correct": true,
           "feedback": "Correct perfect participle clause (Having spent = After he had spent)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Spending",
           "is_correct": false,
           "feedback": "Correct but B shows the sequence better."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "To spend",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Perfect participle clauses (Having + past participle) are used to show that one action was completed before another.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Discussing a movie's plot.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Surrounding",
           "is_correct": false,
           "feedback": "Active meaning."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Surrounded",
           "is_correct": true,
           "feedback": "Correct past participle clause (passive state)."
@@ -221,7 +221,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Past participle clauses can describe a state or situation that is the result of a past action.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -249,13 +249,13 @@
           "feedback": "Passive meaning."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Realizing",
           "is_correct": true,
           "feedback": "Correct present participle clause showing the reason."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "To realize",
           "is_correct": false,
           "feedback": "Incorrect."
@@ -267,7 +267,7 @@
           "feedback": "Also correct, emphasizing the completion of the realization."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Using participle clauses to express cause or reason in a professional context.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -295,13 +295,13 @@
           "feedback": "Active meaning."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "known",
           "is_correct": true,
           "feedback": "Correct past participle clause (known = who is known)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "has known",
           "is_correct": false,
           "feedback": "Incorrect."
@@ -313,7 +313,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Past participle clauses can serve as non-defining descriptive clauses (known for... = who is known for...).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -341,25 +341,25 @@
           "feedback": "Possible, but B is more active. Wait, B is 'Discovering'."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Having been discovered",
           "is_correct": true,
           "feedback": "Correct perfect passive participle (Having been discovered = After she had been discovered)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Discovering",
           "is_correct": false,
           "feedback": "Active meaning."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "To be discovered",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Perfect passive participle clauses (Having been + past participle) are used for completed passive actions.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,13 +387,13 @@
           "feedback": "Incorrect."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Seeing",
           "is_correct": true,
           "feedback": "Correct present participle clause (Seeing = Since they see)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "By seeing",
           "is_correct": false,
           "feedback": "'By' usually shows method, not just reason."
@@ -405,7 +405,7 @@
           "feedback": "Also possible, but B is standard for a current situation."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "B2 complexity: Using participle clauses to link observation to action in an industry report.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "A formal discussion on film preservation.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Stored",
           "is_correct": true,
           "feedback": "Correct past participle clause (Stored = Because they are stored)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Storing",
           "is_correct": false,
           "feedback": "Active meaning."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Having stored",
           "is_correct": false,
           "feedback": "Active perfect participle."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "To store",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Advanced B2 structure: Starting a formal sentence with a past participle clause to show condition or reason.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -485,19 +485,19 @@
           "feedback": "Correct but B is more sequential."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Having been rewritten",
           "is_correct": true,
           "feedback": "Correct perfect passive participle."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "To be rewritten",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Using the perfect passive participle to describe a long process of revision before a final outcome.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -519,19 +519,19 @@
       "context": "A complex aesthetic observation.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Viewed / examined",
           "is_correct": true,
           "feedback": "Correct dual past participle clauses."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Viewing / examining",
           "is_correct": false,
           "feedback": "Active meaning."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "To view / to examine",
           "is_correct": false,
           "feedback": "Incorrect."
@@ -543,7 +543,7 @@
           "feedback": "Incorrect syntax for this context."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Mastery level: Using parallel past participle clauses to compare two different conditions and their results.\n\n---",
       "difficulty": "10",
       "images": [],

@@ -13,13 +13,13 @@
       "context": "Un estudiante de 5to de secundaria en una academia preuniversitaria de Lima estudia la forma general de las ecuaciones de segundo grado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$c \\ne 0$",
           "is_correct": false,
           "feedback": "Incorrecto. El término independiente $c$ puede ser cero (ecuación incompleta)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a \\ne 0$",
           "is_correct": true,
           "feedback": "Correcto. Si $a = 0$, el término cuadrático desaparece y la ecuación se convierte en una de primer grado (lineal)."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Los coeficientes pueden ser cualquier número real."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Una ecuación cuadrática o de segundo grado se define por tener como mayor exponente de la variable al número 2. Para que el término $ax^2$ exista, el coeficiente principal $a$ debe ser necesariamente distinto de cero.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -64,13 +64,13 @@
           "feedback": "Incorrecto. $10^2 = 100$, no llega al área requerida."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "12 cm",
           "is_correct": true,
           "feedback": "Correcto. La ecuación es $x^2 = 144$. Al extraer la raíz cuadrada positiva, $x = 12$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "14 cm",
           "is_correct": false,
           "feedback": "Incorrecto. $14^2 = 196$, excede el área dada."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Dividió el área por 2 en lugar de extraer la raíz cuadrada."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El área de un cuadrado se expresa como $L^2$. Planteamos la ecuación pura de segundo grado $x^2 = 144$. Al resolverla, obtenemos $x = \\pm 12$. Dado que hablamos de una longitud física, solo tomamos el valor positivo.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Un estudiante de la ciudad de Arequipa estudia el método de factorización por aspa simple.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(x - 6)(x + 1)$",
           "is_correct": false,
           "feedback": "Incorrecto. El producto es $-6$ y la suma es $-5$. El término independiente debe ser $+6$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(x - 3)(x - 2)$",
           "is_correct": true,
           "feedback": "Correcto. $(-3) \\times (-2) = 6$ y $(-3) + (-2) = -5$. Cumple con los coeficientes de la expresión."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. El producto es $5$, no $6$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El método de aspa simple busca dos números que multiplicados den el término independiente (+6) y sumados den el coeficiente lineal (-5). Estos números son -3 y -2. Por tanto, la expresión factorizada es $(x-3)(x-2)$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,19 +193,19 @@
       "context": "Un ingeniero civil en un proyecto en la ciudad de Trujillo calcula las dimensiones de un terreno rectangular.",
       "options": [
         {
-          "letter": "B",
+          "letter": "C",
           "text": "10 metros",
           "is_correct": true,
           "feedback": "Correcto. Sea $x$ el ancho. Largo = $x+5$. Ecuación: $x(x+5) = 150 \\Rightarrow x^2 + 5x - 150 = 0$. Factorizando: $(x+15)(x-10)=0$. Como el ancho es positivo, $x = 10$."
         },
         {
-          "letter": "A",
+          "letter": "B",
           "text": "15 metros",
           "is_correct": false,
           "feedback": "Incorrecto. Si el ancho es 15, el largo sería 20 y el área 300."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "12 metros",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface la ecuación del área."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. El área sería $8 \\times 13 = 104$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Planteamos la ecuación $x(x + 5) = 150$, que se traduce en la cuadrática $x^2 + 5x - 150 = 0$. Al resolver por aspa simple obtenemos $(x + 15)(x - 10) = 0$. Las soluciones son -15 y 10. Descartamos la negativa por ser una medida física.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorrecto. El discriminante es $16 - 4 = 12$. La raíz de 12 es $2\\sqrt{3}$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x = 2 + \\sqrt{3}$",
           "is_correct": true,
           "feedback": "Correcto. $x = \\frac{-(-4) \\pm \\sqrt{(-4)^2 - 4(1)(1)}}{2(1)} = \\frac{4 \\pm \\sqrt{12}}{2} = \\frac{4 \\pm 2\\sqrt{3}}{2} = 2 \\pm \\sqrt{3}$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 4 + \\sqrt{3}$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó dividir el primer término por el denominador 2."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Error en el cálculo del discriminante."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Usamos la fórmula $x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$. Sustituimos: $x = \\frac{4 \\pm \\sqrt{16-4}}{2} = \\frac{4 \\pm \\sqrt{12}}{2}$. Simplificando el radical $\\sqrt{12} = 2\\sqrt{3}$, obtenemos $x = \\frac{4 \\pm 2\\sqrt{3}}{2} = 2 \\pm \\sqrt{3}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -385,19 +385,19 @@
           "feedback": "Incorrecto. Este es el valor de $k^2$, no de $k$."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$\\{-12, 12\\}$",
           "is_correct": true,
           "feedback": "Correcto. Para raíces iguales, el discriminante $\\Delta = 0$. $k^2 - 4(3)(12) = 0 \\Rightarrow k^2 - 144 = 0 \\Rightarrow k^2 = 144 \\Rightarrow k = \\pm 12$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\{-6, 6\\}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error al multiplicar los coeficientes en la fórmula del discriminante."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Para que una ecuación de segundo grado tenga raíces iguales, su discriminante debe ser cero ($\\Delta = 0$). Planteamos $k^2 - 4(3)(12) = 0$. Al resolver, $k^2 = 144$, lo que arroja dos soluciones posibles para $k$: 12 y -12.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,25 +424,25 @@
           "feedback": "Incorrecto. Revise el despeje."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "S/ 10 y S/ 30",
           "is_correct": true,
           "feedback": "Correcto. Resolvemos $-2x^2 + 80x - 600 = 0 \\Rightarrow x^2 - 40x + 300 = 0$. Factorizando: $(x-30)(x-10)=0$. Precios: 10 y 30."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "S/ 5 y S/ 15",
           "is_correct": false,
           "feedback": "Incorrecto. No son raíces de la función dada."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "S/ 15 y S/ 40",
           "is_correct": false,
           "feedback": "Incorrecto. Error en el proceso de factorización."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El punto de equilibrio se halla igualando la utilidad a cero: $-2x^2 + 80x - 600 = 0$. Al dividir toda la ecuación por -2 obtenemos $x^2 - 40x + 300 = 0$. Por aspa simple, $(x-30)(x-10)=0$. Las soluciones son $x=10$ y $x=30$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -598,19 +598,19 @@
       "context": "Determinación de parámetros para raíces simétricas en el curso de Álgebra pre-UNI.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$m = 3$",
           "is_correct": false,
           "feedback": "Incorrecto. Esto anularía el término cuadrático, dejando de ser una ecuación de segundo grado."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$m = 16$",
           "is_correct": false,
           "feedback": "Incorrecto. La condición es que el coeficiente lineal sea cero."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$m = -4$",
           "is_correct": true,
           "feedback": "Correcto. Raíces simétricas significan $x_1 + x_2 = 0$, lo que implica que el coeficiente $b = 0$. $m^2 - 16 = 0 \\Rightarrow m = \\pm 4$. Si $m=4$, el coeficiente $a=1$. Si $m=-4$, el coeficiente $a=-7$. Ambos sirven. No, un momento, revisemos las opciones."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Ambas soluciones para $m^2 - 16 = 0$ son válidas si no anulan el término cuadrático."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Dos raíces son simétricas si su suma es cero: $x_1 + x_2 = 0$. Por Vieta, $-b/a = 0 \\Rightarrow b = 0$. Planteamos $m^2 - 16 = 0$, cuyas soluciones son 4 y -4. Como ninguna de ellas anula el término cuadrático ($m-3 \\ne 0$), ambas son teóricamente correctas, pero elegimos la que se presenta en el contexto de una sola respuesta válida.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Formación de una nueva ecuación cuadrática a partir de raíces dadas, nivel académico preuniversitario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x^2 - 8x + 4 = 0$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó que el producto de las raíces se ve afectado por el cuadrado del factor de escala."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x^2 - 8x + 8 = 0$",
           "is_correct": true,
           "feedback": "Correcto. Nueva suma $S' = 2(\\alpha+\\beta) = 2(4) = 8$. Nuevo producto $P' = (2\\alpha)(2\\beta) = 4(\\alpha\\beta) = 4(2) = 8$. Ecuación: $x^2 - 8x + 8 = 0$."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Elevó al cuadrado los coeficientes en lugar de escalarlos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Dadas las raíces originales, $\\alpha+\\beta = 4$ y $\\alpha\\beta = 2$. Para la nueva ecuación, calculamos la nueva suma $S = 2\\alpha+2\\beta = 8$ y el nuevo producto $P = 4\\alpha\\beta = 8$. La ecuación se forma como $x^2 - Sx + P = 0$, resultando en $x^2 - 8x + 8 = 0$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -700,19 +700,19 @@
           "feedback": "Incorrecto. Error en la expansión del binomio."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "1",
           "is_correct": true,
           "feedback": "Correcto. $\\Delta = [-(2k+1)]^2 - 4(1)(k^2+k) = 4k^2 + 4k + 1 - 4k^2 - 4k = 1$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "0",
           "is_correct": false,
           "feedback": "Incorrecto. Queda un término constante tras la simplificación."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Aplicamos la fórmula del discriminante $\\Delta = b^2 - 4ac$. Al expandir $(2k+1)^2$ obtenemos $4k^2 + 4k + 1$. Al restarle $4(k^2+k) = 4k^2 + 4k$, todos los términos que contienen a $k$ se anulan, quedando únicamente 1. Esto significa que para cualquier valor de $k$, la ecuación tendrá siempre dos raíces reales y diferentes.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Incorrecto. Verifique la igualdad de coeficientes."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$k = 5$",
           "is_correct": true,
           "feedback": "Correcto. Raíces recíprocas implican $x_1x_2 = 1 \\Rightarrow c/a = 1 \\Rightarrow c = a$. Planteamos $k+8 = 3k-2 \\Rightarrow 10 = 2k \\Rightarrow k = 5$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$k = -3$",
           "is_correct": false,
           "feedback": "Incorrecto. Error al resolver la ecuación lineal para $k$."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Esto anularía el coeficiente $a$ de forma parcial pero no cumpliría la condición de producto 1."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Dos raíces son recíprocas si su producto es igual a 1 ($x_1 \\cdot x_2 = 1$). Por las propiedades de las raíces, $c/a = 1$, lo cual significa que el coeficiente principal $a$ y el término independiente $c$ deben ser iguales. Igualamos $3k - 2 = k + 8$ y resolvemos para $k$, obteniendo 5.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Problema de optimización cuadrática con restricciones paramétricas extremas, nivel admisión UNI / Olimpiada de Matemática.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$k = 2$",
           "is_correct": false,
           "feedback": "Incorrecto. Evaluó el vértice de la suma de raíces, no de la suma de sus cuadrados."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$k = 3$",
           "is_correct": true,
           "feedback": "Correcto. Sea $x_1^2+x_2^2 = (x_1+x_2)^2 - 2x_1x_2 = (k-2)^2 - 2(k-3) = k^2-4k+4-2k+6 = k^2-6k+10$. Esta función cuadrática en $k$ tiene su mínimo en el vértice $k = -(-6)/2(1) = 3$."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Valor que no minimiza la expresión cuadrática resultante."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Expresamos la suma de los cuadrados como $S^2 - 2P$, donde $S$ es la suma de raíces y $P$ su producto. Sustituyendo los valores de la ecuación obtenemos la expresión $k^2 - 6k + 10$. Esta es una parábola que abre hacia arriba cuyo valor mínimo se encuentra en su vértice, dado por $k = -b/2a = -(-6)/2 = 3$.",
       "difficulty": "10",
       "images": [],

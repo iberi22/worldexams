@@ -19,13 +19,13 @@
           "feedback": "Explica el error conceptual: el cemento construye, pero no es el suelo vivo donde crecen las plantas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Una mezcla de minerales, materia orgánica, agua y aire organizada en capas llamadas horizontes.",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: define componentes y capas del perfil del suelo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solo agua de lluvia acumulada en un hueco sin tierra ni seres vivos.",
           "is_correct": false,
           "feedback": "Explica el error conceptual: el agua sola no sostiene raíces ni aporta nutrientes como el suelo."
@@ -37,7 +37,7 @@
           "feedback": "Explica el error conceptual: el plástico cubre, pero no aporta nutrientes ni deja respirar a las raíces."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El suelo se forma durante años por la roca que se rompe, los restos de plantas y animales y la acción de lombrices y microbios. Arriba está la capa oscura rica en humus donde crecen las raíces. Abajo hay capas con más minerales y finalmente roca. El aire y el agua entre las partículas permiten respirar a las raíces.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En un colegio de Tunja, los estudiantes juntan cáscaras de papa, hojas secas y estiércol de cuy para hacer compost en la huerta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque el compost de Tunja es una piedra que calienta las raíces en las noches frías.",
           "is_correct": false,
           "feedback": "Explica el error conceptual: el compost no es piedra caliente, sino materia orgánica descompuesta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque aporta nutrientes y humus, retiene agua y alimenta a lombrices y microbios del suelo.",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: explica nutrición, estructura y vida del suelo con compost maduro."
@@ -129,7 +129,7 @@
           "feedback": "Explica el error conceptual: el compost bien hecho nutre plantas, no las mata ni sirve para pintar."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El compost es materia orgánica descompuesta por microbios con oxígeno y humedad. Al mezclarlo con el suelo, entrega nitrógeno, fósforo y otros nutrientes lentamente, esponja la tierra para que entre aire y agua, y alimenta a lombrices que abren canales. Así las hortalizas crecen sanas sin depender solo de fertilizantes comprados.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En Nariño, una familia siembra papa en el mismo lote tres años seguidos y cada vez la cosecha sale más pequeña y con más plagas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque cambiar de cultivo confunde a la luna y la papa crece solo de noche en Nariño.",
           "is_correct": false,
           "feedback": "Explica el error conceptual: la luna no define la nutrición del suelo ni el ciclo de las plagas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque alternar familias de plantas equilibra nutrientes, corta ciclos de plagas y mejora la estructura del suelo.",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: explica descanso de nutrientes, control natural y diversidad radicular."
@@ -221,7 +221,7 @@
           "feedback": "Explica el error conceptual: rotar es alternar cultivos en el lote, no girar tubérculos guardados."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Cada cultivo extrae nutrientes distintos y atrae plagas distintas. Repetir papa agota los mismos elementos y deja patógenos acumulados. Rotar con leguminosas como arveja o haba, que fijan nitrógeno con bacterias, más maíz o quinua, devuelve variedad al suelo, rompe el ciclo de la plaga y sostiene mejores cosechas.",
       "difficulty": "6",
       "images": [],
@@ -249,13 +249,13 @@
           "feedback": "Explica el error conceptual: el color del empaque no cambia el tamaño de las partículas del suelo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que la arena tiene partículas grandes con poros amplios que drenan, y la arcilla tiene partículas finas que retienen agua.",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: relaciona tamaño de partícula y poros con drenaje y retención."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que la arena fabrica agua nueva y la arcilla se come el agua con lombrices.",
           "is_correct": false,
           "feedback": "Explica el error conceptual: ningún suelo fabrica agua y las lombrices no se beben el encharcamiento."
@@ -267,7 +267,7 @@
           "feedback": "Explica el error conceptual: la textura distinta produce comportamientos hídricos opuestos y medibles."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La textura depende del tamaño de partículas: arena gruesa, limo medio y arcilla fina. Los poros grandes drenan rápido pero guardan pocos nutrientes. Los poros finos retienen agua y nutrientes, pero en exceso se encharcan y quitan aire a las raíces. El suelo franco, mezcla de las tres, es ideal porque equilibra drenaje, retención y fertilidad.",
       "difficulty": "8",
       "images": [],
@@ -295,13 +295,13 @@
           "feedback": "Explica el error conceptual: las algas usan el exceso de nutrientes, no alimentan gratis al arroz."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que el exceso de fertilizante se lava al agua, causa crecimiento de algas y acidifica o desequilibra el suelo.",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: describe lixiviación, eutrofización y daño al suelo por sobredosis."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que el fertilizante se convierte en semillas de arroz dentro del caño.",
           "is_correct": false,
           "feedback": "Explica el error conceptual: el fertilizante disuelto no se transforma en semillas de arroz."
@@ -313,7 +313,7 @@
           "feedback": "Explica el error conceptual: el verdor por algas indica exceso de nutrientes y falta de oxígeno."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Más fertilizante no significa más cosecha: la planta solo absorbe cierta dosis y el resto se lava con la lluvia. El nitrógeno y el fósforo llegan al caño, las algas se multiplican, quitan oxígeno a los peces y el agua se deteriora. En el suelo, la sobredosis altera el pH y mata microbios. El análisis de suelo indica la dosis justa y el compost la complementa.",
       "difficulty": "8",
       "images": [],
@@ -387,13 +387,13 @@
           "feedback": "Explica el error conceptual: la quema y la siembra al borde destruyen suelo y contaminan el agua común."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Terrazas con cobertura, compost y rotación, franja de protección junto a la quebrada y riego medido.",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: integra conservación de suelo, agua y producción con bajo costo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Pavimentar toda la ladera con cemento para que no se erosione y comprar toda la comida en la ciudad.",
           "is_correct": false,
           "feedback": "Explica el error conceptual: el cemento impide sembrar, aumenta escorrentía y arruina la finca."
@@ -405,7 +405,7 @@
           "feedback": "Explica el error conceptual: más químico sin diagnóstico empobrece y talar aumenta erosión y calor."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El mejor plan ataca las causas con recursos locales: terrazas que frenan el agua, mulch y compost que devuelven vida, rotación con leguminosas que aportan nitrógeno, y una franja de árboles nativos que filtra y protege la quebrada. Se evalúa con suelo más oscuro y suelto, agua más limpia y cosechas estables sin gastar de más.",
       "difficulty": "10",
       "images": [],
@@ -433,25 +433,25 @@
           "feedback": "Explica el error conceptual: el fuego no crea suelo y los microbios son millones por cada puñado."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Es falsa porque la quema destruye materia orgánica y organismos, empobrece el suelo y aumenta la erosión.",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: refuta con pérdida de humus, muerte biológica y suelo desprotegido."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es verdadera porque la ceniza reemplaza para siempre toda la vida del suelo.",
           "is_correct": false,
           "feedback": "Explica el error conceptual: la ceniza aporta pocos minerales breves, pero no reemplaza humus ni vida."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es irrelevante porque el suelo es roca muerta y nunca cambia con el manejo.",
           "is_correct": false,
           "feedback": "Explica el error conceptual: el suelo es un ecosistema vivo que responde al manejo bueno o malo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La quema volatiliza el nitrógeno, quema el humus que esponja y mata lombrices, hongos y bacterias que liberan nutrientes. La ceniza da un impulso corto de potasio, pero deja el suelo desnudo ante la lluvia. La evidencia muestra que tras quemas repetidas la fertilidad cae y la erosión crece. Alternativas como compostar el rastrojo conservan fertilidad duradera.",
       "difficulty": "10",
       "images": [],

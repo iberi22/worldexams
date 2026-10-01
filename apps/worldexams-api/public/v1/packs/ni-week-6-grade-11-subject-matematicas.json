@@ -58,13 +58,13 @@
       "context": "Un estudiante en León estudia las relaciones recíprocas en trigonometría.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Cosecante ($\\csc$)",
           "is_correct": false,
           "feedback": "Incorrecto. La cosecante es el recíproco del seno."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Secante ($\\sec$)",
           "is_correct": true,
           "feedback": "Correcto. $\\sec(\\theta) = 1/\\cos(\\theta)$."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. El seno y el coseno son funciones complementarias, no recíprocas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Las funciones recíprocas se obtienen invirtiendo la fracción de la razón original. Para el coseno ($A/H$), su recíproca es la secante ($H/A$).",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Un dibujo técnico de una rampa de acceso en un hospital de Managua.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "1/2",
           "is_correct": true,
           "feedback": "Correcto. En un triángulo notable 30-60, el cateto opuesto a 30° es la mitad de la hipotenusa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sqrt{3}/2$",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el valor de $\\cos(30^\\circ)$ o $\\sin(60^\\circ)$."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. El seno solo vale 1 a los 90°."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El valor de $\\sin(30^\\circ)$ es una constante fundamental derivada del triángulo equilátero dividido por su altura. Su valor decimal es 0.5.",
       "difficulty": "4",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Incorrecto. La hipotenusa debe ser mayor que el cateto."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "4 metros",
           "is_correct": true,
           "feedback": "Correcto. $\\sin(30^\\circ) = \\text{Altura} / \\text{Largo} \\Rightarrow 0.5 = 2 / L \\Rightarrow L = 2 / 0.5 = 4$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$2\\sqrt{3}$ metros",
           "is_correct": false,
           "feedback": "Incorrecto. Esta sería la longitud de la base horizontal de la rampa."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Error en el despeje de la razón del seno."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Usando la definición de seno ($\\sin 30^\\circ = 1/2$), sabemos que la hipotenusa es siempre el doble del cateto opuesto a 30°.",
       "difficulty": "6",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Incorrecto. La identidad para la tangente involucra la secante."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "1",
           "is_correct": true,
           "feedback": "Correcto. Esta es la Identidad Pitagórica fundamental de la trigonometría."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0",
           "is_correct": false,
           "feedback": "Incorrecto. La suma de cuadrados de valores reales no nulos no puede ser cero."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Esta es la fórmula del ángulo doble, no una identidad de suma de cuadrados."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La Identidad Pitagórica deriva directamente del Teorema de Pitágoras aplicado al círculo unitario ($x^2 + y^2 = r^2$, donde $r=1$, $x=\\cos \\theta$ y $y=\\sin \\theta$).",
       "difficulty": "8",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Incorrecto. La tangente contiene al seno en el numerador."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\sin \\theta$",
           "is_correct": true,
           "feedback": "Correcto. $\\tan \\theta = \\sin \\theta / \\cos \\theta$. Al multiplicar por $\\cos \\theta$, los cosenos se cancelan."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1",
           "is_correct": false,
           "feedback": "Incorrecto. Esto sucedería si se multiplicaran funciones recíprocas como $\\sin \\cdot \\csc$."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. La cotangente es la inversa de la tangente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Expresar todas las funciones en términos de seno y coseno es la estrategia estándar para simplificar productos trigonométricos.",
       "difficulty": "8",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Incorrecto. En el segundo cuadrante, el seno es positivo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "1/2",
           "is_correct": true,
           "feedback": "Correcto. El ángulo de referencia es $180^\\circ - 150^\\circ = 30^\\circ$. $\\sin(150^\\circ) = \\sin(30^\\circ) = 1/2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\sqrt{3}/2$",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el valor de $\\cos(150^\\circ)$ en valor absoluto."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Este es el valor de $\\cos(150^\\circ)$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para ángulos mayores de 90°, usamos el ángulo de referencia y el signo correspondiente al cuadrante. El seno es positivo en los cuadrantes I y II.",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Determinación del signo de las razones según el cuadrante.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Segundo cuadrante",
           "is_correct": false,
           "feedback": "Incorrecto. Aquí el seno es positivo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Tercer cuadrante",
           "is_correct": true,
           "feedback": "Correcto. En el cuadrante III, tanto las coordenadas x como y son negativas."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. El círculo unitario define claramente las regiones de signos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Los signos de las razones trigonométricas dependen de los signos de las coordenadas $(x, y)$ en el plano cartesiano. En el cuadrante III, $(- , -)$, por lo que $\\sin$ y $\\cos$ son negativos, pero $\\tan$ es positiva.",
       "difficulty": "8",
       "images": [],
@@ -649,25 +649,25 @@
           "feedback": "Incorrecto. En el segundo cuadrante el coseno debe ser negativo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "-4/5",
           "is_correct": true,
           "feedback": "Correcto. $\\cos^2 \\theta = 1 - (3/5)^2 = 1 - 9/25 = 16/25$. Como está en el II cuadrante, $\\cos \\theta = -\\sqrt{16/25} = -4/5$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "-3/5",
           "is_correct": false,
           "feedback": "Incorrecto. El valor absoluto del coseno no es igual al del seno en este triángulo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "4/3",
           "is_correct": false,
           "feedback": "Incorrecto. Este valor es mayor que 1, imposible para un coseno real."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Usamos la identidad pitagórica y seleccionamos el signo adecuado según la ubicación del ángulo en el plano.",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Conversión de unidades angulares para cálculos astronómicos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "30°",
           "is_correct": false,
           "feedback": "Incorrecto. 30° equivale a $\\pi/6$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "45°",
           "is_correct": true,
           "feedback": "Correcto. Como $\\pi = 180^\\circ$, entonces $180/4 = 45^\\circ$."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. 90° equivale a $\\pi/2$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La relación fundamental de conversión es $180^\\circ = \\pi$ radianes. Dividir el círculo en octavos ($\\pi/4$) resulta en sectores de 45 grados.",
       "difficulty": "8",
       "images": [],
@@ -745,19 +745,19 @@
           "feedback": "Incorrecto. Esta es la distancia en línea recta visual (hipotenusa)."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$40\\sqrt{3}$ metros",
           "is_correct": true,
           "feedback": "Correcto. $\\tan(30^\\circ) = 40 / d \\Rightarrow \\sqrt{3}/3 = 40 / d \\Rightarrow d = 120 / \\sqrt{3} = 40\\sqrt{3}$ ($\\approx 69.3$ m)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "20 metros",
           "is_correct": false,
           "feedback": "Incorrecto. Error al invertir la razón de la tangente."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El ángulo de depresión es igual al ángulo de elevación desde el barco. Aplicamos la tangente del ángulo de 30° para hallar la distancia horizontal.",
       "difficulty": "10",
       "images": [],
@@ -784,25 +784,25 @@
           "feedback": "Incorrecto. Se olvidó multiplicar por el seno del ángulo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$25\\sqrt{3}$ cm²",
           "is_correct": true,
           "feedback": "Correcto. Área = $(1/2) \\cdot a \\cdot b \\cdot \\sin C = (1/2) \\cdot 10 \\cdot 10 \\cdot \\sin(60^\\circ) = 50 \\cdot \\sqrt{3}/2 = 25\\sqrt{3}$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$100\\sqrt{3}$ cm²",
           "is_correct": false,
           "feedback": "Incorrecto. Se olvidó el factor de un medio en la fórmula del área."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "25 cm²",
           "is_correct": false,
           "feedback": "Incorrecto. Valor muy bajo que ignora la altura del triángulo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El área de cualquier triángulo puede hallarse conociendo dos lados y el ángulo entre ellos. Para un triángulo equilátero, todos los ángulos son de 60°.",
       "difficulty": "10",
       "images": [],
@@ -823,19 +823,19 @@
       "context": "Un reto sobre funciones trigonométricas de ángulos negativos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "1/2",
           "is_correct": true,
           "feedback": "Correcto. El coseno es una función par, por lo que $\\cos(-\\theta) = \\cos \\theta$. $\\cos(60^\\circ) = 1/2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$-1/2$",
           "is_correct": false,
           "feedback": "Incorrecto. El coseno es positivo en el cuarto cuadrante (donde está -60°)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\sqrt{3}/2$",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el valor del seno de 60°."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Valor inconsistente con la paridad de la función."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La paridad de las funciones trigonométricas es una propiedad clave. El coseno y la secante son pares (simétricos al eje $y$), mientras que las demás son impares.",
       "difficulty": "10",
       "images": [],

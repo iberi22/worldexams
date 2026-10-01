@@ -151,31 +151,31 @@
       "context": "En la tienda escolar de Manizales se agrupan cuadernos en 6 paquetes, y cada paquete cuesta 4.000 COP por un descuento; la expresión es (6 + 4) × 3.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "30",
           "is_correct": true,
           "feedback": "Es correcta porque primero se resuelve el paréntesis 6 + 4 = 10 y luego 10 × 3 = 30."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "18",
           "is_correct": false,
           "feedback": "Error conceptual: multiplica 4 × 3 primero e ignora el paréntesis."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "13",
           "is_correct": false,
           "feedback": "Error conceptual: suma todos los números sin usar el paréntesis."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "24",
           "is_correct": false,
           "feedback": "Error conceptual: multiplica los términos del paréntesis entre sí en lugar de sumarlos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Los signos de agrupación como el paréntesis obligan a resolver primero su contenido. Aquí 6 + 4 = 10 y luego 10 × 3 = 30; el paréntesis cambia el resultado respecto de 6 + 4 × 3.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En un mercado de Cartagena se calcula el vuelto con la expresión 20 − 3 × 4 + 2, donde los valores están en miles de pesos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "10",
           "is_correct": true,
           "feedback": "Es correcta porque primero 3 × 4 = 12 y luego 20 − 12 + 2 = 10."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "70",
           "is_correct": false,
           "feedback": "Error conceptual: resta primero 20 − 3, multiplica por 4 y suma 2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "6",
           "is_correct": false,
           "feedback": "Error conceptual: agrupa la suma 12 + 2 y la resta completa, cambiando el signo de 2."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "24",
           "is_correct": false,
           "feedback": "Error conceptual: multiplica todos los términos y omite el orden correcto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En 20 − 3 × 4 + 2 primero se multiplica: 3 × 4 = 12. Luego se resuelven sumas y restas de izquierda a derecha: 20 − 12 = 8 y 8 + 2 = 10.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En la tienda escolar de Neiva se organiza una promoción con la expresión 2 × (5 + 3 × 2) para calcular el total de una compra.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "22",
           "is_correct": true,
           "feedback": "Es correcta porque dentro del paréntesis 3 × 2 = 6, 5 + 6 = 11 y 2 × 11 = 22."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "16",
           "is_correct": false,
           "feedback": "Error conceptual: omite la multiplicación 3 × 2 dentro del paréntesis."
@@ -267,7 +267,7 @@
           "feedback": "Error conceptual: resuelve el paréntesis pero olvida multiplicar por el 2 externo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Cuando hay paréntesis, primero se respeta su contenido aplicando la jerarquía interna: 3 × 2 = 6 y 5 + 6 = 11. Después se aplica el factor externo: 2 × 11 = 22.",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En un mercado de Bogotá un estudiante resuelve 10 + 2 × (4 + 1) y obtiene 19.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Multiplicó 2 por 4 y sumó 1 sin resolver primero el paréntesis",
           "is_correct": true,
           "feedback": "Es correcta porque debió hacer 4 + 1 = 5 y luego 10 + 2 × 5 = 20; obtuvo 19 al ignorar el paréntesis."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sumó 10 y 2 antes de multiplicar",
           "is_correct": false,
           "feedback": "Error conceptual: ese procedimiento daría otro valor y no describe el error que produjo 19."
@@ -313,7 +313,7 @@
           "feedback": "Error conceptual: el resultado correcto es 20, ya que el paréntesis debe resolverse primero."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El error fue ignorar el paréntesis. Lo correcto es 4 + 1 = 5, luego 2 × 5 = 10 y finalmente 10 + 10 = 20. Resolver el paréntesis primero evita este tipo de equivocaciones.",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En la tienda escolar de Medellín se comparan las expresiones 4 + 5 × 2 y (4 + 5) × 2 para decidir cuál usar en una factura.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Los paréntesis cambian el resultado: la primera vale 14 y la segunda vale 18",
           "is_correct": true,
           "feedback": "Es correcta porque 5 × 2 = 10 y 4 + 10 = 14, mientras que (4 + 5) = 9 y 9 × 2 = 18."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las dos expresiones dan el mismo resultado",
           "is_correct": false,
           "feedback": "Error conceptual: la posición del paréntesis altera el resultado de la operación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Las dos expresiones valen 18",
           "is_correct": false,
           "feedback": "Error conceptual: solo la expresión con paréntesis vale 18; la otra vale 14."
@@ -359,7 +359,7 @@
           "feedback": "Error conceptual: los signos de agrupación sí modifican qué operación se resuelve primero."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Comparar expresiones muestra el papel de los signos de agrupación. Sin paréntesis 4 + 5 × 2 = 14; con paréntesis (4 + 5) × 2 = 18. Escribir la factura correcta exige colocar bien el paréntesis.",
       "difficulty": "8",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "En la tienda escolar de Cartagena se compran 3 cuadernos a 2.500 COP cada uno y un borrador de 1.200 COP; se quiere calcular el total con una sola expresión.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Multiplicar el precio de los cuadernos por su cantidad y luego sumar el precio del borrador: 3 × 2.500 + 1.200",
           "is_correct": true,
           "feedback": "Es correcta porque cada grupo de artículos se multiplica por su cantidad y luego se suman los subtotales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sumar todos los precios y multiplicar el resultado por 3",
           "is_correct": false,
           "feedback": "Error conceptual: multiplicar la suma completa cobra el borrador tres veces."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Multiplicar 3 por la suma de 2.500 y 1.200",
           "is_correct": false,
           "feedback": "Error conceptual: incluye el borrador dentro de la multiplicación, cobrándolo varias veces."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Dividir el total de los cuadernos entre 3",
           "is_correct": false,
           "feedback": "Error conceptual: la división reduce el valor y no representa el total que se debe pagar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para totalizar una compra se multiplica el precio de cada artículo por su cantidad y se suman los subtotales: 3 × 2.500 = 7.500 y 7.500 + 1.200 = 8.700. Usar la jerarquía y los signos de agrupación correctos evita cobros erróneos.",
       "difficulty": "10",
       "images": [],

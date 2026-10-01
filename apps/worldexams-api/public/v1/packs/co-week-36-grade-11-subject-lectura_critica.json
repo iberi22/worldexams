@@ -13,13 +13,13 @@
       "context": "En una feria del libro en Bogotá, los estudiantes descubren novelas gráficas latinoamericanas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Una narrativa extensa que combina texto e ilustraciones para contar una historia completa.",
           "is_correct": true,
           "feedback": "Es un formato unitario con principio, desarrollo y cierre."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un cómic corto de cuatro viñetas.",
           "is_correct": false,
           "feedback": "Es más extensa que un chiste gráfico."
@@ -37,7 +37,7 @@
           "feedback": "Es ficcional."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La novela gráfica fusiona narrativa literaria y lenguaje visual secuencial.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "En clase en Medellín, se diferencia novela gráfica de cómic.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La novela gráfica tiene mayor extensión, unidad narrativa y complejidad temática.",
           "is_correct": true,
           "feedback": "La novela gráfica suele ser una obra completa y autocontenida."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El cómic solo tiene dibujos.",
           "is_correct": false,
           "feedback": "El cómic también incluye texto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La novela gráfica nunca tiene color.",
           "is_correct": false,
           "feedback": "Puede tenerlo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No existen diferencias.",
           "is_correct": false,
           "feedback": "Son formatos cercanos pero distintos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La novela gráfica es un formato consolidado con obras de referencia mundial.",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En clase en Barranquilla, se estudian las viñetas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La unidad visual básica donde ocurre una acción o se transmite una idea.",
           "is_correct": true,
           "feedback": "Es el encuadre de la escena."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El título de la obra.",
           "is_correct": false,
           "feedback": "Es un elemento distinto."
@@ -175,7 +175,7 @@
           "feedback": "Puede aparecer dentro."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La composición de viñetas construye el ritmo narrativo-visual.",
       "difficulty": "4",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En clase en Bucaramanga, se interpreta una escena silenciosa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Una decisión estética que enfatiza la imagen, el gesto y el silencio narrativo.",
           "is_correct": true,
           "feedback": "El silencio es un recurso expresivo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un error del autor.",
           "is_correct": false,
           "feedback": "Es deliberado."
@@ -221,7 +221,7 @@
           "feedback": "No es obligatorio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las secuencias silenciosas invitan al lector a completar el significado.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En clase en Pereira, se compara el estilo de artistas gráficos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Líneas expresivas, colores, encuadres, perspectivas y símbolos icónicos.",
           "is_correct": true,
           "feedback": "Recursos plásticos y compositivos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Solo texto.",
           "is_correct": false,
           "feedback": "El texto no basta."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Únicamente fotografías.",
           "is_correct": false,
           "feedback": "Es dibujo."
@@ -267,7 +267,7 @@
           "feedback": "Es un elemento, no el único."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El dibujo es portador de emociones y ritmos narrativos.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En un taller en Armenia, se analiza una novela gráfica autobiográfica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Combina memoria personal, dibujo autobiográfico y voz narrativa subjetiva.",
           "is_correct": true,
           "feedback": "Ejemplo: \"Persépolis\" de Marjane Satrapi."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Solo copia fotos familiares.",
           "is_correct": false,
           "feedback": "Predomina el dibujo autoral."
@@ -313,7 +313,7 @@
           "feedback": "No aplica al formato."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La novela gráfica autobiográfica permite reconstruir la memoria con sensibilidad estética.",
       "difficulty": "6",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En clase en Santa Marta, se trabaja con el \"bocadillo\" del cómic.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Contener las palabras pronunciadas por los personajes.",
           "is_correct": true,
           "feedback": "Indica la voz del personaje."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Mostrar un pensamiento secreto.",
           "is_correct": false,
           "feedback": "Eso es el bocadillo de pensamiento (nube)."
@@ -359,7 +359,7 @@
           "feedback": "Su función es lingüística."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Existen distintos tipos de globos según el tipo de mensaje.",
       "difficulty": "6",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "En Neiva, se compara el estilo de dibujo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Trazos uniformes, contornos definidos y fondos detallados.",
           "is_correct": true,
           "feedback": "Popularizado por Hergé con \"Las aventuras de Tintín\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sombras expresionistas únicamente.",
           "is_correct": false,
           "feedback": "Es otro estilo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Figuras abstractas.",
           "is_correct": false,
           "feedback": "Es figurativo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Solo blanco y negro sin detalles.",
           "is_correct": false,
           "feedback": "Hay color y detalle."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Cada estilo gráfico aporta un tono narrativo particular.",
       "difficulty": "6",
       "images": [],
@@ -519,19 +519,19 @@
       "context": "En clase en Bogotá, se analiza la metáfora visual.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Imágenes que sustituyen conceptos abstractos por representaciones concretas.",
           "is_correct": true,
           "feedback": "Ej.: una cadena para representar opresión."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Texto literal sin imagen.",
           "is_correct": false,
           "feedback": "Requiere imagen."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fotografías reales.",
           "is_correct": false,
           "feedback": "Generalmente es dibujo."
@@ -543,7 +543,7 @@
           "feedback": "El color es un recurso, no la metáfora en sí."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La metáfora visual condensa significados complejos en una sola imagen.",
       "difficulty": "8",
       "images": [],
@@ -565,31 +565,31 @@
       "context": "En clase en Tunja, se revisan autores latinoamericanos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Dictadura, memoria, violencia, migración e identidad cultural.",
           "is_correct": true,
           "feedback": "Autores como Quique Alcatena, Powerpaola y otros."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Solo superhéroes.",
           "is_correct": false,
           "feedback": "Hay variedad temática."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solo deporte.",
           "is_correct": false,
           "feedback": "Predominan temas sociales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Solo ciencia ficción.",
           "is_correct": false,
           "feedback": "Hay diversidad de géneros."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La novela gráfica latinoamericana dialoga con la historia y la cultura regional.",
       "difficulty": "8",
       "images": [],
@@ -611,31 +611,31 @@
       "context": "En clase en Medellín, se compara el montaje cinematográfico con la novela gráfica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Utiliza encuadres, planos y secuencias para construir la narrativa visual.",
           "is_correct": true,
           "feedback": "Hay un lenguaje secuencial común."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es animada.",
           "is_correct": false,
           "feedback": "Es estática."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Tiene banda sonora obligatoria.",
           "is_correct": false,
           "feedback": "No."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No tiene texto.",
           "is_correct": false,
           "feedback": "Sí incluye texto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Ambas artes secuenciales organizan planos y tiempos narrativos.",
       "difficulty": "8",
       "images": [],
@@ -657,19 +657,19 @@
       "context": "En Pereira, se analiza el uso del color.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Crear atmósfera de melancolía, atemporalidad o enfoque en lo emocional.",
           "is_correct": true,
           "feedback": "El color refuerza el tono."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Confundir al lector.",
           "is_correct": false,
           "feedback": "Es decisión estética."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ahorrar costos de impresión.",
           "is_correct": false,
           "feedback": "La razón es expresiva."
@@ -681,7 +681,7 @@
           "feedback": "No reemplaza el argumento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La elección cromática es un recurso narrativo, no decorativo.",
       "difficulty": "8",
       "images": [],
@@ -749,19 +749,19 @@
       "context": "En un coloquio en Manizales, se evalúa la madurez del género.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Su inclusión en premios literarios prestigiosos y en la academia.",
           "is_correct": true,
           "feedback": "Hay premios específicos y estudios universitarios."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Su bajo número de lectores.",
           "is_correct": false,
           "feedback": "Su público crece."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Su prohibición en bibliotecas.",
           "is_correct": false,
           "feedback": "Se promueve su lectura."
@@ -773,7 +773,7 @@
           "feedback": "Está ampliamente disponible."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La novela gráfica ha ganado reconocimiento crítico y académico mundial.",
       "difficulty": "10",
       "images": [],
@@ -795,13 +795,13 @@
       "context": "En Pasto, se analiza la censura de novelas gráficas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Su valor estético, su accesibilidad para diversos lectores y su potencial formativo.",
           "is_correct": true,
           "feedback": "Contribuyen a la formación lectora."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Son solo entretenimiento sin valor.",
           "is_correct": false,
           "feedback": "Poseen valor estético y crítico."
@@ -819,7 +819,7 @@
           "feedback": "Sí lo requieren."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La biblioteca escolar debe reflejar la diversidad de formatos literarios contemporáneos.",
       "difficulty": "10",
       "images": [],
@@ -841,13 +841,13 @@
       "context": "En Armenia, se evalúa la adaptación cinematográfica de novelas gráficas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Traducir la lectura secuencial a un ritmo audiovisual sin perder la iconicidad visual.",
           "is_correct": true,
           "feedback": "Es un reto de transposición."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Eliminar la música.",
           "is_correct": false,
           "feedback": "La música puede enriquecer."
@@ -865,7 +865,7 @@
           "feedback": "Requiere adaptación narrativa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La transposición de medios implica decisiones estéticas cuidadosas.",
       "difficulty": "10",
       "images": [],
@@ -887,31 +887,31 @@
       "context": "En un cierre en Bogotá, se reflexiona sobre el futuro del género.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Mayor integración curricular, formación docente específica y producción nacional.",
           "is_correct": true,
           "feedback": "Crece su presencia pedagógica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Su eliminación total.",
           "is_correct": false,
           "feedback": "Tiende a expandirse."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Su uso exclusivo en universidades privadas.",
           "is_correct": false,
           "feedback": "Llega a todos los niveles."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Su reemplazo por videos.",
           "is_correct": false,
           "feedback": "Convive con otros medios."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La novela gráfica seguirá enriqueciendo la formación lectora y crítica en Colombia.",
       "difficulty": "10",
       "images": [],

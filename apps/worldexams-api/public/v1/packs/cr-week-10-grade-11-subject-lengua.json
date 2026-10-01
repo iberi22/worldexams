@@ -13,19 +13,19 @@
       "context": "Durante una sesión de Español en el Liceo de Heredia, los estudiantes repasan los tropos y las figuras literarias.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La identificación directa de un término real con uno imaginario debido a una relación de semejanza, sin utilizar nexos comparativos.",
           "is_correct": true,
           "feedback": "Correcto. La metáfora es la traslación de sentido directa sin nexos explícitos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La comparación explícita de dos elementos utilizando nexos comparativos como 'como', 'parece' o 'semeja'.",
           "is_correct": false,
           "feedback": "Incorrecto. Esta definición formal corresponde al símil o comparación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La exageración desmesurada de las cualidades de un personaje de Alajuela.",
           "is_correct": false,
           "feedback": "Incorrecto. Esto constituye una definición formal de la hipérbole."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Esto define a la aliteración poética, no a la metáfora."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La metáfora es el tropo conceptual por excelencia que unifica el plano real e imaginario de forma directa basándose en analogías estéticas.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -109,25 +109,25 @@
           "feedback": "Incorrecto. La metáfora asocia un término real con uno figurado; atribuir conducta es personificación."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Personificación o prosopopeya.",
           "is_correct": true,
           "feedback": "Correcto. Consiste en conceder rasgos, acciones o sentimientos humanos (silbar canciones tristes) a elementos de la naturaleza u objetos inanimados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Símil utilizando el nexo comparativo 'como'.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay nexos comparativos de semejanza explícitos en el enunciado de Cartago."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Aliteración fonética de la letra /s/ en la asamblea.",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque hay sonidos de /s/, la figura conceptual dominante es la atribución de conducta humana."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La personificación o prosopopeya es el tropo de pensamiento que humaniza el entorno inanimado, dotando de dinamismo vital a la naturaleza en la literatura.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -154,25 +154,25 @@
           "feedback": "Incorrecto. Es un enunciado puramente fáctico descriptivo, libre de exageraciones o tropos poéticos."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Llovieron océanos enteros sobre Limón, inundando hasta el último rincón de la provincia con cascadas celestiales.",
           "is_correct": true,
           "feedback": "Correcto. El uso de 'océanos enteros' es una exageración desmesurada (hipérbole) con fines expresivos estéticos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La lluvia caribeña caía como finas lágrimas sobre las hojas de banano.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un símil comparativo poético ('como finas lágrimas'), no una hipérbole de exageración."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El Ministerio de Educación Pública emitió una alerta por el temporal.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un hecho fáctico de carácter periodístico o informativo de seguridad del MEP."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La hipérbole deforma de manera intencional y desmesurada la realidad para intensificar el efecto dramático de la escena.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrecto. Esto define a la anáfora poética, no a la antítesis."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "En la contraposición de dos palabras, conceptos o ideas de significado opuesto en una misma estrofa para resaltar un contraste.",
           "is_correct": true,
           "feedback": "Correcto. La antítesis confronta términos contrapuestos de forma lógica y poética (como 'luz' y 'sombra', o 'dulce' y 'amargo')."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "En el uso de construcciones impersonales con pasiva refleja.",
           "is_correct": false,
           "feedback": "Incorrecto. Esto caracteriza a la sintaxis del texto expositivo académico, ajeno a figuras poéticas líricas."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Se trata de un recurso de puntuación, no de contraposición semántica lírica."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La antítesis realza la expresión lírica al aproximar conceptos opuestos, estructurando un conflicto semántico de gran belleza en el poema.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorrecto. El hipérbaton altera el orden de las palabras, ausente en este sintagma nominal directo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Oxímoron.",
           "is_correct": true,
           "feedback": "Correcto. El oxímoron une dos conceptos contradictorios en un mismo sintagma ('áspera' y 'caricia' se contradicen), creando un nuevo significado poético."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Anáfora de Cartago.",
           "is_correct": false,
           "feedback": "Incorrecto. Consiste en la repetición de palabras en versos sucesivos, no en la contradicción de un sintagma."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. El epíteto es un adjetivo explicativo que destaca una cualidad natural obvia (blanca nieve), no un término contradictorio."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El oxímoron es una figura que une de forma directa términos opuestos en un mismo sintagma oracional, obligando al lector a un esfuerzo de síntesis semántica.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -334,25 +334,25 @@
           "feedback": "Incorrecto. La metáfora pura omite el plano real (A), dejando únicamente el término imaginario (B). Aquí 'su voz' está explícito."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Metáfora impura (de identificación directa del plano real A con el imaginario B a través del verbo 'ser': A es B).",
           "is_correct": true,
           "feedback": "Correcto. El verso une de forma directa 'su voz' (A) con 'manantial' (B) a través de la cópula verbal 'era' (A es B)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Símil poético de la provincia de Alajuela.",
           "is_correct": false,
           "feedback": "Incorrecto. No utiliza nexos gramaticales comparativos de semejanza explícitos como 'como' o 'semeja'."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Hipérbole de las municipalidades del país.",
           "is_correct": false,
           "feedback": "Incorrecto. No constituye una exageración de gran escala; es una correspondencia de significado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La metáfora impura asocia de forma directa los dos planos en la oración gramatical, sirviéndose convencionalmente del verbo copulativo 'ser'.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Durante una asamblea de Español en Cartago, un estudiante analiza la figura de la 'sinécdoque'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "En la contraposición lógica de dos ideas opuestas en una estrofa poética.",
           "is_correct": false,
           "feedback": "Incorrecto. Esto constituye la definición formal de la antítesis, no de la sinécdoque."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En designar un elemento con el nombre de otro a partir de una relación de inclusión de carácter físico, por ejemplo, mencionando la parte para referirse al todo.",
           "is_correct": true,
           "feedback": "Correcto. Describe con rigor la transferencia semántica por inclusión de la sinécdoque."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Esto constituye la definición formal de la aliteración, no de la sinécdoque."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La sinécdoque es un tropo semántico de gran valor descriptivo que sustituye vocablos basándose en relaciones de contigüidad física o cuantitativa.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Lea atentamente el siguiente fragmento lírico:\n\n'Tus ojos de noche oscura alumbran el camino del viajero;\n\ntus manos de viento fresco carician mi frente en el Valle Central;\n\ntu voz de arroyo limpio es música de paz que duerme las penas.'",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La anáfora y el paralelismo sintáctico, al repetir la misma estructura gramatical e iniciar cada verso con la misma palabra de pertenencia.",
           "is_correct": true,
           "feedback": "Correcto. El poema se organiza mediante la repetición de palabras al inicio ('tus', 'tus', 'tu') y repite una misma estructura gramatical en los tres versos, logrando paralelismo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El hipérbaton por alteración del orden de la oración en la provincia de Alajuela.",
           "is_correct": false,
           "feedback": "Incorrecto. El orden sintáctico se mantiene lineal, natural e idéntico en los tres versos, sin hipérbaton."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. El poema es lírico, de tono afectivo, amoroso y pacífico, libre de parodias burlescas de deformación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La anáfora combinada con el paralelismo sintáctico dota al poema de una gran simetría y ritmo, acentuando de forma cadenciosa los atributos del sujeto.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -514,25 +514,25 @@
           "feedback": "Incorrecto. El orden oracional es directo y no hay omisión de conjunciones copulativas coordinantes."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La personificación o prosopopeya, al atribuir conductas y sentimientos netamente humanos al cráter y a la montaña.",
           "is_correct": true,
           "feedback": "Correcto. Humaniza los accidentes geográficos dándoles vida, lo cual es personificación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La antítesis entre el humo del volcán y los adobes de la casa.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay una confrontación de conceptos opuestos directos en el enunciado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La sinécdoque de la parte por el todo referida al cultivo de café.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay sustitución cuantitativa de la parte por el todo de términos agrícolas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La personificación de la geología volcánica costarricense impregna al paisaje de sensibilidad humana, transformando el relieve físico en un escenario íntimo.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -604,25 +604,25 @@
           "feedback": "Incorrecto. No utiliza nexos gramaticales comparativos de semejanza explícitos; la correspondencia es de identificación directa."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Metáfora de equivalencia de identificación del plano real (colón) con el imaginario (oro) para realzar el gran valor del trabajo rústico del labriego.",
           "is_correct": true,
           "feedback": "Correcto. Asocia de forma directa el colón costarricense con el oro para dignificar económicamente y dar alto valor moral al jornalero."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sinécdoque de la parte por el todo de los bancos de la capital.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay relaciones cuantitativas de inclusión de parte-todo con el sistema bancario."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La ironía de la moneda de colones costarricense emitida por el MEP.",
           "is_correct": false,
           "feedback": "Incorrecto. El tono es de elogio, orgullo e identidad, no de sátira, desprecio o burla del signo monetario."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La metáfora monetaria (colón-oro) dignifica y exalta el fruto del esfuerzo físico del campesino costarricense, confiriéndole la máxima nobleza material y moral de la riqueza agraria nacional.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Incorrecto. Es un tropo poético de color local, no una descripción científica física de adobes."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Es una comparación de gran color local costarricense que integra la rústica arquitectura tradicional (los adobes) con el sigilo del animal para caracterizar el andar misterioso de la criatura mítica.",
           "is_correct": true,
           "feedback": "Correcto. El 'gato de adobes' evoca una imagen rural típica costarricense de gran valor identitario costumbrista."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Demuestra que el autor posee un gran manejo de los antibióticos del perro doméstico.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un análisis estético de figuras retóricas, libre de variables de veterinaria o medicina animal."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. No tiene propósitos legislativos o de demolición de la provincia; el fin es de color local."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La literatura costumbrista de Costa Rica enriquece sus comparaciones y símiles valiéndose de elementos cotidianos de la vida agraria (como los adobes o las carretas), logrando un arraigo estético.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -829,25 +829,25 @@
           "feedback": "Incorrecto. El asíndeton hace lo contrario: elimina las conjunciones para dar rapidez y velocidad al verso."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Polisíndeton.",
           "is_correct": true,
           "feedback": "Correcto. El polisíndeton acumula conjunciones coordinantes de forma voluntaria para dotar de pesadez y lentitud expresiva al poema."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Anáfora al inicio del verso de la provincia.",
           "is_correct": false,
           "feedback": "Incorrecto. Reitera vocablos al comienzo de versos consecutivos, no conjunciones copulativas a lo largo de la frase."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Metáfora del buey cansado de Cartago.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un tropo semántico de correspondencia, no una figura de construcción sintáctica oracional de conjunciones."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El polisíndeton retarda de forma deliberada el fluir sintáctico del poema, confiriéndole solemnidad y acentuando de forma individual cada uno de los elementos de la serie.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Durante una asamblea de Español en Alajuela, se repasa la definición de la figura del 'hipérbaton'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "En la exageración de los rasgos psicológicos de un campesino.",
           "is_correct": false,
           "feedback": "Incorrecto. Esto constituye la definición de la etopeya de exageración o caricatura moral de carácter retórico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En la alteración intencionada de la disposición regular u orden sintáctico lógico de las palabras de la oración (sujeto, verbo, complementos) en el escrito.",
           "is_correct": true,
           "feedback": "Correcto. El hipérbaton fractura la estructura lineal lógica del idioma con fines rítmicos poéticos clásicos."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Es un recurso lingüístico estético literario formal clásico de la lengua, ajeno a normativas burocráticas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El hipérbaton rompe la secuencia lógica regular sintáctica del español, emulando la estructura clásica de la sintaxis latina clásica con una alta finalidad de sonoridad métrica y distinción literaria.",
       "difficulty": "10",
       "images": [],

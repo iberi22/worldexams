@@ -13,19 +13,19 @@
       "context": "Clase de ciencias en Soyapango estudiando magnetismo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Fotosíntesis",
           "is_correct": true,
           "feedback": "¡Correcto!"
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Respiración celular",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fermentación",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
       "difficulty": "4",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "Clase de ciencias en Soyapango estudiando magnetismo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "24 N",
           "is_correct": true,
           "feedback": "¡Correcto!"
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "18 N",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "F = ma = 6×4 = 24 N.",
       "difficulty": "4",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Clase de ciencias en San Salvador estudiando magnetismo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Fotosíntesis",
           "is_correct": true,
           "feedback": "¡Correcto!"
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Respiración celular",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "Clase de ciencias en Mejicanos estudiando magnetismo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La piel",
           "is_correct": true,
           "feedback": "¡Correcto!"
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El hígado",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
       "difficulty": "6",
       "images": [],
@@ -373,31 +373,31 @@
       "context": "Clase de ciencias en Mejicanos estudiando magnetismo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La exposición a la luz",
           "is_correct": true,
           "feedback": "¡Correcto!"
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El crecimiento de las plantas",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La temperatura ambiente",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El tipo de planta",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La variable independiente es la que manipula el investigador: la luz.",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Clase de ciencias en San Salvador estudiando magnetismo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La célula",
           "is_correct": true,
           "feedback": "¡Correcto!"
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El átomo",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
       "difficulty": "6",
       "images": [],
@@ -463,19 +463,19 @@
       "context": "Clase de ciencias en Santa Ana estudiando magnetismo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Fotosíntesis",
           "is_correct": true,
           "feedback": "¡Correcto!"
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Respiración celular",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fermentación",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
       "difficulty": "8",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "Clase de ciencias en Santa Ana estudiando magnetismo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "9 N",
           "is_correct": true,
           "feedback": "¡Correcto!"
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "6 N",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "12 N",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "F = ma = 3×3 = 9 N.",
       "difficulty": "8",
       "images": [],
@@ -598,19 +598,19 @@
       "context": "Clase de ciencias en San Salvador estudiando magnetismo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La exposición a la luz",
           "is_correct": true,
           "feedback": "¡Correcto!"
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El crecimiento de las plantas",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La temperatura ambiente",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La variable independiente es la que manipula el investigador: la luz.",
       "difficulty": "8",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "Clase de ciencias en Soyapango estudiando magnetismo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Fotosíntesis",
           "is_correct": true,
           "feedback": "¡Correcto!"
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Respiración celular",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fermentación",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
       "difficulty": "8",
       "images": [],
@@ -733,19 +733,19 @@
       "context": "Clase de ciencias en Soyapango estudiando magnetismo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "12 N",
           "is_correct": true,
           "feedback": "¡Correcto!"
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "9 N",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "16 N",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "F = ma = 3×4 = 12 N.",
       "difficulty": "10",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Clase de ciencias en Mejicanos estudiando magnetismo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La piel",
           "is_correct": true,
           "feedback": "¡Correcto!"
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El hígado",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
       "difficulty": "10",
       "images": [],
@@ -823,19 +823,19 @@
       "context": "Clase de ciencias en Soyapango estudiando magnetismo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La exposición a la luz",
           "is_correct": true,
           "feedback": "¡Correcto!"
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El crecimiento de las plantas",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La temperatura ambiente",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa el concepto."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Revisa el concepto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La variable independiente es la que manipula el investigador: la luz.",
       "difficulty": "10",
       "images": [],

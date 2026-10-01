@@ -13,13 +13,13 @@
       "context": "En clase en Bogotá, los estudiantes dibujan el plano cartesiano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Dos rectas perpendiculares: una horizontal (eje X) y una vertical (eje Y).",
           "is_correct": true,
           "feedback": "Correcto. Los ejes X y Y se cruzan en el origen."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Tres ejes paralelos.",
           "is_correct": false,
           "feedback": "Incorrecto. Los ejes son perpendiculares."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Es un sistema rectangular."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El plano cartesiano fue ideado por René Descartes para representar puntos mediante coordenadas (x, y).",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "En un taller en Medellín, se ubica el origen.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Origen y tiene coordenadas (0, 0).",
           "is_correct": true,
           "feedback": "Correcto. (0, 0) es el origen."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Cuadrante.",
           "is_correct": false,
           "feedback": "Incorrecto. El cuadrante es una región."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Eje vertical.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso es el eje Y."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Eje horizontal.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso es el eje X."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El origen es el punto de referencia (0, 0) del plano cartesiano.",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En clase en Pereira, se identifican puntos sobre los ejes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$(a, 0)$.",
           "is_correct": true,
           "feedback": "Correcto. La segunda coordenada es cero."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(0, b)$.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso es sobre el eje Y."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(a, b)$ con a y b distintos de cero.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso es un punto fuera de los ejes."
@@ -175,7 +175,7 @@
           "feedback": "Solo si es el origen."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los puntos sobre un eje tienen una coordenada igual a cero.",
       "difficulty": "4",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En un ejercicio en Manizales, se trasladan puntos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(6, 3)$.",
           "is_correct": true,
           "feedback": "Correcto. Se suma 4 a la abscisa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(-2, 3)$.",
           "is_correct": false,
           "feedback": "Incorrecto. Restaste en lugar de sumar."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Moviste ambos ejes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Una traslación horizontal suma (o resta) unidades a la coordenada x manteniendo la y.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "En Tunja, se calculan distancias entre puntos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "5.",
           "is_correct": true,
           "feedback": "Correcto. $d = \\sqrt{(4-1)^2 + (6-2)^2} = \\sqrt{9 + 16} = 5$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3.",
           "is_correct": false,
           "feedback": "Incorrecto. Solo consideraste la diferencia en X."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "7.",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste diferencias."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "25.",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el cuadrado de la distancia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La distancia entre dos puntos se calcula con la fórmula $\\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$.",
       "difficulty": "6",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En clase en Popayán, se representa una recta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$y = c$, con $c$ constante.",
           "is_correct": true,
           "feedback": "Correcto. La ordenada no cambia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = c$.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso describe una recta vertical."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$y = mx + b$.",
           "is_correct": false,
           "feedback": "Incorrecto. Es la forma general, no específica."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Es una diagonal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Una recta horizontal es paralela al eje X, por lo que todas sus ordenadas son iguales.",
       "difficulty": "8",
       "images": [],
@@ -433,25 +433,25 @@
           "feedback": "Incorrecto. Tiene función analítica."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Permite visualizar relaciones, identificar patrones y resolver problemas geométricos.",
           "is_correct": true,
           "feedback": "Correcto. Es una herramienta analítica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sustituye la matemática.",
           "is_correct": false,
           "feedback": "Incorrecto. La complementa."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Evita escribir ecuaciones.",
           "is_correct": false,
           "feedback": "Incorrecto. Permite escribirlas mejor."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El plano cartesiano facilita la interpretación gráfica de la información matemática.",
       "difficulty": "10",
       "images": [],

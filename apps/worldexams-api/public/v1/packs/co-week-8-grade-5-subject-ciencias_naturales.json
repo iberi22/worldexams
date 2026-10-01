@@ -13,31 +13,31 @@
       "context": "En clase de ciencias en Sogamoso, la profesora enciende una linterna en un salón oscuro.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El Sol.",
           "is_correct": true,
           "feedback": "El Sol es una estrella que emite luz propia de manera natural."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una bombilla encendida.",
           "is_correct": false,
           "feedback": "La bombilla es una fuente artificial de luz producida por el ser humano."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una linterna con pilas.",
           "is_correct": false,
           "feedback": "La linterna es una fuente artificial de luz."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Una vela encendida.",
           "is_correct": false,
           "feedback": "La vela es una fuente artificial de luz creada por el ser humano."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Diferenciar fuentes naturales y artificiales de luz a partir de ejemplos cotidianos.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "Un estudiante observa su sombra en el patio durante la tarde y nota que es más larga que en el mediodía.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Porque la posición del Sol en el cielo cambia y modifica el ángulo con que la luz llega al objeto.",
           "is_correct": true,
           "feedback": "El ángulo de incidencia de la luz solar varía durante el día, cambiando el tamaño de la sombra."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque el Sol se aleja físicamente de la Tierra en pocas horas.",
           "is_correct": false,
           "feedback": "La distancia Sol-Tierra no cambia de manera perceptible en horas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque la sombra se infla con la humedad del aire.",
           "is_correct": false,
           "feedback": "La humedad no infla las sombras; el cambio se debe al ángulo de la luz solar."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque el objeto crece durante el día.",
           "is_correct": false,
           "feedback": "Los objetos no crecen por estar expuestos al Sol; el cambio está en la sombra."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aplicar la variación del ángulo de la luz solar para explicar los cambios de tamaño de las sombras.",
       "difficulty": "6",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En el salón, una niña coloca un objeto cerca de una lámpara encendida y observa una sombra en la pared.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La sombra se hace más grande porque los rayos se separan al alejarse.",
           "is_correct": true,
           "feedback": "Al alejarse, los rayos divergen y producen una sombra más grande."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La sombra se hace más pequeña porque se concentra en un punto.",
           "is_correct": false,
           "feedback": "Al alejar el objeto, la sombra aumenta, no disminuye."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La sombra desaparece sin importar la distancia.",
           "is_correct": false,
           "feedback": "La sombra se mantiene mientras haya luz y un objeto opaco en su camino."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La sombra mantiene siempre el mismo tamaño exacto.",
           "is_correct": false,
           "feedback": "El tamaño de la sombra varía con la distancia a la fuente de luz."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aplicar la relación entre distancia a la fuente de luz y tamaño de la sombra proyectada.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En un experimento, un estudiante mira un espejo plano y ve su propio reflejo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Reflexión de la luz.",
           "is_correct": true,
           "feedback": "El rebote ordenado de la luz en una superficie lisa se llama reflexión."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Refracción de la luz.",
           "is_correct": false,
           "feedback": "La refracción ocurre cuando la luz pasa de un medio a otro, no cuando rebota."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Absorción total de la luz.",
           "is_correct": false,
           "feedback": "La absorción atrapa la luz; el espejo la devuelve, por eso no es absorción."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Sombra proyectada.",
           "is_correct": false,
           "feedback": "La sombra aparece cuando la luz es bloqueada, no cuando rebota."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Identificar el fenómeno de reflexión de la luz en superficies lisas como los espejos.",
       "difficulty": "6",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "Lee: 'La luz del Sol permite la vida en la Tierra, pero la exposición excesiva a sus rayos ultravioleta puede dañar la piel y los ojos. Usar protector solar, gafas con filtro UV y ropa adecuada ayuda a protegerse.'",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Porque los rayos ultravioleta pueden dañar piel y ojos; se protege con bloqueador, gafas con filtro UV y ropa adecuada.",
           "is_correct": true,
           "feedback": "La protección adecuada reduce el daño por radiación UV sin dejar de aprovechar los beneficios de la luz solar."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque la luz del Sol es tóxica y debe evitarse por completo a cualquier hora.",
           "is_correct": false,
           "feedback": "La luz solar es esencial para la vida; el problema es el exceso, no la luz en sí."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque solo las gafas oscuras ofrecen protección frente a los rayos UV.",
           "is_correct": false,
           "feedback": "Las gafas oscuras sin filtro UV no protegen; debe haber filtro UV certificado."
@@ -359,7 +359,7 @@
           "feedback": "La ropa oscura puede bloquear mejor la luz visible, pero lo clave es el material y el factor UV, no solo el color."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evaluar la importancia de la protección solar y reconocer las medidas adecuadas para cuidar la salud.",
       "difficulty": "10",
       "images": [],

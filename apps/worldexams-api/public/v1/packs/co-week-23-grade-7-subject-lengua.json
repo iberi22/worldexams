@@ -19,25 +19,25 @@
           "feedback": "Incorrecto. El entretenimiento no es el fin del discurso político, aunque use recursos retóricos."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Persuadir a los ciudadanos sobre una visión del mundo o ganar su apoyo para una propuesta.",
           "is_correct": true,
           "feedback": "¡Correcto! El discurso político busca generar consenso y movilizar a la gente hacia un fin específico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Explicar leyes científicas sobre el funcionamiento de la naturaleza.",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el objetivo del discurso científico, no del político."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Vender productos comerciales de limpieza para el hogar.",
           "is_correct": false,
           "feedback": "Incorrecto. Esto corresponde al discurso publicitario."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El discurso político se centra en el \"deber ser\" de la sociedad. Utiliza el lenguaje para construir realidades, prometer cambios y unir a las personas bajo una ideología o programa de gobierno.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "La retórica es el arte de hablar bien para deleitar, conmover o persuadir.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El uso de un lenguaje técnico que nadie pueda entender.",
           "is_correct": false,
           "feedback": "Incorrecto. Los políticos suelen buscar un lenguaje accesible para llegar a la mayoría de la población."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El uso de figuras retóricas como la metáfora y la repetición para enfatizar ideas.",
           "is_correct": true,
           "feedback": "¡Correcto! Estos recursos ayudan a que el mensaje sea memorable y emocionante."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. El contenido debe ser social y político, no trivial."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Recursos como la anáfora (repetir palabras al inicio de frases) o las metáforas sobre el futuro ayudan a que el discurso político conecte con las emociones del público.",
       "difficulty": "4",
       "images": [],
@@ -111,13 +111,13 @@
           "feedback": "Incorrecto. No se está exagerando una cantidad, se está comparando conceptos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Metáfora (comparación implícita).",
           "is_correct": true,
           "feedback": "¡Correcto! Compara la justicia con el pan y el inicio de un proceso con sembrar una semilla."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Onomatopeya (imitación de sonidos).",
           "is_correct": false,
           "feedback": "Incorrecto. No hay imitación de sonidos de la naturaleza."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. En este contexto, el político intenta ser inspirador y directo, no irónico."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La metáfora permite que ideas abstractas como \"justicia\" o \"paz\" se vuelvan más cercanas y comprensibles al compararlas con elementos de la vida cotidiana.",
       "difficulty": "6",
       "images": [],
@@ -157,13 +157,13 @@
           "feedback": "Incorrecto. No es un problema de memoria."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Para generar un sentimiento de comunidad y hacer que los ciudadanos se sientan parte del proyecto.",
           "is_correct": true,
           "feedback": "¡Correcto! El \"nosotros\" inclusivo reparte la responsabilidad y crea un vínculo emocional de unidad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque está hablando en nombre de su familia únicamente.",
           "is_correct": false,
           "feedback": "Incorrecto. En política, el nosotros se refiere a la colectividad social."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Ambas formas son correctas, pero tienen efectos persuasivos diferentes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El lenguaje político busca borrar las distancias entre el líder y el pueblo. El plural inclusivo es una de las herramientas más efectivas para lograr la identificación del votante.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Los discursos políticos pueden contener falacias para descalificar al oponente o manipular la opinión pública.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Argumento de autoridad basado en leyes económicas.",
           "is_correct": false,
           "feedback": "Incorrecto. No cita ninguna ley ni experto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ataque personal o falacia ad hominem (ataca las supuestas intenciones o amistades del otro en lugar de su propuesta).",
           "is_correct": true,
           "feedback": "¡Correcto! En lugar de explicar por qué bajar impuestos es malo, ataca la moralidad del oponente."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. No establece comparaciones entre sistemas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El análisis crítico del discurso político implica separar las propuestas reales de los ataques emocionales o personales que buscan distraer al votante.",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "La intención comunicativa del discurso político suele estar oculta tras un lenguaje cargado de valores positivos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Pedirle a la gente que se ayude más entre vecinos.",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es una interpretación literal de \"tejido social\" que ignora el contexto de cobro de dinero."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Convencer a la gente de pagar más dinero al gobierno usando un nombre que suene menos negativo que \"impuesto\".",
           "is_correct": true,
           "feedback": "¡Correcto! El uso de eufemismos (\"ajuste solidario\") busca suavizar una medida que suele ser impopular."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. \"Tejido social\" es una metáfora sobre las relaciones humanas, no sobre textiles."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El uso de eufemismos es muy común en política para presentar realidades difíciles o impopulares de una manera más aceptable para la opinión pública.",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "El discurso político también se manifiesta en imágenes y símbolos, no solo en palabras.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que tiene mucho calor y necesita protegerse del sol.",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque sea cierto, en una campaña cada prenda tiene un significado político."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que quiere mostrar su colección de ropa de diseñador.",
           "is_correct": false,
           "feedback": "Incorrecto. El sombrero vueltiao es un símbolo popular, no de alta costura de lujo."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Que se identifica con las tradiciones culturales y con la gente del campo colombiano.",
           "is_correct": true,
           "feedback": "¡Correcto! Los símbolos regionales generan confianza y cercanía con la población local."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. El discurso político es serio y busca representación, no burla."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La comunicación política es integral. El vestuario, los gestos y el lugar donde se habla refuerzan el mensaje verbal para construir una imagen de coherencia y pertenencia.",
       "difficulty": "8",
       "images": [],
@@ -387,25 +387,25 @@
           "feedback": "Incorrecto. Es un análisis literal absurdo que ignora la metáfora política."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Que su liderazgo eliminaba la frontera entre él y sus seguidores, presentándose como el representante absoluto de las masas.",
           "is_correct": true,
           "feedback": "¡Correcto! Es una poderosa herramienta de populismo y representación donde el líder se vuelve el símbolo de la voluntad colectiva."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que estaba invitando a la gente a participar en un censo de población nacional.",
           "is_correct": false,
           "feedback": "Incorrecto. No se refiere a contar personas, sino a representarlas políticamente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que prefería que lo llamaran \"Pueblo\" en lugar de su nombre propio.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una estrategia discursiva, no un cambio de nombre legal."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Este tipo de frases buscan la identificación total. Si el líder \"es el pueblo\", cualquier ataque al líder es un ataque al pueblo, lo que genera una lealtad emocional muy fuerte.",
       "difficulty": "10",
       "images": [],
@@ -433,13 +433,13 @@
           "feedback": "Incorrecto. Un análisis crítico debe ser realista respecto a las posibilidades económicas y temporales."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Un discurso populista y demagógico, pues hace promesas imposibles de cumplir en tan corto tiempo para atraer votos fáciles.",
           "is_correct": true,
           "feedback": "¡Correcto! La demagogia consiste en halagar a las masas con soluciones mágicas a problemas complejos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un plan de gobierno detallado y técnico basado en la economía real.",
           "is_correct": false,
           "feedback": "Incorrecto. No presenta cómo lo hará ni con qué recursos, solo hace la promesa grandilocuente."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. El presidente no puede garantizar empleo por decreto ni construir millones de casas en un mes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La demagogia apela a los deseos más profundos de la gente (casa, trabajo) para obtener poder, ignorando las limitaciones de la realidad y la economía, lo cual es considerado un vicio del discurso político.",
       "difficulty": "10",
       "images": [],

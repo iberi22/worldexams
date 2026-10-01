@@ -59,19 +59,19 @@
       "context": "Alejandro en Cali repasa los temas fundamentales del Periodo 1 para la prueba Saber 11.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$[4, \\infty)$",
           "is_correct": true,
           "feedback": "Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 4 \\ge 0 \\implies x \\ge 4$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(4, \\infty)$",
           "is_correct": false,
           "feedback": "Incorrecto. Excluiste el valor 4, donde la raíz da 0 y es perfectamente válida en los reales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(-\\infty, 4]$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste el sentido de la desigualdad."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para que la función raíz cuadrada sea real, se requiere que $x - 4 \\ge 0$, lo que implica $x \\ge 4$. Por lo tanto, el dominio es $[4, \\infty)$.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Isabella en Barranquilla repasa los temas fundamentales del Periodo 1 para la prueba Saber 11.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$[5, \\infty)$",
           "is_correct": true,
           "feedback": "Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 5 \\ge 0 \\implies x \\ge 5$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(5, \\infty)$",
           "is_correct": false,
           "feedback": "Incorrecto. Excluiste el valor 5, donde la raíz da 0 y es perfectamente válida en los reales."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para que la función raíz cuadrada sea real, se requiere que $x - 5 \\ge 0$, lo que implica $x \\ge 5$. Por lo tanto, el dominio es $[5, \\infty)$.",
       "difficulty": "4",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "Sofia en Cartagena repasa los temas fundamentales del Periodo 1 para la prueba Saber 11.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$[7, \\infty)$",
           "is_correct": true,
           "feedback": "Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 7 \\ge 0 \\implies x \\ge 7$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(7, \\infty)$",
           "is_correct": false,
           "feedback": "Incorrecto. Excluiste el valor 7, donde la raíz da 0 y es perfectamente válida en los reales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(-\\infty, 7]$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste el sentido de la desigualdad."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para que la función raíz cuadrada sea real, se requiere que $x - 7 \\ge 0$, lo que implica $x \\ge 7$. Por lo tanto, el dominio es $[7, \\infty)$.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "Diego en Pereira repasa los temas fundamentales del Periodo 1 para la prueba Saber 11.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$[8, \\infty)$",
           "is_correct": true,
           "feedback": "Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 8 \\ge 0 \\implies x \\ge 8$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(8, \\infty)$",
           "is_correct": false,
           "feedback": "Incorrecto. Excluiste el valor 8, donde la raíz da 0 y es perfectamente válida en los reales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(-\\infty, 8]$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste el sentido de la desigualdad."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para que la función raíz cuadrada sea real, se requiere que $x - 8 \\ge 0$, lo que implica $x \\ge 8$. Por lo tanto, el dominio es $[8, \\infty)$.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Valentina en Manizales repasa los temas fundamentales del Periodo 1 para la prueba Saber 11.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$[9, \\infty)$",
           "is_correct": true,
           "feedback": "Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 9 \\ge 0 \\implies x \\ge 9$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(9, \\infty)$",
           "is_correct": false,
           "feedback": "Incorrecto. Excluiste el valor 9, donde la raíz da 0 y es perfectamente válida en los reales."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para que la función raíz cuadrada sea real, se requiere que $x - 9 \\ge 0$, lo que implica $x \\ge 9$. Por lo tanto, el dominio es $[9, \\infty)$.",
       "difficulty": "6",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "Santiago en Santa Marta repasa los temas fundamentales del Periodo 1 para la prueba Saber 11.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$[10, \\infty)$",
           "is_correct": true,
           "feedback": "Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 10 \\ge 0 \\implies x \\ge 10$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(10, \\infty)$",
           "is_correct": false,
           "feedback": "Incorrecto. Excluiste el valor 10, donde la raíz da 0 y es perfectamente válida en los reales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(-\\infty, 10]$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste el sentido de la desigualdad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "\\mathbb{R}",
           "is_correct": false,
           "feedback": "Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para que la función raíz cuadrada sea real, se requiere que $x - 10 \\ge 0$, lo que implica $x \\ge 10$. Por lo tanto, el dominio es $[10, \\infty)$.",
       "difficulty": "6",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "Mariana en Pasto repasa los temas fundamentales del Periodo 1 para la prueba Saber 11.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$[11, \\infty)$",
           "is_correct": true,
           "feedback": "Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 11 \\ge 0 \\implies x \\ge 11$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(11, \\infty)$",
           "is_correct": false,
           "feedback": "Incorrecto. Excluiste el valor 11, donde la raíz da 0 y es perfectamente válida en los reales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(-\\infty, 11]$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste el sentido de la desigualdad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "\\mathbb{R}",
           "is_correct": false,
           "feedback": "Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para que la función raíz cuadrada sea real, se requiere que $x - 11 \\ge 0$, lo que implica $x \\ge 11$. Por lo tanto, el dominio es $[11, \\infty)$.",
       "difficulty": "6",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "Juan en Bogotá repasa los temas fundamentales del Periodo 1 para la prueba Saber 11.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$[12, \\infty)$",
           "is_correct": true,
           "feedback": "Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 12 \\ge 0 \\implies x \\ge 12$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(12, \\infty)$",
           "is_correct": false,
           "feedback": "Incorrecto. Excluiste el valor 12, donde la raíz da 0 y es perfectamente válida en los reales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(-\\infty, 12]$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste el sentido de la desigualdad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "\\mathbb{R}",
           "is_correct": false,
           "feedback": "Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para que la función raíz cuadrada sea real, se requiere que $x - 12 \\ge 0$, lo que implica $x \\ge 12$. Por lo tanto, el dominio es $[12, \\infty)$.",
       "difficulty": "6",
       "images": [],
@@ -565,13 +565,13 @@
       "context": "Isabella en Barranquilla repasa los temas fundamentales del Periodo 1 para la prueba Saber 11.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$[15, \\infty)$",
           "is_correct": true,
           "feedback": "Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 15 \\ge 0 \\implies x \\ge 15$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(15, \\infty)$",
           "is_correct": false,
           "feedback": "Incorrecto. Excluiste el valor 15, donde la raíz da 0 y es perfectamente válida en los reales."
@@ -589,7 +589,7 @@
           "feedback": "Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para que la función raíz cuadrada sea real, se requiere que $x - 15 \\ge 0$, lo que implica $x \\ge 15$. Por lo tanto, el dominio es $[15, \\infty)$.",
       "difficulty": "8",
       "images": [],
@@ -657,13 +657,13 @@
       "context": "Sofia en Cartagena repasa los temas fundamentales del Periodo 1 para la prueba Saber 11.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$[17, \\infty)$",
           "is_correct": true,
           "feedback": "Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 17 \\ge 0 \\implies x \\ge 17$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(17, \\infty)$",
           "is_correct": false,
           "feedback": "Incorrecto. Excluiste el valor 17, donde la raíz da 0 y es perfectamente válida en los reales."
@@ -681,7 +681,7 @@
           "feedback": "Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para que la función raíz cuadrada sea real, se requiere que $x - 17 \\ge 0$, lo que implica $x \\ge 17$. Por lo tanto, el dominio es $[17, \\infty)$.",
       "difficulty": "8",
       "images": [],
@@ -703,19 +703,19 @@
       "context": "Diego en Pereira repasa los temas fundamentales del Periodo 1 para la prueba Saber 11.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$[18, \\infty)$",
           "is_correct": true,
           "feedback": "Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 18 \\ge 0 \\implies x \\ge 18$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(18, \\infty)$",
           "is_correct": false,
           "feedback": "Incorrecto. Excluiste el valor 18, donde la raíz da 0 y es perfectamente válida en los reales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(-\\infty, 18]$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste el sentido de la desigualdad."
@@ -727,7 +727,7 @@
           "feedback": "Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para que la función raíz cuadrada sea real, se requiere que $x - 18 \\ge 0$, lo que implica $x \\ge 18$. Por lo tanto, el dominio es $[18, \\infty)$.",
       "difficulty": "8",
       "images": [],
@@ -749,19 +749,19 @@
       "context": "Valentina en Manizales repasa los temas fundamentales del Periodo 1 para la prueba Saber 11.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$[19, \\infty)$",
           "is_correct": true,
           "feedback": "Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 19 \\ge 0 \\implies x \\ge 19$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(19, \\infty)$",
           "is_correct": false,
           "feedback": "Incorrecto. Excluiste el valor 19, donde la raíz da 0 y es perfectamente válida en los reales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(-\\infty, 19]$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste el sentido de la desigualdad."
@@ -773,7 +773,7 @@
           "feedback": "Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para que la función raíz cuadrada sea real, se requiere que $x - 19 \\ge 0$, lo que implica $x \\ge 19$. Por lo tanto, el dominio es $[19, \\infty)$.",
       "difficulty": "10",
       "images": [],
@@ -795,13 +795,13 @@
       "context": "Santiago en Santa Marta repasa los temas fundamentales del Periodo 1 para la prueba Saber 11.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$[20, \\infty)$",
           "is_correct": true,
           "feedback": "Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 20 \\ge 0 \\implies x \\ge 20$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(20, \\infty)$",
           "is_correct": false,
           "feedback": "Incorrecto. Excluiste el valor 20, donde la raíz da 0 y es perfectamente válida en los reales."
@@ -819,7 +819,7 @@
           "feedback": "Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para que la función raíz cuadrada sea real, se requiere que $x - 20 \\ge 0$, lo que implica $x \\ge 20$. Por lo tanto, el dominio es $[20, \\infty)$.",
       "difficulty": "10",
       "images": [],
@@ -841,19 +841,19 @@
       "context": "Mariana en Pasto repasa los temas fundamentales del Periodo 1 para la prueba Saber 11.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$[21, \\infty)$",
           "is_correct": true,
           "feedback": "Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 21 \\ge 0 \\implies x \\ge 21$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(21, \\infty)$",
           "is_correct": false,
           "feedback": "Incorrecto. Excluiste el valor 21, donde la raíz da 0 y es perfectamente válida en los reales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(-\\infty, 21]$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste el sentido de la desigualdad."
@@ -865,7 +865,7 @@
           "feedback": "Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para que la función raíz cuadrada sea real, se requiere que $x - 21 \\ge 0$, lo que implica $x \\ge 21$. Por lo tanto, el dominio es $[21, \\infty)$.",
       "difficulty": "10",
       "images": [],
@@ -887,19 +887,19 @@
       "context": "Juan en Bogotá repasa los temas fundamentales del Periodo 1 para la prueba Saber 11.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$[22, \\infty)$",
           "is_correct": true,
           "feedback": "Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 22 \\ge 0 \\implies x \\ge 22$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(22, \\infty)$",
           "is_correct": false,
           "feedback": "Incorrecto. Excluiste el valor 22, donde la raíz da 0 y es perfectamente válida en los reales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(-\\infty, 22]$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste el sentido de la desigualdad."
@@ -911,7 +911,7 @@
           "feedback": "Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para que la función raíz cuadrada sea real, se requiere que $x - 22 \\ge 0$, lo que implica $x \\ge 22$. Por lo tanto, el dominio es $[22, \\infty)$.",
       "difficulty": "10",
       "images": [],

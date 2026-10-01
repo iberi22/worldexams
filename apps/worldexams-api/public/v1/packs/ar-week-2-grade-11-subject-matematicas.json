@@ -58,13 +58,13 @@
       "context": "Matías analiza los costos de un emprendimiento en Córdoba.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El costo de producir una unidad de producto.",
           "is_correct": false,
           "feedback": "Incorrecto. El costo marginal por unidad es 50, que es constante."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La cantidad de unidades producidas en el mes.",
           "is_correct": true,
           "feedback": "Correcto. La variable independiente es la cantidad producida, ya que de ella depende el costo total."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. No estamos considerando ingresos, solo costos de producción."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La variable independiente es la que se puede cambiar libremente (en este caso, la cantidad producida $x$), y la variable dependiente es la que resulta (el costo total $C(x)$).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -109,13 +109,13 @@
           "feedback": "Incorrecto. El numerador puede ser 0 sin problemas, por lo que $x=0$ pertenece al dominio."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\mathbb{R} - \\{5\\}$",
           "is_correct": true,
           "feedback": "Correcto. El denominador no puede ser 0, por lo que $x - 5 \\neq 0 \\Rightarrow x \\neq 5$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$[5, +\\infty)$",
           "is_correct": false,
           "feedback": "Incorrecto. La función está definida para números menores que 5."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. El valor $x=5$ causa división por cero, por lo que debe excluirse."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "En una función racional, el dominio está formado por todos los números reales excepto aquellos que anulan el denominador, ya que la división por cero no está definida.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -154,25 +154,25 @@
           "feedback": "Incorrecto. Si $x < 7$ la expresión no está definida en los reales."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$[7, +\\infty)$",
           "is_correct": true,
           "feedback": "Correcto. Para que la raíz esté definida, el radicando debe ser no negativo: $x - 7 \\ge 0 \\Rightarrow x \\ge 7$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(7, +\\infty)$",
           "is_correct": false,
           "feedback": "Incorrecto. El número 7 sí está incluido porque $\\sqrt{0} = 0$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(-\\infty, 7]$",
           "is_correct": false,
           "feedback": "Incorrecto. Si tomamos un número menor que 7, el radicando se hace negativo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Las raíces de índice par requieren que el radicando sea mayor o igual a cero para existir en el campo de los números reales.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrecto. Esta función es impar, ya que $f(-x) = -f(x)$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$f(x) = x^2 - 4$",
           "is_correct": true,
           "feedback": "Correcto. $f(-x) = (-x)^2 - 4 = x^2 - 4 = f(x)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$f(x) = 2x + 1$",
           "is_correct": false,
           "feedback": "Incorrecto. No presenta simetría par ni impar."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. El seno es una función impar."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Una función es par si al evaluar en $-x$ se obtiene la misma expresión que en $x$. Geométricamente, su gráfica es simétrica respecto al eje $y$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "Sofía analiza el costo mensual de un servicio de transporte de carga en San Miguel de Tucumán.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$C(k) = 1200k + 80$",
           "is_correct": false,
           "feedback": "Incorrecto. Esto cobraría 1200 por kilómetro, no como costo fijo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$C(k) = 80k + 1200$",
           "is_correct": true,
           "feedback": "Correcto. El costo total es la tarifa por kilómetro multiplicada por $k$ más el costo fijo: $C(k) = 80k + 1200$."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Esta opción no tiene en cuenta el costo fijo mensual."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Un modelo lineal tiene la forma $y = mx + b$, donde $m$ representa la tasa de variación (costo por kilómetro) y $b$ es el valor inicial o constante (costo fijo).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Incorrecto. La gráfica es una parábola y no cubre los valores menores a 3."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$[3, +\\infty)$",
           "is_correct": true,
           "feedback": "Correcto. Como $x^2 \\ge 0$, al sumar 3 resulta $x^2 + 3 \\ge 3$. Por lo tanto, el rango es $[3, +\\infty)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(-\\infty, 3]$",
           "is_correct": false,
           "feedback": "Incorrecto. Esto correspondería a una parábola cóncava hacia abajo."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. El valor mínimo de la función es 3, no 0."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El rango es el conjunto de valores reales que toma la variable dependiente $y$. Para $f(x) = x^2 + 3$, el vértice de la parábola está en $(0,3)$ y abre hacia arriba, por lo que el rango es $[3, +\\infty)$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Julieta estudia el crecimiento biológico de una plantación en Neuquén.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\mathbb{R} - \\{4\\}$",
           "is_correct": false,
           "feedback": "Incorrecto. No solo el 4 está excluido, sino todos los números menores que él."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(4, +\\infty)$",
           "is_correct": true,
           "feedback": "Correcto. El argumento de un logaritmo debe ser estrictamente positivo: $x - 4 > 0 \\Rightarrow x > 4$."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Si $x < 4$, el argumento es negativo y el logaritmo real no existe."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La función logaritmo natural solo está definida para argumentos que sean estrictamente mayores que cero, de donde resulta la inecuación $x - 4 > 0$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorrecto. Esto representa la composición inversa $(g \\circ f)(x)$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$2x^2 + 3$",
           "is_correct": true,
           "feedback": "Correcto. Por definición de composición, $(f \\circ g)(x) = f(g(x)) = f(x^2) = 2x^2 + 3$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$2x^2 + 6$",
           "is_correct": false,
           "feedback": "Incorrecto. Se multiplicó de manera errónea el término constante."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Esto resulta de elevar la expresión al cuadrado de forma incorrecta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "En la composición de funciones, la función interna $g(x)$ se introduce como el argumento de la función externa $f(x)$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Incorrecto. Si $k=1$, los límites laterales no coinciden ($5 \\neq 3$)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$k = 2$",
           "is_correct": true,
           "feedback": "Correcto. Los límites laterales deben ser iguales: $\\lim_{x \\to 2^-} f(x) = 3(2) - 1 = 5$ y $\\lim_{x \\to 2^+} f(x) = 2k + 1$. Igualando ambos queda $2k + 1 = 5 \\Rightarrow k = 2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$k = 3$",
           "is_correct": false,
           "feedback": "Incorrecto. Con $k=3$, el límite por derecha daría 7."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Con $k=5$, el límite por derecha daría 11."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para que una función sea continua en un punto, deben existir los límites laterales, ser iguales entre sí, y coincidir con el valor de la función en dicho punto.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "Incorrecto. Eso daría la función $2^x - 1$."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Reflejando la gráfica respecto del eje $x$.",
           "is_correct": true,
           "feedback": "Correcto. Multiplicar toda la función por $-1$ produce una simetría vertical respecto del eje de las abscisas (eje $x$)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Reflejando la gráfica respecto del eje $y$.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso daría la función $2^{-x}$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Desplazando la gráfica una unidad a la izquierda.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso daría la función $2^{x+1}$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Una transformación de la forma $g(x) = -f(x)$ invierte el signo de todas las coordenadas de salida, produciendo una simetría o reflexión respecto del eje horizontal.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Incorrecto. Esto sería el dominio de $f(x)$ sola, pero el argumento es $g(x) = x^2$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\mathbb{R} - \\{-\\sqrt{3}, \\sqrt{3}\\}$",
           "is_correct": true,
           "feedback": "Correcto. El dominio de la composición requiere que $g(x)$ esté definido (todo $\\mathbb{R}$) y que $g(x) \\neq 3 \\Rightarrow x^2 \\neq 3 \\Rightarrow x \\neq \\pm\\sqrt{3}$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$[3, +\\infty)$",
           "is_correct": false,
           "feedback": "Incorrecto. La función está definida en la mayoría de los números menores a 3."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Los puntos donde el denominador se anula deben ser estrictamente excluidos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El dominio de una composición $f(g(x))$ está formado por los elementos $x$ del dominio de $g$ tales que su imagen $g(x)$ pertenece al dominio de la función externa $f$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -784,25 +784,25 @@
           "feedback": "Incorrecto. El signo negativo se absorbe debido a la paridad de la función externa $f$."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Es una función par.",
           "is_correct": true,
           "feedback": "Correcto. $h(-x) = f(g(-x)) = f(-g(x))$ porque $g$ es impar. Como $f$ es par, $f(-g(x)) = f(g(x)) = h(x)$. Por ende, $h$ es par."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No presenta simetría.",
           "is_correct": false,
           "feedback": "Incorrecto. La simetría par está totalmente garantizada."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Depende de la paridad de los dominios individuales.",
           "is_correct": false,
           "feedback": "Incorrecto. Ambas funciones están definidas en todos los reales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La composición de una función par con una función impar resulta en una función par, ya que el signo que extrae la función impar interna es absorbido por la función par externa.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Martina calcula las restricciones de un modelo físico en Jujuy.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$[0, 12]$",
           "is_correct": false,
           "feedback": "Incorrecto. No se pueden recortar esquinas de más de 6 cm de lado."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(0, 6)$",
           "is_correct": true,
           "feedback": "Correcto. El lado recortado $x$ debe ser positivo, y dado que se recortan dos esquinas por cada lado de la lámina, debe cumplirse que $2x < 12 \\Rightarrow x < 6$."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. En los extremos 0 y 6 el volumen físico de la caja es exactamente cero."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El dominio físico de un modelo matemático está limitado por restricciones geométricas y físicas del problema real, independientes de que la fórmula matemática admita otros valores abstractos.",
       "difficulty": "10",
       "images": [],

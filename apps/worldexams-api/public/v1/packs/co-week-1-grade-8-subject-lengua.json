@@ -111,25 +111,25 @@
           "feedback": "Los clérigos pertenecían a la Iglesia y escribían textos cultos con intención didáctica."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Juglares",
           "is_correct": true,
           "feedback": "Los juglares eran poetas y músicos populares que transmitían la literatura de forma oral en plazas y cortes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Copistas",
           "is_correct": false,
           "feedback": "Los copistas eran monjes encargados de transcribir libros a mano en los monasterios."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Trovadores",
           "is_correct": false,
           "feedback": "Aunque similares, los trovadores eran poetas cultos, a menudo nobles, que componían sus propias obras."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El oficio de los juglares se conoce como \"mester de juglaría\", caracterizado por la oralidad, la métrica irregular y la difusión de hazañas heroicas ante un público mayoritariamente analfabeto.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -157,13 +157,13 @@
           "feedback": "Esa función era más propia de la lírica trovadoresca."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Instruir al pueblo en valores cristianos y morales mediante temas religiosos.",
           "is_correct": true,
           "feedback": "El mester de clerecía tenía una intención didáctica y moralizante muy marcada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Criticar de forma satírica las costumbres de la Iglesia y el sistema feudal.",
           "is_correct": false,
           "feedback": "Aunque hubo sátira, no era la función primordial del mester de clerecía."
@@ -175,7 +175,7 @@
           "feedback": "Los textos solían mezclar leyenda y religión, no buscaban una objetividad histórica moderna."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El mester de clerecía utilizaba una forma métrica fija (cuaderna vía) y temas cultos o religiosos para educar al pueblo en la fe y la moral cristiana.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "\"El Conde Lucanor\" de Don Juan Manuel es una de las obras más importantes de la prosa didáctica del siglo XIV en España.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Épica heroica",
           "is_correct": false,
           "feedback": "La épica se centra en hazañas bélicas, no en consejos morales de un tutor."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Lírica tradicional",
           "is_correct": false,
           "feedback": "La lírica tradicional suele ser breve y centrada en sentimientos, no en relatos didácticos en prosa."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Prosa didáctica",
           "is_correct": true,
           "feedback": "La prosa didáctica busca enseñar lecciones prácticas y morales mediante cuentos o ejemplos."
@@ -221,7 +221,7 @@
           "feedback": "Aunque protagonizada por nobles, la novela de caballería busca la aventura fantástica más que la enseñanza moral directa."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La prosa didáctica, como en \"El Conde Lucanor\", utiliza la estructura del \"enxiemplo\" para transmitir enseñanzas prácticas sobre la vida y la política a la nobleza.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Los cantares de gesta solían ser anónimos y se transmitían oralmente, lo que permitía variaciones en el relato según el juglar que los recitara.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El uso exclusivo de la prosa para detallar las batallas.",
           "is_correct": false,
           "feedback": "Los cantares de gesta estaban escritos en verso, no en prosa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El uso de epítetos épicos y constantes llamadas de atención al oyente.",
           "is_correct": true,
           "feedback": "Estas fórmulas ayudaban al juglar a memorizar y a mantener el interés de la audiencia."
@@ -267,7 +267,7 @@
           "feedback": "La división en capítulos es más común en la literatura escrita para lectura individual."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Las fórmulas orales, como los epítetos (ej. \"el que en buena hora nació\" para el Cid), eran herramientas mnemotécnicas esenciales para la difusión juglaresca.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -295,13 +295,13 @@
           "feedback": "Las jarchas demuestran la existencia de una lengua romance conviviendo con el árabe."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Los poetas cristianos rechazaban cualquier influencia estética de Al-Ándalus.",
           "is_correct": false,
           "feedback": "El hecho de que las jarchas se incluyeran en poemas cultos árabes indica intercambio cultural."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Existía una convivencia y mezcla cultural entre árabes, judíos y cristianos.",
           "is_correct": true,
           "feedback": "Las jarchas son el testimonio literario de la convivencia de estas comunidades."
@@ -313,7 +313,7 @@
           "feedback": "Las jarchas son precisamente una muestra de lírica popular que fue preservada."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Las jarchas son fundamentales para entender el bilingüismo y la riqueza multicultural de la España medieval, siendo los testimonios más antiguos de la lengua romance.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -341,13 +341,13 @@
           "feedback": "En la obra no hay intervenciones divinas salvadoras, sino un desenlace trágico."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El protagonismo de la pasión individual y el interés material por encima de la fe.",
           "is_correct": true,
           "feedback": "Los personajes actúan movidos por el deseo y la codicia, reflejando un mundo menos teocéntrico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El uso de un lenguaje exclusivamente culto y solemne en todos los personajes.",
           "is_correct": false,
           "feedback": "La obra mezcla magistralmente el lenguaje culto con el habla popular de los criados."
@@ -359,7 +359,7 @@
           "feedback": "El amor en la obra es presentado con un fuerte componente físico y destructivo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "\"La Celestina\" es considerada una obra de transición (Prerrenacimiento) porque rompe con la intención moralizante directa y presenta personajes complejos y movidos por intereses terrenales.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,25 +387,25 @@
           "feedback": "Berceo era clérigo y buscaba fortalecer la fe institucional, no debilitarla."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Fomentar la devoción popular mediante una figura divina misericordiosa y accesible.",
           "is_correct": true,
           "feedback": "Al humanizar a la Virgen, se facilitaba la identificación del pueblo con la doctrina."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Criticar de forma satírica las excesivas riquezas de las catedrales medievales.",
           "is_correct": false,
           "feedback": "El texto se centra en la fe y los milagros, no en la crítica económica de la Iglesia."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Promover el uso de la magia y la hechicería entre los campesinos.",
           "is_correct": false,
           "feedback": "Los milagros se presentan como obra divina, opuesta a la hechicería."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Berceo, como parte del mester de clerecía, utiliza un lenguaje sencillo y figuras amables para acercar la teología a un público iletrado.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -433,13 +433,13 @@
           "feedback": "El tema es filosófico y moral, no una propuesta fiscal."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La igualdad esencial de todos los seres humanos ante el destino final, sin importar su rango social.",
           "is_correct": true,
           "feedback": "La muerte iguala a reyes, clérigos y campesinos, funcionando como una crítica a la vanidad social."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La superioridad de los guerreros sobre los monjes en tiempos de crisis.",
           "is_correct": false,
           "feedback": "La muerte no distingue entre profesiones, a todos los alcanza por igual."
@@ -451,7 +451,7 @@
           "feedback": "Aunque relacionado, el foco de la danza es la igualdad ante el hecho de morir."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Las Danzas de la Muerte reflejan el sentimiento de inseguridad de la Baja Edad Media (pestes, guerras) y sirven como un recordatorio de la humildad y la fugacidad de la vida.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "El amor cortés fue un código de conducta literario donde el poeta se declaraba vasallo de una dama inalcanzable, a menudo casada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El amor cortés era una rebelión contra el sistema de vasallaje feudal.",
           "is_correct": false,
           "feedback": "No era una rebelión, sino una imitación de la estructura social en el ámbito afectivo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La literatura trasladó la jerarquía de poder del señor y el vasallo a la relación entre la dama y el poeta.",
           "is_correct": true,
           "feedback": "El poeta utiliza terminología feudal (señora, vasallo) para expresar su sumisión amorosa."
@@ -497,7 +497,7 @@
           "feedback": "Aunque la dama era \"soberana\" en el poema, esto no se traducía en derechos políticos reales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El amor cortés es una transposición literaria del feudalismo, donde la ética del servicio y la lealtad al señor se aplica al sentimiento amoroso.\n\n---",
       "difficulty": "10",
       "images": [],

@@ -19,13 +19,13 @@
           "feedback": "Incorrecto. Eso es una raíz o cero de la función."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Es un punto en el dominio de $f$ donde $f'(x) = 0$ o $f'(x)$ no existe.",
           "is_correct": true,
           "feedback": "Correcto. Los puntos críticos son los candidatos a ser extremos locales (máximos o mínimos)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es el punto más alto de toda la gráfica de la función.",
           "is_correct": false,
           "feedback": "Incorrecto. Ese sería el máximo absoluto, que es un tipo de punto crítico, pero no la definición general."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Eso se relaciona con el Teorema del Valor Intermedio."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La identificación de puntos críticos es el primer paso para analizar el comportamiento local de una función utilizando herramientas del cálculo diferencial.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "Criterio de la primera derivada para el crecimiento.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La función es estrictamente creciente.",
           "is_correct": true,
           "feedback": "Correcto. Una derivada positiva indica que la pendiente es positiva, por lo que los valores de $y$ aumentan conforme aumenta $x$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La función es estrictamente decreciente.",
           "is_correct": false,
           "feedback": "Incorrecto. Esto ocurriría si la derivada fuera negativa."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Para que sea constante, la derivada debe ser cero en todo el intervalo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Relación directa entre el signo de la primera derivada y la monotonía (crecimiento/decrecimiento) de una función continua.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Cálculo de puntos críticos en un polinomio simple.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 0$",
           "is_correct": false,
           "feedback": "Incorrecto. En $x=0$, $f'(0) = -6 \\neq 0$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 3$",
           "is_correct": true,
           "feedback": "Correcto. $f'(x) = 2x - 6$. Igualando a cero: $2x - 6 = 0 \\Rightarrow x = 3$."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Al ser una parábola, tiene un vértice que es un punto crítico."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Aplicación del concepto de punto crítico igualando la primera derivada a cero para funciones polinómicas de segundo grado.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,25 +199,25 @@
           "feedback": "Incorrecto. Una segunda derivada positiva indica que la curva es cóncava hacia arriba, lo que corresponde a un \"valle\"."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Un mínimo local.",
           "is_correct": true,
           "feedback": "Correcto. Concavidad hacia arriba en un punto horizontal implica un mínimo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un punto de inflexión.",
           "is_correct": false,
           "feedback": "Incorrecto. Para que sea de inflexión, la segunda derivada suele ser cero o no existir, y debe haber cambio de signo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No se puede determinar.",
           "is_correct": false,
           "feedback": "Incorrecto. El criterio de la segunda derivada es concluyente cuando el valor es distinto de cero."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Uso de la información de la curvatura (segunda derivada) para clasificar la naturaleza de los puntos críticos horizontales.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorrecto. Este es el valor en el extremo $x=0$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "4",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el valor en el extremo $x=3$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "5",
           "is_correct": true,
           "feedback": "Correcto. Punto crítico: $f'(x)=-2x+4=0 \\Rightarrow x=2$. $f(2)=-4+8+1=5$. Como 5 es mayor que $f(0)=1$ y $f(3)=4$, es el máximo absoluto."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Este es el valor de $x$ donde ocurre el máximo, no el valor máximo de la función."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Evaluación de candidatos a extremos absolutos comparando los valores de la función en los puntos críticos y en los extremos del intervalo.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -283,19 +283,19 @@
       "context": "Definición de concavidad y puntos de inflexión.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La función alcanza su valor más alto.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso es un máximo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La pendiente de la tangente es igual a cero.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso define un punto crítico horizontal."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "La función cambia su sentido de concavidad.",
           "is_correct": true,
           "feedback": "Correcto. Es el punto donde la gráfica pasa de ser cóncava hacia arriba a cóncava hacia abajo, o viceversa."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Los puntos de inflexión se analizan generalmente en funciones continuas y derivables."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Comprensión del significado geométrico del cambio de signo en la segunda derivada como transición entre diferentes estados de curvatura.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "Un ingeniero en Quito analiza la trayectoria de un proyectil cuya altura es $y(t) = -5t^2 + 20t + 2$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$t = 4$ s",
           "is_correct": false,
           "feedback": "Incorrecto. En este tiempo el proyectil ya está descendiendo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$t = 2$ s",
           "is_correct": true,
           "feedback": "Correcto. $y'(t) = -10t + 20$. Igualando a cero: $-10t = -20 \\Rightarrow t = 2$."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Confundió la altura máxima con el tiempo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Aplicación del cálculo diferencial para resolver problemas de cinemática básica en una dimensión.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,25 +379,25 @@
           "feedback": "Incorrecto. En este intervalo la función es cóncava hacia abajo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$(1, \\infty)$",
           "is_correct": true,
           "feedback": "Correcto. $f'(x) = 3x^2 - 6x$; $f''(x) = 6x - 6$. $f''(x) > 0 \\Rightarrow 6x > 6 \\Rightarrow x > 1$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(0, 2)$",
           "is_correct": false,
           "feedback": "Incorrecto. Estos son los puntos críticos de la primera derivada."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(-\\infty, \\infty)$",
           "is_correct": false,
           "feedback": "Incorrecto. La concavidad de una función cúbica siempre cambia en su punto de inflexión."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Análisis de la segunda derivada para determinar la curvatura de la gráfica de una función.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -430,19 +430,19 @@
           "feedback": "Incorrecto. Los valores de la función aumentan a ambos lados de 0."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Es un mínimo local.",
           "is_correct": true,
           "feedback": "Correcto. Para $x < 0$, $f'(x) = 4x^3 < 0$ (decrece). Para $x > 0$, $f'(x) > 0$ (crece). Por tanto, es un mínimo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es una discontinuidad esencial.",
           "is_correct": false,
           "feedback": "Incorrecto. La función es continua y suave en todo su dominio."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Importancia del criterio de la primera derivada cuando la segunda derivada es nula en un punto crítico.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Incorrecto. Valor obtenido por una estimación errónea."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$c = 2$",
           "is_correct": true,
           "feedback": "Correcto. Pendiente promedio: $\\frac{f(3)-f(1)}{3-1} = \\frac{9-1}{2} = 4$. Derivada $f'(c) = 2c$. Igualando: $2c = 4 \\Rightarrow c = 2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$c = 2.5$",
           "is_correct": false,
           "feedback": "Incorrecto. Satisface el intervalo pero no la igualdad de pendientes."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. El valor de $c$ debe estar dentro del intervalo abierto $(1, 3)$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Cálculo del punto donde la tasa de cambio instantánea iguala a la tasa de cambio promedio en un intervalo dado.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Incorrecto. La función cambia de dirección en el eje y."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Un solo punto crítico en $x=0$, que es un mínimo.",
           "is_correct": true,
           "feedback": "Correcto. $f'(x) = \\frac{4x}{(x^2+1)^2}$. Solo se anula en $x=0$. Para $x<0, f'<0$; para $x>0, f'>0$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Dos puntos críticos en $x=1$ y $x=-1$.",
           "is_correct": false,
           "feedback": "Incorrecto. Estos son los ceros de la función."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Al evaluar cerca de 0, los valores de la función aumentan."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Estudio de la primera derivada en funciones racionales suaves para identificar extremos relativos.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Relación entre las gráficas de $f$ y $f'$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$f(x)$ es una función constante.",
           "is_correct": false,
           "feedback": "Incorrecto. Si $f$ fuera constante, su derivada sería 0, no 3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$f(x)$ es una función lineal con pendiente 3.",
           "is_correct": true,
           "feedback": "Correcto. La única función cuya derivada es una constante no nula es una función lineal."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Como $f'(x)$ nunca es cero, no hay puntos críticos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Capacidad de inferir la forma y propiedades de una función a partir del comportamiento de su tasa de cambio.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,13 +694,13 @@
           "feedback": "Incorrecto. En $x=0$ hay un máximo absoluto, no un cambio de concavidad."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x = \\pm \\frac{1}{\\sqrt{2}}$",
           "is_correct": true,
           "feedback": "Correcto. $f'(x) = -2xe^{-x^2}$; $f''(x) = (4x^2 - 2)e^{-x^2}$. Igualando a cero: $4x^2 = 2 \\Rightarrow x^2 = 1/2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No tiene puntos de inflexión.",
           "is_correct": false,
           "feedback": "Incorrecto. La curva cambia de cóncava hacia abajo (centro) a cóncava hacia arriba (colas)."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Error en la resolución de la ecuación cuadrática resultante de la segunda derivada."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Localización de cambios de curvatura en funciones exponenciales compuestas de gran importancia en estadística.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Incorrecto. Es el límite cuando $t \\to 0$, pero no el mínimo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "1",
           "is_correct": false,
           "feedback": "Incorrecto. En $t=1, f(1)=0$, pero hay valores negativos antes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$-1/e$",
           "is_correct": true,
           "feedback": "Correcto. $f'(t) = \\ln(t) + 1 = 0 \\Rightarrow \\ln(t) = -1 \\Rightarrow t = e^{-1} = 1/e$. El valor es $f(1/e) = (1/e)(-1) = -1/e$."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Error al evaluar la función en el punto crítico."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Resolución de problemas de optimización en funciones no polinómicas integrando propiedades de logaritmos.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Un problema de geometría diferencial sobre la curvatura de una vía de tren en los Andes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "0",
           "is_correct": false,
           "feedback": "Incorrecto. Esto ocurriría con una asíntota horizontal."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "5",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el término independiente de la asíntota."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "2",
           "is_correct": true,
           "feedback": "Correcto. Si la función se aproxima a una recta, su pendiente debe aproximarse a la pendiente de dicha recta."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. La pendiente se estabiliza, no crece sin límite."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Conexión entre el comportamiento asintótico de una función y el valor límite de su tasa de cambio instantánea.",
       "difficulty": "10",
       "images": [],

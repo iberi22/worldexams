@@ -19,13 +19,13 @@
           "feedback": "Incorrecto. Esa es la definición de la mediana."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Sumando todos los datos y dividiendo entre el número total de datos $n$.",
           "is_correct": true,
           "feedback": "¡Correcto! La media es $\\bar{x} = \\frac{\\sum x_i}{n}$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Identificando el dato que aparece con mayor frecuencia.",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es la definición de la moda."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Esa es la definición del rango."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La media aritmética $\\bar{x}$ se obtiene sumando la totalidad de los valores observados y dividiendo el resultado entre la cantidad total de datos $n$.",
       "difficulty": "4",
       "images": [],
@@ -64,13 +64,13 @@
           "feedback": "Incorrecto. 3 es el valor mínimo de la muestra."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "5",
           "is_correct": true,
           "feedback": "¡Correcto! Ordenando los datos: $3, 4, 5, 7, 9$. El valor que ocupa la posición central es 5."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "5.6",
           "is_correct": false,
           "feedback": "Incorrecto. 5.6 es la media aritmética de los datos, no la mediana."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. 7 no es el elemento central una vez ordenados."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para hallar la mediana, primero ordenamos los datos de menor a mayor: $3, 4, 5, 7, 9$. Al ser 5 datos (impar), la mediana es el elemento en la posición central $(5+1)/2 = 3^{\\text{ra}}$ posición, que es 5.",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Un estudio de transporte en Colonia analiza la mediana para un número par de datos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "12",
           "is_correct": false,
           "feedback": "Incorrecto. Tomaste un solo valor de la muestra sin promediar los dos centrales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "13.5",
           "is_correct": true,
           "feedback": "¡Correcto! Ordenando: $8, 10, 12, 15, 18, 20$. Los dos centrales son 12 y 15. Promedio: $\\frac{12+15}{2} = 13.5$."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. 13.83 es la media aritmética de los datos, no la mediana."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "1) Ordenamos los 6 datos: $8, 10, 12, 15, 18, 20$.\n2) Al ser un número par de datos ($n = 6$), la mediana es el promedio de las dos observaciones centrales ($3^{\\text{ra}}$ y $4^{\\text{ta}}$): $\\frac{12 + 15}{2} = \\frac{27}{2} = 13.5$.",
       "difficulty": "6",
       "images": [],
@@ -244,25 +244,25 @@
           "feedback": "Incorrecto. La caja delimita los cuartiles y su línea interna es la mediana."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La mediana (o segundo cuartil $Q_2$)",
           "is_correct": true,
           "feedback": "¡Correcto! La caja abarca desde $Q_1$ hasta $Q_3$, y la línea interior señala la mediana $Q_2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La moda",
           "is_correct": false,
           "feedback": "Incorrecto. La moda no se grafica explícitamente en el boxplot."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La desviación estándar",
           "is_correct": false,
           "feedback": "Incorrecto. La dispersión se refleja en el ancho de la caja y bigotes, no en la línea."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En el diagrama de caja y bigotes (boxplot), los extremos de la caja son el primer cuartil ($Q_1$) y el tercer cuartil ($Q_3$). La barra interna vertical ubica exactamente la mediana ($Q_2$).",
       "difficulty": "6",
       "images": [],
@@ -289,25 +289,25 @@
           "feedback": "Incorrecto. Sumaste $Q_1 + Q_3$ en lugar de restarlos."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "14",
           "is_correct": true,
           "feedback": "¡Correcto! $RIC = Q_3 - Q_1 = 32 - 18 = 14$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "25",
           "is_correct": false,
           "feedback": "Incorrecto. Sacaste el promedio de los cuartiles $\\frac{18+32}{2} = 25$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "7",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste la diferencia entre 2 (eso sería el rango semiintercuartílico)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El rango intercuartílico (RIC) mide la dispersión del $50\\%$ central de los datos y se define como la diferencia entre el tercer y primer cuartil: $RIC = Q_3 - Q_1 = 32 - 18 = 14$.",
       "difficulty": "6",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Incorrecto. $50\\%$ corresponde a la mitad de la curva normal."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$68\\%$",
           "is_correct": true,
           "feedback": "¡Correcto! Por la regla empírica $68-95-99.7$, aproximadamente el $68.27\\%$ cae dentro de $\\mu \\pm 1\\sigma$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$95\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. $95\\%$ corresponde al intervalo $\\mu \\pm 2\\sigma$."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. $99.7\\%$ corresponde al intervalo $\\mu \\pm 3\\sigma$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La regla empírica (o regla 68-95-99.7) para distribuciones normales afirma que aproximadamente el $68\\%$ de los datos cae a $\\pm 1$ desviación estándar de la media.",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Un grupo de Tacuarembó estandariza una variable normal a la variable $Z$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$Z = 8.5$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste $85 / 10$ sin restar la media primero."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$Z = 1.5$",
           "is_correct": true,
           "feedback": "¡Correcto! $Z = \\frac{x - \\mu}{\\sigma} = \\frac{85 - 70}{10} = \\frac{15}{10} = 1.5$."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Restaste la media pero olvidaste dividir por la desviación estándar."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La estandarización o tipificación de una variable normal se realiza mediante $Z = \\frac{x - \\mu}{\\sigma}$.\nSustituyendo: $Z = \\frac{85 - 70}{10} = \\frac{15}{10} = 1.5$. Esto indica que $85$ está $1.5$ desviaciones estándar por encima de la media.",
       "difficulty": "6",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Incorrecto. Sumar una constante traslada todos los datos por igual, la dispersión no cambia."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La media aumenta en 5 y la desviación estándar permanece igual.",
           "is_correct": true,
           "feedback": "¡Correcto! La media es traslacionalmente variante ($\\bar{x}_{nueva} = \\bar{x} + 5$) pero las medidas de dispersión son invariantes ante traslaciones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Tanto la media como la desviación estándar permanecen iguales.",
           "is_correct": false,
           "feedback": "Incorrecto. La media sí se desplaza en 5 unidades."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Multiplicar ocurre solo cuando se multiplican los datos por $k$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Propiedades de las medidas estadísticas ante traslación $y_i = x_i + k$:\n- Nueva media: $\\bar{y} = \\bar{x} + k = \\bar{x} + 5$.\n- Nueva desviación estándar: $s_y = s_x$ (la distancia entre datos y media no se altera).",
       "difficulty": "8",
       "images": [],
@@ -514,25 +514,25 @@
           "feedback": "Incorrecto. La variabilidad de la media decrece con el tamaño muestral, no crece."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$\\sigma_{\\bar{x}} = \\frac{\\sigma}{\\sqrt{n}}$",
           "is_correct": true,
           "feedback": "¡Correcto! El error estándar de la media es $SE = \\frac{\\sigma}{\\sqrt{n}}$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\sigma_{\\bar{x}} = \\frac{\\sigma}{n}$",
           "is_correct": false,
           "feedback": "Incorrecto. El denominador es la raíz cuadrada del tamaño muestral $\\sqrt{n}$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\sigma_{\\bar{x}} = \\sigma$",
           "is_correct": false,
           "feedback": "Incorrecto. Muestras más grandes reducen el error estándar."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El Teorema del Límite Central establece que la media muestral $\\bar{X}$ se distribuye aproximadamente normal con media $\\mu$ y error estándar (desviación estándar de la media) $\\sigma_{\\bar{x}} = \\frac{\\sigma}{\\sqrt{n}}$.",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Un estudio sociológico en Punta del Este evalúa la probabilidad en una tabla de contingencia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$0.30$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste $60 / 200$ (probabilidad conjunta sobre el total)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$0.50$",
           "is_correct": true,
           "feedback": "¡Correcto! $P(\\text{Público} \\mid \\text{Mujer}) = \\frac{60}{120} = 0.50$."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. $120 / 200 = 0.60$ es la probabilidad de ser mujer."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La probabilidad condicional se reduce al espacio muestral de las mujeres ($n = 120$).\n$P(\\text{Público} \\mid \\text{Mujer}) = \\frac{\\text{Mujeres que prefieren público}}{\\text{Total de mujeres}} = \\frac{60}{120} = 0.50$.",
       "difficulty": "8",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Incorrecto. El factor multiplicador estandarizado es 1.5, no 1.0."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$Q_3 + 1.5 \\times RIC$",
           "is_correct": true,
           "feedback": "¡Correcto! Según el criterio de Tukey, los datos mayores a $Q_3 + 1.5 \\cdot RIC$ se consideran valores atípicos superiores."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$Q_3 + 2.0 \\times RIC$",
           "is_correct": false,
           "feedback": "Incorrecto. 2.0 no es el estándar para la valla exterior suave."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. El criterio usa cuartiles $Q_3$ y $RIC$, no la media ni la desviación estándar."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Según el método de las vallas de Tukey (usado en boxplots), un dato se clasifica como atípico superior si excede el límite $Q_3 + 1.5 \\cdot RIC$.",
       "difficulty": "8",
       "images": [],
@@ -694,13 +694,13 @@
           "feedback": "Incorrecto. Cuando $X = 0$, $\\hat{Y} = 15$ (la ordenada al origen)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Por cada aumento de 1 unidad en $X$, se estima que $Y$ aumenta en promedio $2.5$ unidades.",
           "is_correct": true,
           "feedback": "¡Correcto! La pendiente representa la tasa marginal de cambio esperada en la variable respuesta por unidad de cambio en la explicativa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El $2.5\\%$ de la variabilidad de $Y$ es explicada por $X$.",
           "is_correct": false,
           "feedback": "Incorrecto. La variabilidad explicada la determina el coeficiente de determinación $R^2$."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. La pendiente $b$ no es igual al coeficiente $r$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "En el modelo lineal $\\hat{Y} = a + bX$, la pendiente $b$ indica el cambio promedio o esperado en la variable dependiente $Y$ por cada incremento unitario en la variable independiente $X$.",
       "difficulty": "8",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "En un curso avanzado de Durazno se analiza el error Tipo I y Tipo II en pruebas de hipótesis.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "No rechazar la hipótesis nula $H_0$ cuando en realidad es falsa.",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el Error Tipo II ($\\beta$)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Rechazar la hipótesis nula $H_0$ cuando en realidad es verdadera.",
           "is_correct": true,
           "feedback": "¡Correcto! Por definición, el Error Tipo I (cuya probabilidad es $\\alpha$) ocurre al rechazar una $H_0$ cierta."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Ese es un sesgo muestral, no el concepto formal de Error Tipo I."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "- Error Tipo I ($\\alpha$): Rechazar $H_0$ siendo verdadera (falso positivo).\n- Error Tipo II ($\\beta$): No rechazar $H_0$ siendo falsa (falso negativo).",
       "difficulty": "10",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Incorrecto. $80\\%$ es el valor absoluto de $r$, no de $r^2$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$64\\%$",
           "is_correct": true,
           "feedback": "¡Correcto! $R^2 = (-0.80)^2 = 0.64$, lo que equivale al $64\\%$ de la variabilidad explicada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$-64\\%$",
           "is_correct": false,
           "feedback": "Incorrecto. El coeficiente $R^2$ es un cuadrado, siempre no negativo."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Multiplicaste $-0.80 \\times 0.5$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El coeficiente de determinación $R^2$ es igual al cuadrado del coeficiente de correlación lineal $r$.\n$R^2 = (-0.80)^2 = 0.64$.\nExpresado en porcentaje, el $64\\%$ de la varianza total de la variable $Y$ es explicada por la relación lineal con $X$.",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Un seminario en Salto investiga la paradoja de Simpson en tablas de contingencia agregadas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "En que una tendencia que aparece en varios grupos de datos desaparece o se invierte cuando los grupos se combinan o agregan.",
           "is_correct": true,
           "feedback": "¡Correcto! Ocurre debido a variables de confusión no controladas al agregar subgrupos heterogéneos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En que la media y la mediana coinciden en distribuciones fuertemente asimétricas.",
           "is_correct": false,
           "feedback": "Incorrecto. Coinciden únicamente en distribuciones simétricas."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. La paradoja aborda la inversión de asociaciones estadísticas por variables de confusión."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La paradoja de Simpson es un fenómeno en estadística en el cual una asociación o tendencia presente entre dos variables dentro de subgrupos independientes se invierte o desaparece completamente cuando los datos son combinados (agregados), producido por la presencia de una variable de confusión no considerada.",
       "difficulty": "10",
       "images": [],

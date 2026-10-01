@@ -19,13 +19,13 @@
           "feedback": "Incorrect. A ritual is a ceremony."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "trend",
           "is_correct": true,
           "feedback": "Correct. A trend is a current style or popular direction."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "tradition",
           "is_correct": false,
           "feedback": "Incorrect. A tradition is long-standing."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect. A law is a formal rule."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Trend' is the specific term for a prevailing tendency or popular movement in society.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "Discussing demographic changes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "increases",
           "is_correct": false,
           "feedback": "Incorrect. Present simple."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "has been increasing",
           "is_correct": true,
           "feedback": "Correct. Present perfect continuous for an ongoing demographic trend."
@@ -82,7 +82,7 @@
           "feedback": "Incorrect. Simple future."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The present perfect continuous highlights that the increase is a process that is currently continuing.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -109,13 +109,13 @@
           "feedback": "Incorrect. Second conditional."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "had been",
           "is_correct": true,
           "feedback": "Correct. Third conditional for hypothetical past situation."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "is",
           "is_correct": false,
           "feedback": "Incorrect. Present tense."
@@ -127,7 +127,7 @@
           "feedback": "Incorrect. Present perfect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The third conditional (if + past perfect) is used to imagine how the past might have been different.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Article about digital nomads.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "nomads",
           "is_correct": true,
           "feedback": "Correct. A nomad is a person with no permanent home who moves from place to place."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "settlers",
           "is_correct": false,
           "feedback": "Incorrect. Settlers stay in one place."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "natives",
           "is_correct": false,
           "feedback": "Incorrect. Refers to where someone was born."
@@ -172,7 +172,7 @@
           "feedback": "Incorrect. Recluses avoid society."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "'Digital nomad' is the standard term for professionals who work while traveling.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrect. While companies profit, the concept is about access."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "access",
           "is_correct": true,
           "feedback": "Correct. Sharing economy platforms focus on providing temporary access to resources."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "scarcity",
           "is_correct": false,
           "feedback": "Incorrect. It aims to reduce the impact of scarcity."
@@ -217,7 +217,7 @@
           "feedback": "Incorrect. It often challenges traditional status symbols of ownership."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The fundamental shift in the sharing economy is prioritizing the ability to use something ('access') rather than owning it.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorrect. Observers are passive."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "influencer",
           "is_correct": true,
           "feedback": "Correct. This is the specific term for this social role."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "critic",
           "is_correct": false,
           "feedback": "Incorrect. Critics analyze, but don't necessarily have the same commercial influence."
@@ -262,7 +262,7 @@
           "feedback": "Incorrect. An apprentice is learning."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Influencer' is the modern marketing term for individuals with significant social media followings.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Incorrect. Materialism is the opposite."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "minimalism",
           "is_correct": true,
           "feedback": "Correct. Minimalism is the practice of living with only the essentials."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "consumerism",
           "is_correct": false,
           "feedback": "Incorrect. Consumerism focuses on buying more."
@@ -352,7 +352,7 @@
           "feedback": "Incorrect. Narcissism is excessive self-interest."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Minimalism' correctly describes the social trend of reducing clutter and possessions.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,25 +379,25 @@
           "feedback": "Incorrect. This means 'accustomed to'."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "used to",
           "is_correct": true,
           "feedback": "Correct. Describes a past habit that has changed."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "use to",
           "is_correct": false,
           "feedback": "Incorrect grammar."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "would",
           "is_correct": false,
           "feedback": "Incorrect. 'Used to' is better for contrasting the past and present."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Used to' is the standard structure for comparing past habits with present reality.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,25 +424,25 @@
           "feedback": "Incorrect. Condemnation is not harmony."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "mob mentality",
           "is_correct": true,
           "feedback": "Correct. Mob mentality refers to people being influenced by their peers to adopt certain behaviors."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "logic",
           "is_correct": false,
           "feedback": "Incorrect. Mob mentality is often described as lacking logic."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "empathy",
           "is_correct": false,
           "feedback": "Incorrect. Mob mentality often lacks empathy."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Mob mentality' (or herd mentality) describes the collective behavior of a group that can be irrational or aggressive.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,19 +463,19 @@
       "context": "Demographic groups.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Boomers",
           "is_correct": false,
           "feedback": "Incorrect. Born earlier (post-WWII)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Gen Z",
           "is_correct": false,
           "feedback": "Incorrect. Born later (late 90s to early 2010s)."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Millennials",
           "is_correct": true,
           "feedback": "Correct. This is the specific name for that generation."
@@ -487,7 +487,7 @@
           "feedback": "Incorrect. Refers to an even older generation."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "'Millennials' (or Gen Y) is the standard sociological label for the group described.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorrect. First conditional."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "spent",
           "is_correct": true,
           "feedback": "Correct. Second conditional for a hypothetical change."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "have spent",
           "is_correct": false,
           "feedback": "Incorrect. Present perfect."
@@ -622,7 +622,7 @@
           "feedback": "Incorrect. 'Would' not used in 'if' clause."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The second conditional 'if + past simple' describes the likely result of a hypothetical change in behavior.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Incorrect. Exodus means leaving."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "exodus",
           "is_correct": true,
           "feedback": "Correct. An exodus is a mass departure of people."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "isolation",
           "is_correct": false,
           "feedback": "Incorrect. Focuses on the state rather than the movement."
@@ -667,7 +667,7 @@
           "feedback": "Incorrect. This is usually why people leave cities, not the name of the movement itself."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Urban exodus' is the specific term for the trend of people moving from cities to suburban or rural areas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Describing viral content.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "private",
           "is_correct": false,
           "feedback": "Incorrect. Private posts are not shared widely."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "viral",
           "is_correct": true,
           "feedback": "Correct. Viral means spreading very quickly."
@@ -712,7 +712,7 @@
           "feedback": "Incorrect. Sharing online is usually free."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Viral' is the standard adjective for content that spreads quickly across the internet.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -784,25 +784,25 @@
           "feedback": "Incorrect. Slow fashion is the sustainable alternative."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Fast",
           "is_correct": true,
           "feedback": "Correct. Fast fashion is the industry term for rapid, cheap production."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Luxury",
           "is_correct": false,
           "feedback": "Incorrect. Luxury fashion is expensive and produced slowly."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Classic",
           "is_correct": false,
           "feedback": "Incorrect. Traditional, unchanging styles."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Fast fashion' is the specific term for the business model described.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,25 +829,25 @@
           "feedback": "Incorrect. Backshifted from 'will' to 'would' in reported speech."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "would",
           "is_correct": true,
           "feedback": "Correct. 'Would' is the past form of 'will' used in reported speech."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "should",
           "is_correct": false,
           "feedback": "Incorrect. Expresses advice or expectation."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "can",
           "is_correct": false,
           "feedback": "Incorrect. Backshifted to 'could'."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "In reported speech, we change 'will' to 'would' when the reporting verb ('said') is in the past.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Final thought on modern connection.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "paradox",
           "is_correct": true,
           "feedback": "Correct. A paradox is a seemingly absurd or self-contradictory statement that may prove to be true."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "solution",
           "is_correct": false,
           "feedback": "Incorrect. This is a problem, not a solution."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "agreement",
           "is_correct": false,
           "feedback": "Incorrect. The two facts contradict each other."
@@ -892,7 +892,7 @@
           "feedback": "Incorrect. Feeling isolated is not a benefit."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "'Paradox' correctly identifies the contradiction between digital connectivity and personal isolation.",
       "difficulty": "10",
       "images": [],

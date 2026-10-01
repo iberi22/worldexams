@@ -13,13 +13,13 @@
       "context": "En una clase de biología en Ibague, se describe el sistema endocrino como una red de glándulas que producen sustancias químicas reguladoras.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Hipotálamo, hipófisis, tiroides, paratiroides, páncreas, suprarrenales, gonadas y pineal.",
           "is_correct": true,
           "feedback": "Correcto. Estas son las glándulas endocrinas clasicas del cuerpo humano."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Hígado, estómago, intestino delgado y páncreas.",
           "is_correct": false,
           "feedback": "Incorrecto. Hígado, estómago e intestino no son glándulas endocrinas principales."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Estos forman parte del sistema inmunologico, principalmente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Glándulas endocrinas principales: hipotálamo, hipófisis, pineal, tiroides, paratiroides, suprarrenales, páncreas (islotes) y gonadas.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En el Hospital de San Jose de Bogotá, un paciente adulto presenta hiperglucemia cronica, sed excesiva y perdida de peso.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La deficiencia o resistencia a la insulina impide la captacion celular de glucosa, elevando su concentracion sanguinea.",
           "is_correct": true,
           "feedback": "Correcto. Sin suficiente insulina funcional, la glucosa no ingresa bien a las células y se acumula en sangre."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La hiperglucemia se debe exclusivamente a consumo excesivo de sal.",
           "is_correct": false,
           "feedback": "Incorrecto. La sal afecta la presión arterial, no directamente la glucemia."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Las causas hormonales, especialmente la diabetes, son factores claves de hiperglucemia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Insulina: facilita la entrada de glucosa a las células. Su deficiencia causa hiperglucemia cronica, caracteristica de la diabetes mellitus.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En el programa escolar de salud de Pasto, se explica a los estudiantes la funcion de la tiroides y de su principal hormona.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Regular el metabolismo basal, el crecimiento y el desarrollo del cuerpo.",
           "is_correct": true,
           "feedback": "Correcto. Las hormonas tiroideas regulan el metabolismo energetico y el desarrollo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Aumentar la concentracion de calcio en la sangre.",
           "is_correct": false,
           "feedback": "Incorrecto. La calcemia la regula principalmente la parathormona (PTH)."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. El ciclo menstrual depende de estrogenos y progesterona."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La tiroxina (T4) y la triyodotironina (T3) regulan el metabolismo basal, termogenesis y el desarrollo somatico y neurologico.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En una expedicion en el Parque Nacional El Cocuy, los alpinistas presentan taquicardia, temblor fino y dilatacion pupilar ante el descenso de temperatura.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Adrenalina (epinefrina).",
           "is_correct": true,
           "feedback": "Correcto. La adrenalina prepara al cuerpo para respuestas rapidas de lucha o huida."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Insulina.",
           "is_correct": false,
           "feedback": "Incorrecto. La insulina regula la glucosa en sangre, no la respuesta de alerta."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. La oxitocina esta relacionada con el parto y la lactancia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La adrenalina aumenta frecuencia cardiaca, dilata pupilas y moviliza reservas energeticas para respuestas de emergencia.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En una consulta pediatric de Pereira, se detecta gigantismo en un nino de 10 anos con niveles muy altos de la hormona del crecimiento.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Hiperproduccion de somatotropina (GH) por la hipófisis anterior durante la etapa de crecimiento.",
           "is_correct": true,
           "feedback": "Correcto. El exceso de GH antes del cierre epifisario produce gigantismo hipofisario."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Deficiencia de insulina en el páncreas.",
           "is_correct": false,
           "feedback": "Incorrecto. La insulina no controla directamente el crecimiento somatico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Falta de vitamina D en la dieta del nino.",
           "is_correct": false,
           "feedback": "Incorrecto. La deficiencia de vitamina D causa raquitismo, no gigantismo."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. La melatonina regula el sueno, no el crecimiento oseo longitudinal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La somatotropina (GH) estimula el crecimiento oseo longitudinal. Su exceso durante la niinez produce gigantismo; en adultos, acromegalia.",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En Riohacha, una persona consume agua con alta concentracion de yodo durante anos sin supervision medica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El exceso de yodo puede alterar la síntesis de hormonas tiroideas y provocar hipertiroidismo o hipotiroidismo.",
           "is_correct": true,
           "feedback": "Correcto. Tanto el deficit como el exceso de yodo alteran la produccion de T3 y T4."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El exceso de yodo no tiene ningun efecto sobre la tiroides humana.",
           "is_correct": false,
           "feedback": "Incorrecto. La tiroides requiere yodo en cantidades reguladas para sintetizar hormonas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El yodo solo afecta al sistema nervioso, no a la tiroides.",
           "is_correct": false,
           "feedback": "Incorrecto. El yodo es esencial para la síntesis de hormonas tiroideas."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Puede producir ambos extremos por mecanismos diferentes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La tiroides requiere yodo para sintetizar hormonas. Su exceso puede desregular la produccion hormonal por distintos mecanismos.",
       "difficulty": "8",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "En una clase de educacion sexual en Medellín, se explica a adolescentes el inicio de la pubertad y los cambios físicos asociados.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La hipófisis secreta FSH y LH, que estimulan las gonadas para producir hormonas sexuales y desencadenar la pubertad.",
           "is_correct": true,
           "feedback": "Correcto. Las gonadotropinas FSH y LH activan ovarios y testiculos durante la pubertad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La pubertad se inicia exclusivamente por la melatonina pineal.",
           "is_correct": false,
           "feedback": "Incorrecto. La melatonina tiene un papel modulatorio, pero no es el detonante principal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La hipófisis no participa en la regulacion de la pubertad.",
           "is_correct": false,
           "feedback": "Incorrecto. La hipófisis es clave al liberar gonadotropinas que activan las gonadas."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Es un proceso biologicamente regulado por hormonas y genes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "FSH y LH estimulan las gonadas para producir estrogenos y testosterona, hormonas que producen los caracteres sexuales secundarios.",
       "difficulty": "8",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "En el barrio Moravia de Medellín, una mujer diagnostica con diabetes tipo 1 no puede costear su tratamiento insulinico y la Secretaria de Salud discute intervenciones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La insulina es vital para la supervivencia y regulacion glucemica; su ausencia produce complicaciones mortales.",
           "is_correct": true,
           "feedback": "Correcto. Sin insulina exogena, la diabetes tipo 1 produce cetoacidosis y muerte."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La insulina es opcional y los diabeticos pueden regular la glucosa solo con dieta.",
           "is_correct": false,
           "feedback": "Incorrecto. En diabetes tipo 1, la insulina exogena es indispensable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Garantizar la insulina solo interesa a las companias farmaceuticas.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una prioridad de salud publica por su impacto en morbimortalidad."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. La diabetes tipo 1 requiere insulina de por vida."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El acceso a insulina es un derecho de salud básico para personas con diabetes tipo 1, dada su naturaleza hormonal y vital.",
       "difficulty": "10",
       "images": [],

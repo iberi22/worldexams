@@ -13,13 +13,13 @@
       "context": "Un estudio de costos logísticos se realiza en Ponce.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 3$",
           "is_correct": true,
           "feedback": "Correcto. Sumando ambas ecuaciones da 3x = 9 \\Rightarrow x = 3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 7$",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface el sistema de ecuaciones."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Al sustituir, no se cumple la igualdad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(2x + y) + (1x - y) = 12 + -3 \\Rightarrow 3x = 9$$. Despejando $x$: $$x = \\frac{ 9 }{ 3 } = 3$$. Sustituyendo este valor en la primera ecuación obtenemos $y = 6$.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Un estudio de costos logísticos se realiza en Carolina.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 6$",
           "is_correct": true,
           "feedback": "Correcto. Sumando ambas ecuaciones da 3x = 18 \\Rightarrow x = 6."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 10$",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface el sistema de ecuaciones."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Al sustituir, no se cumple la igualdad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(2x + y) + (1x - y) = 21 + -3 \\Rightarrow 3x = 18$$. Despejando $x$: $$x = \\frac{ 18 }{ 3 } = 6$$. Sustituyendo este valor en la primera ecuación obtenemos $y = 9$.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Un estudio de costos logísticos se realiza en Caguas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 7$",
           "is_correct": true,
           "feedback": "Correcto. Sumando ambas ecuaciones da 4x = 28 \\Rightarrow x = 7."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 11$",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface el sistema de ecuaciones."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Al sustituir, no se cumple la igualdad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(3x + y) + (1x - y) = 31 + -3 \\Rightarrow 4x = 28$$. Despejando $x$: $$x = \\frac{ 28 }{ 4 } = 7$$. Sustituyendo este valor en la primera ecuación obtenemos $y = 10$.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -283,31 +283,31 @@
       "context": "Un estudio de costos logísticos se realiza en Ponce.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = 9$",
           "is_correct": true,
           "feedback": "Correcto. Sumando ambas ecuaciones da 3x = 27 \\Rightarrow x = 9."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 13$",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface el sistema de ecuaciones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 12$",
           "is_correct": false,
           "feedback": "Incorrecto. Este valor corresponde a la variable $y$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 7$",
           "is_correct": false,
           "feedback": "Incorrecto. Al sustituir, no se cumple la igualdad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(2x + y) + (1x - y) = 30 + -3 \\Rightarrow 3x = 27$$. Despejando $x$: $$x = \\frac{ 27 }{ 3 } = 9$$. Sustituyendo este valor en la primera ecuación obtenemos $y = 12$.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -373,31 +373,31 @@
       "context": "Un estudio de costos logísticos se realiza en Mayagüez.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = 11$",
           "is_correct": true,
           "feedback": "Correcto. Sumando ambas ecuaciones da 2x = 22 \\Rightarrow x = 11."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 15$",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface el sistema de ecuaciones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 14$",
           "is_correct": false,
           "feedback": "Incorrecto. Este valor corresponde a la variable $y$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 9$",
           "is_correct": false,
           "feedback": "Incorrecto. Al sustituir, no se cumple la igualdad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(1x + y) + (1x - y) = 25 + -3 \\Rightarrow 2x = 22$$. Despejando $x$: $$x = \\frac{ 22 }{ 2 } = 11$$. Sustituyendo este valor en la primera ecuación obtenemos $y = 14$.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Un estudio de costos logísticos se realiza en Carolina.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 12$",
           "is_correct": true,
           "feedback": "Correcto. Sumando ambas ecuaciones da 3x = 36 \\Rightarrow x = 12."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 16$",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface el sistema de ecuaciones."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Al sustituir, no se cumple la igualdad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(2x + y) + (1x - y) = 39 + -3 \\Rightarrow 3x = 36$$. Despejando $x$: $$x = \\frac{ 36 }{ 3 } = 12$$. Sustituyendo este valor en la primera ecuación obtenemos $y = 15$.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -463,31 +463,31 @@
       "context": "Un estudio de costos logísticos se realiza en Caguas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = 13$",
           "is_correct": true,
           "feedback": "Correcto. Sumando ambas ecuaciones da 4x = 52 \\Rightarrow x = 13."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 17$",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface el sistema de ecuaciones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 16$",
           "is_correct": false,
           "feedback": "Incorrecto. Este valor corresponde a la variable $y$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 11$",
           "is_correct": false,
           "feedback": "Incorrecto. Al sustituir, no se cumple la igualdad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(3x + y) + (1x - y) = 55 + -3 \\Rightarrow 4x = 52$$. Despejando $x$: $$x = \\frac{ 52 }{ 4 } = 13$$. Sustituyendo este valor en la primera ecuación obtenemos $y = 16$.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "Un estudio de costos logísticos se realiza en San Juan.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x = 14$",
           "is_correct": true,
           "feedback": "Correcto. Sumando ambas ecuaciones da 2x = 28 \\Rightarrow x = 14."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 18$",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface el sistema de ecuaciones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 17$",
           "is_correct": false,
           "feedback": "Incorrecto. Este valor corresponde a la variable $y$."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Al sustituir, no se cumple la igualdad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(1x + y) + (1x - y) = 31 + -3 \\Rightarrow 2x = 28$$. Despejando $x$: $$x = \\frac{ 28 }{ 2 } = 14$$. Sustituyendo este valor en la primera ecuación obtenemos $y = 17$.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -553,31 +553,31 @@
       "context": "Un estudio de costos logísticos se realiza en Ponce.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = 15$",
           "is_correct": true,
           "feedback": "Correcto. Sumando ambas ecuaciones da 3x = 45 \\Rightarrow x = 15."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 19$",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface el sistema de ecuaciones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 18$",
           "is_correct": false,
           "feedback": "Incorrecto. Este valor corresponde a la variable $y$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 13$",
           "is_correct": false,
           "feedback": "Incorrecto. Al sustituir, no se cumple la igualdad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(2x + y) + (1x - y) = 48 + -3 \\Rightarrow 3x = 45$$. Despejando $x$: $$x = \\frac{ 45 }{ 3 } = 15$$. Sustituyendo este valor en la primera ecuación obtenemos $y = 18$.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -598,31 +598,31 @@
       "context": "Un estudio de costos logísticos se realiza en Bayamón.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = 16$",
           "is_correct": true,
           "feedback": "Correcto. Sumando ambas ecuaciones da 4x = 64 \\Rightarrow x = 16."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 20$",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface el sistema de ecuaciones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 19$",
           "is_correct": false,
           "feedback": "Incorrecto. Este valor corresponde a la variable $y$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 14$",
           "is_correct": false,
           "feedback": "Incorrecto. Al sustituir, no se cumple la igualdad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(3x + y) + (1x - y) = 67 + -3 \\Rightarrow 4x = 64$$. Despejando $x$: $$x = \\frac{ 64 }{ 4 } = 16$$. Sustituyendo este valor en la primera ecuación obtenemos $y = 19$.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Un estudio de costos logísticos se realiza en Carolina.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 18$",
           "is_correct": true,
           "feedback": "Correcto. Sumando ambas ecuaciones da 3x = 54 \\Rightarrow x = 18."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 22$",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface el sistema de ecuaciones."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Al sustituir, no se cumple la igualdad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(2x + y) + (1x - y) = 57 + -3 \\Rightarrow 3x = 54$$. Despejando $x$: $$x = \\frac{ 54 }{ 3 } = 18$$. Sustituyendo este valor en la primera ecuación obtenemos $y = 21$.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Un estudio de costos logísticos se realiza en Caguas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 19$",
           "is_correct": true,
           "feedback": "Correcto. Sumando ambas ecuaciones da 4x = 76 \\Rightarrow x = 19."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 23$",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface el sistema de ecuaciones."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Al sustituir, no se cumple la igualdad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(3x + y) + (1x - y) = 79 + -3 \\Rightarrow 4x = 76$$. Despejando $x$: $$x = \\frac{ 76 }{ 4 } = 19$$. Sustituyendo este valor en la primera ecuación obtenemos $y = 22$.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Un estudio de costos logísticos se realiza en San Juan.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 20$",
           "is_correct": true,
           "feedback": "Correcto. Sumando ambas ecuaciones da 2x = 40 \\Rightarrow x = 20."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 24$",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface el sistema de ecuaciones."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Al sustituir, no se cumple la igualdad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(1x + y) + (1x - y) = 43 + -3 \\Rightarrow 2x = 40$$. Despejando $x$: $$x = \\frac{ 40 }{ 2 } = 20$$. Sustituyendo este valor en la primera ecuación obtenemos $y = 23$.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -823,31 +823,31 @@
       "context": "Un estudio de costos logísticos se realiza en Ponce.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = 21$",
           "is_correct": true,
           "feedback": "Correcto. Sumando ambas ecuaciones da 3x = 63 \\Rightarrow x = 21."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 25$",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface el sistema de ecuaciones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 24$",
           "is_correct": false,
           "feedback": "Incorrecto. Este valor corresponde a la variable $y$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 19$",
           "is_correct": false,
           "feedback": "Incorrecto. Al sustituir, no se cumple la igualdad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(2x + y) + (1x - y) = 66 + -3 \\Rightarrow 3x = 63$$. Despejando $x$: $$x = \\frac{ 63 }{ 3 } = 21$$. Sustituyendo este valor en la primera ecuación obtenemos $y = 24$.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Un estudio de costos logísticos se realiza en Bayamón.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x = 22$",
           "is_correct": true,
           "feedback": "Correcto. Sumando ambas ecuaciones da 4x = 88 \\Rightarrow x = 22."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 26$",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface el sistema de ecuaciones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 25$",
           "is_correct": false,
           "feedback": "Incorrecto. Este valor corresponde a la variable $y$."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Al sustituir, no se cumple la igualdad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(3x + y) + (1x - y) = 91 + -3 \\Rightarrow 4x = 88$$. Despejando $x$: $$x = \\frac{ 88 }{ 4 } = 22$$. Sustituyendo este valor en la primera ecuación obtenemos $y = 25$.",
       "difficulty": "9",
       "images": [],

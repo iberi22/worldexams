@@ -13,31 +13,31 @@
       "context": "En clase de sociales en Manizales, la profesora explica por qué el café es tan importante para Colombia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El café.",
           "is_correct": true,
           "feedback": "El café ha sido uno de los productos más importantes de la economía colombiana durante décadas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La quinua andina.",
           "is_correct": false,
           "feedback": "La quinua es importante en otros países andinos, no tanto en Colombia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El cacao africano.",
           "is_correct": false,
           "feedback": "El cacao se cultiva, pero el café tiene mayor peso histórico en la economía nacional."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La soya asiática.",
           "is_correct": false,
           "feedback": "La soya no es un cultivo central de la economía colombiana."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Reconocer el café como producto tradicional y central en la economía colombiana.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "Lee: \"El eje cafetero colombiano está formado por Caldas, Risaralda, Quindío y el norte del Valle del Cauca. Allí se produce café de alta calidad.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque combina altitud, clima templado y suelos volcánicos favorables para el cultivo del café.",
           "is_correct": true,
           "feedback": "Las condiciones geográficas del eje cafetero son ideales para el café de montaña."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque es una región desértica sin agua.",
           "is_correct": false,
           "feedback": "El eje cafetero no es desértico; tiene abundantes fuentes de agua y tierras fértiles."
@@ -83,7 +83,7 @@
           "feedback": "Aunque el café es el producto más famoso, también se cultivan otros productos en la región."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Comprender la relación entre las condiciones geográficas y la producción cafetera en Colombia.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Un caficultor de Risaralda quiere mejorar la calidad de su cosecha para vender café a mejor precio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Cosechar solo los granos maduros, beneficiarlos bien y almacenarlos en lugares secos.",
           "is_correct": true,
           "feedback": "Una cosecha selectiva y un buen proceso posterior elevan la calidad del café."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Mezclar todos los granos, verdes y maduros, en el mismo costal.",
           "is_correct": false,
           "feedback": "Mezclar granos verdes con maduros reduce la calidad final del café."
@@ -129,7 +129,7 @@
           "feedback": "Vender sin proceso de beneficio afecta el sabor y la calidad del producto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar buenas prácticas agrícolas para mejorar la calidad del café colombiano.",
       "difficulty": "6",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "Lee: \"En la cadena del café participan caficultores, recolectores, beneficiadores, transportadores, tostadores y exportadores.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Cultivar y cuidar las plantas de café para producir cerezas de buena calidad.",
           "is_correct": true,
           "feedback": "Los caficultores son la base de la cadena al cultivar el café en sus fincas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Tostar y empacar el café en tiendas internacionales.",
           "is_correct": false,
           "feedback": "La tostión y empaque los realizan otros actores, no los caficultores."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Transportar el café en grandes barcos por el mundo.",
           "is_correct": false,
           "feedback": "El transporte internacional lo hacen exportadores y navieras, no caficultores."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Crear leyes internacionales sobre el café.",
           "is_correct": false,
           "feedback": "Las leyes internacionales las acuerdan los países en organizaciones internacionales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Reconocer el papel de los caficultores dentro de la cadena productiva del café.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En una cooperativa cafetera de Antioquia, los productores se unen para comprar insumos y vender el café juntos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Obtienen mejores precios, acceso a créditos y apoyo técnico para mejorar su producción.",
           "is_correct": true,
           "feedback": "Las cooperativas fortalecen a los pequeños caficultores al unir fuerzas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Pierden autonomía y deben abandonar sus fincas.",
           "is_correct": false,
           "feedback": "Las cooperativas, por el contrario, ayudan a mantener a los productores en sus fincas."
@@ -221,7 +221,7 @@
           "feedback": "Los caficultores conservan la propiedad de su cosecha dentro de la cooperativa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar el concepto de cooperativismo como estrategia para fortalecer a los caficultores.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "Compara: \"Un caficultor que vende su café a través de una cooperativa recibe un precio más estable. Uno que vende de forma individual a intermediarios suele recibir menos dinero por su cosecha.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El caficultor solo depende de intermediarios y recibe menos; el cooperativista obtiene mejores condiciones.",
           "is_correct": true,
           "feedback": "La asociatividad mejora la negociación y el ingreso del productor."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ambos caficultores reciben exactamente el mismo ingreso por su cosecha.",
           "is_correct": false,
           "feedback": "Los ingresos varían según la estrategia de venta."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solo los caficultores individuales pueden exportar su café.",
           "is_correct": false,
           "feedback": "Las cooperativas también exportan y a veces mejor que los productores aislados."
@@ -267,7 +267,7 @@
           "feedback": "La cooperativa sí influye al negociar volumen y calidad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Analizar el impacto de la asociatividad cafetera en los ingresos de los productores.",
       "difficulty": "8",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "Lee: \"El cambio climático ha provocado variaciones en las lluvias y en la temperatura de las zonas cafeteras, lo que afecta las cosechas y la calidad del grano.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Disminución de cosechas, mayor presencia de plagas y reducción de la calidad del grano.",
           "is_correct": true,
           "feedback": "El cambio climático impacta la producción y la calidad del café de montaña."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Aumento automático de los ingresos por mejor precio internacional.",
           "is_correct": false,
           "feedback": "Aunque puede haber fluctuaciones, el cambio climático no garantiza más ingresos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Desaparición total e inmediata de las fincas cafeteras.",
           "is_correct": false,
           "feedback": "El cambio climático no produce desaparición inmediata, pero sí genera riesgos serios."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ninguna consecuencia para los caficultores colombianos.",
           "is_correct": false,
           "feedback": "El cambio climático sí afecta a los caficultores y al medio ambiente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analizar el impacto del cambio climático sobre la producción y la economía cafetera.",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "Lee: 'El café es mucho más que un producto agrícola: es parte de la identidad cultural de Colombia, fuente de empleo rural y motor de desarrollo regional. Apoyar a los caficultores es clave para mantener viva esta tradición.'",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Porque el café es parte de la identidad nacional, genera empleo rural y dinamiza las regiones productoras.",
           "is_correct": true,
           "feedback": "Apoyar al caficultor protege la economía, la cultura y el campo colombiano."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque solo beneficia a las grandes multinacionales extranjeras.",
           "is_correct": false,
           "feedback": "Los caficultores colombianos se benefician directamente del apoyo al sector."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque los caficultores no aportan nada a la economía nacional.",
           "is_correct": false,
           "feedback": "Los caficultores son un pilar fundamental de la economía rural."
@@ -359,7 +359,7 @@
           "feedback": "El café sigue siendo cultivado en muchas regiones de Colombia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evaluar la importancia social, cultural y económica del sector cafetero para Colombia.",
       "difficulty": "10",
       "images": [],

@@ -59,31 +59,31 @@
       "context": "Lee: \"Para multiplicar 23 por 14 con un arreglo, se descompone 23 como 20 + 3 y 14 como 10 + 4. Luego se obtiene el área sumando los cuatro productos parciales.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Porque transforma una multiplicación grande en cuatro multiplicaciones más pequeñas y manejables.",
           "is_correct": true,
           "feedback": "La descomposición hace más sencillos los cálculos parciales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque elimina la necesidad de sumar al final.",
           "is_correct": false,
           "feedback": "Al final sí se suman los productos parciales para obtener el total."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque convierte la multiplicación en una división.",
           "is_correct": false,
           "feedback": "El método sigue siendo de multiplicación, no de división."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque cambia los números por otros sin relación.",
           "is_correct": false,
           "feedback": "Los productos parciales están directamente relacionados con los factores."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Comprender la utilidad de descomponer en decenas y unidades al multiplicar con arreglos.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "Un estudiante de Bucaramanga arma el arreglo de 12 por 13 descomponiendo: 12 = 10 + 2 y 13 = 10 + 3.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "10×10 = 100, 10×3 = 30, 2×10 = 20 y 2×3 = 6.",
           "is_correct": true,
           "feedback": "Cada celda del arreglo corresponde a un producto parcial entre decenas y unidades."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "10+10 = 20, 10+3 = 13, 2+10 = 12 y 2+3 = 5.",
           "is_correct": false,
           "feedback": "En el arreglo se multiplican las cifras, no se suman."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "10×2 = 20, 3×10 = 30, 100×6 = 600 y 0.",
           "is_correct": false,
           "feedback": "Esos no son los productos correctos entre las partes de 12 y 13."
@@ -129,7 +129,7 @@
           "feedback": "El arreglo no usa restas sino multiplicaciones parciales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicar la descomposición de decenas y unidades para obtener los productos parciales del arreglo.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "Lee: \"Una ferretería de Pereira vende cajas de tornillos a 23.000 COP cada una. Un cliente compra 12 cajas y la cajera debe calcular el total con un arreglo.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "276.000 COP.",
           "is_correct": true,
           "feedback": "23.000 × 12 = 276.000 COP; con arreglo: 23.000×10 + 23.000×2 = 230.000 + 46.000 = 276.000 COP."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "23.000 COP.",
           "is_correct": false,
           "feedback": "23.000 COP es el precio de una sola caja, no de 12."
@@ -175,7 +175,7 @@
           "feedback": "230.000 COP es el valor de 10 cajas, le faltan las 2 cajas restantes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar la estrategia de arreglo para resolver multiplicaciones de doble cifra en contextos comerciales.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En una huerta escolar de Pasto, los estudiantes organizan 21 surcos con 14 plantas de hortalizas en cada uno. La profesora les pide calcular el total con un arreglo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "294 plantas.",
           "is_correct": true,
           "feedback": "21 × 14 = 294, calculado como 20×14 + 1×14 = 280 + 14 = 294."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "35 plantas.",
           "is_correct": false,
           "feedback": "35 es la suma 21 + 14, no el producto de ambas cifras."
@@ -221,7 +221,7 @@
           "feedback": "140 es 10 × 14, solo el producto parcial por las decenas del otro factor."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar el método de arreglo para resolver multiplicaciones de doble cifra en contextos agrícolas.",
       "difficulty": "6",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "Lee: 'El método de arreglos rectangulares permite visualizar la multiplicación como un área y ayuda a los estudiantes a entender qué hacen los algoritmos tradicionales, evitando errores al sumar productos parciales.'",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Porque permite entender el sentido de la multiplicación y reduce errores al sumar productos parciales.",
           "is_correct": true,
           "feedback": "Comprender el área ayuda a dar sentido a los pasos del algoritmo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque el algoritmo vertical nunca debe enseñarse en la escuela.",
           "is_correct": false,
           "feedback": "El algoritmo vertical es útil, pero conviene entenderlo mediante el arreglo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque los arreglos solo funcionan con números pequeños.",
           "is_correct": false,
           "feedback": "Los arreglos funcionan también con números de dos y más cifras."
@@ -359,7 +359,7 @@
           "feedback": "Comprender el porqué de los pasos es mejor que solo memorizarlos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evaluar la importancia de visualizar la multiplicación con arreglos para dar sentido al algoritmo.",
       "difficulty": "10",
       "images": [],

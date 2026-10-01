@@ -13,19 +13,19 @@
       "context": "Un equipo de agrimensores en Humacao traza una línea divisoria en un mapa parcelario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Pendiente $m = 3$, intercepto en $(0, 11)$",
           "is_correct": true,
           "feedback": "Correcto. Corresponde a los parámetros en la forma $y = mx + b$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Pendiente $m = 11$, intercepto en $(0, 3)$",
           "is_correct": false,
           "feedback": "Incorrecto. Los valores están intercambiados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Pendiente $m = -3$, intercepto en $(0, -11)$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signos."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Parámetros alterados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ecuación dada está expresada en la forma pendiente-intercepto $y = mx + b$, donde la constante multiplicativa $m$ representa la pendiente de la recta, y el término constante $b$ representa la ordenada del intercepto con el eje $y$. Por lo tanto, de la ecuación $y = 3x + 11$ identificamos directamente que la pendiente es $m = 3$ y el intercepto en el eje $y$ es $(0, 11)$.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Un equipo de agrimensores en Aguadilla traza una línea divisoria en un mapa parcelario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Pendiente $m = 5$, intercepto en $(0, 13)$",
           "is_correct": true,
           "feedback": "Correcto. Corresponde a los parámetros en la forma $y = mx + b$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Pendiente $m = 13$, intercepto en $(0, 5)$",
           "is_correct": false,
           "feedback": "Incorrecto. Los valores están intercambiados."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Parámetros alterados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La ecuación dada está expresada en la forma pendiente-intercepto $y = mx + b$, donde la constante multiplicativa $m$ representa la pendiente de la recta, y el término constante $b$ representa la ordenada del intercepto con el eje $y$. Por lo tanto, de la ecuación $y = 5x + 13$ identificamos directamente que la pendiente es $m = 5$ y el intercepto en el eje $y$ es $(0, 13)$.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Un equipo de agrimensores en San Juan traza una línea divisoria en un mapa parcelario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Pendiente $m = 6$, intercepto en $(0, 14)$",
           "is_correct": true,
           "feedback": "Correcto. Corresponde a los parámetros en la forma $y = mx + b$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Pendiente $m = 14$, intercepto en $(0, 6)$",
           "is_correct": false,
           "feedback": "Incorrecto. Los valores están intercambiados."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Parámetros alterados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La ecuación dada está expresada en la forma pendiente-intercepto $y = mx + b$, donde la constante multiplicativa $m$ representa la pendiente de la recta, y el término constante $b$ representa la ordenada del intercepto con el eje $y$. Por lo tanto, de la ecuación $y = 6x + 14$ identificamos directamente que la pendiente es $m = 6$ y el intercepto en el eje $y$ es $(0, 14)$.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -283,31 +283,31 @@
       "context": "Un equipo de agrimensores en Humacao traza una línea divisoria en un mapa parcelario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Pendiente $m = 4$, intercepto en $(0, 17)$",
           "is_correct": true,
           "feedback": "Correcto. Corresponde a los parámetros en la forma $y = mx + b$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Pendiente $m = 17$, intercepto en $(0, 4)$",
           "is_correct": false,
           "feedback": "Incorrecto. Los valores están intercambiados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Pendiente $m = -4$, intercepto en $(0, -17)$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Pendiente $m = 5$, intercepto en $(0, 16)$",
           "is_correct": false,
           "feedback": "Incorrecto. Parámetros alterados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La ecuación dada está expresada en la forma pendiente-intercepto $y = mx + b$, donde la constante multiplicativa $m$ representa la pendiente de la recta, y el término constante $b$ representa la ordenada del intercepto con el eje $y$. Por lo tanto, de la ecuación $y = 4x + 17$ identificamos directamente que la pendiente es $m = 4$ y el intercepto en el eje $y$ es $(0, 17)$.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -328,31 +328,31 @@
       "context": "Un equipo de agrimensores en Ponce traza una línea divisoria en un mapa parcelario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Pendiente $m = 5$, intercepto en $(0, 18)$",
           "is_correct": true,
           "feedback": "Correcto. Corresponde a los parámetros en la forma $y = mx + b$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Pendiente $m = 18$, intercepto en $(0, 5)$",
           "is_correct": false,
           "feedback": "Incorrecto. Los valores están intercambiados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Pendiente $m = -5$, intercepto en $(0, -18)$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Pendiente $m = 6$, intercepto en $(0, 17)$",
           "is_correct": false,
           "feedback": "Incorrecto. Parámetros alterados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La ecuación dada está expresada en la forma pendiente-intercepto $y = mx + b$, donde la constante multiplicativa $m$ representa la pendiente de la recta, y el término constante $b$ representa la ordenada del intercepto con el eje $y$. Por lo tanto, de la ecuación $y = 5x + 18$ identificamos directamente que la pendiente es $m = 5$ y el intercepto en el eje $y$ es $(0, 18)$.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Un equipo de agrimensores en Aguadilla traza una línea divisoria en un mapa parcelario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Pendiente $m = 6$, intercepto en $(0, 19)$",
           "is_correct": true,
           "feedback": "Correcto. Corresponde a los parámetros en la forma $y = mx + b$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Pendiente $m = 19$, intercepto en $(0, 6)$",
           "is_correct": false,
           "feedback": "Incorrecto. Los valores están intercambiados."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Parámetros alterados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La ecuación dada está expresada en la forma pendiente-intercepto $y = mx + b$, donde la constante multiplicativa $m$ representa la pendiente de la recta, y el término constante $b$ representa la ordenada del intercepto con el eje $y$. Por lo tanto, de la ecuación $y = 6x + 19$ identificamos directamente que la pendiente es $m = 6$ y el intercepto en el eje $y$ es $(0, 19)$.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Un equipo de agrimensores en San Juan traza una línea divisoria en un mapa parcelario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Pendiente $m = 2$, intercepto en $(0, 20)$",
           "is_correct": true,
           "feedback": "Correcto. Corresponde a los parámetros en la forma $y = mx + b$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Pendiente $m = 20$, intercepto en $(0, 2)$",
           "is_correct": false,
           "feedback": "Incorrecto. Los valores están intercambiados."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Parámetros alterados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La ecuación dada está expresada en la forma pendiente-intercepto $y = mx + b$, donde la constante multiplicativa $m$ representa la pendiente de la recta, y el término constante $b$ representa la ordenada del intercepto con el eje $y$. Por lo tanto, de la ecuación $y = 2x + 20$ identificamos directamente que la pendiente es $m = 2$ y el intercepto en el eje $y$ es $(0, 20)$.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -463,31 +463,31 @@
       "context": "Un equipo de agrimensores en Caguas traza una línea divisoria en un mapa parcelario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Pendiente $m = 3$, intercepto en $(0, 21)$",
           "is_correct": true,
           "feedback": "Correcto. Corresponde a los parámetros en la forma $y = mx + b$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Pendiente $m = 21$, intercepto en $(0, 3)$",
           "is_correct": false,
           "feedback": "Incorrecto. Los valores están intercambiados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Pendiente $m = -3$, intercepto en $(0, -21)$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Pendiente $m = 4$, intercepto en $(0, 20)$",
           "is_correct": false,
           "feedback": "Incorrecto. Parámetros alterados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La ecuación dada está expresada en la forma pendiente-intercepto $y = mx + b$, donde la constante multiplicativa $m$ representa la pendiente de la recta, y el término constante $b$ representa la ordenada del intercepto con el eje $y$. Por lo tanto, de la ecuación $y = 3x + 21$ identificamos directamente que la pendiente es $m = 3$ y el intercepto en el eje $y$ es $(0, 21)$.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "Un equipo de agrimensores en Carolina traza una línea divisoria en un mapa parcelario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Pendiente $m = 4$, intercepto en $(0, 22)$",
           "is_correct": true,
           "feedback": "Correcto. Corresponde a los parámetros en la forma $y = mx + b$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Pendiente $m = 22$, intercepto en $(0, 4)$",
           "is_correct": false,
           "feedback": "Incorrecto. Los valores están intercambiados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Pendiente $m = -4$, intercepto en $(0, -22)$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signos."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Parámetros alterados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ecuación dada está expresada en la forma pendiente-intercepto $y = mx + b$, donde la constante multiplicativa $m$ representa la pendiente de la recta, y el término constante $b$ representa la ordenada del intercepto con el eje $y$. Por lo tanto, de la ecuación $y = 4x + 22$ identificamos directamente que la pendiente es $m = 4$ y el intercepto en el eje $y$ es $(0, 22)$.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -553,31 +553,31 @@
       "context": "Un equipo de agrimensores en Humacao traza una línea divisoria en un mapa parcelario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Pendiente $m = 5$, intercepto en $(0, 23)$",
           "is_correct": true,
           "feedback": "Correcto. Corresponde a los parámetros en la forma $y = mx + b$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Pendiente $m = 23$, intercepto en $(0, 5)$",
           "is_correct": false,
           "feedback": "Incorrecto. Los valores están intercambiados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Pendiente $m = -5$, intercepto en $(0, -23)$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Pendiente $m = 6$, intercepto en $(0, 22)$",
           "is_correct": false,
           "feedback": "Incorrecto. Parámetros alterados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La ecuación dada está expresada en la forma pendiente-intercepto $y = mx + b$, donde la constante multiplicativa $m$ representa la pendiente de la recta, y el término constante $b$ representa la ordenada del intercepto con el eje $y$. Por lo tanto, de la ecuación $y = 5x + 23$ identificamos directamente que la pendiente es $m = 5$ y el intercepto en el eje $y$ es $(0, 23)$.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -598,19 +598,19 @@
       "context": "Un equipo de agrimensores en Ponce traza una línea divisoria en un mapa parcelario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Pendiente $m = 6$, intercepto en $(0, 24)$",
           "is_correct": true,
           "feedback": "Correcto. Corresponde a los parámetros en la forma $y = mx + b$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Pendiente $m = 24$, intercepto en $(0, 6)$",
           "is_correct": false,
           "feedback": "Incorrecto. Los valores están intercambiados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Pendiente $m = -6$, intercepto en $(0, -24)$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signos."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Parámetros alterados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ecuación dada está expresada en la forma pendiente-intercepto $y = mx + b$, donde la constante multiplicativa $m$ representa la pendiente de la recta, y el término constante $b$ representa la ordenada del intercepto con el eje $y$. Por lo tanto, de la ecuación $y = 6x + 24$ identificamos directamente que la pendiente es $m = 6$ y el intercepto en el eje $y$ es $(0, 24)$.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "Un equipo de agrimensores en San Juan traza una línea divisoria en un mapa parcelario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Pendiente $m = 3$, intercepto en $(0, 26)$",
           "is_correct": true,
           "feedback": "Correcto. Corresponde a los parámetros en la forma $y = mx + b$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Pendiente $m = 26$, intercepto en $(0, 3)$",
           "is_correct": false,
           "feedback": "Incorrecto. Los valores están intercambiados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Pendiente $m = -3$, intercepto en $(0, -26)$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signos."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Parámetros alterados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ecuación dada está expresada en la forma pendiente-intercepto $y = mx + b$, donde la constante multiplicativa $m$ representa la pendiente de la recta, y el término constante $b$ representa la ordenada del intercepto con el eje $y$. Por lo tanto, de la ecuación $y = 3x + 26$ identificamos directamente que la pendiente es $m = 3$ y el intercepto en el eje $y$ es $(0, 26)$.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Un equipo de agrimensores en Ponce traza una línea divisoria en un mapa parcelario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Pendiente $m = 2$, intercepto en $(0, 30)$",
           "is_correct": true,
           "feedback": "Correcto. Corresponde a los parámetros en la forma $y = mx + b$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Pendiente $m = 30$, intercepto en $(0, 2)$",
           "is_correct": false,
           "feedback": "Incorrecto. Los valores están intercambiados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Pendiente $m = -2$, intercepto en $(0, -30)$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signos."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Parámetros alterados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ecuación dada está expresada en la forma pendiente-intercepto $y = mx + b$, donde la constante multiplicativa $m$ representa la pendiente de la recta, y el término constante $b$ representa la ordenada del intercepto con el eje $y$. Por lo tanto, de la ecuación $y = 2x + 30$ identificamos directamente que la pendiente es $m = 2$ y el intercepto en el eje $y$ es $(0, 30)$.",
       "difficulty": "9",
       "images": [],

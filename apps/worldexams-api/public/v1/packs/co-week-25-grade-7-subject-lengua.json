@@ -13,13 +13,13 @@
       "context": "El debate y la mesa redonda son formas de comunicación grupal donde se intercambian ideas y opiniones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que todos los participantes deben estar de acuerdo desde el principio.",
           "is_correct": false,
           "feedback": "Incorrecto. Si todos están de acuerdo, no hay debate, sino una charla amistosa o consenso."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que existen posturas opuestas o contradictorias sobre un tema determinado.",
           "is_correct": true,
           "feedback": "¡Correcto! El debate se basa en la confrontación respetuosa de argumentos diferentes."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. El debate es un ejercicio intelectual y verbal, nunca físico."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El debate fomenta el pensamiento crítico al obligar a los participantes a defender su postura con razones y a escuchar los contraargumentos de los demás.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "La mesa redonda es una técnica de discusión donde expertos conversan sobre un tema desde diferentes puntos de vista.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque la mesa utilizada debe ser obligatoriamente de madera de roble.",
           "is_correct": false,
           "feedback": "Incorrecto. El material de la mesa no es lo importante."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque simboliza que todos los participantes tienen el mismo nivel de importancia y derecho a hablar.",
           "is_correct": true,
           "feedback": "¡Correcto! No hay una presidencia o jerarquía marcada, todos están en igualdad de condiciones."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Se puede tratar cualquier tema de interés general o científico."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "A diferencia del debate, donde se busca \"ganar\" o demostrar que una postura es mejor, en la mesa redonda se busca ampliar la visión del tema mediante la suma de diferentes perspectivas.",
       "difficulty": "4",
       "images": [],
@@ -111,13 +111,13 @@
           "feedback": "Incorrecto. El moderador debe ser neutral y no tomar partido."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Asignar los turnos de palabra, controlar el tiempo y mantener el respeto entre los participantes.",
           "is_correct": true,
           "feedback": "¡Correcto! Su labor es asegurar que la dinámica fluya correctamente y se cumplan las reglas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Elegir la música de fondo y preparar los refrigerios para el público.",
           "is_correct": false,
           "feedback": "Incorrecto. Estas son tareas de logística o producción, no de moderación del diálogo."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. El moderador debe proteger el derecho a la discrepancia respetuosa."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Sin un moderador, las discusiones grupales suelen volverse caóticas, donde los más fuertes imponen su voz sobre los demás, impidiendo un verdadero intercambio de ideas.",
       "difficulty": "6",
       "images": [],
@@ -203,13 +203,13 @@
           "feedback": "Incorrecto. Interrumpir es una falta de respeto y no ayuda a la comprensión."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Para comprender realmente el argumento del otro y poder responder de manera coherente y respetuosa.",
           "is_correct": true,
           "feedback": "¡Correcto! Solo si escuchamos podemos dialogar; de lo contrario, son dos monólogos cruzados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Para hacer dibujos en el cuaderno mientras los demás hablan.",
           "is_correct": false,
           "feedback": "Incorrecto. Esto demuestra desinterés y falta de compromiso con la actividad."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. El volumen de voz no añade validez a los argumentos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La escucha activa implica prestar atención no solo a las palabras, sino a la intención y los sentimientos del interlocutor, buscando puntos de encuentro o divergencias claras.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "Las mesas redondas suelen concluir con un resumen de los puntos tratados y las divergencias encontradas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "\"Y así queda demostrado que yo tenía la razón y los demás estaban equivocados\".",
           "is_correct": false,
           "feedback": "Incorrecto. Este cierre es prepotente y no encaja con el espíritu de la mesa redonda."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "\"Como nadie se puso de acuerdo, esta reunión fue una pérdida de tiempo total\".",
           "is_correct": false,
           "feedback": "Incorrecto. El intercambio de ideas siempre es valioso, aunque no se llegue a una única conclusión."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "\"En conclusión, hemos visto que las redes ofrecen grandes oportunidades de aprendizaje, pero también riesgos de seguridad que debemos vigilar\".",
           "is_correct": true,
           "feedback": "¡Correcto! Resume las diferentes perspectivas presentadas sin ignorar la complejidad del tema."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. La mesa redonda no es un concurso de popularidad personal."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El cierre debe sintetizar la riqueza del diálogo, destacando tanto los consensos como los disensos, dejando al público con una visión más completa del problema.",
       "difficulty": "8",
       "images": [],
@@ -439,19 +439,19 @@
           "feedback": "Incorrecto. Habría un sesgo total hacia la conservación sin considerar las necesidades de conexión del país."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Un ingeniero civil, un biólogo experto en ecosistemas y un representante de las comunidades locales.",
           "is_correct": true,
           "feedback": "¡Correcto! Esta combinación permite ver el problema desde la técnica, la ciencia ambiental y la realidad social."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Tres cantantes famosos que quieren hacer un concierto en la selva.",
           "is_correct": false,
           "feedback": "Incorrecto. No son especialistas en los temas críticos del dilema (infraestructura y ecología)."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La riqueza de la mesa redonda radica en la multidisciplinariedad. Escuchar voces con intereses y conocimientos distintos permite llegar a soluciones más integrales y justas.",
       "difficulty": "10",
       "images": [],

@@ -59,31 +59,31 @@
       "context": "Un estudiante de Medellín compara un texto que comienza con la frase \"En este ensayo defenderé que el transporte público debe mejorarse\" con una receta de cocina que trae en el cuaderno.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Sí, porque el texto anuncia que va a defender una idea por escrito, rasgo propio del ensayo.",
           "is_correct": true,
           "feedback": "Correcto. La frase declara la tesis y el propósito de defenderla, dos marcas del género ensayo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "No, porque solo los poemas y las narraciones pueden anunciar su propósito al comienzo.",
           "is_correct": false,
           "feedback": "Incorrecto. Cualquier género puede anticipar su propósito; el del ensayo es defender una idea."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No, porque el ensayo nunca comienza con una oración, siempre comienza con un título largo.",
           "is_correct": false,
           "feedback": "Incorrecto. El título es necesario, pero puede ir seguido de una oración inicial breve."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Sí, porque toda frase que usa la palabra \"defender\" pertenece a un texto histórico.",
           "is_correct": false,
           "feedback": "Incorrecto. La palabra \"defender\" es propia de la argumentación, no de la narración histórica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Comprender un texto implica reconocer su género a partir de marcas internas. La expresión \"defender que\" es una señal directa de argumentación: el autor asume una postura y se compromete a sostenerla. Identificar estas pistas, como los verbos defender, sostener o demostrar y el uso de la primera persona, permite clasificar correctamente el texto y anticipar su estructura.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En un taller de escritura en Cali, la profesora entrega a sus alumnos de sexto grado el tema \"el transporte en Cali\" y les pide elegir una postura para defenderla durante quince minutos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Las bicicletas son la mejor solución para reducir el tráfico en Cali, porque ocupan poco espacio y no generan contaminación.",
           "is_correct": true,
           "feedback": "Correcto. La tesis toma postura, delimita el alcance y anuncia la razón que la sostiene."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las bicicletas son lindas y en Bogotá hay muchas ciclorrutas desde hace años.",
           "is_correct": false,
           "feedback": "Incorrecto. Introduce una preferencia estética y un dato ajeno a Cali, y no delimita el problema."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es importante conocer las bicicletas porque son objetos muy antiguos.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una afirmación vaga y general, sin postura ni alcance sobre la ciudad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Hay bicicletas en el parque principal de Cali desde hace muchos años.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un dato aislado que describe un lugar, no una postura defendible."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Una tesis de ensayo combina tres elementos: una postura clara, un alcance delimitado y un anticipo de la razón principal. La opción correcta reúne los tres. Las demás fallan porque introducen una preferencia estética, una generalidad o un dato que no sostiene una posición frente al problema. Practicar la formulación de tesis es el primer paso para construir ensayos coherentes.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En la biblioteca de un colegio de Pereira hay cuatro textos de la carpeta \"Textos argumentativos\" del MEN: uno con datos de temperatura, otro con relatos de hacendores, uno que defiende una postura sobre el consumo de agua y otro que describe un protocolo de reciclaje.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El que defiende una postura sobre el consumo de agua, porque presenta una tesis y argumentos para sostenerla.",
           "is_correct": true,
           "feedback": "Correcto. Solo ese texto combina postura, tesis y argumentos propios del género ensayo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El que presenta datos de temperatura, porque la tabla de datos demuestra que es ensayo.",
           "is_correct": false,
           "feedback": "Incorrecto. Los datos cuantitativos corresponden a un texto informativo o científico."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Las palabras técnicas corresponden al texto explicativo, no al ensayo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El ensayo pertenece al género argumentativo, no al informativo ni al narrativo. Su diferencia con el texto científico está en el propósito: el científico informa datos y el ensayista persuade. Su diferencia con la narración está en la estructura: el relato avanza en el tiempo y el ensayo avanza en la fuerza de sus razones. Reconocer estas fronteras de género es una competencia lectora clave en Saber.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "Un grupo de estudiantes de Cartagena tiene delante un párrafo desordenado que pertenece a un ensayo sobre la lectura en las bibliotecas escolares de Barranquilla.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Tesis, argumento, evidencia y cierre que retoma la idea central.",
           "is_correct": true,
           "feedback": "Correcto. Respeta la secuencia clásica: postura, razones, pruebas y recapitulación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Evidencia, tesis, argumento y cierre, para demostrar que el autor ya sabía la respuesta.",
           "is_correct": false,
           "feedback": "Incorrecto. Sin tesis inicial el lector no sabe qué postura se sostiene ni hacia dónde va el texto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Tesis, cierre, argumento y evidencia, porque el cierre se escribe siempre antes de desarrollar.",
           "is_correct": false,
           "feedback": "Incorrecto. El cierre antes de los argumentos deja el párrafo sin desarrollo y confunde al lector."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Una razón sin tesis previa es confusa: no se sabe qué postura sostiene esa razón."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La estructura del párrafo argumentativo sigue un orden lógico: primero se anuncia la postura, después se desarrollan las razones, luego se aportan pruebas y, por último, se cierra retomando la idea central. Este orden evita que el lector tenga que reconstruir por su cuenta la lógica del texto. Cambiar el orden rompe la progresión y dificulta la comprensión, tal como lo mide la competencia comprensiva de Saber.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "Un blog escolar publica un ensayo sobre el agua en Bucaramanga que afirma que \"el agua es un recurso ilimitado\" y no aporta datos, referencias ni ejemplos que sostengan esa frase.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La tesis es refutable y no se apoya en ninguna evidencia, de modo que el razonamiento es débil.",
           "is_correct": true,
           "feedback": "Correcto. Una tesis que contradice lo evidente y carece de pruebas no convince a nadie."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El texto es débil porque usa demasiadas palabras técnicas que confunden al lector.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto no usa tecnicismos; su defecto es la ausencia total de sustento."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El texto es débil porque es muy corto y no alcanza la cantidad de páginas exigida por el MEN.",
           "is_correct": false,
           "feedback": "Incorrecto. El MEN no fija un número de páginas obligatorio; pesa la calidad del argumento."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. La biografía del autor no es un requisito del ensayo argumentativo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La lectura crítica de un ensayo evalúa la solidez del razonamiento, no la extensión ni la información biográfica del autor. Una tesis que afirma que el agua es ilimitada es refutable y contradice la experiencia común; además, sin datos ni referencias el lector no tiene forma de verificar nada. Criticar implica preguntar siempre si la evidencia sostiene la afirmación y si la afirmación admite excepciones.",
       "difficulty": "8",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "En clase en Medellín se leen dos ensayos. El primero, escrito en 1975, defiende que el cine es el mejor uso del tiempo libre; el segundo, de 2026, argumenta con datos de audiencia que ese medio fue superado por las plataformas digitales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Debe valorar la solidez del argumento y contrastarlo con los datos actuales, sin descartarlo solo por su antigüedad.",
           "is_correct": true,
           "feedback": "Correcto. La vigencia y la validez son criterios distintos: un texto antiguo puede aportar razones relevantes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Debe aceptarla sin discusión porque los textos antiguos siempre tienen la razón.",
           "is_correct": false,
           "feedback": "Incorrecto. La antigüedad no garantiza validez; un texto viejo puede contener afirmaciones refutadas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Debe rechazarla automáticamente porque los datos actuales contradicen su conclusión general.",
           "is_correct": false,
           "feedback": "Incorrecto. Rechazar por novedad es el error opuesto: la vigencia no invalida por sí sola el argumento."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Debe pedirle al autor que la actualice por correo electrónico antes de considerarla válida.",
           "is_correct": false,
           "feedback": "Incorrecto. Un texto no se evalúa por la posibilidad de contactar a su autor, sino por sus razones."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluar exige separar dos criterios que se confunden con frecuencia: la validez interna, es decir, si las razones sostienen la tesis, y la vigencia, es decir, si esas razones siguen siendo ciertas hoy. Un ensayo de 1975 puede contener una reflexión valiosa sobre el tiempo libre aunque su evidencia empírica esté desactualizada. La postura crítica madura juzga el razonamiento en su contexto.",
       "difficulty": "10",
       "images": [],

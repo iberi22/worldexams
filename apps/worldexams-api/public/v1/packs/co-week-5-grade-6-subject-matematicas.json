@@ -13,31 +13,31 @@
       "context": "En clase en Bogotá, los estudiantes recogen datos sobre deportes favoritos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Recolectar, organizar, analizar e interpretar datos.",
           "is_correct": true,
           "feedback": "Correcto. La estadística trabaja con datos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Solo dibujar figuras.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso es geometría."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Resolver ecuaciones únicamente.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un campo amplio."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Contar números sin contexto.",
           "is_correct": false,
           "feedback": "Incorrecto. La estadística da contexto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La estadística permite tomar decisiones informadas basadas en datos.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En clase en Cali, se calcula la media.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "3.5.",
           "is_correct": true,
           "feedback": "Correcto. $(4 + 3 + 5 + 2)/4 = 3.5$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "14.",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es la suma, no el promedio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "4.",
           "is_correct": false,
           "feedback": "Incorrecto. Aproximaste."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. No promediaste correctamente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La media aritmética se calcula sumando los datos y dividiendo por la cantidad.",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En clase en Pereira, se trabaja con la moda.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Azul.",
           "is_correct": true,
           "feedback": "Correcto. Es el dato que más se repite."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Rojo.",
           "is_correct": false,
           "feedback": "Incorrecto. Aparece 5 veces."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Verde.",
           "is_correct": false,
           "feedback": "Incorrecto. Solo 3 veces."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Solo 2 veces."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La moda es el valor con mayor frecuencia en un conjunto de datos.",
       "difficulty": "4",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En Tunja, se determina la mediana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "7.",
           "is_correct": true,
           "feedback": "Correcto. Es el valor central."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5.",
           "is_correct": false,
           "feedback": "Incorrecto. Es el segundo dato."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Es la suma."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La mediana es el valor que ocupa la posición central cuando los datos están ordenados.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En Armenia, se interpretan gráficos de barras.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Cantidades comparadas entre categorías discretas.",
           "is_correct": true,
           "feedback": "Correcto. Las barras facilitan la comparación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Funciones continuas.",
           "is_correct": false,
           "feedback": "Incorrecto. Para eso se usan gráficos de línea."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solo números muy grandes.",
           "is_correct": false,
           "feedback": "Incorrecto. Las barras sirven para distintos rangos."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Para cíclicos se usa otro tipo de gráfico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El gráfico de barras muestra diferencias entre categorías mediante alturas proporcionales.",
       "difficulty": "6",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En clase en Popayán, se interpreta un gráfico circular.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "100 %.",
           "is_correct": true,
           "feedback": "Correcto. La circunferencia completa equivale al 100 %."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "360 %.",
           "is_correct": false,
           "feedback": "Incorrecto. 360° no es 360 %."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. No corresponde."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El gráfico circular distribuye el todo (100 %) en porciones proporcionales.",
       "difficulty": "8",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "En un proyecto en Bucaramanga, se evalúa una encuesta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Tener una muestra representativa y preguntas claras.",
           "is_correct": true,
           "feedback": "Correcto. La calidad de los datos depende de ello."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Preguntar solo a amigos.",
           "is_correct": false,
           "feedback": "Incorrecto. La muestra debe ser diversa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Evitar tabular los datos.",
           "is_correct": false,
           "feedback": "Incorrecto. La tabulación es clave."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No publicar resultados.",
           "is_correct": false,
           "feedback": "Incorrecto. Comunicar es importante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Una encuesta válida requiere muestra, preguntas neutrales y análisis riguroso.",
       "difficulty": "10",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "En un cierre en Medellín, se analiza la toma de decisiones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Solo sirve para adivinar.",
           "is_correct": false,
           "feedback": "Incorrecto. Se basa en datos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Permite resumir información, identificar tendencias y reducir la incertidumbre.",
           "is_correct": true,
           "feedback": "Correcto. La estadística informa decisiones."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. Las usa."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La estadística es una herramienta para comprender la realidad con base en evidencia.",
       "difficulty": "10",
       "images": [],

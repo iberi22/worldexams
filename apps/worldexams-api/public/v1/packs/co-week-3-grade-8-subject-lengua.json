@@ -19,25 +19,25 @@
           "feedback": "Esta es la obra cumbre de la épica francesa, no castellana."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El Cantar de Mio Cid",
           "is_correct": true,
           "feedback": "Es el poema épico más antiguo y mejor conservado de la literatura española."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El Cantar de los Nibelungos",
           "is_correct": false,
           "feedback": "Es la obra principal de la épica germánica."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La Eneida",
           "is_correct": false,
           "feedback": "Es una epopeya latina escrita por Virgilio en la época romana."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El Cantar de Mio Cid es la piedra angular de la literatura en lengua castellana, narrando el proceso de recuperación del honor del héroe Rodrigo Díaz de Vivar.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -117,19 +117,19 @@
           "feedback": "El soneto es una forma culta de 14 versos endecasílabos que se popularizó en el Renacimiento."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Serie o tirada monorrima asonante",
           "is_correct": true,
           "feedback": "Los versos se agrupan en tiradas de extensión variable con la misma rima asonante."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Octavilla real",
           "is_correct": false,
           "feedback": "Es una estrofa de ocho versos de arte menor, no usada en la épica medieval."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La métrica irregular (anisosilabismo) y la rima asonante facilitaban la improvisación y la memorización del juglar durante las sesiones de recitación pública.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En el Cantar de Mio Cid, el héroe se caracteriza por su \"mesura\", es decir, su equilibrio y prudencia incluso en situaciones difíciles.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Burlarse públicamente de ellos para demostrar su ingenio.",
           "is_correct": false,
           "feedback": "El Cid no busca la humillación, sino la supervivencia en una situación desesperada."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Matarlos para que no pudieran reclamar su dinero de vuelta.",
           "is_correct": false,
           "feedback": "Esto iría en contra del código de honor del Cid."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Prometer devolverles el dinero con intereses una vez que logre sus conquistas.",
           "is_correct": true,
           "feedback": "La mesura implica responsabilidad y la intención de reparar los males causados por la necesidad."
@@ -175,7 +175,7 @@
           "feedback": "El Cid es honesto con sus acciones, aunque sean astutas por necesidad."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La mesura es la cualidad que diferencia al Cid de otros héroes épicos más impulsivos; representa la madurez y la sabiduría del caballero castellano.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "Los juglares utilizaban epítetos épicos para referirse al héroe, como \"el de la barba vellida\" o \"el que en buena hora nació\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Indicar que el Cid era un caballero joven que acababa de recibir sus armas.",
           "is_correct": false,
           "feedback": "El Cid ya era un guerrero experimentado; la frase alude a su destino heroico."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Informar al público sobre la hora exacta en la que se realizaban las batallas.",
           "is_correct": false,
           "feedback": "\"Buena hora\" es una expresión simbólica de buena suerte o destino favorable."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Mantener el ritmo del verso y reforzar la imagen positiva y predestinada del héroe.",
           "is_correct": true,
           "feedback": "Estos recursos ayudaban a la sonoridad y a la caracterización constante del personaje."
@@ -221,7 +221,7 @@
           "feedback": "Ambos bandos usaban espadas; el epíteto es exclusivo para honrar al protagonista."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Los epítetos épicos son fórmulas fijas que permiten al juglar \"descansar\" mentalmente mientras prepara el siguiente verso, al tiempo que fijan la identidad del héroe.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "El Cid se despide de su esposa Jimena y de sus hijas en el monasterio de San Pedro de Cardeña \"como la uña de la carne\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que el Cid tenía problemas de salud en las manos por las batallas.",
           "is_correct": false,
           "feedback": "Es una metáfora, no una descripción médica."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que era un hombre rudo que no sabía expresar sus sentimientos con delicadeza.",
           "is_correct": false,
           "feedback": "La metáfora es profundamente expresiva y dolorosa."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "La profundidad del vínculo afectivo y el dolor físico que le produce la separación familiar.",
           "is_correct": true,
           "feedback": "Muestra el lado humano y tierno del guerrero, reforzando la empatía del público."
@@ -405,7 +405,7 @@
           "feedback": "La metáfora indica unión vital, no utilidad laboral."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La ternura familiar es otra faceta del realismo del Cantar, humanizando al héroe y elevando el drama personal al nivel del drama bélico.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -433,13 +433,13 @@
           "feedback": "La oralidad permitía variantes locales y adaptaciones según el público."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que no se utilizaban figuras retóricas para no confundir a los oyentes.",
           "is_correct": false,
           "feedback": "La oralidad tiene sus propias figuras retóricas (paralelismos, epítetos)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La existencia de múltiples versiones de un mismo hecho y la pérdida de muchos textos tras el fin del oficio de juglaría.",
           "is_correct": true,
           "feedback": "Sin el soporte escrito, la supervivencia dependía de la memoria y la continuidad de los juglares."
@@ -451,7 +451,7 @@
           "feedback": "Al contrario, la recitación en plazas hacía la literatura accesible a todo el pueblo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La oralidad define la estructura, el estilo y la precaria conservación de la épica medieval, marcando una diferencia fundamental con la literatura de autor moderna.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -525,13 +525,13 @@
           "feedback": "El poema ya es extenso; cada episodio cumple una función estructural."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Porque le gustaba la violencia gratuita para atraer a más público.",
           "is_correct": false,
           "feedback": "La violencia tiene una justificación moral y legal en la trama."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Para trasladar el conflicto del ámbito bélico al ámbito familiar y legal, permitiendo la apoteosis final del héroe en las Cortes.",
           "is_correct": true,
           "feedback": "La deshonra familiar es necesaria para que el Cid demuestre su valor como hombre de leyes, no solo como guerrero."
@@ -543,7 +543,7 @@
           "feedback": "No es una advertencia de viaje, sino un conflicto de honor entre linajes."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La estructura del Cantar es una doble curva de pérdida y recuperación del honor: primero el honor político y luego el honor familiar, logrando una victoria completa.\n\n---",
       "difficulty": "10",
       "images": [],

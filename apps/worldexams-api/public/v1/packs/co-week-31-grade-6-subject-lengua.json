@@ -19,13 +19,13 @@
           "feedback": "Incorrecto. Aunque la publicidad existe, no es la función social primordial."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Informar, educar y entretener a un gran número de personas.",
           "is_correct": true,
           "feedback": "Correcto. Los medios masivos buscan llegar a audiencias amplias con contenidos diversos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ocultar la información importante a los ciudadanos.",
           "is_correct": false,
           "feedback": "Incorrecto. En una democracia, los medios deben fomentar la transparencia."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Esa es la función de los medios interpersonales (teléfono, carta privada)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Los medios de comunicación masiva (radio, televisión, prensa, internet) tienen una responsabilidad social que incluye la difusión de información veraz, la formación de opinión y el entretenimiento sano.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -65,25 +65,25 @@
           "feedback": "Incorrecto. Esa es la característica de la radio."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La prensa utiliza el canal visual y el código escrito para informar.",
           "is_correct": true,
           "feedback": "Correcto. Los periódicos y revistas se basan en la lectura y las imágenes impresas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La radio permite leer las noticias en un papel físico.",
           "is_correct": false,
           "feedback": "Incorrecto. La radio es un medio auditivo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ninguno de los dos medios sirve para informar sobre noticias actuales.",
           "is_correct": false,
           "feedback": "Incorrecto. Ambos son medios informativos por excelencia."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Cada medio de comunicación utiliza un canal sensorial diferente (visual para prensa, auditivo para radio, audiovisual para TV) y códigos específicos (texto, sonido, imagen).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Un grupo de estudiantes en Cali analiza cómo la radio ha llegado a las zonas más apartadas de Colombia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque requiere conexión a internet de alta velocidad.",
           "is_correct": false,
           "feedback": "Incorrecto. La radio tradicional funciona mediante ondas electromagnéticas, no internet."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque su señal llega a lugares remotos y no requiere que el oyente sepa leer.",
           "is_correct": true,
           "feedback": "Correcto. La radio es accesible, económica y supera barreras geográficas y de alfabetización."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. La radio tiene una cobertura nacional muy amplia."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La radio ha sido históricamente un medio de educación y compañía en el campo colombiano, permitiendo la comunicación en áreas donde la prensa o la TV no llegaban fácilmente.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -157,13 +157,13 @@
           "feedback": "Incorrecto. La TV usa imágenes en movimiento, no solo texto."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La posibilidad de escuchar solo la voz del locutor.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso lo comparte con la radio, no es su valor diferencial positivo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La combinación de imagen en movimiento, sonido y lenguaje corporal.",
           "is_correct": true,
           "feedback": "Correcto. El lenguaje audiovisual genera una sensación de cercanía y realidad mayor."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. La TV es experta en transmisiones en directo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El lenguaje audiovisual de la televisión integra múltiples códigos (icónico, sonoro, lingüístico) para transmitir mensajes complejos que impactan emocionalmente a la audiencia.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -209,19 +209,19 @@
           "feedback": "Incorrecto. Allí se informa sobre eventos atléticos."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "En el editorial.",
           "is_correct": true,
           "feedback": "Correcto. El editorial es el texto donde el medio expresa su postura oficial sobre un tema."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "En la tira cómica.",
           "is_correct": false,
           "feedback": "Incorrecto. La tira cómica es para entretenimiento gráfico."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Los medios de comunicación no solo informan objetivamente, sino que también tienen espacios de opinión (editoriales, columnas) donde analizan la realidad desde su perspectiva.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -295,25 +295,25 @@
           "feedback": "Incorrecto. Cada medio puede tener un sesgo o cometer errores."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Para identificar diferentes puntos de vista y verificar si la información es real.",
           "is_correct": true,
           "feedback": "Correcto. El contraste de fuentes es una habilidad del pensamiento crítico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque es obligatorio por ley leer todos los periódicos del país.",
           "is_correct": false,
           "feedback": "Incorrecto. No es una obligación legal, sino un hábito de buen ciudadano informado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Para perder el tiempo viendo la misma noticia muchas veces.",
           "is_correct": false,
           "feedback": "Incorrecto. No es pérdida de tiempo, es formación de criterio."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El pensamiento crítico frente a los medios implica reconocer que la información es una construcción y que puede estar influenciada por intereses particulares.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -341,13 +341,13 @@
           "feedback": "Incorrecto. Internet tiene múltiples usos informativos y educativos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que es mucho más lento para transmitir noticias.",
           "is_correct": false,
           "feedback": "Incorrecto. Al contrario, internet es instantáneo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La interactividad y la posibilidad de que el receptor también sea creador de contenido.",
           "is_correct": true,
           "feedback": "Correcto. En internet el usuario deja de ser pasivo y puede comentar, compartir y publicar."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Internet es el medio multimedia por excelencia."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La convergencia digital permite que internet funcione como un medio global que integra texto, audio y video, añadiendo la capacidad de interacción en tiempo real.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "En un ejercicio de análisis en Pasto, se compara una noticia de radio con una de un periódico impreso.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La radio.",
           "is_correct": true,
           "feedback": "Correcto. Es un medio auditivo que permite realizar otras actividades manuales y visuales mientras se escucha."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El periódico impreso.",
           "is_correct": false,
           "feedback": "Incorrecto. Leer mientras se conduce es extremadamente peligroso."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una revista de análisis político.",
           "is_correct": false,
           "feedback": "Incorrecto. Requiere atención visual completa."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La televisión de alta definición.",
           "is_correct": false,
           "feedback": "Incorrecto. Distrae la vista de la carretera."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La adecuación del medio depende del contexto del receptor. La radio permite la simultaneidad de tareas, lo que la hace el medio preferido para conductores y personas que realizan labores manuales.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -433,13 +433,13 @@
           "feedback": "Incorrecto. El lucro no está por encima de los derechos humanos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El derecho a la intimidad y al buen nombre de las personas.",
           "is_correct": true,
           "feedback": "Correcto. La libertad de prensa tiene límites cuando choca con la dignidad humana."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La obligación de publicar solo noticias que sean divertidas.",
           "is_correct": false,
           "feedback": "Incorrecto. Las noticias serias son necesarias aunque no sean divertidas."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. Existen leyes y códigos de ética que regulan la actividad periodística."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La responsabilidad ética de los medios es fundamental para la convivencia social, equilibrando el derecho a informar con el respeto a la vida privada y la honra de los ciudadanos.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Formato v5.2 correcto. |\n| Curricular | 40/40 | Alineado con DBA de Lengua G6 sobre medios de comunicación. |\n| Contexto | 20/20 | Contextos colombianos diversos y realistas. |\n| Redacción | 10/10 | Preguntas claras y pedagógicas. |\n| **TOTAL** | **100/100** | |",
       "difficulty": "10",
       "images": [],

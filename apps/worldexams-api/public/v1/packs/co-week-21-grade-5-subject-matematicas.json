@@ -59,31 +59,31 @@
       "context": "La profesora de arte en un colegio de Armenia dobla una hoja con una figura dibujada y observa que las dos mitades coinciden exactamente.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Que al doblarla por esa línea, las dos mitades coinciden exactamente.",
           "is_correct": true,
           "feedback": "El eje de simetría divide la figura en dos partes que son reflejo una de la otra."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que la figura tiene todos sus lados de diferente longitud.",
           "is_correct": false,
           "feedback": "Que los lados sean distintos no define un eje de simetría."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que la figura no puede girar sobre ningún punto.",
           "is_correct": false,
           "feedback": "La simetría y la rotación son movimientos independientes entre sí."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que la figura cambia de forma al doblarla.",
           "is_correct": false,
           "feedback": "La figura no cambia de forma; sus mitades coinciden al doblarla."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Comprender el eje de simetría como la línea que divide una figura en dos partes que coinciden al doblar.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En una cuadrícula, una flecha apunta hacia el norte. Un estudiante la gira 90 grados en sentido horario alrededor de su centro.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Hacia el este.",
           "is_correct": true,
           "feedback": "Al girar 90 grados en sentido horario, la flecha que apuntaba al norte pasa a apuntar al este."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Hacia el sur.",
           "is_correct": false,
           "feedback": "Apuntar al sur requeriría un giro de 180 grados, no de 90."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Hacia el oeste.",
           "is_correct": false,
           "feedback": "El oeste se alcanzaría girando 90 grados en sentido antihorario."
@@ -129,7 +129,7 @@
           "feedback": "Un giro de 90 grados siempre cambia la dirección en que apunta la flecha."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicar una rotación de 90 grados para determinar la nueva orientación de una figura.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "Un estudiante recorta un cuadrado de cartulina en una clase de geometría en Neiva y quiere encontrar todas sus líneas de simetría.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "4 ejes de simetría.",
           "is_correct": true,
           "feedback": "El cuadrado tiene 2 ejes por los puntos medios de lados opuestos y 2 por sus diagonales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2 ejes de simetría.",
           "is_correct": false,
           "feedback": "Son 2 ejes adicionales por las diagonales, para un total de 4."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1 eje de simetría.",
           "is_correct": false,
           "feedback": "Un cuadrado tiene más de un eje; sus diagonales y sus ejes medios también lo dividen."
@@ -175,7 +175,7 @@
           "feedback": "Ocho ejes exceden las líneas que realmente dividen el cuadrado en mitades iguales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicar el conteo de ejes de simetría en una figura regular como el cuadrado.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Dos estudiantes comparan dos movimientos sobre un triángulo: uno gira la figura 180 grados y el otro la refleja sobre una línea vertical.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La rotación gira la figura alrededor de un punto, mientras la reflexión produce una imagen especular.",
           "is_correct": true,
           "feedback": "La rotación conserva la orientación girando alrededor de un punto; la reflexión invierte la figura como un espejo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La rotación cambia el tamaño de la figura y la reflexión no.",
           "is_correct": false,
           "feedback": "Ninguno de los dos movimientos cambia el tamaño de la figura."
@@ -267,7 +267,7 @@
           "feedback": "Rotación y reflexión son movimientos distintos con resultados diferentes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Analizar las diferencias entre rotación y reflexión como movimientos en el plano.",
       "difficulty": "8",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "Un estudiante observa un rectángulo que no es cuadrado y afirma que tiene los mismos ejes de simetría que un cuadrado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "No, porque el rectángulo tiene 2 ejes de simetría y el cuadrado tiene 4.",
           "is_correct": true,
           "feedback": "El rectángulo solo se divide en mitades iguales por sus ejes medios, no por sus diagonales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sí, porque toda figura de cuatro lados tiene 4 ejes de simetría.",
           "is_correct": false,
           "feedback": "El número de ejes depende de la forma; no toda figura de cuatro lados tiene 4."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No, porque el rectángulo no tiene ningún eje de simetría.",
           "is_correct": false,
           "feedback": "El rectángulo sí tiene ejes de simetría, aunque menos que el cuadrado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Sí, porque las diagonales del rectángulo también son ejes de simetría.",
           "is_correct": false,
           "feedback": "Las diagonales del rectángulo no lo dividen en mitades coincidentes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analizar y comparar los ejes de simetría del rectángulo con los del cuadrado.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Un estudiante afirma: \"Conocer la rotación y la simetría de las figuras ayuda a diseñar y entender objetos de la vida diaria, como los mosaicos de un piso o los diseños de una bandera\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque permite reconocer patrones, diseñar formas y resolver problemas de orientación en objetos reales.",
           "is_correct": true,
           "feedback": "La rotación y la simetría se aplican en diseño, arte y ubicación espacial en la vida cotidiana."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque solo sirve para decorar cuadernos sin ninguna aplicación práctica.",
           "is_correct": false,
           "feedback": "Estos conceptos tienen aplicaciones amplias en diseño, construcción y tecnología."
@@ -359,7 +359,7 @@
           "feedback": "Cambiar el tamaño corresponde a una homotecia, no a la rotación ni a la simetría."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluar la importancia de la rotación y la simetría para interpretar y crear patrones en contextos reales.",
       "difficulty": "10",
       "images": [],

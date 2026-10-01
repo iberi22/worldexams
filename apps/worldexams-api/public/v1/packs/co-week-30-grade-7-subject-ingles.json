@@ -19,25 +19,25 @@
           "feedback": "Incorrect. You can count carrots."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Sugar",
           "is_correct": true,
           "feedback": "Correct! Sugar is a substance and is uncountable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Banana",
           "is_correct": false,
           "feedback": "Incorrect. You can count bananas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Egg",
           "is_correct": false,
           "feedback": "Incorrect. You can count eggs."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student identifies basic noun countability categories.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Using quantifiers for a small number.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "a little",
           "is_correct": false,
           "feedback": "Incorrect. Books are countable."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "a few",
           "is_correct": true,
           "feedback": "Correct! \"A few\" is for a small number of countable items."
@@ -129,7 +129,7 @@
           "feedback": "Incorrect. \"Many\" would make the bag heavy."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student understands the correct quantifier based on countability and contextual logic.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -203,13 +203,13 @@
           "feedback": "Incorrect. Long adjectives don't take -er."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "more expensive",
           "is_correct": true,
           "feedback": "Correct! Comparative form for a long adjective."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "the most expensive",
           "is_correct": false,
           "feedback": "Incorrect. Use comparative for two things."
@@ -221,7 +221,7 @@
           "feedback": "Incorrect. Missing the second \"as\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student applies comparative rules for long adjectives.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -295,13 +295,13 @@
           "feedback": "Incorrect. You wouldn't promise to forget."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "won't",
           "is_correct": true,
           "feedback": "Correct! \"Won't\" is the negative future used for a promise not to do something."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "am not",
           "is_correct": false,
           "feedback": "Incorrect. Missing \"going to\"."
@@ -313,7 +313,7 @@
           "feedback": "Incorrect. Not the standard tense for a specific future promise."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student applies the future auxiliary \"will\" (negative form) to express a promise.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "Analyzing comparative and superlative forms of irregular adjectives.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Pizza is the better food in the world.",
           "is_correct": false,
           "feedback": "Incorrect. Needs the superlative \"best\"."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Fruits are more good for your health than candy.",
           "is_correct": false,
           "feedback": "Incorrect. Comparative of \"good\" is \"better\"."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Vegetables are better for your health than candy.",
           "is_correct": true,
           "feedback": "Correct! \"Better\" is the correct comparative of \"good\"."
@@ -359,7 +359,7 @@
           "feedback": "Incorrect. \"Bestest\" is not a word; \"best\" is already superlative."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "The student analyzes the correct use of irregular comparative and superlative forms.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,25 +387,25 @@
           "feedback": "Incorrect. \"I think I'll\" is a spontaneous/uncertain future."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Ana's",
           "is_correct": true,
           "feedback": "Correct! \"I am going\" (present continuous for future) or \"I am going to go\" shows a firm plan with a specific time."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Luis's",
           "is_correct": false,
           "feedback": "Incorrect. \"Might\" shows low certainty."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "All are equally certain.",
           "is_correct": false,
           "feedback": "Incorrect. The different structures show different levels of commitment."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student analyzes the nuances of future structures to determine the level of certainty or arrangement.\n\n---",
       "difficulty": "10",
       "images": [],

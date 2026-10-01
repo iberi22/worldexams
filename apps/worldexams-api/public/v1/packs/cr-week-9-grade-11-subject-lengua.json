@@ -13,13 +13,13 @@
       "context": "Durante un taller literario en el cantón central de Heredia, se repasan los niveles de análisis de una obra.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Al estudio de las circunstancias históricas, políticas, económicas y culturales de la época en que el autor costarricense escribió la obra.",
           "is_correct": true,
           "feedback": "Correcto. El contexto de producción analiza los factores históricos y sociales reales que rodearon la creación artística."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "A la medición exacta de los centímetros de margen que tiene el manuscrito de adobes impreso.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una variable física comercial del diseño editorial, no del contexto de producción sociocultural."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. La traducción es un proceso lingüístico posterior, no el contexto de producción."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El análisis sociocultural examina de qué manera el contexto real de una sociedad (como la Costa Rica cafetalera o bananera) influye en las preocupaciones de la obra literaria.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -64,13 +64,13 @@
           "feedback": "Incorrecto. Los estudiantes de undécimo año de secundaria manejan perfectamente el idioma español nacional."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El lector moderno interpreta la obra a partir de su sensibilidad ecológica actual y las problemáticas ambientales contemporáneas, resignificando la denuncia histórica del autor.",
           "is_correct": true,
           "feedback": "Correcto. El contexto de recepción abarca la época del lector (siglo XXI), lo que enriquece y actualiza el sentido del texto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La obra pierde validez porque las plantaciones bananeras del Caribe costarricense ya no existen en el país.",
           "is_correct": false,
           "feedback": "Incorrecto. Las plantaciones bananeras siguen activas y la denuncia histórica mantiene su valor patrimonial."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. El MEP promueve el análisis reflexivo de textos nacionales en sus programas de Bachillerato."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La recepción literaria es un proceso dinámico donde el horizonte de expectativas de la época del lector resignifica los mensajes del pasado.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -109,25 +109,25 @@
           "feedback": "Incorrecto. La novela es un drama crudo de denuncia social, no una comedia de vacaciones o de playa."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Inspiran la militancia política y el compromiso social de denunciar la explotación de la United Fruit Company para incitar a la reforma laboral nacional.",
           "is_correct": true,
           "feedback": "Correcto. 'Mamita Yunai' es fruto del activismo sindical del autor y de las luchas campesinas de la época por derechos sociales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Levantan la voz y suprimen el cultivo de banano en todo el territorio costarricense por decreto de ley.",
           "is_correct": false,
           "feedback": "Incorrecto. El cultivo continuó bajo nuevas regulaciones; la novela denunció los abusos pero no abolió la actividad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Exigen que todos los personajes de la novela sean estudiantes de undécimo año del Liceo de San José.",
           "is_correct": false,
           "feedback": "Incorrecto. Los personajes de Fallas son peones, linieros e indígenas reales del cantón caribeño de Talamanca."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La narrativa de la Generación del 40 en Costa Rica mantiene una vinculación indisociable con los movimientos obreros y las reformas de la época.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "María analiza los discursos de los personajes en la novela 'El moto' (1900) de Joaquín García Monge.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Comparar de forma crítica los matrimonios arreglados por dinero en 'El moto' con la sumisión conyugal en dramas europeos clásicos del siglo XIX.",
           "is_correct": true,
           "feedback": "Correcto. La intertextualidad establece diálogos y comparaciones críticas de sentido entre dos o más textos de distintas procedencias."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Medir la cantidad de palabras del dialecto popular costarricense utilizadas en cada capítulo de la novela.",
           "is_correct": false,
           "feedback": "Incorrecto. Esto constituye un análisis léxico-semántico estadístico, no un análisis intertextual."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Presentar una biografía del pintor herediano que diseñó la portada del libro.",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a la biografía o historia del arte, ajeno a las relaciones intertextuales de la obra."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. El precio de venta del libro es una variable mercantil comercial externa sin valor literario."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La intertextualidad literaria examina los hilos invisibles de correspondencia temática, mítica o formal que vinculan la obra en estudio con la biblioteca universal.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Andrey investiga el papel de las leyendas costarricenses en el de la provincia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El Cadejos (perro de ojos rojos protector de la provincia).",
           "is_correct": false,
           "feedback": "Incorrecto. El Cadejos castiga las andanzas de los hombres trasnochadores y viciosos, no la coquetería femenina colonial."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La Segua o la Llorona, apariciones que castigan las conductas de los hombres o de las madres pecadoras.",
           "is_correct": true,
           "feedback": "Correcto. La Segua se manifiesta como una hermosa mujer que se transforma en monstruo de cabeza de caballo para escarmentar a los infieles."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Es una figura de fantasía que no posee vinculación con las leyendas de control de conducta moral campesina tradicionales costarricenses."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Las leyendas tradicionales costarricenses como la Segua cumplían una de control social e infundir pánico sobre las conductas consideradas pecaminosas.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorrecto. El propósito es afianzar la pertenencia, no de incentivar la emigración."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Consolida el sentimiento de pertenencia nacional, el orgullo patrio, la valoración de la paz institucional y el respeto por los héroes nacionales.",
           "is_correct": true,
           "feedback": "Correcto. La lírica patriótica afianza la identidad colectiva costarricense en torno a ideales comunes de paz, civismo y laboriosidad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Obliga a las municipalidades a suprimir las clases de historia de los colegios.",
           "is_correct": false,
           "feedback": "Incorrecto. Carece de vinculación con reformas de mallas curriculares de secundarias del MEP."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. No aborda debates monetarios nacionales; su fin es cívico."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La lírica nacional y de exaltación cívica ha sido históricamente una herramienta indispensable en las escuelas de Costa Rica para modelar la identidad nacional y el respeto institucional.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Incorrecto. La sintaxis analiza las estructuras de las frases, no las relaciones de poder de la trama."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La dimensión de análisis sociocrítico o de contenido de clase social, que desvela los conflictos de poder económicos de la historia.",
           "is_correct": true,
           "feedback": "Correcto. El análisis sociocrítico se enfoca en las tensiones de clase, el capital de los dueños y el desamparo de los peones en la novela."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La dimensión métrica de los capítulos de la novela de la provincia.",
           "is_correct": false,
           "feedback": "Incorrecto. Al ser una novela en prosa, carece de rima y métrica de carácter poético lírico."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Constituye un anacronismo ajeno al contexto de la novela histórica de Fallas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La dimensión sociocrítica analiza de qué forma las contradicciones de clase, la explotación y la lucha laboral de un país se proyectan artísticamente en el texto literario.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -334,25 +334,25 @@
           "feedback": "Incorrecto. El teatro social exige una respuesta activa, no diversión de recreo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Un rol activo de cuestionamiento moral, toma de posición frente al abuso denunciado y reflexión sobre su propia conducta.",
           "is_correct": true,
           "feedback": "Correcto. El teatro ético-social promueve la empatía, los valores humanos y la deconstrucción de conductas violentas en el estudiante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un rol judicial de dictar sentencias de cárcel para los actores costarricenses.",
           "is_correct": false,
           "feedback": "Incorrecto. El espectador carece de potestades de tribunales del país; su rol es de concienciación ética."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Un rol de tramoyista encargado de pintar los decorados de maderas.",
           "is_correct": false,
           "feedback": "Incorrecto. Los tramoyistas son trabajadores de la asamblea escénica, ajenos al rol del espectador de secundaria."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El teatro social costarricense contemporáneo educa moralmente al estudiantado de undécimo año, transformando al espectador pasivo en un agente de cambio cívico contra la violencia.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Lea detenidamente el siguiente fragmento del análisis de un cuento realista costarricense:\n\n'En 'La propia', Magón no realiza una simple imitación costumbrista rústica de saludos; utiliza la voz campesina para visibilizar el orgullo, el amor propio y la resiliencia ética del labriego sencillo, que no se amilana ante la superioridad de clase de los terratenientes de San José.'",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que el habla popular costarricense en la literatura de Magón no es un mero adorno rústico, sino una herramienta de dignificación social y resistencia moral del campesino frente a las elites de la capital.",
           "is_correct": true,
           "feedback": "Correcto. El análisis desvela que el dialecto costumbrista es una toma de posición ideológica que reivindica la valía humana del peón del agro."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que los terratenientes de San José abolieron las siembras de café de Cartago debido a deudas.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto no aborda deudas, analiza el valor de la voz campesina."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Se exalta la literatura nacional de Magón como muestra genuina de identidad costarricense."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El análisis de los discursos populares en el costumbrismo costarricense trasciende lo folclórico, descubriendo el valor de dignidad campesina.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Considere el siguiente fragmento de una crítica sobre la poesía de Jorge Debravo:\n\n'Debravo despoja a la lírica costarricense de la ornamentación artificial y del hermetismo burgués. Su poesía, escrita en un lenguaje limpio, directo y fraternal de hondo calado existencial, convierte al verso en una herramienta de combate ético, una trinchera humana que exige pan, paz y justicia social para los desposeídos.'",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La dimensión métrica de los sonetos endecasílabos dedicados a los volcanes de Alajuela.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto no analiza rimas, metros de sonetos o lagunas volcánicas en la poesía de Debravo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La dimensión social y ética de su poesía como instrumento de concienciación humana, solidaridad fraterna y reivindicación de derechos de los sectores desfavorecidos de la nación.",
           "is_correct": true,
           "feedback": "Correcto. Destaca con rigor el hondo compromiso social del poeta costarricense y la finalidad ética de su voz lírica limpia."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Corresponde a variables externas de la publicación, no a su dimensión interpretativa."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La lírica de Jorge Debravo constituye un hito literario por su alta vocación humana, de denuncia de las desigualdades del agro costarricense.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Incorrecto. Analiza el sentido social de los símbolos folclóricos de la trama, no la gramática de adjetivos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Lectura sociopolítica y cultural, que trasciende la superficie del cuento de hadas infantil para desvelar las alegorías de resistencia latentes en la cultura popular del país.",
           "is_correct": true,
           "feedback": "Correcto. El análisis sociocrítico de Carmen Lyra desvela la carga de resistencia de la picardía de Tío Conejo en la sociedad costarricense de principios de siglo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Lectura de astronomía geológica del Volcán Irazú en Cartago.",
           "is_correct": false,
           "feedback": "Incorrecto. No analiza el relieve de volcanes o la geología; se enfoca en cuentos y dinámicas de personajes."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Es un análisis literario estético cultural, ajeno a guías de derecho penal o procedimientos policiales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Los cuentos populares recopilados y adaptados por Carmen Lyra encierran alegorías de resistencia popular, valiéndose de la astucia de los pequeños para burlar al poderoso.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -598,31 +598,31 @@
       "context": "Considere el siguiente pasaje de análisis de la novela 'Única mirando al mar' de Fernando Contreras Castro:\n\n'El vertedero de Río Azul en la novela no es un simple espacio inanimado de desperdicios. Funciona como una inmensa metáfora espacial del descarte humano, donde la sociedad de consumo de San José arroja tanto su basura como a las personas de la provincia.'",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La geografía del botadero de Río Azul se analiza de forma simbólica, proyectándose como un reflejo físico de la exclusión social, la deshumanización y el consumismo irresponsable de la Gran Área Metropolitana.",
           "is_correct": true,
           "feedback": "Correcto. El análisis demuestra cómo el espacio físico del basurero metaforiza la marginalidad social de los buceadores en Costa Rica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Describe de forma científica la composición del plástico del botadero.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un análisis estético de la novela, no un informe de laboratorio de ingeniería química ambiental."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El vertedero de Río Azul es catalogado como el mejor destino de ecoturismo de la provincia por el Ministerio.",
           "is_correct": false,
           "feedback": "Incorrecto. Río Azul era un vertedero de basura e insalubre, no un destino turístico nacional."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Tiene la finalidad didáctica de obligar al MEP a prohibir la recolección de plástico.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una novela literaria con fin de concienciación, no un reglamento de reciclaje del MEP."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La geografía literaria de la novela de Fernando Contreras dota al espacio de un hondo simbolismo, convirtiendo al basurero en un de reflexión sobre la sociedad de consumo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Incorrecto. Encontrar cofres con monedas de oro en el patio es una fantasía de aventuras, ajena al realismo económico contemporáneo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Constituye un fallo grave de consistencia, ya que arruina el planteamiento del realismo social crítico con una resolución inverosímil (deus ex machina) que evade abordar de manera honesta la problemática estructural del empleo juvenil en el país.",
           "is_correct": true,
           "feedback": "Correcto. El final fantástico socava el valor de denuncia realista de la obra con una salvación fortuita inverosímil."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Representa una etopeya que resalta el carácter del terrateniente de Cartago.",
           "is_correct": false,
           "feedback": "Incorrecto. No describe el carácter de un terrateniente; es una resolución de trama de cofre de oro de fantasía."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. La falla es de verosimilitud, no de normativas de Hacienda."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Un relato realista sólido debe guardar coherencia con sus premisas. Resolver un drama con un golpe de fortuna de fantasía demerita el rigor crítico de la obra.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Incorrecto. Las recetas de picadillos son valiosas pero no validan académicamente el análisis de género de la novela."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La correspondencia fiel entre el retrato sumiso del personaje femenino de Cundila (obligada a casarse) y la realidad histórica y jurídica real de exclusión social de la mujer de la época.",
           "is_correct": true,
           "feedback": "Correcto. El análisis se fundamenta en la concordancia real entre las costumbres patriarcales del agro retratadas en la novela y la sociología de la época."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La opinión de influencers de la provincia en sus redes de San José.",
           "is_correct": false,
           "feedback": "Incorrecto. Las opiniones informales de influencers en redes sociales carecen del rigor de la validación académica."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Las monografías técnicas literarias escolares deben redactarse en prosa académica formal, libre de rimas líricas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La validez del análisis literario con enfoque de género se consolida cuando se confronta críticamente el diseño del personaje ficticio con las variables de la época estudiada.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. No es una exigencia lingüística del libreto dramático nacional."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El desajuste de verosimilitud de la voz (incoherencia de idiolecto) de los personajes, al asignarles un vocabulario sumamente erudito y ajeno a su nivel socioeducativo, profesión y procedencia geográfica real.",
           "is_correct": true,
           "feedback": "Correcto. Los personajes sencillos de Limón deben expresarse de forma coherente con su contexto sociocultural y geográfico real para guardar verosimilitud."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La mención de la provincia de Limón como escenario de las obras dramáticas.",
           "is_correct": false,
           "feedback": "Incorrecto. Limón es una provincia costarricense idónea para de realismo social."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. El voseo es típico de varias regiones, pero la falla de fondo fundamental es el uso de tecnicismos eruditos en bocas de peones de Limón."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La verosimilitud dialógica en el drama exige guardar armonía entre la caracterización social del personaje y su idiolecto lingüístico en el escenario.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -829,25 +829,25 @@
           "feedback": "Incorrecto. Es una medición de altitud geológica ajena a la teoría literaria formal."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Al conjunto de presupuestos culturales, morales, estéticos y lingüísticos comunes a los lectores de una época que determinan la interpretación de las obras literarias escritas.",
           "is_correct": true,
           "feedback": "Correcto. El horizonte de expectativas es el marco de referencia de los lectores en un período histórico determinado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "A la cantidad de páginas de lectura que el MEP espera que lean los jóvenes.",
           "is_correct": false,
           "feedback": "Incorrecto. El volumen de páginas de lectura es una directriz de pedagogía, no una definición teórica de la recepción."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "A las firmas de de secundaria.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un formalismo burocrático, ajeno a los conceptos de la recepción literaria."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El horizonte de expectativas conceptualiza de qué manera los lectores de una época dada leen, juzgan e interpretan estéticamente la herencia literaria recibida del pasado.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -874,25 +874,25 @@
           "feedback": "Incorrecto. Se encarga del estudio de tensiones de clase de fondo en el realismo social."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Análisis sintáctico o morfosintáctico del lenguaje escrito.",
           "is_correct": true,
           "feedback": "Correcto. Es el nivel técnico de análisis que desglosa las oraciones, partes de la oración (sustantivos, verbos, complementos) y su orden sintáctico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Análisis métrico de las estrofas poéticas de Cartago.",
           "is_correct": false,
           "feedback": "Incorrecto. La métrica analiza la sonoridad del verso, no la estructura de la oración en prosa en general."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Análisis del precio de los manuales de la provincia.",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a variables comerciales, ajeno al lenguaje sintáctico."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El análisis sintáctico o de estructura morfosintáctica es el nivel de estudio que describe las relaciones de concordancia, el orden de las palabras y la arquitectura oracional de la lengua española.",
       "difficulty": "10",
       "images": [],

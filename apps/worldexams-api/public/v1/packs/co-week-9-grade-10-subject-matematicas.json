@@ -13,31 +13,31 @@
       "context": "En Bogotá, en clase de geometría analítica se escribe la ecuación canónica de una circunferencia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$(x - h)^2 + (y - k)^2 = r^2$",
           "is_correct": true,
           "feedback": "Correcto. Es la forma canónica: distancia constante $r$ al centro."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(x + h)^2 + (y + k)^2 = r^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Los signos de los términos deben ser negativos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(x - h)^2 + (y - k)^2 = r$",
           "is_correct": false,
           "feedback": "Incorrecto. El radio aparece elevado al cuadrado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x^2 + y^2 = r$",
           "is_correct": false,
           "feedback": "Incorrecto. Solo es válida para centro en el origen y con $r^2$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La ecuación canónica es $(x - h)^2 + (y - k)^2 = r^2$, que expresa que la distancia de cualquier punto al centro es $r$.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "En Medellín, se interpreta la ecuación $(x - 3)^2 + (y + 2)^2 = 16$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Centro $(3, -2)$ y radio $4$.",
           "is_correct": true,
           "feedback": "Correcto. El centro es $(3, -2)$ porque $(y - (-2))^2$, y $r^2 = 16$, luego $r = 4$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Centro $(-3, 2)$ y radio $4$.",
           "is_correct": false,
           "feedback": "Incorrecto. El signo del centro está invertido."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. La abscisa del centro es $3$, no $-3$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "De $(x - 3)^2 + (y + 2)^2 = 16$, el centro es $(3, -2)$ y $r^2 = 16$, por lo que $r = 4$.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En Cali, se trabaja con una circunferencia con centro en el origen y radio $5$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x^2 + y^2 = 25$",
           "is_correct": true,
           "feedback": "Correcto. Con centro en el origen, $(x)^2 + (y)^2 = r^2 = 25$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x^2 + y^2 = 5$",
           "is_correct": false,
           "feedback": "Incorrecto. El radio va elevado al cuadrado."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Esa es una recta, no una circunferencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Con centro en $(0, 0)$ y radio $5$: $x^2 + y^2 = 5^2 = 25$.",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En Barranquilla, se escribe la ecuación de la circunferencia con centro en $(4, -1)$ y radio $3$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$(x - 4)^2 + (y + 1)^2 = 9$",
           "is_correct": true,
           "feedback": "Correcto. Centro $(4, -1)$ y $r^2 = 9$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(x + 4)^2 + (y - 1)^2 = 9$",
           "is_correct": false,
           "feedback": "Incorrecto. El signo del centro está invertido."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(x - 4)^2 + (y + 1)^2 = 3$",
           "is_correct": false,
           "feedback": "Incorrecto. El radio debe estar al cuadrado."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. La ordenada del centro es $-1$, no $1$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Sustituyendo en $(x - h)^2 + (y - k)^2 = r^2$: $(x - 4)^2 + (y + 1)^2 = 9$.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En Manizales, se convierte la ecuación $x^2 + y^2 - 6x + 4y - 12 = 0$ a la forma canónica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Centro $(3, -2)$ y radio $5$.",
           "is_correct": true,
           "feedback": "Correcto. Completando cuadrados: $(x-3)^2 + (y+2)^2 = 25$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Centro $(-3, 2)$ y radio $5$.",
           "is_correct": false,
           "feedback": "Incorrecto. Los signos del centro están invertidos."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Confundiste los coeficientes lineales con el centro."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Completando cuadrados: $(x^2 - 6x + 9) + (y^2 + 4y + 4) = 12 + 9 + 4 = 25$, es decir $(x - 3)^2 + (y + 2)^2 = 25$. Centro $(3, -2)$ y radio $5$.",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En Cartagena, se halla la ecuación de la circunferencia cuyo diámetro tiene extremos $A(1, 2)$ y $B(5, 8)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$(x - 3)^2 + (y - 5)^2 = 13$",
           "is_correct": true,
           "feedback": "Correcto. Centro $(3, 5)$, radio $\\frac{\\sqrt{(5-1)^2 + (8-2)^2}}{2} = \\frac{\\sqrt{52}}{2} = \\sqrt{13}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(x - 3)^2 + (y - 5)^2 = 52$",
           "is_correct": false,
           "feedback": "Incorrecto. $52$ es el cuadrado del diámetro, no del radio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(x - 1)^2 + (y - 2)^2 = 13$",
           "is_correct": false,
           "feedback": "Incorrecto. Esos son los extremos, no el centro."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Los signos del centro están invertidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El centro es el punto medio $M = (3, 5)$. El diámetro es $\\sqrt{52}$, así que $r = \\sqrt{13}$ y $r^2 = 13$. Ecuación: $(x - 3)^2 + (y - 5)^2 = 13$.",
       "difficulty": "8",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "En Cúcuta, una circunferencia con centro en $(2, -1)$ pasa por el punto $(5, 3)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$(x - 2)^2 + (y + 1)^2 = 25$",
           "is_correct": true,
           "feedback": "Correcto. $r^2 = (5-2)^2 + (3+1)^2 = 9 + 16 = 25$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(x - 2)^2 + (y + 1)^2 = 7$",
           "is_correct": false,
           "feedback": "Incorrecto. $7$ es la suma de diferencias sin elevar al cuadrado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(x + 2)^2 + (y - 1)^2 = 25$",
           "is_correct": false,
           "feedback": "Incorrecto. Los signos del centro están invertidos."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Faltó sumar el cuadrado de la otra diferencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El radio es la distancia del centro al punto: $r^2 = (5-2)^2 + (3-(-1))^2 = 9 + 16 = 25$. Ecuación: $(x - 2)^2 + (y + 1)^2 = 25$.",
       "difficulty": "8",
       "images": [],
@@ -473,31 +473,31 @@
       "context": "En Ibagué, se analiza la circunferencia $x^2 + y^2 - 6x + 2y - 6 = 0$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\sqrt{10}$",
           "is_correct": true,
           "feedback": "Correcto. Centro $(3, -1)$; distancia al origen: $\\sqrt{3^2 + (-1)^2} = \\sqrt{10}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$4$",
           "is_correct": false,
           "feedback": "Incorrecto. Confundiste la distancia con otra magnitud."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\sqrt{8}$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste mal la distancia al centro."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$10$",
           "is_correct": false,
           "feedback": "Incorrecto. Es el cuadrado de la distancia, no la distancia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Completando cuadrados: $(x-3)^2 + (y+1)^2 = 16$, centro $(3, -1)$. La distancia al origen es $\\sqrt{(3-0)^2 + (-1-0)^2} = \\sqrt{10}$.",
       "difficulty": "10",
       "images": [],
@@ -519,13 +519,13 @@
       "context": "En Villavicencio, una circunferencia con centro en $(2, 3)$ pasa por el punto $(5, 7)$. Se quiere saber si el punto $Q(6, 3)$ está sobre, dentro o fuera de la circunferencia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Está dentro de la circunferencia.",
           "is_correct": true,
           "feedback": "Correcto. $r^2 = 25$; la distancia de $Q$ al centro al cuadrado es $16 < 25$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Está sobre la circunferencia.",
           "is_correct": false,
           "feedback": "Incorrecto. La distancia al cuadrado es $16$, no $25$."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto. El centro es $(2, 3)$, no $(6, 3)$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "$r^2 = (5-2)^2 + (7-3)^2 = 9 + 16 = 25$. La distancia de $Q(6, 3)$ al centro al cuadrado es $(6-2)^2 + (3-3)^2 = 16$. Como $16 < 25$, el punto está dentro.",
       "difficulty": "10",
       "images": [],

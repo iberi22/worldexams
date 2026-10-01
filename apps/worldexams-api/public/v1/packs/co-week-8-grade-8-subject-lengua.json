@@ -19,25 +19,25 @@
           "feedback": "Góngora es el líder del Culteranismo, la corriente opuesta."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Francisco de Quevedo",
           "is_correct": true,
           "feedback": "Su ingenio, dominio del lenguaje y capacidad de síntesis lo convierten en el maestro del conceptismo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Garcilaso de la Vega",
           "is_correct": false,
           "feedback": "Garcilaso pertenece al Renacimiento (siglo XVI)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Lope de Vega",
           "is_correct": false,
           "feedback": "Aunque usó recursos conceptistas, su estilo suele ser más equilibrado y popular."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Francisco de Quevedo es la figura central del Conceptismo, destacando por su manejo magistral del doble sentido, la paradoja y la sátira punzante.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "Baltasar Gracián definió el \"concepto\" como un acto del entendimiento que expresa la correspondencia que se halla entre los objetos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La belleza sonora y musical de los versos por encima de todo.",
           "is_correct": false,
           "feedback": "Esto es más propio del Culteranismo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La densidad del pensamiento y el juego ingenioso de ideas y palabras.",
           "is_correct": true,
           "feedback": "Se busca decir mucho en pocas palabras (economía verbal) mediante la agudeza mental."
@@ -83,7 +83,7 @@
           "feedback": "Aunque usa cultismos, su foco es el juego lógico más que el léxico exótico."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El Conceptismo valora la inteligencia y el ingenio del lector, desafiándolo a encontrar relaciones inesperadas entre palabras y conceptos.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "El Conceptismo se asocia a menudo con la brevedad y la concisión. Se dice que \"lo bueno, si breve, dos veces bueno\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Terminar el libro más rápido porque no tenía tiempo para escribir.",
           "is_correct": false,
           "feedback": "La brevedad conceptista exige mucho esfuerzo de condensación."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Facilitar que los niños pequeños puedan leer sus obras sin cansarse.",
           "is_correct": false,
           "feedback": "Sus obras están dirigidas a un público adulto e intelectualmente preparado."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Concentrar la máxima cantidad de inteligencia e ingenio en el mínimo espacio posible.",
           "is_correct": true,
           "feedback": "Es la estética de la densidad: intensidad frente a extensión."
@@ -175,7 +175,7 @@
           "feedback": "La brevedad busca el impacto estético e intelectual, no el ocultamiento."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La economía de lenguaje en el Conceptismo obliga al lector a participar activamente, \"desempaquetando\" los múltiples sentidos de cada frase.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -209,19 +209,19 @@
           "feedback": "No busca la confusión, sino la brillantez del ingenio."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Realizar una crítica social ácida mediante un juego de palabras inteligente.",
           "is_correct": true,
           "feedback": "La dilogía permite denunciar la miseria de forma ingeniosa y punzante."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Explicar cómo se fabricaban las camas en la época de Felipe IV.",
           "is_correct": false,
           "feedback": "El texto es una sátira social, no un tratado técnico."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La dilogía es uno de los mecanismos favoritos del conceptismo para la sátira, permitiendo decir una verdad dolorosa a través de una pirueta verbal.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -249,25 +249,25 @@
           "feedback": "Esto es más característico de Góngora."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El uso magistral del lenguaje para expresar una visión desengañada de la realidad.",
           "is_correct": true,
           "feedback": "Ya sea con seriedad o con humor, Quevedo muestra la decadencia y la falsedad del mundo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La esperanza de que el mundo mejorará gracias a la política del Rey.",
           "is_correct": false,
           "feedback": "El Barroco de Quevedo es profundamente pesimista y crítico."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El rechazo a usar cualquier tipo de figura retórica para ser más claro.",
           "is_correct": false,
           "feedback": "Su estilo está lleno de recursos retóricos, especialmente basados en el pensamiento."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El ingenio conceptista sirve tanto para la elevación filosófica como para la degradación satírica, reflejando las contradicciones del ser humano barroco.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -295,13 +295,13 @@
           "feedback": "La reflexión es existencial, no organizativa."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que los relojes del siglo XVII no funcionaban correctamente.",
           "is_correct": false,
           "feedback": "Los relojes (reloj de arena, de sol) eran símbolos de la fugacidad, no críticas técnicas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La fugacidad extrema del tiempo y la inexistencia del presente absoluto.",
           "is_correct": true,
           "feedback": "Es la angustia por el paso inevitable del tiempo que conduce a la muerte (Tempus fugit)."
@@ -313,7 +313,7 @@
           "feedback": "El poema enfatiza la desaparición constante del tiempo, no la nostalgia de una época."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La reflexión sobre el tiempo es uno de los temas cumbres del conceptismo, expresando la conciencia barroca de la muerte como algo que ocurre en cada instante de la vida.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -341,25 +341,25 @@
           "feedback": "Es un comentario falso e irrespetuoso hacia dos maestros del lenguaje."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Góngora es difícil por la forma y el vocabulario; Quevedo es difícil por la profundidad y los saltos lógicos de las ideas.",
           "is_correct": true,
           "feedback": "Son dos caminos distintos hacia la complejidad barroca: el léxico y el conceptual."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Góngora escribía para los niños y Quevedo para los ancianos.",
           "is_correct": false,
           "feedback": "Ambos escribían para la élite intelectual del Siglo de Oro."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No hay ninguna diferencia, ambos escribían exactamente de la misma manera.",
           "is_correct": false,
           "feedback": "Aunque ambos son barrocos, sus estilos son marcadamente distintos y enfrentados."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La dificultad culterana es externa y sensorial (necesitas diccionario y mitología); la dificultad conceptista es interna y lógica (necesitas agudeza mental).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -393,19 +393,19 @@
           "feedback": "Son consejos éticos y sociales para triunfar en la vida pública."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Seleccionar a sus lectores, premiando a quienes tenían la capacidad de descifrar sus enseñanzas.",
           "is_correct": true,
           "feedback": "El estilo difícil es un filtro para que solo los \"sabios\" accedan al conocimiento profundo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Demostrar que se puede escribir sin usar verbos en ninguna oración.",
           "is_correct": false,
           "feedback": "Usa verbos, pero de forma muy precisa y económica."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Gracián representa el culmen del conceptismo en prosa, donde la sabiduría se entrega en pequeñas dosis concentradas que exigen meditación.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "Quevedo utiliza a menudo la cosificación de las personas en sus sátiras (convertir a personas en objetos).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Mostrar su admiración por la resistencia de los muebles antiguos.",
           "is_correct": false,
           "feedback": "Es una sátira, el objetivo es la burla, no la admiración."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Ayudar a que la gente entienda mejor cómo envejecen las personas.",
           "is_correct": false,
           "feedback": "No tiene un fin médico o educativo, sino de ataque personal o social."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Despojar al personaje de su dignidad humana para resaltar lo ridículo o repulsivo de la vejez y la decadencia.",
           "is_correct": true,
           "feedback": "La cosificación es una técnica de agresión verbal típica del ingenio satírico barroco."
@@ -451,7 +451,7 @@
           "feedback": "Es un recurso de degradación estilística, no una jerarquía de valores real."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La técnica de la cosificación o animalización en la sátira conceptista sirve para subrayar el desengaño barroco ante la fealdad y el paso del tiempo.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -473,19 +473,19 @@
       "context": "El soneto \"Cerrar podrá mis ojos la postrera...\" es considerado uno de los mejores poemas de amor de la lengua española.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Diciendo que los enamorados nunca mueren realmente.",
           "is_correct": false,
           "feedback": "Reconoce que morirán y se convertirán en polvo (realismo)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Prometiendo que el amor les dará riquezas en la otra vida.",
           "is_correct": false,
           "feedback": "No habla de riquezas, sino de la persistencia del sentimiento."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Afirmando que el amor tiene la fuerza suficiente para trascender la muerte física, aunque el cuerpo se destruya.",
           "is_correct": true,
           "feedback": "Es la victoria metafísica del sentimiento sobre la materia corruptible."
@@ -497,7 +497,7 @@
           "feedback": "Es una interpretación literal y absurda de una metáfora sublime."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Este poema representa la síntesis conceptista entre la crudeza de la muerte y la altura del sentimiento humano, logrando una imagen de gran poder emocional.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -531,19 +531,19 @@
           "feedback": "El \"humor negro\" es un concepto literario y vital, no de diseño gráfico."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Por su capacidad de reírse de la desgracia propia y ajena y de cuestionar todas las verdades aparentes.",
           "is_correct": true,
           "feedback": "La risa amarga y el cuestionamiento de la realidad son rasgos profundamente modernos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque solo escribía sobre fantasmas y cementerios en sus poemas.",
           "is_correct": false,
           "feedback": "Sus temas son variados: amor, política, filosofía, religión y vida cotidiana."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La ironía conceptista rompe la relación directa entre palabra y cosa, abriendo un espacio de duda y juego que es característico del pensamiento moderno.\n\n---",
       "difficulty": "10",
       "images": [],

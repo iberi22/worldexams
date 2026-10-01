@@ -19,13 +19,13 @@
           "feedback": "Incorrecto. Su función principal es crear leyes, no juzgar su constitucionalidad."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El Tribunal Supremo de Elecciones",
           "is_correct": false,
           "feedback": "Incorrecto. Se encarga exclusivamente de los procesos electorales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La Sala Constitucional (Sala IV)",
           "is_correct": true,
           "feedback": "¡Correcto! Es el órgano del Poder Judicial que garantiza el respeto a la Carta Magna."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Supervisa la actividad del sector público, pero no dicta sentencias de constitucionalidad."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La Sala IV es pilar de la democracia costarricense, permitiendo que cualquier ciudadano interponga recursos de amparo o hábeas corpus para proteger sus derechos.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -64,13 +64,13 @@
           "feedback": "Incorrecto. Al contrario, se dejó de gastar en armas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El traslado de recursos económicos hacia el fortalecimiento de la educación y la salud pública.",
           "is_correct": true,
           "feedback": "¡Correcto! Esto permitió alcanzar altos índices de desarrollo humano en la región."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El aumento de los conflictos fronterizos con los países vecinos.",
           "is_correct": false,
           "feedback": "Incorrecto. Costa Rica ha mantenido una política de neutralidad y paz."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Los desfiles siguen realizándose con un enfoque civilista."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La abolición del ejército definió la identidad civilista de Costa Rica, priorizando la inversión en capital humano sobre el gasto militar.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -199,25 +199,25 @@
           "feedback": "Incorrecto. La cultura gastronómica persiste, aunque los insumos puedan ser importados."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Han generado una mayor competencia con productos importados más baratos, obligando a la reconversión productiva.",
           "is_correct": true,
           "feedback": "¡Correcto! Los pequeños productores de granos básicos han enfrentado grandes desafíos económicos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Han eliminado por completo el uso de tecnología en el campo.",
           "is_correct": false,
           "feedback": "Incorrecto. Al contrario, la tecnología ha aumentado para mejorar la competitividad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Han causado el cierre total de las fronteras terrestres.",
           "is_correct": false,
           "feedback": "Incorrecto. La globalización implica apertura, no cierre."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La globalización presenta una dualidad: permite el acceso a nuevos mercados (dispositivos médicos, servicios) pero presiona a los sectores productivos más tradicionales.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "Análisis de la participación ciudadana en los gobiernos locales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Administrar la justicia penal en todo el territorio nacional.",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es función exclusiva del Poder Judicial."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Administrar los intereses y servicios locales de cada cantón.",
           "is_correct": true,
           "feedback": "¡Correcto! Se encargan de recolección de residuos, patentes, caminos vecinales y desarrollo local."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Función del Poder Ejecutivo a través del Ministerio de Seguridad Pública."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Los gobiernos locales son la instancia de gobierno más cercana al ciudadano, fundamental para el desarrollo comunitario y la democracia participativa.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -334,25 +334,25 @@
           "feedback": "Incorrecto. La Corte es un tribunal autónomo internacional, no una extensión del gobierno tico."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Consolida el prestigio internacional de Costa Rica como defensor de la paz y los derechos fundamentales.",
           "is_correct": true,
           "feedback": "¡Correcto! Refuerza el \"soft power\" del país en la diplomacia mundial."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Obliga a todos los costarricenses a ser abogados de oficio.",
           "is_correct": false,
           "feedback": "Incorrecto. No existe tal obligación ciudadana."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Permite que el país no tenga que cumplir ningún tratado internacional.",
           "is_correct": false,
           "feedback": "Incorrecto. Al contrario, compromete más al país con el cumplimiento."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La vocación pacifista y pro-derechos humanos de Costa Rica se materializa al ser sede de organismos judiciales de trascendencia continental.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -424,13 +424,13 @@
           "feedback": "Incorrecto. Es la más alta y antigua, pero no tiene volcanes activos jóvenes en su cresta principal."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Cordillera Volcánica Central",
           "is_correct": true,
           "feedback": "¡Correcto! Se ubica al norte del Valle Central y es clave para el turismo y la agricultura."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cordillera de Guanacaste",
           "is_correct": false,
           "feedback": "Incorrecto. Se ubica al noroeste, con volcanes como el Rincón de la Vieja."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Es una cordillera costera de menor altura en el Pacífico sur."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La geografía volcánica de Costa Rica influye en la fertilidad de los suelos, la producción de energía geotérmica y la gestión de riesgos naturales.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -520,19 +520,19 @@
           "feedback": "Incorrecto. En esa época el voto era exclusivamente masculino."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "1953",
           "is_correct": true,
           "feedback": "¡Correcto! Fue el hito que marcó la universalidad del sufragio en el país."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "2010",
           "is_correct": false,
           "feedback": "Incorrecto. El voto femenino tiene décadas de vigencia."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El sufragio femenino fue el resultado de una larga lucha de movimientos feministas y un paso fundamental hacia una democracia plena e inclusiva.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "Discusión sobre el impacto de los monocultivos de exportación (piña, banano).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que las piñas son demasiado dulces para el mercado europeo.",
           "is_correct": false,
           "feedback": "Incorrecto. No es una crítica social ni ambiental."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La contaminación de fuentes de agua por agroquímicos y la precarización del trabajo rural.",
           "is_correct": true,
           "feedback": "¡Correcto! El impacto en los mantos acuíferos es una preocupación constante de las comunidades."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. No tiene relación con la tecnología de comunicación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El modelo agroexportador requiere un equilibrio estricto entre el crecimiento económico y la protección de los recursos naturales y la salud pública.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorrecto. Al contrario, favoreció la marginación."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Promovió una visión homogénea de la sociedad que ignoró la diversidad cultural y los aportes de las minorías.",
           "is_correct": true,
           "feedback": "¡Correcto! Se construyó una identidad oficial que excluía la realidad multiétnica del país."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Logró que el inglés fuera el idioma oficial en todo el país.",
           "is_correct": false,
           "feedback": "Incorrecto. El español siempre ha sido el oficial."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Los símbolos nacionales reforzaron esa visión homogénea."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Hoy en día, Costa Rica se reconoce constitucionalmente como una nación multiétnica y pluricultural, valorando la herencia de todos sus habitantes.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "Incorrecto. Estas instituciones son de períodos diferentes."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La Caja Costarricense de Seguro Social, la Universidad de Costa Rica y las Garantías Sociales (Código de Trabajo).",
           "is_correct": true,
           "feedback": "¡Correcto! Son los pilares del Estado de Bienestar costarricense."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El Banco Central, la Guardia Civil y la Sala Cuarta.",
           "is_correct": false,
           "feedback": "Incorrecto. Instituciones de creación posterior."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La Independencia, la abolición del ejército y el voto femenino.",
           "is_correct": false,
           "feedback": "Incorrecto. Mezcla hitos de diferentes épocas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La Reforma Social fue un pacto histórico entre el gobierno, la Iglesia Católica y el Partido Vanguardia Popular, sentando las bases de la justicia social en el país.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Incorrecto. La independencia ya había ocurrido décadas antes."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Instaurar un sistema de esclavitud y anexar el territorio a los estados esclavistas del sur de Estados Unidos.",
           "is_correct": true,
           "feedback": "¡Correcto! Representaba una amenaza directa a la libertad y soberanía de la región."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Construir un canal interoceánico para regalarlo a los indígenas.",
           "is_correct": false,
           "feedback": "Incorrecto. Buscaba el control de la ruta de tránsito para beneficio propio."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Su presencia generó la mayor guerra del siglo en la región."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La derrota de los filibusteros en la Batalla de Rivas (donde destaca Juan Santamaría) es el evento fundacional de la soberanía nacional costarricense.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. El Estado requiere trabajadores para funcionar."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Controlar el gasto público, eliminar las disparidades salariales injustas y garantizar la sostenibilidad fiscal a largo plazo.",
           "is_correct": true,
           "feedback": "¡Correcto! Busca eficiencia y equidad en el uso de los recursos del Estado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Aumentar los salarios de todos los empleados un 100% cada año.",
           "is_correct": false,
           "feedback": "Incorrecto. Esto iría en contra de la sostenibilidad fiscal."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. No es un objetivo de la ley."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La reforma del empleo público es un tema complejo que busca equilibrar los derechos laborales con la capacidad financiera de un Estado que enfrenta altos niveles de deuda.\n\n---",
       "difficulty": "9",
       "images": [],

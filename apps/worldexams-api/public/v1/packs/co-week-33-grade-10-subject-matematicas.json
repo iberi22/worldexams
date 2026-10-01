@@ -65,25 +65,25 @@
           "feedback": "Incorrecto. La elección de coordenadas no afecta la antiderivada."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Porque si $F(x)$ es una antiderivada, entonces $F(x) + C$ también lo es, para cualquier constante $C$.",
           "is_correct": true,
           "feedback": "Correcto. La derivada de una constante es $0$, así que se mantiene la igualdad $F' = f$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque solo existe cuando $f$ es lineal.",
           "is_correct": false,
           "feedback": "Incorrecto. Existen antiderivadas para funciones no lineales también."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque la derivada solo se puede calcular una vez.",
           "is_correct": false,
           "feedback": "Incorrecto. La derivada no limita el número de antiderivadas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Si $F'(x) = f(x)$, entonces $(F(x) + C)' = F'(x) + 0 = f(x)$. Por eso toda familia $F(x) + C$ es el conjunto completo de antiderivadas de $f$.",
       "difficulty": "4",
       "images": [],
@@ -117,19 +117,19 @@
           "feedback": "Incorrecto. Aunque su derivada es $2x$, le falta la constante $+C$ de la integral indefinida."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$x^2 + C$",
           "is_correct": true,
           "feedback": "Correcto. La derivada de $x^2 + C$ es $2x$, por lo que es la integral indefinida correcta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x + C$",
           "is_correct": false,
           "feedback": "Incorrecto. La derivada de $x + C$ es $1$, no $2x$."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La integral indefinida $\\int 2x \\, dx = x^2 + C$ incluye la constante $+C$ porque cualquier constante se anula al derivar, dando así todas las antiderivadas de $2x$.",
       "difficulty": "4",
       "images": [],
@@ -157,25 +157,25 @@
           "feedback": "Incorrecto. Multiplicaste $5$ por un $x$ inexistente y elevaste al cuadrado."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$5x + C$",
           "is_correct": true,
           "feedback": "Correcto. La antiderivada de una constante $k$ es $kx + C$, ya que la derivada de $5x$ es $5$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$C$",
           "is_correct": false,
           "feedback": "Incorrecto. La integral de una constante no es solo otra constante."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$5 + C$",
           "is_correct": false,
           "feedback": "Incorrecto. No se incluye la variable $x$ en la respuesta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La integral indefinida de una constante $k$ es $kx + C$ porque la derivada de $kx$ es exactamente $k$.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En Barranquilla, Valentina aplica la regla de la potencia para antiderivar $f(x) = x^3$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$3x^2 + C$",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es la derivada de $x^3$, no su antiderivada."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x^4 + C$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste por $4$ en vez de dividir."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$\\frac{x^4}{4} + C$",
           "is_correct": true,
           "feedback": "Correcto. Por la regla: $\\int x^n \\, dx = \\frac{x^{n+1}}{n+1} + C$, con $n = 3$."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Bajaste el exponente a 2 en lugar de subirlo a 4."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La regla de la potencia para integrales indica $\\int x^n \\, dx = \\frac{x^{n+1}}{n+1} + C$, así que con $n = 3$ se obtiene $\\frac{x^4}{4} + C$.",
       "difficulty": "6",
       "images": [],
@@ -301,19 +301,19 @@
           "feedback": "Incorrecto. La antiderivada existe en todo el dominio de $f$."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$F(x) = x^3 + C$ cumple $F'(x) = 3x^2$.",
           "is_correct": true,
           "feedback": "Correcto. La derivada de $x^3$ es exactamente $3x^2$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$F(x)$ no se puede determinar, porque la integral es imposible.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una integral polinómica elemental."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Como $f(x) = 3x^2$, su antiderivada es $F(x) = x^3 + C$, ya que al derivar $x^3$ se recupera $3x^2$, y se conserva $+C$ para toda la familia.",
       "difficulty": "8",
       "images": [],
@@ -347,19 +347,19 @@
           "feedback": "Incorrecto. Esa es la aceleración, no la velocidad."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$v(t) = 3t^2$.",
           "is_correct": true,
           "feedback": "Correcto. Antiderivar $6t$ da $3t^2 + C$, y con $v(0)=0$ se obtiene $C=0$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$v(t) = 3t^2 + 6t$.",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste la aceleración original, lo cual no aplica."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Como $v'(t) = a(t) = 6t$, se tiene $v(t) = \\int 6t \\, dt = 3t^2 + C$. Con $v(0)=0$ se obtiene $C = 0$, así que $v(t) = 3t^2$ m/s.",
       "difficulty": "8",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "En Medellín, Santiago debe recuperar la posición $s(t)$ a partir de la aceleración $a(t) = 12t$ y la condición inicial $s(0) = 5$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$s(t) = 12t^2 + 5$.",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste solo una vez por 2, falta otra integración."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$s(t) = 6t^2 + 5t$.",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste el segundo término $+C$ al integrar."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$s(t) = 2t^3 + 5$.",
           "is_correct": true,
           "feedback": "Correcto. Antiderivas dos veces: $v(t) = 6t^2$, $s(t) = 2t^3 + C$, con $s(0)=5$ da $C=5$."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. No aplicaste la regla de la potencia correctamente."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Integrar $12t$ da $v(t) = 6t^2 + C_1$. Integrar de nuevo da $s(t) = 2t^3 + C_1 t + C_2$. Si $v(0)=0$ se obtiene $C_1=0$, y con $s(0)=5$ queda $C_2=5$, es decir $s(t) = 2t^3 + 5$ m.",
       "difficulty": "8",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "En Cali, Mariana discute con un compañero sobre si la constante $+C$ es obligatoria.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es correcta, porque cualquier constante sirve.",
           "is_correct": false,
           "feedback": "Incorrecto. La constante $+C$ no se elige arbitrariamente; representa toda la familia."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Es correcta solo si la pregunta dice \"una\" antiderivada.",
           "is_correct": false,
           "feedback": "Incorrecto. Aun así, una antiderivada específica debe escribirse con $C=0$ explícito."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Es incorrecta; $+C$ indica la familia completa de antiderivadas, exigida por la integral indefinida.",
           "is_correct": true,
           "feedback": "Correcto. La integral indefinida exige la constante $+C$ para representar todas las soluciones."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. La regla aplica universalmente, sin importar el contexto."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La integral indefinida devuelve la familia completa de antiderivadas. Por eso, salvo que se pida un valor específico, debe incluirse siempre la constante $+C$.",
       "difficulty": "10",
       "images": [],

@@ -13,31 +13,31 @@
       "context": "En un colegio de Medellín, la profesora explica que las células producen desechos y que el cuerpo debe eliminarlos para mantenerse sano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Eliminar los desechos que producen las células y regular el agua y las sales del cuerpo",
           "is_correct": true,
           "feedback": "Correcto. La excreción retira desechos y mantiene el equilibrio interno."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Producir el oxígeno que usan las células para obtener energía",
           "is_correct": false,
           "feedback": "Incorrecto. El oxígeno lo toma el sistema respiratorio del aire."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Transportar la sangre desde el corazón hacia todo el cuerpo",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es la función del sistema circulatorio."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Transformar los alimentos en sustancias simples dentro del estómago",
           "is_correct": false,
           "feedback": "Incorrecto. Eso corresponde a la digestión, no a la excreción."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El sistema excretor cumple dos funciones relacionadas: retira del cuerpo los desechos del metabolismo celular y regula la cantidad de agua y de sales disueltas, de modo que el medio interno se mantenga estable aunque cambien las condiciones externas.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En Barranquilla, durante una jornada deportiva un estudiante suda mucho y bebe muy poca agua; al final del día nota que va menos veces al baño.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Se produce menos orina y más concentrada, porque el cuerpo pierde agua con el sudor y la retiene para mantener el equilibrio",
           "is_correct": true,
           "feedback": "Correcto. Al perder agua, el riñón la conserva y concentra la orina."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se produce mucha más orina y muy diluida, porque el cuerpo intenta eliminar el sudor",
           "is_correct": false,
           "feedback": "Incorrecto. La orina disminuye cuando el cuerpo pierde agua."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Los riñones siguen funcionando y ajustan la cantidad de agua eliminada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Cuando el cuerpo pierde agua por el sudor, los riñones reabsorben más cantidad de líquido para no deshidratarse; por eso la orina se vuelve escasa y oscura. Al beber agua suficiente, la orina vuelve a ser abundante y clara, señal de una buena hidratación.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En un municipio de la ribera del río Magdalena, el médico recomienda a un paciente que aumente el consumo diario de agua potable.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Porque el agua permite disolver mejor los desechos y facilita que los riñones los eliminen sin concentrar demasiado la orina",
           "is_correct": true,
           "feedback": "Correcto. Con buena hidratación los desechos se eliminan con mayor facilidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque el agua limpia directamente los pulmones durante la respiración",
           "is_correct": false,
           "feedback": "Incorrecto. El agua actúa en la filtración renal, no en los pulmones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque así los riñones producen más glóbulos rojos para la sangre",
           "is_correct": false,
           "feedback": "Incorrecto. La formación de glóbulos rojos depende de la médula ósea."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Los riñones siguen filtrando; el agua solo facilita su trabajo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicar el concepto de excreción a los hábitos diarios permite entender por qué la hidratación es clave: con poca agua, los desechos se concentran y aumenta el riesgo de cálculos renales y de infecciones urinarias; con agua suficiente, la filtración es más eficiente y los riñones trabajan con menor esfuerzo.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En Bogotá, un corredor termina una carrera con la ropa empapada de sudor y la piel cubierta de sales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La piel también excreta: con el sudor elimina agua, sales y pequeñas cantidades de desechos como la urea",
           "is_correct": true,
           "feedback": "Correcto. Las glándulas sudoríparas participan en la excreción."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El sudor no tiene ninguna relación con la excreción, solo sirve para mojar la piel",
           "is_correct": false,
           "feedback": "Incorrecto. El sudor elimina agua, sales y desechos."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Los restos de alimentos salen por el sistema digestivo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La piel es el órgano excretor más extenso: mediante las glándulas sudoríparas libera agua, sales minerales y pequeñas cantidades de urea, y al mismo tiempo regula la temperatura corporal. Por eso la sudoración abundante exige reponer agua y sales para evitar la deshidratación.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En un hospital de Medellín, una persona con insuficiencia renal crónica recibe tratamiento de diálisis tres veces por semana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Porque sus riñones no filtran bien la sangre y la diálisis retira los desechos y el exceso de agua que se acumularían en el cuerpo",
           "is_correct": true,
           "feedback": "Correcto. La diálisis reemplaza parcialmente la función de filtración del riñón."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque la diálisis produce glóbulos rojos que el riñón ya no puede fabricar",
           "is_correct": false,
           "feedback": "Incorrecto. El riñón no produce glóbulos rojos; la diálisis tampoco."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque sus pulmones no logran intercambiar gases durante la respiración",
           "is_correct": false,
           "feedback": "Incorrecto. El problema descrito es renal, no respiratorio."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. La diálisis filtra la sangre, no la bombea."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Cuando los riñones fallan, la urea, la creatinina y el exceso de agua se acumulan y resultan tóxicos. La diálisis hace circular la sangre por un filtro artificial que cumple parte de esa función, pero es un tratamiento de reemplazo: no cura la enfermedad, por eso algunos pacientes requieren un trasplante de riñón.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En una exposición de un colegio de Pereira, los estudiantes explican que el hígado transforma el amoníaco tóxico en urea y que los riñones eliminan la urea con la orina.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El hígado convierte el amoníaco en urea, sustancia menos tóxica, y los riñones la eliminan por la orina, de modo que el cuerpo se libra del desecho nitrogenado",
           "is_correct": true,
           "feedback": "Correcto. Ambos órganos actúan de forma encadenada en la excreción."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El hígado filtra la orina y los riñones se encargan de producirla",
           "is_correct": false,
           "feedback": "Incorrecto. Los riñones forman la orina; el hígado no la filtra."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Ambos participan: uno transforma y el otro elimina."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El metabolismo de las proteínas produce amoníaco, una sustancia muy tóxica. El hígado lo convierte en urea y los riñones la filtran y la expulsan con la orina; si cualquiera de los dos órganos falla, los desechos nitrogenados se acumulan y comprometen la salud.",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En un foro escolar de Cali, tres estudiantes afirman: 1) Beber poca agua puede favorecer la formación de cálculos renales. 2) La orina es un desecho que no aporta ninguna información sobre la salud. 3) La diálisis cura definitivamente la insuficiencia renal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La 1 es verdadera; la 2 es falsa, porque el color y la composición de la orina permiten detectar problemas de salud; y la 3 es falsa, porque la diálisis reemplaza parte de la función renal, pero no cura la enfermedad",
           "is_correct": true,
           "feedback": "Correcto. Distingue hidratación, valor diagnóstico de la orina y tratamiento de reemplazo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las tres afirmaciones son verdaderas, porque la orina no da información y la diálisis cura el riñón",
           "is_correct": false,
           "feedback": "Incorrecto. El examen de orina es una herramienta diagnóstica y la diálisis no cura."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. La diálisis es indispensable para muchos pacientes renales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluar estas afirmaciones exige separar tres ideas: la hidratación previene la concentración excesiva de desechos y los cálculos; la orina es una muestra valiosa para el diagnóstico, porque su color, densidad y composición revelan alteraciones; y la diálisis es un tratamiento que sustituye parcialmente la filtración, no una cura definitiva.",
       "difficulty": "10",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "En un municipio del Cauca con problemas de abastecimiento de agua potable, las autoridades deben escoger una medida para proteger la salud de la población.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Garantizar agua potable suficiente y educar sobre su consumo responsable, porque previene la deshidratación y las infecciones urinarias, y ayuda a que los riñones funcionen bien",
           "is_correct": true,
           "feedback": "Correcto. El agua segura y la educación protegen la salud renal a largo plazo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Restringir el agua potable en las escuelas para ahorrar el recurso",
           "is_correct": false,
           "feedback": "Incorrecto. La restricción aumenta el riesgo de deshidratación y de enfermedad renal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Promover el consumo de bebidas azucaradas en lugar de agua",
           "is_correct": false,
           "feedback": "Incorrecto. Las bebidas azucaradas no sustituyen el agua y aportan azúcares en exceso."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. La prevención actúa antes de que la enfermedad se presente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evaluar esta decisión exige considerar el costo, la sostenibilidad y el bienestar de la comunidad: asegurar agua potable y enseñar a consumirla es la medida más eficaz, porque previene la deshidratación y las infecciones urinarias, mientras que negar el recurso o sustituirlo por bebidas azucaradas traslada el problema y agrava el riesgo para los riñones.",
       "difficulty": "10",
       "images": [],

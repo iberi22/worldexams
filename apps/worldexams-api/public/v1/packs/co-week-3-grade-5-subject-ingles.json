@@ -13,31 +13,31 @@
       "context": "A child in Manizales talks about the puppy that lives in his house.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Dog.",
           "is_correct": true,
           "feedback": "Dogs are common domestic animals kept as pets in many Colombian homes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Tiger.",
           "is_correct": false,
           "feedback": "Tigers are large wild cats and are not kept as household pets."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Shark.",
           "is_correct": false,
           "feedback": "Sharks are wild marine animals, not suitable as pets."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Eagle.",
           "is_correct": false,
           "feedback": "Eagles are wild birds of prey and are not kept as pets."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Distinguishing between common domestic animals (pets) and wild animals by recognizing their names in English.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "Read: \"Lions live in the African savanna. They hunt zebras and antelopes for food.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Because they live in nature and hunt their own food.",
           "is_correct": true,
           "feedback": "Lions live freely in the savanna and hunt their prey, which makes them wild."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Because they sleep in people's houses.",
           "is_correct": false,
           "feedback": "Wild animals do not live inside human houses; domestic animals sometimes do."
@@ -83,7 +83,7 @@
           "feedback": "Wild lions do not wear collars; collars are used on pets."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Understanding the characteristics that define wild animals versus domestic ones in English.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "A student lists his pets: \"I have a cat, a dog, and two goldfish at home.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "He has three pets: a cat, a dog, and two goldfish.",
           "is_correct": true,
           "feedback": "\"Has\" agrees with \"he\" and the list accurately reflects the pets described."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "He have three pets: a cat, a dog, and two goldfish.",
           "is_correct": false,
           "feedback": "\"Have\" is used with I, you, we, or they, not with \"he\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "He having three pets at home every day.",
           "is_correct": false,
           "feedback": "\"Having\" is a gerund and needs an auxiliary verb in the present continuous."
@@ -129,7 +129,7 @@
           "feedback": "\"Pet\" should be in the plural form \"pets\" because there are more than one."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Applying subject-verb agreement and plural noun forms when describing multiple animals in English.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "A teacher writes on the board: \"A baby cat is a kitten. A baby dog is a puppy.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Puppy.",
           "is_correct": true,
           "feedback": "The baby of a dog is called a puppy in English."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Kitten.",
           "is_correct": false,
           "feedback": "A kitten is the baby of a cat, not a dog."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cub.",
           "is_correct": false,
           "feedback": "\"Cub\" is used for the young of large wild mammals like lions or bears."
@@ -175,7 +175,7 @@
           "feedback": "A foal is the baby of a horse, not a dog."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Applying vocabulary for baby animals in English (puppy, kitten, cub, foal).",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "A park ranger in Tayrona explains: \"Wild animals need clean water, large forests, and no hunters.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "need.",
           "is_correct": true,
           "feedback": "\"Need\" is the base form used with plural subjects like \"wild animals\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "needs.",
           "is_correct": false,
           "feedback": "\"Needs\" is used only with third person singular subjects."
@@ -221,7 +221,7 @@
           "feedback": "\"Needed\" is past simple, not appropriate for a general truth."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Conjugating regular verbs in the Simple Present with plural animal subjects in English.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Compare two animals: \"Cats are small, soft, and quiet. Lions are big, strong, and loud.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Cats are smaller than lions, but lions are stronger than cats.",
           "is_correct": true,
           "feedback": "The comparative forms \"smaller than\" and \"stronger than\" correctly compare the two."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Lions are smaller than cats.",
           "is_correct": false,
           "feedback": "Lions are much bigger than domestic cats, so this comparison is incorrect."
@@ -267,7 +267,7 @@
           "feedback": "The passage clearly describes differences in size and strength."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Using comparative adjectives (-er than) to contrast a domestic animal and a wild relative.",
       "difficulty": "8",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "Read: \"Some animals, like dogs and cats, live with people. Other animals, like jaguars and anacondas, live in the jungle.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "One group lives with humans as pets, and the other lives in nature as wild animals.",
           "is_correct": true,
           "feedback": "Dogs and cats are domestic; jaguars and anacondas are wild jungle animals."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Both groups live in the same house in the city.",
           "is_correct": false,
           "feedback": "Jaguars and anacondas do not live in houses with humans."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Both groups live only in rivers and oceans.",
           "is_correct": false,
           "feedback": "Domestic animals like dogs and cats do not live in rivers or oceans."
@@ -313,7 +313,7 @@
           "feedback": "The passage distinguishes animals that live freely in the jungle from pets."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Analyzing categories of animals (domestic versus wild) by their habitats and roles.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "Read: 'Many wild animals in Colombia, like the Andean condor and the jaguar, are in danger of disappearing. People build cities, cut down forests, and pollute rivers. We must protect their habitats.'",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Human actions are putting wild animals at risk, so we must protect their habitats.",
           "is_correct": true,
           "feedback": "The text highlights threats from cities, deforestation, and pollution, urging protection."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Wild animals should be captured and sold in markets.",
           "is_correct": false,
           "feedback": "The author warns against harming wildlife and opposes commercialization."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cutting down forests is the best way to help wild animals.",
           "is_correct": false,
           "feedback": "Deforestation is presented as a threat, not as a way to help animals."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Wild animals do not need clean rivers or forests to survive.",
           "is_correct": false,
           "feedback": "The author states that forests and rivers are essential for their survival."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluating the author's main message and call to action about wildlife conservation in Colombia.",
       "difficulty": "10",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "In a school cafeteria in Cartagena, students choose healthy snacks for recess.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Orange.",
           "is_correct": true,
           "feedback": "Oranges are citrus fruits rich in Vitamin C."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "French fries.",
           "is_correct": false,
           "feedback": "French fries are fried potatoes, not a fresh fruit."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Chocolate cake.",
           "is_correct": false,
           "feedback": "Chocolate cake is a dessert high in sugar, not a fresh fruit."
@@ -405,7 +405,7 @@
           "feedback": "Soda is a sugary carbonated drink."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Basic English vocabulary for identifying fresh fruits and healthy food options.",
       "difficulty": "4",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "Read the sentence: \"Carrots, broccoli, and spinach are green and orange vegetables that give us vitamins.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Vegetables.",
           "is_correct": true,
           "feedback": "Carrots, broccoli, and spinach are classified as vegetables."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Dairy products.",
           "is_correct": false,
           "feedback": "Dairy includes milk, cheese, and yogurt."
@@ -451,7 +451,7 @@
           "feedback": "Grains include rice, wheat, and corn."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Classifying food vocabulary items into basic food categories in English.",
       "difficulty": "4",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "Andrea is expressing her preferences for lunch items at school.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "likes.",
           "is_correct": true,
           "feedback": "\"Likes\" is the third-person singular (Andrea / she) form for positive preference."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "like.",
           "is_correct": false,
           "feedback": "\"Like\" is used with I, you, we, they."
@@ -497,7 +497,7 @@
           "feedback": "\"Is like\" means \"resembles\", not \"enjoys/prefers\"."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Expressing likes and dislikes in Simple Present tense with third-person singular subjects.",
       "difficulty": "6",
       "images": [],
@@ -519,31 +519,31 @@
       "context": "A recipe calls for liquid ingredients to make a fresh fruit smoothie.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "water.",
           "is_correct": true,
           "feedback": "Water is a liquid ingredient essential for healthy beverages."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "bread.",
           "is_correct": false,
           "feedback": "Bread is a solid food made from flour, not a liquid ingredient."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "apples.",
           "is_correct": false,
           "feedback": "Apples are countable solid fruits, not liquids (unless specified as juice)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "eggs.",
           "is_correct": false,
           "feedback": "Eggs are solid food items used in cooking, not liquid drinks."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Differentiating countable and uncountable food nouns in culinary contexts.",
       "difficulty": "6",
       "images": [],
@@ -565,31 +565,31 @@
       "context": "Felipe wants to know what his friend wants for breakfast in Bucaramanga.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Do.",
           "is_correct": true,
           "feedback": "\"Do\" is the correct auxiliary verb for \"you\" in simple present questions."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Does.",
           "is_correct": false,
           "feedback": "\"Does\" is only used with third-person singular (he, she, it)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Is.",
           "is_correct": false,
           "feedback": "\"Is\" does not pair with the main verb \"want\"."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Are.",
           "is_correct": false,
           "feedback": "\"Are\" would require a present participle (-ing) verb."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Asking questions about food choices using \"Do you want...?\" in English.",
       "difficulty": "6",
       "images": [],
@@ -611,31 +611,31 @@
       "context": "Read the paragraph: \"Eating a balanced plate means filling half your plate with colorful vegetables, one quarter with protein like fish or chicken, and one quarter with whole grains like brown rice.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Half of the plate (50%).",
           "is_correct": true,
           "feedback": "The text explicitly states \"filling half your plate with colorful vegetables\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "All of the plate (100%).",
           "is_correct": false,
           "feedback": "The plate also includes protein and whole grains."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "One quarter of the plate (25%).",
           "is_correct": false,
           "feedback": "One quarter is specified for protein and whole grains, not vegetables."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "None of the plate (0%).",
           "is_correct": false,
           "feedback": "Vegetables make up the largest single portion (half the plate)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analyzing descriptive proportions and nutritional guidelines in English reading passages.",
       "difficulty": "8",
       "images": [],
@@ -657,13 +657,13 @@
       "context": "Compare two snacks: Snack A is a bag of fried potato chips with extra salt. Snack B is a bowl of fresh papaya and watermelon slices.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Because fresh fruit provides natural vitamins and fiber without excess fat and salt.",
           "is_correct": true,
           "feedback": "Fresh fruits contain essential nutrients without the high sodium and fried fat of chips."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Because potato chips contain more water and natural vitamins than fresh fruit.",
           "is_correct": false,
           "feedback": "Chips are processed and high in sodium/fat, not rich in water."
@@ -681,7 +681,7 @@
           "feedback": "Fried chips and fresh fruit have very different nutritional profiles."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Comparing food choices and analyzing nutritional benefits in simple English.",
       "difficulty": "8",
       "images": [],
@@ -703,19 +703,19 @@
       "context": "A school menu committee wants to replace sugary bottled sodas in the lunchroom.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Natural fruit juice made with fresh fruit and no added sugar.",
           "is_correct": true,
           "feedback": "Natural fresh fruit juice provides hydration and vitamins without artificial additives."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Energy drinks containing high levels of caffeine and artificial colors.",
           "is_correct": false,
           "feedback": "Energy drinks are unsafe and inappropriate for primary school students."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Concentrated sugar syrup mixed with carbonated water.",
           "is_correct": false,
           "feedback": "Concentrated sugar syrup is essentially soda, which the committee aims to replace."
@@ -727,7 +727,7 @@
           "feedback": "High-fat milkshakes with extra cream are high-calorie treats rather than hydration drinks."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evaluating health-promoting alternatives on school food menus using context clues in English.",
       "difficulty": "10",
       "images": [],

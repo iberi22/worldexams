@@ -13,19 +13,19 @@
       "context": "Tienda del centro histórico de Bogotá donde doña Carmen prepara aguapanela.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Soluto: la panela (sólido); solvente: el agua (líquido), porque la panela se incorpora al agua formando una mezcla homogénea.",
           "is_correct": true,
           "feedback": "Correcto. La panela se disuelve en el agua, por eso es el soluto; el agua actúa como solvente porque es el componente mayoritario y disuelve a la panela."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Soluto: el agua; solvente: la panela, porque la panela es el sólido que se ve dentro de la olla.",
           "is_correct": false,
           "feedback": "Incorrecto. La panela se disuelve en el agua, así que cumple el papel de soluto y no de solvente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Soluto: el calor de la estufa; solvente: el agua, porque el calor la pone a hervir y acelera el proceso.",
           "is_correct": false,
           "feedback": "Incorrecto. El calor es la energía que acelera el proceso, pero no es un componente de la solución; no puede ser ni soluto ni solvente."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. La panela es claramente el soluto principal y el agua el solvente; el aire solo es una pequeña impureza."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Una solución es una mezcla homogénea formada por dos o más componentes. El soluto es la sustancia que se disuelve y generalmente está en menor proporción; el solvente es el medio que disuelve al soluto y suele estar en mayor proporción. En una solución acuosa, como la aguapanela bogotana, el agua siempre cumple el papel de solvente. Esta distinción es la base para luego hablar de solubilidad y concentración en química básica.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "Puesto de salud en Quibdó (Chocó) donde el personal médico prepara suero oral.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El agua es el solvente porque disuelve las sales y el azúcar; las sales y el azúcar son los solutos de la mezcla.",
           "is_correct": true,
           "feedback": "Correcto. El agua sigue siendo el componente mayoritario que disuelve a las demás sustancias, que actúan como solutos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las sales son el solvente y el agua es el soluto, porque las sales se observan como polvo antes de mezclarse.",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque las sales sean sólidas antes de mezclarse, terminan disueltas en el agua, así que son soluto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El azúcar y las sales son el solvente, mientras que el agua es el soluto porque se agregó después al recipiente.",
           "is_correct": false,
           "feedback": "Incorrecto. El solvente siempre es quien disuelve a los demás; el orden en que se agregan no cambia el rol de cada componente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El agua deja de ser solvente en presencia de sales y pasa a ser uno de los solutos del suero.",
           "is_correct": false,
           "feedback": "Incorrecto. El agua sigue siendo el solvente aun con sales disueltas; precisamente por eso se llaman soluciones acuosas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En toda solución acuosa, el agua es el solvente, sin importar qué sustancias se le agreguen (azúcar, sal, sales minerales, alcohol). El suero oral de los puestos de salud del Chocó es una solución acuosa donde sales como el cloruro de sodio, el cloruro de potasio y el citrato de sodio, además de la glucosa, hacen el papel de solutos. Esta composición clínica está diseñada para rehidratar pacientes con diarrea, algo esencial en zonas de clima cálido y húmedo.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "Clasificación de soluciones en una finca cafetera del Quindío.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Es una solución saturada, porque a esa temperatura el agua ya no admite más soluto y el exceso queda sin disolverse.",
           "is_correct": true,
           "feedback": "Correcto. Cuando una solución llega al límite de soluto y aparece residuo sólido, se alcanza la saturación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es una solución diluida, porque todavía sobra café, lo que indica que el agua no está suficientemente caliente.",
           "is_correct": false,
           "feedback": "Incorrecto. La cantidad de café agregada es la que define si es diluida; además, una diluida no presenta residuo sin disolver."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es una solución concentrada, pero nunca saturada, ya que el agua siempre admite más soluto si se sigue revolviendo.",
           "is_correct": false,
           "feedback": "Incorrecto. Toda solución tiene un límite de soluto que puede disolverse; al sobrepasarlo aparece saturación."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es una mezcla heterogénea que no se clasifica como diluida, concentrada o saturada.",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque haya café sin disolver, la parte líquida es una solución homogénea saturada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Las soluciones acuosas se clasifican según la cantidad de soluto disuelto: diluidas tienen poco soluto, concentradas tienen mucho sin llegar al límite, y saturadas contienen la máxima cantidad de soluto que el solvente puede disolver a esa temperatura. Al agregar más soluto del que el agua admite, el exceso permanece sin disolverse. Las fincas del Eje Cafetero aprovechan este principio para controlar la intensidad del tinto agregando más o menos café.",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "Cálculo de la concentración de una aguapanela en la cafetería de un colegio bogotano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "20 % m/m, porque la masa de soluto representa una quinta parte de la masa total de la solución.",
           "is_correct": true,
           "feedback": "Correcto. m_total = 80 g + 320 g = 400 g; % m/m = (80 / 400) × 100 = 20 %."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "25 % m/m, porque se suman las dos masas antes de dividir el soluto entre el total.",
           "is_correct": false,
           "feedback": "Incorrecto. 80/400 no da 25; el soluto es 80 g sobre 400 g, no 100 g sobre 400 g."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "4 % m/m, porque se divide la masa de soluto entre la masa del solvente sin sumar el total.",
           "is_correct": false,
           "feedback": "Incorrecto. La fórmula exige dividir la masa de soluto entre la masa total de la solución, no solo del solvente."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. La densidad no define el porcentaje; el cálculo correcto es masa de soluto sobre masa total por 100."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El porcentaje masa a masa (% m/m) indica los gramos de soluto contenidos en 100 g de solución. Se calcula con % m/m = (masa de soluto / masa total de la solución) × 100. Para esta aguapanela, m_total = 80 g + 320 g = 400 g, así que % m/m = (80 / 400) × 100 = 20 %. Por eso una aguapanela \"bien dulce\" en Bogotá suele tener alrededor del 20 % m/m de panela, un valor típico de las recetas tradicionales.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Factores que modifican la solubilidad en la preparación casera de café en el Eje Cafetero.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La agitación, porque al revolver se renueva el contacto entre las partículas de azúcar y el agua caliente.",
           "is_correct": true,
           "feedback": "Correcto. La agitación desplaza capas de agua y acerca líquido \"fresco\" al sólido sin disolver, acelerando la disolución."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La presión atmosférica, porque en el Eje Cafetero la altura modifica la presión sobre el líquido.",
           "is_correct": false,
           "feedback": "Incorrecto. La presión afecta principalmente la solubilidad de gases, no la del azúcar en agua, que es un sólido."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Agregar más soluto no incrementa la velocidad de disolución, solo acerca la solución al punto de saturación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La velocidad de disolución depende de varios factores: el tamaño de partícula del soluto (más fino se disuelve más rápido), la temperatura, la agitación y, en gases, la presión. Al revolver el tinto, se favorece que las capas de agua que rodean al azúcar sean reemplazadas por agua \"nueva\", aumentando la velocidad a la que el soluto pasa al seno de la solución. Por eso una buena práctica en la cocina cafetera es revolver de manera continua hasta obtener un tinto uniforme y aromático.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "Etiqueta nutricional del suero oral distribuido en zonas húmedas del Pacífico colombiano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "20,5 g/L, porque se divide la masa de soluto entre el volumen total de la solución obtenida.",
           "is_correct": true,
           "feedback": "Correcto. 20,5 g / 1 L = 20,5 g/L (se desprecia el cambio de volumen al disolver sales y azúcar)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "205 g/L, porque se multiplica la masa del soluto por 10 para exagerar la concentración y hacerla manejable.",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste por un factor incorrecto; la operación válida es solo dividir la masa entre el volumen de la solución."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2,05 g/L, porque se dividen los gramos entre 10 L en lugar de entre 1 L de agua.",
           "is_correct": false,
           "feedback": "Incorrecto. Cambiaste el volumen de manera errónea; el sobre rinde 1 L de suero, no 10 L."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "0,205 g/L, porque se suman los volúmenes antes de dividir y se invierte la operación.",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la operación completa: el soluto es 20,5 g, no una fracción menor de un gramo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La concentración en g/L (masa de soluto / volumen de solución) es muy útil para sustancias que se disuelven con facilidad, como las sales del suero oral. Aquí, 20,5 g en 1 L equivalen a 20,5 g/L, una concentración clínicamente diseñada para reponer sales y agua perdidas por cuadros diarreicos. Este tipo de medición se usa en medicina tropical porque permite calcular rápidamente cuántas sales recibe un paciente por cada vaso que toma.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Dilución casera en una tienda del Eje Cafetero.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "40 g/L, porque al duplicar el volumen manteniendo la masa de soluto, la concentración se reduce a la mitad.",
           "is_correct": true,
           "feedback": "Correcto. La masa disuelta sigue siendo 40 g en 500 mL; al llevarla a 1 000 mL la concentración pasa a 40 g/L."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "80 g/L, porque agregar agua no cambia la concentración de un concentrado bien preparado.",
           "is_correct": false,
           "feedback": "Incorrecto. Diluir siempre disminuye la concentración, ya que la misma masa de soluto se reparte en más volumen."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Aquí solo se duplicó el volumen una vez, no dos veces; la concentración va a la mitad, no a la cuarta parte."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Diluir significa agregar más solvente a una solución sin cambiar la masa de soluto. Por la relación C₁V₁ = C₂V₂, al pasar de 0,5 L a 1 L con la misma cantidad de café disuelto, la concentración baja de 80 g/L a 40 g/L. Este principio se usa a diario en las cafeterías del Eje Cafetero y en las casas bogotanas para ajustar la intensidad del tinto según el gusto del consumidor, agregando más agua o más café al preparar la bebida.",
       "difficulty": "6",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "Saturación del suero oral en un contexto tropical del Chocó.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La solución queda saturada y queda un excedente aproximado de 10 g de sales sin disolver en el fondo del recipiente.",
           "is_correct": true,
           "feedback": "Correcto. 60 g supera la solubilidad de 50 g en 1 000 g de agua; el exceso queda como sólido en el fondo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La solución se vuelve diluida porque las sales totales exceden la masa de agua del recipiente.",
           "is_correct": false,
           "feedback": "Incorrecto. Una solución diluida contiene poco soluto respecto a su máximo posible; aquí ocurre lo contrario."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. La solubilidad se mide a una temperatura fija (25 °C); agregar soluto no recalienta el sistema por sí solo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Al comparar la cantidad agregada con la solubilidad a esa temperatura, se determina el estado de la solución: si es menor, no saturada; si igual, saturada; si mayor, saturada con sólido sin disolver. Para sales en agua a temperatura ambiente existe un valor de solubilidad relativamente constante, aunque pequeño. Por eso, en zonas tropicales como el Chocó, las instrucciones del sobre de suero oral indican una cantidad máxima de sales para 1 L de agua, asegurando una solución homogénea y segura para uso médico.",
       "difficulty": "8",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "Evaluación de una hipótesis experimental sobre solubilidad planteada en Bogotá.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La hipótesis es comprobable y razonable, siempre que se controle la cantidad de agua, el tipo de azúcar y se mida la masa máxima disuelta a cada temperatura.",
           "is_correct": true,
           "feedback": "Correcto. La relación solubilidad-temperatura se verifica experimentalmente; basta controlar las variables para probarla con datos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La hipótesis es falsa porque la solubilidad del azúcar no depende de la temperatura, sino únicamente de la agitación de la mezcla.",
           "is_correct": false,
           "feedback": "Incorrecto. La agitación acelera la velocidad, pero la solubilidad máxima del azúcar depende principalmente de la temperatura."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. Toda cantidad excesiva de azúcar quedará sin disolver al alcanzar el límite de solubilidad a esa temperatura."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Una hipótesis experimental es válida cuando puede ponerse a prueba manteniendo controladas las demás variables. La hipótesis de la estudiante es coherente con la química básica del azúcar en agua: su solubilidad crece al aumentar la temperatura. Para validarla se debe fijar la cantidad de agua, el tipo de azúcar (sin impurezas), la presión atmosférica y registrar la masa máxima disuelta a varias temperaturas. Un experimento bien diseñado permite construir una curva de solubilidad como la obtenida en clase.",
       "difficulty": "10",
       "images": [],
@@ -519,31 +519,31 @@
       "context": "Evaluación del diseño experimental sobre concentración del café propuesto en el Eje Cafetero.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El experimento es adecuado porque mantiene constante el volumen y la temperatura, y varía únicamente la cantidad de soluto, lo que permite comparar concentraciones.",
           "is_correct": true,
           "feedback": "Correcto. Controlar volumen, temperatura y procedimiento hace que la diferencia de concentración dependa solo del soluto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El experimento es inválido porque la masa de café soluble no influye en la concentración final del tinto.",
           "is_correct": false,
           "feedback": "Incorrecto. La concentración sí depende directamente de la masa de soluto por unidad de volumen; este es justamente el factor que se varía."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El experimento es innecesario porque ya se sabe que toda cantidad de café soluble siempre forma una solución saturada.",
           "is_correct": false,
           "feedback": "Incorrecto. Las cantidades elegidas están por debajo de la solubilidad del café soluble; el experimento compara diluciones, no saturaciones."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El experimento es perfecto y no requiere controlar el tiempo de agitación ni la temperatura inicial del agua.",
           "is_correct": false,
           "feedback": "Incorrecto. Sin control de tiempo y temperatura, las diferencias podrían atribuirse a esos factores y no solo a la masa de soluto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Un buen diseño experimental identifica la variable dependiente (concentración del tinto), la independiente (masa de café agregada) y mantiene controladas el resto (volumen de agua, temperatura, tiempo de agitación, tipo de café). Mantener constantes las variables controladas permite afirmar con confianza que los cambios en la concentración dependen únicamente del soluto agregado. Este tipo de experimento es típico en las ferias de ciencias cafeteras y conecta el concepto abstracto de concentración con la bebida que identifica al Eje Cafetero.",
       "difficulty": "10",
       "images": [],

@@ -58,13 +58,13 @@
       "context": "Review of global trade (W32).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "will implement",
           "is_correct": false,
           "feedback": "Incorrect. Active voice."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "will have been implemented",
           "is_correct": true,
           "feedback": "Correct. Future perfect passive for a completed state."
@@ -82,7 +82,7 @@
           "feedback": "Incorrect. Present perfect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The future perfect passive describes a regulation that will be a finished fact in the future.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -109,25 +109,25 @@
           "feedback": "Incorrect. Second conditional."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "hadn't moved",
           "is_correct": true,
           "feedback": "Correct. Third conditional for hypothetical past."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "hasn't moved",
           "is_correct": false,
           "feedback": "Incorrect. Present perfect."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "wouldn't move",
           "is_correct": false,
           "feedback": "Incorrect. 'Would' not in 'if' clause."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The third conditional is used to speculate about how a past experience led to a present or past understanding.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Review of media ethics (W34).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Fact-checking",
           "is_correct": true,
           "feedback": "Correct. Essential journalistic process."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sensationalism",
           "is_correct": false,
           "feedback": "Incorrect. Focuses on shock value."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Plagiarism",
           "is_correct": false,
           "feedback": "Incorrect. Theft of work."
@@ -172,7 +172,7 @@
           "feedback": "Incorrect. Spoken defamation."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "'Fact-checking' is the specific name for the verification of data and claims in media.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrect. Grassroots is bottom-up."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "grassroots",
           "is_correct": true,
           "feedback": "Correct. Community-based movements."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "corporate",
           "is_correct": false,
           "feedback": "Incorrect. Run by businesses."
@@ -217,7 +217,7 @@
           "feedback": "Incorrect. Run by a powerful few."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Grassroots' describes movements that originate from the local community level.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -244,25 +244,25 @@
           "feedback": "Incorrect."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Legislation",
           "is_correct": true,
           "feedback": "Correct. Formal term for laws."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Rumor",
           "is_correct": false,
           "feedback": "Incorrect."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Tradition",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Legislation' is the comprehensive term for the formal laws of a country.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "Review of cultural diversity (W38).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Isolation",
           "is_correct": false,
           "feedback": "Incorrect."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Pluralism",
           "is_correct": true,
           "feedback": "Correct. Coexistence of diverse groups."
@@ -352,7 +352,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Pluralism' is the sociological term for the harmonious coexistence of different groups in one society.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Review of leadership (W39).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "is",
           "is_correct": false,
           "feedback": "Incorrect. Backshifted in reported speech."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "was",
           "is_correct": true,
           "feedback": "Correct. Backshifted from 'is' to 'was' after 'argued'."
@@ -397,7 +397,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "In reported speech, we backshift the tense of the original statement to show it was said in the past.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Final summary of Grade 11 themes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "critical thinking",
           "is_correct": true,
           "feedback": "Correct. The objective analysis and evaluation of an issue."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "rote memorization",
           "is_correct": false,
           "feedback": "Incorrect. CURRICULUM focuses on higher skills."
@@ -442,7 +442,7 @@
           "feedback": "Incorrect. The themes were complex."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "'Critical thinking' correctly identifies the primary cognitive skill targeted by the advanced Grade 11 syllabus.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -514,25 +514,25 @@
           "feedback": "Incorrect. 'Wish' for situation change needs 'would'."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "would take",
           "is_correct": true,
           "feedback": "Correct. 'Wish + would' for a desired change in behavior."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "took",
           "is_correct": false,
           "feedback": "Incorrect. Present state desire."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "have taken",
           "is_correct": false,
           "feedback": "Incorrect. Past regret."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Wish + would' expresses a desire for a positive change in a current or future situation.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorrect. Past continuous."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "had been declining",
           "is_correct": true,
           "feedback": "Correct. Past perfect continuous for duration leading to a past point."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "has been declining",
           "is_correct": false,
           "feedback": "Incorrect. Present perfect continuous."
@@ -622,7 +622,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The past perfect continuous describes a long-term process that preceded a specific historical turning point.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,25 +649,25 @@
           "feedback": "Incorrect. We want to go beyond them."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "transcend",
           "is_correct": true,
           "feedback": "Correct. To go beyond or rise above."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "ignore",
           "is_correct": false,
           "feedback": "Incorrect. We must recognize them to transcend them."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "create",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Transcends' is the appropriate verb for describing how an ethical perspective rises above narrow local interests.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,13 +694,13 @@
           "feedback": "Incorrect."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Resilience",
           "is_correct": true,
           "feedback": "Correct. Psychological strength."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Apathy",
           "is_correct": false,
           "feedback": "Incorrect."
@@ -712,7 +712,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Resilience' is the recognized psychological term for the capacity to recover from difficulty.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Review of communication (W16).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "listen",
           "is_correct": true,
           "feedback": "Correct. Subjunctive base form after 'vital'."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "listens",
           "is_correct": false,
           "feedback": "Incorrect."
@@ -757,7 +757,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "The base form 'listen' is used in the subjunctive mood to express high importance.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Incorrect. Past habit."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "is getting used to",
           "is_correct": true,
           "feedback": "Correct. Ongoing process of adaptation."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "uses to",
           "is_correct": false,
           "feedback": "Incorrect grammar."
@@ -847,7 +847,7 @@
           "feedback": "Incorrect grammar."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Be getting used to' describes the current process of becoming accustomed to a new situation.\n\n---",
       "difficulty": "10",
       "images": [],

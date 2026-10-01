@@ -59,13 +59,13 @@
       "context": "Scenario about p3-final-review in a Colombian school or city context.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Structure 2",
           "is_correct": false,
           "feedback": "Incorrect. Please review the topic."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Structure 1 (Correct)",
           "is_correct": true,
           "feedback": "Correct! Well done."
@@ -83,7 +83,7 @@
           "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "This question evaluates the student's ability to remember the topic of Period 3 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -111,13 +111,13 @@
           "feedback": "Incorrect. Please review the topic."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Word 1 (Correct)",
           "is_correct": true,
           "feedback": "Correct! Well done."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Word 4",
           "is_correct": false,
           "feedback": "Incorrect. Please review the topic."
@@ -129,7 +129,7 @@
           "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "This question evaluates the student's ability to understand the topic of Period 3 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -157,25 +157,25 @@
           "feedback": "Incorrect. Please review the topic."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Phrase A (Correct)",
           "is_correct": true,
           "feedback": "Correct! Well done."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Phrase B",
           "is_correct": false,
           "feedback": "Incorrect. Please review the topic."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Phrase D",
           "is_correct": false,
           "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "This question evaluates the student's ability to understand the topic of Period 3 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Scenario about p3-final-review in a Colombian school or city context.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Incorrect way",
           "is_correct": false,
           "feedback": "Incorrect. Please review the topic."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "This way (Correct)",
           "is_correct": true,
           "feedback": "Correct! Well done."
@@ -221,7 +221,7 @@
           "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "This question evaluates the student's ability to apply the topic of Period 3 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -249,25 +249,25 @@
           "feedback": "Incorrect. Please review the topic."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "The error is here (Correct)",
           "is_correct": true,
           "feedback": "Correct! Well done."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No error",
           "is_correct": false,
           "feedback": "Incorrect. Please review the topic."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Different error",
           "is_correct": false,
           "feedback": "Incorrect. Please review the topic."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "This question evaluates the student's ability to apply the topic of Period 3 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -341,25 +341,25 @@
           "feedback": "Incorrect. Please review the topic."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Unrelated",
           "is_correct": false,
           "feedback": "Incorrect. Please review the topic."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Homonym",
           "is_correct": false,
           "feedback": "Incorrect. Please review the topic."
         },
         {
-          "letter": "D",
+          "letter": "B",
           "text": "Synonym (Correct)",
           "is_correct": true,
           "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": "This question evaluates the student's ability to analyze the topic of Period 3 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -393,19 +393,19 @@
           "feedback": "Incorrect. Please review the topic."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Not this one",
           "is_correct": false,
           "feedback": "Incorrect. Please review the topic."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "This one (Correct)",
           "is_correct": true,
           "feedback": "Correct! Well done."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": "This question evaluates the student's ability to analyze the topic of Period 3 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
       "difficulty": "10",
       "images": [],

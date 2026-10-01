@@ -19,13 +19,13 @@
           "feedback": "Incorrecto. Esta es la fórmula del monto para interés simple."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$M = C(1 + i)^n$",
           "is_correct": true,
           "feedback": "Correcto. En el interés compuesto, el capital se multiplica por el factor (1+i) elevado al número de periodos n."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$M = C \\cdot i \\cdot n$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta fórmula calcula solo el interés simple."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. No representa la acumulación exponencial de intereses."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El interés compuesto se caracteriza porque los intereses generados en cada periodo se suman al capital inicial para generar nuevos intereses en el siguiente periodo (capitalización). Matemáticamente esto se expresa como una potencia.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "Un joven en Guadalajara abre su primera cuenta de inversión y lee sobre la \"capitalización\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Retirar los intereses ganados cada mes.",
           "is_correct": false,
           "feedback": "Incorrecto. La capitalización implica dejar los intereses para que crezcan."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El proceso de sumar los intereses ganados al capital original para el siguiente periodo.",
           "is_correct": true,
           "feedback": "Correcto. Es la esencia del interés compuesto, permitiendo el crecimiento exponencial."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Eso es el plazo o n."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La capitalización es el evento donde los intereses se vuelven capital. Gracias a este proceso, la base sobre la cual se calculan los intereses aumenta periódicamente, produciendo mayores ganancias cada vez.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -109,13 +109,13 @@
           "feedback": "Incorrecto. Esto sería capitalización anual."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "4",
           "is_correct": false,
           "feedback": "Incorrecto. Esto sería capitalización trimestral."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "12",
           "is_correct": true,
           "feedback": "Correcto. Como hay 12 meses en un año, la capitalización mensual ocurre 12 veces."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Esto sería capitalización bimestral."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El valor de $n$ (o número de periodos) depende de cuántas veces se agregan los intereses al capital en el tiempo total de la inversión. Si es mensual y el plazo es un año, $n = 12$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Una persona en la CDMX invierte $5,000 pesos en un fondo que rinde interés compuesto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$6,000 pesos",
           "is_correct": false,
           "feedback": "Incorrecto. Este sería el monto con interés simple."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$6,050 pesos",
           "is_correct": true,
           "feedback": "Correcto. M = 5,000(1 + 0.10)^2 = 5,000(1.10)^2 = 5,000(1.21) = 6,050."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Error en el cálculo de la potencia de 1.10."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Aplicamos la fórmula $M = C(1+i)^n$. Multiplicamos $5,000$ por $1.10$ al cuadrado. Los $50$ pesos de diferencia con el interés simple son el \"interés sobre el interés\" del primer año.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -250,19 +250,19 @@
           "feedback": "Incorrecto. Dividió entre 3 meses en lugar de considerar cuántos trimestres tiene un año."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "3%",
           "is_correct": true,
           "feedback": "Correcto. Como hay 4 trimestres en un año, la tasa del periodo es 12% / 4 = 3% (0.03)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "1%",
           "is_correct": false,
           "feedback": "Incorrecto. Esta sería la tasa mensual (12% / 12)."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La tasa nominal anual debe dividirse entre el número de veces que se capitaliza en el año ($m$). Para capitalización trimestral, $m = 4$. Así, $0.12 / 4 = 0.03$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "Un microempresario en Monterrey analiza el costo de un préstamo compuesto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$3,200 pesos",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el interés simple de dos años."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$3,328 pesos",
           "is_correct": true,
           "feedback": "Correcto. M = 20,000(1.08)^2 = 20,000(1.1664) = 23,328. Interés = 23,328 - 20,000 = 3,328."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Este es el Monto total, la pregunta pide solo el interés."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Primero calculamos el Monto total usando la fórmula exponencial. Luego, restamos el Capital inicial para obtener la ganancia neta o Interés Compuesto. $I = M - C$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Incorrecto. Este sería el resultado con interés simple (1,000 + 72)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$1,240 pesos",
           "is_correct": false,
           "feedback": "Incorrecto. Aplicó la tasa anual completa en lugar de la mensual."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$1,061.21 pesos",
           "is_correct": true,
           "feedback": "Correcto. Tasa mensual = 24%/12 = 2% (0.02). M = 1,000(1.02)^3 = 1,000(1.061208) ≈ 1,061.21."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Olvidó el efecto de la capitalización compuesta."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Dividimos la tasa anual entre 12 para obtener la mensual (0.02). El número de periodos es 3. Elevamos $1.02$ al cubo y multiplicamos por el capital inicial.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "Se compara el interés compuesto con el simple para ver cuándo la diferencia se vuelve significativa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El interés compuesto es mayor.",
           "is_correct": false,
           "feedback": "Incorrecto. Con capitalización anual, el primer periodo es igual para ambos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El interés simple es mayor.",
           "is_correct": false,
           "feedback": "Incorrecto. Nunca el interés simple supera al compuesto con la misma tasa y tiempo."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Son exactamente iguales.",
           "is_correct": true,
           "feedback": "Correcto. Como solo hay una capitalización al final del año, no hay intereses previos que generen nuevos intereses."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. La relación es independiente de la magnitud del capital."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La diferencia entre interés simple y compuesto aparece a partir de la segunda capitalización. En el primer periodo, ambos se calculan sobre el mismo capital original, por lo que el resultado es idéntico.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,13 +424,13 @@
           "feedback": "Incorrecto. Este es el factor de interés simple (1 + 0.06 * 3)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$(1.06)^3$",
           "is_correct": true,
           "feedback": "Correcto. El factor de crecimiento es (1 + i)^n, que en este caso es (1 + 0.06)^3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$1.06 \\cdot 3$",
           "is_correct": false,
           "feedback": "Incorrecto. No es una multiplicación lineal, sino una potencia."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. La base debe ser el factor de tasa y el exponente el tiempo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El factor $(1+i)^n$ representa cuánto crece cada peso invertido. Para una tasa del 6% y 3 años, el factor es $1.06$ elevado a la tercera potencia, lo que equivale aproximadamente a $1.191$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,25 +469,25 @@
           "feedback": "Incorrecto. Restó los intereses en lugar de dividir por el factor."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$10,000 pesos",
           "is_correct": true,
           "feedback": "Correcto. C = M / (1+i)^n = 12,100 / (1.10)^2 = 12,100 / 1.21 = 10,000."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$11,000 pesos",
           "is_correct": false,
           "feedback": "Incorrecto. Este capital produciría $12,100 en un año, no en dos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$9,500 pesos",
           "is_correct": false,
           "feedback": "Incorrecto. Valor demasiado bajo para alcanzar la meta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Para hallar el valor presente ($C$), despejamos la fórmula original: $C = M / (1+i)^n$. Dividimos el monto final entre el factor de acumulación acumulado en los dos años.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Se analiza el concepto de Tasa Efectiva frente a la Tasa Nominal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "12.00%",
           "is_correct": false,
           "feedback": "Incorrecto. La tasa efectiva siempre es mayor que la nominal si hay más de una capitalización al año."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "12.68%",
           "is_correct": true,
           "feedback": "Correcto. Tasa efectiva = (1 + 0.12/12)^12 - 1 = (1.01)^12 - 1 ≈ 1.1268 - 1 = 0.1268."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Esta es la tasa mensual, no la efectiva anual."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La tasa efectiva anual ($i_e$) representa el rendimiento real tras considerar las capitalizaciones. Se calcula como $(1 + j/m)^m - 1$, donde $j$ es la tasa nominal y $m$ la frecuencia de capitalización.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Incorrecto. La relación entre M y C debe estar dentro de un logaritmo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$n = \\frac{\\ln(M/C)}{\\ln(1+i)}$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando logaritmos a la fórmula M = C(1+i)^n y despejando n."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$n = \\ln(M - C) \\cdot (1+i)$",
           "is_correct": false,
           "feedback": "Incorrecto. No sigue las reglas de despeje exponencial."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Olvidó el logaritmo en el denominador."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para despejar una variable en el exponente ($n$), aplicamos logaritmos en ambos lados de la ecuación $M/C = (1+i)^n$. Por propiedad de logaritmos, el exponente baja multiplicando: $\\ln(M/C) = n \\cdot \\ln(1+i)$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,19 +598,19 @@
       "context": "Un experto en finanzas de la Bolsa Mexicana de Valores analiza la capitalización semestral.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$46,000 pesos",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el interés simple."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$46,410 pesos",
           "is_correct": false,
           "feedback": "Incorrecto. Posible error por redondear de forma acumulada la tasa semestral."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$46,305 pesos",
           "is_correct": true,
           "feedback": "Correcto. Tasa semestral = 5% (0.05). Periodos = 3 (1.5 años = 3 semestres). M = 40,000(1.05)^3 = 40,000(1.157625) = 46,305."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Solo calculó dos periodos de capitalización."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "En 1.5 años hay 3 semestres ($n=3$). La tasa anual del 10% se divide entre 2 para obtener la semestral (5%). Elevamos $1.05$ al cubo y multiplicamos por el capital.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,25 +649,25 @@
           "feedback": "Incorrecto. La pregunta se refiere solo al rendimiento matemático de las tasas."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Banco B, porque la capitalización más frecuente genera más intereses.",
           "is_correct": true,
           "feedback": "Correcto. A mayor frecuencia de capitalización, mayor es la tasa efectiva anual."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Son iguales, porque la tasa anual es la misma (12%).",
           "is_correct": false,
           "feedback": "Incorrecto. La capitalización mensual genera \"interés sobre interés\" con mayor frecuencia."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Banco A, porque es más fácil de calcular.",
           "is_correct": false,
           "feedback": "Incorrecto. La facilidad de cálculo no determina la rentabilidad."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Matemáticamente, cuantas más veces se capitalicen los intereses en un año, mayor será el monto final. La capitalización mensual siempre superará a la anual para una misma tasa nominal positiva.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,13 +694,13 @@
           "feedback": "Incorrecto. Este sería el valor con depreciación lineal (simple)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$64,000 pesos",
           "is_correct": true,
           "feedback": "Correcto. Valor = 100,000(1 - 0.20)^2 = 100,000(0.80)^2 = 100,000(0.64) = 64,000."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$80,000 pesos",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el valor tras solo un año de depreciación."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Error en el cálculo de la potencia de 0.80."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La depreciación acumulada sigue la misma lógica que el interés compuesto, pero con signo negativo en la tasa ($1-i$). El valor disminuye un porcentaje sobre el valor remanente del año anterior.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -784,25 +784,25 @@
           "feedback": "Incorrecto. Tardaría 12 años según la regla."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "12 años",
           "is_correct": true,
           "feedback": "Correcto. Regla del 72: Tiempo ≈ 72 / tasa (entera) = 72 / 6 = 12 años."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "10 años",
           "is_correct": false,
           "feedback": "Incorrecto. Esto sería para una tasa del 7.2%."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "15 años",
           "is_correct": false,
           "feedback": "Incorrecto. Esto sería para una tasa del 4.8%."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La \"Regla del 72\" es una herramienta de estimación rápida. Al dividir 72 entre la tasa de interés anual, obtenemos el número de años necesarios para duplicar la inversión inicial bajo interés compuesto.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Incorrecto. Este sería el valor para interés simple."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "14.4%",
           "is_correct": false,
           "feedback": "Incorrecto. Este valor proviene de la regla del 72, pero el valor exacto es diferente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "14.87%",
           "is_correct": true,
           "feedback": "Correcto. 2 = (1+i)^5 => (2)^(1/5) = 1+i => 1.1487 = 1+i => i = 0.1487."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Rendimiento insuficiente para duplicar en 5 años."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Para hallar la tasa $i$, despejamos de la fórmula de duplicación: $2 = (1+i)^n$. Aplicamos la raíz enésima: $i = (2)^{1/n} - 1$. Con $n=5$, el resultado es aproximadamente $0.1487$ o $14.87%$.\n\n---",
       "difficulty": "10",
       "images": [],

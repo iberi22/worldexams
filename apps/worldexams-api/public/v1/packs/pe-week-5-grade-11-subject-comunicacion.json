@@ -19,25 +19,25 @@
           "feedback": "Incorrecto. Los elementos visuales complementan el texto; no lo eliminan en una lectura crítica formal."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Facilitar la comprensión rápida del tema central y reforzar visualmente la información fáctica expresada en cifras",
           "is_correct": true,
           "feedback": "Correcto. La iconografía actúa como un anclaje visual que organiza los datos, guiando la atención del lector y simplificando la retención de las ideas clave."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ocultar las contradicciones de los datos numéricos mediante colores llamativos",
           "is_correct": false,
           "feedback": "Incorrecto. Los textos discontinuos buscan aclarar e informar; usar la ilustración para engañar o tapar datos es un sesgo negativo, no su función técnica básica."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Asegurar que la infografía pueda ser leída como un poema de vanguardia lírica",
           "is_correct": false,
           "feedback": "Incorrecto. Las infografías tienen una finalidad informativa, explicativa o instructiva, no poética lírica."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Los textos discontinuos combinan lenguaje verbal y no verbal. Los componentes visuales (gráficos, mapas, iconos) facilitan la decodificación de datos cuantitativos o procesos complejos.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,19 +58,19 @@
       "context": "Un taller escolar en Arequipa revisas las partes fundamentales de una infografía académica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El pie de foto de la ilustración principal",
           "is_correct": false,
           "feedback": "Incorrecto. El pie de foto detalla una sola imagen, no resume la infografía completa."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La fuente de datos estadísticos",
           "is_correct": false,
           "feedback": "Incorrecto. La fuente indica de dónde se extrajo la información (ej. INEI) y suele ir al final en letras pequeñas."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "El copete o bajada explicativa",
           "is_correct": true,
           "feedback": "Correcto. El copete, bajada o texto de introducción es un párrafo sucinto que presenta el tema y la intencionalidad del diseño informativo."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. El crédito indica quién diseñó el material visual (el autor o agencia)."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La bajada o copete cumple una función introductoria en los textos mixtos y discontinuos, sirviendo para orientar cognitivamente al lector antes de abordar los datos complejos del cuerpo.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -109,25 +109,25 @@
           "feedback": "Incorrecto. La informalidad laboral (75%) generalmente se asocia a la falta de seguro de salud y beneficios de ley, por lo que esta afirmación contradice la realidad sugerida."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Tres de cada cuatro trabajadores peruanos se desempeñan dentro del ámbito de la informalidad laboral",
           "is_correct": true,
           "feedback": "Correcto. Dado que el 75% equivale a tres cuartas partes del total ($75/100 = 3/4$), la proporción se deduce de forma exacta de los datos numéricos expuestos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El empleo formal ha crecido de manera constante durante los últimos cinco años en las regiones andinas",
           "is_correct": false,
           "feedback": "Incorrecto. El gráfico circular muestra una instantánea estática del presente; no provee datos históricos temporales de crecimiento o reducción de años anteriores."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La totalidad de trabajadores informales se concentra exclusivamente en la ciudad de Lima Metropolitana",
           "is_correct": false,
           "feedback": "Incorrecto. El gráfico muestra el agregado nacional; no hay segmentación geográfica que autorice a afirmar que la informalidad ocurre solo en Lima."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La comprensión lectora de gráficos exige realizar equivalencias numéricas precisas (como convertir porcentajes a fracciones: $75\\% = 3/4$) y ceñirse estrictamente a los límites de la información provista por el recurso visual.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -160,19 +160,19 @@
           "feedback": "Incorrecto. Aunque cambia la estructura, el fin no es prohibir conectores de forma caprichosa."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Facilitar la comparación sistemática y paralela de variables específicas de ambos objetos de estudio",
           "is_correct": true,
           "feedback": "Correcto. Las tablas de doble entrada permiten al lector cruzar datos y establecer semejanzas, diferencias y contrastes de manera inmediata sin necesidad de leer largos párrafos descriptivos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Demostrar que la agricultura andina es inviable en el mercado global moderno",
           "is_correct": false,
           "feedback": "Incorrecto. El propósito es informar sobre el café; la tabla no busca desalentar o invalidar la agricultura regional."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Las tablas comparativas son recursos lógicos excelentes para sintetizar variables correlativas, optimizando la asimilación de contrastes de datos cuantitativos y cualitativos.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrecto. El mapa es de vulnerabilidad sísmica, no de clima o temperatura atmosférica local."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que los distritos del sur costero presentan un nivel de riesgo sísmico significativamente mayor que los de la selva norte",
           "is_correct": true,
           "feedback": "Correcto. En los mapas de vulnerabilidad sísmica o climatológica, los colores cálidos oscuros (rojo, naranja) codifican tradicionalmente peligro o alta intensidad, y los claros (amarillo, verde) indican menor riesgo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que la población del sur del país prefiere pintar sus viviendas de color rojo por tradición incaica",
           "is_correct": false,
           "feedback": "Incorrecto. Los mapas temáticos codifican variables científicas de riesgo, no preferencias estéticas o arquitectónicas de la población."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. El color claro solo indica menor sismicidad; no denota prohibiciones legales o administrativas de edificación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Los textos discontinuos geográficos (mapas de calor o de riesgo) utilizan convenciones de escala cromática. El lector crítico debe asociar la intensidad del color con la magnitud de la variable representada (gravedad, densidad, temperatura).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,25 +289,25 @@
           "feedback": "Incorrecto. En el año 2023 se produjo una leve contracción ($1350M frente a los $1400M de 2022), por lo que el crecimiento no fue ininterrumpido."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Las exportaciones de arándanos experimentaron una tendencia de crecimiento constante hasta el año 2022, sufriendo una ligera caída en el año 2023",
           "is_correct": true,
           "feedback": "Correcto. Analiza fielmente la curva de datos: sube de forma constante de 2020 a 2022 ($1000 \\rightarrow 1200 \\rightarrow 1400$) y desciende levemente en 2023 ($1350M)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La producción nacional de uvas superó a la de arándanos en el año 2022",
           "is_correct": false,
           "feedback": "Incorrecto. La tabla provee información exclusiva de arándanos; no hay datos de exportación de uvas para establecer comparaciones."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El mercado europeo cerró sus fronteras sanitarias al ingreso de arándanos peruanos en el año 2023",
           "is_correct": false,
           "feedback": "Incorrecto. El descenso en 2023 puede deberse a múltiples factores (clima, precios); la tabla no menciona el cierre de fronteras en Europa."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La interpretación de tablas históricas exige identificar las inflexiones o quiebres de tendencia en la serie de datos (en este caso, el paso de crecimiento a contracción en el último año).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,19 +328,19 @@
       "context": "Un círculo de lectura en Cusco analiza un diagrama de flujo sobre el proceso de postulación a becas universitarias del PRONABEC.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Rinde el examen nacional y espera los resultados de asignación presupuestal",
           "is_correct": false,
           "feedback": "Incorrecto. El diagrama indica que si la respuesta a la condición del rombo es 'NO', el proceso se interrumpe de inmediato."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Debe apelar la decisión en las oficinas de Lima de forma obligatoria",
           "is_correct": false,
           "feedback": "Incorrecto. El diagrama no describe procesos de apelación administrativa en sus nodos viales."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Queda automáticamente excluido del proceso de postulación a la beca",
           "is_correct": true,
           "feedback": "Correcto. Al no cumplir con la condición del SISFOH (clasifica como 'no pobre', por ende sigue la flecha 'NO'), su camino concluye de forma directa en el nodo 'Fin del proceso'."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Esta es una asunción externa ajena a la lógica secuencial representada en el diagrama del PRONABEC."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Los diagramas de flujo utilizan figuras geométricas convencionales. El rombo representa una decisión lógica condicional de tipo binario (sí/no), la cual determina de manera excluyente el camino del usuario en el proceso.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Análisis del diseño y propósito persuasivo en afiches de salud pública en Piura.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Informa sobre la composición química de las vacunas contra el dengue",
           "is_correct": false,
           "feedback": "Incorrecto. La imagen de una casa limpia y niños no provee datos farmacológicos o médicos de las vacunas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Asocia el cumplimiento de las conductas de prevención (limpieza de envases) con el bienestar y felicidad del hogar",
           "is_correct": true,
           "feedback": "Correcto. El recurso visual actúa como un motivador emocional; muestra el estado ideal deseado (un hogar saludable y feliz) como consecuencia directa de realizar las acciones preventivas sugeridas por el eslogan."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Aunque la falta de agua es un problema real, la imagen del afiche muestra bienestar y limpieza, no es una denuncia visual de escasez."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La retórica visual de los afiches busca movilizar conductas asociando instrucciones prácticas con ideales de salud y bienestar del entorno familiar.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -475,19 +475,19 @@
           "feedback": "Incorrecto. Peligro extremo es para valores superiores a 150 ug/m3."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Califica como Crítico; infiere que la calidad del aire representa un riesgo severo para la salud pulmonar de peatones y comerciantes",
           "is_correct": true,
           "feedback": "Correcto. El valor 125 ug/m3 se ubica exactamente en la franja roja (101-150), calificada como 'Crítico'. De ahí se infiere razonablemente el perjuicio para la salud respiratoria en esa arteria limeña."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Califica como Excelente; infiere que el tráfico vehicular se ha reducido gracias a las ciclovías",
           "is_correct": false,
           "feedback": "Incorrecto. Excelente es para valores inferiores a 50 ug/m3; 125 es una contaminación muy alta."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La lectura de escalas de medición e indicadores ambientales en textos discontinuos requiere ubicar la cifra en el tramo correspondiente y deducir las implicaciones prácticas o advertencias médicas asociadas a dicho nivel de riesgo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Un ejercicio de análisis de infografías sobre las lenguas originarias del Perú y su estado de peligro de extinción según el Ministerio de Cultura.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La lengua tiene millones de hablantes jóvenes y su conservación está plenamente asegurada",
           "is_correct": false,
           "feedback": "Incorrecto. El tamaño pequeño del círculo y el color rojo indican pocos hablantes y peligro inminente de extinción, no abundancia juvenil."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La lengua posee un número sumamente reducido de hablantes y se encuentra al borde de la extinción definitiva, requiriendo registro urgente de su memoria oral",
           "is_correct": true,
           "feedback": "Correcto. El tamaño del círculo (reducido número de hablantes) combinado con el color rojo (peligro crítico) denota un estado de vulnerabilidad extrema, donde la transmisión intergeneracional se ha roto y la lengua podría desaparecer pronto."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. El semáforo de vitalidad es científico-diagnóstico de vulnerabilidad; no representa prohibiciones oficiales del Estado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La interpretación analítica de mapas lingüísticos discontinuos exige cruzar dos variables simultáneas (tamaño de la figura para volumen de hablantes, y código cromático para vitalidad/riesgo de preservación) para emitir un diagnóstico sociocultural preciso.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "Análisis del público objetivo y tono pragmático de un afiche sobre el cuidado de las lomas costeras frente a las invasiones ilegales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Empresas extranjeras de turismo de lujo; busca que inviertan en hoteles de cinco estrellas sobre las lomas",
           "is_correct": false,
           "feedback": "Incorrecto. El tono es de defensa y conservación frente al cemento y los lotes, incompatible con promover infraestructura hotelera masiva."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Cazadores informales de fauna silvestre; busca regular el uso de armas de fuego en las reservas de la costa",
           "is_correct": false,
           "feedback": "Incorrecto. El tema central son las invasiones de terrenos ('lotes de vivienda') y la minería ('canteras'), no la caza de animales."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Ciudadanos y colectivos vecinales de Lima Sur; busca concientizar sobre el valor ecológico de la reserva y promover su defensa activa frente al tráfico de tierras e invasores",
           "is_correct": true,
           "feedback": "Correcto. El afiche busca alertar a la comunidad local sobre la amenaza inmobiliaria e industrial ('lotes', 'cemento'), contrastándola con la belleza natural de la flor de Amancaes (identidad limeña) para movilizar la protección vecinal del ecosistema."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Esto sería lo opuesto a la conservación y defensa del 'pulmón verde' promovido por la ONG."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El destinatario ideal de un texto persuasivo mixto se infiere analizando las apelaciones del eslogan (las amenazas denunciadas) y la carga simbólica de la iconografía (en este caso, el ecosistema verde de lomas y la flor típica de Lima, símbolos de fragilidad natural frente al asfalto urbano).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,19 +598,19 @@
       "context": "Un ejercicio de lectura de alta dificultad en Chiclayo deconstruye la relación de variables en un gráfico de dispersión de PISA.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La inversión económica por alumno produce de manera mágica e inmediata una caída en el rendimiento en matemáticas",
           "is_correct": false,
           "feedback": "Incorrecto. Si fuera así, Singapur y Japón (alta inversión) tendrían puntajes bajos (estarían abajo a la derecha), lo cual contradice el gráfico."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El rendimiento académico en matemáticas no guarda ninguna relación con los recursos presupuestarios asignados por el Estado",
           "is_correct": false,
           "feedback": "Incorrecto. Hay una correlación visual clara: a mayor inversión (desplazamiento a la derecha), mayor puntaje promedio (desplazamiento hacia arriba)."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Existe una correlación positiva general entre la inversión por alumno y los resultados de aprendizaje, evidenciando que el Perú necesita incrementar de forma eficiente el presupuesto educativo para aproximarse a los estándares globales",
           "is_correct": true,
           "feedback": "Correcto. El gráfico ilustra que los países con mayor inversión por estudiante logran un rendimiento superior (correlación positiva). Ubicar al Perú abajo a la izquierda diagnostica que la baja inversión correlaciona con bajos resultados, sugiriendo la necesidad de inyectar recursos económicos acompañados de políticas de eficiencia pedagógica."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Esta interpretación racista biológica no se desprende ni puede ser validada por un gráfico de inversión y rendimiento escolar de la OCDE."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Los gráficos de dispersión evalúan la correlación entre dos variables continuas. Identificar la dirección de la nube de puntos permite establecer si existe una relación positiva, negativa o nula, insumo indispensable para el análisis crítico de políticas públicas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,19 +643,19 @@
       "context": "Se evalúa la jerarquía de información visual en una infografía sobre la ruta de exportación del cacao orgánico de Piura hacia Europa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La fermentación del cacao (paso 2) se realiza a bordo del buque mercante durante el viaje a Suiza",
           "is_correct": false,
           "feedback": "Incorrecto. El paso 2 ocurre antes del embarque en Paita (paso 4); la fermentación se hace en la cooperativa agraria en origen."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La certificación orgánica (paso 3) es un trámite opcional que se realiza después de vender los chocolates en Suiza",
           "is_correct": false,
           "feedback": "Incorrecto. El paso 3 es previo al embarque y exportación, sugiriendo que la certificación es obligatoria para poder enviar el grano orgánico."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "El embarque en el puerto de Paita (paso 4) constituye el nexo logístico fundamental que permite la transición del cacao peruano desde su fase de producción agrícola local a su distribución comercial internacional",
           "is_correct": true,
           "feedback": "Correcto. El puerto de Paita (nodo 4) es la frontera física de salida; articula de forma perfecta la fase de producción piurana (nodos 1, 2 y 3) con el mercado final europeo (nodo 5)."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. La cosecha se realiza en la cooperativa local de Piura (paso 1), no por las navieras europeas."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Los procesos logísticos secuenciados en infografías exigen comprender la dirección cronológica obligatoria de los flujos de producción. Cada paso es prerrequisito técnico indispensable para la ejecución del nodo sucesivo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "Un ejercicio sobre tipologías de gráficos y su adecuación comunicativa en la presentación de datos económicos del Perú.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Un gráfico circular (o de pastel) segmentado en treinta porciones de colores alternados",
           "is_correct": false,
           "feedback": "Incorrecto. Un gráfico circular con 30 sectores es ilegible; además, los circulares sirven para ver proporciones de un todo estático, no la evolución temporal de una serie continua."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Un mapa geográfico del Perú con círculos de dispersión sobre las capitales de departamento",
           "is_correct": false,
           "feedback": "Incorrecto. Un mapa muestra distribución espacial, pero no refleja de forma nítida la fluctuación temporal de la inflación nacional año a año."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Un gráfico de líneas continuas (o curva temporal) donde el eje horizontal represente los años y el eje vertical represente el porcentaje de inflación",
           "is_correct": true,
           "feedback": "Correcto. El gráfico de líneas es el formato idóneo para representar variables continuas en el tiempo, ya que la línea permite apreciar de un vistazo la tendencia de subida, caída o estabilidad (ej. la hiperinflación de inicios de los 90 y la posterior estabilidad macroeconómica)."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Un organigrama representa estructuras administrativas jerárquicas; no sirve para graficar series de datos económicos temporales."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La adecuación gráfica es un principio clave del meta-análisis de textos discontinuos. Cada tipo de gráfico posee fortalezas lógicas específicas: líneas para series de tiempo, barras para comparaciones categóricas, circulares para partes de un todo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Incorrecto. La distorsión matemática no puede justificarse como 'arte' en un medio informativo serio."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Es correcto porque febrero tiene más días festivos donde aumentan de forma natural los robos en el distrito",
           "is_correct": false,
           "feedback": "Incorrecto. Febrero tiene menos días (28 o 29) que enero (31), y este detalle temporal no justifica alterar la proporción de escala de las barras."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Presenta una manipulación deshonesta de la escala visual (falta de proporcionalidad), destinada a infundir pánico injustificado mediante una sensación de aumento desmesurado del delito",
           "is_correct": true,
           "feedback": "Correcto. Un aumento de 100 a 110 robos representa apenas el 10%. La barra de febrero debería medir un 10% más que la de enero (2.2 cm). Medir 10 cm (un aumento visual del 400% o 5 veces más grande) manipula la percepción del espectador de forma deshonesta, violando la ética del periodismo de datos."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. El uso de barras verticales no está prohibido por ley; el error ético reside en romper la proporcionalidad matemática de la escala."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La distorsión de escalas en textos discontinuos es una de las falacias visuales más recurrentes en la prensa sensacionalista y discursos políticos (truco de truncar el eje Y o exagerar dimensiones), requiriendo un lector crítico capaz de verificar la relación numérica real frente al impacto visual.\n\n---",
       "difficulty": "10",
       "images": [],

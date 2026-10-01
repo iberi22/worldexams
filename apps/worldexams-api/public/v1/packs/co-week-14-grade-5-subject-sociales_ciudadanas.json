@@ -105,19 +105,19 @@
       "context": "Una familia de Buenaventura sale cada madrugada en su bote a pescar y luego vende el pescado en el mercado del puerto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "A la pesca, porque obtienen su sustento de los recursos del mar.",
           "is_correct": true,
           "feedback": "La familia extrae peces del mar y los comercializa, lo que corresponde a la pesca."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "A la minería, porque extraen minerales del subsuelo marino.",
           "is_correct": false,
           "feedback": "La familia no extrae minerales, sino peces, así que no es minería."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "A la ganadería, porque crían animales en tierra firme.",
           "is_correct": false,
           "feedback": "La ganadería cría animales terrestres, no captura peces en el mar."
@@ -129,7 +129,7 @@
           "feedback": "La familia no presta servicios turísticos; vende el producto de su pesca."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicar el concepto de pesca a una situación cotidiana de la región Pacífica colombiana.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En un municipio de Boyacá los habitantes hallaron carbón en sus tierras y deben decidir cómo aprovecharlo sin dañar el ambiente ni afectar a la comunidad.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Extraer el carbón con permisos, cuidando el agua y reforestando las zonas afectadas.",
           "is_correct": true,
           "feedback": "Una minería responsable cumple las normas y protege los recursos naturales de la comunidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Extraer todo el carbón sin permiso y abandonar los huecos abiertos.",
           "is_correct": false,
           "feedback": "La explotación sin permiso ni control causa daños graves al ambiente y a las personas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Contaminar los ríos con los desechos que salen de la mina.",
           "is_correct": false,
           "feedback": "Arrojar desechos a los ríos afecta el agua que usa toda la comunidad."
@@ -175,7 +175,7 @@
           "feedback": "La vigilancia de las autoridades ayuda a prevenir daños ambientales y sociales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicar principios de convivencia y cuidado ambiental a la explotación de los recursos naturales.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "Un hotel de Santa Marta contrata guías, cocineros y recepcionistas para atender a los viajeros que llegan a las playas del Caribe.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El turismo, porque las personas viajan y usan servicios de hospedaje y recreación.",
           "is_correct": true,
           "feedback": "El hotel ofrece servicios a los viajeros, lo que caracteriza a la actividad turística."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La pesca, porque se venden productos del mar al por mayor.",
           "is_correct": false,
           "feedback": "El hotel no se dedica a la pesca, aunque sirva pescado a sus huéspedes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La minería, porque se extraen piedras preciosas de la playa.",
           "is_correct": false,
           "feedback": "En el hotel no se extraen minerales, sino que se atiende a visitantes."
@@ -221,7 +221,7 @@
           "feedback": "La agricultura siembra y cosecha productos, algo distinto a la hotelería."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Reconocer el turismo como actividad económica generadora de empleo en la región Caribe.",
       "difficulty": "6",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "Lee: \"El turismo puede traer ingresos a una región, pero también puede generar más basura, subir los precios y aumentar el consumo de agua.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El turismo genera ingresos, pero también puede afectar los recursos y la vida cotidiana de la comunidad.",
           "is_correct": true,
           "feedback": "Existe un equilibrio entre los beneficios económicos y los costos ambientales y sociales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El turismo nunca produce ningún efecto negativo en las regiones.",
           "is_correct": false,
           "feedback": "El texto menciona basura, precios y consumo de agua como efectos a considerar."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los habitantes de la región no participan en la economía local.",
           "is_correct": false,
           "feedback": "Los habitantes trabajan y ofrecen servicios dentro de la actividad turística."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El turismo elimina la necesidad de cuidar el agua y los paisajes.",
           "is_correct": false,
           "feedback": "Al contrario, el turismo sostenible depende del cuidado del agua y del entorno."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analizar los beneficios y los costos del turismo para las comunidades que lo reciben.",
       "difficulty": "8",
       "images": [],

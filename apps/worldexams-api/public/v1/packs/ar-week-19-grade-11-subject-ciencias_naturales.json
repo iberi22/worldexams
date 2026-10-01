@@ -13,31 +13,31 @@
       "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 1.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Concentración = $6\\text{ ppm}$",
           "is_correct": true,
           "feedback": "Correcto. $2 \\cdot 3 = 6\\text{ ppm}$ debido al proceso de biomagnificación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Concentración = $2\\text{ ppm}$",
           "is_correct": false,
           "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Concentración = $0,7\\text{ ppm}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Concentración = $0\\text{ ppm}$",
           "is_correct": false,
           "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $2 \\cdot 3 = 6\\text{ ppm}$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,31 +103,31 @@
       "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 3.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Concentración = $18\\text{ ppm}$",
           "is_correct": true,
           "feedback": "Correcto. $6 \\cdot 3 = 18\\text{ ppm}$ debido al proceso de biomagnificación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Concentración = $6\\text{ ppm}$",
           "is_correct": false,
           "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Concentración = $2,0\\text{ ppm}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Concentración = $0\\text{ ppm}$",
           "is_correct": false,
           "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $6 \\cdot 3 = 18\\text{ ppm}$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 4.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Concentración = $24\\text{ ppm}$",
           "is_correct": true,
           "feedback": "Correcto. $8 \\cdot 3 = 24\\text{ ppm}$ debido al proceso de biomagnificación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Concentración = $8\\text{ ppm}$",
           "is_correct": false,
           "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Concentración = $2,7\\text{ ppm}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $8 \\cdot 3 = 24\\text{ ppm}$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,31 +193,31 @@
       "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 5.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Concentración = $30\\text{ ppm}$",
           "is_correct": true,
           "feedback": "Correcto. $10 \\cdot 3 = 30\\text{ ppm}$ debido al proceso de biomagnificación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Concentración = $10\\text{ ppm}$",
           "is_correct": false,
           "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Concentración = $3,3\\text{ ppm}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Concentración = $0\\text{ ppm}$",
           "is_correct": false,
           "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $10 \\cdot 3 = 30\\text{ ppm}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 6.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Concentración = $36\\text{ ppm}$",
           "is_correct": true,
           "feedback": "Correcto. $12 \\cdot 3 = 36\\text{ ppm}$ debido al proceso de biomagnificación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Concentración = $12\\text{ ppm}$",
           "is_correct": false,
           "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $12 \\cdot 3 = 36\\text{ ppm}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,19 +283,19 @@
       "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 7.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Concentración = $42\\text{ ppm}$",
           "is_correct": true,
           "feedback": "Correcto. $14 \\cdot 3 = 42\\text{ ppm}$ debido al proceso de biomagnificación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Concentración = $14\\text{ ppm}$",
           "is_correct": false,
           "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Concentración = $4,7\\text{ ppm}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $14 \\cdot 3 = 42\\text{ ppm}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 9.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Concentración = $54\\text{ ppm}$",
           "is_correct": true,
           "feedback": "Correcto. $18 \\cdot 3 = 54\\text{ ppm}$ debido al proceso de biomagnificación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Concentración = $18\\text{ ppm}$",
           "is_correct": false,
           "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Concentración = $6,0\\text{ ppm}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $18 \\cdot 3 = 54\\text{ ppm}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,19 +418,19 @@
       "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 10.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Concentración = $60\\text{ ppm}$",
           "is_correct": true,
           "feedback": "Correcto. $20 \\cdot 3 = 60\\text{ ppm}$ debido al proceso de biomagnificación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Concentración = $20\\text{ ppm}$",
           "is_correct": false,
           "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Concentración = $6,7\\text{ ppm}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $20 \\cdot 3 = 60\\text{ ppm}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 13.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Concentración = $78\\text{ ppm}$",
           "is_correct": true,
           "feedback": "Correcto. $26 \\cdot 3 = 78\\text{ ppm}$ debido al proceso de biomagnificación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Concentración = $26\\text{ ppm}$",
           "is_correct": false,
           "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Concentración = $8,7\\text{ ppm}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $26 \\cdot 3 = 78\\text{ ppm}$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,31 +598,31 @@
       "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 14.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Concentración = $84\\text{ ppm}$",
           "is_correct": true,
           "feedback": "Correcto. $28 \\cdot 3 = 84\\text{ ppm}$ debido al proceso de biomagnificación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Concentración = $28\\text{ ppm}$",
           "is_correct": false,
           "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Concentración = $9,3\\text{ ppm}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Concentración = $0\\text{ ppm}$",
           "is_correct": false,
           "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $28 \\cdot 3 = 84\\text{ ppm}$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 16.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Concentración = $96\\text{ ppm}$",
           "is_correct": true,
           "feedback": "Correcto. $32 \\cdot 3 = 96\\text{ ppm}$ debido al proceso de biomagnificación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Concentración = $32\\text{ ppm}$",
           "is_correct": false,
           "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $32 \\cdot 3 = 96\\text{ ppm}$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 17.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Concentración = $102\\text{ ppm}$",
           "is_correct": true,
           "feedback": "Correcto. $34 \\cdot 3 = 102\\text{ ppm}$ debido al proceso de biomagnificación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Concentración = $34\\text{ ppm}$",
           "is_correct": false,
           "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $34 \\cdot 3 = 102\\text{ ppm}$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 18.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Concentración = $108\\text{ ppm}$",
           "is_correct": true,
           "feedback": "Correcto. $36 \\cdot 3 = 108\\text{ ppm}$ debido al proceso de biomagnificación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Concentración = $36\\text{ ppm}$",
           "is_correct": false,
           "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $36 \\cdot 3 = 108\\text{ ppm}$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,31 +823,31 @@
       "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 19.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Concentración = $114\\text{ ppm}$",
           "is_correct": true,
           "feedback": "Correcto. $38 \\cdot 3 = 114\\text{ ppm}$ debido al proceso de biomagnificación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Concentración = $38\\text{ ppm}$",
           "is_correct": false,
           "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Concentración = $12,7\\text{ ppm}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Concentración = $0\\text{ ppm}$",
           "is_correct": false,
           "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $38 \\cdot 3 = 114\\text{ ppm}$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,31 +868,31 @@
       "context": "Impacto ambiental y biomagnificación trófica de metales pesados Caso N° 20.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Concentración = $120\\text{ ppm}$",
           "is_correct": true,
           "feedback": "Correcto. $40 \\cdot 3 = 120\\text{ ppm}$ debido al proceso de biomagnificación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Concentración = $40\\text{ ppm}$",
           "is_correct": false,
           "feedback": "Incorrecto. La biomagnificación implica aumento de concentración en cada nivel."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Concentración = $13,3\\text{ ppm}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió la concentración en lugar de multiplicarla."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Concentración = $0\\text{ ppm}$",
           "is_correct": false,
           "feedback": "Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $40 \\cdot 3 = 120\\text{ ppm}$.",
       "difficulty": "10",
       "images": [],

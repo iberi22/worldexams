@@ -105,19 +105,19 @@
       "context": "Un estudiante de Manizales acerca el polo norte de un imán al polo norte de otro imán.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Se repelen, porque los polos del mismo tipo se rechazan entre sí.",
           "is_correct": true,
           "feedback": "Los polos iguales (norte-norte o sur-sur) se repelen."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se atraen, porque los polos del mismo tipo se unen.",
           "is_correct": false,
           "feedback": "Los polos iguales se repelen; se atraen los polos diferentes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No ocurre nada entre ellos.",
           "is_correct": false,
           "feedback": "Siempre hay una fuerza magnética entre dos imanes cercanos."
@@ -129,7 +129,7 @@
           "feedback": "Los imanes no se funden al acercarse; se repelen o se atraen."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicar la regla de atracción y repulsión entre polos magnéticos del mismo tipo.",
       "difficulty": "6",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En una ferretería de Sincelejo hay un clavo de hierro, una cuchara de madera, un vaso de vidrio y una regla de plástico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El clavo de hierro.",
           "is_correct": true,
           "feedback": "El hierro es un material magnético que el imán atrae."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La cuchara de madera.",
           "is_correct": false,
           "feedback": "La madera no es un material magnético."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El vaso de vidrio.",
           "is_correct": false,
           "feedback": "El vidrio no es atraído por los imanes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La regla de plástico.",
           "is_correct": false,
           "feedback": "El plástico no es un material magnético."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aplicar el conocimiento sobre materiales magnéticos para identificar el objeto atraído por un imán.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Una guía turística en Cartagena usa una brújula para orientar a los visitantes por el centro histórico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Hacia el norte.",
           "is_correct": true,
           "feedback": "La aguja de la brújula se orienta hacia el polo norte magnético."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Hacia el sur.",
           "is_correct": false,
           "feedback": "La aguja de la brújula apunta al norte, no al sur."
@@ -221,7 +221,7 @@
           "feedback": "La brújula no señala ciudades; señala el norte magnético."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar el funcionamiento de la brújula como instrumento de orientación magnética.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "Una estudiante de Bucaramanga observa que la aguja de su brújula se orienta siempre en la misma dirección sin importar dónde se encuentre.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Porque la Tierra se comporta como un gran imán con polos magnéticos.",
           "is_correct": true,
           "feedback": "El campo magnético terrestre orienta la aguja magnética de la brújula."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque la aguja sigue la dirección del viento.",
           "is_correct": false,
           "feedback": "El viento no orienta la aguja magnética."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque la aguja siempre apunta hacia el Sol.",
           "is_correct": false,
           "feedback": "La brújula no depende de la posición del Sol."
@@ -267,7 +267,7 @@
           "feedback": "Aunque puede flotar, la orientación se debe al magnetismo de la Tierra."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Analizar el campo magnético terrestre como causa de la orientación de la brújula.",
       "difficulty": "8",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "Una estudiante de Ibagué parte un imán en dos mitades con una sierra y quiere saber qué pasa con los polos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Cada mitad se convierte en un nuevo imán con su propio polo norte y su polo sur.",
           "is_correct": true,
           "feedback": "Los polos magnéticos no se separan; cada fragmento conserva ambos polos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una mitad queda con el polo norte y la otra con el polo sur.",
           "is_correct": false,
           "feedback": "No es posible aislar un solo polo; cada mitad tiene ambos polos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Las dos mitades pierden toda su fuerza magnética.",
           "is_correct": false,
           "feedback": "Los fragmentos siguen siendo imanes con fuerza magnética."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Solo una de las dos mitades conserva el magnetismo.",
           "is_correct": false,
           "feedback": "Ambas mitades conservan la propiedad magnética."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analizar que los polos magnéticos son inseparables en cualquier fragmento de un imán.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Un grupo de estudiantes de Pasto discute sobre la utilidad del magnetismo y de instrumentos como la brújula en la vida de las personas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque permite orientarse en los viajes, fabricar aparatos y comprender fenómenos de la Tierra.",
           "is_correct": true,
           "feedback": "El magnetismo tiene múltiples aplicaciones prácticas y científicas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque sirve únicamente para decorar las aulas de clase.",
           "is_correct": false,
           "feedback": "El magnetismo tiene usos reales muy importantes, no solo decorativos."
@@ -359,7 +359,7 @@
           "feedback": "Los imanes y el magnetismo existen y se estudian en todo el mundo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluar la importancia del magnetismo y sus aplicaciones en la vida cotidiana y en la ciencia.",
       "difficulty": "10",
       "images": [],

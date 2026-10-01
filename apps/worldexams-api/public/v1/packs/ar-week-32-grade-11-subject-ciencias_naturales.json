@@ -13,19 +13,19 @@
       "context": "Química Orgánica, Hidrocarburos y Grupos Funcionales - Caso N° 1.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Constituye un principio fundamental de Química Orgánica que explica el comportamiento del sistema según las leyes de la naturaleza.",
           "is_correct": true,
           "feedback": "Correcto. La definición de $Hibridación del Carbono$ corresponde con los principios teóricos de Química Orgánica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Representa un fenómeno aislado sin relación con las leyes de conservación en Química.",
           "is_correct": false,
           "feedback": "Incorrecto. El concepto de $Hibridación del Carbono$ está íntimamente ligado a las leyes de Química."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es una magnitud exclusivamente teórica que no se puede medir experimentalmente en el laboratorio.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una propiedad medible y verificable."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Se aplica de forma general bajo condiciones estándar MKS."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El estudio de Hibridación del Carbono es clave para comprender los fundamentos teóricos y prácticos de Química Orgánica.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,19 +103,19 @@
       "context": "Química Orgánica, Hidrocarburos y Grupos Funcionales - Caso N° 3.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El sistema responde de forma proporcional a las variables involucradas manteniendo la consistencia teórica de $Alcoholes y Aldehídos$.",
           "is_correct": true,
           "feedback": "Correcto. La respuesta del sistema refleja la ley física/química de $Alcoholes y Aldehídos$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El sistema permanece completamente inerte sin registrar variación alguna.",
           "is_correct": false,
           "feedback": "Incorrecto. Las variables se modifican según las ecuaciones del modelo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se produce una pérdida total de masa violando las leyes de conservación.",
           "is_correct": false,
           "feedback": "Incorrecto. Las leyes de conservación se cumplen siempre."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. El fenómeno sigue un patrón determinista bien definido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las observaciones experimentales confirman las predicciones del modelo teórico de Alcoholes y Aldehídos.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Química Orgánica, Hidrocarburos y Grupos Funcionales - Caso N° 4.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El sistema responde de forma proporcional a las variables involucradas manteniendo la consistencia teórica de $Ácidos Carboxílicos$.",
           "is_correct": true,
           "feedback": "Correcto. La respuesta del sistema refleja la ley física/química de $Ácidos Carboxílicos$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El sistema permanece completamente inerte sin registrar variación alguna.",
           "is_correct": false,
           "feedback": "Incorrecto. Las variables se modifican según las ecuaciones del modelo."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. El fenómeno sigue un patrón determinista bien definido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las observaciones experimentales confirman las predicciones del modelo teórico de Ácidos Carboxílicos.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Química Orgánica, Hidrocarburos y Grupos Funcionales - Caso N° 5.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Se aplica la ecuación correspondiente a $Isomería$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Química.",
           "is_correct": true,
           "feedback": "Correcto. Refleja la formulación correcta para $Isomería$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida.",
           "is_correct": false,
           "feedback": "Incorrecto. Las unidades deben ser consistentes en el sistema SI."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Las constantes del sistema tienen valores finitos y definidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La aplicación cuantitativa de Isomería requiere el uso riguroso de las ecuaciones de Química Orgánica.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,19 +238,19 @@
       "context": "Química Orgánica, Hidrocarburos y Grupos Funcionales - Caso N° 6.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Se aplica la ecuación correspondiente a $Hibridación del Carbono$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Química.",
           "is_correct": true,
           "feedback": "Correcto. Refleja la formulación correcta para $Hibridación del Carbono$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida.",
           "is_correct": false,
           "feedback": "Incorrecto. Las unidades deben ser consistentes en el sistema SI."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se ignora la influencia de las condiciones iniciales del experimento.",
           "is_correct": false,
           "feedback": "Incorrecto. Las condiciones iniciales determinan la solución del sistema."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Las constantes del sistema tienen valores finitos y definidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La aplicación cuantitativa de Hibridación del Carbono requiere el uso riguroso de las ecuaciones de Química Orgánica.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,31 +328,31 @@
       "context": "Química Orgánica, Hidrocarburos y Grupos Funcionales - Caso N° 8.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Se aplica la ecuación correspondiente a $Alcoholes y Aldehídos$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Química.",
           "is_correct": true,
           "feedback": "Correcto. Refleja la formulación correcta para $Alcoholes y Aldehídos$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida.",
           "is_correct": false,
           "feedback": "Incorrecto. Las unidades deben ser consistentes en el sistema SI."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se ignora la influencia de las condiciones iniciales del experimento.",
           "is_correct": false,
           "feedback": "Incorrecto. Las condiciones iniciales determinan la solución del sistema."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Se asume que la constante del proceso es igual a cero en todo instante.",
           "is_correct": false,
           "feedback": "Incorrecto. Las constantes del sistema tienen valores finitos y definidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La aplicación cuantitativa de Alcoholes y Aldehídos requiere el uso riguroso de las ecuaciones de Química Orgánica.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,31 +373,31 @@
       "context": "Química Orgánica, Hidrocarburos y Grupos Funcionales - Caso N° 9.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Se aplica la ecuación correspondiente a $Ácidos Carboxílicos$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Química.",
           "is_correct": true,
           "feedback": "Correcto. Refleja la formulación correcta para $Ácidos Carboxílicos$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida.",
           "is_correct": false,
           "feedback": "Incorrecto. Las unidades deben ser consistentes en el sistema SI."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se ignora la influencia de las condiciones iniciales del experimento.",
           "is_correct": false,
           "feedback": "Incorrecto. Las condiciones iniciales determinan la solución del sistema."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Se asume que la constante del proceso es igual a cero en todo instante.",
           "is_correct": false,
           "feedback": "Incorrecto. Las constantes del sistema tienen valores finitos y definidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La aplicación cuantitativa de Ácidos Carboxílicos requiere el uso riguroso de las ecuaciones de Química Orgánica.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,19 +418,19 @@
       "context": "Química Orgánica, Hidrocarburos y Grupos Funcionales - Caso N° 10.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Se aplica la ecuación correspondiente a $Isomería$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Química.",
           "is_correct": true,
           "feedback": "Correcto. Refleja la formulación correcta para $Isomería$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida.",
           "is_correct": false,
           "feedback": "Incorrecto. Las unidades deben ser consistentes en el sistema SI."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se ignora la influencia de las condiciones iniciales del experimento.",
           "is_correct": false,
           "feedback": "Incorrecto. Las condiciones iniciales determinan la solución del sistema."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Las constantes del sistema tienen valores finitos y definidos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La aplicación cuantitativa de Isomería requiere el uso riguroso de las ecuaciones de Química Orgánica.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,31 +463,31 @@
       "context": "Química Orgánica, Hidrocarburos y Grupos Funcionales - Caso N° 11.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El cambio en las variables modifica el estado final según las restricciones impuestas por $Hibridación del Carbono$ y las leyes de Química.",
           "is_correct": true,
           "feedback": "Correcto. El análisis deductivo confirma el impacto directo sobre el estado final."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El estado final es independiente de cualquier cambio realizado en el estado inicial.",
           "is_correct": false,
           "feedback": "Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance.",
           "is_correct": false,
           "feedback": "Incorrecto. El balance se mantiene bajo las leyes de conservación."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La energía o materia total aumenta exponencialmente sin fuente externa.",
           "is_correct": false,
           "feedback": "Incorrecto. No se puede crear masa ni energía de la nada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El análisis analítico de Hibridación del Carbono demuestra la coherencia interna de los modelos en Química Orgánica.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "Química Orgánica, Hidrocarburos y Grupos Funcionales - Caso N° 12.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El cambio en las variables modifica el estado final según las restricciones impuestas por $Alcanos, Alquenos y Alquinos$ y las leyes de Química.",
           "is_correct": true,
           "feedback": "Correcto. El análisis deductivo confirma el impacto directo sobre el estado final."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El estado final es independiente de cualquier cambio realizado en el estado inicial.",
           "is_correct": false,
           "feedback": "Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance.",
           "is_correct": false,
           "feedback": "Incorrecto. El balance se mantiene bajo las leyes de conservación."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. No se puede crear masa ni energía de la nada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El análisis analítico de Alcanos, Alquenos y Alquinos demuestra la coherencia interna de los modelos en Química Orgánica.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Química Orgánica, Hidrocarburos y Grupos Funcionales - Caso N° 15.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El cambio en las variables modifica el estado final según las restricciones impuestas por $Isomería$ y las leyes de Química.",
           "is_correct": true,
           "feedback": "Correcto. El análisis deductivo confirma el impacto directo sobre el estado final."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El estado final es independiente de cualquier cambio realizado en el estado inicial.",
           "is_correct": false,
           "feedback": "Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. No se puede crear masa ni energía de la nada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El análisis analítico de Isomería demuestra la coherencia interna de los modelos en Química Orgánica.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Química Orgánica, Hidrocarburos y Grupos Funcionales - Caso N° 17.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Alcanos, Alquenos y Alquinos$.",
           "is_correct": true,
           "feedback": "Correcto. La evaluación fundamentada confirma la solidez del modelo para $Alcanos, Alquenos y Alquinos$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa.",
           "is_correct": false,
           "feedback": "Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. El modelo respeta el límite físico del 100% de eficiencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La evaluación crítica de modelos en Química Orgánica exige verificar el cumplimiento de los límites teóricos de Alcanos, Alquenos y Alquinos.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,19 +778,19 @@
       "context": "Química Orgánica, Hidrocarburos y Grupos Funcionales - Caso N° 18.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Alcoholes y Aldehídos$.",
           "is_correct": true,
           "feedback": "Correcto. La evaluación fundamentada confirma la solidez del modelo para $Alcoholes y Aldehídos$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa.",
           "is_correct": false,
           "feedback": "Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El modelo sólo funciona si se desestiman las unidades del Sistema Internacional.",
           "is_correct": false,
           "feedback": "Incorrecto. Debe operar de forma consistente en el Sistema Internacional."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. El modelo respeta el límite físico del 100% de eficiencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La evaluación crítica de modelos en Química Orgánica exige verificar el cumplimiento de los límites teóricos de Alcoholes y Aldehídos.\n\n---",
       "difficulty": "10",
       "images": [],

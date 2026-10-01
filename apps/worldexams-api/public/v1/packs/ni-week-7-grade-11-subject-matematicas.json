@@ -19,25 +19,25 @@
           "feedback": "Incorrecto. Este es el periodo de la función tangente."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$2\\pi$ radianes (360°)",
           "is_correct": true,
           "feedback": "Correcto. Los valores se repiten exactamente cada vuelta completa al círculo unitario."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\pi/2$ radianes (90°)",
           "is_correct": false,
           "feedback": "Incorrecto. La función no completa su ciclo en un cuarto de vuelta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$4\\pi$ radianes (720°)",
           "is_correct": false,
           "feedback": "Incorrecto. Este sería el periodo si la función estuviera estirada horizontalmente al doble."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El periodo es la longitud del intervalo más pequeño en el que la función completa un ciclo y vuelve a empezar. Para $\\sin(x)$ y $\\cos(x)$, este intervalo es de $2\\pi$.",
       "difficulty": "4",
       "images": [],
@@ -58,19 +58,19 @@
       "context": "Un análisis de la amplitud en ondas sonoras en un estudio de grabación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$|A|$",
           "is_correct": true,
           "feedback": "Correcto. La amplitud es el valor absoluto del coeficiente que multiplica a la función, indicando el desplazamiento máximo desde el eje central."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2\\pi/B$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la fórmula para calcular el periodo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$-C/B$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la fórmula para calcular el desfase o desplazamiento de fase."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. B representa la frecuencia angular, relacionada con el periodo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La amplitud representa la \"altura\" de la onda. En términos de rango, es la mitad de la diferencia entre el valor máximo y el mínimo de la función.",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Un examen sobre las características de las funciones circulares.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(-\\infty, \\infty)$",
           "is_correct": false,
           "feedback": "Incorrecto. Las funciones están acotadas, no crecen indefinidamente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$[-1, 1]$",
           "is_correct": true,
           "feedback": "Correcto. Los valores de seno y coseno en el círculo unitario nunca exceden 1 ni son menores que -1."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. El rango incluye los valores extremos -1 y 1."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Tanto el seno como el coseno representan coordenadas en el círculo unitario de radio 1, por lo que sus valores oscilan estrictamente entre -1 y 1.",
       "difficulty": "4",
       "images": [],
@@ -160,19 +160,19 @@
           "feedback": "Incorrecto. Es una función continua y suave para todo el dominio real."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Tangente",
           "is_correct": true,
           "feedback": "Correcto. La tangente no está definida donde el coseno es cero (ej. 90°, 270°), generando asíntotas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Todas las funciones armónicas.",
           "is_correct": false,
           "feedback": "Incorrecto. El seno y el coseno no tienen asíntotas."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La tangente se define como $\\sin(x) / \\cos(x)$. Cuando $\\cos(x) = 0$, la división no está definida, lo que resulta en una asíntota vertical en la gráfica.",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrecto. Un signo negativo dentro del argumento indica un desplazamiento hacia la derecha."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\pi/2$ unidades hacia la derecha.",
           "is_correct": true,
           "feedback": "Correcto. El desplazamiento de fase es positivo (hacia la derecha) cuando se resta una constante al argumento."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\pi/2$ unidades hacia arriba.",
           "is_correct": false,
           "feedback": "Incorrecto. Los desplazamientos verticales ocurren fuera del paréntesis de la función."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. El desplazamiento vertical requiere sumar o restar una constante a toda la función."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "En $f(x-h)$, si $h > 0$, la gráfica se mueve hacia la derecha. Interesantemente, $\\cos(x - \\pi/2)$ es idéntica a la función $\\sin(x)$.",
       "difficulty": "6",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorrecto. Este es el periodo si el coeficiente de x fuera 1."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\pi$",
           "is_correct": true,
           "feedback": "Correcto. El periodo se calcula como $2\\pi / B$. Aquí $2\\pi / 2 = \\pi$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$4\\pi$",
           "is_correct": false,
           "feedback": "Incorrecto. Esto ocurriría si la función fuera $\\sin(0.5x)$."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Error en la aplicación de la fórmula del periodo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Al multiplicar $x$ por un factor $B > 1$, la función se \"comprime\" horizontalmente, lo que reduce el periodo. El ciclo se completa ahora en la mitad del tiempo.",
       "difficulty": "6",
       "images": [],
@@ -283,19 +283,19 @@
       "context": "Un estudio sobre la marea en el Puerto de Corinto, Nicaragua.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "3 metros",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es solo la amplitud."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "5 metros",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el nivel medio o línea de equilibrio."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "8 metros",
           "is_correct": true,
           "feedback": "Correcto. El máximo ocurre cuando el seno es 1. $3(1) + 5 = 8$."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Error al sumar la amplitud y el desplazamiento."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El valor máximo de una función sinusoidal desplazada es la suma del valor de equilibrio (desplazamiento vertical) más la amplitud: $k + A$.",
       "difficulty": "6",
       "images": [],
@@ -385,19 +385,19 @@
           "feedback": "Incorrecto. En $\\pi/2$ el coseno es cero."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$\\pi$",
           "is_correct": true,
           "feedback": "Correcto. En $\\pi$ (180°) el coseno alcanza su valor mínimo de -1."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$3\\pi/2$",
           "is_correct": false,
           "feedback": "Incorrecto. En $3\\pi/2$ el coseno vuelve a ser cero."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El ciclo del coseno comienza en 1, baja a 0 en $\\pi/2$, llega al mínimo de -1 en $\\pi$, sube a 0 en $3\\pi/2$ y termina en 1 en $2\\pi$.",
       "difficulty": "6",
       "images": [],
@@ -424,13 +424,13 @@
           "feedback": "Incorrecto. El rango está desplazado y ampliado."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$[-1, 5]$",
           "is_correct": false,
           "feedback": "Incorrecto. El valor mínimo es 1, no -1."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$[1, 5]$",
           "is_correct": true,
           "feedback": "Correcto. El coseno oscila entre -1 y 1. Al multiplicar por -2 y sumar 3, los valores extremos resultan en 1 y 5."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Faltó considerar el desplazamiento vertical de +3."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Para hallar el rango de $A \\cos(x) + k$, calculamos $k - |A|$ para el valor mínimo y $k + |A|$ para el valor máximo. Aquí $3-2=1$ y $3+2=5$.",
       "difficulty": "6",
       "images": [],
@@ -469,25 +469,25 @@
           "feedback": "Incorrecto. $\\sin(\\pi/4) = \\sqrt{2}/2$."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$\\pi/6$",
           "is_correct": true,
           "feedback": "Correcto. Como $\\sin(30^\\circ) = 1/2$, entonces el arcoseno es $30^\\circ$ o $\\pi/6$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\pi/3$",
           "is_correct": false,
           "feedback": "Incorrecto. $\\sin(\\pi/3) = \\sqrt{3}/2$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\pi/2$",
           "is_correct": false,
           "feedback": "Incorrecto. $\\sin(\\pi/2) = 1$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La función inversa (arcoseno) nos da el ángulo cuyo seno es el valor dado. Por definición de función, se toma el valor en el intervalo principal $[-\\pi/2, \\pi/2]$.",
       "difficulty": "8",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Incorrecto. La secante tiene discontinuidades infinitas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Todos los reales excepto los múltiplos impares de $\\pi/2$.",
           "is_correct": true,
           "feedback": "Correcto. $\\sec(x) = 1/\\cos(x)$. Como el coseno se anula en $\\pi/2, 3\\pi/2$, etc., la secante no existe allí."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Todos los reales excepto los múltiplos de $\\pi$.",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el dominio de la cosecante y la cotangente."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Este es el rango del seno y coseno, no el dominio de la secante."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Al ser la secante el recíproco del coseno, hereda las restricciones de los puntos donde el denominador (coseno) se hace cero.",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Comparación de la rapidez de crecimiento de funciones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$f(x) = \\sin(x)$",
           "is_correct": false,
           "feedback": "Incorrecto. El seno se estabiliza hacia 1."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$f(x) = \\tan(x)$",
           "is_correct": true,
           "feedback": "Correcto. La tangente tiende a infinito positivo en $\\pi/2$."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. La cotangente decrece hacia cero en $\\pi/2$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La tangente tiene una tasa de crecimiento explosiva cerca de sus asíntotas verticales, a diferencia de las funciones armónicas simples que son suaves y limitadas.",
       "difficulty": "8",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "Incorrecto. El coeficiente 3 cambia el periodo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$2\\pi/3$",
           "is_correct": true,
           "feedback": "Correcto. El periodo depende únicamente del coeficiente que multiplica a la x: $2\\pi / |B|$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\pi$",
           "is_correct": false,
           "feedback": "Incorrecto. Esto ocurriría si $B=2$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$6\\pi$",
           "is_correct": false,
           "feedback": "Incorrecto. Esto ocurriría si se dividiera x entre 3."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Ni la amplitud (5) ni el desplazamiento de fase ($-\\pi$) afectan la duración de un ciclo completo de la función. Solo la frecuencia angular (3) lo hace.",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Incorrecto. Esto solo pasaría si la función fuera $\\sin(x)$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La amplitud aumenta linealmente con $x$.",
           "is_correct": true,
           "feedback": "Correcto. El factor $x$ actúa como una envolvente, haciendo que cada pico sea más alto que el anterior."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La amplitud disminuye hacia cero.",
           "is_correct": false,
           "feedback": "Incorrecto. Esto pasaría si el factor fuera $1/x$."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Sigue teniendo cruces por cero en intervalos regulares, aunque su amplitud cambie."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Al multiplicar una función trigonométrica por un monomio, creamos una oscilación cuya envolvente sigue la forma del monomio. En este caso, los picos de la función tocan las rectas $y=x$ y $y=-x$.",
       "difficulty": "10",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. El periodo de esta función es $2\\pi$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$y = 4 \\sin(2x) + 2$",
           "is_correct": true,
           "feedback": "Correcto. Amplitud=4, periodo = $2\\pi/2 = \\pi$, y desplazamiento vertical = +2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$y = 2 \\sin(4x) + \\pi$",
           "is_correct": false,
           "feedback": "Incorrecto. Los valores de los parámetros están mezclados."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. El periodo de esta función sería 2."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Construimos la función paso a paso: $y = A \\sin(Bx) + k$. Con $A=4, B = 2\\pi/T = 2\\pi/\\pi = 2$, y $k=2$.",
       "difficulty": "10",
       "images": [],
@@ -829,25 +829,25 @@
           "feedback": "Incorrecto. La suma de funciones periódicas no lineales suele ser otra función periódica."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Otra función sinusoidal con amplitud $\\sqrt{2}$.",
           "is_correct": true,
           "feedback": "Correcto. Mediante identidades de suma, se puede demostrar que equivale a $\\sqrt{2} \\sin(x + \\pi/4)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una función con el doble de frecuencia.",
           "is_correct": false,
           "feedback": "Incorrecto. La suma de igual frecuencia mantiene la frecuencia original."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Una función constante igual a 1.",
           "is_correct": false,
           "feedback": "Incorrecto. Se está confundiendo con la identidad de los cuadrados ($\\sin^2 + \\cos^2$)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La superposición de dos ondas de la misma frecuencia resulta en una nueva onda de la misma frecuencia, pero con una amplitud y fase combinadas.",
       "difficulty": "10",
       "images": [],
@@ -874,13 +874,13 @@
           "feedback": "Incorrecto. Como el coseno solo devuelve valores entre -1 y 1, su inversa solo puede aceptar esos valores."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$[-1, 1]$",
           "is_correct": true,
           "feedback": "Correcto. El rango de la función original se convierte en el dominio de la inversa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$[0, \\pi]$",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el rango de la función arcocoseno, no su dominio."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. La función también está definida para valores negativos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Las funciones trigonométricas inversas tienen dominios restringidos que corresponden exactamente a los rangos de las funciones trigonométricas directas originales.",
       "difficulty": "10",
       "images": [],

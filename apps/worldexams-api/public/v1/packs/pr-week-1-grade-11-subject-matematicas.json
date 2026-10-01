@@ -13,13 +13,13 @@
       "context": "Un estudiante en San Juan clasifica números en la recta numérica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Enteros negativos",
           "is_correct": true,
           "feedback": "Correcto. $-\\sqrt{49} = -7$, que es un número entero negativo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Irracionales",
           "is_correct": false,
           "feedback": "Incorrecto. $-\\sqrt{49}$ es $-7$, que es racional y entero."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Es un número entero, no una fracción propia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El número $-\\sqrt{49}$ se simplifica directamente como $-7$. Dado que $-7$ no posee parte decimal y se encuentra a la izquierda del cero en la recta numérica, pertenece al conjunto de los enteros negativos ($\\mathbb{Z}^-$).\n\n---",
       "difficulty": "3",
       "images": [],
@@ -64,13 +64,13 @@
           "feedback": "Incorrecto. El cero es la identidad de la suma (aditivo)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$1$",
           "is_correct": true,
           "feedback": "Correcto. Multiplicar cualquier número real por $1$ mantiene el valor original."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$-1$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicar por $-1$ cambia el signo del número."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. El conjunto de los números reales es un cuerpo y tiene neutro multiplicativo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La propiedad de identidad multiplicativa establece que para cualquier número real $a$, se cumple que $a \\cdot 1 = a$. Por lo tanto, el número $1$ es el elemento neutro multiplicativo.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -193,19 +193,19 @@
       "context": "Un termómetro digital en el tope de El Yunque registra variaciones de temperatura extrema.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$2.4^\\circ\\text{C}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se restó incorrectamente sin considerar los signos negativos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$-2.4^\\circ\\text{C}$",
           "is_correct": false,
           "feedback": "Incorrecto. Al descender, la temperatura debe ser más fría."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$-9.2^\\circ\\text{C}$",
           "is_correct": true,
           "feedback": "Correcto. $-3.4 - 5.8 = -9.2$."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Error de cálculo en la suma de los valores absolutos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Dado que la temperatura desciende, realizamos una resta sobre un valor negativo: $-3.4 - 5.8$. Sumamos sus valores absolutos ($3.4 + 5.8 = 9.2$) y mantenemos el signo negativo, dando como resultado $-9.2^\\circ\\text{C}$.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorrecto. Eso sería $|x| + |y|$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Representa la distancia absoluta entre los puntos $x$ e $y$ en la recta numérica.",
           "is_correct": true,
           "feedback": "Correcto. La distancia entre dos puntos siempre es el valor absoluto de su diferencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es siempre igual a $x - y$.",
           "is_correct": false,
           "feedback": "Incorrecto. Si $x < y$, $x - y$ es negativo, pero el valor absoluto es positivo."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. El valor absoluto por definición es siempre mayor o igual a cero."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La expresión $|x - y|$ mide la diferencia absoluta entre las coordenadas $x$ e $y$, que corresponde a la distancia geométrica entre ambos puntos en la recta real. Al ser una distancia, siempre es no negativa.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -334,25 +334,25 @@
           "feedback": "Incorrecto. La suma debe ser mayor que cada componente de forma individual."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$\\frac{21}{20}$ litros",
           "is_correct": true,
           "feedback": "Correcto. $\\frac{3}{5} + 0.45 = 0.60 + 0.45 = 1.05 = \\frac{105}{100} = \\frac{21}{20}$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{39}{20}$ litros",
           "is_correct": false,
           "feedback": "Incorrecto. Error al sumar las fracciones."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\frac{7}{10}$ litros",
           "is_correct": false,
           "feedback": "Incorrecto. Este volumen es menor que la suma de los componentes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Convertimos la fracción a decimal o el decimal a fracción. $0.45 = \\frac{45}{100} = \\frac{9}{20}$. Sumando las fracciones: $\\frac{3}{5} + \\frac{9}{20} = \\frac{12}{20} + \\frac{9}{20} = \\frac{21}{20}$ litros (o $1.05$ litros).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "Un agricultor en Ciales divide una finca para diferentes cultivos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "30 cuerdas",
           "is_correct": false,
           "feedback": "Incorrecto. Esta cantidad corresponde al plátano ($0.25 \\times 120 = 30$)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "40 cuerdas",
           "is_correct": false,
           "feedback": "Incorrecto. Esta cantidad corresponde al café ($\\frac{1}{3} \\times 120 = 40$)."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "50 cuerdas",
           "is_correct": true,
           "feedback": "Correcto. Café: $40$, Plátano: $30$. Suma: $70$. Resto para cítricos: $120 - 70 = 50$ cuerdas."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Este es el total destinado a café y plátano combinados."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Primero calculamos el espacio asignado: Café $= 120 \\times \\frac{1}{3} = 40$ cuerdas. Plátano $= 120 \\times 0.25 = 30$ cuerdas. El total ocupado es $40 + 30 = 70$ cuerdas. Restando del total de la finca: $120 - 70 = 50$ cuerdas destinadas a cítricos.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Un topógrafo en Rincón calcula la diferencia de altura de dos terrenos con respecto al nivel del mar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "11.3 metros",
           "is_correct": false,
           "feedback": "Incorrecto. Esto se obtuvo restando de forma simple sin valor absoluto de la diferencia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "17.7 metros",
           "is_correct": true,
           "feedback": "Correcto. $|14.5 - (-3.2)| = |14.5 + 3.2| = 17.7$ metros."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Error de cálculo en la adición decimal."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La distancia vertical absoluta entre los puntos $A$ y $B$ se halla mediante el valor absoluto de su diferencia: $|y_A - y_B| = |14.5 - (-3.2)| = |14.5 + 3.2| = 17.7$ metros.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "En un examen de admisión universitaria, un estudiante debe simplificar expresiones complejas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\frac{1}{3}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la suma o resta intermedia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{5}{11}$",
           "is_correct": true,
           "feedback": "Correcto. Numerador: $\\frac{8-3}{12} = \\frac{5}{12}$. Denominador: $\\frac{5+6}{12} = \\frac{11}{12}$. División: $\\frac{5}{12} \\cdot \\frac{12}{11} = \\frac{5}{11}$."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Error al realizar la división de fracciones."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Simplificamos el numerador: $\\frac{2}{3} - \\frac{1}{4} = \\frac{8 - 3}{12} = \\frac{5}{12}$. Simplificamos el denominador: $\\frac{5}{12} + \\frac{1}{2} = \\frac{5 + 6}{12} = \\frac{11}{12}$. Al dividir numerador entre denominador: $\\frac{5}{12} \\div \\frac{11}{12} = \\frac{5}{11}$.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -514,25 +514,25 @@
           "feedback": "Incorrecto. Se asumió una rebaja del $30\\%$ directa de forma incorrecta."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$\\$57.60$",
           "is_correct": true,
           "feedback": "Correcto. Primer descuento: $80 \\times 0.80 = 64$. Segundo descuento: $64 \\times 0.90 = 57.60$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\$64.00$",
           "is_correct": false,
           "feedback": "Incorrecto. Este es solo el precio tras el primer descuento de $20\\%$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\$60.00$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de cálculo matemático en el descuento sucesivo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El primer descuento del $20\\%$ deja el precio en el $80\\%$ del original: $80 \\times 0.80 = 64.00$ dólares. El segundo descuento del $10\\%$ se aplica sobre $64.00$, dejando el precio en el $90\\%$: $64 \\times 0.90 = 57.60$ dólares.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -598,19 +598,19 @@
       "context": "Un ingeniero en Mayagüez mide la precisión de sensores de temperatura usando diferencias de escala.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$[25.37, 25.47]$",
           "is_correct": true,
           "feedback": "Correcto. $25.42 - 0.05 = 25.37$ y $25.42 + 0.05 = 25.47$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$[25.30, 25.50]$",
           "is_correct": false,
           "feedback": "Incorrecto. El rango de error es más amplio que el permitido por la desigualdad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$[-25.37, 25.47]$",
           "is_correct": false,
           "feedback": "Incorrecto. La temperatura real debe ser cercana a $25.42$, no negativa."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Esto excluye los valores menores al centro del intervalo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La desigualdad absoluta $|x - 25.42| \\le 0.05$ se traduce en el intervalo $-0.05 \\le x - 25.42 \\le 0.05$. Sumando $25.42$ en toda la desigualdad: $25.37 \\le x \\le 25.47$, lo que representa el intervalo $[25.37, 25.47]$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "En un curso de cálculo en Río Piedras, se analiza la densidad de los números reales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\frac{5}{8}$",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde al promedio exacto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{17}{30}$",
           "is_correct": true,
           "feedback": "Correcto. Promedio: $\\frac{1}{2}\\left(\\frac{1}{3} + \\frac{4}{5}\\right) = \\frac{1}{2}\\left(\\frac{5 + 12}{15}\night) = \\frac{1}{2}\\left(\\frac{17}{15}\\right) = \\frac{17}{30}$."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Se calculó la suma de los extremos pero se olvidó dividir por $2$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Para hallar el punto medio (promedio) de dos números, los sumamos y dividimos entre $2$. Suma: $\\frac{1}{3} + \\frac{4}{5} = \\frac{5 + 12}{15} = \\frac{17}{15}$. Dividiendo por $2$: $\\frac{17}{15} \\div 2 = \\frac{17}{30}$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Incorrecto. Este intervalo corresponde a la desigualdad menor o igual que ($|2h-5| \\le 3$)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$(-\\infty, 1] \\cup [4, \\infty)$",
           "is_correct": true,
           "feedback": "Correcto. $2h - 5 \\ge 3 \\Rightarrow 2h \\ge 8 \\Rightarrow h \\ge 4$. O bien $2h - 5 \\le -3 \\Rightarrow 2h \\le 2 \\Rightarrow h \\le 1$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$[4, \\infty)$",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió la parte negativa del valor absoluto."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Se omitió la parte positiva de la desigualdad."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La desigualdad absoluta de tipo mayor o igual se divide en dos casos: Caso 1: $2h - 5 \\ge 3 \\Rightarrow 2h \\ge 8 \\Rightarrow h \\ge 4$, que es $[4, \\infty)$. Caso 2: $2h - 5 \\le -3 \\Rightarrow 2h \\le 2 \\Rightarrow h \\le 1$, que es $(-\\infty, 1]$. La unión es $(-\\infty, 1] \\cup [4, \\infty)$.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -790,19 +790,19 @@
           "feedback": "Incorrecto. Para $0$, $\\sqrt{0^2} = 0$, que es correcto."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$x = -3$",
           "is_correct": true,
           "feedback": "Correcto. Si $x = -3$, $\\sqrt{(-3)^2} = \\sqrt{9} = 3$. Como $3 \\ne -3$, la afirmación falla."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = \\frac{1}{2}$",
           "is_correct": false,
           "feedback": "Incorrecto. Es un valor positivo, por lo que cumple la obtención de la igualdad."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La definición formal de $\\sqrt{x^2}$ en los números reales es el valor absoluto de $x$, es decir, $|x|$. Si elegimos un número negativo, como $x = -3$, tenemos $\\sqrt{(-3)^2} = \\sqrt{9} = 3$, que no es igual a $-3$. Esto sirve de contraejemplo.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Un profesor de matemáticas discute la densidad y cardinalidad en el plano cartesiano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Entre dos números reales siempre hay un número finito de números racionales.",
           "is_correct": false,
           "feedback": "Incorrecto. Hay infinitos números racionales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Entre cualquier pareja de números reales distintos existen infinitos números racionales e infinitos irracionales.",
           "is_correct": true,
           "feedback": "Correcto. El conjunto de los racionales y el de los irracionales son ambos densos en la recta real."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Produce siempre un número irracional."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La recta real posee la propiedad de densidad, lo que significa que entre cualesquiera dos números reales distintos, sin importar la cercanía entre ellos, existen infinitos números racionales e infinitos números irracionales.",
       "difficulty": "10",
       "images": [],

@@ -13,19 +13,19 @@
       "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho analiza un problema sobre biología celular - la célula y su estructura.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El núcleo celular",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a organelo delimitado por doble membrana que alberga el ADN."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Nucleolo",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Citoesqueleto",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La respuesta correcta es El núcleo celular. Científicamente, esto se explica por el compartimento donde se produce la transcripción de ARN en eucariotas. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "En Cochabamba, el estudiante Roxana del Unidad Educativa Don Bosco analiza un problema sobre biología celular - la célula y su estructura.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Las mitocondrias",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a centrales energéticas celulares encargadas de la respiración celular y síntesis de ATP."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Lisosomas",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La respuesta correcta es Las mitocondrias. Científicamente, esto se explica por la fosforilación oxidativa a través de la cadena de transporte de electrones. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,31 +103,31 @@
       "context": "En Santa Cruz, el estudiante Jhonny del Colegio Bolívar analiza un problema sobre biología celular - la célula y su estructura.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Los cloroplastos",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a organelos fotosintéticos que convierten luz solar en energía química."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Amiloplastos",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cromoplastos",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Leucoplastos",
           "is_correct": false,
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La respuesta correcta es Los cloroplastos. Científicamente, esto se explica por la conversión de energía lumínica en glucosa mediante la fotosíntesis. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "En El Alto, el estudiante Marisol del Colegio San Simón analiza un problema sobre biología celular - la célula y su estructura.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Transporte activo",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a movimiento de sustancias en contra de su gradiente con gasto de ATP."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Difusión simple",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Difusión facilitada",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La respuesta correcta es Transporte activo. Científicamente, esto se explica por el paso de solutos contra gradiente electroquímico con consumo de energía. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,31 +193,31 @@
       "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín analiza un problema sobre biología celular - la célula y su estructura.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Crenación",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a encogimiento de glóbulos rojos al ser colocados en una solución hipertónica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Hemólisis",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Turgencia",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Plasmólisis",
           "is_correct": false,
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La respuesta correcta es Crenación. Científicamente, esto se explica por la deshidratación celular por salida pasiva de agua por ósmosis. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,31 +238,31 @@
       "context": "En Potosí, el estudiante Ronald del Unidad Educativa Juan Pablo II analiza un problema sobre biología celular - la célula y su estructura.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Rer (retículo endoplasmático rugoso)",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a organelo encargado de sintetizar y plegar proteínas destinadas a secreción."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Rel (liso)",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Aparato de golgi",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ribosomas libres",
           "is_correct": false,
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La respuesta correcta es Rer (retículo endoplasmático rugoso). Científicamente, esto se explica por el procesamiento y traducción de proteínas que ingresan a la vía secretora. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,19 +283,19 @@
       "context": "En Oruro, el estudiante Limbert del Colegio San Calixto analiza un problema sobre biología celular - la célula y su estructura.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Fosfolípidos",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a moléculas anfipáticas con cabeza hidrofílica y colas hidrofóbicas que forman la bicapa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Colesterol",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Glicoproteínas",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La respuesta correcta es Fosfolípidos. Científicamente, esto se explica por la organización termodinámica espontánea en medio acuoso celular. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "En Tarija, el estudiante Shirley del Colegio Nacional Pichincha analiza un problema sobre biología celular - la célula y su estructura.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Aparato de golgi",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a organelo que procesa, glicosila y empaqueta proteínas en vesículas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Retículo endoplasmático",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La respuesta correcta es Aparato de golgi. Científicamente, esto se explica por la clasificación de macromoléculas sintetizadas en el RER. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "En Trinidad, el estudiante Boris del Colegio Antonio Vaca Díez analiza un problema sobre biología celular - la célula y su estructura.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Ribosomas 70s y 80s",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a los procariotas poseen subunidades de sedimentación 70S y los eucariotas 80S."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ribosomas 50s y 30s",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La respuesta correcta es Ribosomas 70s y 80s. Científicamente, esto se explica por la diferencia estructural en la maquinaria de traducción de proteínas. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "En Cobija, el estudiante Franz del Colegio Nacional Florida analiza un problema sobre biología celular - la célula y su estructura.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Aumento microscópico de 400x",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a un ocular de 10x y objetivo de 40x combinados dan un aumento total de 400x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Aumento de 100x",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La respuesta correcta es Aumento microscópico de 400x. Científicamente, esto se explica por la multiplicación matemática de los aumentos individuales de los lentes. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "En Uyuni, el estudiante Edwin del Unidad Educativa Don Bosco analiza un problema sobre biología celular - la célula y su estructura.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Pared celular rígida de celulosa",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a estructura vegetal rígida que ejerce presión de turgencia opuesta a la entrada de agua."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Membrana celular elástica",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La respuesta correcta es Pared celular rígida de celulosa. Científicamente, esto se explica por la resistencia mecánica que evita la lisis osmótica en medios hipotónicos. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "En Viacha, el estudiante Marcelo del Colegio Bolívar analiza un problema sobre biología celular - la célula y su estructura.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Bloqueo de canales de sodio",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a detiene la entrada pasiva del ion Sodio a favor de su gradiente electroquímico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Bloqueo de canales de potasio",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La respuesta correcta es Bloqueo de canales de sodio. Científicamente, esto se explica por la dependencia de canales iónicos transmembrana para la difusión de iones. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,31 +598,31 @@
       "context": "En Quillacollo, el estudiante Freddy del Colegio San Simón analiza un problema sobre biología celular - la célula y su estructura.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Autofagia lisosómica",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a degradación controlada de organelos propios para reciclar nutrientes en el ayuno."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Apoptosis mitocondrial",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Necrosis celular",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Mitofagia activa",
           "is_correct": false,
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La respuesta correcta es Autofagia lisosómica. Científicamente, esto se explica por el mecanismo de supervivencia por degradación enzimática interna. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,19 +643,19 @@
       "context": "En Sacaba, el estudiante René del Colegio Nacional Junín analiza un problema sobre biología celular - la célula y su estructura.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Adn circular y ribosomas 70s mitocondriales",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a evidencias concluyentes de que mitocondrias y cloroplastos provienen de bacterias endosimbióticas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Presencia de membrana simple",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ausencia de material genético",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La respuesta correcta es Adn circular y ribosomas 70s mitocondriales. Científicamente, esto se explica por el origen bacteriano autónomo según la teoría endosimbiótica moderna. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "En Montero, el estudiante Lidia del Unidad Educativa Juan Pablo II analiza un problema sobre biología celular - la célula y su estructura.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Desnaturalización por acidez",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a pérdida de la estructura tridimensional y función de filamentos por pH ácido citoplasmático."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Activación enzimática",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Mutación espontánea",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La respuesta correcta es Desnaturalización por acidez. Científicamente, esto se explica por la ruptura de enlaces no covalentes que estabilizan la conformación nativa proteica. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "En Yacuiba, el estudiante Nancy del Colegio Nacional Florida analiza un problema sobre biología celular - la célula y su estructura.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Ácidos grasos insaturados con dobles enlaces",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a adaptación de membrana en plantas andinas para mantener fluidez bajo frío extremo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ácidos grasos saturados compactos",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Acumulación de triglicéridos sólidos",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La respuesta correcta es Ácidos grasos insaturados con dobles enlaces. Científicamente, esto se explica por los codos moleculares de dobles enlaces que impiden el empaquetamiento compacto de lípidos. Lo cual es fundamental para comprender biología celular - la célula y su estructura.\n\n---",
       "difficulty": "10",
       "images": [],

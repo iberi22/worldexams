@@ -58,13 +58,13 @@
       "context": "En Mayagüez, Mariana analiza un problema de modelación matemática para un proyecto de la Escuela Superior de Mayagüez (SILA).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$188.4\\text{ cm}^3$",
           "is_correct": false,
           "feedback": "Incorrecto. Error al aplicar el radio lineal."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$282.6\\text{ cm}^3$",
           "is_correct": true,
           "feedback": "Correcto. $V = \\pi r^2 h = 3.14 \\times 9 \\times 10 = 282.6$."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. No se elevó el radio al cuadrado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El volumen de un cilindro es $V = \\pi r^2 h$. Con $r = 3$ cm, $h = 10$ cm y $\\pi \\approx 3.14$: $V \\approx 3.14 \\times 3^2 \\times 10 = 3.14 \\times 9 \\times 10 = 282.6\\text{ cm}^3$.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -103,19 +103,19 @@
       "context": "En Cidra, Carmen estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior Luis Muñoz Iglesias.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$113.04\\text{ cm}^3$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando la fórmula del volumen de la esfera."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$169.56\\text{ cm}^3$",
           "is_correct": false,
           "feedback": "Incorrecto. Se usó una constante multiplicativa incorrecta para el volumen."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$56.52\\text{ cm}^3$",
           "is_correct": false,
           "feedback": "Incorrecto. Se dividió por la mitad el volumen real de la esfera."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Se omitió la fracción de cuatro tercios en la fórmula de volumen."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El volumen de una esfera se calcula mediante la fórmula $V = \\frac{4}{3}\\pi r^3$. Con $r = 3$ y $\\pi \\approx 3.14$: $V \\approx \\frac{4}{3} \\times 3.14 \\times 27 = 113.04\\text{ cm}^3$.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrecto. Se dividió por la mitad el volumen real de la esfera."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$392.5\\text{ cm}^3$",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió la fracción de cuatro tercios en la fórmula de volumen."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$523.33\\text{ cm}^3$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando la fórmula del volumen de la esfera."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Se usó una constante multiplicativa incorrecta para el volumen."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El volumen de una esfera se calcula mediante la fórmula $V = \\frac{4}{3}\\pi r^3$. Con $r = 5$ y $\\pi \\approx 3.14$: $V \\approx \\frac{4}{3} \\times 3.14 \\times 125 = 523.33\\text{ cm}^3$.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -244,25 +244,25 @@
           "feedback": "Incorrecto. Se usó una constante multiplicativa incorrecta para el volumen."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$452.16\\text{ cm}^3$",
           "is_correct": false,
           "feedback": "Incorrecto. Se dividió por la mitad el volumen real de la esfera."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$678.24\\text{ cm}^3$",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió la fracción de cuatro tercios en la fórmula de volumen."
         },
         {
-          "letter": "D",
+          "letter": "B",
           "text": "$904.32\\text{ cm}^3$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando la fórmula del volumen de la esfera."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": "El volumen de una esfera se calcula mediante la fórmula $V = \\frac{4}{3}\\pi r^3$. Con $r = 6$ y $\\pi \\approx 3.14$: $V \\approx \\frac{4}{3} \\times 3.14 \\times 216 = 904.32\\text{ cm}^3$.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -289,25 +289,25 @@
           "feedback": "Incorrecto. Se omitió la fracción de cuatro tercios en la fórmula de volumen."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$1436.03\\text{ cm}^3$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando la fórmula del volumen de la esfera."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$2154.04\\text{ cm}^3$",
           "is_correct": false,
           "feedback": "Incorrecto. Se usó una constante multiplicativa incorrecta para el volumen."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$718.01\\text{ cm}^3$",
           "is_correct": false,
           "feedback": "Incorrecto. Se dividió por la mitad el volumen real de la esfera."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El volumen de una esfera se calcula mediante la fórmula $V = \\frac{4}{3}\\pi r^3$. Con $r = 7$ y $\\pi \\approx 3.14$: $V \\approx \\frac{4}{3} \\times 3.14 \\times 343 = 1436.03\\text{ cm}^3$.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -379,13 +379,13 @@
           "feedback": "Incorrecto. Se dividió por la mitad el volumen real de la esfera."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$2289.06\\text{ cm}^3$",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió la fracción de cuatro tercios en la fórmula de volumen."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$3052.08\\text{ cm}^3$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando la fórmula del volumen de la esfera."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Se usó una constante multiplicativa incorrecta para el volumen."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El volumen de una esfera se calcula mediante la fórmula $V = \\frac{4}{3}\\pi r^3$. Con $r = 9$ y $\\pi \\approx 3.14$: $V \\approx \\frac{4}{3} \\times 3.14 \\times 729 = 3052.08\\text{ cm}^3$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -430,19 +430,19 @@
           "feedback": "Incorrecto. Se omitió la fracción de cuatro tercios en la fórmula de volumen."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$4186.67\\text{ cm}^3$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando la fórmula del volumen de la esfera."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$6280.0\\text{ cm}^3$",
           "is_correct": false,
           "feedback": "Incorrecto. Se usó una constante multiplicativa incorrecta para el volumen."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El volumen de una esfera se calcula mediante la fórmula $V = \\frac{4}{3}\\pi r^3$. Con $r = 10$ y $\\pi \\approx 3.14$: $V \\approx \\frac{4}{3} \\times 3.14 \\times 1000 = 4186.67\\text{ cm}^3$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -514,25 +514,25 @@
           "feedback": "Incorrecto. Se usó una constante multiplicativa incorrecta para el volumen."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$3617.28\\text{ cm}^3$",
           "is_correct": false,
           "feedback": "Incorrecto. Se dividió por la mitad el volumen real de la esfera."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$5425.92\\text{ cm}^3$",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió la fracción de cuatro tercios en la fórmula de volumen."
         },
         {
-          "letter": "D",
+          "letter": "B",
           "text": "$7234.56\\text{ cm}^3$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando la fórmula del volumen de la esfera."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": "El volumen de una esfera se calcula mediante la fórmula $V = \\frac{4}{3}\\pi r^3$. Con $r = 12$ y $\\pi \\approx 3.14$: $V \\approx \\frac{4}{3} \\times 3.14 \\times 1728 = 7234.56\\text{ cm}^3$.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -553,31 +553,31 @@
       "context": "Como parte de las olimpiades científicas en Yauco, Yaritza aplica conceptos algebraicos en la Escuela Superior Loaiza Cordero.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$13797.16\\text{ cm}^3$",
           "is_correct": false,
           "feedback": "Incorrecto. Se usó una constante multiplicativa incorrecta para el volumen."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$4599.05\\text{ cm}^3$",
           "is_correct": false,
           "feedback": "Incorrecto. Se dividió por la mitad el volumen real de la esfera."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$6898.58\\text{ cm}^3$",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió la fracción de cuatro tercios en la fórmula de volumen."
         },
         {
-          "letter": "D",
+          "letter": "A",
           "text": "$9198.11\\text{ cm}^3$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando la fórmula del volumen de la esfera."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": "El volumen de una esfera se calcula mediante la fórmula $V = \\frac{4}{3}\\pi r^3$. Con $r = 13$ y $\\pi \\approx 3.14$: $V \\approx \\frac{4}{3} \\times 3.14 \\times 2197 = 9198.11\\text{ cm}^3$.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -598,31 +598,31 @@
       "context": "En Cayey, Keylor analiza un problema de modelación matemática para un proyecto de la Escuela Superior Miguel Meléndez Muñoz.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$11488.21\\text{ cm}^3$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando la fórmula del volumen de la esfera."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$17232.32\\text{ cm}^3$",
           "is_correct": false,
           "feedback": "Incorrecto. Se usó una constante multiplicativa incorrecta para el volumen."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$5744.11\\text{ cm}^3$",
           "is_correct": false,
           "feedback": "Incorrecto. Se dividió por la mitad el volumen real de la esfera."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$8616.16\\text{ cm}^3$",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió la fracción de cuatro tercios en la fórmula de volumen."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El volumen de una esfera se calcula mediante la fórmula $V = \\frac{4}{3}\\pi r^3$. Con $r = 14$ y $\\pi \\approx 3.14$: $V \\approx \\frac{4}{3} \\times 3.14 \\times 2744 = 11488.21\\text{ cm}^3$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "En Cidra, Andrey analiza un problema de modelación matemática para un proyecto de la Escuela Superior Luis Muñoz Iglesias.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$12861.44\\text{ cm}^3$",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió la fracción de cuatro tercios en la fórmula de volumen."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$17148.59\\text{ cm}^3$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando la fórmula del volumen de la esfera."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Se dividió por la mitad el volumen real de la esfera."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El volumen de una esfera se calcula mediante la fórmula $V = \\frac{4}{3}\\pi r^3$. Con $r = 16$ y $\\pi \\approx 3.14$: $V \\approx \\frac{4}{3} \\times 3.14 \\times 4096 = 17148.59\\text{ cm}^3$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,19 +733,19 @@
       "context": "Un grupo de estudiantes de la Escuela Superior Juan Suárez Pelegrina en Aguadilla realiza una investigación guiada por Ana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$10284.55\\text{ cm}^3$",
           "is_correct": false,
           "feedback": "Incorrecto. Se dividió por la mitad el volumen real de la esfera."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$15426.82\\text{ cm}^3$",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió la fracción de cuatro tercios en la fórmula de volumen."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$20569.09\\text{ cm}^3$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando la fórmula del volumen de la esfera."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Se usó una constante multiplicativa incorrecta para el volumen."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El volumen de una esfera se calcula mediante la fórmula $V = \\frac{4}{3}\\pi r^3$. Con $r = 17$ y $\\pi \\approx 3.14$: $V \\approx \\frac{4}{3} \\times 3.14 \\times 4913 = 20569.09\\text{ cm}^3$.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -790,19 +790,19 @@
           "feedback": "Incorrecto. Se omitió la fracción de cuatro tercios en la fórmula de volumen."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$24416.64\\text{ cm}^3$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando la fórmula del volumen de la esfera."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$36624.96\\text{ cm}^3$",
           "is_correct": false,
           "feedback": "Incorrecto. Se usó una constante multiplicativa incorrecta para el volumen."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El volumen de una esfera se calcula mediante la fórmula $V = \\frac{4}{3}\\pi r^3$. Con $r = 18$ y $\\pi \\approx 3.14$: $V \\approx \\frac{4}{3} \\times 3.14 \\times 5832 = 24416.64\\text{ cm}^3$.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -880,19 +880,19 @@
           "feedback": "Incorrecto. Se omitió la fracción de cuatro tercios en la fórmula de volumen."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$33493.33\\text{ cm}^3$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando la fórmula del volumen de la esfera."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$50240.0\\text{ cm}^3$",
           "is_correct": false,
           "feedback": "Incorrecto. Se usó una constante multiplicativa incorrecta para el volumen."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El volumen de una esfera se calcula mediante la fórmula $V = \\frac{4}{3}\\pi r^3$. Con $r = 20$ y $\\pi \\approx 3.14$: $V \\approx \\frac{4}{3} \\times 3.14 \\times 8000 = 33493.33\\text{ cm}^3$.\n\n---",
       "difficulty": "10",
       "images": [],

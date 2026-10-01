@@ -19,25 +19,25 @@
           "feedback": "Incorrecto. El barbarismo consiste en escribir o pronunciar mal las palabras o usar extranjerismos innecesarios."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Pleonasmo o redundancia.",
           "is_correct": true,
           "feedback": "¡Correcto! El pleonasmo consiste en añadir términos que no son necesarios para que la frase tenga sentido, pues la idea ya está expresada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Anfibología.",
           "is_correct": false,
           "feedback": "Incorrecto. La anfibología es la falta de claridad que permite más de una interpretación (ambigüedad)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Arcaísmo.",
           "is_correct": false,
           "feedback": "Incorrecto. El arcaísmo es el uso de palabras antiguas que ya han caído en desuso."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La redundancia ocurre cuando se repite una idea innecesariamente. En \"subir arriba\", el verbo subir ya implica un movimiento hacia un nivel superior.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "El uso excesivo o inadecuado de ciertas palabras puede empobrecer el discurso.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Muletillas o vicios de dicción.",
           "is_correct": true,
           "feedback": "¡Correcto! Son palabras o sonidos que se repiten por hábito o para llenar pausas mientras se piensa qué decir."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Neologismos.",
           "is_correct": false,
           "feedback": "Incorrecto. Los neologismos son palabras nuevas o de reciente creación en una lengua."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solecismos.",
           "is_correct": false,
           "feedback": "Incorrecto. El solecismo es un error en la estructura sintáctica de la oración."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Metátesis.",
           "is_correct": false,
           "feedback": "Incorrecto. La metátesis es el cambio de lugar de algún sonido dentro de una palabra (ej. \"Grabiel\" por \"Gabriel\")."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Las muletillas son apoyos verbales que demuestran inseguridad o falta de vocabulario, restándole fluidez y elegancia a la comunicación oral.",
       "difficulty": "4",
       "images": [],
@@ -111,13 +111,13 @@
           "feedback": "Incorrecto. Esta oración es gramaticalmente correcta."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Compré una revista y un libro muy interesantes.",
           "is_correct": false,
           "feedback": "Incorrecto. La concordancia es correcta: plural masculino para referirse a ambos objetos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Hubieron muchas personas en el concierto del Parque de la Leyenda Vallenata.",
           "is_correct": true,
           "feedback": "¡Correcto! El verbo \"haber\" cuando indica existencia es impersonal y debe ir en singular: \"Hubo muchas personas\"."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. La estructura y concordancia son adecuadas."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El solecismo ocurre cuando se violan las normas de la sintaxis o la concordancia. El uso de \"hubieron\" en lugar de \"hubo\" para expresar existencia es uno de los solecismos más comunes en el habla hispana.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "El barbarismo incluye tanto errores ortográficos como el uso innecesario de términos extranjeros.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La atmósfera estaba cargada de humedad.",
           "is_correct": false,
           "feedback": "Incorrecto. La palabra \"atmósfera\" está correctamente escrita y empleada."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ojalá que el profesor nos **haiga** dejado poca tarea para el fin de semana.",
           "is_correct": true,
           "feedback": "¡Correcto! \"Haiga\" es una forma incorrecta del verbo haber; la forma correcta es \"haya\"."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. La redacción es clara y correcta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Los barbarismos ortográficos o fonéticos ocurren cuando se deforman las palabras. \"Haiga\" es un ejemplo clásico de vulgarismo que se clasifica como barbarismo.",
       "difficulty": "6",
       "images": [],
@@ -203,25 +203,25 @@
           "feedback": "Incorrecto. La relación de pertenencia no es el foco de la ambigüedad aquí."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "No queda claro si Juan estaba paseando o si nosotros estábamos paseando cuando lo vimos.",
           "is_correct": true,
           "feedback": "¡Correcto! El gerundio \"paseando\" puede referirse tanto al sujeto de la oración principal como al objeto directo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No se sabe qué raza de perro tiene Juan.",
           "is_correct": false,
           "feedback": "Incorrecto. Este es un detalle de contenido, no un error de estructura gramatical."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No se especifica en qué ciudad ocurrió el encuentro.",
           "is_correct": false,
           "feedback": "Incorrecto. La falta de información geográfica no es un vicio lingüístico de ambigüedad."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La anfibología surge por una mala organización de los elementos de la frase. Para evitarla, se debe reescribir la oración, por ejemplo: \"Mientras paseábamos, vimos a Juan con su perro\".",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "La cacofonía es el encuentro o repetición de sonidos iguales o semejantes que resultan desagradables al oído.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El agua del río Magdalena está bajando de nivel.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay repetición molesta de sonidos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Tómate el té y te sentirás mejor de salud.",
           "is_correct": true,
           "feedback": "¡Correcto! La repetición de la sílaba \"te\" tres veces seguidas genera un efecto sonoro desagradable."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Es una frase armónica."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La cacofonía se evita buscando sinónimos o cambiando el orden de las palabras. En el ejemplo B, se podría decir: \"Bebe el té y mejorarás pronto\".",
       "difficulty": "8",
       "images": [],
@@ -341,13 +341,13 @@
           "feedback": "Incorrecto. Aquí el verbo \"estar seguro\" exige la preposición \"de\"."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Ella me dijo de que vendría a mi fiesta de cumpleaños.",
           "is_correct": true,
           "feedback": "¡Correcto! El verbo \"decir\" no exige la preposición \"de\". Lo correcto es: \"Ella me dijo que vendría\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Pienso que deberíamos estudiar más para el examen de inglés.",
           "is_correct": false,
           "feedback": "Incorrecto. Es correcto; el verbo \"pensar\" no lleva \"de\"."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. El verbo \"alegrarse\" exige la preposición \"de\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para saber si se debe usar \"de que\", se puede sustituir la frase subordinada por \"esto\". Si al preguntar \"¿Qué dijo?\" la respuesta es \"esto\", no lleva \"de\". Si la pregunta es \"¿De qué está seguro?\", la respuesta es \"de esto\", por lo que sí lleva \"de\".",
       "difficulty": "8",
       "images": [],
@@ -387,25 +387,25 @@
           "feedback": "Incorrecto. Los errores señalados no corresponden a estas definiciones."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Solecismo de concordancia, dequeísmo y pleonasmo.",
           "is_correct": true,
           "feedback": "¡Correcto! \"Hubieron\" (solecismo), \"decidió de que\" (dequeísmo) y \"subieran arriba\" (pleonasmo)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cacofonía, arcaísmo y muletillas.",
           "is_correct": false,
           "feedback": "Incorrecto. No se observan repeticiones sonoras molestas ni palabras antiguas o muletillas de relleno."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Barbarismo, solecismo y anfibología.",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque hay solecismo, los otros dos no encajan con los ejemplos del texto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Un texto puede acumular diversos vicios que afectan su claridad. Identificarlos es el primer paso para realizar una corrección de estilo efectiva.",
       "difficulty": "10",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "Los arcaísmos y neologismos pueden considerarse vicios si se usan de forma inadecuada para el contexto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El uso de neologismos técnicos que el abuelo no comprende.",
           "is_correct": false,
           "feedback": "Incorrecto. Las palabras señaladas no son términos tecnológicos nuevos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El uso de barbarismos y arcaísmos que reflejan un habla rural o antigua.",
           "is_correct": true,
           "feedback": "¡Correcto! \"Mesmo\" es un arcaísmo (por mismo) y \"asimpla\" es un barbarismo/vulgarismo popular (por atonta o confunde)."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. \"Vos te vayas\" es una estructura válida en regiones voseantes de Colombia (aunque la norma culta prefiere vayas)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Los arcaísmos son palabras del pasado que sobreviven en ciertas comunidades. Usarlos en contextos formales actuales puede considerarse un vicio o una falta de adecuación al registro.",
       "difficulty": "10",
       "images": [],

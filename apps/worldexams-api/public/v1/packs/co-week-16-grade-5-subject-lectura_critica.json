@@ -13,13 +13,13 @@
       "context": "Lea el siguiente texto de un estudiante de Santa Marta: \"Considero que en mi colegio deberían instalarse más bebederos de agua potable. En primer lugar, los estudiantes pasan muchas horas en clase y necesitan hidratarse. Además, varios compañeros compran gaseosas todos los días, lo cual no es saludable\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "En el colegio deberían instalarse más bebederos de agua potable.",
           "is_correct": true,
           "feedback": "Esta es la idea que el autor defiende y que luego sustenta con razones."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los estudiantes prefieren las gaseosas al agua.",
           "is_correct": false,
           "feedback": "Es un dato mencionado como apoyo, pero no es la opinión principal defendida."
@@ -37,7 +37,7 @@
           "feedback": "El texto no habla del clima como idea central del argumento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Identificación de la tesis como la idea principal que un autor defiende en un texto argumentativo.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "En el texto del bebedero, el estudiante escribe dos oraciones que empiezan con \"En primer lugar\" y \"Además\" para respaldar su opinión.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Presentan los argumentos o razones que sustentan la opinión del autor.",
           "is_correct": true,
           "feedback": "Los conectores \"En primer lugar\" y \"Además\" introducen razones que respaldan la tesis."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Repiten la opinión principal con las mismas palabras.",
           "is_correct": false,
           "feedback": "No repiten la tesis; añaden razones nuevas que la justifican."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cuentan una historia con personajes y acciones imaginarias.",
           "is_correct": false,
           "feedback": "El texto argumentativo expone razones, no narra una historia de ficción."
@@ -83,7 +83,7 @@
           "feedback": "No hay descripción física; se ofrecen motivos para apoyar una idea."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Comprensión de la función de los argumentos como razones que sostienen una tesis.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "Un estudiante de Villavicencio escribe: \"En mi opinión, las tiendas escolares deberían vender más frutas. Por ejemplo, en el descanso la mayoría de los niños compra papas fritas, pero una fruta cuesta menos dinero y alimenta mejor\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "\"Por ejemplo\".",
           "is_correct": true,
           "feedback": "La expresión \"Por ejemplo\" introduce un caso concreto que refuerza la opinión del autor."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "\"En mi opinión\".",
           "is_correct": false,
           "feedback": "Esa expresión introduce la tesis, no el ejemplo que la sustenta."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "\"la mayoría de los niños\".",
           "is_correct": false,
           "feedback": "Es parte del ejemplo, pero no la expresión que lo introduce."
@@ -129,7 +129,7 @@
           "feedback": "Es un argumento dentro del ejemplo, no el conector que lo anuncia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Reconocimiento de conectores y expresiones que organizan y ejemplifican los argumentos.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En un debate del salón en Armenia, dos estudiantes discuten sobre el uso del celular en el recreo. Uno afirma: \"Creo que se debería permitir el celular en el recreo porque ayuda a comunicarse con la familia en caso de emergencia\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Convencer a sus compañeros de aceptar su punto de vista ofreciendo una razón.",
           "is_correct": true,
           "feedback": "En un debate se busca persuadir a otros presentando argumentos que apoyen la propia opinión."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ordenar a todos que guarden el celular en sus maletas.",
           "is_correct": false,
           "feedback": "El estudiante propone permitir el uso, no prohibirlo ni dar órdenes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Narrar un cuento sobre una emergencia familiar.",
           "is_correct": false,
           "feedback": "No cuenta una historia; expone una postura con su justificación."
@@ -175,7 +175,7 @@
           "feedback": "No hay descripción técnica; hay una opinión con un argumento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Reconocimiento de la intención persuasiva propia del discurso argumentativo en situaciones de debate.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Una estudiante de Manizales redacta la conclusión de su texto así: \"Por todo lo anterior, considero que la biblioteca debe abrir también los sábados, pues muchos estudiantes no tienen espacio para estudiar en casa\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "En la conclusión, porque retoma la opinión y cierra el texto reafirmándola.",
           "is_correct": true,
           "feedback": "El conector \"Por todo lo anterior\" y la recapitulación indican el cierre del texto argumentativo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En la introducción, porque es la primera frase del texto.",
           "is_correct": false,
           "feedback": "La introducción presenta el tema y la tesis al comienzo; aquí se está cerrando."
@@ -221,7 +221,7 @@
           "feedback": "No hay intercambio de voces; hay una sola autora cerrando su argumentación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Ubicación de fragmentos en la estructura básica del texto argumentativo: introducción, argumentos y conclusión.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "Un estudiante afirma: \"Todos los videojuegos son malos porque un compañero se distrajo con ellos y bajó sus notas\". Con base en esa única experiencia, concluye que nadie debería jugar videojuegos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Generaliza a partir de un solo caso y atribuye a todos los videojuegos un efecto que no se ha demostrado.",
           "is_correct": true,
           "feedback": "Sacar una conclusión universal de un caso aislado es una generalización apresurada y poco rigurosa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Escribe con muchas faltas de ortografía en su texto.",
           "is_correct": false,
           "feedback": "La debilidad señalada se refiere al razonamiento, no a la ortografía."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Usa un lenguaje demasiado técnico y complicado.",
           "is_correct": false,
           "feedback": "El estudiante usa un lenguaje sencillo; el problema está en la generalización sin evidencias."
@@ -313,7 +313,7 @@
           "feedback": "Omitir el nombre no es el problema; lo grave es concluir algo general de un único caso."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Análisis de errores de razonamiento como la generalización apresurada en textos argumentativos.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Un estudiante sostiene: \"Los zoológicos deberían desaparecer porque los animales no deberían vivir encerrados\". Otro responde: \"Algunos zoológicos protegen especies en peligro y las reproducen para evitar su extinción, aunque deben garantizar el bienestar de los animales\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Ambos aportan razones válidas; conviene sopesar el bienestar animal y la conservación de especies antes de concluir.",
           "is_correct": true,
           "feedback": "Evaluar un tema controversial exige considerar los argumentos de las dos partes y sopesar sus razones."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Tiene razón el primero porque una sola opinión sincera basta para decidir un tema complejo.",
           "is_correct": false,
           "feedback": "Los temas complejos requieren analizar varias razones, no aceptar una sola opinión sin más."
@@ -359,7 +359,7 @@
           "feedback": "Todos los temas que afectan la convivencia y el ambiente merecen una reflexión ciudadana seria."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluación crítica de argumentos contrapuestos y valoración equilibrada de las razones expuestas.",
       "difficulty": "10",
       "images": [],

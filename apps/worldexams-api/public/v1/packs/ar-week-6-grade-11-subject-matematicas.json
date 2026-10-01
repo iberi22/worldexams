@@ -25,19 +25,19 @@
           "feedback": "Incorrecto. El argumento no es la base de la potencia."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$b^c = a$",
           "is_correct": true,
           "feedback": "Correcto. Por definición de logaritmo, la base $b$ elevada al resultado $c$ da como resultado el argumento $a$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$b^a = c$",
           "is_correct": false,
           "feedback": "Incorrecto. Se intercambió el argumento con el resultado."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La definición fundamental del logaritmo establece que el logaritmo en base $b$ de un número $a$ es el exponente $c$ al que se debe elevar la base $b$ para obtener dicho número $a$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -64,25 +64,25 @@
           "feedback": "Incorrecto. El valor $x = 0$ no está permitido ya que no existe potencia que dé cero para una base positiva."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$x > 0$",
           "is_correct": true,
           "feedback": "Correcto. Los logaritmos reales solo están definidos para números reales estrictamente positivos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x \\neq 1$",
           "is_correct": false,
           "feedback": "Incorrecto. El logaritmo de 1 es perfectamente válido y es igual a cero."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x \\in \\mathbb{R}$",
           "is_correct": false,
           "feedback": "Incorrecto. No se pueden calcular logaritmos reales de números negativos ni de cero."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Dado que la base de un logaritmo es siempre positiva, cualquier potencia de ella dará como resultado un número estrictamente positivo. Por lo tanto, el argumento debe ser estrictamente mayor que cero ($x > 0$).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -154,25 +154,25 @@
           "feedback": "Incorrecto. El logaritmo de un producto se transforma en una suma, no en un producto de logaritmos."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$\\log_b(x \\cdot y) = \\log_b(x) + \\log_b(y)$",
           "is_correct": true,
           "feedback": "Correcto. Una propiedad fundamental establece que el logaritmo de un producto es igual a la suma de los logaritmos de los factores individuales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\log_b(x + y) = \\log_b(x) + \\log_b(y)$",
           "is_correct": false,
           "feedback": "Incorrecto. No existe una propiedad de linealidad para el logaritmo de una suma."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\log_b(x \\cdot y) = \\log_b(x) - \\log_b(y)$",
           "is_correct": false,
           "feedback": "Incorrecto. La diferencia se asocia al logaritmo de un cociente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El logaritmo de un producto es igual a la suma de los logaritmos de los factores: $\\log_b(xy) = \\log_b(x) + \\log_b(y)$. Esto deriva de la propiedad de exponentes que establece que para multiplicar potencias de igual base se suman los exponentes.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrecto. Los términos de la fórmula del cambio de base están al revés."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\frac{\\ln(7)}{\\ln(2)}$",
           "is_correct": true,
           "feedback": "Correcto. Por la propiedad de cambio de base, $\\log_b(a) = \\frac{\\log_c(a)}{\\log_b(c)}$. Usando base $e$, queda $\\frac{\\ln(7)}{\\ln(2)}$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\ln(7) - \\ln(2)$",
           "is_correct": false,
           "feedback": "Incorrecto. La propiedad requiere realizar una división, no una resta."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Esto no representa el cambio de base."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La fórmula de cambio de base para logaritmos permite expresar un logaritmo en cualquier otra base conveniente: $\\log_b(a) = \\frac{\\log_c(a)}{\\log_c(b)}$. Usando logaritmos naturales, resulta $\\frac{\\ln(7)}{\\ln(2)}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Franco analiza las curvas de respuesta sensorial auditiva en Buenos Aires.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$k \\cdot \\log_b(x^k)$",
           "is_correct": false,
           "feedback": "Incorrecto. No se debe conservar la potencia en el argumento."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$k \\cdot \\log_b(x)$",
           "is_correct": true,
           "feedback": "Correcto. El exponente del argumento de un logaritmo puede \"bajar\" multiplicando a todo el logaritmo."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Se intercambió erróneamente la base con el exponente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El logaritmo de una potencia es igual al exponente multiplicado por el logaritmo de la base de dicha potencia: $\\log_b(x^k) = k \\cdot \\log_b(x)$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,25 +289,25 @@
           "feedback": "Incorrecto. Si $x=1$, da $3^1 = 3 \\neq 27$."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$x = 2$",
           "is_correct": true,
           "feedback": "Correcto. Escribimos $27$ como potencia de base 3: $3^{2x-1} = 3^3$. Igualando exponentes: $2x - 1 = 3 \\Rightarrow 2x = 4 \\Rightarrow x = 2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 4$",
           "is_correct": false,
           "feedback": "Incorrecto. Si $x=4$, el exponente es 7, y $3^7 = 2187 \\neq 27$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = \\frac{3}{2}$",
           "is_correct": false,
           "feedback": "Incorrecto. No verifica la ecuación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Para resolver ecuaciones exponenciales sencillas, se busca expresar ambos lados de la igualdad con la misma base, de modo que se puedan igualar directamente sus exponentes correspondientes.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,25 +379,25 @@
           "feedback": "Incorrecto. En 5 años capitalizaría $5000 \\cdot e^{0,2}$, que no llega a ser el doble."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "En unos 17,3 años.",
           "is_correct": true,
           "feedback": "Correcto. Duplicar el capital significa que $A(t) = 10000 \\Rightarrow 10000 = 5000 \\cdot e^{0,04t} \\Rightarrow 2 = e^{0,04t} \\Rightarrow \\ln(2) = 0,04t \\Rightarrow t \\approx 0,693 / 0,04 = 17,3$ años."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "En unos 25 años.",
           "is_correct": false,
           "feedback": "Incorrecto. Este tiempo superaría el punto de duplicación buscado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "En unos 10 años.",
           "is_correct": false,
           "feedback": "Incorrecto. El interés devengado es continuo y requiere más años para duplicar en esta tasa."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Igualamos la fórmula del capital a $\\$10000$ (el doble del capital inicial de 5000). Al resolver la ecuación aplicando logaritmo natural a ambos lados, obtenemos $t = \\frac{\\ln(2)}{0,04} \\approx 17,32$ años.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Joaquín resuelve una ecuación logarítmica en un análisis de acústica vial en Bahía Blanca.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x_1 = 4, x_2 = -2$",
           "is_correct": false,
           "feedback": "Incorrecto. El valor $x = -2$ no pertenece al dominio del logaritmo (no existen logaritmos reales de números negativos)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 4$",
           "is_correct": true,
           "feedback": "Correcto. Combinando logaritmos: $\\log_2(x(x-2)) = 3 \\Rightarrow x^2 - 2x = 2^3 \\Rightarrow x^2 - 2x - 8 = 0$. Factorizando: $(x - 4)(x + 2) = 0 \\Rightarrow x=4$ o $x=-2$. Solo $x=4$ pertenece al dominio de definición."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Sí existe una solución real válida."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Al aplicar la propiedad de multiplicación, combinamos los logaritmos en $\\log_2(x(x-2)) = 3$. Por definición, $x^2 - 2x = 8 \\Rightarrow x^2 - 2x - 8 = 0$, cuyas raíces son $4$ y $-2$. Como el argumento del logaritmo debe ser positivo, la única solución real válida es $x = 4$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Incorrecto. En 9 horas habría $100 \\cdot 2^3 = 800$ bacterias."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "12 horas.",
           "is_correct": true,
           "feedback": "Correcto. Planteamos $1600 = 100 \\cdot 2^{t/3} \\Rightarrow 16 = 2^{t/3} \\Rightarrow 2^4 = 2^{t/3} \\Rightarrow 4 = t/3 \\Rightarrow t = 12$ horas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "16 horas.",
           "is_correct": false,
           "feedback": "Incorrecto. Esto superaría la cantidad requerida."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. En 6 horas solo habría 400 bacterias."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Establecemos la igualdad $1600 = 100 \\cdot 2^{t/3}$, de donde resulta $16 = 2^{t/3}$. Dado que $16 = 2^4$, igualamos los exponentes: $4 = \\frac{t}{3} \\Rightarrow t = 12$ horas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -565,19 +565,19 @@
           "feedback": "Incorrecto. Esto solo excluye los puntos donde el argumento se hace exactamente cero, pero no considera los valores negativos."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$(-\\infty, -3) \\cup (3, +\\infty)$",
           "is_correct": true,
           "feedback": "Correcto. Se requiere que el argumento sea estrictamente positivo: $x^2 - 9 > 0 \\Rightarrow x^2 > 9 \\Rightarrow |x| > 3 \\Rightarrow x \\in (-\\infty, -3) \\cup (3, +\\infty)$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(3, +\\infty)$",
           "is_correct": false,
           "feedback": "Incorrecto. Se omite el intervalo correspondiente a los números menores que $-3$, los cuales son válidos ya que al elevarlos al cuadrado dan positivo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El dominio de una función logarítmica exige resolver la inecuación cuadrática que resulta de imponer que su argumento sea estrictamente mayor que cero. Para $x^2 - 9 > 0$, el intervalo solución es $(-\\infty, -3) \\cup (3, +\\infty)$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorrecto. Que sean inversas significa que sus gráficas son simétricas, pero sus ritmos de crecimiento son extremadamente opuestos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$f(x)$ crece a un ritmo exponencial sumamente rápido, mientras que $g(x)$ crece de manera extremadamente lenta.",
           "is_correct": true,
           "feedback": "Correcto. Las funciones exponenciales crecen a un ritmo cada vez mayor, mientras que las logarítmicas presentan un crecimiento amortiguado muy lento a medida que $x \\to \\infty$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$g(x)$ supera ampliamente a $f(x)$ para valores de $x$ mayores a 100.",
           "is_correct": false,
           "feedback": "Incorrecto. El logaritmo nunca supera a una exponencial para valores grandes."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Ambas tienden a infinito, aunque lo hacen a velocidades radicalmente dispares."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El crecimiento exponencial es uno de los más rápidos en matemáticas, mientras que el crecimiento logarítmico es uno de los más lentos. Aunque ambas funciones tienden a infinito cuando $x \\to \\infty$, la velocidad relativa con la que lo hacen es asimétrica.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -655,19 +655,19 @@
           "feedback": "Incorrecto. Se dividió linealmente la variación de decibeles."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Aumentó 1000 veces.",
           "is_correct": true,
           "feedback": "Correcto. La variación es de $30\\text{ dB}$. Como cada aumento de $10\\text{ dB}$ representa multiplicar la intensidad por 10, un aumento de $30\\text{ dB}$ equivale a un factor de $10^3 = 1000$ veces."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Aumentó 10 veces.",
           "is_correct": false,
           "feedback": "Incorrecto. 10 veces correspondería a un incremento de exactamente 10 decibeles."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La escala de decibeles es una escala logarítmica. Un incremento de $30\\text{ dB}$ se traduce algebraicamente en una variación de $10^{30/10} = 10^3 = 1000$ veces la potencia de la onda sonora real.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "Incorrecto. Esta es la temperatura inicial de la infusión ($20 + 60 = 80$)."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$20^\\circ\\text{C}$",
           "is_correct": true,
           "feedback": "Correcto. A medida que $t \\to \\infty$, el término exponencial $e^{-0,05t}$ tiende a cero, haciendo que el término $60 \\cdot e^{-0,05t}$ se anule. Por ende, la temperatura tiende a la asíntota horizontal de $20^\\circ\\text{C}$ (temperatura ambiente)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$0^\\circ\\text{C}$",
           "is_correct": false,
           "feedback": "Incorrecto. El café no se enfriará por debajo de la temperatura ambiente de la sala."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$60^\\circ\\text{C}$",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el diferencial de caída de la temperatura."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Al evaluar el límite de $T(t) = 20 + 60 \\cdot e^{-0,05t}$ cuando el tiempo $t$ tiende a infinito, se comprueba que el exponente negativo hace que la expresión tienda a cero, quedando únicamente el término constante de $20^\\circ\\text{C}$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Incorrecto. Se transpusieron mal los términos constantes en el despeje."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$f^{-1}(x) = \\log_3(x - 2) + 1$",
           "is_correct": true,
           "feedback": "Correcto. Planteamos $y = 3^{x-1} + 2 \\Rightarrow y - 2 = 3^{x-1}$. Aplicando logaritmo en base 3: $\\log_3(y - 2) = x - 1 \\Rightarrow x = \\log_3(y - 2) + 1$. Intercambiando variables obtenemos el resultado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$f^{-1}(x) = \\log_3(x + 2) - 1$",
           "is_correct": false,
           "feedback": "Incorrecto. Los signos de las constantes están invertidos."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. No aplicó el logaritmo para despejar el exponente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para hallar la inversa de $y = 3^{x-1} + 2$, aislamos el término exponencial: $y - 2 = 3^{x-1}$. Aplicando la función logarítmica en base 3 a ambos miembros, se despeja la variable del exponente, resultando en $x = \\log_3(y-2) + 1$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Facundo evalúa una supuesta demostración matemática que concluye un absurdo en Posadas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El procedimiento es completamente correcto y demuestra una paradoja de la matemática.",
           "is_correct": false,
           "feedback": "Incorrecto. Concluir que $0,25 < 0,125$ es un absurdo matemático, por lo que hay un error."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El error ocurre al multiplicar por $\\log(0,5)$, ya que como $0,5 < 1$, su logaritmo es negativo ($\\log(0,5) \\approx -0,301$), por lo que debió invertirse el sentido de la desigualdad.",
           "is_correct": true,
           "feedback": "Correcto. Multiplicar ambos miembros de una desigualdad por un número estrictamente negativo requiere invertir el sentido de la inecuación."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Como la función logaritmo es creciente, mantener el sentido al quitar los logaritmos es un paso válido."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Al multiplicar ambos miembros de la desigualdad por $\\log(0,5)$, estamos multiplicando por un número real negativo. Esto exige, por las leyes de los números reales, invertir la dirección del signo de la desigualdad. Al no hacerlo, se arriba al absurdo final.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Martina evalúa críticamente los límites de un modelo demográfico en Jujuy.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El modelo es poco realista a largo plazo ya que el crecimiento exponencial ilimitado asume recursos infinitos, ignorando factores limitantes reales del ecosistema.",
           "is_correct": true,
           "feedback": "Correcto. Un modelo exponencial puro no es viable a largo plazo porque la población real se ve limitada por la capacidad de carga del ecosistema y los recursos disponibles."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El modelo es completamente realista y se cumple de forma exacta en todas las grandes urbes argentinas.",
           "is_correct": false,
           "feedback": "Incorrecto. Ninguna ciudad real puede crecer indefinidamente de forma exponencial pura."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El modelo es inválido de entrada porque las funciones exponenciales nunca pueden usarse para estimar poblaciones de seres vivos.",
           "is_correct": false,
           "feedback": "Incorrecto. Sí son válidas y útiles para estimar crecimientos iniciales a corto plazo."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Las tasas de crecimiento positivas son válidas para poblaciones en expansión controlada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los modelos de crecimiento exponencial puro ($P(t) = P_0 e^{rt}$) son excelentes aproximaciones para fases iniciales de colonización de un nicho ecológico, pero resultan biológica y físicamente insostenibles a largo plazo debido a que asumen condiciones ideales de espacio y recursos infinitos.",
       "difficulty": "10",
       "images": [],

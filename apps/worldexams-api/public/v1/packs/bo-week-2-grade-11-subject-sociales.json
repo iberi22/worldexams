@@ -13,13 +13,13 @@
       "context": "En Potosí, el estudiante Waldo de la Unidad Educativa Mariscal Sucre analiza el sistema de explotación laboral colonial implementado en el Cerro Rico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Un sistema de trabajo obligatorio y rotativo impuesto a las comunidades indígenas para la extracción masiva de plata en las minas del Cerro Rico.",
           "is_correct": true,
           "feedback": "Correcto. La mita potosina fue reestructurada por el virrey Toledo en 1572 como un servicio forzado obligatorio para asegurar mano de obra indígena en las minas de plata."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un acuerdo voluntario de libre comercio entre estancieros criollos y tejedores de lana del altiplano.",
           "is_correct": false,
           "feedback": "Incorrecto. La mita era un trabajo forzoso obligatorio, no un acuerdo libre ni un comercio voluntario de lana."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. No era un impuesto aduanero mercantil, sino una contribución laboral física forzada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La mita potosina fue la columna vertebral de la economía colonial en la Real Audiencia de Charcas. Consistía en la obligación de que una séptima parte de los hombres varones (mitayos) de las provincias designadas acudieran a trabajar al Cerro Rico de Potosí.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,19 +58,19 @@
       "context": "En La Paz, la estudiante Roxana del Colegio Nacional Ayacucho estudia la división político-administrativa del imperio español en América del Sur.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Actuaba como el máximo tribunal de justicia y órgano de administración política en la región del Alto Perú, con amplia autonomía jurídica.",
           "is_correct": true,
           "feedback": "Correcto. La Real Audiencia de Charcas fue establecida como un alto tribunal de apelación con funciones ejecutivas y judiciales de gran importancia en el Virreinato."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Era una escuela militar exclusiva para entrenar marineros que navegaran el río Desaguadero.",
           "is_correct": false,
           "feedback": "Incorrecto. Charcas no se ubicaba en la costa ni entrenaba marineros para el río Desaguadero."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Funcionaba como un banco central encargado de la emisión de billetes de papel moneda colonial.",
           "is_correct": false,
           "feedback": "Incorrecto. No existían billetes de papel moneda en el periodo colonial; las transacciones se hacían con monedas metálicas acuñadas."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. La Real Audiencia era una institución burocrática y judicial del imperio español, no un templo incaico o tiahuanacota."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La Real Audiencia de Charcas desempeñó un rol fundamental en la estructura colonial. Su inmenso territorio abarcaba gran parte de la actual Bolivia, Paraguay, el norte de Argentina y el sur de Perú, sentando las bases de la delimitación territorial de Bolivia.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,31 +148,31 @@
       "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín estudia el auge económico del Cerro Rico de Potosí en los siglos XVI y XVII.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Permitió purificar la plata de baja ley de forma masiva, multiplicando la producción de Potosí y la rentabilidad de la corona española.",
           "is_correct": true,
           "feedback": "Correcto. El método de amalgamación con azogue (proceso de Medina) introducido en Potosí a partir de 1570 revolucionó la minería al permitir procesar vetas de menor ley de manera muy rentable."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Provocó la quiebra inmediata de todas las minas al prohibir la exportación de metales preciosos.",
           "is_correct": false,
           "feedback": "Incorrecto. Lejos de quebrar las minas, el azogue disparó la producción argentífera y generó un enorme flujo de riqueza mundial."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sustituyó el uso de la piedra por el uso exclusivo de acero inoxidable para construir las galerías subterráneas.",
           "is_correct": false,
           "feedback": "Incorrecto. El acero inoxidable no existía en la época colonial, y las galerías continuaron usando madera y piedra."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Hizo que España cediera la propiedad del Cerro Rico al Imperio británico a cambio de carbón vegetal.",
           "is_correct": false,
           "feedback": "Incorrecto. Potosí se mantuvo bajo estricto control exclusivo de la corona española y nunca se cedió al Imperio británico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La introducción de la amalgamación con mercurio (traído principalmente de las minas de Huancavelica, Perú) transformó a Potosí en el centro minero-industrial más grande del mundo, atrayendo a una inmensa población que superó los 160,000 habitantes en su época de esplendor.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -238,19 +238,19 @@
       "context": "En Potosí, el estudiante Ronald del Colegio Nacional Pichincha estudia el funcionamiento de la Casa de la Moneda de Potosí.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Acuñaba las monedas de plata (reales de a ocho) que circulaban mundialmente y servían de patrón para el comercio transoceánico.",
           "is_correct": true,
           "feedback": "Correcto. La Casa de la Moneda de Potosí, establecida para controlar la ley de los metales y cobrar el 'quinto real', acuñó monedas de plata de valor universal aceptadas en Europa y Asia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Acuñaba monedas de oro importado exclusivamente de los yacimientos del Ártico canadiense.",
           "is_correct": false,
           "feedback": "Incorrecto. El metal acuñado en Potosí era la plata local del Cerro Rico, no oro importado de Canadá."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Imprimía bonos de deuda pública en idiomas nativos como el quechua, aymara y guaraní.",
           "is_correct": false,
           "feedback": "Incorrecto. Las transacciones monetarias eran puramente metálicas; no se imprimía papel moneda colonial en idiomas nativos."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. La Guerra del Chaco ocurrió en el siglo XX, siglos después de la época colonial, y la Casa de la Moneda tenía un fin puramente financiero."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La Casa de la Moneda de Potosí es uno de los edificios coloniales civiles más monumentales de América. Sus prensas de madera movidas por tracción animal acuñaron la plata que financió las guerras de la corona española y aceitó el comercio mundial.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "En El Alto, el estudiante Walter de la Unidad Educativa Juan Pablo II investiga las formas de trabajo agrario colonial en Charcas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La encomienda otorgaba a un colonizador el derecho a recibir el tributo y trabajo de un grupo de indígenas a cambio de su evangelización, mientras que el yanaconazgo adscribía a los indígenas a la tierra de la hacienda de forma perpetua.",
           "is_correct": true,
           "feedback": "Correcto. La encomienda era una merced real de tributo de un ayllu, mientras que los yanaconas eran indígenas desarraigados de sus ayllus originales y adscritos de por vida al servicio de las haciendas terratenientes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La encomienda permitía a los indígenas comprar acciones de las minas de plata y el yanaconazgo los obligaba a migrar a España.",
           "is_correct": false,
           "feedback": "Incorrecto. Ningún régimen colonial otorgaba compra de acciones mineras a indígenas ni los obligaba a migrar en masa a España."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Los borbones gobernaron a partir del siglo XVIII (1700) y mantuvieron la estructura de captación tributaria y servidumbre indígena."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Tanto la encomienda como el yanaconazgo institucionalizaron la explotación de la población indígena en beneficio de la élite minera y terrateniente, sirviendo como mecanismos clave para la transferencia de excedentes hacia el imperio español.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "En Santa Cruz, el estudiante Jhonny del Colegio Bolívar analiza el impacto de las Reformas Borbónicas en el comercio del Alto Perú.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Reorientó los flujos comerciales y fiscales del Alto Perú hacia el puerto de Buenos Aires, debilitando el monopolio de Lima.",
           "is_correct": true,
           "feedback": "Correcto. Al integrar Charcas al Virreinato del Río de la Plata, la corona española facilitó la salida de la plata potosina de forma legal directa por el océano Atlántico (vía Buenos Aires) en lugar del largo trayecto por Lima y el Pacífico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Provocó la independencia inmediata de Bolivia bajo el mando del Mariscal Andrés de Santa Cruz.",
           "is_correct": false,
           "feedback": "Incorrecto. La transferencia de virreinato en 1776 no independizó a Bolivia, y Andrés de Santa Cruz gobernó décadas más tarde."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Obligó a todos los habitantes de La Paz a hablar portugués de manera obligatoria bajo penas severas de prisión.",
           "is_correct": false,
           "feedback": "Incorrecto. El idioma oficial se mantuvo como el castellano y no se impuso el portugués, ya que dependía del imperio español."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Las minas se mantuvieron bajo el estricto control y regulación impositiva de la corona de España, no se privatizaron a franceses."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las Reformas Borbónicas buscaron centralizar el control imperial español y aumentar la recaudación fiscal. La creación del Virreinato del Río de la Plata y la inclusión de Charcas alteró las rutas tradicionales de comercio, dinamizando la ruta Potosí-Buenos Aires.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,31 +418,31 @@
       "context": "En Tupiza, la estudiante Shirley del Colegio San Calixto estudia la rebelión de los Vicuñas y Vascongados en el Potosí colonial.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El enfrentamiento entre los criollos andinos (vicuñas) y los peninsulares de origen vasco (vascongados) por el monopolio de las concesiones mineras y cargos públicos.",
           "is_correct": true,
           "feedback": "Correcto. La guerra de los Vicuñas y Vascongados (1622-1625) reflejó las hondas tensiones internas de la oligarquía potosina por el control de la inmensa riqueza del Cerro Rico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La disputa entre pescadores del lago Titicaca y agricultores de yuca de los llanos del Beni.",
           "is_correct": false,
           "feedback": "Incorrecto. No fue una disputa de pescadores y agricultores, sino un conflicto civil armado en la urbe minera de Potosí."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El rechazo de la corona de España a la importación de vicuñas vivas para repoblar los zoológicos de Madrid.",
           "is_correct": false,
           "feedback": "Incorrecto. El término 'Vicuña' era el sobrenombre que adoptaron los milicianos criollos andinos, sin relación con el comercio de animales vivos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El desacuerdo sobre el trazado del tren bioceánico que uniría Potosí con las costas del océano Pacífico.",
           "is_correct": false,
           "feedback": "Incorrecto. El ferrocarril es una tecnología del siglo XIX; no existían trenes en el siglo XVII colonial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Este conflicto demostró que el Alto Perú no era un bloque monolítico. Los vicuñas (compuestos por criollos de Charcas, mestizos y andaluces) desafiaron el predominio económico exclusivo de los vascos, quienes controlaban las minas más ricas y el cabildo potosino.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,31 +463,31 @@
       "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín estudia la creación de la Universidad Mayor, Real y Pontificia de San Francisco Xavier de Chuquisaca.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Fue el centro de debate donde se asimilaron las ideas de la Ilustración y se formuló el Silogismo Altoperuano, que justificaba la rebelión ante la tiranía imperial.",
           "is_correct": true,
           "feedback": "Correcto. La Academia de Practicantes de Charcas y la Universidad de San Francisco Xavier formaron a los intelectuales revolucionarios (como Jaime de Zudáñez y Bernardo de Monteagudo) bajo el razonamiento crítico que impulsó las juntas revolucionarias de 1809."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Enseñaba que el rey de España era un enviado celestial absoluto que no podía cometer errores ni ser desobedecido.",
           "is_correct": false,
           "feedback": "Incorrecto. Justamente los teólogos y juristas de la universidad desarrollaron argumentos teóricos para desafiar el absolutismo monárquico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se dedicaba exclusivamente a traducir la Biblia al aymara para abolir toda forma de enseñanza secular de las leyes.",
           "is_correct": false,
           "feedback": "Incorrecto. Chuquisaca era célebre por sus estudios jurídicos y de leyes (derecho civil y canónico), no por clausurar el debate legal secular."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Prohibía la lectura de libros impresos en España para obligar a leer únicamente manuscritos procedentes de China.",
           "is_correct": false,
           "feedback": "Incorrecto. Los libros de filosofía política europea ilustrada (Rousseau, Montesquieu) circulaban clandestinamente entre sus alumnos, no literatura de China."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "San Francisco Xavier de Chuquisaca (Sucre), fundada en 1624, fue la cuna de los doctores revolucionarios. En sus aulas se discutieron las tesis de soberanía popular de Francisco Suárez que dieron origen al famoso Silogismo Altoperuano: si el rey legítimo está preso (por Napoleón), la soberanía vuelve al pueblo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,31 +508,31 @@
       "context": "En Cobija, el estudiante Franz de la Unidad Educativa Mariscal Sucre investiga la decadencia minera del Alto Perú a fines de la colonia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El agotamiento de las vetas más ricas de plata superficiales, la falta de inversión tecnológica y la escasez crítica de azogue.",
           "is_correct": true,
           "feedback": "Correcto. Con el paso de los siglos, la explotación minera del Cerro Rico se hizo más difícil y costosa, afectada además por inundaciones de las minas y la interrupción en el suministro de azogue."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La prohibición total de extraer plata decretada por la corona de España para proteger los bosques nativos.",
           "is_correct": false,
           "feedback": "Incorrecto. España dependía vitalmente de los metales preciosos americanos y siempre buscó incentivar, no prohibir, la minería de plata."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La invasión de piratas británicos que robaron y hundieron el Cerro Rico en el océano Pacífico de forma física.",
           "is_correct": false,
           "feedback": "Incorrecto. El Cerro Rico es una montaña andina continental elevada en el altiplano; físicamente no se puede hundir en el océano."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La invención de la moneda digital que devaluó de manera instantánea el valor internacional de los metales finos.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un anacronismo total; la devaluación digital de metales finos no existía en el siglo XVIII colonial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "A pesar de las Reformas Borbónicas que intentaron reactivar la minería (mediante rebajas impositivas y mejoras en el suministro de mercurio), la rentabilidad del Cerro Rico declinó sustancialmente. La crisis económica arrastró al resto de la estructura productiva agraria y comercial altoperuana.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,19 +643,19 @@
       "context": "En Santa Cruz, el estudiante Jhonny del Colegio Bolívar analiza los conflictos agrarios coloniales en el Alto Perú.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Los estancieros consideraban el diezmo eclesiástico como una carga fiscal excesiva que mermaba su capital agrícola, mientras que la Iglesia exigía su cobro estricto para financiar sus parroquias y misiones.",
           "is_correct": true,
           "feedback": "Correcto. El diezmo (impuesto del 10% sobre la producción agropecuaria para el sustento de la Iglesia) generaba agudos pleitos judiciales entre hacendados terratenientes y obispados de la Real Audiencia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La disputa sobre si los caballos andinos debían pagar impuestos en pepitas de oro puro importado.",
           "is_correct": false,
           "feedback": "Incorrecto. Los caballos no pagaban impuestos en pepitas de oro; las tensiones eran tributarias reales sobre la producción de granos, coca y ganado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La total abolición del catolicismo que propugnaban los estancieros criollos para imponer el luteranismo alemán.",
           "is_correct": false,
           "feedback": "Incorrecto. Los estancieros criollos eran católicos devotos pero cuestionaban los abusos tributarios de la estructura eclesiástica, no buscaban el luteranismo."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. No existía la maquinaria agrícola a vapor en la era colonial; la agricultura dependía puramente de tracción animal y humana."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La tensión entre la burocracia eclesiástica y los productores locales fue una constante en Charcas. A pesar de compartir la fe y la cultura colonial, los hacendados criollos litigaban frecuentemente contra el clero en los estrados de la Real Audiencia por exenciones del diezmo y primicias.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,31 +733,31 @@
       "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho debate sobre el legado económico de la mita en Bolivia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Constituyó un subsidio laboral forzoso de la población indígena que enriqueció al imperio español a costa de la desestructuración social y el quebranto demográfico del altiplano.",
           "is_correct": true,
           "feedback": "Correcto. Los análisis historiográficos coinciden en que la mita funcionó como un mecanismo despiadado de transferencia de valor humano y económico andino a Europa, dejando secuelas demográficas duraderas en Charcas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Fue un programa de empleo voluntario que permitió a los indígenas andinos enriquecerse rápidamente y jubilarse en España.",
           "is_correct": false,
           "feedback": "Incorrecto. Los mitayos sufrían explotación extrema, salarios miserables e insolvencia; la enorme mayoría moría o quedaba lisiada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Representó un modelo de desarrollo ecológico sostenible que impidió la contaminación del río Desaguadero.",
           "is_correct": false,
           "feedback": "Incorrecto. La minería colonial no tenía políticas de sostenibilidad ecológica y contaminó de manera grave los valles fluviales de Potosí con mercurio."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Careció de importancia económica real debido a que las minas de Potosí nunca produjeron suficiente plata para exportación.",
           "is_correct": false,
           "feedback": "Incorrecto. Potosí produjo la mayor porción de la plata que circuló globalmente en los siglos XVI y XVII, siendo de enorme trascendencia financiera mundial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La evaluación de la mita potosina desde la perspectiva de la historia crítica revela el carácter extractivo de las instituciones coloniales españolas. Su herencia de sometimiento configuró una desigualdad social de largo plazo que Bolivia arrastró por siglos.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,19 +778,19 @@
       "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín evalúa el papel del derecho colonial en Charcas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Existía una honda contradicción entre el marco jurídico protector de las Leyes de Indias en teoría y su inaplicación sistemática en la realidad debido a los intereses económicos de los azogueros potosinos.",
           "is_correct": true,
           "feedback": "Correcto. Aunque la corona promulgó normas para moderar el maltrato a indígenas (como la prohibición de cargas excesivas), en Charcas regía el principio de 'obedezco pero no cumplo', priorizando la extracción de plata sobre la vida indígena."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las Leyes de Indias promovían activamente el exterminio sistemático de toda la población indígena de Charcas de forma intencional escrita.",
           "is_correct": false,
           "feedback": "Incorrecto. La corona deseaba conservar a la población indígena como tributaria y mano de obra productiva católica, por lo que su legislación formal era protectora, no de exterminio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La Real Audiencia encarcelaba inmediatamente a cualquier español que cobrara el impuesto de la mita.",
           "is_correct": false,
           "feedback": "Incorrecto. La Audiencia validaba y regulaba el sistema de la mita potosina, sancionando judicialmente a los indígenas que huían del servicio."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. La legislación provenía del Consejo de Indias en España, bajo la autoridad absoluta del rey de España, sin participación democrática nativa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La contradicción jurídica colonial se sintetiza en la famosa frase de época: 'la ley se acata pero no se cumple'. Las autoridades coloniales de la Audiencia de Charcas debían balancear las leyes de protección de los monarcas con la ineludible presión económica de los dueños de minas de Potosí (azogueros).\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,31 +823,31 @@
       "context": "En Oruro, la estudiante Nancy del Colegio Nacional Florida evalúa el surgimiento de identidades en Charcas a fines de la colonia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La Real Audiencia de Charcas forjó una identidad regional diferenciada y un sentimiento de pertenencia en las élites criollas y mestizas, sustentado en la autonomía del territorio altoperuano.",
           "is_correct": true,
           "feedback": "Correcto. La prolongada existencia de la Audiencia de Charcas como unidad administrativa autónoma por más de dos siglos generó una cohesión regional y administrativa que facilitaría su posterior independencia como Estado soberano."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La identidad de Charcas era idéntica a la de Madrid y no existía ninguna distinción cultural entre criollos andinos y peninsulares.",
           "is_correct": false,
           "feedback": "Incorrecto. Existían agudas distinciones de vestimenta, alimentación, acentos y, sobre todo, una rivalidad de intereses económicos y políticos entre criollos y chapetones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La identidad boliviana surgió de forma espontánea a partir de la firma de tratados de libre comercio con el Imperio del Japón.",
           "is_correct": false,
           "feedback": "Incorrecto. No existían tratados de libre comercio de Charcas con Japón y la identidad nacional se forjó a través de la convivencia histórica y guerras."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Los habitantes de Charcas preferían pertenecer incondicionalmente al Virreinato de Nueva España (México) para compartir su sistema agrario.",
           "is_correct": false,
           "feedback": "Incorrecto. Geográfica e históricamente la identidad se vinculaba con la autonomía local altoperuana frente a las capitales virreinales de Lima y Buenos Aires."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La gestación de Bolivia no fue un accidente fortuito de 1825. Los siglos de administración de la Real Audiencia de Charcas delimitaron un espacio geográfico, económico y cultural propio, donde las élites locales desarrollaron un arraigo altoperuano clave para reclamar la soberanía.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,31 +868,31 @@
       "context": "En Trinidad, el estudiante Boris del Colegio Antonio Vaca Díez valora de forma integral las misiones jesuíticas de tierras bajas bolivianas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Actuaron como un refugio defensivo que preservó aspectos lingüísticos y comunitarios locales mediante el sincretismo, pero bajo una estricta tutela religiosa paternalista europea.",
           "is_correct": true,
           "feedback": "Correcto. Las reducciones jesuíticas aislaron a las etnias de tierras bajas de las destructivas encomiendas y de las expediciones de caza de esclavos de los bandeirantes portugueses, permitiendo la supervivencia lingüística bajo una estructura teocrática protectora."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Fueron campos de exterminio lingüístico donde se obligó a los chiquitanos a hablar exclusivamente latín eclesiástico.",
           "is_correct": false,
           "feedback": "Incorrecto. Los jesuitas estudiaron e instrumentalizaron las lenguas originarias locales (como el chiquitano y el moxeño) para la catequesis, preservándolas de forma escrita."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Lograron la independencia republicana y democrática total de Santa Cruz frente a España en el siglo XVII.",
           "is_correct": false,
           "feedback": "Incorrecto. Las misiones dependían políticamente de la corona española y nunca buscaron fundar una república independiente de corte democrático ilustrado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Carecieron por completo de importancia en las tierras bajas de Bolivia, al no registrarse construcciones estables en el Beni.",
           "is_correct": false,
           "feedback": "Incorrecto. Las iglesias de madera tallada de las misiones jesuitas del Beni y Chiquitos subsisten en pie y son catalogadas como Patrimonio de la Humanidad por la UNESCO."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El experimento misional jesuítico en el oriente boliviano representa un fenómeno único de asimilación y resistencia cultural. Protegió físicamente a las poblaciones selváticas de la barbarie esclavista de los bandeirantes del Brasil, propiciando un sincretismo musical y artístico único en el continente.\n\n---",
       "difficulty": "10",
       "images": [],

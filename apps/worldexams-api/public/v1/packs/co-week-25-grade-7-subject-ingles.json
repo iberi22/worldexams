@@ -65,25 +65,25 @@
           "feedback": "Incorrect. \"Apple\" starts with a vowel sound."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "an",
           "is_correct": true,
           "feedback": "Correct! \"An\" is used before words starting with a vowel sound."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "some",
           "is_correct": false,
           "feedback": "Incorrect. While possible for plural, \"an\" is used for one specific apple."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "the some",
           "is_correct": false,
           "feedback": "Incorrect structure."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student remembers the rule for indefinite articles.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -157,25 +157,25 @@
           "feedback": "Incorrect. Eating sweets is bad for teeth."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "shouldn't",
           "is_correct": true,
           "feedback": "Correct! \"Shouldn't\" provides correct negative advice for this context."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "must",
           "is_correct": false,
           "feedback": "Incorrect. This would be an obligation to do something bad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "can",
           "is_correct": false,
           "feedback": "Incorrect. Not the best modal for advice here."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student understands the pragmatic use of \"shouldn't\" for health advice.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "Shopping for a party.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "some / some",
           "is_correct": true,
           "feedback": "Correct! \"Some\" can be used for uncountable (milk) and plural countable (eggs)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "a / some",
           "is_correct": false,
           "feedback": "Incorrect. Milk is uncountable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "an / an",
           "is_correct": false,
           "feedback": "Incorrect. Neither word works with \"an\"."
@@ -221,7 +221,7 @@
           "feedback": "Incorrect. Eggs is plural."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "The student applies the use of \"some\" to different noun types.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -295,13 +295,13 @@
           "feedback": "Incorrect. Tomatoes are countable."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "many",
           "is_correct": true,
           "feedback": "Correct! \"Many\" is for countable nouns."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "some",
           "is_correct": false,
           "feedback": "Incorrect. Not used with \"How\" for this question type."
@@ -313,7 +313,7 @@
           "feedback": "Incorrect. Not used with \"How\" for this question type."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student applies the correct interrogative quantifier for countable nouns.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "Comparing nutritional data.\n\n\"Juice A: 5g sugar, 20% Vitamin C. Juice B: 15g sugar, 10% Vitamin C.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Juice A is less healthy than Juice B.",
           "is_correct": false,
           "feedback": "Incorrect. It has less sugar and more vitamins."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Juice A has more nutritional value and less sugar.",
           "is_correct": true,
           "feedback": "Correct! 20% vs 10% Vitamin C and 5g vs 15g sugar."
@@ -405,7 +405,7 @@
           "feedback": "Incorrect. The numbers are different."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student analyzes and compares numeric data to determine the healthier option.\n\n---",
       "difficulty": "10",
       "images": [],

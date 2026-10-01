@@ -13,19 +13,19 @@
       "context": "En Asunción, un grupo de estudiantes de Paraguay analiza un problema de Expresiones Algebraicas y Polinomios.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Es la mayor suma de los exponentes de las variables en un solo término del polinomio.",
           "is_correct": true,
           "feedback": "¡Correcto! El grado absoluto es el máximo grado de todos sus términos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es la suma de todos los exponentes del polinomio completo.",
           "is_correct": false,
           "feedback": "Incorrecto. No se suman todos los exponentes del polinomio para hallar el grado absoluto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es el exponente más alto de la variable con mayor coeficiente principal.",
           "is_correct": false,
           "feedback": "Incorrecto. El grado no depende del valor numérico del coeficiente."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Eso define la cantidad de términos del polinomio, no su grado absoluto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El grado absoluto de un polinomio es el mayor grado absoluto de sus términos componentes, calculando la suma de exponentes de las variables para cada término.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,31 +58,31 @@
       "context": "En San Lorenzo, un grupo de estudiantes de Paraguay analiza un problema de Expresiones Algebraicas y Polinomios.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$-12$",
           "is_correct": true,
           "feedback": "¡Correcto! El término independiente es aquel que no está acompañado por la variable $x$, es decir, $-12$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$5$",
           "is_correct": false,
           "feedback": "Incorrecto. $5$ es el coeficiente principal del término de mayor grado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$8$",
           "is_correct": false,
           "feedback": "Incorrecto. $8$ es el coeficiente del término lineal."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$-3$",
           "is_correct": false,
           "feedback": "Incorrecto. $-3$ es el coeficiente del término cuadrático."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El término independiente de un polinomio es el término que no tiene variable (es de grado 0), que en este caso es $-12$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "En Encarnación, un grupo de estudiantes de Paraguay analiza un problema de Expresiones Algebraicas y Polinomios.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "2x",
           "is_correct": true,
           "feedback": "¡Correcto! El máximo común divisor de los coeficientes es el mismo número, y la variable común es x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x + 2",
           "is_correct": false,
           "feedback": "Incorrecto. Este factor resulta dentro del paréntesis, no como término común exterior."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. El segundo término solo contiene x, no x al cuadrado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Factorizando por término común: $2x^2 + 4x = 2x(x + 2)$. El término común exterior es $2x$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -238,31 +238,31 @@
       "context": "En Caacupé, un grupo de estudiantes de Paraguay analiza un problema de Expresiones Algebraicas y Polinomios.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "4x",
           "is_correct": true,
           "feedback": "¡Correcto! El máximo común divisor de los coeficientes es el mismo número, y la variable común es x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x + 4",
           "is_correct": false,
           "feedback": "Incorrecto. Este factor resulta dentro del paréntesis, no como término común exterior."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "4",
           "is_correct": false,
           "feedback": "Incorrecto. Falta la variable x en el factor común exterior."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "x^2",
           "is_correct": false,
           "feedback": "Incorrecto. El segundo término solo contiene x, no x al cuadrado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Factorizando por término común: $4x^2 + 8x = 4x(x + 2)$. El término común exterior es $4x$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "En Pilar, un grupo de estudiantes de Paraguay analiza un problema de Expresiones Algebraicas y Polinomios.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "5x",
           "is_correct": true,
           "feedback": "¡Correcto! El máximo común divisor de los coeficientes es el mismo número, y la variable común es x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x + 5",
           "is_correct": false,
           "feedback": "Incorrecto. Este factor resulta dentro del paréntesis, no como término común exterior."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. El segundo término solo contiene x, no x al cuadrado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Factorizando por término común: $5x^2 + 10x = 5x(x + 2)$. El término común exterior es $5x$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "En Coronel Oviedo, un grupo de estudiantes de Paraguay analiza un problema de Expresiones Algebraicas y Polinomios.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "2x",
           "is_correct": true,
           "feedback": "¡Correcto! El máximo común divisor de los coeficientes es el mismo número, y la variable común es x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x + 2",
           "is_correct": false,
           "feedback": "Incorrecto. Este factor resulta dentro del paréntesis, no como término común exterior."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. El segundo término solo contiene x, no x al cuadrado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Factorizando por término común: $2x^2 + 4x = 2x(x + 2)$. El término común exterior es $2x$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "En Concepción, un grupo de estudiantes de Paraguay analiza un problema de Expresiones Algebraicas y Polinomios.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "3x",
           "is_correct": true,
           "feedback": "¡Correcto! El máximo común divisor de los coeficientes es el mismo número, y la variable común es x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x + 3",
           "is_correct": false,
           "feedback": "Incorrecto. Este factor resulta dentro del paréntesis, no como término común exterior."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "3",
           "is_correct": false,
           "feedback": "Incorrecto. Falta la variable x en el factor común exterior."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. El segundo término solo contiene x, no x al cuadrado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Factorizando por término común: $3x^2 + 6x = 3x(x + 2)$. El término común exterior es $3x$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "En Villarrica, un grupo de estudiantes de Paraguay analiza un problema de Expresiones Algebraicas y Polinomios.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "4x",
           "is_correct": true,
           "feedback": "¡Correcto! El máximo común divisor de los coeficientes es el mismo número, y la variable común es x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x + 4",
           "is_correct": false,
           "feedback": "Incorrecto. Este factor resulta dentro del paréntesis, no como término común exterior."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. El segundo término solo contiene x, no x al cuadrado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Factorizando por término común: $4x^2 + 8x = 4x(x + 2)$. El término común exterior es $4x$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "En San Lorenzo, un grupo de estudiantes de Paraguay analiza un problema de Expresiones Algebraicas y Polinomios.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "2x",
           "is_correct": true,
           "feedback": "¡Correcto! El máximo común divisor de los coeficientes es el mismo número, y la variable común es x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x + 2",
           "is_correct": false,
           "feedback": "Incorrecto. Este factor resulta dentro del paréntesis, no como término común exterior."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. El segundo término solo contiene x, no x al cuadrado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Factorizando por término común: $2x^2 + 4x = 2x(x + 2)$. El término común exterior es $2x$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,19 +598,19 @@
       "context": "En Encarnación, un grupo de estudiantes de Paraguay analiza un problema de Expresiones Algebraicas y Polinomios.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "4x",
           "is_correct": true,
           "feedback": "¡Correcto! El máximo común divisor de los coeficientes es el mismo número, y la variable común es x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x + 4",
           "is_correct": false,
           "feedback": "Incorrecto. Este factor resulta dentro del paréntesis, no como término común exterior."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "4",
           "is_correct": false,
           "feedback": "Incorrecto. Falta la variable x en el factor común exterior."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. El segundo término solo contiene x, no x al cuadrado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Factorizando por término común: $4x^2 + 8x = 4x(x + 2)$. El término común exterior es $4x$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,19 +643,19 @@
       "context": "En Ciudad del Este, un grupo de estudiantes de Paraguay analiza un problema de Expresiones Algebraicas y Polinomios.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "5x",
           "is_correct": true,
           "feedback": "¡Correcto! El máximo común divisor de los coeficientes es el mismo número, y la variable común es x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x + 5",
           "is_correct": false,
           "feedback": "Incorrecto. Este factor resulta dentro del paréntesis, no como término común exterior."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "5",
           "is_correct": false,
           "feedback": "Incorrecto. Falta la variable x en el factor común exterior."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. El segundo término solo contiene x, no x al cuadrado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Factorizando por término común: $5x^2 + 10x = 5x(x + 2)$. El término común exterior es $5x$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "En Pilar, un grupo de estudiantes de Paraguay analiza un problema de Expresiones Algebraicas y Polinomios.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "3x",
           "is_correct": true,
           "feedback": "¡Correcto! El máximo común divisor de los coeficientes es el mismo número, y la variable común es x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x + 3",
           "is_correct": false,
           "feedback": "Incorrecto. Este factor resulta dentro del paréntesis, no como término común exterior."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. El segundo término solo contiene x, no x al cuadrado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Factorizando por término común: $3x^2 + 6x = 3x(x + 2)$. El término común exterior es $3x$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "En Villarrica, un grupo de estudiantes de Paraguay analiza un problema de Expresiones Algebraicas y Polinomios.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "2x",
           "is_correct": true,
           "feedback": "¡Correcto! El máximo común divisor de los coeficientes es el mismo número, y la variable común es x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x + 2",
           "is_correct": false,
           "feedback": "Incorrecto. Este factor resulta dentro del paréntesis, no como término común exterior."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. El segundo término solo contiene x, no x al cuadrado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Factorizando por término común: $2x^2 + 4x = 2x(x + 2)$. El término común exterior es $2x$.",
       "difficulty": "10",
       "images": [],

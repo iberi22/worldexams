@@ -13,13 +13,13 @@
       "context": "Discussing public transportation.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "However",
           "is_correct": false,
           "feedback": "Incorrect contrast connector."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Furthermore",
           "is_correct": true,
           "feedback": "Correct addition connector."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Furthermore' is used to add more information that supports the previous statement.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Discussing renewable energy.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Yet",
           "is_correct": false,
           "feedback": "Incorrect contrast."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Moreover",
           "is_correct": true,
           "feedback": "Correct addition connector for formal contexts."
@@ -129,7 +129,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Moreover' is a formal connector used to add information that strengthens the main argument.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -157,25 +157,25 @@
           "feedback": "Needs a full clause."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Despite",
           "is_correct": true,
           "feedback": "Correct. Followed by a noun phrase to show contrast."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Even though",
           "is_correct": false,
           "feedback": "Needs a full clause."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Whereas",
           "is_correct": false,
           "feedback": "Needs a comparison clause."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Despite' and 'in spite of' are followed by a noun or gerund to express contrast.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -203,13 +203,13 @@
           "feedback": "Incorrect."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "whereas",
           "is_correct": true,
           "feedback": "Correct comparison/contrast connector."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "besides",
           "is_correct": false,
           "feedback": "Incorrect addition."
@@ -221,7 +221,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Whereas' is used to compare two different facts or ideas in the same sentence.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "A critique of a government policy.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Furthermore",
           "is_correct": false,
           "feedback": "Incorrect."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Be that as it may",
           "is_correct": true,
           "feedback": "Correct formal contrast connector."
@@ -267,7 +267,7 @@
           "feedback": "Incorrect cause-effect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Be that as it may' is a sophisticated B2/C1 expression used to acknowledge a point before introducing a contradictory one.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -301,19 +301,19 @@
           "feedback": "Incorrect."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "therefore",
           "is_correct": false,
           "feedback": "Incorrect cause-effect."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "on the other hand",
           "is_correct": true,
           "feedback": "Correct transition for balanced contrast."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": "'On the other hand' is used to present a different, often opposing, aspect of a topic.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "A report on health and nutrition.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Although",
           "is_correct": false,
           "feedback": "Incorrect syntax."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Nonetheless",
           "is_correct": true,
           "feedback": "Correct formal contrast connector."
@@ -359,7 +359,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Nonetheless' is a formal synonym for 'nevertheless' or 'however'.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -473,19 +473,19 @@
       "context": "Academic discussion on law.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Furthermore",
           "is_correct": false,
           "feedback": "Incorrect addition."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Correspondingly",
           "is_correct": false,
           "feedback": "Incorrect similarity."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Paradoxically",
           "is_correct": true,
           "feedback": "Correct transition showing a surprising contrast."
@@ -497,7 +497,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Using adverbs like 'paradoxically' as connectors to indicate the specific nature of a contrast.\n\n---",
       "difficulty": "10",
       "images": [],

@@ -13,31 +13,31 @@
       "context": "Reviewing advice.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "should",
           "is_correct": true,
           "feedback": "Correct! \"Should\" is the appropriate modal for giving advice."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "must to",
           "is_correct": false,
           "feedback": "Incorrect. \"Must\" does not take \"to\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "shouldn't",
           "is_correct": false,
           "feedback": "Incorrect. Illogical advice for someone who wants to pass."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "are should",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Recordamos que \"should\" se utiliza para dar consejos y va seguido de la forma base del verbo.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -157,25 +157,25 @@
           "feedback": "Incorrect. Result needs \"will\"."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "go / will bring",
           "is_correct": true,
           "feedback": "Correct! First conditional structure."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "will go / bring",
           "is_correct": false,
           "feedback": "Incorrect. No \"will\" after \"if\"."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "goes / will bring",
           "is_correct": false,
           "feedback": "Incorrect. \"We\" takes \"go\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El Primer Condicional conecta una condición presente (Present Simple) con un resultado futuro probable (Will).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -203,13 +203,13 @@
           "feedback": "Incorrect. For is for periods of time (years)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "since",
           "is_correct": true,
           "feedback": "Correct! Since is for a specific starting point."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "during",
           "is_correct": false,
           "feedback": "Incorrect."
@@ -221,7 +221,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "\"Since\" marca el inicio de una acción que continúa hasta el presente.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "Reviewing Present Perfect with \"yet\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "haven't see it yet",
           "is_correct": false,
           "feedback": "Incorrect. Participle \"seen\" is required."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "haven't seen it yet",
           "is_correct": true,
           "feedback": "Correct! Correct use of negative Present Perfect with \"yet\"."
@@ -405,7 +405,7 @@
           "feedback": "Incorrect. Doesn't match the \"No\" in the response."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "En respuestas negativas con \"yet\", debemos usar la estructura completa del Presente Perfecto Negativo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "Identifying grammatical errors in a complex sentence.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "will see",
           "is_correct": true,
           "feedback": "Correct! Error found. \"Will\" cannot be used in the \"if\" clause. It should be \"see\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "whose",
           "is_correct": false,
           "feedback": "Incorrect. Correct use of possessive relative pronoun."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "should",
           "is_correct": false,
           "feedback": "Incorrect. Correct use for giving advice."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "the police",
           "is_correct": false,
           "feedback": "Incorrect. Correct noun."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Se evalúa la capacidad de detectar el uso incorrecto del futuro en cláusulas condicionales, un error común incluso en niveles intermedios.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "Evaluating advice for a social situation.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "You must buy a new one now.",
           "is_correct": false,
           "feedback": "Incorrect. Too direct/commanding."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "You should try to remember where you saw it last, and maybe we can call it.",
           "is_correct": true,
           "feedback": "Correct! Helpful advice using \"should\" and \"can\"."
@@ -497,7 +497,7 @@
           "feedback": "Incorrect. Critical and unhelpful."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "En B1, se espera que el estudiante use el lenguaje no solo con precisión gramatical, sino también con adecuación pragmática (empatía y cortesía).\n\n---",
       "difficulty": "10",
       "images": [],

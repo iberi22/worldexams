@@ -19,25 +19,25 @@
           "feedback": "Incorrecto. El 4 es el coeficiente principal, no el exponente máximo de la variable."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "3",
           "is_correct": true,
           "feedback": "¡Correcto! El grado es el mayor exponente de $x$ con coeficiente distinto de cero, que es 3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. El término de grado 2 existe, pero no es el exponente más alto del polinomio."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "-9",
           "is_correct": false,
           "feedback": "Incorrecto. -9 es el término independiente, no el grado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El grado de un polinomio en una variable es el mayor exponente al que está elevada la variable $x$ con coeficiente no nulo. En $4x^3 - 7x^2 + 2x - 9$, el exponente máximo es 3.",
       "difficulty": "4",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "Un grupo de estudiantes de Salto evalúa las raíces de una función dada en forma factorizada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = -2, 5, -1$",
           "is_correct": false,
           "feedback": "Incorrecto. Confundiste los signos de los factores $(x - a)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 2, -5, 1$",
           "is_correct": true,
           "feedback": "¡Correcto! Se iguala cada factor a cero: $x - 2 = 0 \\Rightarrow x = 2$, $x + 5 = 0 \\Rightarrow x = -5$, $x - 1 = 0 \\Rightarrow x = 1$."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Multiplicaste las constantes en lugar de hallar los ceros de cada factor."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Por la propiedad del producto nulo, $P(x) = 0$ cuando al menos uno de sus factores es nulo. Por ende, $x - 2 = 0 \\Rightarrow x = 2$, $x + 5 = 0 \\Rightarrow x = -5$ y $x - 1 = 0 \\Rightarrow x = 1$.",
       "difficulty": "4",
       "images": [],
@@ -334,25 +334,25 @@
           "feedback": "Incorrecto. La derivada del producto NO es el producto de las derivadas."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$u'(x) \\cdot v(x) + u(x) \\cdot v'(x)$",
           "is_correct": true,
           "feedback": "¡Correcto! Es la regla de Leibniz para la derivada de un producto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$u'(x) \\cdot v(x) - u(x) \\cdot v'(x)$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese signo negativo aparece en la regla del cociente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\frac{u'(x)}{v'(x)}$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta no es la regla del producto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La regla del producto (o regla de Leibniz) establece que la derivada de un producto de dos funciones es la derivada de la primera por la segunda sin derivar, más la primera sin derivar por la derivada de la segunda.",
       "difficulty": "6",
       "images": [],
@@ -379,13 +379,13 @@
           "feedback": "Incorrecto. Solo derivaste el primer factor sin considerar la interacción con el segundo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$g'(x) = 4x - 5$",
           "is_correct": true,
           "feedback": "¡Correcto! Desarrollando $g(x) = 2x^2 - 5x - 3$, su derivada es $4x - 5$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$g'(x) = 4x + 1$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en el signo del término lineal al expandir o al aplicar la regla del producto."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Derivaste $2x^2$ como $2x$ en lugar de $4x$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Desarrollando: $g(x) = 2x^2 - 6x + x - 3 = 2x^2 - 5x - 3$. Derivando: $g'(x) = 2(2x) - 5 = 4x - 5$.",
       "difficulty": "6",
       "images": [],
@@ -463,19 +463,19 @@
       "context": "En un laboratorio de Minas se estudia la aceleración como segunda derivada de la posición.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "6",
           "is_correct": true,
           "feedback": "¡Correcto! $s'(t) = 6t^2 - 18t + 12$, luego $s''(t) = 12t - 18$. Para $t=2$: $12(2) - 18 = 6$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "0",
           "is_correct": false,
           "feedback": "Incorrecto. 0 es la velocidad $s'(2) = 6(4) - 36 + 12 = 0$, no la aceleración."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "12",
           "is_correct": false,
           "feedback": "Incorrecto. Evaluaste solo el primer término $12t$ de la segunda derivada sin restar 18."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Error de signo en la resta $24 - 18$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La velocidad es $v(t) = s'(t) = 6t^2 - 18t + 12$. La aceleración es $a(t) = v'(t) = s''(t) = 12t - 18$. En $t = 2$, $a(2) = 12(2) - 18 = 24 - 18 = 6$.",
       "difficulty": "8",
       "images": [],
@@ -514,25 +514,25 @@
           "feedback": "Incorrecto. Olvidaste multiplicar por la derivada de la función interna $(3x^2 + 1)' = 6x$."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$h'(x) = 24x(3x^2 + 1)^3$",
           "is_correct": true,
           "feedback": "¡Correcto! Por regla de la cadena: $4(3x^2 + 1)^3 \\cdot (6x) = 24x(3x^2 + 1)^3$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$h'(x) = 12x(3x^2 + 1)^3$",
           "is_correct": false,
           "feedback": "Incorrecto. Derivaste $3x^2$ como $3x$ en lugar de $6x$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$h'(x) = 24x^2(3x^2 + 1)^3$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste por $6x^2$ en lugar de $6x$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Por la regla de la cadena, $\\frac{d}{dx}[g(x)^n] = n g(x)^{n-1} g'(x)$. Para $g(x) = 3x^2 + 1$, se tiene $g'(x) = 6x$. Por lo tanto, $h'(x) = 4(3x^2 + 1)^3 \\cdot 6x = 24x(3x^2 + 1)^3$.",
       "difficulty": "8",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Incorrecto. La conjugación afecta la parte imaginaria, no la parte real."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$z = 3 - 2i$",
           "is_correct": true,
           "feedback": "¡Correcto! Por el Teorema de las Raíces Complejas Conjugadas, las raíces no reales aparecen en pares conjugados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$z = -3 - 2i$",
           "is_correct": false,
           "feedback": "Incorrecto. Cambiaste ambos signos; solo la parte imaginaria debe cambiar de signo."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Intercambiaste las partes real e imaginaria."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El Teorema de las Raíces Conjugadas establece que si un polinomio con coeficientes reales tiene como raíz a $a + bi$, su conjugado $a - bi$ también es necesariamente raíz del polinomio.",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "En Fray Bentos se analiza la divisibilidad polinómica mediante el esquema de Ruffini.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "3",
           "is_correct": false,
           "feedback": "Incorrecto. Evaluaste $P(1)$ o cometiste un error aritmético al aplicar Ruffini."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "7",
           "is_correct": true,
           "feedback": "¡Correcto! Por el Teorema del Resto: $R = P(2) = 2(2^3) - 3(2^2) + 4(2) - 5 = 16 - 12 + 8 - 5 = 7$."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. -5 es el término independiente, no el resto de la división por $(x-2)$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Por el Teorema del Resto, el resto de dividir un polinomio $P(x)$ entre $(x - a)$ es igual a $P(a)$. En este caso $a = 2$, por lo que $R = P(2) = 2(8) - 3(4) + 4(2) - 5 = 16 - 12 + 8 - 5 = 7$.",
       "difficulty": "8",
       "images": [],
@@ -733,19 +733,19 @@
       "context": "Un equipo de ingenieros en Montevideo optimiza el volumen de una caja sin tapa construida a partir de una lámina metálica cuadrada de 12 cm de lado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x = 2\\text{ cm}$",
           "is_correct": true,
           "feedback": "¡Correcto! $V(x) = x(12-2x)^2 = 4x^3 - 48x^2 + 144x$. $V'(x) = 12x^2 - 96x + 144 = 0 \\Rightarrow x^2 - 8x + 12 = 0 \\Rightarrow x = 2$ o $x = 6$. Como $x<6$, el máximo es $x = 2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 3\\text{ cm}$",
           "is_correct": false,
           "feedback": "Incorrecto. Evaluando $V(3) = 3(6)^2 = 108$, mientras que $V(2) = 2(8)^2 = 128$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 4\\text{ cm}$",
           "is_correct": false,
           "feedback": "Incorrecto. $V(4) = 4(4)^2 = 64 < 128$."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Si $x = 6$, las dimensiones de la base se reducen a 0, dando un volumen nulo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "1) Función volumen: $V(x) = x(12 - 2x)^2 = 4x^3 - 48x^2 + 144x$, con $0 < x < 6$.\n2) Derivada: $V'(x) = 12x^2 - 96x + 144 = 12(x^2 - 8x + 12)$.\n3) Puntos críticos: $(x - 2)(x - 6) = 0 \\Rightarrow x = 2$ o $x = 6$.\n4) Como $x=6$ anula la base, la solución físicamente válida que maximiza el volumen es $x = 2\\text{ cm}$.",
       "difficulty": "10",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. La tasa media de cambio es 4, por lo que $2c = 4 \\Rightarrow c = 2$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$c = 2$",
           "is_correct": true,
           "feedback": "¡Correcto! Tasa de cambio: $\\frac{9 - 1}{2} = 4$. Como $f'(x) = 2x$, se tiene $2c = 4 \\Rightarrow c = 2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$c = 2.5$",
           "is_correct": false,
           "feedback": "Incorrecto. $f'(2.5) = 5 \\neq 4$."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto.Confundiste el valor medio de la derivada con la media geométrica."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "1) Pendiente de la secante: $\\frac{f(3) - f(1)}{3 - 1} = \\frac{3^2 - 1^2}{2} = \\frac{8}{2} = 4$.\n2) Derivada: $f'(x) = 2x$.\n3) Buscamos $c$ tal que $f'(c) = 4 \\Rightarrow 2c = 4 \\Rightarrow c = 2$. Note que $c = 2$ pertenece al intervalo abierto $(1, 3)$.",
       "difficulty": "10",
       "images": [],
@@ -823,19 +823,19 @@
       "context": "Un estudiante de Rivera demuestra propiedades de las derivadas de funciones pares e impares.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$f'(x)$ es una función impar (satisface $f'(-x) = -f'(x)$).",
           "is_correct": true,
           "feedback": "¡Correcto! Derivando $f(-x) = f(x)$ mediante regla de la cadena se obtiene $-f'(-x) = f'(x) \\Rightarrow f'(-x) = -f'(x)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$f'(x)$ es una función par (satisface $f'(-x) = f'(x)$).",
           "is_correct": false,
           "feedback": "Incorrecto. Al derivar cambia la paridad debido al signo negativo de la regla de la cadena."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$f'(x)$ es necesariamente idénticamente nula.",
           "is_correct": false,
           "feedback": "Incorrecto. La constante es par y su derivada es nula, pero $x^2$ es par y su derivada $2x$ no es nula."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Si $f$ es derivable en todo $\\mathbb{R}$, $f'(0)$ existe y de hecho $f'(0) = 0$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicando la regla de la cadena a la identidad $f(-x) = f(x)$:\n$\\frac{d}{dx}[f(-x)] = \\frac{d}{dx}[f(x)] \\Rightarrow f'(-x) \\cdot (-1) = f'(x) \\Rightarrow f'(-x) = -f'(x)$.\nEsto demuestra por definición que la derivada de una función par es una función impar.",
       "difficulty": "10",
       "images": [],
@@ -868,31 +868,31 @@
       "context": "Un seminario académico en Salto aborda el Teorema de Rolle para estudiar el número de raíces reales de un polinomio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Exactamente 1 raíz real.",
           "is_correct": true,
           "feedback": "¡Correcto! $P'(x) = 5x^4 + 4 > 0$ para todo $x$. Como $P'(x)$ nunca se anula, por el Teorema de Rolle no puede tener 2 o más raíces reales. Por el TVI posee al menos una."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3 raíces reales.",
           "is_correct": false,
           "feedback": "Incorrecto. Si tuviera 3 raíces reales, $P'(x)$ debería anularse al menos 2 veces, pero $5x^4 + 4 > 0$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "5 raíces reales.",
           "is_correct": false,
           "feedback": "Incorrecto. Un polinomio de grado 5 tiene hasta 5 raíces en $\\mathbb{C}$, pero aquí solo 1 es real."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ninguna raíz real.",
           "is_correct": false,
           "feedback": "Incorrecto. Como es de grado impar (5), por el Teorema de Bolzano / TVI tiene al menos una raíz real."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "1) Por ser de grado impar, $\\lim_{x\\to -\\infty} P(x) = -\\infty$ y $\\lim_{x\\to +\\infty} P(x) = +\\infty$, luego por continuidad tiene al menos 1 raíz real.\n2) Su derivada es $P'(x) = 5x^4 + 4 \\ge 4 > 0$ para todo $x \\in \\mathbb{R}$.\n3) Si tuviera 2 o más raíces reales, entre ellas existiría un valor donde $P'(c) = 0$ (Teorema de Rolle), lo cual es imposible porque $P'(x) > 0$. Por lo tanto, posee exactamente 1 raíz real.",
       "difficulty": "10",
       "images": [],

@@ -19,25 +19,25 @@
           "feedback": "La metáfora usa un objeto para representar una idea, no solo deforma rasgos."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La exageración o hipérbole.",
           "is_correct": true,
           "feedback": "La caricatura se basa en exagerar rasgos distintivos para enfatizar la identidad y el carácter del personaje."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El realismo fotográfico.",
           "is_correct": false,
           "feedback": "La caricatura es lo opuesto al realismo; busca la distorsión."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El pie de foto informativo.",
           "is_correct": false,
           "feedback": "Este es un elemento textual externo, no un recurso gráfico de dibujo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La caricatura periodística utiliza la exageración de rasgos físicos (prosopografía) como una herramienta comunicativa para crear un retrato psicológico o satírico de figuras públicas.",
       "difficulty": "4",
       "images": [],
@@ -65,25 +65,25 @@
           "feedback": "Las noticias informan hechos; las caricaturas expresan visiones subjetivas."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Género de opinión.",
           "is_correct": true,
           "feedback": "La caricatura es un editorial gráfico; refleja la posición del autor o del medio sobre un tema."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Género narrativo de ficción.",
           "is_correct": false,
           "feedback": "Aunque usa el dibujo, se basa en hechos y personajes reales de la actualidad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Género deportivo.",
           "is_correct": false,
           "feedback": "Aunque puede haber caricaturas deportivas, el género general de crítica es el de opinión."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La caricatura periodística es considerada una pieza de opinión gráfica. Su función no es reportar un suceso de forma neutral, sino comentarlo mediante la sátira y el humor crítico.",
       "difficulty": "4",
       "images": [],
@@ -111,13 +111,13 @@
           "feedback": "No se está exagerando el tamaño, sino cambiando un objeto por otro."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Una metáfora visual.",
           "is_correct": true,
           "feedback": "Los billetes representan la corrupción o el poder del dinero que reemplaza al equilibrio de la justicia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una onomatopeya.",
           "is_correct": false,
           "feedback": "Las onomatopeyas son representaciones de sonidos, no cambios de objetos."
@@ -129,7 +129,7 @@
           "feedback": "Es una representación simbólica, no una escena captada de la realidad física."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La metáfora visual permite comunicar conceptos abstractos complejos (como la corrupción) mediante la sustitución de elementos icónicos tradicionales por otros que cargan un nuevo significado crítico.",
       "difficulty": "6",
       "images": [],
@@ -163,19 +163,19 @@
           "feedback": "La desproporción entre la montaña y la maleta sugiere lo contrario."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "La desproporción y dificultad económica que enfrentan los trabajadores ante la inflación.",
           "is_correct": true,
           "feedback": "La montaña representa un obstáculo casi insuperable comparado con los recursos del trabajador."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que el gobierno va a regalar maletas nuevas a todos los ciudadanos.",
           "is_correct": false,
           "feedback": "El texto no ofrece pistas para esta interpretación; la caricatura es una crítica de la situación actual."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La interpretación de caricaturas requiere decodificar los símbolos y las etiquetas (palabras dentro del dibujo) para entender la relación de fuerzas o la situación denunciada por el autor.",
       "difficulty": "6",
       "images": [],
@@ -203,25 +203,25 @@
           "feedback": "Eso sería una fotografía informativa, no una caricatura que requiere interpretación."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La opción 2, porque usa la personificación para generar empatía y denunciar el estado del río.",
           "is_correct": true,
           "feedback": "Darle características humanas al río permite expresar visualmente su \"enfermedad\" o degradación de forma creativa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambas son iguales, lo importante es que el dibujo sea bonito y tenga muchos colores.",
           "is_correct": false,
           "feedback": "La caricatura prioriza el mensaje crítico y el uso de recursos retóricos sobre la estética pura."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ninguna de las dos, porque los ríos no pueden estar en camillas en la vida real.",
           "is_correct": false,
           "feedback": "El lenguaje de la caricatura permite situaciones fantásticas para comunicar verdades sociales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La personificación es un recurso común en la caricatura. Al tratar a objetos o elementos de la naturaleza como seres humanos, el caricaturista logra que el lector se conecte emocionalmente con el problema denunciado.",
       "difficulty": "6",
       "images": [],
@@ -249,25 +249,25 @@
           "feedback": "No hay insultos, hay una situación absurda construida mediante el diálogo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La ironía y el absurdo.",
           "is_correct": true,
           "feedback": "El absurdo de prometer un río evidencia la falta de realismo y la falsedad de las promesas electorales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El uso de palabras técnicas de ingeniería civil.",
           "is_correct": false,
           "feedback": "El lenguaje es sencillo, el efecto viene de la situación planteada."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La descripción detallada del paisaje rural.",
           "is_correct": false,
           "feedback": "El foco es el intercambio comunicativo que revela la intención del político."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El humor en la caricatura no busca solo la risa, sino la reflexión. La ironía permite decir una cosa para significar lo contrario o para mostrar lo ridículo de una conducta o discurso.",
       "difficulty": "8",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "Observa una caricatura sobre la educación virtual. Se ve a un niño frente a una pantalla con los ojos rojos y cansados, y de la pantalla salen manos que le roban sus juguetes y su tiempo de juego.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Mostrar que los computadores del futuro tendrán manos mecánicas.",
           "is_correct": false,
           "feedback": "Es una interpretación literal de ciencia ficción, ajena al mensaje crítico."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Decorar la escena para que no parezca solo un niño estudiando.",
           "is_correct": false,
           "feedback": "Las manos tienen una carga semántica clara: la acción de quitar o robar."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Representar visualmente cómo la tecnología puede invadir y arrebatar espacios propios de la infancia.",
           "is_correct": true,
           "feedback": "Las manos simbolizan la intrusión de lo digital en lo personal y recreativo."
@@ -313,7 +313,7 @@
           "feedback": "La expresión de cansancio del niño y la acción de las manos sugieren una crítica, no una necesidad de apoyo técnico."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "En la caricatura, los elementos fantásticos o imposibles (como manos saliendo de una pantalla) actúan como símbolos que refuerzan la tesis del autor sobre un problema social o psicológico.",
       "difficulty": "8",
       "images": [],
@@ -341,13 +341,13 @@
           "feedback": "El dibujo es una interpretación subjetiva del artista; puede ser muy sesgado."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Los caricaturistas están obligados por ley a dibujar a todos los políticos igual.",
           "is_correct": false,
           "feedback": "No existe tal ley; la libertad de expresión permite diversas interpretaciones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La caricatura es inherentemente subjetiva y refleja la línea editorial y la opinión del autor.",
           "is_correct": true,
           "feedback": "Como género de opinión, la caricatura toma partido y utiliza símbolos para orientar la percepción del lector."
@@ -359,7 +359,7 @@
           "feedback": "La diferencia no es técnica, sino de intención comunicativa e ideológica."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La caricatura no busca la verdad objetiva, sino la \"verdad\" desde un punto de vista. El análisis crítico permite identificar cómo los símbolos visuales se usan para construir héroes o villanos según la ideología.",
       "difficulty": "8",
       "images": [],
@@ -387,13 +387,13 @@
           "feedback": "La caricatura no busca olvidar, busca que se reflexione y se cuestione."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que el humor es una herramienta poderosa para denunciar injusticias que el lenguaje serio a veces no logra impactar.",
           "is_correct": true,
           "feedback": "La sátira puede romper la indiferencia y señalar verdades incómodas de manera directa y memorable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que los caricaturistas no tienen sentimientos y solo buscan ganar dinero.",
           "is_correct": false,
           "feedback": "Es un prejuicio que ignora la función social y valiente que muchos caricaturistas cumplen."
@@ -405,7 +405,7 @@
           "feedback": "Las caricaturas también pueden ser objeto de procesos legales si se considera que vulneran derechos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La caricatura periodística cumple una función catártica y crítica. Su valor reside en su capacidad para cuestionar el poder y visibilizar problemas sociales mediante un lenguaje que combina el ingenio, el arte y la opinión.",
       "difficulty": "10",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "Evalúa el impacto de la siguiente caricatura: Un grupo de personas está mirando sus teléfonos mientras una inundación real les llega a las rodillas. Uno dice: \"¡Mira la foto que subieron de la inundación, tiene mil likes!\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que las inundaciones son cada vez más frecuentes en las ciudades.",
           "is_correct": false,
           "feedback": "Este es el escenario, pero la crítica no es meteorológica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La desconexión con la realidad física y la prioridad que se le da a la vida digital sobre la seguridad real.",
           "is_correct": true,
           "feedback": "El contraste entre el peligro inminente y la obsesión por los \"likes\" evidencia una pérdida de sentido de la realidad."
@@ -451,7 +451,7 @@
           "feedback": "El autor no está pidiendo más redes, sino criticando la actitud de los usuarios ante ellas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La evaluación final de una caricatura implica conectar los elementos visuales y textuales con un fenómeno sociológico o cultural profundo, juzgando la efectividad del autor para señalar una contradicción humana.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación | Notas |\n| :--- | :---: | :--- |\n| Técnico | 30/30 | Estructura v5.2 impecable. |\n| Curricular | 40/40 | Análisis completo de la caricatura periodística para grado 7. |\n| Contexto | 20/20 | Referencias a autores locales (Matador), temas nacionales (río Bogotá, salario mínimo) y sociales. |\n| Redacción | 10/10 | Lenguaje adaptado y explicaciones pedagógicas que refuerzan el aprendizaje. |\n| **Total** | **100/100** | |",
       "difficulty": "10",
       "images": [],

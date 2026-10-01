@@ -19,25 +19,25 @@
           "feedback": "Incorrecto. Eso es un texto narrativo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Guiar al receptor para que realice una acción o complete una tarea de manera secuencial y ordenada.",
           "is_correct": true,
           "feedback": "Correcto. Los textos instructivos dan pasos a seguir para lograr un resultado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Describir la belleza de los paisajes nariñenses durante la cosecha.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso es un texto descriptivo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Convencer al nieto de que la cocina es la mejor profesión del mundo.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso es un texto argumentativo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Los textos instructivos tienen un propósito práctico. Su estructura está diseñada para que el receptor pueda ejecutar una serie de pasos (como una receta, un manual de armado o reglas de un juego) de forma exitosa.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -65,13 +65,13 @@
           "feedback": "Incorrecto. El subjuntivo expresa deseo o duda, no órdenes directas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El modo imperativo, porque se utiliza para dar órdenes, mandatos o sugerencias directas.",
           "is_correct": true,
           "feedback": "Correcto. Verbos como \"llegue\", \"salude\" y \"ubíquese\" son formas del imperativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El tiempo pasado, porque las acciones ya ocurrieron hace mucho tiempo.",
           "is_correct": false,
           "feedback": "Incorrecto. Las instrucciones se dan para acciones futuras o presentes."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Aunque el infinitivo también se usa en instrucciones, en este ejemplo se usan formas conjugadas del imperativo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El modo imperativo es la herramienta lingüística por excelencia de la instrucción. Permite que el emisor dirija la conducta del receptor de manera clara y sin ambigüedades.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -163,19 +163,19 @@
           "feedback": "Incorrecto. Es fundamental saber qué se necesita antes de empezar."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "La opinión personal del autor sobre por qué el color verde es su favorito.",
           "is_correct": true,
           "feedback": "Correcto. La instrucción debe ser objetiva; las opiniones personales sobran y pueden distraer al receptor."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Imágenes o diagramas que apoyen visualmente cada paso.",
           "is_correct": false,
           "feedback": "Incorrecto. Los apoyos visuales son muy útiles en los instructivos modernos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La claridad y la precisión son las metas de la instrucción. Cualquier elemento que no contribuya a que el receptor realice la tarea (como opiniones o anécdotas irrelevantes) debe ser eliminado para evitar confusiones.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -203,13 +203,13 @@
           "feedback": "Incorrecto. Tienen un propósito pedagógico más allá del adorno."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Reforzar visualmente la acción explicada en el texto, ayudando a quienes tienen dificultades de lectura o aprenden mejor viendo.",
           "is_correct": true,
           "feedback": "Correcto. La imagen aclara la posición de las manos o el movimiento que el texto a veces no logra describir con total precisión."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Reemplazar totalmente al texto para que la gente no tenga que leer nada.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto y la imagen suelen ser complementarios; el texto da la precisión y la imagen la claridad visual."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. La calidad artística es secundaria a la claridad comunicativa de la instrucción."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Los textos instructivos suelen ser multimodales. La combinación de texto (código verbal) e imagen (código icónico) reduce el margen de error del receptor, garantizando que el mensaje se entienda correctamente.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -295,13 +295,13 @@
           "feedback": "Incorrecto. Ambos pueden ser para cualquier público."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El de procedimiento busca lograr un producto u objeto; el de normas busca regular el comportamiento social en un lugar.",
           "is_correct": true,
           "feedback": "Correcto. El reglamento establece límites de conducta, mientras que la receta establece pasos para transformar materiales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El de procedimiento es opcional y el de normas es obligatorio siempre.",
           "is_correct": false,
           "feedback": "Incorrecto. Una receta debe seguirse si se quiere el resultado; ambos tienen cierto grado de obligatoriedad según el contexto."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Los procedimientos suelen ser acciones positivas (hacer algo) y las normas pueden ser negativas (no hacer algo)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Aunque ambos son instructivos, sus metas son distintas. Los textos prescriptivos o normativos (leyes, reglamentos) son esenciales para la convivencia ciudadana, mientras que los procedimentales son esenciales para la técnica y el aprendizaje de tareas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,13 +387,13 @@
           "feedback": "Incorrecto. Empezar sin entender la instrucción suele llevar a perder más tiempo corrigiendo errores."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Porque la instrucción limita la tarea (qué hacer y cuánto hacer), evitando que el estudiante responda algo que no se le pidió.",
           "is_correct": true,
           "feedback": "Correcto. Seguir instrucciones es una competencia básica que demuestra comprensión lectora y atención."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Para ver si el profesor cometió errores de ortografía en la instrucción.",
           "is_correct": false,
           "feedback": "Incorrecto. El objetivo es realizar la tarea correctamente, no corregir al profesor."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Las instrucciones deben ser claras y directas, no ambigüas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Muchos errores académicos no se deben a la falta de conocimiento, sino a no seguir las instrucciones. Leer hasta el final permite entender el alcance de lo que se pide (ej. \"responde solo en tres líneas\" o \"marca solo una opción\").\n\n---",
       "difficulty": "10",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "Analiza la siguiente situación: Un instructivo para usar un extintor de incendios está escrito con párrafos muy largos y lenguaje muy técnico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque el fuego quema el papel muy rápido.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un factor físico, no comunicativo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Porque la gente no debería leer cuando hay un incendio.",
           "is_correct": false,
           "feedback": "Incorrecto. La gente necesita saber cómo actuar, y el instructivo es su guía."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Porque en una emergencia se necesita información rápida, visual y directa. Un texto largo y complejo retrasa la acción y puede causar pánico.",
           "is_correct": true,
           "feedback": "Correcto. Los instructivos de seguridad deben ser minimalistas: dibujos grandes, flechas y verbos de acción inmediata."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. Los extintores están diseñados para ser usados por cualquier persona ante un inicio de incendio."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El diseño de la información debe adaptarse al contexto. Un instructivo de emergencia no es igual a un manual de filosofía. La velocidad de comprensión puede salvar vidas; por eso, el uso de iconos universales y lenguaje simplificado es una necesidad vital.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
       "difficulty": "10",
       "images": [],

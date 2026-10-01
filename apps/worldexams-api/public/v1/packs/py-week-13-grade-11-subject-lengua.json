@@ -58,31 +58,31 @@
       "context": "En San Lorenzo, se analiza la obra 'La babosa' de Gabriel Casaccia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Areguá",
           "is_correct": true,
           "feedback": "¡Correcto! La novela transcurre en la villa veraniega de Areguá, retratando la vida pueblerina y sus conflictos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Encarnación",
           "is_correct": false,
           "feedback": "Incorrecto. No se sitúa en Encarnación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ciudad del Este",
           "is_correct": false,
           "feedback": "Incorrecto. Ciudad del Este no existía en la época de ambientación de la obra."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Villarrica",
           "is_correct": false,
           "feedback": "Incorrecto. Villarrica es cuna de poetas como Manuel Ortiz Guerrero, no el escenario de \"La babosa\"."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "'La babosa' (1952) de Gabriel Casaccia está ambientada en Areguá, reflejando de forma crítica la psicología y costumbres de la sociedad rural/pueblerina de la época.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "En Encarnación, se estudia el movimiento del Realismo Mágico en Hispanoamérica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La integración natural de elementos fantásticos o míticos dentro de una realidad cotidiana asumida sin sorpresa.",
           "is_correct": true,
           "feedback": "¡Correcto! Lo irreal o maravilloso es percibido y narrado como parte natural de la realidad diaria."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La descripción puramente científica y objetiva de experimentos de laboratorio.",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a la ciencia ficción realista."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Se desarrolla primordialmente en espacios latinoamericanos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El Realismo Mágico entrelaza lo fantástico, mítico y cotidiano sin ruptura lógica, presentando lo extraordinario como algo natural dentro de la cosmovisión hispanoamericana.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,19 +193,19 @@
       "context": "En Ciudad del Este, se analiza el poema 'El arpa y la sombra' e influjos modernistas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Rubén Darío",
           "is_correct": true,
           "feedback": "¡Correcto! Rubén Darío impulsó la renovación estética del Modernismo hispanoamericano a partir de 1888."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Pablo Neruda",
           "is_correct": false,
           "feedback": "Incorrecto. Neruda pertenece a la vanguardia poética chilena del siglo XX."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "César Vallejo",
           "is_correct": false,
           "feedback": "Incorrecto. Gran poeta vanguardista peruano."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Ensayista y poeta mexicano del siglo XX, Premio Nobel 1990."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Rubén Darío es el líder insigne del Modernismo hispanoamericano, movimiento que renovó el ritmo, la métrica y la estética del idioma español.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,31 +238,31 @@
       "context": "En Coronel Oviedo, se revisan las aportaciones de la Generación del 40 en la poesía paraguaya.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La Generación del 40 (o Vy'a Raity)",
           "is_correct": true,
           "feedback": "¡Correcto! El grupo Vy'a Raity y la Generación del 40 modernizaron la poética paraguaya con conciencia social y técnica vanguardista."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El Ateneo de la Juventud de 1900",
           "is_correct": false,
           "feedback": "Incorrecto. Grupo del modernismo temprano de inicios del siglo XX."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La Generación del 900",
           "is_correct": false,
           "feedback": "Incorrecto. Integrada por Cecilio Báez, Manuel Gondra y otros ensayistas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El Grupo Alcor del siglo XXI",
           "is_correct": false,
           "feedback": "Incorrecto. Alcor fue una revista y grupo cultural de la década de 1950-60."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La Generación del 40 (reunida en torno al cenáculo 'Vy'a Raity') rompió con el posromanticismo tradicional, renovando las formas poéticas y la temática social en Paraguay.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,19 +283,19 @@
       "context": "En Villarrica, se analiza el tema central de la novela 'Hijo de hombre' de Augusto Roa Bastos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La Guerra del Chaco y la lucha de la comunidad de Itapé por su dignidad frente a la opresión.",
           "is_correct": true,
           "feedback": "¡Correcto! Recrea el calvario del pueblo paraguayo en las huelgas ferroviarias y los frentes de la Guerra del Chaco (1932-1935)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La conquista de América por las carabelas de Cristóbal Colón.",
           "is_correct": false,
           "feedback": "Incorrecto. Tema abordado en \"El arpa y la sombra\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La revolución industrial en la Inglaterra del siglo XVIII.",
           "is_correct": false,
           "feedback": "Incorrecto. Ajeno a la historia narrativa paraguaya."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. No corresponde a la trama histórica de la novela."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "'Hijo de hombre' (1960) condensa la memoria colectiva del pueblo paraguayo desde las luchas agrarias e huelgas hasta el heroísmo sacrificado en los desiertos del Chaco.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,19 +328,19 @@
       "context": "En Caacupé, se analiza el concepto de 'yo poético' en versos de Carmen Soler.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Combativa, solidaria con los desposeídos y crítica hacia las dictaduras.",
           "is_correct": true,
           "feedback": "¡Correcto! Su poesía se caracteriza por el compromiso político, la voz de protesta y la defensa de la libertad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Evasiva, alejada de la realidad social y dedicada solo a la mitología griega.",
           "is_correct": false,
           "feedback": "Incorrecto. Su poesía no busca la evasión esteticista."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Indiferente a los problemas campesinos y laborales.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una de las voces más comprometidas del país."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Sus temas son de profunda trascendencia política y humana."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Carmen Soler representa la poesía comprometida y de combate en Paraguay, dando voz al campesinado, a los trabajadores y a los perseguidos políticos.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,31 +373,31 @@
       "context": "En Pilar, se estudia el Romanticismo hispanoamericano y sus figuras como Esteban Echeverría y José Hernández.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El gaucho Martín Fierro de José Hernández",
           "is_correct": true,
           "feedback": "¡Correcto! Obra cumbre de la literatura gauchesca rioplatense."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Facundo de Domingo Faustino Sarmiento",
           "is_correct": false,
           "feedback": "Incorrecto. Ensayos sociopolíticos en prosa sobre civilización y barbarie."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La vorágine de José Eustasio Rivera",
           "is_correct": false,
           "feedback": "Incorrecto. Novela del llano y la selva colombiana."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Doña Bárbara de Rómulo Gallegos",
           "is_correct": false,
           "feedback": "Incorrecto. Novela de los llanos venezolanos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "'El gaucho Martín Fierro' (1872) de José Hernández representa el apogeo de la poesía gauchesca en el Río de la Plata.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,19 +418,19 @@
       "context": "En Concepción, se revisan las características del Boom Latinoamericano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Década de 1960",
           "is_correct": true,
           "feedback": "¡Correcto! En los años 60 se consagraron novelas como \"Cien años de soledad\", \"Rayuela\", \"La ciudad y los perros\" y \"La muerte de Artemio Cruz\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Década de 1920",
           "is_correct": false,
           "feedback": "Incorrecto. Época del vanguardismo y el criollismo regionalista."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Década de 1990",
           "is_correct": false,
           "feedback": "Incorrecto. Época del posboom o narrativa contemporánea reciente."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Época de eclosión del Modernismo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El Boom Latinoamericano se expandió mundialmente en la década de 1960, transformando la técnica novelística y el prestigio de la literatura hispanoamericana.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "En Asunción, se profundiza en la estructura narrativa de 'Yo el Supremo' de Roa Bastos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La técnica del compilador que reúne cuadernos privados, notas al pie, circulares oficiales y voces populares.",
           "is_correct": true,
           "feedback": "¡Correcto! Roa Bastos adopta la figura de un \"compilador\" que organiza múltiples documentos reales y ficticios."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un relato puramente cronológico escrito por un historiador extranjero imparcial.",
           "is_correct": false,
           "feedback": "Incorrecto. La novela desmonta el relato lineal mediante un laberinto documental polifónico."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. No posee forma dramática tradicional."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En 'Yo el Supremo' (1974), Roa Bastos disuelve la voz de autor único asumiendo el rol de 'compilador' que une el dictado del Supremo con glosas, pasquines y documentos históricos.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "En San Lorenzo, se analiza la representación del indio guaraní en la poesía mestiza.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "A través de la concepción del lenguaje como fuerza sagrada (Ayvu) y el profundo respeto por la naturaleza.",
           "is_correct": true,
           "feedback": "¡Correcto! En la mítica guaraní, la palabra (Ayvu) es el alma y esencia sagrada de la persona."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Mediante la imitación de la métrica grecolatina en latín clásico.",
           "is_correct": false,
           "feedback": "Incorrecto. La poesía bilingüe no se inspira en el canon grecolatino."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Despreciando el idioma materno guaraní en favor del francés aristocrático.",
           "is_correct": false,
           "feedback": "Incorrecto. Reivindica con orgullo la dignidad de la lengua materna."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. La poesía rescata y honra las raíces míticas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En la cultura guaraní, la palabra ('Ayvu') es sagrada y constituye la esencia del alma. Los poetas bilingües paraguayos impregnan su obra de esta dimensión cósmica.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,31 +553,31 @@
       "context": "En Luque, se examina el teatro de Josefina Plá y Roque Centurión Miranda.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La modernización dramática y la introducción de problemáticas sociales e identitarias con enfoque crítico.",
           "is_correct": true,
           "feedback": "¡Correcto! Josefina Plá impulsó la dramaturgia paraguaya con obras renovadoras e investigación teatral."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La traducción de comedias musicales hollywoodenses sin adaptación local.",
           "is_correct": false,
           "feedback": "Incorrecto. Su obra estuvo profundamente enraizada en la realidad paraguaya."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La prohibición de la actuación de mujeres en los escenarios teatrales.",
           "is_correct": false,
           "feedback": "Incorrecto. Al contrario, fue una pionera del feminismo cultural en el país."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La creación de guiones exclusivos para radionovelas extranjeras.",
           "is_correct": false,
           "feedback": "Incorrecto. Escribió obras dramáticas de gran aliento para la escena nacional."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Josefina Plá (1903-1999) aportó una mirada vanguardista y crítica al teatro nacional, cofundando elencos y escribiendo piezas clave de la dramaturgia paraguaya.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,31 +598,31 @@
       "context": "En Encarnación, se compara el Vanguardismo poético en Hispanoamérica (Vicente Huidobro, Jorge Luis Borges).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El poeta debe crear realidades propias e independientes en el poema, no imitar a la naturaleza (\"Hacer un poema como la naturaleza hace un árbol\").",
           "is_correct": true,
           "feedback": "¡Correcto! Huidobro proclamó la autonomía absoluta de la creación poética frente a la copia mimética de la naturaleza."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La imitación servil y fotográfica de la realidad cotidiana.",
           "is_correct": false,
           "feedback": "Incorrecto. El Creacionismo rechaza la imitación naturalista."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El retorno estricto a los sonetos de Garcilaso de la Vega.",
           "is_correct": false,
           "feedback": "Incorrecto. Las vanguardias rompieron con las métricas tradicionales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El uso obligatorio del verso rimado consonante.",
           "is_correct": false,
           "feedback": "Incorrecto. Defendió el verso libre y las metáforas audaces."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El Creacionismo de Huidobro afirmaba que el poema no debe imitar la naturaleza, sino constituirse en una nueva realidad creada por la palabra del poeta.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,31 +643,31 @@
       "context": "En Ciudad del Este, se analiza el ensayo 'Nuestra América' de José Martí.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La unión de los pueblos latinoamericanos y la defensa de una identidad autóctona propia frente al imperialismo.",
           "is_correct": true,
           "feedback": "¡Correcto! Martí abogaba por gobernar con elementos propios y unir a Nuestra América ante las pretensiones hegemónicas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La copia ciega de los modelos políticos e institucionales europeos.",
           "is_correct": false,
           "feedback": "Incorrecto. Martí criticaba explícitamente la imitación de soluciones extranjeras."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El abandono de la educación pública en las zonas rurales.",
           "is_correct": false,
           "feedback": "Incorrecto. Promovió la instrucción popular como base de la libertad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La división y enemistad entre las naciones de América Latina.",
           "is_correct": false,
           "feedback": "Incorrecto. Su proclama llamaba a la integración indisoluble de la región."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En 'Nuestra América', José Martí propone un autoconocimiento profundo del hombre latinoamericano y la unión defensiva de nuestros pueblos frente al expansionismo extranjero.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "En Caacupé, se investiga la narrativa de Hugo Rodríguez-Alcalá y la crítica literaria paraguaya.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La elaboración de la \"Historia de la literatura paraguaya\", obra clave de sistematización y crítica literaria.",
           "is_correct": true,
           "feedback": "¡Correcto! Su trabajo historiográfico y crítico estructuró la evolución de la literatura nacional para el ámbito académico internacional."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La invención del primer diccionario bilingüe castellano-inglés.",
           "is_correct": false,
           "feedback": "Incorrecto. No fue su obra principal."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. No corresponde a su producción historiográfica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Hugo Rodríguez-Alcalá (1917-2007) fue un eminente crítico e historiador de las letras paraguayas, cuya 'Historia de la literatura paraguaya' es obra de referencia obligada.\n\n---",
       "difficulty": "10",
       "images": [],

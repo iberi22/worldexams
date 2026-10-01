@@ -19,13 +19,13 @@
           "feedback": "Incorrect. This is the general natural world."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Pollution",
           "is_correct": true,
           "feedback": "Correct! Pollution refers to contamination of the environment."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Weather",
           "is_correct": false,
           "feedback": "Incorrect. This refers to atmospheric conditions."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect. This is a physical capacity to work."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student identifies basic vocabulary for environmental issues.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -65,13 +65,13 @@
           "feedback": "Incorrect. This helps clean the air."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Car exhaust and smoke",
           "is_correct": true,
           "feedback": "Correct! Fumes from vehicles and factories are major air pollutants."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Recycling plastic",
           "is_correct": false,
           "feedback": "Incorrect. This helps the environment."
@@ -83,7 +83,7 @@
           "feedback": "Incorrect. This is a clean energy source."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student identifies specific sources of pollution common in urban environments.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "Using \"should\" for environmental advice.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "should",
           "is_correct": true,
           "feedback": "Correct! Suggests a necessary and positive action for the environment."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "shouldn't",
           "is_correct": false,
           "feedback": "Incorrect. This would be bad advice."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "can't",
           "is_correct": false,
           "feedback": "Incorrect. They are able to do it, and they should."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "won't",
           "is_correct": false,
           "feedback": "Incorrect. This is a negative future prediction, not advice."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "The student applies modal verbs to express environmental recommendations.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -249,25 +249,25 @@
           "feedback": "Incorrect. We lose the oxygen."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Animals lose their natural habitats.",
           "is_correct": true,
           "feedback": "Correct! The text says it's \"destroying the homes\" of species."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "The rainforest becomes colder.",
           "is_correct": false,
           "feedback": "Incorrect. Usually, it contributes to warming."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "More species appear.",
           "is_correct": false,
           "feedback": "Incorrect. They are being affected negatively."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student applies reading strategies to identify specific consequences of an environmental problem.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -341,13 +341,13 @@
           "feedback": "Incorrect."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Because rising sea levels can cause flooding of homes.",
           "is_correct": true,
           "feedback": "Correct! \"Sea levels rise\" and \"houses might go under water\" explain the threat."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Because the water will be too hot for swimming.",
           "is_correct": false,
           "feedback": "Incorrect. Not the main threat mentioned."
@@ -359,7 +359,7 @@
           "feedback": "Incorrect. Not mentioned."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student analyzes the logical sequence of events starting from global warming to its impact on specific human settlements.\n\n---",
       "difficulty": "8",
       "images": [],

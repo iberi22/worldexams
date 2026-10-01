@@ -19,13 +19,13 @@
           "feedback": "Incorrecta, porque un regaño escolar no es un fenómeno peligroso de origen natural o humano."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Un fenómeno peligroso como un sismo, una inundación o un deslizamiento que puede causar daño a personas y bienes.",
           "is_correct": true,
           "feedback": "Correcta, porque define la amenaza como el fenómeno capaz de producir daño."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un juego de video donde el personaje salta muros y recoge monedas de oro.",
           "is_correct": false,
           "feedback": "Incorrecta, porque un juego no es un peligro real para la comunidad."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecta, porque una fiesta ruidosa no es un fenómeno que cause desastres."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La amenaza es el peligro: el sismo, la creciente, el deslizamiento o el vendaval. La vulnerabilidad es qué tan expuestos y frágiles estamos: casas en la ronda del río o sin refuerzo. El riesgo combina ambas. Si hay amenaza pero nadie vive expuesto, el riesgo es bajo.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "En un barrio de Ibagué, dos casas enfrentan el mismo aguacero: una construida lejos del caño sobre terreno firme resiste sin daño, y otra levantada sobre el borde del caño con piso de tierra se inunda y pierde sus enseres.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque la casa del borde tiene mayor vulnerabilidad por su ubicación expuesta y su construcción frágil.",
           "is_correct": true,
           "feedback": "Correcta, porque explica la diferencia por la exposición y la fragilidad ante la misma amenaza."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque la lluvia elige a quién mojar según el color de las paredes de la casa.",
           "is_correct": false,
           "feedback": "Incorrecta, porque la lluvia cae pareja y el color no atrae ni desvía el agua."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecta, porque lo que protege es la ubicación segura y la buena construcción, no la magia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El desastre no lo causa solo la lluvia sino la vulnerabilidad: vivir en zona inundable, sin cimientos ni drenaje, convierte la amenaza en pérdida. La casa segura reduce el riesgo con ubicación adecuada y construcción resistente. Por eso el ordenamiento del territorio salva vidas.",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En una ladera de Manizales, los vecinos notan grietas nuevas en el suelo, postes inclinados y agua que brota donde antes estaba seco, después de una semana de lluvias fuertes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Avisar de inmediato a la familia y a los organismos de socorro y alejarse de la zona inestable hacia un lugar seguro.",
           "is_correct": true,
           "feedback": "Correcta, porque reconoce las señales de un deslizamiento inminente y activa la autoprotección."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Acercarse a la grieta más grande para tomar fotos desde el borde y subirlas a internet.",
           "is_correct": false,
           "feedback": "Incorrecta, porque acercarse al borde inestable expone a ser arrastrado por el deslizamiento."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecta, porque las grietas indican movimiento activo que puede acelerarse con más lluvia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las grietas, los postes inclinados y los nacimientos nuevos de agua anuncian deslizamientos. El suelo saturado pierde fuerza y se desliza ladera abajo. La acción correcta es evacuar, no cruzar la zona y llamar a bomberos o gestión del riesgo. Nunca se tapa ni se construye sobre una grieta activa.",
       "difficulty": "6",
       "images": [],
@@ -203,13 +203,13 @@
           "feedback": "Incorrecta, porque esos objetos no aportan agua, abrigo ni comunicación en la emergencia."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Agua, alimentos no perecederos, linterna con pilas, radio, botiquín, copias de documentos y silbato.",
           "is_correct": true,
           "feedback": "Correcta, porque reúne hidratación, energía, luz, información, salud e identificación para pedir ayuda."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Balde con agua del caño sin tapar y ropa mojada para toda la familia.",
           "is_correct": false,
           "feedback": "Incorrecta, porque el agua destapada se contamina y la ropa mojada enfría y enferma."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecta, porque anotar es útil después, pero no sustituye agua, abrigo ni botiquín."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La mochila de emergencias sostiene las primeras 72 horas: agua potable, comida que no se dañe, linterna, radio de pilas, botiquín, documentos y silbato para pedir ayuda. En sismos Colombia tiembla por el choque de placas, y prepararse salva más vidas que lamentarse después.",
       "difficulty": "6",
       "images": [],
@@ -249,13 +249,13 @@
           "feedback": "Incorrecta, porque describe lo contrario: bosque sano que sí regula la creciente."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Lluvia intensa más suelos deforestados que no retienen agua, lo que acelera la escorrentía y carga los ríos con lodo y troncos.",
           "is_correct": true,
           "feedback": "Correcta, porque conecta lluvia extrema, deforestación y arrastre de materiales en la avenida."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un terremoto en otro continente que empujó el lodo de Mocoa sin que lloviera nada.",
           "is_correct": false,
           "feedback": "Incorrecta, porque el evento fue por lluvia local intensa y no por un sismo lejano."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecta, porque los troncos fueron arrastrados por la corriente y no se movieron solos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La avenida torrencial combina amenaza natural y daño humano: lluvias extremas, pendientes fuertes y cuencas sin bosque que ya no frenan el agua. El suelo desnudo se satura, el agua corre veloz y arrastra todo. Reforestar, respetar las rondas y no construir en el cauce rompen esa cadena.",
       "difficulty": "8",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En el Eje Cafetero, dos colegios practican el simulacro de sismo: en uno todos se agachan, se cubren bajo escritorios firmes y evacúan en orden al punto de encuentro pasando lista, y en otro corren gritando por las escaleras y se devuelven por sus maletas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El primer colegio aplica el protocolo seguro y el segundo aumenta el riesgo de caídas y atrapamientos al correr y devolverse.",
           "is_correct": true,
           "feedback": "Correcta, porque compara agacharse, cubrirse y evacuar en orden frente a correr en pánico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El segundo colegio es mejor porque correr gritando ejercita los pulmones durante el temblor.",
           "is_correct": false,
           "feedback": "Incorrecta, porque correr en escaleras durante el sismo causa caídas y bloquea la evacuación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambos colegios son iguales porque en un sismo real nadie puede hacer nada ordenado.",
           "is_correct": false,
           "feedback": "Incorrecta, porque la práctica ordenada sí reduce víctimas como lo muestran los simulacros."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecta, porque los vidrios se rompen y quedarse junto a ellos causa heridas graves."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Ante un sismo: agacharse, cubrirse bajo un mueble firme lejos de ventanas y sujetarse; si se evacúa, hacerlo en calma sin usar ascensores y pasando lista en el punto de encuentro. El pánico mata más que el temblor: correr, gritar y devolverse por objetos provocan estampidas y atrapamientos.",
       "difficulty": "8",
       "images": [],
@@ -341,13 +341,13 @@
           "feedback": "Incorrecta, porque el mapa con datos reales orienta la prevención del barrio."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Permite identificar las zonas que más se inundan, anticipar evacuaciones y pedir obras de drenaje donde más se necesitan.",
           "is_correct": true,
           "feedback": "Correcta, porque explica el mapa como herramienta de análisis con datos de tiempo y lugar."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solo sirve para decorar el salón con colores bonitos durante la feria escolar.",
           "is_correct": false,
           "feedback": "Incorrecta, porque reduce a decoración una herramienta que salva vidas con información."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecta, porque el mapa previene y orienta, pero el rescate lo hacen los organismos preparados."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El mapa de riesgo cruza amenaza y vulnerabilidad: dónde se desborda, quién vive allí y qué tan frágiles son las casas. Con registros de lluvia, fotos fechadas y testimonios, la comunidad argumenta con datos ante la alcaldía. Indagar el territorio es el primer paso para dejar de repetir el desastre cada año.",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En Popayán, una familia con 500000 COP duda entre reforzar las columnas y vigas de su casa de adobe según la norma sismo resistente o gastar ese dinero en una fiesta y pintar solo la fachada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La fiesta es mejor porque la alegría de los invitados sostiene los muros durante el temblor.",
           "is_correct": false,
           "feedback": "Incorrecta, porque ninguna celebración refuerza columnas ni evita el colapso estructural."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El reforzamiento es mejor porque reduce la vulnerabilidad estructural y protege la vida, mientras la pintura solo mejora la apariencia.",
           "is_correct": true,
           "feedback": "Correcta, porque juzga la reducción real del riesgo frente al gasto solo estético."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecta, porque Popayán está en zona sísmica activa y el silencio no elimina la amenaza."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Evaluar es comparar efectos: el reforzamiento con columnas, vigas y buenos amarres mantiene la casa en pie y salva vidas; la pintura no cambia la estructura. Colombia tiene norma de sismo resistencia justamente porque los sismos se repetirán. Invertir en estructura es invertir en vida.",
       "difficulty": "10",
       "images": [],
@@ -433,25 +433,25 @@
           "feedback": "Incorrecta, porque esperar la ola en la playa expone a morir arrastrado por la corriente."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El plan A es correcto porque prepara la evacuación rápida a zonas altas, mientras el plan B expone vidas sin aportar datos útiles.",
           "is_correct": true,
           "feedback": "Correcta, porque juzga la preparación con evidencia de simulacros frente a la exposición imprudente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambos planes son iguales porque los tsunamis nunca llegan a la costa de Nariño.",
           "is_correct": false,
           "feedback": "Incorrecta, porque Tumaco ya sufrió un tsunami en 1979 y la amenaza sigue vigente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ningún plan sirve porque ante un tsunami lo único posible es esconderse bajo la cama.",
           "is_correct": false,
           "feedback": "Incorrecta, porque esconderse bajo la cama no protege de la inundación y la evacuación alta sí salva."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Tumaco enfrenta amenaza real de tsunami por su fosa oceánica cercana: ante un sismo fuerte y largo, la orden es evacuar a pie a zonas altas sin esperar alarma. El plan A construye memoria con rutas, radios y simulacros medidos. Evaluar planes es preguntar cuál protege la vida con datos y cuál la arriesga por curiosidad.",
       "difficulty": "10",
       "images": [],

@@ -59,19 +59,19 @@
       "context": "En Medellín, unos estudiantes observan un esquema donde dos rectas paralelas son cortadas por dos transversales con segmentos de 3 cm y 6 cm en una transversal, y de 4 cm y x en la otra.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "3 dividido entre 6 es igual a 4 dividido entre x",
           "is_correct": true,
           "feedback": "Correcto. Se igualan las razones de los segmentos correspondientes de cada transversal."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3 más 6 es igual a 4 más x",
           "is_correct": false,
           "feedback": "Incorrecto. El teorema relaciona razones, no sumas de segmentos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "3 por 6 es igual a 4 por x",
           "is_correct": false,
           "feedback": "Incorrecto. Los productos directos no expresan la proporcionalidad sin estar cruzados."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Restar segmentos correspondientes no es el procedimiento de Tales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los segmentos correspondientes deben formar la misma razón: el segmento menor sobre el mayor de una transversal igual al menor sobre el mayor de la otra.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En Cali, en un plano tres calles paralelas son cortadas por dos avenidas. En una avenida los segmentos miden 3 m y 6 m, y en la otra 4 m y un segmento desconocido x.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "8 m",
           "is_correct": true,
           "feedback": "Correcto. 3/6 = 4/x, entonces x = 4 por 6 dividido entre 3 = 8."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "7 m",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste 3 y 4 sin plantear la proporción cruzada."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Invertiste la razón y dividiste 3 entre 2 de forma equivocada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Se plantea 3/6 = 4/x. Al multiplicar en cruz: 3 por x = 24, de donde x = 8 m.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En Barranquilla, un topógrafo registra segmentos proporcionales 2 km y 5 km en un lindero, y 6 km y x en otro lindero paralelo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "15 km",
           "is_correct": true,
           "feedback": "Correcto. 2/5 = 6/x, entonces x = 6 por 5 dividido entre 2 = 15."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "12 km",
           "is_correct": false,
           "feedback": "Incorrecto. Duplicaste 6 sin respetar la razón 2 a 5."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Duplicaste el segmento de 5 km sin usar la regla de tres."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "De 2/5 = 6/x se obtiene 2 por x = 30, por lo tanto x = 15 km.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En Bucaramanga, en un triángulo una recta paralela a la base divide un lado de 12 cm en segmentos de 4 cm y 8 cm, y el otro lado de 15 cm en segmentos de 5 cm y x.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "10 cm",
           "is_correct": true,
           "feedback": "Correcto. 4/8 = 5/x, entonces x = 5 por 8 dividido entre 4 = 10."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "11 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste 1 al segmento conocido sin resolver la proporción."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Usaste la razón invertida 8/4 con el dato equivocado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por Tales en el triángulo, los segmentos guardan la misma razón: 4/8 = 5/x, de donde 4 por x = 40 y x = 10 cm. Además 5 + 10 = 15, que es el lado completo.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En Pereira, a la misma hora del día un poste de 3 m proyecta una sombra de 2 m, mientras un edificio cercano proyecta una sombra de 10 m. Los rayos del sol se consideran paralelos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "15 m",
           "is_correct": true,
           "feedback": "Correcto. 3/2 = h/10, entonces h = 3 por 10 dividido entre 2 = 15."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "12 m",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste 10 y 2 sin plantear la razón altura sobre sombra."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Duplicaste la sombra del edificio sin relacionarla con el poste."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La altura y su sombra son segmentos proporcionales por los rayos paralelos: h = 10 por 3/2 = 15 m.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En Manizales, en un esquema dos transversales determinan segmentos de 6 cm y 9 cm en una recta, y de 10 cm y 15 cm en otra.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Son paralelas, porque 6/9 es igual a 10/15 e igual a 2/3",
           "is_correct": true,
           "feedback": "Correcto. La igualdad de las razones confirma el paralelismo por el recíproco de Tales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Son perpendiculares, porque los segmentos son diferentes",
           "is_correct": false,
           "feedback": "Incorrecto. Que los segmentos sean diferentes no indica perpendicularidad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No son paralelas, porque los segmentos no son iguales",
           "is_correct": false,
           "feedback": "Incorrecto. El criterio es la igualdad de razones, no la igualdad de segmentos."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Las dos razones sí permiten aplicar el recíproco del teorema."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "6/9 = 2/3 y 10/15 = 2/3. Como las razones coinciden, las rectas son paralelas según el recíproco del teorema de Tales.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En Cartagena, en el plano de una obra se miden segmentos de 4 m y 6 m sobre una línea, y de 5 m y 8 m sobre otra, entre las mismas dos transversales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "No son paralelas, porque 4/6 es 0,666 y 5/8 es 0,625, razones distintas",
           "is_correct": true,
           "feedback": "Correcto. Al ser distintas las razones, no se cumple la condición de Tales para el paralelismo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Son paralelas, porque todos los segmentos son menores que 10 m",
           "is_correct": false,
           "feedback": "Incorrecto. El tamaño de los segmentos no determina el paralelismo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Son paralelas, porque 4 más 6 es parecido a 5 más 8",
           "is_correct": false,
           "feedback": "Incorrecto. Comparar sumas no es el criterio de proporcionalidad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Son perpendiculares, porque las razones no coinciden",
           "is_correct": false,
           "feedback": "Incorrecto. Que no sean paralelas no implica que sean perpendiculares."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "4/6 = 2/3 = 0,666 mientras 5/8 = 0,625. La diferencia muestra que los segmentos no son proporcionales y las líneas no son paralelas.",
       "difficulty": "8",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "En Santa Marta, tres carreras paralelas son cortadas por dos calles. En una calle las cuadras miden 120 m y 180 m; en la otra, una cuadra mide 100 m y la siguiente mide x.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "150 m; es la longitud proporcional que conserva la razón 2 a 3 entre cuadras",
           "is_correct": true,
           "feedback": "Correcto. 120/180 = 100/x, de donde x = 100 por 180 dividido entre 120 = 150."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "160 m; es el promedio de 120 y 180 más 10",
           "is_correct": false,
           "feedback": "Incorrecto. Promediar cuadras no aplica el teorema de Tales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "140 m; es la diferencia entre 180 y 120 sumada a 100",
           "is_correct": false,
           "feedback": "Incorrecto. Sumar diferencias no conserva la razón de proporcionalidad."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Duplicar ignora la razón 120 a 180 dada por las paralelas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "120/180 se simplifica a 2/3. Entonces 100/x = 2/3, de donde 2 por x = 300 y x = 150 m.",
       "difficulty": "8",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "En Armenia, una transversal de 28 cm es cortada por rectas paralelas en dos segmentos a y b que están en razón 3 a 4.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "a = 12 cm y b = 16 cm, porque 12/16 = 3/4 y 12 + 16 = 28",
           "is_correct": true,
           "feedback": "Correcto. Se cumplen al tiempo la razón y la suma total del segmento."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "a = 14 cm y b = 14 cm, porque dividen el segmento en partes iguales",
           "is_correct": false,
           "feedback": "Incorrecto. Partes iguales darían razón 1 a 1, no 3 a 4."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. Suman 28 pero 10/18 no se simplifica a 3/4."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Si a/b = 3/4 entonces a = 3k y b = 4k. Como 3k + 4k = 28, k = 4; por tanto a = 12 cm y b = 16 cm.",
       "difficulty": "8",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "En Villavicencio, una estudiante afirma: \"Si dos rectas cualesquiera son cortadas por dos transversales, los segmentos que se forman siempre son proporcionales\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es falsa: la proporcionalidad solo está garantizada cuando las rectas cortadas son paralelas",
           "is_correct": true,
           "feedback": "Correcto. El paralelismo es la condición esencial del teorema de Tales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es verdadera: cualquier par de rectas cortadas produce segmentos proporcionales",
           "is_correct": false,
           "feedback": "Incorrecto. Sin paralelismo las razones pueden ser distintas, como muestran los contraejemplos."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. Con paralelas el teorema sí garantiza la proporcionalidad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El teorema exige rectas paralelas. Sin esa hipótesis, segmentos como 4, 6 frente a 5, 8 no son proporcionales y la afirmación queda refutada.",
       "difficulty": "10",
       "images": [],
@@ -519,31 +519,31 @@
       "context": "En Neiva, un estudiante resuelve la proporción 2/3 = 4/x y responde x = 5 porque \"sumó 1 al 4\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Sumó en vez de multiplicar en cruz: lo correcto es x = 6 porque 2 por x = 12",
           "is_correct": true,
           "feedback": "Correcto. De 2/3 = 4/x se obtiene 2 por x = 12, de donde x = 6."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "No hay error: x = 5 es el valor correcto de la proporción",
           "is_correct": false,
           "feedback": "Incorrecto. 2/3 es 0,666 y 4/5 es 0,8, de modo que no son iguales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El error es simplificar: lo correcto es x = 4 porque los numeradores son iguales",
           "is_correct": false,
           "feedback": "Incorrecto. Igualar numeradores ignora los denominadores de la proporción."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El error es multiplicar en cruz: lo correcto es x = 7 por suma de extremos",
           "is_correct": false,
           "feedback": "Incorrecto. Sumar extremos no es un procedimiento válido para proporciones."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En una proporción el producto de extremos iguala al de medios: 2 por x = 3 por 4 = 12, por lo tanto x = 6. Sumar 1 no tiene fundamento en Tales.",
       "difficulty": "10",
       "images": [],

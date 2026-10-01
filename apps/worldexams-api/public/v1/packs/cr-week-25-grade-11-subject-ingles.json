@@ -19,13 +19,13 @@
           "feedback": "Incorrect. 'Have seen' (Present Perfect) must shift to 'had seen' (Past Perfect) in reported speech."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Carlos said he had never seen such a beautiful quetzal before.",
           "is_correct": true,
           "feedback": "Correct! Present Perfect changes to Past Perfect when the reporting verb is in the past."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Carlos said he never saw such a beautiful quetzal before.",
           "is_correct": false,
           "feedback": "Incorrect. While common in informal speech, the formal rule requires the past perfect."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect. 'Would' is used for future intentions, not past experiences."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "In reported speech, we shift tenses back. Present Perfect (have seen) becomes Past Perfect (had seen). This is a fundamental rule for high-level English proficiency (C1).\n\n---",
       "difficulty": "3",
       "images": [],
@@ -64,13 +64,13 @@
           "feedback": "Incorrect. 'Since 2015' indicates an action that started in the past and continues to the present."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "was led",
           "is_correct": false,
           "feedback": "Incorrect. This would mean the project ended."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "has been led",
           "is_correct": true,
           "feedback": "Correct! Present Perfect Passive is used for actions starting in the past and continuing now."
@@ -82,7 +82,7 @@
           "feedback": "Incorrect. Past Perfect is used for actions completed before another past event."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "The Present Perfect Passive (has/have been + past participle) is used to describe actions that began in the past and are still relevant or ongoing, focusing on the project rather than the leaders.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "A debate about the impact of tourism on the local economy in San Jose.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "invested / would have",
           "is_correct": false,
           "feedback": "Incorrect. The first part is about the past, so it needs the Past Perfect."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "had invested / would have",
           "is_correct": true,
           "feedback": "Correct! This is a mixed conditional: a past hypothesis (Had invested) with a present result (would have)."
@@ -127,7 +127,7 @@
           "feedback": "Incorrect. This is a 1st conditional structure, which is not for past hypotheses."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Mixed conditionals are used to show how past actions or omissions (represented by the Past Perfect) affect the current situation (represented by 'would' + infinitive).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "An article about the introduction of 5G technology in the Central Valley.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "does 5G technology",
           "is_correct": true,
           "feedback": "Correct! 'Not only' at the start of a sentence requires subject-verb inversion (auxiliary before subject)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5G technology does",
           "is_correct": false,
           "feedback": "Incorrect. This is normal word order, which is wrong after an initial negative/restrictive adverbial."
@@ -172,7 +172,7 @@
           "feedback": "Incorrect. The main verb 'provide' is in base form, requiring 'does' as an auxiliary."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Negative inversion is a C1-level structure used for emphasis. When a sentence starts with 'Not only', 'Never', or 'Hardly', we must invert the subject and the auxiliary verb.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "A university professor discussing the ethical implications of AI in education.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "adapts",
           "is_correct": false,
           "feedback": "Incorrect. While common in informal speech, formal English after 'imperative' requires the subjunctive."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "adapt",
           "is_correct": true,
           "feedback": "Correct! The subjunctive mood (base form of the verb) is used after words expressing necessity or urgency."
@@ -217,7 +217,7 @@
           "feedback": "Incorrect. Past tense is not used for present or future necessity in this structure."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The subjunctive mood is used in formal English after adjectives like 'imperative', 'essential', or 'crucial'. It uses the bare infinitive form for all persons (no 's' for third person).\n\n---",
       "difficulty": "5",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorrect. 'Head off' means to leave or prevent something, not specifically changing destination."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "head over",
           "is_correct": true,
           "feedback": "Correct! 'Head over' means to go to a place, often implying a change of location."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "head up",
           "is_correct": false,
           "feedback": "Incorrect. 'Head up' means to lead or be in charge of something."
@@ -262,7 +262,7 @@
           "feedback": "Incorrect. 'Head on' is usually an adjective meaning direct/frontal."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Phrasal verbs are essential for natural-sounding English at an advanced level. 'Head over' or 'head to' are common ways to describe moving toward a specific destination.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Incorrect. 'That' cannot be used in non-defining relative clauses (separated by commas)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "which",
           "is_correct": true,
           "feedback": "Correct! 'Which' is the appropriate relative pronoun for non-defining clauses referring to things or languages."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "what",
           "is_correct": false,
           "feedback": "Incorrect. 'What' cannot be used as a relative pronoun after a noun."
@@ -352,7 +352,7 @@
           "feedback": "Incorrect. 'Who' is used for people."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Relative clauses add information about a noun. Non-defining clauses (with commas) must use 'which' for objects or concepts, never 'that'.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -430,19 +430,19 @@
           "feedback": "Incorrect. 'Would rather' followed by a verb (no new subject) takes the infinitive."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "have spent",
           "is_correct": true,
           "feedback": "Correct! 'Would rather + perfect infinitive' is used to express a preference about a past action that didn't happen."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "had spent",
           "is_correct": false,
           "feedback": "Incorrect. This structure is only used when there is a different subject (e.g., I'd rather you had spent)."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "To express a preference or regret about the past when the subject is the same, we use 'would rather' + 'have' + past participle.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,19 +463,19 @@
       "context": "An official announcement regarding the renovation of the National Theatre in San Jose.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "are being",
           "is_correct": false,
           "feedback": "Incorrect. This implies a current action, not a future completion."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "will restore",
           "is_correct": false,
           "feedback": "Incorrect. The murals cannot restore themselves."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "will have been",
           "is_correct": true,
           "feedback": "Correct! Future Perfect Passive shows that an action will be finished before a specific future time."
@@ -487,7 +487,7 @@
           "feedback": "Incorrect. This is present perfect."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "The Future Perfect Passive (will have been + past participle) is used to indicate that something will be done or completed before a certain point in the future.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "A manager in Heredia giving instructions to their team about a new software implementation.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "you should",
           "is_correct": false,
           "feedback": "Incorrect. An initial negative phrase like 'Under no circumstances' requires inversion."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "should you",
           "is_correct": true,
           "feedback": "Correct! This is another example of negative inversion for strong emphasis or formal rules."
@@ -532,7 +532,7 @@
           "feedback": "Incorrect. 'Should' is the standard modal for this type of instruction."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Negative inversion using 'Under no circumstances' is used to give very strong and formal prohibitions. The modal or auxiliary verb must come before the subject.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Incorrect. This would add a similar idea, but here we are showing a contrast."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "nevertheless",
           "is_correct": true,
           "feedback": "Correct! This connector is used to introduce a contrasting or surprising point."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "consequently",
           "is_correct": false,
           "feedback": "Incorrect. This shows a result, not a contrast."
@@ -577,7 +577,7 @@
           "feedback": "Incorrect. This shows a reason."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Connectors of contrast like 'nevertheless', 'however', or 'nonetheless' are vital for cohesive and sophisticated writing at the C1 level.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "An expert in renewable energy talking about the high percentage of green energy in the Costa Rican grid.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "due",
           "is_correct": false,
           "feedback": "Incorrect. 'Due' is usually followed by 'to', but the phrase 'is due' functions differently than 'is attributed'."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "attributed",
           "is_correct": true,
           "feedback": "Correct! 'Is attributed to' is a formal way to show the cause or credit for a result."
@@ -622,7 +622,7 @@
           "feedback": "Incorrect. You would need to say 'is a result of'."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Advanced vocabulary includes knowing which prepositions follow certain verbs or adjectives. 'Attribute something to someone/something' is a common academic structure.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "Incorrect. 'Last' is an adjective or verb, not an adverb for this context."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "lastly",
           "is_correct": true,
           "feedback": "Incorrect. 'Lastly' means 'finally' in a list of points. The correct word should be 'at last' or 'finally'. Wait, let's re-evaluate options."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "final",
           "is_correct": false,
           "feedback": "Incorrect. This is an adjective."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "finally",
           "is_correct": false,
           "feedback": "Correct! 'Finally' is the adverb indicating that something happened after a long time."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Using adverbs correctly to modify verbs is essential. 'Finally' indicates a long-awaited result, which fits the context of stabilizing after 'years of decline'.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Incorrect. Formal English after 'suggest' requires the subjunctive."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "purchase",
           "is_correct": true,
           "feedback": "Correct! The subjunctive (base form) is used here regardless of the subject being third person singular."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "will purchase",
           "is_correct": false,
           "feedback": "Incorrect. Subjunctive does not use 'will'."
@@ -757,7 +757,7 @@
           "feedback": "Incorrect. Past tense is not used for this type of suggestion."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Another instance of the subjunctive mood. Verbs like 'suggest', 'recommend', and 'demand' are followed by a 'that' clause with the verb in the base form.\n\n---",
       "difficulty": "9",
       "images": [],

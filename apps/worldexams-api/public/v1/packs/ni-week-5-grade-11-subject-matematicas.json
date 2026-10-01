@@ -13,13 +13,13 @@
       "context": "Un estudiante de secundaria en Matagalpa repasa los métodos para resolver ecuaciones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Multiplicar ambos lados por $b$.",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicar por la base no ayuda a aislar el exponente x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Aplicar logaritmos a ambos lados de la ecuación.",
           "is_correct": true,
           "feedback": "Correcto. Aplicar logaritmos permite usar la propiedad de la potencia para bajar el exponente x."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Esta operación no es válida para despejar un exponente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Cuando las bases no se pueden igualar fácilmente, la herramienta fundamental es aplicar logaritmos (comunes o naturales) para transformar la ecuación exponencial en una ecuación lineal.",
       "difficulty": "4",
       "images": [],
@@ -58,19 +58,19 @@
       "context": "Un examen de admisión universitaria en Nicaragua que incluye álgebra avanzada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Propiedad conmutativa.",
           "is_correct": false,
           "feedback": "Incorrecto. La propiedad conmutativa trata sobre el orden de las operaciones."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Propiedad distributiva.",
           "is_correct": false,
           "feedback": "Incorrecto. No se está distribuyendo un factor sobre una suma."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Propiedad de inyectividad (unidireccionalidad) de la función logarítmica.",
           "is_correct": true,
           "feedback": "Correcto. Como a cada valor del dominio le corresponde un único valor del rango, si los logaritmos son iguales, sus argumentos deben serlo."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. No se está cambiando la agrupación de términos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La inyectividad de las funciones logarítmicas y exponenciales es la base legal para \"cancelar\" las funciones en ambos lados de una igualdad siempre que tengan la misma base.",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrecto. Si x=2, el exponente sería 4, y $5^4 = 625$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x = 1$",
           "is_correct": true,
           "feedback": "Correcto. Como $25 = 5^2$, igualamos exponentes: $2x = 2$, por lo tanto $x = 1$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 0$",
           "is_correct": false,
           "feedback": "Incorrecto. $5^0 = 1$, no 25."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Valor muy alto para la igualdad planteada."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Igualamos las bases: $5^{2x} = 5^2$. Por la propiedad de inyectividad, $2x = 2$, lo que nos lleva a $x = 1$.",
       "difficulty": "6",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorrecto. $2^{3+1} = 2^4 = 16$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x = 2$",
           "is_correct": true,
           "feedback": "Correcto. $2^{x+1} = 2^3$, entonces $x + 1 = 3$, por lo que $x = 2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 1$",
           "is_correct": false,
           "feedback": "Incorrecto. $2^2 = 4$."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Valor excedido para la igualdad."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Expresamos 8 como potencia de 2 ($2^3$). Al igualar los exponentes $x+1 = 3$, obtenemos la solución.",
       "difficulty": "6",
       "images": [],
@@ -289,25 +289,25 @@
           "feedback": "Incorrecto. $8-2=6$, y $\\log_3(6)$ no es 2."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$x = 11$",
           "is_correct": true,
           "feedback": "Correcto. $x - 2 = 3^2 = 9$. Sumando 2, obtenemos $x = 11$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 7$",
           "is_correct": false,
           "feedback": "Incorrecto. $3^2 = 9$, no 5."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 13$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de cálculo en la transformación exponencial."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Transformamos a la forma exponencial $3^2 = x-2$. Esto resulta en $9 = x-2$, por lo tanto $x = 11$.",
       "difficulty": "6",
       "images": [],
@@ -334,25 +334,25 @@
           "feedback": "Incorrecto. \"log\" suele referirse a base 10. Para base e se usa \"ln\"."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$x = \\ln(10)$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando logaritmo natural en ambos lados, $\\ln(e^x) = \\ln(10)$, por lo que $x = \\ln(10)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 10^e$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta no es la operación inversa."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = \\sqrt[e]{10}$",
           "is_correct": false,
           "feedback": "Incorrecto. Los logaritmos no son raíces radicales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El logaritmo natural ($\\ln$) es la función inversa de la base $e$. Aplicarlo a ambos lados \"baja\" la $x$ y nos da la solución exacta.",
       "difficulty": "6",
       "images": [],
@@ -379,13 +379,13 @@
           "feedback": "Incorrecto. $\\log(10) + \\log(2) = \\log(20)$, no $\\log(12)$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x = 6$",
           "is_correct": true,
           "feedback": "Correcto. Usando la propiedad del producto: $\\log(2x) = \\log(12)$, por lo tanto $2x = 12$ y $x = 6$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 14$",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumó 2 en lugar de multiplicar por 2."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Se multiplicó 12 por 2 en lugar de dividir."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Combinamos los logaritmos de la izquierda usando $\\log M + \\log N = \\log(MN)$. Luego igualamos los argumentos.",
       "difficulty": "6",
       "images": [],
@@ -418,19 +418,19 @@
       "context": "Uso de la propiedad del cociente en ecuaciones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 1$",
           "is_correct": false,
           "feedback": "Incorrecto. No se restan los argumentos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x = 7$",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumaron los argumentos, error de propiedad."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$x = 12$",
           "is_correct": true,
           "feedback": "Correcto. $\\ln(x/3) = \\ln(4) \\Rightarrow x/3 = 4 \\Rightarrow x = 12$."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Se dividió 4 entre 3 en lugar de multiplicar."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La resta de logaritmos equivale al logaritmo de la división de los argumentos. Al igualar $x/3 = 4$, despejamos $x$.",
       "difficulty": "6",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Resolución de una ecuación logarítmica que requiere simplificación previa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 12.5$",
           "is_correct": false,
           "feedback": "Incorrecto. No se divide el argumento entre el coeficiente exterior."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 5$",
           "is_correct": true,
           "feedback": "Correcto. El 2 sube como exponente: $\\log_2(x^2) = \\log_2(25) \\Rightarrow x^2 = 25$. Como el dominio de x es positivo, $x = 5$."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Error conceptual al manejar el coeficiente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Aplicamos la propiedad de la potencia en sentido inverso: $k \\log M = \\log M^k$. Luego igualamos $x^2 = 25$.",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "Una ecuación exponencial que requiere el uso de logaritmos comunes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x \\approx 0.36$",
           "is_correct": false,
           "feedback": "Incorrecto. El resultado debe ser mayor que 2 ($3^2=9$)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x \\approx 2.73$",
           "is_correct": true,
           "feedback": "Correcto. $x \\log 3 = \\log 20 \\Rightarrow x = 1.301 / 0.477 \\approx 2.727$."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Error en el cálculo de la división de logaritmos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Aplicamos logaritmos en ambos lados: $\\log(3^x) = \\log(20)$. Bajamos la $x$ como multiplicador: $x \\log 3 = \\log 20$. Finalmente dividimos los valores.",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorrecto. Una de las soluciones no pertenece al dominio original."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Solo $x = 5$ es solución.",
           "is_correct": true,
           "feedback": "Correcto. Para $x = -2$, el argumento $\\log(x)$ sería $\\log(-2)$, lo cual no existe en los reales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solo $x = -2$ es solución.",
           "is_correct": false,
           "feedback": "Incorrecto. Los logaritmos de números negativos no están definidos."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. El valor 5 sí cumple con la ecuación y las restricciones de dominio."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Este es un ejemplo de \"solución extraña\". Aunque el álgebra produce dos resultados, solo el 5 permite que todos los argumentos de la ecuación original sean positivos.",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Uso de cambio de base para resolver una ecuación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = \\frac{2 \\log 5}{3 \\log 2 - 5}$",
           "is_correct": false,
           "feedback": "Incorrecto. El término independiente en el denominador está mal calculado."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = \\frac{2 \\log 5}{3 \\log 2 - \\log 5}$",
           "is_correct": true,
           "feedback": "Correcto. Al aplicar logaritmos: $3x \\log 2 = (x+2) \\log 5 \\Rightarrow 3x \\log 2 = x \\log 5 + 2 \\log 5$. Despejando x obtenemos el resultado."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. No se pueden simplificar las bases de esta manera."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Aplicamos logaritmos, distribuimos el logaritmo del lado derecho sobre el binomio, agrupamos los términos con $x$ a un lado, factorizamos $x$ y despejamos.",
       "difficulty": "8",
       "images": [],
@@ -739,25 +739,25 @@
           "feedback": "Incorrecto. Estos son los valores de la variable intermedia u, no de x."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$x = 2$ y $x = 1$",
           "is_correct": true,
           "feedback": "Correcto. Sea $u = 2^x$. La ecuación es $u^2 - 6u + 8 = 0$, factorizando $(u-4)(u-2)=0$. Entonces $2^x=4 \\Rightarrow x=2$ y $2^x=2 \\Rightarrow x=1$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 8$ y $x = 6$",
           "is_correct": false,
           "feedback": "Incorrecto. Valores sin relación lógica con la factorización."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No tiene solución real.",
           "is_correct": false,
           "feedback": "Incorrecto. La ecuación cuadrática en u tiene raíces reales positivas, lo que garantiza soluciones para x."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Reconocemos que $4^x = (2^x)^2$. Resolvemos la cuadrática para $2^x$ y luego resolvemos las dos ecuaciones exponenciales básicas resultantes para hallar el valor de $x$.",
       "difficulty": "10",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. $\\log_2(3) + \\log_4(3)$ no suma 3."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x = 4$",
           "is_correct": true,
           "feedback": "Correcto. Cambiamos base: $\\log_2(x) + \\frac{\\log_2(x)}{\\log_2(4)} = 3 \\Rightarrow \\log_2(x) + \\frac{1}{2}\\log_2(x) = 3 \\Rightarrow \\frac{3}{2}\\log_2(x) = 3 \\Rightarrow \\log_2(x) = 2 \\Rightarrow x = 4$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 8$",
           "is_correct": false,
           "feedback": "Incorrecto. Daría $3 + 1.5 = 4.5$, excediendo el valor 3."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Daría $1 + 0.5 = 1.5$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para resolver ecuaciones con logaritmos de bases distintas, debemos usar la fórmula de cambio de base para unificar todos los términos bajo una misma base antes de combinar.",
       "difficulty": "10",
       "images": [],
@@ -829,25 +829,25 @@
           "feedback": "Incorrecto. $2^1 \\cdot 4^3 = 2 \\cdot 64 = 128$, no 32."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$x = 3, y = 1$",
           "is_correct": true,
           "feedback": "Correcto. De la segunda eq: $x + y = 4$. De la primera: $2^x \\cdot 2^{2y} = 2^5 \\Rightarrow x + 2y = 5$. Resolviendo el sistema lineal resultante obtenemos $x=3, y=1$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 2, y = 2$",
           "is_correct": false,
           "feedback": "Incorrecto. $2^2 \\cdot 4^2 = 4 \\cdot 16 = 64$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 4, y = 0$",
           "is_correct": false,
           "feedback": "Incorrecto. $\\log(4+0) = \\log(4)$, pero $2^4 \\cdot 4^0 = 16$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Transformamos las ecuaciones originales en un sistema de ecuaciones lineales. La exponencial se convierte en lineal igualando bases, y la logarítmica igualando argumentos.",
       "difficulty": "10",
       "images": [],

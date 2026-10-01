@@ -58,31 +58,31 @@
       "context": "Procesos moleculares de transcripción y traducción genética Caso N° 2.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Actúa como codón de parada o terminación (Ochre)",
           "is_correct": true,
           "feedback": "Correcto. El codón $UAA$ funciona como codón de parada o terminación (Ochre)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sintetiza la enzima ADN polimerasa directamente",
           "is_correct": false,
           "feedback": "Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se une irreversiblemente a la pared celular",
           "is_correct": false,
           "feedback": "Incorrecto. Ocurre dentro del complejo ribosomal citoplasmático."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Empareja bases directamente con la histona",
           "is_correct": false,
           "feedback": "Incorrecto. El codón interactúa con el anticodón del ARNt."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El código genético asigna a cada triplete de ARNm una función. El triplete UAA actúa como codón de parada o terminación (Ochre).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Procesos moleculares de transcripción y traducción genética Caso N° 4.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Actúa como codón de parada o terminación (Opal)",
           "is_correct": true,
           "feedback": "Correcto. El codón $UGA$ funciona como codón de parada o terminación (Opal)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sintetiza la enzima ADN polimerasa directamente",
           "is_correct": false,
           "feedback": "Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se une irreversiblemente a la pared celular",
           "is_correct": false,
           "feedback": "Incorrecto. Ocurre dentro del complejo ribosomal citoplasmático."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. El codón interactúa con el anticodón del ARNt."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El código genético asigna a cada triplete de ARNm una función. El triplete UGA actúa como codón de parada o terminación (Opal).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,31 +193,31 @@
       "context": "Procesos moleculares de transcripción y traducción genética Caso N° 5.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Actúa como codón de inicio que incorpora Metionina",
           "is_correct": true,
           "feedback": "Correcto. El codón $AUG$ funciona como codón de inicio que incorpora Metionina."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sintetiza la enzima ADN polimerasa directamente",
           "is_correct": false,
           "feedback": "Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se une irreversiblemente a la pared celular",
           "is_correct": false,
           "feedback": "Incorrecto. Ocurre dentro del complejo ribosomal citoplasmático."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Empareja bases directamente con la histona",
           "is_correct": false,
           "feedback": "Incorrecto. El codón interactúa con el anticodón del ARNt."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El código genético asigna a cada triplete de ARNm una función. El triplete AUG actúa como codón de inicio que incorpora Metionina.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Procesos moleculares de transcripción y traducción genética Caso N° 6.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Actúa como codón de parada o terminación (Ochre)",
           "is_correct": true,
           "feedback": "Correcto. El codón $UAA$ funciona como codón de parada o terminación (Ochre)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sintetiza la enzima ADN polimerasa directamente",
           "is_correct": false,
           "feedback": "Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. El codón interactúa con el anticodón del ARNt."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El código genético asigna a cada triplete de ARNm una función. El triplete UAA actúa como codón de parada o terminación (Ochre).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "Procesos moleculares de transcripción y traducción genética Caso N° 7.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Actúa como codón de parada o terminación (Amber)",
           "is_correct": true,
           "feedback": "Correcto. El codón $UAG$ funciona como codón de parada o terminación (Amber)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sintetiza la enzima ADN polimerasa directamente",
           "is_correct": false,
           "feedback": "Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. El codón interactúa con el anticodón del ARNt."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El código genético asigna a cada triplete de ARNm una función. El triplete UAG actúa como codón de parada o terminación (Amber).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Procesos moleculares de transcripción y traducción genética Caso N° 9.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Actúa como codón de inicio que incorpora Metionina",
           "is_correct": true,
           "feedback": "Correcto. El codón $AUG$ funciona como codón de inicio que incorpora Metionina."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sintetiza la enzima ADN polimerasa directamente",
           "is_correct": false,
           "feedback": "Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. El codón interactúa con el anticodón del ARNt."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El código genético asigna a cada triplete de ARNm una función. El triplete AUG actúa como codón de inicio que incorpora Metionina.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,19 +418,19 @@
       "context": "Procesos moleculares de transcripción y traducción genética Caso N° 10.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Actúa como codón de parada o terminación (Ochre)",
           "is_correct": true,
           "feedback": "Correcto. El codón $UAA$ funciona como codón de parada o terminación (Ochre)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sintetiza la enzima ADN polimerasa directamente",
           "is_correct": false,
           "feedback": "Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se une irreversiblemente a la pared celular",
           "is_correct": false,
           "feedback": "Incorrecto. Ocurre dentro del complejo ribosomal citoplasmático."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. El codón interactúa con el anticodón del ARNt."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El código genético asigna a cada triplete de ARNm una función. El triplete UAA actúa como codón de parada o terminación (Ochre).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,31 +463,31 @@
       "context": "Procesos moleculares de transcripción y traducción genética Caso N° 11.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Actúa como codón de parada o terminación (Amber)",
           "is_correct": true,
           "feedback": "Correcto. El codón $UAG$ funciona como codón de parada o terminación (Amber)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sintetiza la enzima ADN polimerasa directamente",
           "is_correct": false,
           "feedback": "Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se une irreversiblemente a la pared celular",
           "is_correct": false,
           "feedback": "Incorrecto. Ocurre dentro del complejo ribosomal citoplasmático."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Empareja bases directamente con la histona",
           "is_correct": false,
           "feedback": "Incorrecto. El codón interactúa con el anticodón del ARNt."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El código genético asigna a cada triplete de ARNm una función. El triplete UAG actúa como codón de parada o terminación (Amber).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,31 +553,31 @@
       "context": "Procesos moleculares de transcripción y traducción genética Caso N° 13.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Actúa como codón de inicio que incorpora Metionina",
           "is_correct": true,
           "feedback": "Correcto. El codón $AUG$ funciona como codón de inicio que incorpora Metionina."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sintetiza la enzima ADN polimerasa directamente",
           "is_correct": false,
           "feedback": "Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se une irreversiblemente a la pared celular",
           "is_correct": false,
           "feedback": "Incorrecto. Ocurre dentro del complejo ribosomal citoplasmático."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Empareja bases directamente con la histona",
           "is_correct": false,
           "feedback": "Incorrecto. El codón interactúa con el anticodón del ARNt."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El código genético asigna a cada triplete de ARNm una función. El triplete AUG actúa como codón de inicio que incorpora Metionina.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,19 +598,19 @@
       "context": "Procesos moleculares de transcripción y traducción genética Caso N° 14.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Actúa como codón de parada o terminación (Ochre)",
           "is_correct": true,
           "feedback": "Correcto. El codón $UAA$ funciona como codón de parada o terminación (Ochre)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sintetiza la enzima ADN polimerasa directamente",
           "is_correct": false,
           "feedback": "Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se une irreversiblemente a la pared celular",
           "is_correct": false,
           "feedback": "Incorrecto. Ocurre dentro del complejo ribosomal citoplasmático."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. El codón interactúa con el anticodón del ARNt."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El código genético asigna a cada triplete de ARNm una función. El triplete UAA actúa como codón de parada o terminación (Ochre).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,31 +688,31 @@
       "context": "Procesos moleculares de transcripción y traducción genética Caso N° 16.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Actúa como codón de parada o terminación (Opal)",
           "is_correct": true,
           "feedback": "Correcto. El codón $UGA$ funciona como codón de parada o terminación (Opal)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sintetiza la enzima ADN polimerasa directamente",
           "is_correct": false,
           "feedback": "Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se une irreversiblemente a la pared celular",
           "is_correct": false,
           "feedback": "Incorrecto. Ocurre dentro del complejo ribosomal citoplasmático."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Empareja bases directamente con la histona",
           "is_correct": false,
           "feedback": "Incorrecto. El codón interactúa con el anticodón del ARNt."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El código genético asigna a cada triplete de ARNm una función. El triplete UGA actúa como codón de parada o terminación (Opal).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -778,31 +778,31 @@
       "context": "Procesos moleculares de transcripción y traducción genética Caso N° 18.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Actúa como codón de parada o terminación (Ochre)",
           "is_correct": true,
           "feedback": "Correcto. El codón $UAA$ funciona como codón de parada o terminación (Ochre)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sintetiza la enzima ADN polimerasa directamente",
           "is_correct": false,
           "feedback": "Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se une irreversiblemente a la pared celular",
           "is_correct": false,
           "feedback": "Incorrecto. Ocurre dentro del complejo ribosomal citoplasmático."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Empareja bases directamente con la histona",
           "is_correct": false,
           "feedback": "Incorrecto. El codón interactúa con el anticodón del ARNt."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El código genético asigna a cada triplete de ARNm una función. El triplete UAA actúa como codón de parada o terminación (Ochre).\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Procesos moleculares de transcripción y traducción genética Caso N° 19.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Actúa como codón de parada o terminación (Amber)",
           "is_correct": true,
           "feedback": "Correcto. El codón $UAG$ funciona como codón de parada o terminación (Amber)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sintetiza la enzima ADN polimerasa directamente",
           "is_correct": false,
           "feedback": "Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. El codón interactúa con el anticodón del ARNt."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El código genético asigna a cada triplete de ARNm una función. El triplete UAG actúa como codón de parada o terminación (Amber).\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,31 +868,31 @@
       "context": "Procesos moleculares de transcripción y traducción genética Caso N° 20.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Actúa como codón de parada o terminación (Opal)",
           "is_correct": true,
           "feedback": "Correcto. El codón $UGA$ funciona como codón de parada o terminación (Opal)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sintetiza la enzima ADN polimerasa directamente",
           "is_correct": false,
           "feedback": "Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se une irreversiblemente a la pared celular",
           "is_correct": false,
           "feedback": "Incorrecto. Ocurre dentro del complejo ribosomal citoplasmático."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Empareja bases directamente con la histona",
           "is_correct": false,
           "feedback": "Incorrecto. El codón interactúa con el anticodón del ARNt."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El código genético asigna a cada triplete de ARNm una función. El triplete UGA actúa como codón de parada o terminación (Opal).",
       "difficulty": "10",
       "images": [],

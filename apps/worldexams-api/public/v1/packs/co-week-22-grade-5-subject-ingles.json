@@ -13,19 +13,19 @@
       "context": "In a fifth-grade class in Barranquilla, the teacher explains how to describe what classmates are doing right now.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Subject + am/is/are + verb-ing.",
           "is_correct": true,
           "feedback": "The Present Continuous uses the verb \"to be\" plus the main verb with -ing."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Subject + verb in past tense.",
           "is_correct": false,
           "feedback": "The past simple is used for finished actions, not for actions happening now."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Subject + do/does + verb.",
           "is_correct": false,
           "feedback": "\"Do/does\" is used in the present simple, not in the continuous."
@@ -37,7 +37,7 @@
           "feedback": "\"Will\" is used for the future, not for actions happening now."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Reconocer la estructura del Presente Continuo en inglés: sujeto + am/is/are + verbo en -ing.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "A student in Pereira observes the playground and writes: \"The children are playing soccer. My friend is eating an apple. Two boys are running very fast.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "The children are playing soccer.",
           "is_correct": true,
           "feedback": "\"Are playing\" is a correct Present Continuous form for a present action."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "The children plays soccer.",
           "is_correct": false,
           "feedback": "\"Plays\" is present simple, not continuous, and \"children\" is plural."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "The children played soccer yesterday.",
           "is_correct": false,
           "feedback": "\"Played\" is past simple, not continuous."
@@ -129,7 +129,7 @@
           "feedback": "\"Will play\" is future simple, not continuous."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicar la estructura del Presente Continuo para describir acciones del momento.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Read: \"Right now, the students are not using their phones in class. They are listening to the teacher and taking notes.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "The students are not using their phones in class.",
           "is_correct": true,
           "feedback": "The negative adds \"not\" after the verb \"to be\": are not using."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "The students don't using their phones in class.",
           "is_correct": false,
           "feedback": "\"Don't\" is used in the present simple, not in the continuous."
@@ -221,7 +221,7 @@
           "feedback": "With plural \"students\" we use \"are\", not \"is\"."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar la forma negativa del Presente Continuo con la posición correcta de \"not\".",
       "difficulty": "6",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "Read: \"Right now, my mother is cooking lunch, my father is reading the newspaper, my sister is studying for a test, and I am doing my homework.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Each member of the family is busy with a different activity at the same time.",
           "is_correct": true,
           "feedback": "The text shows several actions happening at the same moment in the family."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "The whole family is sleeping because no one is doing anything.",
           "is_correct": false,
           "feedback": "Each person is performing an activity, so they are not sleeping."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Only one person is doing something in the house.",
           "is_correct": false,
           "feedback": "Four different people are doing different activities."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "The family is celebrating a birthday party.",
           "is_correct": false,
           "feedback": "The text describes daily activities, not a birthday party."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analizar varias acciones simultáneas usando el Presente Continuo en un mismo contexto.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "Read: 'Using the Present Continuous helps English learners describe what is happening at the moment, share real-time observations and communicate clearly in daily conversations.'",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Because it allows us to describe what is happening right now in daily life and share clear observations with others.",
           "is_correct": true,
           "feedback": "El Presente Continuo es clave para comunicar acciones del momento presente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Because it is only used in very formal academic writing.",
           "is_correct": false,
           "feedback": "Se usa en la conversación diaria, no solo en textos académicos formales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Because it replaces the present simple in all situations.",
           "is_correct": false,
           "feedback": "El Presente Continuo no reemplaza al simple; ambos cumplen funciones distintas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Because it is not useful for talking about the present.",
           "is_correct": false,
           "feedback": "Precisamente, es el tiempo más útil para hablar del presente en curso."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluar la importancia del Presente Continuo para comunicar acciones del momento en inglés.",
       "difficulty": "10",
       "images": [],

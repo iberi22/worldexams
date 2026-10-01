@@ -13,19 +13,19 @@
       "context": "En clase de ciencias en Pasto, la profesora muestra un cartel con los planetas del Sistema Solar ordenados desde el Sol.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Mercurio.",
           "is_correct": true,
           "feedback": "Mercurio es el planeta más cercano al Sol en el Sistema Solar."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Tierra.",
           "is_correct": false,
           "feedback": "La Tierra es el tercer planeta desde el Sol, no el primero."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Júpiter.",
           "is_correct": false,
           "feedback": "Júpiter es el quinto planeta desde el Sol, mucho más lejos que Mercurio."
@@ -37,7 +37,7 @@
           "feedback": "Neptuno es el planeta más lejano del Sol, no el más cercano."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Reconocer el orden de los planetas del Sistema Solar comenzando desde el más cercano al Sol.",
       "difficulty": "4",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En clase se explica: \"La Tierra tarda aproximadamente 365 días en dar una vuelta completa alrededor del Sol. Este movimiento se llama traslación.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La sucesión de las cuatro estaciones del año (primavera, verano, otoño e invierno).",
           "is_correct": true,
           "feedback": "La traslación, junto con la inclinación del eje, produce las estaciones."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El cambio entre el día y la noche en pocas horas.",
           "is_correct": false,
           "feedback": "El día y la noche se explican por la rotación, no por la traslación."
@@ -221,7 +221,7 @@
           "feedback": "La salida y puesta del Sol se relacionan con la rotación, no con la traslación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Relacionar el movimiento de traslación de la Tierra con la duración del año y las estaciones.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "Compara: \"Mercurio es pequeño, muy cercano al Sol y con temperaturas extremas. Júpiter es enorme, está lejos del Sol y formado principalmente por gases.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Mercurio es un planeta rocoso pequeño cercano al Sol; Júpiter es un planeta gaseoso gigante y lejano.",
           "is_correct": true,
           "feedback": "Mercurio es rocoso y cercano al Sol; Júpiter es gaseoso, gigante y mucho más lejano."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ambos son planetas gaseosos del mismo tamaño.",
           "is_correct": false,
           "feedback": "Mercurio es rocoso y pequeño, mientras Júpiter es gaseoso y enorme."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Mercurio es el planeta más grande y Júpiter el más pequeño.",
           "is_correct": false,
           "feedback": "Es al revés: Júpiter es el planeta más grande del Sistema Solar."
@@ -267,7 +267,7 @@
           "feedback": "Mercurio y Júpiter son planetas del Sistema Solar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Comparar las características de un planeta rocoso cercano al Sol con un planeta gaseoso gigante.",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Lee: \"Plutón fue considerado el noveno planeta, pero en 2006 la Unión Astronómica Internacional lo reclasificó como planeta enano porque no cumple todas las condiciones para ser planeta.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "No cumple con todas las condiciones para ser considerado un planeta, por ejemplo limpiar su órbita.",
           "is_correct": true,
           "feedback": "Plutón comparte su órbita con otros cuerpos, por eso se reclasificó como planeta enano."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Está más cerca del Sol que Mercurio.",
           "is_correct": false,
           "feedback": "Plutón está más lejos del Sol que Neptuno, no más cerca que Mercurio."
@@ -313,7 +313,7 @@
           "feedback": "Plutón no tiene agua líquida en su superficie; es un cuerpo helado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Analizar los criterios científicos que permiten distinguir planetas, planetas enanos y otros cuerpos.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Lee: 'La Tierra es el único planeta del Sistema Solar con condiciones conocidas para albergar vida: agua líquida, atmósfera con oxígeno y temperatura adecuada. Cuidar la atmósfera y el agua es esencial para preservar la vida.'",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque reúne condiciones para la vida, y debemos cuidar la atmósfera, el agua y la temperatura.",
           "is_correct": true,
           "feedback": "Las condiciones especiales de la Tierra permiten la vida y deben ser protegidas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque es el planeta más grande del Sistema Solar.",
           "is_correct": false,
           "feedback": "La Tierra no es el planeta más grande; Júpiter lo es."
@@ -359,7 +359,7 @@
           "feedback": "La Tierra sí tiene movimientos de rotación y traslación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluar las condiciones que hacen de la Tierra un planeta habitable y la responsabilidad de cuidarlas.",
       "difficulty": "10",
       "images": [],

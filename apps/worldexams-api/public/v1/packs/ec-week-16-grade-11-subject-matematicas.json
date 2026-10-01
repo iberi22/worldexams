@@ -19,25 +19,25 @@
           "feedback": "Incorrecto. Eso es la definición de derivada."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El conjunto de todas las antiderivadas de la función.",
           "is_correct": true,
           "feedback": "Correcto. La integral indefinida busca la función original cuya derivada es $f(x)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El valor exacto del área bajo la curva en un intervalo.",
           "is_correct": false,
           "feedback": "Incorrecto. El área exacta se calcula con la integral definida."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El límite de la función cuando $x$ tiende a infinito.",
           "is_correct": false,
           "feedback": "Incorrecto. Esto es un concepto de análisis de comportamiento final."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La integración indefinida es el proceso inverso a la derivación, permitiendo recuperar una función a partir de su tasa de cambio.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -64,13 +64,13 @@
           "feedback": "Incorrecto. El resultado es una familia de funciones."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Porque funciones que difieren en una constante tienen la misma derivada.",
           "is_correct": true,
           "feedback": "Correcto. Como la derivada de una constante es cero, no podemos saber el valor original del término independiente sin información adicional."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Para indicar que la integral no ha terminado de calcularse.",
           "is_correct": false,
           "feedback": "Incorrecto. La $C$ es parte integral del resultado final."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Se añade a todas las integrales indefinidas de cualquier tipo de función."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La constante $C$ representa la indeterminación del término constante original, que se pierde durante el proceso de derivación.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Integral de una constante. Un flujo constante de agua en un canal de riego en la provincia de Loja es de 5 m³/s.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$V(t) = 5$",
           "is_correct": false,
           "feedback": "Incorrecto. Esto representaría un volumen que no cambia con el tiempo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$V(t) = 5t$",
           "is_correct": true,
           "feedback": "Correcto. La integral de una constante $k$ respecto a $t$ es $kt + C$. Como $V(0)=0$, $C=0$."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Relación lineal con pendiente incorrecta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Modelado de la acumulación de una magnitud constante a través del tiempo mediante la integración básica.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrecto. Aplicó derivación en lugar de integración."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x^3 - x^2 + x + C$",
           "is_correct": true,
           "feedback": "Correcto. Integrando término a término: $\\frac{3x^3}{3} - \\frac{2x^2}{2} + 1x = x^3 - x^2 + x$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$3x^3 - 2x^2 + x + C$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó simplificar las fracciones resultantes."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Omitió la integral del término constante 1."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Uso de la propiedad de linealidad de la integral para resolver antiderivadas de funciones polinómicas.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorrecto. La regla de la potencia no es aplicable cuando $n = -1$ debido a la división por cero."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\ln(x) + C$",
           "is_correct": true,
           "feedback": "Correcto. Esta es la integral fundamental definida por la relación inversa del logaritmo natural."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$-\\frac{1}{x^2} + C$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la derivada de $1/x$."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. La función exponencial no es la antiderivada de la recíproca."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Identificación del logaritmo natural como la antiderivada de la función racional $1/x$, un pilar del análisis matemático.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -469,25 +469,25 @@
           "feedback": "Incorrecto. Olvidó incrementar el exponente externo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$\\frac{(x^2 + 1)^4}{4} + C$",
           "is_correct": true,
           "feedback": "Correcto. Sea $u = x^2 + 1 \\Rightarrow du = 2x \\, dx$. La integral queda $\\int u^3 \\, du = u^4/4$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(x^2 + 1)^4 + C$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó dividir por 4."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\frac{x^2(x^2 + 1)^4}{4} + C$",
           "is_correct": false,
           "feedback": "Incorrecto. Trató de integrar ambos factores por separado de forma incorrecta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Identificación del patrón $f(g(x))g'(x)$ para aplicar el método de sustitución simple en el cálculo de antiderivadas.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Incorrecto. Olvidó compensar la derivada interna de $2x$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\frac{1}{2}\\ln(2x + 5) + C$",
           "is_correct": true,
           "feedback": "Correcto. Sustitución $u = 2x+5 \\Rightarrow du = 2 \\, dx$. Entonces $dx = du/2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\ln(x) + 5x + C$",
           "is_correct": false,
           "feedback": "Incorrecto. Trató de integrar los términos por separado, lo cual es inválido en el denominador."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Multiplicó por 2 en lugar de dividir."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Extensión de la regla del logaritmo para argumentos lineales mediante el ajuste de coeficientes.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -604,25 +604,25 @@
           "feedback": "Incorrecto. Esta sería la integral de $2x/(1+x^2)$."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$\\arctan(x) + C$",
           "is_correct": true,
           "feedback": "Correcto. La derivada del arcotangente es exactamente el integrando dado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\arcsin(x) + C$",
           "is_correct": false,
           "feedback": "Incorrecto. La integral del arcoseno involucra una raíz cuadrada."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$-\\frac{1}{(1 + x^2)^2} + C$",
           "is_correct": false,
           "feedback": "Incorrecto. Trató de usar la regla de la potencia de forma inapropiada."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Identificación de integrales fundamentales que corresponden a las derivadas de funciones trigonométricas inversas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,19 +733,19 @@
       "context": "Integral de la función tangente.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\sec^2(x) + C$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la derivada, no la integral."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\sec(x) + C$",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface la prueba de la derivada."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$-\\ln|\\cos(x)| + C$",
           "is_correct": true,
           "feedback": "Correcto. Escribiendo como $\\int \\frac{\\sin x}{\\cos x} \\, dx$ y usando $u = \\cos x$. También es igual a $\\ln|\\sec x| + C$."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Corresponde a la integral de la cotangente."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Deducción de integrales trigonométricas mediante la conversión a razones de seno y coseno y el uso de la sustitución logarítmica.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. Falta el factor $\\cos(x)$ para el $du$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Regla de la potencia directa: $\\sin^3(x)/3$.",
           "is_correct": false,
           "feedback": "Incorrecto. Solo es válida si la base es la variable de integración simple."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Uso de la identidad de ángulo doble: $\\sin^2(x) = \\frac{1 - \\cos(2x)}{2}$.",
           "is_correct": true,
           "feedback": "Correcto. Permite transformar una potencia en una suma de funciones lineales fáciles de integrar."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Es posible pero mucho más complejo que usar identidades."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Importancia de las identidades trigonométricas para reducir el grado de las potencias de funciones periódicas y facilitar su integración.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -835,19 +835,19 @@
           "feedback": "Incorrecto. Esta es la función de velocidad, no la de posición."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$s(t) = -\\cos(t) + 2t + 1$",
           "is_correct": true,
           "feedback": "Correcto. $v(t) = \\sin t + 2$. $s(t) = \\int (\\sin t + 2) \\, dt = -\\cos t + 2t + C$. Como $s(0) = -1 + 0 + C = 0$, entonces $C=1$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$s(t) = \\cos(t) + 2t - 1$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signo al integrar la velocidad."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Doble integración para obtener la posición a partir de la aceleración, manejando múltiples constantes de integración y condiciones iniciales.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Un problema de sustitución \"ingeniosa\" o avanzada. Calcule $\\int \\frac{e^x}{e^{2x} + 1} \\, dx$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\ln(e^{2x} + 1) + C$",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface el diferencial del numerador."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\frac{1}{2} \\ln(e^{2x} + 1) + C$",
           "is_correct": false,
           "feedback": "Incorrecto. Trató de usar sustitución logarítmica sin considerar la estructura de cuadrado más uno."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$\\arctan(e^x) + C$",
           "is_correct": true,
           "feedback": "Correcto. Sea $u = e^x \\Rightarrow du = e^x \\, dx$. La integral queda $\\int \\frac{1}{u^2 + 1} \\, du = \\arctan(u)$."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Error en la aplicación del método de sustitución."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Integración de funciones exponenciales que derivan en formas trigonométricas inversas mediante cambios de variable adecuados.",
       "difficulty": "10",
       "images": [],

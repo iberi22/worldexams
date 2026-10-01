@@ -13,19 +13,19 @@
       "context": "En una empresa textil de Medellín, se modela el volumen de producción diaria en función del tiempo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x = 2$",
           "is_correct": true,
           "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 9$",
           "is_correct": false,
           "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = -2$",
           "is_correct": false,
           "feedback": "Incorrecto: error de signo en el nivel de producción."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La derivada del beneficio es $B'(x) = -2x + 4$. Igualando a cero para encontrar el máximo: $-2x + 4 = 0 \\implies 2x = 4 \\implies x = 2$. Como $B''(x) = -2 < 0$, es un máximo.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "Un laboratorio farmacéutico en Bogotá analiza la concentración de un medicamento en el torrente sanguíneo a lo largo de las horas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 3$",
           "is_correct": true,
           "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 11$",
           "is_correct": false,
           "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La derivada del beneficio es $B'(x) = -2x + 6$. Igualando a cero para encontrar el máximo: $-2x + 6 = 0 \\implies 2x = 6 \\implies x = 3$. Como $B''(x) = -2 < 0$, es un máximo.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En el puerto de Buenaventura, se registra el nivel de la marea y la tasa de variación del nivel del agua.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = 4$",
           "is_correct": true,
           "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 13$",
           "is_correct": false,
           "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = -4$",
           "is_correct": false,
           "feedback": "Incorrecto: error de signo en el nivel de producción."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 104$",
           "is_correct": false,
           "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La derivada del beneficio es $B'(x) = -2x + 8$. Igualando a cero para encontrar el máximo: $-2x + 8 = 0 \\implies 2x = 8 \\implies x = 4$. Como $B''(x) = -2 < 0$, es un máximo.",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "Un cultivo de flores en la Sabana de Bogotá estudia la tasa de crecimiento de las plantas bajo ciertas condiciones de riego.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 5$",
           "is_correct": true,
           "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 15$",
           "is_correct": false,
           "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La derivada del beneficio es $B'(x) = -2x + 10$. Igualando a cero para encontrar el máximo: $-2x + 10 = 0 \\implies 2x = 10 \\implies x = 5$. Como $B''(x) = -2 < 0$, es un máximo.",
       "difficulty": "4",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En la ciudad de Cali, un sistema de transporte masivo monitorea la velocidad de los buses y la aceleración instantánea.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 6$",
           "is_correct": true,
           "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 17$",
           "is_correct": false,
           "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La derivada del beneficio es $B'(x) = -2x + 12$. Igualando a cero para encontrar el máximo: $-2x + 12 = 0 \\implies 2x = 12 \\implies x = 6$. Como $B''(x) = -2 < 0$, es un máximo.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "Un ingeniero civil en el proyecto del metro de Bogotá evalúa la curva de deformación de una viga de concreto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x = 7$",
           "is_correct": true,
           "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 19$",
           "is_correct": false,
           "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = -7$",
           "is_correct": false,
           "feedback": "Incorrecto: error de signo en el nivel de producción."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La derivada del beneficio es $B'(x) = -2x + 14$. Igualando a cero para encontrar el máximo: $-2x + 14 = 0 \\implies 2x = 14 \\implies x = 7$. Como $B''(x) = -2 < 0$, es un máximo.",
       "difficulty": "6",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En un estudio económico en Bucaramanga, se analiza el costo marginal y la utilidad máxima de una fábrica de calzado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 10$",
           "is_correct": true,
           "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 25$",
           "is_correct": false,
           "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La derivada del beneficio es $B'(x) = -2x + 20$. Igualando a cero para encontrar el máximo: $-2x + 20 = 0 \\implies 2x = 20 \\implies x = 10$. Como $B''(x) = -2 < 0$, es un máximo.",
       "difficulty": "6",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "Un centro meteorológico en Cartagena registra el incremento de la temperatura promedio durante el medio día.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 11$",
           "is_correct": true,
           "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 27$",
           "is_correct": false,
           "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La derivada del beneficio es $B'(x) = -2x + 22$. Igualando a cero para encontrar el máximo: $-2x + 22 = 0 \\implies 2x = 22 \\implies x = 11$. Como $B''(x) = -2 < 0$, es un máximo.",
       "difficulty": "6",
       "images": [],
@@ -473,31 +473,31 @@
       "context": "En una empresa textil de Medellín, se modela el volumen de producción diaria en función del tiempo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = 12$",
           "is_correct": true,
           "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 29$",
           "is_correct": false,
           "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = -12$",
           "is_correct": false,
           "feedback": "Incorrecto: error de signo en el nivel de producción."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 112$",
           "is_correct": false,
           "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La derivada del beneficio es $B'(x) = -2x + 24$. Igualando a cero para encontrar el máximo: $-2x + 24 = 0 \\implies 2x = 24 \\implies x = 12$. Como $B''(x) = -2 < 0$, es un máximo.",
       "difficulty": "8",
       "images": [],
@@ -519,31 +519,31 @@
       "context": "Un laboratorio farmacéutico en Bogotá analiza la concentración de un medicamento en el torrente sanguíneo a lo largo de las horas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = 13$",
           "is_correct": true,
           "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 31$",
           "is_correct": false,
           "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = -13$",
           "is_correct": false,
           "feedback": "Incorrecto: error de signo en el nivel de producción."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 113$",
           "is_correct": false,
           "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La derivada del beneficio es $B'(x) = -2x + 26$. Igualando a cero para encontrar el máximo: $-2x + 26 = 0 \\implies 2x = 26 \\implies x = 13$. Como $B''(x) = -2 < 0$, es un máximo.",
       "difficulty": "8",
       "images": [],
@@ -565,31 +565,31 @@
       "context": "En el puerto de Buenaventura, se registra el nivel de la marea y la tasa de variación del nivel del agua.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = 14$",
           "is_correct": true,
           "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 33$",
           "is_correct": false,
           "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = -14$",
           "is_correct": false,
           "feedback": "Incorrecto: error de signo en el nivel de producción."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 114$",
           "is_correct": false,
           "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La derivada del beneficio es $B'(x) = -2x + 28$. Igualando a cero para encontrar el máximo: $-2x + 28 = 0 \\implies 2x = 28 \\implies x = 14$. Como $B''(x) = -2 < 0$, es un máximo.",
       "difficulty": "8",
       "images": [],
@@ -611,31 +611,31 @@
       "context": "Un cultivo de flores en la Sabana de Bogotá estudia la tasa de crecimiento de las plantas bajo ciertas condiciones de riego.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = 15$",
           "is_correct": true,
           "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 35$",
           "is_correct": false,
           "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = -15$",
           "is_correct": false,
           "feedback": "Incorrecto: error de signo en el nivel de producción."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 115$",
           "is_correct": false,
           "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La derivada del beneficio es $B'(x) = -2x + 30$. Igualando a cero para encontrar el máximo: $-2x + 30 = 0 \\implies 2x = 30 \\implies x = 15$. Como $B''(x) = -2 < 0$, es un máximo.",
       "difficulty": "8",
       "images": [],
@@ -657,31 +657,31 @@
       "context": "En la ciudad de Cali, un sistema de transporte masivo monitorea la velocidad de los buses y la aceleración instantánea.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = 16$",
           "is_correct": true,
           "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 37$",
           "is_correct": false,
           "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = -16$",
           "is_correct": false,
           "feedback": "Incorrecto: error de signo en el nivel de producción."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 116$",
           "is_correct": false,
           "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La derivada del beneficio es $B'(x) = -2x + 32$. Igualando a cero para encontrar el máximo: $-2x + 32 = 0 \\implies 2x = 32 \\implies x = 16$. Como $B''(x) = -2 < 0$, es un máximo.",
       "difficulty": "8",
       "images": [],
@@ -703,31 +703,31 @@
       "context": "Un ingeniero civil en el proyecto del metro de Bogotá evalúa la curva de deformación de una viga de concreto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = 17$",
           "is_correct": true,
           "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 39$",
           "is_correct": false,
           "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = -17$",
           "is_correct": false,
           "feedback": "Incorrecto: error de signo en el nivel de producción."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 117$",
           "is_correct": false,
           "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La derivada del beneficio es $B'(x) = -2x + 34$. Igualando a cero para encontrar el máximo: $-2x + 34 = 0 \\implies 2x = 34 \\implies x = 17$. Como $B''(x) = -2 < 0$, es un máximo.",
       "difficulty": "8",
       "images": [],
@@ -841,31 +841,31 @@
       "context": "En un estudio económico en Bucaramanga, se analiza el costo marginal y la utilidad máxima de una fábrica de calzado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = 20$",
           "is_correct": true,
           "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 45$",
           "is_correct": false,
           "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = -20$",
           "is_correct": false,
           "feedback": "Incorrecto: error de signo en el nivel de producción."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 120$",
           "is_correct": false,
           "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La derivada del beneficio es $B'(x) = -2x + 40$. Igualando a cero para encontrar el máximo: $-2x + 40 = 0 \\implies 2x = 40 \\implies x = 20$. Como $B''(x) = -2 < 0$, es un máximo.",
       "difficulty": "10",
       "images": [],
@@ -887,13 +887,13 @@
       "context": "Un centro meteorológico en Cartagena registra el incremento de la temperatura promedio durante el medio día.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 21$",
           "is_correct": true,
           "feedback": "Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 47$",
           "is_correct": false,
           "feedback": "Incorrecto: falta dividir entre 2 al despejar x."
@@ -911,7 +911,7 @@
           "feedback": "Incorrecto: se tomó el término constante en vez de derivar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La derivada del beneficio es $B'(x) = -2x + 42$. Igualando a cero para encontrar el máximo: $-2x + 42 = 0 \\implies 2x = 42 \\implies x = 21$. Como $B''(x) = -2 < 0$, es un máximo.",
       "difficulty": "10",
       "images": [],

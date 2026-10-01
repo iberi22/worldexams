@@ -13,19 +13,19 @@
       "context": "In a classroom in Bogota, a teacher shows pictures of the sky: sunny, rainy, cloudy, and windy.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Cloudy.",
           "is_correct": true,
           "feedback": "\"Cloudy\" describes a sky covered with clouds, so the sun is hidden."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sunny.",
           "is_correct": false,
           "feedback": "\"Sunny\" means the sun is bright and there are few or no clouds."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Windy.",
           "is_correct": false,
           "feedback": "\"Windy\" describes moving air, not a sky full of clouds."
@@ -37,7 +37,7 @@
           "feedback": "\"Rainy\" describes falling water, not just clouds covering the sun."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Recognizing basic weather words in English by matching each word with the sky condition it describes.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "Read: \"Cartagena is very hot and sunny almost all year, so people go to the beach and wear light clothes.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Because the weather there is hot and sunny.",
           "is_correct": true,
           "feedback": "The text connects hot and sunny weather with wearing light clothes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Because it is very cold and snowy every day.",
           "is_correct": false,
           "feedback": "The text says Cartagena is hot, not cold or snowy."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Because it rains heavily every single hour.",
           "is_correct": false,
           "feedback": "Constant heavy rain is not mentioned in the text."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Because the city is high in the snowy mountains.",
           "is_correct": false,
           "feedback": "Cartagena is on the coast, and the text does not mention mountains."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Understanding a cause-effect relationship about weather in a short descriptive text in English.",
       "difficulty": "4",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Ana lives in Barranquilla, a coastal city where it is hot and the air often moves strongly.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "It is windy in Barranquilla, so the flags move a lot.",
           "is_correct": true,
           "feedback": "In a windy place, moving air makes flags and kites move."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "It is windy in Barranquilla, so the sun does not exist.",
           "is_correct": false,
           "feedback": "Wind does not make the sun disappear; that is not what \"windy\" means."
@@ -221,7 +221,7 @@
           "feedback": "People can go outside on windy days; this does not explain the word \"windy\"."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Using the weather adjective \"windy\" in a meaningful sentence about a real Colombian city.",
       "difficulty": "6",
       "images": [],

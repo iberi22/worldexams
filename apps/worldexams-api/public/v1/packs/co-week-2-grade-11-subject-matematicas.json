@@ -105,19 +105,19 @@
       "context": "En Cartagena, Valentina presupone que el costo diario $C$ en miles de COP cumple la condición $2x + 3 \\le 25$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x \\le 11$",
           "is_correct": true,
           "feedback": "Correcto. Restando 3 a ambos lados obtenemos $2x \\le 22$, y dividiendo entre 2 resulta $x \\le 11$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x \\ge 11$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x \\le 14$",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error en la resta de 3."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para despejar $x$ en $2x + 3 \\le 25$, restamos 3 de ambos miembros: $2x \\le 22$. Luego dividimos entre 2 manteniendo la desigualdad: $x \\le 11$.",
       "difficulty": "4",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En Manizales, Mariana presupone que el costo diario $C$ en miles de COP cumple la condición $2x + 5 \\le 35$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x \\le 15$",
           "is_correct": true,
           "feedback": "Correcto. Restando 5 a ambos lados obtenemos $2x \\le 30$, y dividiendo entre 2 resulta $x \\le 15$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x \\ge 15$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x \\le 18$",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error en la resta de 5."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x \\le 30$",
           "is_correct": false,
           "feedback": "Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para despejar $x$ en $2x + 5 \\le 35$, restamos 5 de ambos miembros: $2x \\le 30$. Luego dividimos entre 2 manteniendo la desigualdad: $x \\le 15$.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En Santa Marta, Juan presupone que el costo diario $C$ en miles de COP cumple la condición $2x + 6 \\le 40$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x \\le 17$",
           "is_correct": true,
           "feedback": "Correcto. Restando 6 a ambos lados obtenemos $2x \\le 34$, y dividiendo entre 2 resulta $x \\le 17$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x \\ge 17$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para despejar $x$ en $2x + 6 \\le 40$, restamos 6 de ambos miembros: $2x \\le 34$. Luego dividimos entre 2 manteniendo la desigualdad: $x \\le 17$.",
       "difficulty": "6",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En Bogotá, Alejandro presupone que el costo diario $C$ en miles de COP cumple la condición $2x + 8 \\le 50$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x \\le 21$",
           "is_correct": true,
           "feedback": "Correcto. Restando 8 a ambos lados obtenemos $2x \\le 42$, y dividiendo entre 2 resulta $x \\le 21$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x \\ge 21$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para despejar $x$ en $2x + 8 \\le 50$, restamos 8 de ambos miembros: $2x \\le 42$. Luego dividimos entre 2 manteniendo la desigualdad: $x \\le 21$.",
       "difficulty": "6",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En Medellín, Isabella presupone que el costo diario $C$ en miles de COP cumple la condición $2x + 9 \\le 55$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x \\le 23$",
           "is_correct": true,
           "feedback": "Correcto. Restando 9 a ambos lados obtenemos $2x \\le 46$, y dividiendo entre 2 resulta $x \\le 23$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x \\ge 23$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para despejar $x$ en $2x + 9 \\le 55$, restamos 9 de ambos miembros: $2x \\le 46$. Luego dividimos entre 2 manteniendo la desigualdad: $x \\le 23$.",
       "difficulty": "6",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "En Barranquilla, Sofia presupone que el costo diario $C$ en miles de COP cumple la condición $2x + 11 \\le 65$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x \\le 27$",
           "is_correct": true,
           "feedback": "Correcto. Restando 11 a ambos lados obtenemos $2x \\le 54$, y dividiendo entre 2 resulta $x \\le 27$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x \\ge 27$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para despejar $x$ en $2x + 11 \\le 65$, restamos 11 de ambos miembros: $2x \\le 54$. Luego dividimos entre 2 manteniendo la desigualdad: $x \\le 27$.",
       "difficulty": "8",
       "images": [],
@@ -519,19 +519,19 @@
       "context": "En Bucaramanga, Diego presupone que el costo diario $C$ en miles de COP cumple la condición $2x + 12 \\le 70$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x \\le 29$",
           "is_correct": true,
           "feedback": "Correcto. Restando 12 a ambos lados obtenemos $2x \\le 58$, y dividiendo entre 2 resulta $x \\le 29$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x \\ge 29$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x \\le 32$",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error en la resta de 12."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para despejar $x$ en $2x + 12 \\le 70$, restamos 12 de ambos miembros: $2x \\le 58$. Luego dividimos entre 2 manteniendo la desigualdad: $x \\le 29$.",
       "difficulty": "8",
       "images": [],
@@ -565,19 +565,19 @@
       "context": "En Cartagena, Valentina presupone que el costo diario $C$ en miles de COP cumple la condición $2x + 13 \\le 75$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x \\le 31$",
           "is_correct": true,
           "feedback": "Correcto. Restando 13 a ambos lados obtenemos $2x \\le 62$, y dividiendo entre 2 resulta $x \\le 31$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x \\ge 31$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x \\le 34$",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error en la resta de 13."
@@ -589,7 +589,7 @@
           "feedback": "Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para despejar $x$ en $2x + 13 \\le 75$, restamos 13 de ambos miembros: $2x \\le 62$. Luego dividimos entre 2 manteniendo la desigualdad: $x \\le 31$.",
       "difficulty": "8",
       "images": [],
@@ -611,31 +611,31 @@
       "context": "En Pereira, Santiago presupone que el costo diario $C$ en miles de COP cumple la condición $2x + 14 \\le 80$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x \\le 33$",
           "is_correct": true,
           "feedback": "Correcto. Restando 14 a ambos lados obtenemos $2x \\le 66$, y dividiendo entre 2 resulta $x \\le 33$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x \\ge 33$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x \\le 36$",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error en la resta de 14."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x \\le 66$",
           "is_correct": false,
           "feedback": "Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para despejar $x$ en $2x + 14 \\le 80$, restamos 14 de ambos miembros: $2x \\le 66$. Luego dividimos entre 2 manteniendo la desigualdad: $x \\le 33$.",
       "difficulty": "8",
       "images": [],
@@ -703,31 +703,31 @@
       "context": "En Santa Marta, Juan presupone que el costo diario $C$ en miles de COP cumple la condición $2x + 16 \\le 90$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x \\le 37$",
           "is_correct": true,
           "feedback": "Correcto. Restando 16 a ambos lados obtenemos $2x \\le 74$, y dividiendo entre 2 resulta $x \\le 37$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x \\ge 37$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x \\le 40$",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error en la resta de 16."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x \\le 74$",
           "is_correct": false,
           "feedback": "Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para despejar $x$ en $2x + 16 \\le 90$, restamos 16 de ambos miembros: $2x \\le 74$. Luego dividimos entre 2 manteniendo la desigualdad: $x \\le 37$.",
       "difficulty": "8",
       "images": [],
@@ -749,13 +749,13 @@
       "context": "En Pasto, Camila presupone que el costo diario $C$ en miles de COP cumple la condición $2x + 17 \\le 95$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x \\le 39$",
           "is_correct": true,
           "feedback": "Correcto. Restando 17 a ambos lados obtenemos $2x \\le 78$, y dividiendo entre 2 resulta $x \\le 39$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x \\ge 39$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo."
@@ -773,7 +773,7 @@
           "feedback": "Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para despejar $x$ en $2x + 17 \\le 95$, restamos 17 de ambos miembros: $2x \\le 78$. Luego dividimos entre 2 manteniendo la desigualdad: $x \\le 39$.",
       "difficulty": "10",
       "images": [],
@@ -841,13 +841,13 @@
       "context": "En Medellín, Isabella presupone que el costo diario $C$ en miles de COP cumple la condición $2x + 19 \\le 105$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x \\le 43$",
           "is_correct": true,
           "feedback": "Correcto. Restando 19 a ambos lados obtenemos $2x \\le 86$, y dividiendo entre 2 resulta $x \\le 43$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x \\ge 43$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo."
@@ -865,7 +865,7 @@
           "feedback": "Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para despejar $x$ en $2x + 19 \\le 105$, restamos 19 de ambos miembros: $2x \\le 86$. Luego dividimos entre 2 manteniendo la desigualdad: $x \\le 43$.",
       "difficulty": "10",
       "images": [],
@@ -887,13 +887,13 @@
       "context": "En Cali, Mateo presupone que el costo diario $C$ en miles de COP cumple la condición $2x + 20 \\le 110$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x \\le 45$",
           "is_correct": true,
           "feedback": "Correcto. Restando 20 a ambos lados obtenemos $2x \\le 90$, y dividiendo entre 2 resulta $x \\le 45$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x \\ge 45$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo."
@@ -911,7 +911,7 @@
           "feedback": "Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para despejar $x$ en $2x + 20 \\le 110$, restamos 20 de ambos miembros: $2x \\le 90$. Luego dividimos entre 2 manteniendo la desigualdad: $x \\le 45$.",
       "difficulty": "10",
       "images": [],

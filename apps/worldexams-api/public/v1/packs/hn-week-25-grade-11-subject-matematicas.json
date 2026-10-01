@@ -25,19 +25,19 @@
           "feedback": "Incorrecto. Simplemente sumaste 12 al peso de un saco."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "546.0 kg",
           "is_correct": true,
           "feedback": "¡Correcto! 45.5 x 12 = 546."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "556.0 kg",
           "is_correct": false,
           "feedback": "Incorrecto. Error en el acarreo de la multiplicación."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Para encontrar el peso total, multiplicamos el peso de un solo saco (45.5) por la cantidad total de sacos (12). 45.5 * 10 = 455; 45.5 * 2 = 91; 455 + 91 = 546.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -64,25 +64,25 @@
           "feedback": "Incorrecto. Multiplicaste por 4 en lugar de 4.5."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "L. 1,260",
           "is_correct": true,
           "feedback": "¡Correcto! 280 x 4.5 = 1,260."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "L. 1,350",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la operación aritmética."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "L. 1,400",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste por 5 en lugar de 4.5."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El costo total se obtiene multiplicando el consumo (280 kWh) por el precio unitario (L. 4.50). 280 * 4 = 1120; 280 * 0.5 = 140; 1120 + 140 = 1260.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -109,13 +109,13 @@
           "feedback": "Incorrecto. Error en la conversión de unidades de cm a km."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "30 km",
           "is_correct": true,
           "feedback": "¡Correcto! 6 * 500,000 cm = 3,000,000 cm = 30 km."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "300 km",
           "is_correct": false,
           "feedback": "Incorrecto. Agregaste un cero de más en la conversión."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Error grave de escala."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La escala 1:500,000 significa que 1 cm en el mapa son 500,000 cm en la realidad. 6 cm * 500,000 = 3,000,000 cm. Convertimos a km dividiendo por 100,000: 3,000,000 / 100,000 = 30 km.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -154,25 +154,25 @@
           "feedback": "Incorrecto. Solo sumaste el largo y el ancho una vez."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "460 m",
           "is_correct": true,
           "feedback": "¡Correcto! P = 2(150) + 2(80) = 300 + 160 = 460."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "12,000 m",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste el área, no el perímetro."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "400 m",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la suma de los lados."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El perímetro de un rectángulo se calcula sumando dos veces el largo y dos veces el ancho: P = 2L + 2W. En este caso, P = 2(150) + 2(80) = 460 metros.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "En una tienda de La Ceiba, se ofrece un descuento por temporada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "L. 7,410",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la resta o en el cálculo del descuento."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "L. 7,140",
           "is_correct": true,
           "feedback": "¡Correcto! El 15% de 8,400 es 1,260. 8,400 - 1,260 = 7,140."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Error en la resta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Primero calculamos el valor del descuento: 8,400 * 0.15 = 1,260. Luego restamos el descuento al precio original: 8,400 - 1,260 = 7,140.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorrecto. Multiplicaste por 3 en lugar de usar potencia de 2."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "2,000",
           "is_correct": false,
           "feedback": "Incorrecto. Solo duplicaste dos veces."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "4,000",
           "is_correct": true,
           "feedback": "¡Correcto! En 9 horas hay 3 periodos de duplicación. 500 * 2^3 = 500 * 8 = 4,000."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Error en el cálculo exponencial."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Determinamos cuántas veces se duplica la población: 9 horas / 3 horas = 3 veces. Usamos la fórmula de crecimiento exponencial: N = N0 * 2^n. N = 500 * 2^3 = 500 * 8 = 4,000.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -289,25 +289,25 @@
           "feedback": "Incorrecto. Solo calculaste el interés de un año."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "L. 1,600",
           "is_correct": true,
           "feedback": "¡Correcto! I = C * r * t = 10,000 * 0.08 * 2 = 1,600."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "L. 11,600",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el monto total, no solo el interés ganado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "L. 2,000",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la aplicación de la tasa."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La fórmula del interés simple es I = P * r * t, donde P es el capital, r la tasa decimal y t el tiempo en años. I = 10,000 * 0.08 * 2 = 1,600.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -340,19 +340,19 @@
           "feedback": "Incorrecto. Error en la simplificación."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "x = 11",
           "is_correct": true,
           "feedback": "¡Correcto! 4x - 12 = 2x + 10 => 2x = 22 => x = 11."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "x = 22",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste dividir por 2 al final."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Primero distribuimos: 4x - 12 = 2x + 10. Luego agrupamos las x: 4x - 2x = 10 + 12, lo que resulta en 2x = 22. Finalmente despejamos x dividiendo por 2: x = 11.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -430,19 +430,19 @@
           "feedback": "Incorrecto. No es suficiente para elevar el promedio a 88."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "95",
           "is_correct": true,
           "feedback": "¡Correcto! La suma total debe ser 88 * 5 = 440. 440 - (85+90+78+92) = 440 - 345 = 95."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "100",
           "is_correct": false,
           "feedback": "Incorrecto. Superas el promedio deseado."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Para un promedio de 88 en 5 exámenes, la suma de las notas debe ser 88 * 5 = 440. Sumamos las notas actuales: 85 + 90 + 78 + 92 = 345. La nota necesaria es 440 - 345 = 95.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -475,19 +475,19 @@
           "feedback": "Incorrecto. Usaste el diámetro en lugar del radio en la fórmula r²."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "1,256 m²",
           "is_correct": true,
           "feedback": "¡Correcto! El radio es 20m. A = 3.14 * 20^2 = 3.14 * 400 = 1,256."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "12,560 m²",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la posición del punto decimal."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El radio es la mitad del diámetro (40 / 2 = 20 m). La fórmula del área es A = π * r². A ≈ 3.14 * (20 m)² = 3.14 * 400 m² = 1,256 m².\n\n---",
       "difficulty": "6",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Estudio de funciones cuadráticas en el movimiento de un proyectil.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "(0, 3)",
           "is_correct": false,
           "feedback": "Incorrecto. Este punto no está sobre el eje X."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "(3, 0)",
           "is_correct": true,
           "feedback": "¡Correcto! x^2 - 6x + 9 = (x - 3)^2. La raíz es x = 3."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Ese es el valor de f(0), no la raíz."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Para hallar las raíces, igualamos la función a cero: x² - 6x + 9 = 0. Notamos que es un trinomio cuadrado perfecto: (x - 3)² = 0. Por lo tanto, x = 3 es la única raíz.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -559,25 +559,25 @@
           "feedback": "Incorrecto. A mayor radio, menor velocidad de rotación."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "40 RPM",
           "is_correct": true,
           "feedback": "¡Correcto! r1 * v1 = r2 * v2 => 10 * 60 = 15 * v2 => 600 / 15 = 40."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "45 RPM",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la división."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "30 RPM",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la proporción."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La relación entre radios y velocidades en poleas conectadas es inversamente proporcional: r1 * ω1 = r2 * ω2. Sustituyendo: 10 * 60 = 15 * ω2. ω2 = 600 / 15 = 40 RPM.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Resolución de sistemas de ecuaciones en economía local.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "x=2, y=6",
           "is_correct": false,
           "feedback": "Incorrecto. No cumple la segunda ecuación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x=4, y=2",
           "is_correct": true,
           "feedback": "¡Correcto! 2(4)+2=10 y 4-2=2."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. No cumple la segunda ecuación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Podemos usar el método de eliminación sumando ambas ecuaciones: (2x + y) + (x - y) = 10 + 2 => 3x = 12 => x = 4. Sustituyendo x en la segunda: 4 - y = 2 => y = 2.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "Logaritmos y su aplicación en la escala Richter.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "10",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste 2 * 5 en lugar de elevar a la potencia."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "25",
           "is_correct": false,
           "feedback": "Incorrecto. Elevarste 5 al cuadrado en lugar de 2 a la quinta."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "32",
           "is_correct": true,
           "feedback": "¡Correcto! Por definición de logaritmo: 2^5 = x. x = 32."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Te excediste en una potencia de 2."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La definición de logaritmo establece que si log_b(x) = y, entonces b^y = x. En este caso, 2^5 = x, por lo tanto x = 2 * 2 * 2 * 2 * 2 = 32.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. Subestimaste el crecimiento constante."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "L. 1,050",
           "is_correct": true,
           "feedback": "¡Correcto! a12 = 500 + (12 - 1) * 50 = 500 + 550 = 1,050."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "L. 1,100",
           "is_correct": false,
           "feedback": "Incorrecto. Usaste n en lugar de (n-1)."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Error en el cálculo de la diferencia común."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Es una progresión aritmética donde a1 = 500 y d = 50. La fórmula para el término n es an = a1 + (n - 1)d. Para n=12: a12 = 500 + (11 * 50) = 500 + 550 = 1,050.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -823,19 +823,19 @@
       "context": "Geometría analítica en el diseño de una antena en Santa Bárbara.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "3 unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Solo restaste las coordenadas X."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "4 unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Solo restaste las coordenadas Y."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "5 unidades",
           "is_correct": true,
           "feedback": "¡Correcto! d = √((5-2)^2 + (7-3)^2) = √(3^2 + 4^2) = √(9 + 16) = 5."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Error en la aplicación del teorema de Pitágoras."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Usamos la fórmula de distancia entre dos puntos: d = √((x2 - x1)² + (y2 - y1)²). d = √((5 - 2)² + (7 - 3)²) = √(3² + 4²) = √(9 + 16) = √25 = 5.\n\n---",
       "difficulty": "9",
       "images": [],

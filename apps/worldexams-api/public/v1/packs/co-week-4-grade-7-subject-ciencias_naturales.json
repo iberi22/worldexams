@@ -59,19 +59,19 @@
       "context": "Una profesora en Bello infla un globo dentro de una botella para mostrar cómo trabaja un músculo bajo los pulmones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Filtrar los alimentos antes de tragar",
           "is_correct": false,
           "feedback": "Incorrecta porque esa función corresponde a estructuras digestivas, no respiratorias."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Bombear la sangre hacia las piernas",
           "is_correct": false,
           "feedback": "Incorrecta porque bombear sangre es función del corazón."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Contraerse y aplanarse para permitir la entrada de aire",
           "is_correct": true,
           "feedback": "Correcta porque su contracción amplía la caja torácica e ingresa aire."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecta porque los glóbulos rojos se producen en la médula ósea."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El diafragma es un músculo en forma de cúpula: al contraerse baja y crea espacio para que los pulmones se llenen, y al relajarse ayuda a expulsar el aire. Comprenderlo explica la mecánica de inhalar y exhalar.",
       "difficulty": "4",
       "images": [],
@@ -111,25 +111,25 @@
           "feedback": "Incorrecta porque las partículas entran por las vías respiratorias, no por los huesos."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Porque las partículas ingresan por nariz y boca e irritan vías y alvéolos",
           "is_correct": true,
           "feedback": "Correcta porque la puerta de entrada del aire son las vías respiratorias."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque el aire contaminado se dirige directo al estómago",
           "is_correct": false,
           "feedback": "Incorrecta porque el aire va a los pulmones, no al estómago."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque los pulmones están fuera del cuerpo",
           "is_correct": false,
           "feedback": "Incorrecta porque los pulmones son internos, pero conectados al exterior por las vías."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El material particulado del Valle de Aburrá penetra hasta bronquios y alvéolos y causa irritación y dificultad respiratoria. Aplicar esta idea justifica medidas como reducir la actividad física intensa en episodios críticos.",
       "difficulty": "6",
       "images": [],
@@ -157,25 +157,25 @@
           "feedback": "Incorrecta porque invierte el sentido del intercambio en los alvéolos."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El oxígeno pasa a la sangre y el dióxido de carbono sale hacia el aire exhalado",
           "is_correct": true,
           "feedback": "Correcta porque describe el intercambio gaseoso alveolar real."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No ocurre ningún intercambio de gases al respirar",
           "is_correct": false,
           "feedback": "Incorrecta porque sin intercambio no llegaría oxígeno a las células."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La sangre entrega oxígeno al aire y recoge nitrógeno",
           "is_correct": false,
           "feedback": "Incorrecta porque el gas captado por la sangre es oxígeno, no nitrógeno."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Los alvéolos son sacos con paredes delgadas rodeados de capilares: el oxígeno difunde a la sangre y el dióxido de carbono difunde al aire. Correr acelera este intercambio por la mayor demanda muscular.",
       "difficulty": "6",
       "images": [],
@@ -203,13 +203,13 @@
           "feedback": "Incorrecta porque una provee el oxígeno que la otra utiliza."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La respiración pulmonar aporta oxígeno y la celular lo usa para liberar energía de los nutrientes",
           "is_correct": true,
           "feedback": "Correcta porque enlaza el suministro de oxígeno con la producción de energía celular."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La respiración celular ocurre solo en los pulmones",
           "is_correct": false,
           "feedback": "Incorrecta porque la respiración celular ocurre en todas las células, en las mitocondrias."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecta porque la energía se libera dentro de las células, no en las vías aéreas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El oxígeno inhalado viaja en la sangre hasta cada célula, donde la glucosa se transforma en energía utilizable. Esta cadena explica por qué respirar más rápido durante el baile sostiene el esfuerzo.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En el laboratorio del colegio en Rionegro observan una radiografía donde un pulmón sano se ve oscuro y amplio, mientras otro afectado se ve reducido.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque el pulmón sano tiene huesos internos",
           "is_correct": false,
           "feedback": "Incorrecta porque los pulmones no contienen huesos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque sus alvéolos elásticos y limpios permiten mayor ventilación",
           "is_correct": true,
           "feedback": "Correcta porque la elasticidad y la superficie alveolar determinan la expansión."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecta porque todas las personas tienen diafragma."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La elasticidad pulmonar y la integridad alveolar permiten que el aire llene millones de sacos diminutos. Enfermedades e irritantes crónicos destruyen esa estructura y reducen la ventilación.",
       "difficulty": "8",
       "images": [],
@@ -387,13 +387,13 @@
           "feedback": "Incorrecta porque los ambientadores enmascaran olores y pueden liberar compuestos irritantes."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Sembrar árboles y crear zonas verdes porque filtran partículas y promueven aire más limpio",
           "is_correct": true,
           "feedback": "Correcta porque la vegetación retiene polvo y mejora el microclima para respirar."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cerrar las ventanas para siempre y no ventilar los salones",
           "is_correct": false,
           "feedback": "Incorrecta porque sin ventilación se acumulan dióxido de carbono y contaminantes internos."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecta porque la quema genera humo que irrita directamente las vías respiratorias."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Evaluar propuestas ambientales exige comparar efectos fisiológicos reales: la vegetación y la ventilación reducen la carga de partículas, mientras perfumes y quemas la aumentan. La decisión debe proteger la ventilación alveolar de los niños.",
       "difficulty": "10",
       "images": [],

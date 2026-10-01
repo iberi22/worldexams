@@ -59,13 +59,13 @@
       "context": "Una alumna de Medellín lee un libro de mitos muiscas para su clase de lengua.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Principalmente astronautas y científicos modernos.",
           "is_correct": false,
           "feedback": "Incorrecto. Los mitos son relatos tradicionales antiguos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Dioses, semidioses, héroes y seres sobrenaturales.",
           "is_correct": true,
           "feedback": "Correcto. Los personajes míticos tienen poderes extraordinarios."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Los protagonistas son figuras míticas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "En los mitos aparecen dioses creadores, héroes civilizadores y seres con poderes extraordinarios. Estos personajes representan fuerzas de la naturaleza o valores espirituales de su cultura.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -157,25 +157,25 @@
           "feedback": "Incorrecto. No explica el origen del universo, solo un fenómeno local."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Una leyenda, porque sitúa un hecho misterioso en un lugar real de Colombia.",
           "is_correct": true,
           "feedback": "Correcto. Guatavita existe y la historia mezcla realidad con misterio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un cuento infantil, porque aparece un personaje fantástico.",
           "is_correct": false,
           "feedback": "Incorrecto. No es un cuento inventado por un autor moderno."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Una noticia, porque informa algo que ocurrió.",
           "is_correct": false,
           "feedback": "Incorrecto. La noticia exige verificación periodística."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Este fragmento es una leyenda porque combina un lugar real (la laguna de Guatavita) con un elemento misterioso (la figura dorada). Esa mezcla entre lo cotidiano y lo sobrenatural es propia de la leyenda.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Un alumno de Bucaramanga debe explicar a su familia por qué el mito de Bachué es importante para los muiscas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La derrota militar de los muiscas frente a los españoles.",
           "is_correct": false,
           "feedback": "Incorrecto. El mito de Bachué no se refiere a la conquista."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El origen del pueblo muisca a partir de una pareja sagrada.",
           "is_correct": true,
           "feedback": "Correcto. Bachué emerge de la laguna y da inicio a la comunidad."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. El mito se centra en la humanidad, no en la fauna."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Bachué es la madre mítica de los muiscas. El relato cuenta cómo salió de una laguna con un niño, pobló la tierra y, al final, regresó al agua con su hijo ya anciano. Es un mito de origen.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -249,13 +249,13 @@
           "feedback": "Incorrecto. Ninguno se refiere a la escritura."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Ambos explican el cambio de las estaciones con un rapto sagrado.",
           "is_correct": true,
           "feedback": "Correcto. Las dos historias explican el ciclo de la naturaleza."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambos ocurren en la antigua Roma.",
           "is_correct": false,
           "feedback": "Incorrecto. Grecia y la Guajira son lugares diferentes."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Majayura es la protagonista en la versión wayúu."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Perséfone y Majayura comparten el tema del descenso al mundo subterráneo y el regreso cíclico. Cada cultura explica así el invierno y la estación seca desde su propia visión.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Un alumno de Cartagena analiza por qué la leyenda del Silbón se cuenta con tanto detalle en los Llanos Orientales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Enseñar a silbar en diferentes tonos musicales.",
           "is_correct": false,
           "feedback": "Incorrecto. La leyenda no es un manual de técnica vocal."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Advertir a los viajeros sobre los peligros de la carretera llanera.",
           "is_correct": true,
           "feedback": "Correcto. El relato funciona como advertencia cultural."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. El relato no describe técnicas de caza."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La leyenda del Silbón transmite un mensaje de prudencia: recorrer de noche la carretera entre Tame y La Candelaria puede ser peligroso. La tradición oral refuerza esa advertencia generación tras generación.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -341,25 +341,25 @@
           "feedback": "Incorrecto. Los mitos conservan un núcleo estable."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Porque la voz del narrador mantiene vivos los símbolos y la memoria del pueblo.",
           "is_correct": true,
           "feedback": "Correcto. La oralidad preserva lengua, ritmo y tradición."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque escribir un mito lo convierte automáticamente en leyenda.",
           "is_correct": false,
           "feedback": "Incorrecto. Un mito sigue siendo mito al ser escrito."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque la escritura indígena no existía antes del siglo XX.",
           "is_correct": false,
           "feedback": "Incorrecto. Varias civilizaciones indígenas tuvieron sistemas de escritura."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La tradición oral permite adaptar el relato al oyente sin perder su esencia. Gracias a los mayores, los mitos viajan de generación en generación junto con su música, su lengua y su cosmovisión.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,13 +387,13 @@
           "feedback": "Incorrecto. Los mitos siguen vivos en muchas culturas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Los mitos siguen vigentes porque transmiten valores, identidad y explicaciones culturales.",
           "is_correct": true,
           "feedback": "Correcto. Aportan sentido y cohesionan comunidades."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solo interesan a los científicos de la NASA.",
           "is_correct": false,
           "feedback": "Incorrecto. Su importancia es cultural, no tecnológica."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Su función original es simbólica y social."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Los mitos siguen siendo claves para comprender la identidad de los pueblos, sus valores y su relación con la naturaleza. Su vigencia se observa en la literatura, el cine y las tradiciones vivas.\n\n---",
       "difficulty": "10",
       "images": [],

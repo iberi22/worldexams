@@ -65,13 +65,13 @@
           "feedback": "Incorrect. High sugar is unhealthy."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Sleeping 8 hours a night.",
           "is_correct": true,
           "feedback": "Correct! Proper rest is essential for health."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Playing video games for 10 hours.",
           "is_correct": false,
           "feedback": "Incorrect. This is too much sedentary time."
@@ -83,7 +83,7 @@
           "feedback": "Incorrect. Breakfast is an important meal."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student identifies specific practices that contribute to a healthy lifestyle.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -111,13 +111,13 @@
           "feedback": "Incorrect. Sugar gives a quick spike but doesn't solve chronic tiredness."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "You should sleep more and eat healthy food.",
           "is_correct": true,
           "feedback": "Correct! These are standard recommendations for improving energy levels."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "You should watch more TV.",
           "is_correct": false,
           "feedback": "Incorrect. This won't help with being tired."
@@ -129,7 +129,7 @@
           "feedback": "Incorrect. Hydration is necessary for energy."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student understands and selects appropriate health advice based on a described state.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -157,25 +157,25 @@
           "feedback": "Incorrect. Weakens means to make less strong."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "strengthens",
           "is_correct": true,
           "feedback": "Correct! Exercise makes the heart and muscles stronger."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "breaks",
           "is_correct": false,
           "feedback": "Incorrect. Exercise doesn't break a healthy heart."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "ignores",
           "is_correct": false,
           "feedback": "Incorrect. Doesn't fit the context."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student understands the causal relationship between exercise and physical benefits.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "A description of a school's wellness program.\n\n\"Our school has a 'Wellness Wednesday'. Students play sports, practice meditation, and learn about nutrition. It helps them reduce stress and stay focused.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "It makes students more tired.",
           "is_correct": false,
           "feedback": "Incorrect. Not mentioned."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "It helps students reduce stress.",
           "is_correct": true,
           "feedback": "Correct! The text explicitly mentions \"reduce stress\"."
@@ -267,7 +267,7 @@
           "feedback": "Incorrect. It is only on Wednesdays."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student applies reading comprehension skills to identify specific benefits mentioned in a text.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -295,25 +295,25 @@
           "feedback": "Incorrect. Smoking is unhealthy."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "shouldn't",
           "is_correct": true,
           "feedback": "Correct! \"Shouldn't\" is the negative advice for unhealthy habits."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "must",
           "is_correct": false,
           "feedback": "Incorrect. This would be an obligation to do something unhealthy."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "are",
           "is_correct": false,
           "feedback": "Incorrect. Grammatically wrong in this context."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student applies the modal verb \"shouldn't\" to provide negative health advice.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Analyzing a daily schedule for health.\n\n\"7:00 AM: Jogging / 8:00 AM: Fruit breakfast / 1:00 PM: Salad and chicken / 4:00 PM: 2 hours of video games / 9:00 PM: Bedtime\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Yes, it includes exercise, healthy meals, rest, and a little leisure time.",
           "is_correct": true,
           "feedback": "Correct! It covers multiple pillars of health."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "No, because video games are always unhealthy.",
           "is_correct": false,
           "feedback": "Incorrect. In moderation (2 hours), they can be part of a balanced day."
@@ -359,7 +359,7 @@
           "feedback": "Incorrect. Nutrition and rest are also important."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "The student analyzes a schedule to determine if it meets the criteria for a balanced lifestyle.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "Identifying the logical result of an unhealthy habit.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Because I exercise every day, I feel very weak.",
           "is_correct": false,
           "feedback": "Incorrect. Exercise usually makes you feel stronger."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Because I drink a lot of water, I stay hydrated during sports.",
           "is_correct": true,
           "feedback": "Correct! Logical cause-and-effect relationship."
@@ -405,7 +405,7 @@
           "feedback": "Incorrect. Sugar is bad for teeth."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student analyzes the logical consistency of sentences related to health and habits.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "Evaluating an opinion about mental health.\n\n\"Health is not just about the body. A healthy lifestyle also includes having positive relationships, managing your time well, and being kind to yourself.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "You only need to exercise to be healthy.",
           "is_correct": false,
           "feedback": "Incorrect. The text says it's \"not just about the body\"."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Being kind is more important than eating vegetables.",
           "is_correct": false,
           "feedback": "Incorrect. The text suggests a combination, not one over the other."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "A healthy lifestyle is a combination of physical and mental well-being.",
           "is_correct": true,
           "feedback": "Correct! The text emphasizes that health goes beyond the physical aspect."
@@ -451,7 +451,7 @@
           "feedback": "Incorrect. Not mentioned as \"difficult\"."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "The student evaluates a more complex definition of health that includes mental and social components.",
       "difficulty": "10",
       "images": [],

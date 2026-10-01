@@ -13,13 +13,13 @@
       "context": "Un estudiante de Bachillerato en Madrid analiza el crecimiento de una función a partir de su derivada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La función es estrictamente creciente.",
           "is_correct": true,
           "feedback": "Correcto. Una derivada positiva indica que la pendiente de la tangente es positiva, por lo que la función sube."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La función es estrictamente decreciente.",
           "is_correct": false,
           "feedback": "Esto ocurriría si la derivada fuera negativa."
@@ -37,7 +37,7 @@
           "feedback": "Para ser constante, la derivada debe ser cero."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El signo de la primera derivada determina si una función crece o decrece. Es la herramienta básica para el estudio de la monotonía en el análisis de funciones.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "En un instituto de Sevilla, se explica cómo identificar los puntos críticos de una función.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$f(a) = 0$",
           "is_correct": false,
           "feedback": "El valor de la función no determina el extremo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$f'(a) = 0$",
           "is_correct": true,
           "feedback": "Correcto. En los extremos relativos de funciones derivables, la recta tangente es horizontal."
@@ -82,7 +82,7 @@
           "feedback": "No existe tal condición para los extremos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Los puntos donde la derivada se anula se denominan puntos críticos. Son candidatos a ser máximos, mínimos o puntos de inflexión de tangente horizontal.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -109,25 +109,25 @@
           "feedback": "Para un mínimo, la derivada segunda debe ser positiva."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Un máximo relativo.",
           "is_correct": true,
           "feedback": "Correcto. Una derivada segunda negativa indica concavidad hacia abajo en un punto crítico, lo que define un máximo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un punto de inflexión.",
           "is_correct": false,
           "feedback": "Para ser de inflexión, la derivada segunda debería ser cero o no existir."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Un punto de discontinuidad.",
           "is_correct": false,
           "feedback": "La existencia de derivadas implica que la función es continua."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La derivada segunda informa sobre la curvatura. Si la curva es cóncava (hacia abajo) en un punto de tangente horizontal, estamos ante la \"cima\" de una montaña, es decir, un máximo.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Un profesor en Valencia muestra la gráfica de una función con un punto de inflexión.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La función pasa de crecer a decrecer.",
           "is_correct": false,
           "feedback": "Esto ocurre en los extremos relativos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La función se corta con el eje de abscisas.",
           "is_correct": false,
           "feedback": "Esto es una raíz o cero de la función."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "La función cambia su tipo de curvatura (de cóncava a convexa o viceversa).",
           "is_correct": true,
           "feedback": "Correcto. Es la definición geométrica de punto de inflexión."
@@ -172,7 +172,7 @@
           "feedback": "Las asíntotas implican discontinuidad, no puntos de inflexión."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Los puntos de inflexión son aquellos donde la derivada segunda cambia de signo, marcando la transición entre diferentes tipos de curvatura.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,25 +199,25 @@
           "feedback": "Error al derivar o despejar."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$x = 2$",
           "is_correct": true,
           "feedback": "Correcto. $C'(x) = 4x - 8$. Igualando a 0: $4x = 8 \\Rightarrow x = 2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 8$",
           "is_correct": false,
           "feedback": "Valor incorrecto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 10$",
           "is_correct": false,
           "feedback": "Este es el término independiente, no el mínimo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Para hallar el mínimo de una función cuadrática (parábola), buscamos el punto donde la derivada es cero, lo cual coincide con el eje de simetría de la parábola.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -244,25 +244,25 @@
           "feedback": "Este es el tiempo para alcanzar la altura máxima, no la altura."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "20 metros",
           "is_correct": true,
           "feedback": "Correcto. $h'(t) = 20 - 10t = 0 \\Rightarrow t = 2$. Sustituyendo: $h(2) = 20(2) - 5(4) = 40 - 20 = 20$ m."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "40 metros",
           "is_correct": false,
           "feedback": "Error de cálculo al sustituir el tiempo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "10 metros",
           "is_correct": false,
           "feedback": "Valor incorrecto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La altura máxima se alcanza cuando la velocidad vertical ($h'(t)$) es cero. Una vez hallado el instante, debemos calcular el valor de la función original en ese tiempo.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,31 +328,31 @@
       "context": "Un estudiante analiza la función $f(x) = e^{-x^2}$, conocida por su forma de campana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$(-\\infty, 0)$",
           "is_correct": true,
           "feedback": "Correcto. Si $x < 0$, la derivada es positiva (producto de -2, un número negativo y el exponencial positivo)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(0, +\\infty)$",
           "is_correct": false,
           "feedback": "En este intervalo la derivada es negativa, la función decrece."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Todo $\\mathbb{R}$",
           "is_correct": false,
           "feedback": "La función tiene un máximo en x=0."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No crece en ningún punto.",
           "is_correct": false,
           "feedback": "Crece para valores negativos de x."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El crecimiento se determina estudiando el signo de la primera derivada. En funciones exponenciales, el signo lo dicta el factor polinómico que acompaña a la exponencial.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,25 +424,25 @@
           "feedback": "Este es el instante de aceleración mínima."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$t = 5$ s",
           "is_correct": true,
           "feedback": "Correcto. Aceleración $a(t) = v'(t) = 2t - 4$. Igualando a 6: $2t - 4 = 6 \\Rightarrow 2t = 10 \\Rightarrow t = 5$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$t = 6$ s",
           "is_correct": false,
           "feedback": "Error de cálculo al despejar t."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$t = 10$ s",
           "is_correct": false,
           "feedback": "Valor incorrecto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La aceleración es la derivada de la velocidad. Para hallar cuándo se alcanza un valor específico de aceleración, derivamos la función de velocidad e igualamos al valor dado.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -649,25 +649,25 @@
           "feedback": "Valor incorrecto."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$c = 2$",
           "is_correct": true,
           "feedback": "Correcto. Pendiente secante: $(9-1)/(3-1) = 8/2 = 4$. Derivada: $f'(c) = 2c$. Igualando: $2c = 4 \\Rightarrow c = 2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$c = 2,5$",
           "is_correct": false,
           "feedback": "Valor incorrecto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$c = \\sqrt{3}$",
           "is_correct": false,
           "feedback": "Este valor corresponde a otros teoremas de promedios."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El Teorema del Valor Medio garantiza que en una función \"suave\", hay al menos un punto donde la velocidad instantánea iguala a la velocidad media del intervalo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -745,19 +745,19 @@
           "feedback": "Ángulo común pero no óptimo para esta configuración."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$60^{\\circ}$",
           "is_correct": true,
           "feedback": "Correcto. El área se maximiza cuando el trapecio es la mitad de un hexágono regular, lo que implica ángulos de 60 grados."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$90^{\\circ}$ (Sección rectangular)",
           "is_correct": false,
           "feedback": "La sección trapezoidal permite mayor área que la rectangular para el mismo perímetro mojado."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Este problema requiere expresar el área en función del ángulo $\\theta$, derivar la expresión trigonométrica resultante y hallar el valor que anula la derivada en el intervalo $(0, 90)$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "La luz viaja entre dos medios siguiendo el Principio de Fermat, que establece que sigue la trayectoria de tiempo mínimo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Ley de la Gravitación Universal.",
           "is_correct": false,
           "feedback": "No depende de trayectorias óptimas de tiempo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ley de Snell de la refracción.",
           "is_correct": true,
           "feedback": "Correcto. La minimización del tiempo de viaje entre dos puntos en medios distintos conduce a la relación de los senos de los ángulos y las velocidades."
@@ -847,7 +847,7 @@
           "feedback": "Principio básico de la dinámica, no de la óptica."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La Ley de Snell es un ejemplo fundamental de cómo la naturaleza \"optimiza\". El cálculo diferencial permite derivar esta ley a partir de un principio variacional simple.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Un estudiante investiga la relación entre una función $f(x)$ y su polinomio de Taylor de segundo grado centrado en $a$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Solo el valor de la función en el punto.",
           "is_correct": false,
           "feedback": "Esto sería el grado 0."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El valor de la función y su primera derivada.",
           "is_correct": false,
           "feedback": "Esto sería el grado 1 (recta tangente)."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "El valor de la función, su primera derivada y su segunda derivada.",
           "is_correct": true,
           "feedback": "Correcto. El polinomio de Taylor de grado $n$ coincide con la función y sus primeras $n$ derivadas en el punto."
@@ -892,7 +892,7 @@
           "feedback": "Esto solo ocurriría si el grado fuera infinito."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El polinomio de Taylor de grado 2 es la mejor aproximación parabólica de una función cerca de un punto, capturando tanto la tendencia (velocidad) como la curvatura (aceleración).\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
       "difficulty": "10",
       "images": [],

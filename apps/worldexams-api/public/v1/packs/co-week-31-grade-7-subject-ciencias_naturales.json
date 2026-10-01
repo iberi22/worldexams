@@ -13,13 +13,13 @@
       "context": "En un colegio de Tunja, la profesora muestra una planta de fríjol, una lupa y una libreta, y pregunta cuál es el primer paso para investigar por qué unas plantas crecen más que otras.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Adivinar la respuesta sin mirar ni medir nada del fenómeno.",
           "is_correct": false,
           "feedback": "Incorrecta, porque adivinar sin datos no es observar ni investigar."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Examinar con atención usando los sentidos e instrumentos y registrar lo que ocurre sin opinar todavía.",
           "is_correct": true,
           "feedback": "Correcta, porque define la observación como registro cuidadoso y objetivo del fenómeno."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecta, porque destruir la muestra impide seguir observando su cambio en el tiempo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Observar es la base de la ciencia: mirar, escuchar, medir y anotar con orden antes de concluir. Una buena observación describe lo que pasa sin mezclar gustos ni opiniones. En el cuaderno se registran fechas, medidas y dibujos que luego servirán para preguntar e hipotetizar.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "En una salida al humedal Santa María del Lago en Bogotá, dos estudiantes anotan: una escribe que el agua está turbia y huele fuerte, y la otra escribe que el humedal es feo y aburrido.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La primera es una observación descriptiva útil y la segunda es una opinión personal sin datos medibles.",
           "is_correct": true,
           "feedback": "Correcta, porque distingue describir propiedades observables de expresar un gusto subjetivo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ambas son hipótesis comprobadas porque las escribieron en el cuaderno de campo.",
           "is_correct": false,
           "feedback": "Incorrecta, porque escribir algo no lo convierte en hipótesis ni lo comprueba."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecta, porque observar con cuidado y sin contaminar es parte del trabajo de campo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La observación científica registra propiedades como color, olor, temperatura y sonidos. La opinión expresa gustos que cambian entre personas. Separarlas evita que los prejuicios contaminen los datos. Por eso en campo se anotan hechos primero y las ideas personales se marcan aparte.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En Garzón, Huila, un grupo siembra fríjol en dos bandejas iguales: una junto a la ventana con buena luz y otra dentro de un armario oscuro, con igual agua, tierra y semillas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Independiente es la altura de los estudiantes y dependiente es el color del armario.",
           "is_correct": false,
           "feedback": "Incorrecta, porque ni la altura ni el color del mueble se manipulan para explicar el crecimiento."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Independiente es el crecimiento y dependiente es la luz, porque las plantas producen luz.",
           "is_correct": false,
           "feedback": "Incorrecta, porque invierte los papeles y las plantas no producen la luz que reciben."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Independiente es la cantidad de luz que se cambia a propósito y dependiente es el crecimiento que se mide como resultado.",
           "is_correct": true,
           "feedback": "Correcta, porque identifica la causa manipulada y el efecto medido en el experimento."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecta, porque igualar lo demás permite aislar justo la variable que sí cambia."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La variable independiente es la que el equipo cambia a propósito, aquí la luz. La dependiente es la que se mide como consecuencia, aquí la altura o el crecimiento. Todo lo demás, como agua, tierra y tipo de semilla, se mantiene igual y se llama variable controlada para que la comparación sea justa.",
       "difficulty": "6",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En Sincelejo, los estudiantes ven que el agua de lluvia forma charcos que duran días en el patio de tierra compactada, pero desaparecen rápido en el jardín con tierra suelta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Si la tierra está más compactada, entonces el agua se infiltra más lento y el charco dura más tiempo.",
           "is_correct": true,
           "feedback": "Correcta, porque propone una relación causa efecto que se puede medir con tiempos de infiltración."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los charcos duran porque a la tierra le gusta guardar agua para los pájaros del patio.",
           "is_correct": false,
           "feedback": "Incorrecta, porque atribuye gustos a la tierra y no propone nada medible."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La lluvia cae por castigo y por eso nadie puede estudiar cómo se comporta.",
           "is_correct": false,
           "feedback": "Incorrecta, porque apela a un castigo y declara imposible la indagación."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Todos los suelos son idénticos y ningún experimento podrá mostrar diferencias.",
           "is_correct": false,
           "feedback": "Incorrecta, porque niega diferencias reales y cierra la puerta a comprobar con datos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Una buena hipótesis tiene forma de si-entonces y conecta una causa con un efecto medible. Debe poder confirmarse o rechazarse con un experimento. La opción correcta permite comparar tiempos de infiltración en tierra compactada y suelta con volúmenes iguales de agua.",
       "difficulty": "6",
       "images": [],
@@ -203,13 +203,13 @@
           "feedback": "Incorrecta, porque el costo no determina la calidad de un diseño experimental."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Porque al cambiar una sola variable se sabe que las diferencias en el crecimiento se deben al abono y no a otros factores.",
           "is_correct": true,
           "feedback": "Correcta, porque aplica el principio de prueba justa con controles constantes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque las plantas necesitan cambios bruscos de agua, luz y tierra al mismo tiempo para crecer.",
           "is_correct": false,
           "feedback": "Incorrecta, porque cambiar todo a la vez impide saber qué causó el resultado."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecta, porque una sola muestra no permite comparar ni generalizar con confianza."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Un experimento justo manipula una variable y controla las demás. Si cambian agua, luz y abono a la vez, no se sabe cuál produjo el efecto. Con réplicas y controles iguales, la diferencia en altura o masa del cilantro se atribuye con confianza al abono de lombriz.",
       "difficulty": "6",
       "images": [],
@@ -249,25 +249,25 @@
           "feedback": "Incorrecta, porque el criterio es el rendimiento comparable y X obtuvo el menor."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El fertilizante Y muestra el mejor rendimiento en estas condiciones, pero conviene repetir la prueba otra temporada antes de generalizar.",
           "is_correct": true,
           "feedback": "Correcta, porque interpreta la tabla y pide repetición para confirmar la tendencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Declarar un empate porque todos los números son distintos y los datos nunca sirven.",
           "is_correct": false,
           "feedback": "Incorrecta, porque los datos sí muestran diferencias claras que se pueden comparar."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Elegir por el color del empaque sin mirar los kilos cosechados en cada surco.",
           "is_correct": false,
           "feedback": "Incorrecta, porque el empaque no mide el efecto real sobre la cosecha."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Analizar datos es comparar con el mismo indicador y reconocer límites. Y rindió más en ese ensayo, pero una sola temporada no basta: el clima cambia cada año. Repetir, promediar y anotar costos permite recomendar con responsabilidad a las familias paperas de Boyacá.",
       "difficulty": "8",
       "images": [],
@@ -295,25 +295,25 @@
           "feedback": "Incorrecta, porque una muestra única sin registro no sostiene ninguna generalización."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Usa muestra mínima sin réplicas, no registra datos y generaliza más allá de lo observado.",
           "is_correct": true,
           "feedback": "Correcta, porque identifica falta de réplicas, ausencia de evidencia y conclusión exagerada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Su error es usar algodón, porque en ciencia está prohibido usar materiales baratos.",
           "is_correct": false,
           "feedback": "Incorrecta, porque el algodón es un soporte válido; el problema es el diseño y no el material."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Su error es medir, porque en indagación está prohibido tomar medidas y anotar.",
           "is_correct": false,
           "feedback": "Incorrecta, porque medir y anotar son obligaciones centrales de toda indagación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Toda indagación seria usa varias réplicas, registra datos ordenados y concluye solo sobre lo probado. Una semilla puede fallar por azar. Con diez o más semillas por condición, tablas de medida y fotos fechadas, la conclusión gana fuerza y se puede compartir con el curso.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En Quibdó, Chocó, dos equipos miden la lluvia con el mismo pluviómetro artesanal: uno mide una sola tarde y el otro mide la misma hora durante diez tardes seguidas y promedia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque medir muchas veces gasta más papel y eso impresiona al profesor del colegio.",
           "is_correct": false,
           "feedback": "Incorrecta, porque el gasto de papel no aumenta la precisión de la medida."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque repetir reduce el efecto del azar de un día raro y el promedio refleja mejor el comportamiento típico.",
           "is_correct": true,
           "feedback": "Correcta, porque explica la repetición como control de la variación natural."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecta, porque el promedio resume medidas reales y no inventa valores."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Repetir y promediar suaviza errores accidentales y días atípicos. Si una tarde cae un aguacero extremo, una sola medida engaña. Con diez medidas, ese valor raro pesa menos y el promedio se acerca al patrón real. Por eso los científicos exigen réplicas en campo y laboratorio.",
       "difficulty": "8",
       "images": [],
@@ -387,25 +387,25 @@
           "feedback": "Incorrecta, porque un ensayo limitado no demuestra afirmaciones universales absolutas."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La primera es válida porque se apoya en los datos, y la segunda es exagerada porque el agua, la tierra y la temperatura también influyen.",
           "is_correct": true,
           "feedback": "Correcta, porque acepta lo respaldado por la evidencia y frena la generalización excesiva."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambas son falsas porque medir con regla invalida cualquier experimento escolar.",
           "is_correct": false,
           "feedback": "Incorrecta, porque medir con regla es un procedimiento válido y necesario."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La primera es falsa y la segunda verdadera porque en ciencia gana la frase más grande.",
           "is_correct": false,
           "feedback": "Incorrecta, porque en ciencia gana la afirmación ajustada a los datos, no la más llamativa."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Evaluar conclusiones es comparar cada frase con los datos. El promedio mayor con luz respalda la primera conclusión dentro de esas condiciones. La segunda salta a todo el universo e ignora otros factores conocidos. Una buena conclusión dice qué se probó, en qué condiciones y qué falta por probar.",
       "difficulty": "10",
       "images": [],
@@ -439,19 +439,19 @@
           "feedback": "Incorrecta, porque votar no mide calidad y ningún gusto colectivo potabiliza el agua."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Medir con tiras, repetir las pruebas, registrar en tablas y comparar con la norma antes de recomendar.",
           "is_correct": true,
           "feedback": "Correcta, porque usa instrumentos, réplicas, registro y criterio externo de calidad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No investigar nada porque el agua de cualquier grifo siempre es segura en todo lugar.",
           "is_correct": false,
           "feedback": "Incorrecta, porque la calidad varía por tuberías y tanques y debe verificarse con datos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Una indagación para la salud debe ser segura y basada en evidencia. Las tiras miden indicadores, la repetición da confianza, las tablas ordenan y la norma da el límite de referencia. Probar con la boca expone a enfermar. Evaluar planes con seguridad, instrumentos y comparación es el corazón del método científico escolar.",
       "difficulty": "10",
       "images": [],

@@ -13,13 +13,13 @@
       "context": "En un colegio de Bogotá, la profesora pide buscar una palabra parecida a contento en el diccionario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Alegre.",
           "is_correct": true,
           "feedback": "Es correcta porque alegre también expresa felicidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Triste.",
           "is_correct": false,
           "feedback": "Es incorrecta porque triste es lo contrario de contento."
@@ -37,7 +37,7 @@
           "feedback": "Es incorrecta porque enfermo habla de salud, no de ánimo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los sinónimos son palabras con significado parecido. Reconocer que contento y alegre se acercan ayuda a variar el vocabulario y a mejorar la comunicación escrita con buena ortografía.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "En Medellín, Santiago juega a decir lo contrario de las palabras que dice Mariana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Pequeño.",
           "is_correct": true,
           "feedback": "Es correcta porque pequeño expresa lo contrario de grande."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Enorme.",
           "is_correct": false,
           "feedback": "Es incorrecta porque enorme es un sinónimo de grande."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Gigante.",
           "is_correct": false,
           "feedback": "Es incorrecta porque gigante también significa muy grande."
@@ -83,7 +83,7 @@
           "feedback": "Es incorrecta porque amplio también indica tamaño grande."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los antónimos expresan significados contrarios. Comprender que grande y pequeño se oponen permite describir con precisión. Este contraste también enriquece la descripción de personajes y objetos.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En Cali, Valentina escribe una carta y quiere evitar repetir la palabra \"bonito\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Hermoso.",
           "is_correct": true,
           "feedback": "Es correcta porque hermoso mantiene la idea de belleza del parque."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Feo.",
           "is_correct": false,
           "feedback": "Es incorrecta porque feo cambia el sentido a lo contrario."
@@ -129,7 +129,7 @@
           "feedback": "Es incorrecta porque oscuro habla de luz, no de belleza."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar sinónimos permite evitar repeticiones sin perder el sentido. Aquí hermoso conserva la valoración positiva del parque. Este recurso también mejora la redacción y la comunicación de ideas.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En Cartagena, Juan describe el mar en su cuaderno de viaje.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Agitado.",
           "is_correct": true,
           "feedback": "Es correcta porque agitado describe un mar con olas fuertes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Calmado.",
           "is_correct": false,
           "feedback": "Es incorrecta porque calmado es sinónimo de tranquilo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sereno.",
           "is_correct": false,
           "feedback": "Es incorrecta porque sereno también indica calma."
@@ -175,7 +175,7 @@
           "feedback": "Es incorrecta porque manso también expresa suavidad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Elegir el antónimo exige mirar el contexto: en el mar, lo contrario de tranquilo es agitado. Esta precisión también ayuda a describir ambientes con matices claros.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En una tienda de Manizales, Mariana compra lápices por 2000 pesos cada uno y lleva dos con un billete de 5000 pesos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Económicos.",
           "is_correct": true,
           "feedback": "Es correcta porque económicos también indica precio bajo, como muestran los 2000 pesos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Costosos.",
           "is_correct": false,
           "feedback": "Es incorrecta porque costosos indica precio alto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Caros.",
           "is_correct": false,
           "feedback": "Es incorrecta porque caros es lo contrario de baratos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Dañados.",
           "is_correct": false,
           "feedback": "Es incorrecta porque dañados habla de estado, no de precio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El contexto de precios confirma el significado: dos lápices de 2000 suman 4000 y dejan 1000 de devuelta de 5000, por eso son baratos o económicos. Usar sinónimos precisos también facilita la comunicación en compras diarias.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En Pereira, el curso analiza dos frases que parecen iguales pero no lo son.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que delgado es neutral y flaco aquí tiene un matiz negativo de enfermedad.",
           "is_correct": true,
           "feedback": "Es correcta porque distingue el tono de cada palabra en contexto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que las dos palabras significan exactamente lo mismo siempre.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el contexto le da a flaco un tono negativo."
@@ -267,7 +267,7 @@
           "feedback": "Es incorrecta porque ambas describen su cuerpo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los sinónimos no siempre son idénticos: cambian según el tono y la situación. Analizar el matiz enseña a elegir la palabra justa. Esta sensibilidad también mejora la descripción respetuosa de las personas.",
       "difficulty": "8",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En Bogotá, Santiago debe completar un texto sin repetir la palabra \"decir\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Explicó.",
           "is_correct": true,
           "feedback": "Es correcta porque explicó mantiene la idea de comunicar una enseñanza."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Calló.",
           "is_correct": false,
           "feedback": "Es incorrecta porque callar es lo contrario de decir."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ocultó.",
           "is_correct": false,
           "feedback": "Es incorrecta porque ocultar es esconder, no comunicar."
@@ -313,7 +313,7 @@
           "feedback": "Es incorrecta porque negar contradice la enseñanza dada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Analizar el contexto permite elegir el sinónimo preciso: la profesora comunica una norma, por eso explicó funciona mejor. Este cuidado con las palabras también fortalece la escritura y la comunicación en clase.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En Cali, Mariana debe elegir el mejor par de antónimos para un cartel sobre el cuidado del agua.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Desperdiciar - ahorrar.",
           "is_correct": true,
           "feedback": "Es correcta porque resume la oposición entre malgastar y cuidar el agua."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Agua - agua.",
           "is_correct": false,
           "feedback": "Es incorrecta porque repite la misma palabra, no hay oposición."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Hoy - hoy.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no presenta ningún contraste."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Grande - enorme.",
           "is_correct": false,
           "feedback": "Es incorrecta porque son sinónimos, no antónimos, y no hablan del agua."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluar el mejor par exige comprobar que exprese la oposición central del mensaje. Desperdiciar y ahorrar resumen la decisión entre dañar o cuidar. Elegir bien las palabras también demuestra dominio del vocabulario y de la comunicación persuasiva.",
       "difficulty": "10",
       "images": [],

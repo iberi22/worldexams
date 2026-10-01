@@ -13,19 +13,19 @@
       "context": "En una reunión familiar en Cali, la abuela dice un refrán para aconsejar a sus nietos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Un dicho popular breve que transmite una enseñanza o un consejo.",
           "is_correct": true,
           "feedback": "Los refranes son expresiones populares cortas con una enseñanza."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un texto largo que narra una historia fantástica.",
           "is_correct": false,
           "feedback": "Los refranes son breves y no narran historias extensas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una lista de números para resolver problemas.",
           "is_correct": false,
           "feedback": "Los refranes son expresiones populares, no datos numéricos."
@@ -37,7 +37,7 @@
           "feedback": "Un refrán no es una canción de cuna."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Recordar el concepto de refrán como dicho popular con una enseñanza.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "La mamá de Sebastián, en Bogotá, le dice cada mañana: \"Al que madruga Dios le ayuda\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Que ser puntual y esforzarse desde temprano trae buenos resultados.",
           "is_correct": true,
           "feedback": "El refrán valora el esfuerzo y la puntualidad desde la mañana."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que solo las personas adultas reciben ayuda.",
           "is_correct": false,
           "feedback": "El refrán no habla de la edad de las personas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que es mejor quedarse durmiendo sin esforzarse.",
           "is_correct": false,
           "feedback": "El refrán valora el esfuerzo, no la pereza."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que madrugar garantiza hacerse rico de inmediato.",
           "is_correct": false,
           "feedback": "El refrán no promete riqueza inmediata; valora el esfuerzo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Comprender el significado figurado del refrán sobre el esfuerzo y la puntualidad.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En un colegio de Barranquilla, un estudiante deja de estudiar y sus compañeros le dicen: \"Camarón que se duerme se lo lleva la corriente\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Que si se descuida, puede quedarse atrás o perder oportunidades.",
           "is_correct": true,
           "feedback": "El refrán advierte sobre las consecuencias del descuido."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que debe ir a nadar al río con más frecuencia.",
           "is_correct": false,
           "feedback": "El refrán no es una invitación a nadar; usa una imagen para aconsejar."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que los camarones son su comida favorita.",
           "is_correct": false,
           "feedback": "El refrán no habla de comida, sino de las consecuencias de dormirse."
@@ -129,7 +129,7 @@
           "feedback": "El refrán aconseja estar atento, no dormir más."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicar el refrán en un contexto escolar para interpretar la advertencia sobre el descuido.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "Una niña de Medellín tiene un juguete seguro y prefiere no cambiarlo por una promesa incierta de algo mejor.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "\"Más vale pájaro en mano que cien volando\".",
           "is_correct": true,
           "feedback": "Este refrán enseña a valorar lo seguro en lugar de lo incierto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "\"Camarón que se duerme se lo lleva la corriente\".",
           "is_correct": false,
           "feedback": "Este refrán habla de las consecuencias del descuido, no de valorar lo seguro."
@@ -175,7 +175,7 @@
           "feedback": "Este refrán habla del esfuerzo temprano, no de conformarse con lo seguro."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar el refrán adecuado a una situación en la que se valora lo seguro sobre lo incierto.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "A Valentina, en Cartagena, le regalan un cuaderno y su amiga le dice que la tapa está un poco rayada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "\"A caballo regalado no se le mira el colmillo\".",
           "is_correct": true,
           "feedback": "Este refrán enseña a aceptar con agradecimiento lo que se recibe."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "\"Más vale pájaro en mano que cien volando\".",
           "is_correct": false,
           "feedback": "Este refrán habla de valorar lo seguro, no de aceptar regalos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "\"Camarón que se duerme se lo lleva la corriente\".",
           "is_correct": false,
           "feedback": "Este refrán habla del descuido, no de los regalos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "\"Al que madruga Dios le ayuda\".",
           "is_correct": false,
           "feedback": "Este refrán habla del esfuerzo temprano, no de los regalos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aplicar el refrán adecuado para valorar y agradecer un regalo recibido.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "La profesora de Bucaramanga analiza con sus estudiantes el refrán \"El que mucho abarca poco aprieta\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Significa que quien intenta hacer muchas cosas a la vez no hace bien ninguna.",
           "is_correct": true,
           "feedback": "Es un significado figurado: se refiere a las tareas, no a un abrazo real."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Significa que hay que abrazar a las personas con cuidado.",
           "is_correct": false,
           "feedback": "Es una interpretación literal; el refrán se usa en sentido figurado."
@@ -267,7 +267,7 @@
           "feedback": "El refrán no habla del tamaño de los brazos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Analizar el significado figurado de un refrán y distinguirlo de su interpretación literal.",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Una profesora de Cali usa el refrán \"No dejes para mañana lo que puedes hacer hoy\" cuando un estudiante aplaza sus tareas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Aconsejar al estudiante para que no aplace sus responsabilidades.",
           "is_correct": true,
           "feedback": "El refrán busca corregir la costumbre de aplazar las tareas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Contar una historia divertida sobre el día de mañana.",
           "is_correct": false,
           "feedback": "El refrán no narra una historia, expresa un consejo."
@@ -313,7 +313,7 @@
           "feedback": "La intención es que haga sus tareas, no que falte a la escuela."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Analizar la intención comunicativa de un refrán en una situación escolar.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "Un grupo de estudiantes de Santa Marta conversa sobre la importancia de los refranes en las conversaciones cotidianas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Porque los refranes transmiten consejos y valores que ayudan a interpretar lo que otros quieren decir.",
           "is_correct": true,
           "feedback": "Conocer los refranes permite entender mensajes que se expresan en sentido figurado."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque los refranes son la única forma de comunicarse en Colombia.",
           "is_correct": false,
           "feedback": "Los refranes son una forma de expresión, pero no la única."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque sin refranes no se puede leer ningún texto.",
           "is_correct": false,
           "feedback": "Se puede leer sin refranes; estos solo enriquecen el lenguaje."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque los refranes solo se usan en los exámenes de matemáticas.",
           "is_correct": false,
           "feedback": "Los refranes pertenecen al lenguaje, no a las matemáticas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluar la utilidad de comprender los refranes para interpretar conversaciones cotidianas.",
       "difficulty": "10",
       "images": [],

@@ -13,19 +13,19 @@
       "context": "En Bogotá, Juan calcula la distancia entre los puntos $A(1, 2)$ y $B(4, 6)$ en un plano cartesiano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "5",
           "is_correct": true,
           "feedback": "Correcto. $d = \\sqrt{(4-1)^2 + (6-2)^2} = \\sqrt{3^2 + 4^2} = \\sqrt{9+16} = 5$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "7",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumaron las diferencias $(3+4)$ en lugar de elevarlas al cuadrado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "\\sqrt{7}",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumaron las diferencias y se les sacó raíz cuadrada."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada al final."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La fórmula de distancia entre $(x_1, y_1)$ y $(x_2, y_2)$ es $d = \\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$. En este caso $\\sqrt{9 + 16} = 5$.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "En un plano de construcción en Medellín, Valentina necesita hallar el punto medio del segmento entre $P(-2, 4)$ y $Q(6, 8)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$(2, 6)$",
           "is_correct": true,
           "feedback": "Correcto. $M = (\\frac{-2+6}{2}, \\frac{4+8}{2}) = (\\frac{4}{2}, \\frac{12}{2}) = (2, 6)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(4, 12)$",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió dividir entre 2 las sumas de las coordenadas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(8, 4)$",
           "is_correct": false,
           "feedback": "Incorrecto. Se restaron las coordenadas en lugar de promediarlas."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Se dividió únicamente la coordenada $x$ entre 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El punto medio es $M(\\frac{x_1+x_2}{2}, \\frac{y_1+y_2}{2})$. Calculando: $(\\frac{4}{2}, \\frac{12}{2}) = (2, 6)$.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En Cali, Mateo determina la pendiente de la recta que pasa por los puntos $R(2, 5)$ y $S(5, 11)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "2",
           "is_correct": true,
           "feedback": "Correcto. $m = \\frac{11 - 5}{5 - 2} = \\frac{6}{3} = 2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "\\frac{1}{2}",
           "is_correct": false,
           "feedback": "Incorrecto. Se invirtió el numerador y el denominador ($\\Delta x / \\Delta y$)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "3",
           "is_correct": false,
           "feedback": "Incorrecto. Se restaron solo las coordenadas en $x$."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Es únicamente la diferencia de ordenadas $\\Delta y$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La pendiente es $m = \\frac{y_2 - y_1}{x_2 - x_1} = \\frac{11 - 5}{5 - 2} = \\frac{6}{3} = 2$.",
       "difficulty": "4",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En Cartagena, Santiago evalúa las rectas $L_1: 2x - y + 4 = 0$ y $L_2: 4x - 2y - 6 = 0$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Son rectas paralelas no coincidentes.",
           "is_correct": true,
           "feedback": "Correcto. Pendiente $m_1 = 2$ y $m_2 = 2$. Como sus ordenadas al origen difieren ($4 \\neq -3$), son paralelas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Son rectas perpendiculares.",
           "is_correct": false,
           "feedback": "Incorrecto. Para ser perpendiculares el producto de sus pendientes debe ser -1."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Al ser paralelas no tienen puntos de intersección."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "$m_1 = 2$, $m_2 = 2$. Al ser $m_1 = m_2$ y tener distinta constante al origen, las rectas son paralelas distintas.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En Bucaramanga, Sofia debe hallar una recta perpendicular a $y = -\\frac{1}{2}x + 3$ que pase por $(2, 1)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$y = 2x - 3$",
           "is_correct": true,
           "feedback": "Correcto. La pendiente perpendicular es $m = 2$. $y - 1 = 2(x - 2) \\implies y = 2x - 3$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$y = -2x + 5$",
           "is_correct": false,
           "feedback": "Incorrecto. Se cambió el signo pero no se invirtió la pendiente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$y = 2x + 1$",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió restar $4$ al despejar."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Se usó el recíproco sin cambiar de signo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Si $m_1 = -1/2$, la pendiente perpendicular es $m_2 = -1/m_1 = 2$. Usando $(2,1)$: $1 = 2(2) + b \\implies b = -3$.",
       "difficulty": "6",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En Cúcuta, Nicolas busca la intersección entre las rectas $2x + y = 7$ y $x - y = 2$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(3, 1)$",
           "is_correct": true,
           "feedback": "Correcto. Sumando ambas ecuaciones: $3x = 9 \\implies x = 3$. Luego $3 - y = 2 \\implies y = 1$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(1, 3)$",
           "is_correct": false,
           "feedback": "Incorrecto. Se invirtieron las coordenadas $x$ e $y$."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. No satisface el sistema de ecuaciones."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Resolviendo el sistema lineal por eliminación: $(2x+y) + (x-y) = 7+2 \\implies 3x = 9 \\implies x=3$. Reemplazando: $y=1$.",
       "difficulty": "6",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "En Ibagué, Mariana analiza la ecuación general de la recta $ax + by + c = 0$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Una recta horizontal paralela al eje $x$.",
           "is_correct": true,
           "feedback": "Correcto. $by + c = 0 \\implies y = -c/b$, una recta horizontal."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una recta vertical paralela al eje $y$.",
           "is_correct": false,
           "feedback": "Incorrecto. Una recta vertical tiene $b=0$ y $a \\neq 0$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una recta oblicua que pasa por el origen.",
           "is_correct": false,
           "feedback": "Incorrecto. Requiere que tanto $a$ como $b$ sean no nulos."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. Representa un conjunto infinito de puntos con ordenada constante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Cuando $a=0$, la ecuación es $y = -c/b$, lo que corresponde a una línea recta horizontal constante para todo $x$.",
       "difficulty": "6",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "En Pasto, Carlos evalúa el área del triángulo formado por los vértices $A(0,0)$, $B(4,0)$ y $C(0,6)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "12",
           "is_correct": true,
           "feedback": "Correcto. Triángulo rectángulo con base 4 y altura 6: $\\text{Área} = \\frac{4 \\times 6}{2} = 12$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "24",
           "is_correct": false,
           "feedback": "Incorrecto. Se olvidó dividir entre 2 el producto de la base por la altura."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. Error de cálculo numérico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para vértices en los ejes $(0,0), (4,0), (0,6)$, la base es 4 y la altura es 6. El área es $\\frac{4 \\times 6}{2} = 12$.",
       "difficulty": "8",
       "images": [],
@@ -611,13 +611,13 @@
       "context": "En Armenia, Isabella determina si tres puntos $A(1,1)$, $B(3,5)$ y $C(5,9)$ son colineales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Sí, porque la pendiente entre $A$ y $B$ ($m_{AB}=2$) es igual a la pendiente entre $B$ y $C$ ($m_{BC}=2$).",
           "is_correct": true,
           "feedback": "Correcto. $m_{AB} = \\frac{5-1}{3-1} = 2$ y $m_{BC} = \\frac{9-5}{5-3} = 2$. Al ser pendientes iguales y compartir el punto B, son colineales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "No, porque forman un triángulo de área 5.",
           "is_correct": false,
           "feedback": "Incorrecto. Al ser colineales, el área del triángulo determinado es 0."
@@ -635,7 +635,7 @@
           "feedback": "Incorrecto. La distancia al origen no determina la colinealidad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Tres puntos son colineales si las pendientes de los segmentos formados son iguales: $m_{AB} = 2 = m_{BC}$.",
       "difficulty": "8",
       "images": [],
@@ -657,31 +657,31 @@
       "context": "En Neiva, Felipe calcula la ecuación de la mediatriz del segmento que une $A(0,0)$ y $B(4,2)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$y = -2x + 5$",
           "is_correct": true,
           "feedback": "Correcto. Punto medio $M(2,1)$. Pendiente del segmento $m = 1/2 \\implies m_\\perp = -2$. $y - 1 = -2(x - 2) \\implies y = -2x + 5$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$y = 2x - 3$",
           "is_correct": false,
           "feedback": "Incorrecto. No se invirtió el signo de la pendiente perpendicular."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$y = -2x + 1$",
           "is_correct": false,
           "feedback": "Incorrecto. Se olvidó sustituir el punto medio correctamente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$y = -\\frac{1}{2}x + 2$",
           "is_correct": false,
           "feedback": "Incorrecto. Se usó la misma pendiente del segmento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Punto medio $M(2,1)$. Pendiente $m_{AB} = \\frac{2}{4} = \\frac{1}{2}$. Pendiente perpendicular $m_\\perp = -2$. Ecuación: $y - 1 = -2(x - 2) \\implies y = -2x + 5$.",
       "difficulty": "8",
       "images": [],
@@ -703,31 +703,31 @@
       "context": "En Popayán, Lucia analiza la proyección ortogonal del punto $P(2,5)$ sobre la recta $y = 1$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$(2, 1)$",
           "is_correct": true,
           "feedback": "Correcto. La proyección sobre la recta horizontal $y=1$ conserva la coordenada $x=2$ y fija $y=1$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(0, 1)$",
           "is_correct": false,
           "feedback": "Incorrecto. Modificó la coordenada $x$ del punto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(2, 5)$",
           "is_correct": false,
           "feedback": "Incorrecto. Es el punto original fuera de la recta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(1, 2)$",
           "is_correct": false,
           "feedback": "Incorrecto. Se invirtieron las coordenadas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La proyección ortogonal sobre la recta horizontal $y=1$ baja perpendicularmente (vector dirección $(0,-1)$), manteniendo $x=2$ y $y=1$.",
       "difficulty": "8",
       "images": [],
@@ -749,31 +749,31 @@
       "context": "En Montería, Diego analiza si dos rectas paralelas $3x - 4y + 5 = 0$ y $3x - 4y - 15 = 0$ están separadas por una distancia de 4 unidades.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Sí, porque $d = \\frac{|C_1 - C_2|}{\\sqrt{A^2 + B^2}} = \\frac{|5 - (-15)|}{\\sqrt{3^2 + (-4)^2}} = \\frac{20}{5} = 4$.",
           "is_correct": true,
           "feedback": "Correcto. La fórmula entre paralelas entrega exactamente 4."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "No, la distancia es 20 unidades.",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió dividir por $\\sqrt{A^2+B^2}=5$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No, la distancia es 2 unidades.",
           "is_correct": false,
           "feedback": "Incorrecto. Error al restar $5 - (-15)$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Las rectas no son paralelas por lo que se cortan.",
           "is_correct": false,
           "feedback": "Incorrecto. Al tener coeficientes iguales en $x$ e $y$, son paralelas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "$d = \\frac{|5 - (-15)|}{\\sqrt{3^2 + (-4)^2}} = \\frac{20}{5} = 4$.",
       "difficulty": "10",
       "images": [],
@@ -841,19 +841,19 @@
       "context": "En Riohacha, Samuel revisa el cálculo del ángulo entre las rectas $y = x$ y $y = \\sqrt{3}x$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$15^\\circ$",
           "is_correct": true,
           "feedback": "Correcto. Ánuglos de inclinación: $\\theta_1 = 45^\\circ$ y $\\theta_2 = 60^\\circ$. $\\alpha = 60^\\circ - 45^\\circ = 15^\\circ$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$30^\\circ$",
           "is_correct": false,
           "feedback": "Incorrecto. Se restaron $60^\\circ - 30^\\circ$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$45^\\circ$",
           "is_correct": false,
           "feedback": "Incorrecto. Es el ángulo de inclinación de la primera recta sola."
@@ -865,7 +865,7 @@
           "feedback": "Incorrecto. Se sumaron los ángulos en lugar de restarlos para hallar el ángulo comprendido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "$\\theta_1 = \\arctan(1) = 45^\\circ$, $\\theta_2 = \\arctan(\\sqrt{3}) = 60^\\circ$. El ángulo entre ellas es $|60^\\circ - 45^\\circ| = 15^\\circ$.",
       "difficulty": "10",
       "images": [],
@@ -887,31 +887,31 @@
       "context": "En Florencia, Andrea examina la simetría del punto $P(3, 4)$ con respecto a la recta $y = x$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$(4, 3)$",
           "is_correct": true,
           "feedback": "Correcto. La reflexión sobre la diagonal $y=x$ intercambia las coordenadas $(x, y) \\to (y, x)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(-3, -4)$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a la simetría respecto al origen."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(3, -4)$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a la simetría respecto al eje $x$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(-4, -3)$",
           "is_correct": false,
           "feedback": "Incorrecto. Intercambió e invirtió signos innecesariamente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La reflexión de un punto $(x,y)$ a través de la bisectriz $y=x$ permuta directamente las coordenadas a $(y,x) = (4,3)$.",
       "difficulty": "10",
       "images": [],

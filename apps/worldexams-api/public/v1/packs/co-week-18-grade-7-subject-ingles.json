@@ -19,13 +19,13 @@
           "feedback": "Incorrect. This is for something that happens after."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "First",
           "is_correct": true,
           "feedback": "Correct! \"First\" introduces the beginning of a sequence."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Finally",
           "is_correct": false,
           "feedback": "Incorrect. This is for the last event."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect. This indicates a subsequent action."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student identifies the basic function of the connector \"first\".\n\n---",
       "difficulty": "4",
       "images": [],
@@ -111,13 +111,13 @@
           "feedback": "Incorrect. You usually do more steps after putting cheese (like eating it)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Then",
           "is_correct": true,
           "feedback": "Correct! \"Then\" connects the first step to the next one."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "First",
           "is_correct": false,
           "feedback": "Incorrect. Taking the bread was the first step."
@@ -129,7 +129,7 @@
           "feedback": "Incorrect. This would reverse the logical order."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student understands the logical progression of steps in a simple procedure.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -157,13 +157,13 @@
           "feedback": "Incorrect order."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "First / Then / Finally",
           "is_correct": true,
           "feedback": "Correct! This follows the logical start, middle, and end."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Next / Finally / First",
           "is_correct": false,
           "feedback": "Incorrect order."
@@ -175,7 +175,7 @@
           "feedback": "Incorrect order."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student understands the standard structure of a three-step sequence.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "A recipe for a typical Colombian fruit juice.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "First / Next",
           "is_correct": false,
           "feedback": "Incorrect. Washing was the first step, so the second cannot be \"First\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Next / After that",
           "is_correct": true,
           "feedback": "Correct! These two connectors work perfectly for middle steps in a sequence."
@@ -221,7 +221,7 @@
           "feedback": "Incorrect. The blender is not the second step if there are more things coming."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student applies multiple connectors to maintain the flow of a multi-step process.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Organizing a school presentation.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "First",
           "is_correct": false,
           "feedback": "Incorrect. Preparing slides was the first action mentioned."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Afterward",
           "is_correct": true,
           "feedback": "Correct! \"Afterward\" is a synonym for \"After that\" or \"Next\"."
@@ -313,7 +313,7 @@
           "feedback": "Incorrect. This is a connector of reason or time, not sequence here."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student applies synonymous or alternative sequence connectors in a specific context.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -341,13 +341,13 @@
           "feedback": "Incorrect. You can't eat the cake before buying ingredients."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "3 - 2 - 1",
           "is_correct": false,
           "feedback": "Incorrect. \"Then\" cannot start the sequence."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2 - 3 - 1",
           "is_correct": true,
           "feedback": "Correct! First (Buy) -> Then (Mix/Bake) -> Finally (Eat)."
@@ -359,7 +359,7 @@
           "feedback": "Incorrect. You can't eat it before baking it."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "The student analyzes the meaning and the connectors to reconstruct a logical sequence of events.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,13 +387,13 @@
           "feedback": "Incorrect. Reaching the top is the result, not the start."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Next",
           "is_correct": false,
           "feedback": "Incorrect. While possible, reaching the goal is usually signaled by something stronger."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Eventually",
           "is_correct": true,
           "feedback": "Correct! \"Eventually\" suggests a result after a long time or sequence of effort."
@@ -405,7 +405,7 @@
           "feedback": "Incorrect. Not a sequence connector."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "The student analyzes the nuances of sequence connectors and chooses one that implies the culmination of an effort.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "Evaluating a set of instructions.\n\n\"To use the computer: 1. Plug it in. 2. Press the power button. 3. Enter your password. 4. Start your work.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Step 1",
           "is_correct": false,
           "feedback": "Incorrect. This is the start."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Step 2",
           "is_correct": false,
           "feedback": "Incorrect. This is in the middle."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Step 3",
           "is_correct": false,
           "feedback": "Incorrect. This is the penultimate step."
         },
         {
-          "letter": "D",
+          "letter": "A",
           "text": "Step 4",
           "is_correct": true,
           "feedback": "Correct! \"Finally\" always introduces the last step in a list."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": "The student evaluates the structure of a list of instructions to correctly place a conclusion connector.",
       "difficulty": "10",
       "images": [],

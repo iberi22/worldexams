@@ -65,13 +65,13 @@
           "feedback": "Incorrect. Eating junk food is not good advice for staying healthy."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "shouldn't",
           "is_correct": true,
           "feedback": "Correct! \"Shouldn't\" (should not) is used for negative advice."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "don't have to",
           "is_correct": false,
           "feedback": "Incorrect. This means it's not necessary, but \"shouldn't\" is better for advice."
@@ -83,7 +83,7 @@
           "feedback": "Incorrect. \"Must\" expresses strong obligation, but the sentence is negative advice."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Usamos \"shouldn't\" (la contracción de *should not*) para aconsejar a alguien que no haga algo porque no es conveniente o saludable.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -111,13 +111,13 @@
           "feedback": "Incorrect. \"Should\" is advice, but school rules are usually obligations."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "must",
           "is_correct": true,
           "feedback": "Correct! \"Must\" is used for strong obligations or rules."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "shouldn't",
           "is_correct": false,
           "feedback": "Incorrect. This contradicts the school rules mentioned."
@@ -129,7 +129,7 @@
           "feedback": "Incorrect. Grammatically incorrect combination."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "\"Must\" se utiliza para expresar obligaciones fuertes, leyes o reglas institucionales.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "Lack of necessity.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "mustn't",
           "is_correct": false,
           "feedback": "Incorrect. \"Mustn't\" means it is forbidden, not that it is unnecessary."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "don't have to",
           "is_correct": true,
           "feedback": "Correct! \"Don't have to\" expresses lack of necessity."
@@ -175,7 +175,7 @@
           "feedback": "Incorrect. The negative of \"have to\" is \"don't have to\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "\"Don't have to\" se usa cuando no hay obligación de hacer algo. No es lo mismo que \"mustn't\", que indica prohibición.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -203,25 +203,25 @@
           "feedback": "Incorrect. \"Could\" is just a possibility, but this is a safety requirement."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "have to",
           "is_correct": true,
           "feedback": "Correct! \"Have to\" expresses external obligation (like traffic laws)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "don't must",
           "is_correct": false,
           "feedback": "Incorrect. This form does not exist in English."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "are having to",
           "is_correct": false,
           "feedback": "Incorrect. \"Have to\" is rarely used in continuous form for general rules."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "\"Have to\" se usa frecuentemente para obligaciones impuestas por una autoridad externa, como las leyes de tránsito.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "Suggesting a cultural activity in Colombia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "should",
           "is_correct": true,
           "feedback": "Correct! A friendly recommendation for a tourist."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "must to",
           "is_correct": false,
           "feedback": "Incorrect. \"Must\" does not take \"to\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "have",
           "is_correct": false,
           "feedback": "Incorrect. Missing \"to\"."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "mustn't",
           "is_correct": false,
           "feedback": "Incorrect. That would mean it's forbidden to take it."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para dar recomendaciones culturales o turísticas, \"should\" es la opción más natural y cortés.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -295,13 +295,13 @@
           "feedback": "Incorrect. \"Must\" is stronger than \"should\"."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "You ought to study more.",
           "is_correct": true,
           "feedback": "Correct! \"Ought to\" is a synonym of \"should\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "You have study more.",
           "is_correct": false,
           "feedback": "Incorrect. Grammatically incomplete."
@@ -313,7 +313,7 @@
           "feedback": "Incorrect. Needs \"had\" (You'd better) to be correct."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "\"Ought to\" es un modal que funciona casi exactamente como \"should\", aunque es un poco más formal. Ambos se usan para dar consejos.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -433,13 +433,13 @@
           "feedback": "Incorrect. This is just advice."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "You ought to finish the report tonight.",
           "is_correct": false,
           "feedback": "Incorrect. Similar to \"should\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "You must finish the report tonight; it's a matter of life or death!",
           "is_correct": true,
           "feedback": "Correct! \"Must\" expresses the highest level of necessity or obligation."
@@ -451,7 +451,7 @@
           "feedback": "Incorrect. This is just a possibility."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El estudiante debe evaluar la carga semántica de cada modal. \"Must\" es el más fuerte, seguido de \"have to\", mientras que \"should\" y \"ought to\" son para consejos.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "Evaluating advice in a work scenario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "It's a friendly suggestion with no consequences.",
           "is_correct": false,
           "feedback": "Incorrect. \"Had better\" implies consequences."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "It's a strong warning; there might be trouble if you are late.",
           "is_correct": true,
           "feedback": "Correct! \"Had better\" is used for warnings."
@@ -497,7 +497,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "\"Had better\" se utiliza para dar consejos urgentes o advertencias donde se implica que ocurrirá algo malo si el consejo no se sigue.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -519,19 +519,19 @@
       "context": "Providing a logical conclusion based on modal logic.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "You should take a painkiller now and you must call the dentist first thing tomorrow morning.",
           "is_correct": true,
           "feedback": "Correct! Balanced advice with immediate and future steps."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "You don't have to worry because teeth don't matter for presentations.",
           "is_correct": false,
           "feedback": "Incorrect. Dismissive and unhelpful."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "You mustn't go to the dentist ever.",
           "is_correct": false,
           "feedback": "Incorrect. Dangerous advice."
@@ -543,7 +543,7 @@
           "feedback": "Incorrect. Doesn't solve the problem."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Crear una respuesta lógica requiere priorizar necesidades (aliviar el dolor vs. solucionar el problema) usando los modales adecuados (\"should\" para sugerir, \"must\" para la acción necesaria).",
       "difficulty": "10",
       "images": [],

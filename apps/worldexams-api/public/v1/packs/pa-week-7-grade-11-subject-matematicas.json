@@ -19,13 +19,13 @@
           "feedback": "Incorrecto. El área no define la solución de un sistema de ecuaciones lineales."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El punto de intersección de las dos rectas",
           "is_correct": true,
           "feedback": "Correcto. La solución de un sistema es el conjunto de valores que satisface ambas ecuaciones, lo cual corresponde al punto común."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El valor de la pendiente de la primera recta",
           "is_correct": false,
           "feedback": "Incorrecto. La pendiente indica la inclinación, no el punto común entre las dos funciones."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Este punto pertenece solo a una de las rectas en la mayoría de los casos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Comprensión geométrica de la solución de un sistema de ecuaciones lineales 2x2.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -64,13 +64,13 @@
           "feedback": "Incorrecto. Este método busca eliminar una variable sumando o restando las dos igualdades originales."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Método de Igualación",
           "is_correct": false,
           "feedback": "Incorrecto. Este método consiste en despejar la misma incógnita en ambas igualdades."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Método de Sustitución",
           "is_correct": true,
           "feedback": "Correcto. Tal como indica su nombre, se sustituye el valor despejado en la ecuación restante."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Este método utiliza determinantes y matrices para hallar los valores de las incógnitas."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Identificación de los métodos clásicos de resolución de sistemas de ecuaciones lineales.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Un analista en Colón observa el comportamiento de dos rutas de transporte que no poseen puntos comunes en el mapa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Una solución única",
           "is_correct": false,
           "feedback": "Incorrecto. Esto solo ocurre si las rectas se intersecan en exactamente un punto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ninguna solución",
           "is_correct": true,
           "feedback": "Correcto. Si las rectas son paralelas y no coinciden, nunca se cruzan, por lo que no hay solución."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Dos líneas rectas distintas en el plano no pueden cruzarse en más de un punto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Clasificación de sistemas de ecuaciones lineales incompatibles o inconsistentes.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Un comerciante en Santiago desea verificar si un par de valores satisface su registro diario de ventas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Sí, es la solución correcta",
           "is_correct": true,
           "feedback": "Correcto. Sustituyendo: 2+3=5 y 2(2)-3=1. Ambas igualdades se cumplen plenamente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "No, solo satisface la primera",
           "is_correct": false,
           "feedback": "Incorrecto. También satisface la segunda ecuación del sistema planteado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No, solo satisface la segunda",
           "is_correct": false,
           "feedback": "Incorrecto. También satisface la primera ecuación del sistema planteado."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Ambas igualdades numéricas resultan ser verdaderas con estos valores."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Verificación de soluciones en sistemas de ecuaciones lineales mediante la sustitución directa de pares ordenados.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -205,19 +205,19 @@
           "feedback": "Incorrecto. Esto daría términos negativos de y que no se cancelarían al sumarse."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Por el número 3",
           "is_correct": true,
           "feedback": "Correcto. Al multiplicar por 3 obtenemos +3y, que se anula con el -3y de la segunda ecuación."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Por el número 1",
           "is_correct": false,
           "feedback": "Incorrecto. Mantener los coeficientes originales no permite la eliminación directa de la variable."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Comprensión de la estrategia de eliminación en el método de reducción para sistemas lineales 2x2.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Un artesano vende sombreros y carteras en Los Santos. Utiliza un sistema para determinar sus ventas individuales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "x = 10",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el valor de la variable dependiente y tras realizar el cálculo final."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 5",
           "is_correct": true,
           "feedback": "Correcto. Sustituyendo y: x + 2x = 15, entonces 3x = 15 y el resultado es x = 5."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Error en la división final tras haber realizado la sustitución de la variable."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Resolución de un sistema de ecuaciones lineales 2x2 mediante el método de sustitución directa.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -283,31 +283,31 @@
       "context": "Un técnico en refrigeración en Chitré necesita encontrar el equilibrio entre dos flujos representados linealmente.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "x = 7, y = 3",
           "is_correct": true,
           "feedback": "Correcto. Sumando: 2x = 14, por lo que x=7. Sustituyendo: 7+y=10, por lo que y=3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 6, y = 4",
           "is_correct": false,
           "feedback": "Incorrecto. La diferencia de estos valores no iguala a la constante 4 de la segunda ecuación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x = 5, y = 5",
           "is_correct": false,
           "feedback": "Incorrecto. La diferencia daría cero, no cumpliendo la condición de la resta del sistema."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "x = 8, y = 2",
           "is_correct": false,
           "feedback": "Incorrecto. La resta de estos valores daría 6 en lugar de la constante 4 solicitada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aplicación del método de reducción en sistemas de ecuaciones lineales de estructura simple.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "Un agricultor en Boquete plantea un sistema para calcular la cantidad de sacos de café de diferentes variedades.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "x = 2, y = 3",
           "is_correct": false,
           "feedback": "Incorrecto. Al sustituir en la primera ecuación se obtiene un valor de 7 en lugar de 8."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 3, y = 2",
           "is_correct": true,
           "feedback": "Correcto. Restando las ecuaciones se obtiene x=3. Luego 3+y=5, lo que resulta en y=2."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. No se cumple la igualdad de los términos en la primera ecuación del sistema."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Resolución de sistemas de ecuaciones lineales 2x2 mediante la resta de ecuaciones.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -379,25 +379,25 @@
           "feedback": "Incorrecto. Se intercambiaron los valores de las variables en el resultado final."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "x = 8, y = 3",
           "is_correct": true,
           "feedback": "Correcto. 3y-1 = y+5 implica 2y=6, por lo que y=3. Entonces x = 3+5 = 8."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x = 2, y = 1",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface la segunda ecuación de igualdad del sistema lineal."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "x = 5, y = 2",
           "is_correct": false,
           "feedback": "Incorrecto. No se mantiene la igualdad en ninguna de las dos expresiones dadas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Resolución de sistemas de ecuaciones lineales 2x2 mediante el método de igualación de variables.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -418,19 +418,19 @@
       "context": "Un estudiante en Aguadulce resuelve un problema de mezclas químicas usando un sistema de dos variables.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "x = 2, y = 3",
           "is_correct": true,
           "feedback": "Correcto. Sumando queda 8x=16, por lo que x=2. Luego 3(2)+2y=12 da y=3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 3, y = 2",
           "is_correct": false,
           "feedback": "Incorrecto. Al sustituir en la segunda ecuación no se obtiene el valor constante 4."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x = 4, y = 0",
           "is_correct": false,
           "feedback": "Incorrecto. La resta de los términos en la segunda ecuación daría 20 en lugar de 4."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. No satisface la segunda condición de igualdad del sistema planteado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Ejecución del método de reducción en sistemas donde una variable posee coeficientes opuestos.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Incorrecto. No satisface la primera ecuación de igualdad del sistema fraccionario."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "x = 4, y = 2",
           "is_correct": true,
           "feedback": "Correcto. De la segunda y=x-2. Sustituyendo: x/2 + x - 2 = 4 da 1.5x=6, por lo que x=4."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x = 6, y = 4",
           "is_correct": false,
           "feedback": "Incorrecto. Al evaluar en la primera ecuación se obtiene un valor de 7 en lugar de 4."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Error al operar con los términos fraccionarios durante el proceso de despeje."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Resolución de sistemas de ecuaciones lineales que contienen términos con coeficientes fraccionarios.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Incorrecto. Las rectas no se cruzan en un único punto debido a su proporcionalidad."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Sistema Incompatible",
           "is_correct": false,
           "feedback": "Incorrecto. Las ecuaciones no son solo paralelas sino que representan exactamente la misma línea."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sistema Compatible Indeterminado",
           "is_correct": true,
           "feedback": "Correcto. La segunda ecuación es la primera multiplicada por -2; hay infinitas soluciones."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Ambas expresiones matemáticas corresponden a funciones de primer grado."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Análisis de la dependencia lineal y clasificación de sistemas de ecuaciones (infinitas soluciones).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "Un farmacéutico en Panamá mezcla dos soluciones para obtener una concentración usando un sistema decimal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "x = 70, y = 30",
           "is_correct": false,
           "feedback": "Incorrecto. El cálculo de los porcentajes no coincide con el valor total de 35."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 50, y = 50",
           "is_correct": true,
           "feedback": "Correcto. 0.2(50) + 0.5(50) = 10 + 25 = 35. Además la suma total es 100."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. El resultado ponderado de estas cantidades sería inferior al valor de 35."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Resolución de sistemas de ecuaciones aplicados a problemas de mezclas con coeficientes decimales.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Un ingeniero de tránsito cerca del Puente de las Américas utiliza determinantes para flujos vehiculares.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "14",
           "is_correct": false,
           "feedback": "Incorrecto. Error al operar con los signos de los productos de la matriz de coeficientes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "-26",
           "is_correct": true,
           "feedback": "Correcto. El determinante se calcula como (4*-5) - (2*3) = -20 - 6 = -26."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Se omitió la aplicación de los signos negativos en el resultado final."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Cálculo del determinante de la matriz de coeficientes en un sistema de ecuaciones lineales 2x2.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "En un problema de olimpiada matemática se plantea un sistema con tres incógnitas mediante sustitución simple.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "x = 1",
           "is_correct": true,
           "feedback": "Correcto. Sustituyendo los valores conocidos: x + 2 + 3 = 6, por lo que x + 5 = 6 y x = 1."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x = 2",
           "is_correct": false,
           "feedback": "Incorrecto. La suma de las tres variables excedería el valor constante de 6."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. No se cumple la igualdad numérica de la primera ecuación del sistema."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Resolución de sistemas de ecuaciones lineales mediante el proceso de sustitución progresiva de variables.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -694,13 +694,13 @@
           "feedback": "Incorrecto. Al sustituir este valor no se cumplen las igualdades de ninguna de las ecuaciones."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "x = -1",
           "is_correct": true,
           "feedback": "Correcto. Multiplicando la 1ra por 3 y 2da por 4: 9x-12y=39 y 8x+12y=-56. Sumando: 17x=-17, por lo que x=-1."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x = 3",
           "is_correct": false,
           "feedback": "Incorrecto. Este valor produciría resultados numéricos alejados de las constantes dadas."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Error de cálculo en la fase de eliminación o suma de las ecuaciones."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Resolución de sistemas de ecuaciones lineales mediante el método de reducción con doble multiplicación.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Incorrecto. Con este valor las rectas poseen pendientes distintas y una única solución común."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "k = 6",
           "is_correct": true,
           "feedback": "Correcto. Para soluciones infinitas los coeficientes deben ser proporcionales (6/3 = 2/1 = 10/5)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "k = 1",
           "is_correct": false,
           "feedback": "Incorrecto. No se cumple la condición de proporcionalidad necesaria para la coincidencia de rectas."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. El valor de k=6 satisface plenamente el requisito de dependencia lineal."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Análisis de parámetros en sistemas de ecuaciones lineales para determinar la naturaleza de las soluciones.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. Esta es la suma de los resultados parciales sin considerar la duplicidad de las variables."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "10",
           "is_correct": true,
           "feedback": "Correcto. Sumando las tres: 2(x+y+z) = 20. Al dividir entre dos se obtiene el valor de 10."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "15",
           "is_correct": false,
           "feedback": "Incorrecto. Error al interpretar la estructura simétrica del sistema de ecuaciones dado."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Error de cálculo aritmético simple durante el proceso de reducción de la suma."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Resolución estratégica de sistemas de ecuaciones lineales de orden superior mediante manipulación de sumas globales.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Incorrecto. Al sustituir este valor no se alcanza la consistencia con el resto de las variables."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "x = 1",
           "is_correct": true,
           "feedback": "Correcto. Reduciendo: 2x+2z=8 y 2y=4 (y=2). Sustituyendo y=2 da 2x-z=-1. Resolviendo x+z=4 y 2x-z=-1 da x=1."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x = 3",
           "is_correct": false,
           "feedback": "Incorrecto. Este valor no satisface el conjunto de igualdades lineales simultáneas planteado."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Valor obtenido por una interpretación errónea de los pasos de eliminación de Gauss."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Resolución de sistemas de ecuaciones lineales 3x3 mediante los métodos de reducción y sustitución.\n\n---",
       "difficulty": "9",
       "images": [],

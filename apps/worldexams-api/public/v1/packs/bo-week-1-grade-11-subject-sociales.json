@@ -58,19 +58,19 @@
       "context": "En Oruro, la estudiante Roxana de la Unidad Educativa Don Bosco analiza la ubicación de las chullpas de los señoríos aymaras.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Servían como torres funerarias destinadas a albergar los restos de líderes y miembros importantes del ayllu.",
           "is_correct": true,
           "feedback": "Correcto. Las chullpas son monumentos funerarios prehispánicos construidos por los señoríos aymaras para rendir culto a sus ancestros dándoles sepultura."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Eran fortificaciones de uso militar para defender las fronteras contra las incursiones de los guaraníes.",
           "is_correct": false,
           "feedback": "Incorrecto. El propósito de las chullpas era estrictamente ritual y funerario, no militar. Las fortalezas militares se llamaban pucaras."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Funcionaban como silos estatales para almacenar maíz y quinua bajo el control exclusivo de los incas.",
           "is_correct": false,
           "feedback": "Incorrecto. Los silos incas de almacenamiento se denominaban colcas, mientras que las chullpas pertenecían a los rituales fúnebres de los señoríos."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. No eran observatorios astronómicos, sino mausoleos para el descanso de los mallkus (líderes) y sus familiares."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las chullpas o torres funerarias son construcciones líticas y de adobe típicas de los señoríos aymaras post-Tiwanaku, reflejo de una compleja cosmovisión en torno a la muerte y el respeto a los ancestros.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "En Trinidad, el estudiante Boris del Colegio Antonio Vaca Díez debate sobre la gran cultura de las tierras bajas de Bolivia: los Moxos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Mediante la construcción de extensos sistemas de lomas artificiales, canales y camellones agrícolas elevados.",
           "is_correct": true,
           "feedback": "Correcto. Moxos construyó una monumental infraestructura hidráulica con camellones (terraplenes agrícolas) que evitaban que el agua inundara los cultivos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Desviando el cauce completo del río Mamoré hacia las cuencas secas del altiplano mediante túneles de piedra.",
           "is_correct": false,
           "feedback": "Incorrecto. Desviar un río tan caudaloso al altiplano andino era técnicamente imposible y geográficamente absurdo para la época."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Los incas no contaban con sistemas de bombeo de viento ni tampoco existía comercio de tal tecnología en la región de Moxos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La cultura hidráulica de Moxos representó una magnífica adaptación al medio de sabana inundable del Beni. El uso de camellones o terraplenes elevados permitía cultivar durante las inundaciones y retener nutrientes en el suelo.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -328,31 +328,31 @@
       "context": "En Sacaba, el estudiante Limbert del Colegio San Simón analiza las prácticas de reciprocidad andina que aún perduran en Bolivia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La Minka es el trabajo colectivo para beneficio de toda la comunidad, mientras que el Ayni es la ayuda mutua recíproca entre familias individuales.",
           "is_correct": true,
           "feedback": "Correcto. El Ayni se resume en 'hoy por ti, mañana por mí' (ayuda inter-familiar), mientras que la Minka moviliza al colectivo para obras comunitarias."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La Minka era el tributo en oro pagado a los templos y el Ayni era el castigo físico por desobediencia civil en el ayllu.",
           "is_correct": false,
           "feedback": "Incorrecto. Ninguno de los dos conceptos implica castigo o tributo monetario en metales, sino sistemas de trabajo y cooperación social."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El Ayni se realizaba exclusivamente en tierras bajas y la Minka era un derecho de las cumbres andinas.",
           "is_correct": false,
           "feedback": "Incorrecto. Ambas prácticas eran transversales a todo el ámbito andino y de valles, sin limitación altitudinal o geográfica."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La Minka requería el uso de herramientas metálicas avanzadas y el Ayni se hacía con las manos desnudas en el campo.",
           "is_correct": false,
           "feedback": "Incorrecto. Los pueblos andinos no usaban hierro. Utilizaban herramientas agrícolas líticas y de madera dura (como la chakitaklla)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El Ayni y la Minka son pilares éticos y prácticos de la economía andina. Permitieron realizar monumentales obras de infraestructura sin el uso de dinero, basándose en el compromiso mutuo y el bienestar colectivo del ayllu.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "En Santa Cruz, el estudiante Jhonny del Colegio Bolívar analiza las relaciones comerciales entre tierras altas y tierras bajas de Bolivia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El trueque directo (chhalaku) a través de caravanas de llamas que recorrían los caminos y valles interandinos.",
           "is_correct": true,
           "feedback": "Correcto. El chhalaku o trueque era el sistema de intercambio por excelencia, conectando productos altiplánicos (papa, sal, carne de llama) con los valles y llanos (coca, maíz, yuca)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un sistema monetario basado en monedas de estaño acuñadas en los templos ceremoniales de Tiwanaku.",
           "is_correct": false,
           "feedback": "Incorrecto. Tiwanaku y las culturas andinas no tenían moneda metálica acuñada ni de estaño ni de otros metales."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. No existían caballos ni bueyes en América antes de la llegada de los españoles, y los pueblos prehispánicos no utilizaban la rueda para transporte."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El chhalaku o trueque posibilitó la complementariedad económica entre regiones geográficamente diversas. Las caravanas de llamas recorrían miles de kilómetros, tejiendo redes culturales y comerciales sólidas.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "En Tupiza, la estudiante Shirley del Colegio San Calixto estudia la metalurgia prehispánica en el sur de Bolivia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La invención del bronce arsenical y bronce estannífero mediante la aleación deliberada de cobre y estaño.",
           "is_correct": true,
           "feedback": "Correcto. Tiwanaku revolucionó la metalurgia andina al producir bronce de alta calidad, utilizado para herramientas agrícolas, armas y grapas de sujeción lítica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La fundición masiva de acero templado mediante hornos industriales alimentados por carbón mineral.",
           "is_correct": false,
           "feedback": "Incorrecto. El acero templado y el carbón industrial son invenciones modernas muy posteriores, ajenas a las sociedades prehispánicas."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. El aluminio requiere procesos de electrólisis moderna para su obtención, y no existían redes de comercio metalúrgico marítimo con México."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El bronce de Tiwanaku devela un alto conocimiento técnico. La fundición en hornos tradicionales (huayrachinas) permitió crear grapas de metal que unían los grandes bloques de piedra de sus templos, impidiendo su separación sismo-resistente.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -553,31 +553,31 @@
       "context": "En El Alto, la estudiante Marisol del Colegio San Simón analiza la expansión incaica sobre los señoríos aymaras del Collasuyo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "A través de alianzas matrimoniales, diplomacia y el respeto a la autoridad de los mallkus locales a cambio de tributo en trabajo (mita).",
           "is_correct": true,
           "feedback": "Correcto. Los incas integraron el Collasuyo principalmente mediante negociaciones y alianzas con los poderosos jefes aymaras (mallkus), subordinándolos de forma indirecta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Exterminando militarmente a toda la población que hablara lengua aymara para poblar con colonos cuzqueños.",
           "is_correct": false,
           "feedback": "Incorrecto. Los incas no cometieron exterminios lingüísticos; de hecho, el aymara fue respetado y continuó siendo una lengua de gran prestigio en el Tahuantinsuyo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Imponiendo la propiedad privada de la tierra de cultivo mediante títulos registrados en Chuquisaca.",
           "is_correct": false,
           "feedback": "Incorrecto. La propiedad privada y el catastro escrito de Chuquisaca corresponden a la época republicana y colonial, no al imperio incaico."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Prohibiendo las prácticas agrícolas andinas para forzar el pastoreo exclusivo en la costa chilena.",
           "is_correct": false,
           "feedback": "Incorrecto. El imperio incaico potenció los suka kollus, terrazas y camellones andinos para alimentar a la población, no los prohibió."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El Collasuyo (región sur del Tahuantinsuyo) era una de las zonas más ricas por sus rebaños de camélidos y pastizales. Los incas prefirieron la dominación indirecta pactando con los mallkus locales, asimilando sus estructuras organizativas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,31 +598,31 @@
       "context": "En La Paz, el estudiante Grover del Colegio Nacional Ayacucho estudia el rol de la mujer en los señoríos aymaras.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Gobernaban conjuntamente con los mallkus en un modelo de dualidad de género, y lideraban ceremonias asociadas a la fertilidad y la Pachamama.",
           "is_correct": true,
           "feedback": "Correcto. El mundo andino se rige por el principio de la dualidad (chachawarmi: hombre-mujer), donde la mujer de élite compartía esferas de representación y ritualidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Eran recluidas obligatoriamente en conventos de clausura similares a los de la Europa medieval bajo voto de silencio.",
           "is_correct": false,
           "feedback": "Incorrecto. Los conventos de clausura no existían en América antes de los españoles; la mujer andina tenía una activa participación productiva y sagrada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Servían únicamente como mano de obra para la extracción de metales pesados en profundas minas de estaño.",
           "is_correct": false,
           "feedback": "Incorrecto. La minería pesada profunda no era la actividad económica primordial de las mujeres, y el estaño no se extraía antes de la era republicana."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Viajaban de forma constante a Europa para educarse en ciencias políticas y comercio mercantil.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un completo anacronismo e imposibilidad física dada la falta de conexiones transoceánicas en el periodo prehispánico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La dualidad de género o 'chachawarmi' estructuraba el orden social de los señoríos aymaras y del incario. El poder no era monopolio masculino absoluto; la complementariedad hombre-mujer se reflejaba en el gobierno de los ayllus.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,31 +643,31 @@
       "context": "En Cochabamba, la estudiante Roxana de la Unidad Educativa Don Bosco debate sobre los aportes de las tierras bajas a la arqueología americana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Que poseían sociedades complejas de alta densidad demográfica y una división del trabajo capaz de organizar monumentales obras públicas.",
           "is_correct": true,
           "feedback": "Correcto. Las lomas artificiales y canales de Moxos y Baures demuestran que las tierras bajas albergaban grandes civilizaciones organizadas, desmitificando la idea de que solo eran tribus nómadas dispersas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que eran colonias agrícolas dependientes que dependían del envío de ingenieros desde el Cuzco.",
           "is_correct": false,
           "feedback": "Incorrecto. Estas culturas hidráulicas se desarrollaron de manera independiente y autónoma de la ingeniería incaica, adaptadas a su propio ecosistema tropical."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que sus obras se debieron al adiestramiento de animales prehistóricos domésticos para excavar grandes canales.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una afirmación absurda y sin base científica alguna; no existían animales prehistóricos domesticados para este fin en la época precolombina."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que abandonaron por completo la agricultura de inundación para dedicarse a la exportación de metales finos por el río Madera.",
           "is_correct": false,
           "feedback": "Incorrecto. Su sustento era puramente agrícola y pesquero; no existía la exportación comercial mercantil de metales preciosos al extranjero."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La arqueología contemporánea ha reivindicado a las civilizaciones de los Llanos de Moxos y Baures (Beni). Las evidencias de miles de hectáreas modificadas con camellones prueban la existencia de sociedades complejas andinas y de llanos altamente tecnificadas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "En Santa Cruz, el estudiante Jhonny del Colegio Bolívar analiza las relaciones pacíficas y bélicas en la frontera inca-guaraní (tierras bajas de Santa Cruz).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Eran centros ceremoniales, administrativos y de resguardo defensivo frente a los avances de los chiriguanos (guaraníes) desde el Chaco Boreal.",
           "is_correct": true,
           "feedback": "Correcto. El Fuerte de Samaipata cumplía un rol de integración político-cultural andina y defensa militar fronteriza ante las incursiones de los pueblos de tierras bajas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Funcionaban como aduanas para el cobro de peaje mercantil en monedas de plata a los conquistadores españoles.",
           "is_correct": false,
           "feedback": "Incorrecto. Samaipata es de origen prehispánico (previó a la conquista española) y no existía el cobro mercantilista en monedas de plata."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Los pueblos prehispánicos no conocían la pólvora ni la artillería de cañones; estos fueron introducidos por los españoles."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El sitio arqueológico de Samaipata cuenta con una inmensa roca esculpida, considerada el mayor monumento ceremonial precolombino de la región. Era el punto de encuentro y fricción entre la cultura andina y los pueblos de los llanos occidentales.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -823,31 +823,31 @@
       "context": "En Trinidad, el estudiante Boris del Colegio Antonio Vaca Díez valora críticamente los descubrimientos sobre la cultura de Moxos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Desafió la visión andino-céntrica al demostrar que las selvas tropicales fueron cunas de civilizaciones complejas y no solo refugios de cazadores nómadas dispersos.",
           "is_correct": true,
           "feedback": "Correcto. El hallazgo de Moxos rompió el paradigma de que solo la región andina albergó sociedades altamente desarrolladas en Bolivia, elevando la importancia histórica de la Amazonía."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Confirmó que todos los habitantes prehispánicos emigraron directamente desde las riberas del mar Mediterráneo oriental.",
           "is_correct": false,
           "feedback": "Incorrecto. Carece de cualquier fundamento científico; las migraciones americanas tempranas ocurrieron por el estrecho de Bering, sin relación con el Mediterráneo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Demostró que las tierras bajas eran completamente inhabitables antes del establecimiento de las misiones coloniales jesuitas.",
           "is_correct": false,
           "feedback": "Incorrecto. Los terraplenes y canales de Moxos datan de miles de años antes de la colonia, probando una ocupación densa y de alta ingeniería prehispánica."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Validó la tesis de que las lomas del Beni fueron formadas por la caída fortuita de meteoritos gigantes durante la prehistoria.",
           "is_correct": false,
           "feedback": "Incorrecto. Las lomas de Moxos son depósitos y construcciones de origen antrópico (hechas por humanos), no cráteres de meteoritos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El estudio arqueológico de los Llanos de Moxos revolucionó la antropología americana. Proporcionó evidencias de que las sociedades amazónicas prehispánicas manipularon masivamente su entorno de forma sostenible, alcanzando altos niveles de organización social autónoma.\n\n---",
       "difficulty": "10",
       "images": [],

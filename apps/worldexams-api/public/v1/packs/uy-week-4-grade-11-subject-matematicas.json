@@ -13,13 +13,13 @@
       "context": "Una profesora de Montevideo inicia la unidad de ecuaciones de segundo grado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$ax^2 + bx + c = 0$, con $a \\ne 0$",
           "is_correct": true,
           "feedback": "¡Correcto! El coeficiente principal debe ser no nulo para que sea de grado 2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$ax + b = 0$, con $a \\ne 0$",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es la forma general de la ecuación lineal, de grado 1."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Esa es una ecuación cúbica, de grado 3."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La ecuación cuadrática general es $ax^2 + bx + c = 0$ con $a \\ne 0$; si $a$ se anulara, el término de grado 2 desaparecería y dejaría de ser cuadrática.",
       "difficulty": "4",
       "images": [],
@@ -64,25 +64,25 @@
           "feedback": "Incorrecto. Eso ocurre cuando $\\Delta = 0$."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Dos soluciones reales distintas.",
           "is_correct": true,
           "feedback": "¡Correcto! $\\Delta > 0$ garantiza dos raíces reales diferentes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ninguna solución real.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso sucede con $\\Delta < 0$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Infinitas soluciones.",
           "is_correct": false,
           "feedback": "Incorrecto. Una ecuación de grado 2 tiene a lo sumo dos raíces."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El discriminante decide la naturaleza de las soluciones: $\\Delta > 0$ dos reales distintas, $\\Delta = 0$ una doble, $\\Delta < 0$ ninguna real.",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Un estudiante de Maldonado resuelve una ecuación cuadrática pura.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Solo $x = 7$",
           "is_correct": false,
           "feedback": "Incorrecto. Falta la raíz negativa; al elevar al cuadrado, $(-7)^2$ también da 49."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 7$ y $x = -7$",
           "is_correct": true,
           "feedback": "¡Correcto! Ambas raíces cuadradas de 49 verifican la ecuación."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Los cuadrados de 7 y $-7$ existen y valen 49."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Despejar $x^2 = k$ con $k > 0$ produce dos soluciones: $x = \\pm\\sqrt{k}$. Omitir la raíz negativa es el error más frecuente en ecuaciones puras.",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Una estudiante de Colonia lee las raíces desde la forma factorizada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x = 2$ y $x = 5$",
           "is_correct": true,
           "feedback": "¡Correcto! Un producto es cero cuando alguno de sus factores es cero."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = -2$ y $x = -5$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste los signos; cada factor se anula con el valor positivo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 2$ únicamente",
           "is_correct": false,
           "feedback": "Incorrecto. El segundo factor también aporta una solución."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Multiplicaste $2 \\times 5$; la propiedad del producto nulo se aplica a cada factor."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por la propiedad del producto nulo, $ab = 0$ implica $a = 0$ o $b = 0$. Así $x - 2 = 0$ da $x = 2$ y $x - 5 = 0$ da $x = 5$.",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Un técnico de Canelones calcula el discriminante antes de resolver.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\Delta = 28$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste $16 + 12$ en lugar de restar $4ac$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\Delta = 4$",
           "is_correct": true,
           "feedback": "¡Correcto! $4^2 - 4(1)(3) = 16 - 12 = 4$."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Ese es solo $b^2$; falta restar $4ac$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El discriminante es $\\Delta = b^2 - 4ac = 16 - 12 = 4$. Como es positivo, habrá dos soluciones reales distintas.",
       "difficulty": "6",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "Una docente de Rivera muestra cómo resolver una cuadrática incompleta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Solo $x = 9$",
           "is_correct": false,
           "feedback": "Incorrecto. Perdés la solución $x = 0$ al dividir entre $x$ sin cuidado."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 0$ y $x = 9$",
           "is_correct": true,
           "feedback": "¡Correcto! $x(x - 9) = 0$ da ambas soluciones."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. La factorización $x(x-9)$ muestra dos soluciones reales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Conviene factorizar el factor común: $x(x - 9) = 0$, que da $x = 0$ o $x = 9$. Dividir entre $x$ sin considerar que puede ser 0 pierde una solución.",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "Un físico de la Udelar aplica la fórmula general en un problema de cinemática.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 4$",
           "is_correct": false,
           "feedback": "Incorrecto. Con $x = 4$ queda $16 + 8 - 8 \\ne 0$; revisá el signo en la fórmula."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 2$",
           "is_correct": true,
           "feedback": "¡Correcto! $x = \\frac{-2 \\pm 6}{2}$ da $2$ y $-4$; la mayor es 2."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Confunde el término independiente con la solución."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Con $\\Delta = 4 + 32 = 36$, $x = \\frac{-2 \\pm 6}{2}$ produce $x = 2$ y $x = -4$. La mayor solución es 2.",
       "difficulty": "6",
       "images": [],
@@ -430,19 +430,19 @@
           "feedback": "Incorrecto. Dividiste $10 + 4$ entre 2; primero se resta el 4."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$x \\le 3$",
           "is_correct": true,
           "feedback": "¡Correcto! $2x \\le 6$ y dividiendo entre 2 (positivo): $x \\le 3$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x < 3$",
           "is_correct": false,
           "feedback": "Incorrecto. La desigualdad es no estricta; el 3 pertenece a la solución."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "$2x + 4 \\le 10$ implica $2x \\le 6$ y $x \\le 3$. Dividir entre un número positivo conserva el sentido, y el símbolo $\\le$ incluye al extremo.",
       "difficulty": "6",
       "images": [],
@@ -475,19 +475,19 @@
           "feedback": "Incorrecto. Eso requeriría $\\Delta = 0$."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "No tiene soluciones reales porque $\\Delta = -3 < 0$.",
           "is_correct": true,
           "feedback": "¡Correcto! Con discriminante negativo no hay raíces en los reales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Tiene soluciones $x = 1$ y $x = -1$.",
           "is_correct": false,
           "feedback": "Incorrecto. Ninguno de esos valores anula la expresión."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El discriminante $\\Delta = 1 - 4 = -3$ es negativo: la parábola $y = x^2 + x + 1$ queda siempre por encima del eje $x$ y la ecuación carece de raíces reales.",
       "difficulty": "8",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Una docente de Florida enseña el método de completar el cuadrado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(x + 6)^2 = 31$",
           "is_correct": false,
           "feedback": "Incorrecto. El término que completa el cuadrado es $(6/2)^2 = 9$, no $6^2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(x + 3)^2 = 4$",
           "is_correct": true,
           "feedback": "¡Correcto! $x^2 + 6x + 9 = 4$, es decir $(x+3)^2 = 4$, que da $x = -1$ o $x = -5$."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Sumaste 9 sin restar el 5: $(x+3)^2 = -5 + 9 = 4$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Completar el cuadrado: $x^2 + 6x = -5$; sumando 9 a ambos lados, $(x+3)^2 = 4$. Las raíces $-3 \\pm 2$ son $-1$ y $-5$.",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "Un diseñador de Montevideo ubica el vértice de una parábola para un arco decorativo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(2, -1)$",
           "is_correct": true,
           "feedback": "¡Correcto! $x_v = \\frac{4}{2} = 2$ e $y_v = 4 - 8 + 3 = -1$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(-2, 15)$",
           "is_correct": false,
           "feedback": "Incorrecto. La abscisa del vértice es $-\\frac{b}{2a}$, positiva aquí."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Usaste $-b$ sin dividir entre $2a$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La abscisa del vértice es $x_v = -\\frac{b}{2a} = 2$; evaluando, $y_v = -1$. El vértice $(2, -1)$ es el mínimo de la parábola.",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Una estudiante de Rocha resuelve su primera inecuación cuadrática.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x < -2$ o $x > 2$",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es la solución de $x^2 - 4 > 0$; la parábola es negativa entre las raíces."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$-2 < x < 2$",
           "is_correct": true,
           "feedback": "¡Correcto! La parábola abre hacia arriba y es negativa entre sus raíces $-2$ y $2$."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Para $|x| > 2$ la expresión es positiva."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Las raíces de $x^2 - 4$ son $\\pm 2$. Como la parábola abre hacia arriba, la expresión es negativa entre las raíces: $(-2, 2)$.",
       "difficulty": "8",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "Incorrecto. Con $c = 6$, $\\Delta = 36 - 24 = 12 > 0$: dos soluciones."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$c = 9$",
           "is_correct": true,
           "feedback": "¡Correcto! $\\Delta = 36 - 4c = 0$ exige $c = 9$, raíz doble en $x = -3$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$c = 0$",
           "is_correct": false,
           "feedback": "Incorrecto. Con $c = 0$, $\\Delta = 36$: dos soluciones distintas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$c = 36$",
           "is_correct": false,
           "feedback": "Incorrecto. Con $c = 36$ el discriminante es negativo: sin soluciones reales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Solución única equivale a discriminante nulo: $36 - 4c = 0$, así $c = 9$. La ecuación queda $(x+3)^2 = 0$ con raíz doble $-3$.",
       "difficulty": "8",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Una examinadora de Treinta y Tres pide evaluar propiedades de las raíces sin resolver.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Su suma es $-7$ y su producto $10$.",
           "is_correct": false,
           "feedback": "Incorrecto. La suma es $-\\frac{b}{a} = 7$, positiva."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Su suma es $7$ y su producto $10$.",
           "is_correct": true,
           "feedback": "¡Correcto! Por las relaciones de Cardano: suma $-b/a = 7$, producto $c/a = 10$."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Suma positiva y producto positivo implican raíces positivas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Las relaciones de Cardano vinculan coeficientes y raíces: suma $-\\frac{b}{a}$ y producto $\\frac{c}{a}$. Aquí: suma 7, producto 10 (raíces 2 y 5).",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Una fábrica de Montevideo modela su ganancia diaria en miles de pesos con $G(x) = -x^2 + 10x - 9$, donde $x$ son las toneladas producidas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Para cualquier cantidad producida.",
           "is_correct": false,
           "feedback": "Incorrecto. Fuera de las raíces la parábola es negativa: hay pérdidas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Solo para $x = 5$ toneladas.",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el máximo, pero la ganancia es positiva en todo un intervalo."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Entre 1 y 9 toneladas, sin incluir los extremos.",
           "is_correct": true,
           "feedback": "¡Correcto! Las raíces son 1 y 9; la parábola abre hacia abajo y es positiva entre ellas."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Más allá de 9 la ganancia es negativa."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Resolviendo $-x^2 + 10x - 9 > 0$ (equivalente a $x^2 - 10x + 9 < 0$), las raíces 1 y 9 delimitan el intervalo de positividad: $(1, 9)$, con el máximo en $x = 5$.",
       "difficulty": "10",
       "images": [],

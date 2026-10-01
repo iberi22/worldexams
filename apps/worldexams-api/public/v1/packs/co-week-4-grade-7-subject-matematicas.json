@@ -13,19 +13,19 @@
       "context": "En Manizales, una panadería multiplica la fracción de un lote de masa: $\\frac{3}{5}$ por $\\frac{2}{7}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\frac{6}{35}$",
           "is_correct": true,
           "feedback": "Correcto. Se multiplican numeradores y denominadores: $\\frac{3 \\times 2}{5 \\times 7} = \\frac{6}{35}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{5}{12}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste numeradores y denominadores en lugar de multiplicarlos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{6}{12}$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste los numeradores pero sumaste los denominadores."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. El producto de los numeradores no es $5$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para multiplicar fracciones se opera en línea: $\\frac{3}{5} \\times \\frac{2}{7} = \\frac{3 \\times 2}{5 \\times 7} = \\frac{6}{35}$.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "En Armenia, un tendero reparte $\\frac{4}{5}$ de un galón de aceite en $2$ envases iguales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\frac{2}{5}$ de galón",
           "is_correct": true,
           "feedback": "Correcto. Dividir entre $2$ equivale a multiplicar por $\\frac{1}{2}$: $\\frac{4}{5} \\times \\frac{1}{2} = \\frac{2}{5}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{8}{5}$ de galón",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste por $2$ en lugar de dividir entre $2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{1}{5}$ de galón",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste también el denominador entre $2$ de forma incorrecta."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Invertiste la fracción original."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Repartir en dos partes iguales es dividir entre $2$: $\\frac{4}{5} \\div 2 = \\frac{4}{5} \\times \\frac{1}{2} = \\frac{2}{5}$ de galón por envase.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En Neiva, un agricultor debe dividir $\\frac{3}{4}$ de hectárea en parcelas de $\\frac{2}{5}$ de hectárea.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\frac{15}{8}$",
           "is_correct": true,
           "feedback": "Correcto. $\\frac{3}{4} \\div \\frac{2}{5} = \\frac{3}{4} \\times \\frac{5}{2} = \\frac{15}{8}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{3}{10}$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste directamente las dos fracciones sin invertir la segunda."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{8}{15}$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la fracción equivocada."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\frac{5}{6}$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la primera fracción en lugar de la segunda."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Dividir fracciones es multiplicar por el recíproco: $\\frac{3}{4} \\div \\frac{2}{5} = \\frac{3}{4} \\times \\frac{5}{2} = \\frac{15}{8}$.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En Cúcuta, una jarra contiene $\\frac{3}{2}$ de litro de jugo y se sirve en vasos de $\\frac{1}{4}$ de litro.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$6$ vasos",
           "is_correct": true,
           "feedback": "Correcto. $\\frac{3}{2} \\div \\frac{1}{4} = \\frac{3}{2} \\times 4 = 6$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{3}{8}$ de vaso",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste las fracciones cuando se pedía una división."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{8}{3}$ de vaso",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste el orden de la división."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Ignoraste la fracción $\\frac{3}{2}$ del contenido total."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Número de vasos $= \\frac{3}{2} \\div \\frac{1}{4} = \\frac{3}{2} \\times \\frac{4}{1} = 6$.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "En Villavicencio, un estudiante calcula el producto $\\frac{2}{3} \\times \\frac{9}{4}$ para resolver un problema de proporciones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\frac{3}{2}$",
           "is_correct": true,
           "feedback": "Correcto. $\\frac{2}{3} \\times \\frac{9}{4} = \\frac{18}{12} = \\frac{3}{2}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{11}{12}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste los términos en lugar de multiplicarlos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{2}{9}$",
           "is_correct": false,
           "feedback": "Incorrecto. Simplificaste de forma incorrecta el producto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\frac{27}{8}$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste mal uno de los factores."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Se multiplica en línea y se simplifica: $\\frac{2}{3} \\times \\frac{9}{4} = \\frac{18}{12} = \\frac{3}{2}$.",
       "difficulty": "8",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "En Popayán, un laboratorio debe calcular la razón $\\frac{5}{6} \\div \\frac{10}{9}$ para dosificar una mezcla.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\frac{3}{4}$",
           "is_correct": true,
           "feedback": "Correcto. $\\frac{5}{6} \\times \\frac{9}{10} = \\frac{45}{60} = \\frac{3}{4}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{4}{3}$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la fracción que se dividía."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{25}{27}$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el producto directo sin invertir el divisor."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\frac{5}{18}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error al simplificar el producto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "$\\frac{5}{6} \\div \\frac{10}{9} = \\frac{5}{6} \\times \\frac{9}{10} = \\frac{45}{60} = \\frac{3}{4}$.",
       "difficulty": "8",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "En Sincelejo, una llave vierte $\\frac{3}{8}$ de litro por segundo en un tanque. Se desea llenar una reserva de $\\frac{9}{4}$ de litro.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$6$ segundos",
           "is_correct": true,
           "feedback": "Correcto. $\\frac{9}{4} \\div \\frac{3}{8} = \\frac{9}{4} \\times \\frac{8}{3} = \\frac{72}{12} = 6$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{27}{32}$ de segundo",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste las fracciones en lugar de dividirlas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{32}{27}$ de segundo",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la razón entre volumen y caudal."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Dividiste de forma incompleta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Tiempo $= \\frac{9}{4} \\div \\frac{3}{8} = \\frac{9}{4} \\times \\frac{8}{3} = \\frac{72}{12} = 6$ segundos.",
       "difficulty": "10",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "En Ibagué, un comerciante dispone de $240000\\text{ COP}$. Gasta $\\frac{3}{4}$ de ese dinero en mercancía y, de lo gastado, destina $\\frac{2}{5}$ a lácteos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$72000\\text{ COP}$",
           "is_correct": true,
           "feedback": "Correcto. Mercancía: $\\frac{3}{4}$ de $240000 = 180000$; lácteos: $\\frac{2}{5}$ de $180000 = 72000$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$108000\\text{ COP}$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste por $\\frac{3}{5}$ en lugar de $\\frac{2}{5}$."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. Aplicaste $\\frac{1}{5}$ al monto inicial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Gasto en mercancía $= \\frac{3}{4} \\times 240000 = 180000$. Lácteos $= \\frac{2}{5} \\times 180000 = 72000$ COP.",
       "difficulty": "10",
       "images": [],

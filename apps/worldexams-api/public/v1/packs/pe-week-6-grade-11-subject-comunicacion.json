@@ -19,13 +19,13 @@
           "feedback": "Incorrecto. Las palabras agudas que terminan en L o R no se tildan (salvo hiato acentual), y la regla exige terminación en vocal o n/s."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Únicamente cuando terminan en hiato simple o triptongo asimilado",
           "is_correct": false,
           "feedback": "Incorrecto. Los hiatos y triptongos tienen sus propias reglas, la regla general para las agudas es más sencilla."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cuando terminan en vocal o en las consonantes N o S",
           "is_correct": true,
           "feedback": "Correcto. Por regla general de acentuación escrita de la RAE, las palabras agudas llevan tilde si su sílaba tónica es la última y terminan en vocal, en N o en S (no precedida de otra consonante)."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. La longitud o cantidad de sílabas de la palabra no determina la tildación gráfica de las agudas."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Las palabras agudas o de acento oxítono llevan tilde en la última sílaba si terminan en vocal o en los grafemas N o S, de acuerdo con la ortografía oficial de la RAE.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -154,13 +154,13 @@
           "feedback": "Incorrecto. 'Dócil' es grave; 'compás' es aguda; 'examen' es grave y no lleva tilde."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "sílaba, héroe, física, público",
           "is_correct": true,
           "feedback": "Correcto. Todas estas palabras tienen su sílaba tónica en la antepenúltima sílaba (sí-la-ba, hé-roe, fí-si-ca, pú-bli-co) y, por ende, llevan tilde por regla general sin excepción."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "mármol, café, sutil, cánticos",
           "is_correct": false,
           "feedback": "Incorrecto. 'Mármol' es grave; 'café' es aguda; 'sutil' es aguda y no lleva tilde."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Estas son palabras sobresdrújulas (sílaba tónica anterior a la antepenúltima), no esdrújulas puras."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Las palabras esdrújulas poseen la mayor fuerza de voz en la antepenúltima sílaba y, de acuerdo con la norma ortográfica de la RAE, se tildan siempre sin excepción.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Se estudia la tildación de palabras compuestas y adverbios terminados en '-mente' en Chiclayo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Se tildan siempre en la última sílaba por asimilación de la palabra mente",
           "is_correct": false,
           "feedback": "Incorrecto. No se tildan en la última sílaba ni por asimilación de 'mente'."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Conservan la tilde del adjetivo base si este la llevaba de forma original, y permanecen sin tilde si el adjetivo base no la requería",
           "is_correct": true,
           "feedback": "Correcto. Los adverbios en '-mente' son palabras con doble acento. Conservan la tilde del adjetivo del cual proceden (ej. fácil $\\rightarrow$ fácilmente; sutil $\\rightarrow$ sutilmente)."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. La sílaba 'men' es átona; la acentuación se rige por la base del adjetivo original."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Los adverbios terminados en '-mente' constituyen una excepción rítmica en español. Mantienen la tildación gráfica original del adjetivo base sin verse afectados por la suma del sufijo.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorrecto. El primer 'se' (verbo saber/ser) y el segundo 'de' (verbo dar) exigen precisión ortográfica."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "se / dé",
           "is_correct": true,
           "feedback": "Correcto. El pronombre átono 'se' ('se cuenta') no lleva tilde. El monosílabo 'dé' (del verbo dar: 'dé más presupuesto') exige tilde diacrítica obligatoria para diferenciarse de la preposición 'de'."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "sé / de",
           "is_correct": false,
           "feedback": "Incorrecto. 'Sé' con tilde es verbo saber/ser y no corresponde al pronombre átono de 'se cuenta'; 'de' sin tilde es preposición y no verbo dar."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. El primer 'se' de 'se cuenta' es pronombre y debe ir sin tilde, aunque 'dé' sí deba llevarla por ser verbo dar."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El pronombre 'se' es átono y no lleva tilde. El verbo 'dar' conjugado en subjuntivo ('dé') es tónico y lleva tilde diacrítica para distinguirse de la preposición átona 'de'.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,19 +283,19 @@
       "context": "Un ejercicio de corrección de grafías dudosas (b/v) en la redacción de informes en Huancayo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El investigador andino concibió un proyecto viable para purificar el agua de las lagunas.",
           "is_correct": false,
           "feedback": "Incorrecto. 'Concibió' (de concebir) y 'viable' (de vía) están correctamente escritas con B y V respectivamente."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La municipalidad decidió abolir la tasa de arbitrios temporales durante el estado de emergencia.",
           "is_correct": false,
           "feedback": "Incorrecto. 'Abolir' y 'arbitrios' se escriben correctamente con B."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "El testigo tuvo que conbencer al comisario de la veracidad de su testimonio sobre el asalto.",
           "is_correct": true,
           "feedback": "Correcto. Contiene un error fáctico: la palabra 'conbencer' se ha escrito incorrectamente con B, cuando la grafía correcta exige V ('convencer') por regla ortográfica de la secuencia 'nv'."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. 'Sembrar' e 'invernadero' están correctamente escritas con B y V respectivamente."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La palabra 'convencer' se escribe con 'v' de forma obligatoria (combinación nv). El uso incorrecto de 'b' en este término ('conbencer') constituye una falta severa a las normas ortográficas vigentes.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,19 +328,19 @@
       "context": "Un examen sobre el uso correcto de las tildes enfáticas en preguntas y exclamaciones en Cusco.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "No me explicaste cómo lograste resolver el problema, por lo tanto no sé como ayudarte ahora.",
           "is_correct": false,
           "feedback": "Incorrecto. El segundo 'como' es interrogativo indirecto ('no sé cómo ayudarte') y requiere tilde enfática."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "¡Que hermosa es la ciudadela de Machu Picchu bajo la densa neblina andina!",
           "is_correct": false,
           "feedback": "Incorrecto. El pronombre exclamativo inicial exige tilde enfática obligatoria: '¡Qué hermosa...'."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Me pregunto por qué las autoridades aún no han reparado la carretera central, que colapsó hace una semana.",
           "is_correct": true,
           "feedback": "Correcto. El término 'por qué' (interrogativo indirecto que introduce causa) lleva tilde enfática y se escribe separado de forma correcta. El pronombre relativo 'que' ('que colapsó') es átono y va sin tilde."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. El primer 'quien' no lleva tilde enfática porque es relativo condicional en el refrán popular, no interrogativo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Las tildes enfáticas sirven para diferenciar los pronombres interrogativos y exclamativos (qué, quién, cómo, dónde, cuándo, por qué) de sus homófonos átonos relativos o conjunciones.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -430,19 +430,19 @@
           "feedback": "Incorrecto. 'Reina' presenta un diptongo decreciente (ei) átono; es palabra grave terminada en vocal y va sin tilde."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "caída",
           "is_correct": true,
           "feedback": "Correcto. 'Caída' presenta un hiato acentual (a-í) donde la mayor fuerza de voz recae sobre la vocal cerrada 'i'. Exige tildarse de manera obligatoria (ca-í-da) por encima de las reglas de las graves."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "línea",
           "is_correct": false,
           "feedback": "Incorrecto. 'Línea' presenta un hiato simple (e-a) que se tilda por ser palabra esdrújula, no por hiato acentual."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "En 'caída', el encuentro de una vocal abierta átona (a) con una cerrada tónica (i) obliga a colocar la tilde diacrítica/acentual en la cerrada para marcar la separación silábica.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Incorrecto. 'Caída' requiere tilde de hiato acentual obligatoria (ca-í-da)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "paují / caida",
           "is_correct": false,
           "feedback": "Incorrecto. Ambos términos requieren tilde: 'paují' por hiato acentual y 'caída' por la misma regla."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "paují / caída",
           "is_correct": true,
           "feedback": "Correcto. Ambas palabras presentan hiato acentual que exige colocar tilde sobre la vocal cerrada tónica 'í' (pau-jí, ca-í-da) para indicar la ruptura de la secuencia vocálica."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. 'Pauji' sin tilde es un error ortográfico; la fuerza de voz en la 'i' requiere tilde de hiato."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Las palabras que presentan hiato acentual se tildan siempre sobre la vocal cerrada tónica (i, u), con total independencia de las reglas generales de acentuación gráfica de agudas, graves o esdrújulas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Incorrecto. No hay prohibición del léxico; se modificó su criterio de acentuación gráfica."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Porque se consideran palabras graves terminadas en consonante distinta de n o s",
           "is_correct": false,
           "feedback": "Incorrecto. Estas palabras son monosílabas, por lo que no entran en la categoría de graves."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque a efectos de la ortografía gráfica se consideran obligatoriamente monosílabos con diptongo o triptongo, y los monosílabos no llevan tilde salvo casos diacríticos",
           "is_correct": true,
           "feedback": "Correcto. La RAE dictaminó que secuencias de vocal abierta + cerrada (o viceversa) se consideran diptongos gráficos indisolubles para la norma escrita. Al ser monosílabas (guion, truhan), no deben llevar tilde general."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Son palabras patrimoniales o adaptadas al español con acento prosódico evidente."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La Ortografía de 2010 de la RAE unificó el criterio de diptongación gráfica. Palabras como 'guion' o 'truhan' pasaron a considerarse monosílabas a efectos de la escritura, eliminándose la tilde que llevaban anteriormente.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -610,19 +610,19 @@
           "feedback": "Incorrecto. 'Aún' con tilde equivale a 'todavía', pero 'aun' sin tilde no equivale a 'todavía'."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "I equivale a 'todavía' (adverbio de tiempo) y II equivale a 'incluso' o 'siquiera' (con valor concesivo/aditivo)",
           "is_correct": true,
           "feedback": "Correcto. 'Aún' tónico con tilde diacrítica es equivalente a 'todavía' ('Todavía no han llegado...'). El adverbio átono 'aun' sin tilde equivale a 'incluso' o 'siquiera' ('Incluso los estudiantes...')."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ambos términos son equivalentes y la tilde es puramente opcional a gusto del redactor",
           "is_correct": false,
           "feedback": "Incorrecto. La tilde es diacrítica y obligatoria según el significado semántico que se desee expresar en la frase."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El término 'aún' lleva tilde diacrítica cuando funciona como adverbio tónico equivalente a 'todavía'. Se escribe 'aun' sin tilde cuando equivale a 'incluso, inclusive, hasta, también' o 'siquiera'.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Análisis de errores de tildación en palabras compuestas unidas por guion en Lima.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque al unirse por guion se convierten obligatoriamente en palabras esdrújulas",
           "is_correct": false,
           "feedback": "Incorrecto. La unión por guion no altera la estructura silábica individual de las palabras componentes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque en las palabras compuestas unidas por guion, cada elemento conserva su acentuación ortográfica original de forma independiente",
           "is_correct": true,
           "feedback": "Correcto. Por norma de la RAE, los adjetivos o sustantivos vinculados mediante guion mantienen su ortografía individual autónoma (franco es grave sin tilde; peruano es grave sin tilde; científico es esdrújula con tilde; tecnológico es esdrújula con tilde)."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. El guion es un signo de puntuación auxiliar, no una vocal ni elemento fónico."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La regla de palabras compuestas distingue dos casos: si se escriben fundidas en un solo vocablo (ej. sabelotodo, vigesimosegundo), solo el último conserva o adquiere la tilde; si se escriben separadas por guion, cada término mantiene su grafía original.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Análisis del uso de la tilde diacrítica en el monosílabo 'si' y sus múltiples valores oracionales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "I: Afirmación (sin tilde) - II: Condicional (con tilde) - III: Pronombre (con tilde)",
           "is_correct": false,
           "feedback": "Incorrecto. Clasificación errónea de las funciones oracionales del monosílabo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "I: Conjunción condicional (sin tilde) - II: Pronombre reflexivo (con tilde) - III: Adverbio de afirmación / Sustantivo (con tilde)",
           "is_correct": true,
           "feedback": "Correcto. En I, 'Si' introduce una condición (sin tilde). En II, 'sí' es un pronombre personal tónico de tercera persona con tilde diacrítica. En III, 'sí' es un adverbio de afirmación que funciona aquí como sustantivo que aprueba (lleva tilde diacrítica)."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. No son el mismo caso y la tilde diacrítica es de cumplimiento obligatorio para asegurar la coherencia del mensaje."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El monosílabo 'si' lleva tilde diacrítica cuando es adverbio de afirmación ('sí, acepto'), pronombre reflexivo de tercera persona ('volvió en sí') o sustantivo de aprobación ('dio el sí'). No lleva tilde cuando es conjunción condicional ('si vienes') o sustantivo de nota musical ('nota si').\n\n---",
       "difficulty": "8",
       "images": [],
@@ -745,19 +745,19 @@
           "feedback": "Incorrecto. Al contrario: la RAE eliminó la obligatoriedad de estas tildes y las desaconseja de forma sistemática."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "La RAE establece que tanto el adverbio 'solo' como los demostrativos 'este, ese, aquel' deben escribirse obligatoriamente sin tilde por tratarse de palabras llanas o agudas sin hiato acentual, admitiéndose la tilde únicamente en casos excepcionales de ambigüedad insalvable a juicio del redactor",
           "is_correct": true,
           "feedback": "Correcto. Tras una larga controversia, la normativa oficial prescribe que 'solo' (adverbio) y los demostrativos (pronombres o determinantes) no lleven tilde gráfica, pues son voces graves terminadas en vocal o s, resultando redundante la tilde para deshacer la ambigüedad, la cual se resuelve por el propio contexto oracional."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La tilde en 'solo' debe colocarse únicamente si el adjetivo se refiere a un varón soltero de la sierra peruana",
           "is_correct": false,
           "feedback": "Incorrecto. La tilde diacrítica no responde a variables sociológicas o de estado civil de los sujetos de la frase."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La Ortografía de la RAE de 2010 determinó la supresión de la tilde diacrítica en el adverbio 'solo' y en los pronombres demostrativos, unificando la regla de acentuación de las palabras graves y eliminando tildes superfluas del español escrito.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Un ejercicio de alta dificultad de admisión UNMSM sobre la presencia de diptongos, triptongos y hiatos en un solo párrafo expositivo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "4 diptongos y 2 hiatos",
           "is_correct": false,
           "feedback": "Incorrecto. Conteo deficiente; omite diptongos evidentes como el de 'viejo' o 'sauce'."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "6 diptongos y 3 hiatos",
           "is_correct": true,
           "feedback": "Correcto. Analicemos con rigor:\n- Diptongos (6): vi-e-jo (ie), sau-ce (au), si-len-cio-sa-men-te (io), ha-cia (ia), cuan-do (ua), a-gua-ce-ro (ua). (La 'u' de 'que' es muda y no forma secuencia).\n- Hiatos (3): bú-ho (ú-o, hiato acentual con H muda intermedia), ba-hí-a (í-a, hiato acentual con H), frí-o (í-o, hiato acentual). La 'y' de 'huyó' actúa como consonante, por lo que no forma hiato ni diptongo."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Sobredimensiona la presencia de hiatos simples en palabras que no poseen secuencias de vocales contiguas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Vamos a afinar el conteo exacto de secuencias vocálicas de la opción C para que pase cualquier control riguroso de la UNI o San Marcos.\n\n---",
       "difficulty": "10",
       "images": [],

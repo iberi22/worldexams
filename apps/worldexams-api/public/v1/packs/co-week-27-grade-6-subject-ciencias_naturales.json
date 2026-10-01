@@ -13,31 +13,31 @@
       "context": "En la clase de educación física de un colegio de Neiva, el profesor pide identificar los órganos que forman el sistema locomotor.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Los huesos, las articulaciones y los músculos",
           "is_correct": true,
           "feedback": "Correcto. Esos tres componentes permiten sostén y movimiento."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El estómago, el hígado y el páncreas",
           "is_correct": false,
           "feedback": "Incorrecto. Esos órganos pertenecen al sistema digestivo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los pulmones, la tráquea y los bronquios",
           "is_correct": false,
           "feedback": "Incorrecto. Esos órganos pertenecen al sistema respiratorio."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Las venas, las arterias y el corazón",
           "is_correct": false,
           "feedback": "Incorrecto. Esos órganos pertenecen al sistema circulatorio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El sistema locomotor está formado por los huesos que dan sostén, las articulaciones que unen los huesos y permiten su movimiento, y los músculos que generan la fuerza para desplazarnos.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En el laboratorio de un colegio de Popayán, los estudiantes sujetan un hueso de pollo, lo doblan con cuidado y luego lo someten a calor para observar cómo cambia su flexibilidad.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La resistencia y la flexibilidad del hueso, relacionadas con su composición de minerales y proteínas",
           "is_correct": true,
           "feedback": "Correcto. El experimento explora la dureza y la elasticidad del hueso."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El color que toma el hueso cuando se calienta",
           "is_correct": false,
           "feedback": "Incorrecto. El color no es la propiedad que se busca medir."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Ese no es el objeto del experimento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los huesos son duros pero ligeramente flexibles porque combinan minerales que aportan dureza y proteínas que aportan elasticidad; al calentarlos o tratarlos, se puede comprobar que ambas propiedades dependen de esa composición.",
       "difficulty": "6",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "Un campesino de Nariño carga un bulto de café sobre la espalda y mantiene la posición recta para no lesionarse la columna.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Porque la columna vertebral soporta el peso del cuerpo y una mala postura concentra fuerzas que dañan sus discos y vértebras",
           "is_correct": true,
           "feedback": "Correcto. La postura correcta distribuye mejor las cargas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque la columna recta hace que el bulto pese menos",
           "is_correct": false,
           "feedback": "Incorrecto. La postura no cambia el peso del bulto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque así los huesos se vuelven blandos y flexibles",
           "is_correct": false,
           "feedback": "Incorrecto. La postura no vuelve blandos los huesos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque la columna produce más músculo al estirarse",
           "is_correct": false,
           "feedback": "Incorrecto. La columna no produce músculo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La columna vertebral es el eje que soporta el peso del cuerpo; al cargar objetos pesados conviene mantenerla recta y usar las piernas para levantarlos, ya que una postura inadecuada concentra fuerzas que pueden lesionar discos y vértebras.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En un partido de microfútbol en Sincelejo, un jugador siente calambre en el muslo por no haber calentado antes de jugar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El calentamiento aumenta el flujo de sangre y la temperatura muscular, lo que prepara los músculos para esforzarse y reduce el riesgo de calambres y lesiones",
           "is_correct": true,
           "feedback": "Correcto. El calentamiento prepara el músculo para el esfuerzo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El calentamiento convierte los músculos en huesos más fuertes",
           "is_correct": false,
           "feedback": "Incorrecto. El músculo no se transforma en hueso."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El calentamiento elimina los huesos del cuerpo",
           "is_correct": false,
           "feedback": "Incorrecto. Los huesos permanecen; el calentamiento actúa sobre músculos y circulación."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Su función es fisiológica, no estética."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El calentamiento incrementa el riego sanguíneo y la temperatura de los músculos, mejora la elasticidad de las fibras y prepara el sistema cardiovascular; así se reduce el riesgo de calambres y desgarros durante la actividad física.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En un laboratorio del Sena en Medellín, los estudiantes observan un modelo de brazo: al jalar un tendón, el antebrazo se levanta, y al soltarlo, baja.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El músculo se contrae, tira del tendón que está unido al hueso y este gira sobre la articulación; al relajarse el músculo, otro grupo muscular devuelve el hueso a su posición",
           "is_correct": true,
           "feedback": "Correcto. La contracción muscular tracciona el hueso por medio del tendón."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los huesos se mueven solos porque son elásticos como cauchos",
           "is_correct": false,
           "feedback": "Incorrecto. Los huesos no se mueven por sí solos; requieren la tracción muscular."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El tendón produce la fuerza y el músculo solo la transporta",
           "is_correct": false,
           "feedback": "Incorrecto. El músculo genera la fuerza; el tendón transmite la tracción."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. El movimiento se debe a la contracción muscular."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El movimiento se produce cuando el músculo se contrae y, mediante los tendones, tira del hueso; este gira en la articulación. Como los músculos solo pueden contraerse y halar, trabajan en pares antagónicos: uno flexiona y el otro extiende.",
       "difficulty": "8",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "En una feria de la salud de Ibagué, tres estudiantes afirman: 1) Los huesos son estructuras muertas que nunca cambian. 2) El ejercicio fortalece músculos y huesos. 3) Las articulaciones permiten el movimiento.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La 1 es falsa porque los huesos son tejidos vivos que se renuevan, la 2 es verdadera y la 3 es verdadera",
           "is_correct": true,
           "feedback": "Correcto. Corrige el error sobre los huesos y valida las otras dos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las tres son verdaderas porque los huesos no cambian nunca",
           "is_correct": false,
           "feedback": "Incorrecto. Los huesos son tejidos vivos en constante renovación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solo la 1 es verdadera y las demás son falsas",
           "is_correct": false,
           "feedback": "Incorrecto. La 1 es falsa y las otras dos son verdaderas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Las tres son falsas porque el cuerpo no tiene huesos ni músculos",
           "is_correct": false,
           "feedback": "Incorrecto. El sistema óseo y muscular son reales y esenciales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluar estas afirmaciones exige recordar que los huesos son tejidos vivos que se remodelan constantemente, que el ejercicio fortalece tanto músculos como huesos y que las articulaciones hacen posible el movimiento del cuerpo.",
       "difficulty": "10",
       "images": [],

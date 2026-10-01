@@ -19,25 +19,25 @@
           "feedback": "Incorrect. The first part refers to unspecified time (Present Perfect), the second to a specific past time (Past Simple)."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "have been / went",
           "is_correct": true,
           "feedback": "Correct. 'Have been' covers the experience up to now, and 'went' specifies a finished time (last year)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "was / have gone",
           "is_correct": false,
           "feedback": "Incorrect. 'Was' is Past Simple and 'have gone' implies they haven't returned yet."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "have gone / was going",
           "is_correct": false,
           "feedback": "Incorrect. The second part requires Past Simple, not Past Continuous."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Present Perfect is used for experiences at an unspecified time in the past. Past Simple is used for actions completed at a specific time (e.g., last year).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "Discussing a recent flight.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "has just arrived / landed",
           "is_correct": true,
           "feedback": "Correct. 'Has just arrived' shows recent completion; 'landed' is used with a specific time expression (two hours ago)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "just arrived / has landed",
           "is_correct": false,
           "feedback": "Incorrect. 'Has landed' cannot be used with 'two hours ago'."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "arrived / lands",
           "is_correct": false,
           "feedback": "Incorrect. 'Lands' is Present Simple and doesn't fit the past context."
@@ -83,7 +83,7 @@
           "feedback": "Incorrect. 'Is arriving' implies current action, but the brother is already there."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Contrast between 'just' with Present Perfect and specific time markers with Past Simple.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -157,13 +157,13 @@
           "feedback": "Incorrect. Present Perfect doesn't fit a sequence of completed past events well here."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "had been trekking / reached",
           "is_correct": true,
           "feedback": "Correct. Past Perfect Continuous describes the ongoing action before a specific point in the past."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "were trekking / have reached",
           "is_correct": false,
           "feedback": "Incorrect. 'Have reached' is Present Perfect and doesn't fit the past narrative."
@@ -175,7 +175,7 @@
           "feedback": "Incorrect. The sequence of events is better described by B."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Grammatical complexity: Past Perfect Continuous vs Past Simple in a travel narrative.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -203,25 +203,25 @@
           "feedback": "Incorrect. 'Last month' requires Past Simple."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "had visited / increased",
           "is_correct": true,
           "feedback": "Correct. Past Perfect shows the action happened before another action in the past (increased)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "have visited / increased",
           "is_correct": false,
           "feedback": "Incorrect. Using Present Perfect with a sequence of past events is less precise here."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "visit / increased",
           "is_correct": false,
           "feedback": "Incorrect. Tense mismatch."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Past Perfect to show the order of two past events.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -295,25 +295,25 @@
           "feedback": "Incorrect. 'Up until that moment' implies a past timeframe."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "had / seen / boarded",
           "is_correct": true,
           "feedback": "Correct. Past Perfect is used to describe experiences (or lack thereof) up to a point in the past."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "was / seeing / boarding",
           "is_correct": false,
           "feedback": "Incorrect. Past Continuous doesn't fit the 'never' experience context."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "did / see / board",
           "is_correct": false,
           "feedback": "Incorrect. Past Simple is less precise for experiences before a past point."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Past Perfect for life experiences relative to a specific time in the past.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "A text about the evolution of sustainable tourism in Colombia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "has worked / encountered",
           "is_correct": true,
           "feedback": "Correct. 'Since the 1990s' requires Present Perfect; 'early on' refers to a specific past period."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "worked / have encountered",
           "is_correct": false,
           "feedback": "Incorrect. Tenses are swapped incorrectly."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "is working / encountered",
           "is_correct": false,
           "feedback": "Incorrect. 'Since' requires a perfect tense."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "had worked / encountered",
           "is_correct": false,
           "feedback": "Incorrect. Past Perfect would imply they stopped working on it."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Contrast between long-term ongoing action (Present Perfect) and specific past challenges (Past Simple).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "An essay on the impact of low-cost airlines.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "helped / offer",
           "is_correct": false,
           "feedback": "Incorrect. Needs perfect tenses for the duration."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "had helped / to access",
           "is_correct": true,
           "feedback": "Correct. 'Had helped' for the past-before-past and 'to access' as the infinitive complement."
@@ -405,7 +405,7 @@
           "feedback": "Incorrect. Does not emphasize the duration and completion before the regulation."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Complexity: Past Perfect and infinitive complements in a formal context.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "Discussion on the psychology of travel.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "had / reached / were",
           "is_correct": true,
           "feedback": "Correct. Inversion with 'Scarcely' requires Past Perfect."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "did / reach / had been",
           "is_correct": false,
           "feedback": "Incorrect. Inversion with 'Scarcely' usually takes Past Perfect."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "have / reached / are",
           "is_correct": false,
           "feedback": "Incorrect. Tense mismatch for a past narrative."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "were / reaching / been",
           "is_correct": false,
           "feedback": "Incorrect. Grammatically incorrect."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Advanced B2 structure: Inversion with negative/restrictive adverbials (Scarcely/Hardly... when).\n\n---",
       "difficulty": "10",
       "images": [],
@@ -473,19 +473,19 @@
       "context": "A critique of a travel documentary.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "admits / had made",
           "is_correct": false,
           "feedback": "Incorrect. The first verb should be in the past for the context."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "admitted / have made",
           "is_correct": false,
           "feedback": "Incorrect. Tense backshifting required."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "admitted / had made",
           "is_correct": true,
           "feedback": "Correct. Both actions are in the past, but the failures happened before the caution."
@@ -497,7 +497,7 @@
           "feedback": "Incorrect. Less precise for the narrative of last year."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Use of Past Perfect to show causality and sequence in a formal report.\n\n---",
       "difficulty": "10",
       "images": [],

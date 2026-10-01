@@ -19,25 +19,25 @@
           "feedback": "Incorrect. A metaphor is not literally true."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Metaphor",
           "is_correct": true,
           "feedback": "Correct. Specific term for this type of comparison."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Slogan",
           "is_correct": false,
           "feedback": "Incorrect. Used in advertising."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Archive",
           "is_correct": false,
           "feedback": "Incorrect. A collection of records."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Metaphor' is the foundational literary term for non-literal comparisons used to create imagery.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -64,25 +64,25 @@
           "feedback": "Incorrect. Subject-verb agreement ('narrator' is singular)."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "speaks",
           "is_correct": true,
           "feedback": "Correct. Present simple for a definition."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "speaking",
           "is_correct": false,
           "feedback": "Incorrect. Gerund."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "spoke",
           "is_correct": false,
           "feedback": "Incorrect. Past tense."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The present simple 'speaks' describes the constant function of a narrative style.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -109,13 +109,13 @@
           "feedback": "Incorrect. Second conditional."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "had revealed",
           "is_correct": true,
           "feedback": "Correct. Third conditional for hypothetical past."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "has revealed",
           "is_correct": false,
           "feedback": "Incorrect. Present perfect."
@@ -127,7 +127,7 @@
           "feedback": "Incorrect. 'Would' not used in 'if' clause."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The third conditional is used to imagine how a different narrative choice would have affected the reader's experience.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Article about \"show, don't tell\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "sensory",
           "is_correct": true,
           "feedback": "Correct. Sensory details relate to the five senses."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "boring",
           "is_correct": false,
           "feedback": "Incorrect. The technique aims to make writing more engaging."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "hidden",
           "is_correct": false,
           "feedback": "Incorrect. Details should be present to 'show' the scene."
@@ -172,7 +172,7 @@
           "feedback": "Incorrect. Unrelated to the creative technique."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "'Sensory' details are the sights, sounds, smells, etc., that writers use to create immersive scenes.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrect. Good characters are usually complex."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "complex",
           "is_correct": true,
           "feedback": "Correct. Complex characters have many parts or aspects."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "invisible",
           "is_correct": false,
           "feedback": "Incorrect. Characters need to be present."
@@ -217,7 +217,7 @@
           "feedback": "Incorrect. Flaws often make characters more relatable and interesting."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Complex' refers to the richness and depth of a well-written character's personality and motivations.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorrect. The final version."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "draft",
           "is_correct": true,
           "feedback": "Correct. An early or rough version of a text."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "slogan",
           "is_correct": false,
           "feedback": "Incorrect. Advertising phrase."
@@ -262,7 +262,7 @@
           "feedback": "Incorrect. A starting instruction for writing."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Draft' is the standard term for the various versions a writer produces before finishing a work.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,25 +289,25 @@
           "feedback": "Incorrect grammar."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "is used to",
           "is_correct": true,
           "feedback": "Correct. 'Be used to + -ing' means 'accustomed to'."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "used to",
           "is_correct": false,
           "feedback": "Incorrect. Refers to a past habit."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "used",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Is used to + gerund' describes a current state of being accustomed to a specific professional habit.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Describing an ongoing process of creative inspiration.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "are inspiring",
           "is_correct": false,
           "feedback": "Incorrect. Active voice."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "are being inspired",
           "is_correct": true,
           "feedback": "Correct. Present continuous passive for an ongoing process."
@@ -397,7 +397,7 @@
           "feedback": "Incorrect. Active voice."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The present continuous passive describes the active and constant influence of life on literature.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Critique of \"overused tropes\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "masterpiece",
           "is_correct": false,
           "feedback": "Incorrect. A masterpiece is original and great."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "cliché",
           "is_correct": true,
           "feedback": "Correct. Term for an unoriginal or overused idea."
@@ -442,7 +442,7 @@
           "feedback": "Incorrect. A tool for representing speech."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Cliché' describes the unoriginality that writers aim to avoid in creative work.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "Discussing \"voice\" in writing.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "unique",
           "is_correct": true,
           "feedback": "Correct. Unique means being the only one of its kind; unlike anything else."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "identical",
           "is_correct": false,
           "feedback": "Incorrect. Opposite of unique."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "common",
           "is_correct": false,
           "feedback": "Incorrect. 'Voice' should be distinct."
@@ -577,7 +577,7 @@
           "feedback": "Incorrect. Voice should be felt by the reader."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "'Unique' captures the individuality that defines a writer's specific stylistic 'voice'.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,25 +604,25 @@
           "feedback": "Incorrect. First conditional."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "had",
           "is_correct": true,
           "feedback": "Correct. Second conditional for a hypothetical change."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "have had",
           "is_correct": false,
           "feedback": "Incorrect. Present perfect."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "would have",
           "is_correct": false,
           "feedback": "Incorrect. 'Would' not used in 'if' clause."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The second conditional 'if + past simple' describes how a hypothetical change in lifestyle would affect creativity.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Conclusion of an essay on the importance of revision.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "secondary",
           "is_correct": false,
           "feedback": "Incorrect. The author says it's critical (essential)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "critical",
           "is_correct": true,
           "feedback": "Correct. Critical means expressing adverse or disapproving comments or judgments, but also (as here) essential or fundamental."
@@ -667,7 +667,7 @@
           "feedback": "Incorrect. While it might be, 'critical' is the professional evaluation of its role."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Critical' correctly identifies the essential and fundamental role that revision plays in high-quality writing.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Describing a \"protagonist\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Antagonist",
           "is_correct": false,
           "feedback": "Incorrect. The opponent."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Protagonist",
           "is_correct": true,
           "feedback": "Correct. The leading character."
@@ -712,7 +712,7 @@
           "feedback": "Incorrect. A character with no speaking part."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Protagonist' is the technical term for the central figure in a creative narrative.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,31 +733,31 @@
       "context": "Reporting a writer's advice.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "experiment",
           "is_correct": true,
           "feedback": "Correct. Subjunctive base form after 'suggested'."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "experiments",
           "is_correct": false,
           "feedback": "Incorrect."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "to experiment",
           "is_correct": false,
           "feedback": "Incorrect. Doesn't fit 'that' clause."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "experimenting",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Verbs of suggestion take a 'that' clause with the base form (subjunctive mood) of the following verb.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Incorrect. Past continuous."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "had been struggling",
           "is_correct": true,
           "feedback": "Correct. Past perfect continuous for duration before a past point."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "have been struggling",
           "is_correct": false,
           "feedback": "Incorrect. Present perfect continuous."
@@ -847,7 +847,7 @@
           "feedback": "Incorrect. Present simple."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The past perfect continuous emphasizes the duration of the difficulty leading up to a specific past moment of success.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Final thought on self-expression.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "self-expression",
           "is_correct": true,
           "feedback": "Correct. Expression of one's own personality, feelings, or ideas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "isolation",
           "is_correct": false,
           "feedback": "Incorrect. Writing aims to connect."
@@ -892,7 +892,7 @@
           "feedback": "Incorrect. Unrelated."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "'Self-expression' is the primary purpose and benefit of creative work described in the text.",
       "difficulty": "10",
       "images": [],

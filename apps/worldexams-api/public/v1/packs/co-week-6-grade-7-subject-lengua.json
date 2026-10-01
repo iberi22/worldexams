@@ -19,25 +19,25 @@
           "feedback": "Incorrecto. El surrealismo busca explorar el inconsciente y los sueños, no la realidad cotidiana."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Costumbrismo",
           "is_correct": true,
           "feedback": "¡Correcto! El costumbrismo se enfoca en el retrato fiel de la vida diaria y las tradiciones locales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Vanguardismo",
           "is_correct": false,
           "feedback": "Incorrecto. El vanguardismo busca romper con las tradiciones y experimentar con formas nuevas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Neoclasicismo",
           "is_correct": false,
           "feedback": "Incorrecto. El neoclasicismo se basa en la imitación de los clásicos griegos y romanos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El costumbrismo es fundamental en la literatura colombiana porque sirvió para documentar cómo se vivía en las distintas regiones del país durante el siglo XIX. Se interesa por lo pintoresco, los tipos sociales (el arriero, el campesino) y las fiestas populares.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -111,13 +111,13 @@
           "feedback": "Incorrecto. El lenguaje culto evita los modismos regionales."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Lenguaje popular o dialectal",
           "is_correct": true,
           "feedback": "¡Correcto! El uso de regionalismos y modismos da verosimilitud y color local a la obra."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Lenguaje poético metafórico",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque puede haber poesía, el objetivo aquí es el realismo lingüístico."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. No se están usando términos legales o de leyes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El costumbrismo valoró el habla regional. Autores como Carrasquilla demostraron que la forma de hablar del pueblo tenía un valor estético y literario, alejándose del español rígido de los diccionarios para abrazar la riqueza de las lenguas locales.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -249,13 +249,13 @@
           "feedback": "Incorrecto. La sátira busca resaltar los defectos, no las virtudes heroicas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Criticar los vicios, la hipocresía o las malas costumbres de la sociedad a través del humor.",
           "is_correct": true,
           "feedback": "¡Correcto! El autor busca corregir o denunciar algo mientras divierte."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Enseñar a los niños a leer más rápido mediante chistes.",
           "is_correct": false,
           "feedback": "Incorrecto. La sátira tiene un propósito de crítica social adulta."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Al contrario, la sátira revela claramente la postura crítica del autor."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Los autores costumbristas a menudo se burlaban de los campesinos que querían parecer ciudadanos elegantes o de los políticos que engañaban al pueblo. La sátira es una herramienta de moralización social muy común en este género.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -393,19 +393,19 @@
           "feedback": "Incorrecto. Es una escena totalmente realista y cotidiana."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "La caracterización externa a través de objetos simbólicos (carriel, sombrero) y una actitud social típica (el regateo).",
           "is_correct": true,
           "feedback": "¡Correcto! El personaje se define por su apariencia y su comportamiento social."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La personificación del carriel de nutria para que parezca un animal vivo.",
           "is_correct": false,
           "feedback": "Incorrecto. El carriel es mencionado como una prenda de vestir del personaje."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La descripción física en el costumbrismo es un código social. El carriel de nutria identifica inmediatamente al personaje como alguien de la región antioqueña y sugiere su oficio o estatus. La actitud de discutir el precio muestra la psicología del tipo social campesino de la época.\n\n---",
       "difficulty": "10",
       "images": [],

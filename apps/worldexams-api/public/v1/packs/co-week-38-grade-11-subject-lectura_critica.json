@@ -13,13 +13,13 @@
       "context": "En clase en Bogotá, los estudiantes identifican tipos de discurso público.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Una intervención oral o escrita dirigida a una audiencia con intención comunicativa deliberada.",
           "is_correct": true,
           "feedback": "Tiene emisor, intención y contexto reconocibles."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una conversación privada entre dos personas.",
           "is_correct": false,
           "feedback": "Implica publicidad."
@@ -37,7 +37,7 @@
           "feedback": "Busca ser comprendido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El discurso público combina retórica, contexto y propósito para incidir en una colectividad.",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En Barranquilla, se analiza la sintaxis de una alocución.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Ritmica y enfática, que asegura claridad y favorece la memorización.",
           "is_correct": true,
           "feedback": "El ritmo facilita la recepción oral."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Exclusivamente literaria sin efecto persuasivo.",
           "is_correct": false,
           "feedback": "Tiene efecto pragmático."
@@ -175,7 +175,7 @@
           "feedback": "Tiende a la claridad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La sintaxis del discurso público está diseñada para ser escuchada y recordada.",
       "difficulty": "4",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En Bucaramanga, se estudian estrategias de apertura en discursos políticos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Inclusión directa del destinatario para generar sentido de pertenencia y compromiso.",
           "is_correct": true,
           "feedback": "Refuerza la identidad compartida."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Distanciamiento técnico del público.",
           "is_correct": false,
           "feedback": "Es cercano."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ataque al adversario desde la primera línea.",
           "is_correct": false,
           "feedback": "Es convocatoria."
@@ -221,7 +221,7 @@
           "feedback": "Es reconocimiento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las estrategias de apelación al nosotros cohesionan la audiencia en torno al orador.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En Tunja, se analiza un discurso de un líder estudiantil.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Antítesis: refutar un estereotipo y proponer una identidad alternativa.",
           "is_correct": true,
           "feedback": "Contrasta dos visiones."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Evasión del tema principal.",
           "is_correct": false,
           "feedback": "Asume posición."
@@ -313,7 +313,7 @@
           "feedback": "Es afirmación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La antítesis es clave para redefinir marcos y construir nuevas imágenes del nosotros.",
       "difficulty": "6",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En Cúcuta, se estudia un discurso sobre paz total.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Argumentación estructurada con datos (logos) y propuesta política concreta.",
           "is_correct": true,
           "feedback": "Combina evidencia y plan."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Manipulación emocional sin contenido.",
           "is_correct": false,
           "feedback": "Hay sustancia."
@@ -359,7 +359,7 @@
           "feedback": "Es político."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El logos en el discurso público exige articulación de datos y propuestas verificables.",
       "difficulty": "6",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En Manizales, se analiza un discurso en plaza pública.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Reforzar el núcleo ideológico y facilitar su retención mnémica en la audiencia.",
           "is_correct": true,
           "feedback": "La repetición es un recurso mnemotécnico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Confundir al oyente con información contradictoria.",
           "is_correct": false,
           "feedback": "Es orden."
@@ -405,7 +405,7 @@
           "feedback": "Lo refuerza."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La repetición estratégica organiza la escucha y consolida el mensaje en la memoria colectiva.",
       "difficulty": "6",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "En Armenia, se evalúa la eficacia de un discurso sobre educación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Claridad argumentativa, evidencia pertinente y conexión con las necesidades de la audiencia.",
           "is_correct": true,
           "feedback": "Informa la evaluación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Duración total del discurso sin importar contenido.",
           "is_correct": false,
           "feedback": "La extensión no garantiza eficacia."
@@ -451,7 +451,7 @@
           "feedback": "Es accesorio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La eficacia retórica combina coherencia interna, sustento empírico y pertinencia social.",
       "difficulty": "6",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "En Popayán, se contrastan dos discursos sobre el campo colombiano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Marcos interpretativos distintos: uno victimiza, otro dignifica productivamente.",
           "is_correct": true,
           "feedback": "Son encuadres diferentes del mismo tema."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Datos opuestos verificables.",
           "is_correct": false,
           "feedback": "Comparten base empírica."
@@ -497,7 +497,7 @@
           "feedback": "Son perspectivas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El encuadre discursivo condiciona la percepción pública de un mismo problema.",
       "difficulty": "8",
       "images": [],
@@ -519,31 +519,31 @@
       "context": "En Bogotá, se estudia el contexto de un pronunciamiento público.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El contexto sociohistórico, la audiencia prevista y la intención del emisor.",
           "is_correct": true,
           "feedback": "El significado depende del contexto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Únicamente la longitud del texto.",
           "is_correct": false,
           "feedback": "Es dato formal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La cantidad de figuras retóricas.",
           "is_correct": false,
           "feedback": "Es parcial."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La opinión personal del analista sin datos.",
           "is_correct": false,
           "feedback": "Sesga el análisis."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La pragmática integra emisor, contexto, intención y audiencia para fijar el sentido.",
       "difficulty": "8",
       "images": [],
@@ -611,31 +611,31 @@
       "context": "En Santa Marta, se evalúa el léxico de un discurso electoral.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Un campo semántico prospectivo que orienta expectativas y promesas.",
           "is_correct": true,
           "feedback": "Proyecta horizonte."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un registro técnico administrativo.",
           "is_correct": false,
           "feedback": "Es emocional."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un glosario científico.",
           "is_correct": false,
           "feedback": "Es político."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Un léxico judicial.",
           "is_correct": false,
           "feedback": "Es de campaña."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Los campos semánticos articulan emociones, valores y proyectos compartidos por la audiencia.",
       "difficulty": "8",
       "images": [],
@@ -703,13 +703,13 @@
       "context": "En Pasto, se comparan discursos de líderes sociales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El primero enfatiza la experiencia comunitaria; el segundo, la institucionalidad y la normatividad.",
           "is_correct": true,
           "feedback": "Son voces con legitimidades distintas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Son idénticos en forma y contenido.",
           "is_correct": false,
           "feedback": "Difieren en posición."
@@ -727,7 +727,7 @@
           "feedback": "Argumenta con experiencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La posición enunciativa define la perspectiva, el léxico y la estrategia retórica.",
       "difficulty": "8",
       "images": [],
@@ -795,31 +795,31 @@
       "context": "En un foro en Medellín, se analiza el impacto de un discurso de odio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Porque deshumaniza a grupos vulnerables y puede traducirse en acciones discriminatorias o violentas.",
           "is_correct": true,
           "feedback": "Tiene efectos sociales constatables."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque entretiene sin más.",
           "is_correct": false,
           "feedback": "Sus efectos van más allá."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque es inofensivo en contextos polarizados.",
           "is_correct": false,
           "feedback": "Perjudica la convivencia."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque reduce la participación electoral.",
           "is_correct": false,
           "feedback": "No es el principal efecto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El discurso de odio vulnera derechos y erosiona la base del diálogo democrático.",
       "difficulty": "10",
       "images": [],
@@ -841,19 +841,19 @@
       "context": "En Valledupar, se compara el alcance de un discurso en redes y uno en plaza pública.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Acelera la viralización, modifica la autoría y exige nuevos criterios de verificación y responsabilidad.",
           "is_correct": true,
           "feedback": "Cambian las condiciones de producción y recepción."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Elimina toda intención retórica.",
           "is_correct": false,
           "feedback": "La retórica permanece."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Hace innecesaria la argumentación.",
           "is_correct": false,
           "feedback": "Es más necesaria."
@@ -865,7 +865,7 @@
           "feedback": "Predomina la comunicación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El ecosistema digital redefine los modos de producción, circulación y responsabilidad discursiva.",
       "difficulty": "10",
       "images": [],
@@ -887,31 +887,31 @@
       "context": "En un cierre en Bogotá, se reflexiona sobre el papel del discurso público en la construcción de paz.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Visibilizar conflictos, reconocer víctimas y abrir canales de diálogo entre sectores diversos.",
           "is_correct": true,
           "feedback": "Es condición para la convivencia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sustituir las políticas públicas.",
           "is_correct": false,
           "feedback": "No las reemplaza."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Reducir la participación ciudadana.",
           "is_correct": false,
           "feedback": "La amplía."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Promover el silenciamiento general.",
           "is_correct": false,
           "feedback": "Estimula la palabra."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El discurso público ético es pieza clave para la deliberación democrática y la reconciliación.",
       "difficulty": "10",
       "images": [],

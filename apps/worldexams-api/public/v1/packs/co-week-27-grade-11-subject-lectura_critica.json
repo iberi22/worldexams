@@ -59,19 +59,19 @@
       "context": "Concordancia con sustantivos colectivos partitivos (Medellín).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La mayoría de los manifestantes marchó pacíficamente por la avenida principal.",
           "is_correct": true,
           "feedback": "Es correcta porque el verbo concuerda en singular con el núcleo colectivo partitivo 'la mayoría'."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La mayoría de los manifestantes marcháron pacíficamente por la avenida principal.",
           "is_correct": false,
           "feedback": "Es incorrecta porque incurre en una acentuación ortográfica aberrante en la conjugación verbal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La mayoría de los manifestante marcharon pacíficamente por la avenida principal.",
           "is_correct": false,
           "feedback": "Es incorrecta por la falta de concordancia de número en el complemento 'manifestante'."
@@ -83,7 +83,7 @@
           "feedback": "Es incorrecta por alterar la tercera persona gramatical sustituyéndola por la primera plural."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los colectivos partitivos admiten concordancia en singular con el núcleo o en plural con el adyacente.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "Función discursiva del marcador de reformulación 'es decir' (Cali).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Aclarar o reexplicar una afirmación compleja previa mediante términos más comprensibles.",
           "is_correct": true,
           "feedback": "Es correcta porque 'es decir' es un conector de reformulación explicativa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Introducir una contradicción tajante que anula lo expresado en el párrafo anterior.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no tiene función adversativa sino aclaratoria."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Iniciar una lista cronológica de los descubrimientos astronómicos del siglo XVII.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no ordena secuencias temporales en el discurso."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Concluir formalmente un ensayo despidiéndose de los lectores de la revista.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no posee carácter recapitulativo ni de despedida final."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Los marcadores de reformulación facilitan la comprensión lectora al reexpresar la información.",
       "difficulty": "4",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "Uso del relativo posesivo 'cuyo' en oraciones compuestas (Cartagena).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La investigadora cuya hipótesis fue premiada presentó su ponencia en la universidad.",
           "is_correct": true,
           "feedback": "Es correcta porque 'cuya' concuerda en femenino singular con el sustantivo poseído ('hipótesis')."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La investigadora que su hipótesis fue premiada presentó su ponencia en la universidad.",
           "is_correct": false,
           "feedback": "Es incorrecta por el uso vulgar del 'quesuísmo' ('que su') en lugar del relativo correcto cuyo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La investigadora cuya de su hipótesis fue premiada presentó su ponencia en la universidad.",
           "is_correct": false,
           "feedback": "Es incorrecta por la redundancia agramatical de acumular cuyo + de + su."
@@ -221,7 +221,7 @@
           "feedback": "Es incorrecta por emplear el relativo de persona 'quien' con sentido posesivo sin concordancia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El relativo 'cuyo' concuerda en género y número con la cosa poseída y enlaza proposiciones subordinadas.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "Marcadores de ordenación discursiva (en primer lugar, por último) (Bucaramanga).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Estructurar la secuencia del discurso guiando al lector a lo largo del desarrollo de las ideas.",
           "is_correct": true,
           "feedback": "Es correcta porque organizan la información jerárquicamente en el tiempo o espacio del texto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Expresar dudas sobre la veracidad de los datos presentados en el texto.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no indican incertidumbre sino ordenamiento expositivo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Reemplazar el uso de los signos de puntuación como la coma y el punto seguido.",
           "is_correct": false,
           "feedback": "Es incorrecta porque los organizadores no eximen del uso adecuado de la puntuación."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Introducir diálogos dramáticos entre personajes de ficción dentro de un texto informativo.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no se usan para abrir diálogos sino para secuenciar apartados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Los conectores organizadores jerarquizan las partes del escrito facilitando el mapa de lectura.",
       "difficulty": "6",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "La elipsis como mecanismo de cohesión textual (Manizales).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Elipsis verbal, donde la coma sustituye al verbo 'compró' para evitar su repetición innecesaria.",
           "is_correct": true,
           "feedback": "Es correcta porque la elipsis omite un elemento lingüístico recuperable por el contexto sintáctico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Anáfora pronominal, mediante el reemplazo de Valentina por un pronombre personal.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no hay sustitución pronominal sino omisión del núcleo verbal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Catáfora explicativa, al anticipar los títulos de las revistas que se van a comprar.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no se anticipa información futura sino que se elide el verbo previo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Pleonasmo sintáctico, al reiterar palabras redundantes dentro de la proposición.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la elipsis es un mecanismo de economía y no de redundancia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La elipsis suprime elementos redundantes sin perder la inteligibilidad del enunciado.",
       "difficulty": "6",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "Uso del conector consecutivo 'por lo tanto' (Pereira).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Introduce la consecuencia o deducción que se deriva de las premisas expuestas anteriormente.",
           "is_correct": true,
           "feedback": "Es correcta porque 'por lo tanto' es un conector consecutivo que da paso a la conclusión o efecto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Señala una restricción o concesión frente a la afirmación expresada en la cláusula previa.",
           "is_correct": false,
           "feedback": "Es incorrecta porque las restricciones corresponden a conectores adversativos (sin embargo)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Indica la causa u origen biológico de un fenómeno natural descrito en el párrafo.",
           "is_correct": false,
           "feedback": "Es incorrecta porque las causas se introducen mediante conectores causales (porque, ya que)."
@@ -359,7 +359,7 @@
           "feedback": "Es incorrecta porque no introduce ejemplos sino deducciones lógicas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los conectores consecutivos expresan el resultado o la conclusión lógica derivada de lo dicho previamente.",
       "difficulty": "6",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "Cohesión léxica por sustitución sinonímica (Pasto).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Para evitar la monotonía léxica mediante la sustitución por un sinónimo o hiperónimo.",
           "is_correct": true,
           "feedback": "Es correcta porque la sustitución sinonímica mantiene la continuidad referencial sin repeticiones molestas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Para confundir al lector haciéndole creer que en el segundo párrafo aparece un animal distinto.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el contexto periodístico asegura la correferencialidad entre perro y canino."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque la palabra 'perro' está prohibida por las normas gramaticales del idioma español.",
           "is_correct": false,
           "feedback": "Es incorrecta porque 'perro' es un sustantivo plenamente legítimo y normativo."
@@ -451,7 +451,7 @@
           "feedback": "Es incorrecta porque se busca elegancia y cohesión en castellano, no ostentación lingüística."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La sustitución sinonímica es una estrategia de cohesión que mantiene la coherencia temática evitando la repetición.",
       "difficulty": "6",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "Uso de conectores concesivos (aunque, si bien, a pesar de que) (Bogotá).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Expresar un obstáculo o dificultad que no impide la realización de la acción principal.",
           "is_correct": true,
           "feedback": "Es correcta porque los conectores concesivos introducen una traba superada por la acción del verbo principal."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Señalar la causa absoluta por la cual las personas decidieron regresar a sus casas.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la marcha no se canceló; la lluvia no funcionó como causa de detención."
@@ -497,7 +497,7 @@
           "feedback": "Es incorrecta porque no tiene función recapitulativa o de cierre final del discurso."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La concesividad señala un impedimento que resulta ineficaz para neutralizar la acción principal.",
       "difficulty": "8",
       "images": [],
@@ -519,31 +519,31 @@
       "context": "Marcadores discursivos de digresión (por cierto, a propósito) (Medellín).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Para introducir una observación lateral o tema secundario relacionado tangencialmente con la charla.",
           "is_correct": true,
           "feedback": "Es correcta porque 'a propósito' o 'por cierto' son marcadores de digresión que abren un parentesis temático."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Para insultar de forma malintencionada a uno de los participantes del debate.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la norma discursiva académica prohíbe el uso de marcadores para agravios."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Para señalar que se ha llegado al final de la clase y los alumnos pueden salir.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no funciona como fórmula de clausura del tiempo de clase."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Para corregir una falla de ortografía cometida por el docente en el tablero.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no cumple la función de corrección tipográfica o gramatical."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Los marcadores de digresión permiten introducir incisos temáticos sin romper la fluidez del diálogo.",
       "difficulty": "8",
       "images": [],
@@ -611,13 +611,13 @@
       "context": "Uso de los conectores explicativos (o sea, es decir, esto es) (Barranquilla).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Incurre en una falta de ortografía al confundir la locución explicativa con el adjetivo relativo a los huesos.",
           "is_correct": true,
           "feedback": "Es correcta porque 'o sea' (locución explicativa) va en dos palabras, mientras que 'ósea' es relativo a hueso."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demuestra un amplio dominio del vocabulario de la medicina ortopédica.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la equivocación refleja un error de segmentación léxica y no un mérito médico."
@@ -635,7 +635,7 @@
           "feedback": "Es incorrecta porque 'o sea' es explicativo y no una conjunción adversativa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La locución explicativa 'o sea' se compone de dos palabras independientes y no debe confundirse con 'ósea'.",
       "difficulty": "8",
       "images": [],
@@ -657,31 +657,31 @@
       "context": "Marcadores de distanciamiento (en todo caso, de todos modos) (Cartagena).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Relativizar lo dicho previamente o matizar la posición del autor dando por sentado lo esencial.",
           "is_correct": true,
           "feedback": "Es correcta porque los marcadores de distanciamiento permiten matizar o dar por superada una discusión parcial."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Afirmar que todo lo expresado en el texto son mentiras sin fundamento.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no descalifica la verdad del texto sino que reajusta su alcance."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Iniciar una descripción detallada de los muebles presentes en una habitación.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no tiene por función la descripción de objetos físicos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Exigir la repetición exacta del texto en voz alta por parte del público.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no es una consigna de lectura en voz alta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Los marcadores de distanciamiento permiten al emisor matizar su compromiso con las afirmaciones previas.",
       "difficulty": "8",
       "images": [],
@@ -703,13 +703,13 @@
       "context": "Uso del conector causal 'ya que' al inicio de oraciones (Bucaramanga).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Ya que la reunión fue cancelada, los delegados regresaron a sus ciudades de origen.",
           "is_correct": true,
           "feedback": "Es correcta porque la proposición subordinada causal antepuesta al núcleo verbal se separa con una coma."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ya que la reunión fue cancelada los delegados regresaron, a sus ciudades de origen.",
           "is_correct": false,
           "feedback": "Es incorrecta porque falta la coma que debe delimitar el final de la subordinada antepuesta."
@@ -727,7 +727,7 @@
           "feedback": "Es incorrecta porque fragmenta la proposición con comas agramaticales entre sujeto y verbo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las oraciones subordinadas causales antepuestas a la principal deben separarse mediante una coma.",
       "difficulty": "8",
       "images": [],
@@ -749,31 +749,31 @@
       "context": "Cohesión por recurrencia léxica exacta (Manizales).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "En los textos jurídicos y normativos, para evitar cualquier resquicio de ambigüedad interpretativa.",
           "is_correct": true,
           "feedback": "Es correcta porque en el derecho la precisión del concepto técnico exige fijedad léxica y repetición exacta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En los poemas de amor romántico dedicados a la naturaleza y las flores.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la poesía privilegia la variedad metafórica y el ritmo léxico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "En las fábulas infantiles que enseñan valores morales a los niños pequeños.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la literatura infantil emplea variaciones y juegos de palabras."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "En los artículos de chismes sobre la vida privada de los artistas de televisión.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el periodismo de entretenimiento busca la variedad adjetiva no restrictiva."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En discursos de alta precisión técnica o legal, la repetición léxica exacta prevalece sobre la variación elegante.",
       "difficulty": "10",
       "images": [],
@@ -795,19 +795,19 @@
       "context": "Marcadores de recalcitración o intensificación (más aún, es más) (Pereira).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Añadir un argumento de mayor peso o intensidad para reforzar la postura que se defiende.",
           "is_correct": true,
           "feedback": "Es correcta porque 'es más' funciona como un conector aditivo intensificativo que refuerza la tesis."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Restar importancia a los datos presentados para que el público no se preocupe.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no atenúa los datos sino que añade énfasis y fortaleza a la argumentación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Señalar que la conferencia durará dos horas más de lo previsto originalmente.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no informa sobre la duración temporal del evento."
@@ -819,7 +819,7 @@
           "feedback": "Es incorrecta porque aplica una interpretación literal aritmética ajena a la función discursiva."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los marcadores de intensificación introducen argumentos con mayor carga persuasiva.",
       "difficulty": "10",
       "images": [],
@@ -841,31 +841,31 @@
       "context": "Análisis de la coherencia global y los hilos conductores (Santa Marta).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La presencia de un hilo conductor o eje temático mantenido mediante conectores y cohesión léxica.",
           "is_correct": true,
           "feedback": "Es correcta porque la coherencia global reposa en la articulación de la tesis a través de la red de enlaces."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El uso de hojas de papel de colores diferentes en cada uno de los capítulos.",
           "is_correct": false,
           "feedback": "Es incorrecta porque los aspectos de diseño gráfico no garantizan la estructura lógica del pensamiento."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La obligación de colocar la palabra 'fin' al término de cada párrafo escrito.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la palabra 'fin' no crea cohesión sintáctica ni semántica entre ideas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La inclusión de una lista de nombres de actores famosos en la mitad del texto.",
           "is_correct": false,
           "feedback": "Es incorrecta porque intercalar nombres inconexos destruye la unidad del ensayo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La coherencia global se logra mediante la presencia ininterrumpida de un eje temático sustentado por marcadores.",
       "difficulty": "10",
       "images": [],
@@ -887,13 +887,13 @@
       "context": "Síntesis sobre la gramática textual en la prueba Saber 11 (Pasto).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque permiten identificar cómo se construyen las relaciones lógicas entre las oraciones y párrafos de un texto.",
           "is_correct": true,
           "feedback": "Es correcta porque comprender la red de marcadores y referentes es indispensable para descifrar el sentido global."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque se busca que los estudiantes memoricen el diccionario de la lengua española sin comprenderlo.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la prueba no mide la memorización ciega sino la capacidad analítica y relacional."
@@ -911,7 +911,7 @@
           "feedback": "Es incorrecta porque no evalúa destrezas dactilográficas sino competencias lectoras críticas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La gramática textual constituye la arquitectura sobre la que se sostiene la interpretación crítica del discurso.",
       "difficulty": "10",
       "images": [],

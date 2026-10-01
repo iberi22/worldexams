@@ -19,13 +19,13 @@
           "feedback": "Incorrect. A recession is a period of temporary economic decline."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Inflation",
           "is_correct": true,
           "feedback": "Correct. Inflation is the rise in prices over time."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Deflation",
           "is_correct": false,
           "feedback": "Incorrect. Deflation is a decrease in prices."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect. Interest is the cost of borrowing money."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Inflation' is the standard economic term for the situation where the cost of living increases.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -64,25 +64,25 @@
           "feedback": "Incorrect. Present simple."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "has been fluctuating",
           "is_correct": true,
           "feedback": "Correct. Present perfect continuous for an action that started in the past and is still ongoing."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "fluctuated",
           "is_correct": false,
           "feedback": "Incorrect. Past simple."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "will fluctuate",
           "is_correct": false,
           "feedback": "Incorrect. Simple future."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The present perfect continuous 'has been fluctuating' emphasizes the ongoing nature of the market's volatility.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -109,25 +109,25 @@
           "feedback": "Incorrect. Inconsistent with 'would'."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "were removed",
           "is_correct": true,
           "feedback": "Correct. Second conditional passive for a hypothetical situation."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "are removed",
           "is_correct": false,
           "feedback": "Incorrect. First conditional."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "had been removed",
           "is_correct": false,
           "feedback": "Incorrect. Third conditional."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The second conditional passive 'if + were + past participle' is used to discuss a hypothetical change in policy.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -154,25 +154,25 @@
           "feedback": "Incorrect. Interdependence is the opposite of independence."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "interdependence",
           "is_correct": true,
           "feedback": "Correct. Interdependence means mutual reliance between countries."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "isolation",
           "is_correct": false,
           "feedback": "Incorrect. Globalization reduces isolation."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "self-sufficiency",
           "is_correct": false,
           "feedback": "Incorrect. Self-sufficiency means not needing others."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Interdependence' correctly identifies the mutual reliance that characterizes the modern global economy.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrect. The text says it's concentrated in a 'small percentage'."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "disproportionately",
           "is_correct": true,
           "feedback": "Correct. Disproportionately means in a way that is out of proportion."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "fairly",
           "is_correct": false,
           "feedback": "Incorrect. 'Concentrated' implies it is not fair."
@@ -217,7 +217,7 @@
           "feedback": "Incorrect. If it's concentrated, it's not minimal."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Disproportionately' describes an unequal distribution that doesn't match the size of the groups.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "International organizations.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "tax",
           "is_correct": false,
           "feedback": "Incorrect. Tax is money paid to the government."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "assistance",
           "is_correct": true,
           "feedback": "Correct. Assistance means help or support."
@@ -262,7 +262,7 @@
           "feedback": "Incorrect. While it involves loans, the general term for the support is assistance."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Assistance' is the appropriate term for the support provided by international organizations.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -385,19 +385,19 @@
           "feedback": "Incorrect. Present perfect."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "had implemented",
           "is_correct": true,
           "feedback": "Correct. Past perfect for an action before another past action."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "was implementing",
           "is_correct": false,
           "feedback": "Incorrect. Past continuous."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "The past perfect 'had implemented' establishes the sequence of events during the crisis.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,13 +424,13 @@
           "feedback": "Incorrect. Conducive means helping to bring about."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "incompatible",
           "is_correct": true,
           "feedback": "Correct. Incompatible means not able to exist or work together."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "essential",
           "is_correct": false,
           "feedback": "Incorrect. Essential means absolutely necessary."
@@ -442,7 +442,7 @@
           "feedback": "Incorrect. Irrelevant means not connected."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Incompatible' correctly identifies the conflict described between growth and the environment.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "Discussing emerging markets.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Emerging",
           "is_correct": true,
           "feedback": "Correct. Emerging markets are those of developing countries."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Saturated",
           "is_correct": false,
           "feedback": "Incorrect. Saturated markets are full."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Stagnant",
           "is_correct": false,
           "feedback": "Incorrect. Stagnant markets are not growing."
@@ -577,7 +577,7 @@
           "feedback": "Incorrect. Monopolized means controlled by one."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "'Emerging' is the standard term for economies that are in the process of rapid growth and industrialization.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,25 +604,25 @@
           "feedback": "Incorrect. First conditional."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "were",
           "is_correct": true,
           "feedback": "Correct. Second conditional for a hypothetical situation."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "has been",
           "is_correct": false,
           "feedback": "Incorrect. Present perfect."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "had been",
           "is_correct": false,
           "feedback": "Incorrect. Third conditional."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The second conditional 'if + were' is used to discuss a hypothetical change in currency value.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,13 +694,13 @@
           "feedback": "Incorrect. Local companies work in one area."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "multinational",
           "is_correct": true,
           "feedback": "Correct. Multinational means in many nations."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "private",
           "is_correct": false,
           "feedback": "Incorrect. Private refers to ownership."
@@ -712,7 +712,7 @@
           "feedback": "Incorrect. Nonprofit refers to the goal."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Multinational' correctly describes the international scale of the corporation's operations.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Text about the \"gig economy\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "stable",
           "is_correct": false,
           "feedback": "Incorrect. Gig work is often unstable."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "gig",
           "is_correct": true,
           "feedback": "Correct. Gig economy is the term for this type of labor market."
@@ -802,7 +802,7 @@
           "feedback": "Incorrect. Industrial refers to factories."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Gig economy' is the modern term for a labor market dominated by short-term or freelance positions.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Incorrect. Present simple."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "has exceeded",
           "is_correct": false,
           "feedback": "Incorrect. Present perfect."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "had exceeded",
           "is_correct": true,
           "feedback": "Correct. Past perfect for backshifting in reported speech."
@@ -847,7 +847,7 @@
           "feedback": "Incorrect. Future tense."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "In reported speech, we backshift tenses: 'exceeded' (past simple) or 'has exceeded' (present perfect) becomes 'had exceeded'.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Final thought on economic ethics.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "resilient",
           "is_correct": true,
           "feedback": "Correct. Resilient means able to withstand or recover quickly from difficult conditions."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "fragile",
           "is_correct": false,
           "feedback": "Incorrect. Fragile is the opposite of resilient."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "stagnant",
           "is_correct": false,
           "feedback": "Incorrect. Stagnant means not growing."
@@ -892,7 +892,7 @@
           "feedback": "Incorrect. Volatile means liable to change rapidly and unpredictably."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "'Resilient' describes an economy that can endure and recover from shocks.",
       "difficulty": "10",
       "images": [],

@@ -105,31 +105,31 @@
       "context": "En un puesto de salud de Riohacha, La Guajira, los promotores de salud explican a las madres wayúu la diferencia entre la inmunidad innata y la adquirida después de aplicar la vacuna a sus hijos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La innata es general y está presente desde el nacimiento; la adquirida se desarrolla después del contacto con un antígeno específico o por vacunación.",
           "is_correct": true,
           "feedback": "Correcto. La inmunidad innata es inespecífica y heredada; la adquirida es específica y se genera tras la exposición a un patógeno o vacuna."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La innata solo se encuentra en adultos y la adquirida solo en niños pequeños.",
           "is_correct": false,
           "feedback": "Incorrecto. La inmunidad innata está presente durante toda la vida y la adquirida se desarrolla con el tiempo a partir del nacimiento."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La innata protege únicamente contra virus y la adquirida únicamente contra bacterias.",
           "is_correct": false,
           "feedback": "Incorrecto. Ambos tipos de inmunidad pueden actuar contra virus, bacterias y otros patógenos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La innata requiere anticuerpos y la adquirida no requiere ninguna molécula del sistema inmune.",
           "is_correct": false,
           "feedback": "Incorrecto. La inmunidad innata utiliza barreras, células fagocíticas y complemento, pero no anticuerpos específicos; la adquirida sí los produce."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La inmunidad innata es la primera línea de defensa, presente desde el nacimiento, e incluye barreras físicas (piel, mucosas), células fagocíticas y proteínas como el complemento. No es específica para un patógeno particular. La inmunidad adquirida, también llamada adaptativa, se desarrolla tras la exposición a un antígeno y produce anticuerpos y linfocitos de memoria específicos. La vacunación es una forma segura de generar inmunidad adquirida sin pasar por la enfermedad natural.",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En el centro de salud del barrio Siloé en Cali, una enfermera aplica la vacuna BCG a un recién nacido y explica a la madre por qué es importante hacerlo en las primeras semanas de vida.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque el sistema inmune del recién nacido puede montar una respuesta protectora, y aplicarla temprano genera memoria inmunológica antes de la posible exposición.",
           "is_correct": true,
           "feedback": "Correcto. Aplicar la BCG al nacer aprovecha la capacidad del sistema inmune neonatal y protege al bebé antes de cualquier contacto con la bacteria."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque los recién nacidos no tienen sistema inmune y la vacuna es la única forma de protegerlos de todas las enfermedades.",
           "is_correct": false,
           "feedback": "Incorrecto. Los recién nacidos sí tienen un sistema inmune funcional, aunque inmaduro; la BCG estimula parte de esa defensa."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Todos los niños susceptibles pueden beneficiarse de la BCG; no solo los recién nacidos la necesitan."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La vacuna BCG (Bacilo de Calmette-Guérin) protege contra las formas graves de tuberculosis como la meningitis tuberculosa. Se aplica al nacer porque el sistema inmune del recién nacido ya es capaz de generar defensas, y porque hacerlo temprano produce memoria inmunológica antes de cualquier exposición al bacilo. En Colombia, el PAI incluye esta vacuna dentro de las primeras semanas de vida para reducir la mortalidad infantil por tuberculosis en zonas como el Amazonas, Chocó y La Guajira.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En una escuela de Medellín, un estudiante resfriado estornuda en clase y varios compañeros se contagian, mientras otros no se contagian aunque compartan el mismo salón.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Porque el estado del sistema inmune de cada persona es diferente: algunos tienen anticuerpos previos por vacunaciones o resfriados anteriores, mientras que otros no.",
           "is_correct": true,
           "feedback": "Correcto. La inmunidad varía según el historial de cada persona: vacunaciones, infecciones previas o estado de salud general determinan la susceptibilidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque todos los compañeros se contagian en realidad, pero algunos no presentan síntomas visibles durante la clase.",
           "is_correct": false,
           "feedback": "Incorrecto. Los mecanismos inmunológicos individuales hacen que algunas personas eliminen el virus sin desarrollar síntomas clínicos evidentes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque solo se contagian quienes están sentados más cerca del estudiante enfermo, sin importar su estado inmune.",
           "is_correct": false,
           "feedback": "Incorrecto. La distancia influye pero no es el único factor; el estado inmune personal es determinante."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Los virus pueden mutar, pero no de manera tan rápida ni selectiva; la causa principal es la inmunidad individual."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La susceptibilidad a una infección varía entre individuos según su estado inmune. Quienes ya fueron infectados por ese virus o recibieron una vacuna tienen anticuerpos y células de memoria que neutralizan rápidamente al patógeno. Quienes carecen de defensas específicas tardan más en montar una respuesta inmune efectiva, lo que permite que el virus se reproduzca y cause síntomas. Otros factores como la nutrición, el sueño y el estrés también influyen en la capacidad defensiva.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En la Secretaría de Salud de Bogotá, los epidemiólogos analizan datos de cobertura de vacunación contra el VPH en colegios oficiales y privados, y notan diferencias marcadas entre zonas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La desinformación, las creencias culturales, el acceso geográfico a los puntos de vacunación y la capacidad del sistema de salud local para convocar a los padres.",
           "is_correct": true,
           "feedback": "Correcto. La cobertura depende de múltiples factores socioculturales, geográficos y operativos que varían entre barrios y municipios."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El tipo de sangre de los estudiantes, que hace que algunos necesiten la vacuna y otros no.",
           "is_correct": false,
           "feedback": "Incorrecto. El tipo de sangre no determina la necesidad de la vacuna contra el VPH; todos los adolescentes en edad de riesgo deben recibirla."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La diferencia de género, porque la vacuna solo se aplica a mujeres en el esquema colombiano.",
           "is_correct": false,
           "feedback": "Incorrecto. El esquema colombiano incluye a niños y niñas para prevenir cánceres asociados al VPH en ambos sexos."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. La vacuna se puede aplicar en cualquier época del año; no depende de la estación climática."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La cobertura de vacunación varía entre regiones por múltiples factores. La desinformación y las creencias erróneas generan rechazo en algunas comunidades; las distancias geográficas dificultan el acceso en zonas rurales de Amazonas y Chocó; y la capacidad operativa del sistema de salud determina si se logran convocar a suficientes padres y adolescentes. En Colombia, el PAI trabaja con estrategias diferenciadas para cerrar estas brechas de cobertura, especialmente en regiones con poblaciones dispersas.",
       "difficulty": "6",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "En un laboratorio de la Universidad de Antioquia en Medellín, los investigadores desarrollan una nueva vacuna contra el dengue y deben explicar a los voluntarios cómo funciona.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Los anticuerpos se unen a las partículas del virus y las marcan para que otras células inmunes las destruyan o neutralicen su capacidad de infectar.",
           "is_correct": true,
           "feedback": "Correcto. Los anticuerpos neutralizan virus marcándolos para destrucción por macrófagos y otras células inmunitarias."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los anticuerpos destruyen directamente las células del hígado donde se reproduce el virus del dengue.",
           "is_correct": false,
           "feedback": "Incorrecto. Los anticuerpos no destruyen células hepáticas; marcan al virus para su eliminación por el sistema inmune."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los anticuerpos son proteínas que se convierten en glóbulos rojos para mejorar la oxigenación durante la infección.",
           "is_correct": false,
           "feedback": "Incorrecto. Los anticuerpos son inmunoglobulinas, no glóbulos rojos; su función es reconocer antígenos específicos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Los anticuerpos calientan la sangre del paciente para matar al virus del dengue por temperatura.",
           "is_correct": false,
           "feedback": "Incorrecto. Los anticuerpos no calientan la sangre; la fiebre es una respuesta del cuerpo regulada por el hipotálamo, no por anticuerpos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Los anticuerpos son proteínas en forma de Y producidas por los linfocitos B. Cada anticuerpo reconoce un antígeno específico con alta precisión. Cuando un anticuerpo se une a un virus, puede neutralizarlo directamente (impidiendo que entre a las células) o marcarlo para que otras células inmunes como los macrófagos lo fagociten y destruyan. Esta acción combinada protege al organismo de la infección y es la base del éxito de las vacunas.",
       "difficulty": "6",
       "images": [],
@@ -473,31 +473,31 @@
       "context": "En el Congreso de la República, se debate un proyecto de ley que busca hacer obligatoria la vacunación infantil en todo el territorio colombiano, enfrentando críticas de grupos que defienden la decisión individual de los padres.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La obligatoriedad protege a los más vulnerables mediante la inmunidad colectiva, pero debe respetar excepciones médicas y contemplar educación para reducir la resistencia informada.",
           "is_correct": true,
           "feedback": "Correcto. El argumento pondera la protección comunitaria con el respeto a excepciones clínicas justificadas y la necesidad de diálogo educativo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La obligatoriedad es siempre correcta y debe imponerse sin excepciones ni diálogo, porque las vacunas nunca tienen efectos adversos.",
           "is_correct": false,
           "feedback": "Incorrecto. Las vacunas pueden tener efectos adversos leves y muy raramente graves; deben existir excepciones médicas justificadas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La decisión de los padres debe respetarse totalmente, sin importar las consecuencias para la comunidad.",
           "is_correct": false,
           "feedback": "Incorrecto. Una decisión individual que pone en riesgo a la comunidad por falta de inmunidad colectiva no es éticamente aceptable en salud pública."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La obligatoriedad solo es válida si las vacunas fueran completamente gratuitas, lo cual no ocurre en Colombia.",
           "is_correct": false,
           "feedback": "Incorrecto. El PAI ofrece vacunas gratuitas en todo el país; el costo no es una barrera para la obligatoriedad en este caso."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La ética de la vacunación obligatoria equilibra derechos individuales y bienestar colectivo. La inmunidad colectiva protege a quienes no pueden vacunarse por razones médicas (inmunocomprometidos, alergias severas), pero las políticas deben respetar excepciones clínicas reales. La educación en salud es fundamental para reducir el rechazo informado por mitos. En Colombia, el PAI ofrece gratuitamente las vacunas del esquema nacional, lo que elimina barreras económicas y facilita la cobertura universal.",
       "difficulty": "10",
       "images": [],

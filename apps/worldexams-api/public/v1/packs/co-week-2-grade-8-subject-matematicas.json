@@ -59,31 +59,31 @@
       "context": "En Ibagué, Camila despeja $y$ en la ecuación $2y + 8 = 4y - 2$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$y = 5$",
           "is_correct": true,
           "feedback": "Correcto. $8 + 2 = 4y - 2y \\implies 10 = 2y \\implies y = 5$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$y = 3$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la resta de constantes $8-2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$y = -5$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signos al agrupar términos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$y = 10$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste dividir entre 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Agrupando: $10 = 2y \\implies y = 5$.",
       "difficulty": "4",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En Medellín, la suma de tres números enteros consecutivos es $72$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$25$",
           "is_correct": true,
           "feedback": "Correcto. $x + (x+1) + (x+2) = 72 \\implies 3x + 3 = 72 \\implies 3x = 69 \\implies x = 23$. Los números son $23, 24, 25$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$24$",
           "is_correct": false,
           "feedback": "Incorrecto. $24$ es el número del medio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$23$",
           "is_correct": false,
           "feedback": "Incorrecto. $23$ es el menor de los tres."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$26$",
           "is_correct": false,
           "feedback": "Incorrecto. Suma $24+25+26 = 75 \\neq 72$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "$3x + 3 = 72 \\implies 3x = 69 \\implies x = 23$. El mayor es $x + 2 = 25$.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En Barranquilla, Diego resuelve la ecuación con paréntesis: $4(x - 2) = 2(x + 6)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = 10$",
           "is_correct": true,
           "feedback": "Correcto. $4x - 8 = 2x + 12 \\implies 2x = 20 \\implies x = 10$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 2$",
           "is_correct": false,
           "feedback": "Incorrecto. Restaste $12 - 8 = 4$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 5$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la división por 2."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 8$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste multiplicar los paréntesis."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Expandiendo: $4x - 8 = 2x + 12 \\implies 2x = 20 \\implies x = 10$.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "En Bucaramanga, se despeja la inecuación lineal $5x - 3 > 2x + 9$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x > 4$",
           "is_correct": true,
           "feedback": "Correcto. $3x > 12 \\implies x > 4$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x < 4$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste el sentido de la desigualdad sin multiplicar por negativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x > 2$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la resta $9 + 3 = 12$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x > 12$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste dividir por 3."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "$5x - 2x > 9 + 3 \\implies 3x > 12 \\implies x > 4$.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En Pereira, se resuelve la inecuación con coeficiente negativo: $-3x + 7 \\ge 22$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x \\le -5$",
           "is_correct": true,
           "feedback": "Correcto. $-3x \\ge 15 \\implies x \\le -5$ (al dividir por $-3$ la desigualdad se invierte)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x \\ge -5$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste invertir el sentido de la desigualdad al dividir entre un número negativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x \\le 5$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signo al calcular $15/(-3)$."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Errores combinados de signo y sentido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "$-3x \\ge 15$. Al dividir por $-3$, invertimos el símbolo: $x \\le -5$.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En Manizales, Isabella resuelve una ecuación con fracciones: $\\frac{x}{3} + \\frac{x}{2} = 10$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 12$",
           "is_correct": true,
           "feedback": "Correcto. $\\frac{5x}{6} = 10 \\implies 5x = 60 \\implies x = 12$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 10$",
           "is_correct": false,
           "feedback": "Incorrecto. Asumiste que la suma de fracciones daba $1$."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Multiplicaste $10$ por $2$ únicamente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "MCM $= 6 \\implies 2x + 3x = 60 \\implies 5x = 60 \\implies x = 12$.",
       "difficulty": "8",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "En Pasto, un plan de telefonía cobra un cargo fijo de $15.000$ COP más $200$ COP por minuto adicional. Sofía pagó $27.000$ COP en un mes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$60$ minutos",
           "is_correct": true,
           "feedback": "Correcto. $15.000 + 200m = 27.000 \\implies 200m = 12.000 \\implies m = 60$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$50$ minutos",
           "is_correct": false,
           "feedback": "Incorrecto. Error en $12.000 / 200$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$75$ minutos",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste la factura total entre 200 sin restar el cargo fijo."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Restaste $15.000$ de $23.000$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "$200m = 27.000 - 15.000 = 12.000 \\implies m = 12.000 / 200 = 60$ minutos.",
       "difficulty": "8",
       "images": [],
@@ -473,31 +473,31 @@
       "context": "En Cúcuta, se plantea la ecuación con fracciones para calcular el tiempo de producción: $\\frac{2x + 4}{3} - \\frac{x - 1}{2} = 3$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x = 7$",
           "is_correct": true,
           "feedback": "Correcto. Multiplicando por 6: $2(2x+4) - 3(x-1) = 18 \\implies 4x + 8 - 3x + 3 = 18 \\implies x + 11 = 18 \\implies x = 7$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 5$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signo al distribuir $-3(x-1)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 9$",
           "is_correct": false,
           "feedback": "Incorrecto. Restaste $11$ en vez de restar de $18$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 11$",
           "is_correct": false,
           "feedback": "Incorrecto. Tomaste la constante agrupada como respuesta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "$2(2x+4) - 3(x-1) = 18 \\implies 4x + 8 - 3x + 3 = 18 \\implies x + 11 = 18 \\implies x = 7$.",
       "difficulty": "10",
       "images": [],

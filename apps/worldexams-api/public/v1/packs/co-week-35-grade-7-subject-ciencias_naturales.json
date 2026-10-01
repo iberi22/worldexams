@@ -19,25 +19,25 @@
           "feedback": "Incorrecta, porque la absorción es solo una parte y no describe la fabricación del alimento."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El proceso por el cual la planta usa luz, agua y dióxido de carbono para producir glucosa y liberar oxígeno.",
           "is_correct": true,
           "feedback": "Correcta, porque define los insumos y los productos de la fotosíntesis."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La caída de las hojas viejas cuando llega la temporada seca en el cafetal.",
           "is_correct": false,
           "feedback": "Incorrecta, porque la caída de hojas es una respuesta, no la fabricación del alimento."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El transporte de semillas que hacen los campesinos para sembrar nuevos surcos.",
           "is_correct": false,
           "feedback": "Incorrecta, porque sembrar es una labor agrícola y no el proceso interno de la planta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La fotosíntesis ocurre principalmente en las hojas, donde la clorofila captura la luz solar. Con esa energía, la planta transforma agua y dióxido de carbono en glucosa, que es su alimento, y libera oxígeno al aire. Por eso las plantas son productoras que sostienen a casi todos los seres vivos.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "En una finca platanera de Apartadó, Antioquia, dos estudiantes discuten: uno dice que las plantas solo hacen fotosíntesis de día y otro dice que las plantas también respiran para obtener energía.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La fotosíntesis fabrica alimento con luz y la respiración libera la energía de ese alimento en todo momento.",
           "is_correct": true,
           "feedback": "Correcta, porque distingue fabricar alimento con luz de liberar su energía de día y de noche."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ambas son el mismo proceso y ocurren solo cuando la planta está en completa oscuridad.",
           "is_correct": false,
           "feedback": "Incorrecta, porque son procesos distintos y la fotosíntesis necesita luz."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecta, porque respirar a nivel celular no requiere pulmones."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La fotosíntesis necesita luz y ocurre en los cloroplastos, mientras la respiración celular ocurre en las mitocondrias de día y de noche para liberar la energía guardada en la glucosa. Las plantas hacen ambos procesos: de día fotosintetizan y respiran, y de noche solo respiran. Sin respiración no podrían crecer ni transportar sustancias.",
       "difficulty": "4",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En Palmira, Valle del Cauca, los estudiantes de una escuela rural estudian la caña de azúcar y escriben la ecuación de la fotosíntesis en el tablero.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Dióxido de carbono más agua, con energía de la luz, producen glucosa y oxígeno.",
           "is_correct": true,
           "feedback": "Correcta, porque nombra los insumos y productos verdaderos de la fotosíntesis."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Oxígeno más glucosa, con energía de la luz, producen agua y dióxido de carbono.",
           "is_correct": false,
           "feedback": "Incorrecta, porque esa es la dirección de la respiración y no de la fotosíntesis."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La caña produce azúcar solo con tierra y viento, sin necesidad de agua ni aire.",
           "is_correct": false,
           "feedback": "Incorrecta, porque sin agua ni dióxido de carbono no hay materia para fabricar glucosa."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La luz se convierte en tierra fértil dentro del tallo de la caña.",
           "is_correct": false,
           "feedback": "Incorrecta, porque la luz aporta energía y no se transforma en tierra."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La ecuación resume que la materia del alimento viene del agua que sube por el tallo y del dióxido de carbono que entra por los estomas, mientras la luz aporta la energía. La caña guarda esa glucosa como sacarosa en el tallo. Entender la ecuación ayuda a ver por qué riego, aire y luz afectan la cosecha.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En un colegio de Tunja, el curso tapa con papel aluminio la mitad de una hoja de geranio, la deja al sol todo el día y luego hace la prueba de yodo, que se vuelve azul oscuro donde hay almidón.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Toda la hoja se tiñe igual porque el aluminio también hace fotosíntesis.",
           "is_correct": false,
           "feedback": "Incorrecta, porque el papel aluminio no fotosintetiza y bloquea la luz."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Solo la parte iluminada se tiñe oscuro porque allí hubo fotosíntesis y se formó almidón.",
           "is_correct": true,
           "feedback": "Correcta, porque aplica que sin luz no se produce glucosa ni almidón."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecta, porque el yodo revela el almidón y no lo elimina."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El almidón es la forma en que la hoja guarda la glucosa fabricada. Donde llegó la luz hubo fotosíntesis y el yodo se oscurece; donde el aluminio bloqueó la luz no se formó alimento. Esta prueba clásica demuestra con evidencia visible que la luz es indispensable para la fotosíntesis.",
       "difficulty": "6",
       "images": [],
@@ -295,25 +295,25 @@
           "feedback": "Incorrecta, porque atribuye gustos a las raíces y no explica el fenómeno."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Al mediodía la planta pierde más agua por transpiración de la que absorbe y cierra los estomas, y en la tarde se recupera.",
           "is_correct": true,
           "feedback": "Correcta, porque conecta calor, pérdida de agua, cierre de estomas y recuperación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La planta deja de respirar para siempre al mediodía y revive por arte de magia en la tarde.",
           "is_correct": false,
           "feedback": "Incorrecta, porque la respiración no se detiene y no hay magia en la recuperación."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El marchitamiento prueba que la fotosíntesis ocurre solo en las raíces bajo la tierra.",
           "is_correct": false,
           "feedback": "Incorrecta, porque la fotosíntesis ocurre en las hojas con luz y no en las raíces."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Los estomas dejan entrar dióxido de carbono pero también dejan salir vapor de agua. Con calor fuerte, la planta pierde mucha agua y cierra los estomas para protegerse, lo que reduce temporalmente la fotosíntesis. Cuando refresca, los estomas se abren y la planta se recupera. Es un equilibrio entre conseguir carbono y cuidar el agua.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En Duitama, Boyacá, un equipo pone semillas de arveja que están germinando dentro de un frasco cerrado con un sensor, en oscuridad total, y observa que baja el oxígeno y sube el dióxido de carbono.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que las semillas hacen fotosíntesis en la oscuridad usando la tapa del frasco.",
           "is_correct": false,
           "feedback": "Incorrecta, porque sin luz no hay fotosíntesis y la tapa no aporta energía."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que las semillas respiran: consumen oxígeno y liberan dióxido de carbono al liberar energía para germinar.",
           "is_correct": true,
           "feedback": "Correcta, porque interpreta el intercambio de gases como evidencia de respiración celular."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecta, porque usan las reservas de la semilla y consumen oxígeno en el proceso."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Las semillas en germinación no tienen hojas verdes ni luz, así que no fotosintetizan, pero sí respiran para obtener energía de sus reservas. El descenso de oxígeno y el aumento de dióxido de carbono son la firma de la respiración celular. Esto prueba que la respiración es permanente y sostiene el crecimiento incluso en la oscuridad.",
       "difficulty": "8",
       "images": [],
@@ -387,25 +387,25 @@
           "feedback": "Incorrecta, porque un ensayo local no prueba afirmaciones universales absolutas."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La primera es válida porque se apoya en los datos, y la segunda es exagerada porque agua, nutrientes y temperatura también influyen.",
           "is_correct": true,
           "feedback": "Correcta, porque acepta lo respaldado por la evidencia y frena la generalización excesiva."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambas son falsas porque medir tallos con regla invalida cualquier experimento agrícola.",
           "is_correct": false,
           "feedback": "Incorrecta, porque medir con regla es un procedimiento válido y necesario."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La primera es falsa y la segunda verdadera porque en ciencia gana la frase más amplia.",
           "is_correct": false,
           "feedback": "Incorrecta, porque en ciencia gana la afirmación ajustada a los datos, no la más llamativa."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Evaluar conclusiones es comparar cada frase con los datos y con lo ya conocido. El mayor crecimiento con luz extra respalda la primera conclusión dentro de ese invernadero. La segunda ignora otros factores limitantes y salta a todo el planeta. Una buena conclusión declara condiciones, reconoce límites y propone repetir el ensayo.",
       "difficulty": "10",
       "images": [],
@@ -433,13 +433,13 @@
           "feedback": "Incorrecta, porque de día predomina la fotosíntesis y confunde los gases que se miden."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Oler la bolsa en la mañana y votar por el olor favorito para decidir si la planta respiró.",
           "is_correct": false,
           "feedback": "Incorrecta, porque votar no mide gases y ningún gusto colectivo demuestra la respiración."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cubrir la planta en oscuridad, recoger el aire en la bolsa y probar con agua de cal que se enturbia por el dióxido de carbono, con un frasco sin planta como control.",
           "is_correct": true,
           "feedback": "Correcta, porque aísla la respiración nocturna, usa indicador de dióxido de carbono y control."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecta, porque la respiración celular es continua e independiente de la observación."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Un buen plan para la respiración nocturna elimina la fotosíntesis con oscuridad, captura el aire emitido y lo revela con agua de cal, que se enturbia con el dióxido de carbono. El frasco control sin planta permite comparar y descartar que el gas venga del aire ambiente. Evaluar planes con variables, controles e indicadores es el corazón de la indagación.",
       "difficulty": "10",
       "images": [],

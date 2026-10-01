@@ -13,13 +13,13 @@
       "context": "En una finca cafetera del Quindío, la profesora explica a sus estudiantes cómo se clasifican los recursos que se observan en el paisaje.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Un elemento de la naturaleza que los seres humanos utilizan para satisfacer sus necesidades.",
           "is_correct": true,
           "feedback": "Los recursos naturales provienen del ambiente y son aprovechados por las personas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un objeto fabricado exclusivamente en fábricas.",
           "is_correct": false,
           "feedback": "Los objetos de fábrica son bienes transformados, no recursos naturales."
@@ -37,7 +37,7 @@
           "feedback": "Las monedas son un medio de pago, no un recurso natural."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Reconocer el concepto de recurso natural como aquel elemento de la naturaleza aprovechable por las personas.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "Durante una salida pedagógica a los alrededores de Medellín, los estudiantes observan el sol, el viento, el agua del río y una vasija de barro cocido.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La energía del sol, porque se recibe de forma continua y no se agota al utilizarla.",
           "is_correct": true,
           "feedback": "La radiación solar se renueva cada día y se considera un recurso renovable."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El carbón extraído de una mina, porque tarda millones de años en formarse.",
           "is_correct": false,
           "feedback": "El carbón es un recurso no renovable por su formación geológica muy lenta."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El petróleo encontrado bajo tierra, porque se extrae y se consume con facilidad.",
           "is_correct": false,
           "feedback": "El petróleo es no renovable, ya que sus reservas tardan millones de años en recuperarse."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Los minerales metálicos como el cobre, porque se obtienen una sola vez de la mina.",
           "is_correct": false,
           "feedback": "Los minerales metálicos son no renovables porque se forman en tiempos geológicos muy largos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Comprender que los recursos renovables se reponen de manera natural en escalas de tiempo humanas, a diferencia de los no renovables.",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En una vereda de Tunja, una comunidad debe decidir qué fuente de energía usar para su nueva escuela rural entre: carbón, leña, paneles solares y gas natural.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Paneles solares, porque aprovechan una fuente renovable y producen menos contaminación.",
           "is_correct": true,
           "feedback": "La energía solar es renovable y de bajo impacto ambiental cuando se usa bien."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Carbón, porque es barato y se encuentra fácilmente en el mercado.",
           "is_correct": false,
           "feedback": "El carbón es no renovable y emite mucho dióxido de carbono al quemarse."
@@ -175,7 +175,7 @@
           "feedback": "El gas natural es un recurso fósil no renovable, distinto de la energía solar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar el criterio de renovación y bajo impacto para elegir una fuente de energía sostenible en una situación concreta.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Una familia de Cartagena recibe en su factura de servicios públicos un cobro por el agua consumida durante el mes, equivalente a 45.000 COP.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque, aunque se renueva, la cantidad disponible de agua limpia puede disminuir si se contamina o se usa en exceso.",
           "is_correct": true,
           "feedback": "El agua dulce disponible es limitada y puede agotarse o contaminarse localmente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque el agua nunca se renueva y ya no queda nada en los ríos.",
           "is_correct": false,
           "feedback": "El agua sí se renueva por el ciclo hidrológico, pero su calidad debe protegerse."
@@ -221,7 +221,7 @@
           "feedback": "Cuidar el agua es responsabilidad de todas las personas de la comunidad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar el concepto de recurso renovable al caso del agua, reconociendo que la calidad y la disponibilidad no son infinitas.",
       "difficulty": "6",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "Lee: \"En algunas regiones de Colombia la minería de oro ha contaminado ríos con mercurio, mientras que en otras zonas los parques nacionales protegen bosques y fuentes de agua.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La minería no renovable puede deteriorar ecosistemas, mientras que las áreas protegidas favorecen la renovación de recursos.",
           "is_correct": true,
           "feedback": "La minería contamina y degrada, mientras que las áreas protegidas conservan recursos renovables."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El oro es un recurso renovable, porque se puede seguir extrayendo sin límites.",
           "is_correct": false,
           "feedback": "El oro es un recurso no renovable, por lo que su extracción debe ser muy controlada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los parques nacionales solo se usan para la recreación, no para la conservación.",
           "is_correct": false,
           "feedback": "Los parques nacionales tienen como función principal proteger los ecosistemas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La contaminación por mercurio no afecta a los seres vivos del río.",
           "is_correct": false,
           "feedback": "El mercurio es altamente tóxico para personas, animales y plantas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analizar las consecuencias ambientales del uso de recursos no renovables frente a la protección de recursos renovables.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "Un colegio de Bogotá decide lanzar una campaña para reducir el consumo de agua y luz, y para separar los residuos reciclables en las aulas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Porque ahorrar agua y luz reduce el uso de recursos renovables y no renovables, y reciclar disminuye la extracción de nuevos materiales.",
           "is_correct": true,
           "feedback": "Reducir el consumo y reciclar alivia la presión sobre todo tipo de recursos naturales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque solo sirve para que el colegio ahorre dinero en los recibos.",
           "is_correct": false,
           "feedback": "El ahorro económico es un beneficio, pero el impacto ambiental es la razón principal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque se prohíbe a los estudiantes usar cualquier recurso natural.",
           "is_correct": false,
           "feedback": "La campaña no prohíbe el uso, sino que promueve un consumo responsable."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque reciclar no tiene relación alguna con los recursos naturales.",
           "is_correct": false,
           "feedback": "Reciclar reduce la necesidad de extraer nuevos recursos naturales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluar acciones cotidianas de ahorro y reciclaje como estrategias para el cuidado integral de los recursos naturales.",
       "difficulty": "10",
       "images": [],

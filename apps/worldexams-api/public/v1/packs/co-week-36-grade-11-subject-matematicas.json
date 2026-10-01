@@ -13,13 +13,13 @@
       "context": "Un equipo de investigación en Bogotá asigna a cada habitante un número único y utiliza un programa informático para seleccionar 500 personas al azar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Muestreo aleatorio simple",
           "is_correct": true,
           "feedback": "Cada individuo de la población tiene exactamente la misma probabilidad de ser seleccionado mediante un mecanismo de azar puro."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Muestreo estratificado",
           "is_correct": false,
           "feedback": "No se dividió previamente la población en subgrupos o estratos homogéneos."
@@ -37,7 +37,7 @@
           "feedback": "No se utilizó un intervalo constante k para seleccionar los elementos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El muestreo aleatorio simple es aquel en que cada elemento de la población tiene la misma probabilidad conocida y no nula de ser incluido en la muestra.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En una fábrica en Cali se revisa la calidad de los productos seleccionando cada décimo ($k=10$) empaque que sale de la línea de ensamblaje.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Muestreo sistemático",
           "is_correct": true,
           "feedback": "Consiste en elegir un punto de partida aleatorio y luego seleccionar cada k-ésimo elemento de la lista o proceso."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Muestreo aleatorio simple",
           "is_correct": false,
           "feedback": "En el muestreo aleatorio simple no existe un ordenamiento o intervalo prefijado k."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Muestreo por conglomerados",
           "is_correct": false,
           "feedback": "No se están seleccionando grupos enteros o racimos."
@@ -129,7 +129,7 @@
           "feedback": "La regla del k-ésimo elemento es un método probabilístico sistemático."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El muestreo sistemático elige los elementos a intervalos regulares $k = N/n$ a lo largo de un marco muestral ordenado.",
       "difficulty": "4",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "Una universidad en Barranquilla tiene 2,000 estudiantes: 1,200 de pregrado y 800 de posgrado. Se desea tomar una muestra estratificada de 100 estudiantes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "60 de pregrado y 40 de posgrado",
           "is_correct": true,
           "feedback": "Pregrado: (1200 / 2000) * 100 = 60. Posgrado: (800 / 2000) * 100 = 40."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "50 de pregrado y 50 de posgrado",
           "is_correct": false,
           "feedback": "Esto correspondería a un afijación igual sin respetar la proporcionalidad real."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "70 de pregrado y 30 de posgrado",
           "is_correct": false,
           "feedback": "Sobreestimó el porcentaje de estudiantes de pregrado (70% en lugar del 60%)."
@@ -221,7 +221,7 @@
           "feedback": "Usó las cantidades de posgrado para calcular porcentajes erróneos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En la afijación proporcional, cada estrato aporta en función de su peso poblacional: $n_{pre} = 100   imes \\frac{1200}{2000} = 60$ y $n_{pos} = 100   imes \\frac{800}{2000} = 40$.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "Para evaluar la infraestructura de las escuelas rurales en Cundinamarca, los investigadores seleccionan al azar 10 municipios y evalúan a TODAS las escuelas pertenecientes a esos 10 municipios.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Muestreo por conglomerados (o racimos)",
           "is_correct": true,
           "feedback": "Se eligen grupos completos (conglomerados/municipios) al azar y se analizan todos los elementos dentro de los conglomerados seleccionados."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Muestreo aleatorio simple",
           "is_correct": false,
           "feedback": "Se seleccionaron grupos enteros (municipios), no escuelas individuales directamente de toda la región."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Muestreo estratificado",
           "is_correct": false,
           "feedback": "En el estratificado se selecciona una muestra dentro de CADA grupo, no grupos completos."
@@ -267,7 +267,7 @@
           "feedback": "No se usó un intervalo de salto constante k."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El muestreo por conglomerados divide la población en grupos heterogéneos (conglomerados) y selecciona aleatoriamente algunos conglomerados enteros para su estudio.",
       "difficulty": "6",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "Se quiere seleccionar una muestra de $n = 50$ facturas de un total poblacional de $N = 1,000$ facturas numeradas consecutivamente en una empresa de Bucaramanga utilizando muestreo sistemático.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$k = 20$",
           "is_correct": true,
           "feedback": "k = N / n = 1000 / 50 = 20."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$k = 50$",
           "is_correct": false,
           "feedback": "Confundió el intervalo k con el tamaño de la muestra n."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$k = 10$",
           "is_correct": false,
           "feedback": "Calculó 1000 / 100 por error."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$k = 5$",
           "is_correct": false,
           "feedback": "Calculó 50 / 10 por error."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El intervalo de salto sistemático se define como el cociente entre la población total $N$ y el tamaño de la muestra deseado $n$: $k = \\frac{N}{n} = \\frac{1000}{50} = 20$.",
       "difficulty": "6",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En una encuesta telefónica abierta por televisión en Cartagena, se pide a los televidentes que llamen a opinar si apoyan una ley. Se reciben 2,000 llamadas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Debido al sesgo de autoselección (voluntariado), donde suelen participar principalmente personas con opiniones extremas.",
           "is_correct": true,
           "feedback": "Al ser una respuesta voluntaria, el grupo de personas que llama no es una muestra aleatoria ni representativa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque el tamaño de la muestra (2,000 personas) es demasiado pequeño para una ciudad.",
           "is_correct": false,
           "feedback": "Un tamaño de 2,000 es estadísticamente grande; el problema radica en el método no probabilístico de recolección."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque no se utilizó un programa informático para registrar las llamadas.",
           "is_correct": false,
           "feedback": "El software de registro no afecta la validez muestral del diseño de encuesta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque las llamadas telefónicas siempre generan errores de cálculo numérico.",
           "is_correct": false,
           "feedback": "Afirmación incorrecta y sin base teórica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Las muestras de respuesta voluntaria sufren de alto sesgo de autoselección: quienes eligen participar activamente no reflejan la distribución real de opiniones de la población abstencionista.",
       "difficulty": "6",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "Un estudio sobre hábitos deportivos en Manizales entrevista a 50 hombres y 50 mujeres. La población total de la ciudad consta de $40%$ hombres y $60%$ mujeres.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Muestreo por cuotas (no proporcional); requiere ponderar los resultados para reflejar los porcentajes reales de la población.",
           "is_correct": true,
           "feedback": "Al fijar cuotas iguales (50-50) que no coinciden con la población (40-60), se sobre-representa a los hombres y se sub-representa a las mujeres."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Muestreo aleatorio simple; es perfectamente representativo porque incluye 100 personas.",
           "is_correct": false,
           "feedback": "No es aleatorio simple ni respeta la distribución poblacional directa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Muestreo estratificado óptimo; no genera ningún sesgo.",
           "is_correct": false,
           "feedback": "Para ser proporcional debió seleccionar 40 hombres y 60 mujeres."
@@ -451,7 +451,7 @@
           "feedback": "No se aplicó una regla de selección por intervalo k."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Al asignar cuotas fijas (50/50) diferentes a la proporción real de la población (40/60), se obtiene una muestra no proporcional que requiere ajuste por pesos muestrales para no sesgar las conclusiones.",
       "difficulty": "6",
       "images": [],
@@ -473,31 +473,31 @@
       "context": "Para estudiar una enfermedad rara en Villavicencio, un médico local entrevista a 3 pacientes conocidos y les pide que lo pongan en contacto con otros pacientes que padezcan la misma condición.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Muestreo por bola de nieve",
           "is_correct": true,
           "feedback": "Es una técnica utilizada cuando la población de estudio es de difícil acceso o clandestina, donde los participantes reclutan a nuevos sujetos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Muestreo por conglomerados",
           "is_correct": false,
           "feedback": "No se dividió el espacio en regiones geográficas o clusters delimitados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Muestreo aleatorio sistemático",
           "is_correct": false,
           "feedback": "Carece de marco muestral estructurado y de selección aleatoria por intervalos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Muestreo estratificado proporcional",
           "is_correct": false,
           "feedback": "No hay estratos definidos con probabilidad de selección calculable."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El muestreo por bola de nieve (o en cadena) aprovecha las redes sociales de los primeros sujetos para identificar a otros miembros de poblaciones de difícil localización.",
       "difficulty": "8",
       "images": [],
@@ -519,19 +519,19 @@
       "context": "Un estadístico afirma: \"Si los estratos son internamente muy homogéneos entre sí pero muy diferentes unos de otros, el muestreo estratificado ofrecerá estimadores con menor varianza que el muestreo aleatorio simple.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Sí, es verdadera porque al reducir la variabilidad dentro de los estratos se reduce el error estándar global.",
           "is_correct": true,
           "feedback": "La estratificación aprovecha la homogeneidad intra-estrato para minimizar la variabilidad residual del estimador."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "No, es falsa porque el muestreo aleatorio simple siempre tiene menor varianza sin excepción.",
           "is_correct": false,
           "feedback": "El muestreo estratificado supera al aleatorio simple cuando los estratos están bien construidos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No, es falsa porque la varianza no depende del agrupamiento de los datos.",
           "is_correct": false,
           "feedback": "La varianza del estimador depende directamente de la homogeneidad de los estratos."
@@ -543,7 +543,7 @@
           "feedback": "La propiedad matemática de la estratificación aplica independientemente de la magnitud de N."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La varianza del estimador estratificado depende de la variabilidad interna de los estratos. Si la varianza intra-estrato es pequeña ($\\sigma_h^2 < \\sigma^2$), el error estándar disminuye respecto al aleatorio simple.",
       "difficulty": "8",
       "images": [],
@@ -565,13 +565,13 @@
       "context": "Un investigador realiza un estudio en Neiva llamando únicamente a teléfonos fijos residenciales para medir el nivel de empleo juvenil (18-25 años).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Sesgo de cobertura, ya que la mayoría de los jóvenes no utiliza o no posee teléfono fijo.",
           "is_correct": true,
           "feedback": "La población de jóvenes suele estar sub-representada en marcos muestrales basados en telefonía fija tradicional."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Error de cálculo en la fórmula de la varianza.",
           "is_correct": false,
           "feedback": "El problema no es de cálculo numérico, sino de la definición del marco muestral."
@@ -589,7 +589,7 @@
           "feedback": "El problema es la falta de representatividad de la muestra, no el exceso de aleatoriedad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El marco muestral de teléfonos fijos sufre un grave sesgo de cobertura (cobertura incompleta), omitiendo sistemáticamente a los sectores jóvenes de la población que utilizan prioritariamente telefonía móvil.",
       "difficulty": "8",
       "images": [],
@@ -611,31 +611,31 @@
       "context": "En un muestreo sistemático de $N = 500$ elementos numerados del 1 al 500 para extraer una muestra de $n = 25$, el primer elemento seleccionado al azar entre 1 y $k$ resulta ser el número 7.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "47",
           "is_correct": true,
           "feedback": "k = 500 / 25 = 20. 1er elemento = 7. 2do elemento = 7 + 20 = 27. 3er elemento = 7 + 2*20 = 47."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "27",
           "is_correct": false,
           "feedback": "Corresponde al segundo elemento de la secuencia sistemática."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "67",
           "is_correct": false,
           "feedback": "Corresponde al cuarto elemento de la secuencia sistemática."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "21",
           "is_correct": false,
           "feedback": "Se sumó 7 + 7 + 7 en lugar del intervalo k = 20."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "$k = \\frac{500}{25} = 20$. Los elementos de la muestra siguen la secuencia $x_i = a + (i-1)k$.\nPara el 3er elemento ($i=3$): $x_3 = 7 + (3-1)20 = 7 + 40 = 47$.",
       "difficulty": "8",
       "images": [],
@@ -657,19 +657,19 @@
       "context": "El Teorema del Límite Central (TLC) establece que la distribución muestral de la media $\\bar{X}$ se aproxima a una distribución normal conforme el tamaño de la muestra $n$ aumenta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Aplica independientemente de la forma de la distribución poblacional original (incluso si es sesgada o no normal).",
           "is_correct": true,
           "feedback": "El TLC garantiza la normalidad asintótica de la media muestral para muestras grandes (n >= 30) sin importar la distribución original."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Exige de manera obligatoria que la población original sea exactamente normal.",
           "is_correct": false,
           "feedback": "Si la población es normal, la media es normal para cualquier n. El aporte del TLC es que funciona incluso si la población NO es normal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Requiere que la muestra sea mayor al 50% de la población total.",
           "is_correct": false,
           "feedback": "Basta con que n sea suficientemente grande en términos absolutos (n >= 30)."
@@ -681,7 +681,7 @@
           "feedback": "Si la desviación estándar fuera 0 no habría variabilidad probabilística alguna."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La potencia fundamental del TLC radica en que la distribución muestral de la media tiende a la normalidad para $n ge 30$, sin importar la forma funcional de la población de origen.",
       "difficulty": "8",
       "images": [],
@@ -703,31 +703,31 @@
       "context": "Un analista realiza dos estudios: en la ciudad A ($N_A = 100,000$) toma una muestra aleatoria de $n = 1,000$. En la ciudad B ($N_B = 1,000,000$) toma una muestra aleatoria de $n = 1,000$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Tienen prácticamente la MISMA precisión, pues el error estándar depende fundamentalmente del tamaño muestral $n$, no del tamaño poblacional $N$.",
           "is_correct": true,
           "feedback": "Salvo el factor de corrección por población finita (despreciable cuando n/N < 0.05), el error estándar depende de sigma / sqrt(n), el cual es idéntico en ambos casos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El estudio en la ciudad A es 10 veces más preciso que el de la ciudad B.",
           "is_correct": false,
           "feedback": "Confunde la proporción n/N con la precisión absoluta del estimador."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El estudio en la ciudad B es mucho más preciso porque la población es más grande.",
           "is_correct": false,
           "feedback": "El tamaño de la población no incrementa la precisión muestral."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ninguno de los estudios es válido porque $n$ debe ser al menos del 10% de la población.",
           "is_correct": false,
           "feedback": "En poblaciones grandes, muestras de 1,000 ofrecen alta precisión independientemente de N."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El error estándar de la media es $\\sigma_{\\bar{x}} = \\frac{sigma}{\\sqrt{n}}$. Como en ambos estudios $n=1,000$ y $\\sigma$ es idéntica, la precisión es prácticamente idéntica sin importar la diferencia entre $N_A$ y $N_B$.",
       "difficulty": "8",
       "images": [],
@@ -749,13 +749,13 @@
       "context": "Se requiere evaluar el nivel de satisfacción de los usuarios de un hospital en Armenia. Se consideran dos propuestas de muestreo:\n\nPropuesta 1: Entrevistar a las primeras 100 personas que salgan de urgencias el lunes por la mañana.\n\nPropuesta 2: Seleccionar 100 usuarios al azar de la base de datos completa de citas del último mes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La Propuesta 2, porque garantiza una selección aleatoria sin el sesgo del área de urgencias o del horario del lunes.",
           "is_correct": true,
           "feedback": "La Propuesta 2 utiliza un marco muestral completo y probabilístico, mientras la Propuesta 1 sufre de sesgo de conveniencia y de subpoblación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La Propuesta 1, porque las personas en urgencias tienen opiniones más recientes sobre el servicio.",
           "is_correct": false,
           "feedback": "Los usuarios de urgencias no representan a la totalidad de servicios del hospital (citas médicas, laboratorio, etc.)."
@@ -773,7 +773,7 @@
           "feedback": "Las técnicas de muestreo probabilístico permiten hacer inferencias válidas sin censar a toda la población."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La validez inferencial exige un diseño probabilístico sobre la población objetivo completa. La Propuesta 1 restringe la muestra a urgencias en un horario específico (sesgo severo), mientras que la Propuesta 2 respeta la aleatoriedad probabilística sobre la base general.",
       "difficulty": "10",
       "images": [],
@@ -795,19 +795,19 @@
       "context": "En un lote industrial en Cundinamarca con un $5%$ de piezas defectuosas, se toma una muestra aleatoria simple de $n = 20$ piezas con reemplazo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$20 \\cdot (0.05) \\cdot (0.95)^{19} \\approx 0.377$",
           "is_correct": true,
           "feedback": "P(X=1) = C(20,1) * (0.05)^1 * (0.95)^19 = 20 * 0.05 * (0.95)^19 = 1 * (0.377) = 0.377."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(0.05)^{20}$",
           "is_correct": false,
           "feedback": "Corresponde a la probabilidad de que TODAS las 20 piezas sean defectuosas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$1 - (0.95)^{20}$",
           "is_correct": false,
           "feedback": "Corresponde a la probabilidad de obtener AL MENOS una pieza defectuosa."
@@ -819,7 +819,7 @@
           "feedback": "Confundió la probabilidad puntual de la muestra con la proporción poblacional p."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Bajo muestreo con reemplazo, la variable sigue una distribución binomial $B(n=20, p=0.05)$:\n$P(X=1) = \\binom{20}{1} (0.05)^1 (0.95)^{19} = 20   imes 0.05   imes (0.95)^{19} \\approx 0.377$.",
       "difficulty": "10",
       "images": [],
@@ -841,13 +841,13 @@
       "context": "Una empresa en Cali comercializa lotes de 1,000 unidades. Para aceptar un lote, inspecciona una muestra aleatoria de 50 unidades. El lote se rechaza si se encuentran 2 o más unidades defectuosas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El valor esperado es 0.5 piezas defectuosas; existe un riesgo pequeño pero real de rechazar erróneamente un lote de buena calidad.",
           "is_correct": true,
           "feedback": "E[X] = n * p = 50 * 0.01 = 0.5 piezas. Como P(X >= 2) > 0, hay probabilidad de rechazar un lote que cumple con la calidad estándar del 1%."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El valor esperado es 5 piezas defectuosas; el lote será rechazado con total certeza.",
           "is_correct": false,
           "feedback": "Calculó 50 * 0.1 en lugar de 50 * 0.01."
@@ -865,7 +865,7 @@
           "feedback": "Para muestras pequeñas respecto a N, el valor esperado depende de n * p."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "$E[X] = n \\cdot p = 50   imes 0.01 = 0.5$ piezas defectuosas. Aunque la media esperada es baja, la variabilidad de la distribución muestral genera una probabilidad positiva $P(X \\ge 2) = 1 - P(0) - P(1) \\approx 0.09$, lo que representa el riesgo de rechazo erróneo (riesgo del productor).",
       "difficulty": "10",
       "images": [],

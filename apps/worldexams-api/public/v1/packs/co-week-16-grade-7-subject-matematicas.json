@@ -105,31 +105,31 @@
       "context": "Antes de un partido en el estadio Atanasio Girardot de Medellín, dos amigos lanzan una moneda justa para decidir quién lava los uniformes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\dfrac{1}{2} = 0{,}5$",
           "is_correct": true,
           "feedback": "Correcto. La moneda tiene $2$ caras posibles equiprobables."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\dfrac{1}{4}$",
           "is_correct": false,
           "feedback": "Incorrecto. La moneda no tiene $4$ lados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\dfrac{2}{3}$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor no coincide con la división $1/2$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$1$",
           "is_correct": false,
           "feedback": "Incorrecto. La probabilidad $1$ sería un evento seguro, no el de una sola cara."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para eventos equiprobables: $P(\\text{cara}) = \\dfrac{\\text{casos favorables}}{\\text{casos totales}} = \\dfrac{1}{2}$.",
       "difficulty": "6",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En un parque de Cali, un niño lanza un dado justo de seis caras durante un juego de piso.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\dfrac{1}{2} = 0{,}5$",
           "is_correct": true,
           "feedback": "Correcto. Casos favorables $\\{2,4,6\\}$ y totales $\\{1,2,3,4,5,6\\}$; $\\frac{3}{6} = \\frac{1}{2}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\dfrac{1}{3}$",
           "is_correct": false,
           "feedback": "Incorrecto. Es el cociente de $2/6$, contando solo un par."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\dfrac{1}{6}$",
           "is_correct": false,
           "feedback": "Incorrecto. Es la probabilidad de un único número, no de los pares."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\dfrac{2}{3}$",
           "is_correct": false,
           "feedback": "Incorrecto. Conteo incorrecto de casos favorables."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para un evento simple se cuentan los casos favorables sobre el total de resultados posibles.",
       "difficulty": "6",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En una rifa comunitaria en Tumaco (Nariño) se venden $50$ boletos: $10$ con premio mayor, $15$ con premio menor y $25$ sin premio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\dfrac{25}{50} = \\dfrac{1}{2} = 0{,}5$",
           "is_correct": true,
           "feedback": "Correcto. Boletos premiados $= 10 + 15 = 25$; probabilidad $= 25/50$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\dfrac{10}{50}$",
           "is_correct": false,
           "feedback": "Incorrecto. Solo consideraste los premios mayores."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Tomaste el complemento al revés, sumando lo que no gana."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Cuando un evento incluye varios casos favorables, se suman sus conteos antes de dividir entre el total.",
       "difficulty": "8",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "En Bogotá una vendedora de lotería compara dos lotes: Lote A con $100$ boletos y $5$ premios, y Lote B con $200$ boletos y $5$ premios. Cada boleto vale lo mismo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "En el Lote A, con probabilidad $0{,}05$, porque tiene menos boletos para la misma cantidad de premios",
           "is_correct": true,
           "feedback": "Correcto. $P_A = \\frac{5}{100} = 0{,}05$; $P_B = \\frac{5}{200} = 0{,}025$. Lote A es el doble de probable."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En el Lote B, porque tiene más boletos",
           "is_correct": false,
           "feedback": "Incorrecto. Más boletos significa menos probabilidad por boleto individual."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambos lotes tienen la misma probabilidad",
           "is_correct": false,
           "feedback": "Incorrecto. Los denominadores son diferentes: $100$ vs $200$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No se puede saber sin información del premio",
           "is_correct": false,
           "feedback": "Incorrecto. La probabilidad de obtener un boleto premiado depende solo del cociente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Comparar probabilidades de eventos uniformes exige evaluar el cociente entre casos favorables y casos totales para cada escenario.",
       "difficulty": "10",
       "images": [],

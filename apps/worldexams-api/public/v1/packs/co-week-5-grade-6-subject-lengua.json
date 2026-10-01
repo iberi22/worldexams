@@ -13,13 +13,13 @@
       "context": "En la biblioteca de un colegio en Ibagué, dos amigos conversan sobre los libros que han leído este mes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que una persona hable durante mucho tiempo sin dejar que la otra intervenga.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso es un monólogo, no un diálogo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que haya un intercambio de roles entre emisor y receptor (alternancia de turnos).",
           "is_correct": true,
           "feedback": "Correcto. El diálogo requiere que ambos participantes hablen y escuchen sucesivamente."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. El diálogo puede ser espontáneo y sin tecnología."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El diálogo se define por la reciprocidad. A diferencia del monólogo, en el diálogo los participantes alternan sus turnos de habla, permitiendo que la información fluya en ambas direcciones.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -65,25 +65,25 @@
           "feedback": "Incorrecto. No hay un guion previo ni una estructura formal."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Diálogo espontáneo o conversación cotidiana.",
           "is_correct": true,
           "feedback": "Correcto. Es una interacción natural de la vida diaria, sin preparación previa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Diálogo literario, porque está escrito en un libro de poemas.",
           "is_correct": false,
           "feedback": "Incorrecto. El lenguaje es funcional y cotidiano, no poético."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Debate formal sobre la importancia del deporte en Colombia.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una consulta simple entre compañeros, no un intercambio de argumentos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Las conversaciones espontáneas son los diálogos más comunes. No siguen un orden estricto de temas y surgen por necesidades inmediatas de comunicación o socialización.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -117,19 +117,19 @@
           "feedback": "Incorrecto. El moderador no juzga opiniones, organiza el proceso."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Organizar los turnos de palabra, mantener el respeto y asegurar que no se desvíen del tema.",
           "is_correct": true,
           "feedback": "Correcto. El moderador es el facilitador que garantiza el orden y la efectividad de la comunicación grupal."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Escribir todo lo que dicen los compañeros en un tablero gigante.",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es la función de un secretario o relator."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "En diálogos formales (como mesas redondas o debates), el moderador es clave. Su papel es neutral: garantiza que todos participen de forma equitativa y que el diálogo cumpla su objetivo sin caer en el desorden.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -157,25 +157,25 @@
           "feedback": "Incorrecto. No se menciona el uso de mayúsculas, sino la mezcla de temas."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El principio de cooperación y la unidad de tema.",
           "is_correct": true,
           "feedback": "Correcto. Para que una conversación sea efectiva, los participantes deben seguir un hilo conductor y no hablar de cosas inconexas al mismo tiempo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La regla del canal, porque el WhatsApp no sirve para conversar.",
           "is_correct": false,
           "feedback": "Incorrecto. WhatsApp es un canal válido, el problema es el manejo del contenido."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El código, porque no todos usan el mismo tipo de emoticonos.",
           "is_correct": false,
           "feedback": "Incorrecto. Los emoticonos son apoyos, no el código principal."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Grice (un filósofo del lenguaje) propuso el \"Principio de Cooperación\": los hablantes deben esforzarse por ser relevantes y claros. Hablar de muchos temas a la vez sin orden dificulta que la conversación cumpla su propósito de entendimiento.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -203,13 +203,13 @@
           "feedback": "Incorrecto. El orden está totalmente invertido."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Cuerpo - Cierre - Apertura.",
           "is_correct": false,
           "feedback": "Incorrecto. La apertura siempre es el primer paso."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Apertura (saludo) - Orientación (pregunta inicial) - Cuerpo (desarrollo del tema).",
           "is_correct": true,
           "feedback": "Correcto. El diálogo inicia con un saludo, se orienta hacia el producto y se desarrolla con el precio."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Sí hay un saludo inicial (apertura)."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Todo diálogo tiene una estructura: 1) Apertura (saludos), 2) Orientación (introducción del tema), 3) Desarrollo o Cuerpo (intercambio de ideas) y 4) Cierre (despedida). Reconocer estas partes ayuda a mejorar nuestra competencia comunicativa.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -249,13 +249,13 @@
           "feedback": "Incorrecto. Las comillas se usan más para citas o pensamientos, aunque algunos autores las usan para diálogos, lo estándar es otro signo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El paréntesis ( ).",
           "is_correct": false,
           "feedback": "Incorrecto. Se usa para aclaraciones o acotaciones en teatro, no para marcar el habla directa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La raya o guion largo (—).",
           "is_correct": true,
           "feedback": "Correcto. La raya es el signo ortográfico por excelencia para señalar la intervención de cada hablante en un diálogo escrito."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Los dos puntos suelen preceder a la cita o al diálogo, pero no marcan el inicio del habla en sí dentro de la narrativa."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "En la escritura de narraciones, el uso de la raya (—) permite al lector identificar rápidamente cuándo cambia el turno de palabra entre los personajes, sin necesidad de repetir constantemente \"dijo él\" o \"respondió ella\".\n\n---",
       "difficulty": "8",
       "images": [],
@@ -301,19 +301,19 @@
           "feedback": "Incorrecto. Un diálogo no requiere palabras técnicas para ser válido."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "El irrespeto a los turnos de habla y la falta de escucha activa.",
           "is_correct": true,
           "feedback": "Correcto. Sin escucha y respeto a los tiempos del otro, el diálogo se rompe y se convierte en una imposición o agresión."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que no hay un moderador presente con un silbato.",
           "is_correct": false,
           "feedback": "Incorrecto. En la vida diaria debemos ser capaces de autorregular nuestros turnos de habla."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El diálogo es un ejercicio de democracia y respeto. Escuchar al otro no significa estar de acuerdo, sino darle el espacio para que su voz sea tenida en cuenta. El respeto al turno de palabra es la regla de oro de la conversación.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -341,13 +341,13 @@
           "feedback": "Incorrecto. La estructura la marca el periodista, lo que la hace planificada."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Es un diálogo planificado, porque tiene un objetivo claro (obtener información) y una estructura de preguntas preparada.",
           "is_correct": true,
           "feedback": "Correcto. La entrevista es un género periodístico donde el diálogo se organiza previamente para cumplir una meta informativa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No es un diálogo, es un interrogatorio policial.",
           "is_correct": false,
           "feedback": "Incorrecto. La entrevista busca conocer a la persona, no necesariamente acusarla de un delito."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Aunque el deportista hable más, las preguntas del periodista dirigen la conversación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La entrevista es un diálogo formal y planificado. A diferencia de la conversación cotidiana, hay una clara distinción de roles: uno pregunta (entrevistador) y otro responde (entrevistado), siguiendo un guion o temática establecida.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,25 +387,25 @@
           "feedback": "Incorrecto. El vocabulario (\"pelado\", \"vaina\") no es típico de un contexto científico formal."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Que es una persona con un lenguaje informal, probablemente de la región Caribe o cercana al río, y que tiene prisa.",
           "is_correct": true,
           "feedback": "Correcto. El uso de expresiones regionales y el tono directo nos dicen mucho sobre su origen y su estado de ánimo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que es un extranjero que acaba de aprender español ayer.",
           "is_correct": false,
           "feedback": "Incorrecto. Usa modismos locales de forma natural, lo que indica que es nativo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que es un niño de cinco años que no sabe hablar bien.",
           "is_correct": false,
           "feedback": "Incorrecto. La frase está bien estructurada dentro de su registro informal."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El diálogo es una herramienta de caracterización. A través de las palabras que eligen (léxico), su entonación y sus modismos, los personajes revelan su procedencia social, geográfica y su nivel educativo.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -433,25 +433,25 @@
           "feedback": "Incorrecto. La calidad del estudiante no debería impedir el proceso comunicativo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Porque hay un desequilibrio total en la participación, convirtiéndose en un sermón (monólogo) más que en un intercambio real de ideas.",
           "is_correct": true,
           "feedback": "Correcto. El diálogo requiere que ambas partes puedan expresar sus puntos de vista. Si uno domina todo el tiempo, no hay intercambio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque el padre debería usar diapositivas para explicar mejor su punto.",
           "is_correct": false,
           "feedback": "Incorrecto. El problema no es el material de apoyo, sino la falta de alternancia de turnos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque en Colombia los hijos nunca deben hablarle a sus padres.",
           "is_correct": false,
           "feedback": "Incorrecto. La comunicación familiar saludable se basa en el diálogo respetuoso de doble vía."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La efectividad de un diálogo se mide por la participación activa de todos. Un diálogo donde una parte solo escucha pasivamente no permite conocer las razones, sentimientos o dificultades de la otra persona, perdiendo la oportunidad de llegar a acuerdos reales.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
       "difficulty": "10",
       "images": [],

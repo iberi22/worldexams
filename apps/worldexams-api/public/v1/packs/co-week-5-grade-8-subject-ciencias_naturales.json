@@ -13,31 +13,31 @@
       "context": "En una clase de biología en Bucaramanga, se describe el sistema nervioso central como el centro de procesamiento de la informacion del cuerpo humano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El encefalo y la médula espinal.",
           "is_correct": true,
           "feedback": "Correcto. El SNC esta constituido por el encefalo y la médula espinal, protegidos por meninges y hueso."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El cerebro y los nervios perifericos.",
           "is_correct": false,
           "feedback": "Incorrecto. Los nervios perifericos pertenecen al sistema nervioso periferico (SNP)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El cerebelo y los ganglios raquideos.",
           "is_correct": false,
           "feedback": "Incorrecto. Los ganglios raquideos forman parte del SNP, no del SNC."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El bulbo raquideo y los musculos esqueleticos.",
           "is_correct": false,
           "feedback": "Incorrecto. Los musculos son efectores, no parte del SNC."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Sistema nervioso central (SNC) $=$ encefalo (cerebro, cerebelo, tronco encefalico) $+$ médula espinal.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "En el Hospital Universitario San Ignacio de Bogotá, un paciente recupera movilidad en una pierna tras sesiones de fisioterapia neurologica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Conectar el SNC con los órganos, musculos y receptores sensoriales del resto del cuerpo.",
           "is_correct": true,
           "feedback": "Correcto. El SNP comunica receptores y efectores con el SNC, permitiendo respuestas integradas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Producir las neuronas que forman el cerebro.",
           "is_correct": false,
           "feedback": "Incorrecto. La produccion de neuronas se realiza en etapas embrionarias y se localiza en el SNC."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Bombear sangre al cerebro.",
           "is_correct": false,
           "feedback": "Incorrecto. Esa funcion corresponde al sistema cardiovascular."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Secretar hormonas al torrente sanguineo.",
           "is_correct": false,
           "feedback": "Incorrecto. Las hormonas son secretadas por el sistema endocrino, no por el SNP."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El SNP esta formado por nervios y ganglios que llevan informacion sensorial al SNC y llevan ordenes motoras a los efectores.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En Valledupar, un estudiante retira rapidamente la mano al tocar una olla caliente sobre la estufa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Receptor sensorial $\\to$ neurona aferente $\\to$ médula espinal $\\to$ neurona eferente $\\to$ musculo efector.",
           "is_correct": true,
           "feedback": "Correcto. El arco reflejo sigue esta secuencia y permite respuestas rapidas sin pasar por el cerebro."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Musculo efector $\\to$ médula espinal $\\to$ receptor sensorial $\\to$ neurona eferente $\\to$ cerebro.",
           "is_correct": false,
           "feedback": "Incorrecto. La secuencia inicia en el receptor y termina en el efector, no al reves."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cerebro $\\to$ ganglio raquideo $\\to$ musculo $\\to$ piel $\\to$ médula espinal.",
           "is_correct": false,
           "feedback": "Incorrecto. El reflejo espinal no requiere procesamiento cerebral consciente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Glándula endocrina $\\to$ sangre $\\to$ musculo $\\to$ piel $\\to$ receptor sensorial.",
           "is_correct": false,
           "feedback": "Incorrecto. Esta secuencia corresponde a respuestas hormonales, no a un acto reflejo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Arco reflejo: receptor $\\to$ via aferente $\\to$ centro integrador (médula) $\\to$ via eferente $\\to$ efector (musculo).",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "En Medellín, una lesion cerebral compromete la corteza motora de un adolescente, afectando la movilidad voluntaria del brazo derecho.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La corteza motora del hemisferio izquierdo controla principalmente los movimientos voluntarios del lado derecho del cuerpo.",
           "is_correct": true,
           "feedback": "Correcto. La motricidad voluntaria sigue un control cruzado: hemisferio izquierdo para el lado derecho."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La corteza motora del hemisferio derecho controla los movimientos del lado derecho.",
           "is_correct": false,
           "feedback": "Incorrecto. La corteza motora derecha controla el lado izquierdo del cuerpo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La corteza motora controla funciones del sistema endocrino, no del movimiento.",
           "is_correct": false,
           "feedback": "Incorrecto. La corteza motora comanda movimientos volontaires, no secreciones hormonales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La corteza motora del cerebro solo interviene en funciones vegetativas.",
           "is_correct": false,
           "feedback": "Incorrecto. Las funciones vegetativas se regulan en el tronco encefalico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Control motor cruzado: cada hemisferio cerebral comanda los movimientos del lado opuesto del cuerpo.",
       "difficulty": "8",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En el Laboratorio de Neurociencias de la Universidad Javeriana, se mide la concentracion de neurotransmisores en la sinapsis de ratones sometidos a situaciones de estres cronico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Puede alterar el equilibrio de neurotransmisores como serotonina y dopamina, afectando el estado de animo y la memoria.",
           "is_correct": true,
           "feedback": "Correcto. El estres cronico desregula neurotransmisores clave, impactando animo, memoria y comportamiento."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El estres cronico aumenta la produccion de mielina en todo el sistema nervioso.",
           "is_correct": false,
           "feedback": "Incorrecto. El estres cronico no incrementa la mielinizacion, sino que puede reducirla."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los neurotransmisores son independientes del estado emocional del individuo.",
           "is_correct": false,
           "feedback": "Incorrecto. Los neurotransmisores estan estrechamente ligados a las emociones."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. No las elimina por completo, pero modifica su eficiencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El estres cronico altera la liberacion y recaptacion de neurotransmisores, modificando la plasticidad sinaptica y la funcion cognitiva.",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En una escuela rural de Boyaca, se observa que los estudiantes que duermen menos de 7 horas tienen menor rendimiento academico que aquellos con sueno suficiente.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El sueno insuficiente afecta la consolidacion de la memoria, la atencion y el aprendizaje en el sistema nervioso.",
           "is_correct": true,
           "feedback": "Correcto. Dormir es esencial para consolidar memorias y mantener funciones cognitivas optimas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El sueno insuficiente mejora la capacidad de concentracion del estudiante.",
           "is_correct": false,
           "feedback": "Incorrecto. La falta de sueno disminuye la concentracion y el rendimiento cognitivo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El sistema nervioso no se ve afectado por la cantidad de sueno.",
           "is_correct": false,
           "feedback": "Incorrecto. El sistema nervioso requiere sueno para su recuperacion y plasticidad."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. El sueno es vital también para el cerebro y el sistema nervioso."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Durante el sueno se consolidan memorias, se eliminan desechos metabolicos cerebrales y se regula el estado emocional.",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En la costa Caribe, una persona consume altas cantidades de alcohol en una rumba y al dia siguiente presenta dificultad para coordinar movimientos y hablar con claridad.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El alcohol deprime principalmente el cerebelo y la corteza cerebral, alterando coordinacion, equilibrio y lenguaje.",
           "is_correct": true,
           "feedback": "Correcto. El cerebelo controla coordinacion; la corteza cerebral participa en el lenguaje y juicio."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El alcohol estimula la médula espinal, aumentando los reflejos.",
           "is_correct": false,
           "feedback": "Incorrecto. El alcohol es depresor del SNC, no estimulante de la médula."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Inicialmente deprime la coordinacion y el juicio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El alcohol es un depresor del SNC que afecta primero corteza (juicio) y luego cerebelo (equilibrio) y bulbo (funciones vitales).",
       "difficulty": "8",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "En Bogotá, el Ministerio de Salud promueve campanas para que jovenes eviten el consumo de sustancias psicoactivas que afectan la plasticidad neuronal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Durante la adolescencia el cerebro aun esta en desarrollo y las sustancias psicoactivas pueden alterar la plasticidad neuronal.",
           "is_correct": true,
           "feedback": "Correcto. El cerebro adolescente es vulnerable a sustancias que modifican la conectividad neuronal."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las sustancias psicoactivas fortalecen la memoria de manera permanente.",
           "is_correct": false,
           "feedback": "Incorrecto. Las sustancias psicoactivas suelen deteriorar, no fortalecer, la memoria."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. La corteza prefrontal madura hasta cerca de los 25 anos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La adolescencia es una ventana critica de maduracion cerebral; las sustancias psicoactivas pueden dejar secuelas neuropsicologicas permanentes.",
       "difficulty": "10",
       "images": [],
@@ -473,19 +473,19 @@
       "context": "En el programa de educacion vial de Cali, se discute la importancia de usar casco y evitar el celular al conducir una moto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El casco reduce el riesgo de lesiones cerebrales al amortiguar golpes que podrian danar irreversiblemente las neuronas.",
           "is_correct": true,
           "feedback": "Correcto. Las neuronas del SNC tienen capacidad de regeneracion muy limitada."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El casco solo protege la cara, no el cerebro.",
           "is_correct": false,
           "feedback": "Incorrecto. El casco protege principalmente el cráneo y el cerebro subyacente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Las neuronas cerebrales se regeneran rapidamente, por lo que el casco es innecesario.",
           "is_correct": false,
           "feedback": "Incorrecto. La capacidad de regeneracion neuronal del SNC adulto es muy limitada."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. Los traumatismos craneoencefalicos pueden producir danos neurologicos graves."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El sistema nervioso central tiene capacidad limitada de regeneracion. Prevenir traumatismos con casco es esencial para evitar lesiones irreversibles.",
       "difficulty": "10",
       "images": [],
@@ -519,31 +519,31 @@
       "context": "En el plan de salud de Antioquia, se discute invertir recursos en programas de actividad física para reducir el riesgo de enfermedades neurodegenerativas en adultos mayores.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El ejercicio estimula la neuroplasticidad, mejora el flujo sanguineo cerebral y reduce el deterioro cognitivo.",
           "is_correct": true,
           "feedback": "Correcto. La actividad física promueve plasticidad sinaptica y salud cerebrovascular."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El ejercicio físico solo beneficia al sistema muscular, no al nervioso.",
           "is_correct": false,
           "feedback": "Incorrecto. El ejercicio tiene efectos directos sobre el cerebro y la cognicion."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El deterioro cognitivo es inevitable y el ejercicio no aporta beneficio alguno.",
           "is_correct": false,
           "feedback": "Incorrecto. La evidencia muestra que el ejercicio puede retrasar el deterioro cognitivo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La actividad física acelera el envejecimiento cerebral.",
           "is_correct": false,
           "feedback": "Incorrecto. La evidencia indica que el ejercicio regular protege al cerebro del envejecimiento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La actividad física regular estimula factores neurotroficos, mejora la perfusion cerebral y favorece la plasticidad sinaptica, protegiendo la funcion cognitiva.",
       "difficulty": "10",
       "images": [],

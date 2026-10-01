@@ -13,31 +13,31 @@
       "context": "Describing a regular morning activity.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "drinks",
           "is_correct": true,
           "feedback": "Correct! We use Present Simple for habitual actions like \"usually\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "is drinking",
           "is_correct": false,
           "feedback": "Incorrect. This form is for what is happening right now, not a regular habit."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "drink",
           "is_correct": false,
           "feedback": "Incorrect. Juan is third person singular, so the verb needs an 's'."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "drinking",
           "is_correct": false,
           "feedback": "Incorrect. This form requires an auxiliary verb (is/are) and doesn't show habit."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En inglés, utilizamos el Presente Simple para hablar de hábitos o rutinas (marcado por palabras como \"usually\"). Para la tercera persona (Juan/He), agregamos una 's' al verbo.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "Asking about frequency.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "many",
           "is_correct": false,
           "feedback": "Incorrect. \"How many\" is used for countable quantities."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "often",
           "is_correct": true,
           "feedback": "Correct! \"How often\" is the standard question for frequency."
@@ -83,7 +83,7 @@
           "feedback": "Incorrect. \"How time\" is not a correct way to ask about frequency."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La expresión \"How often\" se utiliza para preguntar por la frecuencia con la que se realiza una actividad en una rutina.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "Contrasting habit vs. temporary action.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "lives / lives",
           "is_correct": false,
           "feedback": "Incorrect. The second part is a temporary action, so it needs Present Continuous."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "lives / is staying",
           "is_correct": true,
           "feedback": "Correct! \"Lives\" is a permanent state (Simple), \"is staying\" is temporary (Continuous)."
@@ -175,7 +175,7 @@
           "feedback": "Incorrect. These forms are grammatically incomplete for the context."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Este ejercicio evalúa la diferencia entre estados permanentes (Presente Simple: lives) y situaciones temporales (Presente Continuo: is staying).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Using adverbs of frequency correctly.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "I go always to the library on Mondays.",
           "is_correct": false,
           "feedback": "Incorrect. Adverbs of frequency usually go before the main verb."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "I always go to the library on Mondays.",
           "is_correct": true,
           "feedback": "Correct! The adverb \"always\" correctly precedes the verb \"go\"."
@@ -221,7 +221,7 @@
           "feedback": "Incorrect. The placement of the adverb is awkward here."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "En inglés, los adverbios de frecuencia (always, usually, sometimes, never) se colocan generalmente antes del verbo principal, a menos que el verbo sea \"to be\".\n\n---",
       "difficulty": "6",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Understanding the nuance of \"always\" with Present Continuous.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "He lost his keys one time today.",
           "is_correct": false,
           "feedback": "Incorrect. The sentence describes a repeated behavior."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "It is a frequent and irritating habit.",
           "is_correct": true,
           "feedback": "Correct! \"Always\" with Continuous often expresses annoyance."
@@ -359,7 +359,7 @@
           "feedback": "Incorrect. The sentence says the exact opposite."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Cuando usamos \"always\" con el Presente Continuo, a menudo no es para describir una acción en progreso, sino para quejarse de un hábito repetitivo que resulta molesto.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,25 +387,25 @@
           "feedback": "Incorrect. Usually, \"while\" introduces a continuous action."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "is eating / is taking",
           "is_correct": true,
           "feedback": "Correct! Two actions happening simultaneously in the present."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "is eat / take",
           "is_correct": false,
           "feedback": "Incorrect. Grammatically incorrect verb forms."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "eat / taking",
           "is_correct": false,
           "feedback": "Incorrect. Missing auxiliary verbs and subject-verb agreement."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "\"While\" se utiliza frecuentemente para conectar dos acciones que ocurren al mismo tiempo. En este contexto presente, ambas pueden ir en Presente Continuo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "Correcting errors in a complex routine description.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "am preferring",
           "is_correct": true,
           "feedback": "Correct! \"Prefer\" is a stative verb and should be in Simple Present: \"I prefer\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "to walk",
           "is_correct": false,
           "feedback": "Incorrect. This infinitive is correctly used after \"prefer\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "gives",
           "is_correct": false,
           "feedback": "Incorrect. \"It\" refers to walking (singular), so \"gives\" is correct."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "to think",
           "is_correct": false,
           "feedback": "Incorrect. This is a correct infinitive of purpose."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El verbo \"prefer\" expresa un gusto o preferencia, por lo que se considera un verbo de estado (stative verb) y no debe usarse en presente continuo en este contexto.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "Formal vs. Informal routine inquiry.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "What time do I gotta show up?",
           "is_correct": false,
           "feedback": "Incorrect. \"Gotta\" is too informal for an interview."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Could you please tell me what the typical daily responsibilities are?",
           "is_correct": true,
           "feedback": "Correct! It is polite, formal, and uses B1 level structures."
@@ -497,7 +497,7 @@
           "feedback": "Incorrect. An imperative is too aggressive for an interview."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "En contextos formales (nivel B1), se espera que el estudiante use preguntas indirectas o modales de cortesía (\"Could you...\", \"Would you...\") para obtener información.\n\n---",
       "difficulty": "10",
       "images": [],

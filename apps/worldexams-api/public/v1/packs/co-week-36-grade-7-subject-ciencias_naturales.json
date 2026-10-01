@@ -59,31 +59,31 @@
       "context": "En una ladera de Medellín, después de un aguacero, parte del agua corre por la calle hacia la quebrada y otra parte se mete entre la tierra del jardín.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La escorrentía corre sobre la superficie hacia quebradas y ríos, y la infiltración penetra en el suelo hacia aguas subterráneas.",
           "is_correct": true,
           "feedback": "Correcta, porque distingue el flujo superficial del flujo que entra al suelo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ambas son lo mismo y ocurren solo dentro de las tuberías del acueducto.",
           "is_correct": false,
           "feedback": "Incorrecta, porque son caminos distintos del agua en la naturaleza."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La infiltración sube a las nubes y la escorrentía se evapora bajo la tierra.",
           "is_correct": false,
           "feedback": "Incorrecta, porque invierte y mezcla los dos caminos del agua."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ninguna existe en Medellín porque toda la lluvia desaparece por arte de magia.",
           "is_correct": false,
           "feedback": "Incorrecta, porque el agua sigue caminos físicos observables y medibles."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Cuando llueve, el suelo absorbe una parte según qué tan suelto o compactado esté, y el resto escurre cuesta abajo. La infiltración recarga pozos y manantiales, mientras la escorrentía alimenta quebradas y puede causar inundaciones. Pavimentar todo aumenta la escorrentía y reduce la infiltración.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En clase de ciencias en Bogotá aprenden que gran parte del agua de la ciudad nace en el páramo de Chingaza, donde los frailejones atrapan la niebla y los suelos esponjosos guardan el agua.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque el páramo fabrica agua de la nada con sus piedras frías.",
           "is_correct": false,
           "feedback": "Incorrecta, porque el páramo regula y almacena el agua de la lluvia y la niebla, no la crea de la nada."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque la vegetación y los suelos del páramo capturan, almacenan y liberan lentamente el agua hacia los ríos que abastecen la ciudad.",
           "is_correct": true,
           "feedback": "Correcta, porque aplica la función reguladora del páramo en el ciclo del agua."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecta, porque el acueducto se abastece de cuencas naturales como Chingaza."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Los páramos son fábricas y esponjas de agua: atrapan la humedad, la guardan en suelos orgánicos y la sueltan poco a poco en verano. Si se quema el frailejón o se compacta el suelo, el agua escurre de golpe y luego escasea. Proteger el páramo garantiza cantidad y calidad del agua río abajo.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En una visita a la planta de Tibitoc, que trata el agua para Bogotá y municipios cercanos, los estudiantes ven tanques donde el agua pasa por coagulación, sedimentación, filtración y desinfección.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Coagulación y sedimentación retiran partículas, filtración las atrapa en arena y desinfección elimina microbios con cloro.",
           "is_correct": true,
           "feedback": "Correcta, porque ordena las etapas y explica la función de cada una."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Primero se agrega cloro para ensuciar, luego se revuelve el barro y al final se reparte sin filtrar.",
           "is_correct": false,
           "feedback": "Incorrecta, porque invierte el propósito y omite la filtración necesaria."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Basta con guardar el agua un rato porque el reposo solo mata todos los virus y químicos.",
           "is_correct": false,
           "feedback": "Incorrecta, porque el reposo no elimina patógenos ni sustancias disueltas."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecta, porque propone materiales sin capacidad técnica ni control sanitario."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Potabilizar es una cadena: la coagulación agrupa la suciedad fina, la sedimentación la deja caer al fondo, la filtración en arena y grava retiene lo restante y la desinfección con cloro elimina bacterias y virus. Saltar una etapa deja riesgos. Por eso el agua tratada se controla en laboratorio antes de llegar a los grifos.",
       "difficulty": "6",
       "images": [],
@@ -203,25 +203,25 @@
           "feedback": "Incorrecta, porque hervir no crea vitaminas ni transforma el barro en alimento."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Porque el calor elimina la mayoría de microbios y el reposo deja que las partículas se asienten al fondo.",
           "is_correct": true,
           "feedback": "Correcta, porque aplica desinfección por calor y separación por sedimentación casera."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque el agua caliente ya no necesita taparse y se puede guardar destapada semanas.",
           "is_correct": false,
           "feedback": "Incorrecta, porque el agua tratada se puede recontaminar si se guarda destapada."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque hervir quita toda la sal del mar y vuelve dulce cualquier agua.",
           "is_correct": false,
           "feedback": "Incorrecta, porque hervir no desaliniza el agua de mar."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Hervir es una desinfección casera efectiva contra bacterias, virus y parásitos comunes, y dejar reposar y trasvasar con cuidado separa parte del barro. No elimina químicos ni sal, por eso es medida de emergencia y no reemplaza la planta de tratamiento. Guardar en recipiente limpio y tapado evita que se contamine de nuevo.",
       "difficulty": "6",
       "images": [],
@@ -341,25 +341,25 @@
           "feedback": "Incorrecta, porque la creciente arrastra más suciedad y microbios hacia la captación."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Porque la creciente arrastra sedimentos y microbios que exigen más remoción de partículas y desinfección controlada.",
           "is_correct": true,
           "feedback": "Correcta, porque conecta lluvia, carga contaminante y ajuste del tratamiento."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque en Quibdó llueve agua destilada que daña las máquinas de la planta.",
           "is_correct": false,
           "feedback": "Incorrecta, porque la lluvia arrastra polvo, hojas y tierra a su paso."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque con lluvia conviene suspender el tratamiento y repartir el agua cruda del río.",
           "is_correct": false,
           "feedback": "Incorrecta, porque repartir agua cruda expondría a la población a enfermar."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La escorrentía de un aguacero lava calles, potreros y orillas y sube la turbiedad y la carga microbiana. La planta responde dosificando mejor el coagulante, lavando filtros y vigilando el cloro. Analizar el fenómeno muestra que el clima y la calidad del agua están ligados y que el tratamiento debe adaptarse cada día.",
       "difficulty": "8",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "En Soacha, el curso con 150000 COP debe decidir cómo verificar si el agua de tres tanques del colegio es segura: probarla con la boca, olerla y votar, o medir turbiedad y cloro con tiras, repetir y comparar con la norma.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Probar con la boca todos los tanques porque el sabor detecta virus y químicos con precisión.",
           "is_correct": false,
           "feedback": "Incorrecta, porque el sabor no detecta patógenos y exponerse así es riesgoso."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Oler y votar por el tanque favorito porque la simpatía del grupo purifica el agua.",
           "is_correct": false,
           "feedback": "Incorrecta, porque votar no mide calidad y ningún gusto colectivo potabiliza."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Medir con tiras, repetir las pruebas, registrar en tablas y comparar con la norma antes de recomendar.",
           "is_correct": true,
           "feedback": "Correcta, porque usa instrumentos, réplicas, registro y criterio externo de calidad."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecta, porque tanques y tuberías se contaminan y la calidad debe verificarse."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Una indagación para la salud debe ser segura y basada en evidencia. Las tiras miden indicadores, la repetición da confianza, las tablas ordenan y la norma da el límite de referencia. Probar con la boca expone a enfermar. Evaluar planes con seguridad, instrumentos y comparación es el corazón del método científico escolar.",
       "difficulty": "10",
       "images": [],

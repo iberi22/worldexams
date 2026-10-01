@@ -64,13 +64,13 @@
           "feedback": "Incorrecto. Las bases pueden ser cualquier polígono."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Sus aristas laterales son perpendiculares a las bases.",
           "is_correct": true,
           "feedback": "Correcto. En un prisma recto, la altura coincide con la longitud de las aristas laterales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Todas sus caras laterales son cuadrados.",
           "is_correct": false,
           "feedback": "Incorrecto. Sus caras laterales son rectángulos en general."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Esta es una característica de las pirámides, no de los prismas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Un prisma se denomina recto cuando sus aristas laterales son perpendiculares a los planos que contienen a las bases. Esto implica que sus caras laterales son rectángulos.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -109,13 +109,13 @@
           "feedback": "Incorrecto. Sumó las dimensiones en lugar de multiplicarlas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "100 cm³",
           "is_correct": false,
           "feedback": "Incorrecto. Error en el cálculo del producto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "200 cm³",
           "is_correct": true,
           "feedback": "Correcto. $V = largo \\cdot ancho \\cdot alto = 5 \\cdot 4 \\cdot 10 = 200$."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Duplicó el resultado innecesariamente."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El volumen de un paralelepípedo rectángulo (u ortoedro) se calcula multiplicando sus tres dimensiones: $V = a \\cdot b \\cdot c$. Para los datos dados: $V = 5 \\times 4 \\times 10 = 200$ cm³.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrecto. Error al aplicar la suma en el teorema de Euler."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "18",
           "is_correct": true,
           "feedback": "Correcto. Teorema de Euler: $V + C = A + 2$. Entonces $12 + 8 = A + 2 \\Rightarrow 20 = A + 2 \\Rightarrow A = 18$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "20",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó restar el número 2 de la constante del teorema."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Restó en lugar de sumar adecuadamente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El teorema de Euler para poliedros convexos establece que el número de vértices ($V$) más el número de caras ($C$) es igual al número de aristas ($A$) más dos ($V + C = A + 2$). Sustituyendo: $12 + 8 = A + 2 \\Rightarrow 20 = A + 2 \\Rightarrow A = 18$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Incorrecto. Este es el área de una cara lateral."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "216 cm³",
           "is_correct": true,
           "feedback": "Correcto. Diagonal $D = a\\sqrt{3} \\Rightarrow 6\\sqrt{3} = a\\sqrt{3} \\Rightarrow a = 6$. Volumen $V = a^3 = 6^3 = 216$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "108 cm³",
           "is_correct": false,
           "feedback": "Incorrecto. Error al elevar la arista al cubo."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. No corresponde al cálculo para una arista de 6 cm."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La diagonal de un cubo se calcula como $D = a\\sqrt{3}$. Si $D = 6\\sqrt{3}$, la arista $a$ es igual a 6 cm. El volumen del cubo es el cubo de su arista: $V = a^3 = 6^3 = 216$ cm³.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,13 +379,13 @@
           "feedback": "Incorrecto. Este es el área lateral únicamente."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "360 cm²",
           "is_correct": true,
           "feedback": "Correcto. Área base = $10^2 = 100$. Área lateral = $(Perimetro \\cdot apotema)/2 = (40 \\cdot 13)/2 = 260$. Área total = $100 + 260 = 360$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "420 cm²",
           "is_correct": false,
           "feedback": "Incorrecto. Error en el cálculo del área lateral o de la base."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Dividió el área lateral entre dos innecesariamente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El área total de una pirámide es la suma del área de la base y el área lateral. $A_{base} = 10 \\times 10 = 100$ cm². $A_L = \\frac{p_{base} \\cdot apotema}{2} = \\frac{40 \\cdot 13}{2} = 260$ cm². Por lo tanto, $A_T = 100 + 260 = 360$ cm².\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Se analiza el concepto de apotema en una pirámide regular durante una clase en Ica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La distancia del vértice (ápice) al centro de la base.",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la altura de la pirámide."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La altura de cualquiera de las caras laterales.",
           "is_correct": true,
           "feedback": "Correcto. En una pirámide regular, la apotema es el segmento que une el ápice con el punto medio de un lado de la base."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Este es el radio de la base."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "En una pirámide regular, la apotema de la pirámide es la altura de sus caras laterales (triángulos isósceles). No debe confundirse con la apotema de la base, que es la distancia del centro de la base al punto medio de uno de sus lados.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Incorrecto. Error al determinar la longitud de la arista o el número de caras."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$12\\sqrt{3}$ cm²",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la aplicación de la fórmula del área."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$36\\sqrt{3}$ cm²",
           "is_correct": true,
           "feedback": "Correcto. Tetraedro tiene 6 aristas. $6a = 36 \\Rightarrow a = 6$. Área total = $a^2\\sqrt{3} = 6^2\\sqrt{3} = 36\\sqrt{3}$."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Olvidó el número total de caras en el cálculo final."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Un tetraedro regular tiene 6 aristas iguales. Si la suma es 36, cada arista $a$ mide 6 cm. El área total de un tetraedro regular está formada por 4 triángulos equiláteros: $A_T = 4 \\times \\frac{a^2\\sqrt{3}}{4} = a^2\\sqrt{3}$. Sustituyendo $a=6$: $A_T = 36\\sqrt{3}$ cm².\n\n---",
       "difficulty": "8",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Incorrecto. No consideró la semisuma de las bases del trapecio."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "450 m³",
           "is_correct": true,
           "feedback": "Correcto. Area base = $(2+4)/2 \\cdot 1.5 = 3 \\cdot 1.5 = 4.5$. Volumen = $4.5 \\cdot 100 = 450$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "600 m³",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicó las bases sin promediarlas."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Duplicó el resultado del área de la base."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El volumen de un prisma es el producto del área de su base por su altura (en este caso, la longitud del canal). El área de la base trapezoidal es $A = \\frac{4 + 2}{2} \\times 1.5 = 4.5$ m². El volumen total es $V = 4.5 \\times 100 = 450$ m³.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "Un problema de geometría tridimensional sobre la distancia entre los centros de las caras de un cubo, nivel pre-UNI.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "10 cm",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la distancia entre centros de caras opuestas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$5\\sqrt{2}$ cm",
           "is_correct": true,
           "feedback": "Correcto. Los centros están a una distancia de 5 de la arista común. Forman un triángulo rectángulo de catetos 5 y 5. Distancia = $\\sqrt{5^2 + 5^2} = 5\\sqrt{2}$."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Esta es la distancia de un centro a la arista más cercana."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Al proyectar los centros de dos caras adyacentes sobre la arista común, vemos que cada uno se encuentra a la mitad de la arista ($a/2 = 5$ cm). La distancia entre ellos es la hipotenusa de un triángulo rectángulo cuyos catetos son las distancias de los centros a la arista común: $d = \\sqrt{5^2 + 5^2} = \\sqrt{50} = 5\\sqrt{2}$ cm.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorrecto. La sección es un triángulo isósceles, no equilátero."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Triángulo isósceles, $a^2\\sqrt{2}/4$",
           "is_correct": true,
           "feedback": "Correcto. Los lados son la arista $a$ y dos alturas de cara $a\\sqrt{3}/2$. La altura de este triángulo es $a/\\sqrt{2}$. Area $= (1/2) \\cdot a \\cdot a\\sqrt{2}/2 = a^2\\sqrt{2}/4$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Triángulo isósceles, $a^2\\sqrt{3}/6$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en el cálculo de la altura de la sección."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Un plano que pasa por una arista y un punto solo puede generar un triángulo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La sección es un triángulo cuyos lados son la arista del tetraedro ($a$) y las medianas (alturas) de las dos caras que comparten la arista opuesta ($a\\sqrt{3}/2$). Es un triángulo isósceles. Calculando su área mediante la base $a$ y su altura respectiva obtenemos $a^2\\sqrt{2}/4$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,25 +649,25 @@
           "feedback": "Incorrecto. El área superficial sería $4 + 4(16) = 68$."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$x = 4$, $h = 2$",
           "is_correct": true,
           "feedback": "Correcto. Área $S = x^2 + 4xh$. Como $x^2h = 32 \\Rightarrow h = 32/x^2$. $S = x^2 + 128/x$. Derivando: $2x - 128/x^2 = 0 \\Rightarrow 2x^3 = 128 \\Rightarrow x = 4$. Entonces $h = 32/16 = 2$. Superficie $= 16 + 4(4)(2) = 16 + 32 = 48$ m²."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 8$, $h = 0.5$",
           "is_correct": false,
           "feedback": "Incorrecto. El área superficial sería $64 + 4(4) = 80$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 3.2$, $h = 3.125$",
           "is_correct": false,
           "feedback": "Incorrecto. No es el punto de mínima superficie."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Este es un problema de extremos condicionados. El área superficial es $S = x^2 + 4xh$. La condición de volumen es $V = x^2h = 32$. Sustitujeme $h = 32/x^2$ en la función de área: $S(x) = x^2 + 128/x$. Minimizamos derivando e igualando a cero: $2x - 128/x^2 = 0$, lo que da $x^3 = 64$ y por tanto $x = 4$. La altura resulta $h = 2$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "Incorrecto. No consideró la relación pitagórica con el radio de la base."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "8 m",
           "is_correct": true,
           "feedback": "Correcto. En un hexágono regular, el radio es igual al lado ($R = 6$). Se forma un triángulo rectángulo con la arista lateral como hipotenusa (10) y el radio como cateto (6). $h = \\sqrt{10^2 - 6^2} = 8$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\sqrt{136}$ m",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó los cuadrados en lugar de restarlos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "6 m",
           "is_correct": false,
           "feedback": "Incorrecto. No es un triángulo notable 6-6-10."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En una pirámide regular, la altura ($h$), el radio de la base ($R$) y la arista lateral ($a_L$) forman un triángulo rectángulo donde $a_L$ es la hipotenusa. Para un hexágono, $R = L_{base} = 6$. Por el teorema de Pitágoras: $h^2 + 6^2 = 10^2 \\Rightarrow h^2 = 100 - 36 = 64 \\Rightarrow h = 8$ metros.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,19 +733,19 @@
       "context": "Desafío avanzado del examen UNI sobre la razón de volúmenes tras un corte paralelo a la base en una pirámide.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "1 a 2",
           "is_correct": false,
           "feedback": "Incorrecto. La relación de volúmenes depende del cubo de la razón de semejanza lineal."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "1 a 4",
           "is_correct": false,
           "feedback": "Incorrecto. Esta sería la relación entre las áreas de las bases."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "1 a 7",
           "is_correct": true,
           "feedback": "Correcto. Razón de semejanza $k = 1/2$. Razón de volúmenes $k^3 = 1/8$. Si el total es 8 y la pequeña es 1, el tronco es $8 - 1 = 7$. La relación es 1 a 7."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Esta es la relación entre la pirámide pequeña y la pirámide original completa."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Cuando se corta una pirámide con un plano paralelo a la base, la pirámide pequeña resultante es semejante a la original. La razón de semejanza es la razón entre sus alturas: $k = (H/2) / H = 1/2$. La razón entre sus volúmenes es $k^3 = (1/2)^3 = 1/8$. Si llamamos $V$ al volumen original, la pirámide pequeña tiene $V/8$. El volumen del tronco es $V - V/8 = 7V/8$. La relación es $1/7$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,19 +778,19 @@
       "context": "Cálculo de la distancia mínima sobre la superficie de un sólido (geodésica), estilo olimpiada matemática.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$3$ m",
           "is_correct": false,
           "feedback": "Incorrecto. Recorrido a lo largo de las aristas, no es el mínimo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\sqrt{3}$ m",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la distancia en línea recta a través del interior del cubo."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$\\sqrt{5}$ m",
           "is_correct": true,
           "feedback": "Correcto. Al desarrollar la superficie del cubo (dos caras adyacentes), el camino mínimo es una línea recta que es hipotenusa de un triángulo de catetos 2 y 1. $d = \\sqrt{2^2 + 1^2} = \\sqrt{5}$."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Recorrido por la diagonal de una cara y luego una arista."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Para hallar la distancia mínima sobre la superficie, \"desdoblamos\" el cubo en un plano. La hormiga debe cruzar dos caras para llegar al vértice opuesto. En el desarrollo plano, esto forma un rectángulo de $2 \\times 1$. El camino más corto es la diagonal de este rectángulo: $d = \\sqrt{2^2 + 1^2} = \\sqrt{5}$ metros.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Incorrecto. Olvidó el factor 1/6 para tetraedros trirrectángulos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "12 cm³",
           "is_correct": true,
           "feedback": "Correcto. Aplicando la fórmula para un tetraedro trirrectángulo: $V = (abc) / 6 = (3 \\cdot 4 \\cdot 6) / 6 = 12$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "24 cm³",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó dividir entre 3 o entre 6 según la fórmula usada."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. No consideró la naturaleza piramidal del sólido."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "En un tetraedro trirrectángulo (donde tres aristas que parten de un mismo vértice son perpendiculares entre sí), el volumen se calcula como un sexto del producto de dichas aristas: $V = \\frac{a \\cdot b \\cdot c}{6}$. Para los valores dados: $V = \\frac{3 \\cdot 4 \\cdot 6}{6} = 12$ cm³.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -874,13 +874,13 @@
           "feedback": "Incorrecto."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\sqrt{3}$",
           "is_correct": false,
           "feedback": "Incorrecto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$3\\sqrt{3}$",
           "is_correct": true,
           "feedback": "Correcto. Sea $L$ el lado del cubo mayor. El diámetro de la esfera es $L$. El lado del cubo menor $l$ cumple $l\\sqrt{3} = L \\Rightarrow l = L/\\sqrt{3}$. Razón de volúmenes = $(L/l)^3 = (\\sqrt{3})^3 = 3\\sqrt{3}$."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Sea $L$ la arista del cubo mayor. El radio de la esfera inscrita es $R = L/2$. Para el cubo menor inscrito en dicha esfera, su diagonal principal ($d = l\\sqrt{3}$) es igual al diámetro de la esfera ($2R = L$). Entonces $l\\sqrt{3} = L \\Rightarrow l = L/\\sqrt{3}$. La razón de sus volúmenes es $(L/l)^3 = (\\sqrt{3})^3 = 3\\sqrt{3}$.",
       "difficulty": "10",
       "images": [],

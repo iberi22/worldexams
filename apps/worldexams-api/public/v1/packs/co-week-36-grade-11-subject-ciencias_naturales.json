@@ -13,31 +13,31 @@
       "context": "En una clase de óptica en Medellín, Laura describe la propagación rectilínea de la luz.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "3.0 × 10⁸ m/s.",
           "is_correct": true,
           "feedback": "La velocidad de la luz en el vacío es c ≈ 3·10⁸ m/s."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3.0 × 10⁵ m/s.",
           "is_correct": false,
           "feedback": "Esa es la velocidad del sonido en el aire."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "340 m/s.",
           "is_correct": false,
           "feedback": "Velocidad del sonido a 20 °C."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "1.5 × 10⁸ m/s.",
           "is_correct": false,
           "feedback": "Velocidad aproximada en agua."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La velocidad de la luz en el vacío (c) es una constante fundamental de la naturaleza.",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En clase en Barranquilla, se discute la dispersión cromática al pasar luz blanca por un prisma.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Cada color tiene un índice de refracción distinto en el vidrio.",
           "is_correct": true,
           "feedback": "La dispersión es consecuencia de la dependencia del índice con la longitud de onda."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El vidrio absorbe selectivamente los colores.",
           "is_correct": false,
           "feedback": "La absorción no es la causa principal aquí."
@@ -175,7 +175,7 @@
           "feedback": "No hay fluorescencia implicada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La dispersión cromática se debe a que el índice de refracción del medio varía con la longitud de onda de la luz.",
       "difficulty": "4",
       "images": [],
@@ -295,13 +295,13 @@
           "feedback": "No corresponde a la fórmula correcta."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "1/f = 1/p + 1/q.",
           "is_correct": true,
           "feedback": "Ecuación de Gauss para lentes delgadas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "f = p·q.",
           "is_correct": false,
           "feedback": "Producto de distancias, no es la fórmula."
@@ -313,7 +313,7 @@
           "feedback": "No aplica a la óptica de lentes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La ecuación de lentes delgadas relaciona la distancia focal f con las distancias del objeto p y de la imagen q.",
       "difficulty": "6",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En un experimento en Manizales, se observa la reflexión total interna en un acuario de vidrio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Menor a uno mayor, superando el ángulo crítico.",
           "is_correct": false,
           "feedback": "Debe ir de un medio más denso ópticamente a uno menos denso."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Mayor a uno menor, superando el ángulo crítico.",
           "is_correct": true,
           "feedback": "La reflexión total interna ocurre cuando θ_i > θ_c."
@@ -405,7 +405,7 @@
           "feedback": "Es necesario superar el ángulo crítico."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La reflexión total interna ocurre al pasar luz de un medio con n mayor a uno con n menor, cuando se supera el ángulo crítico.",
       "difficulty": "6",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "En clase en Bogotá, se construye un microscopio casero con dos lentes convergentes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Real, invertida y aumentada, proyectada dentro del tubo.",
           "is_correct": true,
           "feedback": "La lente objetivo produce una imagen real e invertida."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Virtual, derecha y aumentada.",
           "is_correct": false,
           "feedback": "Esas características corresponden al ocular."
@@ -451,7 +451,7 @@
           "feedback": "Contradice la óptica básica del objetivo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El objetivo del microscopio genera una imagen real, invertida y mayor que el objeto, que luego es ampliada por el ocular.",
       "difficulty": "6",
       "images": [],
@@ -479,13 +479,13 @@
           "feedback": "Esa posición genera imagen real invertida mayor, pero el objeto no está entre foco y vértice."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Virtual, derecha y de mayor tamaño.",
           "is_correct": true,
           "feedback": "Cuando el objeto está entre foco y vértice, la imagen es virtual, derecha y agrandada (espejo de maquillaje)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Real, invertida y de igual tamaño.",
           "is_correct": false,
           "feedback": "La imagen de igual tamaño ocurre en el centro de curvatura."
@@ -497,7 +497,7 @@
           "feedback": "Siempre se forma imagen con un espejo esférico iluminado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "En un espejo cóncavo, un objeto entre el foco y el vértice genera una imagen virtual, derecha y ampliada, usada en espejos de aumento.",
       "difficulty": "8",
       "images": [],
@@ -525,13 +525,13 @@
           "feedback": "Las imágenes son virtuales, no reales."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Porque producen imágenes virtuales, derechas y de menor tamaño, abarcando un campo visual amplio.",
           "is_correct": true,
           "feedback": "El campo amplio aumenta la seguridad vial."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque eliminan la luz infrarroja.",
           "is_correct": false,
           "feedback": "No es una propiedad óptica relevante."
@@ -543,7 +543,7 @@
           "feedback": "Los espejos convexos no enfocan."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Los espejos convexos ofrecen un campo de visión más amplio aunque las imágenes aparezcan más pequeñas, lo que mejora la percepción del entorno.",
       "difficulty": "8",
       "images": [],
@@ -669,19 +669,19 @@
           "feedback": "La reflexión total es otro fenómeno."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "El ángulo de incidencia es igual al ángulo de emergencia.",
           "is_correct": true,
           "feedback": "En la desviación mínima, los ángulos de entrada y salida son simétricos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El prisma se sumerge en aceite.",
           "is_correct": false,
           "feedback": "No afecta la condición angular de mínimo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La desviación mínima se alcanza cuando el rayo atraviesa el prisma en forma simétrica, con ángulos iguales en las dos caras.",
       "difficulty": "8",
       "images": [],
@@ -709,25 +709,25 @@
           "feedback": "Eso corresponde a la miopía."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Curvatura irregular de la córnea o el cristalino, generando múltiples focos.",
           "is_correct": true,
           "feedback": "La córnea irregular produce imágenes distorsionadas en diferentes meridianos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Envejecimiento del cristalino.",
           "is_correct": false,
           "feedback": "Eso es la presbicia."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Daño en la retina periférica.",
           "is_correct": false,
           "feedback": "El problema es refractivo, no retiniano."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El astigmatismo se corrige con lentes tóricas que compensan la curvatura irregular del ojo.",
       "difficulty": "8",
       "images": [],
@@ -749,19 +749,19 @@
       "context": "En una clase avanzada en Medellín, se analiza la difracción de Fraunhofer por una rendija.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "a·sen θ = m·λ, con m = ±1, ±2, ±3,...",
           "is_correct": true,
           "feedback": "La condición de mínimos es a·sen θ = m·λ."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "a·sen θ = 0 únicamente.",
           "is_correct": false,
           "feedback": "Solo corresponde al máximo central."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "a·sen θ = λ/4.",
           "is_correct": false,
           "feedback": "No es la condición estándar."
@@ -773,7 +773,7 @@
           "feedback": "Es la condición de máximos principales en redes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La difracción por una rendija produce mínimos en ángulos donde la diferencia de camino entre los rayos extremos es múltiplo entero de λ.",
       "difficulty": "10",
       "images": [],
@@ -887,13 +887,13 @@
       "context": "En una discusión sobre tecnología en Cartagena, se evalúan ventajas de las fibras ópticas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Conduce electrones con menos resistencia.",
           "is_correct": false,
           "feedback": "La fibra óptica transporta fotones, no electrones."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Permite transmitir datos con baja atenuación y sin interferencia electromagnética.",
           "is_correct": true,
           "feedback": "La luz no se ve afectada por campos electromagnéticos externos."
@@ -911,7 +911,7 @@
           "feedback": "Transporta señales digitales de alta velocidad."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La fibra óptica utiliza pulsos de luz para transmitir información con alta velocidad, gran ancho de banda y mínima pérdida de señal.",
       "difficulty": "10",
       "images": [],

@@ -105,19 +105,19 @@
       "context": "En una construcción de Medellín se elabora un bloque cúbico de concreto cuya arista mide 3 m.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "27 m³",
           "is_correct": true,
           "feedback": "Es correcta porque 3 × 3 × 3 = 27 m³."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "9 m³",
           "is_correct": false,
           "feedback": "Error conceptual: multiplica solo dos aristas y olvida la tercera dimensión."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "18 m³",
           "is_correct": false,
           "feedback": "Error conceptual: suma las aristas en lugar de multiplicarlas."
@@ -129,7 +129,7 @@
           "feedback": "Error conceptual: multiplica el área de las caras por 6 sin calcular el volumen."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El volumen del cubo es arista al cubo. Para una arista de 3 m se calcula 3 × 3 × 3 = 27 m³. Siempre son tres factores iguales porque el cubo tiene tres dimensiones.",
       "difficulty": "6",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En una obra de Cali se llena un molde rectangular de 5 m de largo, 3 m de ancho y 2 m de alto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "30 m³",
           "is_correct": true,
           "feedback": "Es correcta porque 5 × 3 × 2 = 30 m³."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "10 m³",
           "is_correct": false,
           "feedback": "Error conceptual: suma las dimensiones en lugar de multiplicarlas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "15 m³",
           "is_correct": false,
           "feedback": "Error conceptual: multiplica solo largo por ancho y omite la altura."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "60 m³",
           "is_correct": false,
           "feedback": "Error conceptual: duplica el resultado sin justificación geométrica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El volumen de un prisma rectangular es largo por ancho por alto. Con 5 m, 3 m y 2 m se obtiene 30 m³, que representa el espacio que ocupa el molde.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En un acueducto veredal de Boyacá un tanque rectangular mide 2 m de largo, 1 m de ancho y 1 m de alto; se quiere conocer su capacidad en litros.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "2.000 litros",
           "is_correct": true,
           "feedback": "Es correcta porque el volumen es 2 m³ y cada metro cúbico equivale a 1.000 litros."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2 litros",
           "is_correct": false,
           "feedback": "Error conceptual: confunde los metros cúbicos con litros sin aplicar la equivalencia."
@@ -221,7 +221,7 @@
           "feedback": "Error conceptual: multiplica por 10.000 en vez de por 1.000 litros por metro cúbico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Primero se calcula el volumen: 2 × 1 × 1 = 2 m³. Como 1 m³ equivale a 1.000 litros, la capacidad es 2 × 1.000 = 2.000 litros. Convertir correctamente es clave para dimensionar tanques de acueducto.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En una bodega de Neiva se comparan dos contenedores: un cubo de 4 m de arista y un prisma de 5 m × 3 m × 4 m.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El cubo, porque su volumen es 64 m³ frente a 60 m³ del prisma",
           "is_correct": true,
           "feedback": "Es correcta porque 4 × 4 × 4 = 64 m³ y 5 × 3 × 4 = 60 m³."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El prisma, porque tiene tres medidas diferentes",
           "is_correct": false,
           "feedback": "Error conceptual: tener medidas distintas no garantiza mayor volumen."
@@ -267,7 +267,7 @@
           "feedback": "Error conceptual: una base mayor no asegura mayor volumen si la altura y el cálculo difieren."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Se calcula cada volumen por separado: cubo 4 × 4 × 4 = 64 m³ y prisma 5 × 3 × 4 = 60 m³. Comparar los resultados muestra que el cubo tiene mayor volumen aunque el prisma tenga medidas más variadas.",
       "difficulty": "8",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En una obra de Manizales un tanque rectangular tiene volumen de 60 m³; su base mide 5 m de largo por 4 m de ancho.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "3 m",
           "is_correct": true,
           "feedback": "Es correcta porque el área de la base es 20 m² y 60 ÷ 20 = 3 m."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "4 m",
           "is_correct": false,
           "feedback": "Error conceptual: repite el ancho de la base sin despejar la altura."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "12 m",
           "is_correct": false,
           "feedback": "Error conceptual: divide el volumen entre el largo únicamente y omite el ancho."
@@ -313,7 +313,7 @@
           "feedback": "Error conceptual: resta el área de la base al volumen en vez de dividir."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Como el volumen es largo por ancho por alto, para hallar la altura se divide el volumen entre el área de la base. La base mide 5 × 4 = 20 m² y 60 ÷ 20 = 3 m.",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En una construcción de Cartagena un estudiante calcula el volumen de un prisma de 6 m × 2 m × 3 m sumando las tres medidas y obtiene 11 m³.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Sumó las dimensiones en lugar de multiplicarlas; el volumen correcto es 36 m³",
           "is_correct": true,
           "feedback": "Es correcta porque el volumen es 6 × 2 × 3 = 36 m³, no la suma 6 + 2 + 3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Multiplicó mal y el volumen correcto es 11 m³",
           "is_correct": false,
           "feedback": "Error conceptual: 11 m³ es el resultado de sumar, no el volumen real."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Dividió el volumen entre la altura y obtuvo un valor menor",
           "is_correct": false,
           "feedback": "Error conceptual: el estudiante no dividió; sumó las tres dimensiones."
@@ -359,7 +359,7 @@
           "feedback": "Error conceptual: sumar dimensiones da una longitud total, nunca un volumen."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El volumen requiere multiplicar las tres dimensiones: 6 × 2 × 3 = 36 m³. Sumar las medidas (6 + 2 + 3 = 11) solo da una longitud, por lo que el procedimiento del estudiante es incorrecto.",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En una obra de Bogotá un maestro afirma: \"Si se duplica la arista de un cubo, su volumen también se duplica\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "No, porque al duplicar la arista el volumen se multiplica por 8",
           "is_correct": true,
           "feedback": "Es correcta porque el volumen crece con el cubo del factor: 2 × 2 × 2 = 8."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sí, porque el volumen siempre se duplica con la arista",
           "is_correct": false,
           "feedback": "Error conceptual: el volumen depende del cubo de la arista, no de forma proporcional directa."
@@ -405,7 +405,7 @@
           "feedback": "Error conceptual: si la arista cambia, el volumen necesariamente cambia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Si la arista pasa de a a 2a, el volumen pasa de a³ a (2a)³ = 8a³. El factor crece al cubo, es decir por 8, y no por 2. Esto explica por qué pequeños aumentos de dimensión generan grandes aumentos de volumen.",
       "difficulty": "10",
       "images": [],

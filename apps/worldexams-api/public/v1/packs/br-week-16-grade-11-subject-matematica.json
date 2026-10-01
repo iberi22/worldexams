@@ -64,13 +64,13 @@
           "feedback": "Incorreto: o cone é gerado pela rotação de um triângulo retângulo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Cilindro",
           "is_correct": true,
           "feedback": "Correto: a rotação de um retângulo em torno de um lado gera um cilindro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Esfera",
           "is_correct": false,
           "feedback": "Incorreto: a esfera é gerada pela rotação de um semicírculo."
@@ -82,7 +82,7 @@
           "feedback": "Incorreto: a pirâmide não é um sólido de revolução."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Sólidos de revolução são obtidos pela rotação de uma figura plana em torno de um eixo. O retângulo girando em torno de um lado gera um cilindro.",
       "difficulty": "4",
       "images": [],
@@ -109,25 +109,25 @@
           "feedback": "Incorreto: 36 seria 4πr com π = 3."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "108 cm²",
           "is_correct": true,
           "feedback": "Correto: A = 4πr² = 4 × 3 × 9 = 108 cm²."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "72 cm²",
           "is_correct": false,
           "feedback": "Incorreto: 72 seria o volume da esfera com π = 3."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "54 cm²",
           "is_correct": false,
           "feedback": "Incorreto: 54 seria a metade da área correta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "A área da superfície esférica é A = 4πr² = 4 × 3 × 3² = 108 cm².",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorreto: 2 é a diferença entre o raio e a distância."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "4 cm",
           "is_correct": true,
           "feedback": "Correto: r_seção = √(5² − 3²) = √16 = 4 cm."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "√34 cm",
           "is_correct": false,
           "feedback": "Incorreto: √34 seria √(5² + 3²)."
@@ -217,7 +217,7 @@
           "feedback": "Incorreto: 5 é o raio da esfera, não da seção."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Pelo teorema de Pitágoras na seção meridiana, o raio da seção é r = √(R² − d²) = √(25 − 9) = √16 = 4 cm.",
       "difficulty": "6",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorreto: 108 é o volume da esfera inteira."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "54 cm³",
           "is_correct": true,
           "feedback": "Correto: V_semiesfera = (1/2) × (4/3)πr³ = (2/3) × 3 × 27 = 54 cm³."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "27 cm³",
           "is_correct": false,
           "feedback": "Incorreto: 27 é o cubo do raio."
@@ -262,7 +262,7 @@
           "feedback": "Incorreto: 36 seria o volume de uma esfera de raio 2."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "O volume de uma semiesfera é metade do volume da esfera: (2/3)πr³ = (2/3) × 3 × 27 = 54 cm³.",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "Um professor em Manaus pede o volume de uma esfera a partir do diâmetro.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "288 cm³",
           "is_correct": false,
           "feedback": "Incorreto: 288 seria o volume se o raio fosse 6 cm."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "108 cm³",
           "is_correct": true,
           "feedback": "Correto: r = 3 cm, V = (4/3) × 3 × 27 = 108 cm³."
@@ -352,7 +352,7 @@
           "feedback": "Incorreto: 216 seria o volume de um cubo de aresta 6."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Com diâmetro 6 cm, o raio é 3 cm. O volume é V = (4/3)πr³ = (4/3) × 3 × 27 = 108 cm³.",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Um estudante em Goiânia identifica o sólido gerado pela rotação de um triângulo retângulo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Cilindro",
           "is_correct": false,
           "feedback": "Incorreto: o cilindro é gerado por um retângulo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Cone",
           "is_correct": true,
           "feedback": "Correto: a rotação de um triângulo retângulo em torno de um cateto gera um cone reto."
@@ -397,7 +397,7 @@
           "feedback": "Incorreto: o tronco de cone é gerado pela rotação de um trapézio retângulo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Ao girar um triângulo retângulo em torno de um cateto, o outro cateto descreve a base circular e a hipotenusa descreve a superfície lateral do cone.",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Um arquiteto em Florianópolis calcula o volume de um reservatório esférico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "13.500 L",
           "is_correct": true,
           "feedback": "Correto: V = (4/3) × 3 × 3,375 = 13,5 m³ = 13.500 L."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "4.500 L",
           "is_correct": false,
           "feedback": "Incorreto: 4.500 L seria o volume de uma esfera de raio 1 m."
@@ -487,7 +487,7 @@
           "feedback": "Incorreto: 6.750 L seria o volume de uma semiesfera de raio 1,5 m."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "O volume é V = (4/3)πr³ = (4/3) × 3 × 3,375 = 13,5 m³, ou seja, 13.500 litros.",
       "difficulty": "8",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Incorreto: com r = 2, o volume seria 32π/3 cm³."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "3 cm",
           "is_correct": true,
           "feedback": "Correto: (4/3)πr³ = 36π, logo r³ = 27 e r = 3 cm."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "4 cm",
           "is_correct": false,
           "feedback": "Incorreto: com r = 4, o volume seria 256π/3 cm³."
@@ -532,7 +532,7 @@
           "feedback": "Incorreto: com r = 6, o volume seria 288π cm³."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Igualando (4/3)πr³ = 36π e cancelando π: (4/3)r³ = 36, logo r³ = 27 e r = 3 cm.",
       "difficulty": "8",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Incorreto: 2 é a razão entre os raios."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "4",
           "is_correct": false,
           "feedback": "Incorreto: 4 é a razão entre as áreas das superfícies."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "8",
           "is_correct": true,
           "feedback": "Correto: o volume cresce com o cubo do raio: 2³ = 8."
@@ -577,7 +577,7 @@
           "feedback": "Incorreto: 16 seria 2⁴."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "O volume da esfera é proporcional ao cubo do raio. Com o raio dobrado, o volume fica 2³ = 8 vezes maior.",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorreto: 2 seria a razão se a área fosse 2πr²."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "4",
           "is_correct": true,
           "feedback": "Correto: A_esfera/A_círculo = 4πr²/πr² = 4."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "4/3",
           "is_correct": false,
           "feedback": "Incorreto: 4/3 aparece na fórmula do volume, não aqui."
@@ -622,7 +622,7 @@
           "feedback": "Incorreto: 8 seria a razão entre os volumes de esferas com raio dobrado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "A área da superfície esférica é 4πr² e a área do círculo máximo é πr². A razão é 4πr²/πr² = 4.",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Um professor em São José dos Campos analisa o sólido gerado pela rotação de um semicírculo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Cilindro",
           "is_correct": false,
           "feedback": "Incorreto: o cilindro é gerado por um retângulo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Esfera",
           "is_correct": true,
           "feedback": "Correto: a rotação de um semicírculo em torno do diâmetro gera uma esfera."
@@ -667,7 +667,7 @@
           "feedback": "Incorreto: o tronco de cone é gerado por um trapézio retângulo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "O semicírculo, ao girar em torno de seu diâmetro, descreve a superfície esférica e preenche o interior, formando uma esfera completa.",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Um arquiteto em Vitória calcula o material necessário para um globo decorativo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "12 cm",
           "is_correct": false,
           "feedback": "Incorreto: 12 é o valor de r²."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "6 cm",
           "is_correct": true,
           "feedback": "Correto: 4πr² = 144π, logo r² = 36 e r = 6 cm."
@@ -712,7 +712,7 @@
           "feedback": "Incorreto: com r = 4, a área seria 64π cm²."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Igualando 4πr² = 144π, obtemos r² = 36, logo r = 6 cm.",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Incorreto: π/2 não corresponde à razão entre os volumes."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "1/2",
           "is_correct": true,
           "feedback": "Correto: V_esfera = 108 cm³ e V_cubo = 216 cm³, logo a razão é 1/2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1/3",
           "is_correct": false,
           "feedback": "Incorreto: 1/3 seria a razão entre o volume do cone e do cilindro."
@@ -757,7 +757,7 @@
           "feedback": "Incorreto: 2/3 não corresponde à razão pedida."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "A esfera inscrita tem raio 3 cm. V_esfera = (4/3)π × 27 = 108 cm³ (com π = 3) e V_cubo = 216 cm³. A razão é 108/216 = 1/2.",
       "difficulty": "10",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Um engenheiro em Belo Horizonte analisa o sólido gerado pela rotação de um quadrado em torno de uma diagonal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "4√2 cm³",
           "is_correct": true,
           "feedback": "Correto: o sólido são dois cones de raio √2 e altura √2; volume = 2 × (1/3)π(√2)²(√2) = 4√2 cm³."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "8 cm³",
           "is_correct": false,
           "feedback": "Incorreto: 8 seria o resultado se o sólido fosse um cubo de aresta 2."
@@ -802,7 +802,7 @@
           "feedback": "Incorreto: 16 não corresponde ao volume dos dois cones."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "A diagonal do quadrado mede 2√2 cm. A rotação gera dois cones justapostos, cada um com raio √2 cm e altura √2 cm. O volume total é 2 × (1/3)π(√2)²(√2) = (2/3) × 3 × 2√2 = 4√2 ≈ 5,66 cm³.",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Em uma olimpíada de matemática, pede-se a análise de uma esfera que tangencia as faces de um cubo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "16 cm²",
           "is_correct": false,
           "feedback": "Incorreto: 16 é a área de uma face do cubo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "48 cm²",
           "is_correct": true,
           "feedback": "Correto: r = 2 cm, A = 4πr² = 4 × 3 × 4 = 48 cm²."
@@ -847,7 +847,7 @@
           "feedback": "Incorreto: 24 seria a área de um círculo de raio 2 multiplicada por 2."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "A esfera inscrita no cubo tem raio igual à metade da aresta: r = 2 cm. A área é A = 4πr² = 4 × 3 × 4 = 48 cm².",
       "difficulty": "10",
       "images": [],
@@ -874,13 +874,13 @@
           "feedback": "Incorreto: o volume não varia linearmente com o raio."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "É reduzido a um quarto",
           "is_correct": false,
           "feedback": "Incorreto: 1/4 é o efeito sobre a área da superfície."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "É reduzido a um oitavo",
           "is_correct": true,
           "feedback": "Correto: o volume é proporcional ao cubo do raio: (1/2)³ = 1/8."
@@ -892,7 +892,7 @@
           "feedback": "Incorreto: o volume depende do raio."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Como V ∝ r³, reduzir o raio à metade multiplica o volume por (1/2)³ = 1/8.",
       "difficulty": "10",
       "images": [],

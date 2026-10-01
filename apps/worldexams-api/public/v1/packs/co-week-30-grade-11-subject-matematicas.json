@@ -13,31 +13,31 @@
       "context": "Durante una sesión de repaso en Bogotá, Juan evalúa el área bajo la curva de $f(x) = x^3$ en $[0, 2]$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "4",
           "is_correct": true,
           "feedback": "Correcto. $\\int_0^2 x^3 dx = [\\frac{x^4}{4}]_0^2 = \\frac{16}{4} = 4$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "8",
           "is_correct": false,
           "feedback": "Incorrecto. Se olvidó dividir entre 4 al antiderivar $x^3$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "16",
           "is_correct": false,
           "feedback": "Incorrecto. Se evaluó $2^4 = 16$ sin integrar."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. Error al simplificar la fracción."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "$\\int_0^2 x^3 dx = \\left[ \\frac{x^4}{4} \\right]_0^2 = \\frac{16}{4} = 4$.",
       "difficulty": "4",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En Barranquilla, Camila verifica la ecuación del círculo con centro en el origen y radio $r = 6$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x^2 + y^2 = 36$",
           "is_correct": true,
           "feedback": "Correcto. $x^2 + y^2 = 6^2 = 36$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x^2 + y^2 = 6$",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió elevar el radio al cuadrado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x^2 + y^2 = 12$",
           "is_correct": false,
           "feedback": "Incorrecto. Se multiplicó por 2 en lugar de elevar al cuadrado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(x-6)^2 + y^2 = 36$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a un centro desplazado en $(6,0)$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "$x^2 + y^2 = R^2 = 36$.",
       "difficulty": "4",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En Cartagena, Santiago halla el área entre las curvas $y = x$ y $y = x^2$ en el intervalo $[0, 1]$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\frac{1}{6}$",
           "is_correct": true,
           "feedback": "Correcto. $\\int_0^1 (x - x^2) dx = [\\frac{x^2}{2} - \\frac{x^3}{3}]_0^1 = \\frac{1}{2} - \\frac{1}{3} = \\frac{1}{6}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{1}{3}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error al restar fracciones."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Se sumaron las integrales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "$\\int_0^1 (x - x^2) dx = \\frac{1}{2} - \\frac{1}{3} = \\frac{1}{6}$.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "En Bucaramanga, Sofia revisa la traslación del punto $P(3, -1)$ según el vector $\\vec{{v}} = (-2, 4)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$(1, 3)$",
           "is_correct": true,
           "feedback": "Correcto. $(3+(-2), -1+4) = (1, 3)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(-6, -4)$",
           "is_correct": false,
           "feedback": "Incorrecto. Se multiplicaron las coordenadas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(5, -5)$",
           "is_correct": false,
           "feedback": "Incorrecto. Se restó el vector."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(1, -3)$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signo en la ordenada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "$P' = (3-2, -1+4) = (1, 3)$.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En Manizales, Alejandro evalúa el límite de la sucesión $a_n = \\frac{{6n + 1}}{{2n - 3}}$ cuando $n \\to \\infty$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "3",
           "is_correct": true,
           "feedback": "Correcto. Razón de coeficientes de mayor grado: $\\frac{6}{2} = 3$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "6",
           "is_correct": false,
           "feedback": "Incorrecto. Se tomó solo el numerador."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. El límite es un valor real finito."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "\\lim \\frac{6n+1}{2n-3} = \\frac{6}{2} = 3.",
       "difficulty": "6",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En Pereira, Daniela convierte el punto cartesiano $(0, 4)$ a coordenadas polares $(r, \\theta)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$(4, \\frac{\\pi}{2})$",
           "is_correct": true,
           "feedback": "Correcto. $r = 4$, punto sobre el eje $+y$ $\\implies \\theta = \\frac{\\pi}{2}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(4, 0)$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde al punto $(4,0)$ sobre el eje $+x$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(4, \\pi)$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde al punto $(-4,0)$ sobre el eje $-x$."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Radio incorrecto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Distancia al origen $r=4$. Ángulo en el eje $y$ positivo es $90^\\circ = \\frac{\\pi}{2}$.",
       "difficulty": "6",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "En Ibagué, Mariana halla los focos de la elipse $\\frac{{x^2}}{{25}} + \\frac{{y^2}}{{16}} = 1$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$(\\pm 3, 0)$",
           "is_correct": true,
           "feedback": "Correcto. $c = \\sqrt{25 - 16} = \\sqrt{9} = 3$. Focos en $(\\pm 3, 0)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(0, \\pm 3)$",
           "is_correct": false,
           "feedback": "Incorrecto. La elipse es horizontal, los focos están en el eje $x$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(\\pm 9, 0)$",
           "is_correct": false,
           "feedback": "Incorrecto. Se olvidó sacar la raíz cuadrada a $c^2 = 9$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(\\pm 5, 0)$",
           "is_correct": false,
           "feedback": "Incorrecto. Esos son los vértices mayores."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "$c^2 = a^2 - b^2 = 25 - 16 = 9 \\implies c = 3$. Focos en $(\\pm 3, 0)$.",
       "difficulty": "6",
       "images": [],
@@ -565,31 +565,31 @@
       "context": "En Villavicencio, Andres rota la recta $y = 3x$ sobre el eje $y$ para $y \\in [0, 3]$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "\\pi",
           "is_correct": true,
           "feedback": "Correcto. $V = \\pi \\int_0^3 (y/3)^2 dy = \\frac{\\pi}{9} [\\frac{y^3}{3}]_0^3 = \\frac{\\pi}{9} (9) = \\pi$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3\\pi",
           "is_correct": false,
           "feedback": "Incorrecto. Se olvidó elevar 3 al cuadrado en el denominador."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "9\\pi",
           "is_correct": false,
           "feedback": "Incorrecto. Se rotó sobre el eje $x$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "\\frac{\\pi}{3}",
           "is_correct": false,
           "feedback": "Incorrecto. Error al simplificar la fracción."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "$V = \\pi \\int_0^3 \\frac{y^2}{9} dy = \\frac{\\pi}{9} \\left( \\frac{27}{3} \\right) = \\pi$.",
       "difficulty": "8",
       "images": [],
@@ -611,31 +611,31 @@
       "context": "En Armenia, Isabella comprueba si la serie alternada $\\sum_{{n=1}}^\\infty \\frac{{(-1)^{{n+1}}}}{{n^2}}$ converge absolutamente.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Converge absolutamente.",
           "is_correct": true,
           "feedback": "Correcto. La serie de valores absolutos es $\\sum \\frac{1}{n^2}$, una $p$-serie con $p=2 > 1$, la cual converge."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Converge condicionalmente.",
           "is_correct": false,
           "feedback": "Incorrecto. Para ser condicional la serie de valores absolutos debería diverger."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Diverge.",
           "is_correct": false,
           "feedback": "Incorrecto. Es absolutamente convergente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El criterio de $p$-series no aplica.",
           "is_correct": false,
           "feedback": "Incorrecto. Aplica directamente a los valores absolutos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "\\sum |a_n| = \\sum \\frac{1}{n^2} < \\infty \\implies$ convergencia absoluta.",
       "difficulty": "8",
       "images": [],
@@ -657,31 +657,31 @@
       "context": "En Neiva, Felipe revisa el volumen de una esfera mediante la rotación de $y = \\sqrt{{4 - x^2}}$ en $[-2, 2]$ sobre el eje $x$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\frac{32}{3}\\pi$",
           "is_correct": true,
           "feedback": "Correcto. $V = \\frac{4}{3}\\pi (2^3) = \\frac{32}{3}\\pi$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$16\\pi$",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió el factor $4/3$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{16}{3}\\pi$",
           "is_correct": false,
           "feedback": "Incorrecto. Se integró solo en el semieje positivo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$32\\pi$",
           "is_correct": false,
           "feedback": "Incorrecto. Se multiplicó por 4 de más."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Fórmula esférica $V = \\frac{4}{3}\\pi r^3 = \\frac{32}{3}\\pi$.",
       "difficulty": "8",
       "images": [],
@@ -703,31 +703,31 @@
       "context": "En Popayán, Lucia evalúa el ángulo entre las rectas $y = x$ y $y = 0$ (eje $x$).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$45^\\circ$",
           "is_correct": true,
           "feedback": "Correcto. $\\tan(\\theta) = 1 \\implies \\theta = 45^\\circ$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$90^\\circ$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a una recta vertical."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$30^\\circ$",
           "is_correct": false,
           "feedback": "Incorrecto. $\\tan(30^\\circ) = 1/\\sqrt{3}$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$60^\\circ$",
           "is_correct": false,
           "feedback": "Incorrecto. $\\tan(60^\\circ) = \\sqrt{3}$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Pendiente $m=1 \\implies \\theta = \\arctan(1) = 45^\\circ$.",
       "difficulty": "8",
       "images": [],
@@ -841,31 +841,31 @@
       "context": "En Riohacha, Samuel analiza la excentricidad de la parábola $y^2 = 4x$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "1",
           "is_correct": true,
           "feedback": "Correcto. Por definición geométrica, toda parábola tiene excentricidad $e = 1$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "0",
           "is_correct": false,
           "feedback": "Incorrecto. 0 es la excentricidad de una circunferencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0.5",
           "is_correct": false,
           "feedback": "Incorrecto. $e < 1$ corresponde a una elipse."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. $e > 1$ corresponde a una hipérbola."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La excentricidad $e$ de toda parábola es por definición igual a 1.",
       "difficulty": "10",
       "images": [],
@@ -887,13 +887,13 @@
       "context": "En Florencia, Andrea reflexiona sobre el Teorema Fundamental del Cálculo para evaluar $\\int_a^b f(x) dx = F(b) - F(a)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que $f(x)$ sea continua en el intervalo cerrado $[a, b]$.",
           "is_correct": true,
           "feedback": "Correcto. La continuidad de $f$ garantiza la existencia de la antiderivada $F$ y la validez del teorema."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que $f(x)$ sea siempre positiva en $[a, b]$.",
           "is_correct": false,
           "feedback": "Incorrecto. Puede tomar valores negativos (el área neta considera signos)."
@@ -911,7 +911,7 @@
           "feedback": "Incorrecto. $a$ y $b$ pueden ser cualesquiera números reales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El Teorema Fundamental del Cálculo exige la continuidad de $f(x)$ en $[a,b]$ para asegurar que $F'(x) = f(x)$ exista.",
       "difficulty": "10",
       "images": [],

@@ -13,31 +13,31 @@
       "context": "En una clase de biología del colegio Distrital República de Panamá, en Bogotá, la profesora explica los órganos que producen los gametos humanos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Los testículos en el hombre y los ovarios en la mujer.",
           "is_correct": true,
           "feedback": "Correcto. Los testículos producen espermatozoides y los ovarios producen óvulos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El epididimo en el hombre y la uretra en la mujer.",
           "is_correct": false,
           "feedback": "Incorrecto. El epididimo madura espermatozoides pero no es gonada; la uretra no produce gametos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La próstata en el hombre y el útero en la mujer.",
           "is_correct": false,
           "feedback": "Incorrecto. La próstata secreta líquido seminal y el útero aloja al embrión, no producen gametos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El pene en el hombre y la vagina en la mujer.",
           "is_correct": false,
           "feedback": "Incorrecto. Estas son vías de paso de los gametos, no glándulas productoras."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Las gónadas humanas son los testículos (glándulas sexuales masculinas que fabrican espermatozoides y testosterona) y los ovarios (glándulas sexuales femeninas que producen óvulos, estrógenos y progesterona). Cualquier otra estructura mencionada solo participa en el transporte, maduración o sosten del embarazo.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En el Laboratorio de Biología de la Institucion Educativa Leon de Greiff, en Medellín, se observan al microscopio muestras de gametos humanos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El espermatozoide es una célula pequeña y móvil con flagelo; el óvulo es una célula grande, inmóvil y rica en reservas.",
           "is_correct": true,
           "feedback": "Correcto. Tamano, movilidad y reservas nutritivas son rasgos diferenciales clave."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El espermatozoide se produce en el útero y el óvulo en los pulmones.",
           "is_correct": false,
           "feedback": "Incorrecto. Los espermatozoides se producen en los testículos y los óvulos en los ovarios."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambos gametos tienen el mismo tamano y la misma movilidad.",
           "is_correct": false,
           "feedback": "Incorrecto. Poseen características morfologicas y funcionales muy distintas."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Es al reves: el espermatozoide es quien tiene flagelo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El espermatozoide mide cerca de 50 micrometros, posee cabeza, pieza intermedia y cola flagelada que le da movilidad. El óvulo es una de las células más grandes del cuerpo, mide unos 100 micrometros y contiene citoplasma abundante con vitelo que nutre al embrión en sus primeras divisiones.",
       "difficulty": "4",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En una feria de salud juvenil realizada por la Secretaría de Salud de Bucaramanga, se explican distintos métodos anticonceptivos a estudiantes de colegios públicos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El condón masculino de látex.",
           "is_correct": true,
           "feedback": "Correcto. El condón es una barrera mecánica que retiene los espermatozoides."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El dispositivo intrauterino liberador de cobre.",
           "is_correct": false,
           "feedback": "Incorrecto. El DIU es un método intrauterino que altera la fecundacion, no es barrera física."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. La pídora combina estrógenos y progestagenos de forma hormonal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los métodos de barrera incluyen el condón masculino, el condón femenino, el diafragma y el capuchón cervical. Los métodos hormonales (pídora, inyectable, implante) actúan suprimiendo la ovulación. Los intrauterinos (DIU) generan un ambiente hostil en el endometrio. Cada familia tiene mecanismo, eficacia y cuidados propios.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "En una charla del programa \"Salud al Colegio\" en Barranquilla, se habla a los estudiantes de noveno grado sobre infecciones de transmisión sexual.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El uso correcto y consistente del condón desde el inicio del contacto sexual.",
           "is_correct": true,
           "feedback": "Correcto. El condón, bien usado, reduce significativamente el riesgo de ITS."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Realizar un lavado vaginal profundo después de cada relación.",
           "is_correct": false,
           "feedback": "Incorrecto. Las duchas vaginales no previenen ITS y pueden alterar la flora."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Tomar antibióticos de forma preventiva después de cada relación.",
           "is_correct": false,
           "feedback": "Incorrecto. El uso indiscriminado de antibióticos no previene ITS y genera resistencia."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Usar anticonceptivos hormonales orales como método único de protección.",
           "is_correct": false,
           "feedback": "Incorrecto. Los hormonales no protegen frente a virus ni bacterias de transmisión sexual."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Los métodos hormonales previenen embarazos pero no infecciones. El condón de látex, usado de principio a fin, es la principal barrera contra el VIH, hepatitis B, clamidia, gonorrea y otras ITS. La combinación de condón con método hormonal se llama doble protección y es la recomendación de salud pública.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En una jornada de \"Generación F\" en el SENA de Medellín, se discute la tasa de embarazo adolescente reportada por el DANE en Colombia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Aumenta la deserción escolar, perpetua la pobreza y eleva el riesgo de complicaciones obstetricas.",
           "is_correct": true,
           "feedback": "Correcto. El embarazo temprano vulnera derechos y tiene riesgos médicos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Incrementa el ingreso economico promedio de los hogares colombianos.",
           "is_correct": false,
           "feedback": "Incorrecto. El embarazo adolescente suele asociarse a menor ingreso, no a mayor."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Aumenta la urgencia de fortalecer la educación sexual integral."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Colombia reportaba alrededor de 100.000 embarazos anuales en menores de 19 años. El fenómeno se asocia con deserción escolar, mayor mortalidad materna, complicaciones obstetricas y reproduccion intergeneracional de la pobreza. Por ello el Plan Nacional de Desarrollo incluye la prevención del embarazo adolescente como meta prioritaria.",
       "difficulty": "6",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En un taller de ciencia en el Colegio San Juan Eudes de Palmira, se muestra una gráfica con la concentracion plasmatica de hormonas durante un ciclo menstrual.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La inducción de la ovulación por el pico estrogenico y la descarga de LH.",
           "is_correct": true,
           "feedback": "Correcto. El estradiol elevado dispara la descarga de LH que rompe el folículo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una falla hipofisaria que impide la fecundacion.",
           "is_correct": false,
           "feedback": "Incorrecto. El patrón es el esperado, no representa falla hipofisaria."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. En la menopausia hay ausencia de picos, no picos coordinados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El estradiol producido por el folículo de Graaf en maduración estimula la hipófisis para liberar una descarga de LH. Esa descarga desencadena la ruptura del folículo y la liberacion del óvulo unas 24 a 36 horas después. La progesterona, producida luego por el cuerpo luteo, prepara el endometrio.",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En un consultorio de la IPS Sura de Pereira, una adolescente de 16 años consulta por elección de método anticonceptivo y se le presentan opciones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El dispositivo intrauterino de cobre (DIU TCu380A).",
           "is_correct": true,
           "feedback": "Correcto. El DIU de cobre dura hasta 10 años, es reversible y no usa hormonas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El implante subdermico de etonogestrel.",
           "is_correct": false,
           "feedback": "Incorrecto. Es de larga duración pero si libera hormona sistémica."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Es hormonal sistémica de aplicacion trimestral."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El DIU TCu380A es un método no hormonal que actúa generando una reacción espermicida local por la presencia del cobre. Tiene una eficacia superior al 99 por ciento, duración de hasta 10 años y recuperacion inmediata de la fertilidad al retirarlo. Es recomendado por la OMS como método de primera linea en adolescentes.",
       "difficulty": "8",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "En la Comisaria Tercera de Familia de Cali se analiza un caso de embarazo no deseado en una adolescente de 14 años del barrio Mojica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Ausencia de educación sexual integral, desconocimiento de métodos y presión de pareja.",
           "is_correct": true,
           "feedback": "Correcto. Son factores determinantes estructural y conductualmente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Consumo excesivo de frutas citricas y clima calido del Valle del Cauca.",
           "is_correct": false,
           "feedback": "Incorrecto. La dieta y el clima no causan embarazos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Predisposición genética a la hiperovulación múltiple.",
           "is_correct": false,
           "feedback": "Incorrecto. La hiperovulación múltiple es rara y no explica el fenómeno."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. La vitamina D no tiene relación causal con el embarazo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La interseccion de inicio sexual temprano, falta de información veraz, baja percepcion de riesgo, escasos recursos para acceder a métodos y normas sociales de género que presionan a las mujeres son los principales determinantes del embarazo adolescente. Por eso la respuesta es estructural y educativa, no biológica ni climatica.",
       "difficulty": "8",
       "images": [],
@@ -473,19 +473,19 @@
       "context": "La Secretaría de Educacion de Manizales evalúa la campaña municipal de prevención del embarazo adolescente con el lema \"Decidir es poder\" implementada en colegios públicos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Comparar la tasa de embarazos en adolescentes antes y después de la campaña, controlando por cohorte.",
           "is_correct": true,
           "feedback": "Correcto. El indicador epidemiológico clave es la tasa específica de fecundidad adolescente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Contar el número de carteleras instaladas en los colegios públicos.",
           "is_correct": false,
           "feedback": "Incorrecto. La cantidad de piezas gráficas no mide el impacto real."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Medir el color de las paredes donde se pegaron los afiches.",
           "is_correct": false,
           "feedback": "Incorrecto. La estética no evalúa la eficacia de la intervención."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. La percepcion docente no es un indicador de impacto en salud."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La evaluación de una intervención de salud pública requiere indicadores comparables: tasas de fecundidad adolescente por cada 1.000 mujeres de 15 a 19 años, antes y después de la campaña, idealmente con grupo control o análisis de tendencia interrumpida. Sin medir resultados en conducta y desenlace biológico, no se puede afirmar eficacia.",
       "difficulty": "10",
       "images": [],
@@ -519,31 +519,31 @@
       "context": "Un grupo de docentes de Neiva discute la política nacional de educación sexual integral y debe priorizar la estrategia con mayor evidencia de impacto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Programas escolares de educación sexual integral basada en evidencia, con perspectiva de derechos y género.",
           "is_correct": true,
           "feedback": "Correcto. La evidencia internacional respalda esta estrategia integral y sostenida."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Campanas de television con frases impactantes en horario prime.",
           "is_correct": false,
           "feedback": "Incorrecto. Las piezas de television aisladas tienen impacto limitado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Distribucion gratuita de dulces en las puertas de los colegios.",
           "is_correct": false,
           "feedback": "Incorrecto. La alimentacion no es una intervención de salud sexual."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Castigo público a las adolescentes embarazadas en redes sociales.",
           "is_correct": false,
           "feedback": "Incorrecto. La estigmatizacion vulnera derechos y no reduce el problema."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La OMS recomienda programas escolares de educación sexual integral, con contenidos científicos, perspectiva de género, habilidades para la vida y acceso a servicios amigables de salud. Estos programas, cuando son sostenidos, reducen tanto embarazos no deseados como ITS, mientras que las intervenciones punitivas o aisladas no tienen impacto.",
       "difficulty": "10",
       "images": [],

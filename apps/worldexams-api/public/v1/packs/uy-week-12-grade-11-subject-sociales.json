@@ -109,13 +109,13 @@
           "feedback": "Incorrecto. La descentralización distribuye funciones fuera de la capital; la concentración es su opuesto."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Macrocefalia urbana (o primacía urbana).",
           "is_correct": true,
           "feedback": "Correcto. La macrocefalia urbana hipertrofia la capital respecto al resto del sistema de ciudades del interior."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ruralización espontánea de los servicios públicos.",
           "is_correct": false,
           "feedback": "Incorrecto. Implica hiperurbanización concentrada en la capital, no dispersión rural."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. La distribución espacial uruguaya es profundamente asimétrica en favor del sur."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La macrocefalia urbana hipertrofia a Montevideo frente al resto del territorio, generando desequilibrios en el sistema de ciudades nacional.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "En los últimos años, Uruguay registra la llegada de importantes corrientes migratorias de países latinoamericanos como Venezuela, Cuba y República Dominicana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Acelera el despoblamiento inmediato de las ciudades costeras.",
           "is_correct": false,
           "feedback": "Incorrecto. La inmigración aporta población a las ciudades receptoras."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Aporta mano de obra en edad activa y contribuye a ralentizar el envejecimiento poblacional.",
           "is_correct": true,
           "feedback": "Correcto. Los inmigrantes predominantemente jóvenes en edad de trabajar rejuvenecen la fuerza laboral y aportan al consumo e impuestos."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Al contraer familias jóvenes, la inmigración puede estabilizar los nacimientos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La inmigración internacional reciente de adultos jóvenes oxigena la fuerza de trabajo y aporta dinamismo demográfico en un país envejecido.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,25 +199,25 @@
           "feedback": "Incorrecto. Un descenso de la fecundidad reduce el número de niños en edad escolar."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La reducción absoluta de la población nativa y el achicamiento de las futuras cohortes en edad de trabajar.",
           "is_correct": true,
           "feedback": "Correcto. Al no alcanzar el promedio de 2,1 hijos por mujer, cada nueva generación es numéricamente menor que la anterior, reduciendo la población total."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La duplicación de la tasa de natalidad cada cinco años.",
           "is_correct": false,
           "feedback": "Incorrecto. Mantener TGF por debajo de 2,1 disminuye el volumen de nacimientos futuros."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La erradicación automática de todas las enfermedades crónicas en adultos mayores.",
           "is_correct": false,
           "feedback": "Incorrecto. La fecundidad no altera la prevalencia epidemiológica individual de enfermedades."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Una Tasa Global de Fecundidad por debajo de 2,1 desploma el relevo generacional, conduciendo al envejecimiento avanzado y eventual decrecimiento poblacional.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorrecto. Es el perfil de países jóvenes en fases iniciales de transición demográfica."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Pirámide en forma de 'urna' o bulbo (estacionaria/constrictiva), con base estrecha por baja natalidad y centro-cúspide ensanchados.",
           "is_correct": true,
           "feedback": "Correcto. La forma de urna con base angosta visibiliza la baja fecundidad y el envejecimiento de la estructura por edades."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Pirámide triangular perfecta con igual número de personas en todas las edades.",
           "is_correct": false,
           "feedback": "Incorrecto. La mortalidad natural impide que haya igual número de ancianos que de niños en pirámides triangulares."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Es biológicamente imposible tener 90% de lactantes sin cohorte de adultos que los engendren y sostengan."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La pirámide uruguaya en forma de urna (constrictiva) refleja el denso envejecimiento poblacional y el persistente descenso de la natalidad.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,25 +289,25 @@
           "feedback": "Incorrecto. La baja natalidad reduce la dependencia infantil, ocurriendo lo opuesto."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Disminuye la proporción de dependientes infantiles y aumenta significativamente la carga de dependencia de adultos mayores.",
           "is_correct": true,
           "feedback": "Correcto. La menor natalidad contrae el número de niños, desplazando el peso de la relación de dependencia hacia los adultos mayores no activos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Elimina la necesidad de financiar pasividades o pensiones en el BPS.",
           "is_correct": false,
           "feedback": "Incorrecto. El aumento de adultos mayores exige mayor gasto en pensiones y salud pasiva."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Iguala la tasa de mortalidad infantil con la esperanza de vida al nacer.",
           "is_correct": false,
           "feedback": "Incorrecto. Son indicadores demográficos conceptualmente distintos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El envejecimiento de la estructura por edades desplaza la demanda de bienes públicos desde la infancia hacia la seguridad social y salud gerontológica.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Incorrecto. El mercado laboral incentiva el empleo juvenil."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Porque el veloz aumento de la cohorte de adultos mayores comenzará a superar la contracción de la cohorte juvenil en las próximas décadas.",
           "is_correct": true,
           "feedback": "Correcto. El envejecimiento acelerado reduce la proporción de población potencialmente activa, cerrando la ventana de bono demográfico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque el país ha decidido duplicar su territorio mediante conquistas.",
           "is_correct": false,
           "feedback": "Incorrecto. El territorio nacional permanece inalterado."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. La esperanza de vida uruguaya supera los 77 años en promedio."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El cierre del bono demográfico implica que la población en edad de trabajar dejará de crecer en proporción a los dependientes adultos mayores.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,13 +379,13 @@
           "feedback": "Incorrecto. La salida de jóvenes en edad fértil reduce la natalidad rural."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Envejecimiento acentuado, pérdida de capital humano capacitado y vaciamiento del tejido socio-productivo local.",
           "is_correct": true,
           "feedback": "Correcto. La partida de jóvenes depaupera la fuerza laboral local, envejeciendo la población rural y reduciendo el recambio generacional."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un aumento inmediato del valor de la tierra agrícola por falta de uso.",
           "is_correct": false,
           "feedback": "Incorrecto. El vaciamiento poblacional no eleva el valor productivo del suelo por despoblación."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. No corresponde a la realidad ambiental o geográfica del interior uruguayo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La migración interna campo-ciudad y del interior hacia Montevideo envejece las estructuras demográficas locales y acentúa la brecha de oportunidades territorial.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,13 +424,13 @@
           "feedback": "Incorrecto. El SNIC es una política pública laica e institucional del Estado."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Corresponsabilizar al Estado, la comunidad y el mercado, liberando la carga desproporcionada que recaía sobre las mujeres en los hogares.",
           "is_correct": true,
           "feedback": "Correcto. El SNIC profesionaliza los cuidados como un derecho social, superando la división sexual del trabajo que asignaba el cuidado no pago a las mujeres."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Prohibir la atención médica a personas mayores de 65 años.",
           "is_correct": false,
           "feedback": "Incorrecto. Al contrario, promueve la autonomía y atención de adultos mayores dependientes."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. No modifica la educación pública; crea servicios específicos de cuidados."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El SNIC reconoce el cuidado como un derecho social, promoviendo la corresponsabilidad de género y la protección de poblaciones dependientes.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Analizás la sostenibilidad financiera del sistema de seguridad social administrado por el Banco de Previsión Social (BPS) frente al envejecimiento demográfico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque aumenta el número de cotizantes activos por cada jubilado.",
           "is_correct": false,
           "feedback": "Incorrecto. Ocurre lo opuesto: disminuye la relación de cotizantes por jubilado."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque disminuye la cantidad de trabajadores activos que aportan y aumenta el número y la expectativa de vida de los jubilados que perciben pasividades.",
           "is_correct": true,
           "feedback": "Correcto. La relación cotizante/jubilado se estrecha, exigiendo mayores transferencias fiscales del Estado para cubrir el déficit previsional."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. El IVA es el principal impuesto recaudador que financia rentas generales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La alteración de la relación de dependencia previsional (menos aportantes activos por cada pasivo de mayor longevidad) desequilibra los sistemas de reparto puro.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Incorrecto. La segregación aísla los grupos sociales impidiendo la interacción mixta."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Homogeneiza la pobreza en barrios periféricos, reduce las redes de contacto laboral y reproduce la desigualdad de oportunidades.",
           "is_correct": true,
           "feedback": "Correcto. La segregación geográfica aísla a los sectores populares en entornos sin servicios de calidad, reproduciendo la exclusión intergeneracional."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Elimina la brecha educativa entre colegios privados y liceos públicos.",
           "is_correct": false,
           "feedback": "Incorrecto. La segregación espacial refuerza la segmentación educativa."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. La movilidad urbana periférica suele sufrir déficits de conectividad."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La segregación residencial aísla espacialmente a los grupos vulnerables, fragmentando el tejido urbano y limitando las oportunidades de movilidad social.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,31 +733,31 @@
       "context": "Proyectás la sostenibilidad del modelo del Estado de Bienestar uruguayo hacia el año 2050 en un escenario de natalidad extremadamente baja y aumento de la longevidad ($>85\\text{ años}$).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Aumentar la edad legal de retiro, revisar las tasas de reemplazo y diversificar las fuentes de financiamiento del Estado más allá de los impuestos al trabajo.",
           "is_correct": true,
           "feedback": "Correcto. Para sostener el sistema sin asfixiar tributariamente a los jóvenes activos, se requiere aumentar la edad de jubilación, elevar la productividad y usar impuestos generales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Suprimir de inmediato todo el sistema de salud pública y cerrar el BPS.",
           "is_correct": false,
           "feedback": "Incorrecto. El desmantelamiento total de la protección social quebrantaría la cohesión y paz social."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Emitir moneda sin respaldo de forma infinita hasta eliminar la inflación.",
           "is_correct": false,
           "feedback": "Incorrecto. La emisión descontrolada genera hiperinflación, destruyendo el poder adquisitivo de jubilados."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Obligar a los niños menores de 10 años a aportar al sistema previsional.",
           "is_correct": false,
           "feedback": "Incorrecto. La legislación laboral uruguaya y los convenios de la OIT prohíben el trabajo infantil."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El envejecimiento avanzado obliga a reformar los parámetros previsionales e incorporar ganancias de productividad para asegurar la sostenibilidad fiscal e intergeneracional.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. La pobreza infantil persiste a pesar del gasto en educación inicial por fallas estructurales de transferencia a hogares con niños."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Un sistema de protección social históricamente centrado en la cobertura de las pasividades de los adultos, con transferencias familiares a la infancia aún insuficientes para sacar a los hogares vulnerables de la pobreza.",
           "is_correct": true,
           "feedback": "Correcto. Las redes del BPS protegieron eficazmente a los ancianos (baja pobreza pasiva), pero los hogares jóvenes con niños concentran informalidad y menores transferencias netas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La prohibición legal de que los niños vivan en viviendas con agua potable.",
           "is_correct": false,
           "feedback": "Incorrecto. La legislación promueve el acceso a la vivienda digna e infancia protegida."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Los niños no son sujetos pasivos tributarios directos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La infantilización de la pobreza en Uruguay responde a un sesgo histórico de la matriz de bienestar que protegió la vejez dejando vacíos en las transferencias a familias jóvenes con niños.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Incorrecto. La vivienda brinda techo adecuado; el problema radica en la falta de centralidad y servicios."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Porque la inclusión social requiere 'derecho a la ciudad': acceso a redes de empleo, transporte accesible, servicios públicos de calidad e integración en espacios públicos mixtos.",
           "is_correct": true,
           "feedback": "Correcto. Sin conectividad urbana, acceso a empleo formal y servicios de calidad, el realojo periférico perpetúa el aislamiento social y la estigmatización territorial."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque los ciudadanos prefieren vivir sin electricidad ni saneamiento.",
           "is_correct": false,
           "feedback": "Incorrecto. Todas las familias aspiran a servicios básicos de vivienda digna de calidad."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. No corresponde a la resistencia física de las construcciones urbanas de materiales firmes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El derecho a la ciudad trasciende el techo individual; exige integración territorial, conectividad de transporte, servicios sociales y cercanía a las oportunidades de empleo.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -874,13 +874,13 @@
           "feedback": "Incorrecto. El descenso infantil exige consolidar y reconvertir aulas más que expandir edificios escolares masivamente."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Reorientar la inversión desde la expansión cuantitativa de cobertura básica infantil hacia la calidad educativa, reconvirtiendo infraestructuras hacia servicios gerontológicos y cuidados de larga duración.",
           "is_correct": true,
           "feedback": "Correcto. Al haber menos niños y más ancianos, el Estado debe reasignar infraestructuras educativas sobrantes hacia servicios sociosanitarios de adultos mayores y priorizar calidad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Abogarse exclusivamente a la construcción de puertos de submarinos en la pradera.",
           "is_correct": false,
           "feedback": "Incorrecto. No responde a las necesidades demográficas o geográficas de la población."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Violenta los derechos humanos fundamentales e intensificaría el colapso demográfico."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El declive demográfico exige reasignar recursos e infraestructura pública: de la expansión cuantitativa escolar a la atención sociosanitaria de la longevidad y calidad del capital humano.\n\n---",
       "difficulty": "10",
       "images": [],

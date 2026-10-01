@@ -19,13 +19,13 @@
           "feedback": "Incorrect. These are general activities."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Reduce, Reuse, Recycle",
           "is_correct": true,
           "feedback": "Correct! These are the three pillars of environmental waste management."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Rain, River, Rock",
           "is_correct": false,
           "feedback": "Incorrect. These are natural elements."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect. These are adjectives."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student identifies the core terminology used in environmental sustainability.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -65,13 +65,13 @@
           "feedback": "Incorrect. These are usually composted, not recycled in the standard sense."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Glass bottles",
           "is_correct": true,
           "feedback": "Correct! Glass is a highly recyclable material."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Dirty napkins",
           "is_correct": false,
           "feedback": "Incorrect. Contaminated paper cannot be recycled."
@@ -83,7 +83,7 @@
           "feedback": "Incorrect. Wood is biodegradable but not typically part of standard recycling bins."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student identifies recyclable versus non-recyclable materials.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -111,13 +111,13 @@
           "feedback": "Incorrect. Reducing means using less of it."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "reusing",
           "is_correct": true,
           "feedback": "Correct! Using an item again for a new purpose is \"reusing\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "recycling",
           "is_correct": false,
           "feedback": "Incorrect. Recycling involves breaking down the material to make something new."
@@ -129,7 +129,7 @@
           "feedback": "Incorrect. You are keeping it."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student understands the specific distinction between reusing and other waste management actions.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -203,13 +203,13 @@
           "feedback": "Incorrect. Color doesn't affect the amount of trash."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "packaging",
           "is_correct": true,
           "feedback": "Correct! Excess wrapping and boxes (packaging) create more waste."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "quality",
           "is_correct": false,
           "feedback": "Incorrect. Low quality leads to more waste as things break faster."
@@ -221,7 +221,7 @@
           "feedback": "Incorrect. Not related to trash."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student applies the concept of \"reduce\" to consumer choices.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Describing a sustainable home.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "shouldn't",
           "is_correct": false,
           "feedback": "Incorrect. This would be bad advice for sustainability."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "can",
           "is_correct": true,
           "feedback": "Correct! Shows a possibility that aligns with sustainability goals."
@@ -313,7 +313,7 @@
           "feedback": "Incorrect. Grammatically wrong."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student applies knowledge of sustainable practices using the appropriate modal verb for possibility.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -347,19 +347,19 @@
           "feedback": "Incorrect. The text doesn't mention speed."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "It conserves natural resources (trees, water) and reduces energy consumption.",
           "is_correct": true,
           "feedback": "Correct! The text mentions saving trees, water, and energy."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "It is more expensive than making new paper.",
           "is_correct": false,
           "feedback": "Incorrect. Not mentioned."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "The student analyzes a text to identify and summarize multiple advantages of a sustainable practice.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,25 +387,25 @@
           "feedback": "Incorrect. Coal is a fossil fuel."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Solar, Wind, Hydroelectric",
           "is_correct": true,
           "feedback": "Correct! All three come from naturally replenishing sources (sun, wind, water)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Oil, Gas, Solar",
           "is_correct": false,
           "feedback": "Incorrect. Oil and Gas are fossil fuels."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Wind, Nuclear, Gas",
           "is_correct": false,
           "feedback": "Incorrect. Gas is not renewable."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student analyzes and categorizes energy sources based on their sustainability.\n\n---",
       "difficulty": "10",
       "images": [],

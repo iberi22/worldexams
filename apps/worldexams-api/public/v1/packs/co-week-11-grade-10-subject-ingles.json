@@ -13,13 +13,13 @@
       "context": "Talking about future job interviews.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "pass / was",
           "is_correct": false,
           "feedback": "Incorrect tenses."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "pass / will be",
           "is_correct": true,
           "feedback": "Correct. First Conditional (present simple + will)."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect. 'Will' is not used in the 'if' clause."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The First Conditional is used for real or possible situations in the future. Structure: If + Present Simple, Will + Verb.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "Discussing the importance of English for a career.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "if / don't improve",
           "is_correct": false,
           "feedback": "Correct, but 'unless' is also being tested."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "unless / improve",
           "is_correct": true,
           "feedback": "Correct. 'Unless' means 'if not'."
@@ -83,7 +83,7 @@
           "feedback": "Incorrect meaning."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Unless' is used to introduce a condition that must be met to avoid a certain result. It is followed by an affirmative verb.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -111,13 +111,13 @@
           "feedback": "Incorrect meaning."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "When / will apply",
           "is_correct": true,
           "feedback": "Correct. 'When' for certain future events + 'will'."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "If / applied",
           "is_correct": false,
           "feedback": "Incorrect."
@@ -129,7 +129,7 @@
           "feedback": "Incorrect. Needs future tense in the main clause."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'When' is used instead of 'if' when we are certain that something will happen.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "An article about the future of the labor market.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "lost / learned",
           "is_correct": false,
           "feedback": "Incorrect."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "will lose / learn",
           "is_correct": true,
           "feedback": "Correct. Standard First Conditional."
@@ -175,7 +175,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Describing future trends using the First Conditional with 'unless'.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -203,13 +203,13 @@
           "feedback": "Incorrect."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "will help / provided",
           "is_correct": true,
           "feedback": "Correct. 'Provided' is a B2 synonym for 'if'."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "help / unless",
           "is_correct": false,
           "feedback": "Incorrect."
@@ -221,7 +221,7 @@
           "feedback": "Incorrect tense."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Using 'provided' or 'as long as' as formal alternatives to 'if' in First Conditional structures.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -295,13 +295,13 @@
           "feedback": "Incorrect."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "won't sign / if",
           "is_correct": true,
           "feedback": "Correct. Negative future based on a condition."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "will sign / unless",
           "is_correct": false,
           "feedback": "Correct if the check is passed, but B is a more direct focus for 'if'."
@@ -313,7 +313,7 @@
           "feedback": "Incorrect. Double negative logic."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "B2 complexity: Evaluating the logical relationship between a negative result and its condition.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -341,25 +341,25 @@
           "feedback": "Incorrect."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "is offered / will refuse",
           "is_correct": true,
           "feedback": "Correct. Passive voice in First Conditional."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "was offered / would refuse",
           "is_correct": false,
           "feedback": "Second Conditional."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "has offered / refuses",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Using the Passive Voice within a First Conditional structure to discuss professional offers.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "Evaluating a business plan.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "secures / is going",
           "is_correct": false,
           "feedback": "Possible, but 'will be able' is more standard."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "secures / will be able",
           "is_correct": true,
           "feedback": "Correct. First Conditional for business milestones."
@@ -405,7 +405,7 @@
           "feedback": "Third Conditional."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Applying the First Conditional to professional and business contexts.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "A complex negotiation scenario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "decide / will prepare",
           "is_correct": true,
           "feedback": "Correct. 'Should' used as a formal replacement for 'if'."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "decided / would prepare",
           "is_correct": false,
           "feedback": "Incorrect syntax for this inversion."
@@ -451,7 +451,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Advanced B2 structure: Using 'Should' + subject + base verb as a formal alternative to 'if' in First Conditional (Should inversion).\n\n---",
       "difficulty": "10",
       "images": [],
@@ -485,19 +485,19 @@
           "feedback": "Incorrect."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "builds / will be",
           "is_correct": true,
           "feedback": "Correct. First Conditional with 'unless' for a general career principle."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "has built / is",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Using 'unless' to describe general professional barriers and their future impact.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -519,31 +519,31 @@
       "context": "Speculating about future success.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "maintains / will",
           "is_correct": true,
           "feedback": "Correct. Inversion with 'Only if' requires 'will' before the subject."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "maintains / she will",
           "is_correct": false,
           "feedback": "Incorrect. Missing inversion."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "maintained / would",
           "is_correct": false,
           "feedback": "Second Conditional inversion."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "will maintain / she",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Mastery level: Negative/restrictive inversion with 'Only if' in a First Conditional structure.\n\n---",
       "difficulty": "10",
       "images": [],

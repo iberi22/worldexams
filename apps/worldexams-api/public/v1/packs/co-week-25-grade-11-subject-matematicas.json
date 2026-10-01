@@ -13,19 +13,19 @@
       "context": "En Bogotá, Juan analiza la circunferencia dada por la ecuación $x^2 + y^2 = 25$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Centro $C(0,0)$ y radio $r = 5$",
           "is_correct": true,
           "feedback": "Correcto. La forma canónica $x^2 + y^2 = R^2$ tiene centro en el origen y $r = \\sqrt{25} = 5$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Centro $C(0,0)$ y radio $r = 25$",
           "is_correct": false,
           "feedback": "Incorrecto. 25 es el cuadrado del radio ($r^2$), falta sacar raíz cuadrada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Centro $C(5,5)$ y radio $r = 5$",
           "is_correct": false,
           "feedback": "Incorrecto. La circunferencia no está desplazada."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Se dividió por 2 en lugar de extraer la raíz cuadrada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para $x^2 + y^2 = R^2$, el centro es $(0,0)$ y el radio es $r = \\sqrt{R^2} = \\sqrt{25} = 5$.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "En Medellín, Valentina evalúa la ecuación desplazada $(x - 3)^2 + (y + 2)^2 = 16$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$C(3, -2)$",
           "is_correct": true,
           "feedback": "Correcto. En $(x-h)^2 + (y-k)^2 = r^2$, $h = 3$ y $k = -2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$C(-3, 2)$",
           "is_correct": false,
           "feedback": "Incorrecto. Se invirtieron los signos de las coordenadas."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Signo errado en la coordenada $h$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Comparando con $(x-h)^2 + (y-k)^2 = r^2$: $x-h = x-3 \\implies h=3$; $y-k = y+2 \\implies k=-2$. El centro es $(3, -2)$.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En Cali, Mateo estudia la parábola $y^2 = 12x$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$F(3, 0)$",
           "is_correct": true,
           "feedback": "Correcto. $4p = 12 \\implies p = 3$. Como abre horizontalmente hacia la derecha, el foco está en $(3,0)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$F(0, 3)$",
           "is_correct": false,
           "feedback": "Incorrecto. Se colocó el foco sobre el eje $y$, pero la parábola abre sobre el eje $x$."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Ese corresponde al punto de la directriz $x = -3$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Forma canónica $y^2 = 4px$. Como $4p = 12$, $p = 3$. El foco se localiza en $(p, 0) = (3, 0)$.",
       "difficulty": "4",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En Cartagena, Santiago analiza la elipse $\\frac{{x^2}}{{25}} + \\frac{{y^2}}{{9}} = 1$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$a = 5$ y $b = 3$",
           "is_correct": true,
           "feedback": "Correcto. $a^2 = 25 \\implies a = 5$; $b^2 = 9 \\implies b = 3$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a = 25$ y $b = 9$",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitió sacar la raíz cuadrada de los denominadores."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$a = 9$ y $b = 25$",
           "is_correct": false,
           "feedback": "Incorrecto. El semieje mayor siempre es el número más grande."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Se dividieron los denominadores por 2.5 en vez de calcular raíces."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para una elipse horizontal $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, $a = \\sqrt{25} = 5$ y $b = \\sqrt{9} = 3$.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "Continuando con la elipse $\\frac{{x^2}}{{25}} + \\frac{{y^2}}{{9}} = 1$ en Bucaramanga, Sofia calcula la distancia focal $c$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Focos en $(-4, 0)$ y $(4, 0)$",
           "is_correct": true,
           "feedback": "Correcto. $c = \\sqrt{a^2 - b^2} = \\sqrt{25 - 9} = \\sqrt{16} = 4$. Al ser horizontal, están en $(\\pm 4, 0)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Focos en $(0, -4)$ y $(0, 4)$",
           "is_correct": false,
           "feedback": "Incorrecto. Se ubicaron en el eje $y$, pero la elipse es horizontal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Focos en $(-16, 0)$ y $(16, 0)$",
           "is_correct": false,
           "feedback": "Incorrecto. No se extrajo raíz cuadrada a $c^2 = 16$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Focos en $(-5, 0)$ y $(5, 0)$",
           "is_correct": false,
           "feedback": "Incorrecto. Esos son los vértices de la elipse, no los focos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Relación fundamental de la elipse: $c^2 = a^2 - b^2 = 25 - 9 = 16 \\implies c = 4$. Focos en $(\\pm c, 0) = (\\pm 4, 0)$.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En Manizales, Alejandro analiza la hipérbola $\\frac{{x^2}}{{16}} - \\frac{{y^2}}{{9}} = 1$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$y = \\pm \\frac{3}{4}x$",
           "is_correct": true,
           "feedback": "Correcto. Para hipérbola horizontal $\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1$, las asíntotas son $y = \\pm \\frac{b}{a}x = \\pm \\frac{3}{4}x$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$y = \\pm \\frac{4}{3}x$",
           "is_correct": false,
           "feedback": "Incorrecto. Se invirtió la relación $\\frac{a}{b}$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$y = \\pm \\frac{9}{16}x$",
           "is_correct": false,
           "feedback": "Incorrecto. Se usaron los cuadrados $b^2/a^2$."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Se usó $a^2/b^2$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Asíntotas de $\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1$ son $y = \\pm \\frac{b}{a}x$. Como $a=4$ y $b=3$, resultan $y = \\pm \\frac{3}{4}x$.",
       "difficulty": "6",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En Pereira, Daniela requiere la excentricidad $e$ de la elipse $\\frac{{x^2}}{{100}} + \\frac{{y^2}}{{64}} = 1$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "0.6",
           "is_correct": true,
           "feedback": "Correcto. $a=10, b=8 \\implies c = \\sqrt{100-64} = 6$. Excentricidad $e = \\frac{6}{10} = 0.6$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "0.8",
           "is_correct": false,
           "feedback": "Incorrecto. Se dividió $b/a = 8/10$ en lugar de $c/a$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1.25",
           "is_correct": false,
           "feedback": "Incorrecto. La excentricidad de una elipse siempre es menor que 1."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "0.36",
           "is_correct": false,
           "feedback": "Incorrecto. Se calculó $c^2/a^2$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "$a = 10$, $c = \\sqrt{100-64} = 6$. La excentricidad $e = \\frac{c}{a} = \\frac{6}{10} = 0.6$ (siempre $0 < e < 1$ en elipses).",
       "difficulty": "6",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "En Ibagué, Mariana analiza qué cónica representa la ecuación $2x^2 + 2y^2 - 8x + 4y + 2 = 0$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Una circunferencia",
           "is_correct": true,
           "feedback": "Correcto. Los coeficientes de $x^2$ y $y^2$ son iguales ($A = B = 2$)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una elipse no circular",
           "is_correct": false,
           "feedback": "Incorrecto. En una elipse los coeficientes $A$ y $B$ deben ser distintos pero del mismo signo."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. Una parábola tiene solo una variable cuadrática."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En la ecuación cuadrática general $Ax^2 + By^2 + Cx + Dy + E = 0$, si $A = B \\neq 0$ con el mismo signo, representa una circunferencia.",
       "difficulty": "6",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "En Pasto, Carlos estudia las cónicas según su excentricidad $e$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Una hipérbola",
           "is_correct": true,
           "feedback": "Correcto. Por definición, la hipérbola tiene $e > 1$ (pues $c > a$)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una elipse",
           "is_correct": false,
           "feedback": "Incorrecto. La elipse tiene $0 < e < 1$."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. La circunferencia tiene excentricidad $e = 0$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Clasificación por excentricidad $e$: Circunferencia $e=0$, Elipse $0 < e < 1$, Parábola $e=1$, Hipérbola $e > 1$.",
       "difficulty": "8",
       "images": [],
@@ -519,13 +519,13 @@
       "context": "En Santa Marta, Gabriela calcula la longitud del lado recto ($L = \\frac{2b^2}{a}$) de la elipse $\\frac{{x^2}}{{16}} + \\frac{{y^2}}{{4}} = 1$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "2",
           "is_correct": true,
           "feedback": "Correcto. $a^2=16 \\implies a=4$, $b^2=4$. Lado recto $L = \\frac{2(4)}{4} = 2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "4",
           "is_correct": false,
           "feedback": "Incorrecto. No se dividió por $a=4$."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto. Se multiplicó $2a$ en lugar de $2b^2/a$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El lado recto mide $L = \\frac{2b^2}{a}$. Con $a=4$ y $b^2=4$: $L = \\frac{2(4)}{4} = 2$.",
       "difficulty": "8",
       "images": [],
@@ -657,13 +657,13 @@
       "context": "En Neiva, Felipe determina la ecuación del lugar geométrico de los puntos que equidistan del punto $(0,3)$ y de la recta $y = -3$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Una parábola de ecuación $x^2 = 12y$",
           "is_correct": true,
           "feedback": "Correcto. Por definición, la cónica es una parábola con foco en $(0,3)$ y directriz $y=-3$. Vértice en $(0,0)$, $p=3 \\implies x^2 = 4(3)y = 12y$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una circunferencia de ecuación $x^2 + y^2 = 9$",
           "is_correct": false,
           "feedback": "Incorrecto. La equdistancia punto-recta define parábola, no circunferencia."
@@ -681,7 +681,7 @@
           "feedback": "Incorrecto. No corresponde a la definición de elipse."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La definición de parábola es el lugar geométrico de puntos que equidistan de un foco y una directriz. Aquí $p=3$, foco $(0,3)$, directriz $y=-3$. Ecuación: $x^2 = 4py = 12y$.",
       "difficulty": "8",
       "images": [],
@@ -703,13 +703,13 @@
       "context": "En Popayán, Lucia analiza la hipérbola equilátera $x^2 - y^2 = 16$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$y = x$ y $y = -x$",
           "is_correct": true,
           "feedback": "Correcto. Como $a^2 = b^2 = 16 \\implies a = b = 4$, las asíntotas son $y = \\pm \\frac{4}{4}x = \\pm x$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$y = 2x$ y $y = -2x$",
           "is_correct": false,
           "feedback": "Incorrecto. Error al simplificar la fracción $b/a$."
@@ -727,7 +727,7 @@
           "feedback": "Incorrecto. Son los vértices de la hipérbola."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En una hipérbola equilátera $a = b$. Por tanto, la pendiente de sus asíntotas es $b/a = 1$, dando $y = \\pm x$.",
       "difficulty": "8",
       "images": [],
@@ -749,13 +749,13 @@
       "context": "En Montería, Diego evalúa el efecto de multiplicar por $k > 1$ el radio de una circunferencia $x^2 + y^2 = r^2$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El área se multiplica por $k^2$.",
           "is_correct": true,
           "feedback": "Correcto. Área original $A_1 = \\pi r^2$. Nueva área $A_2 = \\pi (kr)^2 = k^2 (\\pi r^2) = k^2 A_1$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El área se multiplica por $k$.",
           "is_correct": false,
           "feedback": "Incorrecto. El área escala cuadráticamente con el radio."
@@ -773,7 +773,7 @@
           "feedback": "Incorrecto. Alterar el radio modifica la superficie encerrada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "$A(r) = \\pi r^2 \\implies A(kr) = \\pi k^2 r^2 = k^2 A(r)$. El área escala cuadráticamente.",
       "difficulty": "10",
       "images": [],
@@ -795,31 +795,31 @@
       "context": "En Tunja, Paula investiga la intersección entre un plano y un cono de revolución.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Una elipse",
           "is_correct": true,
           "feedback": "Correcto. Un corte inclinado que atraviesa completamente un manto del cono produce una elipse."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una parábola",
           "is_correct": false,
           "feedback": "Incorrecto. Una parábola requiere que el plano sea paralelo a una sola generatriz."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una hipérbola",
           "is_correct": false,
           "feedback": "Incorrecto. Una hipérbola corta ambos mantos del cono."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Una circunferencia",
           "is_correct": false,
           "feedback": "Incorrecto. La circunferencia requiere un corte estrictamente perpendicular al eje de simetría."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La sección cónica obtenida cortando un manto completamente de forma oblicua al eje es una elipse.",
       "difficulty": "10",
       "images": [],
@@ -841,31 +841,31 @@
       "context": "En Riohacha, Samuel calcula la ecuación de la tangente a la circunferencia $x^2 + y^2 = 25$ en el punto $(3, 4)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$3x + 4y = 25$",
           "is_correct": true,
           "feedback": "Correcto. La pendiente del radio es $m_R = 4/3$. La pendiente tangente es $m_T = -3/4$. $y - 4 = -\\frac{3}{4}(x - 3) \\implies 4y - 16 = -3x + 9 \\implies 3x + 4y = 25$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$4x + 3y = 25$",
           "is_correct": false,
           "feedback": "Incorrecto. Se invirtieron los coeficientes del punto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$3x - 4y = 0$",
           "is_correct": false,
           "feedback": "Incorrecto. Pasa por el origen en lugar de ser tangente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$y = \\frac{4}{3}x$",
           "is_correct": false,
           "feedback": "Incorrecto. Es la recta que contiene al radio, perpendicular a la tangente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La recta tangente a $x^2+y^2=R^2$ en $(x_0, y_0)$ es $x_0 x + y_0 y = R^2$. Sustituyendo $(3,4)$: $3x + 4y = 25$.",
       "difficulty": "10",
       "images": [],

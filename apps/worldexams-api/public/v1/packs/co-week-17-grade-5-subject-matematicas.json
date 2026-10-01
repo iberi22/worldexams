@@ -13,13 +13,13 @@
       "context": "En el tablero de un colegio en Florencia, la profesora escribe la expresión 6 + 2 × 5.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "16.",
           "is_correct": true,
           "feedback": "Primero la multiplicación 2 × 5 = 10 y luego la suma 6 + 10 = 16."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "40.",
           "is_correct": false,
           "feedback": "Se sumó primero 6 + 2 = 8 y luego 8 × 5 = 40, sin respetar la jerarquía."
@@ -37,7 +37,7 @@
           "feedback": "Se sumaron todos los números (6 + 2 + 5) sin considerar la multiplicación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En una expresión sin paréntesis, la multiplicación y la división se resuelven antes que la suma y la resta.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En una bodega de Santa Marta se organizan 8 estantes y cada estante tiene (5 + 3) cajas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "64 cajas.",
           "is_correct": true,
           "feedback": "Primero el paréntesis: 5 + 3 = 8; luego 8 × 8 = 64."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "43 cajas.",
           "is_correct": false,
           "feedback": "Se calculó 8 × 5 = 40 y luego 40 + 3 = 43, ignorando el paréntesis."
@@ -129,7 +129,7 @@
           "feedback": "Se multiplicó 8 × 3 y se omitió sumar 5."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los paréntesis indican la operación que se resuelve primero, antes que cualquier otra dentro de la misma expresión.",
       "difficulty": "6",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En una papelería de Pereira, un cuaderno cuesta $4.500 COP y un bolígrafo cuesta $2.000 COP. Marta compra 3 cuadernos y 2 bolígrafos, y paga con un billete de $20.000 COP.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$2.500 COP.",
           "is_correct": true,
           "feedback": "3 × $4.500 = $13.500 y 2 × $2.000 = $4.000; total $17.500. Cambio: $20.000 - $17.500 = $2.500."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$6.500 COP.",
           "is_correct": false,
           "feedback": "Resulta de $20.000 - $13.500, omitiendo el costo de los bolígrafos."
@@ -359,7 +359,7 @@
           "feedback": "Resulta de $20.000 - $15.500, con un cálculo incorrecto del total comprado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Resolver un problema de compra y cambio exige calcular primero los subtotales con multiplicaciones, sumarlos y después restar del dinero entregado.",
       "difficulty": "10",
       "images": [],

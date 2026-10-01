@@ -59,19 +59,19 @@
       "context": "Lee: \"Lucía y Tomás decidieron investigar el misterio de la capilla. Primero preguntaron a doña Elvia, la sacristana. Después revisaron el patio empedrado. Al final encontraron un farol apagado junto a la puerta.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Preguntaron a doña Elvia, revisaron el patio y encontraron un farol apagado.",
           "is_correct": true,
           "feedback": "Esa es la secuencia en que ocurren las acciones en el texto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Encontraron el farol, viajaron a Mompox y regresaron a Barichara.",
           "is_correct": false,
           "feedback": "No hay ningún viaje a Mompox en esta secuencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Revisaron el patio, se fueron a dormir y olvidaron el misterio.",
           "is_correct": false,
           "feedback": "Ellos no abandonan la investigación ni se van a dormir."
@@ -83,7 +83,7 @@
           "feedback": "El alcalde no aparece y la capilla no se cierra en este fragmento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Comprender la secuencia de eventos en un fragmento narrativo.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "Lee: \"Al entrar a la capilla, la penumbra los envolvió. Solo se veía una luz tenue junto al altar. Tomás sintió un escalofrío y susurró: No hay nadie aquí.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Una oscuridad parcial donde se ve poca luz.",
           "is_correct": true,
           "feedback": "La penumbra es una sombra suave con poca luz, como la de la capilla."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un ruido fuerte de campanas y tambores.",
           "is_correct": false,
           "feedback": "La penumbra se relaciona con la luz, no con el ruido."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un camino largo de piedras amarillas.",
           "is_correct": false,
           "feedback": "El texto no describe un camino, sino la poca luz dentro de la capilla."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Una fiesta con música y faroles encendidos.",
           "is_correct": false,
           "feedback": "La escena es oscura y silenciosa, no una fiesta iluminada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Usar el contexto del cuento para inferir el significado de una palabra desconocida.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "Lee: \"Lucía observó tres pistas en el patio empedrado de Barichara: huellas pequeñas de barro que iban hacia el campanario, un pañuelo azul enredado en la reja y granos de maíz regados junto al farol apagado.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Huellas de barro hacia el campanario, un pañuelo azul en la reja y granos de maíz junto al farol.",
           "is_correct": true,
           "feedback": "Esas son exactamente las tres pistas descritas en el texto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una carta antigua, una llave de oro y un mapa del tesoro.",
           "is_correct": false,
           "feedback": "Ninguno de esos objetos aparece en el fragmento."
@@ -175,7 +175,7 @@
           "feedback": "Esos elementos no corresponden a las pistas del texto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Identificar información explícita y enumerar pistas dentro de un texto narrativo.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "Lee la continuación: \"Con las pistas en la mano, los primos siguieron las huellas de barro hasta el campanario. Allí vieron a un mico tití que sostenía el cordel de la campana con sus paticas y comía maíz de una totuma.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Descubrieron que un mico tití movía el cordel de la campana mientras comía maíz.",
           "is_correct": true,
           "feedback": "El mico tití explica tanto el sonido como los granos de maíz."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Descubrieron que el viento de Villa de Leyva movía las nubes del cielo.",
           "is_correct": false,
           "feedback": "El texto muestra un animal concreto, no el viento ni las nubes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Descubrieron que doña Elvia tocaba la campana cada hora en punto.",
           "is_correct": false,
           "feedback": "Doña Elvia no tocaba la campana; el causante era el mico tití."
@@ -221,7 +221,7 @@
           "feedback": "En el pueblo y en la época del cuento no hay ningún motor eléctrico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicar las pistas del relato para explicar la solución del misterio.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Lee: \"El pañuelo azul era de doña Elvia. Ella lo había dejado en la reja en la mañana cuando llevó maíz para las palomas. El mico, atraído por el maíz, subió al campanario y enredó sus paticas con el cordel.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El maíz atrajo al mico al campanario y el pañuelo confirma que doña Elvia llevó ese maíz en la mañana.",
           "is_correct": true,
           "feedback": "Las dos pistas se conectan: el maíz explica la presencia del mico y el pañuelo su origen."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El pañuelo azul ahuyentó al mico y el maíz silenció la campana.",
           "is_correct": false,
           "feedback": "El pañuelo no ahuyentó al mico ni el maíz silenció la campana."
@@ -267,7 +267,7 @@
           "feedback": "Quien movió la campana fue el mico, no el pañuelo ni el maíz por sí solos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Analizar cómo distintas pistas se conectan para construir la explicación del misterio.",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Lee el final: \"Tomás quiso gritar que había un espanto en la capilla. Lucía lo detuvo y dijo: Observemos primero, preguntemos después. Así descubrieron al mico y, en lugar de asustarse, le llevaron agua y avisaron a doña Elvia.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Lucía observa con calma y busca pruebas; Tomás quiere concluir rápido por el susto.",
           "is_correct": true,
           "feedback": "Lucía propone observar y preguntar, mientras Tomás quiere gritar por miedo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Lucía siente miedo y huye; Tomás se queda a investigar solo.",
           "is_correct": false,
           "feedback": "Es al contrario: Lucía se queda a observar y detiene a Tomás."
@@ -313,7 +313,7 @@
           "feedback": "Lucía evita inventar historias y pide observar antes de concluir."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Comparar las actitudes de los personajes para comprender su papel en la historia.",
       "difficulty": "8",
       "images": [],

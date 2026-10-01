@@ -13,13 +13,13 @@
       "context": "In a school in Medellin, a visitor shows pictures of people who help the community.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Teacher.",
           "is_correct": true,
           "feedback": "A teacher works in a school and helps students learn new things."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Doctor.",
           "is_correct": false,
           "feedback": "A doctor takes care of sick people in a hospital or clinic."
@@ -37,7 +37,7 @@
           "feedback": "A farmer works in the field and grows food for the community."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Identifying basic occupations by their main function in English (teacher, doctor, driver, farmer). / Identificar oficios basicos segun su funcion en ingles.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "A student talks about her mother: \"My mother is a doctor. She works in a hospital in Cali.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "She works in a hospital.",
           "is_correct": true,
           "feedback": "\"Works\" adds -s to agree with the third person singular subject \"she\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "She work in a hospital.",
           "is_correct": false,
           "feedback": "\"Work\" without -s is incorrect with \"she\" in Simple Present."
@@ -129,7 +129,7 @@
           "feedback": "\"Is\" cannot be followed by the base form \"work\" in this sentence."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Using the Simple Present with the third person singular to describe jobs in English. / Usar el presente simple en tercera persona para describir oficios.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "A police officer in Bucaramanga says: \"I help people and take care of the streets in my city.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "What does a police officer do?",
           "is_correct": true,
           "feedback": "The answer describes the actions of a police officer, so this question fits."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "How old is a police officer?",
           "is_correct": false,
           "feedback": "The answer does not give an age, so this question does not match."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Where does a police officer live?",
           "is_correct": false,
           "feedback": "The answer does not mention a home or an address."
@@ -175,7 +175,7 @@
           "feedback": "The answer does not talk about the color of any car."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Matching questions with answers about occupations in English. / Relacionar preguntas con respuestas sobre oficios.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "Read: \"When Diana has a bad tooth, she goes to see Mr. Rojas. He looks at her teeth and helps her feel better.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "He is a dentist.",
           "is_correct": true,
           "feedback": "Looking at teeth and helping them feel better is the work of a dentist."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "He is a teacher.",
           "is_correct": false,
           "feedback": "A teacher works with students in a school, not with teeth."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "He is a farmer.",
           "is_correct": false,
           "feedback": "A farmer works in the field with plants and animals."
@@ -267,7 +267,7 @@
           "feedback": "A police officer takes care of people and streets, not teeth."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Inferring a person's occupation from clues in a short text in English. / Inferir el oficio de una persona a partir de pistas en un texto corto.",
       "difficulty": "8",
       "images": [],

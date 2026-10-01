@@ -19,25 +19,25 @@
           "feedback": "Incorrect. The second verb needs -ing."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Was/Were + Verb with -ing.",
           "is_correct": true,
           "feedback": "Correct! Past continuous requires \"to be\" in the past and the -ing form."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Am/Is/Are + Verb with -ing.",
           "is_correct": false,
           "feedback": "Incorrect. This is for Present Continuous."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Did + Verb with -ing.",
           "is_correct": false,
           "feedback": "Incorrect. \"Did\" is the auxiliary for Past Simple."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student identifies the basic structural elements of the Past Continuous tense.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "Forming a question in the Past Continuous.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Were you sleeping when I called?",
           "is_correct": true,
           "feedback": "Correct! Standard auxiliary + subject + -ing structure."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "You were sleeping when I called?",
           "is_correct": false,
           "feedback": "Incorrect. The auxiliary must come first in a question."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Was you sleeping when I called?",
           "is_correct": false,
           "feedback": "Incorrect. \"You\" requires \"were\"."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Did you sleeping when I called?",
           "is_correct": false,
           "feedback": "Incorrect. \"Did\" is for Past Simple, not continuous."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "The student understands the word order and agreement rules for questions in the Past Continuous.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Describing a scene in a classroom.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "was talking",
           "is_correct": false,
           "feedback": "Incorrect. \"Students\" is plural."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "were talking",
           "is_correct": true,
           "feedback": "Correct! Plural subject + \"were\" + -ing."
@@ -221,7 +221,7 @@
           "feedback": "Incorrect. Missing the -ing ending."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student applies knowledge of subject-verb agreement in the Past Continuous within a narrative context.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -249,13 +249,13 @@
           "feedback": "Incorrect. Other people were doing that."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Waiting for the bus.",
           "is_correct": true,
           "feedback": "Correct! The text says \"I was waiting for the bus\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Raining heavily.",
           "is_correct": false,
           "feedback": "Incorrect. This describes the weather."
@@ -267,7 +267,7 @@
           "feedback": "Incorrect. Not mentioned."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student applies reading comprehension to distinguish between different actions in progress described in the text.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -295,13 +295,13 @@
           "feedback": "Incorrect. \"Weren't\" is for plural subjects."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "wasn't listening",
           "is_correct": true,
           "feedback": "Correct! Negative form of \"was\" + -ing."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "didn't listening",
           "is_correct": false,
           "feedback": "Incorrect. \"Didn't\" is for simple past, not followed by -ing."
@@ -313,7 +313,7 @@
           "feedback": "Incorrect. Missing the -ing ending."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student applies the rules for negative constructions in the Past Continuous.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "Inferring a situation from a scene description.\n\n\"The lights went out. At that moment, Ana was doing her homework, her brother was playing the guitar, and their parents were talking in the kitchen. Everything became dark and quiet.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "They were doing homework.",
           "is_correct": false,
           "feedback": "Incorrect. Ana was doing that."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "They were having a conversation.",
           "is_correct": true,
           "feedback": "Correct! \"Talking\" is synonymous with having a conversation."
@@ -405,7 +405,7 @@
           "feedback": "Incorrect. They were talking in the kitchen."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student analyzes details in a descriptive text to identify specific actions associated with different people.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "Evaluating a testimony about an accident.\n\n\"Witness 1: I was looking at my phone, so I didn't see anything.\n\nWitness 2: I was walking my dog and I saw the red car hit the blue one.\n\nWitness 3: I was buying a newspaper when I heard a loud noise.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Witness 1",
           "is_correct": false,
           "feedback": "Incorrect. They didn't see anything."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Witness 2",
           "is_correct": true,
           "feedback": "Correct! They actually saw the collision and identified the cars."
@@ -451,7 +451,7 @@
           "feedback": "Incorrect. Each witness had a different level of awareness."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student evaluates multiple past continuous statements to determine which one contains the most relevant factual information.",
       "difficulty": "10",
       "images": [],

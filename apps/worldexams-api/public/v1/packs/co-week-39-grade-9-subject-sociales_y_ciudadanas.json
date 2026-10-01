@@ -59,19 +59,19 @@
       "context": "Un grupo de vecinos de un municipio colombiano observa que un río local está siendo contaminado por desechos tóxicos de una fábrica, amenazando la salud pública de la comunidad.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La acción popular.",
           "is_correct": true,
           "feedback": "¡Correcto! La acción popular (Artículo 88) es el mecanismo constitucional diseñado para defender derechos e intereses colectivos como el medio ambiente sano."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El plebiscito municipal.",
           "is_correct": false,
           "feedback": "Incorrecto. El plebiscito es una consulta política convocada por el ejecutivo, no una acción de protección judicial."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La revocatoria del mandato.",
           "is_correct": false,
           "feedback": "Incorrecto. No se trata de remover a un gobernante de su cargo sino de frenar una vulneración ambiental."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. El juicio político corresponde al Congreso frente a altos dignatarios."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Diferenciación de herramientas jurídicas de protección: las acciones populares defienden derechos colectivos (medio ambiente, espacio público).\n---",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "El derecho a la educación de un estudiante de noveno grado está siendo vulnerado porque la secretaría de educación le niega el cupo escolar sin justificación legal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Porque la tutela es un mecanismo preferente y sumario que protege de forma inmediata los derechos fundamentales amenazados o vulnerados.",
           "is_correct": true,
           "feedback": "¡Correcto! La educación de un menor es un derecho fundamental tutelable de respuesta rápida (10 días)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque la tutela requiere reunir la firma del 10% del censo electoral.",
           "is_correct": false,
           "feedback": "Incorrecto. La tutela no requiere recolección masiva de firmas ni respaldos electorales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque con la tutela se aprueban nuevas leyes en el Congreso.",
           "is_correct": false,
           "feedback": "Incorrecto. La tutela es un mecanismo judicial de amparo individual, no legislativo."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Cualquier persona puede interponer una tutela por sí misma o mediante apoderado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Comprensión de las características de la Acción de Tutela (artículo 86) como garantía inmediata de los derechos fundamentales.\n---",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "El Presidente de la República consulta a la ciudadanía si apoya o rechaza una decisión del Poder Ejecutivo de vital importancia nacional que no requiere aprobación previa del Congreso.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Plebiscito.",
           "is_correct": true,
           "feedback": "¡Correcto! El plebiscito es el pronunciamiento del pueblo convocado por el Presidente para apoyar o rechazar una decisión del Ejecutivo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Referendo aprobatorio.",
           "is_correct": false,
           "feedback": "Incorrecto. El referendo se utiliza para someter un texto normativo o proyecto de ley a aprobación o derogación."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Es la facultad de un grupo de ciudadanos de presentar proyectos de ley ante el Congreso."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Identificación técnica de los mecanismos de participación popular y sus autoridades convocantes según la Ley 134 de 1994 / Ley 1757 de 2015.\n---",
       "difficulty": "6",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "En la discusión sobre una obra pública vial que atravesaría un parque urbano, los vecinos solicitan realizar un Cabildo Abierto ante el Concejo Municipal. El alcalde opina que las audiencias técnicas con ingenieros son suficientes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Permite que los habitantes del municipio participen directamente en el debate público institucional exponiendo sus inquietudes ante los concejales.",
           "is_correct": true,
           "feedback": "¡Correcto! El cabildo abierto es la reunión pública de los concejos o JAL donde los residentes pueden discutir asuntos de interés comunitario."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Otorga poder al alcalde para aprobar presupuestos sin pasar por el Concejo.",
           "is_correct": false,
           "feedback": "Incorrecto. El cabildo no concentra poder en el alcalde, promueve la deliberación ciudadana."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Anula la Constitución Política en el territorio municipal.",
           "is_correct": false,
           "feedback": "Incorrecto. El cabildo es una figura plenamente enmarcada en la Constitución."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Obliga a los ingenieros a renunciar a sus salarios.",
           "is_correct": false,
           "feedback": "Incorrecto. No tiene ninguna relación con los contratos laborales de los ingenieros."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Análisis comparativo de la deliberación democrática participativa (Cabildo Abierto) frente a procesos tecnocráticos cerrados.\n---",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "La Constitución Política de 1991 pasó de un modelo de democracia puramente representativa (Constitución de 1886) a un modelo que combina democracia representativa y participativa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "En la representativa el ciudadano se limita a elegir gobernantes en las urnas; en la participativa interviene activamente en las decisiones que lo afectan.",
           "is_correct": true,
           "feedback": "¡Correcto! La democracia participativa otorga herramientas constantes (tutela, consultas, cabildos) más allá del voto periódico electoral."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En la representativa no hay elecciones y en la participativa gobierna la fuerza militar.",
           "is_correct": false,
           "feedback": "Incorrecto. Ambas formas democráticas repudian el gobierno militar y exigen elecciones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "En la participativa solo votan los senadores y en la representativa solo los presidentes.",
           "is_correct": false,
           "feedback": "Incorrecto. La participación abarca el conjunto del censo ciudadano."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Representan dos paradigmas diferenciados de la relación Estado-Ciudadanía."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Análisis de la evolución histórica y conceptual del modelo constitucional de la democracia en Colombia (1886 vs. 1991).\n---",
       "difficulty": "8",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "Una entidad pública de salud lleva 6 meses sin responder la solicitud escrita de una ciudadana sobre la entrega de sus medicamentos esenciales, violando el derecho fundamental de petición.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Acción de Tutela por vulneración del Derecho de Petición en conexión con la Salud.",
           "is_correct": true,
           "feedback": "¡Correcto! La jurisprudencia constitucional tutela la falta de respuesta a peticiones cuando vulnera derechos fundamentales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Convocatoria a una huelga general de estudiantes de noveno grado.",
           "is_correct": false,
           "feedback": "Incorrecto. La huelga escolar no es el mecanismo jurídico para ordenar a una entidad de salud responder peticiones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Iniciar una revocatoria del mandato al Presidente de la República.",
           "is_correct": false,
           "feedback": "Incorrecto. La revocatoria no aplica para la Presidencia ni resuelve una petición particular."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Solicitar un referendo constitucional para cambiar el idioma oficial.",
           "is_correct": false,
           "feedback": "Incorrecto. No tiene pertinencia con la pretensión de amparo individual."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Articulación pragmática de las garantías constitucionales ante la ineficiencia o mora de las autoridades administrativas.\n---",
       "difficulty": "8",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "Analiza las siguientes posiciones contrapuestas sobre el uso de la Consulta Popular en proyectos extractivos:\n\n- **Posición A:** \"La consulta popular defiende la soberanía ambiental del municipio sobre sus suelos\".\n\n- **Posición B:** \"Las decisiones del subsuelo corresponden al Estado central según la Constitución, y frenar proyectos afecta los recursos fiscales de todo el país\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La tensión entre la autonomía de las entidades territoriales y la centralización política de la Nación (Estado unitario).",
           "is_correct": true,
           "feedback": "¡Excelente! Corresponde al debate de fondo resuelto por la Corte Constitucional sobre la coordinación entre municipios y el nivel nacional."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La tensión entre declarar la guerra a países vecinos o firmar tratados comerciales.",
           "is_correct": false,
           "feedback": "Incorrecto. El conflicto abordado es interno e institucional (municipio vs. nación)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La tensión entre usar uniforme escolar o ropa particular en colegios privados.",
           "is_correct": false,
           "feedback": "Incorrecto. Esta opción no atañe a las competencias constitucionales extractivas del Estado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La incompatibilidad absoluta entre la democracia y el cobro de impuestos.",
           "is_correct": false,
           "feedback": "Incorrecto. La democracia fiscal es un pilar del Estado constitucional."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluación crítica de dilemas constitucionales estructurales: Autonomía territorial (Art. 287) vs. Principio unitario (Art. 1).\n---",
       "difficulty": "10",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "La baja participación ciudadana en elecciones y votaciones de mecanismos de participación (abstencionismo) es un desafío constante en Colombia. Muchos abstencionistas afirman que \"votar no cambia nada\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El abstencionismo debilita la representatividad de las decisiones públicas y permite que minorías organizadas decidan sobre el destino de toda la colectividad.",
           "is_correct": true,
           "feedback": "¡Excelente! La falta de participación ciudadana socava la base de legitimidad de las políticas e instituciones democráticas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El abstencionismo es ideal porque le ahorra dinero al presupuesto del Estado en impresiones de tarjetones.",
           "is_correct": false,
           "feedback": "Incorrecto. Considerar la apatía democrática como algo positivo contradice el espíritu de la Constitución."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. La no participación deja las decisiones en manos de otros actores."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluación de las consecuencias sociopolíticas del abstencionismo sobre la calidad institucional y la cultura ciudadana en Colombia.\n---",
       "difficulty": "10",
       "images": [],

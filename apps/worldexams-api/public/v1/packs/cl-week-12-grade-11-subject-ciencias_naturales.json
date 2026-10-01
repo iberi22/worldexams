@@ -103,13 +103,13 @@
       "context": "Matías analiza situaciones académicas en Santiago.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$21 \\text{ N}$",
           "is_correct": true,
           "feedback": "¡Correcto! F = m*a = 7*3 = 21 N."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$10 \\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste la masa y la aceleración."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Dividiste la masa por la aceleración."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por Segunda Ley de Newton, F = m*a = 7*3 = 21 N.",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Sebastián analiza situaciones académicas en Concepción.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$27 \\text{ N}$",
           "is_correct": true,
           "feedback": "¡Correcto! F = m*a = 9*3 = 27 N."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$12 \\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste la masa y la aceleración."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Dividiste la masa por la aceleración."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por Segunda Ley de Newton, F = m*a = 9*3 = 27 N.",
       "difficulty": "6",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Lucas analiza situaciones académicas en Antofagasta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$30 \\text{ N}$",
           "is_correct": true,
           "feedback": "¡Correcto! F = m*a = 10*3 = 30 N."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$13 \\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste la masa y la aceleración."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Dividiste la masa por la aceleración."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por Segunda Ley de Newton, F = m*a = 10*3 = 30 N.",
       "difficulty": "6",
       "images": [],
@@ -283,31 +283,31 @@
       "context": "Camila analiza situaciones académicas en Temuco.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$33 \\text{ N}$",
           "is_correct": true,
           "feedback": "¡Correcto! F = m*a = 11*3 = 33 N."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$14 \\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste la masa y la aceleración."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$66 \\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Duplicaste el valor de la fuerza necesaria."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$3.67 \\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste la masa por la aceleración."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por Segunda Ley de Newton, F = m*a = 11*3 = 33 N.",
       "difficulty": "6",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "Martina analiza situaciones académicas en Viña del Mar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$39 \\text{ N}$",
           "is_correct": true,
           "feedback": "¡Correcto! F = m*a = 13*3 = 39 N."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$16 \\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste la masa y la aceleración."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$78 \\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Duplicaste el valor de la fuerza necesaria."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Dividiste la masa por la aceleración."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por Segunda Ley de Newton, F = m*a = 13*3 = 39 N.",
       "difficulty": "6",
       "images": [],
@@ -418,19 +418,19 @@
       "context": "Sebastián analiza situaciones académicas en Iquique.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$42 \\text{ N}$",
           "is_correct": true,
           "feedback": "¡Correcto! F = m*a = 14*3 = 42 N."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$17 \\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste la masa y la aceleración."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$84 \\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Duplicaste el valor de la fuerza necesaria."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Dividiste la masa por la aceleración."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por Segunda Ley de Newton, F = m*a = 14*3 = 42 N.",
       "difficulty": "6",
       "images": [],
@@ -463,31 +463,31 @@
       "context": "Lucas analiza situaciones académicas en Rancagua.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$45 \\text{ N}$",
           "is_correct": true,
           "feedback": "¡Correcto! F = m*a = 15*3 = 45 N."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$18 \\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste la masa y la aceleración."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$90 \\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Duplicaste el valor de la fuerza necesaria."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$5.00 \\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste la masa por la aceleración."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por Segunda Ley de Newton, F = m*a = 15*3 = 45 N.",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "Matías analiza situaciones académicas en Arica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$51 \\text{ N}$",
           "is_correct": true,
           "feedback": "¡Correcto! F = m*a = 17*3 = 51 N."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$20 \\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste la masa y la aceleración."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Dividiste la masa por la aceleración."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por Segunda Ley de Newton, F = m*a = 17*3 = 51 N.",
       "difficulty": "8",
       "images": [],
@@ -598,19 +598,19 @@
       "context": "Martina analiza situaciones académicas en Puerto Montt.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$54 \\text{ N}$",
           "is_correct": true,
           "feedback": "¡Correcto! F = m*a = 18*3 = 54 N."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$21 \\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste la masa y la aceleración."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$108 \\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Duplicaste el valor de la fuerza necesaria."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Dividiste la masa por la aceleración."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por Segunda Ley de Newton, F = m*a = 18*3 = 54 N.",
       "difficulty": "8",
       "images": [],
@@ -643,19 +643,19 @@
       "context": "Sebastián analiza situaciones académicas en Chillán.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$57 \\text{ N}$",
           "is_correct": true,
           "feedback": "¡Correcto! F = m*a = 19*3 = 57 N."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$22 \\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste la masa y la aceleración."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$114 \\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Duplicaste el valor de la fuerza necesaria."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Dividiste la masa por la aceleración."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por Segunda Ley de Newton, F = m*a = 19*3 = 57 N.",
       "difficulty": "8",
       "images": [],
@@ -688,31 +688,31 @@
       "context": "Lucas analiza situaciones académicas en Calama.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$60 \\text{ N}$",
           "is_correct": true,
           "feedback": "¡Correcto! F = m*a = 20*3 = 60 N."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$23 \\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste la masa y la aceleración."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$120 \\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Duplicaste el valor de la fuerza necesaria."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$6.67 \\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste la masa por la aceleración."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por Segunda Ley de Newton, F = m*a = 20*3 = 60 N.",
       "difficulty": "8",
       "images": [],
@@ -823,19 +823,19 @@
       "context": "Martina analiza situaciones académicas en Valparaíso.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$69 \\text{ N}$",
           "is_correct": true,
           "feedback": "¡Correcto! F = m*a = 23*3 = 69 N."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$26 \\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste la masa y la aceleración."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$138 \\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Duplicaste el valor de la fuerza necesaria."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Dividiste la masa por la aceleración."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por Segunda Ley de Newton, F = m*a = 23*3 = 69 N.",
       "difficulty": "10",
       "images": [],

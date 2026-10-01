@@ -65,25 +65,25 @@
           "feedback": "Incorrecto. Restaste el vector en lugar de sumarlo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$(5, 3)$",
           "is_correct": true,
           "feedback": "Correcto. $(3 + 2, 4 + (-1)) = (5, 3)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(6, 4)$",
           "is_correct": false,
           "feedback": "Incorrecto. Solo trasladaste la primera componente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(3, 4)$",
           "is_correct": false,
           "feedback": "Incorrecto. El punto no cambió; no se aplicó la traslación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Una traslación con vector $\\vec{v} = (a, b)$ mapea el punto $(x, y)$ a $(x + a, y + b)$. Aquí, $(3, 4) + (2, -1) = (5, 3)$.",
       "difficulty": "4",
       "images": [],
@@ -117,19 +117,19 @@
           "feedback": "Incorrecto. Reflejaste respecto al eje $y$ en lugar del eje $x$."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$(2, -5)$",
           "is_correct": true,
           "feedback": "Correcto. Reflejar respecto al eje $x$ cambia el signo de la coordenada $y$: $(x, y) \\to (x, -y)$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(5, 2)$",
           "is_correct": false,
           "feedback": "Incorrecto. Intercambiaste las coordenadas como si fuera una reflexión sobre la recta $y = x$."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La reflexión respecto al eje $x$ conserva la coordenada $x$ y cambia el signo de la coordenada $y$: $(x, y) \\to (x, -y)$. Aquí $(2, 5) \\to (2, -5)$.",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En Barranquilla, una alumna aplica una rotación de $90°$ en sentido antihorario al punto $P = (1, 0)$ con centro en el origen.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(1, 0)$",
           "is_correct": false,
           "feedback": "Incorrecto. El punto no cambió; no se aplicó la rotación."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$(-1, 0)$",
           "is_correct": false,
           "feedback": "Incorrecto. Es una rotación de $180°$ alrededor del origen."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$(0, 1)$",
           "is_correct": true,
           "feedback": "Correcto. Una rotación de $90°$ antihoraria lleva $(x, y)$ a $(-y, x)$, así que $(1, 0) \\to (0, 1)$."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Obtuviste el resultado de una rotación horaria, no antihoraria."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Una rotación de $90°$ en sentido antihorario con centro en el origen envía $(x, y)$ a $(-y, x)$. Aplicado a $(1, 0)$ se obtiene $(-0, 1) = (0, 1)$.",
       "difficulty": "6",
       "images": [],
@@ -249,13 +249,13 @@
           "feedback": "Incorrecto. No se aplicó la reflexión; el punto no cambió."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$(-1, 1)$",
           "is_correct": false,
           "feedback": "Incorrecto. Reflejaste respecto al eje $y$ en lugar de la recta $y = x$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(1, 1)$ con componentes intercambiadas, es decir, sigue siendo $(1, 1)$.",
           "is_correct": true,
           "feedback": "Correcto. La reflexión sobre $y = x$ intercambia las coordenadas: $(x, y) \\to (y, x)$. Aquí $(1, 1) \\to (1, 1)$."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Reflejaste respecto al origen, no respecto a $y = x$."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La reflexión respecto a la recta $y = x$ intercambia las coordenadas del punto: $(x, y) \\to (y, x)$. Para $(1, 1)$ el resultado es el mismo $(1, 1)$, ya que está sobre la recta. Para $B = (4, 1)$, la imagen sería $(1, 4)$; para $C = (2, 4)$, sería $(4, 2)$.",
       "difficulty": "6",
       "images": [],
@@ -341,13 +341,13 @@
           "feedback": "Incorrecto. Los vértices se mueven a nuevas posiciones; eso no se conserva."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El color del cuadrado, si es que tenía uno.",
           "is_correct": false,
           "feedback": "Incorrecto. La pregunta es sobre propiedades geométricas, no de color."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La forma y el tamaño del cuadrado, además de las longitudes de sus lados y la igualdad de sus ángulos.",
           "is_correct": true,
           "feedback": "Correcto. Las rotaciones son isometrías: conservan distancias, ángulos y, por tanto, la forma y el tamaño."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Sí se conserva el área, pero la afirmación es incompleta porque hay otras propiedades que también se conservan."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Las rotaciones son movimientos rígidos: conservan distancias entre puntos, medidas de ángulos, perímetros y áreas. Lo único que cambia es la posición y orientación de la figura en el plano.",
       "difficulty": "8",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "En Bogotá, una alumna combina una homotecia de factor $k = 2$ con una reflexión sobre el eje $y$ aplicadas al punto $Q = (3, 1)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(6, 2)$",
           "is_correct": false,
           "feedback": "Incorrecto. Solo aplicaste la homotecia, te faltó la reflexión sobre el eje $y$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$(3, 1)$",
           "is_correct": false,
           "feedback": "Incorrecto. No se aplicaron las transformaciones."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$(-6, 2)$",
           "is_correct": true,
           "feedback": "Correcto. Primero la homotecia: $(3, 1) \\to (6, 2)$; luego la reflexión sobre el eje $y$: $(6, 2) \\to (-6, 2)$."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Reflejaste sobre el eje $x$ en lugar del eje $y$."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Componer $H_2$ (homotecia de factor $2$) con $R_y$ (reflexión sobre el eje $y$) da: $R_y(H_2(3, 1)) = R_y(6, 2) = (-6, 2)$. El orden de aplicación es clave: primero la homotecia, después la reflexión.",
       "difficulty": "8",
       "images": [],
@@ -433,13 +433,13 @@
           "feedback": "Incorrecto. Sí se cancelan cuando se hacen sobre el mismo eje."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Es verdadera solo si las reflexiones son sobre ejes distintos.",
           "is_correct": false,
           "feedback": "Incorrecto. Sobre ejes distintos no se cancelan, sino que producen una rotación o traslación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es verdadera si se trata de la misma reflexión sobre el mismo eje, porque aplicarla dos veces regresa cada punto a su posición original.",
           "is_correct": true,
           "feedback": "Correcto. La composición de una reflexión consigo misma sobre el mismo eje equivale a la identidad."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. La afirmación es válida tanto en el plano como en el espacio."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Una reflexión es una transformación involutiva: aplicarla dos veces sobre el mismo eje da como resultado la identidad, ya que cada punto regresa a su posición original. En cambio, dos reflexiones sobre ejes paralelos producen una traslación, y dos reflexiones sobre ejes que se cortan producen una rotación.",
       "difficulty": "10",
       "images": [],

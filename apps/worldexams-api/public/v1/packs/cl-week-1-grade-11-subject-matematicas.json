@@ -13,31 +13,31 @@
       "context": "Diego está repasando la clasificación de los números en su colegio de Santiago.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Números Naturales ($\\mathbb{N}$)",
           "is_correct": false,
           "feedback": "Los números naturales son enteros positivos sin parte decimal."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Números Enteros ($\\mathbb{Z}$)",
           "is_correct": false,
           "feedback": "Los números enteros no incluyen raíces inexactas como $\\sqrt{2}$."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Números Racionales ($\\mathbb{Q}$)",
           "is_correct": false,
           "feedback": "Los racionales pueden escribirse como fracción de enteros; $\\sqrt{2}$ no."
         },
         {
-          "letter": "D",
+          "letter": "A",
           "text": "Números Irracionales ($\\mathbb{I}$)",
           "is_correct": true,
           "feedback": "$\\sqrt{2}$ tiene infinitos decimales no periódicos, por lo que es irracional."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": "El número $\\sqrt{2}$ es un número irracional porque no se puede expresar como la razón entre dos números enteros. Su representación decimal es infinita y no presenta un patrón repetitivo o período.",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "En una clase en Valparaíso, se discute el valor absoluto de distintos números.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "0",
           "is_correct": true,
           "feedback": "$|-5| = 5$ y $|3 - 8| = |-5| = 5$. Entonces $5 - 5 = 0$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "10",
           "is_correct": false,
           "feedback": "Has sumado los valores en lugar de restarlos."
@@ -127,7 +127,7 @@
           "feedback": "Revisa el cálculo de la resta de los valores absolutos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El valor absoluto de un número es su distancia al origen, siempre positiva o cero. $|-5| = 5$. Luego, calculamos lo dentro del segundo valor absoluto: $3 - 8 = -5$, y su valor absoluto es $|-5| = 5$. Finalmente, $5 - 5 = 0$.",
       "difficulty": "4",
       "images": [],
@@ -154,25 +154,25 @@
           "feedback": "$1/8$ es menor que $1/4$."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$3/8$",
           "is_correct": true,
           "feedback": "$1/4 = 2/8$ y $1/2 = 4/8$. Por lo tanto, $3/8$ está entre ellos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$5/8$",
           "is_correct": false,
           "feedback": "$5/8$ es mayor que $4/8$ (o $1/2$)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$0,2$",
           "is_correct": false,
           "feedback": "$0,2 = 1/5$, que es menor que $1/4$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Para comparar fracciones, es útil igualar denominadores. $1/4$ equivale a $2/8$ y $1/2$ equivale a $4/8$. Claramente, $3/8$ se encuentra entre $2/8$ y $4/8$.",
       "difficulty": "4",
       "images": [],
@@ -199,25 +199,25 @@
           "feedback": "Has redondeado demasiado pronto o de forma incorrecta."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "3,14",
           "is_correct": true,
           "feedback": "$1,73 + 1,41 = 3,14$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2,14",
           "is_correct": false,
           "feedback": "Error en la suma de las partes enteras."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "3,24",
           "is_correct": false,
           "feedback": "Error en la suma de las partes decimales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Al sumar aproximaciones de números irracionales, sumamos los valores decimales dados: $1,73$ (aproximación de $\\sqrt{3}$) más $1,41$ (aproximación de $\\sqrt{2}$), resultando en $3,14$.",
       "difficulty": "6",
       "images": [],
@@ -244,25 +244,25 @@
           "feedback": "Contaste mal los espacios hacia la derecha."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$4,5 \\times 10^{-5}$",
           "is_correct": true,
           "feedback": "Correcto, se mueve la coma 5 lugares a la derecha."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$45 \\times 10^{-6}$",
           "is_correct": false,
           "feedback": "En notación científica, el coeficiente debe estar entre 1 y 10."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$4,5 \\times 10^{5}$",
           "is_correct": false,
           "feedback": "El exponente debe ser negativo para números menores que 1."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La notación científica requiere un número entre 1 (inclusive) y 10, multiplicado por una potencia de 10. Para $0,000045$, desplazamos la coma 5 posiciones hacia la derecha para obtener $4,5$, por lo que el exponente es $-5$.",
       "difficulty": "6",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Solo calculaste el interés de un año."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "\\$220.000",
           "is_correct": false,
           "feedback": "Calculaste el interés para 2 años en lugar de 3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "\\$230.000",
           "is_correct": true,
           "feedback": "Correcto. Interés = $200.000 \\times 0,05 \\times 3 = 30.000$. Total = $230.000."
@@ -352,7 +352,7 @@
           "feedback": "Ese sería el cálculo para interés compuesto, no simple."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El interés simple se calcula multiplicando el capital inicial por la tasa de interés y por el tiempo: $I = P \\cdot r \\cdot t$. Aquí, $I = 200.000 \\cdot 0,05 \\cdot 3 = 30.000$. El monto total es el capital más el interés: $200.000 + 30.000 = 230.000$.",
       "difficulty": "6",
       "images": [],
@@ -379,13 +379,13 @@
           "feedback": "Ese es el valor del descuento, no el precio final."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "\\$10.200",
           "is_correct": true,
           "feedback": "$12.000 - (12.000 \\times 0,15) = 10.200$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "\\$10.800",
           "is_correct": false,
           "feedback": "Calculaste el 10% de descuento en lugar del 15%."
@@ -397,7 +397,7 @@
           "feedback": "Error en el cálculo de la resta del descuento."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para obtener el precio final con descuento, calculamos el 15% de \\$12.000 ($12.000 \\times 0,15 = 1.800$) y lo restamos al precio original: $12.000 - 1.800 = 10.200$. También se puede multiplicar directamente por $0,85$.",
       "difficulty": "6",
       "images": [],
@@ -418,31 +418,31 @@
       "context": "Camila analiza el resultado de multiplicar un número racional por uno irracional.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "0",
           "is_correct": true,
           "feedback": "Cualquier número real multiplicado por cero es siempre cero."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\pi$",
           "is_correct": false,
           "feedback": "Multiplicar por cero no mantiene el valor del otro número."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un número irracional distinto de cero.",
           "is_correct": false,
           "feedback": "El resultado es racional (cero)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "1",
           "is_correct": false,
           "feedback": "La multiplicación por cero resulta en cero, no en uno."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Una propiedad fundamental de los números reales es el elemento absorbente de la multiplicación, que es el cero. Sin importar si el otro número es racional o irracional (como $\\pi$), el producto siempre será 0.",
       "difficulty": "6",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Olvidaste elevar el radio al cubo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$36\\pi$",
           "is_correct": true,
           "feedback": "$r^3 = 27$. Luego $\\frac{4}{3} \\cdot 27 = 4 \\cdot 9 = 36$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$108\\pi$",
           "is_correct": false,
           "feedback": "Multiplicaste por $r^3$ pero no aplicaste la fracción $\\frac{4}{3}$."
@@ -487,7 +487,7 @@
           "feedback": "Elevaste al cubo pero no multiplicaste por $\\frac{4}{3}$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Sustituimos $r=3$ en la fórmula: $V = \\frac{4}{3}\\pi(3)^3 = \\frac{4}{3}\\pi(27)$. Simplificamos dividiendo 27 por 3, lo que da 9. Luego multiplicamos 4 por 9 para obtener 36. El resultado es $36\\pi$.",
       "difficulty": "8",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Las raíces no se pueden sumar directamente sumando sus argumentos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$4\\sqrt{2}$",
           "is_correct": false,
           "feedback": "Solo calculaste una parte de la suma."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$8\\sqrt{2}$",
           "is_correct": true,
           "feedback": "$\\sqrt{18} = 3\\sqrt{2}$ y $\\sqrt{50} = 5\\sqrt{2}$. Sumados dan $8\\sqrt{2}$."
@@ -532,7 +532,7 @@
           "feedback": "Multiplicaste los coeficientes en lugar de sumarlos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Para sumar raíces, primero simplificamos cada término buscando cuadrados perfectos: $\\sqrt{18} = \\sqrt{9 \\cdot 2} = 3\\sqrt{2}$ y $\\sqrt{50} = \\sqrt{25 \\cdot 2} = 5\\sqrt{2}$. Al tener el mismo radical, sumamos los coeficientes: $3 + 5 = 8$, resultando en $8\\sqrt{2}$.",
       "difficulty": "8",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Esa es la cantidad de horas, no el total acumulado."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$2^{20}$",
           "is_correct": false,
           "feedback": "Has multiplicado los exponentes, lo cual es incorrecto en este caso."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$2^9$",
           "is_correct": true,
           "feedback": "$2^5 \\cdot 2^4 = 2^{5+4} = 2^9$."
@@ -577,7 +577,7 @@
           "feedback": "La población crece de forma multiplicativa, no aditiva."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Si la población se duplica cada hora, después de 4 horas se habrá multiplicado por $2^4$. Multiplicamos la cantidad inicial por este factor: $2^5 \\cdot 2^4$. Aplicando la propiedad de potencias de igual base, sumamos los exponentes: $5 + 4 = 9$.",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Olvidaste el factor 2 del numerador."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\frac{\\sqrt{6}}{3}$",
           "is_correct": true,
           "feedback": "$\\frac{2\\sqrt{6}}{6} = \\frac{\\sqrt{6}}{3}$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{2\\sqrt{6}}{3}$",
           "is_correct": false,
           "feedback": "Error al simplificar la fracción final."
@@ -622,7 +622,7 @@
           "feedback": "El denominador no desaparece sin dejar rastro."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para racionalizar, multiplicamos numerador y denominador por $\\sqrt{6}$: $\\frac{2 \\cdot \\sqrt{6}}{\\sqrt{6} \\cdot \\sqrt{6}} = \\frac{2\\sqrt{6}}{6}$. Finalmente, simplificamos la fracción dividiendo por 2: $\\frac{\\sqrt{6}}{3}$.",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Un estudiante plantea una duda sobre la existencia de números entre dos racionales muy cercanos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$A$ y $B$ representan el mismo número real.",
           "is_correct": false,
           "feedback": "Falso. $1/3$ es $0,333...$ (infinito), mientras $0,33$ es finito."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$B > A$",
           "is_correct": true,
           "feedback": "$1/3 \\approx 0,3333$, lo cual es mayor que $0,3300$."
@@ -757,7 +757,7 @@
           "feedback": "$0,33$ es racional porque se puede escribir como $33/100$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "$B = 1/3$ es un número decimal periódico $0,333...$. Al comparar con $A = 0,33$ (que es $0,330$), vemos que a partir de la milésima, $B$ tiene un 3 y $A$ tiene un 0. Por lo tanto, $B$ es mayor que $A$.",
       "difficulty": "10",
       "images": [],
@@ -784,25 +784,25 @@
           "feedback": "Error en el cálculo de las potencias."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "17",
           "is_correct": true,
           "feedback": "$2^3 + 3^2 = 8 + 9 = 17$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "13",
           "is_correct": false,
           "feedback": "Calculaste mal una de las potencias."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "31",
           "is_correct": false,
           "feedback": "Error aritmético mayor."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Aplicamos la definición de la operación: sustituimos $x=2$ e $y=3$. Entonces $2 \\star 3 = 2^3 + 3^2$. Calculamos cada potencia: $2^3 = 8$ y $3^2 = 9$. Sumamos los resultados: $8 + 9 = 17$.",
       "difficulty": "10",
       "images": [],
@@ -835,19 +835,19 @@
           "feedback": "Las raíces cúbicas de números negativos sí existen en $\\mathbb{R}$."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "-8",
           "is_correct": true,
           "feedback": "$(-2)^3 = -8$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "8",
           "is_correct": false,
           "feedback": "Olvidaste mantener el signo al elevar a una potencia impar."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Para despejar $x$, elevamos ambos lados de la ecuación al cubo: $(\\sqrt[3]{x})^3 = (-2)^3$. Esto nos da $x = -2 \\cdot -2 \\cdot -2 = -8$. Las raíces de índice impar conservan el signo de la base.",
       "difficulty": "10",
       "images": [],
@@ -874,13 +874,13 @@
           "feedback": "La suma de estas raíces no exactas es irracional."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$(\\sqrt{3} + \\sqrt{2})(\\sqrt{3} - \\sqrt{2})$",
           "is_correct": true,
           "feedback": "Es una suma por su diferencia: $3 - 2 = 1$, que es racional."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\pi / 2$",
           "is_correct": false,
           "feedback": "Un irracional dividido por un racional no nulo es irracional."
@@ -892,7 +892,7 @@
           "feedback": "$\\sqrt{8} = 2\\sqrt{2}$, al dividir por 2 queda $\\sqrt{2}$, que es irracional."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La opción B es un producto notable (suma por su diferencia), cuya fórmula es $(a+b)(a-b) = a^2 - b^2$. Aplicándola: $(\\sqrt{3})^2 - (\\sqrt{2})^2 = 3 - 2 = 1$. Dado que 1 es un número entero, también es un número racional.",
       "difficulty": "10",
       "images": [],
@@ -913,31 +913,31 @@
       "context": "Diego está repasando la clasificación de los números en su colegio de Santiago.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Números Naturales ($\\mathbb{N}$)",
           "is_correct": false,
           "feedback": "Los números naturales son enteros positivos sin parte decimal."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Números Enteros ($\\mathbb{Z}$)",
           "is_correct": false,
           "feedback": "Los números enteros no incluyen raíces inexactas como $\\sqrt{2}$."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Números Racionales ($\\mathbb{Q}$)",
           "is_correct": false,
           "feedback": "Los racionales pueden escribirse como fracción de enteros; $\\sqrt{2}$ no."
         },
         {
-          "letter": "D",
+          "letter": "A",
           "text": "Números Irracionales ($\\mathbb{I}$)",
           "is_correct": true,
           "feedback": "$\\sqrt{2}$ tiene infinitos decimales no periódicos, por lo que es irracional."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": "El número $\\sqrt{2}$ es un número irracional porque no se puede expresar como la razón entre dos números enteros. Su representación decimal es infinita y no presenta un patrón repetitivo o período.",
       "difficulty": "4",
       "images": [],
@@ -970,19 +970,19 @@
           "feedback": "Falso, existen los números irracionales que también son reales."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "El conjunto de los números reales es la unión de racionales e irracionales.",
           "is_correct": true,
           "feedback": "Correcto. $\\mathbb{R} = \\mathbb{Q} \\cup \\mathbb{I}$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El número cero es un número natural.",
           "is_correct": false,
           "feedback": "En el currículo chileno, los naturales ($\\mathbb{N}$) suelen comenzar desde el 1."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El conjunto de los números reales ($\\mathbb{R}$) se define como la unión del conjunto de los números racionales ($\\mathbb{Q}$) y el conjunto de los números irracionales ($\\mathbb{I}$). Cualquier número que se encuentre en la recta numérica es un número real.",
       "difficulty": "4",
       "images": [],
@@ -1003,31 +1003,31 @@
       "context": "En una clase en Valparaíso, se discute el valor absoluto de distintos números.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "0",
           "is_correct": true,
           "feedback": "$|-5| = 5$ y $|3 - 8| = |-5| = 5$. Entonces $5 - 5 = 0$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "10",
           "is_correct": false,
           "feedback": "Has sumado los valores en lugar de restarlos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "-10",
           "is_correct": false,
           "feedback": "El valor absoluto siempre es no negativo. Revisa la operación."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "5",
           "is_correct": false,
           "feedback": "Revisa el cálculo de la resta de los valores absolutos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El valor absoluto de un número es su distancia al origen, siempre positiva o cero. $|-5| = 5$. Luego, calculamos lo dentro del segundo valor absoluto: $3 - 8 = -5$, y su valor absoluto es $|-5| = 5$. Finalmente, $5 - 5 = 0$.",
       "difficulty": "4",
       "images": [],
@@ -1054,13 +1054,13 @@
           "feedback": "$1/8$ es menor que $1/4$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$3/8$",
           "is_correct": true,
           "feedback": "$1/4 = 2/8$ y $1/2 = 4/8$. Por lo tanto, $3/8$ está entre ellos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$5/8$",
           "is_correct": false,
           "feedback": "$5/8$ es mayor que $4/8$ (o $1/2$)."
@@ -1072,7 +1072,7 @@
           "feedback": "$0,2 = 1/5$, que es menor que $1/4$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para comparar fracciones, es útil igualar denominadores. $1/4$ equivale a $2/8$ y $1/2$ equivale a $4/8$. Claramente, $3/8$ se encuentra entre $2/8$ y $4/8$.",
       "difficulty": "4",
       "images": [],
@@ -1099,13 +1099,13 @@
           "feedback": "Has redondeado demasiado pronto o de forma incorrecta."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "3,14",
           "is_correct": true,
           "feedback": "$1,73 + 1,41 = 3,14$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2,14",
           "is_correct": false,
           "feedback": "Error en la suma de las partes enteras."
@@ -1117,7 +1117,7 @@
           "feedback": "Error en la suma de las partes decimales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Al sumar aproximaciones de números irracionales, sumamos los valores decimales dados: $1,73$ (aproximación de $\\sqrt{3}$) más $1,41$ (aproximación de $\\sqrt{2}$), resultando en $3,14$.",
       "difficulty": "6",
       "images": [],
@@ -1144,13 +1144,13 @@
           "feedback": "Contaste mal los espacios hacia la derecha."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$4,5 \\times 10^{-5}$",
           "is_correct": true,
           "feedback": "Correcto, se mueve la coma 5 lugares a la derecha."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$45 \\times 10^{-6}$",
           "is_correct": false,
           "feedback": "En notación científica, el coeficiente debe estar entre 1 y 10."
@@ -1162,7 +1162,7 @@
           "feedback": "El exponente debe ser negativo para números menores que 1."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La notación científica requiere un número entre 1 (inclusive) y 10, multiplicado por una potencia de 10. Para $0,000045$, desplazamos la coma 5 posiciones hacia la derecha para obtener $4,5$, por lo que el exponente es $-5$.",
       "difficulty": "6",
       "images": [],
@@ -1189,13 +1189,13 @@
           "feedback": "$5^2=25$ y $6^2=36$; muy bajo para 50."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Exactamente 7",
           "is_correct": false,
           "feedback": "$7^2=49$, se acerca pero no es exacto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Entre 7 y 8",
           "is_correct": true,
           "feedback": "$7^2=49$ y $8^2=64$. Por lo tanto, $\\sqrt{50}$ está entre 7 y 8."
@@ -1207,7 +1207,7 @@
           "feedback": "$8^2=64$; ya se pasó de 50."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El lado de un cuadrado es la raíz cuadrada de su área. Como $7^2 = 49$ y $8^2 = 64$, la raíz cuadrada de 50 debe ser un número decimal comprendido entre 7 y 8 (específicamente $7,07$ aproximadamente).",
       "difficulty": "6",
       "images": [],
@@ -1228,19 +1228,19 @@
       "context": "Valentina calcula el interés simple de un ahorro en una cuenta bancaria.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "\\$210.000",
           "is_correct": false,
           "feedback": "Solo calculaste el interés de un año."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "\\$220.000",
           "is_correct": false,
           "feedback": "Calculaste el interés para 2 años en lugar de 3."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "\\$230.000",
           "is_correct": true,
           "feedback": "Correcto. Interés = $200.000 \\times 0,05 \\times 3 = 30.000$. Total = $230.000."
@@ -1252,7 +1252,7 @@
           "feedback": "Ese sería el cálculo para interés compuesto, no simple."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El interés simple se calcula multiplicando el capital inicial por la tasa de interés y por el tiempo: $I = P \\cdot r \\cdot t$. Aquí, $I = 200.000 \\cdot 0,05 \\cdot 3 = 30.000$. El monto total es el capital más el interés: $200.000 + 30.000 = 230.000$.",
       "difficulty": "6",
       "images": [],
@@ -1279,13 +1279,13 @@
           "feedback": "Ese es el valor del descuento, no el precio final."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "\\$10.200",
           "is_correct": true,
           "feedback": "$12.000 - (12.000 \\times 0,15) = 10.200$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "\\$10.800",
           "is_correct": false,
           "feedback": "Calculaste el 10% de descuento en lugar del 15%."
@@ -1297,7 +1297,7 @@
           "feedback": "Error en el cálculo de la resta del descuento."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para obtener el precio final con descuento, calculamos el 15% de \\$12.000 ($12.000 \\times 0,15 = 1.800$) y lo restamos al precio original: $12.000 - 1.800 = 10.200$. También se puede multiplicar directamente por $0,85$.",
       "difficulty": "6",
       "images": [],
@@ -1318,19 +1318,19 @@
       "context": "Camila analiza el resultado de multiplicar un número racional por uno irracional.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "0",
           "is_correct": true,
           "feedback": "Cualquier número real multiplicado por cero es siempre cero."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\pi$",
           "is_correct": false,
           "feedback": "Multiplicar por cero no mantiene el valor del otro número."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un número irracional distinto de cero.",
           "is_correct": false,
           "feedback": "El resultado es racional (cero)."
@@ -1342,7 +1342,7 @@
           "feedback": "La multiplicación por cero resulta en cero, no en uno."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Una propiedad fundamental de los números reales es el elemento absorbente de la multiplicación, que es el cero. Sin importar si el otro número es racional o irracional (como $\\pi$), el producto siempre será 0.",
       "difficulty": "6",
       "images": [],
@@ -1369,25 +1369,25 @@
           "feedback": "Olvidaste elevar el radio al cubo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$36\\pi$",
           "is_correct": true,
           "feedback": "$r^3 = 27$. Luego $\\frac{4}{3} \\cdot 27 = 4 \\cdot 9 = 36$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$108\\pi$",
           "is_correct": false,
           "feedback": "Multiplicaste por $r^3$ pero no aplicaste la fracción $\\frac{4}{3}$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$27\\pi$",
           "is_correct": false,
           "feedback": "Elevaste al cubo pero no multiplicaste por $\\frac{4}{3}$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Sustituimos $r=3$ en la fórmula: $V = \\frac{4}{3}\\pi(3)^3 = \\frac{4}{3}\\pi(27)$. Simplificamos dividiendo 27 por 3, lo que da 9. Luego multiplicamos 4 por 9 para obtener 36. El resultado es $36\\pi$.",
       "difficulty": "8",
       "images": [],
@@ -1459,13 +1459,13 @@
           "feedback": "Esa es la cantidad de horas, no el total acumulado."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$2^{20}$",
           "is_correct": false,
           "feedback": "Has multiplicado los exponentes, lo cual es incorrecto en este caso."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$2^9$",
           "is_correct": true,
           "feedback": "$2^5 \\cdot 2^4 = 2^{5+4} = 2^9$."
@@ -1477,7 +1477,7 @@
           "feedback": "La población crece de forma multiplicativa, no aditiva."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Si la población se duplica cada hora, después de 4 horas se habrá multiplicado por $2^4$. Multiplicamos la cantidad inicial por este factor: $2^5 \\cdot 2^4$. Aplicando la propiedad de potencias de igual base, sumamos los exponentes: $5 + 4 = 9$.",
       "difficulty": "8",
       "images": [],
@@ -1504,13 +1504,13 @@
           "feedback": "Olvidaste el factor 2 del numerador."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\frac{\\sqrt{6}}{3}$",
           "is_correct": true,
           "feedback": "$\\frac{2\\sqrt{6}}{6} = \\frac{\\sqrt{6}}{3}$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{2\\sqrt{6}}{3}$",
           "is_correct": false,
           "feedback": "Error al simplificar la fracción final."
@@ -1522,7 +1522,7 @@
           "feedback": "El denominador no desaparece sin dejar rastro."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para racionalizar, multiplicamos numerador y denominador por $\\sqrt{6}$: $\\frac{2 \\cdot \\sqrt{6}}{\\sqrt{6} \\cdot \\sqrt{6}} = \\frac{2\\sqrt{6}}{6}$. Finalmente, simplificamos la fracción dividiendo por 2: $\\frac{\\sqrt{6}}{3}$.",
       "difficulty": "8",
       "images": [],
@@ -1594,13 +1594,13 @@
           "feedback": "Los porcentajes no se anulan así; se aplican sobre bases distintas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "\\$9.900",
           "is_correct": true,
           "feedback": "$10.000 \\cdot 1,1 = 11.000$; luego $11.000 \\cdot 0,9 = 9.900$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "\\$10.100",
           "is_correct": false,
           "feedback": "Calculaste un aumento neto, pero hay una disminución."
@@ -1612,7 +1612,7 @@
           "feedback": "Error al calcular los pasos sucesivos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Primero el precio sube: $10.000 + 1.000 = 11.000$. Luego, baja el 10% de ese nuevo valor: $11.000 \\cdot 0,1 = 1.100$. Restamos: $11.000 - 1.100 = 9.900$. Siempre que se sube y baja el mismo porcentaje, el valor final es menor al inicial.",
       "difficulty": "8",
       "images": [],
@@ -1639,25 +1639,25 @@
           "feedback": "Falso. $1/3$ es $0,333...$ (infinito), mientras $0,33$ es finito."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$B > A$",
           "is_correct": true,
           "feedback": "$1/3 \\approx 0,3333$, lo cual es mayor que $0,3300$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No existen números reales entre $A$ y $B$.",
           "is_correct": false,
           "feedback": "Entre dos números reales siempre existen infinitos números."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$A$ es un número irracional.",
           "is_correct": false,
           "feedback": "$0,33$ es racional porque se puede escribir como $33/100$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "$B = 1/3$ es un número decimal periódico $0,333...$. Al comparar con $A = 0,33$ (que es $0,330$), vemos que a partir de la milésima, $B$ tiene un 3 y $A$ tiene un 0. Por lo tanto, $B$ es mayor que $A$.",
       "difficulty": "10",
       "images": [],
@@ -1684,13 +1684,13 @@
           "feedback": "Error en el cálculo de las potencias."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "17",
           "is_correct": true,
           "feedback": "$2^3 + 3^2 = 8 + 9 = 17$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "13",
           "is_correct": false,
           "feedback": "Calculaste mal una de las potencias."
@@ -1702,7 +1702,7 @@
           "feedback": "Error aritmético mayor."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Aplicamos la definición de la operación: sustituimos $x=2$ e $y=3$. Entonces $2 \\star 3 = 2^3 + 3^2$. Calculamos cada potencia: $2^3 = 8$ y $3^2 = 9$. Sumamos los resultados: $8 + 9 = 17$.",
       "difficulty": "10",
       "images": [],
@@ -1768,13 +1768,13 @@
       "context": "En un examen de nivel avanzado en Puerto Montt, se pregunta por la naturaleza de la suma de raíces.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\sqrt{2} + \\sqrt{3}$",
           "is_correct": false,
           "feedback": "La suma de estas raíces no exactas es irracional."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(\\sqrt{3} + \\sqrt{2})(\\sqrt{3} - \\sqrt{2})$",
           "is_correct": true,
           "feedback": "Es una suma por su diferencia: $3 - 2 = 1$, que es racional."
@@ -1792,7 +1792,7 @@
           "feedback": "$\\sqrt{8} = 2\\sqrt{2}$, al dividir por 2 queda $\\sqrt{2}$, que es irracional."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La opción B es un producto notable (suma por su diferencia), cuya fórmula es $(a+b)(a-b) = a^2 - b^2$. Aplicándola: $(\\sqrt{3})^2 - (\\sqrt{2})^2 = 3 - 2 = 1$. Dado que 1 es un número entero, también es un número racional.",
       "difficulty": "10",
       "images": [],

@@ -13,13 +13,13 @@
       "context": "En el poema *Nocturno III* de José Asunción Silva: \"Y eran una sola sombra larga / y eran una sola sombra larga / y eran una sola sombra larga...\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Recrea el movimiento hipnótico de las sombras sobre la hierba y la fusión espiritual eterna entre los dos amantes más allá de la muerte.",
           "is_correct": true,
           "feedback": "La anáfora rítmica intensifica la atmósfera melancólica, convirtiendo la obsesión del luto en una musicalidad envolvente y trágica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demuestra que el poeta carecía de vocabulario para describir la noche en Bogotá.",
           "is_correct": false,
           "feedback": "La repetición es una decisión métrica y poética genial, clave del Nocturno Silva."
@@ -37,7 +37,7 @@
           "feedback": "Es un recurso de intensificación estética para transmitir la obsesión y el dolor."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La anáfora y el ritmo obsesivo en el *Nocturno III* recrean la atmósfera melancólica del Modernismo y la unión mística en la sombra.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "En la frase de *La vorágine* de Rivera: \"La selva es la catedral de la pesadumbre, donde dioses desconocidos murmuran la venganza de las plantas\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Una metáfora elaborada que traslada la majestuosidad y sacralidad de la arquitectura religiosa hacia un espacio de sufrimiento y devoración.",
           "is_correct": true,
           "feedback": "La metáfora asimila la selva a un templo monumetal pero invierte la devoción en opresión y pesadumbre."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un símil explícito mediante el uso del nexo \"como\" o \"tal cual\".",
           "is_correct": false,
           "feedback": "No utiliza nexo comparativo explícito; afirma directamente la identidad metafórica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una hipérbole numérica referente a la cantidad de árboles por hectárea.",
           "is_correct": false,
           "feedback": "No se trata de una cifra sino de un desplazamiento poético y conceptual."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Un pleonasmo que repite innecesariamente la misma palabra dos veces.",
           "is_correct": false,
           "feedback": "Es una metáfora de densa riqueza expresiva y simbolismo trágico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La metáfora de la selva como catedral de pesadumbre condensa el carácter numinoso, bello y aterrador de la naturaleza amazónica.",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En un pasaje de *El coronel no tiene quien le escriba*: \"El coronel destapó el tarro del café y comprobó que no había más que una cucharadita. Raspó las latas con el cuchillo hasta que saltaron las virutas de óxido\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Materializa la indigencia extrema y la dignidad dolorosa del personaje sin necesidad de explicaciones abstractas.",
           "is_correct": true,
           "feedback": "El detalle concreto de raspar el óxido para extraer el último grano de café muestra la miseria cotidiana con aplastante fuerza pragmática."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demuestra que el coronel era un experto en la preparación de bebidas minerales.",
           "is_correct": false,
           "feedback": "Muestra la amargura de la falta de alimento y la escasez extrema."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sostiene que la lata de café había sido comprada en un mercado extranjero.",
           "is_correct": false,
           "feedback": "Se enfoca en la precariedad del hogar del veterano abandono por el Estado."
@@ -175,7 +175,7 @@
           "feedback": "Al contrario, intensifica la compasión y el respeto hacia la dignidad del anciano."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El realismo del detalle concreto en García Márquez utiliza el objeto oxidado como poderoso síntoma de la miseria y la dignidad.",
       "difficulty": "4",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "En *María* de Jorge Isaacs, cuando la protagonista sufre un ataque de epilepsia, el perro *Mayo* aúlla en la oscuridad del pasillo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Construir un clima de fatalidad donde la naturaleza y los animales intuyen trágicamente la inminencia de la muerte de María.",
           "is_correct": true,
           "feedback": "En el Romanticismo, los presagios de la naturaleza (viento, aves agoreras, aullidos) anticipan el desenlace infausto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Indicar que el animal tenía hambre por falta de alimento en la hacienda *El Paraíso*.",
           "is_correct": false,
           "feedback": "El aullido romántico atiende a la atmósfera de presagio trágico, no a una necesidad física."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Demuestra la incomodidad del perro ante la llegada de visitantes desconocidos.",
           "is_correct": false,
           "feedback": "Mayo es el perro fiel de la familia cuyo comportamiento espejea el dolor de Efraín."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Sustituye la presencia del médico por una consulta con animales.",
           "is_correct": false,
           "feedback": "Es un recurso de intensificación dramática propio del idilio trágico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El presagio animal en la novela romántica actúa como indicio lírico de la fatalidad que se cierne sobre los amantes.",
       "difficulty": "6",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "En un verso de León de Greiff: \"Mi voz es el viento que pasa / y el viento es mi voz que no cesa\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Invierte el orden de los términos (\"voz/viento\" y \"viento/voz\") para afirmar la plena fusión de la poesía con los elementos naturales.",
           "is_correct": true,
           "feedback": "El quiasmo poético crea una simetría musical que identifica la voz del poeta con la ligereza inasible del viento."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demuestra un error de sintaxis que debió ser corregido por el editor.",
           "is_correct": false,
           "feedback": "El quiasmo es un recurso retórico de altísima sofisticación expresiva."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Informa sobre la velocidad de las corrientes de aire en las montañas de Antioquia.",
           "is_correct": false,
           "feedback": "Es una afirmación sobre la sustancia poética del sujeto lírico."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Obliga a pronunciar el verso dando tres vueltas sobre el mismo pie.",
           "is_correct": false,
           "feedback": "Es una estructura sintáctica que busca la eufonía y el equilibrio estético."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El quiasmo o retruécano en León de Greiff identifica al sujeto poético con la libertad inconstante y lírica del viento.",
       "difficulty": "6",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En un pasaje satírico de *Sin remedio* de Antonio Caballero, se describe una recepción diplomática en Bogotá como \"un desfile de trajes alquilados y sonrisas de dentadura postiza\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El uso de la metonimia satírica para desmitificar la elegancia de la clase alta mostrando la falsedad de sus modales.",
           "is_correct": true,
           "feedback": "Caballero ataca el arribismo burgués reduciendo la distinción social a disfraces prestados y gestos inauténticos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El elogio sincero de las costumbres elegantes del cuerpo diplomático.",
           "is_correct": false,
           "feedback": "El tono es abiertamente irónico, mordaz y desmitificador."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un informe médico sobre el estado de la salud oral en los ministerios.",
           "is_correct": false,
           "feedback": "Las dentaduras postizas son una metáfora de la falsedad de las apariencias."
@@ -359,7 +359,7 @@
           "feedback": "Es una sátira mordaz sobre la inautenticidad de las élites bogotanas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La metonimia satírica en Caballero desmonta la vanidad de la clase alta al enfocar la falsedad de los trajes y las sonrisas impostadas.",
       "difficulty": "6",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "En un poema de Eduardo Cote Lamus: \"La tierra es un cadáver de piedra que gira en el espacio\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Una imagen desolada y trágica que presenta al mundo como un espacio inerte arrastrado por el vacío.",
           "is_correct": true,
           "feedback": "Cote Lamus expresa la angustia existencial de la posguerra concibiendo al planeta como una tumba helada en movimiento."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La confirmación de que la Tierra está compuesta exclusivamente de minerales útiles para la construcción.",
           "is_correct": false,
           "feedback": "La imagen es de una sobrecogedora orfandad existencial y metafísica."
@@ -451,7 +451,7 @@
           "feedback": "Transforma el dato astronómico en una metáfora trágica sobre el destino humano."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La metaforización de la Tierra como cadáver de piedra manifiesta la sensibilidad existencialista de la poesía colombiana de mediados del siglo XX.",
       "difficulty": "6",
       "images": [],
@@ -473,31 +473,31 @@
       "context": "En la novela *Cien años de soledad*, cuando muere José Arcadio Buendía, cae del cielo una llovizna de minúsculas flores amarillas que tupió los techos y cubrió las calles.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Acompañar la partida de una figura mítica con un tributo de la naturaleza que embellece la muerte con poesía sutil.",
           "is_correct": true,
           "feedback": "La lluvia de flores amarillas traslada el duelo familiar a la dimensión del prodigio natural, consagrando el fallecimiento del fundador."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demostrar un fenómeno meteorológico real causado por la polinización de los árboles de guayacán.",
           "is_correct": false,
           "feedback": "Opera en el orden del realismo mágico, no como un reporte de botánica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Indicar que el pueblo sufría de una plaga de parásitos agrícolas destructivos.",
           "is_correct": false,
           "feedback": "Las flores son un regalo poético de la naturaleza ante la partida del patriarca."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Advierte sobre los riesgos de caminar sin sombrilla durante las tardes de lluvia.",
           "is_correct": false,
           "feedback": "Transforma la muerte en un acontecimiento de sobrecogedora belleza mítica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La llovizna de flores amarillas es un emblema del realismo mágico: lo prodigioso rinde homenaje poético a la partida de un mito.",
       "difficulty": "8",
       "images": [],
@@ -519,31 +519,31 @@
       "context": "En un fragmento de *La perra* de Pilar Quintana: \"La selva no perdonaba nada. La selva esperaba con la boca abierta para devorar cualquier descuido\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La personificación o prosopopeya que convierte al entorno natural en un depredador consciente y voraz.",
           "is_correct": true,
           "feedback": "Quintana personifica a la selva como una bestia implacable que acecha la fragilidad de los habitantes de la costa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un pleonasmo que repite la palabra boca sin aportar significado nuevo.",
           "is_correct": false,
           "feedback": "La atribución de intencionalidad devoradora es una personificación de alta eficacia dramática."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una ironía alegre que celebra la biodiversidad de la fauna nacional.",
           "is_correct": false,
           "feedback": "Construye un clima de amenaza constante y vulnerabilidad humana."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Una cita textual de un tratado sobre la protección de la fauna salvaje.",
           "is_correct": false,
           "feedback": "Es un recurso estilístico que intensifica la hostilidad del paisaje."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La personificación de la selva como entidad voraz acentúa el sentimiento de desamparo y la tensión trágica de los personajes.",
       "difficulty": "8",
       "images": [],
@@ -565,19 +565,19 @@
       "context": "En un verso de Jorge Gaitán Durán (*Si mañana despierto*): \"Quiero el amor de la carne en fuego / antes que la noche me cubra con su manto de ceniza\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Enfrenta la intensidad del deseo y la vitalidad del cuerpo ante la inminencia de la muerte y la nada.",
           "is_correct": true,
           "feedback": "Gaitán Durán (fundador de la revista *Mito*) afirma el erotismo como el único refugio dichoso frente a la brevedad de la vida."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demuestra que el poeta trabajaba en una fábrica de materiales de construcción.",
           "is_correct": false,
           "feedback": "Es una reflexión poética sobre la pasión y la mortalidad del ser humano."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Exige la quema inmediata de todos los manuscritos del autor.",
           "is_correct": false,
           "feedback": "La ceniza es una clásica metáfora de la muerte y la caducidad del cuerpo."
@@ -589,7 +589,7 @@
           "feedback": "Contrapone el ardor de la vida sensual con el silencio fúnebre final."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La poética del grupo *Mito* en Gaitán Durán celebra la pasión carnal como la afirmación heroica de la vida frente a la muerte.",
       "difficulty": "8",
       "images": [],
@@ -611,31 +611,31 @@
       "context": "En un texto irónico de Héctor Abad Faciolince sobre la burocracia universitaria: \"Los formularios son como los dioses paganos: exigen sacrificios continuos de papel y tinta sin conceder milagros a cambio\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Desmitifica el culto a los trámites mostrando la irracionalidad y la vacuidad de exigir papeleos inútiles.",
           "is_correct": true,
           "feedback": "Faciolince utiliza el símil con los dioses paganos para denunciar con humor amargo el absurdo de la devoción burocrática."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demuestra la conveniencia de duplicar el número de formularios en los ministerios.",
           "is_correct": false,
           "feedback": "La comparación ataca precisamente el exceso de trámites y la pérdida de tiempo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Afirma que las universidades deben convertirse en templos de adoración antigua.",
           "is_correct": false,
           "feedback": "Usa la metáfora religiosa de forma desacralizadora para ridiculizar el papeleo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Recomienda a los estudiantes no volver a utilizar tinta ni papel.",
           "is_correct": false,
           "feedback": "Critica la ineficiencia de la administración sin prohibir los insumos escolares."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El símil satírico desacredita el culto burocrático al revelar la desproporción entre el esfuerzo exigido y el nulo beneficio obtenido.",
       "difficulty": "8",
       "images": [],
@@ -657,13 +657,13 @@
       "context": "En un verso de Giovanni Quessep: \"Cantaba la alondra en el árbol de mármol del olvido\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Evoca un territorio de elegía y petrificación de la memoria donde la vida (alondra) intenta cantar en medio de la fúnebre rigidez del olvido.",
           "is_correct": true,
           "feedback": "Quessep traslada la escena a un mundo fabuloso y melancólico donde el dolor se vuelve piedra bella."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demuestra que las alondras prefieren nidificar en estatuas antes que en ramas verdaderas.",
           "is_correct": false,
           "feedback": "Es una imagen poética de alta carga simbólica, lejos del reporte ornitológico."
@@ -681,7 +681,7 @@
           "feedback": "Construye un clima de lirismo atemporal y soledad poética."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La poética de Quessep combina la gracia de la canción con la melancolía de la piedra para evocar la patria perdida de la infancia.",
       "difficulty": "8",
       "images": [],
@@ -703,19 +703,19 @@
       "context": "En la obra *El campesino de las botas de caucho*, el protagonista afirma: \"Mis botas no le temen al barro de la trocha; le temen al barro de la mentira de los políticos\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Contrapone el barro físico del camino (trabajo y dignidad) con el barro metafórico de la corrupción y la falsa promesa política.",
           "is_correct": true,
           "feedback": "La polisemia del vocablo barro permite dignificar la rudeza del campo y denunciar la suciedad ética de la demagogia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demuestra que las botas de caucho son el único calzado vendido en las tiendas del pueblo.",
           "is_correct": false,
           "feedback": "Usa el calzado como símbolo de la faena rural digna frente a la mentira."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Exige la pavimentación inmediata de todos los caminos veredales del país.",
           "is_correct": false,
           "feedback": "Aunque refleja el mal estado de las vías, el foco es la crítica a la deshonestidad."
@@ -727,7 +727,7 @@
           "feedback": "Utiliza la suciedad del lodo como metáfora de la degradación moral."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La polisemia del vocablo \"barro\" permite contraponer con ironía popular la aspereza limpia de la tierra con la podredumbre moral de la corrupción.",
       "difficulty": "8",
       "images": [],
@@ -749,31 +749,31 @@
       "context": "En un relato de Tomas González (*La luz difícil*), el padre contempla desde la ventana de Nueva York la luz de la tarde mientras espera la noticia de la eutanasia de su hijo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La luz tenue y la sobriedad verbal evitan el dramatismo facilista, dotando al dolor paterno de una serena y desgarradora dignidad.",
           "is_correct": true,
           "feedback": "Tomás González destaca por una prosa depurada donde la contemplación de la luz y la naturaleza sostiene la tragedia sin gritos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demuestra que los apartamentos en Nueva York tienen ventanales muy espaciosos.",
           "is_correct": false,
           "feedback": "La luz es la metáfora de la vida que se apaga y el amor que permanece."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Critica el gasto de energía eléctrica en las grandes metrópolis industriales.",
           "is_correct": false,
           "feedback": "No es un ensayo sobre energía sino una obra maestra sobre el duelo y la piedad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Obliga al lector a buscar la noticia en los titulares de la prensa de la mañana.",
           "is_correct": false,
           "feedback": "Mantiene el foco en la vivencia interna del padre y la belleza triste del momento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La contención verbal y la precisión del detalle natural en Tomás González otorgan al duelo una profunda e inolvidable dignidad poética.",
       "difficulty": "10",
       "images": [],
@@ -795,31 +795,31 @@
       "context": "En un verso de Piedad Bonnett: \"Hay cicatrices que no se ven en la piel, pero sangran cada vez que la memoria las toca\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Traduce el dolor psicológico y el trauma en una herida física abierta que la evocación del pasado vuelve a activar.",
           "is_correct": true,
           "feedback": "Bonnett traslada la lesión corporal al plano afectivo, mostrando cómo el duelo o el agravio persisten ocultos en la conciencia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demuestra que la poetisa padecía de una afección en la circulación sanguínea.",
           "is_correct": false,
           "feedback": "Es una conmovedora metáfora sobre la huella indeleble del sufrimiento moral."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Recomienda el uso de vendajes médicos para curar las heridas de la memoria.",
           "is_correct": false,
           "feedback": "Se refiere a la dimensión intangible de la pérdida y la nostalgia."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Prohíbe a los lectores recordar acontecimientos dolorosos de su infancia.",
           "is_correct": false,
           "feedback": "Visibiliza la fragilidad humana y la necesidad de nombrar el dolor para sanarlo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La poética de Piedad Bonnett explora la vulnerabilidad humana mediante metáforas corporales que nombran la herida de la pérdida.",
       "difficulty": "10",
       "images": [],
@@ -841,13 +841,13 @@
       "context": "En una crónica de Germán Castro Caycedo (*Mi alma se la dejo al diablo*), se transcribe la última carta encontrada en la ropa de un guaquero muerto en la selva.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Conecta la investigación periodística con la emoción desgarradora de la voz real que se apaga en la soledad del territorio.",
           "is_correct": true,
           "feedback": "Castro Caycedo utiliza el documento humano sin retoques para impactar al lector con el testimonio directo de la tragedia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Prueba que el guaquero tenía una caligrafía perfecta a pesar de la fiebre.",
           "is_correct": false,
           "feedback": "El valor de la carta es su verdad humana de desamparo y despedida."
@@ -865,7 +865,7 @@
           "feedback": "El testimonio escrito es el latido trágico que sostiene el relato testimonial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La inclusión de escritos reales en la crónica de Castro Caycedo otorga un estremecedor valor de verdad al drama de los marginados.",
       "difficulty": "10",
       "images": [],
@@ -887,13 +887,13 @@
       "context": "Al reflexionar sobre el papel de las figuras literarias en el aprendizaje de la Lectura Crítica, un profesor afirma: \"Las metáforas no son adornos del lenguaje; son los lentes con que la mente comprende lo inefable\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Reconoce que el pensamiento metafórico es una estructura cognitiva fundamental para conceptualizar experiencias complejas, abstractas o dolorosas.",
           "is_correct": true,
           "feedback": "La metáfora no es mero adorno retórico sino una herramienta del pensamiento que nos permite nombrar el mundo y comprender lo invisible."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sostiene que el lenguaje figurado debe ser eliminado de los libros de texto de secundaria.",
           "is_correct": false,
           "feedback": "Reivindica la centralidad de la metáfora como mecanismo de conocimiento y sensibilidad."
@@ -911,7 +911,7 @@
           "feedback": "Eleva la capacidad poética a la categoría de vehículo de comprensión profunda de la vida."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El lenguaje figurado es una herramienta cognitiva y estética esencial que nos permite nombrar, interpretar y comprender las capas profundas de la realidad.",
       "difficulty": "10",
       "images": [],

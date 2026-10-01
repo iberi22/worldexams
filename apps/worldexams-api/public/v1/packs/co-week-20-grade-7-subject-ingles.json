@@ -59,13 +59,13 @@
       "context": "Identifying an irregular past verb.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Cook",
           "is_correct": false,
           "feedback": "Incorrect. Past is \"cooked\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Drink",
           "is_correct": true,
           "feedback": "Correct! Past is \"drank\", making it irregular."
@@ -83,7 +83,7 @@
           "feedback": "Incorrect. Past is \"danced\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student distinguishes between regular and irregular verb categories.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -111,13 +111,13 @@
           "feedback": "Incorrect order."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "First / Then / Finally",
           "is_correct": true,
           "feedback": "Correct! Logical sequence of events."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Next / After that / Finally",
           "is_correct": false,
           "feedback": "Incorrect. A sequence shouldn't start with \"Next\" if the first step is given."
@@ -129,7 +129,7 @@
           "feedback": "Incorrect order."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student understands the chronological flow provided by sequence connectors.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -157,13 +157,13 @@
           "feedback": "Incorrect. Completed action (Simple)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "I was eating pizza at 8:00 PM yesterday.",
           "is_correct": true,
           "feedback": "Correct! Action in progress (Continuous)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "I eat pizza every Friday.",
           "is_correct": false,
           "feedback": "Incorrect. Habit (Present Simple)."
@@ -175,7 +175,7 @@
           "feedback": "Incorrect. Current action (Present Continuous)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student understands the difference between a completed past action and an action in progress in the past.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -203,13 +203,13 @@
           "feedback": "Incorrect. Tenses are reversed."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "were playing / came",
           "is_correct": true,
           "feedback": "Correct! Long action (were playing) interrupted by a short action (came)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "was playing / came",
           "is_correct": false,
           "feedback": "Incorrect. \"We\" requires \"were\"."
@@ -221,7 +221,7 @@
           "feedback": "Incorrect. Both cannot be continuous if one is an interruption."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student applies the \"interrupted action\" rule using both Past Simple and Past Continuous.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "A text about a student's project.\n\n\"Last month, Mateo worked on a science project. He didn't sleep much because he was very busy. Finally, he finished the project and got an A.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "He didn't finish the project.",
           "is_correct": false,
           "feedback": "Incorrect. He \"finally finished\" it."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "He was lazy and slept a lot.",
           "is_correct": false,
           "feedback": "Incorrect. He \"didn't sleep much\" because he was busy."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "His hard work resulted in a good grade.",
           "is_correct": true,
           "feedback": "Correct! Being busy and not sleeping (hard work) led to getting an \"A\" (good grade)."
@@ -267,7 +267,7 @@
           "feedback": "Incorrect. He worked on it \"last month\"."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "The student applies reading strategies to identify facts and outcomes in a past narrative.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -433,25 +433,25 @@
           "feedback": "Incorrect. These were planned actions."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Sequential",
           "is_correct": true,
           "feedback": "Correct! The events follow a clear chronological and logical order (practice -> travel -> play)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Negative",
           "is_correct": false,
           "feedback": "Incorrect. These are positive events (winning)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Incomplete",
           "is_correct": false,
           "feedback": "Incorrect. The sequence reaches a clear conclusion (became champions)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student evaluates the overall structure and flow of a past tense narrative to identify its logical characteristic.",
       "difficulty": "10",
       "images": [],

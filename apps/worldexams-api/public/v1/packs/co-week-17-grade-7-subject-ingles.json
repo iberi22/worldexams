@@ -19,25 +19,25 @@
           "feedback": "Incorrect. \"While\" is usually followed by the long action (Continuous)."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "When",
           "is_correct": true,
           "feedback": "Correct! \"When\" is typically followed by the short action (Simple)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Then",
           "is_correct": false,
           "feedback": "Incorrect. This is a sequence connector."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "If",
           "is_correct": false,
           "feedback": "Incorrect. This is a conditional connector."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student identifies the grammatical function of the connector \"when\" in past narratives.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "Identifying the tense for background actions.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Past Simple",
           "is_correct": false,
           "feedback": "Incorrect. This is for completed or short actions."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Past Continuous",
           "is_correct": true,
           "feedback": "Correct! This tense describes actions that were in progress."
@@ -83,7 +83,7 @@
           "feedback": "Incorrect. This refers to the future."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student remembers the primary function of the Past Continuous tense.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "A simple interrupted action.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "read / rang",
           "is_correct": false,
           "feedback": "Incorrect. Both are simple past; doesn't show the background/interruption relationship."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "was reading / rang",
           "is_correct": true,
           "feedback": "Correct! \"Was reading\" is the background action, and \"rang\" is the interruption."
@@ -129,7 +129,7 @@
           "feedback": "Incorrect. \"Read\" is irregular and the tenses are reversed."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student understands how to combine both tenses to describe an interruption.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "A surprise event in a Colombian park.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "walked / saw",
           "is_correct": false,
           "feedback": "Incorrect. Doesn't emphasize the progress of the first action."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "was walking / saw",
           "is_correct": false,
           "feedback": "Incorrect. \"We\" requires \"were\"."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "were walking / saw",
           "is_correct": true,
           "feedback": "Correct! \"Were walking\" (long action) was interrupted by \"saw\" (short event)."
@@ -221,7 +221,7 @@
           "feedback": "Incorrect. \"See\" must be in the past."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "The student applies subject-verb agreement and the contrast between long and short past actions.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "A student's experience during a blackout.\n\n\"I was doing my homework while my sister was watching TV. Suddenly, the power went out. I looked for a candle and my sister stopped watching TV.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Looking for a candle and stopping TV.",
           "is_correct": false,
           "feedback": "Incorrect. These happened AFTER the blackout."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Doing homework and watching TV.",
           "is_correct": true,
           "feedback": "Correct! These were the actions in progress when the interruption occurred."
@@ -267,7 +267,7 @@
           "feedback": "Incorrect. Not mentioned."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student applies reading strategies to identify the background actions in a narrative using the Past Continuous.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "An accident scenario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "didn't look / ran",
           "is_correct": false,
           "feedback": "Incorrect. Needs the continuous to show the lack of attention was an ongoing state."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "wasn't looking / ran",
           "is_correct": true,
           "feedback": "Correct! \"Wasn't looking\" (negative background state) and \"ran\" (interruption)."
@@ -313,7 +313,7 @@
           "feedback": "Incorrect. Grammatical and spelling errors."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student applies the negative form of the Past Continuous contrasted with an irregular Past Simple verb.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -341,13 +341,13 @@
           "feedback": "Incorrect. Usually, starting a movie makes you wake up or stay awake, though possible, option B is more standard."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "I fell asleep while I was watching the movie.",
           "is_correct": true,
           "feedback": "Correct! The long action is watching, and falling asleep is the sudden interruption."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "I was watching the movie when I was falling asleep.",
           "is_correct": false,
           "feedback": "Incorrect. \"Falling asleep\" is usually seen as the short point of transition here."
@@ -359,7 +359,7 @@
           "feedback": "Incorrect. Reverses the use of \"while\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student analyzes the logical relationship between events to determine which should be in the continuous and which in the simple tense.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,13 +387,13 @@
           "feedback": "Incorrect. This happened while they were already playing."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "The kids were playing.",
           "is_correct": true,
           "feedback": "Correct! This was the action already in progress (background) before the rain started."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "They ran inside.",
           "is_correct": false,
           "feedback": "Incorrect. This was a reaction to the rain."
@@ -405,7 +405,7 @@
           "feedback": "Incorrect. This was the final step."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student analyzes temporal priority in a narrative containing both continuous and simple past events.\n\n---",
       "difficulty": "10",
       "images": [],

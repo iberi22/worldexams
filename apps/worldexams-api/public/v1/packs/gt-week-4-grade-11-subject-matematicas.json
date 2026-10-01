@@ -19,13 +19,13 @@
           "feedback": "Una identidad es verdadera para cualquier valor de las variables (ej. $x+x = 2x$)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Ecuación",
           "is_correct": true,
           "feedback": "Correcto. Una ecuación es una igualdad condicionada que se cumple solo para ciertos valores llamados soluciones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Expresión",
           "is_correct": false,
           "feedback": "Una expresión no contiene el signo de igualdad ($=$)."
@@ -37,7 +37,7 @@
           "feedback": "Una inecuación utiliza signos de desigualdad ($<, >, \\le, \\ge$)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La ecuación es una igualdad entre dos expresiones algebraicas que se satisface para valores determinados de la incógnita.",
       "difficulty": "4",
       "images": [],
@@ -58,19 +58,19 @@
       "context": "Para mantener el equilibrio en una balanza que representa una ecuación lineal, se aplican ciertas reglas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Propiedad Conmutativa",
           "is_correct": false,
           "feedback": "La propiedad conmutativa se refiere al orden de los términos en una operación."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Propiedad Asociativa",
           "is_correct": false,
           "feedback": "La propiedad asociativa se refiere al agrupamiento de términos."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Propiedad de Uniformidad (o Aditiva de la Igualdad)",
           "is_correct": true,
           "feedback": "Correcto. Establece que si se realiza la misma operación en ambos lados de una igualdad, esta se mantiene."
@@ -82,7 +82,7 @@
           "feedback": "La propiedad distributiva relaciona la multiplicación con la suma."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Las propiedades de la igualdad son la base del despeje de incógnitas, permitiendo transformar una ecuación en otra equivalente más simple.",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Un artesano en Antigua Guatemala vende pulseras a un precio fijo. Sus ingresos totales dependen de la cantidad de pulseras vendidas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$15x = 450$",
           "is_correct": true,
           "feedback": "Correcto. El precio por unidad multiplicado por la cantidad debe ser igual al total deseado."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x + 15 = 450$",
           "is_correct": false,
           "feedback": "Esto representaría que a la cantidad se le suman 15 quetzales, lo cual no es coherente con el precio por unidad."
@@ -127,7 +127,7 @@
           "feedback": "Esto sugeriría un precio de 450 por pulsera para un total de 15."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El modelado de problemas reales mediante ecuaciones lineales requiere identificar la variable dependiente (ingresos) y la independiente (cantidad).",
       "difficulty": "4",
       "images": [],
@@ -154,13 +154,13 @@
           "feedback": "Tiene una solución única (las rectas se cruzan)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Sistema Compatible Indeterminado",
           "is_correct": false,
           "feedback": "Tiene infinitas soluciones (las rectas son la misma)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sistema Incompatible",
           "is_correct": true,
           "feedback": "Correcto. No tiene solución porque las condiciones son contradictorias o las rectas nunca se tocan."
@@ -172,7 +172,7 @@
           "feedback": "No es una clasificación estándar basada en el número de soluciones."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Los sistemas incompatibles carecen de puntos comunes entre las ecuaciones que los conforman, lo que gráficamente se traduce en rectas que nunca se intersectan.",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Error al realizar la resta $45 - 12$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x = 11$",
           "is_correct": true,
           "feedback": "Correcto. $3x = 45 - 12 \\Rightarrow 3x = 33 \\Rightarrow x = 11$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 15$",
           "is_correct": false,
           "feedback": "Error al dividir 45 entre 3 directamente sin restar el 12 primero."
@@ -217,7 +217,7 @@
           "feedback": "Error aritmético en el proceso de despeje."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El proceso de despeje implica realizar las operaciones inversas en el orden adecuado: primero sumas/restas y luego multiplicaciones/divisiones.",
       "difficulty": "6",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "En una tienda de deportes en Quetzaltenango, se venden balones de fútbol y básquetbol.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$13$",
           "is_correct": false,
           "feedback": "$2(13) + 5 = 26 + 5 = 31 \\ne 21$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$8$",
           "is_correct": true,
           "feedback": "Correcto. $2x + 5 = 21 \\Rightarrow 2x = 16 \\Rightarrow x = 8$."
@@ -262,7 +262,7 @@
           "feedback": "Solo se restó 21 - 5, faltó dividir entre 2."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La resolución de problemas verbales implica traducir el enunciado a una ecuación simbólica y resolverla sistemáticamente.",
       "difficulty": "6",
       "images": [],
@@ -379,25 +379,25 @@
           "feedback": "Si $x=4$, entonces $y=6$ para la primera, pero $4-6 = -2 \\ne 2$."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$6$",
           "is_correct": true,
           "feedback": "Correcto. Sumando ambas: $2x = 12 \\Rightarrow x = 6$. Entonces $y = 4$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$8$",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface ambas igualdades simultáneamente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$5$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la aplicación del método de reducción."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El método de reducción es ideal cuando los coeficientes de una variable son opuestos, permitiendo su eliminación inmediata al sumar las ecuaciones.",
       "difficulty": "6",
       "images": [],
@@ -463,19 +463,19 @@
       "context": "Un ingeniero civil en Guatemala diseña una rampa y necesita hallar el punto de intersección de dos vigas de soporte.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x = 1$",
           "is_correct": true,
           "feedback": "Correcto. $2x + 1 = -x + 4 \\Rightarrow 3x = 3 \\Rightarrow x = 1$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 3$",
           "is_correct": false,
           "feedback": "Error al agrupar los términos con la variable $x$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 1.5$",
           "is_correct": false,
           "feedback": "Error aritmético durante la resolución de la igualdad."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. No satisface la igualdad de las dos expresiones."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El método de igualación es directo cuando ambas ecuaciones ya tienen despejada la misma variable. El resultado es el punto donde ambas condiciones se cumplen.",
       "difficulty": "8",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Un estudiante de bachillerato analiza ecuaciones con coeficientes fraccionarios para representar proporciones en mezclas químicas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 3$",
           "is_correct": false,
           "feedback": "Error al operar con las fracciones."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 6$",
           "is_correct": true,
           "feedback": "Correcto. Multiplicando por 6: $3x + 2x = 30 \\Rightarrow 5x = 30 \\Rightarrow x = 6$."
@@ -532,7 +532,7 @@
           "feedback": "Error en el proceso de despeje final."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Para resolver ecuaciones con fracciones, es recomendable multiplicar todos los términos por el mínimo común múltiplo de los denominadores para trabajar con números enteros.",
       "difficulty": "8",
       "images": [],
@@ -604,25 +604,25 @@
           "feedback": "Error al calcular el producto cruzado."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$-5$",
           "is_correct": true,
           "feedback": "Correcto. $\\Delta = (2)(-1) - (1)(3) = -2 - 3 = -5$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$5$",
           "is_correct": false,
           "feedback": "Error de signo en la resta del determinante."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$1$",
           "is_correct": false,
           "feedback": "Error en la identificación de los coeficientes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El determinante principal de un sistema $2 \\times 2$ se calcula restando el producto de la diagonal secundaria del producto de la diagonal principal de la matriz de coeficientes.",
       "difficulty": "8",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "La suma es 30, pero la diferencia es 0."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$20$ y $10$",
           "is_correct": true,
           "feedback": "Correcto. $20 + 10 = 30$ y $20 - 10 = 10$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$25$ y $5$",
           "is_correct": false,
           "feedback": "La suma es 30, pero la diferencia es 20."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$18$ y $12$",
           "is_correct": false,
           "feedback": "La suma es 30, pero la diferencia es 6."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Este problema clásico se resuelve planteando un sistema de suma y resta: $x+y=30$ y $x-y=10$. Sumando ambas ecuaciones se obtiene $2x=40$.",
       "difficulty": "8",
       "images": [],
@@ -739,25 +739,25 @@
           "feedback": "$Q_d = 60, Q_s = 80$. No hay equilibrio."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$P = 16$",
           "is_correct": true,
           "feedback": "Correcto. $100 - 2P = 20 + 3P \\Rightarrow 80 = 5P \\Rightarrow P = 16$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$P = 24$",
           "is_correct": false,
           "feedback": "Error al despejar la variable $P$ de la igualdad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$P = 12$",
           "is_correct": false,
           "feedback": "Error en el proceso de agrupación de términos semejantes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El equilibrio se halla igualando las funciones de oferta y demanda, lo cual resulta en una ecuación lineal de una variable para el precio.",
       "difficulty": "10",
       "images": [],
@@ -784,25 +784,25 @@
           "feedback": "$0.5(1) + 0.2(4) = 0.5 + 0.8 = 1.3$ (cumple), pero $0.3(1) - 0.4(4) = -1.3 \\ne 0$."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$(2, 1.5)$",
           "is_correct": true,
           "feedback": "Correcto. De la segunda: $0.3x = 0.4y \\Rightarrow 3x = 4y \\Rightarrow y = 0.75x$. Sustituyendo: $0.5x + 0.2(0.75x) = 1.3 \\Rightarrow 0.5x + 0.15x = 1.3 \\Rightarrow 0.65x = 1.3 \\Rightarrow x = 2, y = 1.5$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(3, 2)$",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface ambas igualdades simultáneamente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(2, 2.5)$",
           "is_correct": false,
           "feedback": "Error en el cálculo de la variable dependiente $y$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Para simplificar sistemas con decimales, es útil multiplicar cada ecuación por una potencia de 10 antes de aplicar cualquier método de resolución.",
       "difficulty": "10",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Si $k=4$, las rectas son paralelas (incompatible), no tiene solución única."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Para cualquier valor de $k$ excepto $k = 4$",
           "is_correct": true,
           "feedback": "Correcto. El determinante es $k(1) - 2(2) = k - 4$. Para solución única $\\Delta \\ne 0$, por lo que $k \\ne 4$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solo si $k = 1$",
           "is_correct": false,
           "feedback": "Si $k=1$ hay solución única, pero no es el único valor posible."
@@ -847,7 +847,7 @@
           "feedback": "Falso. Casi todos los valores de $k$ permiten una intersección."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Un sistema de ecuaciones lineales tiene solución única si y solo si el determinante de su matriz de coeficientes es diferente de cero.",
       "difficulty": "10",
       "images": [],

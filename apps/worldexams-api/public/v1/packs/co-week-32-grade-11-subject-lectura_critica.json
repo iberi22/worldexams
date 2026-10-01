@@ -13,13 +13,13 @@
       "context": "En un club de lectura en Bogotá, Laura revisa un ensayo sobre la memoria histórica colombiana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Defender una tesis mediante argumentos sólidos y persuasivos.",
           "is_correct": true,
           "feedback": "El ensayo argumentativo busca persuadir sobre una postura debatable."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Contar una historia personal sin estructura.",
           "is_correct": false,
           "feedback": "Eso corresponde a la crónica personal."
@@ -37,7 +37,7 @@
           "feedback": "El ensayo sí defiende una postura."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El ensayo argumentativo combina información, razonamiento y retórica para sostener una tesis debatible.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "En clase en Medellín, se identifica la tesis de un ensayo sobre el uso del celular en clase.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La introducción, como idea central que se defiende.",
           "is_correct": true,
           "feedback": "La tesis suele enunciarse al inicio y reforzarse a lo largo del texto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El último párrafo sin anuncio previo.",
           "is_correct": false,
           "feedback": "La tesis no aparece solo al final."
@@ -83,7 +83,7 @@
           "feedback": "La bibliografía es referencia, no tesis."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Una tesis clara orienta toda la estructura argumentativa del ensayo.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En clase en Cali, se distinguen tipos de argumentos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Argumento de autoridad sin fuente.",
           "is_correct": false,
           "feedback": "Requiere fuente verificable."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Argumento de evidencia empírica.",
           "is_correct": true,
           "feedback": "Se sustenta en datos y hechos comprobables."
@@ -129,7 +129,7 @@
           "feedback": "Ataca a la persona, no aporta evidencia."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Los argumentos de evidencia fortalecen la objetividad y credibilidad del ensayo.",
       "difficulty": "4",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En un taller en Barranquilla, se analiza un ensayo sobre el medio ambiente.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Argumento patético o de apelación emocional.",
           "is_correct": true,
           "feedback": "Conecta con valores y emociones del lector."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Dato estadístico aislado.",
           "is_correct": false,
           "feedback": "El dato por sí solo no genera emoción."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cita en lengua extranjera sin traducir.",
           "is_correct": false,
           "feedback": "Puede generar extrañamiento, no empatía."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Lista de referencias sin análisis.",
           "is_correct": false,
           "feedback": "No apela a la emoción."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Los argumentos emocionales se combinan con argumentos racionales para persuadir eficazmente.",
       "difficulty": "4",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En clase en Bucaramanga, se evalúa la coherencia argumentativa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Lógica, con ideas principales respaldadas por secundarias y evidencias.",
           "is_correct": true,
           "feedback": "La estructura argumentativa sigue un orden claro."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Aleatoria, saltando entre ideas sin conexión.",
           "is_correct": false,
           "feedback": "El ensayo debe tener secuencia lógica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Repetitiva, diciendo lo mismo varias veces.",
           "is_correct": false,
           "feedback": "La repetición sin aportar es redundante."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Únicamente cronológica.",
           "is_correct": false,
           "feedback": "No siempre aplica el orden cronológico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La organización lógica permite seguir el razonamiento y fortalece la persuasión.",
       "difficulty": "6",
       "images": [],
@@ -249,25 +249,25 @@
           "feedback": "No es el propósito de la introducción."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Contextualización del tema, presentación de la tesis y anuncio de argumentos.",
           "is_correct": true,
           "feedback": "Así se orienta al lector desde el inicio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Conclusiones finales.",
           "is_correct": false,
           "feedback": "Las conclusiones van al final."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Datos contradictorios sin síntesis.",
           "is_correct": false,
           "feedback": "Falta coherencia interna."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La introducción cumple funciones informativa, orientadora y persuasiva en el ensayo.",
       "difficulty": "6",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "En un taller en Armenia, se usa una cita para apoyar una tesis.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Citarla con su fuente y enlazarla con la idea propia mediante análisis.",
           "is_correct": true,
           "feedback": "La cita se inserta en el discurso del autor."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Pegarla sin comillas ni referencia.",
           "is_correct": false,
           "feedback": "Eso es plagio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Traducirla alterando su sentido original.",
           "is_correct": false,
           "feedback": "Se debe respetar el contenido."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Sustituirla por un párrafo inventado.",
           "is_correct": false,
           "feedback": "Pierde respaldo académico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El uso ético de citas fortalece el argumento y respeta la propiedad intelectual.",
       "difficulty": "6",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En clase en Santa Marta, se revisan conectores lógicos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Sin embargo.",
           "is_correct": true,
           "feedback": "Expresa contraste u oposición."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Además.",
           "is_correct": false,
           "feedback": "Expresa adición."
@@ -359,7 +359,7 @@
           "feedback": "Indica orden."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los conectores opositivos como sin embargo, no obstante o por el contrario estructuran los argumentos.",
       "difficulty": "6",
       "images": [],
@@ -387,25 +387,25 @@
           "feedback": "Conceptualmente son distintos."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La persuasión se basa en argumentos racionales verificables; la manipulación apela a engaños o sesgos.",
           "is_correct": true,
           "feedback": "La manipulación distorsiona información."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La persuasión usa solo imágenes.",
           "is_correct": false,
           "feedback": "El ensayo es texto, no imagen."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La manipulación es siempre correcta.",
           "is_correct": false,
           "feedback": "La manipulación es éticamente rechazable."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La ética argumentativa exige veracidad, coherencia y respeto al lector.",
       "difficulty": "6",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "En Popayán, se trabaja con el cierre del ensayo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Sintetizar la postura, reforzar la tesis y dejar una reflexión final.",
           "is_correct": true,
           "feedback": "La conclusión cierra sin introducir ideas nuevas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Introducir un argumento nuevo y extenso.",
           "is_correct": false,
           "feedback": "Confunde al lector y debilita el cierre."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cambiar la tesis original.",
           "is_correct": false,
           "feedback": "Contradice el principio de coherencia."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Eliminar las evidencias usadas.",
           "is_correct": false,
           "feedback": "Pierde sustento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La conclusión reitera la tesis y conecta con el lector para fortalecer la persuasión.",
       "difficulty": "6",
       "images": [],
@@ -473,19 +473,19 @@
       "context": "En Tunja, se analizan ensayos con posturas contrarias.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Anticipar objeciones y refutarlas con sólidos argumentos.",
           "is_correct": true,
           "feedback": "Esto fortalece la postura del autor."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Cambiar de opinión a mitad del texto.",
           "is_correct": false,
           "feedback": "Debilita la tesis."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Confundir al lector.",
           "is_correct": false,
           "feedback": "El ensayo busca claridad."
@@ -497,7 +497,7 @@
           "feedback": "El análisis crítico requiere evidencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Reconocer y refutar contraargumentos demuestra dominio del tema y profundidad analítica.",
       "difficulty": "8",
       "images": [],
@@ -565,13 +565,13 @@
       "context": "En Bogotá, se comparan ensayos filosóficos y literarios.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El ensayo filosófico prioriza la rigurosidad lógica; el literario admite mayor libertad estética.",
           "is_correct": true,
           "feedback": "Ambos comparten intención crítica pero con énfasis distintos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El ensayo literario no tiene argumentos.",
           "is_correct": false,
           "feedback": "También los tiene, aunque con estilo."
@@ -589,7 +589,7 @@
           "feedback": "Sí existen diferencias de enfoque."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El ensayo filosófico busca fundamentar; el literario busca conmover y persuadir con estilo.",
       "difficulty": "8",
       "images": [],
@@ -611,31 +611,31 @@
       "context": "En Sincelejo, se detectan falacias argumentativas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Atacar a la persona en lugar de refutar su argumento.",
           "is_correct": true,
           "feedback": "Desvía el debate hacia el agresor, no hacia las ideas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Presentar evidencia verificable.",
           "is_correct": false,
           "feedback": "Es lo opuesto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Usar fuentes confiables.",
           "is_correct": false,
           "feedback": "Es una práctica legítima."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Citar autores reconocidos.",
           "is_correct": false,
           "feedback": "Es un recurso válido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Detectar falacias ayuda a evaluar la calidad argumentativa de un texto.",
       "difficulty": "8",
       "images": [],
@@ -657,13 +657,13 @@
       "context": "En Pereira, se evalúa la relación entre tesis y argumentos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La gratuidad garantiza el acceso equitativo y reduce la deserción escolar.",
           "is_correct": true,
           "feedback": "Apoya directamente la tesis con razón legítima."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El fútbol es el deporte más popular del país.",
           "is_correct": false,
           "feedback": "No tiene relación con la educación."
@@ -681,7 +681,7 @@
           "feedback": "Dato geográfico sin relación argumental."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los argumentos deben estar directamente vinculados con la tesis mediante razonamientos claros.",
       "difficulty": "8",
       "images": [],
@@ -709,13 +709,13 @@
           "feedback": "Eso es incoherencia temática."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Las ideas se organizan en torno a la tesis sin contradicciones.",
           "is_correct": true,
           "feedback": "Coherencia = unidad lógica global."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se cambia la postura constantemente.",
           "is_correct": false,
           "feedback": "Confunde al lector."
@@ -727,7 +727,7 @@
           "feedback": "Los conectores articulan la coherencia."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Coherencia y cohesión son principios complementarios que estructuran el ensayo.",
       "difficulty": "8",
       "images": [],
@@ -749,13 +749,13 @@
       "context": "En una tertulia en Manizales, se evalúan ensayos sobre derechos humanos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La calidad y verificabilidad de las evidencias citadas.",
           "is_correct": true,
           "feedback": "La fuerza argumentativa depende de fuentes confiables."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La extensión del texto únicamente.",
           "is_correct": false,
           "feedback": "La extensión no garantiza calidad."
@@ -773,7 +773,7 @@
           "feedback": "Las citas requieren interpretación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La evaluación crítica pondera evidencias, razonamientos y claridad expositiva.",
       "difficulty": "10",
       "images": [],
@@ -795,13 +795,13 @@
       "context": "En una jornada académica en Bogotá, se comparan ensayos sobre el conflicto armado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El ensayo comprometido asume una postura ética clara; el neutro describe sin priorizar valores.",
           "is_correct": true,
           "feedback": "La postura ética guía la argumentación comprometida."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El ensayo neutro nunca usa datos.",
           "is_correct": false,
           "feedback": "Puede usar datos sin postura ética."
@@ -819,7 +819,7 @@
           "feedback": "La extensión no define el compromiso."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El compromiso ético y la postura definen la orientación del ensayista.",
       "difficulty": "10",
       "images": [],
@@ -893,25 +893,25 @@
           "feedback": "El ensayo busca persuadir, no imponer."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Fomenta el pensamiento crítico, la reflexión informada y el diálogo democrático.",
           "is_correct": true,
           "feedback": "Es esencial para la participación ciudadana."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Evita leer otras opiniones.",
           "is_correct": false,
           "feedback": "El ensayo requiere leer otras posturas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Sustituye la acción política.",
           "is_correct": false,
           "feedback": "Es complemento, no sustituto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El ensayo es una vía para construir pensamiento crítico y participar en la vida pública.",
       "difficulty": "10",
       "images": [],

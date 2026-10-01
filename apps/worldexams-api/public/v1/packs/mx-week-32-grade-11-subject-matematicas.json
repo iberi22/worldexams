@@ -13,13 +13,13 @@
       "context": "Crecimiento poblacional simple de bacterias.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "100",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el primer término, no la razón."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2",
           "is_correct": true,
           "feedback": "Correcto. La razón se obtiene dividiendo un término entre el anterior: 200/100 = 2."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Este es el segundo término."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "En una sucesión geométrica, la razón común ($r$) es el factor constante por el que se multiplica cada término para obtener el siguiente: $r = a_n / a_{n-1}$. Aquí, $200 / 100 = 2$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -64,13 +64,13 @@
           "feedback": "Incorrecto. Esta es una progresión aritmética (suma 5)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "3, 9, 27, 81...",
           "is_correct": true,
           "feedback": "Correcto. Cada término se multiplica por 3 (razón común r=3)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1, 4, 9, 16...",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la sucesión de cuadrados perfectos, no es geométrica."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Es una progresión aritmética descendente (resta 2)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Una sucesión es geométrica si el cociente entre términos consecutivos es constante. En B: $9/3 = 3$, $27/9 = 3$, $81/27 = 3$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Rebotes de una pelota.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "18 m",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la altura del primer rebote."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "12 m",
           "is_correct": true,
           "feedback": "Correcto. Primer rebote: 27 * (2/3) = 18. Segundo rebote: 18 * (2/3) = 12."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Has calculado el tercer rebote."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El primer término después de la caída es $a_1 = 18$ (primer rebote). La razón es $r = 2/3$. El segundo rebote es $a_2 = a_1 \\cdot r = 18 \\cdot (2/3) = 12$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Término general de una sucesión.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$a_n = 2(3)^{n-1}$",
           "is_correct": false,
           "feedback": "Incorrecto. La razón debe ser negativa porque los signos alternan."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a_n = 2(-3)^{n-1}$",
           "is_correct": true,
           "feedback": "Correcto. a_1 = 2, r = -6/2 = -3. La fórmula es a_1 * r^(n-1)."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. El exponente debe ser n-1 para que el primer término (n=1) sea 2."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Identificamos $a_1 = 2$ y $r = -3$. La fórmula estándar es $a_n = a_1 \\cdot r^{n-1}$, resultando en $a_n = 2(-3)^{n-1}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Incorrecto. 9 es el cociente entre a_4 y a_2, que equivale a r^2."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "3",
           "is_correct": true,
           "feedback": "Correcto. a_4 = a_2 * r^2 => 54 = 6 * r^2 => r^2 = 9 => r = 3 (términos positivos)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa la división de 54/6."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Cálculo sin fundamento matemático."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Relacionamos los términos: $a_4 = a_2 \\cdot r^{(4-2)}$. Entonces $54 = 6 \\cdot r^2 \\rightarrow 9 = r^2 \\rightarrow r = 3$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Incorrecto. 0.20 es la fracción que se resta, no el factor multiplicativo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "0.80",
           "is_correct": true,
           "feedback": "Correcto. Si se descuenta el 20%, el precio nuevo es el 80% del anterior (1 - 0.20 = 0.80)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1.20",
           "is_correct": false,
           "feedback": "Incorrecto. Esto indicaría un aumento del 20%."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Error de posición decimal."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Un descuento del 20% equivale a multiplicar por $(1 - 0.20)$, lo cual da una razón de $0.80$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,13 +379,13 @@
           "feedback": "Incorrecto. Valor cercano pero no es el límite infinito."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "32",
           "is_correct": true,
           "feedback": "Correcto. S_inf = a_1 / (1 - r). a_1 = 16, r = 0.5. S_inf = 16 / (1 - 0.5) = 16 / 0.5 = 32."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "24",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la aplicación de la fórmula."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Como |r| < 1, la serie sí converge."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para una serie geométrica infinita donde $|r| < 1$, la suma es $S = \\frac{a_1}{1 - r}$. Sustituyendo: $\\frac{16}{1 - 0.5} = \\frac{16}{0.5} = 32$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "Conversión de número decimal periódico a fracción.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "7/10",
           "is_correct": false,
           "feedback": "Incorrecto. Esto es solo 0.7."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "7/9",
           "is_correct": true,
           "feedback": "Correcto. a_1 = 0.7, r = 0.1. S_inf = 0.7 / (1 - 0.1) = 0.7 / 0.9 = 7/9."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Valor muy pequeño."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Es una serie geométrica con $a_1 = 7/10$ y $r = 1/10$. La suma es $\\frac{7/10}{1 - 1/10} = \\frac{7/10}{9/10} = 7/9$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Términos de una sucesión con logaritmos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es una sucesión aritmética con diferencia $d = \\log(x)$.",
           "is_correct": false,
           "feedback": "Incorrecto. La diferencia entre términos no es constante."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es una sucesión geométrica con razón $r = 2$.",
           "is_correct": true,
           "feedback": "Correcto. Al aplicar propiedades de logaritmos, los términos son $\\log(x), 2\\log(x), 4\\log(x)...$ El cociente entre ellos es constante e igual a 2."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Usando $\\log(a^b) = b \\cdot \\log(a)$, los términos son $\\log(x), 2\\log(x), 4\\log(x), 8\\log(x)...$ El cociente es constante e igual a 2.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,13 +694,13 @@
           "feedback": "Incorrecto. Esto es depreciación lineal (aritmética)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$V = 200,000(0.85)^n$",
           "is_correct": true,
           "feedback": "Correcto. Si pierde 15%, conserva el 85% (razón r=0.85)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$V = 200,000(0.15)^n$",
           "is_correct": false,
           "feedback": "Incorrecto. Esto diría que el valor cae al 15% en el primer año."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Esto indicaría que el valor aumenta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La pérdida porcentual constante se modela con una progresión geométrica. La razón es $(1 - 0.15) = 0.85$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,25 +739,25 @@
           "feedback": "Incorrecto. Has multiplicado el término por el número de términos."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "1024",
           "is_correct": true,
           "feedback": "Correcto. El producto de una PG de n términos es (a_1 * a_n)^(n/2). También se cumple que a_3^5 = 4^5 = 1024 debido a la simetría."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "256",
           "is_correct": false,
           "feedback": "Incorrecto. Has calculado 4^4."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "512",
           "is_correct": false,
           "feedback": "Incorrecto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En una PG, el término central $a_c$ cumple que el producto de $n$ términos es $a_c^n$ (si $n$ es impar). Aquí $4^5 = 1024$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -784,25 +784,25 @@
           "feedback": "Incorrecto. Al sustituir daría 2, 6, 14 (no es PG)."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "6",
           "is_correct": true,
           "feedback": "Correcto. (x+2)/(x-2) = (x+10)/(x+2) => (x+2)^2 = (x-2)(x+10) => x^2+4x+4 = x^2+8x-20 => 4x = 24 => x=6."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. El primer término sería 0."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "10",
           "is_correct": false,
           "feedback": "Incorrecto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La propiedad de la PG dice que $b^2 = a \\cdot c$. Resolvemos $(x+2)^2 = (x-2)(x+10)$, lo que nos lleva a una ecuación lineal simple $x=6$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,25 +829,25 @@
           "feedback": "Incorrecto. Este es solo el primer paso."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "1",
           "is_correct": true,
           "feedback": "Correcto. La suma es 1/2 + 1/4 + 1/8... que es una serie geométrica con a_1=1/2 y r=1/2. S = (1/2)/(1-1/2) = 1."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. El área total del cuadrado es 1, no puede excederla."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Infinito",
           "is_correct": false,
           "feedback": "Incorrecto. La serie converge."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Es la suma de $1/2^n$. Representa la división sucesiva del área total. Matemáticamente: $S = \\frac{0.5}{1 - 0.5} = 1$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Relación entre sucesiones aritméticas y geométricas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "4",
           "is_correct": true,
           "feedback": "Correcto. Los términos de la PA son $a, a+2, a+4$. Los de la PG son $a, a+2, a+5$. Por la propiedad del término medio: $(a+2)^2 = a(a+5)$, lo que simplifica a $a=4$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "8",
           "is_correct": false,
           "feedback": "Incorrecto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "PA: $a, a+2, a+4$. PG: $a, a+2, (a+4)+1$. Por propiedad de PG: $(a+2)^2 = a(a+5)$. $a^2+4a+4 = a^2+5a \\rightarrow a=4$.\n\n---",
       "difficulty": "10",
       "images": [],

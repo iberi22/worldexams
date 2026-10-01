@@ -59,31 +59,31 @@
       "context": "En Tunja, Mateo tiene una deuda de $15.000$ pesos colombianos (representada como $-15.000$) y realiza un abono de $20.000$ pesos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$5.000$ pesos a favor",
           "is_correct": true,
           "feedback": "Correcto. $-15.000 + 20.000 = +5.000$ pesos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$35.000$ pesos a favor",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste ambas cantidades sin considerar la deuda."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$5.000$ pesos en contra",
           "is_correct": false,
           "feedback": "Incorrecto. El abono supera la deuda, por lo que el saldo es positivo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$10.000$ pesos a favor",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la resta de las cantidades."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Deuda de $-15.000$ más abono de $+20.000$ da $+5.000$ pesos.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "Un buzo en Cartagena se encuentra a $-12$ metros de profundidad respecto al nivel del mar y desciende $7$ metros más.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$-19$ metros",
           "is_correct": true,
           "feedback": "Correcto. $-12 - 7 = -19$ metros."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$-5$ metros",
           "is_correct": false,
           "feedback": "Incorrecto. Restaste los valores como si hubiera ascendido."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$19$ metros",
           "is_correct": false,
           "feedback": "Incorrecto. La profundidad por debajo del nivel del mar se expresa con signo negativo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$-84$ metros",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste las profundidades."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Al descender $7$ metros desde $-12$, sumamos profundidades negativas: $-12 - 7 = -19$ metros.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En Pasto, Valentina analiza la temperatura en un congelador comercial que pasa de $-4^\\circ\\text{C}$ a $-18^\\circ\\text{C}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Disminuyó $14^\\circ\\text{C}$",
           "is_correct": true,
           "feedback": "Correcto. $-18 - (-4) = -14^\\circ\\text{C}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Aumentó $14^\\circ\\text{C}$",
           "is_correct": false,
           "feedback": "Incorrecto. La temperatura bajó, no subió."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Error en la resta $18 - 4$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La variación es $T_f - T_i = -18 - (-4) = -14^\\circ\\text{C}$ (disminuyó $14^\\circ\\text{C}$).",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En Medellín, un ascensor está en el sótano $-2$, sube $6$ pisos y luego baja $3$ pisos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Piso $1$",
           "is_correct": true,
           "feedback": "Correcto. $-2 + 6 - 3 = 1$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Piso $7$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste sin restar los pisos bajados."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Error en la suma acumulada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "$-2 + 6 = 4$, y $4 - 3 = 1$. Finaliza en el piso $1$.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En Manizales, Isabella resuelve la expresión $(-5) \\times 3 - (-8) \\div 2$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$-11$",
           "is_correct": true,
           "feedback": "Correcto. $(-5)\\times 3 = -15$; $(-8)\\div 2 = -4$; $-15 - (-4) = -11$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$-19$",
           "is_correct": false,
           "feedback": "Incorrecto. Restaste 4 en vez de sumar 4 al resolver $-(-4)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$11$",
           "is_correct": false,
           "feedback": "Incorrecto. Cambiaste el signo del primer producto."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Evaluaste la división como -2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Jerarquía de operaciones: $(-5)\\times 3 = -15$, $(-8)\\div 2 = -4$. Entonces $-15 - (-4) = -15 + 4 = -11$.",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En Bucaramanga, Carlos evalúa el producto $(-2) \\times (-3) \\times (-4) \\times 5$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$-120$",
           "is_correct": true,
           "feedback": "Correcto. Tres factores negativos resultan en producto negativo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$120$",
           "is_correct": false,
           "feedback": "Incorrecto. Un número impar de factores negativos resulta en negativo."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Error en la multiplicación de magnitudes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Tres factores negativos dan signo negativo: $(-2)\\times(-3)\\times(-4)\\times 5 = -120$.",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En Armenia, una tienda registra saldos diarios: $-50.000$ COP inicial, recibe $3$ consignaciones de $30.000$ COP y realiza $2$ pagos de $25.000$ COP.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$-10.000$ COP",
           "is_correct": true,
           "feedback": "Correcto. $-50.000 + 90.000 - 50.000 = -10.000$ COP."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$40.000$ COP",
           "is_correct": false,
           "feedback": "Incorrecto. Ignoraste el saldo negativo inicial."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$-60.000$ COP",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste consignaciones y pagos."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Error de signo en la consolidación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "$-50.000 + 3(30.000) - 2(25.000) = -50.000 + 90.000 - 50.000 = -10.000$ COP.",
       "difficulty": "8",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "En Cali, Sofía evalúa la expresión con valor absoluto $|a - b| - |a + b|$ para $a = -4$ y $b = -6$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$-8$",
           "is_correct": true,
           "feedback": "Correcto. $|-4 - (-6)| = |2| = 2$. $|-4 + (-6)| = |-10| = 10$. $2 - 10 = -8$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$8$",
           "is_correct": false,
           "feedback": "Incorrecto. Restaste en orden inverso."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$12$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la resta de valores dentro del módulo."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Evaluaste sin aplicar valor absoluto a $-10$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "$|-4 - (-6)| = 2$ y $|-4 - 6| = 10$. Así $2 - 10 = -8$.",
       "difficulty": "10",
       "images": [],

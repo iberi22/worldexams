@@ -64,25 +64,25 @@
           "feedback": "Incorrecto. Olvidó dividir por el nuevo exponente."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$\\frac{x^2}{2} + C$",
           "is_correct": true,
           "feedback": "Correcto. Al exponente 1 le sumamos 1 (1+1=2) y dividimos por ese mismo resultado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la derivada de x, no su integral."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$2x + C$",
           "is_correct": false,
           "feedback": "Incorrecto. Aplicó la regla de derivación en lugar de la de integración."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La regla de la potencia para integrales establece que $\\int x^n \\, dx = \\frac{x^{n+1}}{n+1} + C$. Para $x^1$, obtenemos $\\frac{x^{1+1}}{1+1} = \\frac{x^2}{2}$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Un estudiante de arquitectura calcula el volumen de una columna modelada por una función de potencia negativa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\ln(x^2) + C$",
           "is_correct": false,
           "feedback": "Incorrecto. Solo la función 1/x tiene como integral al logaritmo natural."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$-\\frac{1}{x} + C$",
           "is_correct": true,
           "feedback": "Correcto. x^(-2) integrado es x^(-1)/(-1) = -1/x."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Esta es la derivada de la función."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Expresamos la función como una potencia: $1/x^2 = x^{-2}$. Aplicamos la regla $\\frac{x^{n+1}}{n+1}$ con $n=-2$. Obtenemos $x^{-1}/(-1)$, que simplificado es $-1/x$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Incorrecto. La regla de la potencia no aplica cuando n = -1 porque genera una división por cero."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$1 + C$",
           "is_correct": false,
           "feedback": "Incorrecto. El resultado debe ser una función logarítmica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\ln(x) + C$",
           "is_correct": true,
           "feedback": "Correcto. Por definición, la antiderivada de 1/x es el logaritmo natural de x."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. La exponencial es la integral de sí misma, no de 1/x."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La función $f(x) = x^{-1}$ es el único caso donde la regla de la potencia falla. Su integral está definida como el logaritmo natural del valor absoluto de $x$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Incorrecto. No es necesario multiplicar por x."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$e^x + C$",
           "is_correct": true,
           "feedback": "Correcto. La función exponencial natural es la única función (distinta de cero) que es su propia integral y derivada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{e^{x+1}}{x+1} + C$",
           "is_correct": false,
           "feedback": "Incorrecto. No se aplica la regla de la potencia a funciones con base e y variable en el exponente."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. El logaritmo es la operación inversa de la exponencial, no su integral."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La función $e^x$ es única en el cálculo porque su tasa de cambio es igual a su valor actual. Por lo tanto, tanto al derivar como al integrar $e^x$, el resultado (salvo la constante $C$) sigue siendo $e^x$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -520,19 +520,19 @@
           "feedback": "Incorrecto. Invirtió el exponente fraccionario."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$\\frac{2}{3}x^{3/2} + C$",
           "is_correct": true,
           "feedback": "Correcto. x^(1/2) integrado es x^(3/2) / (3/2) = 2/3 * x^(3/2)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x^{3/2} + C$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó el coeficiente resultante de dividir por el nuevo exponente."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Escribimos $\\sqrt{x}$ como $x^{1/2}$. Aplicamos la regla de la potencia: el nuevo exponente es $1/2 + 1 = 3/2$. Dividimos entre $3/2$, lo que equivale a multiplicar por el recíproco $2/3$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorrecto. Olvidó aplicar la compensación por la derivada del término interno (2x+1)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\frac{(2x+1)^4}{8} + C$",
           "is_correct": true,
           "feedback": "Correcto. Aplicando cambio de variable u=2x+1, du=2dx, entonces dx=du/2. La integral queda (1/2) * (u^4/4) = u^4/8."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$3(2x+1)^2 + C$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta respuesta se parece a la derivada de la función."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Solo dividió por la derivada interna pero olvidó la división del exponente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para funciones de la forma $(ax+b)^n$, la integral es $\\frac{(ax+b)^{n+1}}{a(n+1)} + C$. Aquí $a=2$ y $n=3$, por lo que dividimos entre $2 \\cdot 4 = 8$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,13 +694,13 @@
           "feedback": "Incorrecto. Esta sería la integral si el numerador fuera 2x."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\arctan(x) + C$",
           "is_correct": true,
           "feedback": "Correcto. La función cuya derivada es 1/(1+x^2) es la arcotangente de x."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\arcsin(x) + C$",
           "is_correct": false,
           "feedback": "Incorrecto. La integral del arcoseno proviene de una raíz cuadrada en el denominador."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. La integral de la tangente es -ln|cos x|, no esta función racional."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Existen integrales inmediatas que corresponden a las derivadas de las funciones trigonométricas inversas. La forma $\\frac{1}{1+x^2}$ es la derivada de la función arcotangente.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. Esta es la derivada de ln(x)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x \\ln(x) + C$",
           "is_correct": false,
           "feedback": "Incorrecto. Falta el segundo término que surge de la fórmula de integración por partes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x \\ln(x) - x + C$",
           "is_correct": true,
           "feedback": "Correcto. Usando u=ln x, dv=dx. Entonces du=dx/x, v=x. Integral = uv - \\int v du = x ln x - \\int 1 dx = x ln x - x."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Esta sería la integral si la función fuera (ln x) / x."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La integración por partes sigue la fórmula $\\int u \\, dv = uv - \\int v \\, du$. Al aplicarla a $\\ln(x)$, tratamos a $\\ln(x)$ como $u$ y a $dx$ como $dv$. El proceso requiere integrar el resultado del producto $v \\cdot du$, que es 1.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,31 +823,31 @@
       "context": "Un investigador utiliza la regla de sustitución para integrar una función trigonométrica elevada a una potencia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\frac{\\sin^3(x)}{3} + C$",
           "is_correct": true,
           "feedback": "Correcto. Sea u = sen(x), entonces du = cos(x) dx. La integral es \\int u^2 du = u^3/3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{\\cos^3(x)}{3} + C$",
           "is_correct": false,
           "feedback": "Incorrecto. La sustitución correcta es u = sen(x) porque su derivada es cos(x)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$-\\frac{\\sin^3(x)}{3} + C$",
           "is_correct": false,
           "feedback": "Incorrecto. El signo es positivo porque la derivada del seno es el coseno positivo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\sin(x) \\cos(x) + C$",
           "is_correct": false,
           "feedback": "Incorrecto. No aplicó ninguna regla de integración válida."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Este es un caso ideal para el cambio de variable. Identificamos que una parte de la función ($\\cos x$) es la derivada de otra parte que está elevada a una potencia ($\\sin x$). Esto reduce el problema a integrar una potencia simple.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Un ingeniero de procesos en una refinería de Tabasco resuelve una integral que involucra una función racional con denominador compuesto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\arctan(x) + C$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta sería la integral si el numerador fuera 1, no x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{1}{2}\\ln(x^2 + 1) + C$",
           "is_correct": true,
           "feedback": "Correcto. Sea u = x^2+1, du = 2x dx. La integral queda (1/2) \\int du/u = (1/2) ln|u|."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. No se integran fracciones dividiendo los términos de esa manera."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Cuando el numerador de una fracción es (casi) la derivada del denominador, el resultado es el logaritmo natural del denominador. Aquí, la derivada de $x^2+1$ es $2x$. Como tenemos $x$, multiplicamos por $1/2$ para ajustar la constante.",
       "difficulty": "10",
       "images": [],

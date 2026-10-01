@@ -19,13 +19,13 @@
           "feedback": "Incorrecto. Para eso se usa la Regla del Producto."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Cuando la función es una composición de dos o más funciones ($f(g(x))$).",
           "is_correct": true,
           "feedback": "Correcto. La Regla de la Cadena permite derivar funciones compuestas multiplicando la derivada de la función externa por la de la interna."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cuando la función es un cociente de polinomios de igual grado.",
           "is_correct": false,
           "feedback": "Incorrecto. Para eso se usa la Regla del Cociente."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Aunque las raíces son composiciones, la regla se aplica a cualquier tipo de función compuesta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La Regla de la Cadena es la técnica fundamental para derivar funciones compuestas, permitiendo desglosar la tasa de cambio total en tasas de cambio parciales de sus componentes.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -64,25 +64,25 @@
           "feedback": "Incorrecto. Olvidó multiplicar por la derivada de la función interna ($x^2 + 5$)."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$6x(x^2 + 5)^2$",
           "is_correct": true,
           "feedback": "Correcto. Por regla de la cadena: $3(x^2 + 5)^2 \\cdot (2x) = 6x(x^2 + 5)^2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$2x(x^2 + 5)^3$",
           "is_correct": false,
           "feedback": "Incorrecto. No aplicó correctamente la regla de la potencia externa."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$6x^5$",
           "is_correct": false,
           "feedback": "Incorrecto. No se puede distribuir la derivada dentro de la potencia de esa forma."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Aplicación de la regla de la cadena en una función de la forma $u^n$, donde la derivada es $nu^{n-1} \\cdot u'$.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrecto. Confundió con la regla de la potencia para polinomios."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$e^x$",
           "is_correct": true,
           "feedback": "Correcto. La función $e^x$ es única porque su tasa de cambio es igual a su valor en cada punto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\ln(x)$",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es la función inversa, no la derivada."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Error conceptual sobre el crecimiento exponencial."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La función exponencial de base $e$ es invariante ante la operación de derivación, lo que la hace fundamental en modelos de crecimiento natural.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "Incorrecto. Olvidó multiplicar por la derivada del argumento interno."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\frac{2x}{x^2 + 1}$",
           "is_correct": true,
           "feedback": "Correcto. $\\frac{d}{dx}\\ln(u) = \\frac{1}{u} \\cdot u' = \\frac{1}{x^2+1} \\cdot 2x$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$2x \\ln(x^2 + 1)$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la aplicación de la regla de derivación para logaritmos."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Derivó mal el argumento interno."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para derivar el logaritmo de una función, se divide la derivada de dicha función por la función misma.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -295,19 +295,19 @@
           "feedback": "Incorrecto. Olvidó el signo negativo de la tasa de decaimiento."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$-20e^{-0.2t}$",
           "is_correct": true,
           "feedback": "Correcto. Derivada de $e^{ut}$ es $u e^{ut}$, entonces $100(-0.2)e^{-0.2t} = -20e^{-0.2t}$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$-0.2e^{-0.2t}$",
           "is_correct": false,
           "feedback": "Incorrecto. Omitió el factor constante de 100."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Cálculo de la derivada de funciones exponenciales con exponentes compuestos, común en procesos de decaimiento o enfriamiento.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Incorrecto. No consideró el argumento $x^2$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$2x \\sec^2(x^2)$",
           "is_correct": true,
           "feedback": "Correcto. Derivada de la tangente ($\\sec^2$) evaluada en la interna ($x^2$) por la derivada de la interna ($2x$)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$2x \\tan^2(x)$",
           "is_correct": false,
           "feedback": "Incorrecto. La derivada de la tangente no es la tangente al cuadrado."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Aplicó la derivada interna dentro de la función externa."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Uso de la regla de la cadena integrando la derivada fundamental de la función tangente.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,25 +379,25 @@
           "feedback": "Incorrecto. No confunda funciones exponenciales con funciones potencia."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$5^x \\ln(5)$",
           "is_correct": true,
           "feedback": "Correcto. La derivada de $a^x$ es $a^x \\ln(a)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$5^x$",
           "is_correct": false,
           "feedback": "Incorrecto. Esto solo es cierto si la base es $e$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\frac{5^x}{\\ln(5)}$",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es la integral de la función, no su derivada."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Diferenciación entre la derivada de la función exponencial de base $e$ y funciones exponenciales con bases generales, que requieren el factor $\\ln(a)$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,13 +424,13 @@
           "feedback": "Incorrecto. Eso sería para un logaritmo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\frac{1}{2\\sqrt{\\sin(x)}}$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó la derivada de la función interna seno."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{\\cos(x)}{2\\sqrt{\\sin(x)}}$",
           "is_correct": true,
           "feedback": "Correcto. Por regla de la cadena: $\\frac{1}{2}(\\sin x)^{-1/2} \\cdot \\cos x$."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Error en el exponente de la raíz en el denominador."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Combinación de la regla de la potencia (para la raíz) con la derivada de una función trigonométrica.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Incorrecto. Aunque es técnicamente equivalente, la forma simplificada es preferible."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$-x/y$",
           "is_correct": true,
           "feedback": "Correcto. Derivando ambos lados: $2x + 2y(y') = 0 \\Rightarrow 2y(y') = -2x \\Rightarrow y' = -x/y$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x/y$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signo al despejar."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Olvidó derivar el término $y^2$ respecto a $x$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La derivación implícita es necesaria cuando $y$ no está despejada en términos de $x$, tratando a $y$ como una función $y(x)$ y aplicando regla de la cadena.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "Derivada de una función compuesta por tres niveles.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\frac{1}{\\sin(3x)}$",
           "is_correct": false,
           "feedback": "Incorrecto. Solo aplicó el primer nivel de la cadena."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\frac{3\\cos(3x)}{\\ln(\\sin(3x))}$",
           "is_correct": false,
           "feedback": "Incorrecto. Estructura de la fórmula de logaritmo errónea."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$3 \\cot(3x)$",
           "is_correct": true,
           "feedback": "Correcto. $\\frac{1}{\\sin(3x)} \\cdot \\cos(3x) \\cdot 3 = 3 \\frac{\\cos(3x)}{\\sin(3x)} = 3\\cot(3x)$."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Olvidó la derivada del argumento más interno ($3x$)."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Aplicación sucesiva de la regla de la cadena para funciones con múltiples capas de composición.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -598,19 +598,19 @@
       "context": "Uso de la derivación logarítmica para simplificar productos complejos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x \\cdot x^{x-1}$",
           "is_correct": false,
           "feedback": "Incorrecto. Aplicó la regla de la potencia de forma inválida (el exponente no es constante)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x^x \\ln(x)$",
           "is_correct": false,
           "feedback": "Incorrecto. Aplicó la regla exponencial de forma inválida (la base no es constante)."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$x^x (1 + \\ln(x))$",
           "is_correct": true,
           "feedback": "Correcto. $\\frac{1}{y} y' = (1)\\ln x + x(1/x) = \\ln x + 1$. Entonces $y' = y(1 + \\ln x) = x^x(1 + \\ln x)$."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. La función no es su propia derivada."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La derivación logarítmica es la herramienta adecuada para funciones donde tanto la base como el exponente dependen de la variable independiente.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Incorrecto. Esta es la derivada de $\\arctan(x)$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\frac{1}{\\sqrt{1 - x^2}}$",
           "is_correct": true,
           "feedback": "Correcto. Derivada fundamental de la función arcoseno."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$-\\frac{1}{\\sqrt{1 - x^2}}$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la derivada de $\\arccos(x)$."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Confundió con la relación entre funciones trigonométricas directas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Reconocimiento de las derivadas de funciones trigonométricas inversas, cruciales para resolver integrales por sustitución trigonométrica.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Un tanque cilíndrico en una refinería en Esmeraldas se está llenando de crudo. El volumen es $V = \\pi r^2 h$. Si el radio $r$ es constante y la altura $h$ varía con el tiempo $t$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\pi r^2 \\frac{dh}{dt}$",
           "is_correct": true,
           "feedback": "Correcto. Como $\\pi$ y $r$ son constantes, se sacan de la derivada y se deriva $h$ respecto a $t$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2\\pi r h \\frac{dr}{dt}$",
           "is_correct": false,
           "feedback": "Incorrecto. El enunciado especifica que el radio es constante."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. El término $r^2$ no se convierte en $2r$ si el radio es constante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Modelado de problemas de tasas relacionadas utilizando la regla de la cadena para variables que dependen del tiempo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,25 +739,25 @@
           "feedback": "Incorrecto. Olvidó el factor de la cadena de la función interna."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$e^{e^x} \\cdot e^x$",
           "is_correct": true,
           "feedback": "Correcto. Derivada de la externa ($e^{e^x}$) por la derivada del exponente ($e^x$). Se puede escribir como $e^{e^x + x}$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$e^{2x}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en las propiedades de las potencias y derivadas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$e^{x^e}$",
           "is_correct": false,
           "feedback": "Incorrecto. Estructura de función totalmente distinta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Manejo de funciones exponenciales compuestas donde la base de la potencia externa es el número de Euler.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -778,19 +778,19 @@
       "context": "Diferenciación de una función con logaritmo de base distinta a $e$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\frac{3}{x}$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó el factor del logaritmo natural de la base."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\frac{1}{x^3 \\ln(2)}$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó la derivada del argumento interno."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$\\frac{3}{x \\ln(2)}$",
           "is_correct": true,
           "feedback": "Correcto. $\\frac{1}{x^3 \\ln 2} \\cdot 3x^2 = \\frac{3x^2}{x^3 \\ln 2} = \\frac{3}{x \\ln 2}$."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. El factor $\\ln(2)$ debe estar en el denominador."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Generalización de la derivada del logaritmo para cualquier base positiva distinta de uno, incorporando la regla de la cadena.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Segunda derivada de una función definida implícitamente.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$-1/y^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la aplicación de la regla del cociente a la primera derivada."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$-1/y^3$",
           "is_correct": true,
           "feedback": "Correcto. $y' = -x/y$. Entonces $y'' = -\\frac{(1)y - x(y')}{y^2} = -\\frac{y - x(-x/y)}{y^2} = -\\frac{y^2 + x^2}{y^3}$. Como $x^2 + y^2 = 1$, queda $-1/y^3$."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Error de signo en la derivación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Cálculo de derivadas de orden superior para funciones implícitas, integrando simplificaciones basadas en la identidad de la curva original.",
       "difficulty": "10",
       "images": [],

@@ -13,19 +13,19 @@
       "context": "Reviewing daily habits vs. current actions.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "wears / is wearing",
           "is_correct": true,
           "feedback": "Correct! Simple Present for habit, Present Continuous for today's exception."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "is wearing / wears",
           "is_correct": false,
           "feedback": "Incorrect. The order of habit and exception is swapped."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "wear / wearing",
           "is_correct": false,
           "feedback": "Incorrect. Missing third person 's' and auxiliary 'is'."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect. \"Every day\" implies present habit, not past."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Recordamos que las rutinas diarias usan el Presente Simple, mientras que las excepciones o acciones ocurriendo en el momento usan el Presente Continuo.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -65,13 +65,13 @@
           "feedback": "Incorrect. Needs past tense for \"two days ago\"."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "saw",
           "is_correct": true,
           "feedback": "Correct! \"Saw\" is the past tense of \"see\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "seen",
           "is_correct": false,
           "feedback": "Incorrect. This is the past participle, needs an auxiliary verb."
@@ -83,7 +83,7 @@
           "feedback": "Incorrect. For a completed action in the past, Simple Past is better."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El Pasado Simple se utiliza para acciones terminadas en un tiempo específico del pasado.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -111,25 +111,25 @@
           "feedback": "Incorrect. This is a previously made plan, not a spontaneous decision."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "are going to",
           "is_correct": true,
           "feedback": "Correct! Use \"be going to\" for planned intentions."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "go to",
           "is_correct": false,
           "feedback": "Incorrect. Missing the auxiliary \"are\"."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "studied",
           "is_correct": false,
           "feedback": "Incorrect. This is past tense."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Recordamos usar \"be going to\" para planes o intenciones decididas antes del momento de hablar.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -203,13 +203,13 @@
           "feedback": "Incorrect. One action was in progress when the other happened."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "was taking / went",
           "is_correct": true,
           "feedback": "Correct! Past continuous for the background action and past simple for the interruption."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "were taking / go",
           "is_correct": false,
           "feedback": "Incorrect. Subject-verb agreement and tense errors."
@@ -221,7 +221,7 @@
           "feedback": "Incorrect. These are present tenses."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Cuando una acción continua en el pasado es interrumpida, usamos el Pasado Continuo para la acción larga y el Pasado Simple para la corta.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "Reviewing spontaneous decisions vs. plans.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "will",
           "is_correct": true,
           "feedback": "Correct! Spontaneous decision made at the moment of ordering."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "am going to",
           "is_correct": false,
           "feedback": "Incorrect. Not a pre-planned intention in this context."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "am having",
           "is_correct": false,
           "feedback": "Incorrect. Present continuous is for arrangements, not ordering at a table."
@@ -267,7 +267,7 @@
           "feedback": "Incorrect. Future meaning is required here."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para decisiones rápidas tomadas en el momento del habla, como pedir en un restaurante, usamos \"will\".\n\n---",
       "difficulty": "6",
       "images": [],
@@ -295,13 +295,13 @@
           "feedback": "Incorrect. This would mean one is taller."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "as / as",
           "is_correct": true,
           "feedback": "Correct! Used for comparing things that are equal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "the / most",
           "is_correct": false,
           "feedback": "Incorrect. This is a superlative structure."
@@ -313,7 +313,7 @@
           "feedback": "Incorrect. \"So...as\" is usually used in negative comparisons."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La estructura \"as + adjetivo + as\" indica que dos cosas tienen la misma intensidad en una cualidad.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -341,25 +341,25 @@
           "feedback": "Incorrect. \"Understand\" is a stative verb."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "understand",
           "is_correct": true,
           "feedback": "Correct! Stative verbs stay in Simple Present."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "understanding",
           "is_correct": false,
           "feedback": "Incorrect. Lacks an auxiliary verb."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "understood",
           "is_correct": false,
           "feedback": "Incorrect. Context is current conversation."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Los verbos de estado (como understand, know, like) no se usan generalmente en tiempos continuos.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "Reviewing future predictions with evidence.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "will",
           "is_correct": false,
           "feedback": "Incorrect. \"Going to\" is better for immediate predictions based on evidence."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "are going to",
           "is_correct": true,
           "feedback": "Correct! You can see the danger right now."
@@ -405,7 +405,7 @@
           "feedback": "Incorrect. This is for a past plan that didn't happen."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Cuando la evidencia de lo que va a pasar es visible en el presente, preferimos usar \"be going to\".\n\n---",
       "difficulty": "8",
       "images": [],
@@ -439,19 +439,19 @@
           "feedback": "Incorrect. Word order is very confusing."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "I am meeting my cousin at the airport tomorrow morning at 10:00.",
           "is_correct": true,
           "feedback": "Correct! Present continuous for a fixed arrangement."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "She is the more intelligent girl in my whole school.",
           "is_correct": false,
           "feedback": "Incorrect. Comparison in a group requires the superlative \"most\"."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Se evalúa la capacidad de distinguir entre planes (Present Continuous), comparativos/superlativos y la lógica de interrupción en el pasado.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "Identifying the most appropriate response in a formal setting.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "I didn't did it. I'm sorry.",
           "is_correct": false,
           "feedback": "Incorrect. Grammatically incorrect (\"didn't did\")."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "I apologize, teacher. I was working on it last night when my computer crashed.",
           "is_correct": true,
           "feedback": "Correct! Professional tone and correct use of past tenses."
@@ -497,7 +497,7 @@
           "feedback": "Incorrect. Inappropriate and rude."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El nivel B1 implica no solo gramática correcta sino también el uso de registros adecuados para situaciones académicas.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -519,13 +519,13 @@
       "context": "Summarizing a story with multiple tenses.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "A past plan was cancelled due to weather, leading to a present activity and a future intention.",
           "is_correct": true,
           "feedback": "Correct! It covers past, present, and future mentioned in the text."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "The person always goes hiking when it rains and is reading now.",
           "is_correct": false,
           "feedback": "Incorrect. The hike was cancelled."
@@ -543,7 +543,7 @@
           "feedback": "Incorrect. The text doesn't say he doesn't like books."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Sintetizar un texto que utiliza múltiples tiempos verbales requiere una comprensión clara de la cronología de los eventos.",
       "difficulty": "10",
       "images": [],

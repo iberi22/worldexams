@@ -13,19 +13,19 @@
       "context": "Fernanda analiza situaciones académicas en Santiago.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$4/\\sqrt{25}$",
           "is_correct": true,
           "feedback": "¡Correcto! Hipotenusa = sqrt(25), luego cos(alpha) = cateto adyacente / hipotenusa = 4/sqrt(25)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$3/\\sqrt{25}$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste el seno del ángulo en vez del coseno."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$3/4$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste la tangente del ángulo."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Invertiste la razón trigonométrica calculando la secante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La hipotenusa es sqrt(3^2 + 4^2) = sqrt(25). Por definición, cos(alpha) = cateto adyacente / hipotenusa = 4/sqrt(25).",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Lucas analiza situaciones académicas en Concepción.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$6/\\sqrt{61}$",
           "is_correct": true,
           "feedback": "¡Correcto! Hipotenusa = sqrt(61), luego cos(alpha) = cateto adyacente / hipotenusa = 6/sqrt(61)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$5/\\sqrt{61}$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste el seno del ángulo en vez del coseno."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Invertiste la razón trigonométrica calculando la secante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La hipotenusa es sqrt(5^2 + 6^2) = sqrt(61). Por definición, cos(alpha) = cateto adyacente / hipotenusa = 6/sqrt(61).",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Valentina analiza situaciones académicas en Antofagasta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$7/\\sqrt{85}$",
           "is_correct": true,
           "feedback": "¡Correcto! Hipotenusa = sqrt(85), luego cos(alpha) = cateto adyacente / hipotenusa = 7/sqrt(85)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$6/\\sqrt{85}$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste el seno del ángulo en vez del coseno."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$6/7$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste la tangente del ángulo."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Invertiste la razón trigonométrica calculando la secante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La hipotenusa es sqrt(6^2 + 7^2) = sqrt(85). Por definición, cos(alpha) = cateto adyacente / hipotenusa = 7/sqrt(85).",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Tomás analiza situaciones académicas en Temuco.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$8/\\sqrt{113}$",
           "is_correct": true,
           "feedback": "¡Correcto! Hipotenusa = sqrt(113), luego cos(alpha) = cateto adyacente / hipotenusa = 8/sqrt(113)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$7/\\sqrt{113}$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste el seno del ángulo en vez del coseno."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Invertiste la razón trigonométrica calculando la secante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La hipotenusa es sqrt(7^2 + 8^2) = sqrt(113). Por definición, cos(alpha) = cateto adyacente / hipotenusa = 8/sqrt(113).",
       "difficulty": "6",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Camila analiza situaciones académicas en La Serena.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$9/\\sqrt{145}$",
           "is_correct": true,
           "feedback": "¡Correcto! Hipotenusa = sqrt(145), luego cos(alpha) = cateto adyacente / hipotenusa = 9/sqrt(145)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$8/\\sqrt{145}$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste el seno del ángulo en vez del coseno."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Invertiste la razón trigonométrica calculando la secante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La hipotenusa es sqrt(8^2 + 9^2) = sqrt(145). Por definición, cos(alpha) = cateto adyacente / hipotenusa = 9/sqrt(145).",
       "difficulty": "6",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "Diego analiza situaciones académicas en Viña del Mar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$10/\\sqrt{181}$",
           "is_correct": true,
           "feedback": "¡Correcto! Hipotenusa = sqrt(181), luego cos(alpha) = cateto adyacente / hipotenusa = 10/sqrt(181)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$9/\\sqrt{181}$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste el seno del ángulo en vez del coseno."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Invertiste la razón trigonométrica calculando la secante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La hipotenusa es sqrt(9^2 + 10^2) = sqrt(181). Por definición, cos(alpha) = cateto adyacente / hipotenusa = 10/sqrt(181).",
       "difficulty": "6",
       "images": [],
@@ -418,31 +418,31 @@
       "context": "Catalina analiza situaciones académicas en Talca.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$13/\\sqrt{313}$",
           "is_correct": true,
           "feedback": "¡Correcto! Hipotenusa = sqrt(313), luego cos(alpha) = cateto adyacente / hipotenusa = 13/sqrt(313)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$12/\\sqrt{313}$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste el seno del ángulo en vez del coseno."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$12/13$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste la tangente del ángulo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\sqrt{313}/13$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la razón trigonométrica calculando la secante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La hipotenusa es sqrt(12^2 + 13^2) = sqrt(313). Por definición, cos(alpha) = cateto adyacente / hipotenusa = 13/sqrt(313).",
       "difficulty": "6",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "Martina analiza situaciones académicas en Puerto Montt.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$15/\\sqrt{421}$",
           "is_correct": true,
           "feedback": "¡Correcto! Hipotenusa = sqrt(421), luego cos(alpha) = cateto adyacente / hipotenusa = 15/sqrt(421)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$14/\\sqrt{421}$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste el seno del ángulo en vez del coseno."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$14/15$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste la tangente del ángulo."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Invertiste la razón trigonométrica calculando la secante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La hipotenusa es sqrt(14^2 + 15^2) = sqrt(421). Por definición, cos(alpha) = cateto adyacente / hipotenusa = 15/sqrt(421).",
       "difficulty": "8",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "Benjamín analiza situaciones académicas en Chillán.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$16/\\sqrt{481}$",
           "is_correct": true,
           "feedback": "¡Correcto! Hipotenusa = sqrt(481), luego cos(alpha) = cateto adyacente / hipotenusa = 16/sqrt(481)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$15/\\sqrt{481}$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste el seno del ángulo en vez del coseno."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$15/16$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste la tangente del ángulo."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Invertiste la razón trigonométrica calculando la secante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La hipotenusa es sqrt(15^2 + 16^2) = sqrt(481). Por definición, cos(alpha) = cateto adyacente / hipotenusa = 16/sqrt(481).",
       "difficulty": "8",
       "images": [],
@@ -598,31 +598,31 @@
       "context": "Sofía analiza situaciones académicas en Calama.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$17/\\sqrt{545}$",
           "is_correct": true,
           "feedback": "¡Correcto! Hipotenusa = sqrt(545), luego cos(alpha) = cateto adyacente / hipotenusa = 17/sqrt(545)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$16/\\sqrt{545}$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste el seno del ángulo en vez del coseno."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$16/17$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste la tangente del ángulo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\sqrt{545}/17$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la razón trigonométrica calculando la secante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La hipotenusa es sqrt(16^2 + 17^2) = sqrt(545). Por definición, cos(alpha) = cateto adyacente / hipotenusa = 17/sqrt(545).",
       "difficulty": "8",
       "images": [],
@@ -643,19 +643,19 @@
       "context": "Sebastián analiza situaciones académicas en Valdivia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$18/\\sqrt{613}$",
           "is_correct": true,
           "feedback": "¡Correcto! Hipotenusa = sqrt(613), luego cos(alpha) = cateto adyacente / hipotenusa = 18/sqrt(613)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$17/\\sqrt{613}$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste el seno del ángulo en vez del coseno."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$17/18$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste la tangente del ángulo."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Invertiste la razón trigonométrica calculando la secante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La hipotenusa es sqrt(17^2 + 18^2) = sqrt(613). Por definición, cos(alpha) = cateto adyacente / hipotenusa = 18/sqrt(613).",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Javier analiza situaciones académicas en Valparaíso.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$20/\\sqrt{761}$",
           "is_correct": true,
           "feedback": "¡Correcto! Hipotenusa = sqrt(761), luego cos(alpha) = cateto adyacente / hipotenusa = 20/sqrt(761)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$19/\\sqrt{761}$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste el seno del ángulo en vez del coseno."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Invertiste la razón trigonométrica calculando la secante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La hipotenusa es sqrt(19^2 + 20^2) = sqrt(761). Por definición, cos(alpha) = cateto adyacente / hipotenusa = 20/sqrt(761).",
       "difficulty": "10",
       "images": [],
@@ -778,31 +778,31 @@
       "context": "Lucas analiza situaciones académicas en Concepción.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$21/\\sqrt{841}$",
           "is_correct": true,
           "feedback": "¡Correcto! Hipotenusa = sqrt(841), luego cos(alpha) = cateto adyacente / hipotenusa = 21/sqrt(841)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$20/\\sqrt{841}$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste el seno del ángulo en vez del coseno."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$20/21$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste la tangente del ángulo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\sqrt{841}/21$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la razón trigonométrica calculando la secante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La hipotenusa es sqrt(20^2 + 21^2) = sqrt(841). Por definición, cos(alpha) = cateto adyacente / hipotenusa = 21/sqrt(841).",
       "difficulty": "10",
       "images": [],
@@ -823,31 +823,31 @@
       "context": "Valentina analiza situaciones académicas en Antofagasta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$22/\\sqrt{925}$",
           "is_correct": true,
           "feedback": "¡Correcto! Hipotenusa = sqrt(925), luego cos(alpha) = cateto adyacente / hipotenusa = 22/sqrt(925)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$21/\\sqrt{925}$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste el seno del ángulo en vez del coseno."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$21/22$",
           "is_correct": false,
           "feedback": "Incorrecto. Calculaste la tangente del ángulo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\sqrt{925}/22$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la razón trigonométrica calculando la secante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La hipotenusa es sqrt(21^2 + 22^2) = sqrt(925). Por definición, cos(alpha) = cateto adyacente / hipotenusa = 22/sqrt(925).",
       "difficulty": "10",
       "images": [],

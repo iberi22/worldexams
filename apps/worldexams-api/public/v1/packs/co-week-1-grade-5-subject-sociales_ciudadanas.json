@@ -13,31 +13,31 @@
       "context": "Un mapa temático de Colombia divide el territorio nacional continental e insular en seis grandes regiones naturales atendiendo a sus características de relieve, clima y vegetación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Región Insular (San Andrés, Providencia, Malpelo).",
           "is_correct": true,
           "feedback": "La Región Insular comprende las islas oceánicas e insulares de Colombia en ambos mares."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Región Andina.",
           "is_correct": false,
           "feedback": "La Región Andina es continental y abarca las tres cordilleras de los Andes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Región de la Orinoquía.",
           "is_correct": false,
           "feedback": "La Orinoquía es continental y corresponde a los llanos orientales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Región Amazónica.",
           "is_correct": false,
           "feedback": "La Amazonía comprende la selva húmeda del sur del país en el continente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Identificación de la división regional geográfica oficial de Colombia y sus componentes insulares.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "En la Región Andina se concentran las tres cordilleras (Western, Central and Eastern) con pisos térmicos que van desde el cálido hasta el nival.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La variación de la altitud sobre el nivel del mar a lo largo de las cordilleras (pisos térmicos).",
           "is_correct": true,
           "feedback": "A mayor altitud disminuye la temperatura, generando pisos térmicos cálido, templado, frío, páramo y nival."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La presencia constante de marea alta en los valles interandinos.",
           "is_correct": false,
           "feedback": "Las mareas afectan las costas marinas, no la altitud de los valles interandinos."
@@ -83,7 +83,7 @@
           "feedback": "Colombia está en la zona intertropical; el relieve andino es el factor determinante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Comprensión de la relación entre el relieve montañoso andino, la altitud y la clasificación de pisos térmicos.",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "La Región Pacífica colombiana es una de las zonas más húmedas del planeta, con precipitaciones frecuentes y densa selva húmeda tropical.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Chocó.",
           "is_correct": true,
           "feedback": "Chocó se ubica completamente en la Región Pacífica y es centro de su biodiversidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Boyacá.",
           "is_correct": false,
           "feedback": "Boyacá se encuentra ubicado en la Región Andina (Cordillera Oriental)."
@@ -175,7 +175,7 @@
           "feedback": "Amazonas pertenece a la Región Amazónica en el extremo sur del país."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Localización espacial de las entidades territoriales (departamentos) en las respectivas regiones naturales de Colombia.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En la Región Caribe colombiana se destacan paisajes variados que van desde la Sierra Nevada de Santa Marta hasta las zonas desérticas de La Guajira y las llanuras costeras.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Los bosques de manglar.",
           "is_correct": true,
           "feedback": "Los manglares en las costas caribeñas fijan el suelo con sus raíces y protegen de la erosión marina."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los frailejones de alta montaña.",
           "is_correct": false,
           "feedback": "Los frailejones son plantas exclusivas de los páramos andinos por encima de 3.000 msnm."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los glaciares de nieve perpetua.",
           "is_correct": false,
           "feedback": "Los glaciares están en las cumbres montañosas, no en las costas marítimas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Las plantaciones de trigo sabanero.",
           "is_correct": false,
           "feedback": "El trigo se cultiva en tierras frías andinas, no en litorales salinos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Reconocimiento de ecosistemas estratégicos (mangles) en la franja costera de la Región Caribe.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "La Amazonía colombiana es considerada el \"pulmón del mundo\" por su inmensa cobertura boscosa, la cual absorbe dióxido de carbono y alberga la mayor diversidad biológica del país.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Destrucción de la biodiversidad, pérdida de saberes ancestrales indígenas y aceleración del calentamiento global.",
           "is_correct": true,
           "feedback": "La deforestación fragmenta los hábitats, desplaza comunidades nativas y libera toneladas de carbono acumulado."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Aumento inmediato de la producción de agua dulce en todas las ciudades del interior.",
           "is_correct": false,
           "feedback": "La tala de árboles reduce la humedad del aire y altera negativamente el ciclo del agua."
@@ -267,7 +267,7 @@
           "feedback": "Las acciones continentales en la selva sur no crean territorio insular marino en el norte."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Análisis del impacto socioambiental de las actividades extractivas e ilegales sobre ecosistemas estratégicos.",
       "difficulty": "8",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "Dos comunidades campesinas intercambian productos: la comunidad A vive a 2.800 msnm en la Región Andina (produce papas y hortalizas de clima frío) y la comunidad B vive a nivel del mar en la Región Caribe (produce yuca, plátano y pescado).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Permite abastecer la canasta familiar diversificada a través del comercio interregional de alimentos.",
           "is_correct": true,
           "feedback": "La variedad de climas y suelos regionales enriquece la dieta y la economía nacional mediante el intercambio."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Obliga a que todas las personas vivan en una sola ciudad para poder alimentarse.",
           "is_correct": false,
           "feedback": "La diversidad de producción fomenta el desarrollo equilibrado de los territorios."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Prohíbe que el pescado del Caribe se consuma en los restaurantes de Bogotá.",
           "is_correct": false,
           "feedback": "El comercio interregional permite que productos de las costas lleguen a las ciudades del interior."
@@ -313,7 +313,7 @@
           "feedback": "Todas las regiones aportan insumos agrícolas, ganaderos, pesqueros y mineros esenciales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Comprensión de la integración económica interregional fundada en la diversidad climática y productiva del territorio colombiano.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "Una propuesta de infraestructura vial busca construir una autopista atravesando una reserva forestal protegida en la Región del Chocó biogeográfico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Sopesar la conectividad económica requerida con la protección de la biodiversidad mediante estudios de impacto ambiental rigurosos.",
           "is_correct": true,
           "feedback": "El desarrollo sostenible busca un equilibrio responsable entre crecimiento económico, equidad social y preservación ambiental."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Aprobar la obra de inmediato sin importar la extinción de especies nativas de la selva.",
           "is_correct": false,
           "feedback": "Desconocer el daño ambiental viola los principios constitucionales de protección del patrimonio natural."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cancelar todos los medios de transporte en Colombia para evitar construir vías.",
           "is_correct": false,
           "feedback": "La infraestructura es necesaria para el bienestar; la clave es el diseño sostenible y respetuoso del entorno."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Permitir únicamente el paso de vehículos pesados sin control ambiental alguno.",
           "is_correct": false,
           "feedback": "Requiere controles estrictos para evitar la deforestación descontrolada en la zona de reserva."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluación crítica de proyectos de infraestructura bajo el paradigma del desarrollo sostenible y la protección del patrimonio biológico.",
       "difficulty": "10",
       "images": [],

@@ -13,13 +13,13 @@
       "context": "En Bogotá, una tienda anuncia el $50\\%$ de descuento en una colección de $80$ camisetas para liquidar inventario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$40$",
           "is_correct": true,
           "feedback": "Correcto. El $50\\%$ es la mitad: $80 \\div 2 = 40$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$30$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor corresponde a menos de la mitad."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Ese es el $10\\%$ de $80$, no el $50\\%$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El $50\\%$ de una cantidad es su mitad: $\\frac{50}{100} \\times 80 = 40$.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "En Medellín, el profesor explica que el $25\\%$ de los $32$ estudiantes del curso practica natación.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Calcular la cuarta parte de la cantidad",
           "is_correct": true,
           "feedback": "Correcto. $25\\% = \\frac{25}{100} = \\frac{1}{4}$, es decir, la cuarta parte."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Calcular la mitad de la cantidad",
           "is_correct": false,
           "feedback": "Incorrecto. La mitad corresponde al $50\\%$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Calcular el doble de la cantidad",
           "is_correct": false,
           "feedback": "Incorrecto. El doble corresponde al $200\\%$."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. La décima parte corresponde al $10\\%$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El $25\\%$ equivale a la fracción $\\frac{1}{4}$: dividir la cantidad entre $4$. En el curso, $\\frac{32}{4} = 8$ estudiantes practican natación.",
       "difficulty": "4",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En Barranquilla, una camiseta cuesta $60000\\text{ COP}$ y tiene un descuento del $10\\%$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$54000\\text{ COP}$",
           "is_correct": true,
           "feedback": "Correcto. Descuento de $6000$; precio final $60000 - 6000 = 54000$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$50000\\text{ COP}$",
           "is_correct": false,
           "feedback": "Incorrecto. Restaste $10000$ en lugar del $10\\%$ ($6000$)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$6000\\text{ COP}$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el valor del descuento, no el precio final."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$48000\\text{ COP}$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese sería un descuento del $20\\%$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El $10\\%$ de $60000$ es $6000$. Precio final: $60000 - 6000 = 54000\\text{ COP}$.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En Pereira, una prueba de matemáticas tiene $40$ preguntas y Juan responde correctamente el $75\\%$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$30$ preguntas",
           "is_correct": true,
           "feedback": "Correcto. $\\frac{75}{100} \\times 40 = 30$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$25$ preguntas",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor no corresponde al $75\\%$ de $40$."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Ese es el $25\\%$, la parte que falló."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El $75\\%$ equivale a $\\frac{3}{4}$: $\\frac{3}{4} \\times 40 = 30$ preguntas correctas.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En Bucaramanga, un computador cuesta $1200000\\text{ COP}$ y su precio aumenta un $15\\%$ en diciembre.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$1380000\\text{ COP}$",
           "is_correct": true,
           "feedback": "Correcto. Aumento de $180000$; precio final $1200000 + 180000 = 1380000$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$1320000\\text{ COP}$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese sería un aumento del $10\\%$."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Ese sería un aumento del $12.5\\%$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aumento: $0.15 \\times 1200000 = 180000$. Nuevo precio: $1200000 + 180000 = 1380000\\text{ COP}$.",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En Manizales, después de un descuento del $20\\%$, una maleta cuesta $96000\\text{ COP}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$120000\\text{ COP}$",
           "is_correct": true,
           "feedback": "Correcto. El $80\\%$ del precio es $96000$, luego el precio es $96000 \\div 0.8 = 120000$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$115200\\text{ COP}$",
           "is_correct": false,
           "feedback": "Incorrecto. Aumentaste $96000$ en un $20\\%$ en lugar de dividir entre $0.8$."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Calculaste el $80\\%$ de $96000$, es decir, aplicaste el descuento dos veces."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Si $P$ es el precio original, $0.8P = 96000$, de donde $P = \\frac{96000}{0.8} = 120000\\text{ COP}$.",
       "difficulty": "8",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "En Medellín, el almacén A ofrece $30\\%$ de descuento en una bicicleta de $180000\\text{ COP}$ y el almacén B ofrece $25\\%$ de descuento en el mismo modelo marcado en $160000\\text{ COP}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El almacén B, se pagan $120000\\text{ COP}$",
           "is_correct": true,
           "feedback": "Correcto. A: $180000 \\times 0.7 = 126000$; B: $160000 \\times 0.75 = 120000$. Conviene B."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El almacén A, se pagan $126000\\text{ COP}$",
           "is_correct": false,
           "feedback": "Incorrecto. El cálculo es correcto, pero el almacén B deja un precio menor."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambas ofertas son iguales",
           "is_correct": false,
           "feedback": "Incorrecto. $126000 \\ne 120000$; hay una diferencia de $6000\\text{ COP}$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El almacén B, se pagan $135000\\text{ COP}$",
           "is_correct": false,
           "feedback": "Incorrecto. Ese sería el precio con solo $15\\%$ de descuento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Precio A: $180000 \\times (1 - 0.30) = 126000$. Precio B: $160000 \\times (1 - 0.25) = 120000$. La mejor oferta es la del almacén B.",
       "difficulty": "10",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "En Popayán, un balón cuesta $100000\\text{ COP}$. El vendedor afirma que aumentar el precio un $20\\%$ y luego aplicar un descuento del $20\\%$ deja el precio igual al inicial.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "No, el precio final queda en $96000\\text{ COP}$",
           "is_correct": true,
           "feedback": "Correcto. $100000 \\times 1.2 = 120000$; $120000 \\times 0.8 = 96000$, es decir el $96\\%$ del original."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sí, el precio queda igual en $100000\\text{ COP}$",
           "is_correct": false,
           "feedback": "Incorrecto. El descuento se aplica sobre el precio ya aumentado, no sobre el original."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No, el precio final queda en $104000\\text{ COP}$",
           "is_correct": false,
           "feedback": "Incorrecto. Error al encadenar los dos porcentajes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No, el precio final queda en $80000\\text{ COP}$",
           "is_correct": false,
           "feedback": "Incorrecto. Aplicaste el descuento sobre el precio original, no sobre el aumentado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aumentos y descuentos sucesivos no se cancelan: $100000 \\times 1.20 \\times 0.80 = 96000\\text{ COP}$, el $96\\%$ del precio inicial.",
       "difficulty": "10",
       "images": [],

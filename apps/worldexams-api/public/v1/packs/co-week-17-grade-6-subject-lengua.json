@@ -19,13 +19,13 @@
           "feedback": "Incorrecto. Esa es la función del verbo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Palabras que reemplazan al sustantivo para evitar repeticiones.",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es la función del pronombre."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Palabras invariables que enlazan un sustantivo con otra palabra de la oración.",
           "is_correct": true,
           "feedback": "Correcto. Las preposiciones relacionan términos dentro de la oración."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Esa es la función de la conjunción."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Las preposiciones más usadas en español son: a, ante, bajo, con, contra, de, desde, en, entre, hacia, hasta, para, por, según, sin, sobre, tras. Son palabras invariables: no cambian de forma.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -65,13 +65,13 @@
           "feedback": "Incorrecto. Esas palabras son pronombre, preposición y artículo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "«Sin» enlaza «cuaderno» y «de» enlaza «ciencias» con «profesora».",
           "is_correct": true,
           "feedback": "Correcto. Cada preposición cumple una función distinta."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solo «con» es preposición, las demás son adverbios.",
           "is_correct": false,
           "feedback": "Incorrecto. «Sin» y «de» también son preposiciones."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Esas palabras son verbos conjugados."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La preposición siempre forma una unidad con la palabra o palabras que la siguen (sin cuaderno, de ciencias). Esa unidad se llama complemento preposicional y aporta información clave al verbo.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "Un cartel de Cali anuncia: «Vuelos desde Bogotá hacia Pasto por solo 180.000 COP».",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "«Desde» indica destino, «hacia» indica origen y «por» indica modo.",
           "is_correct": false,
           "feedback": "Incorrecto. Las funciones están invertidas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Las tres preposiciones son sinónimas y no aportan diferencia.",
           "is_correct": false,
           "feedback": "Incorrecto. Cada una tiene un matiz distinto."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "«Desde» marca origen, «hacia» marca dirección y «por» indica el precio.",
           "is_correct": true,
           "feedback": "Correcto. Cada preposición precisa un dato distinto del viaje."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Todas son necesarias para entender el anuncio."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "«Desde» y «hacia» marcan trayectos; «por» se usa para medios, precios y causas. Conocer el matiz de cada preposición evita confusiones, sobre todo en textos informativos como avisos y noticias.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Una receta de Bucaramanga dice: «Fríe la cebolla con ajo, pero no la quemes; si se pega, agrega agua».",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Con y no son conjunciones, son adverbios.",
           "is_correct": false,
           "feedback": "Incorrecto. «Con» es preposición y «no» es adverbio de negación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "«Pero» introduce un aviso, «si» plantea una condición y «no» es adverbio.",
           "is_correct": true,
           "feedback": "Correcto. Cada palabra cumple un papel distinto en la receta."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Ninguna reemplaza al sustantivo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Las conjunciones se dividen en coordinantes (unen elementos del mismo nivel: y, o, pero, sino) y subordinantes (introducen una dependencia: que, si, porque, aunque). Elegir la adecuada mantiene la lógica del texto.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -295,25 +295,25 @@
           "feedback": "Incorrecto. «Para» es preposición y «porque» es conjunción causal."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "«Para» introduce finalidad, «porque» expresa causa y «aunque» marca oposición.",
           "is_correct": true,
           "feedback": "Correcto. Cada conector muestra un tipo de relación lógica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "«Aunque» solo se usa para hablar del pasado.",
           "is_correct": false,
           "feedback": "Incorrecto. Puede aparecer en distintos tiempos y modos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "«Leer» y «esencial» son las conjunciones más importantes.",
           "is_correct": false,
           "feedback": "Incorrecto. Esas palabras son verbo y adjetivo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Conjunciones causales (porque, ya que), finales (para que, a fin de que) y adversativas (aunque, a pesar de que) organizan las ideas del texto. Reconocerlas mejora la argumentación.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "Un aviso en Tunja dice: «Los estudiantes, con sus profesores, harán un paseo hacia el páramo sin descuidar las normas».",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El aviso es confuso y debe reescribirse por completo.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto es claro; solo se puede mejorar algún matiz."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "«Con» precisa compañía, «hacia» marca dirección y «sin» advierte de una condición.",
           "is_correct": true,
           "feedback": "Correcto. Cada conector organiza un aspecto distinto del plan."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. «Con» y «hacia» también son preposiciones."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Un buen aviso depende de conectores precisos: «hacia» para indicar dirección general, «hasta» para destino exacto, «sin» para negar un riesgo. Cada conector comunica una intención clara.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "Una alumna de Cartagena escribe: «Iré al museo si me dejan, sino iré al parque, o por último me quedaré leyendo en casa».",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La frase es correcta y no necesita cambios.",
           "is_correct": false,
           "feedback": "Incorrecto. Hay un error en el uso de «sino»."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "«Si no» debería ir separado y «sino» aparece mal combinado.",
           "is_correct": true,
           "feedback": "Correcto. La alumna fusionó dos estructuras distintas: «si no» (condición) y «sino» (contraste)."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. El futuro es correcto para anunciar planes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "«Si no» (separado) equivale a «en caso de que no» (condicional). «Sino» (junto) equivale a «pero» o «en lugar de» (contrastante). Confundirlos es un error frecuente que conviene revisar en las redacciones.",
       "difficulty": "10",
       "images": [],

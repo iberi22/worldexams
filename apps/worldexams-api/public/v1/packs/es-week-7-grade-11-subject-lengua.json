@@ -13,13 +13,13 @@
       "context": "Un profesor de Lengua en un instituto de Madrid analiza las tres secciones constitutivas que estructuran los textos persuasivos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La tesis (idea que se defiende), el cuerpo argumentativo (conjunto de razones y pruebas) y la conclusión (síntesis y cierre).",
           "is_correct": true,
           "feedback": "Correcto. La estructura clásica de la argumentación consta de tesis inicial o final, el cuerpo argumentativo de pruebas, y la conclusión o síntesis de cierre."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El planteamiento amoroso, el nudo descriptivo del paisaje de Doñana y la rima asonante final.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso corresponde a la tipología narrativa y lírica, no al discurso argumentativo lógico."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Requiere un desarrollo lógico e intelectual de argumentos para ser considerada argumentación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La argumentación formal se organiza en torno a tres pilares: la tesis (opinión o postura que se desea demostrar), el cuerpo argumentativo (razonamientos, datos, analogías, etc.) y la conclusión (recapitulación de ideas y cierre).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,31 +58,31 @@
       "context": "En una columna de opinión de Soria se lee la siguiente frase: 'La OMS declara que el sedentarismo es la causa directa del aumento de las enfermedades cardiovasculares en los jóvenes de España'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Argumento de autoridad, al fundamentar la validez de la tesis en la opinión o dictamen de un organismo de prestigio científico reconocido.",
           "is_correct": true,
           "feedback": "Correcto. El argumento de autoridad se sirve de citas o declaraciones de expertos, instituciones o personalidades de renombre para respaldar la postura defendida."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Argumento analógico, porque traza comparaciones con la fauna de Doñana.",
           "is_correct": false,
           "feedback": "Incorrecto. No establece comparaciones de semejanza entre dos sistemas; cita directamente una declaración experta de salud."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Falacia ad hominem, que busca descalificar moralmente al director de la OMS en Madrid.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un argumento legítimo y prestigioso de autoridad, libre de descalificaciones personales ofensivas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Argumento ad populum, que se limita a apelar al miedo irracional de los jóvenes.",
           "is_correct": false,
           "feedback": "Incorrecto. Cita un dato institucional científico, desvinculado del mero sentir general irracional colectivo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El argumento de autoridad es de uso frecuente en el periodismo y los ensayos de selectividad. Utiliza el prestigio intelectual o científico de un tercero (OMS, RAE, un pensador célebre) para blindar la solidez de la tesis.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Durante un debate parlamentario transmitido por televisión en Madrid, un diputado afirma: 'El proyecto de ley propuesto por el señor Martínez carece de valor porque el señor Martínez nunca ha pagado una hipoteca en su vida'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Falacia ad hominem, que descalifica personalmente al proponente (el señor Martínez) para restar validez a su propuesta en lugar de rebatir el contenido de la ley.",
           "is_correct": true,
           "feedback": "Correcto. La falacia ad hominem ataca directamente a la persona que emite la idea, buscando desacreditarla, en vez de rebatir racionalmente los argumentos lógicos de su propuesta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Falacia ad verecundiam, al apelar a la opinión venerable de un clérigo de Toledo.",
           "is_correct": false,
           "feedback": "Incorrecto. La falacia ad verecundiam apela de forma errónea a una falsa autoridad; atacar a la persona es ad hominem."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Argumento analógico de confianza de Doñana.",
           "is_correct": false,
           "feedback": "Incorrecto. No establece analogías legítimas; incurre en un vicio argumentativo ofensivo."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. La ad ignorantiam sostiene que algo es verdadero solo porque no se ha demostrado su falsedad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La falacia ad hominem es un error lógico e intelectual severo que atenta contra el debate racional. Consiste en desviar la atención desde el argumento lógico hacia las circunstancias, vida o moralidad del emisor que lo defiende.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,19 +193,19 @@
       "context": "Un ensayo periodístico publicado en Barcelona sobre educación aporta los siguientes datos: 'Según el último censo de 2024, el 85% de los hogares de España con hijos en edad escolar dispone de conexión a internet de alta velocidad'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Argumento basado en datos y estadísticas, que dota de solidez, objetividad y rigor empírico a la tesis mediante cifras numéricas contrastables.",
           "is_correct": true,
           "feedback": "Correcto. Los argumentos basados en datos reales e indicadores estadísticos cuantificables aportan un gran poder persuasivo y objetividad fáctica de cara a la EBAU."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Argumento afectivo-emotivo, que busca derramar lágrimas de compasión en el lector por los cables de fibra óptica.",
           "is_correct": false,
           "feedback": "Incorrecto. No busca la conmoción emocional sentimental del lector; es una cifra matemática descriptiva fría y objetiva."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Falacia ad baculum, que intimida físicamente al lector bajo amenaza de corte de internet.",
           "is_correct": false,
           "feedback": "Incorrecto. La falacia ad baculum se sirve del miedo o la fuerza física para imponer la tesis; aquí es un porcentaje real de mercado."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Son datos sociológicos y tecnológicos modernos contemporáneos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los argumentos basados en datos objetivos y estadísticas apelan a la racionalidad lógica del receptor. Las cifras contrastables dotan de veracidad objetiva e indiscutible a la argumentación del ensayo.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,19 +238,19 @@
       "context": "En una mesa redonda en Valencia sobre el cambio climático se sostiene: 'Los veranos de España son cada vez más extremos. Pensemos, por ejemplo, en la ola de calor histórica que asfixió a Sevilla y Zaragoza el pasado mes de julio, superando los 44 grados durante cinco días seguidos'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Argumento por ejemplificación, al ilustrar y concretar la tesis general mediante un caso real y específico que el lector puede verificar de forma cercana.",
           "is_correct": true,
           "feedback": "Correcto. El argumento de ejemplificación sirve para dar un ejemplo concreto de la vida real que demuestra visual y fácticamente la veracidad de la tesis general."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Argumento de autoridad del Ayuntamiento de Valencia.",
           "is_correct": false,
           "feedback": "Incorrecto. No cita el bando oficial del alcalde de Valencia, describe una ola de calor real de forma ilustrativa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Falacia ad hominem, que ataca la moralidad del sol de verano.",
           "is_correct": false,
           "feedback": "Incorrecto. No descalifica a ninguna persona; ilustra la tesis meteorológica con un suceso verídico del clima."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Es un recurso lógico de nivel de tipología discursiva, ajeno a nominalizaciones."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El argumento de ejemplificación es fundamental en la tipología argumentativa. Al descender desde la abstracción general (cambio climático) hacia el hecho particular tangible (la ola de calor real del verano pasado), facilita la persuasión racional del lector.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,19 +418,19 @@
       "context": "En un debate vecinal en un barrio de Sevilla, un vecino argumenta: 'Debemos peatonalizar la plaza porque todo el mundo sabe que es lo mejor para los niños del barrio'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Argumento de sentir general o ad populum, al defender la tesis apelando a la opinión de la mayoría desprovista de demostración científica.",
           "is_correct": true,
           "feedback": "Correcto. Los argumentos de sentido común o 'ad populum' se apoyan en la opinión supuestamente general o mayoritaria ('todo el mundo sabe que') para persuadir de forma grupal."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Argumento de autoridad del Ministerio de Fomento de España.",
           "is_correct": false,
           "feedback": "Incorrecto. No cita ningún informe técnico ni dictamen del ministerio; apela al parecer popular indeterminado ('todo el mundo sabe')."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una falacia ad hominem que insulta al vecino de la acera de enfrente.",
           "is_correct": false,
           "feedback": "Incorrecto. No descalifica u ofende de forma directa a ningún interlocutor individual del barrio; apela al colectivo indiferenciado."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Es un recurso argumentativo lógico e informal de nivel discursivo, ajeno a desviaciones gramaticales de preposiciones."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El argumento de sentir general (o falacia ad populum en el plano lógico) se basa en la asunción falaz de que la verdad o corrección de una tesis depende de que la mayoría de las personas la apoye o la asuma como sentido común.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "En un examen de selectividad en Salamanca, se analiza una columna de opinión que incluye las expresiones: 'decisión desastrosa', 'medida nefasta', 'actitud heroica' y 'comportamiento ejemplar'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Uso de léxico valorativo o cargado de valoraciones axiológicas (adjetivos apreciativos), que orienta de forma sutil la opinión del receptor hacia el juicio ético del emisor.",
           "is_correct": true,
           "feedback": "Correcto. El léxico valorativo (nefasta, desastrosa, heroica, ejemplar) es subjetivo e indispensable en los textos de opinión para calificar hechos y contagiar sutilmente el juicio del autor."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Tecnicismos neutros y denotativos propios de la química molecular pura.",
           "is_correct": false,
           "feedback": "Incorrecto. Son adjetivos connotativos cargados de opinión axiológica subjetiva, opuestos a la monosemia denotativa neutra de las ciencias."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Arcaísmos medievales de uso exclusivo en la provincia de Toledo.",
           "is_correct": false,
           "feedback": "Incorrecto. Son palabras del vocabulario culto y coloquial estándar actual de España, de vigencia contemporánea plena."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. No guardan relación con la preposición 'de' ni con nexos subordinados; son adjetivos calificativos de valor semántico nominal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La neutralidad léxica se destierra de los textos argumentativos subjetivos (columnas de opinión, editoriales). El uso de adjetivos valorativos y sustantivos ponderativos (léxico axiológico) es un recurso retórico idóneo para guiar ideológicamente al lector.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,31 +643,31 @@
       "context": "Un editorial de 'El País' sostiene: 'El cierre prolongado del tráfico en el centro de Madrid reduce drásticamente las partículas de nitrógeno en el aire; consecuentemente, mejora la salud respiratoria de los vecinos y disminuye los ingresos de urgencias en los hospitales metropolitanos'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Argumento racional de causa-efecto, al asociar de manera demostrable un hecho precedente (cierre de tráfico) con las consecuencias positivas resultantes (reducción de contaminación e ingresos médicos).",
           "is_correct": true,
           "feedback": "Correcto. El argumento de causa-efecto establece nexos causales demostrables y racionales entre hechos precedentes e implicaciones lógicas resultantes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Falacia ad populum de bajo nivel de éxito de Doñana.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un razonamiento lógico causa-efecto verosímil, distante de la apelación falaz al sentir de masas o al miedo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Argumento por el absurdo, que busca convencer al lector mediante la risa carnavalesca.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay burla ni reducción al absurdo; es un análisis lógico-clínico serio del aire metropolitano."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Un leísmo de persona directo que suspende la concordancia del pronombre 'lo'.",
           "is_correct": false,
           "feedback": "Incorrecto. Carece de relación con los pronombres de acusativo masculinos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Los argumentos racionales basados en relaciones de causa y efecto demuestran que una determinada acción (causa) produce de forma previsible e inevitable un cierto resultado (consecuencia), dotando de rigor intelectual a la tesis.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Un orador pronuncia un discurso de opinión argumentado en un instituto de Soria sobre el acoso escolar: '¡Basta ya de mirar hacia otro lado! Debemos actuar con valentía y unidad. Siento dolor al ver la pasividad de algunos responsables'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Las funciones apelativa (persuadir e implicar al receptor en la acción mediante mandatos) y expresiva (exteriorizar el dolor y la indignación subjetiva del orador).",
           "is_correct": true,
           "feedback": "Correcto. En la argumentación subjetiva o mitin predominan de forma coordinada la función apelativa (mover al receptor) y la expresiva (mostrar el compromiso e indignación subjetiva del emisor)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La función metalingüística de la RAE combinada con la fática de telefonía móvil de Toledo.",
           "is_correct": false,
           "feedback": "Incorrecto. No se explica gramática del castellano ni se comprueba la cobertura física de los teléfonos de los alumnos."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Las oraciones exhortativas ('¡Basta ya de mirar hacia otro lado!', 'Debemos actuar') prueban la vigorosa presencia de la función apelativa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La argumentación de carácter ensayístico u oratorio subjetivo se despliega entrelazando la función expresiva (subjetividad axiológica del autor que dota de compromiso moral a su causa) con la apelativa o conativa (que busca sacudir la inercia del público e inclinar su voluntad).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,19 +733,19 @@
       "context": "Un anuncio publicitario de un curso de inglés en internet clama: 'O te matriculas en nuestro curso avanzado hoy mismo o dejas escapar para siempre la única oportunidad de prosperar y triunfar en tu vida laboral'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Falacia del falso dilema (o falsa dicotomía), al reducir de manera tramposa las opciones de la vida del lector a dos extremos absolutos y opuestos, ignorando deliberadamente que existen múltiples alternativas intermedias para prosperar.",
           "is_correct": true,
           "feedback": "Correcto. El falso dilema limita las opciones a dos polos opuestos y radicales ('o te matriculas o fracasas para siempre') para acorralar psicológicamente al comprador, constituyendo una burda falacia manipuladora."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Falacia ad hominem, que descalifica de forma grosera la fisonomía moral de los hablantes de inglés.",
           "is_correct": false,
           "feedback": "Incorrecto. No insulta ni descalifica de forma directa al lector; reduce tramposamente sus opciones de futuro a dos caminos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un argumento de ejemplificación botánica de la LOMLOE para la venta de cursos de inglés.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una estrategia de persuasión y coacción comercial falaz, ajena a la didáctica de la botánica escolar."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. No es un logro estructural ni de variedad diatópica canaria legítima; es un error y sesgo de lógica informal persuasiva."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La falacia del falso dilema es un recurso manipulador de corte propagandístico y comercial de gran impacto psicológico. Obliga de forma artificial al receptor a elegir entre dos opciones extremas, una de las cuales es sumamente indeseable, forzándolo a tomar la decisión comercial propuesta.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,19 +778,19 @@
       "context": "Un crítico lee una columna de opinión firmada en Barcelona y escribe: 'El artículo carece de valor argumentativo real; se limita a repetir injurias y descalificaciones subjetivas grotescas contra los opositores, sin aportar un solo dato científico ni una premisa racional contrastable que avale su tesis'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El crítico evalúa correctamente que una argumentación modélica exige solidez lógica, premisas veraces y datos contrastables; la mera acumulación de descalificaciones subjetivas e injurias constituye un vicio argumentativo (falacia ad hominem) que invalida la consistencia intelectual del ensayo.",
           "is_correct": true,
           "feedback": "Correcto. Un texto de opinión consistente requiere de argumentos racionales, pruebas o datos válidos. Devaluar la columna a insultos (ad hominem) anula su valor intelectual, justificando la crítica del reseñador."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El crítico se equivoca porque las columnas de opinión de Barcelona exigen de forma obligatoria el uso de injurias para poder publicarse en el periódico.",
           "is_correct": false,
           "feedback": "Incorrecto. La prensa culta de España promueve el debate de ideas con rigor, educación y respeto, desaconsejando el insulto vulgar."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El ensayo es consistente porque cuantas más falacias ad hominem contenga un escrito, mayor será su perfección sintáctica según la RAE.",
           "is_correct": false,
           "feedback": "Incorrecto. Las falacias lógicas son errores de razonamiento intelectual y no devalúan o aumentan la sintaxis gramatical formal de forma directa, pero destruyen la solidez de la idea defendida."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. La LOMLOE promueve el espíritu crítico, el debate argumentado de ideas y el análisis de la prensa de opinión en los programas escolares de bachillerato."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La solidez de un texto argumentativo se mide por la validez y consistencia lógica de sus premisas. La sustitución de argumentos lógicos contrastables por descalificaciones de carácter subjetivo u ofensivo (falacia ad hominem) degrada la calidad democrática e intelectual del discurso persuasivo.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,31 +823,31 @@
       "context": "Un editorial sobre el ocio digital en Soria afirma de forma irónica: 'Sí, claro, pasarse doce horas diarias encerrado en la habitación mirando una pantalla de móvil es, sin duda, la mejor manera de socializar y respirar el aire puro de nuestros pinares'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Consiste en dar a entender lo contrario de lo que se dice literalmente, usando la ironía como un recurso indirecto e ingenioso para ridiculizar y refutar la tesis opuesta del rival.",
           "is_correct": true,
           "feedback": "Correcto. La ironía afirma literalmente lo opuesto de lo que se desea sugerir, sirviendo en el periodismo de opinión para ridiculizar con agudeza estilística y refutar las posturas contrarias sin caer en el insulto soez."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es un error ortográfico severo del periodista que confunde de forma sistemática la ironía con las preposiciones.",
           "is_correct": false,
           "feedback": "Incorrecto. La ironía es una figura retórica de pensamiento de nivel pragmático, libre de vicios o incorrecciones ortográficas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Demuestra que el periodismo de Soria exige de forma obligatoria el cambio de código bilingüe en euskera.",
           "is_correct": false,
           "feedback": "Incorrecto. El editorial se halla íntegramente escrito en correcto castellano peninsular estándar, desvinculado de euskera."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Anula la función de comunicación del editorial, convirtiendo la ironía en un ruido físico de canal.",
           "is_correct": false,
           "feedback": "Incorrecto. No obstaculiza la señal física; enriquece la descodificación mental apelando a la complicidad intelectual del lector avezado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La ironía es un recurso retórico y pragmático de gran sutileza y eficacia argumentativa. Al exigir que el receptor descodifique el sentido oculto opuesto al literal, crea una complicidad intelectual (cohesión pragmática) que potencia el efecto persuasivo del razonamiento.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Un estudiante de bachillerato de la LOMLOE en Zaragoza redacta un ensayo de opinión empleando oraciones subordinadas condicionales y concesivas sumamente complejas que se extienden a lo largo de diez líneas sin usar puntos intermedios, dificultando que el profesor localice de forma clara cuál es la tesis que defiende.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Es deficiente, ya que la excesiva complejidad sintáctica y el abuso de la subordinación ilimitada sin pausas ortográficas oscurece la claridad de la tesis y satura la capacidad cognitiva del lector, atentando contra la eficacia de la argumentación.",
           "is_correct": true,
           "feedback": "Correcto. Para que un texto argumentativo convenza, debe respetar los principios de claridad, coherencia y concisión en la formulación de la tesis. Una sintaxis asfixiante y confusa sabotea el fin persuasivo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es excelente, ya que cuanto más oscuras e indescifrables resulten las oraciones de Zaragoza, mayor será el mérito intelectual del alumno ante el tribunal de selectividad.",
           "is_correct": false,
           "feedback": "Incorrecto. El tribunal de selectividad exige claridad sintáctica, orden lógico y rigor formal, penalizando severamente la confusión y la prosa incomprensible."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se justifica porque las normas ortográficas de la RAE prohíben de forma terminante usar puntos seguidos en los ensayos escolares de bachillerato.",
           "is_correct": false,
           "feedback": "Incorrecto. El punto seguido es un signo ortográfico indispensable para segmentar ideas, obligatorio para estructurar textos legibles y cohesionados."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. No guarda relación con anomalías de pronombres de acusativo ni es una estructura parlamentaria lícita."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La persuasión descansa sobre la base del orden y la claridad. En un ensayo argumentativo de bachillerato (EBAU), estructurar la sintaxis con periodos oracionales breves, segmentados por signos de puntuación e hilvanados por conectores transparentes, es una regla de adecuación y cohesión indispensable para que la tesis convenza con éxito al examinador.",
       "difficulty": "10",
       "images": [],

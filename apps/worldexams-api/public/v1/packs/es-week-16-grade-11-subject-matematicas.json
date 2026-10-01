@@ -13,13 +13,13 @@
       "context": "Un estudiante de 1º de Bachillerato en Madrid comienza el estudio de los vectores en el plano $\\mathbb{R}^2$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Masa, volumen y densidad.",
           "is_correct": false,
           "feedback": "Estas son propiedades de la materia, no de los vectores."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Módulo, dirección y sentido.",
           "is_correct": true,
           "feedback": "Correcto. Un vector queda definido por su longitud (módulo), la recta que lo contiene (dirección) y hacia dónde apunta (sentido)."
@@ -37,7 +37,7 @@
           "feedback": "Estos son los ejes de un sistema de coordenadas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Un vector es una magnitud física o matemática que requiere más que un simple número (escalar) para ser descrita completamente. El módulo indica la cantidad, mientras que dirección y sentido indican la orientación espacial.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -109,13 +109,13 @@
           "feedback": "La suma simple de coordenadas no da la longitud del vector."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$|\\vec{v}| = \\sqrt{v_x^2 + v_y^2}$",
           "is_correct": true,
           "feedback": "Correcto. Se deriva directamente del teorema de Pitágoras aplicado al triángulo formado por las componentes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$|\\vec{v}| = v_x^2 + v_y^2$",
           "is_correct": false,
           "feedback": "Falta realizar la raíz cuadrada final."
@@ -127,7 +127,7 @@
           "feedback": "El producto de coordenadas no está relacionado con el módulo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El módulo representa la longitud del segmento orientado. En un sistema de ejes ortogonales, el vector es la hipotenusa de un triángulo rectángulo cuyos catetos son las componentes $v_x$ y $v_y$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Se define el concepto de vectores unitarios.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que sus coordenadas son siempre (1, 1).",
           "is_correct": false,
           "feedback": "El vector (1,1) tiene módulo raíz de 2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que su módulo es exactamente igual a 1.",
           "is_correct": true,
           "feedback": "Correcto. Los vectores unitarios se usan para indicar dirección y sentido sin afectar a la magnitud."
@@ -172,7 +172,7 @@
           "feedback": "Todos los vectores (salvo el nulo) tienen dirección."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Un vector unitario se obtiene dividiendo cualquier vector por su propio módulo. En el plano, los vectores unitarios fundamentales son $\\vec{i} = (1, 0)$ y $\\vec{j} = (0, 1)$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,25 +199,25 @@
           "feedback": "Se han sumado las coordenadas en lugar de restarlas."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$(3, 4)$",
           "is_correct": true,
           "feedback": "Correcto. Coordenadas de $B$ menos coordenadas de $A$: $(4-1, 6-2) = (3, 4)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(-3, -4)$",
           "is_correct": false,
           "feedback": "Este sería el vector $\\vec{BA}$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(4, 3)$",
           "is_correct": false,
           "feedback": "Error en el orden de las coordenadas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Un vector libre definido por dos puntos se obtiene restando las coordenadas del extremo (punto final) menos las del origen (punto inicial).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Los módulos no afectan a la perpendicularidad."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que sean paralelos.",
           "is_correct": false,
           "feedback": "Serían paralelos si formaran 0 o 180 grados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que su producto escalar sea igual a cero.",
           "is_correct": true,
           "feedback": "Correcto. $\\vec{u} \\cdot \\vec{v} = |\\vec{u}| |\\vec{v}| \\cos(90^{\\circ}) = 0$."
@@ -307,7 +307,7 @@
           "feedback": "Condición sin fundamento geométrico para la ortogonalidad."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La ortogonalidad es una propiedad angular. Como el coseno de 90 grados es cero, el producto escalar de cualquier par de vectores perpendiculares siempre se anula.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Se ha sumado el escalar a las coordenadas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$(-12, 6)$",
           "is_correct": true,
           "feedback": "Correcto. Multiplicamos cada componente por -3: $(-3 \\cdot 4, -3 \\cdot -2) = (-12, 6)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(12, -6)$",
           "is_correct": false,
           "feedback": "Error de signos en la multiplicación."
@@ -352,7 +352,7 @@
           "feedback": "Al ser k negativo, el sentido del vector se invierte."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Multiplicar por un escalar cambia el módulo del vector. Si el escalar es negativo, además cambia el sentido del vector a su opuesto, pero mantiene la dirección (la misma recta).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,25 +379,25 @@
           "feedback": "Error en el cálculo de las medias aritméticas."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$(5, 8)$",
           "is_correct": true,
           "feedback": "Correcto. $M = ((2+8)/2, (5+11)/2) = (10/2, 16/2) = (5, 8)$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(10, 16)$",
           "is_correct": false,
           "feedback": "Se han sumado las coordenadas sin dividir por 2."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(3, 3)$",
           "is_correct": false,
           "feedback": "Se han restado las coordenadas en lugar de sumarlas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El punto medio es el promedio aritmético de las coordenadas de los extremos. Geométricamente, es el punto que divide al segmento en dos partes iguales.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -604,25 +604,25 @@
           "feedback": "Esta es la proyección sobre el eje Y."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "4",
           "is_correct": true,
           "feedback": "Correcto. La proyección sobre el eje X es simplemente la magnitud de su componente horizontal $u_x$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "5",
           "is_correct": false,
           "feedback": "Este es el módulo del vector, no su proyección."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "7",
           "is_correct": false,
           "feedback": "Suma de componentes, sin sentido geométrico aquí."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La proyección ortogonal de un vector sobre un eje coordenado coincide con el valor absoluto de la coordenada correspondiente a dicho eje.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,25 +649,25 @@
           "feedback": "Si son paralelos no forman base."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Que sean perpendiculares entre sí y ambos tengan módulo igual a 1.",
           "is_correct": true,
           "feedback": "Correcto. \"Orto\" (perpendiculares) y \"normal\" (módulo 1)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que sumen el vector nulo y sean distintos.",
           "is_correct": false,
           "feedback": "No define una base ortonormal."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que sus coordenadas sean todas positivas.",
           "is_correct": false,
           "feedback": "Las coordenadas pueden ser negativas en una base ortonormal."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Las bases ortonormales son las más cómodas para trabajar en geometría, ya que simplifican el cálculo de distancias y productos escalares (como la base canónica $\\{\\vec{i}, \\vec{j}\\}$).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "Un estudiante analiza el vector $\\vec{v} = (0, 0)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Su dirección es el eje X.",
           "is_correct": false,
           "feedback": "No tiene una dirección privilegiada."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Apunta hacia todas partes.",
           "is_correct": false,
           "feedback": "Expresión no matemática."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Carece de dirección y sentido definidos.",
           "is_correct": true,
           "feedback": "Correcto. Al ser su módulo cero, no define una recta ni una orientación."
@@ -712,7 +712,7 @@
           "feedback": "Conceptualmente no tiene dirección."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El vector nulo es el elemento neutro de la suma vectorial. Matemáticamente es un punto, y un punto no determina una dirección en el espacio.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -784,25 +784,25 @@
           "feedback": "Solo es cierto si son paralelos y del mismo sentido."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$|\\vec{u} + \\vec{v}| \\leq |\\vec{u}| + |\\vec{v}|$",
           "is_correct": true,
           "feedback": "Correcto. La longitud de un lado de un triángulo siempre es menor o igual a la suma de las longitudes de los otros dos lados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$|\\vec{u} + \\vec{v}| \\geq |\\vec{u}| + |\\vec{v}|$",
           "is_correct": false,
           "feedback": "Físicamente imposible en un espacio euclídeo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$|\\vec{u} + \\vec{v}| = \\sqrt{|\\vec{u}|^2 + |\\vec{v}|^2}$",
           "is_correct": false,
           "feedback": "Solo es cierto si son perpendiculares."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La desigualdad triangular es una propiedad métrica fundamental. Indica que el camino más corto entre dos puntos es la línea recta; cualquier desvío (suma de dos vectores no paralelos) incrementa la distancia total.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,25 +829,25 @@
           "feedback": "El producto escalar sería cero."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Que la luz incide \"de frente\" contra la superficie (ángulo mayor de 90 grados entre el vector de rayo y la normal).",
           "is_correct": true,
           "feedback": "Correcto. Un producto escalar negativo implica un ángulo obtuso entre los vectores."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que la luz está detrás de la superficie.",
           "is_correct": false,
           "feedback": "Depende de la convención de la normal, pero generalmente indica incidencia frontal."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que la luz se ha absorbido completamente.",
           "is_correct": false,
           "feedback": "El producto escalar es una medida geométrica, no física de absorción."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El signo del producto escalar es un test de visibilidad u orientación rápido en programación: positivo (ángulo agudo), cero (perpendicular), negativo (ángulo obtuso).\n\n---",
       "difficulty": "10",
       "images": [],
@@ -874,13 +874,13 @@
           "feedback": "No se define una división de vectores general que lo convierta en cuerpo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Es un espacio vectorial sobre el cuerpo de los números reales.",
           "is_correct": true,
           "feedback": "Correcto. Cumple las 8 propiedades fundamentales de la suma de vectores y el producto por escalares."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es un conjunto finito de puntos.",
           "is_correct": false,
           "feedback": "Hay infinitos vectores en el plano."
@@ -892,7 +892,7 @@
           "feedback": "La suma de vectores y el producto por escalar son operaciones cerradas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El concepto de espacio vectorial es la base del álgebra lineal moderna. El plano cartesiano es el ejemplo más intuitivo y utilizado de esta estructura matemática.\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
       "difficulty": "10",
       "images": [],

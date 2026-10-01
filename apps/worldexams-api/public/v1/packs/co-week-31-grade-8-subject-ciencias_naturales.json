@@ -13,13 +13,13 @@
       "context": "En una clase de geografía del Colegio Distrital República de Colombia (Bogotá), la docente pregunta a los estudiantes sobre los principales ríos que recorren la Sabana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Río Bogotá.",
           "is_correct": true,
           "feedback": "Correcto. El río Bogotá nace en el Páramo de Guacheneque y recorre la Sabana antes de entregar sus aguas al río Magdalena."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Río Cauca.",
           "is_correct": false,
           "feedback": "Incorrecto. El río Cauca recorre el occidente colombiano y no pasa por Bogotá."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. El Atrato está en el Chocó biogeográfico, no en el centro del país."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El río Bogotá recorre unos 380 km desde el Páramo de Guacheneque hasta su desembocadura en el Magdalena, atravesando la zona urbana más poblada del país. Es uno de los ríos más estudiados del país por su importancia y por su contaminación histórica.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "Durante un recorrido por la Planta de Tratamiento de Agua de Bogotá (Wiesner), los guías explican a estudiantes del Colegio Gimnasio Campestre cómo se prepara el agua para el consumo humano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El conjunto de procesos físicos y químicos para volver el agua cruda apta para el consumo humano.",
           "is_correct": true,
           "feedback": "Correcto. La potabilización incluye captación, coagulación, sedimentación, filtración, desinfección y distribución."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El proceso industrial para embotellar agua mineral en botella de plástico.",
           "is_correct": false,
           "feedback": "Incorrecto. El embotellado es una forma de comercialización, no el significado de potabilización."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La técnica para eliminar por completo todos los minerales del agua.",
           "is_correct": false,
           "feedback": "Incorrecto. La potabilización no requiere eliminar todos los minerales, solo los contaminantes peligrosos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La forma de ahorrar agua cerrando las llaves del acueducto.",
           "is_correct": false,
           "feedback": "Incorrecto. Ahorrar agua es una práctica cultural; la potabilización es un proceso técnico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La potabilización convierte agua cruda de ríos, embalses o pozos en agua segura para consumo humano. Comprende varias etapas que retiran sólidos, regulan pH, eliminan microorganismos y ajustan la calidad físico-química del recurso hídrico.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En una visita al Parque Ecológico Humedales de Bogotá, los guías ambientales muestran a estudiantes del Colegio Franciscano del Virrey cómo llega el agua lluvia a la ciudad y se mezcla con la red de acueducto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El oxígeno disuelto en concentraciones altas y estables.",
           "is_correct": true,
           "feedback": "Correcto. El oxígeno disuelto alto es indicador de agua sana; no es un contaminante sino un signo de buena calidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las aguas residuales industriales sin tratamiento.",
           "is_correct": false,
           "feedback": "Incorrecto. Los vertimientos industriales aportan metales pesados y compuestos orgánicos tóxicos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Las aguas negras y grises de origen doméstico.",
           "is_correct": false,
           "feedback": "Incorrecto. Las aguas negras aportan microorganismos patógenos y alta carga orgánica."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Los lixiviados de botaderos a cielo abierto.",
           "is_correct": false,
           "feedback": "Incorrecto. Los lixiviados contienen metales pesados y compuestos químicos que contaminan el agua."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La calidad del agua depende de variables como oxígeno disuelto, turbidez, pH y presencia de microorganismos. El oxígeno disuelto alto es un indicador positivo: a mayor oxígeno, mejor aireación y menor probabilidad de contaminación orgánica.",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "Una familia del barrio El Poblado en Medellín revisa su recibo del acueducto (EPM) y compara el consumo mensual de agua en metros cúbicos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Aproximadamente 200 litros diarios.",
           "is_correct": true,
           "feedback": "Correcto. 24.000 L / 4 personas / 30 días = 200 L/persona/día, valor cercano a la recomendación de la OMS para entornos urbanos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Aproximadamente 6.000 litros diarios.",
           "is_correct": false,
           "feedback": "Incorrecto. Resultaría de dividir el consumo mensual entre 4 y no dividir entre los 30 días."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Aproximadamente 24 litros diarios.",
           "is_correct": false,
           "feedback": "Incorrecto. Es el valor mensual dividido por 1.000, no aplica al consumo diario real por persona."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Resultaría de multiplicar de manera incorrecta las cifras del problema."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La Organización Mundial de la Salud recomienda entre 50 y 100 litros diarios por persona para cubrir necesidades básicas; sin embargo, en ciudades colombianas el consumo domiciliario efectivo suele estar cerca de los 150 a 200 litros por persona al día.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En una caminata por el Páramo de Sumapaz, los estudiantes del Colegio Mayor de los Andes (Bogotá) observan cómo brotan pequeños arroyos que alimentan los ríos Tunjuelo y Blanco.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Porque actúa como regulador hídrico natural, almacenando agua en sus suelos y liberándola lentamente durante todo el año.",
           "is_correct": true,
           "feedback": "Correcto. La vegetación y los suelos de páramo retienen agua y la entregan poco a poco a las quebradas que surten los acueductos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque el páramo produce agua mediante reacciones químicas con la atmósfera.",
           "is_correct": false,
           "feedback": "Incorrecto. El agua del páramo proviene de la lluvia y la condensación, no de reacciones atmosféricas nuevas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque el agua del páramo se congela en invierno y se derrite en verano.",
           "is_correct": false,
           "feedback": "Incorrecto. En los páramos colombianos la nieve es permanente solo en pequeños glaciares que ya casi han desaparecido."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. La calidad del agua de páramo se debe a su ecosistema completo y a su capacidad reguladora."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los páramos son humedales altoandinos con suelos orgánicos esponjosos que almacenan grandes cantidades de agua. Por eso Bogotá, Pasto, Manizales y Tunja dependen de ellos para tener agua durante las temporadas secas.",
       "difficulty": "6",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "Los ingenieros de la CAR (Corporación Autónoma Regional de Cundinamarca) muestran a los estudiantes del Colegio Distrital Pablo Neruda (Girardot) un mapa de calidad del agua en la cuenca del río Bogotá.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Porque a lo largo del recorrido recibe vertimientos urbanos, industriales y agrícolas que se van acumulando en el cauce.",
           "is_correct": true,
           "feedback": "Correcto. Aguas abajo se concentran las descargas de municipios, industrias y cultivos; la capacidad de dilución se reduce."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque el agua se evapora totalmente antes de llegar al Magdalena.",
           "is_correct": false,
           "feedback": "Incorrecto. La evaporación reduce caudal, pero no explica el aumento de contaminantes puntuales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque el agua cambia completamente de composición al cruzar la sabana.",
           "is_correct": false,
           "feedback": "Incorrecto. La composición cambia por las descargas, no por un fenómeno espontáneo en la sabana."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque el río cambia de nombre al llegar al Magdalena.",
           "is_correct": false,
           "feedback": "Incorrecto. El río Bogotá mantiene su nombre hasta unirse con el Magdalena, no por ello \"se limpia\"."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En la mayoría de los ríos urbanos, la calidad del agua empeora aguas abajo porque reciben más descargas que las que la capacidad de dilución natural puede asimilar. Recuperar la calidad requiere tratar tanto los vertimientos puntuales como los difusos (escorrentía agrícola y urbana).",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "Un grupo de la Institución Educativa Técnico Industrial de Tocancipá investiga cómo se abastece el acueducto de Bogotá y visita el Parque Nacional Natural Sumapaz.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El Páramo de Sumapaz alimenta quebradas y ríos como el Tunjuelo, que luego son captados y tratados para distribuir a la ciudad.",
           "is_correct": true,
           "feedback": "Correcto. Sin páramos saludables, las fuentes que surten los acueductos se agotan en verano o se contaminan con sedimentos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "No hay relación porque el agua de Bogotá proviene únicamente del Magdalena.",
           "is_correct": false,
           "feedback": "Incorrecto. El agua de Bogotá se capta del Páramo de Chingaza y del sistema Chingaza-Sumapaz, principalmente."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Los páramos son ecosistemas estratégicos por su capacidad de regulación hídrica y almacenamiento de carbono."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los páramos son fábricas de agua: sus suelos retienen humedad y la liberan lentamente. Por eso Bogotá invierte en proteger Sumapaz, Chingaza y Guerrero: sin esos ecosistemas, el acueducto perdería caudal en pocas décadas.",
       "difficulty": "8",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "En una mesa redonda del Comité de Cafeteros de Caldas en Manizales, se discuten dos opciones para captar agua para una vereda: desde un nacimiento en páramo o desde un río mediano aguas abajo de la cabecera municipal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Porque el agua de páramo llega con baja turbidez, baja carga orgánica y pocos microorganismos, reduciendo reactivos y etapas de proceso.",
           "is_correct": true,
           "feedback": "Correcto. Un agua más limpia de origen requiere menos coagulante, menos limpieza de filtros y menor dosis de cloro."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque el agua del río contaminado es más barata de captar físicamente.",
           "is_correct": false,
           "feedback": "Incorrecto. La captación no difiere tanto; el costo mayor está en el tratamiento adicional necesario."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque el agua del páramo se evapora antes de llegar a la planta.",
           "is_correct": false,
           "feedback": "Incorrecto. La evaporación reduciría caudal, no haría el agua \"más limpia\" en el tratamiento."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque el color verde del agua de río es señal de calidad y reduce costos.",
           "is_correct": false,
           "feedback": "Incorrecto. El agua verde suele indicar algas y exceso de nutrientes, no calidad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El principio \"más vale prevenir que potabilizar\" se cumple con creces al cuidar las fuentes. El agua de páramo tiene baja turbidez y bajo contenido orgánico, por lo que requiere menos reactivos y menos energía que un agua de río contaminada con descargas urbanas.",
       "difficulty": "8",
       "images": [],
@@ -473,19 +473,19 @@
       "context": "En una vereda de Mogotes (Santander), la Junta de Acción Comunal debate una propuesta para ampliar los cultivos en la ribera del río que surte el acueducto local.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Es inadecuada: la deforestación de la ribera aumentaría la erosión, la turbidez del agua y la entrada de agroquímicos al cauce.",
           "is_correct": true,
           "feedback": "Correcto. El bosque de galería protege el cauce: lo sombrea, filtra contaminantes y reduce el arrastre de sedimentos a la quebrada."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es excelente porque ampliar la frontera agrícola no afecta la calidad del agua.",
           "is_correct": false,
           "feedback": "Incorrecto. Toda intervención en la ribera modifica sedimentos, nutrientes y químicos al agua."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Solo afecta a la fauna silvestre del sector.",
           "is_correct": false,
           "feedback": "Incorrecto. El impacto va mucho más allá de la fauna: toca el suelo, el agua y el aire locales."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. El bosque ribereño es el primer filtro natural del agua que luego será potabilizada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los bosques de galería cumplen funciones hidrológicas clave: reducen la erosión, retienen nutrientes y amortiguan crecidas. Su eliminación degrada rápidamente la calidad del agua cruda, encareciendo la potabilización y poniendo en riesgo la salud del consumidor.",
       "difficulty": "10",
       "images": [],

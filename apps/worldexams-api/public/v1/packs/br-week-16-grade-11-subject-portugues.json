@@ -13,13 +13,13 @@
       "context": "Um estudante de São Paulo analisa o tema Sinonímia e Antonímia em uma aula preparatória de Língua Portuguesa para o ENEM.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "A aplicação adequada de sentidos semelhantes permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Sinonímia e Antonímia.",
           "is_correct": true,
           "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "O conceito de sentidos semelhantes limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Sinonímia e Antonímia.",
           "is_correct": false,
           "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
@@ -37,7 +37,7 @@
           "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "A compreensão de Sinonímia e Antonímia no contexto de Semântica e Relações de Sentido exige identificar como sentidos semelhantes e sentidos opostos articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
       "difficulty": "4",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "Um estudante de Rio de Janeiro analisa o tema Hipotenímia e Hiperonímia em uma aula preparatória de Língua Portuguesa para o ENEM.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "A aplicação adequada de relação espécie-gênero permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Hipotenímia e Hiperonímia.",
           "is_correct": true,
           "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "O conceito de relação espécie-gênero limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Hipotenímia e Hiperonímia.",
           "is_correct": false,
           "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
@@ -82,7 +82,7 @@
           "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "A compreensão de Hipotenímia e Hiperonímia no contexto de Semântica e Relações de Sentido exige identificar como relação espécie-gênero e hierarquia semântica articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Um estudante de Curitiba analisa o tema Paronímia (Palavras Parecidas) em uma aula preparatória de Língua Portuguesa para o ENEM.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "A aplicação adequada de grafia semelhante permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Paronímia (Palavras Parecidas).",
           "is_correct": true,
           "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "O conceito de grafia semelhante limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Paronímia (Palavras Parecidas).",
           "is_correct": false,
           "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
@@ -217,7 +217,7 @@
           "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "A compreensão de Paronímia (Palavras Parecidas) no contexto de Semântica e Relações de Sentido exige identificar como grafia semelhante e significados distintos articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
       "difficulty": "6",
       "images": [],
@@ -238,31 +238,31 @@
       "context": "Um estudante de Salvador analisa o tema Denotação vs Conotação em uma aula preparatória de Língua Portuguesa para o ENEM.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "A aplicação adequada de sentido literal permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Denotação vs Conotação.",
           "is_correct": true,
           "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "O conceito de sentido literal limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Denotação vs Conotação.",
           "is_correct": false,
           "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "O fenômeno de sentido figurado impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
           "is_correct": false,
           "feedback": "Incorreto. sentido figurado é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "A análise de Denotação vs Conotação aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
           "is_correct": false,
           "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "A compreensão de Denotação vs Conotação no contexto de Semântica e Relações de Sentido exige identificar como sentido literal e sentido figurado articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
       "difficulty": "6",
       "images": [],
@@ -283,31 +283,31 @@
       "context": "Um estudante de Recife analisa o tema Ambiguidade Lexical e Sintática em uma aula preparatória de Língua Portuguesa para o ENEM.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "A aplicação adequada de dupla interpretação permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Ambiguidade Lexical e Sintática.",
           "is_correct": true,
           "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "O conceito de dupla interpretação limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Ambiguidade Lexical e Sintática.",
           "is_correct": false,
           "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "O fenômeno de construção ambígua impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
           "is_correct": false,
           "feedback": "Incorreto. construção ambígua é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "A análise de Ambiguidade Lexical e Sintática aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
           "is_correct": false,
           "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "A compreensão de Ambiguidade Lexical e Sintática no contexto de Semântica e Relações de Sentido exige identificar como dupla interpretação e construção ambígua articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
       "difficulty": "6",
       "images": [],
@@ -328,19 +328,19 @@
       "context": "Um estudante de Fortaleza analisa o tema Pressupostos e Subentendidos em uma aula preparatória de Língua Portuguesa para o ENEM.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "A aplicação adequada de marcas gramaticais de sentido permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Pressupostos e Subentendidos.",
           "is_correct": true,
           "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "O conceito de marcas gramaticais de sentido limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Pressupostos e Subentendidos.",
           "is_correct": false,
           "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "O fenômeno de inferência implícita impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
           "is_correct": false,
           "feedback": "Incorreto. inferência implícita é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
@@ -352,7 +352,7 @@
           "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "A compreensão de Pressupostos e Subentendidos no contexto de Semântica e Relações de Sentido exige identificar como marcas gramaticais de sentido e inferência implícita articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
       "difficulty": "6",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "Um estudante de Manaus analisa o tema Mudança Semântica no Tempo em uma aula preparatória de Língua Portuguesa para o ENEM.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "A aplicação adequada de deslocamento de sentido permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Mudança Semântica no Tempo.",
           "is_correct": true,
           "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "O conceito de deslocamento de sentido limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Mudança Semântica no Tempo.",
           "is_correct": false,
           "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "O fenômeno de pejorativa ou mehorativa impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
           "is_correct": false,
           "feedback": "Incorreto. pejorativa ou mehorativa é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
@@ -397,7 +397,7 @@
           "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "A compreensão de Mudança Semântica no Tempo no contexto de Semântica e Relações de Sentido exige identificar como deslocamento de sentido e pejorativa ou mehorativa articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Um estudante de São Paulo analisa o tema Eufemismo e Suavização Semântica em uma aula preparatória de Língua Portuguesa para o ENEM.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "A aplicação adequada de atenuante verbal permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Eufemismo e Suavização Semântica.",
           "is_correct": true,
           "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "O conceito de atenuante verbal limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Eufemismo e Suavização Semântica.",
           "is_correct": false,
           "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
@@ -487,7 +487,7 @@
           "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "A compreensão de Eufemismo e Suavização Semântica no contexto de Semântica e Relações de Sentido exige identificar como atenuante verbal e tabu linguístico articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
       "difficulty": "8",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Um estudante de Rio de Janeiro analisa o tema Ironia e Inversão Semântica em uma aula preparatória de Língua Portuguesa para o ENEM.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "A aplicação adequada de dizer o oposto permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Ironia e Inversão Semântica.",
           "is_correct": true,
           "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "O conceito de dizer o oposto limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Ironia e Inversão Semântica.",
           "is_correct": false,
           "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
@@ -532,7 +532,7 @@
           "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "A compreensão de Ironia e Inversão Semântica no contexto de Semântica e Relações de Sentido exige identificar como dizer o oposto e intenção sarcástica articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "Um estudante de Belo Horizonte analisa o tema Metáfora Denotativa e Morta em uma aula preparatória de Língua Portuguesa para o ENEM.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "A aplicação adequada de catacrese cristalizada permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Metáfora Denotativa e Morta.",
           "is_correct": true,
           "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "O conceito de catacrese cristalizada limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Metáfora Denotativa e Morta.",
           "is_correct": false,
           "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
@@ -577,7 +577,7 @@
           "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "A compreensão de Metáfora Denotativa e Morta no contexto de Semântica e Relações de Sentido exige identificar como catacrese cristalizada e uso cotidiano articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
       "difficulty": "8",
       "images": [],
@@ -598,31 +598,31 @@
       "context": "Um estudante de Porto Alegre analisa o tema Semântica dos Conectores em uma aula preparatória de Língua Portuguesa para o ENEM.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "A aplicação adequada de mudança de conector permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Semântica dos Conectores.",
           "is_correct": true,
           "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "O conceito de mudança de conector limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Semântica dos Conectores.",
           "is_correct": false,
           "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "O fenômeno de alteração de sentido impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
           "is_correct": false,
           "feedback": "Incorreto. alteração de sentido é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "A análise de Semântica dos Conectores aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
           "is_correct": false,
           "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "A compreensão de Semântica dos Conectores no contexto de Semântica e Relações de Sentido exige identificar como mudança de conector e alteração de sentido articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
       "difficulty": "8",
       "images": [],
@@ -643,31 +643,31 @@
       "context": "Um estudante de Curitiba analisa o tema Vaguidade e Imprecisão Lexical em uma aula preparatória de Língua Portuguesa para o ENEM.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "A aplicação adequada de palavras-ônibus permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Vaguidade e Imprecisão Lexical.",
           "is_correct": true,
           "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "O conceito de palavras-ônibus limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Vaguidade e Imprecisão Lexical.",
           "is_correct": false,
           "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "O fenômeno de falta de clareza impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica.",
           "is_correct": false,
           "feedback": "Incorreto. falta de clareza é um recurso expressivo legítimo que enriquece a linguagem e a interpretação."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "A análise de Vaguidade e Imprecisão Lexical aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal.",
           "is_correct": false,
           "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "A compreensão de Vaguidade e Imprecisão Lexical no contexto de Semântica e Relações de Sentido exige identificar como palavras-ônibus e falta de clareza articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Um estudante de Salvador analisa o tema Orientação Semântica do Adjetivo em uma aula preparatória de Língua Portuguesa para o ENEM.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "A aplicação adequada de posição do adjetivo permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Orientação Semântica do Adjetivo.",
           "is_correct": true,
           "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "O conceito de posição do adjetivo limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Orientação Semântica do Adjetivo.",
           "is_correct": false,
           "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
@@ -712,7 +712,7 @@
           "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "A compreensão de Orientação Semântica do Adjetivo no contexto de Semântica e Relações de Sentido exige identificar como posição do adjetivo e mudança de significado articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Um estudante de Recife analisa o tema Análise Semântica de Tropos em uma aula preparatória de Língua Portuguesa para o ENEM.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "A aplicação adequada de densidade figurativa permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Análise Semântica de Tropos.",
           "is_correct": true,
           "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "O conceito de densidade figurativa limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Análise Semântica de Tropos.",
           "is_correct": false,
           "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
@@ -757,7 +757,7 @@
           "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "A compreensão de Análise Semântica de Tropos no contexto de Semântica e Relações de Sentido exige identificar como densidade figurativa e complexidade conotativa articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
       "difficulty": "10",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Um estudante de Fortaleza analisa o tema Inferências em Textos Complexos em uma aula preparatória de Língua Portuguesa para o ENEM.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "A aplicação adequada de leitura nas entrelinhas permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Inferências em Textos Complexos.",
           "is_correct": true,
           "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "O conceito de leitura nas entrelinhas limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Inferências em Textos Complexos.",
           "is_correct": false,
           "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
@@ -802,7 +802,7 @@
           "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "A compreensão de Inferências em Textos Complexos no contexto de Semântica e Relações de Sentido exige identificar como leitura nas entrelinhas e dedução lógica articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Um estudante de Manaus analisa o tema Desconstrução Semântica em uma aula preparatória de Língua Portuguesa para o ENEM.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "A aplicação adequada de polifonia de sentidos permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Desconstrução Semântica.",
           "is_correct": true,
           "feedback": "Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "O conceito de polifonia de sentidos limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Desconstrução Semântica.",
           "is_correct": false,
           "feedback": "Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica."
@@ -847,7 +847,7 @@
           "feedback": "Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "A compreensão de Desconstrução Semântica no contexto de Semântica e Relações de Sentido exige identificar como polifonia de sentidos e desencadeamento textual articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.",
       "difficulty": "10",
       "images": [],

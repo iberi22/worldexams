@@ -19,13 +19,13 @@
           "feedback": "Esta es la forma de una funcion cuadratica, no afin."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$f(x) = mx + n$",
           "is_correct": true,
           "feedback": "¡Correcto! Donde 'm' es la pendiente y 'n' es la ordenada en el origen."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$f(x) = a/x$",
           "is_correct": false,
           "feedback": "Esta es una funcion de proporcionalidad inversa."
@@ -37,7 +37,7 @@
           "feedback": "Esta es una funcion logaritmica."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Una funcion afin es una funcion polinómica de primer grado. Su representacion grafica es siempre una linea recta que no necesariamente pasa por el origen $(0,0)$. Los parametros $m$ y $n$ definen su inclinacion y su posicion vertical.",
       "difficulty": "4",
       "images": [],
@@ -64,25 +64,25 @@
           "feedback": "Eso lo indica la ordenada en el origen 'n'."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La pendiente o inclinacion de la recta.",
           "is_correct": true,
           "feedback": "¡Correcto! 'm' representa cuanto aumenta o disminuye 'y' por cada unidad que aumenta 'x'."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El punto donde la recta corta al eje X.",
           "is_correct": false,
           "feedback": "El punto de corte con X se halla haciendo f(x)=0."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La curvatura de la grafica.",
           "is_correct": false,
           "feedback": "Las rectas no tienen curvatura; son lineas con inclinacion constante."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La pendiente $m$ determina si la funcion es creciente ($m > 0$), decreciente ($m < 0$) o constante ($m = 0$). Es la razon de cambio entre las variables $y$ y $x$.",
       "difficulty": "4",
       "images": [],
@@ -103,31 +103,31 @@
       "context": "Un comerciante en Ebebiyin nota que sus ingresos siguen la funcion $I(x) = 2000x$, donde $x$ es el numero de articulos vendidos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Funcion lineal (o de proporcionalidad directa)",
           "is_correct": true,
           "feedback": "¡Correcto! Es un caso particular de funcion afin donde n = 0."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Funcion constante",
           "is_correct": false,
           "feedback": "Una funcion constante tendria m = 0."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Funcion cuadratica",
           "is_correct": false,
           "feedback": "No hay terminos elevados al cuadrado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Funcion identidad",
           "is_correct": false,
           "feedback": "La identidad es f(x) = x, donde la pendiente es 1."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aunque a menudo se usan como sinonimos, en rigor, una funcion lineal es la que pasa por el origen ($n=0$), representando una relacion de proporcionalidad directa entre las variables.",
       "difficulty": "4",
       "images": [],
@@ -154,13 +154,13 @@
           "feedback": "-3 es la pendiente, no el punto de corte con Y."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$(0, 5)$",
           "is_correct": true,
           "feedback": "¡Correcto! La ordenada en el origen 'n' es 5, por lo que el punto es (0, 5)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(5, 0)$",
           "is_correct": false,
           "feedback": "Este seria un punto sobre el eje X."
@@ -172,7 +172,7 @@
           "feedback": "La funcion no pasa por el origen porque n es distinto de cero."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La ordenada en el origen $n$ es el valor de la funcion cuando $x = 0$. Graficamente, corresponde al punto donde la recta cruza el eje vertical (Y).",
       "difficulty": "4",
       "images": [],
@@ -205,19 +205,19 @@
           "feedback": "No hay evidencia de eso en la formula lineal simple."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Es el combustible inicial (litros) que ya habia en el deposito ($t = 0$).",
           "is_correct": true,
           "feedback": "¡Correcto! Es el valor inicial o condicion de partida de la funcion."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es la capacidad maxima del deposito.",
           "is_correct": false,
           "feedback": "La formula no indica un limite superior, solo el consumo actual."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "En modelos lineales, la ordenada en el origen representa el valor de la variable dependiente al inicio del proceso (cuando el tiempo o la cantidad base es cero). Es una constante de inicio.",
       "difficulty": "6",
       "images": [],
@@ -283,31 +283,31 @@
       "context": "Un topografo en Annobon determina que una rampa tiene una pendiente $m = -0.5$ y pasa por el punto $(0, 4)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$f(x) = -0.5x + 4$",
           "is_correct": true,
           "feedback": "¡Correcto! Sustituyendo m y n directamente en la forma general."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$f(x) = 4x - 0.5$",
           "is_correct": false,
           "feedback": "Se han intercambiado los valores de la pendiente y la ordenada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$f(x) = -0.5x$",
           "is_correct": false,
           "feedback": "Esta funcion pasaria por el origen, pero la rampa empieza en 4."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$f(x) = 0.5x + 4$",
           "is_correct": false,
           "feedback": "La pendiente debe ser negativa segun el enunciado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Conocer la pendiente y el punto de corte con el eje Y permite escribir directamente la ecuacion de la recta. Si el punto de corte es $(0, n)$, entonces $n$ es la ordenada en el origen.",
       "difficulty": "6",
       "images": [],
@@ -328,31 +328,31 @@
       "context": "Un analista en Malabo observa que la funcion $f(x) = 2x - 3$ aumenta sus valores a medida que $x$ crece.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Estrictamente creciente",
           "is_correct": true,
           "feedback": "¡Correcto! Al ser la pendiente m = 2 (positiva), la funcion siempre crece."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Estrictamente decreciente",
           "is_correct": false,
           "feedback": "Esto solo ocurriria si la pendiente fuera negativa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Funcion constante",
           "is_correct": false,
           "feedback": "Esto requeriria una pendiente igual a cero."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Funcion cuadratica",
           "is_correct": false,
           "feedback": "El exponente de la x es 1, no 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El signo de la pendiente determina la monotonia de la funcion lineal. Si $m > 0$, la funcion es creciente; si $m < 0$, es decreciente; y si $m = 0$, la funcion es constante y su grafica es una linea horizontal.",
       "difficulty": "6",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "Un estudiante en Evinayong resuelve la ecuacion $f(x) = 0$ para la funcion $f(x) = -2x + 10$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 10$",
           "is_correct": false,
           "feedback": "$f(10) = -20 + 10 = -10$, no 0."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x = -5$",
           "is_correct": false,
           "feedback": "$f(-5) = 10 + 10 = 20$, no 0."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$x = 5$",
           "is_correct": true,
           "feedback": "¡Correcto! $-2(5) + 10 = 0$."
@@ -397,7 +397,7 @@
           "feedback": "En x=0 el valor de la funcion es 10."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El punto donde la funcion corta al eje X se halla igualando la expresion a cero. Este valor de $x$ es la raiz de la funcion. Para funciones lineales, siempre existe una unica raiz (a menos que la funcion sea constante y no nula).",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Un ingeniero en el puerto de Malabo analiza dos cintas transportadoras cuyas trayectorias son $f(x) = 2x + 1$ y $g(x) = 2x + 5$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Son perpendiculares.",
           "is_correct": false,
           "feedback": "Para ser perpendiculares, el producto de sus pendientes deberia ser -1."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Son paralelas.",
           "is_correct": true,
           "feedback": "¡Correcto! Tienen la misma pendiente (2) pero distinta ordenada en el origen."
@@ -487,7 +487,7 @@
           "feedback": "Tienen diferentes ordenadas en el origen, por lo que son rectas distintas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Dos rectas son paralelas si y solo si tienen la misma pendiente. Esto significa que mantienen la misma inclinacion y nunca se cruzaran, sin importar cuanto se prolonguen.",
       "difficulty": "8",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "Un analista en Ciudad de la Paz quiere hallar el punto de corte con el eje X (la raiz) de la funcion $f(x) = 4x - 12$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 12$",
           "is_correct": false,
           "feedback": "$4(12) - 12 = 36$, no 0."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x = -3$",
           "is_correct": false,
           "feedback": "$4(-3) - 12 = -24$, no 0."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$x = 3$",
           "is_correct": true,
           "feedback": "¡Correcto! Haciendo $4x - 12 = 0 \\rightarrow 4x = 12 \\rightarrow x = 3$."
@@ -532,7 +532,7 @@
           "feedback": "En x=0 la funcion vale -12."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Para hallar el corte con el eje X, debemos igualar la funcion a cero ($f(x) = 0$) y resolver la ecuacion lineal resultante para $x$. Este valor se denomina raiz o cero de la funcion.",
       "difficulty": "8",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Esta seria la pendiente de una recta paralela."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$m = -3$",
           "is_correct": false,
           "feedback": "La pendiente debe ser la opuesta e inversa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$m = -1/3$",
           "is_correct": true,
           "feedback": "¡Correcto! El producto de las pendientes de dos rectas perpendiculares debe ser -1 ($3 \\cdot -1/3 = -1$)."
@@ -577,7 +577,7 @@
           "feedback": "Falta el cambio de signo para cumplir la condicion de perpendicularidad."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Dos rectas son perpendiculares (forman un angulo de 90 grados) si sus pendientes son inversas y opuestas. Algebraicamente: $m_1 \\cdot m_2 = -1$.",
       "difficulty": "8",
       "images": [],
@@ -649,25 +649,25 @@
           "feedback": "Esto es solo cambiar los signos, no hallar la inversa funcional."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$f^{-1}(x) = (x + 4) / 2$",
           "is_correct": true,
           "feedback": "¡Correcto! Despejando x: $y+4 = 2x \\rightarrow x = (y+4)/2$. Luego se intercambian las variables."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$f^{-1}(x) = 2x + 4$",
           "is_correct": false,
           "feedback": "Solo se ha cambiado el signo de la ordenada."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$f^{-1}(x) = x / 2 - 4$",
           "is_correct": false,
           "feedback": "Falta dividir el termino independiente por 2."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La funcion inversa \"deshace\" la operacion de la funcion original. Para hallarla algebraicamente, escribimos $y = f(x)$, despejamos la variable $x$ en funcion de $y$, y finalmente intercambiamos los nombres de las variables.",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "A los 100 min ambos cuestan 1000. Pero el Plan A no tiene costo fijo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "200 minutos",
           "is_correct": true,
           "feedback": "¡Correcto! $10x = 1000 + 5x \\rightarrow 5x = 1000 \\rightarrow x = 200$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "150 minutos",
           "is_correct": false,
           "feedback": "A los 150 min el Plan A es mas barato (1500 vs 1750)."
@@ -757,7 +757,7 @@
           "feedback": "El ahorro comienza mucho antes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Este es un problema clasico de comparacion de funciones afines. Igualamos las dos funciones ($10x$ y $5x + 1000$) para encontrar el \"punto de equilibrio\". Superado ese valor, la funcion con menor pendiente (Plan B) resulta mas economica.",
       "difficulty": "10",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Se analiza el dominio y el recorrido (rango) de las funciones afines en el conjunto de los numeros reales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Solo los numeros reales positivos.",
           "is_correct": false,
           "feedback": "Las rectas pueden tomar valores negativos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El conjunto de todos los numeros reales ($\\mathbb{R}$).",
           "is_correct": true,
           "feedback": "¡Correcto! Una recta con pendiente no nula se extiende infinitamente en ambas direcciones del eje Y."
@@ -802,7 +802,7 @@
           "feedback": "Esto solo ocurriria si m = 0 (funcion constante)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Las funciones afines no constantes son funciones biyectivas de $\\mathbb{R}$ en $\\mathbb{R}$. Esto significa que para cualquier valor de $x$ hay un $y$, y que todos los valores de $y$ son alcanzados por algun $x$.",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Un geólogo mide la temperatura del suelo en una mina de Guinea Ecuatorial. A nivel de superficie ($0$ m) es de $25^\\circ C$, y aumenta $3^\\circ C$ por cada $100$ metros de profundidad.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "300 metros",
           "is_correct": false,
           "feedback": "El aumento seria de 9 grados, totalizando 34."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "400 metros",
           "is_correct": false,
           "feedback": "El aumento seria de 12 grados, totalizando 37."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "500 metros",
           "is_correct": true,
           "feedback": "¡Correcto! $T(d) = 25 + (3/100)d$. Si $40 = 25 + 0.03d \\rightarrow 15 = 0.03d \\rightarrow d = 500$."
@@ -892,7 +892,7 @@
           "feedback": "La temperatura seria de 55 grados."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Este problema requiere modelar una situacion fisica mediante una funcion afin, donde la temperatura inicial es la ordenada en el origen y la tasa de aumento es la pendiente. Luego se resuelve la ecuacion para hallar el valor de la variable independiente (profundidad).\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
       "difficulty": "10",
       "images": [],

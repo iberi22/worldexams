@@ -111,25 +111,25 @@
           "feedback": "Incorrecto. Ese valor resulta de multiplicar mal o de omitir parte del cargo fijo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$65 000",
           "is_correct": true,
           "feedback": "Correcto. C = 15 000 × 3 + 20 000 = 45 000 + 20 000 = $65 000."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$35 000",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor solo suma una hora de trabajo al cargo fijo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$105 000",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor multiplica el total por 3 en vez de solo las horas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Se reemplaza h = 3 en la función: C = 15 000 × 3 + 20 000 = 45 000 + 20 000 = 65 000. El cliente paga $65 000.",
       "difficulty": "6",
       "images": [],
@@ -157,13 +157,13 @@
           "feedback": "Incorrecto. Con esa regla 2 minutos costarían $1 000, pero la tabla dice $800."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "C = 300 × m + 200",
           "is_correct": true,
           "feedback": "Correcto. Cada minuto suma $300 y hay un cargo inicial de $200: 300 × 1 + 200 = 500; 300 × 2 + 200 = 800; 300 × 3 + 200 = 1 100."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "C = 300 × m + 500",
           "is_correct": false,
           "feedback": "Incorrecto. Con esa regla 1 minuto costaría $800, no $500."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Con esa regla 2 minutos costarían $700, no $800."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La diferencia entre valores consecutivos es 300 (tasa de cambio) y el valor inicial es 200. La regla C = 300 × m + 200 reproduce exactamente los tres datos de la tabla.",
       "difficulty": "6",
       "images": [],
@@ -209,19 +209,19 @@
           "feedback": "Incorrecto. Ese punto invierte los ejes: el tiempo va en x y el volumen en y."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "(5, 100)",
           "is_correct": true,
           "feedback": "Correcto. Resolviendo 100 = 10 × t + 50 se obtiene t = 5; el punto es (5, 100)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "(50, 10)",
           "is_correct": false,
           "feedback": "Incorrecto. Ese punto confunde el valor inicial con el tiempo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Se iguala V = 100: 100 = 10 × t + 50, de donde 10 × t = 50 y t = 5. En la gráfica (tiempo en x, volumen en y) el punto es (5, 100).",
       "difficulty": "6",
       "images": [],
@@ -249,13 +249,13 @@
           "feedback": "Incorrecto. Es al revés: A no depende de los GB y B sí crece con ellos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La gráfica de A es una recta horizontal y la de B es una recta creciente que empieza en 40 000",
           "is_correct": true,
           "feedback": "Correcto. A es constante (y = 60 000) y B es y = 5 000 × x + 40 000, creciente desde 40 000."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambas gráficas son rectas crecientes con la misma pendiente",
           "is_correct": false,
           "feedback": "Incorrecto. Solo B crece; A se mantiene constante."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. B empieza en 40 000 y crece, nunca decrece."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El plan A es una función constante (recta horizontal en y = 60 000). El plan B es lineal con pendiente 5 000 e intercepto 40 000, una recta creciente que parte de (0, 40 000).",
       "difficulty": "8",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "En Pereira, la gráfica de las ganancias diarias de una cafetería es una recta que pasa por los puntos (0, 30 000) y (10, 130 000), donde x son los almuerzos vendidos y y la ganancia en pesos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$10 000",
           "is_correct": true,
           "feedback": "Correcto. La pendiente es (130 000 - 30 000) ÷ (10 - 0) = 100 000 ÷ 10 = $10 000 por almuerzo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$13 000",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor divide 130 000 entre 10 sin restar la ganancia inicial de 30 000."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$30 000",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el valor inicial (intercepto), no el aporte de cada almuerzo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$100 000",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el aumento total por 10 almuerzos, no el de cada uno."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La pendiente de la recta es el cambio en y dividido entre el cambio en x: (130 000 - 30 000) / 10 = 10 000. Cada almuerzo adicional aporta $10 000 a la ganancia.",
       "difficulty": "8",
       "images": [],
@@ -341,13 +341,13 @@
           "feedback": "Incorrecto. Ese valor supone que sube 1 °C por hora, pero la tasa real es mayor."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "29 °C",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor usa una tasa de 1,5 °C por hora que no corresponde a los datos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "30 °C",
           "is_correct": true,
           "feedback": "Correcto. Sube 6 °C en 3 horas (2 °C/h); dos horas después de las 11:00 suma 4 °C: 26 + 4 = 30."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Ese valor supone 3 °C por hora, el doble de la tasa real."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La tasa de cambio es (26 - 20) / 3 = 2 °C por hora. De 11:00 a. m. a 1:00 p. m. hay 2 horas, así que la temperatura sube 4 °C: 26 + 4 = 30 °C.",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En Villavicencio, un agricultor compara dos formas de vender su cosecha de aguacates: al mercado local con ingreso I = 2 000 × k, o a un distribuidor con ingreso I = 1 500 × k + 100 000, donde k son los kilos vendidos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Siempre conviene el distribuidor porque paga un bono inicial de $100 000",
           "is_correct": false,
           "feedback": "Incorrecto. El bono solo ayuda con pocos kilos; con muchos kilos la mayor tasa del mercado local lo supera."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Conviene el mercado local cuando se venden más de 200 kilos, pues allí se igualan: 2 000 × 200 = 1 500 × 200 + 100 000",
           "is_correct": true,
           "feedback": "Correcto. Igualando 2 000k = 1 500k + 100 000 se obtiene 500k = 100 000, o sea k = 200; por encima de 200 gana el mercado local."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Con ventas grandes, la tasa de $2 000 por kilo supera ampliamente al bono fijo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El punto de equilibrio se halla igualando: 2 000k = 1 500k + 100 000, de donde k = 200. Con menos de 200 kilos gana el distribuidor (por el bono) y con más de 200 gana el mercado local (por la mejor tasa).",
       "difficulty": "10",
       "images": [],
@@ -433,25 +433,25 @@
           "feedback": "Incorrecto. El primer valor de la tabla corresponde a x = 1, no al corte con el eje y (x = 0)."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Sí, es lineal con regla y = 3x + 4 y por eso corta el eje y en 4",
           "is_correct": true,
           "feedback": "Correcto. Las diferencias son constantes (3) y la regla y = 3x + 4 reproduce la tabla; con x = 0 se obtiene y = 4."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No, porque las diferencias entre valores consecutivos no son constantes",
           "is_correct": false,
           "feedback": "Incorrecto. Las diferencias son 3, 3 y 3: perfectamente constantes, sí es lineal."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Sí, es lineal pero corta el eje y en 3 porque 3 es la diferencia constante",
           "is_correct": false,
           "feedback": "Incorrecto. La diferencia constante es la pendiente, no el punto de corte con el eje y."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Las diferencias 10-7, 13-10 y 16-13 son todas 3, así que es lineal con pendiente 3. La regla y = 3x + 4 genera la tabla (3×1+4=7, etc.) y evaluando en x = 0 da el intercepto y = 4. La afirmación es correcta.",
       "difficulty": "10",
       "images": [],

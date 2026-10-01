@@ -13,19 +13,19 @@
       "context": "Un autobús intermunicipal viaja por la Autopista Norte de Bogotá en un tramo recto con velocidad constante de $72\\text{ km/h}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$20\\text{ m/s}$",
           "is_correct": true,
           "feedback": "Correcto. $72 \\times \\frac{1000}{3600} = \\frac{72}{3.6} = 20\\text{ m/s}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$25\\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se obtiene de $90\\text{ km/h}$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$15\\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se obtiene de $54\\text{ km/h}$."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Dividiste por 2 en vez de 3.6."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para convertir km/h a m/s se divide la magnitud entre $3.6$: $72 / 3.6 = 20\\text{ m/s}$.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "En Medellín, un vehículo se mueve con Movimiento Rectilíneo Uniforme (MRU) recorriendo distancias iguales en tiempos iguales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$0\\text{ m/s}^2$",
           "is_correct": true,
           "feedback": "Correcto. En el MRU la velocidad es constante, por lo que la aceleración es nula."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$9.8\\text{ m/s}^2$",
           "is_correct": false,
           "feedback": "Incorrecto. $9.8\\text{ m/s}^2$ es la aceleración de la gravedad."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. La velocidad no cambia en el MRU."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aceleración es la variación de la velocidad en el tiempo ($a = \\Delta v / \\Delta t$). En MRU, $\\Delta v = 0 \\implies a = 0$.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "En Cali, un ciclista se desplaza a una rapidez constante de $8\\text{ m/s}$ durante $15\\text{ minutos}$ sobre una vía recta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$7.200\\text{ m}$",
           "is_correct": true,
           "feedback": "Correcto. $t = 15 \\times 60 = 900\\text{ s}$. Distancia $d = v \\cdot t = 8 \\cdot 900 = 7.200\\text{ m}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$120\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste por $15$ minutos sin convertir el tiempo a segundos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$3.600\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste por 450 segundos."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Dividiste erróneamente entre el tiempo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Tiempo en segundos $t = 15 \\times 60 = 900\\text{ s}$. $d = v \\cdot t = 8\\text{ m/s} \\times 900\\text{ s} = 7.200\\text{ m}$.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En Barranquilla, un automóvil parte del reposo y acelera uniformemente a razón de $3\\text{ m/s}^2$ durante $6\\text{ segundos}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$18\\text{ m/s}$",
           "is_correct": true,
           "feedback": "Correcto. $v_f = v_0 + a \\cdot t = 0 + 3 \\cdot 6 = 18\\text{ m/s}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$9\\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste $3 + 6$ en vez de multiplicar."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$54\\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste por la posición acumulada."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Dividiste $6 / 3$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En MRUV: $v_f = v_i + a t = 0 + 3(6) = 18\\text{ m/s}$.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En Pereira, un objeto en caída libre se deja caer desde el reposo desde una altura h. Considere $g = 10\\text{ m/s}^2$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$30\\text{ m/s}$",
           "is_correct": true,
           "feedback": "Correcto. $v = g \\cdot t = 10 \\cdot 3 = 30\\text{ m/s}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$45\\text{ m/s}$",
           "is_correct": false,
           "feedback": "Incorrecto. $45\\text{ m}$ es la distancia caída, no la velocidad."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Multiplicaste por $3^2$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En caída libre partiendo del reposo: $v = g \\cdot t = 10\\text{ m/s}^2 \\times 3\\text{ s} = 30\\text{ m/s}$.",
       "difficulty": "6",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "En Manizales, un camión frena con una desaceleración constante de $-4\\text{ m/s}^2$ partiendo de una velocidad de $20\\text{ m/s}$ hasta detenerse por completo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$50\\text{ m}$",
           "is_correct": true,
           "feedback": "Correcto. $v_f^2 = v_i^2 + 2a d \\implies 0 = 20^2 + 2(-4)d \\implies 8d = 400 \\implies d = 50\\text{ m}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$100\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste el factor $2$ en el denominador."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$25\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste $400$ entre $16$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$80\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste $20 \\times 4$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Uso de $v_f^2 = v_0^2 + 2ad \\implies 0 = 400 - 8d \\implies d = 400 / 8 = 50\\text{ m}$.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Dos automóviles $A$ y $B$ parten simultáneamente del mismo punto en la Vía al Mar entre Cartagena y Barranquilla en la misma dirección. El auto $A$ viaja a $30\\text{ m/s}$ constantes y el auto $B$ parte del reposo con aceleración constante de $4\\text{ m/s}^2$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$15\\text{ segundos}$",
           "is_correct": true,
           "feedback": "Correcto. Posiciones iguales: $x_A = 30t$; $x_B = \\frac{1}{2}(4)t^2 = 2t^2$. Igualando $30t = 2t^2 \\implies t = 15\\text{ s}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$7.5\\text{ segundos}$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste el factor $1/2$ en la posición del auto B."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Error en la resolución cuadrática."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Igualando posiciones: $x_A(t) = x_B(t) \\implies 30t = 2t^2 \\implies 2t(t - 15) = 0 \\implies t = 15\\text{ s}$.",
       "difficulty": "8",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "En Armenia, se analiza la gráfica de velocidad ($v$) contra tiempo ($t$) para una motocicleta. La gráfica es un trapecio con base menor de $4\\text{ s}$ a $10\\text{ s}$ ($b = 6\\text{ s}$ y $v = 12\\text{ m/s}$) y base mayor de $0\\text{ s}$ a $14\\text{ s}$ ($B = 14\\text{ s}$).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Representa el desplazamiento total y es igual a $120\\text{ metros}$.",
           "is_correct": true,
           "feedback": "Correcto. Área $= \\frac{(B+b) \\cdot h}{2} = \\frac{(14 + 6) \\cdot 12}{2} = 120\\text{ m}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Representa la aceleración promedio y es igual a $12\\text{ m/s}^2$.",
           "is_correct": false,
           "feedback": "Incorrecto. La pendiente representa la aceleración."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Representa la velocidad final y es igual a $168\\text{ m/s}$.",
           "is_correct": false,
           "feedback": "Incorrecto. El área tiene unidades de distancia."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. El tiempo es una variable del eje horizontal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Área $= \\frac{(14 + 6) \\cdot 12}{2} = \\frac{20 \\cdot 12}{2} = 120\\text{ m}$, correspondiente al desplazamiento total.",
       "difficulty": "8",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "En un experimento en Tunja, se lanza una piedra verticalmente hacia arriba con velocidad inicial $v_0 = 30\\text{ m/s}$ desde el borde de un acantilado. Tomar $g = 10\\text{ m/s}^2$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$-10\\text{ m/s}$ (dirigida hacia abajo)",
           "is_correct": true,
           "feedback": "Correcto. $v(t) = v_0 - gt = 30 - 10(4) = 30 - 40 = -10\\text{ m/s}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$10\\text{ m/s}$ (dirigida hacia arriba)",
           "is_correct": false,
           "feedback": "Incorrecto. Confundiste el signo; a los $4\\text{ s}$ la piedra ya está cayendo."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. Sumaste $30 + 40$ con signo negativo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "$v(t) = v_0 - gt = 30 - 10(4) = -10\\text{ m/s}$. El signo negativo indica movimiento descendente.",
       "difficulty": "10",
       "images": [],
@@ -519,31 +519,31 @@
       "context": "En Bogotá, la ecuación de posición de una partícula viene dada por $x(t) = t^3 - 6t^2 + 9t + 2$, donde $x$ está en metros y $t$ en segundos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$t = 1\\text{ s}$ y $t = 3\\text{ s}$",
           "is_correct": true,
           "feedback": "Correcto. Derivada de posición: $v(t) = 3t^2 - 12t + 9 = 0 \\implies 3(t^2 - 4t + 3) = 0 \\implies (t-1)(t-3) = 0 \\implies t = 1, 3$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$t = 2\\text{ s}$ únicamente",
           "is_correct": false,
           "feedback": "Incorrecto. En $t=2$ la aceleración se anula, no la velocidad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$t = 0\\text{ s}$ y $t = 4\\text{ s}$",
           "is_correct": false,
           "feedback": "Incorrecto. En $t=0$, $v(0) = 9\\text{ m/s}$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La velocidad nunca se anula.",
           "is_correct": false,
           "feedback": "Incorrecto. La función cuadrática derivada posee dos raíces reales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Velocidad $v(t) = \\frac{dx}{dt} = 3t^2 - 12t + 9 = 0 \\implies 3(t-1)(t-3) = 0 \\implies t = 1\\text{ s}$ y $t = 3\\text{ s}$.",
       "difficulty": "10",
       "images": [],

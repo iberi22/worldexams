@@ -13,13 +13,13 @@
       "context": "Sofía analiza situaciones académicas en Concepción.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Enlace covalente apolar",
           "is_correct": true,
           "feedback": "¡Correcto! Para delta EN = 0.22, corresponde a un enlace covalente apolar."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Enlace metálico puro",
           "is_correct": false,
           "feedback": "Incorrecto. El enlace metálico se da entre átomos metálicos de baja electronegatividad."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Describe interacciones intermoleculares débiles."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Según la escala de Pauling, con delta EN = 0.22, la diferencia de electronegatividad es menor o igual a 0,4.",
       "difficulty": "4",
       "images": [],
@@ -58,19 +58,19 @@
       "context": "Benjamín analiza situaciones académicas en Antofagasta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Enlace covalente apolar",
           "is_correct": true,
           "feedback": "¡Correcto! Para delta EN = 0.34, corresponde a un enlace covalente apolar."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Enlace metálico puro",
           "is_correct": false,
           "feedback": "Incorrecto. El enlace metálico se da entre átomos metálicos de baja electronegatividad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Puente de hidrógeno",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a una fuerza intermolecular, no un enlace primario."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Describe interacciones intermoleculares débiles."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Según la escala de Pauling, con delta EN = 0.34, la diferencia de electronegatividad es menor o igual a 0,4.",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Martina analiza situaciones académicas en Temuco.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Enlace covalente polar",
           "is_correct": true,
           "feedback": "¡Correcto! Para delta EN = 0.46, corresponde a un enlace covalente polar."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Enlace metálico puro",
           "is_correct": false,
           "feedback": "Incorrecto. El enlace metálico se da entre átomos metálicos de baja electronegatividad."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Describe interacciones intermoleculares débiles."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Según la escala de Pauling, con delta EN = 0.46, la diferencia de electronegatividad está entre 0,4 y 1,7.",
       "difficulty": "4",
       "images": [],
@@ -238,19 +238,19 @@
       "context": "Matías analiza situaciones académicas en Iquique.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Enlace covalente polar",
           "is_correct": true,
           "feedback": "¡Correcto! Para delta EN = 0.82, corresponde a un enlace covalente polar."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Enlace metálico puro",
           "is_correct": false,
           "feedback": "Incorrecto. El enlace metálico se da entre átomos metálicos de baja electronegatividad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Puente de hidrógeno",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a una fuerza intermolecular, no un enlace primario."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Describe interacciones intermoleculares débiles."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Según la escala de Pauling, con delta EN = 0.82, la diferencia de electronegatividad está entre 0,4 y 1,7.",
       "difficulty": "6",
       "images": [],
@@ -283,19 +283,19 @@
       "context": "Isidora analiza situaciones académicas en Rancagua.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Enlace covalente polar",
           "is_correct": true,
           "feedback": "¡Correcto! Para delta EN = 0.94, corresponde a un enlace covalente polar."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Enlace metálico puro",
           "is_correct": false,
           "feedback": "Incorrecto. El enlace metálico se da entre átomos metálicos de baja electronegatividad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Puente de hidrógeno",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a una fuerza intermolecular, no un enlace primario."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Describe interacciones intermoleculares débiles."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Según la escala de Pauling, con delta EN = 0.94, la diferencia de electronegatividad está entre 0,4 y 1,7.",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "Diego analiza situaciones académicas en Talca.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Enlace covalente polar",
           "is_correct": true,
           "feedback": "¡Correcto! Para delta EN = 1.06, corresponde a un enlace covalente polar."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Enlace metálico puro",
           "is_correct": false,
           "feedback": "Incorrecto. El enlace metálico se da entre átomos metálicos de baja electronegatividad."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Describe interacciones intermoleculares débiles."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Según la escala de Pauling, con delta EN = 1.06, la diferencia de electronegatividad está entre 0,4 y 1,7.",
       "difficulty": "6",
       "images": [],
@@ -418,19 +418,19 @@
       "context": "Tomás analiza situaciones académicas en Puerto Montt.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Enlace covalente polar",
           "is_correct": true,
           "feedback": "¡Correcto! Para delta EN = 1.30, corresponde a un enlace covalente polar."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Enlace metálico puro",
           "is_correct": false,
           "feedback": "Incorrecto. El enlace metálico se da entre átomos metálicos de baja electronegatividad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Puente de hidrógeno",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a una fuerza intermolecular, no un enlace primario."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Describe interacciones intermoleculares débiles."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Según la escala de Pauling, con delta EN = 1.30, la diferencia de electronegatividad está entre 0,4 y 1,7.",
       "difficulty": "6",
       "images": [],
@@ -463,31 +463,31 @@
       "context": "Valentina analiza situaciones académicas en Chillán.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Enlace covalente polar",
           "is_correct": true,
           "feedback": "¡Correcto! Para delta EN = 1.42, corresponde a un enlace covalente polar."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Enlace metálico puro",
           "is_correct": false,
           "feedback": "Incorrecto. El enlace metálico se da entre átomos metálicos de baja electronegatividad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Puente de hidrógeno",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a una fuerza intermolecular, no un enlace primario."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Fuerza de van der Waals",
           "is_correct": false,
           "feedback": "Incorrecto. Describe interacciones intermoleculares débiles."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Según la escala de Pauling, con delta EN = 1.42, la diferencia de electronegatividad está entre 0,4 y 1,7.",
       "difficulty": "8",
       "images": [],
@@ -508,31 +508,31 @@
       "context": "Lucas analiza situaciones académicas en Calama.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Enlace covalente polar",
           "is_correct": true,
           "feedback": "¡Correcto! Para delta EN = 1.54, corresponde a un enlace covalente polar."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Enlace metálico puro",
           "is_correct": false,
           "feedback": "Incorrecto. El enlace metálico se da entre átomos metálicos de baja electronegatividad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Puente de hidrógeno",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a una fuerza intermolecular, no un enlace primario."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Fuerza de van der Waals",
           "is_correct": false,
           "feedback": "Incorrecto. Describe interacciones intermoleculares débiles."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Según la escala de Pauling, con delta EN = 1.54, la diferencia de electronegatividad está entre 0,4 y 1,7.",
       "difficulty": "8",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "Javier analiza situaciones académicas en Valdivia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Enlace covalente polar",
           "is_correct": true,
           "feedback": "¡Correcto! Para delta EN = 1.66, corresponde a un enlace covalente polar."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Enlace metálico puro",
           "is_correct": false,
           "feedback": "Incorrecto. El enlace metálico se da entre átomos metálicos de baja electronegatividad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Puente de hidrógeno",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a una fuerza intermolecular, no un enlace primario."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Describe interacciones intermoleculares débiles."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Según la escala de Pauling, con delta EN = 1.66, la diferencia de electronegatividad está entre 0,4 y 1,7.",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Sofía analiza situaciones académicas en Concepción.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Enlace iónico",
           "is_correct": true,
           "feedback": "¡Correcto! Para delta EN = 2.02, corresponde a un enlace iónico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Enlace metálico puro",
           "is_correct": false,
           "feedback": "Incorrecto. El enlace metálico se da entre átomos metálicos de baja electronegatividad."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Describe interacciones intermoleculares débiles."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Según la escala de Pauling, con delta EN = 2.02, la diferencia de electronegatividad es superior a 1,7.",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Benjamín analiza situaciones académicas en Antofagasta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Enlace iónico",
           "is_correct": true,
           "feedback": "¡Correcto! Para delta EN = 2.14, corresponde a un enlace iónico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Enlace metálico puro",
           "is_correct": false,
           "feedback": "Incorrecto. El enlace metálico se da entre átomos metálicos de baja electronegatividad."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Describe interacciones intermoleculares débiles."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Según la escala de Pauling, con delta EN = 2.14, la diferencia de electronegatividad es superior a 1,7.",
       "difficulty": "10",
       "images": [],
@@ -823,31 +823,31 @@
       "context": "Vicente analiza situaciones académicas en La Serena.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Enlace iónico",
           "is_correct": true,
           "feedback": "¡Correcto! Para delta EN = 2.38, corresponde a un enlace iónico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Enlace metálico puro",
           "is_correct": false,
           "feedback": "Incorrecto. El enlace metálico se da entre átomos metálicos de baja electronegatividad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Puente de hidrógeno",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a una fuerza intermolecular, no un enlace primario."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Fuerza de van der Waals",
           "is_correct": false,
           "feedback": "Incorrecto. Describe interacciones intermoleculares débiles."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Según la escala de Pauling, con delta EN = 2.38, la diferencia de electronegatividad es superior a 1,7.",
       "difficulty": "10",
       "images": [],
@@ -868,31 +868,31 @@
       "context": "Catalina analiza situaciones académicas en Viña del Mar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Enlace iónico",
           "is_correct": true,
           "feedback": "¡Correcto! Para delta EN = 2.50, corresponde a un enlace iónico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Enlace metálico puro",
           "is_correct": false,
           "feedback": "Incorrecto. El enlace metálico se da entre átomos metálicos de baja electronegatividad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Puente de hidrógeno",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a una fuerza intermolecular, no un enlace primario."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Fuerza de van der Waals",
           "is_correct": false,
           "feedback": "Incorrecto. Describe interacciones intermoleculares débiles."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Según la escala de Pauling, con delta EN = 2.50, la diferencia de electronegatividad es superior a 1,7.",
       "difficulty": "10",
       "images": [],

@@ -13,19 +13,19 @@
       "context": "Durante el almuerzo en un colegio de Bucaramanga, los estudiantes mastican una arepa de choclo antes de pasarla hacia el estómago.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "En la boca.",
           "is_correct": true,
           "feedback": "La boca realiza la digestión mecánica (dientes) y química inicial (enzimas salivales)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En el esófago.",
           "is_correct": false,
           "feedback": "El esófago es un conducto de transporte por movimientos peristálticos, no un órgano de masticación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "En el intestino delgado.",
           "is_correct": false,
           "feedback": "El intestino delgado absorbe nutrientes en etapas posteriores del proceso digestivo."
@@ -37,7 +37,7 @@
           "feedback": "El hígado produce bilis y procesa sustancias, pero no interviene en la masticación inicial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Identificación del órgano inicial de la digestión humana y sus funciones primarias.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "El bolo alimenticio desciende desde la boca hasta el estómago a través de un tubo muscular de unos 25 cm de largo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Esófago.",
           "is_correct": true,
           "feedback": "El esófago conduce el bolo alimenticio hacia el estómago mediante movimientos peristálticos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Tráquea.",
           "is_correct": false,
           "feedback": "La tráquea pertenece al sistema respiratorio y conduce aire a los pulmones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Intestino grueso.",
           "is_correct": false,
           "feedback": "El intestino grueso absorbe agua y forma la materia fecal en la etapa final."
@@ -83,7 +83,7 @@
           "feedback": "El páncreas es una glándula anexa que secreta jugos pancreáticos, no un tubo conductor."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Reconocimiento de la anatomía del tubo digestivo y diferenciación con conductos del sistema respiratorio.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En el estómago, el bolo alimenticio se mezcla con los jugos gástricos ácidos y se transforma en una masa semilíquida llamada quimo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Digestión química.",
           "is_correct": true,
           "feedback": "La acción de enzimas y ácidos para transformar moléculas complejas en simples es digestión química."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Digestión mecánica.",
           "is_correct": false,
           "feedback": "La digestión mecánica se refiere a la trituración física por dientes o paredes musculares."
@@ -129,7 +129,7 @@
           "feedback": "La excreción renal filtra la sangre a través de los riñones para formar orina."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Diferenciación conceptual entre digestión mecánica (física) y química (enzimática/ácida).",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "El intestino delgado posee en su pared interior millones de pliegues microscópicos llamados vellosidades intestinales altamente vascularizadas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Aumentar la superficie de contacto para absorber los nutrientes hacia el torrente sanguíneo.",
           "is_correct": true,
           "feedback": "Las vellosidades amplían el área disponible para transferir agua, vitaminas y nutrientes a la sangre."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Producir saliva para ablandar los alimentos duros.",
           "is_correct": false,
           "feedback": "La saliva es producida por las glándulas salivales situadas en la cavidad bucal."
@@ -175,7 +175,7 @@
           "feedback": "El aire es intercambiado por el sistema respiratorio en los alvéolos pulmonares."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Relación entre la estructura anatómica (vellosidades intestinales) y la función fisiológica (absorción de nutrientes).",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "El hígado secreta un líquido verdoso amarillento llamado bilis, la cual se almacena en la vesícula biliar antes de liberarse al intestino.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Grasas o lípidos.",
           "is_correct": true,
           "feedback": "La bilis emulsiona las grasas en pequeñas gotas facilitando la acción de las lipasas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Glúcidos o azúcares sencillos.",
           "is_correct": false,
           "feedback": "Los glúcidos son digeridos por amilasas salivales y pancreáticas."
@@ -221,7 +221,7 @@
           "feedback": "Las proteínas son digeridas por pepsinas e hidrolasas gástricas/pancreáticas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Comprensión del rol de las glándulas anexas (hígado/bilis) en la emulsión de grasas durante la digestión.",
       "difficulty": "6",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Un comercial de televisión afirma: \"Consumir alimentos ricos en fibra natural (como frutas enteras, verduras y cereales) mejora el tránsito intestinal y previene enfermedades del colon\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La fibra retiene agua en el intestino grueso, aumentando el volumen de las heces y facilitando su evacuación constante.",
           "is_correct": true,
           "feedback": "La fibra insoluble no se digiere totalmente y actúa como esponja hidratando la masa fecal para un tránsito fluido."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La fibra destruye todos los ácidos gástricos producidos por el estómago.",
           "is_correct": false,
           "feedback": "La fibra no destruye los jugos gástricos; cumple una función mecánica de tránsito en el intestino."
@@ -359,7 +359,7 @@
           "feedback": "Afirmación errónea que confunde el sistema digestivo con el sistema circulatorio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluación crítica de recomendaciones nutricionales mediante el análisis biológico del tránsito de la fibra dietaria.",
       "difficulty": "10",
       "images": [],

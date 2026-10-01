@@ -13,19 +13,19 @@
       "context": "En un colegio de Bogotá se lanza una moneda para elegir quién inicia un partido.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Un experimento cuyo resultado no se puede predecir con certeza antes de realizarlo",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: define el azar como resultado incierto aunque se conozcan los posibles casos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un experimento que siempre da el mismo resultado",
           "is_correct": false,
           "feedback": "Explica el error conceptual: eso describe un experimento determinista, no aleatorio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un experimento que no tiene ningún resultado posible",
           "is_correct": false,
           "feedback": "Explica el error conceptual: todo experimento tiene un espacio muestral con resultados posibles."
@@ -37,7 +37,7 @@
           "feedback": "Explica el error conceptual: la repetición es esencial para estudiar la probabilidad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Un experimento aleatorio es aquel donde interviene el azar y no se conoce el resultado exacto por anticipado, aunque sí se conocen todos los resultados posibles. Lanzar una moneda o un dado son ejemplos clásicos.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "En una feria de Medellín hay una bolsa con 3 balotas rojas y 1 balota azul, todas del mismo tamaño.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El rojo, porque hay más balotas rojas que azules",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: con 3 de 4 casos favorables, el rojo tiene mayor probabilidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El azul, porque es el color menos común y sale más",
           "is_correct": false,
           "feedback": "Explica el error conceptual: ser menos común significa menor probabilidad, no mayor."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambos colores tienen exactamente la misma probabilidad",
           "is_correct": false,
           "feedback": "Explica el error conceptual: solo serían iguales si hubiera igual cantidad de cada color."
@@ -83,7 +83,7 @@
           "feedback": "Explica el error conceptual: siempre saldrá alguna balota de las cuatro disponibles."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La probabilidad depende del número de casos favorables frente al total. Como hay 3 balotas rojas de 4 totales, el rojo es más probable que el azul, que solo tiene 1 de 4.",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En Barranquilla una ruleta de juegos está dividida en 8 sectores iguales: 2 amarillos y 6 verdes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "2 de 8, es decir un cuarto",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: hay 2 sectores amarillos entre 8 totales, lo que equivale a un cuarto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "6 de 8",
           "is_correct": false,
           "feedback": "Explica el error conceptual: esa es la probabilidad del verde, no del amarillo."
@@ -175,7 +175,7 @@
           "feedback": "Explica el error conceptual: supone dos resultados equiprobables sin contar los sectores reales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La probabilidad es casos favorables sobre casos totales. Con 2 amarillos de 8 sectores, la fracción es 2 sobre 8, que simplificada es 1 sobre 4. Esto significa que de cada 4 giros se esperaría aproximadamente 1 amarillo.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En un salón de Bucaramanga hay 10 estudiantes: 4 prefieren fútbol y 6 prefieren baloncesto. Se elige uno al azar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "6 de 10, es decir 3 quintos",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: hay 6 casos favorables entre 10 estudiantes, que se simplifica a 3 quintos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "4 de 10",
           "is_correct": false,
           "feedback": "Explica el error conceptual: esa es la probabilidad de preferir fútbol, no baloncesto."
@@ -221,7 +221,7 @@
           "feedback": "Explica el error conceptual: cuenta un solo estudiante en vez de los seis que prefieren baloncesto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Se aplica la regla de Laplace: favorables sobre posibles. Con 6 estudiantes que prefieren baloncesto entre 10 totales, la probabilidad es 6 sobre 10, equivalente a 3 quintos o 60 por ciento.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En Cartagena se lanza dos veces una moneda legal y se anotan los resultados en orden.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Cara-cara, cara-sello, sello-cara, sello-sello",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: lista los 4 resultados ordenados posibles de dos lanzamientos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Cara, sello",
           "is_correct": false,
           "feedback": "Explica el error conceptual: solo lista los resultados de un lanzamiento y no de dos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cara-cara, sello-sello",
           "is_correct": false,
           "feedback": "Explica el error conceptual: omite los dos resultados mixtos que también son posibles."
@@ -267,7 +267,7 @@
           "feedback": "Explica el error conceptual: agrupa sin orden y pierde un caso, pues una y una ocurre de dos formas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El espacio muestral de dos lanzamientos ordenados tiene 2 por 2 igual a 4 resultados. Analizar el orden muestra que el caso mixto tiene dos formas distintas, por eso la lista completa incluye cara-sello y sello-cara por separado.",
       "difficulty": "8",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En Manizales se hizo un experimento: lanzar un dado 60 veces. El número 5 salió 8 veces.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La teórica es 1 de 6 y la observada es 8 de 60, que es menor por variación del azar",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: compara el valor esperado con el resultado real y reconoce la variabilidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La teórica es 8 de 60 y la observada es 1 de 6, al revés",
           "is_correct": false,
           "feedback": "Explica el error conceptual: invierte los conceptos de probabilidad teórica y frecuencia experimental."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambas son exactamente iguales siempre, 10 de 60",
           "is_correct": false,
           "feedback": "Explica el error conceptual: supone que el azar produce resultados exactos sin variación."
@@ -313,7 +313,7 @@
           "feedback": "Explica el error conceptual: confunde la cara observada con el número de casos favorables."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La probabilidad teórica de un 5 es 1 sobre 6, que en 60 lanzamientos esperaría unas 10 apariciones. La frecuencia observada fue 8 sobre 60. La diferencia se explica por la variabilidad natural del azar en muestras pequeñas, y con más repeticiones los valores tienden a acercarse.",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En Pereira hay una caja con 5 fichas numeradas del 1 al 5. Se saca una ficha, se anota y se devuelve antes de sacar la segunda.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "9 de 25",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: hay 3 impares de 5, y con reemplazo se multiplica 3 quintos por 3 quintos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3 de 5",
           "is_correct": false,
           "feedback": "Explica el error conceptual: calcula solo un sorteo y olvida combinar los dos eventos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "6 de 5",
           "is_correct": false,
           "feedback": "Explica el error conceptual: suma las fracciones y obtiene un valor imposible mayor que uno."
@@ -359,7 +359,7 @@
           "feedback": "Explica el error conceptual: cuenta solo 2 impares en lugar de los tres impares reales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Como la ficha se devuelve, los sorteos son independientes. La probabilidad de impar en cada sorteo es 3 sobre 5. Para dos seguidas se multiplican: 3 quintos por 3 quintos igual a 9 sobre 25. Analizar la independencia permite multiplicar correctamente.",
       "difficulty": "8",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "Un estudiante de Villavicencio dice: si un dado no ha mostrado el 6 en 10 lanzamientos seguidos, entonces en el próximo lanzamiento es casi seguro que saldrá 6.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Es falsa, porque cada lanzamiento es independiente y la probabilidad de 6 sigue siendo 1 de 6",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: identifica la falacia del jugador y la independencia entre lanzamientos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es verdadera, porque el dado compensa los resultados anteriores con un 6",
           "is_correct": false,
           "feedback": "Explica el error conceptual: supone memoria en el dado, que no existe en eventos independientes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es verdadera, porque después de 10 intentos la probabilidad sube a 10 de 6",
           "is_correct": false,
           "feedback": "Explica el error conceptual: construye una fracción imposible mayor que uno."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es falsa, porque el 6 ya no puede salir nunca más en ese dado",
           "is_correct": false,
           "feedback": "Explica el error conceptual: niega un resultado que sigue siendo posible en cada lanzamiento."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluar el argumento exige reconocer la independencia: el dado no tiene memoria. Aunque el 6 no haya salido, cada lanzamiento mantiene 6 casos posibles con 1 favorable. Creer que está obligado a salir es la falacia del jugador.",
       "difficulty": "10",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "Dos juegos de feria en Santa Marta cuestan 5000 COP cada uno. Juego A: sacar balota ganadora entre 10 con 3 ganadoras. Juego B: adivinar un número del 1 al 4 con 1 ganador.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El juego A, porque 3 de 10 es mayor que 1 de 4",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: compara 0.30 frente a 0.25 y elige la mayor probabilidad al mismo precio."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El juego B, porque tiene menos balotas y eso siempre es mejor",
           "is_correct": false,
           "feedback": "Explica el error conceptual: compara totales sin calcular la fracción de éxito de cada juego."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambos son iguales, porque cuestan lo mismo",
           "is_correct": false,
           "feedback": "Explica el error conceptual: confunde el precio con la probabilidad de éxito del juego."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El juego A, porque 3 de 10 es menor que 1 de 4",
           "is_correct": false,
           "feedback": "Explica el error conceptual: elige bien el juego pero invierte la comparación numérica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para decidir se comparan las probabilidades: el juego A tiene 3 sobre 10 igual a 0.30 y el juego B tiene 1 sobre 4 igual a 0.25. Como 0.30 es mayor que 0.25, el juego A ofrece mejor oportunidad por el mismo valor de 5000 COP. Evaluar con decimales o fracciones equivalentes evita errores de intuición.",
       "difficulty": "10",
       "images": [],

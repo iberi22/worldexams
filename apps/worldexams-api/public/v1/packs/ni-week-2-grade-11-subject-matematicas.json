@@ -19,13 +19,13 @@
           "feedback": "Incorrecto. Esta es la definición de una sucesión aritmética."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Cada término se obtiene multiplicando el anterior por una constante llamada razón común.",
           "is_correct": true,
           "feedback": "Correcto. En una sucesión geométrica, el cociente entre términos sucesivos es constante (r)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los términos siempre son números enteros positivos.",
           "is_correct": false,
           "feedback": "Incorrecto. Los términos pueden ser fraccionarios, negativos o incluso cero en ciertos contextos."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. La relación es multiplicativa, no aditiva."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Una sucesión geométrica se define por la relación recurrente $a_n = a_{n-1} \\cdot r$, donde $r$ es la razón común.",
       "difficulty": "4",
       "images": [],
@@ -64,25 +64,25 @@
           "feedback": "Incorrecto. Esta fórmula corresponde a una progresión aritmética."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$a_n = a_1 \\cdot r^{n-1}$",
           "is_correct": true,
           "feedback": "Correcto. Esta expresión permite calcular cualquier término basándose en el crecimiento exponencial de la razón."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$a_n = a_1 \\cdot r^n$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta fórmula daría $a_1 \\cdot r$ para el primer término ($n=1$), lo cual es incorrecto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$a_n = \\frac{a_1}{r^{n-1}}$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta fórmula representaría un decrecimiento inverso, no la forma estándar de la sucesión."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El término enésimo se obtiene multiplicando el primer término por la razón elevada a la potencia $(n-1)$, lo que representa el número de saltos realizados.",
       "difficulty": "4",
       "images": [],
@@ -109,13 +109,13 @@
           "feedback": "Incorrecto. Esto sucedería si $r > 1$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Los términos decrecen hacia cero.",
           "is_correct": true,
           "feedback": "Correcto. Al multiplicar repetidamente por un valor menor a la unidad, el producto se hace cada vez más pequeño."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los términos permanecen constantes.",
           "is_correct": false,
           "feedback": "Incorrecto. Solo serían constantes si $r = 1$."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Esto sucedería si la razón fuera negativa ($r < 0$)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La magnitud de la razón determina el crecimiento o decrecimiento: $|r| > 1$ implica crecimiento, mientras que $|r| < 1$ implica decrecimiento (convergencia hacia cero).",
       "difficulty": "4",
       "images": [],
@@ -154,25 +154,25 @@
           "feedback": "Incorrecto. 3 es el primer término, no la razón."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "2",
           "is_correct": true,
           "feedback": "Correcto. Dividiendo cualquier término entre el anterior ($6/3=2, 12/6=2$) obtenemos la razón constante 2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "4",
           "is_correct": false,
           "feedback": "Incorrecto. El salto entre 3 y 6 no es por factor 4."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "1.5",
           "is_correct": false,
           "feedback": "Incorrecto. Al multiplicar 3 por 1.5 no obtenemos 6."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La razón común se halla dividiendo un término entre su antecesor: $r = a_n / a_{n-1}$. Aquí, $6 / 3 = 2$.",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrecto. Este es el tercer término ($5 \\times 3^2$)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "135",
           "is_correct": true,
           "feedback": "Correcto. $a_4 = 5 \\times 3^{4-1} = 5 \\times 3^3 = 5 \\times 27 = 135$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "405",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el quinto término ($5 \\times 3^4$)."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Se sumó $5 + 3 \\times 5$, error de concepto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Aplicando $a_n = a_1 \\cdot r^{n-1}$ con $a_1=5, r=3, n=4$, resulta en 135.",
       "difficulty": "6",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "El valor de un equipo agrícola en Chinandega que se deprecia un 20% anual.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$a_n = 10,000 \\cdot (0.2)^{n-1}$",
           "is_correct": false,
           "feedback": "Incorrecto. 0.2 es la pérdida, no el valor remanente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a_n = 10,000 \\cdot (0.8)^{n-1}$",
           "is_correct": true,
           "feedback": "Correcto. La razón es 0.8, representando el valor que se conserva cada periodo."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Esto representaría un crecimiento del 80%, no una depreciación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La depreciación porcentual constante se modela como una sucesión geométrica donde $r = 1 - \\text{tasa de depreciación}$.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Incorrecto. Esta es la altura del primer rebote."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "9 metros",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la altura del segundo rebote."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "6.75 metros",
           "is_correct": true,
           "feedback": "Correcto. $a_1=16 \\times 0.75 = 12$. Luego $a_3 = 12 \\times (0.75)^{3-1} = 12 \\times 0.5625 = 6.75$. (O $16 \\times (0.75)^3 = 6.75$)."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Esta sería la altura del cuarto rebote."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Cada rebote es un término de una sucesión geométrica. La altura después del rebote $n$ es $H \\cdot r^n$. Aquí $16 \\cdot (3/4)^3 = 16 \\cdot (27/64) = 27/4 = 6.75$.",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "El ahorro acumulado en una cooperativa de Estelí.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "4",
           "is_correct": false,
           "feedback": "Incorrecto. Si r=4, $a_5$ sería mucho mayor."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2",
           "is_correct": true,
           "feedback": "Correcto. $a_5 = a_2 \\cdot r^3 \\Rightarrow 80 = 10 \\cdot r^3 \\Rightarrow 8 = r^3 \\Rightarrow r = 2$."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Este es el factor total entre $a_5$ y $a_2$, no la razón individual por paso."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Usamos la relación $a_j = a_i \\cdot r^{j-i}$. Despejando: $r = \\sqrt[j-i]{a_j/a_i} = \\sqrt[3]{80/10} = 2$.",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Un cambio de signo en los términos de una progresión.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Todos los términos son 5.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso sería si r fuera 1."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los términos alternan entre 5 y -5.",
           "is_correct": true,
           "feedback": "Correcto. Multiplicar por -1 cambia el signo de cada término sucesivo."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. El cero solo se alcanza si r=0 o si partimos de cero."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Una razón negativa produce una sucesión alternante. Si $r = -1$, la sucesión oscila entre el valor inicial y su opuesto aditivo.",
       "difficulty": "6",
       "images": [],
@@ -424,25 +424,25 @@
           "feedback": "Incorrecto. $2^6 = 64$."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "7",
           "is_correct": true,
           "feedback": "Correcto. $128 = 2 \\cdot 2^{n-1} \\Rightarrow 64 = 2^{n-1} \\Rightarrow 2^6 = 2^{n-1} \\Rightarrow 6 = n-1 \\Rightarrow n = 7$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "8",
           "is_correct": false,
           "feedback": "Incorrecto. $2^8 = 256$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "64",
           "is_correct": false,
           "feedback": "Incorrecto. Se dividió el último término entre el primero sin usar logaritmos o potencias."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Para hallar n, resolvemos la ecuación exponencial $a_n = a_1 \\cdot r^{n-1}$. Aquí, $128 = 2^7$, por lo tanto $n = 7$.",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Un sistema de ahorro donde se deposita el doble del día anterior.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$S_n = \\frac{a_1(r^n - 1)}{r - 1}$",
           "is_correct": true,
           "feedback": "Correcto. Esta es la expresión cerrada para la sumatoria de una progresión geométrica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$S_n = \\frac{n(a_1 + a_n)}{2}$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta fórmula es exclusiva para sucesiones aritméticas."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Esta es la fórmula para la suma infinita de una serie convergente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La suma de una sucesión geométrica finita depende del primer término, la razón y el número de términos. Se deriva de la diferencia entre $S_n$ y $r \\cdot S_n$.",
       "difficulty": "8",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Incorrecto. Este es solo el valor del sexto depósito ($a_6$)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "C$ 6,300",
           "is_correct": true,
           "feedback": "Correcto. $a_1=100, r=2, n=6$. $S_6 = \\frac{100(2^6 - 1)}{2 - 1} = 100(64 - 1) = 6,300$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "C$ 6,400",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó restar 1 en el numerador de la fórmula."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Se calculó para 7 meses en lugar de 6."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Aplicando la fórmula de la suma finita con $n=6$: $100 \\cdot (63) = 6,300$.",
       "difficulty": "8",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Incorrecto. La razón no se mantiene constante para llegar a 54."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "6 y 18",
           "is_correct": true,
           "feedback": "Correcto. Al insertar 2 términos, 54 es el cuarto término. $54 = 2 \\cdot r^3 \\Rightarrow 27 = r^3 \\Rightarrow r = 3$. Los términos son $2, 6, 18, 54$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "10 y 30",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicar por 5 y luego por 3 no es una sucesión geométrica válida."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. La razón 4 no lleva de 32 a 54."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Interpolar $k$ medios geométricos requiere hallar la razón $r = \\sqrt[k+1]{b/a}$. Aquí $r = \\sqrt[3]{54/2} = 3$.",
       "difficulty": "8",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "Incorrecto. Esta es la media aritmética para sucesiones aritméticas."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$b = \\sqrt{a \\cdot c}$",
           "is_correct": true,
           "feedback": "Correcto. En una sucesión geométrica, cada término es la media geométrica de sus términos adyacentes ($b/a = c/b \\Rightarrow b^2 = ac$)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$b = c - a$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta relación no define un crecimiento proporcional."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$b = a^2 \\cdot c^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Relación inconsistente con el factor de razón común."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El término central de tres términos consecutivos en una progresión geométrica es igual a la raíz cuadrada del producto de los extremos.",
       "difficulty": "8",
       "images": [],
@@ -784,25 +784,25 @@
           "feedback": "Incorrecto. La suma no alcanza el valor de 2 unidades."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "1",
           "is_correct": true,
           "feedback": "Correcto. $a_1 = 2/3, r = 1/3$. $S = \\frac{2/3}{1 - 1/3} = \\frac{2/3}{2/3} = 1$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1.5",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la resta de fracciones del denominador."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "0.5",
           "is_correct": false,
           "feedback": "Incorrecto. Resultado insuficiente basado en la suma de los primeros términos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La serie converge a 1, demostrando cómo una suma infinita de partes cada vez más pequeñas puede resultar en una unidad entera.",
       "difficulty": "10",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Incorrecto. Daría 6, 9, 15, cuya razón no es constante (1.5 vs 1.66)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "3",
           "is_correct": true,
           "feedback": "Correcto. $\\frac{x+3}{x} = \\frac{x+9}{x+3} \\Rightarrow (x+3)^2 = x(x+9) \\Rightarrow x^2 + 6x + 9 = x^2 + 9x \\Rightarrow 9 = 3x \\Rightarrow x = 3$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "9",
           "is_correct": false,
           "feedback": "Incorrecto. Daría 9, 12, 18, razón no constante."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. La división por cero no está definida para la razón."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Igualamos las razones entre términos consecutivos para formar una ecuación cuadrática que se simplifica a lineal.",
       "difficulty": "10",
       "images": [],

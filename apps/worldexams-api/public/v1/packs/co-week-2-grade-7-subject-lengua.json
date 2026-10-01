@@ -19,25 +19,25 @@
           "feedback": "Incorrecto. El autor es la persona real que escribe, pero el que cuenta la historia dentro del texto es el narrador."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "El narrador",
           "is_correct": true,
           "feedback": "¡Correcto! El narrador es la voz ficticia creada por el autor para relatar los acontecimientos de la obra."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El protagonista",
           "is_correct": false,
           "feedback": "Incorrecto. El protagonista realiza las acciones, pero no siempre es quien cuenta la historia."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El público",
           "is_correct": false,
           "feedback": "Incorrecto. El público es quien recibe la obra, no quien la narra."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El narrador es un elemento interno fundamental del texto narrativo. Puede estar en primera persona (si participa en los hechos) o en tercera persona (si observa desde fuera). Es distinto del autor, quien es el ser humano real fuera de la ficción.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -65,13 +65,13 @@
           "feedback": "Incorrecto. Ambos pueden ser reales o fantásticos; la diferencia es de extensión y complejidad."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El cuento es breve y tiene una sola trama principal; la novela es extensa y permite varias tramas secundarias.",
           "is_correct": true,
           "feedback": "¡Correcto! La extensión y la complejidad de los personajes y el tiempo son los rasgos distintivos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El cuento no tiene personajes y la novela sí.",
           "is_correct": false,
           "feedback": "Incorrecto. Ambos necesitan personajes para que ocurra la acción."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. La forma de lectura no define el subgénero literario."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El cuento se caracteriza por su brevedad y por producir un efecto único en el lector, centrándose en un conflicto principal. La novela, al ser más larga, permite desarrollar profundamente la psicología de los personajes y describir con mayor detalle el ambiente.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -111,25 +111,25 @@
           "feedback": "Incorrecto. El narrador omnisciente habla en tercera persona y sabe lo que todos sienten; aquí se habla en primera persona."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Narrador protagonista",
           "is_correct": true,
           "feedback": "¡Correcto! El uso de la primera persona (\"Yo no sabía\", \"Caminaba\") indica que el narrador es quien vive la historia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Narrador testigo",
           "is_correct": false,
           "feedback": "Incorrecto. El testigo cuenta lo que le pasa a otros desde dentro, pero aquí el narrador habla de su propia experiencia."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Narrador en segunda persona",
           "is_correct": false,
           "feedback": "Incorrecto. La segunda persona se dirige al lector como \"tú\", lo cual no ocurre aquí."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El narrador protagonista cuenta su propia historia. Esto genera una sensación de mayor cercanía y subjetividad, ya que el lector solo conoce los hechos a través de los ojos y sentimientos de quien los está viviendo.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -157,13 +157,13 @@
           "feedback": "Incorrecto. En el inicio se presentan los personajes y el ambiente, pero aún no hay tensión máxima."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Desenlace",
           "is_correct": false,
           "feedback": "Incorrecto. El desenlace es la resolución final del conflicto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Nudo o clímax",
           "is_correct": true,
           "feedback": "¡Correcto! El nudo contiene el desarrollo del problema, y el clímax es el momento de mayor intensidad emocional o de acción."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. El epílogo es una sección final que ocurre después de que la historia principal ha terminado."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La estructura clásica de la narración (inicio, nudo y desenlace) ayuda a organizar la trama. El nudo es la parte más extensa donde los personajes intentan resolver el problema que surgió, llevando la historia hacia el clímax.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -203,25 +203,25 @@
           "feedback": "Incorrecto. Usan un lenguaje simbólico, fantástico y popular."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Tienen un origen oral y forman parte de la identidad cultural de un pueblo.",
           "is_correct": true,
           "feedback": "¡Correcto! Se transmiten de voz en voz antes de ser fijados por la escritura."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sus autores son siempre famosos escritores contemporáneos.",
           "is_correct": false,
           "feedback": "Incorrecto. Suelen ser anónimos o de autoría colectiva a lo largo del tiempo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Solo se pueden contar durante las noches de luna llena.",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque el ambiente influye, no es una regla del género literario."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El mito busca explicar el origen del mundo o de fenómenos naturales mediante dioses o héroes; la leyenda parte de un hecho posiblemente real pero enriquecido con elementos fantásticos. Ambos son pilares de la narrativa popular colombiana.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -249,25 +249,25 @@
           "feedback": "Incorrecto. Un narrador limitado no sabría lo que pasa en dos ciudades distintas al tiempo ni los planes secretos."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Es un narrador omnisciente porque conoce los pensamientos y acciones de todos los personajes en diferentes lugares.",
           "is_correct": true,
           "feedback": "¡Correcto! La omnisciencia significa \"que lo sabe todo\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es el hermano de Juan contando su plan.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto usa la tercera persona (\"su hermano planeaba\"), no la primera (\"yo planeaba\")."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es un personaje secundario que está espiando a Juan.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay marcas de que el narrador sea un personaje dentro de la historia."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El narrador omnisciente es como un \"dios\" de la historia. No participa en ella pero conoce el pasado, el futuro y la mente de todos los personajes. Es el narrador más común en la novela clásica realista del siglo XIX.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En el estudio del tiempo narrativo, se diferencia entre el tiempo en que ocurren los hechos y el orden en que se cuentan.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Tiempo lineal o cronológico",
           "is_correct": false,
           "feedback": "Incorrecto. El tiempo lineal sigue el orden natural: primero-después-final."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Simultaneidad",
           "is_correct": false,
           "feedback": "Incorrecto. La simultaneidad es contar dos cosas que pasan al mismo tiempo."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Flashback o analepsis",
           "is_correct": true,
           "feedback": "¡Correcto! Es un salto hacia atrás en el tiempo de la historia."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. La premonición es ver el futuro, no volver al pasado."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Los autores juegan con el tiempo para generar suspenso o interés. Empezar \"in media res\" (en medio de la acción) o usar saltos al pasado (analepsis) son recursos comunes para romper la monotonía del relato cronológico.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -341,13 +341,13 @@
           "feedback": "Incorrecto. Los personajes planos no cambian y tienen rasgos muy simples."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Personaje redondo o dinámico",
           "is_correct": true,
           "feedback": "¡Correcto! Son complejos y muestran cambios significativos en su personalidad o valores."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Personaje antagonista",
           "is_correct": false,
           "feedback": "Incorrecto. El antagonista es quien se opone al protagonista, independientemente de si cambia o no."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. La importancia en la trama (primario/secundario) es distinta a su complejidad (plano/redondo)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La complejidad de los personajes es clave en las novelas modernas. Un personaje redondo es más realista porque, al igual que las personas en la vida real, se ve afectado por las experiencias que vive durante la historia.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -433,13 +433,13 @@
           "feedback": "Incorrecto. La calidad no depende de la facilidad para memorizar."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Porque logra sugerir toda una historia (personaje, acción, conflicto y ambiente) dejando que el lector la complete.",
           "is_correct": true,
           "feedback": "¡Correcto! La capacidad de síntesis y sugerencia es el arte del microrrelato."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque los dinosaurios son temas que siempre gustan a los niños.",
           "is_correct": false,
           "feedback": "Incorrecto. El valor literario reside en la técnica narrativa, no solo en el tema."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. Cada subgénero (novela, cuento, microcuento) tiene su propio valor y técnica."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El microrrelato es un subgénero narrativo moderno que exige una gran precisión. En el ejemplo de Monterroso, el lector debe imaginar quién despertó, dónde estaba y por qué es sorprendente que el dinosaurio siguiera allí. Demuestra que la esencia de la narrativa es la capacidad de evocar mundos.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
       "difficulty": "10",
       "images": [],

@@ -58,13 +58,13 @@
       "context": "Se explica la definición de valor absoluto en una clase de álgebra en Barcelona.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El doble del número $a$.",
           "is_correct": false,
           "feedback": "No existe tal relación directa."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La distancia del número $a$ al origen (cero) en la recta real.",
           "is_correct": true,
           "feedback": "Correcto. Por definición, la distancia siempre es no negativa."
@@ -82,7 +82,7 @@
           "feedback": "El recíproco es $1/a$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El valor absoluto $|a|$ mide la magnitud del número sin tener en cuenta su signo. Geométricamente, representa cuántas unidades de distancia separan al punto $a$ del punto $0$ en la recta numérica.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -109,25 +109,25 @@
           "feedback": "Error al despejar los términos."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$x < 5$",
           "is_correct": true,
           "feedback": "Correcto. $2x < 10 \\Rightarrow x < 5$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x > 5$",
           "is_correct": false,
           "feedback": "Se ha cambiado el sentido de la desigualdad sin motivo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x < 2$",
           "is_correct": false,
           "feedback": "Error de cálculo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Para resolver inecuaciones lineales, aplicamos pasos similares a las ecuaciones: aislamos la $x$ realizando operaciones inversas en ambos miembros, manteniendo el sentido de la desigualdad si multiplicamos/dividimos por números positivos.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -160,19 +160,19 @@
           "feedback": "Ambos extremos deberían ser cerrados."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$[-2, 3)$",
           "is_correct": true,
           "feedback": "Correcto. El corchete indica que incluye el -2 (menor o igual) y el paréntesis excluye al 3 (estrictamente menor)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(-2, 3]$",
           "is_correct": false,
           "feedback": "El -2 debería ser cerrado y el 3 abierto."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La notación de intervalos usa corchetes $[ \\ ]$ para extremos incluidos (desigualdad débil) y paréntesis $( \\ )$ para extremos excluidos (desigualdad fuerte).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -250,19 +250,19 @@
           "feedback": "Solo considera un límite inferior."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$-4 < x < 4$",
           "is_correct": true,
           "feedback": "Correcto. El valor absoluto menor que una constante define un intervalo centrado en el origen."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x < -4$ o $x > 4$",
           "is_correct": false,
           "feedback": "Esto representaría $|x| > 4$."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La inecuación $|x| < k$ (con $k > 0$) equivale al intervalo abierto $(-k, k)$. Representa a todos los puntos cuya distancia al cero es menor que $k$ unidades.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Falta el límite inferior."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$[-2, 2]$",
           "is_correct": true,
           "feedback": "Correcto. Las raíces son -2 y 2. Entre ellas, la parábola es negativa o cero."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(-\\infty, -2] \\cup [2, \\infty)$",
           "is_correct": false,
           "feedback": "En estos intervalos la expresión es positiva."
@@ -307,7 +307,7 @@
           "feedback": "Error al identificar las raíces."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para inecuaciones cuadráticas, hallamos las raíces del polinomio y estudiamos el signo en los intervalos resultantes. Como la parábola $x^2-4$ abre hacia arriba, los valores negativos se encuentran entre las dos raíces.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,25 +334,25 @@
           "feedback": "El 1 debe ser abierto."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$(1, 5]$",
           "is_correct": true,
           "feedback": "Correcto. Es la intersección de ambos conjuntos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(1, 5)$",
           "is_correct": false,
           "feedback": "El 5 debe ser cerrado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No tiene solución.",
           "is_correct": false,
           "feedback": "Los intervalos se solapan, por lo que sí hay solución."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La solución de un sistema de inecuaciones es la intersección de las soluciones individuales. Es el conjunto de puntos que satisfacen TODAS las condiciones a la vez.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,25 +379,25 @@
           "feedback": "Falta la solución para el caso negativo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$x = 8$ y $x = -2$",
           "is_correct": true,
           "feedback": "Correcto. $x-3=5 \\Rightarrow x=8$; $x-3=-5 \\Rightarrow x=-2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 2$ y $x = -8$",
           "is_correct": false,
           "feedback": "Error de signos en el despeje."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 5$ y $x = 3$",
           "is_correct": false,
           "feedback": "Valores que no satisfacen la igualdad."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La ecuación $|A| = b$ se divide en dos casos: $A = b$ o $A = -b$. Resolvemos ambas ecuaciones lineales para obtener los dos posibles valores de $x$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -559,25 +559,25 @@
           "feedback": "Esta es la solución para la desigualdad menor o igual."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$(-\\infty, -4] \\cup [2, \\infty)$",
           "is_correct": true,
           "feedback": "Correcto. $x+1 \\geq 3 \\Rightarrow x \\geq 2$ o $x+1 \\leq -3 \\Rightarrow x \\leq -4$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$[2, \\infty)$",
           "is_correct": false,
           "feedback": "Falta la rama negativa de la solución."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No tiene solución.",
           "is_correct": false,
           "feedback": "Los valores alejados del centro sí cumplen la condición."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La inecuación $|A| \\geq k$ se descompone en la unión de dos intervalos: $A \\geq k$ o $A \\leq -k$. Representa los puntos que están \"lejos\" del centro.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,25 +604,25 @@
           "feedback": "Falta el intervalo donde ambos términos son negativos."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$(-\\infty, -2) \\cup (1, \\infty)$",
           "is_correct": true,
           "feedback": "Correcto. El cociente es positivo si ambos tienen el mismo signo (ambos + o ambos -)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(-2, 1)$",
           "is_correct": false,
           "feedback": "En este intervalo los signos son distintos, por lo que el cociente es negativo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x \\neq -2$",
           "is_correct": false,
           "feedback": "Esto solo asegura que la expresión esté definida, no que sea positiva."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Para inecuaciones racionales, marcamos los puntos donde se anulan el numerador (1) y el denominador (-2). Estudiamos el signo del cociente en los tres intervalos resultantes. El cociente es positivo donde numerador y denominador coinciden en signo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Se plantea una inecuación de grado superior mediante factorización.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x > 3$",
           "is_correct": false,
           "feedback": "Falta el intervalo intermedio donde el producto vuelve a ser positivo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(1, 2) \\cup (3, \\infty)$",
           "is_correct": true,
           "feedback": "Correcto. Analizando los signos en los intervalos $(-\\infty,1), (1,2), (2,3), (3,\\infty)$."
@@ -802,7 +802,7 @@
           "feedback": "El producto alterna su signo en cada raíz."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Para inecuaciones polinómicas de grado $>2$, usamos el método de los intervalos (o cementerio de signos). Las raíces dividen la recta en zonas donde el signo es constante. Como todas las raíces son simples, el signo cambia en cada una de ellas.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Falso para $|x| > 1$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\sqrt{x^2} = x$",
           "is_correct": false,
           "feedback": "Solo es cierto si x es no negativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\sqrt{x^2} = |x|$",
           "is_correct": true,
           "feedback": "Correcto. El resultado de la raíz cuadrada principal es siempre la magnitud no negativa del número."
@@ -847,7 +847,7 @@
           "feedback": "El cuadrado de una magnitud real nunca es negativo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Esta es una identidad fundamental en análisis: la raíz cuadrada del cuadrado de un número no devuelve el número original (si este era negativo), sino su valor absoluto. Es una fuente común de errores en la resolución de ecuaciones.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -874,13 +874,13 @@
           "feedback": "Falta la parte simétrica negativa."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$[-3, -1] \\cup [1, 3]$",
           "is_correct": true,
           "feedback": "Correcto. $-1 \\leq |x| - 2 \\leq 1 \\Rightarrow 1 \\leq |x| \\leq 3$. Esto da dos intervalos simétricos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$[-1, 1]$",
           "is_correct": false,
           "feedback": "Valor incorrecto."
@@ -892,7 +892,7 @@
           "feedback": "Los valores de x con magnitud entre 1 y 3 satisfacen la condición."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Resolvemos de fuera hacia adentro. La primera desigualdad implica que el interior $|x|-2$ está entre -1 y 1. Despejando $|x|$, vemos que su valor debe estar entre 1 y 3, lo que genera dos zonas en la recta real.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
       "difficulty": "10",
       "images": [],

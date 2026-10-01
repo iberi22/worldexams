@@ -13,19 +13,19 @@
       "context": "En Medellín, los estudiantes dibujan un triángulo y un cuadrilátero para comparar sus ángulos internos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El triángulo suma 180° y el cuadrilátero suma 360°.",
           "is_correct": true,
           "feedback": "Correcto. Son los dos resultados básicos que se memorizan primero."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El triángulo suma 360° y el cuadrilátero suma 180°.",
           "is_correct": false,
           "feedback": "Incorrecto. Los valores están intercambiados."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambos suman 180°.",
           "is_correct": false,
           "feedback": "Incorrecto. El cuadrilátero equivale a dos triángulos, por eso suma 360°."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. 540° es la suma de los ángulos de un pentágono."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La suma de los ángulos internos de un triángulo es 180°. Un cuadrilátero se divide con una diagonal en dos triángulos, por eso su suma es 2 × 180° = 360°.",
       "difficulty": "4",
       "images": [],
@@ -111,13 +111,13 @@
           "feedback": "Incorrecto. Esa es la suma del cuadrilátero, no del pentágono."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "720°",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es la suma del hexágono, no del pentágono."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "540°",
           "is_correct": true,
           "feedback": "Correcto. Se aplica (5 − 2) × 180° = 3 × 180° = 540°."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Esa es la suma del triángulo, no del pentágono."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Para n = 5, la fórmula da S = (5 − 2) × 180° = 3 × 180° = 540°. El pentágono se divide en 3 triángulos desde un vértice.",
       "difficulty": "4",
       "images": [],
@@ -249,13 +249,13 @@
           "feedback": "Incorrecto. 1.260° es la suma del nonágono, no del decágono."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Suma 1.440° y costo 3.500.000 COP.",
           "is_correct": true,
           "feedback": "Correcto. S = (10 − 2) × 180° = 1.440° y 10 por 350.000 = 3.500.000 COP."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Suma 1.440° y costo 350.000 COP.",
           "is_correct": false,
           "feedback": "Incorrecto. La suma es correcta, pero el costo debe multiplicarse por los 10 vértices."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. 1.800° es la suma del dodecágono, no del decágono."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para n = 10: S = (10 − 2) × 180° = 8 × 180° = 1.440°. El costo total es 10 × 350.000 = 3.500.000 COP, pues cada uno de los 10 vértices lleva decoración.",
       "difficulty": "6",
       "images": [],
@@ -295,25 +295,25 @@
           "feedback": "Incorrecto. 95 + 85 + 110 + 90 = 380, que supera los 360° del cuadrilátero."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "70°",
           "is_correct": true,
           "feedback": "Correcto. Los tres ángulos suman 290° y 360° − 290° = 70°."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "110°",
           "is_correct": false,
           "feedback": "Incorrecto. Con ese valor la suma sería 400°, mayor que 360°."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "80°",
           "is_correct": false,
           "feedback": "Incorrecto. Con ese valor la suma sería 370°, mayor que 360°."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La suma de un cuadrilátero es 360°. Los ángulos conocidos suman 95 + 85 + 110 = 290°. Por tanto, el ángulo faltante es 360 − 290 = 70°.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "En Pereira, un pentágono tiene cuatro ángulos conocidos: 100°, 120°, 95° y 115°. Se necesita el quinto para cortar la pieza en madera.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "110°",
           "is_correct": true,
           "feedback": "Correcto. Los cuatro ángulos suman 430° y 540° − 430° = 110°."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "100°",
           "is_correct": false,
           "feedback": "Incorrecto. Con ese valor la suma sería 530°, menor que 540°."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Con ese valor la suma sería 520°, menor que 540°."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La suma del pentágono es 540°. Los ángulos conocidos suman 100 + 120 + 95 + 115 = 430°. El ángulo faltante es 540 − 430 = 110°.",
       "difficulty": "8",
       "images": [],
@@ -387,13 +387,13 @@
           "feedback": "Incorrecto. El ángulo depende del número de lados; 120° solo corresponde al hexágono."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Confunde el hexágono con el pentágono: cada ángulo del pentágono regular mide 108°.",
           "is_correct": true,
           "feedback": "Correcto. La suma 540° dividida entre 5 da 108°, no 120°."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El error es la suma: el pentágono suma 720° y cada ángulo mide 144°.",
           "is_correct": false,
           "feedback": "Incorrecto. 720° es la suma del hexágono, no del pentágono."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. 90° es el ángulo del cuadrado, no del pentágono."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Cada polígono regular tiene su propio ángulo interno: se calcula como (n − 2) × 180° / n. Para el pentágono es 540° / 5 = 108°. El valor 120° corresponde al hexágono regular (720° / 6).",
       "difficulty": "8",
       "images": [],
@@ -433,25 +433,25 @@
           "feedback": "Incorrecto. El octágono suma 1.080°, no 1.260°."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "9 lados y cada ángulo 140°.",
           "is_correct": true,
           "feedback": "Correcto. Al resolver (n − 2) × 180 = 1.260 se obtiene n = 9 y 1.260 / 9 = 140."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "9 lados y cada ángulo 135°.",
           "is_correct": false,
           "feedback": "Incorrecto. El número de lados es correcto, pero 1.260 / 9 = 140, no 135."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "10 lados y cada ángulo 144°.",
           "is_correct": false,
           "feedback": "Incorrecto. El decágono suma 1.440°, no 1.260°."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Se despeja n de la fórmula: (n − 2) × 180 = 1.260, luego n − 2 = 7 y n = 9. Es un nonágono. Si fuera regular, cada ángulo mediría 1.260° / 9 = 140°.",
       "difficulty": "10",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "En Villavicencio, un dodecágono regular se usará como base de un kiosco. Cada lado mide 2 metros.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Cada ángulo 140° y perímetro 20 metros.",
           "is_correct": false,
           "feedback": "Incorrecto. 140° es el ángulo del nonágono y el perímetro de 12 lados de 2 m es 24 m."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Cada ángulo 150° y perímetro 24 metros.",
           "is_correct": true,
           "feedback": "Correcto. S = (12 − 2) × 180° = 1.800°, 1.800° / 12 = 150° y 12 × 2 = 24 m."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. 1.800° es la suma total, no la medida de cada ángulo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Para n = 12: S = 10 × 180° = 1.800° y cada ángulo mide 1.800° / 12 = 150°. El perímetro es la suma de los 12 lados: 12 × 2 = 24 metros.",
       "difficulty": "10",
       "images": [],
@@ -525,25 +525,25 @@
           "feedback": "Incorrecto. El hexágono suma 720°, no 360°."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Es falsa: el triángulo suma 180° y el hexágono suma 720°, que es cuatro veces 180°.",
           "is_correct": true,
           "feedback": "Correcto. La fórmula (n − 2) × 180° no es proporcional a n por el término −2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es verdadera: toda suma de ángulos se duplica al duplicar los lados.",
           "is_correct": false,
           "feedback": "Incorrecto. La relación no es de proporcionalidad directa por el −2 de la fórmula."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es falsa: el hexágono suma lo mismo que el triángulo, 180°.",
           "is_correct": false,
           "feedback": "Incorrecto. El hexágono suma 720°, mucho más que el triángulo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La suma S = (n − 2) × 180° crece linealmente con n, pero no es proporcional a n por el término independiente −2. Del triángulo (n = 3, S = 180°) al hexágono (n = 6, S = 720°) los lados se duplican pero la suma se cuadruplica. Por tanto, la afirmación es falsa.",
       "difficulty": "10",
       "images": [],

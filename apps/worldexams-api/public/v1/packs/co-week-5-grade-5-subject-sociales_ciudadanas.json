@@ -13,13 +13,13 @@
       "context": "En una clase de sociales en Sogamoso, la profesora explica cómo se organiza el gobierno del municipio donde viven los estudiantes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El alcalde.",
           "is_correct": true,
           "feedback": "El alcalde es la primera autoridad ejecutiva del municipio en Colombia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El presidente de la República.",
           "is_correct": false,
           "feedback": "El presidente dirige la nación, no un municipio específico."
@@ -37,7 +37,7 @@
           "feedback": "El director de la escuela dirige una institución educativa, no el municipio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Identificar al alcalde como la primera autoridad del gobierno municipal en Colombia.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "Un grupo de estudiantes de Pereira investiga qué hace el alcalde de su ciudad cada año.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Dirigir la administración del municipio, ejecutar el plan de desarrollo y velar por el bienestar de los ciudadanos.",
           "is_correct": true,
           "feedback": "El alcalde ejecuta políticas, dirige la administración y representa al municipio."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Juzgar a los ciudadanos que cometen delitos graves.",
           "is_correct": false,
           "feedback": "Juzgar corresponde a la rama judicial, no al alcalde."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Crear leyes nacionales para todo el país.",
           "is_correct": false,
           "feedback": "Las leyes nacionales las aprueba el Congreso, no el alcalde."
@@ -129,7 +129,7 @@
           "feedback": "La elección presidencial corresponde a los ciudadanos en las urnas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Reconocer las funciones ejecutivas del alcalde en el gobierno municipal.",
       "difficulty": "6",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "Lee: \"En Colombia existen 32 departamentos y cada uno se divide en municipios. Los municipios son la entidad territorial más cercana a los ciudadanos.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El municipio.",
           "is_correct": true,
           "feedback": "El municipio es la unidad territorial más cercana a la vida diaria de la gente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El departamento.",
           "is_correct": false,
           "feedback": "El departamento agrupa varios municipios y está más lejos de la vida cotidiana."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La nación.",
           "is_correct": false,
           "feedback": "La nación abarca todo el país y está muy lejos del ciudadano del común."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La Organización de las Naciones Unidas.",
           "is_correct": false,
           "feedback": "La ONU es una organización internacional, no una entidad territorial nacional."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Identificar el municipio como la entidad territorial más cercana a los ciudadanos en Colombia.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Compara: \"En el municipio A, el alcalde escucha a la comunidad y rinde cuentas cada año. En el municipio B, el alcalde toma decisiones sin consultar y nunca informa sus avances.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El municipio A practica la participación y la rendición de cuentas; el B gobierna de forma cerrada.",
           "is_correct": true,
           "feedback": "La diferencia clave es la apertura a la comunidad y la transparencia con la ciudadanía."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los dos alcaldes gobiernan exactamente igual porque tienen el mismo cargo.",
           "is_correct": false,
           "feedback": "Aunque tienen el mismo cargo, su estilo de gobierno y su relación con la comunidad difieren."
@@ -267,7 +267,7 @@
           "feedback": "La rendición de cuentas es una obligación clave de los mandatarios locales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Comparar estilos de gobierno municipal para distinguir prácticas democráticas y cerradas.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "Lee: 'Una democracia local sólida depende de la participación activa de los ciudadanos y de la transparencia de los gobernantes. Votar, controlar la gestión pública y proponer soluciones fortalece al municipio.'",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Porque permite que los ciudadanos controlen a sus gobernantes y propongan soluciones a los problemas locales.",
           "is_correct": true,
           "feedback": "La participación hace que el gobierno responda a las necesidades reales de la gente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque los ciudadanos no necesitan intervenir en los asuntos públicos.",
           "is_correct": false,
           "feedback": "Sin participación ciudadana, el gobierno pierde cercanía con la comunidad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque la participación solo sirve para protestar en la calle sin construir propuestas.",
           "is_correct": false,
           "feedback": "La participación incluye propuestas y diálogo, no solo protesta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque el alcalde decide todo sin necesidad de escuchar a la comunidad.",
           "is_correct": false,
           "feedback": "Escuchar a la comunidad es parte esencial del gobierno democrático."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluar el papel de la participación ciudadana en la calidad de la democracia municipal.",
       "difficulty": "10",
       "images": [],

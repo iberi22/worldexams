@@ -58,31 +58,31 @@
       "context": "En Cochabamba, el estudiante Roxana del Unidad Educativa Don Bosco analiza un problema sobre estructura de la materia y enlace químico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Isótopos",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a átomos del mismo elemento con igual número de protones pero diferente número de neutrones."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Isóbaros",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Isótonos",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de estructura de la materia y enlace químico."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Isómeros",
           "is_correct": false,
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La respuesta correcta es Isótopos. Científicamente, esto se explica por la diferencia en masa atómica manteniendo idénticas propiedades químicas elementales. Lo cual es fundamental para comprender estructura de la materia y enlace químico.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,31 +103,31 @@
       "context": "En Santa Cruz, el estudiante Jhonny del Colegio Bolívar analiza un problema sobre estructura de la materia y enlace químico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Los electrones de valencia",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a electrones situados en el último nivel de energía celular encargados de formar los enlaces químicos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Los electrones internos",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los protones nucleares",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de estructura de la materia y enlace químico."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Los neutrones estables",
           "is_correct": false,
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La respuesta correcta es Los electrones de valencia. Científicamente, esto se explica por la determinación de la reactividad y el comportamiento de combinación del átomo. Lo cual es fundamental para comprender estructura de la materia y enlace químico.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "En El Alto, el estudiante Marisol del Colegio San Simón analiza un problema sobre estructura de la materia y enlace químico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La electronegatividad",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a capacidad de un átomo en una molécula para atraer hacia sí los electrones de enlace compartidos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La energía de ionización",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La respuesta correcta es La electronegatividad. Científicamente, esto se explica por la tendencia periódica definida por Pauling que aumenta hacia la derecha y arriba en la tabla. Lo cual es fundamental para comprender estructura de la materia y enlace químico.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín analiza un problema sobre estructura de la materia y enlace químico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El enlace iónico",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a enlace químico formado por la transferencia completa de electrones entre un metal y un no metal."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El enlace covalente",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La respuesta correcta es El enlace iónico. Científicamente, esto se explica por la atracción electrostática entre cationes y aniones organizados en una red cristalina rígida. Lo cual es fundamental para comprender estructura de la materia y enlace químico.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,19 +238,19 @@
       "context": "En Potosí, el estudiante Ronald del Unidad Educativa Juan Pablo II analiza un problema sobre estructura de la materia y enlace químico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El enlace covalente",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a tipo de enlace caracterizado por la compartición equitativa o desigual de pares de electrones entre no metales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El enlace iónico",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El enlace metálico",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de estructura de la materia y enlace químico."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La respuesta correcta es El enlace covalente. Científicamente, esto se explica por la superposición de orbitales atómicos para alcanzar la configuración estable de gas noble. Lo cual es fundamental para comprender estructura de la materia y enlace químico.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,31 +283,31 @@
       "context": "En Oruro, el estudiante Limbert del Colegio San Calixto analiza un problema sobre estructura de la materia y enlace químico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Enlace covalente polar",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a enlace covalente donde existe una diferencia moderada de electronegatividad, generando dipolos eléctricos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Enlace covalente apolar",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Enlace iónico puro",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de estructura de la materia y enlace químico."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Enlace de coordinación dativo",
           "is_correct": false,
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La respuesta correcta es Enlace covalente polar. Científicamente, esto se explica por la distribución asimétrica de la densidad electrónica alrededor de los núcleos atómicos. Lo cual es fundamental para comprender estructura de la materia y enlace químico.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "En Tarija, el estudiante Shirley del Colegio Nacional Pichincha analiza un problema sobre estructura de la materia y enlace químico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El enlace metálico",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a enlace donde los electrones de valencia se deslocalizan formando una nube o mar de electrones libre."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El enlace covalente",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La respuesta correcta es El enlace metálico. Científicamente, esto se explica por la alta conductividad eléctrica y térmica característica de los metales sólidos. Lo cual es fundamental para comprender estructura de la materia y enlace químico.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,31 +373,31 @@
       "context": "En Trinidad, el estudiante Boris del Colegio Antonio Vaca Díez analiza un problema sobre estructura de la materia y enlace químico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La regla del octeto",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a los átomos tienden a ganar, perder o compartir electrones para completar ocho en su capa de valencia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La regla de hund",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El principio de exclusión de pauli",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de estructura de la materia y enlace químico."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La ley de conservación de masa",
           "is_correct": false,
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La respuesta correcta es La regla del octeto. Científicamente, esto se explica por la búsqueda de la estabilidad electrónica equivalente a la estructura de un gas noble. Lo cual es fundamental para comprender estructura de la materia y enlace químico.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,19 +463,19 @@
       "context": "En Tupiza, el estudiante Nancy del Colegio Nacional Ayacucho analiza un problema sobre estructura de la materia y enlace químico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Puentes de hidrógeno",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a fuerza intermolecular fuerte que mantiene unidas las moléculas de agua líquida elevando su punto de ebullición."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Fuerzas dipolo-dipolo",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fuerzas de dispersión de london",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de estructura de la materia y enlace químico."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La respuesta correcta es Puentes de hidrógeno. Científicamente, esto se explica por la atracción electrostática entre un hidrógeno unido a F, O o N y el par libre de otro átomo electronegativo. Lo cual es fundamental para comprender estructura de la materia y enlace químico.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,31 +508,31 @@
       "context": "En Uyuni, el estudiante Edwin del Unidad Educativa Don Bosco analiza un problema sobre estructura de la materia y enlace químico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El radio atómico disminuye",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a tendencia periódica observada al avanzar de izquierda a derecha a lo largo de un período en la tabla."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El radio atómico aumenta",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La electronegatividad disminuye",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de estructura de la materia y enlace químico."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El radio iónico se mantiene",
           "is_correct": false,
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La respuesta correcta es El radio atómico disminuye. Científicamente, esto se explica por el aumento de la carga nuclear efectiva que atrae con mayor fuerza a los electrones externos. Lo cual es fundamental para comprender estructura de la materia y enlace químico.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,31 +598,31 @@
       "context": "En Quillacollo, el estudiante Freddy del Colegio San Simón analiza un problema sobre estructura de la materia y enlace químico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Excepciones a la regla del octeto",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a el trifluoruro de boro (BF3) es un ejemplo de octeto incompleto con solo seis electrones de valencia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Octetos perfectos",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Geometrías moleculares simples",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de estructura de la materia y enlace químico."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Enlaces iónicos puros",
           "is_correct": false,
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La respuesta correcta es Excepciones a la regla del octeto. Científicamente, esto se explica por la estabilidad química alcanzada por ciertos elementos con menos o más de ocho electrones externos. Lo cual es fundamental para comprender estructura de la materia y enlace químico.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "En Sacaba, el estudiante René del Colegio Nacional Junín analiza un problema sobre estructura de la materia y enlace químico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Alta tensión superficial del agua",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a propiedad del agua debida a la cohesión de sus moléculas mediante abundantes puentes de hidrógeno."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Baja densidad del hielo",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La respuesta correcta es Alta tensión superficial del agua. Científicamente, esto se explica por la resistencia que ofrece la superficie del agua líquida a ser penetrada o rota mecánicamente. Lo cual es fundamental para comprender estructura de la materia y enlace químico.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "En Montero, el estudiante Lidia del Unidad Educativa Juan Pablo II analiza un problema sobre estructura de la materia y enlace químico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La teoría de repulsión de pares electrónicos (vsepr)",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a teoría que predice la geometría molecular basándose en la repulsión de los pares de electrones externos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La teoría del enlace de valencia",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La teoría de orbitales moleculares",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de estructura de la materia y enlace químico."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La respuesta correcta es La teoría de repulsión de pares electrónicos (vsepr). Científicamente, esto se explica por la adopción de ángulos de enlace específicos para minimizar la energía de repulsión electrostática. Lo cual es fundamental para comprender estructura de la materia y enlace químico.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,31 +733,31 @@
       "context": "En Riberalta, el estudiante Edwin del Colegio San Calixto analiza un problema sobre estructura de la materia y enlace químico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Hibridación sp3",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a hibridación del átomo de Carbono en el metano (CH4) que adopta una geometría molecular tetraédrica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Hibridación sp2",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Hibridación sp",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de estructura de la materia y enlace químico."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Hibridación dsp2",
           "is_correct": false,
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La respuesta correcta es Hibridación sp3. Científicamente, esto se explica por la mezcla de un orbital s y tres orbitales p para formar cuatro orbitales híbridos equivalentes. Lo cual es fundamental para comprender estructura de la materia y enlace químico.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,31 +778,31 @@
       "context": "En Warnes, el estudiante Marcelo del Colegio Nacional Pichincha analiza un problema sobre estructura de la materia y enlace químico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Geometría angular (agua)",
           "is_correct": true,
           "feedback": "Excelente. Esta es la respuesta correcta ya que corresponde precisamente a geometría molecular de la molécula de agua debido a la presencia de dos pares de electrones no enlazantes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Geometría lineal (co2)",
           "is_correct": false,
           "feedback": "Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Geometría piramidal (amoniaco)",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde con la descripción dada. Revisa la teoría de estructura de la materia y enlace químico."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Geometría trigonal plana",
           "is_correct": false,
           "feedback": "Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La respuesta correcta es Geometría angular (agua). Científicamente, esto se explica por la distorsión del ángulo de enlace original debido a la fuerte repulsión de los electrones libres. Lo cual es fundamental para comprender estructura de la materia y enlace químico.\n\n---",
       "difficulty": "10",
       "images": [],

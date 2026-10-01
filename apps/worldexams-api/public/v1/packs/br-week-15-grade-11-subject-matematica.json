@@ -13,13 +13,13 @@
       "context": "Um estudante em São Paulo revisa os elementos de uma pirâmide para o ENEM.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "4",
           "is_correct": false,
           "feedback": "Incorreto: 4 é o número de faces laterais."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5",
           "is_correct": true,
           "feedback": "Correto: 4 faces laterais triangulares + 1 base = 5 faces."
@@ -37,7 +37,7 @@
           "feedback": "Incorreto: 8 seria o número de arestas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Uma pirâmide de base quadrangular tem 4 faces laterais triangulares e 1 face da base, totalizando 5 faces.",
       "difficulty": "4",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "Durante uma aula em Curitiba, o professor pergunta a fórmula do volume de um cone.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "πr²h",
           "is_correct": false,
           "feedback": "Incorreto: essa é a fórmula do volume do cilindro."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "(1/3)πr²h",
           "is_correct": true,
           "feedback": "Correto: o volume do cone é um terço do volume do cilindro de mesma base e altura."
@@ -82,7 +82,7 @@
           "feedback": "Incorreto: essa expressão se relaciona à área lateral do cone."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "O volume do cone circular reto é V = (1/3) × área da base × altura = (1/3)πr²h.",
       "difficulty": "4",
       "images": [],
@@ -103,31 +103,31 @@
       "context": "Um arquiteto no Rio de Janeiro calcula o volume de uma pirâmide de base quadrada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "108 cm³",
           "is_correct": true,
           "feedback": "Correto: V = (1/3) × 36 × 9 = 108 cm³."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "324 cm³",
           "is_correct": false,
           "feedback": "Incorreto: 324 seria o volume de um prisma de mesma base e altura."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "54 cm³",
           "is_correct": false,
           "feedback": "Incorreto: 54 seria o volume se a altura fosse 4,5 cm."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "216 cm³",
           "is_correct": false,
           "feedback": "Incorreto: 216 seria o volume de um cubo de aresta 6."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "A área da base quadrada é 6² = 36 cm². O volume da pirâmide é V = (1/3) × 36 × 9 = 108 cm³.",
       "difficulty": "4",
       "images": [],
@@ -154,25 +154,25 @@
           "feedback": "Incorreto: a geratriz não é a soma do raio com a altura."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "g² = r² + h²",
           "is_correct": true,
           "feedback": "Correto: o triângulo formado por geratriz, raio e altura é retângulo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "g = r·h",
           "is_correct": false,
           "feedback": "Incorreto: g·h não tem relação com a geratriz."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "g² = r² − h²",
           "is_correct": false,
           "feedback": "Incorreto: o quadrado da geratriz é a soma, não a diferença."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "A geratriz, o raio da base e a altura do cone formam um triângulo retângulo, com a geratriz como hipotenusa: g² = r² + h².",
       "difficulty": "4",
       "images": [],
@@ -193,19 +193,19 @@
       "context": "Um estudante em Salvador analisa a área lateral de um cone.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "15π cm²",
           "is_correct": true,
           "feedback": "Correto: A_lat = πrg = π × 3 × 5 = 15π cm²."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "12π cm²",
           "is_correct": false,
           "feedback": "Incorreto: 12π seria πr² com r = 2√3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "20π cm²",
           "is_correct": false,
           "feedback": "Incorreto: 20π seria πg² com g = 2√5."
@@ -217,7 +217,7 @@
           "feedback": "Incorreto: 9π é a área da base."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "A área lateral do cone reto é A_lat = πrg, onde g é a geratriz. Assim, A_lat = π × 3 × 5 = 15π cm².",
       "difficulty": "6",
       "images": [],
@@ -289,25 +289,25 @@
           "feedback": "Incorreto: 24 seria o volume se a área da base fosse 18 m²."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "64 m³",
           "is_correct": true,
           "feedback": "Correto: V = (1/3) × 64 × 3 = 64 m³."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "192 m³",
           "is_correct": false,
           "feedback": "Incorreto: 192 seria o volume se o fator 1/3 não fosse aplicado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "32 m³",
           "is_correct": false,
           "feedback": "Incorreto: 32 seria o volume se o lado da base fosse 4√2."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "A área da base é 8² = 64 m². O volume é V = (1/3) × 64 × 3 = 64 m³.",
       "difficulty": "6",
       "images": [],
@@ -379,13 +379,13 @@
           "feedback": "Incorreto: 24 é apenas a área lateral."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "36 cm²",
           "is_correct": true,
           "feedback": "Correto: A_total = πr(r + g) = 3 × 2 × (2 + 4) = 36 cm²."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "48 cm²",
           "is_correct": false,
           "feedback": "Incorreto: 48 seria o dobro da área total correta."
@@ -397,7 +397,7 @@
           "feedback": "Incorreto: 12 é a área da base."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "A área total do cone é A = πr² + πrg = πr(r + g) = 3 × 2 × 6 = 36 cm².",
       "difficulty": "6",
       "images": [],
@@ -463,31 +463,31 @@
       "context": "Um arquiteto em Florianópolis calcula a área lateral de uma pirâmide regular de base quadrada.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "60 cm²",
           "is_correct": true,
           "feedback": "Correto: o apótema da face é √(4² + 3²) = 5 cm; cada face tem área (6 × 5)/2 = 15 cm²; total = 60 cm²."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "120 cm²",
           "is_correct": false,
           "feedback": "Incorreto: 120 seria o dobro da área lateral."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "48 cm²",
           "is_correct": false,
           "feedback": "Incorreto: 48 seria a área lateral de um prisma quadrado de altura 4."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "30 cm²",
           "is_correct": false,
           "feedback": "Incorreto: 30 é a área de apenas duas faces."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "O apótema da base é 3 cm (metade do lado). O apótema da face é m = √(4² + 3²) = 5 cm. Cada face triangular tem área (6 × 5)/2 = 15 cm², e a área lateral é 4 × 15 = 60 cm².",
       "difficulty": "8",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "Um fabricante de embalagens em Porto Alegre dimensiona um cone de papel.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "6 cm",
           "is_correct": true,
           "feedback": "Correto: V = (1/3)πr²h, logo 32π = (1/3)·π·16·h, e h = 6 cm."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "8 cm",
           "is_correct": false,
           "feedback": "Incorreto: 8 seria a altura se o volume fosse (1/3)·π·16·8 = 128π/3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "4 cm",
           "is_correct": false,
           "feedback": "Incorreto: 4 seria a altura se o volume fosse 64π/3."
@@ -532,7 +532,7 @@
           "feedback": "Incorreto: 12 seria a altura se o volume fosse 64π."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Da fórmula do volume: 32π = (1/3) × π × 16 × h, então h = (32 × 3)/16 = 6 cm.",
       "difficulty": "8",
       "images": [],
@@ -559,25 +559,25 @@
           "feedback": "Incorreto: 5 é o raio da base."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "5√3 cm",
           "is_correct": true,
           "feedback": "Correto: r = 5 cm e h = √(10² − 5²) = √75 = 5√3 cm."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "10√3 cm",
           "is_correct": false,
           "feedback": "Incorreto: 10√3 seria a altura se a geratriz fosse 20 cm."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "10 cm",
           "is_correct": false,
           "feedback": "Incorreto: 10 é a geratriz."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "No cone equilátero, a secção meridiana é um triângulo equilátero, logo g = 2r = 10 cm e r = 5 cm. A altura é h = √(g² − r²) = √(100 − 25) = √75 = 5√3 cm.",
       "difficulty": "8",
       "images": [],
@@ -598,31 +598,31 @@
       "context": "Um estudante em Natal calcula o volume de um tetraedro regular.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "18√2 cm³",
           "is_correct": true,
           "feedback": "Correto: V = 6³√2/12 = 216√2/12 = 18√2 cm³."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "36√2 cm³",
           "is_correct": false,
           "feedback": "Incorreto: 36√2 seria o volume se a aresta fosse 6√2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "12√2 cm³",
           "is_correct": false,
           "feedback": "Incorreto: 12√2 seria o volume se a aresta fosse √72."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "54√2 cm³",
           "is_correct": false,
           "feedback": "Incorreto: 54√2 seria o volume se a aresta fosse 9."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Substituindo a = 6 na fórmula do volume do tetraedro regular: V = 6³√2/12 = 216√2/12 = 18√2 cm³.",
       "difficulty": "8",
       "images": [],
@@ -733,19 +733,19 @@
       "context": "Um candidato ao ITA avalia a área lateral de uma pirâmide cujas faces são triângulos equiláteros.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "16√3 cm²",
           "is_correct": true,
           "feedback": "Correto: cada face equilátera de lado 4 tem área 4²√3/4 = 4√3 cm²; total = 4 × 4√3 = 16√3 cm²."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "8√3 cm²",
           "is_correct": false,
           "feedback": "Incorreto: 8√3 seria a área de duas faces."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "32 cm²",
           "is_correct": false,
           "feedback": "Incorreto: 32 seria a área lateral se as faces fossem quadradas."
@@ -757,7 +757,7 @@
           "feedback": "Incorreto: 64 seria o dobro da área lateral correta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "A área de um triângulo equilátero de lado 4 é 4²√3/4 = 4√3 cm². Com 4 faces iguais, a área lateral é 4 × 4√3 = 16√3 cm².",
       "difficulty": "10",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Um engenheiro em Belo Horizonte dimensiona um reservatório cônico invertido.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "1/2",
           "is_correct": false,
           "feedback": "Incorreto: o volume não varia linearmente com a altura."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1/8",
           "is_correct": true,
           "feedback": "Correto: o cone de água é semelhante ao cone total com razão 2/4 = 1/2; o volume é (1/2)³ = 1/8 do total."
@@ -802,7 +802,7 @@
           "feedback": "Incorreto: 1/16 seria (1/2)⁴."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "O cone formado pela água é semelhante ao cone total, com razão linear 2/4 = 1/2. A razão entre os volumes é o cubo da razão linear: (1/2)³ = 1/8.",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Um pesquisador em Campinas avalia a relação entre a área lateral de um cone e a área de sua base.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "g = 2r",
           "is_correct": true,
           "feedback": "Correto: πrg = 2πr², logo g = 2r (o cone é equilátero)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "g = r/2",
           "is_correct": false,
           "feedback": "Incorreto: g = r/2 faria a área lateral ser metade da base."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "g = √2·r",
           "is_correct": false,
           "feedback": "Incorreto: √2·r faria a área lateral ser √2 vezes a base."
@@ -892,7 +892,7 @@
           "feedback": "Incorreto: g = 4r faria a área lateral ser 4 vezes a base."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Igualando a área lateral ao dobro da área da base: πrg = 2πr². Cancelando πr, obtemos g = 2r.",
       "difficulty": "10",
       "images": [],

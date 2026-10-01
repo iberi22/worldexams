@@ -13,31 +13,31 @@
       "context": "Lucas analiza situaciones académicas en Calama.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$(x - 1)^2 + (y + 3)^2 = 4$",
           "is_correct": true,
           "feedback": "¡Correcto! La forma ordinaria es (x - 1)^2 + (y - (-3))^2 = 2^2 = 4."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(x + 1)^2 + (y - 3)^2 = 4$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste los signos de las coordenadas del centro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(x - 1)^2 + (y + 3)^2 = 2$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste elevar el radio al cuadrado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(x - 1)^2 - (y + 3)^2 = 4$",
           "is_correct": false,
           "feedback": "Incorrecto. Una circunferencia suma los términos cuadráticos, no los resta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La ecuación ordinaria con centro (h,k) = (1, -3) y radio r = 2 es (x - h)^2 + (y - k)^2 = r^2, resultando (x - 1)^2 + (y + 3)^2 = 4.",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Martina analiza situaciones académicas en Valparaíso.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(x - 4)^2 + (y + 6)^2 = 25$",
           "is_correct": true,
           "feedback": "¡Correcto! La forma ordinaria es (x - 4)^2 + (y - (-6))^2 = 5^2 = 25."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(x + 4)^2 + (y - 6)^2 = 25$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste los signos de las coordenadas del centro."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Una circunferencia suma los términos cuadráticos, no los resta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La ecuación ordinaria con centro (h,k) = (4, -6) y radio r = 5 es (x - h)^2 + (y - k)^2 = r^2, resultando (x - 4)^2 + (y + 6)^2 = 25.",
       "difficulty": "4",
       "images": [],
@@ -193,31 +193,31 @@
       "context": "Sebastián analiza situaciones académicas en Concepción.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$(x - 5)^2 + (y + 7)^2 = 36$",
           "is_correct": true,
           "feedback": "¡Correcto! La forma ordinaria es (x - 5)^2 + (y - (-7))^2 = 6^2 = 36."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(x + 5)^2 + (y - 7)^2 = 36$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste los signos de las coordenadas del centro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(x - 5)^2 + (y + 7)^2 = 6$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste elevar el radio al cuadrado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(x - 5)^2 - (y + 7)^2 = 36$",
           "is_correct": false,
           "feedback": "Incorrecto. Una circunferencia suma los términos cuadráticos, no los resta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La ecuación ordinaria con centro (h,k) = (5, -7) y radio r = 6 es (x - h)^2 + (y - k)^2 = r^2, resultando (x - 5)^2 + (y + 7)^2 = 36.",
       "difficulty": "6",
       "images": [],
@@ -328,19 +328,19 @@
       "context": "Matías analiza situaciones académicas en La Serena.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$(x - 8)^2 + (y + 10)^2 = 81$",
           "is_correct": true,
           "feedback": "¡Correcto! La forma ordinaria es (x - 8)^2 + (y - (-10))^2 = 9^2 = 81."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(x + 8)^2 + (y - 10)^2 = 81$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste los signos de las coordenadas del centro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(x - 8)^2 + (y + 10)^2 = 9$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste elevar el radio al cuadrado."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Una circunferencia suma los términos cuadráticos, no los resta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ecuación ordinaria con centro (h,k) = (8, -10) y radio r = 9 es (x - h)^2 + (y - k)^2 = r^2, resultando (x - 8)^2 + (y + 10)^2 = 81.",
       "difficulty": "6",
       "images": [],
@@ -418,31 +418,31 @@
       "context": "Sebastián analiza situaciones académicas en Iquique.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$(x - 10)^2 + (y + 12)^2 = 121$",
           "is_correct": true,
           "feedback": "¡Correcto! La forma ordinaria es (x - 10)^2 + (y - (-12))^2 = 11^2 = 121."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(x + 10)^2 + (y - 12)^2 = 121$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste los signos de las coordenadas del centro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(x - 10)^2 + (y + 12)^2 = 11$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste elevar el radio al cuadrado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(x - 10)^2 - (y + 12)^2 = 121$",
           "is_correct": false,
           "feedback": "Incorrecto. Una circunferencia suma los términos cuadráticos, no los resta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La ecuación ordinaria con centro (h,k) = (10, -12) y radio r = 11 es (x - h)^2 + (y - k)^2 = r^2, resultando (x - 10)^2 + (y + 12)^2 = 121.",
       "difficulty": "6",
       "images": [],
@@ -508,31 +508,31 @@
       "context": "Camila analiza situaciones académicas en Talca.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$(x - 12)^2 + (y + 14)^2 = 169$",
           "is_correct": true,
           "feedback": "¡Correcto! La forma ordinaria es (x - 12)^2 + (y - (-14))^2 = 13^2 = 169."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(x + 12)^2 + (y - 14)^2 = 169$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste los signos de las coordenadas del centro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(x - 12)^2 + (y + 14)^2 = 13$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste elevar el radio al cuadrado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(x - 12)^2 - (y + 14)^2 = 169$",
           "is_correct": false,
           "feedback": "Incorrecto. Una circunferencia suma los términos cuadráticos, no los resta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La ecuación ordinaria con centro (h,k) = (12, -14) y radio r = 13 es (x - h)^2 + (y - k)^2 = r^2, resultando (x - 12)^2 + (y + 14)^2 = 169.",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "Matías analiza situaciones académicas en Arica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(x - 13)^2 + (y + 15)^2 = 196$",
           "is_correct": true,
           "feedback": "¡Correcto! La forma ordinaria es (x - 13)^2 + (y - (-15))^2 = 14^2 = 196."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(x + 13)^2 + (y - 15)^2 = 196$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste los signos de las coordenadas del centro."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Una circunferencia suma los términos cuadráticos, no los resta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La ecuación ordinaria con centro (h,k) = (13, -15) y radio r = 14 es (x - h)^2 + (y - k)^2 = r^2, resultando (x - 13)^2 + (y + 15)^2 = 196.",
       "difficulty": "8",
       "images": [],
@@ -598,19 +598,19 @@
       "context": "Martina analiza situaciones académicas en Puerto Montt.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$(x - 14)^2 + (y + 16)^2 = 225$",
           "is_correct": true,
           "feedback": "¡Correcto! La forma ordinaria es (x - 14)^2 + (y - (-16))^2 = 15^2 = 225."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(x + 14)^2 + (y - 16)^2 = 225$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste los signos de las coordenadas del centro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(x - 14)^2 + (y + 16)^2 = 15$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste elevar el radio al cuadrado."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Una circunferencia suma los términos cuadráticos, no los resta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ecuación ordinaria con centro (h,k) = (14, -16) y radio r = 15 es (x - h)^2 + (y - k)^2 = r^2, resultando (x - 14)^2 + (y + 16)^2 = 225.",
       "difficulty": "8",
       "images": [],
@@ -643,31 +643,31 @@
       "context": "Sebastián analiza situaciones académicas en Chillán.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$(x - 15)^2 + (y + 17)^2 = 256$",
           "is_correct": true,
           "feedback": "¡Correcto! La forma ordinaria es (x - 15)^2 + (y - (-17))^2 = 16^2 = 256."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(x + 15)^2 + (y - 17)^2 = 256$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste los signos de las coordenadas del centro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(x - 15)^2 + (y + 17)^2 = 16$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste elevar el radio al cuadrado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(x - 15)^2 - (y + 17)^2 = 256$",
           "is_correct": false,
           "feedback": "Incorrecto. Una circunferencia suma los términos cuadráticos, no los resta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La ecuación ordinaria con centro (h,k) = (15, -17) y radio r = 16 es (x - h)^2 + (y - k)^2 = r^2, resultando (x - 15)^2 + (y + 17)^2 = 256.",
       "difficulty": "8",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "Lucas analiza situaciones académicas en Calama.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$(x - 16)^2 + (y + 18)^2 = 289$",
           "is_correct": true,
           "feedback": "¡Correcto! La forma ordinaria es (x - 16)^2 + (y - (-18))^2 = 17^2 = 289."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(x + 16)^2 + (y - 18)^2 = 289$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste los signos de las coordenadas del centro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(x - 16)^2 + (y + 18)^2 = 17$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste elevar el radio al cuadrado."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Una circunferencia suma los términos cuadráticos, no los resta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La ecuación ordinaria con centro (h,k) = (16, -18) y radio r = 17 es (x - h)^2 + (y - k)^2 = r^2, resultando (x - 16)^2 + (y + 18)^2 = 289.",
       "difficulty": "8",
       "images": [],
@@ -778,31 +778,31 @@
       "context": "Matías analiza situaciones académicas en Santiago.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$(x - 18)^2 + (y + 20)^2 = 361$",
           "is_correct": true,
           "feedback": "¡Correcto! La forma ordinaria es (x - 18)^2 + (y - (-20))^2 = 19^2 = 361."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(x + 18)^2 + (y - 20)^2 = 361$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste los signos de las coordenadas del centro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(x - 18)^2 + (y + 20)^2 = 19$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste elevar el radio al cuadrado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(x - 18)^2 - (y + 20)^2 = 361$",
           "is_correct": false,
           "feedback": "Incorrecto. Una circunferencia suma los términos cuadráticos, no los resta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La ecuación ordinaria con centro (h,k) = (18, -20) y radio r = 19 es (x - h)^2 + (y - k)^2 = r^2, resultando (x - 18)^2 + (y + 20)^2 = 361.",
       "difficulty": "10",
       "images": [],

@@ -13,31 +13,31 @@
       "context": "Una fuente ornamental en el centro de Barranquilla tiene forma circular y se quiere restaurar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El diámetro es exactamente el doble del radio",
           "is_correct": true,
           "feedback": "Correcto. El diámetro $d = 2r$ siempre es el doble del radio."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El diámetro es el radio al cuadrado",
           "is_correct": false,
           "feedback": "Incorrecto. No hay relación cuadrática entre radio y diámetro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El radio es el doble del diámetro",
           "is_correct": false,
           "feedback": "Incorrecto. El radio es la mitad del diámetro, no su doble."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El radio y el diámetro son siempre iguales",
           "is_correct": false,
           "feedback": "Incorrecto. Solo coincidirían en un círculo de radio $0$, lo cual no aplica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El radio $r$ es la distancia del centro al borde; el diámetro $d$ cruza el círculo pasando por el centro, y se cumple $d = 2r$.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "En un taller de bicicletas de Cúcuta se debe medir la circunferencia de una rueda para calibrar el velocímetro.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Con la fórmula $C = 2\\pi r$",
           "is_correct": true,
           "feedback": "Correcto. La longitud de la circunferencia es el doble del producto de $\\pi$ por el radio."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Con la fórmula $C = \\pi r^2$",
           "is_correct": false,
           "feedback": "Incorrecto. $\\pi r^2$ es la fórmula del área, no del perímetro."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Sin $\\pi$ solo se obtiene el doble del radio, no la circunferencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La circunferencia es el perímetro del círculo y su fórmula es $C = 2\\pi r$ (equivalente a $C = \\pi d$).",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "Una glorieta de tráfico en Cúcuta tiene forma circular con radio $14\\text{ m}$. El municipio necesita repintar la línea amarilla perimetral.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\approx 87{,}96\\text{ m}$",
           "is_correct": true,
           "feedback": "Correcto. $C = 2\\pi \\times 14 \\approx 87{,}96$ m."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\approx 43{,}98\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste la circunferencia entre 2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\approx 175{,}93\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Usaste $2\\pi d$ o duplicaste el resultado."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Probablemente calculaste $\\pi r^2$ (área) en lugar de la circunferencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para hallar la longitud de la línea circular aplica $C = 2\\pi r$, sustituyendo el radio en la misma unidad.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "Una piscina circular de un condominio campestre en Girardot (Cundinamarca) tiene un diámetro de $8\\text{ m}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\approx 50{,}27\\text{ m}^2$",
           "is_correct": true,
           "feedback": "Correcto. Radio $r = 4$; $A = \\pi \\times 4^2 = 16\\pi \\approx 50{,}27$ m²."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\approx 100{,}53\\text{ m}^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Usaste el diámetro en lugar del radio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\approx 25{,}13\\text{ m}^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste entre 3 o tomaste un radio incorrecto."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Solo elevaste el diámetro al cuadrado sin multiplicar por $\\pi/4$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Recuerda identificar primero el radio. El área del círculo es $A = \\pi r^2$, no $\\pi d^2$.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En una panadería de Bogotá se corta una torta circular de radio $10\\text{ cm}$ en porciones iguales; cada porción corresponde a un sector con ángulo central de $60^\\circ$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\approx 52{,}36\\text{ cm}^2$",
           "is_correct": true,
           "feedback": "Correcto. Área del sector $= \\frac{60}{360} \\pi r^2 = \\frac{1}{6}\\pi \\times 100 \\approx 52{,}36$ cm²."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$100\\pi\\text{ cm}^2$ aproximadamente",
           "is_correct": false,
           "feedback": "Incorrecto. Ese valor corresponde al círculo completo, no al sector."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$60\\pi\\text{ cm}^2$ aproximadamente",
           "is_correct": false,
           "feedback": "Incorrecto. Usaste el ángulo como factor sin convertirlo a fracción."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Probablemente tomaste el ángulo como $30^\\circ$ o invertiste la fracción."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El área de un sector circular es proporcional al ángulo: $A_{sector} = \\frac{\\theta}{360^\\circ} \\cdot \\pi r^2$.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Un parque infantil en Sincelejo está formado por un rectángulo de $20\\text{ m}$ por $10\\text{ m}$ con un semicírculo pegado a uno de los lados cortos (radio del semicírculo $= 10\\text{ m}$).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\approx 357{,}08\\text{ m}^2$",
           "is_correct": true,
           "feedback": "Correcto. Rectángulo $200$ m² + semicírculo $\\frac{1}{2}\\pi \\times 100 \\approx 157{,}08$ m² = $357{,}08$ m²."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\approx 257{,}08\\text{ m}^2$",
           "is_correct": false,
           "feedback": "Incorrecto. Restaste el semicírculo en vez de sumarlo."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Sumaste doble semicírculo o duplicaste el rectángulo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para figuras compuestas se separan en regiones conocidas (rectángulo, semicírculo) y se suman sus áreas.",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En una práctica de laboratorio de un colegio de Ibagué se comparan dos círculos: el Círculo A tiene radio de $3\\text{ cm}$ y el Círculo B tiene radio de $6\\text{ cm}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$4$ veces mayor",
           "is_correct": true,
           "feedback": "Correcto. $\\frac{\\pi \\cdot 6^2}{\\pi \\cdot 3^2} = \\frac{36}{9}=4$. El área escala con el cuadrado del radio."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2$ veces mayor",
           "is_correct": false,
           "feedback": "Incorrecto. Ese es el factor entre radios, no entre áreas."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Olvidaste elevar el radio al cuadrado en la razón de áreas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las áreas son proporcionales al cuadrado del radio: si el radio se duplica, el área se multiplica por cuatro.",
       "difficulty": "8",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "En un municipio del Huila se debe construir una glorieta utilizando exactamente $80\\text{ m}$ de bordillo. La administración compara una glorieta circular y una cuadrada, ambas usando los $80\\text{ m}$ como perímetro completo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La glorieta circular, con área $\\approx 509{,}3\\text{ m}^2$, porque el círculo maximiza el área con perímetro fijo",
           "is_correct": true,
           "feedback": "Correcto. Círculo: $r = 80/(2\\pi) \\approx 12{,}73$; área $\\approx 509{,}3$ m². Cuadrado: lado $20$, área $400$ m²."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La glorieta cuadrada, con área de $400\\text{ m}^2$, porque es más fácil de construir",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque sea más fácil de construir, su área es menor."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambas opciones generan exactamente la misma área",
           "is_correct": false,
           "feedback": "Incorrecto. Con perímetro fijo, el círculo siempre tiene más área que el cuadrado."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Con perímetro y forma ya es posible calcular el área exacta de cada diseño."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Entre todas las figuras planas, el círculo encierra la mayor área con el mismo perímetro; por eso se usa en reservorios, ductos y glorietas.",
       "difficulty": "10",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "Una rueda de bicicleta de carreras en Bogotá tiene diámetro de $70\\text{ cm}$. Un ciclista recorre $10$ vueltas completas en una pista de práctica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\approx 21{,}99\\text{ m}$",
           "is_correct": true,
           "feedback": "Correcto. Circunferencia $\\pi \\times 70 \\approx 219{,}91$ cm $= 2{,}199$ m. Total $10 \\times 2{,}199 \\approx 21{,}99$ m."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\approx 70\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Usaste el diámetro como distancia recorrida por vuelta."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\approx 7\\text{ m}$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste entre $10$ en lugar de multiplicar por $10$."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. Olvidaste convertir centímetros a metros antes de multiplicar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para calcular la distancia recorrida por una rueda se multiplica la circunferencia por el número de vueltas, cuidando las unidades.",
       "difficulty": "10",
       "images": [],

@@ -59,13 +59,13 @@
       "context": "En un parqueadero de Popayan, un estudiante intenta empujar una moto pero esta no se mueve porque el freno de mano esta puesto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Primera ley de Newton (Ley de inercia).",
           "is_correct": true,
           "feedback": "Correcto. Un cuerpo permanece en reposo si la fuerza neta sobre el es nula."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Segunda ley de Newton ($F = m \\cdot a$).",
           "is_correct": false,
           "feedback": "Incorrecto. La segunda ley relaciona fuerza, masa y aceleración cuando hay fuerza neta."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Esa ley describe la atraccion entre masas, no el reposo de la moto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Primera ley de Newton (inercia): un cuerpo mantiene su estado de reposo o MRU si la fuerza neta es cero.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En el taller de mecánica de Palmira, se aplica una fuerza neta de $200$ N sobre un automovil de $1000$ kg de masa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$0,2$ m/s$^2$.",
           "is_correct": true,
           "feedback": "Correcto. $a = F / m = 200\\text{ N} / 1000\\text{ kg} = 0,2$ m/s$^2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$5$ m/s$^2$.",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a multiplicar en vez de dividir $F$ por $m$."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Con fuerza neta de $200$ N si hay aceleración."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Segunda ley de Newton: $F = m \\cdot a$. Si $F = 200$ N y $m = 1000$ kg, entonces $a = 0,2$ m/s$^2$.",
       "difficulty": "6",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En una clase experimental en Cucuta, dos bloques de masa $2$ kg y $6$ kg son empujados por la misma fuerza neta de $12$ N sobre una superficie lisa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$a_1 = 6$ m/s$^2$ para el bloque de $2$ kg y $a_2 = 2$ m/s$^2$ para el bloque de $6$ kg.",
           "is_correct": true,
           "feedback": "Correcto. $a = F / m$: $12/2 = 6$ m/s$^2$ y $12/6 = 2$ m/s$^2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ambos bloques adquieren la misma aceleración de $4$ m/s$^2$.",
           "is_correct": false,
           "feedback": "Incorrecto. Solo seria cierto si tuvieran la misma masa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El bloque mas pesado acelera mas por inercia.",
           "is_correct": false,
           "feedback": "Incorrecto. A mayor masa, menor aceleración con la misma fuerza."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ninguno acelera porque falta la fuerza de fricción.",
           "is_correct": false,
           "feedback": "Incorrecto. La fuerza neta es no nula, asi que ambos aceleran."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La aceleración es inversamente proporcional a la masa: mayor masa produce menor aceleración con la misma fuerza neta.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En la Explanada de Monserrate en Bogotá, una persona siente su peso aparente modificado al estar dentro de un ascensor que acelera hacia arriba.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La fuerza normal del piso aumenta para producir la aceleración neta hacia arriba del cuerpo.",
           "is_correct": true,
           "feedback": "Correcto. Por la segunda ley, $N - mg = m \\cdot a$, asi $N = m(g + a) > mg$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La masa de la persona aumenta dentro del ascensor.",
           "is_correct": false,
           "feedback": "Incorrecto. La masa es invariante; solo cambia la fuerza normal (peso aparente)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La gravedad aumenta repentinamente al subir el ascensor.",
           "is_correct": false,
           "feedback": "Incorrecto. La gravedad local no cambia por moverse dentro del ascensor."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. La perdida de energía no altera la masa gravitacional."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El peso aparente (fuerza normal) depende de la aceleración: si $a$ es hacia arriba, $N = m(g + a)$; si $a$ es hacia abajo, $N = m(g - a)$.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En una pista de hielo en Bogotá, un patinador empuja una pared con una fuerza de $80$ N y sale despedido en sentido contrario.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La pared ejerce sobre el patinador una fuerza igual en modulo y opuesta en sentido a la fuerza que el ejerce sobre ella.",
           "is_correct": true,
           "feedback": "Correcto. La acción y la reacción tienen igual modulo y direcciones opuestas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La pared no ejerce fuerza alguna porque es rigida.",
           "is_correct": false,
           "feedback": "Incorrecto. Toda interaccion genera un par accion-reaccion."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La fuerza del patinador es mayor y por eso se impulsa.",
           "is_correct": false,
           "feedback": "Incorrecto. Las fuerzas son iguales en modulo; el patinador acelera porque su masa es menor."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. La masa del patinador no cambia durante el breve contacto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Tercera ley de Newton: a toda acción le corresponde una reacción igual y opuesta, aplicadas sobre cuerpos distintos.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En Medellín, un ciclista de $70$ kg (con bicicleta) recorre una pista curva peraltada para mantener el equilibrio dinamico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Es una fuerza neta dirigida hacia el centro de la curva que produce el cambio de direccion del movimiento.",
           "is_correct": true,
           "feedback": "Correcto. Sin fuerza centrípeta, el ciclista seguiria en linea recta por inercia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La fuerza centrípeta actua en direccion tangente a la curva.",
           "is_correct": false,
           "feedback": "Incorrecto. La fuerza centrípeta apunta hacia el centro de la trayectoria, no tangente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La fuerza centrípeta solo aparece cuando el ciclista se detiene.",
           "is_correct": false,
           "feedback": "Incorrecto. Aparece siempre que hay cambio de direccion del movimiento."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La masa del ciclista es irrelevante para la fuerza centrípeta.",
           "is_correct": false,
           "feedback": "Incorrecto. $F_c = m \\cdot v^2 / r$ depende directamente de la masa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La fuerza centrípeta $F_c = m v^2 / r$ esta dirigida al centro de la curva y es responsable del cambio de direccion.",
       "difficulty": "8",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "En Villavicencio, una familia discute por que un objeto pesado requiere mas fuerza para moverse sobre el piso que un objeto ligero, en superficies con igual rozamiento.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La fuerza de rozamiento estática máxima es proporcional a la fuerza normal y por tanto al peso del objeto.",
           "is_correct": true,
           "feedback": "Correcto. $F_{r,max} = \\mu_e \\cdot N = \\mu_e \\cdot m \\cdot g$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La fuerza de rozamiento es independiente del peso del cuerpo.",
           "is_correct": false,
           "feedback": "Incorrecto. La fuerza normal depende del peso, y el rozamiento es proporcional a la normal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El rozamiento disminuye cuando el cuerpo pesa mas.",
           "is_correct": false,
           "feedback": "Incorrecto. Aumenta con el peso, no disminuye."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La fuerza de rozamiento solo depende del area de contacto, no del peso.",
           "is_correct": false,
           "feedback": "Incorrecto. Para superficies en contacto, depende de la normal (peso), no del area."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Rozamiento estatico máximo: $F_{r,max} = \\mu_e \\cdot N$. Si la superficie es horizontal, $N = m \\cdot g$, asi el rozamiento crece con el peso.",
       "difficulty": "8",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "En el aeropuerto El Dorado de Bogotá, ingenieros discuten el diseno de una pista considerando las fuerzas sobre un avion en despegue.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Menor masa aumenta la aceleración para una misma fuerza de propulsion, facilitando el despegue.",
           "is_correct": true,
           "feedback": "Correcto. Por $a = F / m$, reducir masa aumenta aceleración."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La masa no afecta el movimiento de un avion porque este vuela por gravedad reducida.",
           "is_correct": false,
           "feedback": "Incorrecto. La masa es determinante para la inercia y la aceleración."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los motores potentes compensan cualquier masa, por lo que el material es irrelevante.",
           "is_correct": false,
           "feedback": "Incorrecto. Los motores deben vencer inercia, inercia que crece con la masa."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. Aerodinamica y masa son ambas criticas para el vuelo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Segunda ley de Newton: $a = F / m$. Disminuir masa incrementa la aceleración que imprimen los motores, vital en el despegue.",
       "difficulty": "10",
       "images": [],
@@ -473,31 +473,31 @@
       "context": "En Santa Marta, una campana de seguridad vial busca convencer a conductores sobre la importancia del uso del cinturon de seguridad.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El cinturon aplica una fuerza sobre el cuerpo que lo desacelera, evitando que continue moviendose por inercia.",
           "is_correct": true,
           "feedback": "Correcto. Sin cinturon, el cuerpo mantiene su movimiento por inercia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El cinturon elimina la inercia del pasajero durante la colision.",
           "is_correct": false,
           "feedback": "Incorrecto. La inercia es una propiedad de la masa y no se elimina."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El cinturon aumenta la velocidad del cuerpo para reducir el impacto.",
           "is_correct": false,
           "feedback": "Incorrecto. Lo que hace es reducir la velocidad de manera controlada."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El cinturon solo sirve en choques laterales, no frontales.",
           "is_correct": false,
           "feedback": "Incorrecto. Es eficaz en todo tipo de colisiones y frenadas bruscas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En una frenada brusca, el cinturon aplica una fuerza distribuida para desacelerar el cuerpo, evitando que continue su movimiento por inercia (primera ley).",
       "difficulty": "10",
       "images": [],
@@ -519,13 +519,13 @@
       "context": "En Cali, se discute el lanzamiento de un satélite colombiano desde una base con capacidades limitadas de propulsion.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Deben alcanzar gran velocidad tangencial y altura suficiente para que la gravedad los mantenga en órbita estable.",
           "is_correct": true,
           "feedback": "Correcto. Velocidad orbital alta y altura compensan la gravedad y mantienen al satélite en órbita."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La propulsion inicial elimina la gravedad terrestre de manera permanente.",
           "is_correct": false,
           "feedback": "Incorrecto. Ningun motor elimina la gravedad; se compensa con velocidad tangencial."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto. La propulsion es esencial para insertar al satélite en su órbita funcional."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para orbitar, un satélite debe tener velocidad tangencial suficiente y altura que equilibre la gravedad, manteniendo asi una trayectoria cerrada.",
       "difficulty": "10",
       "images": [],

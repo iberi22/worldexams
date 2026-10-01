@@ -13,19 +13,19 @@
       "context": "Tilde diacrítica en monosílabos homónimos (Bogotá).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Él le pidió un té caliente a su madre, pero ella no se lo sirvió a mí.",
           "is_correct": true,
           "feedback": "Es correcta porque 'él' (pronombre), 'té' (sustantivo) y 'mí' (pronombre) llevan tilde diacrítica diferenciadora."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El le pidio un te caliente a su madre, pero ella no se lo sirvio a mi.",
           "is_correct": false,
           "feedback": "Es incorrecta porque omite todas las tildes diacríticas indispensables para deshacer la ambigüedad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Él le pidió un te caliente a su madre, pero ella no se lo sirvió a mi.",
           "is_correct": false,
           "feedback": "Es incorrecta porque le falta la tilde diacrítica al sustantivo 'té' y al pronombre 'mí'."
@@ -37,7 +37,7 @@
           "feedback": "Es incorrecta porque le falta la tilde al pronombre personal sujeto 'Él'."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La tilde diacrítica distingue palabras monosílabas de igual forma pero diferente categoría gramatical.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "Uso de la coma en explicaciones suplementarias (incisos) (Medellín).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Indica que la totalidad de los profesores apoyaron el paro (inciso explicativo).",
           "is_correct": true,
           "feedback": "Es correcta porque las comas delimitan una proposición subordinada explicativa que abarca a todo el antecedente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Señala que solo una parte restringida de los profesores apoyó la manifestación (cláusula especificativa).",
           "is_correct": false,
           "feedback": "Es incorrecta porque la lectura especificativa no lleva comas encerrando la subordinada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Demuestra que los profesores no asistieron a la marcha por estar dictando clase en la universidad.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el texto afirma explícitamente que los profesores marcharon ayer."
@@ -83,7 +83,7 @@
           "feedback": "Es incorrecta porque la delimitación de incisos explicativos con comas es una regla plena del español."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las comas en cláusulas relativas transforman el sentido de especificativo (restringido) a explicativo (universal).",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "Acentuación de adverbios terminados en '-mente' (Cali).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Porque los adverbios en '-mente' mantienen la acentuación ortográfica del adjetivo primitivo ('fácil' lleva tilde, 'feliz' no).",
           "is_correct": true,
           "feedback": "Es correcta porque los adverbios formados con el sufijo '-mente' son palabras ditónicas que respetan la tilde de la base."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque 'fácilmente' es una palabra aguda y 'felizmente' es una palabra esdrújula según el conteo silábico.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el conteo de sílabas del compuesto no altera la norma del adjetivo de origen."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque las palabras de más de tres sílabas siempre deben llevar tilde obligatoria en la vocal 'a'.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la extensión silábica no determina por sí sola la presencia de tilde."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque fue una decisión arbitraria tomada por los impresores del siglo XIX sin ninguna regla gramatical.",
           "is_correct": false,
           "feedback": "Es incorrecta porque responde a la norma ortográfica de la Real Academia Española para adjetivos sufijados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La conservación de la tilde en adverbios en '-mente' depende exclusivamente de la ortografía del adjetivo base.",
       "difficulty": "4",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Uso de los dos puntos antes de una cita textual directa (Bucaramanga).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El filósofo afirmó tajantemente: 'El conocimiento comienza por los sentidos, pero no todo procede de ellos'.",
           "is_correct": true,
           "feedback": "Es correcta porque los dos puntos se colocan tras el verbo de habla o declaración antes de la cita entre comillas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El filósofo afirmó: tajantemente 'El conocimiento comienza por los sentidos, pero no todo procede de ellos'.",
           "is_correct": false,
           "feedback": "Es incorrecta porque interrumpe la locución adverbial 'afirmó tajantemente'."
@@ -267,7 +267,7 @@
           "feedback": "Es incorrecta porque coloca los dos puntos dentro del complemento preposicional de la cita."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los dos puntos anuncian la reproducción literal de las palabras registradas tras verbos de decir.",
       "difficulty": "6",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "Ortografía de los prefijos según las normas de la RAE (2010) (Manizales).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Expresidente, escrito en una sola palabra sin guion ni espacio intermedio.",
           "is_correct": true,
           "feedback": "Es correcta porque los prefijos se escriben soldados a la base léxica uni-verbal según la Ortografía de 2010."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ex-presidente, unido necesariamente por un guion medio ortográfico.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el guion solo se reserva para bases que empiezan por mayúscula o número (ej. ex-URSS)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ex presidente, separado por un espacio en blanco como dos palabras independientes.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la escritura separada era la norma antigua abrogada por la RAE."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "ExPresidente, mezclando mayúsculas y minúsculas sin criterio léxico.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no se deben intercalar mayúsculas internas en palabras derivadas comunes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Los prefijos se unen directamente a la palabra base sin espacio ni guion cuando esta es univerbal.",
       "difficulty": "6",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Acentuación diacrítica de los interrogativos y exclamativos (Pereira).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque funciona como un pronombre interrogativo indirecto que exige tilde diacrítica sustantiva.",
           "is_correct": true,
           "feedback": "Es correcta porque los relativos/interrogativos llevan tilde cuando poseen sentido interrogativo o exclamativo indirecto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque es una palabra aguda terminada en vocal y todas las agudas se tildan sin excepción.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no todas las palabras agudas se tildan, solo las terminadas en n, s o vocal."
@@ -359,7 +359,7 @@
           "feedback": "Es incorrecta porque la oración es interrogativa indirecta y no lleva signos de apertura o cierre (¿?)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los pronombres interrogativos e exclamativos conservan la tilde diacrítica en estructuras indirectas.",
       "difficulty": "6",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "Uso de los puntos suspensivos en enumeraciones incompletas (Santa Marta).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La redundancia de combinar la abreviatura 'etc.' con los puntos suspensivos, pues ambos indican lo mismo.",
           "is_correct": true,
           "feedback": "Es correcta porque la abreviatura 'etc.' y los puntos suspensivos son equivalentes; usar ambos es un pleonasmo gráfico."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El uso de la coma antes de la palabra 'frutas' en la introducción de la oración.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la puntuación antes del sustantivo es adecuada en este contexto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La falta de una tilde diacrítica sobre la palabra 'como' en la estructura comparativa.",
           "is_correct": false,
           "feedback": "Es incorrecta porque 'como' es aquí una preposición comparativa/ejemplificativa átona sin tilde."
@@ -405,7 +405,7 @@
           "feedback": "Es incorrecta porque los nombres comunes de frutas se escriben en minúscula según las normas del español."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "No se deben usar simultáneamente la abreviatura 'etc.' y los puntos suspensivos al final de una lista.",
       "difficulty": "6",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "Ortografía de las secuencias 'porque', 'por que', 'por qué' y 'porqué' (Pasto).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "No comprendo el porqué de su repentina renuncia al cargo de director.",
           "is_correct": true,
           "feedback": "Es correcta porque 'porqué' es un sustantivo masculino que significa 'causa o razón' y va precedido de determinante."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Ella protestó porqué no estaba de acuerdo con el aumento de los impuestos.",
           "is_correct": false,
           "feedback": "Es incorrecta porque debió usarse la conjunción causal 'porque' escrita junta y sin tilde."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "¿Porqué no fuiste a la reunión del consejo académico celebrada ayer?",
           "is_correct": false,
           "feedback": "Es incorrecta porque en oraciones interrogativas directas debe usarse la secuencia separada y con tilde 'por qué'."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ese es el motivo porqué lucharon los estudiantes durante todo el semestre.",
           "is_correct": false,
           "feedback": "Es incorrecta porque se requería la secuencia 'por que' (preposición + relativo)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El sustantivo 'porqué' equivale a 'motivo o razón' y se reconoce por admitir plural o determinantes.",
       "difficulty": "6",
       "images": [],
@@ -473,31 +473,31 @@
       "context": "Diferencia entre 'sino' (conjunción) y 'si no' (condicional + negación) (Bogotá).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "No busca obtener la victoria para sí mismo, sino para el bienestar de toda la comunidad.",
           "is_correct": true,
           "feedback": "Es correcta porque 'sino' contrapone una afirmación a una negación previa en un enunciado adversativo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sino estudias con dedicación para el examen, no lograrás obtener la beca universitaria.",
           "is_correct": false,
           "feedback": "Es incorrecta porque se requería la secuencia condicional negativa 'si no' (si no estudias...)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "No sé sino vendrá a la fiesta de graduación organizada por los estudiantes del colegio.",
           "is_correct": false,
           "feedback": "Es incorrecta porque es una duda condicional que exige 'si no'."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Dime sino te gusta el café que preparé esta mañana en la cocina de la casa.",
           "is_correct": false,
           "feedback": "Es incorrecta porque requiere la conjunción condicional 'si' seguida del adverbio de negación 'no'."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La conjunción adversativa 'sino' contrapone un concepto positivo a uno negativo previo.",
       "difficulty": "8",
       "images": [],
@@ -519,13 +519,13 @@
       "context": "Uso de la raya (m dash) en la inserción de aclaraciones narrativas (Medellín).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "—No podemos rendirnos ahora —dijo el capitán—; el puerto está muy cerca.",
           "is_correct": true,
           "feedback": "Es correcta porque se emplea la raya (—) pegada a la primera y última palabra del inciso narrativo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "-No podemos rendirnos ahora -dijo el capitán-; el puerto está muy cerca.",
           "is_correct": false,
           "feedback": "Es incorrecta porque se utilizó el guion corto (-) en lugar de la raya de diálogo (—)."
@@ -543,7 +543,7 @@
           "feedback": "Es incorrecta porque faltan las rayas o la puntuación adecuada tras las comillas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los diálogos y sus incisos narrativos se delimitan mediante el uso de la raya (—), no del guion corto.",
       "difficulty": "8",
       "images": [],
@@ -611,13 +611,13 @@
       "context": "Uso de las comillas dobles para señalar palabras extranjeras o impropias (Barranquilla).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Al incorporar un extranjerismo no adaptado como 'online' o 'software' en un texto en español.",
           "is_correct": true,
           "feedback": "Es correcta porque los extranjerismos crudos deben distinguirse tipográficamente mediante cursiva o comillas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Para resaltar los nombres propios de las ciudades capitales de los departamentos colombianos.",
           "is_correct": false,
           "feedback": "Es incorrecta porque los nombres propios geográficos no requieren comillas ni cursiva."
@@ -635,7 +635,7 @@
           "feedback": "Es incorrecta porque el conteo de vocales no determina el uso de comillas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los extranjerismos no adaptados al español se marcan tipográficamente mediante cursiva o comillas dobles.",
       "difficulty": "8",
       "images": [],
@@ -703,19 +703,19 @@
       "context": "Uso de los signos de interrogación y exclamación dobles en español (Bucaramanga).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Es obligatorio colocar tanto el signo de apertura (¿ / ¡) como el de cierre (? / !).",
           "is_correct": true,
           "feedback": "Es correcta porque el español es la única lengua que exige signos dobles de apertura y cierre para delimitar el enunciado."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Solo se debe colocar el signo al final de la oración al igual que en la lengua inglesa.",
           "is_correct": false,
           "feedback": "Es incorrecta porque omitir el signo de apertura es un anglicismo ortográfico agramatical en castellano."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los signos de apertura solo se utilizan en textos legales y discursos políticos oficiales.",
           "is_correct": false,
           "feedback": "Es incorrecta porque los signos dobles se aplican a toda clase de textos escritos en español."
@@ -727,7 +727,7 @@
           "feedback": "Es incorrecta porque la simetría de apertura y cierre debe mantenerse obligatoriamente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "A diferencia de otros idiomas, el español exige de forma obligatoria el uso de los signos de apertura y cierre.",
       "difficulty": "8",
       "images": [],
@@ -795,13 +795,13 @@
       "context": "Ortografía de las palabras con doble grafía consonántica ('b' y 'v') (Pereira).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Caminaba, porque las terminaciones del pretérito imperfecto de la primera conjugación (-ar) se escriben con 'b'.",
           "is_correct": true,
           "feedback": "Es correcta porque el desinencia del pretérito imperfecto de la conjugación -ar (-aba, -abas, -ábamos) se escribe con 'b'."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Caminava, escrito con 'v' por ser una acción ocurrida en el pasado distante.",
           "is_correct": false,
           "feedback": "Es incorrecta porque incurre en una falta ortográfica grave al usar 'v' en la desinencia imperfecta de la 1a conjugación."
@@ -819,7 +819,7 @@
           "feedback": "Es incorrecta porque el género literario no altera las reglas fundamentales de la ortografía verbal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las formas del pretérito imperfecto de indicativo de los verbos de la primera conjugación se escriben siempre con 'b'.",
       "difficulty": "10",
       "images": [],
@@ -841,31 +841,31 @@
       "context": "Acentuación de las palabras compuestas unidas por guion (Santa Marta).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Cada uno de los componentes conserva la tilde que le corresponde de forma independiente ('teórico' y 'práctico').",
           "is_correct": true,
           "feedback": "Es correcta porque en los compuestos de dos adjetivos unidos por guion cada elemento mantiene su acentuación propia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Solo el primer elemento conserva la tilde, mientras que el segundo la pierde por estar al final.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la unión por guion no priva al segundo componente de su acento ortográfico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambos elementos pierden la tilde por convertirse en una palabra compuesta grave sin excepción.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el guion preserva la independencia fónica y ortográfica de cada adjetivo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Se eliminan las tildes y se agrega una coma en lugar del guion entre ambos adjetivos.",
           "is_correct": false,
           "feedback": "Es incorrecta porque sustituir el guion por una coma transforma la estructura en una coordinación agramatical."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En las palabras compuestas unidas por guion, cada elemento conserva su acentuación gráfica independiente.",
       "difficulty": "10",
       "images": [],

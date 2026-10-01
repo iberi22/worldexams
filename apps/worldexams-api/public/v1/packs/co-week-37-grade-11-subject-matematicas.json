@@ -59,13 +59,13 @@
       "context": "En la fila número 4 del Triángulo de Pascal (comenzando desde la fila 0 con valor 1), los coeficientes binomiales son 1, 4, 6, 4, 1.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "16",
           "is_correct": true,
           "feedback": "La suma de los coeficientes binomiales de la n-ésima fila es 2^n. Para n = 4, 2^4 = 16."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "12",
           "is_correct": false,
           "feedback": "Sumó incorrectamente los términos centrales."
@@ -83,7 +83,7 @@
           "feedback": "Calculó 2^5 en lugar de 2^4."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluando $(1+1)^n = \\sum_{k=0}^n \\binom{n}{k}$, la suma de la fila $n$ del Triángulo de Pascal es siempre $2^n$. Para $n=4$, $2^4 = 16$.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Se analiza el coeficiente del término $x^3 y^2$ en el desarrollo de $(x + y)^5$ en Bogotá.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\binom{5}{2} = 10$",
           "is_correct": true,
           "feedback": "El coeficiente del término x^(5-2) y^2 es C(5,2) = 10 (igual a C(5,3) por simetría)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\binom{5}{1} = 5$",
           "is_correct": false,
           "feedback": "Corresponde al coeficiente de x^4 y^1."
@@ -129,7 +129,7 @@
           "feedback": "Corresponde al término x^1 y^4."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En el Teorema del Binomio, el término general es $\\binom{n}{k} x^{n-k} y^k$. Para $x^3 y^2$, tenemos $n=5$ y $k=2$, por lo que el coeficiente es $\\binom{5}{2} = \\frac{5   imes 4}{2} = 10$.",
       "difficulty": "4",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "El principio de Palomar (Pigeonhole Principle) establece que si se distribuyen $n$ objetos en $k$ recipientes y $n > k$, al menos un recipiente contendrá más de un objeto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Al menos dos personas nacieron en el mismo mes del año.",
           "is_correct": true,
           "feedback": "Hay 13 personas (objetos) y 12 meses (recipientes). Como 13 > 12, obligatoriamente al menos 2 comparten mes de nacimiento."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Todas las personas nacieron en meses distintos.",
           "is_correct": false,
           "feedback": "Contradice el principio de Palomar dado que hay solo 12 meses posibles."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Exactamente tres personas nacieron en el mes de enero.",
           "is_correct": false,
           "feedback": "El principio garantiza al menos 2 en algún mes, no especifica qué mes ni que sean 3."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ninguna persona nació en diciembre.",
           "is_correct": false,
           "feedback": "El principio no excluye meses del año."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Con $n=13$ personas y $k=12$ meses en un año, al aplicar el principio de Dirichlet o de Palomar ($lceil 13/12\nceil = 2$), se garantiza que al menos 2 personas cumplen con haber nacido en el mismo mes.",
       "difficulty": "4",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En una empresa en Cali, 50 empleados juegan fútbol, 40 juegan baloncesto y 15 practican ambos deportes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "75",
           "is_correct": true,
           "feedback": "Aplicando inclusión-exclusión: N(F U B) = N(F) + N(B) - N(F n B) = 50 + 40 - 15 = 75."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "90",
           "is_correct": false,
           "feedback": "Sumó las dos categorías sin restar los empleados que practican ambos deportes."
@@ -221,7 +221,7 @@
           "feedback": "Restó 50 - 15 únicamente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por el principio de inclusión-exclusión para dos conjuntos: $|A cup B| = |A| + |B| - |A cap B| = 50 + 40 - 15 = 75$.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "¿De cuántas maneras se pueden repartir 8 dulces idénticos entre 4 niños en Barranquilla de modo que CADA NIÑO reciba AL MENOS 1 dulce?",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "35",
           "is_correct": true,
           "feedback": "Damos 1 dulce a cada uno de los 4 niños (se usan 4 dulces). Quedan 4 dulces idénticos para repartir libremente entre 4 niños: C(4+4-1, 4) = C(7,4) = 35."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "165",
           "is_correct": false,
           "feedback": "Calculó C(4+8-1, 8) = C(11,8) sin asegurar que cada niño recibiera al menos un dulce."
@@ -267,7 +267,7 @@
           "feedback": "Multiplicó 4! en lugar de usar combinaciones de objetos indistinguibles."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Al entregar primero 1 dulce a cada uno de los $k=4$ niños, restan $n' = 8 - 4 = 4$ dulces para distribuir sin restricciones: $\\binom{n' + k - 1}{n'} = \\binom{4 + 4 - 1}{4} = \\binom{7}{4} = \\frac{7   imes 6   imes 5}{6} = 35$.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Se quiere formar una clave de 5 letras utilizando las letras del conjunto {A, B, C, D, E} donde se permite repetir letras.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "2097",
           "is_correct": true,
           "feedback": "Total de claves posibles: 5^5 = 3125. Claves sin ninguna 'A' (usando B,C,D,E): 4^5 = 1024. Claves con al menos una 'A': 3125 - 1024 = 2097."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1024",
           "is_correct": false,
           "feedback": "Corresponde a las claves que NO contienen la letra 'A'."
@@ -313,7 +313,7 @@
           "feedback": "Calculó 5^4 asumiendo que la 'A' está fija en la primera posición únicamente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por el complemento: Total de claves con repetición $= 5^5 = 3125$. Claves formadas solo con las otras 4 letras $= 4^5 = 1024$. Claves con al menos una 'A' $= 3125 - 1024 = 2097$.",
       "difficulty": "6",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "¿De cuántas formas se pueden organizar 7 personas en una fila si dos personas en particular, Juan y María, NO pueden estar juntas?",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "3600",
           "is_correct": true,
           "feedback": "Total sin restricción: 7! = 5040. Arreglos con Juan y María juntos: 6! * 2! = 720 * 2 = 1440. Arreglos no juntos: 5040 - 1440 = 3600."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1440",
           "is_correct": false,
           "feedback": "Corresponde al número de arreglos en que Juan y María SÍ están juntos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "5040",
           "is_correct": false,
           "feedback": "Es el total de permutaciones 7! sin aplicar ninguna restricción."
@@ -359,7 +359,7 @@
           "feedback": "Dividió 5040 entre 2 por error."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Total de permutaciones de 7 personas $= 7! = 5040$.\nPermutaciones con Juan y María juntos $= 6!   imes 2! = 1440$.\nPermutaciones separadas $= 5040 - 1440 = 3600$.",
       "difficulty": "6",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En el desarrollo del binomio $(2x - 1)^4$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "1",
           "is_correct": true,
           "feedback": "El término independiente es (-1)^4 = 1."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "-1",
           "is_correct": false,
           "feedback": "Olvidó que la potencia par (-1)^4 resulta positiva."
@@ -405,7 +405,7 @@
           "feedback": "Calculó 4 * (-1)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El último término del binomio $(2x - 1)^4$ ocurre para $k=4$: $\\binom{4}{4} (2x)^0 (-1)^4 = 1 \\cdot 1 \\cdot 1 = 1$.",
       "difficulty": "6",
       "images": [],
@@ -473,31 +473,31 @@
       "context": "Tres colegios A, B y C de Cartagena participan en una competencia cultural. Hay 100 estudiantes que participan en A, 80 en B y 70 en C. 30 están en A y B, 25 en B y C, 20 en A y C, y 10 participan en los tres colegios simultáneamente.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "185",
           "is_correct": true,
           "feedback": "Por inclusión-exclusión de 3 conjuntos: |A U B U C| = (100+80+70) - (30+25+20) + 10 = 250 - 75 + 10 = 185."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "250",
           "is_correct": false,
           "feedback": "Sumó las listas simples sin descontar las intersecciones dobles y triples."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "175",
           "is_correct": false,
           "feedback": "Restó la triple intersección en lugar de sumarla al final."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "200",
           "is_correct": false,
           "feedback": "Calculó mal la suma de las intersecciones dobles."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Fórmula de inclusión-exclusión para 3 conjuntos:\n$|A cup B cup C| = (|A|+|B|+|C|) - (|Acap B|+|Bcap C|+|Acap C|) + |Acap Bcap C|$\n$= (100 + 80 + 70) - (30 + 25 + 20) + 10 = 250 - 75 + 10 = 185$.",
       "difficulty": "8",
       "images": [],
@@ -519,19 +519,19 @@
       "context": "Se define un desarreglo (o permutación caótica) $D_n$ como una permutación de $n$ elementos donde ningún elemento aparece en su posición original. La fórmula es $D_n = n! \\sum_{k=0}^n \\frac{(-1)^k}{k!}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "9",
           "is_correct": true,
           "feedback": "D4 = 4! * (1 - 1 + 1/2 - 1/6 + 1/24) = 24 * (12/24 - 4/24 + 1/24) = 24 * (9/24) = 9."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "24",
           "is_correct": false,
           "feedback": "Corresponde al total de permutaciones 4! sin restricción."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "12",
           "is_correct": false,
           "feedback": "Dividió 24 entre 2."
@@ -543,7 +543,7 @@
           "feedback": "Confundió D4 con D3 = 2 o calculó 3!."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicando la fórmula de desarreglos para $n=4$:\n$D_4 = 4! left( \\frac{1}{0!} - \\frac{1}{1!} + \\frac{1}{2!} - \\frac{1}{3!} + \\frac{1}{4!}\night) = 24 left( 1 - 1 + \\frac{1}{2} - \\frac{1}{6} + \\frac{1}{24}\night) = 12 - 4 + 1 = 9$.",
       "difficulty": "8",
       "images": [],
@@ -611,19 +611,19 @@
       "context": "En la expansión de $left(x^2 + \\frac{1}{x}\n\night)^9$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "84",
           "is_correct": true,
           "feedback": "Término general: C(9,k) * (x^2)^(9-k) * (x^(-1))^k = C(9,k) * x^(18 - 3k). Para término independiente: 18 - 3k = 0 -> k = 6. C(9,6) = C(9,3) = (9*8*7)/6 = 84."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "36",
           "is_correct": false,
           "feedback": "Corresponde a C(9,2)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "126",
           "is_correct": false,
           "feedback": "Corresponde a C(9,4)."
@@ -635,7 +635,7 @@
           "feedback": "Corresponde a C(9,1)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El exponente de $x$ en el $k$-ésimo término es $2(9-k) - k = 18 - 3k$. Igualando a cero para hallar el término constante: $18 - 3k = 0 Rightarrow k = 6$.\nEl coeficiente es $\\binom{9}{6} = \\binom{9}{3} = \\frac{9   imes 8   imes 7}{3   imes 2   imes 1} = 84$.",
       "difficulty": "8",
       "images": [],
@@ -657,13 +657,13 @@
       "context": "Se quiere distribuir un conjunto de 6 estudiantes en 2 grupos no vacíos e indistinguibles para un taller en Manizales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "31",
           "is_correct": true,
           "feedback": "S(6,2) = (2^5 - 1) = 32 - 1 = 31. O dividiendo (2^6 - 2)/2 = 62/2 = 31."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "64",
           "is_correct": false,
           "feedback": "Calculó 2^6 sin descontar los grupos vacíos ni la indistinguibilidad."
@@ -681,7 +681,7 @@
           "feedback": "Corresponde a C(6,2)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Particionar un conjunto de $n$ elementos en 2 grupos no vacíos viene dado por $S(n,2) = \\frac{2^n - 2}{2} = 2^{n-1} - 1$. Para $n=6$: $2^5 - 1 = 32 - 1 = 31$.",
       "difficulty": "8",
       "images": [],
@@ -749,31 +749,31 @@
       "context": "Se busca determinar el número de soluciones enteras estrictamente POSITIVAS ($x_i \\ge 1$) a la ecuación $x_1 + x_2 + x_3 + x_4 = 12$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "165",
           "is_correct": true,
           "feedback": "Hacemos y_i = x_i - 1 >= 0. La ecuación queda y_1 + y_2 + y_3 + y_4 = 12 - 4 = 8. C(8 + 4 - 1, 8) = C(11, 8) = C(11, 3) = (11 * 10 * 9) / 6 = 165."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "455",
           "is_correct": false,
           "feedback": "Calculó C(12+4-1, 12) = C(15,3) para enteros no negativos sin exigir x_i >= 1."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "220",
           "is_correct": false,
           "feedback": "Calculó C(12, 3) por error."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "84",
           "is_correct": false,
           "feedback": "Calculó C(9, 3) por error."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para soluciones en enteros estrictamente positivos, asignamos 1 a cada una de las 4 variables. Quedan $12 - 4 = 8$ unidades por repartir entre 4 variables en enteros no negativos: $\\binom{8 + 4 - 1}{8} = \\binom{11}{3} = \\frac{11   imes 10   imes 9}{6} = 165$.",
       "difficulty": "10",
       "images": [],
@@ -795,13 +795,13 @@
       "context": "Un grupo de 4 parejas de cartas numeradas del 1 al 4 (total 8 cartas) se mezclan en una mesa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "16",
           "is_correct": true,
           "feedback": "Para evitar parejas completas, debemos elegir exactamente 1 carta de cada una de las 4 parejas distintas. Como cada pareja tiene 2 cartas, hay 2^4 = 16 formas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "70",
           "is_correct": false,
           "feedback": "Corresponde a C(8,4) total sin restricciones."
@@ -819,7 +819,7 @@
           "feedback": "Multiplicó 16 por 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para no tener parejas completas al elegir 4 cartas de 4 parejas, debemos seleccionar exactamente una carta de cada pareja. Hay 4 decisiones independientes con 2 opciones cada una: $2   imes 2   imes 2   imes 2 = 2^4 = 16$.",
       "difficulty": "10",
       "images": [],
@@ -841,31 +841,31 @@
       "context": "Evaluando la identidad combinatoria $\\sum_{k=0}^n \\binom{n}{k}^2 = \\binom{2n}{n}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$1^2 + 3^2 + 3^2 + 1^2 = 20$, que es igual a $\\binom{6}{3} = 20$.",
           "is_correct": true,
           "feedback": "1 + 9 + 9 + 1 = 20. C(6,3) = (6 * 5 * 4) / 6 = 20. La identidad combinatoria de Vandermonde se cumple perfectamente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$1^2 + 3^2 + 3^2 + 1^2 = 18$, diferente de $\\binom{6}{3} = 20$.",
           "is_correct": false,
           "feedback": "Erró en la suma de 1 + 9 + 9 + 1."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$1 + 3 + 3 + 1 = 8$, que es igual a $2^3$.",
           "is_correct": false,
           "feedback": "Sumó los coeficientes simples sin elevarlos al cuadrado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$1^2 + 3^2 + 3^2 + 1^2 = 36$, que es igual a $6^2$.",
           "is_correct": false,
           "feedback": "Erró gravemente en la elevación de los términos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Fila $n=3$: coeficientes $1, 3, 3, 1$. Suma de cuadrados: $1^2 + 3^2 + 3^2 + 1^2 = 1 + 9 + 9 + 1 = 20$.\nPor el otro lado: $\\binom{2(3)}{3} = \\binom{6}{3} = \\frac{6   imes 5   imes 4}{3   imes 2   imes 1} = 20$.",
       "difficulty": "10",
       "images": [],

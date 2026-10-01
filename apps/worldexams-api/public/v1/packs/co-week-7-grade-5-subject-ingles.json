@@ -13,31 +13,31 @@
       "context": "On a cold morning in Bogota, a girl puts on a warm jacket before going to school.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Jacket.",
           "is_correct": true,
           "feedback": "A jacket is a warm outer piece of clothing worn in cold weather."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Shorts.",
           "is_correct": false,
           "feedback": "Shorts are short pants worn in hot weather, not in cold weather."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sandals.",
           "is_correct": false,
           "feedback": "Sandals are open shoes for hot days, not for cold mornings."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Cap.",
           "is_correct": false,
           "feedback": "A cap protects from the sun, but it does not keep the body warm."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Identifying basic clothes vocabulary by its use in cold weather in English (jacket, shorts, sandals, cap).",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "Read: \"It is a sunny day in Cartagena. Laura wears a T-shirt and shorts because it is very hot.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Because it is a sunny and very hot day in Cartagena.",
           "is_correct": true,
           "feedback": "The text directly states that the sunny hot weather is the reason for her clothes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Because it is a cold morning with rain.",
           "is_correct": false,
           "feedback": "Cold and rain are not mentioned; the day is described as sunny and hot."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Because she goes to swim in a cold river.",
           "is_correct": false,
           "feedback": "Swimming in a river is not mentioned in the passage."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Because she likes winter and snow.",
           "is_correct": false,
           "feedback": "Winter and snow are not part of the Cartagena context."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Inferring the reason for wearing certain clothes from a short descriptive text in English.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "It is the rainy season in Medellin. A boy looks at the dark clouds and takes his umbrella.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "He takes his umbrella because it is the rainy season.",
           "is_correct": true,
           "feedback": "\"Takes\" agrees with the third person singular subject \"he\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "He take his umbrella because it is the rainy season.",
           "is_correct": false,
           "feedback": "\"Take\" without -s is incorrect with \"he\" in Simple Present."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "He taking his umbrella because it is the rainy season.",
           "is_correct": false,
           "feedback": "\"Taking\" is a gerund and needs an auxiliary verb in this construction."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "He takes his umbrellas because it is the rainy season.",
           "is_correct": false,
           "feedback": "\"Umbrellas\" in plural is incorrect; he takes one umbrella."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Using the verb \"take\" with the third person singular to describe clothes and objects for rainy weather in English.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Read: \"Sofia packs a suitcase for Cartagena: T-shirts, shorts, and sandals. For Bogota she packs a jacket, a sweater, and boots.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Light clothes for hot Cartagena and warm clothes for cold Bogota.",
           "is_correct": true,
           "feedback": "The text lists T-shirts and shorts for Cartagena and jacket, sweater and boots for Bogota."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "A jacket and boots for Cartagena and shorts for Bogota.",
           "is_correct": false,
           "feedback": "The suitcase lists are reversed; warm clothes are for Bogota, not Cartagena."
@@ -267,7 +267,7 @@
           "feedback": "She packs different clothes because the weather in each city is different."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Identifying appropriate clothes for different Colombian climates from a short descriptive paragraph in English.",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Compare two children: \"Diego wears shorts and a T-shirt in sunny Santa Marta. Camilo wears a sweater, a jacket, and boots on a cold morning in Tunja.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Diego dresses for hot sunny weather, while Camilo dresses for cold weather.",
           "is_correct": true,
           "feedback": "Shorts and T-shirt suit heat, while sweater, jacket and boots suit cold."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Diego also wears a sweater and boots in the heat.",
           "is_correct": false,
           "feedback": "The text says Diego wears shorts and a T-shirt, not warm clothes."
@@ -313,7 +313,7 @@
           "feedback": "Both children choose clothes that match the weather in their city."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Comparing clothing choices described in English to draw conclusions about weather differences.",
       "difficulty": "8",
       "images": [],

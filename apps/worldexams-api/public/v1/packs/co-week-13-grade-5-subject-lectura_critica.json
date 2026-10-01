@@ -151,19 +151,19 @@
       "context": "Lee esta respuesta de Catalina: \"Comencé a los siete años en el parque de mi barrio, en Bello. Mi mamá me llevaba cada tarde después del colegio\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "En el parque de su barrio, en Bello.",
           "is_correct": true,
           "feedback": "La respuesta indica claramente el parque del barrio donde inició."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En una escuela de patinaje de Bogotá.",
           "is_correct": false,
           "feedback": "El texto menciona Bello, no Bogotá."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "En el coliseo de una ciudad de otro país.",
           "is_correct": false,
           "feedback": "La deportista señala un lugar de su propio barrio en Colombia."
@@ -175,7 +175,7 @@
           "feedback": "Se habla de un parque y de patinaje, no de una cancha de fútbol."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Localización de información explícita en el testimonio para responder preguntas de comprensión literal.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "Lee el consejo de Catalina: \"Que sean constantes y no dejen de estudiar. El deporte y el estudio pueden ir juntos\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Que sean constantes y no abandonen sus estudios.",
           "is_correct": true,
           "feedback": "La deportista recomienda combinar la constancia deportiva con el estudio."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que dejen el colegio para entrenar todo el día.",
           "is_correct": false,
           "feedback": "Ella afirma lo contrario: el deporte y el estudio pueden ir juntos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que solo practiquen un deporte si ganan dinero.",
           "is_correct": false,
           "feedback": "El consejo no menciona el dinero como condición para practicar deporte."
@@ -221,7 +221,7 @@
           "feedback": "Catalina comenzó a los siete años, así que no sugiere esperar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Interpretación del consejo de la entrevistada y su relación con la responsabilidad académica.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Catalina afirma: \"Hubo días en que quería rendirme, pero mi familia me animó a seguir\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que reconoce sus momentos difíciles y valora el apoyo familiar para continuar.",
           "is_correct": true,
           "feedback": "La respuesta muestra honestidad sobre las dificultades y gratitud hacia su familia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que nunca sintió ninguna dificultad en su carrera.",
           "is_correct": false,
           "feedback": "Ella misma admite que hubo días en que quiso rendirse."
@@ -267,7 +267,7 @@
           "feedback": "El relato indica que continuó gracias al apoyo recibido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Análisis del tono y la actitud de la entrevistada a partir de sus propias declaraciones.",
       "difficulty": "8",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "El periodista escribe en la introducción: \"Catalina Ríos, de veinte años, ha ganado tres medallas en campeonatos nacionales y entrena seis días a la semana\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Datos verificables sobre la trayectoria y la disciplina de la deportista.",
           "is_correct": true,
           "feedback": "La edad, las medallas y los entrenamientos respaldan la credibilidad del testimonio."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La opinión personal del periodista sobre el clima de la ciudad.",
           "is_correct": false,
           "feedback": "La introducción presenta datos de la deportista, no comentarios sobre el clima."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una receta para preparar bebidas energéticas.",
           "is_correct": false,
           "feedback": "El texto no contiene indicaciones de cocina."
@@ -313,7 +313,7 @@
           "feedback": "No se enumeran equipos ni marcas de patines."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Análisis de la función de los datos de contexto que el periodista incluye antes de las preguntas.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Al final de la entrevista, Catalina dice: \"El deporte y el estudio pueden ir juntos\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es una invitación a combinar la disciplina deportiva con la responsabilidad académica.",
           "is_correct": true,
           "feedback": "El mensaje central propone que ambas actividades se complementan en la vida de los niños."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es una orden de abandonar el colegio para entrenar sin descanso.",
           "is_correct": false,
           "feedback": "La deportista sostiene lo contrario: el estudio no debe dejarse de lado."
@@ -359,7 +359,7 @@
           "feedback": "Ella comparte su experiencia, sin garantizar resultados para todos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluación del mensaje global de la entrevista y de su valor formativo para los lectores infantiles.",
       "difficulty": "10",
       "images": [],

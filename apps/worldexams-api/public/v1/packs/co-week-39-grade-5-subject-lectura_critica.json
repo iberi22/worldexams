@@ -13,31 +13,31 @@
       "context": "Lea atentamente el siguiente fragmento de un cuento fantástico colombiano: \"En un pueblo del Eje Cafetero vivía Mariana, una niña que descubrió detrás del cafetal de su abuela una puerta tallada en un guayacán centenario. Al cruzarla llegó al reino de Nubelaria, un mundo flotante donde las nubes eran caminos de algodón y los colibríes gigantes transportaban cartas de cristal. Allí la recibió don Aurelio, un guardián de barba plateada que le explicó que Nubelaria estaba perdiendo su luz porque el Corazón de Niebla se había apagado\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Detrás del cafetal de su abuela, tallada en un guayacán centenario.",
           "is_correct": true,
           "feedback": "El texto indica con claridad que la puerta estaba detrás del cafetal, tallada en un guayacán centenario."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En el patio de su escuela, escondida dentro de un libro de cuentos.",
           "is_correct": false,
           "feedback": "La escuela no aparece en el fragmento; la puerta estaba en el cafetal de la abuela."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "En la cima de un nevado, custodiada por un ejército de colibríes.",
           "is_correct": false,
           "feedback": "Los colibríes transportan cartas en Nubelaria, pero no custodiaban la puerta en ningún nevado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "En el mercado del pueblo, vendida por un comerciante viajero.",
           "is_correct": false,
           "feedback": "Ningún comerciante ni mercado se mencionan en el fragmento leído."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La comprensión literal exige localizar información explícita sobre lugares y hechos tal como aparecen en el texto.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Más adelante en la historia, Mariana encuentra un puente de cristal resquebrajado sobre un abismo de niebla. Un cartel tallado en piedra dice: \"Solo cruza quien deje aquí su miedo\". Mariana respira profundo, escribe en un papel su temor a la oscuridad, lo deja al borde del puente y cruza con paso firme hasta la otra orilla.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que reconocer los miedos y dejarlos atrás con decisión permite avanzar hacia las metas.",
           "is_correct": true,
           "feedback": "Mariana nombra su miedo, lo deja simbólicamente atrás y logra cruzar, lo cual se aplica a enfrentar temores reales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que los puentes de cristal siempre son seguros y nunca presentan peligro alguno.",
           "is_correct": false,
           "feedback": "El puente estaba resquebrajado sobre un abismo; el mensaje no trata de la seguridad de los puentes."
@@ -129,7 +129,7 @@
           "feedback": "La escena celebra lo contrario: cruzar con valor en lugar de retroceder ante la dificultad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar el sentido simbólico de una escena fantástica a situaciones cotidianas desarrolla la transferencia entre ficción y experiencia personal.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "Al final del cuento, Mariana siembra la semilla de café con esperanza, el Corazón de Niebla se enciende y el reino recupera la luz. Don Aurelio le dice: \"Recuerda, pequeña: los mundos se salvan con semillas pequeñas sembradas con amor\". Mariana regresa a su pueblo y organiza con sus compañeros una huerta escolar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Motivar a los lectores a transformar lo aprendido en la fantasía en acciones solidarias reales.",
           "is_correct": true,
           "feedback": "El regreso de Mariana y la huerta escolar conectan la aventura imaginaria con un compromiso concreto en su comunidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Informar sobre las técnicas agrícolas correctas para sembrar café en el Eje Cafetero.",
           "is_correct": false,
           "feedback": "El cuento no explica técnicas de cultivo; la siembra es un símbolo de esperanza, no un manual agrícola."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Prohibir a los niños imaginar mundos fantásticos para concentrarse solo en el trabajo.",
           "is_correct": false,
           "feedback": "La historia celebra la imaginación; la huerta nace precisamente de lo vivido en el mundo imaginario."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Demostrar que los reinos imaginarios existen físicamente detrás de todos los cafetales.",
           "is_correct": false,
           "feedback": "Nubelaria es un mundo de ficción; el desenlace invita a actuar en la realidad, no a buscar reinos literales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Identificar la intención discursiva del desenlace ayuda a comprender cómo la literatura fantástica propone valores aplicables a la convivencia.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "Un compañero de Mariana afirma que los colibríes gigantes, el guardián de barba plateada y el Corazón de Niebla son elementos innecesarios porque \"un cuento debería contar solo cosas que pasan de verdad\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Representan símbolos (la ayuda, la sabiduría y la esperanza) que permiten reflexionar sobre valores humanos.",
           "is_correct": true,
           "feedback": "Cada elemento mágico encarna una idea: los colibríes la solidaridad, don Aurelio la guía sabia y el Corazón la esperanza colectiva."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sirven únicamente como decoración bonita sin ninguna relación con el mensaje de la historia.",
           "is_correct": false,
           "feedback": "Los elementos fantásticos están ligados al conflicto y a su solución, no son adornos sueltos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Demuestran que la autora desconocía la realidad del Eje Cafetero y sus costumbres.",
           "is_correct": false,
           "feedback": "El cuento parte de elementos reales (el café, el guayacán) y los combina a propósito con fantasía."
@@ -267,7 +267,7 @@
           "feedback": "El desenlace con la huerta escolar prueba que la fantasía sí deja enseñanzas aplicables."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Analizar la función simbólica de los elementos fantásticos permite distinguir entre lo decorativo y lo significativo en un texto literario.",
       "difficulty": "8",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "Compare estas dos versiones del inicio del cuento. Versión 1: \"Mariana cruzó la puerta y llegó a Nubelaria. El reino estaba oscuro. Ella debía encender el Corazón. Lo encendió y todos celebraron\". Versión 2 (la original): presenta el cafetal, el guayacán, los caminos de algodón, el diálogo con don Aurelio y la misión de la semilla sembrada con esperanza.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Se pierde la caracterización del mundo imaginario y la motivación profunda de la protagonista.",
           "is_correct": true,
           "feedback": "Sin descripciones ni diálogos, el lector no conoce Nubelaria ni entiende por qué la semilla sembrada con esperanza es la solución."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La historia gana suspenso porque el lector debe adivinar todos los detalles faltantes.",
           "is_correct": false,
           "feedback": "Omitir información esencial no crea suspenso, sino confusión y desinterés por personajes planos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El mensaje sobre la esperanza se vuelve más claro al eliminar descripciones innecesarias.",
           "is_correct": false,
           "feedback": "Sin el desarrollo de la misión, la esperanza queda como una palabra vacía sin sustento narrativo."
@@ -313,7 +313,7 @@
           "feedback": "La versión original construye atmósfera y vínculos afectivos que la versión resumida no logra."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Comparar versiones de un mismo relato permite analizar cómo la descripción y el diálogo sostienen el mundo narrativo y el sentido del texto.",
       "difficulty": "8",
       "images": [],

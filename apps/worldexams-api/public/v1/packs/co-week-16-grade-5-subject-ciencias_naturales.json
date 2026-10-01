@@ -13,19 +13,19 @@
       "context": "En el patio de una casa de Pasto, una estudiante observa que de una papa sembrada en la huerta brotan nuevas plantas después de unas semanas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Reproducción asexual.",
           "is_correct": true,
           "feedback": "En la reproducción asexual participa un solo progenitor y no hay unión de gametos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Reproducción sexual.",
           "is_correct": false,
           "feedback": "La reproducción sexual requiere la unión de una célula sexual masculina y otra femenina."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fotosíntesis.",
           "is_correct": false,
           "feedback": "La fotosíntesis es el proceso por el cual las plantas fabrican su alimento usando la luz solar."
@@ -37,7 +37,7 @@
           "feedback": "La respiración celular libera energía de los nutrientes y no genera nuevos individuos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Identificación del concepto de reproducción asexual y su diferencia con la reproducción sexual.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "En una finca de Villavicencio, un agricultor explica que las gallinas nacen de huevos que la gallina pone después del apareamiento con el gallo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Participan dos progenitores y se unen una célula sexual masculina y una femenina.",
           "is_correct": true,
           "feedback": "La reproducción sexual implica la fecundación, es decir, la unión de dos gametos de distinto progenitor."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un solo animal crea copias idénticas de sí mismo sin ayuda de otro.",
           "is_correct": false,
           "feedback": "Ese proceso corresponde a la reproducción asexual, no a la sexual."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los descendientes surgen del polvo que se acumula en el nido.",
           "is_correct": false,
           "feedback": "Los nuevos seres vivos provienen de la fecundación, no de materia sin vida."
@@ -83,7 +83,7 @@
           "feedback": "En la reproducción sexual siempre intervienen un progenitor masculino y uno femenino."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Comprensión de la fecundación como momento central de la reproducción sexual en los animales.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "En un vivero de Manizales, una jardinera corta un tallo de una planta de rosas y lo siembra en tierra húmeda; al cabo de un tiempo el tallo desarrolla raíces y da una nueva planta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Reproducción asexual por fragmentación, porque de una parte del progenitor surge un nuevo individuo.",
           "is_correct": true,
           "feedback": "Al sembrar un fragmento del tallo se forma una planta independiente sin intervención de gametos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Reproducción sexual por fecundación de flores vecinas.",
           "is_correct": false,
           "feedback": "No hubo unión de células sexuales; la nueva planta proviene solo del fragmento del tallo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Reproducción por esporas liberadas al aire.",
           "is_correct": false,
           "feedback": "Las esporas son propias de hongos, musgos y helechos; aquí se usó un fragmento de tallo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No hubo reproducción porque la planta madre no produjo semillas.",
           "is_correct": false,
           "feedback": "La ausencia de semillas no impide la reproducción; muchas plantas se reproducen vegetativamente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aplicación del concepto de reproducción asexual vegetativa en una práctica agrícola cotidiana.",
       "difficulty": "6",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En una salida de campo a un cultivo de café en el Quindío, los estudiantes ven flores que producen polen y observan abejas que lo transportan de una flor a otra.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Lleva la célula sexual masculina hasta la parte femenina de la flor para lograr la fecundación.",
           "is_correct": true,
           "feedback": "El polen contiene el gameto masculino y al llegar al pistilo permite la fecundación y la formación de semillas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Alimenta directamente a la nueva planta que nace dentro del fruto.",
           "is_correct": false,
           "feedback": "El polen interviene en la fecundación; el alimento de la semilla lo aporta la planta madre."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sirve solo para dar color y aroma a la flor.",
           "is_correct": false,
           "feedback": "El color y el aroma atraen polinizadores, pero la función del polen es reproductiva."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Impide que las abejas visiten otras flores del cultivo.",
           "is_correct": false,
           "feedback": "El polen es transportado por las abejas justamente para fecundar otras flores."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Relación entre la polinización y la fecundación en plantas con flores a partir de la observación de campo.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Un grupo de estudiantes germina semillas de fríjol de un mismo paquete. Al medir las plantas semanas después, observan que todas se parecen pero varían ligeramente en altura, color de hoja y tamaño del tallo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La reproducción sexual combina caracteres de dos progenitores y produce descendientes parecidos pero no idénticos.",
           "is_correct": true,
           "feedback": "La semilla resulta de la fecundación, por lo que cada planta recibe una mezcla única de información hereditaria."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las diferencias ocurren porque cada semilla fue sembrada a distinta hora del día.",
           "is_correct": false,
           "feedback": "La hora de siembra no explica las variaciones de altura, color y tallo registradas."
@@ -267,7 +267,7 @@
           "feedback": "Todas provienen del mismo paquete y del mismo tipo de planta, así que son la misma especie."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Análisis de datos de germinación para reconocer la variabilidad como resultado de la reproducción sexual.",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En una huerta de Cúcuta, una planta de fresa produce estolones que enraízan y forman nuevas plantas idénticas a la madre. Al mismo tiempo, sus flores son visitadas por insectos que transportan polen.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La planta puede reproducirse de las dos formas: asexual por estolones (idéntica) y sexual por flores (con variabilidad).",
           "is_correct": true,
           "feedback": "Una misma especie puede combinar reproducción asexual y sexual según las condiciones y las estructuras que utilice."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La planta solo se reproduce sexualmente porque tiene flores.",
           "is_correct": false,
           "feedback": "Los estolones son un mecanismo asexual que también genera nuevas plantas en esta especie."
@@ -313,7 +313,7 @@
           "feedback": "Aunque existan estolones, las flores siguen participando en la reproducción sexual y la variabilidad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Análisis de la coexistencia de la reproducción asexual y sexual en una misma planta y sus diferencias.",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "Un productor de plátano en el Urabá antioqueño desea conservar exactamente las características de su mejor planta. Un técnico le recomienda reproducirla asexualmente por hijuelos, en lugar de sembrar semillas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Es acertada porque la reproducción asexual produce copias genéticamente idénticas que conservan las cualidades de la planta elegida.",
           "is_correct": true,
           "feedback": "Al no haber combinación genética, los hijuelos mantienen las mismas características de la planta madre."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es equivocada porque las semillas garantizan plantas exactamente iguales a la madre.",
           "is_correct": false,
           "feedback": "Las semillas provienen de reproducción sexual y suelen dar descendientes distintos entre sí."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es acertada porque los hijuelos crecen sin necesidad de agua ni suelo.",
           "is_correct": false,
           "feedback": "Los hijuelos requieren agua, suelo y nutrientes igual que cualquier planta."
@@ -359,7 +359,7 @@
           "feedback": "La reproducción asexual es común en plantas, como ocurre con los hijuelos del plátano."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evaluación de la aplicación de la reproducción asexual para conservar características deseables en cultivos.",
       "difficulty": "10",
       "images": [],

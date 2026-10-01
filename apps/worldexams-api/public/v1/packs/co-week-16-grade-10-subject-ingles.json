@@ -19,13 +19,13 @@
           "feedback": "Second Conditional."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "had paid / would have",
           "is_correct": true,
           "feedback": "Correct. Mixed Conditional (Past condition -> Present result)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "had paid / would have had",
           "is_correct": false,
           "feedback": "Third Conditional (Past result)."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Mixed Conditional 1: If + Past Perfect (Past hypothetical condition), Would + Verb (Present hypothetical result).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -65,25 +65,25 @@
           "feedback": "Second Conditional."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "weren't / would have gone",
           "is_correct": true,
           "feedback": "Correct. Mixed Conditional (Present state -> Past hypothetical result)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "hadn't been / would have gone",
           "is_correct": false,
           "feedback": "Third Conditional."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "isn't / went",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Mixed Conditional 2: If + Past Simple (Present hypothetical state), Would have + Past Participle (Past hypothetical result).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -111,25 +111,25 @@
           "feedback": "Second Conditional."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "would have taken / spoke",
           "is_correct": true,
           "feedback": "Correct. Mixed Conditional (Present state -> Past result)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "would have taken / had spoken",
           "is_correct": false,
           "feedback": "Third Conditional."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "took / speak",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Using a present ability (or lack thereof) to speculate about a different past outcome.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -203,25 +203,25 @@
           "feedback": "Second Conditional."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "had eaten / wouldn't have",
           "is_correct": true,
           "feedback": "Correct. Past habit -> Present state."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "had eaten / wouldn't have had",
           "is_correct": false,
           "feedback": "Third Conditional."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "were eating / won't have",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Connecting past lifestyle choices to present health outcomes through Mixed Conditionals.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -249,25 +249,25 @@
           "feedback": "Second Conditional."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "would be / had bought",
           "is_correct": true,
           "feedback": "Correct. Past action -> Present state of completion."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "would have been / had bought",
           "is_correct": false,
           "feedback": "Third Conditional."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "will be / had bought",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Speculating about the present status of a project based on a past decision.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "A text about global warming.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "were / hadn't built",
           "is_correct": false,
           "feedback": "Second Conditional."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "would be / hadn't built",
           "is_correct": true,
           "feedback": "Correct. Past action -> Present state."
@@ -359,7 +359,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Using Mixed Conditionals to discuss environmental outcomes.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,25 +387,25 @@
           "feedback": "Second Conditional."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "knew / would have saved",
           "is_correct": true,
           "feedback": "Correct. Present knowledge (hypothetical) -> Past result."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "had known / would have saved",
           "is_correct": false,
           "feedback": "Third Conditional."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "know / would save",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Speculating on past events based on a hypothetical present ability or knowledge.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "A formal hypothetical about diplomacy.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "been / wouldn't be",
           "is_correct": true,
           "feedback": "Correct. Inversion (Had been) + would be. Mixed Conditional."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "was / wouldn't be",
           "is_correct": false,
           "feedback": "Incorrect syntax."
@@ -451,7 +451,7 @@
           "feedback": "Third Conditional with inversion."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Advanced B2 structure: Inversion in a Mixed Conditional (Had + subject + past participle) for past condition and present result.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -479,13 +479,13 @@
           "feedback": "Incorrect."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "would be / had designed",
           "is_correct": true,
           "feedback": "Correct. Past action -> Present state."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "would have been / had designed",
           "is_correct": false,
           "feedback": "Third Conditional."
@@ -497,7 +497,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Applying Mixed Conditionals to urban and social development analysis.\n\n---",
       "difficulty": "10",
       "images": [],

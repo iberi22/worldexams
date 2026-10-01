@@ -13,13 +13,13 @@
       "context": "Describing a movie production.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "filmed",
           "is_correct": false,
           "feedback": "Incorrect. This would mean the movie did the filming. We need the passive form."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "was filmed",
           "is_correct": true,
           "feedback": "Correct! Past Simple Passive (was/were + past participle) for a finished action."
@@ -37,7 +37,7 @@
           "feedback": "Incorrect. This would be used if the specific time wasn't mentioned."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Usamos la voz pasiva en el pasado (*was filmed*) cuando queremos resaltar qué se filmó en lugar de quién lo filmó, especialmente si mencionamos un tiempo específico como *last year*.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "Talking about a famous artist's impact.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "played",
           "is_correct": false,
           "feedback": "Incorrect. Active voice in the past."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "are playing",
           "is_correct": false,
           "feedback": "Incorrect. Active voice in the continuous."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "are played",
           "is_correct": true,
           "feedback": "Correct! Present Simple Passive (am/is/are + past participle) for regular actions."
@@ -83,7 +83,7 @@
           "feedback": "Incorrect. This refers to the past."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Para hablar de acciones habituales o hechos generales en voz pasiva, utilizamos el Presente Simple del verbo *to be* más el participio pasado del verbo principal.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Discussing recent changes in social media algorithms.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "has changed",
           "is_correct": false,
           "feedback": "Incorrect. This is active voice; we need the passive."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "has been changed",
           "is_correct": true,
           "feedback": "Correct! Present Perfect Passive for an action that has happened recently."
@@ -129,7 +129,7 @@
           "feedback": "Incorrect. This refers to an action in progress right now."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La voz pasiva en el Presente Perfecto (*has been changed*) se utiliza para acciones que han ocurrido en un tiempo no determinado pero reciente, afectando el estado presente.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -157,25 +157,25 @@
           "feedback": "Incorrect. Active voice."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "was cancelled",
           "is_correct": true,
           "feedback": "Correct! Past Simple Passive."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "is cancelled",
           "is_correct": false,
           "feedback": "Incorrect. Present tense."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "has been cancelled",
           "is_correct": false,
           "feedback": "Incorrect. \"Last night\" specifies a finished past time."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Cuando el agente de la acción (quien canceló el concierto) no es lo más importante, usamos la voz pasiva para enfocarnos en el evento afectado.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -203,25 +203,25 @@
           "feedback": "Incorrect. Active voice."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "will be announced",
           "is_correct": true,
           "feedback": "Correct! Future Simple Passive (will be + past participle)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "are going to announce",
           "is_correct": false,
           "feedback": "Incorrect. Active voice."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "will being announced",
           "is_correct": false,
           "feedback": "Incorrect. Grammatically incorrect form."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Para eventos futuros donde el foco es lo que sucederá, usamos la pasiva con *will be* seguida del participio pasado.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -341,25 +341,25 @@
           "feedback": "Incorrect. \"People\" is too vague as a subject."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "The movie was directed by Steven Spielberg in 1994.",
           "is_correct": true,
           "feedback": "Correct! Formal style often uses passive with \"by\" for the creator."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Steven Spielberg directed the movie in 1994.",
           "is_correct": false,
           "feedback": "Incorrect. While correct, B is often preferred in reviews to highlight the movie first."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "The movie directed Steven Spielberg in 1994.",
           "is_correct": false,
           "feedback": "Incorrect. Logically impossible."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En críticas formales de arte o cine, es común usar la voz pasiva para poner la obra como sujeto, mencionando al autor con la preposición *by*.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,25 +387,25 @@
           "feedback": "Incorrect. Active voice."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "shouldn't be shared",
           "is_correct": true,
           "feedback": "Correct! Passive with modal verbs (modal + be + past participle)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "shouldn't being shared",
           "is_correct": false,
           "feedback": "Incorrect. Grammatically incorrect."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "shouldn't shared",
           "is_correct": false,
           "feedback": "Incorrect. Missing \"be\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Al usar verbos modales en pasiva, la estructura es: *modal + be + participio pasado*. Esto es muy útil para dar consejos o reglas generales.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "Finding an error in a technical text about media.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "was written",
           "is_correct": false,
           "feedback": "Incorrect. Correct use of Past Simple Passive."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "was being sent",
           "is_correct": true,
           "feedback": "Incorrect. This implies a continuous action in the past; it should be Past Simple Passive (*was sent*) for a single completed action."
@@ -451,7 +451,7 @@
           "feedback": "Incorrect. Correct use of Future Simple Passive."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "A nivel B2, el estudiante debe distinguir entre un proceso continuo en el pasado (*was being sent*) y un evento puntual (*was sent*). Enviar un guion es habitualmente una acción puntual.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -479,13 +479,13 @@
           "feedback": "Incorrect. \"Someone\" is too informal and vague for news."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Passwords of 5,000 users have been stolen in a cyberattack.",
           "is_correct": true,
           "feedback": "Correct! Passive voice focuses on the victims and the serious event."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "A hacker was stealing passwords yesterday.",
           "is_correct": false,
           "feedback": "Incorrect. Focuses on the hacker, which might be unknown."
@@ -497,7 +497,7 @@
           "feedback": "Incorrect. This makes the users the actors, which is not the case."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "En el periodismo, la voz pasiva es fundamental para reportar hechos donde el perpetrador es desconocido o donde el impacto en las víctimas es lo más relevante.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -525,25 +525,25 @@
           "feedback": "Incorrect. Active voice in the second part."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "was controlled / is being created",
           "is_correct": true,
           "feedback": "Correct! Passive voice in both parts, reflecting the shift in power."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "is controlled / was created",
           "is_correct": false,
           "feedback": "Incorrect. Tenses are inverted."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "has been controlled / is created",
           "is_correct": false,
           "feedback": "Incorrect. First part refers to a finished past era."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Este ejercicio requiere evaluar el cambio histórico en los medios: de un control centralizado en el pasado (*was controlled*) a una creación masiva y actual (*is being created*).",
       "difficulty": "10",
       "images": [],

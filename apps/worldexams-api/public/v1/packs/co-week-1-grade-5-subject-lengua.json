@@ -59,31 +59,31 @@
       "context": "En Medellín, Mariana escribió una nota corta para contar cómo cuida a su gata en casa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Que Luna toma leche en la mañana y duerme en una caja azul.",
           "is_correct": true,
           "feedback": "Es correcta porque resume con otras palabras lo que la nota dice de forma explícita."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que Luna sale a pasear todas las tardes al parque.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la nota no habla de paseos ni de parques."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que Luna está enferma y necesita medicinas.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la nota no menciona enfermedad ni medicinas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que Luna vive en la casa de la abuela.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la nota dice que duerme junto a la cama de Mariana."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Comprender de manera literal también implica decir con palabras propias lo que el texto afirma. La opción correcta conserva los dos datos explícitos, la leche en la mañana y la caja azul, sin agregar ideas nuevas.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En Cali, Santiago se prepara para salir al colegio mientras su mamá lo observa desde la puerta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que probablemente va a llover y él se prepara para la lluvia.",
           "is_correct": true,
           "feedback": "Es correcta porque la sombrilla y las botas son señales claras de lluvia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que hace mucho calor y quiere ir a la piscina.",
           "is_correct": false,
           "feedback": "Es incorrecta porque con calor no se usan botas de caucho ni sombrilla para la lluvia."
@@ -129,7 +129,7 @@
           "feedback": "Es incorrecta porque alistarse muestra que sí va a salir."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Inferir es unir las pistas del texto con lo que sabemos del mundo. La sombrilla y las botas permiten concluir que el día está lluvioso, aunque el texto no lo diga directamente. Esta deducción se apoya en la descripción de sus acciones.",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En Cartagena, Juan acompaña a su papá al mercado de pescado en la mañana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Que sus clientes confían en él y prefieren comprarle a él.",
           "is_correct": true,
           "feedback": "Es correcta porque la fila larga frente a puestos vacíos muestra preferencia de los compradores."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que vende más caro y nadie quiere comprarle.",
           "is_correct": false,
           "feedback": "Es incorrecta porque si fuera caro no tendría fila larga."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que está cerrado y no atiende a nadie.",
           "is_correct": false,
           "feedback": "Es incorrecta porque una fila larga indica que sí está atendiendo."
@@ -175,7 +175,7 @@
           "feedback": "Es incorrecta porque el texto habla de un puesto de venta, no de regalos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La inferencia permite leer entre líneas: comparar la fila larga con los puestos vacíos lleva a concluir la confianza de los clientes. No se afirma directamente, pero las pistas son suficientes para deducirlo con lógica.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En una tienda escolar de Pereira, Valentina compra un jugo de 2500 pesos y paga con un billete de 5000 pesos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Que el jugo costaba 2500 pesos y la devuelta fue correcta.",
           "is_correct": true,
           "feedback": "Es correcta porque 5000 menos 2500 deja exactamente 2500 de devuelta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que el jugo era gratis y no había que pagar.",
           "is_correct": false,
           "feedback": "Es incorrecta porque hubo pago y devuelta de dinero."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que Valentina pagó con monedas de 500 pesos.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el texto dice que pagó con un billete de 5000 pesos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que el tendero se quedó con todo el billete sin devolver nada.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el texto afirma que devolvió 2500 pesos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aplicar la información del texto permite verificar la operación: si entrega 5000 y recibe 2500 de vuelta, el precio era 2500. Este tipo de lectura también sirve para revisar cuentas sencillas y mejorar la comunicación en la tienda.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En Manizales, dos estudiantes opinan sobre el mismo partido de fútbol del colegio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que Juan culpa a otra persona y Mariana reconoce la responsabilidad del equipo.",
           "is_correct": true,
           "feedback": "Es correcta porque distingue la excusa externa de la autocrítica del equipo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que los dos dicen exactamente lo mismo con otras palabras.",
           "is_correct": false,
           "feedback": "Es incorrecta porque uno culpa al árbitro y la otra habla del juego del equipo."
@@ -267,7 +267,7 @@
           "feedback": "Es incorrecta porque ambos comentan lo que pasó en el partido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Analizar opiniones exige comparar a quién atribuye cada uno la causa del resultado. Juan busca un culpable fuera del equipo, mientras Mariana examina el propio juego. Reconocer esa diferencia ayuda a formar un criterio propio y también a mejorar la ortografía al escribir opiniones claras.",
       "difficulty": "8",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En Bogotá, un cartel del colegio dice: \"Cuida el agua: cierra la llave mientras te enjabonas las manos\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Convencer a los estudiantes de ahorrar agua con una acción concreta.",
           "is_correct": true,
           "feedback": "Es correcta porque el cartel propone cerrar la llave para cuidar el agua."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Informar los horarios de aseo del colegio.",
           "is_correct": false,
           "feedback": "Es incorrecta porque no menciona horarios ni jornadas de aseo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Prohibir que los estudiantes se laven las manos.",
           "is_correct": false,
           "feedback": "Es incorrecta porque pide lavarse, pero cerrando la llave al enjabonarse."
@@ -313,7 +313,7 @@
           "feedback": "Es incorrecta porque no narra hechos históricos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Analizar un texto breve incluye descubrir su propósito. El verbo \"cuida\" y la orden concreta muestran una intención persuasiva: cambiar un hábito para ahorrar agua. Distinguir informar, narrar y convencer es clave en la lectura crítica.",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En Cali, el curso quinto debe elegir el mejor resumen de un texto sobre la plaza de mercado.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La plaza abre temprano y allí campesinos y vecinos venden y compran alimentos frescos.",
           "is_correct": true,
           "feedback": "Es correcta porque conserva las ideas centrales: lugar, hora y actividad principal."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "En Cali solo se venden jugos en la noche.",
           "is_correct": false,
           "feedback": "Es incorrecta porque cambia la hora y reduce todo a los jugos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los campesinos nunca van a la plaza de mercado.",
           "is_correct": false,
           "feedback": "Es incorrecta porque contradice el texto, que dice que llegan temprano."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La plaza es un lugar sucio donde nadie compra.",
           "is_correct": false,
           "feedback": "Es incorrecta porque agrega una valoración negativa que el texto no tiene."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Evaluar un resumen exige comprobar que mantenga las ideas centrales sin agregar juicios ni cambiar datos. La opción correcta reúne apertura temprana, vendedores, compradores y productos frescos. Un buen resumen también demuestra cuidado con la escritura y la comunicación de ideas.",
       "difficulty": "10",
       "images": [],

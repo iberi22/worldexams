@@ -13,19 +13,19 @@
       "context": "En una clase de matemáticas en Ciénaga, la profesora explica cómo se leen los números decimales usando precios de la tienda del pueblo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Treinta y cinco centésimas.",
           "is_correct": true,
           "feedback": "El número 0,35 tiene 35 centésimas y se lee de esa forma."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Treinta y cinco unidades.",
           "is_correct": false,
           "feedback": "Las unidades aparecen a la izquierda de la coma, no a la derecha."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Treinta y cinco décimas.",
           "is_correct": false,
           "feedback": "Las décimas son el primer dígito después de la coma; 0,35 tiene dos."
@@ -37,7 +37,7 @@
           "feedback": "La forma correcta es \"treinta y cinco centésimas\", no \"tres coma treinta y cinco\"."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Reconocer la lectura de números decimales hasta las centésimas.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "Lee: \"En la recta numérica, los números se ubican de menor a mayor de izquierda a derecha. Cada marca equidistante representa el mismo valor.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque la recta numérica convencional crece hacia la derecha y cada marca equidistante suma el mismo valor.",
           "is_correct": true,
           "feedback": "La convención de la recta es crecer hacia la derecha."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque los números negativos van siempre a la derecha.",
           "is_correct": false,
           "feedback": "Los números negativos, cuando aparecen, van a la izquierda del cero."
@@ -83,7 +83,7 @@
           "feedback": "La dirección de la recta es siempre la misma: crece hacia la derecha."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Comprender la convención de la recta numérica para ubicar números decimales.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "Un estudiante de Pereira compara los precios de tres cuadernos: 0,5; 0,45 y 0,6 miles de pesos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "0,45 < 0,5 < 0,6.",
           "is_correct": true,
           "feedback": "0,45 centésimas es menor que 0,5 (que equivale a 0,50) y ambos son menores que 0,6."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "0,5 < 0,45 < 0,6.",
           "is_correct": false,
           "feedback": "0,5 equivale a 0,50, que es mayor que 0,45."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0,6 < 0,45 < 0,5.",
           "is_correct": false,
           "feedback": "0,6 es el mayor de los tres, no el menor."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "0,45 < 0,6 < 0,5.",
           "is_correct": false,
           "feedback": "0,5 = 0,50 y es mayor que 0,45, no menor."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aplicar la comparación de decimales para ordenarlos de menor a mayor.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Lee: \"En la frutería de Santa Marta, la balanza marca 0,75 kg de mangos para un cliente y 0,7 kg para otro.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "0,75 kg es mayor que 0,7 kg.",
           "is_correct": true,
           "feedback": "0,75 equivale a 75 centésimas y 0,7 equivale a 70 centésimas, por lo tanto 0,75 > 0,7."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "0,7 kg es mayor que 0,75 kg.",
           "is_correct": false,
           "feedback": "Al convertir a centésimas, 0,7 = 0,70, que es menor que 0,75."
@@ -221,7 +221,7 @@
           "feedback": "Todos los decimales se pueden comparar al igualar las cifras decimales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicar la comparación de decimales con distinta cantidad de cifras decimales.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "Compara: \"Un estudiante dice que 0,6 es mayor que 0,54 porque el primer decimal es 6, que es mayor que 5. Otro estudiante dice que hay que comparar los dos decimales completos.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Ambos usan la primera cifra decimal, pero comparar todo el número (0,60 contra 0,54) confirma que 0,6 es mayor.",
           "is_correct": true,
           "feedback": "Al completar las cifras se confirma la comparación inicial sin error."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El segundo estudiante está equivocado porque solo importa la primera cifra.",
           "is_correct": false,
           "feedback": "Comparar el número completo es la estrategia más segura."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El primer estudiante está equivocado porque 0,54 es mayor que 0,6.",
           "is_correct": false,
           "feedback": "0,6 equivale a 0,60, que sí es mayor que 0,54."
@@ -267,7 +267,7 @@
           "feedback": "Ambos estudiantes usan estrategias válidas de comparación."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Analizar estrategias de comparación de decimales con igual y diferente número de cifras.",
       "difficulty": "8",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "Lee: \"Una recta numérica muestra las marcas 0,0; 0,25; 0,5; 0,75 y 1,0 divididas en partes iguales. Un estudiante ubica 0,3 entre 0,25 y 0,5, más cerca de 0,25.\"",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Es adecuada, porque 0,3 está entre 0,25 y 0,5 y más cerca de 0,25.",
           "is_correct": true,
           "feedback": "0,3 es 0,05 mayor que 0,25 y 0,2 menor que 0,5, por eso queda más cerca de 0,25."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es inadecuada, porque 0,3 debería estar entre 0,5 y 0,75.",
           "is_correct": false,
           "feedback": "0,3 es menor que 0,5, así que no puede estar entre 0,5 y 0,75."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es inadecuada, porque 0,3 no se puede ubicar en la recta.",
           "is_correct": false,
           "feedback": "Todos los decimales se pueden ubicar en una recta dividida correctamente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es inadecuada, porque 0,3 es igual a 0,25.",
           "is_correct": false,
           "feedback": "0,3 y 0,25 son decimales diferentes, no iguales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Analizar la ubicación de decimales intermedios en la recta numérica.",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Lee: 'Saber comparar y ordenar números decimales es útil en la vida diaria para elegir la mejor oferta, medir con precisión ingredientes o líquidos, y registrar datos con claridad.'",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque permite tomar decisiones informadas al comparar precios, medidas y resultados en la vida cotidiana.",
           "is_correct": true,
           "feedback": "Comparar decimales es una habilidad esencial para la vida diaria."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque solo se usa en exámenes escolares sin aplicación práctica.",
           "is_correct": false,
           "feedback": "Los decimales se usan a diario en compras, mediciones y lecturas de instrumentos."
@@ -359,7 +359,7 @@
           "feedback": "Comprender la recta facilita la comparación más que solo memorizar."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Evaluar la utilidad de comparar y ordenar decimales en contextos reales.",
       "difficulty": "10",
       "images": [],

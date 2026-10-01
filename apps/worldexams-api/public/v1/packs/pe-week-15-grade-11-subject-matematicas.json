@@ -19,25 +19,25 @@
           "feedback": "Incorrecto. Este es el intercepto común de las funciones logarítmicas."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$(0, 1)$",
           "is_correct": true,
           "feedback": "Correcto. Cualquier número real (distinto de cero) elevado a la potencia cero es igual a 1."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(1, 1)$",
           "is_correct": false,
           "feedback": "Incorrecto. Solo pasaría por este punto si la base fuera 1, lo cual está excluido de la definición."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(0, 0)$",
           "is_correct": false,
           "feedback": "Incorrecto. Una función exponencial básica de la forma $a^x$ nunca toca el origen."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Para cualquier base $a$, al evaluar $f(0) = a^0 = 1$. Por lo tanto, el punto $(0, 1)$ es la ordenada al origen universal de las funciones exponenciales básicas.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,19 +58,19 @@
       "context": "Un biólogo en Iquitos observa el crecimiento de una población de bacterias.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Función lineal",
           "is_correct": false,
           "feedback": "Incorrecto. El crecimiento lineal implica un aumento constante, no proporcional."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Función cuadrática",
           "is_correct": false,
           "feedback": "Incorrecto. El crecimiento cuadrático es acelerado pero no tan rápido como el duplicado sucesivo."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Función exponencial",
           "is_correct": true,
           "feedback": "Correcto. El duplicado implica un factor multiplicativo constante, característico de los modelos exponenciales."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. La población está cambiando en el tiempo."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Cuando una magnitud aumenta o disminuye mediante un factor constante por unidad de tiempo (como duplicarse), se describe mediante una función exponencial de la forma $f(t) = C \\cdot k^t$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Evaluación de expresiones exponenciales en un examen de matemáticas en Arequipa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "18",
           "is_correct": false,
           "feedback": "Incorrecto. Elevó 3 al cuadrado en lugar de al cubo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "54",
           "is_correct": true,
           "feedback": "Correcto. $f(3) = 2 \\cdot 3^3 = 2 \\cdot 27 = 54$."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Error en el cálculo de la potencia de 3."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Siguiendo la jerarquía de operaciones, primero resolvemos la potencia ($3^3 = 27$) y luego multiplicamos por el coeficiente exterior ($2 \\times 27 = 54$).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -154,25 +154,25 @@
           "feedback": "Incorrecto. Para $a > 1$ la función es estrictamente creciente."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$0 < a < 1$",
           "is_correct": true,
           "feedback": "Correcto. Cuando la base es una fracción propia, al aumentar $x$, el valor de $a^x$ disminuye."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$a < 0$",
           "is_correct": false,
           "feedback": "Incorrecto. La base de una función exponencial real debe ser positiva."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$a = 1$",
           "is_correct": false,
           "feedback": "Incorrecto. Si $a = 1$, la función es constante ($f(x) = 1$)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Una función exponencial es creciente si $a > 1$ y decreciente si la base se encuentra entre 0 y 1.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Determinación del dominio y rango en funciones exponenciales transformadas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\langle 0, +\\infty\\rangle$",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el rango de la función $3^x$ sin desplazar."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\langle -4, +\\infty\\rangle$",
           "is_correct": true,
           "feedback": "Correcto. La función $3^x$ es siempre mayor que 0. Al restarle 4, todos los valores son mayores que -4."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Las funciones exponenciales tienen el rango restringido por una asíntota."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El rango de $a^x$ es $\\langle 0, +\\infty\\rangle$. Al aplicar una traslación vertical de $-4$ unidades, la asíntota horizontal se desplaza de $y = 0$ a $y = -4$. El rango se desplaza en la misma medida.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Incorrecto. 5 es la potencia a la que debe elevarse 2, pero la expresión es $x+1$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x = 4$",
           "is_correct": true,
           "feedback": "Correcto. $32 = 2^5$. Entonces $2^{x+1} = 2^5 \\Rightarrow x + 1 = 5 \\Rightarrow x = 4$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 16$",
           "is_correct": false,
           "feedback": "Incorrecto. Dividió 32 entre 2 en lugar de trabajar con potencias."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Error al igualar los exponentes."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Expresamos ambos miembros con la misma base: $2^{x+1} = 2^5$. Por la propiedad de inyectividad de la función exponencial, igualamos los exponentes $x + 1 = 5$ y resolvemos para $x$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,25 +334,25 @@
           "feedback": "Incorrecto. Aquí se reduciría a la mitad 10 veces cada año."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$C(t) = 80(0.5)^{t/10}$",
           "is_correct": true,
           "feedback": "Correcto. El exponente $t/10$ asegura que la base 0.5 se aplique una vez cada 10 años."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$C(t) = 80(0.5)^{t-10}$",
           "is_correct": false,
           "feedback": "Incorrecto. No modela correctamente el periodo de vida media."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$C(t) = 80 - 40t$",
           "is_correct": false,
           "feedback": "Incorrecto. Este es un modelo lineal, no exponencial de desintegración."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Para modelos de vida media, la base es 0.5 y el exponente es el tiempo transcurrido dividido por el periodo de vida media: $(t/T)$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,13 +379,13 @@
           "feedback": "Incorrecto. Al sustituir, $9^1 = 9$ y $27^0 = 1$."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x = 2$",
           "is_correct": false,
           "feedback": "Incorrecto. $9^2 = 81$ y $27^1 = 27$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 3$",
           "is_correct": true,
           "feedback": "Correcto. $(3^2)^x = (3^3)^{x-1} \\Rightarrow 3^{2x} = 3^{3x-3} \\Rightarrow 2x = 3x - 3 \\Rightarrow x = 3$."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Error en el manejo de las potencias de base 3."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Llevamos ambas bases a una base común (3). $9 = 3^2$ y $27 = 3^3$. Aplicamos potencia de potencia e igualamos los exponentes resultantes para resolver la ecuación lineal.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,25 +424,25 @@
           "feedback": "Incorrecto. El signo $+$ dentro del paréntesis indica desplazamiento a la izquierda."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Desplazando 3 a la izquierda y reflejando en el eje $X$.",
           "is_correct": true,
           "feedback": "Correcto. $x+3$ desplaza a la izquierda y el signo negativo exterior refleja respecto al eje horizontal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Desplazando 3 arriba y reflejando en el eje $Y$.",
           "is_correct": false,
           "feedback": "Incorrecto. Las transformaciones indicadas son horizontal y de reflexión axial $X$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Desplazando 3 a la izquierda y reflejando en el eje $Y$.",
           "is_correct": false,
           "feedback": "Incorrecto. El signo negativo está fuera de la función, por lo que afecta a las ordenadas ($y$)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El término $(x+3)$ produce una traslación horizontal de 3 unidades a la izquierda. El signo menos que antecede a la función completa produce una reflexión de la curva respecto al eje $X$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Resolución de ecuaciones exponenciales mediante cambio de variable.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 2$ solamente.",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó la otra solución de la ecuación cuadrática auxiliar."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 1$ y $x = 2$.",
           "is_correct": true,
           "feedback": "Correcto. Sea $u = 2^x \\Rightarrow u^2 - 6u + 8 = 0$. Factorizando: $(u-4)(u-2)=0$. Entonces $2^x = 4 \\Rightarrow x=2$; $2^x = 2 \\Rightarrow x=1$."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Al sustituir $x=0$, la expresión resulta $1-6+8 = 3 \\ne 0$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Realizamos el cambio de variable $u = 2^x$, lo que transforma la ecuación exponencial en una cuadrática: $u^2 - 6u + 8 = 0$. Resolvemos para $u$ y luego regresamos a la variable original $x$ mediante logaritmos o igualando bases.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,31 +553,31 @@
       "context": "Comparación de funciones exponenciales con diferentes bases.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$f(x) > g(x)$",
           "is_correct": true,
           "feedback": "Correcto. Para $x$ negativo, $2^x$ es $1/2^{|x|}$ y $3^x$ es $1/3^{|x|}$. Como el denominador de $g$ crece más rápido, su valor es menor. Por ejemplo, $2^{-1} = 0.5 > 3^{-1} = 0.33$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$g(x) > f(x)$",
           "is_correct": false,
           "feedback": "Incorrecto. Esto solo es cierto para $x > 0$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$f(x) = g(x)$",
           "is_correct": false,
           "feedback": "Incorrecto. Solo son iguales en $x = 0$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ambas son negativas.",
           "is_correct": false,
           "feedback": "Incorrecto. Las funciones exponenciales básicas son siempre positivas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aunque $3^x$ crece más rápido que $2^x$ para valores positivos de $x$, para valores negativos ocurre lo contrario: $3^x$ se acerca a la asíntota $y=0$ más rápidamente, por lo que sus valores son menores que los de $2^x$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Un problema de depreciación de activos en una empresa minera de Pasco.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "S/ 50.000",
           "is_correct": false,
           "feedback": "Incorrecto. Estimación demasiado baja."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "S/ 88.740",
           "is_correct": true,
           "feedback": "Correcto. $V = 200000 \\cdot (0.85)^5 \\approx 200000 \\cdot 0.4437 = 88740$."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Calculó el monto depreciado en lugar del valor residual."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La depreciación es un crecimiento exponencial negativo. El factor de retención de valor es $1 - 0.15 = 0.85$. Aplicamos la función $V(t) = P \\cdot (0.85)^t$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Incorrecto. Para $x=1$ daría 12, no 6."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$f(x) = 3 \\cdot 2^x$",
           "is_correct": true,
           "feedback": "Correcto. $6 = C \\cdot a^1$ y $24 = C \\cdot a^3$. Dividiendo: $4 = a^2 \\Rightarrow a = 2$. Luego $6 = C \\cdot 2 \\Rightarrow C = 3$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$f(x) = 2 \\cdot 3^x$",
           "is_correct": false,
           "feedback": "Incorrecto. Los valores no satisfacen las coordenadas dadas."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. El factor de crecimiento entre los puntos es menor."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Planteamos un sistema de dos ecuaciones con dos incógnitas ($C$ y $a$). Dividiendo las ecuaciones entre sí, eliminamos la constante $C$ y hallamos la base $a$. Luego sustituimos $a$ en cualquiera de las originales para hallar $C$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "Incorrecto. $5^5 = 3125$."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "3",
           "is_correct": true,
           "feedback": "Correcto. La inversa es $\\log_5(x)$. Entonces $f^{-1}(125) = \\log_5(125) = 3$, ya que $5^3 = 125$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "25",
           "is_correct": false,
           "feedback": "Incorrecto. Error de concepto sobre la función inversa."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "1/3",
           "is_correct": false,
           "feedback": "Incorrecto. Invirtió el resultado correcto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Evaluar la función inversa en un punto $y$ equivale a buscar qué valor de $x$ en la función original produce ese $y$. Planteamos $5^x = 125$, lo que nos da $x = 3$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Problema de nivel avanzado sobre límites y asíntotas, estilo UNI.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$y = 0$",
           "is_correct": false,
           "feedback": "Incorrecto. Los términos de mayor grado no se anulan al infinito."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$y = 4$",
           "is_correct": true,
           "feedback": "Correcto. Para $x$ muy grande, $f(x) \\approx \\frac{4 \\cdot 4^x}{4^x} = 4$."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Al ser un cociente de expresiones exponenciales de igual base, sí posee asíntota."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Analizamos el comportamiento de la función cuando $x \\to +\\infty$. Dividimos numerador y denominador por el término de mayor crecimiento ($4^x$). Los términos constantes divididos por $4^x$ tienden a cero, dejando el cociente de los coeficientes principales.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -784,25 +784,25 @@
           "feedback": "Incorrecto. Error al resolver para $x$ o $y$."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "5",
           "is_correct": true,
           "feedback": "Correcto. Sumando: $3 \\cdot 2^x = 24 \\Rightarrow 2^x = 8 \\Rightarrow x=3$. Sustituyendo: $8 + 3^y = 17 \\Rightarrow 3^y = 9 \\Rightarrow y=2$. Suma $3+2=5$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "6",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface las ecuaciones originales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "3",
           "is_correct": false,
           "feedback": "Incorrecto. Los valores de $x$ e $y$ son mayores."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Usamos el método de reducción sumando las dos ecuaciones para eliminar el término con $3^y$. Esto nos permite hallar el valor de $2^x$ y, por ende, de $x$. Luego sustituimos en cualquiera de las ecuaciones originales para hallar $y$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -874,13 +874,13 @@
           "feedback": "Incorrecto. Hay una solución evidente ($x=2$) y otra negativa."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "2 soluciones",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó una solución adicional entre 2 y 4... no, revisemos. $2^2=4, 2^4=16=4^2$. Hay 3 soluciones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "3 soluciones",
           "is_correct": true,
           "feedback": "Correcto. Graficando: una solución negativa (cerca de -0.76), una en $x=2$ y otra en $x=4$."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Las curvas solo se cruzan en puntos específicos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Mediante un análisis gráfico o numérico, se observa que la función exponencial $2^x$ y la parábola $x^2$ se intersecan en tres puntos: uno en el semi-eje negativo (donde la exponencial es pequeña y la parábola baja), y dos en el semi-eje positivo ($x=2$ y $x=4$).",
       "difficulty": "10",
       "images": [],

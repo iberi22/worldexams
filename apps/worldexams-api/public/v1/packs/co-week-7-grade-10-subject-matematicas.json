@@ -13,13 +13,13 @@
       "context": "En Bogotá, en clase de geometría analítica se define la pendiente de una recta que pasa por dos puntos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$m = \\frac{y_2 - y_1}{x_2 - x_1}$",
           "is_correct": true,
           "feedback": "Correcto. La pendiente es el cociente entre el cambio vertical y el cambio horizontal."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$m = \\frac{x_2 - x_1}{y_2 - y_1}$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste el orden de las diferencias."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Se restan las coordenadas, no se suman."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La pendiente $m = \\frac{y_2 - y_1}{x_2 - x_1}$ mide la inclinación de la recta como la razón entre el cambio en $y$ y el cambio en $x$.",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "En Medellín, se analiza la pendiente de una recta horizontal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$0$",
           "is_correct": true,
           "feedback": "Correcto. No hay cambio vertical, por lo que el numerador es cero."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$1$",
           "is_correct": false,
           "feedback": "Incorrecto. Pendiente $1$ corresponde a una recta a $45^\\circ$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Indefinida",
           "is_correct": false,
           "feedback": "Incorrecto. La pendiente indefinida corresponde a una recta vertical."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Negativa",
           "is_correct": false,
           "feedback": "Incorrecto. La pendiente negativa indica que la recta desciende."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En una recta horizontal, $y_2 = y_1$, así que $m = \\frac{0}{x_2 - x_1} = 0$.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En Cali, se estudia la pendiente de una recta vertical.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Indefinida",
           "is_correct": true,
           "feedback": "Correcto. No hay cambio horizontal, por lo que el denominador es cero."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$0$",
           "is_correct": false,
           "feedback": "Incorrecto. $0$ es la pendiente de una recta horizontal."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. La pendiente no se define como un número para la vertical."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "En una recta vertical, $x_2 = x_1$, por lo que el denominador es cero y la pendiente es indefinida.",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En Barranquilla, se calcula la pendiente de la recta que pasa por $P(1, 2)$ y $Q(4, 8)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$2$",
           "is_correct": true,
           "feedback": "Correcto. $m = \\frac{8 - 2}{4 - 1} = \\frac{6}{3} = 2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{1}{2}$",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste la fracción de las diferencias."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$3$",
           "is_correct": false,
           "feedback": "Incorrecto. Usaste las coordenadas en vez de las diferencias."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Ese es el cambio vertical sin dividir entre el horizontal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "$m = \\frac{y_2 - y_1}{x_2 - x_1} = \\frac{8 - 2}{4 - 1} = \\frac{6}{3} = 2$.",
       "difficulty": "6",
       "images": [],
@@ -197,19 +197,19 @@
       "context": "En Bucaramanga, se escribe la ecuación de la recta con pendiente $m = 3$ que pasa por el punto $(2, 5)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$y - 5 = 3(x - 2)$",
           "is_correct": true,
           "feedback": "Correcto. La forma punto-pendiente es $y - y_1 = m(x - x_1)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$y + 5 = 3(x + 2)$",
           "is_correct": false,
           "feedback": "Incorrecto. Los signos del punto deben restarse."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$y - 5 = 3(x + 2)$",
           "is_correct": false,
           "feedback": "Incorrecto. Se resta la abscisa del punto."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. El punto $(2, 5)$ no pertenece a esa recta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Sustituyendo en $y - y_1 = m(x - x_1)$: $y - 5 = 3(x - 2)$.",
       "difficulty": "6",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En Cartagena, se estudia la recta $-4x + 2y = 8$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$2$",
           "is_correct": true,
           "feedback": "Correcto. Despejando: $2y = 4x + 8$, luego $y = 2x + 4$; la pendiente es $2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$-2$",
           "is_correct": false,
           "feedback": "Incorrecto. Al despejar, el signo del coeficiente de $x$ cambia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{1}{2}$",
           "is_correct": false,
           "feedback": "Incorrecto. No dividiste correctamente."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Ese es el intercepto, no la pendiente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Despejando $y$: $2y = 4x + 8$, es decir $y = 2x + 4$. La pendiente es $m = 2$.",
       "difficulty": "8",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "En Cúcuta, se verifica si los puntos $A(1, 1)$, $B(3, 5)$ y $C(5, 9)$ son colineales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Sí son colineales, pues la pendiente entre $A$ y $B$ es igual a la de $B$ y $C$.",
           "is_correct": true,
           "feedback": "Correcto. $m_{AB} = \\frac{5-1}{3-1} = 2$ y $m_{BC} = \\frac{9-5}{5-3} = 2$; pendientes iguales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "No son colineales.",
           "is_correct": false,
           "feedback": "Incorrecto. Las pendientes calculadas son iguales."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. No forman triángulo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "$m_{AB} = \\frac{5-1}{3-1} = 2$ y $m_{BC} = \\frac{9-5}{5-3} = 2$. Al tener la misma pendiente, los tres puntos son colineales.",
       "difficulty": "8",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "En Ibagué, se calcula el ángulo de inclinación de una recta con pendiente $m = \\sqrt{3}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$60^\\circ$",
           "is_correct": true,
           "feedback": "Correcto. $\\tan \\theta = \\sqrt{3}$, por lo que $\\theta = 60^\\circ$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$30^\\circ$",
           "is_correct": false,
           "feedback": "Incorrecto. $\\tan 30^\\circ = \\frac{\\sqrt{3}}{3}$, no $\\sqrt{3}$."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. Ese ángulo corresponde a una recta vertical con pendiente indefinida."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El ángulo de inclinación cumple $\\tan \\theta = m$. Como $\\tan 60^\\circ = \\sqrt{3}$, entonces $\\theta = 60^\\circ$.",
       "difficulty": "10",
       "images": [],
@@ -519,19 +519,19 @@
       "context": "En Villavicencio, un tanque de agua se llena a ritmo constante. A los $2$ minutos hay $20$ litros y a los $6$ minutos hay $60$ litros.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$100$ litros",
           "is_correct": true,
           "feedback": "Correcto. La recta es $V = 10t$ (pendiente $\\frac{60-20}{6-2} = 10$); a $t = 10$, $V = 100$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$80$ litros",
           "is_correct": false,
           "feedback": "Incorrecto. Subestimaste el ritmo de llenado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$90$ litros",
           "is_correct": false,
           "feedback": "Incorrecto. La pendiente es $10$ litros por minuto, no $9$."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto. Sobrestimaste el ritmo de llenado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La pendiente es $\\frac{60 - 20}{6 - 2} = 10$ L/min. La recta pasa por $(2, 20)$: $V - 20 = 10(t - 2)$, es decir $V = 10t$. A los $10$ minutos, $V = 100$ litros.",
       "difficulty": "10",
       "images": [],

@@ -58,31 +58,31 @@
       "context": "En San Lorenzo, se estudia la pendiente de una recta trazada entre dos puntos de un gráfico de ventas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$m = \\frac{y_2 - y_1}{x_2 - x_1}$",
           "is_correct": true,
           "feedback": "¡Correcto! La pendiente es la razón de cambio vertical sobre el cambio horizontal."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$m = \\frac{x_2 - x_1}{y_2 - y_1}$",
           "is_correct": false,
           "feedback": "Incorrecto. Invirtió el cambio horizontal y el vertical."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$m = (y_2 - y_1)(x_2 - x_1)$",
           "is_correct": false,
           "feedback": "Incorrecto. La pendiente es un cociente, no un producto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$m = \\sqrt{y_2 - y_1}$",
           "is_correct": false,
           "feedback": "Incorrecto. No corresponde a la definición algebraicamente aceptada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La pendiente $m$ de una recta no vertical se define como el cociente entre la variación en $y$ y la variación en $x$: $m = \\frac{y_2 - y_1}{x_2 - x_1}$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,31 +148,31 @@
       "context": "En Encarnación, se ubica la fuente del parque de la ciudad en el centro de una circunferencia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x^2 + y^2 = 36$",
           "is_correct": true,
           "feedback": "¡Correcto! La ecuación cannónica o ordinaria con centro en el origen es $x^2 + y^2 = r^2 = 6^2 = 36$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x^2 + y^2 = 6$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó elevar el radio al cuadrado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x^2 - y^2 = 36$",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a la ecuación de una hipérbola."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(x - 6)^2 + (y - 6)^2 = 0$",
           "is_correct": false,
           "feedback": "Incorrecto. No representa la ecuación de una circunferencia de radio 6."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para una circunferencia centrada en el origen $(0,0)$, la ecuación es $x^2 + y^2 = r^2$. Con $r = 6$, $r^2 = 36$, por lo que $x^2 + y^2 = 36$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,31 +193,31 @@
       "context": "En Ciudad del Este, se calcula la distancia entre dos puntos de referencia en un mapa topográfico: $A(2, 3)$ y $B(5, 7)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$5$ unidades",
           "is_correct": true,
           "feedback": "¡Correcto! $d = \\sqrt{(5 - 2)^2 + (7 - 3)^2} = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$7$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó las diferencias $3 + 4 = 7$ sin aplicar los cuadrados ni la raíz."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\sqrt{7}$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Sumó $3 + 4 = 7$ dentro de la raíz."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$25$ unidades",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó extraer la raíz cuadrada final a 25."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Sustituyendo en la fórmula de distancia: $d = \\sqrt{(5-2)^2 + (7-3)^2} = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "En Villarrica, se halla la ecuación de una recta que pasa por un punto $P(3, -2)$ con pendiente $m = 4$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$y = 4x - 14$",
           "is_correct": true,
           "feedback": "¡Correcto! Usando $y - y_1 = m(x - x_1) \\Rightarrow y - (-2) = 4(x - 3) \\Rightarrow y + 2 = 4x - 12 \\Rightarrow y = 4x - 14$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$y = 4x - 10$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en los signos al trasponer el valor $+2$."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Usó la abscisa del punto como pendiente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Usando la forma punto-pendiente: $y - y_1 = m(x - x_1) \\Rightarrow y - (-2) = 4(x - 3) \\Rightarrow y + 2 = 4x - 12 \\Rightarrow y = 4x - 14$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "En Caacupé, se analiza la relación de perpendicularidad entre dos calles representadas por ecuaciones de rectas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$m_2 = \\frac{1}{2}$",
           "is_correct": true,
           "feedback": "¡Correcto! Dos rectas son perpendiculares si el producto de sus pendientes es $-1$, por lo que $m_2 = -\\frac{1}{m_1} = -\\frac{1}{-2} = \\frac{1}{2}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$m_2 = -2$",
           "is_correct": false,
           "feedback": "Incorrecto. Esa es la condición para que sean paralelas ($m_1 = m_2$)."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Invirtió la pendiente pero no cambió el signo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para que dos rectas sean perpendiculares, sus pendientes cumplen $m_1 \\cdot m_2 = -1$. Por lo tanto, $m_2 = -\\frac{1}{-2} = \\frac{1}{2}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,31 +418,31 @@
       "context": "En Concepción, se revisan los elementos característicos de una parábola con vértice en el origen.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x^2 = 4py$",
           "is_correct": true,
           "feedback": "¡Correcto! Una parábola vertical que abre hacia arriba centrada en el origen tiene la ecuación $x^2 = 4py$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$y^2 = 4px$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta representa una parábola horizontal que abre hacia la derecha."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x^2 = -4py$",
           "is_correct": false,
           "feedback": "Incorrecto. Abre hacia abajo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$y^2 = -4px$",
           "is_correct": false,
           "feedback": "Incorrecto. Abre hacia la izquierda."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Las parábolas verticales centradas en el origen tienen como eje focal el eje $y$, con ecuación de la forma $x^2 = 4py$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "En Luque, se convierte la ecuación general de una circunferencia a su forma ordinaria completando cuadrados.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$(x - 3)^2 + (y + 2)^2 = 25$",
           "is_correct": true,
           "feedback": "¡Correcto! $(x^2 - 6x + 9) + (y^2 + 4y + 4) = 12 + 9 + 4 = 25 \\Rightarrow (x - 3)^2 + (y + 2)^2 = 25$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$(x + 3)^2 + (y - 2)^2 = 25$",
           "is_correct": false,
           "feedback": "Incorrecto. Invirtió los signos de completación de cuadrados."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. No dividió entre 2 los coeficientes al completar los trinomios."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Agrupando y completando cuadrados:\n$(x^2 - 6x + 9) + (y^2 + 4y + 4) = 12 + 9 + 4$\n$(x - 3)^2 + (y + 2)^2 = 25$.\nCentro $C(3, -2)$ y radio $r = 5$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,31 +598,31 @@
       "context": "En Encarnación, se ubica el foco y la directriz de una antena parabólica de telecomunicaciones cuya ecuación es $y^2 = 12x$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Foco $F(3, 0)$ y directriz $x = -3$",
           "is_correct": true,
           "feedback": "¡Correcto! Al comparar $y^2 = 4px$ con $y^2 = 12x$, tenemos $4p = 12 \\Rightarrow p = 3$. Foco en $(3, 0)$ y directriz $x = -3$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Foco $F(0, 3)$ y directriz $y = -3$",
           "is_correct": false,
           "feedback": "Incorrecto. Confundió una parábola horizontal con una vertical."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Foco $F(12, 0)$ y directriz $x = -12$",
           "is_correct": false,
           "feedback": "Incorrecto. Confundió $4p$ con $p$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Foco $F(-3, 0)$ y directriz $x = 3$",
           "is_correct": false,
           "feedback": "Incorrecto. Asignó el signo del foco de forma errónea."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La ecuación es de una parábola horizontal $y^2 = 4px$. Comparando $4p = 12 \\Rightarrow p = 3$. Por lo tanto, el foco está en $(p, 0) = (3, 0)$ y la recta directriz es $x = -p \\Rightarrow x = -3$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "En Ciudad del Este, se estudia la intersección entre una recta y una circunferencia en el plano urbano.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "2 puntos: $(2, 2)$ y $(-2, -2)$",
           "is_correct": true,
           "feedback": "¡Correcto! Sustituyendo $y = x$: $x^2 + x^2 = 8 \\Rightarrow 2x^2 = 8 \\Rightarrow x^2 = 4 \\Rightarrow x = \\pm 2$. Puntos $(2,2)$ y $(-2,-2)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1 punto: $(2, 2)$ (recta tangente)",
           "is_correct": false,
           "feedback": "Incorrecto. La recta es secante y corta en dos puntos distintos."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. El sistema lineal-cuadrático de este tipo puede tener a lo sumo 2 soluciones."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Sustituyendo $y = x$ en la circunferencia: $x^2 + x^2 = 8 \\Rightarrow 2x^2 = 8 \\Rightarrow x^2 = 4 \\Rightarrow x = 2$ o $x = -2$.\nComo $y = x$, las intersecciones son $(2, 2)$ y $(-2, -2)$ (la recta es secante a la circunferencia).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "En Coronel Oviedo, se halla la ecuación de la recta mediatriz de un segmento.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$2x + y - 5 = 0$",
           "is_correct": true,
           "feedback": "¡Correcto! Punto medio $M(2, 1)$. Pendiente de $AB$: $m = 2/4 = 1/2$. Pendiente perpendicular: $m^\\perp = -2$. Mediatriz: $y - 1 = -2(x - 2) \\Rightarrow 2x + y - 5 = 0$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x + 2y - 4 = 0$",
           "is_correct": false,
           "feedback": "Incorrecto. Usó la pendiente de $AB$ en lugar de la perpendicular."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$2x - y - 3 = 0$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signo al calcular la pendiente perpendicular."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Error en la constante al pasar por el punto medio $(2,1)$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "1) Punto medio de $AB$: $M\\left(\\frac{0+4}{2}, \\frac{0+2}{2}\\right) = M(2, 1)$.\n2) Pendiente del segmento: $m_{AB} = \\frac{2 - 0}{4 - 0} = \\frac{1}{2}$.\n3) Pendiente de la mediatriz (perpendicular): $m_\\perp = -2$.\n4) Ecuación: $y - 1 = -2(x - 2) \\Rightarrow y - 1 = -2x + 4 \\Rightarrow 2x + y - 5 = 0$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "En Villarrica, se halla la ecuación de la circunferencia que pasa por tres puntos no alineados $A(0,0)$, $B(4,0)$ y $C(0,6)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x^2 + y^2 - 4x - 6y = 0$",
           "is_correct": true,
           "feedback": "¡Correcto! Sustituyendo los puntos en $x^2 + y^2 + Dx + Ey + F = 0$: $F=0$, $16 + 4D = 0 \\Rightarrow D=-4$, y $36 + 6E = 0 \\Rightarrow E=-6$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x^2 + y^2 + 4x + 6y = 0$",
           "is_correct": false,
           "feedback": "Incorrecto. Asignó signos positivos a los coeficientes $D$ y $E$."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. El término independiente $F$ debe ser 0 para pasar por el origen."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Usando la forma general $x^2 + y^2 + Dx + Ey + F = 0$:\n1) En $A(0,0) \\Rightarrow F = 0$.\n2) En $B(4,0) \\Rightarrow 4^2 + 0^2 + 4D = 0 \\Rightarrow 16 + 4D = 0 \\Rightarrow D = -4$.\n3) En $C(0,6) \\Rightarrow 0^2 + 6^2 + 6E = 0 \\Rightarrow 36 + 6E = 0 \\Rightarrow E = -6$.\nLa ecuación es $x^2 + y^2 - 4x - 6y = 0$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "En Caacupé, se analiza la tangente a una circunferencia en un punto específico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$3x + 4y - 25 = 0$",
           "is_correct": true,
           "feedback": "¡Correcto! La recta tangente en $(x_1, y_1)$ a $x^2 + y^2 = r^2$ es $x_1 x + y_1 y = r^2 \\Rightarrow 3x + 4y = 25 \\Rightarrow 3x + 4y - 25 = 0$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$4x - 3y = 0$",
           "is_correct": false,
           "feedback": "Incorrecto. Es la ecuación de la recta normal que pasa por el centro, no de la tangente."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Invirtió las coordenadas de la pendiente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El radio desde $O(0,0)$ a $P(3,4)$ tiene pendiente $m_r = \\frac{4}{3}$. La recta tangente es perpendicular al radio, por lo que su pendiente es $m_t = -\\frac{3}{4}$. Aplicando punto-pendiente en $P(3,4)$: $y - 4 = -\\frac{3}{4}(x - 3) \\Rightarrow 4y - 16 = -3x + 9 \\Rightarrow 3x + 4y - 25 = 0$.\n\n---",
       "difficulty": "10",
       "images": [],

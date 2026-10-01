@@ -13,19 +13,19 @@
       "context": "En la clase de Ciencias Sociales de la Unidad Educativa Mariscal Estigarribia en Asunción, el estudiante Santiago consulta sobre las características físicas del territorio nacional.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El río Paraguay",
           "is_correct": true,
           "feedback": "Correcto. El río Paraguay divide al país en la Región Oriental (húmeda y ondulada) y la Región Occidental o Chaco (árida, llana y semiárida)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El río Paraná",
           "is_correct": false,
           "feedback": "Incorrecto. El río Paraná constituye un límite natural con Brasil y Argentina en el este y sur, pero no divide al territorio paraguayo en sus dos grandes regiones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El río Pilcomayo",
           "is_correct": false,
           "feedback": "Incorrecto. El río Pilcomayo actúa como límite con la República Argentina en la región chaqueña, pero no realiza la división interna del país."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. El río Tebicuary es un río interno de la Región Oriental y no separa las dos grandes divisiones geográficas del Paraguay."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El río Paraguay divide de norte a sur al país en dos grandes regiones geográficas: la Oriental o Paraneña y la Occidental o Chaco.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,31 +103,31 @@
       "context": "Un geógrafo paraguayo dicta una conferencia en Ciudad del Este sobre la hidrografía y las cuencas compartidas de América del Sur.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La cuenca del Plata",
           "is_correct": true,
           "feedback": "Correcto. Todos los ríos del Paraguay desaguan directa o indirectamente en el río Paraguay o Paraná, pertenecientes al enorme sistema de la cuenca del Plata."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La cuenca del Amazonas",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque cercana geográficamente en el norte, la cuenca del Amazonas no recibe aguas superficiales directas del Paraguay."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La cuenca del Orinoco",
           "is_correct": false,
           "feedback": "Incorrecto. La cuenca del Orinoco está situada en el norte de América del Sur y no se relaciona con la hidrografía paraguaya."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La cuenca del Tocantins",
           "is_correct": false,
           "feedback": "Incorrecto. El sistema Tocantins-Araguaia discurre íntegramente por el territorio brasileño hacia el norte del continente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La hidrografía paraguaya pertenece en su totalidad a la cuenca del Plata, la segunda cuenca más grande de América del Sur.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "En un examen de Geografía del Colegio Nacional de la Capital en Asunción, se presenta un mapa físico de América del Sur para analizar la cordillera de los Andes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Actúa como una barrera orográfica que retiene la humedad del Pacífico en la vertiente occidental, provocando que los vientos lleguen secos al interior continental",
           "is_correct": true,
           "feedback": "Correcto. La cordillera de los Andes retiene la humedad del océano Pacífico, lo que contribuye a la aridez de las zonas continentales del interior, como el Chaco."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Permite el libre tránsito de huracanes caribeños hacia el departamento de Boquerón",
           "is_correct": false,
           "feedback": "Incorrecto. Los huracanes caribeños no cruzan el continente ni alcanzan el Chaco debido a factores de latitud."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Los frentes fríos de origen polar avanzan libremente hacia el norte por las llanuras del Cono Sur e ingresan al Paraguay sin obstáculos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La gran elevación de la cordillera de los Andes bloquea las masas de aire húmedas provenientes del Pacífico, haciendo que los vientos desciendan secos sobre la vertiente oriental.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Analizando el mapa hidrográfico sudamericano, el profesor Ramón del Colegio Nacional de Villarrica explica las conexiones fluviales del continente.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque constituye la principal vía de salida fluvial soberana hacia el océano Atlántico, facilitando la exportación de granos y carne",
           "is_correct": true,
           "feedback": "Correcto. Al ser Paraguay un país mediterráneo (sin litoral marítimo), la hidrovía es vital para conectar sus puertos fluviales con los mercados internacionales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque permite la conexión directa y navegable de grandes buques de carga con el mar Caribe y el canal de Panamá",
           "is_correct": false,
           "feedback": "Incorrecto. La hidrovía fluye hacia el sur (Río de la Plata), no hacia el norte para conectar de manera directa con el Caribe."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. Al contrario, la hidrovía promueve y facilita el comercio internacional y el tránsito de embarcaciones."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La hidrovía Paraguay-Paraná es un corredor de transporte fluvial natural que permite el acceso al océano Atlántico para los países mediterráneos del Cono Sur.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "En una mesa redonda en San Lorenzo, se discute el concepto de 'mediterraneidad' y su influencia en el desarrollo económico histórico del Paraguay.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Los elevados costos logísticos y de transporte para la importación y exportación de mercancías a través de puertos de países vecinos",
           "is_correct": true,
           "feedback": "Correcto. Al no tener costas marítimas, Paraguay depende de la infraestructura y el tránsito por países soberanos para mover su comercio exterior."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La escasez absoluta de agua dulce para el consumo de la población y el riego de cultivos",
           "is_correct": false,
           "feedback": "Incorrecto. Paraguay posee una abundancia notable de agua dulce superficial y subterránea."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. El clima paraguayo es subtropical a tropical, por lo que sus ríos jamás se congelan."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La mediterraneidad geográfica del Paraguay es un factor estructural que históricamente ha condicionado su desarrollo económico y su logística de comercio exterior.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,31 +328,31 @@
       "context": "El estudiante Jorge analiza en Ciudad del Este el comportamiento de las precipitaciones en Paraguay basándose en mapas meteorológicos anuales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Las precipitaciones disminuyen gradualmente desde el este (unos 1700 mm anuales) hacia el oeste en el Chaco semiárido (unos 400 mm anuales)",
           "is_correct": true,
           "feedback": "Correcto. Existe una marcada gradiente pluvial de este a oeste, donde la Región Oriental es húmeda y lluviosa, y a medida que se avanza hacia el Chaco profundo se vuelve más seco."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las lluvias aumentan exponencialmente hacia el oeste, convirtiendo al Chaco en una selva inundable permanente",
           "is_correct": false,
           "feedback": "Incorrecto. El Chaco no es una selva lluviosa permanente; de hecho, es semiárido con déficit hídrico importante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La pluviosidad es uniforme en todo el país, registrándose 1000 mm exactos en cada departamento",
           "is_correct": false,
           "feedback": "Incorrecto. Las precipitaciones son muy asimétricas, con variaciones extremas entre las selvas del este y el Chaco seco."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La Región Oriental es desértica y el Chaco es la región con mayor promedio de lluvias anuales del continente",
           "is_correct": false,
           "feedback": "Incorrecto. Es justamente lo contrario: la Oriental es lluviosa y húmeda, mientras que el Chaco sufre sequías cíclicas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Paraguay posee una gradiente de precipitaciones decreciente de este a oeste por la influencia de las masas de aire húmedo del Atlántico sobre el oriente.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,31 +373,31 @@
       "context": "Un simposio de geógrafos en Asunción analiza la estructura geológica del subsuelo americano y su importancia para el futuro del continente.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El Acuífero Guaraní",
           "is_correct": true,
           "feedback": "Correcto. El Acuífero Guaraní es un gigantesco reservorio de agua dulce subterránea compartido por los cuatro países del Mercosur."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El acuífero de Yrenda",
           "is_correct": false,
           "feedback": "Incorrecto. El acuífero de Yrenda se ubica principalmente en el Chaco paraguayo y boliviano, no en la Oriental ni es compartido con Brasil y Uruguay."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La llanura aluvial del Pantanal",
           "is_correct": false,
           "feedback": "Incorrecto. El Pantanal es un humedal superficial compartido con Brasil y Bolivia en el norte."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La cuenca endorreica del lago Poopó",
           "is_correct": false,
           "feedback": "Incorrecto. El lago Poopó es una cuenca lacustre altiplánica situada exclusivamente en el territorio de Bolivia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El Acuífero Guaraní es uno de los mayores reservorios de agua dulce del mundo, extendiéndose por debajo de la cuenca del Paraná.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,19 +418,19 @@
       "context": "En la biblioteca escolar de Luque, la estudiante Gladys investiga la vegetación del Chaco paraguayo para una monografía de ecología.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El quebracho colorado",
           "is_correct": true,
           "feedback": "Correcto. El quebracho colorado fue intensamente explotado en el norte del Chaco para durmientes de tren y extracción de tanino debido a su extraordinaria dureza."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El pino paraná o araucaria",
           "is_correct": false,
           "feedback": "Incorrecto. La araucaria es una especie típica de climas fríos y húmedos del sur de Brasil, no de la llanura chaqueña semiárida."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El eucalipto azul",
           "is_correct": false,
           "feedback": "Incorrecto. El eucalipto es una especie exótica introducida originaria de Australia, no un árbol nativo chaqueño."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. El cedro misionero se encuentra en las selvas húmedas de la Región Oriental del Paraguay, no en el ecosistema seco del Chaco."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El quebracho es el árbol símbolo de la llanura chaqueña, clave en la economía forestal de fines del siglo XIX.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,31 +463,31 @@
       "context": "En un debate en Coronel Oviedo, un grupo de estudiantes de bachillerato discute sobre los biomas de América y de Paraguay.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La Región Oriental paraguaya presentaba densos bosques subtropicales húmedos (Bosque Atlántico), mientras que el Cerrado es una sabana arbustiva adaptada a suelos ácidos y sequías periódicas",
           "is_correct": true,
           "feedback": "Correcto. El Bosque Atlántico es húmedo y denso, mientras que el Cerrado se caracteriza por pastizales y árboles adaptados al fuego y acidez del suelo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La Región Oriental es una estepa patagónica fría y el Cerrado es un manglar costero salobre",
           "is_correct": false,
           "feedback": "Incorrecto. Ambos biomas se ubican en la zona tropical y subtropical sudamericana, lejos del clima frío pampeano."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La Oriental carece por completo de árboles y el Cerrado es una selva ecuatorial impenetrable de inundación diaria",
           "is_correct": false,
           "feedback": "Incorrecto. La Oriental poseía gigantescos árboles madereros nativos, y el Cerrado es una sabana y no una selva húmeda de inundación."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ambos biomas son idénticos y comparten exactamente la misma fauna ártica de osos polares",
           "is_correct": false,
           "feedback": "Incorrecto. Los osos polares pertenecen al Polo Norte; la fauna local incluye especies neotropicales como el yaguareté."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El este de Paraguay forma parte del Bosque Atlántico (BAAPA), mientras que el norte recibe la influencia del Cerrado brasileño.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "El profesor Ramón muestra un mapa de riesgos climáticos del continente y resalta las inundaciones anuales en la cuenca del Plata.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La extrema horizontalidad del relieve de llanura, los suelos arcillosos impermeables y el desborde de ríos que nacen en las cabeceras andinas",
           "is_correct": true,
           "feedback": "Correcto. El Chaco posee una pendiente casi imperceptible, lo que dificulta el drenaje del agua sobre suelos arcillosos que no la absorben rápidamente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La proximidad de altas cumbres de hielo que se derriten súbitamente durante el verano chaqueño",
           "is_correct": false,
           "feedback": "Incorrecto. El Chaco no posee cordilleras nevadas ni glaciares en su territorio ni en sus cercanías inmediatas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La llegada constante de destructivos tsunamis originados en la fosa tectónica de Atacama",
           "is_correct": false,
           "feedback": "Incorrecto. Paraguay es mediterráneo y los tsunamis del Pacífico son bloqueados por la cordillera de los Andes."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Las colonias menonitas construyen canales para drenar y evitar inundaciones, no para causarlas de manera artificial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La planicie del Chaco tiene una pendiente mínima. Al haber lluvias intensas o crecidas fluviales, los suelos arcillosos impermeables favorecen inundaciones temporales masivas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "En Encarnación, la estudiante María investiga la construcción de la central hidroeléctrica de Yacyretá sobre el río Paraná.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Le permite co-administrar colosales recursos hidroeléctricos limpios y asegurar la libre navegación fluvial comercial internacional",
           "is_correct": true,
           "feedback": "Correcto. Permite el funcionamiento de colosales hidroeléctricas binacionales y asegura la imprescindible salida comercial fluvial al océano Atlántico bajo tratados internacionales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Garantiza que el Paraguay pueda desviar la totalidad del agua dulce para regar exclusivamente los desiertos de Chile",
           "is_correct": false,
           "feedback": "Incorrecto. Paraguay no limita con Chile ni puede realizar desvíos fluviales unilaterales que violen tratados con países ribereños de la cuenca."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. La navegación militar está estrictamente regulada por convenios soberanos, y no transitan buques de guerra europeos ordinariamente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La co-soberanía de los ríos Paraná y Paraguay le confiere al país un posicionamiento hidroenergético de primer orden mundial e instrumentos de libre navegación fluvial.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Durante una jornada de geografía ambiental en Caacupé, el estudiante Ramón expone sobre los humedales del Ñeembucú y su valor ecológico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Actúan como reguladores de las inundaciones fluviales de los ríos Paraguay y Paraná, purificando las aguas y albergando una rica biodiversidad de especies",
           "is_correct": true,
           "feedback": "Correcto. Los humedales de Ñeembucú absorben los excesos hídricos fluviales, recargan acuíferos superficiales y actúan como filtros biológicos naturales de gran escala."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Son yacimientos secos ideales para la explotación masiva de oro y diamantes industriales",
           "is_correct": false,
           "feedback": "Incorrecto. El Ñeembucú es un ecosistema húmedo inundable de llanura sedimentaria, carente de yacimientos madereros secos o minas auríferas masivas."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Pilar posee un importante y dinámico puerto fluvial, y los humedales no bloquean la hidrovía navegable del río Paraguay."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los humedales del Ñeembucú regulan las crecidas fluviales y albergan un ecosistema de alta biodiversidad en el suroeste del país.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "En Pilar, los estudiantes analizan el impacto de la corriente marina de El Niño y La Niña sobre el régimen de lluvias en el Paraguay.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Suele provocar un incremento notable de las precipitaciones por encima de la media histórica, causando graves inundaciones fluviales y desbordes de ríos",
           "is_correct": true,
           "feedback": "Correcto. El fenómeno de El Niño provoca lluvias intensas y recurrentes en la cuenca del Plata, desbordando los principales ríos de la región oriental y occidental paraguaya."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Genera sequías extremas y prolongadas que secan por completo el cauce principal del río Paraná",
           "is_correct": false,
           "feedback": "Incorrecto. Las sequías extremas se asocian usualmente a la fase opuesta, 'La Niña', en la que disminuye la pluviosidad general."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Produce un enfriamiento glacial de las aguas del lago Ypacaraí que dura varios años",
           "is_correct": false,
           "feedback": "Incorrecto. El ENOS influye en el régimen pluviométrico y de temperaturas atmosféricas generales, pero no provoca congelamiento o descensos glaciales de lagos."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. El sentido de los ríos está determinado por la gravedad y la pendiente del terreno, no por anomalías climáticas térmicas del océano Pacífico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El Niño genera lluvias superiores a la media histórica, saturando los suelos y desencadenando importantes inundaciones ribereñas en el Paraguay.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "En la mesa de debate de la Universidad Nacional de Asunción, un docente evalúa críticamente la distribución demográfica asimétrica en el territorio paraguayo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La Región Oriental ofrece suelos fértiles, abundantes fuentes de agua superficial accesible y un clima húmedo propicio para la agricultura y el establecimiento urbano histórico, frente al Chaco de difícil acceso y escasez de agua",
           "is_correct": true,
           "feedback": "Correcto. Las duras condiciones geográficas y climáticas del Chaco (agua mayormente salobre, calor extremo y sequías severas) limitaron históricamente la colonización humana y el desarrollo de centros urbanos populosos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una ley colonial de 1811 que prohibía terminantemente la entrada de paraguayos al Chaco bajo pena de destierro",
           "is_correct": false,
           "feedback": "Incorrecto. No existió ninguna prohibición demográfica de ese tipo; el poblamiento fue regulado por la propia naturaleza hostil del territorio chaqueño colonial."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. El Chaco paraguayo es una llanura sedimentaria estable sin volcanes activos ni procesos sísmicos de esa magnitud."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La geografía física y climática condicionó decisivamente el patrón de asentamiento humano en Paraguay desde los periodos prehispánico y colonial.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,19 +778,19 @@
       "context": "El estudiante Santiago del Colegio Nacional de Concepción examina las implicancias geográficas de los corredores bioceánicos en el Cono Sur.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Conecta de manera directa los puertos del océano Atlántico (Brasil) con los del océano Pacífico (Chile), posicionando al Chaco paraguayo como un eje logístico regional clave",
           "is_correct": true,
           "feedback": "Correcto. Esta monumental vía vial terrestre conecta los dos océanos y coloca a Paraguay en una posición estratégica para el comercio transcontinental de América del Sur."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Permite canalizar el caudal de los ríos chaqueños para vaciarlos en el océano Pacífico de forma directa",
           "is_correct": false,
           "feedback": "Incorrecto. Los corredores bioceánicos son infraestructuras viales terrestres de transporte, no canales hidráulicos fluviales transandinos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Aísla comercialmente al Paraguay de sus vecinos regionales para preservar una economía autárquica",
           "is_correct": false,
           "feedback": "Incorrecto. Todo lo contrario: la Ruta Bioceánica propicia la integración económica, de infraestructuras y el tránsito internacional dinámico con los países limítrofes."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. La ruta es un eje de comunicación y comercio; no implica traslados demográficos forzados ni reasentamientos obligatorios de la capital."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La Ruta Bioceánica revaloriza y conecta estratégicamente el Chaco paraguayo con los puertos oceánicos comerciales de Brasil y Chile.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,19 +823,19 @@
       "context": "En un debate sobre políticas de desarrollo agrario sostenible en la Región de Caaguazú, se analiza la degradación de los suelos agrícolas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La siembra directa (sin laboreo previo) combinada con la rotación de cultivos y el mantenimiento de la cobertura vegetal sobre el suelo",
           "is_correct": true,
           "feedback": "Correcto. Al no roturar la tierra y mantener una cobertura de rastrojos, el impacto de las copiosas lluvias subtropicales se amortigua, preservando la fertilidad de los suelos agrícolas orientales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El arado profundo y constante del suelo durante la estación de mayores tempestades tropicales",
           "is_correct": false,
           "feedback": "Incorrecto. Romper la estructura física del suelo mediante arado frecuente facilita que las intensas precipitaciones laven y erosionen la valiosa capa superficial fértil."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La eliminación química radical de todo tipo de cobertura vegetal o maleza para dejar la tierra arcillosa expuesta al sol",
           "is_correct": false,
           "feedback": "Incorrecto. Dejar la tierra desnuda acelera severamente los procesos erosivos hídricos y la pérdida irreversible de nutrientes por escorrentía superficial."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Esparcir arena desértica importada es económica y ecológicamente inviable y no soluciona la erosión provocada por el agua de lluvia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El sistema de siembra directa revolucionó la agricultura del Paraguay al contrarrestar la destructiva erosión hídrica en las llanuras onduladas húmedas de la Región Oriental.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Un seminario científico en Asunción analiza el impacto del cambio climático en los caudales del río Paraguay durante la última década.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La escasez prolongada de lluvias (causada por el fenómeno de La Niña prolongado) en la alta cuenca del río Paraguay, sumada a la deforestación de los humedales de cabecera como el Pantanal",
           "is_correct": true,
           "feedback": "Correcto. El río Paraguay nace en el Pantanal brasileño, por lo que las variaciones climáticas extremas y la degradación de suelos en su cuenca alta disminuyen drásticamente los caudales fluviales aguas abajo, afectando la logística comercial mediterránea del país."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La evaporación mágica de las aguas fluviales por el paso de un cometa cercano a la órbita de la Tierra",
           "is_correct": false,
           "feedback": "Incorrecto. Es una explicación pseudocientífica carente de validez empírica o climatológica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La retención intencional de las aguas en gigantescas represas construidas por Bolivia en el altiplano andino",
           "is_correct": false,
           "feedback": "Incorrecto. El río Paraguay no se origina en el altiplano andino ni Bolivia posee represas que bloqueen o desvíen el cauce principal de este río."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. La topografía e hidrografía de la cuenca del Plata imposibilitan desviar flujos fluviales hacia el Pacífico cruzando el macizo montañoso de los Andes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La navegabilidad y el caudal del río Paraguay dependen fundamentalmente de la salud ecológica y del régimen de precipitaciones en sus nacientes situadas en el Pantanal brasileño.\n\n---",
       "difficulty": "10",
       "images": [],

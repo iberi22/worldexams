@@ -13,13 +13,13 @@
       "context": "En la Institución Educativa Sagrado Corazón de Jesús de Cúcuta, los estudiantes aprenden sobre los medios de comunicación interpersonal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El nombre del cartero.",
           "is_correct": false,
           "feedback": "Incorrecto. El cartero solo entrega la carta, no hace parte del contenido escrito."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La ciudad y la fecha.",
           "is_correct": true,
           "feedback": "Correcto. Toda carta debe estar situada en el espacio y el tiempo para que el receptor sepa cuándo se envió."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Eso solo iría en una carta informal de cumpleaños o navidad."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El encabezado de una carta (ciudad y fecha) es fundamental para la organización administrativa y personal de la correspondencia, permitiendo llevar un registro temporal de la comunicación.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -65,25 +65,25 @@
           "feedback": "Incorrecto. El asunto debe ser breve; el mensaje largo va en el cuerpo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Indicar de forma breve y clara el tema central del correo.",
           "is_correct": true,
           "feedback": "Correcto. Ayuda al receptor a identificar rápidamente la importancia y el contenido del mensaje."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Poner la dirección física de la casa del estudiante.",
           "is_correct": false,
           "feedback": "Incorrecto. La dirección física no es obligatoria en el asunto de un correo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Es el lugar para poner la foto de perfil.",
           "is_correct": false,
           "feedback": "Incorrecto. La foto de perfil es parte de la configuración de la cuenta, no del envío."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En la comunicación digital, el asunto es clave para la eficiencia, permitiendo al destinatario organizar su bandeja de entrada y priorizar los mensajes importantes.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -111,25 +111,25 @@
           "feedback": "Incorrecto. Es un saludo demasiado informal para una comunicación oficial."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "\"Distinguido señor Rector,\".",
           "is_correct": true,
           "feedback": "Correcto. Utiliza un tono respetuoso y formal acorde a la jerarquía del destinatario."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "\"Oye, tú, necesito un favor\".",
           "is_correct": false,
           "feedback": "Incorrecto. Es irrespetuoso y carece de las normas mínimas de cortesía."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "\"Querido amigo Rector\".",
           "is_correct": false,
           "feedback": "Incorrecto. A menos que haya una amistad muy íntima, no es el saludo estándar en una carta de solicitud."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El saludo o vocativo establece el tono de la relación entre el emisor y el receptor. En cartas formales, se usan fórmulas de cortesía preestablecidas (Respetado, Estimado, Distinguido).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En un taller sobre ciudadanía digital en Barranquilla, se explica la parte final de un correo electrónico formal.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La contraseña de la cuenta de correo.",
           "is_correct": false,
           "feedback": "Incorrecto. ¡Nunca se debe compartir la contraseña!"
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Un enlace a un video de chistes.",
           "is_correct": false,
           "feedback": "Incorrecto. No es profesional en una comunicación formal."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Una firma que incluya el nombre completo y, si es necesario, el grado o cargo.",
           "is_correct": true,
           "feedback": "Correcto. La firma identifica legal o formalmente al emisor del mensaje."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Se deben usar fórmulas de despedida seguidas de la firma."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La firma en un correo electrónico profesional o académico suele incluir datos de contacto adicionales, asegurando que el receptor sepa exactamente con quién se está comunicando.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -203,13 +203,13 @@
           "feedback": "Incorrecto. Eso elimina el mensaje."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Responder a todos.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una función de respuesta, no de envío de archivos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Adjuntar archivo.",
           "is_correct": true,
           "feedback": "Correcto. El icono del clip suele representar la acción de adjuntar elementos externos al cuerpo del texto."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Eso termina la actividad en la plataforma."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La capacidad de adjuntar archivos es una de las mayores ventajas del correo electrónico sobre la carta tradicional, permitiendo el intercambio instantáneo de información multimedia.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -249,13 +249,13 @@
           "feedback": "Incorrecto. Ese es lenguaje jurídico, no familiar."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Un lenguaje coloquial, cercano y con expresiones de afecto.",
           "is_correct": true,
           "feedback": "Correcto. Se permite el uso de apodos, bromas y un tono relajado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un lenguaje seco, sin emociones y muy distante.",
           "is_correct": false,
           "feedback": "Incorrecto. Entre amigos se busca precisamente la cercanía emocional."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Sigue siendo un medio de comunicación lingüístico."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El registro lingüístico se adapta al destinatario. En las cartas informales, el objetivo es mantener el vínculo afectivo, por lo que el lenguaje es más libre y espontáneo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -295,25 +295,25 @@
           "feedback": "Incorrecto. Para eso se usa CCO (Copia de Carbón Oculta)."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Para enviar una copia del mensaje a otras personas interesadas, además del destinatario principal.",
           "is_correct": true,
           "feedback": "Correcto. Los destinatarios en CC son visibles para todos los que reciben el correo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Para poner la dirección de correo de quien escribe el mensaje.",
           "is_correct": false,
           "feedback": "Incorrecto. La dirección del emisor aparece automáticamente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Para poner la fecha del día de hoy.",
           "is_correct": false,
           "feedback": "Incorrecto. La fecha es automática en los sistemas de correo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El uso de CC es una norma de cortesía y organización en el trabajo y el estudio, permitiendo que varias personas estén informadas sobre un proceso sin ser los responsables directos de responder.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Un docente de Popayán explica la importancia de la ortografía en los correos electrónicos académicos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque si escribes mal, el correo no llegará al destinatario.",
           "is_correct": false,
           "feedback": "Incorrecto. El correo llegará, pero el mensaje se entenderá mal."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque refleja el cuidado del emisor y asegura que el mensaje sea claro y respetuoso.",
           "is_correct": true,
           "feedback": "Correcto. La escritura correcta es parte de la imagen personal y profesional."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Los correos son leídos por seres humanos que valoran la buena comunicación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La \"netiqueta\" (etiqueta en la red) incluye el respeto por las normas gramaticales, lo cual facilita la comprensión y demuestra respeto hacia el tiempo del lector.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -393,19 +393,19 @@
           "feedback": "Incorrecto. Requiere materiales físicos y servicios de mensajería."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "El valor sentimental, la calidez de la letra manuscrita y su carácter tangible y duradero.",
           "is_correct": true,
           "feedback": "Correcto. La carta física se percibe como algo más personal y especial en contextos afectivos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que se puede enviar solo si tienes conexión a internet de alta velocidad.",
           "is_correct": false,
           "feedback": "Incorrecto. La carta física no depende de internet."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "A pesar del dominio digital, la carta física conserva un valor simbólico y emocional que el correo electrónico no ha podido reemplazar totalmente en el ámbito personal.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -439,19 +439,19 @@
           "feedback": "Incorrecto. ¡Peligro! Es un intento de estafa o fraude."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "No abrir archivos adjuntos ni enlaces de remitentes desconocidos y nunca compartir contraseñas.",
           "is_correct": true,
           "feedback": "Correcto. Es la regla de oro de la seguridad digital para evitar virus y robos de información."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Mandar el mismo correo a todos los amigos de la lista de contactos.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso se llama \"spam\" y es molesto e inseguro."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La educación en medios incluye la ciberseguridad. Los estudiantes deben aprender a desconfiar de remitentes desconocidos para proteger su privacidad y la de su familia.\n\n[//]: # (QUALITY_REVIEW)\n\n| Dimensión | Score | Notas |\n|-----------|-------|-------|\n| Técnico | 30/30 | Cumple con el protocolo v5.2. |\n| Curricular | 40/40 | Alineado con DBA sobre producción de textos (carta/email). |\n| Contexto | 20/20 | Contextos colombianos variados y realistas. |\n| Redacción | 10/10 | Preguntas pedagógicas y claras. |\n| **TOTAL** | **100/100** | |",
       "difficulty": "10",
       "images": [],

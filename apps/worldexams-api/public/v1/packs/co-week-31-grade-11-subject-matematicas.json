@@ -13,31 +13,31 @@
       "context": "En Bogotá, Juan registra los puntajes de 5 estudiantes en un simulacro: 60, 70, 80, 90, 100.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "80",
           "is_correct": true,
           "feedback": "Correcto. $\\bar{x} = \\frac{60 + 70 + 80 + 90 + 100}{5} = \\frac{400}{5} = 80$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "70",
           "is_correct": false,
           "feedback": "Incorrecto. Se calculó el promedio solo de los primeros dos datos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "85",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la suma total."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "90",
           "is_correct": false,
           "feedback": "Incorrecto. Se tomó el valor del cuarto dato."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La media es la suma de todos los datos dividida entre el número de datos: $\\frac{400}{5} = 80$.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "En Medellín, Valentina analiza los datos de producción diaria: 12, 15, 12, 18, 20, 12, 15.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "12",
           "is_correct": true,
           "feedback": "Correcto. El valor 12 se repite 3 veces, siendo el de mayor frecuencia absoluta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "15",
           "is_correct": false,
           "feedback": "Incorrecto. 15 se repite solo 2 veces."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "18",
           "is_correct": false,
           "feedback": "Incorrecto. 18 aparece solo 1 vez."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. 14 no es un dato observado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La moda es el dato con mayor frecuencia absoluta. 12 aparece 3 veces.",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "En Cali, Mateo calcula la mediana del siguiente conjunto ordenado de edades: 14, 15, 16, 18, 20, 22.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "17",
           "is_correct": true,
           "feedback": "Correcto. Al ser $n=6$ par, la mediana es el promedio de los dos datos centrales: $\\frac{16 + 18}{2} = 17$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "16",
           "is_correct": false,
           "feedback": "Incorrecto. Se tomó solo el tercer dato."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Error de promedio numérico."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Con un número par de datos ($n=6$), la mediana es la media de los valores centrales 3º y 4º: $\\frac{16+18}{2} = 17$.",
       "difficulty": "4",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En Cartagena, Santiago calcula la varianza muestral de tres datos: 2, 4, 6 (media $\\bar{x} = 4$).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "4",
           "is_correct": true,
           "feedback": "Correcto. Desviaciones al cuadrado: $(2-4)^2 + (4-4)^2 + (6-4)^2 = 4 + 0 + 4 = 8$. Varianza muestral $s^2 = \\frac{8}{3-1} = 4$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "8",
           "is_correct": false,
           "feedback": "Incorrecto. Se olvidó dividir entre $n-1 = 2$."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Se dividió por $n=3$ (varianza poblacional) en lugar de $n-1=2$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "$s^2 = \\frac{(2-4)^2 + (4-4)^2 + (6-4)^2}{2} = \\frac{4 + 0 + 4}{2} = 4$.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "En Bucaramanga, Sofia halla la desviación estándar $s$ a partir de una varianza de $s^2 = 16$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "4",
           "is_correct": true,
           "feedback": "Correcto. La desviación estándar es la raíz cuadrada positiva de la varianza: $s = \\sqrt{16} = 4$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "256",
           "is_correct": false,
           "feedback": "Incorrecto. Se elevó la varianza al cuadrado en lugar de extraer la raíz."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "8",
           "is_correct": false,
           "feedback": "Incorrecto. Se dividió la varianza por 2."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "16",
           "is_correct": false,
           "feedback": "Incorrecto. La desviación estándar no es igual a la varianza a menos que la varianza sea 0 o 1."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "$s = \\sqrt{s^2} = \\sqrt{16} = 4$.",
       "difficulty": "6",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En Manizales, Alejandro analiza un diagrama de caja y bigotes (Boxplot) para los tiempos de atención en un banco.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El primer cuartil $Q_1$ (25%) y el tercer cuartil $Q_3$ (75%).",
           "is_correct": true,
           "feedback": "Correcto. La caja encierra la distancia intercuartil $RIC = Q_3 - Q_1$, que contiene el 50% central de los datos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El valor mínimo y el valor máximo de los datos.",
           "is_correct": false,
           "feedback": "Incorrecto. Los valores extremos están representados por las puntas de los 'bigotes'."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La media y la desviación estándar.",
           "is_correct": false,
           "feedback": "Incorrecto. El boxplot se construye con medidas de posición (cuartiles, mediana)."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Los bordes de la caja son $Q_1$ y $Q_3$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En un gráfico Boxplot, los extremos de la caja son el primer cuartil $Q_1$ y el tercer cuartil $Q_3$.",
       "difficulty": "6",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En Pereira, Daniela calcula el Rango Intercuartílico ($RIC$) si $Q_1 = 20$ y $Q_3 = 50$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "30",
           "is_correct": true,
           "feedback": "Correcto. $RIC = Q_3 - Q_1 = 50 - 20 = 30$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "70",
           "is_correct": false,
           "feedback": "Incorrecto. Se sumaron los cuartiles en lugar de restarlos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "35",
           "is_correct": false,
           "feedback": "Incorrecto. Se calculó el promedio de los cuartiles."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Se dividió $Q_3$ entre $Q_1$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "$RIC = Q_3 - Q_1 = 50 - 20 = 30$.",
       "difficulty": "6",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "En Cúcuta, Nicolas calcula el coeficiente de variación $CV = \\frac{{s}}{{\\bar{{x}}}} \\times 100\\%$ para una muestra con media $\\bar{x} = 50$ y desviación estándar $s = 5$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "10%",
           "is_correct": true,
           "feedback": "Correcto. $CV = \\frac{5}{50} \\times 100\\% = 0.10 \\times 100\\% = 10\\%$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5%",
           "is_correct": false,
           "feedback": "Incorrecto. Se confundió con el valor de la desviación estándar."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "20%",
           "is_correct": false,
           "feedback": "Incorrecto. Se dividió $\\bar{x}/s = 50/5 = 10$, pero invertido mal."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "50%",
           "is_correct": false,
           "feedback": "Incorrecto. Se multiplicó por la media."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "$CV = \\frac{s}{\\bar{x}} \\times 100\\% = \\frac{5}{50} \\times 100\\% = 10\\%$.",
       "difficulty": "6",
       "images": [],
@@ -473,13 +473,13 @@
       "context": "En Pasto, Carlos construye un histograma de frecuencias relativas para las estaturas de 100 personas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "1 (o 100%)",
           "is_correct": true,
           "feedback": "Correcto. La suma de las proporciones relativas de todas las categorías mutuamente excluyentes siempre es igual a 1 o 100%."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "100 personas",
           "is_correct": false,
           "feedback": "Incorrecto. 100 es la suma de las frecuencias absolutas, no relativas."
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. No está relacionado con la suma de frecuencias relativas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por definición de probabilidad y proporción relativa, $\\sum f_i = 1$ (o $100\\%$).",
       "difficulty": "8",
       "images": [],
@@ -519,31 +519,31 @@
       "context": "En Santa Marta, Gabriela analiza la puntuación estandarizada $z = \\frac{{x - \\bar{{x}}}}{{s}}$ de un estudiante que sacó 85 en un examen con media $\\bar{x} = 70$ y $s = 10$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "+1.5",
           "is_correct": true,
           "feedback": "Correcto. $z = \\frac{85 - 70}{10} = \\frac{15}{10} = +1.5$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "+1.0",
           "is_correct": false,
           "feedback": "Incorrecto. Se dividió entre 15 en lugar de entre 10."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "-1.5",
           "is_correct": false,
           "feedback": "Incorrecto. Signo erróneo, el puntaje está por encima de la media."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "+15",
           "is_correct": false,
           "feedback": "Incorrecto. Omitió dividir entre la desviación estándar $s=10$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El puntaje $z$ indica cuántas desviaciones estándar se aleja un dato de la media: $z = \\frac{85 - 70}{10} = 1.5$.",
       "difficulty": "8",
       "images": [],
@@ -565,19 +565,19 @@
       "context": "En Villavicencio, Andres examina un diagrama de dispersión entre horas de estudio ($x$) y puntaje en un examen ($y$) con un coeficiente de correlación de Pearson $r = 0.92$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Existe una fuerte correlación lineal positiva entre las horas de estudio y el puntaje.",
           "is_correct": true,
           "feedback": "Correcto. $r \\approx 1$ indica una relación lineal directa y muy fuerte."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Existe una relación lineal negativa y débil.",
           "is_correct": false,
           "feedback": "Incorrecto. $r > 0$ indica relación positiva."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Estudiar más horas causa directamente una mala nota.",
           "is_correct": false,
           "feedback": "Incorrecto. La correlación positiva implica que a mayor horas de estudio, mayor nota."
@@ -589,7 +589,7 @@
           "feedback": "Incorrecto. $r = 0$ indicaría ausencia de relación lineal, no $0.92$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "$r = 0.92$ es positivo y cercano a $1$, demostrando una fuerte correlación lineal directa entre ambas variables.",
       "difficulty": "8",
       "images": [],
@@ -657,13 +657,13 @@
       "context": "En Neiva, Felipe analiza la propiedad de la suma de las desviaciones respecto a la media: $\\sum_{{i=1}}^n (x_i - \\bar{{x}})$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Siempre es igual a 0.",
           "is_correct": true,
           "feedback": "Correcto. $\\sum (x_i - \\bar{x}) = \\sum x_i - n\\bar{x} = n\\bar{x} - n\\bar{x} = 0$ por definición algebraíca de la media."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Siempre es igual a 1.",
           "is_correct": false,
           "feedback": "Incorrecto. Aplica a frecuencias relativas, no a desviaciones."
@@ -681,7 +681,7 @@
           "feedback": "Incorrecto. Es una propiedad matemática idéntica a 0 para cualquier $n$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por definición de media $\\bar{x} = \\frac{\\sum x_i}{n} \\implies \\sum (x_i - \\bar{x}) = \\sum x_i - n\\bar{x} = 0$.",
       "difficulty": "8",
       "images": [],
@@ -703,19 +703,19 @@
       "context": "En Popayán, Lucia evalúa el impacto de sumar una constante $c = 5$ a cada uno de los datos de un conjunto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La media aumenta en $c$ ($\\bar{x}_{nueva} = \\bar{x} + 5$) y la desviación estándar permanece inalterada ($s_{nueva} = s$).",
           "is_correct": true,
           "feedback": "Correcto. Sumar una constante traslada la localización central, pero no modifica la dispersión entre los datos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Tanto la media como la desviación estándar aumentan en 5.",
           "is_correct": false,
           "feedback": "Incorrecto. La dispersión $s$ no cambia al sumar constantes a todos los datos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La media se multiplica por 5 y la desviación estándar permanece igual.",
           "is_correct": false,
           "feedback": "Incorrecto. La media se multiplica solo cuando los datos se multiplican."
@@ -727,7 +727,7 @@
           "feedback": "Incorrecto. La dispersión se mantiene exactamente igual."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Sumar una constante desplaza todos los datos por igual $\\implies$ la media se incrementa en $c$, pero las distancias relativas entre datos ($s$) no varían.",
       "difficulty": "8",
       "images": [],
@@ -749,19 +749,19 @@
       "context": "En Montería, Diego evalúa la simetría de un conjunto de datos donde $\\text{Media} = 50$, $\\text{Mediana} = 50$ y $\\text{Moda} = 50$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Una distribución perfectamente simétrica (como la distribución normal).",
           "is_correct": true,
           "feedback": "Correcto. En distribuciones simétricas unimodales, media, mediana y moda coinciden en el mismo valor central."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una distribución con asimetría positiva (sesgada a la derecha).",
           "is_correct": false,
           "feedback": "Incorrecto. Asimetría positiva requiere $\\text{Media} > \\text{Mediana}$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una distribución con asimetría negativa (sesgada a la izquierda).",
           "is_correct": false,
           "feedback": "Incorrecto. Asimetría negativa requiere $\\text{Media} < \\text{Mediana}$."
@@ -773,7 +773,7 @@
           "feedback": "Incorrecto. La coincidencia de las tres medidas no implica varianza cero."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Cuando $\\text{Media} = \\text{Mediana} = \\text{Moda}$, la distribución es perfectamente simétrica alrededor de su centro.",
       "difficulty": "10",
       "images": [],
@@ -795,19 +795,19 @@
       "context": "En Tunja, Paula analiza dos muestras $A$ y $B$. La muestra $A$ tiene $\\bar{x} = 100, s = 10$ ($CV = 10\\%$). La muestra $B$ tiene $\\bar{x} = 10, s = 2$ ($CV = 20\\%$).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La muestra $B$, porque su coeficiente de variación ($20\\%$) es mayor que el de la muestra $A$ ($10\\%$).",
           "is_correct": true,
           "feedback": "Correcto. El Coeficiente de Variación mide la dispersión relativa a la magnitud de la media."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La muestra $A$, porque su desviación estándar ($s=10$) es mayor que la de $B$ ($s=2$).",
           "is_correct": false,
           "feedback": "Incorrecto. $s=10$ es mayor en términos absolutos, pero en relación con la media $\\bar{x}=100$ representa solo el 10%."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ambas tienen exactamente la misma dispersión.",
           "is_correct": false,
           "feedback": "Incorrecto. Las escalas de medición y promedios son distintos."
@@ -819,7 +819,7 @@
           "feedback": "Incorrecto. El CV se diseñó precisamente para comparar dispersión entre muestras con unidades o medias distintas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El Coeficiente de Variación $CV = \\frac{s}{\\bar{x}}$ permite comparar la variabilidad relativa de conjuntos de datos con diferentes escalas o medias.",
       "difficulty": "10",
       "images": [],
@@ -841,31 +841,31 @@
       "context": "En Riohacha, Samuel estudia el Teorema de Chebyshev para cualquier conjunto de datos sin importar la forma de su distribución.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Al menos el 75% de los datos ($1 - 1/k^2 = 1 - 1/4 = 0.75$).",
           "is_correct": true,
           "feedback": "Correcto. El Teorema de Chebyshev establece que al menos $1 - 1/k^2$ de los datos cae a $k$ desviaciones estándar de la media."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Exactamente el 68% de los datos.",
           "is_correct": false,
           "feedback": "Incorrecto. 68% aplica a la Regla Empírica de distribuciones normales acampanadas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Al menos el 50% de los datos.",
           "is_correct": false,
           "feedback": "Incorrecto. Corresponde a $k=\\sqrt{2}$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El 95% de los datos.",
           "is_correct": false,
           "feedback": "Incorrecto. 95% es la Regla Empírica para 2 desviaciones en la distribución normal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Chebyshev: Proporción $\\ge 1 - \\frac{1}{k^2}$. Para $k=2 \\implies 1 - \\frac{1}{4} = 0.75 = 75\\%$ mínimo de los datos.",
       "difficulty": "10",
       "images": [],
@@ -887,31 +887,31 @@
       "context": "En Florencia, Andrea multiplica todos los datos de un conjunto por una constante $c = 3$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La varianza se multiplica por $c^2 = 9$.",
           "is_correct": true,
           "feedback": "Correcto. $s_{nueva}^2 = \\operatorname{Var}(3X) = 3^2 \\operatorname{Var}(X) = 9 s^2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La varianza se multiplica por 3.",
           "is_correct": false,
           "feedback": "Incorrecto. La desviación estándar se multiplica por 3, por ende la varianza al ser cuadrática se multiplica por 9."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La varianza permanece inalterada.",
           "is_correct": false,
           "feedback": "Incorrecto. Escalar los datos modifica su variabilidad cuadrática."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La varianza aumenta en 3 unidades.",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicar altera la varianza por un factor cuadrático, no aditivo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Propiedad de la varianza: $\\operatorname{Var}(cX) = c^2 \\operatorname{Var}(X)$. Al multiplicar los datos por 3, la varianza se multiplica por $3^2 = 9$.",
       "difficulty": "10",
       "images": [],

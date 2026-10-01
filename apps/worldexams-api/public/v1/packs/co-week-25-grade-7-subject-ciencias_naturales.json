@@ -13,31 +13,31 @@
       "context": "En una salida escolar al páramo de Chingaza, los estudiantes de Bogotá observan frailejones entre la niebla y sienten mucho frío.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Un ecosistema de alta montaña, frío y húmedo, con frailejones que regula y guarda el agua.",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: ubica la altura, el clima, la planta típica y la función hídrica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una playa caliente de Chingaza donde se cultiva coco y se nada en el mar.",
           "is_correct": false,
           "feedback": "Explica el error conceptual: Chingaza es montaña fría, no costa caliente con cocos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un desierto sin agua donde nunca llueve ni crece ninguna planta.",
           "is_correct": false,
           "feedback": "Explica el error conceptual: el páramo es húmedo y con vegetación adaptada, no un desierto seco."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Un barrio de Bogotá con edificios altos y centros comerciales.",
           "is_correct": false,
           "feedback": "Explica el error conceptual: el páramo es un ecosistema natural, no una zona urbana."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El páramo está por encima de los 3000 metros en los Andes, con frío, niebla y lluvias frecuentes. Sus suelos y musgos actúan como esponjas que guardan agua y la liberan poco a poco a los ríos. El frailejón, con hojas peludas que atrapan la niebla, es su símbolo y ayuda a proteger ese depósito natural.",
       "difficulty": "4",
       "images": [],
@@ -111,13 +111,13 @@
           "feedback": "Explica el error conceptual: el páramo no fabrica agua con mangueras, la capta y regula de la lluvia y la niebla."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Porque sus suelos y plantas retienen la lluvia y la niebla y la entregan de forma constante a los ríos.",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: explica la esponja natural que evita crecientes y sequías extremas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque en el páramo nunca llueve y el agua llega por camiones desde la costa.",
           "is_correct": false,
           "feedback": "Explica el error conceptual: en el páramo llueve mucho y el agua viaja por ríos, no por camiones."
@@ -129,7 +129,7 @@
           "feedback": "Explica el error conceptual: el turismo ayuda, pero la función principal es hídrica para millones de personas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El musgo y la materia orgánica del páramo absorben el agua de lluvia y niebla como una esponja. Luego la sueltan lentamente a quebradas que alimentan embalses como Chuza. Si se destruye esa cobertura con cultivos o minería, el agua baja turbia en invierno y escasea en verano, y potabilizarla cuesta más.",
       "difficulty": "6",
       "images": [],
@@ -157,25 +157,25 @@
           "feedback": "Explica el error conceptual: el potrero reemplaza cientos de especies por un solo pasto y compacta el suelo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Se pierde hábitat y biodiversidad, el suelo se erosiona y se libera carbono que calienta el clima.",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: conecta pérdida de especies, suelo frágil y emisiones por deforestación."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El suelo se vuelve más fértil para siempre y ya no necesita ningún cuidado.",
           "is_correct": false,
           "feedback": "Explica el error conceptual: el suelo selvático es delgado y pierde nutrientes rápido tras la tala y la quema."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Los ríos llevan más agua limpia porque ya no hay árboles que la usen.",
           "is_correct": false,
           "feedback": "Explica el error conceptual: sin bosque el agua baja turbia, con crecientes y menos regulación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La selva guarda su fertilidad en la vegetación viva, no en el suelo profundo. Al talar y quemar, los nutrientes se lavan con la lluvia, el suelo se compacta con el ganado y muchas especies pierden casa y alimento. Además, el carbono guardado en los árboles sale a la atmósfera y afecta el clima regional y global.",
       "difficulty": "6",
       "images": [],
@@ -203,25 +203,25 @@
           "feedback": "Explica el error conceptual: los pelitos no son para picar turistas, sino para proteger del frío y guardar agua."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Atrapan la niebla, aíslan del frío y reducen la pérdida de agua por el viento.",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: relaciona adaptación con captación de agua y protección térmica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sirven para hacer fotosíntesis de noche sin necesidad de luz del sol.",
           "is_correct": false,
           "feedback": "Explica el error conceptual: la fotosíntesis necesita luz, y los pelos no reemplazan al sol."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Son adornos sin función que la planta puede perder sin consecuencias.",
           "is_correct": false,
           "feedback": "Explica el error conceptual: sin esa protección la planta se congela y se deshidrata en el páramo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El páramo combina sol fuerte de día, frío de noche y viento seco. Los pelos blancos reflejan el exceso de sol, frenan el viento y condensan gotas de niebla que caen a la base. Las hojas gruesas guardan agua. Así el frailejón sobrevive donde otras plantas se helarían y además aporta agua al suelo.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En el Amazonas, los estudiantes arman una red con hormigas, oso hormiguero, jaguar, árbol de caucho y hongos que descomponen hojas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Nada cambia porque en el Amazonas cada especie vive aislada de las demás.",
           "is_correct": false,
           "feedback": "Explica el error conceptual: las especies están conectadas por alimentación y control mutuo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Aumentan sus presas, se altera la vegetación y se desequilibra toda la red.",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: el depredador tope controla herbívoros y protege indirectamente a las plantas."
@@ -313,7 +313,7 @@
           "feedback": "Explica el error conceptual: el jaguar es carnívoro y no come hojas de caucho."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El jaguar regula poblaciones de pecaríes, capibaras y otros herbívoros. Sin ese control, las presas se multiplican y consumen más semillas y plántulas, lo que cambia el bosque. Es un efecto en cascada: quitar al depredador tope altera plantas, presas y hasta los nutrientes del suelo amazónico.",
       "difficulty": "8",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "En la feria de ciencia de Pasto, un grupo propone abrir una carretera que cruce un páramo y una selva para acortar una hora de viaje.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es excelente porque las carreteras nunca afectan animales, agua ni clima en Pasto.",
           "is_correct": false,
           "feedback": "Explica el error conceptual: toda vía fragmenta hábitat, contamina y abre paso a más deforestación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es riesgosa porque fragmenta hábitats, contamina aguas y facilita invasiones y deforestación si no se evalúa y mitiga.",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: exige estudio de impacto, alternativas y medidas de mitigación."
@@ -451,7 +451,7 @@
           "feedback": "Explica el error conceptual: muchas especies no cruzan vías y mueren atropelladas aunque haya señales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Una carretera divide poblaciones, impide el paso de semillas y animales, aporta sedimentos y químicos a los ríos y abre accesos para tala y minería ilegal. Evaluarla exige estudio de impacto ambiental, consulta de alternativas por zonas ya intervenidas, pasos de fauna, manejo de aguas y monitoreo. Solo con esas condiciones se puede decidir si el ahorro de tiempo justifica el costo ecológico.",
       "difficulty": "10",
       "images": [],

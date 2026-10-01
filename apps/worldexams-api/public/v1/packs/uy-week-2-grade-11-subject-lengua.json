@@ -19,25 +19,25 @@
           "feedback": "Incorrecto. Eso corresponde a la base fisiológica del lenguaje, no a la lengua como sistema."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Un sistema de signos social, abstracto, compartido por una comunidad de hablantes.",
           "is_correct": true,
           "feedback": "¡Correcto! La lengua es el sistema social, psíquico, homogéneo y pasivo de signos lingüísticos depositado en el cerebro de los miembros de una comunidad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El acto individual e inteligente de selección y fonación de los hablantes.",
           "is_correct": false,
           "feedback": "Incorrecto. El uso voluntario e individual de la lengua corresponde al concepto de habla."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La evolución histórica de las palabras a lo largo de los siglos.",
           "is_correct": false,
           "feedback": "Incorrecto. Eso hace referencia a la dimensión diacrónica, no a la definición estructural de la lengua."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Según Saussure, la lengua es un producto social depositado de manera psíquica y abstracta en el cerebro de los hablantes, diferenciándose del habla que es individual y concreta.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -64,13 +64,13 @@
           "feedback": "Incorrecto. El lenguaje es la facultad humana general, no el acto individual de realización."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Lengua.",
           "is_correct": false,
           "feedback": "Incorrecto. La lengua es el sistema supraindividual y social, no la variante particular de cada hablante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Habla.",
           "is_correct": true,
           "feedback": "¡Correcto! El habla es la ejecución individual, psicofísica y voluntaria del sistema de la lengua por parte de un sujeto en un momento dado."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. El código normativo es la codificación formal de las reglas de la lengua, no la práctica individual diaria."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El habla es de carácter heterogéneo, psicofísico, individual y concreto, representando el uso que cada individuo hace de la lengua.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,19 +103,19 @@
       "context": "Leé atentamente el siguiente fragmento del libro de lingüística que estudian los alumnos de 6° de Bachillerato de Uruguay: 'El ser humano posee la capacidad innata de comunicarse mediante signos vocales y gestuales complejos, independientemente de la comunidad concreta donde nazca'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Habla.",
           "is_correct": false,
           "feedback": "Incorrecto. El habla es la puesta en práctica individual del sistema, no la facultad biológica universal."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Norma dialectal.",
           "is_correct": false,
           "feedback": "Incorrecto. La norma dialectal es una variante regional o social de un sistema de signos específico."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Lenguaje.",
           "is_correct": true,
           "feedback": "¡Correcto! El lenguaje es la facultad universal y multiforme de la especie humana de crear sistemas de comunicación a través de signos lingüísticos."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. El sociolecto es una variante social del idioma español, no una facultad humana universal innata."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El lenguaje es una capacidad universal y biológica de los seres humanos para construir sistemas de representación semiótica abstractos.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -160,19 +160,19 @@
           "feedback": "Incorrecto. El canal óptico es el soporte visual físico, pero no las reglas gramaticales complejas abstractas."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "La lengua como sistema estructurado abstracto.",
           "is_correct": true,
           "feedback": "¡Correcto! Al recuperar las reglas y la estructura de los signos, se rescata la lengua en su dimensión abstracta y social, independientemente de que el habla sonora ya no se ejecute."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La función apelativa de los signos rituales.",
           "is_correct": false,
           "feedback": "Incorrecto. La función apelativa es solo una función pragmática, no el sistema estructural recuperado."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La lengua puede subsistir como sistema abstracto grabado en textos antiguos de manera formal, aun cuando el habla física que la realizaba haya cesado de existir.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -205,19 +205,19 @@
           "feedback": "Incorrecto. Los cambios del habla (usos individuales repetidos) terminan modificando la estructura de la lengua."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Que hay una relación dialéctica: el habla es el instrumento de aprendizaje, fijación y evolución histórica de la lengua, a la vez que requiere del sistema de la lengua para ser comprendida.",
           "is_correct": true,
           "feedback": "¡Correcto! La lengua y el habla son interdependientes. Sin el habla (la práctica social reiterada), la lengua no se consolidaría ni cambiaría; pero sin la lengua (el código), el habla sería ininteligible."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que el lenguaje y el habla son términos idénticos que no ameritan distinción metodológica.",
           "is_correct": false,
           "feedback": "Incorrecto. Son científicamente distintos en cuanto a su alcance individual vs universal o social."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La interdependencia dialéctica de lengua y habla radica en que la primera es necesaria para que el habla sea comprendida, y la segunda es necesaria para que la lengua se establezca y evolucione.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,31 +238,31 @@
       "context": "Considerá el siguiente enunciado en uruguayo coloquial: 'Ta, che, vamo' y vamo' que se nos pasa la hora'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La estructura gramatical subyacente de sujeto y verbo es la lengua, mientras que el acortamiento fonético ('vamo' y vamo'') y la pronunciación física corresponden al habla.",
           "is_correct": true,
           "feedback": "¡Correcto! El sistema fonológico y morfosintáctico de base pertenece a la lengua compartida, mientras que la elisión de consonantes finales y el ritmo particular en ese acto concreto son marcas propias del habla individual y regional."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Todo el enunciado corresponde a la lengua exclusivamente porque figura en los diccionarios formales de la Real Academia.",
           "is_correct": false,
           "feedback": "Incorrecto. Las variantes fonéticas coloquiales concretas no están en el código abstracto rígido, sino en el habla."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Todo el enunciado es habla pura ya que las lenguas formales prohíben el uso de contracciones vulgares como 'che' o 'ta'.",
           "is_correct": false,
           "feedback": "Incorrecto. Para que un hablante de Uruguay entienda la contracción 'ta' o 'che', debe existir una convención social previa de la lengua local."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El acortamiento fonético representa la norma oficial del español internacional y el léxico la facultad biológica universal.",
           "is_correct": false,
           "feedback": "Incorrecto. Las elisiones coloquiales no son norma oficial panhispánica ni el léxico es una facultad biológica universal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La lengua provee el inventario y las reglas gramaticales básicas comunes. El habla se encarga de la realización física concreta, lo que incluye variaciones fonéticas, omisión de letras finales y giros expresivos inmediatos.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "Un estudiante extranjero llega a Montevideo y nota que todos usan la expresión '¡Qué viaje!' para referirse a una situación increíble, sorprendente o agotadora.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La herencia biológica que determina genéticamente los significados en Uruguay.",
           "is_correct": false,
           "feedback": "Incorrecto. La semántica de las palabras se adquiere culturalmente, no se hereda en los genes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La arbitrariedad del signo lingüístico y la convención social que asocia un nuevo significado a un significante en esa comunidad lingüística.",
           "is_correct": true,
           "feedback": "¡Correcto! La asociación de significante ('viaje') y significado (situación increíble o rara) es convencional y arbitraria, establecida y aceptada colectivamente por los hablantes uruguayos como parte de su lengua local."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. No hay un lazo natural ni analógico indisoluble entre el significante y el significado abstracto sugerido."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La relación entre el significante y el significado del signo lingüístico es arbitraria (inmotivada). Es la convención social de una comunidad la que valida y mantiene vigente el significado asignado a cada voz.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Un abuelo uruguayo le dice a su nieto adolescente: 'Antes decíamos \"tirar la ventana\" para coquetear, hoy ustedes andan con eso de \"encarar\"'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Variación diacrónica de la lengua en su dimensión social e histórica.",
           "is_correct": true,
           "feedback": "¡Correcto! El cambio de términos a lo largo del tiempo para designar la misma realidad es un ejemplo de variación diacrónica de la lengua, que evoluciona junto con las costumbres y las generaciones de hablantes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Un error gramatical sistemático provocado por la pérdida del lenguaje.",
           "is_correct": false,
           "feedback": "Incorrecto. No es una pérdida del lenguaje ni un error gramatical, sino una mutación natural y dinámica del léxico."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. El uso de 'encarar' es compartido de forma social por la juventud uruguaya, no es un idiolecto aislado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las lenguas son mutables a lo largo del tiempo (dimensión diacrónica). Los vocablos caen en desuso y surgen neologismos o resignificaciones conceptuales aceptadas por las nuevas generaciones de la comunidad.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,13 +424,13 @@
           "feedback": "Incorrecto. El habla coloquial es informal y libre, alejada de las restricciones rígidas administrativas institucionales."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Norma culta estándar.",
           "is_correct": true,
           "feedback": "¡Correcto! La norma es la cristalización institucional de las reglas de corrección que una sociedad considera prestigiosas para la comunicación formal y escrita, actuando como un filtro unificador de la lengua."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Lenguaje icónico.",
           "is_correct": false,
           "feedback": "Incorrecto. El memorándum utiliza el código lingüístico verbal escrito, no un sistema de imágenes o íconos."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. Es un registro formal institucional que representa a la élite administrativa y académica, no a un grupo marginado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La norma lingüística es el puente entre el sistema abstracto de la lengua y los usos prestigiosos de la sociedad, regulando los textos formales e institucionales para asegurar la cohesión del idioma.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "Leé el fragmento de este diálogo informal entre dos amigos en la Rambla de Mercedes:\n\n—¿Che, qué hacés? ¿Trajiste el termo?\n\n—Sí, obvio. Pero me olvidé del mate, qué nabo que soy.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La variable diatópica (español rioplatense uruguayo) y la variable diafásica (registro coloquial informal basado en la confianza mutua).",
           "is_correct": true,
           "feedback": "¡Correcto! Los rasgos léxicos ('che', 'nabo', 'mate') y pronominales (voseo 'hacés', 'trajiste') provienen de la variable geográfica diatópica, mientras que el nivel de informalidad y familiaridad responde a la variable situacional diafásica."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Exclusivamente la variable diastrática de marginación socioeconómica extrema de los hablantes.",
           "is_correct": false,
           "feedback": "Incorrecto. El mate y el voseo coloquial transversalizan a todas las clases sociales en Uruguay; no denotan exclusión socioeconómica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La variable diacrónica del español del siglo de oro en España que prohibía el uso de tuteo.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un diálogo del siglo XXI, espontáneo y contemporáneo, no del período colonial o medieval clásico."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Las variables que moldean el registro son socioculturales e históricas, no anomalías biológicas del canal auditivo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El habla se manifiesta mediante registros y dialectos. La procedencia geográfica (diatópica) y el grado de confianza o formalidad de la situación comunicativa (diafásica) son factores condicionantes del enunciado.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "En un simposio sobre lingüística rioplatense en Montevideo, se discute la teoría de Eugenio Coseriu.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El habla y la norma son idénticos, mientras que el sistema es un inventario caótico que no tiene relación con el uso de la sociedad.",
           "is_correct": false,
           "feedback": "Incorrecto. Coseriu los distingue con precisión como niveles concéntricos de abstracción lingüística."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El sistema es el conjunto de posibilidades abstractas de la lengua; la norma es el recorte social que define qué usos son correctos en una comunidad; y el habla es la realización individual concreta que actualiza esas estructuras.",
           "is_correct": true,
           "feedback": "¡Correcto! Coseriu amplió a Saussure distinguiendo tres niveles: el sistema (lo teóricamente posible), la norma (lo socialmente realizado y aceptado como preferido/correcto en la comunidad) y el habla (el acto concreto individual)."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Los tres niveles pertenecen al dominio de la cultura y la sociolingüística, sin implicar dotes biológicas diferenciales o divinas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Eugenio Coseriu enriqueció el esquema saussureano insertando la 'norma' entre el 'sistema' abstracto y el 'habla' concreta. La norma actúa como la realización tradicional colectiva del sistema, sirviendo de referencia de corrección.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,25 +649,25 @@
           "feedback": "Incorrecto. Las expresiones tienen significados comprensibles y estables en el habla coloquial de Uruguay."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Una trasgresión a la norma de adecuación del registro escrito formal y académico, al importar elementos propios del habla coloquial oral a un texto expositivo formal escolar.",
           "is_correct": true,
           "feedback": "¡Correcto! El error del alumno no es una falta de comunicación, sino una falta de adecuación al registro. En los textos académicos y expositivos formales rige la norma culta de la lengua escrita, la cual veta coloquialismos afectivos de la oralidad informal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La violación a la facultad del lenguaje innato que impide procesar conceptos geográficos en adolescentes de Tala.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay ninguna falla cognitiva o biológica del lenguaje en el estudiante de Tala."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Un desvío dialectal diatópico que demuestra la asimilación del portugués por el canal fronterizo.",
           "is_correct": false,
           "feedback": "Incorrecto. Las expresiones tachadas son coloquiales rioplatenses comunes ('pila de', '¿entendés?'), no préstamos del idioma portugués."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Escribir requiere dominar la adecuación al registro. La escuela enseña a deslindar la oralidad informal y espontánea (habla coloquial) de las exigencias estructurales y de vocabulario que impone la norma culta escrita.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "Incorrecto. Es un sistema sumamente complejo y estructurado con sus propias reglas morfofonológicas regionales estables."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Que la lengua no es homogénea, sino un complejo de variedades (dialectos), y que la norma social uruguaya valida y legitima usos pronominales y verbales específicos que difieren de otras regiones hispanohablantes.",
           "is_correct": true,
           "feedback": "¡Correcto! Las lenguas vivas son heterogéneas y se subdividen en dialectos geográficos y socioculturales. La presencia del voseo mixto o pleno en Uruguay es un rasgo dialectal que goza de aceptación general e institucional (norma local)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que la Real Academia de Madrid es la única entidad biológica capaz de legislar sobre el habla de los uruguayos.",
           "is_correct": false,
           "feedback": "Incorrecto. La lengua pertenece a la comunidad de hablantes que la usa, y las Academias hoy describen las normas de cada región de forma descentralizada."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que el habla individual ha destruido por completo el sistema del lenguaje abstracto de América Latina.",
           "is_correct": false,
           "feedback": "Incorrecto. La variación dialectal no destruye el idioma; de hecho, enriquece su vitalidad comunicativa global sin mermar la mutua inteligibilidad."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La lengua es un sistema de variedades en constante devenir. El español de Uruguay posee sus particularidades dialectales legítimas y prestigiosas (como el voseo), integradas en la norma culta de la región rioplatense.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -784,25 +784,25 @@
           "feedback": "Incorrecto. Es un fenómeno sociolingüístico rico e histórico sumamente funcional que no implica patologías cognitivas o de salud mental."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Que los límites entre lenguas son a menudo construcciones políticas y escolares artificiales frente a un continuo dialectal fronterizo, donde los hablantes fusionan de manera creativa sus códigos en el habla para responder a sus necesidades comunicativas reales.",
           "is_correct": true,
           "feedback": "¡Correcto! El Portuñol fronterizo demuestra que las fronteras entre idiomas nacionales (español y portugués) son históricas y geopolíticas. En la práctica real del habla fronteriza, los códigos interactúan y se hibridan, gestando una variedad dialectal propia con gramática estable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que los hablantes de Rivera carecen de la facultad universal del lenguaje innato humana.",
           "is_correct": false,
           "feedback": "Incorrecto. Tienen la misma capacidad innata y de hecho dominan de manera bilingüe múltiples variantes de forma sofisticada."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que el Portuñol carece de fonemas y sintaxis, siendo un balbuceo desordenado sin reglas lingüísticas abstractas comunes.",
           "is_correct": false,
           "feedback": "Incorrecto. El DPU ha sido catalogado por lingüistas como una variedad con estructuras sintácticas, morfológicas y fonológicas regulares estables."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Los fenómenos de bilingüismo y de lenguas en contacto revelan que el habla humana es creativa y flexible. Desafían la idea prescriptiva de fronteras lingüísticas cerradas e inmutables.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,25 +829,25 @@
           "feedback": "Incorrecto. La mutabilidad fonética, semántica y gramatical es una realidad objetiva e histórica constatable por los textos."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Explicando que un individuo aislado es incapaz de alterar el código establecido (inmutabilidad), pero el uso continuo del sistema por parte de la comunidad a través del tiempo en el habla colectiva provoca desplazamientos lentos de los significados y significantes (mutabilidad).",
           "is_correct": true,
           "feedback": "¡Correcto! El signo es inmutable sincrónicamente porque el hablante hereda el código socialmente y no puede cambiarlo a capricho individual. Sin embargo, diacrónicamente (a lo largo del tiempo), el tiempo conjugado con la fuerza social de uso continuo en el habla produce cambios morfológicos, fonéticos o semánticos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Sosteniendo que la mutabilidad solo ocurre en las lenguas indígenas desprovistas de diccionarios formales impresos.",
           "is_correct": false,
           "feedback": "Incorrecto. Todas las lenguas cambian diacrónicamente, incluyendo las lenguas escritas oficiales con academias."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Decretando que el habla individual impone cambios violentos inmediatos sobre la gramática de la lengua sin requerir el factor tiempo.",
           "is_correct": false,
           "feedback": "Incorrecto. El factor tiempo y la asimilación colectiva por consenso social pasivo de la comunidad de habla son requisitos sine qua non de Saussure."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La paradoja se explica mediante las dimensiones sincrónica (estática en un momento dado, donde rige la inmutabilidad de la convención social) y diacrónica (histórica, donde opera la mutabilidad por el desgaste y evolución del uso de los signos en el habla).\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Evaluá de forma crítica la siguiente situación: Un grupo de jóvenes uruguayos chatea en redes sociales empleando abreviaturas extremas, emojis y anglicismos léxicos (como 'ahre', 'lol', 'tkm'). Una editorial de prensa acusa a esta generación de 'destruir el idioma español y perder la facultad del lenguaje'.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La acusación es científicamente correcta, ya que las abreviaturas informáticas lesionan de forma biológica las neuronas del procesamiento del código lingüístico cerebral.",
           "is_correct": false,
           "feedback": "Incorrecto. El uso de jergas informáticas o escrituras digitales abreviadas es un ejercicio cognitivo complejo que no causa lesiones neurológicas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La acusación confunde un sociolecto generacional y un registro escrito electrónico diafásico con una degradación patológica, ignorando que los jóvenes simplemente adaptan el código a las exigencias de velocidad del canal digital, sin perder su dominio formal de la lengua.",
           "is_correct": true,
           "feedback": "¡Correcto! La lingüística moderna cataloga este fenómeno como un sociolecto digital o jerga generacional adaptada a la inmediatez de la red (registro diafásico). El uso de estas marcas no destruye la capacidad del hablante, quien habitualmente sabe alternar con el registro formal cuando la situación escolar o profesional lo amerita."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. El lenguaje juvenil electrónico es altamente sofisticado, creativo, posee sintaxis propia y es rico en matices expresivos pragmáticos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Los usos lingüísticos digitales representan una adaptación creativa del habla a las condiciones físicas del canal escrito interactivo de internet. La sociolingüística descriptiva no evalúa la variación informal como decadencia biológica, sino como dinamismo natural de los registros de habla de la sociedad.\n\n---",
       "difficulty": "10",
       "images": [],

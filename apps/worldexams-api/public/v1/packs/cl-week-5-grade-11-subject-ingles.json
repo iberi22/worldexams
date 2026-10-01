@@ -109,25 +109,25 @@
           "feedback": "Incorrect. Obscure means to hide."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "highlight",
           "is_correct": true,
           "feedback": "Correct. To highlight means to draw attention to or emphasize."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "dismiss",
           "is_correct": false,
           "feedback": "Incorrect. To dismiss means to ignore or reject."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "fabricate",
           "is_correct": false,
           "feedback": "Incorrect. To fabricate means to invent or lie."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Highlight' is the appropriate verb for emphasizing positive attributes in a professional document.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,31 +148,31 @@
       "context": "Article about lifelong learning.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "adapt",
           "is_correct": true,
           "feedback": "Correct. To adapt means to become adjusted to new conditions."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "stagnate",
           "is_correct": false,
           "feedback": "Incorrect. To stagnate means to stop developing."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "surrender",
           "is_correct": false,
           "feedback": "Incorrect. To surrender means to give up."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "resist",
           "is_correct": false,
           "feedback": "Incorrect. Resisting change is usually negative in this context."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "'Adapt' correctly identifies the proactive behavior needed to succeed in an evolving professional environment.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Incorrect. Redundant means unnecessary."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "abstract",
           "is_correct": false,
           "feedback": "Incorrect. Abstract means existing in thought but not having a physical existence."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "practical",
           "is_correct": true,
           "feedback": "Correct. Practical skills are those related to real-world application."
@@ -217,7 +217,7 @@
           "feedback": "Incorrect. Obsolete means out of date."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "'Practical' is the term that best contrasts with 'theoretical' in the context of professional training.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,25 +379,25 @@
           "feedback": "Incorrect. Regret is usually followed by a gerund for past actions."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "not studying",
           "is_correct": true,
           "feedback": "Correct. 'Regret + (not) -ing' is used to talk about things we wish we hadn't (or had) done in the past."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "not study",
           "is_correct": false,
           "feedback": "Incorrect. Base form doesn't fit."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "no study",
           "is_correct": false,
           "feedback": "Incorrect. Incorrect grammar."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The gerund 'studying' after 'regrets' describes the action being regretted.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,19 +463,19 @@
       "context": "Workplace hierarchy.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "intern",
           "is_correct": false,
           "feedback": "Incorrect. An intern is a low-level student worker."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "supervisor",
           "is_correct": false,
           "feedback": "Incorrect. A supervisor manages a specific team."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "CEO",
           "is_correct": true,
           "feedback": "Correct. Chief Executive Officer."
@@ -487,7 +487,7 @@
           "feedback": "Incorrect. A client is someone who buys services."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "'CEO' is the acronym for the top executive position in most organizations.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,31 +508,31 @@
       "context": "Discussing a future possibility.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "taking",
           "is_correct": true,
           "feedback": "Correct. 'Consider' is followed by a gerund."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "to take",
           "is_correct": false,
           "feedback": "Incorrect. Infinitive is not used after 'consider'."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "take",
           "is_correct": false,
           "feedback": "Incorrect. Base form doesn't fit."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "taken",
           "is_correct": false,
           "feedback": "Incorrect. Past participle."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "The verb 'consider' requires the gerund form of the following verb.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Incorrect. Ignoring requirements won't get an interview."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "meet",
           "is_correct": true,
           "feedback": "Correct. To meet a requirement means to fulfill it."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "neglect",
           "is_correct": false,
           "feedback": "Incorrect. Neglect means to fail to care for."
@@ -577,7 +577,7 @@
           "feedback": "Incorrect. Postpone means to delay."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Meet' is the standard verb used for fulfilling criteria or requirements.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Condition for a promotion.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "if",
           "is_correct": false,
           "feedback": "Incorrect. 'If you show' would mean the promotion is certain if initiative is shown, but 'unless' expresses the condition better here."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "unless",
           "is_correct": true,
           "feedback": "Correct. 'Unless' means 'if not' and is used to express a negative condition."
@@ -622,7 +622,7 @@
           "feedback": "Incorrect. Expresses choice between alternatives."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Unless' is used to indicate that the promotion depends on the condition of showing initiative.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Conclusion of an article on job automation.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "upskill",
           "is_correct": true,
           "feedback": "Correct. To upskill means to learn new skills or teach workers new skills."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "retire",
           "is_correct": false,
           "feedback": "Incorrect. Retiring doesn't help one remain competitive."
@@ -667,7 +667,7 @@
           "feedback": "Incorrect. Downsizing usually refers to companies cutting staff."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "'Upskill' is the precise term for acquiring new and relevant professional skills to stay current in the market.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -835,19 +835,19 @@
           "feedback": "Incorrect. Gerund."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "to have finished",
           "is_correct": true,
           "feedback": "Correct. Perfect infinitive indicates an action completed before a certain time."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "to finish",
           "is_correct": false,
           "feedback": "Incorrect. While common, 'to have finished' better fits the 'by the time' structure."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "The perfect infinitive 'to have finished' expresses a completed action relative to a future point.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Conclusion of an essay on work-life balance.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "frustration",
           "is_correct": false,
           "feedback": "Incorrect. Frustration is negative."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "exhaustion",
           "is_correct": false,
           "feedback": "Incorrect. Exhaustion is negative."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "fulfillment",
           "is_correct": true,
           "feedback": "Correct. Fulfillment means the achievement of something desired or promised."
@@ -892,7 +892,7 @@
           "feedback": "Incorrect. Stagnancy is negative."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "'Fulfillment' refers to the satisfaction and sense of accomplishment derived from one's work.",
       "difficulty": "10",
       "images": [],

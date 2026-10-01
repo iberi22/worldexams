@@ -13,19 +13,19 @@
       "context": "En la clase del Colegio Nacional Santa Cruz de Santa Cruz, el estudiante Roxana investiga las propiedades de los logaritmos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "log_b(x) = y si y solo si b^y = x",
           "is_correct": true,
           "feedback": "¡Correcto! El logaritmo es el exponente al que se debe elevar la base b para obtener el número x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "log_b(x) = y si y solo si x^y = b",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste los roles de la base y el exponente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "log_b(x) = y si y solo si b * y = x",
           "is_correct": false,
           "feedback": "Incorrecto. Confundiste la potenciación con la multiplicación lineal."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Invertiste la base de la potencia con la variable resultante."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por definición formal, el logaritmo en base b de un número positivo x es el exponente y al cual se debe elevar la base b para obtener el número x: log_b(x) = y <=> b^y = x.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "En la clase del Colegio Nacional El Alto de El Alto, el estudiante Marisol investiga las propiedades de los logaritmos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "k * log_b(x)",
           "is_correct": true,
           "feedback": "¡Correcto! El exponente de la potencia dentro del logaritmo pasa a multiplicar delante de la expresión."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "log_b(x) / k",
           "is_correct": false,
           "feedback": "Incorrecto. El exponente multiplica al logaritmo, no lo divide."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Elevar todo el logaritmo a la potencia k es una operación completamente distinta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La propiedad de la potencia de logaritmos establece que el exponente del argumento sale multiplicando al logaritmo: log_b(x^k) = k * log_b(x).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,19 +193,19 @@
       "context": "En la clase del Colegio Nacional Bolivar de Tarija, el estudiante Sonia investiga las propiedades de los logaritmos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "0.903",
           "is_correct": true,
           "feedback": "¡Correcto! Como 8 = 2^3, entonces log_10(8) = log_10(2^3) = 3 * log_10(2) = 3 * 0.301 = 0.903."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "0.602",
           "is_correct": false,
           "feedback": "Incorrecto. Este sería el valor de log_10(4), es decir, multiplicando por 2 en lugar de por 3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1.204",
           "is_correct": false,
           "feedback": "Incorrecto. Esto representaría multiplicar por 4, lo cual no corresponde con 8 = 2^3."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. Dividiste en lugar de multiplicar por el exponente 3."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Expresamos 8 como potencia de 2: 8 = 2^3. Aplicando la propiedad de la potencia: log_10(8) = log_10(2^3) = 3 * log_10(2) = 3 * 0.301 = 0.903.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,31 +238,31 @@
       "context": "En la clase del Colegio Nacional Potosí de Oruro, el estudiante Ramiro investiga las propiedades de los logaritmos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "4",
           "is_correct": true,
           "feedback": "¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "-2",
           "is_correct": false,
           "feedback": "Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "8",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface la igualdad al sustituirla en los logaritmos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,31 +283,31 @@
       "context": "En la clase del Colegio Nacional San Luis de Potosí, el estudiante Yolanda investiga las propiedades de los logaritmos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "4.12",
           "is_correct": true,
           "feedback": "¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "-2",
           "is_correct": false,
           "feedback": "Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "8",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface la igualdad al sustituirla en los logaritmos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,31 +328,31 @@
       "context": "En la clase del Colegio Nacional Trinidad de Cobija, el estudiante Jaime investiga las propiedades de los logaritmos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "4",
           "is_correct": true,
           "feedback": "¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "-2",
           "is_correct": false,
           "feedback": "Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "8",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface la igualdad al sustituirla en los logaritmos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "En la clase del Colegio Nacional Cobija de Trinidad, el estudiante Marcela investiga las propiedades de los logaritmos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "4.12",
           "is_correct": true,
           "feedback": "¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "-2",
           "is_correct": false,
           "feedback": "Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. No satisface la igualdad al sustituirla en los logaritmos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "En la clase del Colegio Nacional Ayacucho de La Paz, el estudiante Grover investiga las propiedades de los logaritmos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "4",
           "is_correct": true,
           "feedback": "¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "-2",
           "is_correct": false,
           "feedback": "Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. No satisface la igualdad al sustituirla en los logaritmos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,19 +463,19 @@
       "context": "En la clase del Colegio Nacional Santa Cruz de Santa Cruz, el estudiante Roxana investiga las propiedades de los logaritmos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "4.12",
           "is_correct": true,
           "feedback": "¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "-2",
           "is_correct": false,
           "feedback": "Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. No satisface la igualdad al sustituirla en los logaritmos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,19 +508,19 @@
       "context": "En la clase del Colegio Nacional Sucre de Cochabamba, el estudiante Jhonny investiga las propiedades de los logaritmos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "4",
           "is_correct": true,
           "feedback": "¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "-2",
           "is_correct": false,
           "feedback": "Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. No satisface la igualdad al sustituirla en los logaritmos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "En la clase del Colegio Nacional Junín de Sucre, el estudiante Walter investiga las propiedades de los logaritmos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "4",
           "is_correct": true,
           "feedback": "¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "-2",
           "is_correct": false,
           "feedback": "Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. No satisface la igualdad al sustituirla en los logaritmos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "En la clase del Colegio Nacional Bolivar de Tarija, el estudiante Sonia investiga las propiedades de los logaritmos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "4.12",
           "is_correct": true,
           "feedback": "¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "-2",
           "is_correct": false,
           "feedback": "Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. No satisface la igualdad al sustituirla en los logaritmos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,31 +688,31 @@
       "context": "En la clase del Colegio Nacional Potosí de Oruro, el estudiante Ramiro investiga las propiedades de los logaritmos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "4",
           "is_correct": true,
           "feedback": "¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "-2",
           "is_correct": false,
           "feedback": "Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "8",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface la igualdad al sustituirla en los logaritmos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,31 +733,31 @@
       "context": "En la clase del Colegio Nacional San Luis de Potosí, el estudiante Yolanda investiga las propiedades de los logaritmos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "4.12",
           "is_correct": true,
           "feedback": "¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "-2",
           "is_correct": false,
           "feedback": "Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "8",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface la igualdad al sustituirla en los logaritmos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "En la clase del Colegio Nacional Trinidad de Cobija, el estudiante Jaime investiga las propiedades de los logaritmos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "4",
           "is_correct": true,
           "feedback": "¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "-2",
           "is_correct": false,
           "feedback": "Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. No satisface la igualdad al sustituirla en los logaritmos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "En la clase del Colegio Nacional Cobija de Trinidad, el estudiante Marcela investiga las propiedades de los logaritmos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "4.12",
           "is_correct": true,
           "feedback": "¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "-2",
           "is_correct": false,
           "feedback": "Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. No satisface la igualdad al sustituirla en los logaritmos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "En la clase del Colegio Nacional Ayacucho de La Paz, el estudiante Grover investiga las propiedades de los logaritmos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "4",
           "is_correct": true,
           "feedback": "¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "-2",
           "is_correct": false,
           "feedback": "Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. No satisface la igualdad al sustituirla en los logaritmos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.\n\n---",
       "difficulty": "10",
       "images": [],

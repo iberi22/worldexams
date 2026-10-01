@@ -19,25 +19,25 @@
           "feedback": "La caricatura y la publicidad no son necesariamente científicas."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Que combinan el lenguaje verbal con otros sistemas de signos (imágenes, gráficos, colores).",
           "is_correct": true,
           "feedback": "La multimodalidad es la característica compartida que requiere habilidades de lectura visual y textual."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que todos fueron inventados después de la creación de internet.",
           "is_correct": false,
           "feedback": "La caricatura y la publicidad existen desde mucho antes que internet."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que no utilizan palabras para transmitir sus mensajes.",
           "is_correct": false,
           "feedback": "Todos estos textos utilizan palabras, pero las combinan con otros modos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Los textos multimodales integran diversos modos semióticos. Para comprenderlos integralmente, el lector debe ser capaz de relacionar lo que dicen las palabras con lo que muestran las imágenes o gráficos.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "En una evaluación en Manizales, los estudiantes deben identificar la estructura de un texto. El texto tiene un titular llamativo, una imagen de un producto y un eslogan al final.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Noticia periodística.",
           "is_correct": false,
           "feedback": "Una noticia suele tener lead y cuerpo, no un eslogan de marca."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Infografía técnica.",
           "is_correct": false,
           "feedback": "Una infografía suele tener un cuerpo con datos y procesos, no solo una imagen de producto."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Texto publicitario.",
           "is_correct": true,
           "feedback": "El eslogan y la imagen de producto son elementos distintivos de la publicidad."
@@ -83,7 +83,7 @@
           "feedback": "Un gráfico representa datos numéricos, no usa eslóganes."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Cada tipo de texto multimodal tiene una silueta o estructura característica que ayuda al lector a identificar su propósito comunicativo (informar, convencer, denunciar).",
       "difficulty": "4",
       "images": [],
@@ -111,25 +111,25 @@
           "feedback": "La caricatura apoya visualmente el concepto de la noticia mediante una metáfora."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La caricatura ilustra y critica el dato estadístico mediante una metáfora visual del globo.",
           "is_correct": true,
           "feedback": "La imagen ayuda a comprender la \"presión\" de la inflación que menciona la cifra."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Son dos temas completamente diferentes que no deberían estar juntos.",
           "is_correct": false,
           "feedback": "Ambos tratan sobre el aumento de precios y la situación económica."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El texto es serio y la imagen es solo para que los niños entiendan.",
           "is_correct": false,
           "feedback": "La caricatura es un género de opinión para adultos y jóvenes, no solo un recurso infantil."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En el periodismo, los diferentes géneros (noticia y caricatura de opinión) suelen complementarse para ofrecer una visión de los hechos y una interpretación crítica de los mismos.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "Una infografía sobre el reciclaje usa el color verde para lo orgánico, azul para el papel y rojo para los residuos peligrosos. El texto explicativo es breve y directo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque está hecho de materiales artificiales.",
           "is_correct": false,
           "feedback": "Es una confusión con el sentido químico de la palabra."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque resume y condensa la información para que sea rápida de leer.",
           "is_correct": true,
           "feedback": "La síntesis es la capacidad de expresar lo esencial con pocos elementos, en este caso, visuales y textuales."
@@ -175,7 +175,7 @@
           "feedback": "La síntesis se refiere a la brevedad y precisión de la información, no a la paleta de colores."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La lectura de textos sintéticos requiere que el lector sea capaz de extraer el significado completo a partir de fragmentos de información (píldoras informativas) y su relación con el diseño gráfico.",
       "difficulty": "6",
       "images": [],
@@ -209,19 +209,19 @@
           "feedback": "Cumple con la denuncia, pero no informa sobre los horarios de recolección."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Una infografía con los horarios y una caricatura crítica sobre el manejo de escombros.",
           "is_correct": true,
           "feedback": "Esta combinación utiliza el género informativo (infografía) y el de opinión (caricatura) para cubrir ambos propósitos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Un anuncio publicitario que venda bolsas de basura.",
           "is_correct": false,
           "feedback": "El objetivo no es vender un producto, sino informar y concienciar a la comunidad."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La selección de géneros textuales depende de la intención comunicativa. Para propósitos múltiples, a menudo es necesario combinar diferentes formatos que se adapten a la naturaleza de cada mensaje.",
       "difficulty": "6",
       "images": [],
@@ -301,19 +301,19 @@
           "feedback": "Los datos de una tabla no califican la dificultad de una asignatura en sí."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "El aumento del promedio podría no ser representativo de todo el colegio debido a la alta inasistencia.",
           "is_correct": true,
           "feedback": "La nota al pie ofrece un contexto crítico que matiza o pone en duda la tendencia positiva de la tabla principal."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La nota al pie de página es un error de impresión y no debe leerse.",
           "is_correct": false,
           "feedback": "Las notas al pie son información fundamental para la interpretación correcta de los datos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La lectura crítica de tablas exige integrar la información principal con las aclaraciones o notas marginales, las cuales suelen contener los límites o condiciones de los datos presentados.",
       "difficulty": "8",
       "images": [],
@@ -341,25 +341,25 @@
           "feedback": "Es una interpretación literal que ignora el sentido metafórico de la caricatura."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Que el periodismo a veces se enfoca en detalles insignificantes o sensacionalistas y pierde de vista lo verdaderamente importante.",
           "is_correct": true,
           "feedback": "La lupa sobre la hormiga simboliza la pérdida de perspectiva y la distorsión del hecho principal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que las lupas son herramientas necesarias para que los periodistas vean mejor.",
           "is_correct": false,
           "feedback": "La lupa es aquí un símbolo de la atención selectiva y sesgada del comunicador."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que no hay noticias interesantes, por eso hay que inventarlas con hormigas.",
           "is_correct": false,
           "feedback": "El tema es la jerarquización y el enfoque de la información, no la falta de noticias."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La meta-comunicación (comunicación sobre la comunicación) es común en la caricatura periodística. El análisis crítico permite identificar los vicios o errores de los medios denunciados por los humoristas gráficos.",
       "difficulty": "8",
       "images": [],
@@ -393,19 +393,19 @@
           "feedback": "El análisis busca evaluar el mensaje, no establecer contacto personal."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Para identificar posibles conflictos de interés y sesgos que busquen favorecer una postura política.",
           "is_correct": true,
           "feedback": "Si quien emite el mensaje es el mismo que se beneficia de él, la objetividad de la infografía es cuestionable."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Porque el nombre de la fuente siempre garantiza que los datos son reales.",
           "is_correct": false,
           "feedback": "La fuente indica el origen y la intención, pero no es una garantía automática de veracidad absoluta."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La procedencia de un texto (quién lo escribe y por qué) es un dato clave para evaluar su confiabilidad. En los textos multimodales, los sesgos pueden estar ocultos en la elección de los iconos o el diseño de los gráficos.",
       "difficulty": "10",
       "images": [],

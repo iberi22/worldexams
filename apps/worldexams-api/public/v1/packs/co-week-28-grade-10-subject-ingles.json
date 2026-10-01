@@ -19,25 +19,25 @@
           "feedback": "Incorrect."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "have / had",
           "is_correct": true,
           "feedback": "Correct inversion. Have (auxiliary) + subject + had (past participle)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "have / have",
           "is_correct": false,
           "feedback": "Incorrect tense."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "had / did",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "When a sentence begins with a negative adverbial like 'Never', the auxiliary verb comes before the subject (Inversion).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -59,31 +59,31 @@
       "context": "Restricting an action to a specific condition.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "are",
           "is_correct": true,
           "feedback": "Correct. Only + prepositional phrase + are (verb) + subject."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "do",
           "is_correct": false,
           "feedback": "Incorrect auxiliary."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "have",
           "is_correct": false,
           "feedback": "Incorrect auxiliary."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "will",
           "is_correct": false,
           "feedback": "Incorrect auxiliary for this state."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "'Only in/at...' phrases at the beginning of a sentence trigger inversion of the verb 'to be' or the auxiliary.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -105,13 +105,13 @@
       "context": "Describing a rare educational achievement.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "does / has",
           "is_correct": false,
           "feedback": "Incorrect. Needs base form after 'does'."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "does / have",
           "is_correct": true,
           "feedback": "Correct inversion. Does + subject + base verb."
@@ -129,7 +129,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Using 'Rarely' at the start of a sentence requires 'do/does/did' inversion for present or past simple verbs.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -157,25 +157,25 @@
           "feedback": "Incorrect."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "did / receive",
           "is_correct": true,
           "feedback": "Correct inversion with 'Not until'."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "had / received",
           "is_correct": false,
           "feedback": "Also possible, but B is standard for a point in time."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "has / received",
           "is_correct": false,
           "feedback": "Incorrect tense."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Not until' at the beginning of a sentence triggers inversion in the main clause.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -203,25 +203,25 @@
           "feedback": "No inversion."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "did they know",
           "is_correct": true,
           "feedback": "Correct inversion with 'Little'."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "they did know",
           "is_correct": false,
           "feedback": "Incorrect."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "had they known",
           "is_correct": false,
           "feedback": "Possible, but B is common for unawareness."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Little' is used as a negative adverbial at the beginning of a sentence to mean 'not at all' or 'not much', triggering inversion.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Describing two simultaneous events.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "did / rang",
           "is_correct": false,
           "feedback": "Incorrect."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "had / rung",
           "is_correct": true,
           "feedback": "Correct 'No sooner... than' structure with Past Perfect inversion."
@@ -267,7 +267,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'No sooner... than' is used to show that one action happened immediately after another. It requires Past Perfect inversion.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -295,25 +295,25 @@
           "feedback": "Incorrect."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "did / manage",
           "is_correct": true,
           "feedback": "Correct inversion with 'Only by'."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "they / managed",
           "is_correct": false,
           "feedback": "No inversion."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "had / manage",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Only by' + gerund at the start of a sentence triggers inversion in the main clause.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -341,25 +341,25 @@
           "feedback": "Possible, but B is more complete."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "should / be allowed",
           "is_correct": true,
           "feedback": "Correct. Modal inversion with 'Under no circumstances'."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "they should / be",
           "is_correct": false,
           "feedback": "No inversion."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "must / -",
           "is_correct": false,
           "feedback": "Incomplete."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Under no circumstances' is a strong negative adverbial phrase that requires inversion, often used with modals like 'should' or 'must'.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,25 +387,25 @@
           "feedback": "Incorrect syntax for 'improve'."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "does / also",
           "is_correct": true,
           "feedback": "Correct 'Not only... but also' inversion with Present Simple."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "did / also",
           "is_correct": false,
           "feedback": "Possible, but B is general."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "has / also",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Using 'Not only' at the beginning of a sentence requires inversion in the first clause.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -479,25 +479,25 @@
           "feedback": "Possible, but B is more likely for general truth."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "has / been",
           "is_correct": true,
           "feedback": "Correct inversion with 'Seldom' in the Present Perfect Passive."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "did / be",
           "is_correct": false,
           "feedback": "Incorrect syntax."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "was / be",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Combining 'Seldom' with the passive voice and Present Perfect to emphasize the rarity of an event.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -519,19 +519,19 @@
       "context": "A complex theoretical conclusion.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "can / -",
           "is_correct": true,
           "feedback": "Correct inversion with 'Only if'."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "we / can",
           "is_correct": false,
           "feedback": "No inversion."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "will / be",
           "is_correct": false,
           "feedback": "Possible, but A is more about ability/logic."
@@ -543,7 +543,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Mastery level: Correctly applying inversion in the main clause after a complex 'Only if' conditional clause.\n\n---",
       "difficulty": "10",
       "images": [],

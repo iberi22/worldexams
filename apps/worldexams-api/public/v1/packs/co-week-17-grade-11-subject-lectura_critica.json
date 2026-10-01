@@ -13,13 +13,13 @@
       "context": "Lea el siguiente enunciado de un ensayo sobre educación: \"Es imperativo descentralizar la inversión en infraestructura educativa en Colombia, puesto que el 70% de las aulas rurales en los departamentos periféricos presentan deterioros graves que impiden el aprendizaje digno\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es imperativo descentralizar la inversión en infraestructura educativa en Colombia.",
           "is_correct": true,
           "feedback": "Correcto. La tesis es la postura o afirmación principal que el autor busca sostener mediante la evidencia posterior."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El 70% de las aulas rurales en los departamentos periféricos presentan deterioros graves.",
           "is_correct": false,
           "feedback": "Incorrecto. Este dato es la premisa o evidencia estadística que apoya la tesis, no la tesis misma."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. El fragmento denuncia justamente el deterioro y las carencias del sector rural."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Identificar la tesis en un texto argumentativo implica aislar la proposición principal o juicio de valor que el autor pretende probar mediante argumentos.",
       "difficulty": "4",
       "images": [],
@@ -59,19 +59,19 @@
       "context": "En un ensayo sobre la transición energética se lee: \"Por un lado, los defensores del petróleo argumentan su alto aporte a las finanzas públicas. Por otro lado, los datos sobre el calentamiento global demuestran la urgencia de abandonar los combustibles fósiles. Por lo tanto, Colombia debe planificar una sustitución gradual y sustentable\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "\"Por lo tanto\"",
           "is_correct": true,
           "feedback": "Correcto. El conector ilativo/conclusivo \"Por lo tanto\" sintética la postura final derivada de las premisas previas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "\"Por un lado\"",
           "is_correct": false,
           "feedback": "Incorrecto. Es un organizador discursivo para presentar la primera postura o premisa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "\"Por otro lado\"",
           "is_correct": false,
           "feedback": "Incorrecto. Es un marcador de contraste para introducir la postura opuesta."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. Es un sintagma nominal sujeto y no un conector lógico discursivo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Los conectores conclusivos (por lo tanto, en consecuencia, por ende) señalan el remate deductivo de la estructura argumentativa.",
       "difficulty": "4",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "Lea la siguiente secuencia argumentativa: Premisa 1: \"Todos los países que han invertido más del 2% de su PIB en investigación científica han aumentado sus patentes industriales\". Premisa 2: \"Colombia invierte actualmente menos del 0.3% de su PIB en ciencia\". Conclusión: \"Si Colombia no incrementa su presupuesto científico, continuará rezagada en innovación industrial\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Un razonamiento deductivo hipotético que deriva una consecuencia a partir de una regla general y una premisa empírica.",
           "is_correct": true,
           "feedback": "Correcto. Aplica el principio general del impacto de la inversión a la situación particular de Colombia para inferir el resultado."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una falacia ad hominem basada en el insulto personal contra los científicos colombianos.",
           "is_correct": false,
           "feedback": "Incorrecto. El argumento se estructura sobre porcentajes de inversión y no sobre ataques personales."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Hay una progresión lógica válida desde las premisas comparativas hacia la conclusión."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El razonamiento deductivo aplica enunciados generales verificados a casos específicos para extraer conclusiones lógicas sólidas.",
       "difficulty": "6",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En un ensayo sobre el voto obligatorio, el autor escribe: \"Algunos sostienen que el voto obligatorio viola la libertad individual. Sin embargo, dicha postura olvida que la libertad sin deberes cívicos autodestruye las bases democráticas que la garantizan. Por ende, la obligación legal de votar fortalece y no debilita la libertad\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Presentar un contraargumento (antítesis) para luego refutarlo y consolidar su propia postura.",
           "is_correct": true,
           "feedback": "Correcto. La técnica de refutación exige exponer la objeción adversa para luego desarmarla mediante argumentos superiores."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La conclusión definitiva de todo el ensayo escrito por el autor.",
           "is_correct": false,
           "feedback": "Incorrecto. Esta frase es la postura contraria que el autor busca combatir en las líneas siguientes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un dato bibliográfico sobre la historia de la Constitución de 1991.",
           "is_correct": false,
           "feedback": "Incorrecto. No se aporta una cita constitucional sino la mención a una tesis adversa."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. El autor demuestra una postura firme al refutar tajantemente la antítesis."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La refutación en el ensayo argumentativo consiste en anticipar o presentar la postura contraria (contraargumento) para demostrar sus fallas y validar la tesis propia.",
       "difficulty": "6",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En un debate sobre la prohibición de plásticos de un solo uso, un conferencista afirma: \"No podemos prohibir las bolsas de plástico porque el plástico se inventó en el siglo XX y ha sido indispensable para la medicina moderna en las jeringas desechables\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Desviar la atención del debate (bolsas de plástico) hacia un uso médico distinto y no cuestionado (jeringas).",
           "is_correct": true,
           "feedback": "Correcto. Introducir el uso médico de los plásticos distrae de la discusión específica sobre empaques desechables contaminantes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Probar científicamente que las bolsas de plástico son biodegradables en un día.",
           "is_correct": false,
           "feedback": "Incorrecto. El conferencista no prueba nada sobre bolsas, sino que desvía el tema hacia las jeringas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Demostrar que el siglo XX fue el siglo de mayor progreso biológico.",
           "is_correct": false,
           "feedback": "Incorrecto. La falla radica en la irrelevancia del ejemplo médico para justificar las bolsas comerciales."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. El hablante busca evitar la prohibición mediante un recurso de distracción."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La falacia de la pista falsa (red herring) desvía el foco de la discusión introduciendo un tema colateral irrelavante pero emotivamente favorable.",
       "difficulty": "6",
       "images": [],
@@ -381,19 +381,19 @@
       "context": "Lea el siguiente párrafo: \"La agricultura intensiva ha provocado la salinización de los suelos en el valle del río Cauca. Debido al riego excesivo sin drenaje adecuado, las sales minerales emergen a la superficie, impidiendo la siembra. En consecuencia, miles de hectáreas han quedado estériles\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "El riego excesivo sin drenaje (causa) provoca la salinización y esterilidad del suelo (efecto).",
           "is_correct": true,
           "feedback": "Correcto. El conector \"Debido a\" introduce la causa técnica y \"En consecuencia\" señala el impacto degradante."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La esterilidad del suelo (causa) obligó a los agricultores a inventar el riego excesivo (efecto).",
           "is_correct": false,
           "feedback": "Incorrecto. Invierte erróneamente el orden causal real expuesto en el fragmento."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La siembra de papa en Boyacá provocó la salinización del río Cauca.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto no menciona cultivos de Boyacá ni esa relación geográfica."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. El fragmento no habla de maquinarias eléctricas ni de soluciones implementadas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La estructura causa-efecto en textos argumentativos e informativos exige identificar con precisión cuál evento genera la consecuencia posterior.",
       "difficulty": "6",
       "images": [],
@@ -427,13 +427,13 @@
       "context": "Un ensayista escribe sobre la literatura colombiana: \"Afirmar que Gabriel García Márquez es nuestro único gran escritor es condenar a la invisibilidad a figuras colosales como Manuel Zapata Olivella o Albalucía Ángel, quienes exploraron la matriz afrocolombiana y la condición femenina con igual genialidad\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Cuestionar el monopolio canónico de un solo autor para reivindicar la diversidad del patrimonio literario nacional.",
           "is_correct": true,
           "feedback": "Correcto. El autor busca ampliar el canon literario cuestionando la reducción de las letras colombianas a una sola figura."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Demostrar que García Márquez no escribió ninguna novela de valor artístico.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto llama a García Márquez \"gran escritor\", pero objeta que se le considere el \"único\"."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. No aborda debates lingüísticos extranjeros sino la riqueza temática de los autores nacionales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El uso de contraejemplos o adiciones en el ensayo de crítica cultural sirve para desmantelar visiones monolíticas o reduccionistas del canon.",
       "difficulty": "6",
       "images": [],
@@ -473,31 +473,31 @@
       "context": "En un ensayo sobre la tecnología se expone: \"Si prohibimos el uso de calculadoras en la escuela, pronto prohibiremos las computadoras, luego los libros impresos y terminaremos regresando a las cavernas a pintar en las paredes\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Falacia de la pendiente resbaladiza (*slippery slope*), al asumir sin justificación una cadena inevitable de eventos catastróficos.",
           "is_correct": true,
           "feedback": "Correcto. Encadenar la prohibición de calculadoras con el regreso a las cavernas es una extrapolación extrema infundada."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Argumento por el absurdo basado en ecuaciones de física cuántica.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay desarrollo de ecuaciones físicas; hay un encadenamiento falaz de miedos hipotéticos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Apelación legítima a las leyes del código educativo colombiano.",
           "is_correct": false,
           "feedback": "Incorrecto. El argumento no cita normas legales sino que inventa una escala de prohibiciones absurda."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Definición rigurosa del arte rupestre de las sociedades prehistóricas.",
           "is_correct": false,
           "feedback": "Incorrecto. La mención de las cavernas es un recurso hiperbólico falaz y no un estudio de arqueología."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La falacia de la pendiente resbaladiza sostiene que un primer paso pequeño conducirá indefectiblemente a una cadena de consecuencias extremas e improbables.",
       "difficulty": "8",
       "images": [],
@@ -519,13 +519,13 @@
       "context": "Lea el siguiente pasaje de un ensayo sobre la memoria histórica: \"Un país que olvida su pasado está condenado a repetirlo. Pero un país que habita exclusivamente en el resentimiento del pasado anula su posibilidad de construir futuro. La memoria debe ser un faro para navegar, no un ancla que inmovilice\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Define la memoria como una guía orientadora para el progreso y no como una carga obsesiva que paralice la sociedad.",
           "is_correct": true,
           "feedback": "Correcto. El faro guía la navegación futura, mientras el ancla fija al fondo; la metáfora equilibra el aprendizaje histórico con el avance."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Afirma que Colombia debe construir barcos y faros en todos los puertos pesqueros del Océano Pacífico.",
           "is_correct": false,
           "feedback": "Incorrecto. El autor utiliza términos marítimos como metáfora conceptual de la historia y no de ingeniería naval."
@@ -543,7 +543,7 @@
           "feedback": "Incorrecto. El texto advierte expresamente que habitar en el resentimiento anula el futuro."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El análisis de metáforas en textos ensayísticos permite comprender cómo el autor resuelve tensiones conceptuales mediante imágenes sintéticas.",
       "difficulty": "8",
       "images": [],
@@ -565,13 +565,13 @@
       "context": "Un columnista escribe: \"El senador X afirma que la nueva ley beneficiará a los campesinos. Pero no debemos olvidar que el senador X fue investigado por enriquecimiento ilícito. Por consiguiente, su proyecto de ley es malo para el campo\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "*Ad hominem* ofensivo, pues descalifica el contenido de una propuesta atacando los antecedentes morales del proponente.",
           "is_correct": true,
           "feedback": "Correcto. Las faltas del senador no invalidan automáticamente el contenido técnico de un texto legal; se debe examinar la ley misma."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "*Ad populum*, al apelar a lo que piensa la mayoría de los votantes en una encuesta.",
           "is_correct": false,
           "feedback": "Incorrecto. La falacia ad populum recurre a la masa o mayoría, mientras aquí se ataca a un individuo específico."
@@ -589,7 +589,7 @@
           "feedback": "Incorrecto. Atacar la moral de alguien es lo opuesto a apelar a una autoridad técnica acreditada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La falacia *ad hominem* invalida un argumento atacando las características de la persona que lo formula en lugar de evaluar la solidez de sus razones.",
       "difficulty": "8",
       "images": [],
@@ -703,19 +703,19 @@
       "context": "Un texto argumentativo sobre el sistema penitenciario afirma: \"Aumentar las penas de prisión sin reformar las condiciones de exclusión social es como intentar apagar un incendio forestal arrojando gasolina sobre las llamas\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Ilustra la absoluta contraproducencia de una medida que, en lugar de solucionar el problema, lo agrava.",
           "is_correct": true,
           "feedback": "Correcto. La analogía demuestra de forma visual que endurecer penas en contextos desiguales multiplica la delincuencia."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Enseña a los bomberos a apagar fuegos producidos por derivados del petróleo.",
           "is_correct": false,
           "feedback": "Incorrecto. El texto trata sobre política criminal y penal, no sobre técnicas de extinción de incendios."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Demuestra que la construcción de carceles reduce los incendios forestales en verano.",
           "is_correct": false,
           "feedback": "Incorrecto. No hay relación literal entre la construcción de penales y la prevención de incendios ambientales."
@@ -727,7 +727,7 @@
           "feedback": "Incorrecto. Es un recurso figurativo de la retórica argumentativa y no un plan laboral penitenciario."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Las analogías hiperbólicas en la argumentación política enfatizan la ilogicidad de ciertas medidas institucionales mostrando sus consecuencias absurdas.",
       "difficulty": "8",
       "images": [],
@@ -749,13 +749,13 @@
       "context": "Un ensayista económico sostiene que \"el libre mercado sin ninguna intervención estatal es el único sistema capaz de erradicar la pobreza\". Para probarlo, cita exclusivamente tres años de bonanza bursátil en un país desarrollado, omitiendo las crisis financieras globales, las desigualdades de ingresos y la existencia de monopolios.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Sesgo de confirmación y prueba incompleta (*cherry picking*), al seleccionar solo los datos favorables que respaldan su dogma.",
           "is_correct": true,
           "feedback": "Correcto. Omitir sistemáticamente la evidencia masiva en contrario para presentar un escenario idealizado invalida el rigor del ensayo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Falacia de apelación al miedo desmedido a las fuerzas de la naturaleza.",
           "is_correct": false,
           "feedback": "Incorrecto. El autor no apela al miedo ambiental sino que selecciona sesgadamente datos de prosperidad económica."
@@ -773,7 +773,7 @@
           "feedback": "Incorrecto. El método popperiano exige buscar evidencia que contradiga la hipótesis; el autor hizo lo opuesto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El sesgo de confirmación o *cherry picking* en ensayos de opinión consiste en manipular la evidencia citando solo lo conveniente y ocultando la evidencia adversa.",
       "difficulty": "10",
       "images": [],
@@ -795,13 +795,13 @@
       "context": "Un ensayo sobre la paz en Colombia concluye: \"Debemos elegir entre el perdón absoluto y sin condiciones para todos los actores armados, o la guerra infinita hasta la destrucción total del país\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque reduce arbitrariamente un abanico complejo de justicia transicional a dos opciones extremas e incompatibles.",
           "is_correct": true,
           "feedback": "Correcto. Ignora alternativas intermedias como la justicia restaurativa, la verdad y la reparación con penas alternativas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque demuestra que las guerras en Colombia solo pueden durar una semana.",
           "is_correct": false,
           "feedback": "Incorrecto. La falla no es la duración temporal sino obligar al lector a elegir entre dos extremos falsos."
@@ -819,7 +819,7 @@
           "feedback": "Incorrecto. El vicio es de reduccionismo lógico argumentativo y no un asunto de estilística poética."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El falso dilema empuja al receptor a optar por una entre dos alternativas extremas, ocultando las opciones intermedias o matizadas.",
       "difficulty": "10",
       "images": [],

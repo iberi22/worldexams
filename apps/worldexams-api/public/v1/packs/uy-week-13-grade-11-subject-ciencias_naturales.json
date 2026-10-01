@@ -13,13 +13,13 @@
       "context": "El bioma predominante en el territorio uruguayo es la pradera natural, ocupando más del 70% de la superficie del país.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Gramíneas o poáceas de ciclo estival y de invierno.",
           "is_correct": true,
           "feedback": "Correcto. Las gramíneas autóctonas constituyen el estrato herbáceo dominante de la pradera pampeana/uruguaya."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Arboles coníferos de gran porte.",
           "is_correct": false,
           "feedback": "Incorrecto. Las coníferas no son autóctonas del bioma pradera uruguayo."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Los helechos arborescentes corresponden a selvas húmedas, no a pastizales."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La pradera uruguaya se caracteriza por una alta diversidad de gramíneas y leguminosas nativas adaptadas al pastoreo y clima templado.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -64,25 +64,25 @@
           "feedback": "Incorrecto. No corresponde a una sociedad agronómica privada."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Sistema Nacional de Áreas Protegidas.",
           "is_correct": true,
           "feedback": "Correcto. El SNAP es el organismo público encargado de integrar y gestionar las reservas naturales protegidas de Uruguay."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Servicio Normalizado de Agroecología Protegida.",
           "is_correct": false,
           "feedback": "Incorrecto. No es la denominación oficial del sistema ambiental."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Secretaría Nacional de Áreas Pesqueras.",
           "is_correct": false,
           "feedback": "Incorrecto. El SNAP abarca ecosistemas terrestres, fluviales y marinos bajo estatus de protección."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El Sistema Nacional de Áreas Protegidas (SNAP) regula la conservación in situ de los ecosistemas representativos y la biodiversidad autóctona de Uruguay.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -109,13 +109,13 @@
           "feedback": "Incorrecto. Son especies nativas vulnerables o amenazadas, no exóticas invasoras."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Especie prioritaria para la conservación o amenazada.",
           "is_correct": true,
           "feedback": "Correcto. Las especies con poblaciones relictuales reducidas se categorizan bajo estatus de amenaza para su protección prioritaria."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Especie plaga agropecuaria.",
           "is_correct": false,
           "feedback": "Incorrecto. Son cérvidos nativos protegidos de alto valor biológico."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Son autóctonas de la fauna nativa del Cono Sur."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Las especies amenazadas reciben protección legal e inclusión en planes de conservación para mitigar el riesgo de extinción nacional.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -154,13 +154,13 @@
           "feedback": "Incorrecto. Las especies exóticas no son autóctonas; son introducidas fuera de su rango natural."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Es una especie introducida fuera de su distribución natural que se establece, multiplica y desplaza a la biota nativa.",
           "is_correct": true,
           "feedback": "Correcto. Al carecer de depredadores naturales locales, las especies invasoras se multiplican agresivamente alterando los ecosistemas nativos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es un vegetal que solo sobrevive en condiciones de cultivo controlado dentro de invernaderos.",
           "is_correct": false,
           "feedback": "Incorrecto. Si requiere cultivo controlado no es invasora en ambientes naturales."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Las invasoras generan perjuicios ecológicos y económicos severos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Las especies exóticas invasoras son la segunda causa global de pérdida de biodiversidad al competir, depredar o alterar los hábitats de las especies nativas.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Un informe del Ministerio de Ambiente analiza la sustitución de pastizales nativos por cultivos intensivos o plantaciones forestales masivas en Soriano y Paysandú.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Incrementa la riqueza de especies autóctonas especializadas en el estrato herbáceo.",
           "is_correct": false,
           "feedback": "Incorrecto. La sustitución de pradera destruye el hábitat de especies herbáceas nativas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Pérdida de hábitat, fragmentación de poblaciones y drástica disminución de la biodiversidad especialista.",
           "is_correct": true,
           "feedback": "Correcto. La destrucción de la pradera diversa por monocultivos elimina nichos y fragmenta las poblaciones autóctonas."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. La especiación requiere miles de generaciones y tiempos evolutivos dilatados."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La sustitución de la pradera natural por monocultivos reduce drásticamente la heterogeneidad espacial, eliminando refugios y alimento para especies nativas.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "El parque nacional Cabo Polonio (Rocha) alberga una de las colonias reproductivas de lobos marinos (*Arctocephalus australis*) más importantes de América del Sur.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Conservación ex situ en zoológicos y acuarios cerrados.",
           "is_correct": false,
           "feedback": "Incorrecto. La conservación en cautiverio fuera de su medio es ex situ."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Conservación in situ dentro de su hábitat natural ecosistémico.",
           "is_correct": true,
           "feedback": "Correcto. Proteger a las poblaciones silvestres en sus hábitats naturales constituye conservación in situ."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Se protege una población viva silvestre actual."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La conservación in situ preserva especies, comunidades y procesos ecológicos dentro de los ecosistemas donde evolucionaron y habitan de forma silvestre.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,25 +379,25 @@
           "feedback": "Incorrecto. La cubierta vegetal reduce la erosión hídrica, no la aumenta."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Protección del suelo contra la erosión hídrica, retención del agua de lluvia y regulación del escurrimiento fluvial.",
           "is_correct": true,
           "feedback": "Correcto. El follaje amortigua el impacto de las gotas y la red radicular fija el suelo, regulando las crecidas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Generación de radiación ultravioleta de alta frecuencia.",
           "is_correct": false,
           "feedback": "Incorrecto. Las plantas absorben luz visible y fotosintetizan; no emiten radiación UV."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Eliminación completa del ciclo hidrológico regional.",
           "is_correct": false,
           "feedback": "Incorrecto. La vegetación modula el ciclo hidrológico mediante transpiración e infiltración."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Los servicios de regulación ecosistémica abarcan el control de la erosión, regulación de caudales y protección de cuencas hidrográficas frente a escurrimientos torrenciales.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,25 +424,25 @@
           "feedback": "Incorrecto. Los pumas son felinos terrestres que no depredan en el mar costero."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Colisiones con embarcaciones, contaminación sonora submarina y enmallamiento en redes de pesca.",
           "is_correct": true,
           "feedback": "Correcto. El tráfico marítimo, la contaminación acústica y los aparejos de pesca son causas principales de mortalidad y molestia antrópica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Falta absoluta de salinidad en el Océano Atlántico.",
           "is_correct": false,
           "feedback": "Incorrecto. El Océano Atlántico posee salinidad normal apta para la especie."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Exceso de fotosíntesis por bacterias de agua dulce en alta mar.",
           "is_correct": false,
           "feedback": "Incorrecto. Las amenazas directas provienen de actividades humanas marítimas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La interacción con la navegación, la contaminación acústica marina y la captura incidental en redes constituyen presiones antrópicas graves sobre los cetáceos migratorios.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Una población aislada de 25 ejemplares del ciervo guazubirá (*Mazama gouazoubira*) permanece confinada en un pequeño fragmento de monte en San José sin contacto con otras poblaciones.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Aumento de la heterocigosis y vigor híbrido por selección direccional.",
           "is_correct": false,
           "feedback": "Incorrecto. El aislamiento en poblaciones pequeñas reduce la heterocigosis."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Deriva genética y depresión por endogamia, reduciendo la variabilidad genética y aumentando homocigosis desfavorable.",
           "is_correct": true,
           "feedback": "Correcto. La deriva genética al azar fija alelos deletéreos y el apareamiento entre parientes reduce la aptitud biológica."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Las mutaciones siguen ocurriendo, pero la deriva elimina la variabilidad aleatoria."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "En poblaciones pequeñas, la deriva genética y la endogamia erosionan la diversidad genética, reduciendo la capacidad adaptativa ante cambios ambientales.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -559,25 +559,25 @@
           "feedback": "Incorrecto. Reservas pequeñas y distantes tienen altas tasas de extinción y baja inmigración."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Una reserva de gran superficie, de forma circular y cercana a otras áreas conservadas.",
           "is_correct": true,
           "feedback": "Correcto. Una superficie mayor reduce la tasa de extinción local, y la cercanía (o forma compacta con menor efecto borde) favorece la inmigración."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una reserva alargada extremadamente angosta rodeada de autopistas de alto tráfico.",
           "is_correct": false,
           "feedback": "Incorrecto. Las formas alargadas maximizan el efecto borde negativo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Reservas ubicadas exclusivamente en ambientes totalmente urbanizados.",
           "is_correct": false,
           "feedback": "Incorrecto. Las reservas deben albergar hábitats naturales representativos sin degradación severa."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La teoría de biogeografía de islas predice que las reservas más grandes y conectadas sostienen mayor riqueza de especies al disminuir la tasa de extinción y aumentar la inmigración.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorrecto. Esas especies desaparecen bajo sobrepastoreo continuo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Aumento de la proporción de suelo desnudo y dominancia de especies malezas no palatables o malezas invasoras.",
           "is_correct": true,
           "feedback": "Correcto. La presión constante de pastoreo elimina las gramíneas de alto valor forrajero, abriendo espacio a malezas y erosión del suelo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Desaparición total de los insectos descomponedores del estiércol.",
           "is_correct": false,
           "feedback": "Incorrecto. La estructura vegetal es el principal indicador de salud del pastizal."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. El sobrepastoreo compacta el suelo reduciendo la infiltración y retención hídrica."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El sobrepastoreo continuo agota las reservas de las gramíneas deseables, incrementa el suelo descubierto y favorece la invasión de especies indeseables.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,13 +694,13 @@
           "feedback": "Incorrecto. El tamandúa es un mamífero mermecófago que consume hormigas y termitas arbóreas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Porque depende de la continuidad del canopeo y arbustos del monte nativo para alimentarse y refugiarse, teniendo baja movilidad entre parches aislados.",
           "is_correct": true,
           "feedback": "Correcto. Es una especie arborícola/forestal especialista; la deforestación y fragmentación interrumpen su acceso a recursos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Porque habita únicamente en aguas marinas profundas de alta salinidad.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un mamífero terrestre y arborícola del bosque nativo."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Es un mamífero caminador y trepador sin capacidad de vuelo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Las especies mermecófagas arbóreas como el tamandúa requieren parches continuos de monte nativo con abundancia de termiteros y cavidades de refugio.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -784,25 +784,25 @@
           "feedback": "Incorrecto. Es un principio ecológico de competencia, no un principio jurídico-ambiental."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Principio precautorio (o de precaución).",
           "is_correct": true,
           "feedback": "Correcto. El principio precautorio exige adoptar medidas preventivas ante riesgos ambientales graves aun en ausencia de certidumbre científica absoluta."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Principio del rendimiento máximo sostenible.",
           "is_correct": false,
           "feedback": "Incorrecto. Refiere a tasas de extracción pesquera o forestal óptimas sin agotar el recurso."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Principio de equilibrio estático de Hardy-Weinberg.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una ley de genética de poblaciones bajo condiciones ideales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El principio precautorio es un pilar de la gestión ambiental moderna que prioriza la prevención de daños irreparables a los ecosistemas frente a la incertidumbre científica.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,25 +829,25 @@
           "feedback": "Incorrecto. La homogeneización reduce la diferenciación entre parches, disminuyendo la diversidad beta."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Disminución drástica de la diversidad beta por homogeneización biótica, provocando una caída consecutiva en la diversidad gamma regional.",
           "is_correct": true,
           "feedback": "Correcto. Al volverse todos los parches idénticos, la recíproca diferenciación de especies (beta) cae, reduciendo la riqueza total acumulada en la región (gamma)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Estabilidad absoluta de la diversidad gamma ya que las especies migran a las ciudades.",
           "is_correct": false,
           "feedback": "Incorrecto. Las especies silvestres de pradera no sustituyen su hábitat natural por áreas urbanas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Aumento de la diversidad gamma por sustitución de gramíneas por plásticos sintéticos.",
           "is_correct": false,
           "feedback": "Incorrecto. La diversidad biológica mide organismos vivos, no materiales inanimados."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La diversidad gamma es función de la riqueza local (alfa) y el recambio entre hábitats (beta); la homogeneización del paisaje destruye la diversidad beta y desploma la biodiversidad regional (gamma).\n\n---",
       "difficulty": "10",
       "images": [],
@@ -874,25 +874,25 @@
           "feedback": "Incorrecto. La predación sobre ganado genera conflicto social severo e inviabiliza la conservación."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La existencia de áreas continuas de hábitat con alta densidad de presas silvestres y la aceptación social/coexistencia con las comunidades humanas locales.",
           "is_correct": true,
           "feedback": "Correcto. Sostener un depredador tope requiere grandes extensiones contiguas, abundancia de presas autóctonas y estrategias para evitar conflictos con pobladores."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La erradicación previa de todos los árboles del monte nativo.",
           "is_correct": false,
           "feedback": "Incorrecto. Los felinos de selva/bosque requieren vegetación nativa densa como cobertizo y refugio."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La clonación genética anual de todos los ejemplares libres.",
           "is_correct": false,
           "feedback": "Incorrecto. Las poblaciones reintroducidas deben autorsostenerse demográficamente mediante reproducción silvestre natural."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La restauración de depredadores tope requiere viabilidad ecosistémica (extensión de hábitat y presas autóctonas) e integración con la dimensión socioeconómica local.\n\n---",
       "difficulty": "10",
       "images": [],

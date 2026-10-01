@@ -58,13 +58,13 @@
       "context": "En Cochabamba, el estudiante Jhonny del Colegio Nacional Sucre practica potenciación y radicación de números reales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "x^6",
           "is_correct": true,
           "feedback": "¡Correcto! Por potencia de una potencia se multiplican los exponentes: 3 * 2 = 6."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x^5",
           "is_correct": false,
           "feedback": "Incorrecto. Sumaste los exponentes en lugar de multiplicarlos."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Restaste los exponentes de forma errónea."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La propiedad de potencia de una potencia establece que (a^m)^n = a^(m * n). Por lo tanto, (x^3)^2 = x^(3 * 2) = x^6.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "En El Alto, el estudiante Marisol del Colegio Nacional El Alto practica potenciación y radicación de números reales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "4 * raíz(3)",
           "is_correct": true,
           "feedback": "¡Correcto! raíz(48) = raíz(16 * 3) = raíz(16) * raíz(3) = 4 * raíz(3)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "16 * raíz(3)",
           "is_correct": false,
           "feedback": "Incorrecto. No aplicaste la raíz cuadrada al factor de la potencia de 16."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Hiciste una descomposición errónea del número 48."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para simplificar la raíz de 48, buscamos el mayor cuadrado perfecto que divida a 48, el cual es 16. Entonces, raíz(48) = raíz(16 * 3) = 4 * raíz(3).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín practica potenciación y radicación de números reales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "8x^6 metros cúbicos",
           "is_correct": true,
           "feedback": "¡Correcto! Volumen = (2x^2)^3 = 2^3 * (x^2)^3 = 8x^6."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "6x^5 metros cúbicos",
           "is_correct": false,
           "feedback": "Incorrecto. Se multiplicaron erróneamente los coeficientes y se sumaron los exponentes."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "8x^5 metros cúbicos",
           "is_correct": false,
           "feedback": "Incorrecto. Multiplicaste los exponentes en la potencia de potencia pero no de forma correcta, o sumaste exponentes erróneamente."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Olvidaste elevar el coeficiente numérico 2 al cubo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El volumen de un cubo es lado al cubo. L = 2x^2. Entonces V = (2x^2)^3 = 2^3 * (x^2)^3 = 8x^6.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -328,19 +328,19 @@
       "context": "En Cobija, el estudiante Jaime del Colegio Nacional Trinidad practica potenciación y radicación de números reales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "x^(3/5)",
           "is_correct": true,
           "feedback": "¡Correcto! La raíz n-ésima de una potencia m se escribe como exponente fraccionario m/n. Así, el exponente es 3/5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x^(5/3)",
           "is_correct": false,
           "feedback": "Incorrecto. Invertiste el numerador y el denominador de la fracción exponencial."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x^-2",
           "is_correct": false,
           "feedback": "Incorrecto. Restaste los exponentes en lugar de escribir la fracción correspondiente."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Multiplicaste erróneamente los coeficientes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por la regla de exponentes racionales, raíz_n(x^m) = x^(m/n). Para raíz_quinta(x^3), el índice de la raíz es 5 y el exponente es 3, resultando en x^(3/5).\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,31 +463,31 @@
       "context": "En Santa Cruz, el estudiante Roxana del Colegio Nacional Santa Cruz practica potenciación y radicación de números reales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "1 / x^n",
           "is_correct": true,
           "feedback": "¡Correcto! Un exponente negativo representa el recíproco de la base elevada al exponente positivo correspondiente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "-x^n",
           "is_correct": false,
           "feedback": "Incorrecto. El exponente negativo no transforma la base en un número negativo de manera directa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x^(1/n)",
           "is_correct": false,
           "feedback": "Incorrecto. La potencia fraccionaria representa radicales, no recíprocos de potencias enteras."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "-1 / x^n",
           "is_correct": false,
           "feedback": "Incorrecto. Agregaste un signo negativo innecesario delante de la fracción recíproca."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por la definición algebraica de exponentes en el campo real, para cualquier x distinto de cero y n real, x^-n es exactamente equivalente a 1 / x^n.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "En Cochabamba, el estudiante Jhonny del Colegio Nacional Sucre practica potenciación y radicación de números reales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "x^(4/3)",
           "is_correct": true,
           "feedback": "¡Correcto! En el numerador: x^(1/2 + 3/2) = x^2. Dividido por x^(2/3): x^(2 - 2/3) = x^(4/3)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "x^(2/3)",
           "is_correct": false,
           "feedback": "Incorrecto. Se restaron mal los exponentes al realizar la división de potencias de bases iguales."
@@ -532,7 +532,7 @@
           "feedback": "Incorrecto. Obtuviste el recíproco de la fracción exponente correcta."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Primero simplificamos el numerador sumando los exponentes: 1/2 + 3/2 = 4/2 = 2. Luego restamos el exponente del denominador: 2 - 2/3 = 4/3. Por lo tanto, la expresión simplificada es x^(4/3).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "En El Alto, el estudiante Marisol del Colegio Nacional El Alto practica potenciación y radicación de números reales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "5x",
           "is_correct": true,
           "feedback": "¡Correcto! Uniendo bajo una sola raíz: raíz(75x^5 / 3x^3) = raíz(25x^2) = 5x (asumiendo x > 0)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "25x^2",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste aplicar la raíz cuadrada a los términos simplificados."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Dividiste mal 75 entre 3 o aplicaste una raíz cuadrada errónea."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Dado que ambas expresiones tienen el mismo índice de raíz (2), podemos combinarlas bajo una única raíz cuadrada:\nraíz(75x^5 / 3x^3) = raíz(25 * x^(5 - 3)) = raíz(25x^2) = 5x.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,19 +598,19 @@
       "context": "En Sucre, el estudiante Walter del Colegio Nacional Junín practica potenciación y radicación de números reales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "raíz(5)",
           "is_correct": true,
           "feedback": "¡Correcto! Simplificando cada radical: raíz(20) = 2*raíz(5) -> 3*2*raíz(5) = 6*raíz(5). raíz(45) = 3*raíz(5) -> -2*3*raíz(5) = -6*raíz(5). Entonces: 6*raíz(5) - 6*raíz(5) + raíz(5) = raíz(5)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2 * raíz(5)",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidaste sumar el término final raíz(5) o sumaste de forma errónea los coeficientes reales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0",
           "is_correct": false,
           "feedback": "Incorrecto. El resultado no se cancela por completo debido al último término de la suma."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Realizaste operaciones aritméticas incorrectas al sumar los términos con radicales semejantes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Descomponemos los radicandos en factores con cuadrados perfectos:\n3 * raíz(4 * 5) - 2 * raíz(9 * 5) + raíz(5)\n= 3 * 2 * raíz(5) - 2 * 3 * raíz(5) + raíz(5)\n= 6 * raíz(5) - 6 * raíz(5) + raíz(5) = raíz(5).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,19 +643,19 @@
       "context": "En Tarija, el estudiante Sonia del Colegio Nacional Bolivar practica potenciación y radicación de números reales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "2 * (raíz(7) + raíz(2))",
           "is_correct": true,
           "feedback": "¡Correcto! Multiplicamos por el conjugado (raíz(7) + raíz(2)) tanto arriba como abajo: 10 * (raíz(7) + raíz(2)) / (7 - 2) = 10 * (raíz(7) + raíz(2)) / 5 = 2 * (raíz(7) + raíz(2))."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5 * (raíz(7) + raíz(2))",
           "is_correct": false,
           "feedback": "Incorrecto. Dividiste 10 entre la diferencia (7 - 2 = 5) de manera errónea obteniendo 5 en lugar de 2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2 * (raíz(7) - raíz(2))",
           "is_correct": false,
           "feedback": "Incorrecto. Al racionalizar por resta, el término del numerador debe multiplicarse por el conjugado sumado (raíz(7) + raíz(2))."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Olvidaste dividir el numerador por el resultado del denominador racionalizado (5)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Multiplicamos el numerador y el denominador por la expresión conjugada del denominador, la cual es (raíz(7) + raíz(2)):\n[10 / (raíz(7) - raíz(2))] * [(raíz(7) + raíz(2)) / (raíz(7) + raíz(2))]\n= [10 * (raíz(7) + raíz(2))] / (raíz(7)^2 - raíz(2)^2)\n= [10 * (raíz(7) + raíz(2))] / (7 - 2)\n= [10 * (raíz(7) + raíz(2))] / 5 = 2 * (raíz(7) + raíz(2)).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "En Oruro, el estudiante Ramiro del Colegio Nacional Potosí practica potenciación y radicación de números reales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "0.50 (o 50%)",
           "is_correct": true,
           "feedback": "¡Correcto! La raíz quinta de (243/32) es raíz_quinta(243) / raíz_quinta(32) = 3 / 2 = 1.5. Entonces, r = 1.5 - 1 = 0.50."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "0.20 (o 20%)",
           "is_correct": false,
           "feedback": "Incorrecto. La raíz quinta de 243/32 no es 1.2; revisa las potencias quintas de los números enteros básicos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0.75 (o 75%)",
           "is_correct": false,
           "feedback": "Incorrecto. Realizaste un cálculo de raíces o resta incorrecto en el paso final."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Se calculó de manera equivocada la raíz de las potencias de base 2 y base 3."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La tasa de retorno está dada por r = (243/32)^(1/5) - 1. Sabemos que 243 = 3^5 y 32 = 2^5. Por ende, (243/32)^(1/5) = 3/2 = 1.5. Al restar 1, r = 1.5 - 1 = 0.50.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -823,31 +823,31 @@
       "context": "En Trinidad, el estudiante Marcela del Colegio Nacional Cobija practica potenciación y radicación de números reales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "raíz_cuadrada(2)",
           "is_correct": true,
           "feedback": "¡Correcto! Si la torre infinita es igual a 2, entonces el exponente de la base inferior también es igual a 2, es decir, x^2 = 2. Como x > 0, se concluye que x = raíz_cuadrada(2)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. Si x fuera 2, la torre infinita 2^(2^(2^...)) diverge al infinito, por lo que no puede converger a 2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "raíz_cúbica(2)",
           "is_correct": false,
           "feedback": "Incorrecto. Esto implicaría que la torre converge a 3 en lugar de a 2 de acuerdo con el análisis de límites anidados."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "1",
           "is_correct": false,
           "feedback": "Incorrecto. Si x fuera 1, la torre de potencias sería 1^(1^(1^...)) que es igual a 1, no a 2."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Sea y = x^(x^(x^...)) = 2. Podemos sustituir la parte infinita superior por la misma variable y, ya que es idéntica por recursión infinita:\nx^y = 2\nSustituyendo y = 2:\nx^2 = 2 \\implies x = raíz(2) (ya que x es positivo).\n\n---",
       "difficulty": "10",
       "images": [],

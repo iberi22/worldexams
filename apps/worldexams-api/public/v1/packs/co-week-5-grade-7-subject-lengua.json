@@ -111,13 +111,13 @@
           "feedback": "Incorrecto. El romanticismo tardío era profundamente pesimista y triste."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El culto al sentimiento y la fascinación por lo trágico y lo fúnebre.",
           "is_correct": true,
           "feedback": "¡Correcto! La muerte y el dolor son temas recurrentes de la sensibilidad romántica."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El interés por los avances tecnológicos del siglo XIX.",
           "is_correct": false,
           "feedback": "Incorrecto. Los románticos solían rechazar el frío racionalismo del progreso técnico."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. La subjetividad del autor está por encima de cualquier descripción objetiva."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Julio Flórez representa el romanticismo tardío en Colombia. Su obra conecta con el alma popular precisamente por esa expresión directa y apasionada del dolor, la soledad y el destino trágico del ser humano.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -163,19 +163,19 @@
           "feedback": "Incorrecto. La visión romántica es estética y emocional, no comercial."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Es un espejo de las emociones: si el personaje está triste, el paisaje suele ser sombrío o lluvioso.",
           "is_correct": true,
           "feedback": "¡Correcto! El paisaje se \"humaniza\" y acompaña el sentimiento del héroe."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El paisaje no tiene ninguna importancia en las obras románticas.",
           "is_correct": false,
           "feedback": "Incorrecto. El paisaje (especialmente el local) es fundamental para la identidad romántica."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Este recurso se llama \"falacia patética\" o paisaje sentimental. En \"María\", por ejemplo, el río y la vegetación de la hacienda El Paraíso cambian de tono según el estado de salud y la felicidad de María y Efraín.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -335,13 +335,13 @@
       "context": "Un historiador afirma que \"el romanticismo en Colombia ayudó a crear la idea de nación\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque todos los autores románticos fueron presidentes de la república.",
           "is_correct": false,
           "feedback": "Incorrecto. Algunos participaron en política, pero no todos fueron presidentes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque al describir con amor nuestros paisajes, costumbres e historia, los autores hicieron que los colombianos se sintieran orgullosos de su tierra.",
           "is_correct": true,
           "feedback": "¡Correcto! El nacionalismo literario es una rama del romanticismo."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Es una afirmación sin sentido histórico."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Al centrarse en lo local (el color local), el romanticismo permitió que los colombianos vieran sus propios ríos, montañas y tradiciones como algo digno de ser literatura, fortaleciendo el sentido de pertenencia a una nación joven que apenas se estaba formando.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,13 +387,13 @@
           "feedback": "Incorrecto. El autor habla de autenticidad emocional, no de dinero."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La falta de educación en los jóvenes de la época.",
           "is_correct": false,
           "feedback": "Incorrecto. No se menciona la educación, sino la vivencia de los sentimientos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El choque entre la sinceridad emocional del individuo y las normas hipócritas de la sociedad.",
           "is_correct": true,
           "feedback": "¡Correcto! El romántico se siente un incomprendido por un mundo materialista."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. Aunque viajaban, el centro del fragmento es la autenticidad del \"yo\"."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El \"mal del siglo\" (la melancolía y el desajuste con el mundo) es la marca de agua del romanticismo. El autor prefiere sufrir siendo fiel a sí mismo que ser feliz siguiendo reglas que considera vacías. Este individualismo es revolucionario para su época.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "Al leer \"María\", algunos lectores modernos se sorprenden de que los personajes lloren tanto por cosas que hoy parecen pequeñas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Como una señal de que los personajes del siglo XIX eran más débiles que los actuales.",
           "is_correct": false,
           "feedback": "Incorrecto. No es debilidad, es una estética literaria diferente."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Como errores del autor que no sabía controlar sus emociones al escribir.",
           "is_correct": false,
           "feedback": "Incorrecto. Es una técnica deliberada para impactar al lector."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Como una convención estética de la época que buscaba resaltar la nobleza y profundidad del alma humana.",
           "is_correct": true,
           "feedback": "¡Correcto! La intensidad es lo que da valor a la experiencia romántica."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. La tristeza no busca la extensión, sino la belleza de la melancolía."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Cada época tiene su propia \"sensibilidad\". Para los románticos, la capacidad de conmoverse hasta las lágrimas era un signo de superioridad espiritual y de refinamiento moral. Entender esto es clave para no juzgar las obras del pasado con los ojos del presente.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
       "difficulty": "10",
       "images": [],

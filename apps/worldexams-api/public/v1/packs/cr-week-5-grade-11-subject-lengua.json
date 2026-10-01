@@ -13,31 +13,31 @@
       "context": "Javier repasa para las Pruebas Nacionales Estandarizadas de Español en Alajuela.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "La representación con palabras de las características de objetos, personas o ambientes, respondiendo al 'cómo es' algo.",
           "is_correct": true,
           "feedback": "Correcto. La descripción se enfoca en representar cualidades espaciales o de personalidad."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La defensa de un punto de vista subjetivo para persuadir al lector mediante argumentos de peso.",
           "is_correct": false,
           "feedback": "Incorrecto. Esto define a los textos de carácter argumentativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El relato estructurado de acontecimientos cronológicos reales o ficticios.",
           "is_correct": false,
           "feedback": "Incorrecto. Esto caracteriza a la tipología narrativa."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La presencia de directrices técnicas emitidas por el Ministerio de Obras Públicas.",
           "is_correct": false,
           "feedback": "Incorrecto. Esto define la tipología instructiva o normativa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La tipología descriptiva recrea la realidad fisonómica, espacial o moral mediante el uso de adjetivos, respondiendo a la pregunta '¿cómo es?'.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -64,13 +64,13 @@
           "feedback": "Incorrecto. Ambas tipologías pueden utilizar el registro culto formal de la lengua."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La presencia de un narrador y el transcurrir de acciones en un tiempo y espacio que transforman el estado inicial de los personajes.",
           "is_correct": true,
           "feedback": "Correcto. El dinamismo de la acción y la secuencia de cambios de estado son exclusivos del relato narrativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La explicación detallada y objetiva de conceptos científicos especializados.",
           "is_correct": false,
           "feedback": "Incorrecto. Esto caracteriza al texto expositivo, no al narrativo."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Es una característica formal de presentación común a casi todos los textos en prosa."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La narrativa se define por su dinamismo temporal y la presencia de agentes que experimentan transformaciones a lo largo del relato.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -109,13 +109,13 @@
           "feedback": "Incorrecto. La monografía científica es estrictamente denotativa y neutral."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La monografía expone información objetiva y contrastada de manera imparcial, mientras que el ensayo defiende con argumentos una tesis de carácter personal.",
           "is_correct": true,
           "feedback": "Correcto. Distingue con precisión los fines informativos expositivos de los fines suasorios argumentativos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El ensayo de opinión carece de una introducción estructurada e inicia directamente en el nudo.",
           "is_correct": false,
           "feedback": "Incorrecto. El ensayo tiene una estructura rigurosa de introducción, desarrollo y conclusión."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Ambos textos abordan temáticas reales y fácticas de interés social y científico."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La exposición persigue la transmisión neutral del saber, mientras que la argumentación busca persuadir al lector de que adopte una determinada postura ideológica.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,31 +148,31 @@
       "context": "María redacta un párrafo donde describe el relieve montañoso que rodea la provincia de Cartago.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Topografía.",
           "is_correct": true,
           "feedback": "Correcto. La topografía se especializa en la representación lingüística de lugares, relieves y paisajes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Etopeya.",
           "is_correct": false,
           "feedback": "Incorrecto. La etopeya retrata los rasgos éticos y morales de una persona, no accidentes geográficos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Prosopografía.",
           "is_correct": false,
           "feedback": "Incorrecto. Describe las características físicas exteriores de seres humanos o animales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Cronografía.",
           "is_correct": false,
           "feedback": "Incorrecto. Representa épocas históricas o transcursos de tiempo, no relieves de montañas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La representación detallada de espacios naturales o urbanos inanimados constituye una descripción de carácter topográfico.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Un grupo de estudiantes de undécimo año escribe un artículo para la revista del Liceo de Liberia contra el acoso escolar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Argumento analógico de causa-efecto de carácter familiar.",
           "is_correct": false,
           "feedback": "Incorrecto. No establece un encadenamiento causal o comparativo de sucesos familiares."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Argumento de autoridad.",
           "is_correct": true,
           "feedback": "Correcto. Recurrir al testimonio de expertos o autoridades del sector dota de credibilidad la postura defendida."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. No apela a la manipulación emocional del receptor, cita un cargo oficial experto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El argumento de autoridad legitima la validez de la tesis apoyándose en el conocimiento y prestigio de un especialista en la materia.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "Javier desea reescribir un texto narrativo subjetivo sobre la recolección de café en Tarrazú en uno de carácter expositivo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Nosotros fuimos a Tarrazú y recogimos mucho café de excelente calidad.",
           "is_correct": false,
           "feedback": "Incorrecto. El uso de la primera persona plural introduce la subjetividad del relator."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se recolecta el café manualmente durante la estación seca para garantizar la selección óptima del grano.",
           "is_correct": true,
           "feedback": "Correcto. El 'Se recolecta' despersonaliza la acción, centrando la atención en el proceso agrícola de forma objetiva."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Expresa deseos y emociones ajenas a la neutralidad expositiva formal."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Las estructuras impersonales con 'se' permiten ocultar al agente, logrando la neutralidad y el rigor denotativo de los textos explicativos.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -334,13 +334,13 @@
           "feedback": "Incorrecto. Es un conector conclusivo o consecutivo, señala el efecto, no introduce la causa."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "puesto que el pisoteo continuo de los bueyes compacta la capa superficial del terreno.",
           "is_correct": true,
           "feedback": "Correcto. 'Puesto que' es un conector causal que introduce la explicación física originaria del fenómeno."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "En primer lugar, debemos reforestar las llanuras de Liberia.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un conector ordenador temporal del discurso."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Es un conector adversativo o de oposición restrictiva."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Los conectores causales (puesto que, ya que, porque, dado que) introducen la justificación lógica o el origen de un fenómeno.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,25 +379,25 @@
           "feedback": "Incorrecto. No suma información, contrapone dos opciones de política."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Relación de oposición o contraste entre dos decisiones gubernamentales opuestas.",
           "is_correct": true,
           "feedback": "Correcto. Confronta directamente la inversión frente al recorte presupuestario."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Relación temporal consecutiva de acciones históricas.",
           "is_correct": false,
           "feedback": "Incorrecto. No marca una secuencia temporal de hechos cronológicos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Relación de causa y efecto biológico en las aulas.",
           "is_correct": false,
           "feedback": "Incorrecto. Expresa contraste ético y de gestión, no leyes físicas causales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El conector 'por el contrario' sirve para contrastar de manera directa dos realidades o tesis opuestas en la argumentación.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Incorrecto. El argumento apela a derechos humanos y justicia moral, no a variables financieras o de costos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La preservación de la vida humana y la dignidad familiar de los costarricenses prevalecen sobre los intereses de recaudación económica de las empresas distribuidoras.",
           "is_correct": true,
           "feedback": "Correcto. Para sostener que prohibir el corte es justicia social basándose en que el agua es un derecho, se debe presuponer que la vida prevalece sobre el cobro comercial del servicio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La municipalidad de San José posee suficientes fondos para pagar las deudas del país.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un supuesto de factibilidad administrativa externa que no determina la lógica moral del argumento central."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Es una variable física hidrológica que no aborda la premisa ética de justicia social descrita."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La premisa implícita constituye el fundamento moral sobre el cual se erige la conexión lógica entre la tesis y el derecho humano esgrimido.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Lea detenidamente el siguiente pasaje narrativo costumbrista costarricense:\n\n'Don Pedro amarró su caballo frente al viejo mercado de Heredia. Con paso pausado y apoyándose en su bastón de guayabo, se adentró en el tramo de las verduras. Saludó a cada conocido de la provincia con una leve inclinación de cabeza y una sonrisa nostálgica que revelaba el peso de sus recuerdos.'",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Un retrato literario, ya que amalgama la descripción física y conductual exterior del personaje con sugerencias de su mundo psicológico íntimo y emocional.",
           "is_correct": true,
           "feedback": "Correcto. Reúne rasgos externos (caballo, bastón, paso pausado, saludo) con rasgos internos (paciencia, nostalgia, recuerdos), configurando un retrato."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Una prosopografía pura exenta de cualquier rasgo anímico, emocional o ético del personaje costarricense.",
           "is_correct": false,
           "feedback": "Incorrecto. Menciona una 'sonrisa nostálgica' y el 'peso de sus recuerdos', que pertenecen al mundo interno afectivo."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. El tratamiento del anciano es de respeto y dignidad, no hay burlas o deformaciones satíricas grotescas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El retrato literario asocia el físico y la conducta con la psicología, logrando una representación tridimensional del personaje en la novela o cuento.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,25 +649,25 @@
           "feedback": "Incorrecto. No cita leyes y recurre a una descalificación grupal prejuiciosa irrelevante."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Poco sólido e inválido, puesto que incurre en una falacia de generalización apresurada al atribuir una conducta negativa particular a todo un colectivo social sin pruebas científicas.",
           "is_correct": true,
           "feedback": "Correcto. Calificar a 'todos los ciclistas' de irresponsables es una generalización falaz que destruye el rigor argumentativo académico."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Completamente verídico y riguroso, al proteger la integridad de los peatones del país.",
           "is_correct": false,
           "feedback": "Incorrecto. Carece de rigor y veracidad fáctica al basarse en un prejuicio absoluto y no en datos oficiales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Inválido debido a que el estudiante debió escribir el párrafo empleando rimas.",
           "is_correct": false,
           "feedback": "Incorrecto. Los escritos argumentativos académicos deben evitar rimas y lirismos poéticos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La generalización apresurada o prejuicio absoluto despoja al texto argumentativo de su consistencia racional, convirtiéndolo en un ataque sin bases empíricas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Lea la siguiente propuesta de ley redactada de forma expositiva para una asamblea de estudiantes costarricenses:\n\n'El MEP debe suspender de inmediato todos los exámenes escritos tradicionales en Costa Rica y reemplazarlos por videojuegos educativos este mismo mes, garantizando así la felicidad escolar absoluta.'",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La falta de uso de un vocabulario poético y figuras literarias como la metáfora.",
           "is_correct": false,
           "feedback": "Incorrecto. Las propuestas formales o de ley deben ser claras y directas, evitando tropos poéticos ornamentales."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La falta de pragmatismo y realismo técnico, al proponer una reforma curricular nacional radical inmediata sin transición institucional ni sustento de viabilidad presupuestaria.",
           "is_correct": true,
           "feedback": "Correcto. Proponer suspender exámenes en un mes sin plan de contingencia tecnológica o presupuestaria carece de realismo de la provincia."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. El MEP es la entidad rectora oficial real de la educación del país; mencionarlo es correcto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Una propuesta o argumento con fines prácticos debe estar respaldado por la viabilidad operativa y la factibilidad presupuestaria para conservar consistencia formal.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,25 +739,25 @@
           "feedback": "Incorrecto. Ataca el proyecto ecológico de la planta, no la vida privada o moral del vecino."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Falacia de la pendiente resbaladiza, al postular una cadena catastrófica desmesurada sin demostrar la relación causa-efecto real de la actividad industrial.",
           "is_correct": true,
           "feedback": "Correcto. Sostiene que una sola planta convertirá a Liberia en basurero continental inmediato, incurriendo en una exageración causal falaz sin pruebas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Falacia ad verecundiam al apoyarse en estudios del Estado de la Nación.",
           "is_correct": false,
           "feedback": "Incorrecto. No se apoya en ninguna autoridad; emite un vaticinio apocalíptico personal."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Petición de principio al definir reciclaje como sinónimo exacto de salud ecológica.",
           "is_correct": false,
           "feedback": "Incorrecto. La falacia que define la estructura del argumento es el encadenamiento de desastre."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La pendiente resbaladiza busca infundir temor al postular que un acto desencadenará inevitablemente un desastre absoluto, omitiendo explicar los pasos causales de forma racional.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. El texto es temáticamente coherente, no presenta contradicciones lógicas directas de términos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Razonamiento circular o tautología, al repetir la tesis de partida de forma redundante en las premisas sin aportar un desarrollo conceptual real.",
           "is_correct": true,
           "feedback": "Correcto. El fragmento dice 'debemos cuidar bosques porque son árboles y sin árboles no hay vegetación y no hay bosques', repitiendo la misma idea circularmente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La falta de inclusión de un registro informal con voseo para conectar con el campesino.",
           "is_correct": false,
           "feedback": "Incorrecto. La escritura académica formal de ensayos exige evitar variantes informales y voseos coloquiales."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. No es obligatorio mencionar un parque específico para fundamentar la necesidad de cuidar los bosques."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El razonamiento circular o petición de principio no aporta argumentos demostrativos, limitándose a reformular la premisa de origen en una conclusión redundante.\n\n---",
       "difficulty": "9",
       "images": [],

@@ -64,13 +64,13 @@
           "feedback": "Incorrect. Present continuous."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "have been working",
           "is_correct": true,
           "feedback": "Correct. Present perfect continuous for an ongoing effort."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "worked",
           "is_correct": false,
           "feedback": "Incorrect. Past simple."
@@ -82,7 +82,7 @@
           "feedback": "Incorrect. Future."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The present perfect continuous highlights the duration and current persistence of the collaborative effort.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,31 +148,31 @@
       "context": "Article about \"servant leadership\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "serve",
           "is_correct": true,
           "feedback": "Correct. The core function of a servant leader."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "ignore",
           "is_correct": false,
           "feedback": "Incorrect."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "control",
           "is_correct": false,
           "feedback": "Incorrect. Servant leadership is about support, not just control."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "exploit",
           "is_correct": false,
           "feedback": "Incorrect. Negative."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "'Serve' is the defining verb for this specific leadership model, which prioritizes the well-being of others.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,13 +193,13 @@
       "context": "Discussion on \"ethical leadership\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "by accident",
           "is_correct": false,
           "feedback": "Incorrect. It should be intentional."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "by example",
           "is_correct": true,
           "feedback": "Correct. Leading by example means showing others how to behave through your own actions."
@@ -217,7 +217,7 @@
           "feedback": "Incorrect. Ethics usually requires transparency."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'By example' is the key phrase for describing the modeling of behavior that is central to ethical leadership.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -244,25 +244,25 @@
           "feedback": "Incorrect."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "diplomat",
           "is_correct": true,
           "feedback": "Correct. Formal term for a state representative."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "tourist",
           "is_correct": false,
           "feedback": "Incorrect."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "refugee",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Diplomat' is the specific title for a professional who represents a nation in global leadership contexts.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "Text on \"charismatic leadership\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "boring",
           "is_correct": false,
           "feedback": "Incorrect."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Charismatic",
           "is_correct": true,
           "feedback": "Correct. Having a compelling charm that inspires devotion."
@@ -352,7 +352,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Charismatic' is the term for leaders who use their personal appeal and charm to influence others.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -379,25 +379,25 @@
           "feedback": "Incorrect. Backshifted in reported speech."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "had reached",
           "is_correct": true,
           "feedback": "Correct. Backshifted from present perfect to past perfect."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "reach",
           "is_correct": false,
           "feedback": "Incorrect."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "will reach",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "In reported speech, we backshift the tense to show the achievement occurred before the announcement.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -424,13 +424,13 @@
           "feedback": "Incorrect. Characterized by freedom."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Authoritarianism",
           "is_correct": true,
           "feedback": "Correct. Characterized by central power and restricted freedom."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Liberalism",
           "is_correct": false,
           "feedback": "Incorrect. Focuses on individual freedom."
@@ -442,7 +442,7 @@
           "feedback": "Incorrect. Lack of central power."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Authoritarianism' correctly identifies the restrictive and power-heavy leadership style described.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Incorrect."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Integrity",
           "is_correct": true,
           "feedback": "Correct. Fundamental leadership value."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Wealth",
           "is_correct": false,
           "feedback": "Incorrect."
@@ -487,7 +487,7 @@
           "feedback": "Incorrect. While related to leadership, 'integrity' is the moral quality described."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Integrity' is the core character trait that ensures a leader is trusted and respected.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,13 +508,13 @@
       "context": "Describing a future summit outcome.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "will finalize",
           "is_correct": false,
           "feedback": "Incorrect. Active voice."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "will have been finalized",
           "is_correct": true,
           "feedback": "Correct. Future perfect passive for a completed state in the future."
@@ -532,7 +532,7 @@
           "feedback": "Incorrect. Gerund."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The future perfect passive indicates that the agreement will be a finished achievement by the stated deadline.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "Discussing \"collaboration\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "collaboration",
           "is_correct": true,
           "feedback": "Correct. Collaboration means working together."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "isolation",
           "is_correct": false,
           "feedback": "Incorrect. Opposite of leadership."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "competition",
           "is_correct": false,
           "feedback": "Incorrect. While competition exists, 'collaboration' is the requirement for *effective global* leadership discussed."
@@ -577,7 +577,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "'Collaboration' is the essential process of working together that global leadership aims to facilitate.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,31 +643,31 @@
       "context": "Conclusion of an essay on \"adaptive leadership\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "adaptive",
           "is_correct": true,
           "feedback": "Correct. Adaptive means able to adjust to new conditions."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "rigid",
           "is_correct": false,
           "feedback": "Incorrect. Authoritarian/unyielding."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "simple",
           "is_correct": false,
           "feedback": "Incorrect. Challenges are complex."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "accidental",
           "is_correct": false,
           "feedback": "Incorrect. Leadership should be intentional."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "'Adaptive' correctly identifies the flexible leadership style that the author evaluates as necessary for modern times.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "Incorrect."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Mediator",
           "is_correct": true,
           "feedback": "Correct. Neutral go-between."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Judge",
           "is_correct": false,
           "feedback": "Incorrect. Judges make a decision; mediators help *others* agree."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Spy",
           "is_correct": false,
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Mediator' is the specific title for an individual who facilitates agreement between conflicting parties.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,13 +739,13 @@
           "feedback": "Incorrect. Present."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "were",
           "is_correct": true,
           "feedback": "Correct. 'Wish + were' for a present hypothetical desire."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "was",
           "is_correct": false,
           "feedback": "Incorrect. 'Were' preferred in formal speech."
@@ -757,7 +757,7 @@
           "feedback": "Incorrect. Future."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The 'wish + past' structure expresses a desire for the current focus of leadership to change.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrect. This is 'hard power'."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "persuasion",
           "is_correct": true,
           "feedback": "Correct. To persuade is to convince someone to do something through reasoning or argument."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "threats",
           "is_correct": false,
           "feedback": "Incorrect. Soft power avoids threats."
@@ -802,7 +802,7 @@
           "feedback": "Incorrect. Unethical and usually hard power (economic)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Persuasion' correctly describes the mechanism through which 'soft power' influences others.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -829,13 +829,13 @@
           "feedback": "Incorrect. Backshifted in reported speech."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "would",
           "is_correct": true,
           "feedback": "Correct. Backshifted from 'will' to 'would' in reported speech."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "should",
           "is_correct": false,
           "feedback": "Incorrect. Expresses advice."
@@ -847,7 +847,7 @@
           "feedback": "Incorrect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "In reported speech, we change 'will' to 'would' when reporting a promise made in the past.\n\n---",
       "difficulty": "10",
       "images": [],

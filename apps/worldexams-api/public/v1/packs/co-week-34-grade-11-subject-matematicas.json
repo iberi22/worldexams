@@ -105,31 +105,31 @@
       "context": "La estatura de los estudiantes de grado 11 de un colegio en Medellín sigue una distribución normal con media $\\mu = 165$ cm y desviación estándar $\\sigma = 5$ cm.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "68%",
           "is_correct": true,
           "feedback": "Según la regla empírica de la distribución normal, el intervalo (mu - sigma, mu + sigma) concentra aproximadamente el 68% de los datos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "95%",
           "is_correct": false,
           "feedback": "Corresponde al intervalo mu +/- 2 sigma (155 cm a 175 cm)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "99.7%",
           "is_correct": false,
           "feedback": "Corresponde al intervalo mu +/- 3 sigma (150 cm a 180 cm)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "50%",
           "is_correct": false,
           "feedback": "Representa el área a un solo lado de la media en una distribución simétrica."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "En la regla empírica (o 68-95-99.7) de una distribución normal, el $68.27%$ de la población se encuentra dentro de $\\pm 1$ desviación estándar alrededor de la media.",
       "difficulty": "4",
       "images": [],
@@ -151,19 +151,19 @@
       "context": "En un experimento binomial de 10 ensayos independientes con probabilidad de éxito $p = 0.4$ en cada ensayo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\mu = n \\cdot p$",
           "is_correct": true,
           "feedback": "En una distribución binomial B(n, p), la media o valor esperado es mu = n * p = 10 * 0.4 = 4."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\mu = n \\cdot p \\cdot (1-p)$",
           "is_correct": false,
           "feedback": "Esta fórmula corresponde a la varianza sigma^2 de la distribución binomial."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\mu = \\sqrt{n \\cdot p \\cdot (1-p)}$",
           "is_correct": false,
           "feedback": "Esta fórmula corresponde a la desviación estándar sigma de la distribución binomial."
@@ -175,7 +175,7 @@
           "feedback": "Es una razón sin significado probabilístico en el modelo binomial."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para una variable aleatoria binomial $X sim B(n,p)$, el valor esperado se calcula mediante la multiplicación del número de ensayos por la probabilidad de éxito en cada ensayo: $E[X] = n \\cdot p$.",
       "difficulty": "4",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En un juego de lotería en Cali, un billete cuesta 5,000 COP. La probabilidad de ganar un premio de 100,000 COP es 0.02, y la probabilidad de no ganar nada es 0.98.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "-3,000 COP",
           "is_correct": true,
           "feedback": "E[Ganancia Neta] = (100000 - 5000)*0.02 + (-5000)*0.98 = 95000*0.02 - 4900 = 1900 - 4900 = -3000 COP."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2,000 COP",
           "is_correct": false,
           "feedback": "Se calculó el valor esperado del premio (0.02 * 100000 = 2000 COP) sin restar el costo del billete."
@@ -221,7 +221,7 @@
           "feedback": "Se asumió incorrectamente que el juego es totalmente justo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El valor esperado de la ganancia neta es $E[X] = (95,000)(0.02) + (-5,000)(0.98) = 1,900 - 4,900 = -3,000$ COP. El comprador pierde en promedio 3,000 COP por juego.",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "Un estudiante responde al azar una prueba corta de 5 preguntas de verdadero o falso ($p = 0.5$).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\frac{5}{32}$",
           "is_correct": true,
           "feedback": "P(X=4) = C(5,4) * (0.5)^4 * (0.5)^1 = 5 * (1/16) * (1/2) = 5/32 = 0.15625."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{1}{32}$",
           "is_correct": false,
           "feedback": "Corresponde a la probabilidad de acertar las 5 preguntas P(X=5)."
@@ -267,7 +267,7 @@
           "feedback": "Se dividió 1 entre el número total de preguntas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Usando la fórmula binomial $P(X=k) = \\binom{n}{k} p^k (1-p)^{n-k}$ con $n=5, k=4, p=0.5$:\n$P(X=4) = 5 \\cdot (0.5)^4 \\cdot (0.5)^1 = \\frac{5}{32}$.",
       "difficulty": "6",
       "images": [],
@@ -289,31 +289,31 @@
       "context": "Los puntajes de un simulacro PreICFES en Barranquilla siguen una distribución normal con media $\\mu = 300$ y desviación estándar $\\sigma = 40$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "95%",
           "is_correct": true,
           "feedback": "De acuerdo con la regla empírica 68-95-99.7, el rango mu +/- 2 sigma engloba aproximadamente el 95% de la distribución normal."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "68%",
           "is_correct": false,
           "feedback": "Corresponde al rango entre 260 y 340 (mu +/- 1 sigma)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "99.7%",
           "is_correct": false,
           "feedback": "Corresponde al rango entre 180 y 420 (mu +/- 3 sigma)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "80%",
           "is_correct": false,
           "feedback": "Valor arbitrario no correspondiente a las propiedades estándar de la curva gaussiana."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El intervalo $[300 - 2(40), 300 + 2(40)] = [220, 380]$ representa 2 desviaciones estándar a cada lado de la media. Por regla empírica, abarca el $95%$ de los datos.",
       "difficulty": "6",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En una distribución binomial con $n = 100$ ensayos y probabilidad de éxito $p = 0.2$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "4",
           "is_correct": true,
           "feedback": "Varianza sigma^2 = n*p*(1-p) = 100 * 0.2 * 0.8 = 16. La desviación estándar sigma = sqrt(16) = 4."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "16",
           "is_correct": false,
           "feedback": "Corresponde a la varianza sigma^2, faltó extraer la raíz cuadrada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "20",
           "is_correct": false,
           "feedback": "Corresponde a la media mu = n*p = 100 * 0.2 = 20."
@@ -359,7 +359,7 @@
           "feedback": "Se dividió 4 entre 2 sin justificación probabilística."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La varianza binomial es $\\sigma^2 = n p (1-p) = 100(0.2)(0.8) = 16$. Por ende, la desviación estándar es $\\sigma = \\sqrt{16} = 4$.",
       "difficulty": "6",
       "images": [],
@@ -381,31 +381,31 @@
       "context": "Una variable aleatoria discreta $X$ representa el número de fallas en un equipo en Bucaramanga y tiene la siguiente tabla:\n\n$X = 0 Rightarrow 0.6$, $X = 1 Rightarrow 0.3$, $X = 2 Rightarrow 0.1$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "0.5",
           "is_correct": true,
           "feedback": "E[X] = (0 * 0.6) + (1 * 0.3) + (2 * 0.1) = 0 + 0.3 + 0.2 = 0.5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "1.0",
           "is_correct": false,
           "feedback": "Se sumó 0.6 + 0.3 + 0.1 en lugar de ponderar por los valores de X."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0.3",
           "is_correct": false,
           "feedback": "Se eligió solo el término correspondiente a X = 1."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "0.6",
           "is_correct": false,
           "feedback": "Se seleccionó la probabilidad más alta (el valor modal de X)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El valor esperado es la suma ponderada de cada valor por su probabilidad: $E[X] = 0(0.6) + 1(0.3) + 2(0.1) = 0.5$.",
       "difficulty": "6",
       "images": [],
@@ -427,31 +427,31 @@
       "context": "En un proceso de control de calidad en Cartagena, el 10% de los productos presenta imperfecciones. Se toma una muestra de 3 productos al azar.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "0.729",
           "is_correct": true,
           "feedback": "La probabilidad de no tener imperfección es q = 0.9. P(X=0) = (0.9)^3 = 0.729."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "0.900",
           "is_correct": false,
           "feedback": "Se tomó solo la probabilidad de un producto individual no imperfecto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0.271",
           "is_correct": false,
           "feedback": "Corresponde al complemento 1 - 0.729 (probabilidad de que al menos uno esté imperfecto)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "0.001",
           "is_correct": false,
           "feedback": "Corresponde a la probabilidad de que TODOS los 3 productos estén imperfectos (0.10)^3."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Al ser elecciones independientes, la probabilidad de que los 3 salgan sin imperfecciones es $P(X=0) = (1 - 0.10)^3 = (0.90)^3 = 0.729$.",
       "difficulty": "6",
       "images": [],
@@ -519,19 +519,19 @@
       "context": "Una variable aleatoria $X$ tiene un valor esperado $E[X] = 5$ y $E[X^2] = 29$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "4",
           "is_correct": true,
           "feedback": "Usando la fórmula de la varianza Var(X) = E[X^2] - (E[X])^2 = 29 - 5^2 = 29 - 25 = 4."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "24",
           "is_correct": false,
           "feedback": "Se restó 29 - 5 sin elevar E[X] al cuadrado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2",
           "is_correct": false,
           "feedback": "Se extrajo la raíz cuadrada de la varianza (obteniendo la desviación estándar)."
@@ -543,7 +543,7 @@
           "feedback": "Se sumaron E[X^2] + (E[X])^2 = 29 + 25 = 54."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La varianza se define computacionalmente como $Var(X) = E[X^2] - (E[X])^2$. Sustituyendo los valores: $Var(X) = 29 - 5^2 = 29 - 25 = 4$.",
       "difficulty": "8",
       "images": [],
@@ -565,13 +565,13 @@
       "context": "En una distribución normal estándar $Z sim N(0,1)$, se sabe que $P(Z < 1) \\approx 0.8413$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "0.6826",
           "is_correct": true,
           "feedback": "P(-1 < Z < 1) = P(Z < 1) - P(Z < -1) = 0.8413 - (1 - 0.8413) = 0.8413 - 0.1587 = 0.6826."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "0.3413",
           "is_correct": false,
           "feedback": "Corresponde solo al área entre 0 y 1 (mitad del intervalo deseado)."
@@ -589,7 +589,7 @@
           "feedback": "Corresponde al área dentro de 2 desviaciones estándar en lugar de 1."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por simetría, $P(Z < -1) = 1 - P(Z < 1) = 1 - 0.8413 = 0.1587$. Por lo tanto, $P(-1 < Z < 1) = 0.8413 - 0.1587 = 0.6826$.",
       "difficulty": "8",
       "images": [],
@@ -611,19 +611,19 @@
       "context": "Una prueba de 4 preguntas de opción múltiple tiene 4 opciones por pregunta ($p = 0.25$).",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\frac{175}{256}$",
           "is_correct": true,
           "feedback": "P(X >= 1) = 1 - P(X=0). P(X=0) = (3/4)^4 = 81/256. 1 - 81/256 = 175/256."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{81}{256}$",
           "is_correct": false,
           "feedback": "Corresponde a la probabilidad de obtener 0 respuestas correctas P(X=0)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{1}{256}$",
           "is_correct": false,
           "feedback": "Corresponde a la probabilidad de acertar las 4 preguntas P(X=4)."
@@ -635,7 +635,7 @@
           "feedback": "Se restó 1 - 0.25 sin elevar a la potencia correspondiente al número de preguntas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Mediante el evento complementario: $P(X ge 1) = 1 - P(X = 0) = 1 - left(\\frac{3}{4}\night)^4 = 1 - \\frac{81}{256} = \\frac{175}{256}$.",
       "difficulty": "8",
       "images": [],
@@ -657,13 +657,13 @@
       "context": "La duración en horas de un componente electrónico fabricado en Manizales tiene distribución normal con $\\mu = 1000$ h y $\\sigma = 100$ h.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "2.5%",
           "is_correct": true,
           "feedback": "Z = (1200 - 1000)/100 = 2. Por la regla 68-95-99.7, mu +/- 2 sigma cubre el 95%. Las colas exteriores suman 5%, por lo que la cola superior Z > 2 es el 2.5%."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5.0%",
           "is_correct": false,
           "feedback": "Se sumaron las dos colas externas (Z > 2 y Z < -2) sin dividir entre 2."
@@ -681,7 +681,7 @@
           "feedback": "Corresponde a la probabilidad acumulada P(X < 1200) en lugar de la cola superior."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "$Z = \\frac{1200 - 1000}{100} = 2$. Dado que $P(-2 < Z < 2) \\approx 95%$, el área en las colas fuera del intervalo es $100\\% - 95\\% = 5\\%$. Por simetría, la cola superior $P(Z > 2) = \\frac{5\\%}{2} = 2.5\\%$.",
       "difficulty": "8",
       "images": [],
@@ -703,19 +703,19 @@
       "context": "En una distribución de probabilidad discreta dada por $P(X = x) = k \\cdot x$ para $x in {1, 2, 3, 4}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\frac{1}{10}$",
           "is_correct": true,
           "feedback": "La suma de probabilidades k*(1 + 2 + 3 + 4) = 10k = 1 -> k = 1/10 = 0.1."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{1}{4}$",
           "is_correct": false,
           "feedback": "Se dividió 1 entre la cantidad de valores posibles (4) sin considerar la suma ponderada por x."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{1}{24}$",
           "is_correct": false,
           "feedback": "Se multiplicaron los valores 1 * 2 * 3 * 4 = 24 en lugar de sumarlos."
@@ -727,7 +727,7 @@
           "feedback": "Se asumió k=1 ignorando que la suma de probabilidades superaría ampliamente 1."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Condición de normalización: $\\sum P(X=x) = k(1) + k(2) + k(3) + k(4) = 10k = 1 Rightarrow k = \\frac{1}{10}$.",
       "difficulty": "8",
       "images": [],
@@ -749,31 +749,31 @@
       "context": "Un inversionista en Bogotá analiza un proyecto. Si la economía crece, ganará 50 millones COP con probabilidad 0.4. Si permanece estable, ganará 10 millones con probabilidad 0.4. Si entra en recesión, perderá 30 millones con probabilidad 0.2.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "El valor esperado es 18 millones COP, por lo que el proyecto NO recupera el costo inicial de 20 millones COP.",
           "is_correct": true,
           "feedback": "E[X] = (50*0.4) + (10*0.4) + (-30*0.2) = 20 + 4 - 6 = 18 millones. Como 18 < 20, la inversión esperada genera pérdida neta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El valor esperado es 24 millones COP, por lo que el proyecto es rentable.",
           "is_correct": false,
           "feedback": "Se olvidó incluir el signo negativo en la pérdida de 30 millones durante la recesión."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "El valor esperado es 30 millones COP, superando ampliamente la inversión.",
           "is_correct": false,
           "feedback": "Se realizó un cálculo erróneo sumando directamente las ganancias sin ponderar por probabilidades."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El valor esperado es 0 millones COP, quedando en punto de equilibrio.",
           "is_correct": false,
           "feedback": "Se restaron de forma incorrecta los valores monetarios."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "$E[X] = 50(0.4) + 10(0.4) + (-30)(0.2) = 20 + 4 - 6 = 18$ millones COP. Como el ingreso esperado de 18 millones es menor que el costo de inversión de 20 millones, el rendimiento neto esperado es negativo ($-2$ millones).",
       "difficulty": "10",
       "images": [],
@@ -795,31 +795,31 @@
       "context": "El tiempo de atención en una taquilla de banco en Armenia se aproxima a una distribución normal con $\\mu = 6$ minutos y $\\sigma = 1.5$ minutos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "0.68",
           "is_correct": true,
           "feedback": "Z1 = (4.5 - 6)/1.5 = -1. Z2 = (7.5 - 6)/1.5 = 1. El rango entre -1 y 1 desviaciones estándar abarca aproximadamente el 68% de los casos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "0.95",
           "is_correct": false,
           "feedback": "Corresponde al intervalo de +/- 2 desviaciones estándar (3 a 9 minutos)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0.34",
           "is_correct": false,
           "feedback": "Corresponde a medio intervalo (de 6 a 7.5 minutos únicamente)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "0.50",
           "is_correct": false,
           "feedback": "Se asumió arbitrariamente la mitad de la población."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Estandarizando la variable: $Z_1 = \\frac{4.5 - 6}{1.5} = -1.0$ y $Z_2 = \\frac{7.5 - 6}{1.5} = 1.0$. Por la regla empírica de la normal, el área comprendida entre $Z = -1$ y $Z = 1$ es aproximadamente $0.683$ (68%).",
       "difficulty": "10",
       "images": [],
@@ -841,31 +841,31 @@
       "context": "Una variable aleatoria binomial $X$ tiene una media $\\mu = 12$ y una varianza $\\sigma^2 = 3$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$n = 16, p = 0.75$",
           "is_correct": true,
           "feedback": "mu = n*p = 12 y sigma^2 = n*p*(1-p) = 3 -> 12*(1-p) = 3 -> 1 - p = 3/12 = 0.25 -> p = 0.75. Luego n = 12 / 0.75 = 16."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$n = 24, p = 0.50$",
           "is_correct": false,
           "feedback": "Si n=24 y p=0.5, la varianza sería 24*0.5*0.5 = 6, no 3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$n = 12, p = 1.00$",
           "is_correct": false,
           "feedback": "Si p=1 la varianza sería 0, contradiciendo sigma^2 = 3."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$n = 20, p = 0.60$",
           "is_correct": false,
           "feedback": "Si n=20 y p=0.6, la media sería 12 pero la varianza sería 20*0.6*0.4 = 4.8."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Sustituyendo $\\mu = n p = 12$ en $\\sigma^2 = n p (1-p) = 3$:\n$12(1-p) = 3 Rightarrow 1-p = \\frac{3}{12} = 0.25 Rightarrow p = 0.75$.\nPor ende, $n = \\frac{12}{0.75} = 16$.",
       "difficulty": "10",
       "images": [],
@@ -887,19 +887,19 @@
       "context": "Se analiza el número de caras obtenidas al lanzar 4 monedas equilibradas. La variable aleatoria $X$ representa el número de caras.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "1.0",
           "is_correct": true,
           "feedback": "Para una binomial con n=4 y p=0.5: sigma^2 = n*p*(1-p) = 4 * 0.5 * 0.5 = 1.0."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2.0",
           "is_correct": false,
           "feedback": "Corresponde a la media mu = n*p = 4 * 0.5 = 2.0."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0.5",
           "is_correct": false,
           "feedback": "Se dividió 1 entre 2 erróneamente."
@@ -911,7 +911,7 @@
           "feedback": "Corresponde al número total de ensayos n."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para la variable binomial $X sim B(4, 0.5)$, la varianza viene dada por $\\sigma^2 = n p q = 4(0.5)(0.5) = 1.0$.",
       "difficulty": "10",
       "images": [],

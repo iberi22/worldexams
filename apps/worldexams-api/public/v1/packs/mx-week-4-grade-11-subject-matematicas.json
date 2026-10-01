@@ -64,25 +64,25 @@
           "feedback": "Esto indicaría que el producto de las cantidades es 30."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "x + y = 30",
           "is_correct": true,
           "feedback": "La suma de ambos tipos de peces es el total de 30."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x - y = 30",
           "is_correct": false,
           "feedback": "Esto indicaría que la diferencia entre ellos es 30."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "y = 30x",
           "is_correct": false,
           "feedback": "Esto indicaría que hay 30 peces cirujano por cada pez payaso."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El planteamiento de ecuaciones es el primer paso para resolver sistemas. Cuando se nos indica que el total de dos cantidades sumadas es un valor específico, usamos la operación de adición entre las variables representantes para igualarlas a dicho total.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -115,19 +115,19 @@
           "feedback": "Es un método válido que busca eliminar una variable."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Igualación",
           "is_correct": false,
           "feedback": "Es un método válido donde se despeja la misma variable en ambas ecuaciones."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Método de la raíz cuadrada",
           "is_correct": true,
           "feedback": "Este método se usa para ecuaciones cuadráticas de la forma x² = k, no para sistemas lineales."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": "Los métodos clásicos para resolver sistemas de ecuaciones lineales 2x2 incluyen Sustitución, Igualación, Reducción y el método Gráfico. El método de la raíz cuadrada pertenece al ámbito de las ecuaciones de segundo grado (cuadráticas).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Se presenta un sistema de ecuaciones donde las rectas son paralelas y nunca se cruzan.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Una única solución.",
           "is_correct": false,
           "feedback": "Requiere que las rectas se crucen."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Infinitas soluciones.",
           "is_correct": false,
           "feedback": "Requiere que las rectas sean la misma (coincidentes)."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Ninguna solución.",
           "is_correct": true,
           "feedback": "Si las rectas nunca se cruzan, no hay ningún punto que satisfaga ambas ecuaciones."
@@ -172,7 +172,7 @@
           "feedback": "Las ecuaciones lineales nunca se cruzan exactamente en dos puntos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Para que un sistema tenga solución, debe existir al menos un punto común. Las rectas paralelas poseen la misma pendiente pero diferente ordenada al origen, lo que significa que nunca se encontrarán en el plano. Por tanto, el sistema es inconsistente y no tiene solución.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -238,31 +238,31 @@
       "context": "En una granja en Querétaro, hay gallinas (G) y borregos (B). Se cuentan 20 cabezas y 50 patas en total.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "5",
           "is_correct": true,
           "feedback": "G+B=20; 2G+4B=50. Resolviendo, B=5 y G=15."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "15",
           "is_correct": false,
           "feedback": "Este es el número de gallinas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "10",
           "is_correct": false,
           "feedback": "Esto daría 60 patas si fueran mitad y mitad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "2",
           "is_correct": false,
           "feedback": "Muy pocos borregos para el número de patas dado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Planteamos el sistema: G + B = 20 (cabezas) y 2G + 4B = 50 (patas). Despejamos G de la primera: G = 20 - B. Sustituimos en la segunda: 2(20 - B) + 4B = 50 \\rightarrow 40 - 2B + 4B = 50 \\rightarrow 2B = 10 \\rightarrow B = 5. Hay 5 borregos.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -334,25 +334,25 @@
           "feedback": "Muy bajo según la diferencia de los precios."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$200",
           "is_correct": true,
           "feedback": "(2x+y) - (1x+y) = 700 - 500; x = 200."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$300",
           "is_correct": false,
           "feedback": "Si la playera fuera de 300, el pantalón sería de 200, y 2(300)+200=800, no 700."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$250",
           "is_correct": false,
           "feedback": "Error de cálculo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Restamos la segunda compra de la primera para eliminar el costo del pantalón: (2 playeras + 1 pantalón) - (1 playera + 1 pantalón) = 700 - 500. Esto nos da directamente: 1 playera = $200 pesos.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "5% de 40k (2000) + 10% de 60k (6000) = 8000, no 7000."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$40,000",
           "is_correct": true,
           "feedback": "5% de 60k (3000) + 10% de 40k (4000) = 7000."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$50,000",
           "is_correct": false,
           "feedback": "5% de 50k (2500) + 10% de 50k (5000) = 7500."
@@ -532,7 +532,7 @@
           "feedback": "Rendimiento insuficiente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Sistema: x + y = 100,000 y 0.05x + 0.10y = 7,000. Despejamos x = 100,000 - y. Sustituimos: 0.05(100,000 - y) + 0.10y = 7,000 \\rightarrow 5,000 - 0.05y + 0.10y = 7,000 \\rightarrow 0.05y = 2,000 \\rightarrow y = 2,000 / 0.05 = 40,000.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "Se plantea un problema de mezclas de café en un negocio local de Chiapas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "5 kg",
           "is_correct": true,
           "feedback": "80x + 120y = 90(20); x+y=20. 80(20-y) + 120y = 1800; 1600 + 40y = 1800; y = 5."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "15 kg",
           "is_correct": false,
           "feedback": "Esto daría un precio promedio mucho más alto."
@@ -577,7 +577,7 @@
           "feedback": "Cantidad insuficiente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Sistema: x + y = 20 y 80x + 120y = 1,800. Usando sustitución (x = 20 - y): 80(20 - y) + 120y = 1,800 \\rightarrow 1,600 - 80y + 120y = 1,800 \\rightarrow 40y = 200 \\rightarrow y = 5. Se usaron 5 kg del café más caro.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,19 +643,19 @@
       "context": "Un sistema de ecuaciones presenta coeficientes fraccionarios, típico en problemas de física en el bachillerato.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "6",
           "is_correct": true,
           "feedback": "De la ec.2, x=y. Sustituyendo en ec.1: x/2 + x/3 = 5; (5/6)x = 5; x = 6."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5",
           "is_correct": false,
           "feedback": "Error en el manejo de fracciones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "3",
           "is_correct": false,
           "feedback": "Error al despejar la incógnita."
@@ -667,7 +667,7 @@
           "feedback": "Resultado incoherente con la suma dada."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "De la segunda ecuación x - y = 0, deducimos que x = y. Sustituimos y por x en la primera: x/2 + x/3 = 5. Buscamos denominador común (6): 3x/6 + 2x/6 = 5 \\rightarrow 5x/6 = 5. Multiplicamos por 6 y dividimos entre 5: x = 6.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "Las pendientes serían diferentes (-0.5 y -1)."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "k = 2",
           "is_correct": true,
           "feedback": "Para ser paralelas, los coeficientes de x e y deben ser proporcionales (2/1 = 4/2)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "k = 4",
           "is_correct": false,
           "feedback": "Pendientes diferentes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "k = 0",
           "is_correct": false,
           "feedback": "Esto eliminaría la variable y de la segunda ecuación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Un sistema no tiene solución si las pendientes son iguales pero las ordenadas al origen son diferentes. La pendiente de la ec. 1 es -2/4 = -0.5. La pendiente de la ec. 2 es -1/k. Para que -1/k = -0.5, k debe ser igual a 2. Note que los términos independientes 8 y 5 no mantienen la proporción 2:1, confirmando que son paralelas y no coincidentes.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Un sistema de 3x3 se reduce a un problema de 2x2 en un nivel avanzado de bachillerato.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "1",
           "is_correct": false,
           "feedback": "x sería 2 y z sería 4. 2+1+4 = 7, no 6."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2",
           "is_correct": true,
           "feedback": "z = 6-3=3. Luego y+3=5, entonces y=2. x=3-2=1. 1+2+3=6."
@@ -757,7 +757,7 @@
           "feedback": "Valor no compatible con las igualdades."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Sustituimos x + y = 3 en la primera ecuación: (3) + z = 6 \\rightarrow z = 3. Luego usamos y + z = 5 con el valor de z: y + 3 = 5 \\rightarrow y = 2. Finalmente podemos hallar x: x + 2 = 3 \\rightarrow x = 1. El valor de y es 2.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -784,25 +784,25 @@
           "feedback": "15+5=20 pero 15-5=10, no 12."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "v=16, c=4",
           "is_correct": true,
           "feedback": "16+4=20 y 16-4=12."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "v=18, c=2",
           "is_correct": false,
           "feedback": "18+2=20 pero 18-2=16, no 12."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "v=14, c=6",
           "is_correct": false,
           "feedback": "14+6=20 pero 14-6=8, no 12."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Sistema: (1) v + c = 20; (2) v - c = 12. Sumamos las ecuaciones para eliminar c: 2v = 32 \\rightarrow v = 16. Sustituimos en la primera: 16 + c = 20 \\rightarrow c = 4. La lancha va a 16 km/h y el río a 4 km/h.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -874,25 +874,25 @@
           "feedback": "Demanda P=60, Oferta P=70. No hay equilibrio."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Q = 18",
           "is_correct": true,
           "feedback": "100 - 2Q = 10 + 3Q; 90 = 5Q; Q = 18."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Q = 25",
           "is_correct": false,
           "feedback": "Demanda P=50, Oferta P=85."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Q = 15",
           "is_correct": false,
           "feedback": "Demanda P=70, Oferta P=55."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Igualamos ambas expresiones para P: 100 - 2Q = 10 + 3Q. Sumamos 2Q a ambos lados y restamos 10: 90 = 5Q. Dividimos entre 5 para hallar la cantidad: Q = 90 / 5 = 18. El precio de equilibrio sería P = 100 - 2(18) = 64.\n\n[//]: # (QUALITY_REVIEW)\n| Dimensión | Puntuación |\n|-----------|------------|\n| Técnico | 100 |\n| Curricular | 100 |\n| Contexto | 100 |\n| Redacción | 100 |\n| **Total** | **100** |",
       "difficulty": "10",
       "images": [],
@@ -913,31 +913,31 @@
       "context": "Una cafetería en Morelia vende café americano y capuchino para el desayuno.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "20 tazas de capuchino",
           "is_correct": true,
           "feedback": "¡Correcto! Planteando el sistema x+y=50, 30x+45y=1800. Sustituyendo x=50-y en la segunda: 30(50-y)+45y=1800 -> 1500 + 15y = 1800 -> 15y = 300 -> y = 20 tazas."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "30 tazas de capuchino",
           "is_correct": false,
           "feedback": "Incorrecto. Esto correspondería a la cantidad de cafés americanos vendidos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "25 tazas de capuchino",
           "is_correct": false,
           "feedback": "Incorrecto. Si se vendiera la mitad de cada uno, la recaudación sería de $1,875 pesos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "15 tazas de capuchino",
           "is_correct": false,
           "feedback": "Incorrecto. Con esta cantidad, la recaudación sería menor al total registrado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Definimos x como americanos e y como capuchinos. El sistema de ecuaciones es: (1) x + y = 50; (2) 30x + 45y = 1800. Despejando x de (1): x = 50 - y. Sustituyendo en (2): 30(50 - y) + 45y = 1800. Simplificando: 1500 - 30y + 45y = 1800 => 1500 + 15y = 1800 => 15y = 300 => y = 20. Se vendieron 20 capuchinos.",
       "difficulty": "4",
       "images": [],
@@ -1003,13 +1003,13 @@
       "context": "Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 3.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "3",
           "is_correct": true,
           "feedback": "¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "15",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error algebraico al restar las variables."
@@ -1027,7 +1027,7 @@
           "feedback": "Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (13) - (7) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.",
       "difficulty": "4",
       "images": [],
@@ -1048,13 +1048,13 @@
       "context": "Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 4.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "3",
           "is_correct": true,
           "feedback": "¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "16",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error algebraico al restar las variables."
@@ -1072,7 +1072,7 @@
           "feedback": "Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (14) - (8) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.",
       "difficulty": "4",
       "images": [],
@@ -1093,13 +1093,13 @@
       "context": "Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 5.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "3",
           "is_correct": true,
           "feedback": "¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "17",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error algebraico al restar las variables."
@@ -1117,7 +1117,7 @@
           "feedback": "Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (15) - (9) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.",
       "difficulty": "6",
       "images": [],
@@ -1138,31 +1138,31 @@
       "context": "Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 6.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "3",
           "is_correct": true,
           "feedback": "¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "18",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error algebraico al restar las variables."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "7",
           "is_correct": false,
           "feedback": "Incorrecto. Este corresponde al valor de la variable x, no de la variable y."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "5",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (16) - (10) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.",
       "difficulty": "6",
       "images": [],
@@ -1183,31 +1183,31 @@
       "context": "Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 7.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "3",
           "is_correct": true,
           "feedback": "¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "19",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error algebraico al restar las variables."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "7",
           "is_correct": false,
           "feedback": "Incorrecto. Este corresponde al valor de la variable x, no de la variable y."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "5",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (17) - (11) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.",
       "difficulty": "6",
       "images": [],
@@ -1228,19 +1228,19 @@
       "context": "Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 8.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "3",
           "is_correct": true,
           "feedback": "¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "20",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error algebraico al restar las variables."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "7",
           "is_correct": false,
           "feedback": "Incorrecto. Este corresponde al valor de la variable x, no de la variable y."
@@ -1252,7 +1252,7 @@
           "feedback": "Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (18) - (12) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.",
       "difficulty": "6",
       "images": [],
@@ -1273,19 +1273,19 @@
       "context": "Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 9.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "3",
           "is_correct": true,
           "feedback": "¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "21",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error algebraico al restar las variables."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "7",
           "is_correct": false,
           "feedback": "Incorrecto. Este corresponde al valor de la variable x, no de la variable y."
@@ -1297,7 +1297,7 @@
           "feedback": "Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (19) - (13) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.",
       "difficulty": "6",
       "images": [],
@@ -1363,19 +1363,19 @@
       "context": "Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 11.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "3",
           "is_correct": true,
           "feedback": "¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "23",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error algebraico al restar las variables."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "7",
           "is_correct": false,
           "feedback": "Incorrecto. Este corresponde al valor de la variable x, no de la variable y."
@@ -1387,7 +1387,7 @@
           "feedback": "Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (21) - (15) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.",
       "difficulty": "8",
       "images": [],
@@ -1408,13 +1408,13 @@
       "context": "Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 12.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "3",
           "is_correct": true,
           "feedback": "¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "24",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error algebraico al restar las variables."
@@ -1432,7 +1432,7 @@
           "feedback": "Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (22) - (16) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.",
       "difficulty": "8",
       "images": [],
@@ -1453,31 +1453,31 @@
       "context": "Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 13.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "3",
           "is_correct": true,
           "feedback": "¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "25",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error algebraico al restar las variables."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "7",
           "is_correct": false,
           "feedback": "Incorrecto. Este corresponde al valor de la variable x, no de la variable y."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "5",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (23) - (17) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.",
       "difficulty": "8",
       "images": [],
@@ -1498,19 +1498,19 @@
       "context": "Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 14.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "3",
           "is_correct": true,
           "feedback": "¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "26",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error algebraico al restar las variables."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "7",
           "is_correct": false,
           "feedback": "Incorrecto. Este corresponde al valor de la variable x, no de la variable y."
@@ -1522,7 +1522,7 @@
           "feedback": "Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (24) - (18) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.",
       "difficulty": "8",
       "images": [],
@@ -1588,19 +1588,19 @@
       "context": "Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 16.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "3",
           "is_correct": true,
           "feedback": "¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "28",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error algebraico al restar las variables."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "7",
           "is_correct": false,
           "feedback": "Incorrecto. Este corresponde al valor de la variable x, no de la variable y."
@@ -1612,7 +1612,7 @@
           "feedback": "Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (26) - (20) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.",
       "difficulty": "8",
       "images": [],
@@ -1633,19 +1633,19 @@
       "context": "Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 17.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "3",
           "is_correct": true,
           "feedback": "¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "29",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error algebraico al restar las variables."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "7",
           "is_correct": false,
           "feedback": "Incorrecto. Este corresponde al valor de la variable x, no de la variable y."
@@ -1657,7 +1657,7 @@
           "feedback": "Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (27) - (21) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.",
       "difficulty": "10",
       "images": [],
@@ -1678,19 +1678,19 @@
       "context": "Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 18.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "3",
           "is_correct": true,
           "feedback": "¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "30",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error algebraico al restar las variables."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "7",
           "is_correct": false,
           "feedback": "Incorrecto. Este corresponde al valor de la variable x, no de la variable y."
@@ -1702,7 +1702,7 @@
           "feedback": "Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (28) - (22) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.",
       "difficulty": "10",
       "images": [],
@@ -1723,31 +1723,31 @@
       "context": "Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 19.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "3",
           "is_correct": true,
           "feedback": "¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "31",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error algebraico al restar las variables."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "7",
           "is_correct": false,
           "feedback": "Incorrecto. Este corresponde al valor de la variable x, no de la variable y."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "5",
           "is_correct": false,
           "feedback": "Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (29) - (23) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.",
       "difficulty": "10",
       "images": [],
@@ -1768,19 +1768,19 @@
       "context": "Un problema de sistemas de ecuaciones lineales en el marco curricular de México, caso 20.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "3",
           "is_correct": true,
           "feedback": "¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "32",
           "is_correct": false,
           "feedback": "Incorrecto. Se cometió un error algebraico al restar las variables."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "7",
           "is_correct": false,
           "feedback": "Incorrecto. Este corresponde al valor de la variable x, no de la variable y."
@@ -1792,7 +1792,7 @@
           "feedback": "Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y) - (x - y) = (30) - (24) => 2y = 6. Dividiendo entre 2 obtenemos y = 3.",
       "difficulty": "10",
       "images": [],

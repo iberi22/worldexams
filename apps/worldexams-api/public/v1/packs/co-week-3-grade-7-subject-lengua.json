@@ -59,13 +59,13 @@
       "context": "Un estudiante de Pasto analiza la coincidencia de sonidos al final de dos versos: \"Camino\" y \"Destino\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Métrica",
           "is_correct": false,
           "feedback": "Incorrecto. La métrica es la medida o número de sílabas de un verso."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Rima",
           "is_correct": true,
           "feedback": "¡Correcto! La rima es la igualdad o semejanza de sonidos finales entre versos."
@@ -83,7 +83,7 @@
           "feedback": "Incorrecto. La sinalefa es la unión de vocales entre palabras para contar sílabas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La rima puede ser consonante (si coinciden vocales y consonantes, como en \"canción\" y \"atención\") o asonante (si solo coinciden las vocales, como en \"casa\" y \"rama\"). Es un recurso clave para la sonoridad del género lírico.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En el estudio del género lírico, es fundamental distinguir quién es la voz que habla dentro del poema.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Al poeta real que escribió el libro.",
           "is_correct": false,
           "feedback": "Incorrecto. El poeta es la persona real; el hablante lírico es la voz ficticia dentro del poema."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "A la voz ficticia que expresa sus sentimientos y emociones en el poema.",
           "is_correct": true,
           "feedback": "¡Correcto! Es el personaje creado por el autor para transmitir el contenido emocional."
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. El protagonista es un concepto narrativo, no lírico."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Así como en la narrativa existe el narrador, en la lírica existe el hablante lírico. Es importante no confundir los sentimientos del hablante con la vida privada del autor, aunque a veces coincidan.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -203,13 +203,13 @@
           "feedback": "Incorrecto. No se está identificando a la luna con otra cosa, sino dándole una acción."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Epíteto",
           "is_correct": false,
           "feedback": "Incorrecto. El epíteto es un adjetivo innecesario que resalta una cualidad obvia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Personificación",
           "is_correct": true,
           "feedback": "¡Correcto! Se le atribuye una cualidad humana (sonreír) a un objeto inanimado (la luna)."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. El hipérbaton es alterar el orden lógico de las palabras en la oración."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La personificación o prosopopeya es muy común en la poesía y en las fábulas. Permite dar vida y sentimientos a la naturaleza o a los objetos, facilitando la expresión de emociones a través de elementos del entorno.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -243,13 +243,13 @@
       "context": "En el análisis métrico, se utiliza la \"Ley del acento final\" para contar correctamente las sílabas de un verso.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Se resta una sílaba al total.",
           "is_correct": false,
           "feedback": "Incorrecto. Se resta una sílaba si la palabra final es esdrújula."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se suma una sílaba al total.",
           "is_correct": true,
           "feedback": "¡Correcto! Según la ley del acento final, las agudas añaden una sílaba por la intensidad de la voz."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. Eso no existe en las reglas de la métrica española."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La métrica española se basa en el ritmo acentual. Las palabras agudas alargan el sonido al final, por lo que compensamos sumando +1. Las esdrújulas acortan el sonido, por lo que restamos -1. Las graves (las más comunes en español) no alteran el conteo.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -295,13 +295,13 @@
           "feedback": "Incorrecto. El motivo es el concepto o idea (ej. el amor, la muerte)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Temple de ánimo",
           "is_correct": true,
           "feedback": "¡Correcto! Es la emoción predominante (tristeza, alegría, nostalgia, ira) que siente el hablante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Objeto lírico",
           "is_correct": false,
           "feedback": "Incorrecto. El objeto es aquello que inspira el poema (ej. una flor, la amada)."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Ese es el nombre de la voz, no del sentimiento."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Identificar el temple de ánimo es fundamental para interpretar un poema. Nos ayuda a entender la intención del autor y a conectar emocionalmente con la obra. Un mismo objeto lírico (como la lluvia) puede inspirar temples distintos (tristeza o paz).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -341,13 +341,13 @@
           "feedback": "Incorrecto. El verso clásico sigue reglas estrictas de rima y métrica."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Poesía rimada",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la que usa rima asonante o consonante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Verso libre",
           "is_correct": true,
           "feedback": "¡Correcto! Es una forma moderna donde el autor decide la estructura sin seguir moldes tradicionales."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. La prosa informativa no busca el ritmo ni la belleza estética de la lírica."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "El verso libre surgió con fuerza en el siglo XX. Aunque no tenga rima externa, sigue siendo poesía porque utiliza recursos como la repetición, las imágenes poéticas y la intensidad emocional para crear un ritmo propio y estético.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,13 +387,13 @@
           "feedback": "Incorrecto. El desierto no suele ser de hielo; es una contradicción deliberada."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Es una metáfora o incluso una antítesis que sugiere soledad y falta de calidez humana.",
           "is_correct": true,
           "feedback": "¡Correcto! Une dos conceptos opuestos para crear un significado nuevo sobre la vida."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es una descripción literal de los polos de la Tierra.",
           "is_correct": false,
           "feedback": "Incorrecto. En el contexto de \"Vivir es...\", tiene un significado simbólico, no geográfico."
@@ -405,7 +405,7 @@
           "feedback": "Incorrecto. El epíteto resalta una cualidad obvia (hielo frío), no una oposición."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La lírica utiliza la paradoja y la antítesis para expresar sentimientos complejos. \"Desierto de hielo\" es una imagen que transmite una sensación de vacío absoluto y hostilidad, permitiendo que el lector sienta el temple de ánimo del hablante sin necesidad de explicaciones directas.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -427,19 +427,19 @@
       "context": "El lenguaje literario se diferencia del cotidiano por su capacidad de sugerir múltiples significados.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Hacer que el poema sea más difícil de entender para los niños.",
           "is_correct": false,
           "feedback": "Incorrecto. La dificultad no es el objetivo, sino la profundidad estética."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Cumplir con las leyes gramaticales de la lengua española.",
           "is_correct": false,
           "feedback": "Incorrecto. A veces las figuras retóricas incluso rompen el orden gramatical lógico."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Embellecer el lenguaje y cargar las palabras de nuevos significados y emociones.",
           "is_correct": true,
           "feedback": "¡Correcto! Transforman el lenguaje común en un objeto de arte."
@@ -451,7 +451,7 @@
           "feedback": "Incorrecto. A veces el uso de figuras literarias alarga el texto para lograr el efecto deseado."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Las figuras retóricas (o literarias) son las herramientas del poeta. Permiten decir las cosas de una manera única y personal, alejándose de lo obvio para invitar al lector a una experiencia sensorial y emocional diferente a través de la palabra.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
       "difficulty": "10",
       "images": [],

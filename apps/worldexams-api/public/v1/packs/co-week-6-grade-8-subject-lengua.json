@@ -19,13 +19,13 @@
           "feedback": "El Barroco es una época de desengaño y crisis, no de optimismo tecnológico."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El desengaño, el pesimismo y la conciencia de la brevedad de la vida.",
           "is_correct": true,
           "feedback": "La realidad se percibe como algo inestable, ilusorio y transitorio."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Una vuelta al teocentrismo medieval sin ninguna crítica social.",
           "is_correct": false,
           "feedback": "Aunque hay mucha religiosidad, el Barroco es profundamente crítico y complejo."
@@ -37,7 +37,7 @@
           "feedback": "El Barroco se caracteriza precisamente por una complicación extrema del lenguaje."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El desengaño es el tema central del Barroco, reflejando la decepción ante la situación política y la fugacidad de las glorias terrenales.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -71,19 +71,19 @@
           "feedback": "El Barroco es el siglo de oro de la complicación retórica."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "La complicación ornamental, el uso abundante de figuras retóricas y el contraste.",
           "is_correct": true,
           "feedback": "Se busca la sorpresa y el desafío intelectual del lector mediante un lenguaje elaborado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La imitación exacta y realista de la vida cotidiana sin ningún adorno.",
           "is_correct": false,
           "feedback": "El Barroco suele deformar la realidad, ya sea para embellecerla o para ridiculizarla."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La estética barroca se define por el \"horror vacui\" (miedo al vacío), llenando los textos de adornos, alusiones mitológicas y estructuras sintácticas complejas.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "El siglo XVII español vio florecer dos grandes corrientes poéticas que a menudo se enfrentaron entre sí.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Humanismo y Escolástica",
           "is_correct": false,
           "feedback": "Estas son corrientes filosóficas, la primera renacentista y la segunda medieval."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Realismo y Naturalismo",
           "is_correct": false,
           "feedback": "Estas corrientes pertenecen al siglo XIX."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Culteranismo y Conceptismo",
           "is_correct": true,
           "feedback": "El primero centrado en la forma brillante y el segundo en la profundidad del ingenio."
@@ -129,7 +129,7 @@
           "feedback": "Son movimientos posteriores (siglos XIX y XX)."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Aunque compartían la misma base estética barroca, el Culteranismo (Góngora) y el Conceptismo (Quevedo) representaron dos formas distintas de complicación literaria.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -157,13 +157,13 @@
           "feedback": "La obra explora la inestabilidad de la realidad, no la adivinación."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que la existencia terrenal es transitoria y confusa, y que lo único real es la vida espiritual.",
           "is_correct": true,
           "feedback": "Segismundo aprende que, sea sueño o realidad, lo importante es obrar bien."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que no vale la pena esforzarse en nada porque nada es real.",
           "is_correct": false,
           "feedback": "Al contrario, la conclusión es que actuar correctamente es valioso en cualquier circunstancia."
@@ -175,7 +175,7 @@
           "feedback": "La obra critica precisamente la tiranía y defiende el libre albedrío."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La metáfora de la vida como sueño o teatro subraya la inestabilidad de las apariencias y la importancia de la ética individual por encima de la fortuna.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -295,13 +295,13 @@
           "feedback": "El público del Corral de Comedias era muy ruidoso y participativo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Escribir las obras exclusivamente en latín para que fueran más prestigiosas.",
           "is_correct": false,
           "feedback": "Las escribió en verso castellano para ser entendido por todos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Mezclar lo trágico con lo cómico y permitir que la acción durara más de un día.",
           "is_correct": true,
           "feedback": "Buscaba mayor dinamismo y realismo dramático para entretener al pueblo."
@@ -313,7 +313,7 @@
           "feedback": "Los personajes femeninos de Lope son muy importantes y complejos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Lope de Vega creó el \"teatro nacional\" español, priorizando el deleite del público y la verosimilitud emocional sobre las normas rígidas de Aristóteles.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -347,19 +347,19 @@
           "feedback": "Ella defendía el saber universal para todos, especialmente para las mujeres."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "La doble moral de los hombres que critican en las mujeres lo que ellos mismos provocan.",
           "is_correct": true,
           "feedback": "Denuncia la contradicción del comportamiento masculino y la falta de libertad femenina."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que los hombres gastan demasiado dinero en ropas lujosas en lugar de libros.",
           "is_correct": false,
           "feedback": "Aunque critica la vanidad, su foco es la injusticia de género."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La obra de Sor Juana representa la cumbre del ingenio barroco aplicado a la crítica social y la reivindicación intelectual de la mujer en el México virreinal.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -433,13 +433,13 @@
           "feedback": "El realismo crítico era una elección consciente y necesaria."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Como un intento del gobierno para que la gente no quisiera ser pobre.",
           "is_correct": false,
           "feedback": "La literatura a menudo escapaba al control idealizador del gobierno."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Como un reflejo literario de la profunda crisis social y la pérdida de los ideales heroicos del pasado.",
           "is_correct": true,
           "feedback": "El pícaro es el antihéroe que sobrevive en una España que ya no es dueña del mundo."
@@ -451,7 +451,7 @@
           "feedback": "Fue un género genuinamente español que surgió de su propia realidad social."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La picaresca barroca profundiza en el desengaño, mostrando que detrás de las apariencias de grandeza imperial solo hay hambre y supervivencia.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -479,25 +479,25 @@
           "feedback": "Todos participaron conscientemente en la acción."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "La defensa de la dignidad humana por encima de la jerarquía feudal y la unión del pueblo ante la tiranía.",
           "is_correct": true,
           "feedback": "El honor deja de ser exclusivo de los nobles y se convierte en un valor de toda la comunidad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que los reyes no tenían ninguna autoridad sobre los pueblos pequeños.",
           "is_correct": false,
           "feedback": "El pueblo recurre finalmente al Rey para que valide su acto de justicia."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que la violencia es la única forma de resolver cualquier problema legal.",
           "is_correct": false,
           "feedback": "Es una respuesta extrema a un abuso de poder extremo donde la justicia legal no llegaba."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "\"Fuenteovejuna\" muestra un concepto de honra democrática, donde el honor personal depende de la virtud y no solo del linaje, reflejando tensiones sociales del siglo XVII.\n\n---",
       "difficulty": "10",
       "images": [],

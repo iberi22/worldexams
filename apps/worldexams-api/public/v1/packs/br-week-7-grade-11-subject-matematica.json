@@ -64,13 +64,13 @@
           "feedback": "Erro de sinal na última operação."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "8",
           "is_correct": true,
           "feedback": "7 + 3 - 2 = 8."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "4",
           "is_correct": false,
           "feedback": "Erro no cálculo dos módulos individuais."
@@ -82,7 +82,7 @@
           "feedback": "O resultado de uma soma de módulos (com sinal de menos fora) pode ser negativo, mas aqui o cálculo dá 8."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Primeiro calculamos cada módulo: $|-7| = 7$, $|3| = 3$ e $|-2| = 2$. Depois realizamos as operações indicadas: $7 + 3 - 2 = 10 - 2 = 8$.",
       "difficulty": "4",
       "images": [],
@@ -148,13 +148,13 @@
       "context": "Um técnico de controle de qualidade em Curitiba utiliza funções modulares para medir o desvio de uma peça em relação ao padrão.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\mathbb{R}$",
           "is_correct": false,
           "feedback": "O módulo nunca resulta em números negativos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$[0, +\\infty)$",
           "is_correct": true,
           "feedback": "Correto. O valor absoluto é sempre maior ou igual a zero."
@@ -172,7 +172,7 @@
           "feedback": "Esta seria a imagem da função f(x) = -|x|."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "O valor absoluto de qualquer número real é, por definição, não negativo. Portanto, a função $f(x) = |x|$ assume todos os valores de 0 até o infinito positivo.",
       "difficulty": "4",
       "images": [],
@@ -199,13 +199,13 @@
           "feedback": "Existe outra solução onde o conteúdo do módulo é negativo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x = 8$ ou $x = 2$.",
           "is_correct": true,
           "feedback": "x - 5 = 3 => x = 8; ou x - 5 = -3 => x = 2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 8$ ou $x = -2$.",
           "is_correct": false,
           "feedback": "Se x = -2, |-2 - 5| = |-7| = 7 ≠ 3."
@@ -217,7 +217,7 @@
           "feedback": "Estas seriam as soluções de |x| = 3."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Uma equação do tipo $|u| = a$ (com $a > 0$) desdobra-se em duas possibilidades: $u = a$ ou $u = -a$. Assim, $x - 5 = 3 \\Rightarrow x = 8$, ou $x - 5 = -3 \\Rightarrow x = 2$. Ambas as soluções são válidas.",
       "difficulty": "6",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "Um estudante resolve uma expressão que combina módulos de números racionais e inteiros.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "2,5",
           "is_correct": false,
           "feedback": "Erro de operação aritmética."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3,5",
           "is_correct": true,
           "feedback": "0,5 - 2 + 5 = 3,5."
@@ -307,7 +307,7 @@
           "feedback": "Cálculo incorreto dos módulos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Substituímos pelos valores absolutos: $|-1/2| = 0,5$; $|-2| = 2$; $|5| = 5$. A expressão torna-se $0,5 - 2 + 5 = 3,5$.",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "Em um concurso público em São Paulo, cai uma questão sobre a distância entre pontos na reta real usando módulo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "7",
           "is_correct": false,
           "feedback": "Erro ao subtrair os valores sem considerar o sinal negativo do 15."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "23",
           "is_correct": true,
           "feedback": "|-15 - 8| = |-23| = 23."
@@ -352,7 +352,7 @@
           "feedback": "Incorreto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Aplicamos a fórmula da distância: $|-15 - 8| = |-23|$. O valor absoluto de $-23$ é $23$.",
       "difficulty": "6",
       "images": [],
@@ -379,25 +379,25 @@
           "feedback": "Faltou a solução negativa."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$x = 5$ ou $x = -5$.",
           "is_correct": true,
           "feedback": "2x = 10 => x = 5; ou 2x = -10 => x = -5."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 10$ ou $x = -10$.",
           "is_correct": false,
           "feedback": "Esqueceu de dividir pelo coeficiente 2."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 20$ ou $x = -20$.",
           "is_correct": false,
           "feedback": "Operação incorreta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Temos duas possibilidades: $2x = 10$, o que nos dá $x = 5$; ou $2x = -10$, o que nos dá $x = -5$.",
       "difficulty": "6",
       "images": [],
@@ -424,13 +424,13 @@
           "feedback": "Para o vértice estar em 3, a função deveria ser |x - 3|."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$(-3, 0)$",
           "is_correct": true,
           "feedback": "O \"V\" toca o eixo x quando x + 3 = 0, ou seja, x = -3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(0, 3)$",
           "is_correct": false,
           "feedback": "Este é o intercepto y da função."
@@ -442,7 +442,7 @@
           "feedback": "Incorreto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "O vértice de uma função modular do tipo $|x - h|$ ocorre no ponto onde o argumento é zero. Resolvendo $x + 3 = 0$, encontramos $x = -3$. Como não há deslocamento vertical, o vértice é $(-3, 0)$.",
       "difficulty": "6",
       "images": [],
@@ -469,13 +469,13 @@
           "feedback": "Incompleto. A inequação modular também impõe um limite inferior."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$-2 \\leq x \\leq 6$",
           "is_correct": true,
           "feedback": "-4 ≤ x - 2 ≤ 4. Somando 2 em todos os termos: -2 ≤ x ≤ 6."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$2 \\leq x \\leq 4$",
           "is_correct": false,
           "feedback": "Cálculo incorreto dos limites do intervalo."
@@ -487,7 +487,7 @@
           "feedback": "Esta seria a solução para |x - 2| ≥ 4."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "A inequação $|u| \\leq a$ equivale a $-a \\leq u \\leq a$. Portanto, $-4 \\leq x - 2 \\leq 4$. Somando 2 em todas as partes da desigualdade, obtemos $-2 \\leq x \\leq 6$.",
       "difficulty": "8",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "A função x²-4 possui duas raízes distintas."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "2",
           "is_correct": true,
           "feedback": "As raízes ocorrem onde o conteúdo do módulo é zero: x² - 4 = 0 => x = ±2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "4",
           "is_correct": false,
           "feedback": "O módulo apenas reflete a parte negativa para cima, não cria novas raízes."
@@ -532,7 +532,7 @@
           "feedback": "A função toca o eixo x nos pontos onde x² - 4 = 0."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Os zeros da função $f(x) = |g(x)|$ são os mesmos zeros da função $g(x)$. Como $x^2 - 4 = 0$ resulta em $x = 2$ e $x = -2$, a função modular possui 2 interseções com o eixo das abscissas.",
       "difficulty": "8",
       "images": [],
@@ -598,13 +598,13 @@
       "context": "Um estatístico em São Paulo utiliza a função modular para calcular o erro médio absoluto de uma previsão de vendas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Qualquer número real.",
           "is_correct": false,
           "feedback": "A razão entre um número e seu módulo só pode resultar em dois valores específicos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\{-1, 1\\}$",
           "is_correct": true,
           "feedback": "Se x > 0, x/x = 1. Se x < 0, -x/x = -1."
@@ -622,7 +622,7 @@
           "feedback": "A função não assume valores contínuos, apenas dois valores discretos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Esta é a função sinal (para $x \\neq 0$). Se $x$ é positivo, $|x| = x$, logo a razão é 1. Se $x$ é negativo, $|x| = -x$, logo a razão é $-x/x = -1$.",
       "difficulty": "8",
       "images": [],
@@ -655,19 +655,19 @@
           "feedback": "Valor incorreto para esta equação."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$x = 5$ ou $x = 1$.",
           "is_correct": true,
           "feedback": "x + 1 = 2x - 4 => x = 5; ou x + 1 = -(2x - 4) => 3x = 3 => x = 1."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 5$ ou $x = -1$.",
           "is_correct": false,
           "feedback": "Testando x = -1: |0| = |-6|, o que é falso."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Uma equação $|a| = |b|$ implica $a = b$ ou $a = -b$.\n1) $x + 1 = 2x - 4 \\Rightarrow x = 5$.\n2) $x + 1 = -(2x - 4) \\Rightarrow x + 1 = -2x + 4 \\Rightarrow 3x = 3 \\Rightarrow x = 1$.\nAmbas as soluções satisfazem a igualdade.",
       "difficulty": "8",
       "images": [],
@@ -739,25 +739,25 @@
           "feedback": "O desdobramento dos dois níveis de módulo gera mais soluções."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "4",
           "is_correct": true,
           "feedback": "|x|-2 = 1 => |x|=3 (±3); ou |x|-2 = -1 => |x|=1 (±1). Total de 4 soluções."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "3",
           "is_correct": false,
           "feedback": "Todas as 4 soluções encontradas são distintas e válidas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Nenhuma",
           "is_correct": false,
           "feedback": "A equação possui soluções reais."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Desdobramos o módulo externo:\n1) $|x| - 2 = 1 \\Rightarrow |x| = 3$, o que dá $x = 3$ e $x = -3$.\n2) $|x| - 2 = -1 \\Rightarrow |x| = 1$, o que dá $x = 1$ e $x = -1$.\nAo todo, temos 4 soluções distintas para $x$.",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "No vestibular de uma universidade de elite, propõe-se um problema sobre a área delimitada por funções modulares.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "8",
           "is_correct": false,
           "feedback": "Erro no cálculo da área do triângulo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "16",
           "is_correct": true,
           "feedback": "A base do triângulo vai de -4 a 4 (comprimento 8). A altura é f(0) = 4. Área = (8 * 4) / 2 = 16."
@@ -847,7 +847,7 @@
           "feedback": "Valor muito baixo para a região descrita."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "A função $f(x) = 4 - |x|$ intercepta o eixo $x$ quando $4 - |x| = 0$, ou seja, em $x = 4$ e $x = -4$. A base do triângulo formado tem comprimento $4 - (-4) = 8$. A altura ocorre no vértice em $x = 0$, onde $f(0) = 4$. A área do triângulo é $(\\text{base} \\cdot \\text{altura}) / 2 = (8 \\cdot 4) / 2 = 16$.",
       "difficulty": "10",
       "images": [],
@@ -868,19 +868,19 @@
       "context": "Um matemático investiga o número de soluções de equações que misturam funções lineares e modulares.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$k = 0$",
           "is_correct": false,
           "feedback": "A soma de módulos de pontos diferentes nunca é zero."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$k = 2$",
           "is_correct": false,
           "feedback": "O valor mínimo da soma é 4."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$k = 4$",
           "is_correct": true,
           "feedback": "Para x entre -2 e 2, a soma é (2-x) + (x+2) = 4. Assim, para k=4, todo o intervalo [-2, 2] é solução."
@@ -892,7 +892,7 @@
           "feedback": "Existe um valor onde a função é constante."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Analisando a função $g(x) = |x - 2| + |x + 2|$, vemos que no intervalo $[-2, 2]$, o primeiro termo é $-(x - 2) = 2 - x$ e o segundo é $(x + 2)$. A soma é $(2 - x) + (x + 2) = 4$. Portanto, se $k = 4$, qualquer valor de $x$ no intervalo $[-2, 2]$ satisfaz a equação, resultando em infinitas soluções.",
       "difficulty": "10",
       "images": [],
@@ -958,13 +958,13 @@
       "context": "Em uma aula de geometria analítica no Rio de Janeiro, o professor discute as propriedades do valor absoluto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "12",
           "is_correct": false,
           "feedback": "Erro de sinal na última operação."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "8",
           "is_correct": true,
           "feedback": "7 + 3 - 2 = 8."
@@ -982,7 +982,7 @@
           "feedback": "O resultado de uma soma de módulos (com sinal de menos fora) pode ser negativo, mas aqui o cálculo dá 8."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Primeiro calculamos cada módulo: $|-7| = 7$, $|3| = 3$ e $|-2| = 2$. Depois realizamos as operações indicadas: $7 + 3 - 2 = 10 - 2 = 8$.",
       "difficulty": "4",
       "images": [],
@@ -1048,13 +1048,13 @@
       "context": "Um técnico de controle de qualidade em Curitiba utiliza funções modulares para medir o desvio de uma peça em relação ao padrão.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\mathbb{R}$",
           "is_correct": false,
           "feedback": "O módulo nunca resulta em números negativos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$[0, +\\infty)$",
           "is_correct": true,
           "feedback": "Correto. O valor absoluto é sempre maior ou igual a zero."
@@ -1072,7 +1072,7 @@
           "feedback": "Esta seria a imagem da função f(x) = -|x|."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "O valor absoluto de qualquer número real é, por definição, não negativo. Portanto, a função $f(x) = |x|$ assume todos os valores de 0 até o infinito positivo.",
       "difficulty": "4",
       "images": [],
@@ -1099,13 +1099,13 @@
           "feedback": "Existe outra solução onde o conteúdo do módulo é negativo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x = 8$ ou $x = 2$.",
           "is_correct": true,
           "feedback": "x - 5 = 3 => x = 8; ou x - 5 = -3 => x = 2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 8$ ou $x = -2$.",
           "is_correct": false,
           "feedback": "Se x = -2, |-2 - 5| = |-7| = 7 ≠ 3."
@@ -1117,7 +1117,7 @@
           "feedback": "Estas seriam as soluções de |x| = 3."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Uma equação do tipo $|u| = a$ (com $a > 0$) desdobra-se em duas possibilidades: $u = a$ ou $u = -a$. Assim, $x - 5 = 3 \\Rightarrow x = 8$, ou $x - 5 = -3 \\Rightarrow x = 2$. Ambas as soluções são válidas.",
       "difficulty": "6",
       "images": [],
@@ -1138,13 +1138,13 @@
       "context": "Em um laboratório em Manaus, um sensor registra a variação de pressão, e apenas a magnitude do desvio em relação à média é importante.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "0",
           "is_correct": false,
           "feedback": "O valor mínimo do módulo é 0, mas somamos 2 a ele."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2",
           "is_correct": true,
           "feedback": "Como |x| ≥ 0, então |x| + 2 ≥ 2. O mínimo ocorre quando x = 0."
@@ -1162,7 +1162,7 @@
           "feedback": "Como o gráfico é um \"V\" que abre para cima, ele possui um ponto mais baixo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "O gráfico de $f(x) = |x| + 2$ é o gráfico de $|x|$ deslocado 2 unidades para cima. O vértice, que estava em $(0,0)$, agora está em $(0,2)$. O menor valor de $y$ na imagem é 2.",
       "difficulty": "6",
       "images": [],
@@ -1234,25 +1234,25 @@
           "feedback": "Erro ao subtrair os valores sem considerar o sinal negativo do 15."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "23",
           "is_correct": true,
           "feedback": "|-15 - 8| = |-23| = 23."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "-23",
           "is_correct": false,
           "feedback": "Distância é sempre uma grandeza positiva."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "15",
           "is_correct": false,
           "feedback": "Incorreto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Aplicamos a fórmula da distância: $|-15 - 8| = |-23|$. O valor absoluto de $-23$ é $23$.",
       "difficulty": "6",
       "images": [],
@@ -1279,25 +1279,25 @@
           "feedback": "Faltou a solução negativa."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$x = 5$ ou $x = -5$.",
           "is_correct": true,
           "feedback": "2x = 10 => x = 5; ou 2x = -10 => x = -5."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 10$ ou $x = -10$.",
           "is_correct": false,
           "feedback": "Esqueceu de dividir pelo coeficiente 2."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 20$ ou $x = -20$.",
           "is_correct": false,
           "feedback": "Operação incorreta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Temos duas possibilidades: $2x = 10$, o que nos dá $x = 5$; ou $2x = -10$, o que nos dá $x = -5$.",
       "difficulty": "6",
       "images": [],
@@ -1324,25 +1324,25 @@
           "feedback": "Para o vértice estar em 3, a função deveria ser |x - 3|."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$(-3, 0)$",
           "is_correct": true,
           "feedback": "O \"V\" toca o eixo x quando x + 3 = 0, ou seja, x = -3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(0, 3)$",
           "is_correct": false,
           "feedback": "Este é o intercepto y da função."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(0, -3)$",
           "is_correct": false,
           "feedback": "Incorreto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "O vértice de uma função modular do tipo $|x - h|$ ocorre no ponto onde o argumento é zero. Resolvendo $x + 3 = 0$, encontramos $x = -3$. Como não há deslocamento vertical, o vértice é $(-3, 0)$.",
       "difficulty": "6",
       "images": [],
@@ -1369,25 +1369,25 @@
           "feedback": "Incompleto. A inequação modular também impõe um limite inferior."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$-2 \\leq x \\leq 6$",
           "is_correct": true,
           "feedback": "-4 ≤ x - 2 ≤ 4. Somando 2 em todos os termos: -2 ≤ x ≤ 6."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$2 \\leq x \\leq 4$",
           "is_correct": false,
           "feedback": "Cálculo incorreto dos limites do intervalo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x \\leq -2$ ou $x \\geq 6$",
           "is_correct": false,
           "feedback": "Esta seria a solução para |x - 2| ≥ 4."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "A inequação $|u| \\leq a$ equivale a $-a \\leq u \\leq a$. Portanto, $-4 \\leq x - 2 \\leq 4$. Somando 2 em todas as partes da desigualdade, obtemos $-2 \\leq x \\leq 6$.",
       "difficulty": "8",
       "images": [],
@@ -1414,25 +1414,25 @@
           "feedback": "A função x²-4 possui duas raízes distintas."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "2",
           "is_correct": true,
           "feedback": "As raízes ocorrem onde o conteúdo do módulo é zero: x² - 4 = 0 => x = ±2."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "4",
           "is_correct": false,
           "feedback": "O módulo apenas reflete a parte negativa para cima, não cria novas raízes."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Nenhum",
           "is_correct": false,
           "feedback": "A função toca o eixo x nos pontos onde x² - 4 = 0."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Os zeros da função $f(x) = |g(x)|$ são os mesmos zeros da função $g(x)$. Como $x^2 - 4 = 0$ resulta em $x = 2$ e $x = -2$, a função modular possui 2 interseções com o eixo das abscissas.",
       "difficulty": "8",
       "images": [],
@@ -1453,31 +1453,31 @@
       "context": "Um arquiteto em Porto Alegre analisa a simetria de uma estrutura metálica modelada por funções modulares.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "É uma função par.",
           "is_correct": true,
           "feedback": "f(-x) = |-x| = |x| = f(x). Simetria em relação ao eixo y."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "É uma função ímpar.",
           "is_correct": false,
           "feedback": "f(-x) não é igual a -f(x). |-x| ≠ -|x| para x ≠ 0."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Não possui paridade definida.",
           "is_correct": false,
           "feedback": "Ela satisfaz a condição de função par."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "É par e ímpar ao mesmo tempo.",
           "is_correct": false,
           "feedback": "A única função que é par e ímpar simultaneamente é a função nula f(x) = 0."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Uma função é par se $f(x) = f(-x)$ para todo $x$. Como o valor absoluto de um número e de seu oposto são iguais, a função modular básica é par e seu gráfico é simétrico em relação ao eixo vertical.",
       "difficulty": "8",
       "images": [],
@@ -1504,13 +1504,13 @@
           "feedback": "A razão entre um número e seu módulo só pode resultar em dois valores específicos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\{-1, 1\\}$",
           "is_correct": true,
           "feedback": "Se x > 0, x/x = 1. Se x < 0, -x/x = -1."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\{0, 1\\}$",
           "is_correct": false,
           "feedback": "A função nunca é zero para x ≠ 0."
@@ -1522,7 +1522,7 @@
           "feedback": "A função não assume valores contínuos, apenas dois valores discretos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Esta é a função sinal (para $x \\neq 0$). Se $x$ é positivo, $|x| = x$, logo a razão é 1. Se $x$ é negativo, $|x| = -x$, logo a razão é $-x/x = -1$.",
       "difficulty": "8",
       "images": [],
@@ -1555,19 +1555,19 @@
           "feedback": "Valor incorreto para esta equação."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$x = 5$ ou $x = 1$.",
           "is_correct": true,
           "feedback": "x + 1 = 2x - 4 => x = 5; ou x + 1 = -(2x - 4) => 3x = 3 => x = 1."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 5$ ou $x = -1$.",
           "is_correct": false,
           "feedback": "Testando x = -1: |0| = |-6|, o que é falso."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Uma equação $|a| = |b|$ implica $a = b$ ou $a = -b$.\n1) $x + 1 = 2x - 4 \\Rightarrow x = 5$.\n2) $x + 1 = -(2x - 4) \\Rightarrow x + 1 = -2x + 4 \\Rightarrow 3x = 3 \\Rightarrow x = 1$.\nAmbas as soluções satisfazem a igualdade.",
       "difficulty": "8",
       "images": [],
@@ -1594,13 +1594,13 @@
           "feedback": "Cálculo incorreto da soma dos módulos no intervalo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "4",
           "is_correct": true,
           "feedback": "No intervalo, x-3 ≤ 0 e x+1 ≥ 0. Então f(x) = -(x-3) + (x+1) = -x+3+x+1 = 4."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "0",
           "is_correct": false,
           "feedback": "A soma de módulos de termos diferentes no intervalo não resulta em zero."
@@ -1612,7 +1612,7 @@
           "feedback": "No intervalo dado, as variáveis x se cancelam."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Analisamos os sinais dentro dos módulos para $-1 \\leq x \\leq 3$:\n1) $(x - 3)$ é negativo ou zero, logo $|x - 3| = -(x - 3) = -x + 3$.\n2) $(x + 1)$ é positivo ou zero, logo $|x + 1| = x + 1$.\nSomando: $(-x + 3) + (x + 1) = 4$. A função é constante nesse trecho.",
       "difficulty": "8",
       "images": [],
@@ -1723,13 +1723,13 @@
       "context": "No vestibular de uma universidade de elite, propõe-se um problema sobre a área delimitada por funções modulares.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "8",
           "is_correct": false,
           "feedback": "Erro no cálculo da área do triângulo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "16",
           "is_correct": true,
           "feedback": "A base do triângulo vai de -4 a 4 (comprimento 8). A altura é f(0) = 4. Área = (8 * 4) / 2 = 16."
@@ -1747,7 +1747,7 @@
           "feedback": "Valor muito baixo para a região descrita."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "A função $f(x) = 4 - |x|$ intercepta o eixo $x$ quando $4 - |x| = 0$, ou seja, em $x = 4$ e $x = -4$. A base do triângulo formado tem comprimento $4 - (-4) = 8$. A altura ocorre no vértice em $x = 0$, onde $f(0) = 4$. A área do triângulo é $(\\text{base} \\cdot \\text{altura}) / 2 = (8 \\cdot 4) / 2 = 16$.",
       "difficulty": "10",
       "images": [],

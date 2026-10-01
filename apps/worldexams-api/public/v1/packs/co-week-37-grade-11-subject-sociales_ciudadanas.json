@@ -19,13 +19,13 @@
           "feedback": "La Ley 100 organizó el sistema de seguridad social integral, no la ética pública."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Ley 843 de 1998, que incorporó el Código de Ética del Servidor Público con principios como bien común, integridad y igualdad",
           "is_correct": true,
           "feedback": "Correcto. El Anexo General de la Ley 843 de 1998 contiene el Código Deontológico y de Ética del Servidor Público."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ley 1150 de 2007",
           "is_correct": false,
           "feedback": "La Ley 1150 modernizó las reglas de contratación pública."
@@ -37,7 +37,7 @@
           "feedback": "El Decreto 2591 reglamentó la acción de tutela, no el código de ética."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El Código Deontológico y de Ética del Servidor Público (Ley 843 de 1998) consagra principios como la búsqueda del bien común, la integridad, la compromiso con la misión, la imparcialidad y la igualdad. Complementa el mandato constitucional del artículo 209, que somete la función administrativa a los principios de igualdad, moralidad, eficacia, economía, celeridad, imparcialidad y publicidad. La ética pública convierte esos valores en deberes cotidianos de conducta.",
       "difficulty": "4",
       "images": [],
@@ -71,19 +71,19 @@
           "feedback": "La transmisión hereditaria de cargos corresponde a regímenes feudales, no a la república constitucional."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Una misión del Estado para con la sociedad, de la que se deriva una ética social y política para garantizar el bien común",
           "is_correct": true,
           "feedback": "Correcto. Esa es la formulación del Código: el servidor es servidor de la comunidad."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Un premio electoral para los colaboradores del gobierno",
           "is_correct": false,
           "feedback": "El clientelismo en el empleo público viola el mérito (artículo 125) y la moralidad administrativa."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El Código recuerda que \"el cargo público es una misión del Estado para con la sociedad\" y que su ejercicio debe inspirarse en valores como el bien común, la integridad, la lealtad y la ejemplaridad. Esta concepción supera la visión patrimonial del poder: el funcionario no dispone de lo público para intereses privados, porque la función existe en función de derechos ajenos. De esa premisa derivan los regímenes de conflicto de interés y de probidad.",
       "difficulty": "4",
       "images": [],
@@ -111,25 +111,25 @@
           "feedback": "El problema no es de tiempo: es de parcialidad e interés privado."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Imparcialidad y moralidad, y configura causal de impedimento por conflicto de intereses",
           "is_correct": true,
           "feedback": "Correcto. La participación en decisiones con interés personal o familiar está prohibida (artículo 209, Ley 734 de 2002 y Ley 1952 de 2019)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Publicidad, porque el contrato debía transmitirse por televisión",
           "is_correct": false,
           "feedback": "La publicidad es transparencia del acto, no la transmisión mediática del proceso."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Economía, porque el contrato era de bajo valor",
           "is_correct": false,
           "feedback": "El valor del contrato no sanea el conflicto de interés: la ética no tiene umbral de precio."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El principio de imparcialidad ordena decidir con criterios objetivos y generales, no con preferencias privadas. Las prohibiciones constitucionales a los cónyuges y parientes de contratistas (artículo 126) y el régimen de impedimentos buscan cortar el nepotismo, una de las raíces del clientelismo colombiano. Entender el deber de impedirse es la primera lección de la ética pública: reconocer cuándo no se puede decidir.",
       "difficulty": "4",
       "images": [],
@@ -295,25 +295,25 @@
           "feedback": "La Constitución protege la libertad de trabajo (artículo 26); las restricciones son temporales y materiales."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Reglas de inhabilidad e incompatibilidad posterior al cargo, y el deber de declararse impedido cuando se use información privilegiada",
           "is_correct": true,
           "feedback": "Correcto. El régimen de conflicto de intereses posterior (impedimentos del artículo 26 y Ley 2014 de 2019) limita el tránsito a quien se sirvió del cargo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La exigencia de un aval del antiguo jefe inmediato",
           "is_correct": false,
           "feedback": "El aval del superior no elimina el conflicto: puede profundizar la captura."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "El simple registro de la empresa en la cámara de comercio",
           "is_correct": false,
           "feedback": "El registro mercantil no examina información privilegiada ni lealtades funcionales."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La \"puerta giratoria\" permite que se privatice el conocimiento público obtenido con un cargo: decisiones, información y contactos convertidos en ventaja privada. El régimen colombiano prohíbe a los exfuncionarios intervenir en asuntos que trataron durante el año anterior (impedimentos) y restringe usar información privilegiada, con sustento en la moralidad administrativa (artículo 209). La ética no termina el día de la desvinculación: la lealtad al interés público persiste.",
       "difficulty": "6",
       "images": [],
@@ -381,13 +381,13 @@
       "context": "Un grupo de funcionarios del hospital de Villavicencio firma un pacto colectivo de integridad para su gestión.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Rendición de cuentas y compromiso voluntario de servidores y organizaciones con metas de gestión y anti-corrupción",
           "is_correct": true,
           "feedback": "Correcto. El Pacto Colectivo por la Integridad canaliza compromisos públicos verificables."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sindicalización obligatoria de los empleados hospitalarios",
           "is_correct": false,
           "feedback": "La sindicalización es un derecho libre (artículo 39); los pactos de integridad son otra figura."
@@ -405,7 +405,7 @@
           "feedback": "Los pactos son acuerdos de conducta, no figuras contractuales de personal."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los Pactos Colectivos por la Integridad, promovidos por la Contraloría General de la República, vinculan a entidades, funcionarios y ciudadanos en compromisos medibles de buen manejo y lucha contra la corrupción. Su lógica es preventiva y colaborativa: construyen corresponsabilidad entre quien administra y quien vigila. Complementan el control sancionatorio sin sustituirlo, porque la ética institucional se sostiene con incentivos, metas y vigilancia social.",
       "difficulty": "6",
       "images": [],
@@ -433,25 +433,25 @@
           "feedback": "La lealtad institucional es al Estado y a la misión, no a la presión de terceros."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Integridad y responsabilidad: no usar la función para ventajas indebidas, aunque provengan de actores influyentes",
           "is_correct": true,
           "feedback": "Correcto. La integridad es coherencia entre valores y acción bajo presión."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Violación del derecho de petición del concejal",
           "is_correct": false,
           "feedback": "Un pedido de información privilegiada y contraria a la norma no es petición amparable que exija colaboración indebida."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Ejercicio indebido de la autonomía escolar curricular",
           "is_correct": false,
           "feedback": "La autonomía curricular (Ley 115 de 1994) no trata sobre protección de instrumentos de evaluación ante presiones."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La ética pública se prueba en la rutina: resistir la presión del influyente, proteger la información que se administra para otros, decir no cuando el costo es personal. Los códigos de ética de los sectores (educación, salud, administración) desarrollan estos deberes de resistencia íntegra. La formación ciudadana del grado 11 apunta a esa brújula: la honestidad como hábito, no como pose.",
       "difficulty": "6",
       "images": [],
@@ -519,19 +519,19 @@
       "context": "Un debate escolar compara la \"mermelada\" —cupartida presupuestal a congresistas— con el clientelismo local.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Desvía la destinación del gasto público hacia intereses electorales de quienes deciden el presupuesto, en lugar de criterios técnicos y de necesidad ciudadana",
           "is_correct": true,
           "feedback": "Correcto. El vicio es la inversión del fin: el presupuesto sirve a la reelección, no al plan nacional (artículos 339-346)."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Viola el principio de unidad de caja si se paga en efectivo",
           "is_correct": false,
           "feedback": "La unidad de caja es una regla contable presupuestal; el problema de fondo es de destino político del gasto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Prohíbe a los congresistas presentar proyectos de ley",
           "is_correct": false,
           "feedback": "La iniciativa legislativa es derecho y función de los congresistas."
@@ -543,7 +543,7 @@
           "feedback": "La función congresional es remunerada constitucionalmente; la crítica no es al salario sino a la captura del gasto."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "El debate sobre la \"mermelada\" —partidas discrecionales que legisladores orientan a regiones a cambio de apoyo— tensiona el principio de igualdad (artículo 13) y la planificación (artículo 339): el gasto se asigna por lealtades, no por necesidades. Reformas como los OCAD y los marcos de medio término buscan racionalizarlo. Analizar este fenómeno desarrolla la competencia de interpretar las instituciones como diseño de incentivos.",
       "difficulty": "8",
       "images": [],
@@ -623,19 +623,19 @@
           "feedback": "La neutralidad axiológica del Estado tiene límites: la Constitución misma es un pacto de valores."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Institucionaliza la dimensión moral de la función: los valores constitucionales (artículo 2, 209) traducen la ética en deberes jurídicos y controles, porque el poder sin ética degenera en arbitrariedad",
           "is_correct": true,
           "feedback": "Correcto. El constitucionalismo convierte valores en normas: moralidad, probidad y bien común son mandatos, no preferencias."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Solo obliga a los gobernantes electos, no a los empleados de carrera",
           "is_correct": false,
           "feedback": "El Código de Ética del Servidor Público obliga a todos los que sirven al Estado."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La distinción liberal entre moral privada y derecho público no significa que el poder carezca de deberes morales institucionalizables: la probidad, la integridad y el bien común son principios jurídicos de rango constitucional. Desde Sócrates hasta el artículo 209, la tradición republicana sostiene que la virtud del cargo —no la virtud del hombre— sostiene la república. Analizar este debate es pensamiento político de grado 11.",
       "difficulty": "8",
       "images": [],
@@ -703,13 +703,13 @@
       "context": "Un medio de Ipiales cubre el hallazgo de obras \"fantasma\" pagadas en tres municipios con contratos simulados.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Contrato realidad, porque el interventor siempre cumple",
           "is_correct": false,
           "feedback": "\"Contrato realidad\" designa proteger al trabajador bajo la forma, no una trama de simulación."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Corrupción administrativa en red: la conjunción de documentos falsos, pago sin ejecución y vigilancia capturada, lo que agrava la ilicitud y multiplica responsables",
           "is_correct": true,
           "feedback": "Correcto. La simulación contractual es un delito en cadena: falsedad, celebración indebida, peculado por apropiación y prevaricato si hay jueces y abogados."
@@ -727,7 +727,7 @@
           "feedback": "Pagar obras inexistentes es doloso: el error honesto se demuestra, la simulación se prueba."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Las obras fantasma combinan falsedad ideológica en documento público, celebración de contratos sin requisitos legales, peculado y concusión, con el agravante de la complicidad de interventorías y controles. Los casos de obras fantasma documentados en varios departamentos muestran redes locales de complicidades. Analizarlas exige entender el control como cadena: cada eslabón débil multiplica el daño al erario.",
       "difficulty": "8",
       "images": [],
@@ -841,19 +841,19 @@
       "context": "Un debate estudiantil sobre el \"perdonavidismo\": el ciudadano que soborna para agilizar trámites denuncia después al cobrador.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es irreprochable: el que paga coimas es siempre una víctima inocente del sistema",
           "is_correct": false,
           "feedback": "El sobornado puede ser coactivamente presionado, pero la corrupción activa tiene cara ciudadana que reproduce el vicio."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Es inexistente: la corrupción es exclusivamente un fenómeno de servidores públicos",
           "is_correct": false,
           "feedback": "La evidencia de cohecho por dar u ofrecer y de trámites acelerados con pago desmiente la exclusividad."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Es corresponsabilidad: los artículos 95 y 209 obligan a respetar el ordenamiento, y el ciudadano corruptor es parte del problema; la ética pública requiere una ética privada de lo público",
           "is_correct": true,
           "feedback": "Correcto. El deber de obrar conforme al bien común no es exclusivo de funcionarios."
@@ -865,7 +865,7 @@
           "feedback": "El cohecho por dar u ofrecer es delito (artículo 405 Código Penal); la ética no lo \"permite\"."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La \"cultura del muerdo\" y el dicho \"el que no transa no avanza\" expresan una tolerancia social que normaliza la pequeña corrupción. La Constitución exige a todos los asociados contribuir a que la paz y la convivencia sean posibles y respetar el orden jurídico (artículo 95). Evaluar la corrupción desde la ciudadanía —no solo desde el poder— completa el pensamiento crítico: la ética pública empieza en los valores compartidos.",
       "difficulty": "10",
       "images": [],
@@ -893,13 +893,13 @@
           "feedback": "La Constitución reconoce a la familia como núcleo básico de la sociedad (artículo 42); la escuela la complementa."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "La moralidad administrativa (artículo 209), el bien común y la dignidad humana (artículo 1) son valores constitucionales que orientan toda educación ciudadana, incluida la formación ética escolar",
           "is_correct": true,
           "feedback": "Correcto. Los decálogos escolares traducen los valores de la \"constitución ética\" en normas de convivencia."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La ética solo puede enseñarse desde una confesión religiosa",
           "is_correct": false,
           "feedback": "La laicidad del Estado (artículo 1) y el derecho a la libertad religiosa hacen de la ética un espacio plural y común."
@@ -911,7 +911,7 @@
           "feedback": "Su legitimidad nace de la deliberación escolar, no de avales externos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La Constitución de 1991 es también un pacto ético: dignidad humana, bien común, solidaridad y pluralismo fundan el ordenamiento. La Ley 115 de 1994 ordena al servicio educativo la formación en valores humanos, cívicos y éticos, y los manuales de convivencia son su laboratorio escolar. Elaborar un decálogo con fundamento constitucional es el ejercicio de síntesis de este bundle: convertir los valores del Estado social en hábitos de gobierno escolar.",
       "difficulty": "10",
       "images": [],

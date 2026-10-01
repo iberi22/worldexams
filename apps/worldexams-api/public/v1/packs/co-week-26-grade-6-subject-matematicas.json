@@ -13,31 +13,31 @@
       "context": "En Bogotá un niño tiene 3 camisetas y 2 pantalonetas para ir al parque.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "6 combinaciones",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: cada camiseta (3) combina con cada pantaloneta (2): 3 × 2 = 6."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5 combinaciones",
           "is_correct": false,
           "feedback": "Explica el error conceptual: suma 3 + 2 en vez de multiplicar las opciones de cada grupo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "3 combinaciones",
           "is_correct": false,
           "feedback": "Explica el error conceptual: cuenta solo las camisetas e ignora las pantalonetas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "9 combinaciones",
           "is_correct": false,
           "feedback": "Explica el error conceptual: multiplica 3 × 3 usando dos veces las camisetas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "El principio de multiplicación cuenta combinaciones: opciones del grupo 1 × opciones del grupo 2 = 3 × 2 = 6. Cada prenda de un grupo se empareja con todas las del otro.",
       "difficulty": "4",
       "images": [],
@@ -59,13 +59,13 @@
       "context": "En Medellín un juego lanza una moneda (cara o sello) y un dado (1 a 6).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "12 resultados",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: 2 resultados de la moneda × 6 del dado = 12 parejas posibles."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "8 resultados",
           "is_correct": false,
           "feedback": "Explica el error conceptual: suma 2 + 6 en vez de multiplicar los resultados de cada objeto."
@@ -83,7 +83,7 @@
           "feedback": "Explica el error conceptual: multiplica 6 × 6 como si fueran dos dados."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Un diagrama de árbol con 2 ramas de moneda y 6 de dado en cada una produce 2 × 6 = 12 caminos finales. Multiplicar cuenta todos los emparejamientos sin dibujarlos uno por uno.",
       "difficulty": "4",
       "images": [],
@@ -151,31 +151,31 @@
       "context": "En Barranquilla un candado usa una clave de 2 dígitos (cada dígito de 0 a 9).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "100 claves",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: 10 opciones para el primer dígito × 10 para el segundo = 100."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "20 claves",
           "is_correct": false,
           "feedback": "Explica el error conceptual: suma 10 + 10 en vez de multiplicar las posiciones."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "10 claves",
           "is_correct": false,
           "feedback": "Explica el error conceptual: cuenta un solo dígito e ignora la segunda posición."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "90 claves",
           "is_correct": false,
           "feedback": "Explica el error conceptual: descuenta 10 casos sin razón; los dígitos sí pueden repetirse."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Cada posición tiene 10 opciones independientes: 10 × 10 = 100 claves (00 a 99). Así se mide la seguridad de una clave según su longitud.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En Tunja hay 3 caminos de ida al pueblo vecino y 4 caminos distintos de regreso.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "12 formas",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: 3 caminos de ida × 4 de regreso = 12 recorridos completos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "7 formas",
           "is_correct": false,
           "feedback": "Explica el error conceptual: suma los caminos en vez de combinar ida con regreso."
@@ -221,7 +221,7 @@
           "feedback": "Explica el error conceptual: multiplica 3 × 4 × 2 agregando un factor inexistente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Ir y volver combina dos decisiones sucesivas: 3 × 4 = 12 formas. Los recorridos se encadenan y sus conteos se multiplican.",
       "difficulty": "6",
       "images": [],
@@ -243,31 +243,31 @@
       "context": "En Bucaramanga un restaurante ofrece 2 entradas, 3 platos fuertes y 2 postres para armar un menú completo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "12 menús",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: 2 × 3 × 2 = 12 combinaciones de entrada, plato y postre."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "7 menús",
           "is_correct": false,
           "feedback": "Explica el error conceptual: suma 2 + 3 + 2 en vez de multiplicar los tres grupos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "6 menús",
           "is_correct": false,
           "feedback": "Explica el error conceptual: multiplica solo dos grupos y olvida el tercero."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "36 menús",
           "is_correct": false,
           "feedback": "Explica el error conceptual: multiplica 2 × 3 × 2 × 3 repitiendo un grupo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Con tres decisiones sucesivas el principio se extiende: 2 × 3 × 2 = 12 menús. El diagrama de árbol tendría 12 ramas finales, una por menú.",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En Pereira un equipo de 5 estudiantes debe elegir capitán y subcapitán (dos cargos distintos).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "20 formas",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: 5 opciones para capitán × 4 restantes para subcapitán = 20."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "10 formas",
           "is_correct": false,
           "feedback": "Explica el error conceptual: divide entre 2 como si los cargos fueran iguales, pero capitán y subcapitán difieren."
@@ -313,7 +313,7 @@
           "feedback": "Explica el error conceptual: suma 5 + 4 en vez de multiplicar las elecciones sucesivas."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Al elegir sin repetición, las opciones se reducen: 5 × 4 = 20. El orden importa porque los cargos son distintos (Ana capitana y Luis subcapitán no es lo mismo al revés).",
       "difficulty": "8",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En Cartagena una rifa saca una balota de la urna A (3 balotas, una dorada) y una de la urna B (4 balotas).",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "4 parejas",
           "is_correct": true,
           "feedback": "Explica por qué es correcta: la dorada (1 opción) se empareja con cada balota de B (4): 1 × 4 = 4."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "12 parejas",
           "is_correct": false,
           "feedback": "Explica el error conceptual: cuenta todas las parejas posibles (3 × 4), no solo las que incluyen la dorada."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "7 parejas",
           "is_correct": false,
           "feedback": "Explica el error conceptual: suma las balotas de ambas urnas en vez de fijar la dorada y multiplicar."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "3 parejas",
           "is_correct": false,
           "feedback": "Explica el error conceptual: empareja la dorada solo con las 3 de su propia urna."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Fijar un elemento reduce el conteo: 1 × 4 = 4 parejas con la dorada, de 12 totales. Condicionar (fijar casos) es la base de la probabilidad condicional.",
       "difficulty": "8",
       "images": [],

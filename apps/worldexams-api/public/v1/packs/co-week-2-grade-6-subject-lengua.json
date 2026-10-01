@@ -111,13 +111,13 @@
           "feedback": "Incorrecto. Los gestos descritos no corresponden a la alegría."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que se siente molesto, enojado o inconforme.",
           "is_correct": true,
           "feedback": "Correcto. El ceño fruncido y los brazos cruzados son señales corporales universales de enfado o actitud defensiva."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que tiene mucho sueño y quiere ir a dormir.",
           "is_correct": false,
           "feedback": "Incorrecto. Los brazos cruzados no son típicos de la somnolencia."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. El ceño fruncido muestra una emoción activa de molestia."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La kinésica estudia el significado de los movimientos corporales y los gestos. Muchas veces, nuestra postura y expresión facial dicen mucho más que nuestras palabras o incluso contradicen lo que estamos diciendo.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -157,25 +157,25 @@
           "feedback": "Incorrecto. El gesto tiene un significado social muy específico."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Pedir silencio en el área del hospital; sustituye a la frase \"Por favor, hagan silencio\".",
           "is_correct": true,
           "feedback": "Correcto. El gesto es un emblema que reemplaza directamente una instrucción verbal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Indicar dónde queda la farmacia; sustituye a un mapa.",
           "is_correct": false,
           "feedback": "Incorrecto. El gesto no tiene una función de orientación espacial."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Invitar a los pacientes a comer; sustituye a una campana.",
           "is_correct": false,
           "feedback": "Incorrecto. No es un gesto relacionado con la alimentación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Existen gestos llamados \"emblemas\" que tienen una traducción verbal directa y son comprendidos por la mayoría de las personas en una cultura, como el gesto de pedir silencio o el de saludar con la mano.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -203,13 +203,13 @@
           "feedback": "Incorrecto. Sus palabras hablan de ciencia, su cuerpo de miedo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Existe una contradicción, pues sus palabras informan algo, pero su cuerpo comunica inseguridad o nerviosismo.",
           "is_correct": true,
           "feedback": "Correcto. Cuando hay contradicción, el receptor suele creerle más a la comunicación no verbal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La comunicación no verbal no importa si el contenido de la cartelera es bueno.",
           "is_correct": false,
           "feedback": "Incorrecto. La forma en que se comunica afecta cómo se recibe el mensaje."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. La voz temblorosa indica que hay interferencias emocionales en la comunicación oral."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para que la comunicación sea efectiva, debe haber coherencia. El tono de voz y el contacto visual (comunicación no verbal) deben reforzar el mensaje verbal. Si se contradicen, el mensaje pierde credibilidad.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "Al leer un cómic o historieta, se observa una nube con dibujos de rayos y centellas sobre la cabeza de un personaje.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Indicar que está empezando a llover en la historia.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un símbolo metafórico del estado de ánimo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Es comunicación verbal porque los rayos son como letras.",
           "is_correct": false,
           "feedback": "Incorrecto. Son imágenes, no grafemas."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Es comunicación no verbal icónica que representa el enojo o la furia del personaje.",
           "is_correct": true,
           "feedback": "Correcto. En el lenguaje de las historietas, estos símbolos visuales representan sentimientos de forma no verbal."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. El paralenguaje se refiere a la voz, no a dibujos simbólicos."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El lenguaje icónico usa imágenes para representar la realidad o conceptos. En los cómics, ciertos dibujos (como rayos o estrellas) funcionan como un código no verbal para expresar emociones que no se dicen con palabras.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,25 +387,25 @@
           "feedback": "Incorrecto. En la radio no se ven los gestos."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Paralenguaje.",
           "is_correct": true,
           "feedback": "Correcto. El paralenguaje comprende los aspectos no verbales de la comunicación oral, como el tono, el volumen y la velocidad."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Comunicación escrita.",
           "is_correct": false,
           "feedback": "Incorrecto. El locutor está hablando, no escribiendo para el receptor."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Código Morse.",
           "is_correct": false,
           "feedback": "Incorrecto. Es un sistema de puntos y rayas, no tiene que ver con la entonación natural."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El paralenguaje es el componente no verbal de la voz. No es \"qué\" decimos (verbal), sino \"cómo\" lo decimos. Un mismo mensaje verbal (\"hola\") puede comunicar alegría, sarcasmo o aburrimiento según el paralenguaje.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -439,19 +439,19 @@
           "feedback": "Incorrecto. El comportamiento no verbal afecta la percepción de la competencia."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Que el candidato está ansioso, impaciente o tiene prisa por irse.",
           "is_correct": true,
           "feedback": "Correcto. Los gestos de mirar el reloj y tamborilear son señales típicas de ansiedad o deseo de terminar la situación."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Que el candidato es muy respetuoso porque no interrumpe.",
           "is_correct": false,
           "feedback": "Incorrecto. Su impaciencia es una falta de atención plena hacia el entrevistador."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "La comunicación no verbal suele ser más sincera que la verbal. En situaciones sociales y profesionales, es vital controlar los gestos (kinésica) para que no envíen mensajes negativos que contradigan nuestras palabras.\n\n---\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Tecnico | 10/10 |\n| Curricular | 10/10 |\n| Contexto | 10/10 |\n| Redaccion | 10/10 |\n| **Total** | **40/40** |",
       "difficulty": "10",
       "images": [],

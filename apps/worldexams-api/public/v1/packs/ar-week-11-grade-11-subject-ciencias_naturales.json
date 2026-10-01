@@ -13,13 +13,13 @@
       "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 1.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Fuerza aplicada = $25\\text{ N}$",
           "is_correct": true,
           "feedback": "Correcto. $F_{\\text{neta}} = 10 \\cdot 2 = 20\\text{ N}$. $F_{\\text{aplicada}} = 20 + 5 = 25\\text{ N}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Fuerza aplicada = $20\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 10 \\cdot 2 = 20\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 20 + 5 = 25\\text{ N}$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 2.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Fuerza aplicada = $50\\text{ N}$",
           "is_correct": true,
           "feedback": "Correcto. $F_{\\text{neta}} = 20 \\cdot 2 = 40\\text{ N}$. $F_{\\text{aplicada}} = 40 + 10 = 50\\text{ N}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Fuerza aplicada = $40\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 20 \\cdot 2 = 40\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 40 + 10 = 50\\text{ N}$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,19 +103,19 @@
       "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 3.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Fuerza aplicada = $75\\text{ N}$",
           "is_correct": true,
           "feedback": "Correcto. $F_{\\text{neta}} = 30 \\cdot 2 = 60\\text{ N}$. $F_{\\text{aplicada}} = 60 + 15 = 75\\text{ N}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Fuerza aplicada = $60\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fuerza aplicada = $45\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Restó la fuerza de fricción a la fuerza neta."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 30 \\cdot 2 = 60\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 60 + 15 = 75\\text{ N}$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,31 +193,31 @@
       "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 5.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Fuerza aplicada = $125\\text{ N}$",
           "is_correct": true,
           "feedback": "Correcto. $F_{\\text{neta}} = 50 \\cdot 2 = 100\\text{ N}$. $F_{\\text{aplicada}} = 100 + 25 = 125\\text{ N}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Fuerza aplicada = $100\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fuerza aplicada = $75\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Restó la fuerza de fricción a la fuerza neta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Fuerza aplicada = $500\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 50 \\cdot 2 = 100\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 100 + 25 = 125\\text{ N}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,31 +238,31 @@
       "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 6.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Fuerza aplicada = $150\\text{ N}$",
           "is_correct": true,
           "feedback": "Correcto. $F_{\\text{neta}} = 60 \\cdot 2 = 120\\text{ N}$. $F_{\\text{aplicada}} = 120 + 30 = 150\\text{ N}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Fuerza aplicada = $120\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fuerza aplicada = $90\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Restó la fuerza de fricción a la fuerza neta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Fuerza aplicada = $600\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 60 \\cdot 2 = 120\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 120 + 30 = 150\\text{ N}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,31 +283,31 @@
       "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 7.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Fuerza aplicada = $175\\text{ N}$",
           "is_correct": true,
           "feedback": "Correcto. $F_{\\text{neta}} = 70 \\cdot 2 = 140\\text{ N}$. $F_{\\text{aplicada}} = 140 + 35 = 175\\text{ N}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Fuerza aplicada = $140\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fuerza aplicada = $105\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Restó la fuerza de fricción a la fuerza neta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Fuerza aplicada = $700\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 70 \\cdot 2 = 140\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 140 + 35 = 175\\text{ N}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 9.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Fuerza aplicada = $225\\text{ N}$",
           "is_correct": true,
           "feedback": "Correcto. $F_{\\text{neta}} = 90 \\cdot 2 = 180\\text{ N}$. $F_{\\text{aplicada}} = 180 + 45 = 225\\text{ N}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Fuerza aplicada = $180\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fuerza aplicada = $135\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Restó la fuerza de fricción a la fuerza neta."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 90 \\cdot 2 = 180\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 180 + 45 = 225\\text{ N}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,31 +418,31 @@
       "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 10.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Fuerza aplicada = $250\\text{ N}$",
           "is_correct": true,
           "feedback": "Correcto. $F_{\\text{neta}} = 100 \\cdot 2 = 200\\text{ N}$. $F_{\\text{aplicada}} = 200 + 50 = 250\\text{ N}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Fuerza aplicada = $200\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fuerza aplicada = $150\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Restó la fuerza de fricción a la fuerza neta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Fuerza aplicada = $1000\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 100 \\cdot 2 = 200\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 200 + 50 = 250\\text{ N}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,13 +463,13 @@
       "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 11.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Fuerza aplicada = $275\\text{ N}$",
           "is_correct": true,
           "feedback": "Correcto. $F_{\\text{neta}} = 110 \\cdot 2 = 220\\text{ N}$. $F_{\\text{aplicada}} = 220 + 55 = 275\\text{ N}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Fuerza aplicada = $220\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
@@ -487,7 +487,7 @@
           "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 110 \\cdot 2 = 220\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 220 + 55 = 275\\text{ N}$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -508,31 +508,31 @@
       "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 12.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Fuerza aplicada = $300\\text{ N}$",
           "is_correct": true,
           "feedback": "Correcto. $F_{\\text{neta}} = 120 \\cdot 2 = 240\\text{ N}$. $F_{\\text{aplicada}} = 240 + 60 = 300\\text{ N}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Fuerza aplicada = $240\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fuerza aplicada = $180\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Restó la fuerza de fricción a la fuerza neta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Fuerza aplicada = $1200\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 120 \\cdot 2 = 240\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 240 + 60 = 300\\text{ N}$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,31 +553,31 @@
       "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 13.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Fuerza aplicada = $325\\text{ N}$",
           "is_correct": true,
           "feedback": "Correcto. $F_{\\text{neta}} = 130 \\cdot 2 = 260\\text{ N}$. $F_{\\text{aplicada}} = 260 + 65 = 325\\text{ N}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Fuerza aplicada = $260\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fuerza aplicada = $195\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Restó la fuerza de fricción a la fuerza neta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Fuerza aplicada = $1300\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 130 \\cdot 2 = 260\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 260 + 65 = 325\\text{ N}$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,19 +598,19 @@
       "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 14.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Fuerza aplicada = $350\\text{ N}$",
           "is_correct": true,
           "feedback": "Correcto. $F_{\\text{neta}} = 140 \\cdot 2 = 280\\text{ N}$. $F_{\\text{aplicada}} = 280 + 70 = 350\\text{ N}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Fuerza aplicada = $280\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fuerza aplicada = $210\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Restó la fuerza de fricción a la fuerza neta."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 140 \\cdot 2 = 280\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 280 + 70 = 350\\text{ N}$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,31 +688,31 @@
       "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 16.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Fuerza aplicada = $400\\text{ N}$",
           "is_correct": true,
           "feedback": "Correcto. $F_{\\text{neta}} = 160 \\cdot 2 = 320\\text{ N}$. $F_{\\text{aplicada}} = 320 + 80 = 400\\text{ N}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Fuerza aplicada = $320\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fuerza aplicada = $240\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Restó la fuerza de fricción a la fuerza neta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Fuerza aplicada = $1600\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 160 \\cdot 2 = 320\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 320 + 80 = 400\\text{ N}$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 17.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Fuerza aplicada = $425\\text{ N}$",
           "is_correct": true,
           "feedback": "Correcto. $F_{\\text{neta}} = 170 \\cdot 2 = 340\\text{ N}$. $F_{\\text{aplicada}} = 340 + 85 = 425\\text{ N}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Fuerza aplicada = $340\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 170 \\cdot 2 = 340\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 340 + 85 = 425\\text{ N}$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -778,31 +778,31 @@
       "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 18.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Fuerza aplicada = $450\\text{ N}$",
           "is_correct": true,
           "feedback": "Correcto. $F_{\\text{neta}} = 180 \\cdot 2 = 360\\text{ N}$. $F_{\\text{aplicada}} = 360 + 90 = 450\\text{ N}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Fuerza aplicada = $360\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fuerza aplicada = $270\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Restó la fuerza de fricción a la fuerza neta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Fuerza aplicada = $1800\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 180 \\cdot 2 = 360\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 360 + 90 = 450\\text{ N}$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,19 +823,19 @@
       "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 19.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Fuerza aplicada = $475\\text{ N}$",
           "is_correct": true,
           "feedback": "Correcto. $F_{\\text{neta}} = 190 \\cdot 2 = 380\\text{ N}$. $F_{\\text{aplicada}} = 380 + 95 = 475\\text{ N}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Fuerza aplicada = $380\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fuerza aplicada = $285\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. Restó la fuerza de fricción a la fuerza neta."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 190 \\cdot 2 = 380\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 380 + 95 = 475\\text{ N}$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Diferentes escenarios de dinámicas de fuerzas en ensayos de laboratorio e industria Caso N° 20.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Fuerza aplicada = $500\\text{ N}$",
           "is_correct": true,
           "feedback": "Correcto. $F_{\\text{neta}} = 200 \\cdot 2 = 400\\text{ N}$. $F_{\\text{aplicada}} = 400 + 100 = 500\\text{ N}$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Fuerza aplicada = $400\\text{ N}$",
           "is_correct": false,
           "feedback": "Incorrecto. No consideró la fuerza para compensar la fricción."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. Confundió la aceleración con la masa por $g$."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por la Segunda Ley de Newton $F_{\\text{neta}} = m \\cdot a = 200 \\cdot 2 = 400\\text{ N}$. La fuerza aplicada compensa la fricción: $F_{\\text{aplicada}} = 400 + 100 = 500\\text{ N}$.",
       "difficulty": "10",
       "images": [],

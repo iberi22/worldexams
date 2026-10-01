@@ -19,13 +19,13 @@
           "feedback": "El coeficiente incluye el signo negativo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "-5",
           "is_correct": true,
           "feedback": "El coeficiente es el número con su respectivo signo que acompaña a las literales."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "3",
           "is_correct": false,
           "feedback": "Este es el exponente de la literal x."
@@ -37,7 +37,7 @@
           "feedback": "El coeficiente solo incluye la parte numérica, no las variables."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Un término algebraico consta de cuatro elementos: signo, coeficiente, literal (base) y exponente. En el término -5x³y², el signo es \"-\", el coeficiente es 5 (tomados juntos como -5), las literales son x e y, y los exponentes son 3 y 2.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -64,13 +64,13 @@
           "feedback": "Esto solo suma los precios unitarios, no considera las cantidades."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "30xy",
           "is_correct": false,
           "feedback": "No se deben multiplicar las variables entre sí ni por la suma de los precios."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "25x + 5y",
           "is_correct": true,
           "feedback": "Multiplicamos el precio de cada artículo por su cantidad respectiva y los sumamos."
@@ -82,7 +82,7 @@
           "feedback": "Esto multiplicaría la suma de los precios por la suma de las cantidades, lo cual es incorrecto."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Para expresar un costo total, multiplicamos el precio unitario de cada producto por la cantidad adquirida de dicho producto. En este caso, 25 pesos por x cuadernos (25x) más 5 pesos por y lápices (5y).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -115,19 +115,19 @@
           "feedback": "Un binomio tiene exactamente dos términos."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Trinomio",
           "is_correct": true,
           "feedback": "La expresión tiene tres términos separados por signos de suma o resta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Término independiente",
           "is_correct": false,
           "feedback": "Esto solo se refiere al número que no tiene variable (el 2)."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Las expresiones algebraicas se clasifican por la cantidad de términos: Monomio (1), Binomio (2), Trinomio (3) y Polinomio (en general, pero suele usarse para 4 o más). Dado que 3x², -5x y +2 son tres términos distintos, es un trinomio.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -154,13 +154,13 @@
           "feedback": "Esto representa el área del rectángulo, no el perímetro."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "2L + 2A",
           "is_correct": true,
           "feedback": "El perímetro es la suma de los cuatro lados: L + L + A + A."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "L + A",
           "is_correct": false,
           "feedback": "Esto es solo la suma de dos lados (semiperímetro)."
@@ -172,7 +172,7 @@
           "feedback": "Esto se relaciona con el teorema de Pitágoras, no con el perímetro."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El perímetro de cualquier figura es la suma de las longitudes de todos sus lados. Un rectángulo tiene dos lados iguales llamados largo y dos lados iguales llamados ancho. Por lo tanto, P = L + L + A + A = 2L + 2A.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -238,19 +238,19 @@
       "context": "Se requiere calcular el valor numérico de una expresión que modela la ganancia de una microempresa en Hidalgo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "17",
           "is_correct": false,
           "feedback": "2(3)² - 3(-2) + 5 = 2(9) + 6 + 5 = 18 + 6 + 5 = 29."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "11",
           "is_correct": false,
           "feedback": "Error al no elevar al cuadrado o al manejar los signos negativos."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "29",
           "is_correct": true,
           "feedback": "2(9) - 3(-2) + 5 = 18 + 6 + 5 = 29."
@@ -262,7 +262,7 @@
           "feedback": "Error en el orden de las operaciones o en la sustitución."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Sustituimos los valores: 2(3)² - 3(-2) + 5. Primero elevamos al cuadrado: 2(9) - 3(-2) + 5. Realizamos las multiplicaciones: 18 + 6 + 5. Finalmente sumamos: 29. Es crucial recordar que menos por menos da más.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
           "feedback": "Falta el término lineal obtenido al multiplicar los términos medios y extremos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "x² - 2x - 15",
           "is_correct": true,
           "feedback": "x*x = x²; x*(-5) = -5x; 3*x = 3x; 3*(-5) = -15. Sumando: x² - 2x - 15."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "x² + 2x - 15",
           "is_correct": false,
           "feedback": "Error de signo al sumar -5x + 3x."
@@ -307,7 +307,7 @@
           "feedback": "No se realizó la multiplicación correctamente, esto parece una suma."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Usamos la propiedad distributiva (método FOIL): multiplicamos los primeros términos (x \\times x = x²), los externos (x \\times -5 = -5x), los internos (3 \\times x = 3x) y los últimos (3 \\times -5 = -15). Reducimos términos semejantes: -5x + 3x = -2x. El resultado es x² - 2x - 15.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "Un estudiante en Chiapas practica la división de un polinomio entre un monomio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "3x⁶ - 2x⁵ + 1",
           "is_correct": false,
           "feedback": "En la división los exponentes se restan, no se suman."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "3x² - 2x + 1",
           "is_correct": true,
           "feedback": "12x⁴/4x²=3x²; -8x³/4x²=-2x; 4x²/4x²=1."
@@ -352,7 +352,7 @@
           "feedback": "Error al restar los coeficientes en lugar de dividirlos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Dividimos cada término del polinomio por el monomio 4x². Para los coeficientes: 12/4=3, -8/4=-2, 4/4=1. Para las literales, restamos los exponentes: x⁴⁻²=x², x³⁻²=x, x²⁻²=x⁰=1. El resultado es 3x² - 2x + 1.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,31 +373,31 @@
       "context": "En un taller de robótica en la CDMX, se utiliza una expresión para describir la velocidad de un motor.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "5",
           "is_correct": false,
           "feedback": "Este es el grado respecto a la variable x."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "6",
           "is_correct": false,
           "feedback": "Este es el mayor exponente individual de la variable y."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "7",
           "is_correct": false,
           "feedback": "Es la suma de exponentes del primer y segundo término, pero no el mayor."
         },
         {
-          "letter": "D",
+          "letter": "A",
           "text": "8",
           "is_correct": true,
           "feedback": "El tercer término tiene una suma de exponentes de 2+6=8, que es la mayor."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": "El grado absoluto de un polinomio es el mayor de los grados de sus términos. Calculamos el grado de cada término sumando sus exponentes: T1 (3+4=7), T2 (5+1=6), T3 (2+6=8). El grado absoluto es 8.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Se requiere elevar un binomio al cuadrado para calcular el área de una plaza circular en Villahermosa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "4x² + 9",
           "is_correct": false,
           "feedback": "Falta el término del doble producto del primero por el segundo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "4x² + 12x + 9",
           "is_correct": true,
           "feedback": "(2x)² + 2(2x)(3) + 3² = 4x² + 12x + 9."
@@ -442,7 +442,7 @@
           "feedback": "Error al elevar al cuadrado los términos del binomio."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Usamos la regla del binomio al cuadrado: (a + b)² = a² + 2ab + b². Aquí a = 2x y b = 3. Por lo tanto: (2x)² = 4x², el doble producto es 2(2x)(3) = 12x, y 3² = 9. Sumando todo: 4x² + 12x + 9.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -514,13 +514,13 @@
           "feedback": "Esto resultaría en x² + 10x + 25."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "(x - 5)²",
           "is_correct": true,
           "feedback": "Es un trinomio cuadrado perfecto donde el término medio es negativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "(x + 5)(x - 5)",
           "is_correct": false,
           "feedback": "Esto resultaría en x² - 25."
@@ -532,7 +532,7 @@
           "feedback": "No corresponde a la factorización de un trinomio cuadrado perfecto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Un trinomio cuadrado perfecto tiene la forma a² ± 2ab + b². Aquí a² = x² (a = x) y b² = 25 (b = 5). El término medio es -10x, que corresponde a -2ab (-2 * x * 5). Por lo tanto, la factorización es (a - b)², es decir, (x - 5)².\n\n---",
       "difficulty": "8",
       "images": [],
@@ -559,25 +559,25 @@
           "feedback": "El factor común puede ser mayor (3x²y²)."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "3x²y²(2x - 3y + 1)",
           "is_correct": true,
           "feedback": "El Máximo Común Factor es 3x²y²."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "3x²y²(2x - 3y)",
           "is_correct": false,
           "feedback": "Se olvidó incluir el +1 resultante de dividir el último término por el factor común."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "x²y²(6x - 9y + 3)",
           "is_correct": false,
           "feedback": "El coeficiente 3 también es un factor común."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Buscamos el Máximo Común Factor (MCF). Para los coeficientes (6, 9, 3) es 3. Para las literales, tomamos el menor exponente: x² y y². El MCF es 3x²y². Dividimos cada término original por este MCF para obtener los términos dentro del paréntesis.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -604,25 +604,25 @@
           "feedback": "El producto es correcto pero la suma daría 11x, no 7x."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "(x + 5) y (x + 2)",
           "is_correct": true,
           "feedback": "5 * 2 = 10 y 5 + 2 = 7. Cumple con la forma x² + (a+b)x + ab."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "(x - 5) y (x - 2)",
           "is_correct": false,
           "feedback": "La suma daría -7x y el producto +10."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "(x + 7) y (x + 10)",
           "is_correct": false,
           "feedback": "Error en la lógica de factorización."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Factorizamos el trinomio de la forma x² + bx + c. Buscamos dos números que multiplicados den 10 (término constante) y sumados den 7 (coeficiente del término lineal). Esos números son 5 y 2. Por tanto, la expresión factorizada es (x + 5)(x + 2).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Error al sumar numeradores sin tener el mismo denominador común."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "5 / 3x",
           "is_correct": false,
           "feedback": "No se pueden sumar denominadores directamente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "7 / 2x",
           "is_correct": true,
           "feedback": "Denominador común es 2x. (4/2x) + (3/2x) = 7/2x."
@@ -667,7 +667,7 @@
           "feedback": "Error en el proceso de suma de fracciones."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Para sumar fracciones con distinto denominador, buscamos el mínimo común múltiplo de los denominadores x y 2x, que es 2x. Convertimos la primera fracción: 2/x = 4/2x. Ahora sumamos: 4/2x + 3/2x = 7/2x.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "El desarrollo de un cubo de un binomio es más complejo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "(x - 2)(x² + 2x + 4)",
           "is_correct": true,
           "feedback": "Aplicación correcta de la fórmula a³ - b³ = (a - b)(a² + ab + b²)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "(x - 2)(x² - 2x + 4)",
           "is_correct": false,
           "feedback": "El signo del segundo término del trinomio debe ser positivo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "(x + 2)(x² - 2x + 4)",
           "is_correct": false,
           "feedback": "Esta es la factorización de x³ + 8."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Usamos la fórmula para la diferencia de cubos: a³ - b³ = (a - b)(a² + ab + b²). Aquí a = x y b = 2 (ya que 2³ = 8). Sustituyendo obtenemos: (x - 2)(x² + x(2) + 2²), que simplificado es (x - 2)(x² + 2x + 4).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,19 +733,19 @@
       "context": "Un programador en una empresa de software en Monterrey optimiza una expresión algebraica compleja para un motor gráfico.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "x + 2",
           "is_correct": false,
           "feedback": "No es el resultado final tras todas las cancelaciones."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "(x - 2) / (x + 2)",
           "is_correct": false,
           "feedback": "Error en la simplificación de los términos factorizados."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "1",
           "is_correct": true,
           "feedback": "[ (x-2)(x+2) / (x-2)² ] * [ (x-2) / (x+2) ] = [ (x+2) / (x-2) ] * [ (x-2) / (x+2) ] = 1."
@@ -757,7 +757,7 @@
           "feedback": "Resultado incorrecto."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Factorizamos todas las partes: x² - 4 = (x - 2)(x + 2) y x² - 4x + 4 = (x - 2)². La expresión queda: [ (x - 2)(x + 2) / (x - 2)² ] * [ (x - 2) / (x + 2) ]. Cancelamos términos arriba y abajo: un (x+2) con un (x+2), y los dos (x-2) de arriba con el (x-2)² de abajo. El resultado final es 1.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Un estudiante de ingeniería en el IPN resuelve una división de polinomios usando la división sintética.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "0",
           "is_correct": false,
           "feedback": "La división no es exacta."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "-3",
           "is_correct": true,
           "feedback": "Por el teorema del residuo, evaluamos P(2) = 2³ - 2(2)² + 2 - 5 = 8 - 8 + 2 - 5 = -3."
@@ -847,7 +847,7 @@
           "feedback": "Error al sustituir el valor en el teorema del residuo."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Según el Teorema del Residuo, el residuo de dividir un polinomio P(x) entre (x - a) es igual a P(a). En este caso, a = 2. Sustituimos x=2 en x³ - 2x² + x - 5: (2)³ - 2(2)² + (2) - 5 = 8 - 8 + 2 - 5 = -3.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -1003,31 +1003,31 @@
       "context": "Un estudiante de bachillerato en la CDMX analiza los términos semejantes de una expresión polinomial.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "7x² + 4x - 12",
           "is_correct": true,
           "feedback": "¡Correcto! Agrupando los términos semejantes: (5x² + 2x²) = 7x²; (-3x + 7x) = 4x; (-8 - 4) = -12. Obtenemos 7x² + 4x - 12."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "7x² - 4x - 12",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signo al sumar los términos con variable x."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "3x² + 4x - 12",
           "is_correct": false,
           "feedback": "Incorrecto. Se restaron los coeficientes de x² en lugar de sumarlos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "7x² + 4x - 4",
           "is_correct": false,
           "feedback": "Incorrecto. Se restó incorrectamente la constante al final de la expresión."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La simplificación requiere agrupar coeficientes de las mismas potencias de x. Para x²: 5 + 2 = 7. Para x: -3 + 7 = 4. Para los términos constantes: -8 - 4 = -12. Juntando todos los términos nos queda: 7x² + 4x - 12.",
       "difficulty": "4",
       "images": [],
@@ -1048,13 +1048,13 @@
       "context": "Se requiere calcular la cantidad de material para una tubería de sección transversal circular en Monterrey.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "(4y - 7)(4y + 7)",
           "is_correct": true,
           "feedback": "¡Correcto! Una diferencia de cuadrados se factoriza como binomios conjugados de la forma (a - b)(a + b), donde a = 4y y b = 7."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "(4y - 7)²",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el desarrollo de un binomio al cuadrado que daría un trinomio cuadrado perfecto."
@@ -1072,7 +1072,7 @@
           "feedback": "Incorrecto. No se calcularon las raíces cuadradas de los términos de la diferencia."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La regla de la diferencia de cuadrados indica que a² - b² = (a - b)(a + b). En este caso, identificamos que a² = 16y² (de donde a = 4y) y b² = 49 (de donde b = 7). Por lo tanto, sustituyendo en la fórmula obtenemos: (4y - 7)(4y + 7).",
       "difficulty": "4",
       "images": [],
@@ -1093,31 +1093,31 @@
       "context": "Un problema de álgebra aplicada en la Escuela Media Superior en México, caso 5.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "19",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando x=2 en la función polinomial se obtiene el resultado exacto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "31",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signo al multiplicar por el término lineal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "12",
           "is_correct": false,
           "feedback": "Incorrecto. Se sustituyó la base sin elevar al cuadrado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "9",
           "is_correct": false,
           "feedback": "Incorrecto. Se restó la constante en lugar de sumarla."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a. Para P(2) con P(x) = 5x² - 3x + 5, calculamos P(2) = 5(2)² - 3(2) + 5 = 5(4) - 6 + 5 = 20 - 6 + 5 = 19.",
       "difficulty": "6",
       "images": [],
@@ -1138,31 +1138,31 @@
       "context": "Un problema de álgebra aplicada en la Escuela Media Superior en México, caso 6.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "23",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando x=2 en la función polinomial se obtiene el resultado exacto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "35",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signo al multiplicar por el término lineal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "14",
           "is_correct": false,
           "feedback": "Incorrecto. Se sustituyó la base sin elevar al cuadrado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "13",
           "is_correct": false,
           "feedback": "Incorrecto. Se restó la constante en lugar de sumarla."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a. Para P(2) con P(x) = 6x² - 3x + 5, calculamos P(2) = 6(2)² - 3(2) + 5 = 6(4) - 6 + 5 = 24 - 6 + 5 = 23.",
       "difficulty": "6",
       "images": [],
@@ -1183,13 +1183,13 @@
       "context": "Un problema de álgebra aplicada en la Escuela Media Superior en México, caso 7.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "27",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando x=2 en la función polinomial se obtiene el resultado exacto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "39",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signo al multiplicar por el término lineal."
@@ -1207,7 +1207,7 @@
           "feedback": "Incorrecto. Se restó la constante en lugar de sumarla."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a. Para P(2) con P(x) = 7x² - 3x + 5, calculamos P(2) = 7(2)² - 3(2) + 5 = 7(4) - 6 + 5 = 28 - 6 + 5 = 27.",
       "difficulty": "6",
       "images": [],
@@ -1228,19 +1228,19 @@
       "context": "Un problema de álgebra aplicada en la Escuela Media Superior en México, caso 8.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "31",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando x=2 en la función polinomial se obtiene el resultado exacto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "43",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signo al multiplicar por el término lineal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "18",
           "is_correct": false,
           "feedback": "Incorrecto. Se sustituyó la base sin elevar al cuadrado."
@@ -1252,7 +1252,7 @@
           "feedback": "Incorrecto. Se restó la constante en lugar de sumarla."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a. Para P(2) con P(x) = 8x² - 3x + 5, calculamos P(2) = 8(2)² - 3(2) + 5 = 8(4) - 6 + 5 = 32 - 6 + 5 = 31.",
       "difficulty": "6",
       "images": [],
@@ -1273,19 +1273,19 @@
       "context": "Un problema de álgebra aplicada en la Escuela Media Superior en México, caso 9.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "35",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando x=2 en la función polinomial se obtiene el resultado exacto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "47",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signo al multiplicar por el término lineal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "20",
           "is_correct": false,
           "feedback": "Incorrecto. Se sustituyó la base sin elevar al cuadrado."
@@ -1297,7 +1297,7 @@
           "feedback": "Incorrecto. Se restó la constante en lugar de sumarla."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a. Para P(2) con P(x) = 9x² - 3x + 5, calculamos P(2) = 9(2)² - 3(2) + 5 = 9(4) - 6 + 5 = 36 - 6 + 5 = 35.",
       "difficulty": "6",
       "images": [],
@@ -1318,31 +1318,31 @@
       "context": "Un problema de álgebra aplicada en la Escuela Media Superior en México, caso 10.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "39",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando x=2 en la función polinomial se obtiene el resultado exacto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "51",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signo al multiplicar por el término lineal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "22",
           "is_correct": false,
           "feedback": "Incorrecto. Se sustituyó la base sin elevar al cuadrado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "29",
           "is_correct": false,
           "feedback": "Incorrecto. Se restó la constante en lugar de sumarla."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a. Para P(2) con P(x) = 10x² - 3x + 5, calculamos P(2) = 10(2)² - 3(2) + 5 = 10(4) - 6 + 5 = 40 - 6 + 5 = 39.",
       "difficulty": "6",
       "images": [],
@@ -1363,13 +1363,13 @@
       "context": "Un problema de álgebra aplicada en la Escuela Media Superior en México, caso 11.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "43",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando x=2 en la función polinomial se obtiene el resultado exacto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "55",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signo al multiplicar por el término lineal."
@@ -1387,7 +1387,7 @@
           "feedback": "Incorrecto. Se restó la constante en lugar de sumarla."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a. Para P(2) con P(x) = 11x² - 3x + 5, calculamos P(2) = 11(2)² - 3(2) + 5 = 11(4) - 6 + 5 = 44 - 6 + 5 = 43.",
       "difficulty": "8",
       "images": [],
@@ -1453,19 +1453,19 @@
       "context": "Un problema de álgebra aplicada en la Escuela Media Superior en México, caso 13.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "51",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando x=2 en la función polinomial se obtiene el resultado exacto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "63",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signo al multiplicar por el término lineal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "28",
           "is_correct": false,
           "feedback": "Incorrecto. Se sustituyó la base sin elevar al cuadrado."
@@ -1477,7 +1477,7 @@
           "feedback": "Incorrecto. Se restó la constante en lugar de sumarla."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a. Para P(2) con P(x) = 13x² - 3x + 5, calculamos P(2) = 13(2)² - 3(2) + 5 = 13(4) - 6 + 5 = 52 - 6 + 5 = 51.",
       "difficulty": "8",
       "images": [],
@@ -1498,19 +1498,19 @@
       "context": "Un problema de álgebra aplicada en la Escuela Media Superior en México, caso 14.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "55",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando x=2 en la función polinomial se obtiene el resultado exacto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "67",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signo al multiplicar por el término lineal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "30",
           "is_correct": false,
           "feedback": "Incorrecto. Se sustituyó la base sin elevar al cuadrado."
@@ -1522,7 +1522,7 @@
           "feedback": "Incorrecto. Se restó la constante en lugar de sumarla."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a. Para P(2) con P(x) = 14x² - 3x + 5, calculamos P(2) = 14(2)² - 3(2) + 5 = 14(4) - 6 + 5 = 56 - 6 + 5 = 55.",
       "difficulty": "8",
       "images": [],
@@ -1543,13 +1543,13 @@
       "context": "Un problema de álgebra aplicada en la Escuela Media Superior en México, caso 15.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "59",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando x=2 en la función polinomial se obtiene el resultado exacto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "71",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signo al multiplicar por el término lineal."
@@ -1567,7 +1567,7 @@
           "feedback": "Incorrecto. Se restó la constante en lugar de sumarla."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a. Para P(2) con P(x) = 15x² - 3x + 5, calculamos P(2) = 15(2)² - 3(2) + 5 = 15(4) - 6 + 5 = 60 - 6 + 5 = 59.",
       "difficulty": "8",
       "images": [],
@@ -1588,13 +1588,13 @@
       "context": "Un problema de álgebra aplicada en la Escuela Media Superior en México, caso 16.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "63",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando x=2 en la función polinomial se obtiene el resultado exacto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "75",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signo al multiplicar por el término lineal."
@@ -1612,7 +1612,7 @@
           "feedback": "Incorrecto. Se restó la constante en lugar de sumarla."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a. Para P(2) con P(x) = 16x² - 3x + 5, calculamos P(2) = 16(2)² - 3(2) + 5 = 16(4) - 6 + 5 = 64 - 6 + 5 = 63.",
       "difficulty": "8",
       "images": [],
@@ -1633,19 +1633,19 @@
       "context": "Un problema de álgebra aplicada en la Escuela Media Superior en México, caso 17.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "67",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando x=2 en la función polinomial se obtiene el resultado exacto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "79",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signo al multiplicar por el término lineal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "36",
           "is_correct": false,
           "feedback": "Incorrecto. Se sustituyó la base sin elevar al cuadrado."
@@ -1657,7 +1657,7 @@
           "feedback": "Incorrecto. Se restó la constante en lugar de sumarla."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a. Para P(2) con P(x) = 17x² - 3x + 5, calculamos P(2) = 17(2)² - 3(2) + 5 = 17(4) - 6 + 5 = 68 - 6 + 5 = 67.",
       "difficulty": "10",
       "images": [],
@@ -1678,13 +1678,13 @@
       "context": "Un problema de álgebra aplicada en la Escuela Media Superior en México, caso 18.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "71",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando x=2 en la función polinomial se obtiene el resultado exacto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "83",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signo al multiplicar por el término lineal."
@@ -1702,7 +1702,7 @@
           "feedback": "Incorrecto. Se restó la constante en lugar de sumarla."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a. Para P(2) con P(x) = 18x² - 3x + 5, calculamos P(2) = 18(2)² - 3(2) + 5 = 18(4) - 6 + 5 = 72 - 6 + 5 = 71.",
       "difficulty": "10",
       "images": [],
@@ -1768,31 +1768,31 @@
       "context": "Un problema de álgebra aplicada en la Escuela Media Superior en México, caso 20.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "79",
           "is_correct": true,
           "feedback": "¡Correcto! Evaluando x=2 en la función polinomial se obtiene el resultado exacto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "91",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signo al multiplicar por el término lineal."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "42",
           "is_correct": false,
           "feedback": "Incorrecto. Se sustituyó la base sin elevar al cuadrado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "69",
           "is_correct": false,
           "feedback": "Incorrecto. Se restó la constante en lugar de sumarla."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a. Para P(2) con P(x) = 20x² - 3x + 5, calculamos P(2) = 20(2)² - 3(2) + 5 = 20(4) - 6 + 5 = 80 - 6 + 5 = 79.",
       "difficulty": "10",
       "images": [],

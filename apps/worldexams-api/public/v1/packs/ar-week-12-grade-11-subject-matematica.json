@@ -13,13 +13,13 @@
       "context": "Análisis trigonométrico y simplificación matemática Caso N° 1.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\cos(1x)$",
           "is_correct": true,
           "feedback": "Correcto. La secante es la inversa del coseno: $1/\\sec(\\theta) = \\cos(\\theta)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sin(1x)$",
           "is_correct": false,
           "feedback": "Incorrecto. La inversa del seno es la cosecante."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. La cotangente es la inversa de la tangente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por definición de las razones trigonométricas recíprocas, $\\sec(\\theta) = \\frac{1}{\\cos(\\theta)}$. Por lo tanto, $\\frac{1}{\\sec(\\theta)} = \\cos(\\theta)$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -58,31 +58,31 @@
       "context": "Análisis trigonométrico y simplificación matemática Caso N° 2.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\cos(2x)$",
           "is_correct": true,
           "feedback": "Correcto. La secante es la inversa del coseno: $1/\\sec(\\theta) = \\cos(\\theta)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sin(2x)$",
           "is_correct": false,
           "feedback": "Incorrecto. La inversa del seno es la cosecante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\tan(2x)$",
           "is_correct": false,
           "feedback": "Incorrecto. La tangente es la razón entre seno y coseno."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\cot(2x)$",
           "is_correct": false,
           "feedback": "Incorrecto. La cotangente es la inversa de la tangente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por definición de las razones trigonométricas recíprocas, $\\sec(\\theta) = \\frac{1}{\\cos(\\theta)}$. Por lo tanto, $\\frac{1}{\\sec(\\theta)} = \\cos(\\theta)$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,19 +103,19 @@
       "context": "Análisis trigonométrico y simplificación matemática Caso N° 3.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\cos(3x)$",
           "is_correct": true,
           "feedback": "Correcto. La secante es la inversa del coseno: $1/\\sec(\\theta) = \\cos(\\theta)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sin(3x)$",
           "is_correct": false,
           "feedback": "Incorrecto. La inversa del seno es la cosecante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\tan(3x)$",
           "is_correct": false,
           "feedback": "Incorrecto. La tangente es la razón entre seno y coseno."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. La cotangente es la inversa de la tangente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por definición de las razones trigonométricas recíprocas, $\\sec(\\theta) = \\frac{1}{\\cos(\\theta)}$. Por lo tanto, $\\frac{1}{\\sec(\\theta)} = \\cos(\\theta)$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -193,19 +193,19 @@
       "context": "Análisis trigonométrico y simplificación matemática Caso N° 5.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\cos(5x)$",
           "is_correct": true,
           "feedback": "Correcto. La secante es la inversa del coseno: $1/\\sec(\\theta) = \\cos(\\theta)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sin(5x)$",
           "is_correct": false,
           "feedback": "Incorrecto. La inversa del seno es la cosecante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\tan(5x)$",
           "is_correct": false,
           "feedback": "Incorrecto. La tangente es la razón entre seno y coseno."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. La cotangente es la inversa de la tangente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por definición de las razones trigonométricas recíprocas, $\\sec(\\theta) = \\frac{1}{\\cos(\\theta)}$. Por lo tanto, $\\frac{1}{\\sec(\\theta)} = \\cos(\\theta)$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -238,19 +238,19 @@
       "context": "Análisis trigonométrico y simplificación matemática Caso N° 6.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\cos(6x)$",
           "is_correct": true,
           "feedback": "Correcto. La secante es la inversa del coseno: $1/\\sec(\\theta) = \\cos(\\theta)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sin(6x)$",
           "is_correct": false,
           "feedback": "Incorrecto. La inversa del seno es la cosecante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\tan(6x)$",
           "is_correct": false,
           "feedback": "Incorrecto. La tangente es la razón entre seno y coseno."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. La cotangente es la inversa de la tangente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por definición de las razones trigonométricas recíprocas, $\\sec(\\theta) = \\frac{1}{\\cos(\\theta)}$. Por lo tanto, $\\frac{1}{\\sec(\\theta)} = \\cos(\\theta)$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -283,19 +283,19 @@
       "context": "Análisis trigonométrico y simplificación matemática Caso N° 7.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\cos(7x)$",
           "is_correct": true,
           "feedback": "Correcto. La secante es la inversa del coseno: $1/\\sec(\\theta) = \\cos(\\theta)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sin(7x)$",
           "is_correct": false,
           "feedback": "Incorrecto. La inversa del seno es la cosecante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\tan(7x)$",
           "is_correct": false,
           "feedback": "Incorrecto. La tangente es la razón entre seno y coseno."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. La cotangente es la inversa de la tangente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por definición de las razones trigonométricas recíprocas, $\\sec(\\theta) = \\frac{1}{\\cos(\\theta)}$. Por lo tanto, $\\frac{1}{\\sec(\\theta)} = \\cos(\\theta)$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -328,31 +328,31 @@
       "context": "Análisis trigonométrico y simplificación matemática Caso N° 8.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\cos(8x)$",
           "is_correct": true,
           "feedback": "Correcto. La secante es la inversa del coseno: $1/\\sec(\\theta) = \\cos(\\theta)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sin(8x)$",
           "is_correct": false,
           "feedback": "Incorrecto. La inversa del seno es la cosecante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\tan(8x)$",
           "is_correct": false,
           "feedback": "Incorrecto. La tangente es la razón entre seno y coseno."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\cot(8x)$",
           "is_correct": false,
           "feedback": "Incorrecto. La cotangente es la inversa de la tangente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por definición de las razones trigonométricas recíprocas, $\\sec(\\theta) = \\frac{1}{\\cos(\\theta)}$. Por lo tanto, $\\frac{1}{\\sec(\\theta)} = \\cos(\\theta)$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,19 +373,19 @@
       "context": "Análisis trigonométrico y simplificación matemática Caso N° 9.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\cos(9x)$",
           "is_correct": true,
           "feedback": "Correcto. La secante es la inversa del coseno: $1/\\sec(\\theta) = \\cos(\\theta)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sin(9x)$",
           "is_correct": false,
           "feedback": "Incorrecto. La inversa del seno es la cosecante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\tan(9x)$",
           "is_correct": false,
           "feedback": "Incorrecto. La tangente es la razón entre seno y coseno."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. La cotangente es la inversa de la tangente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Por definición de las razones trigonométricas recíprocas, $\\sec(\\theta) = \\frac{1}{\\cos(\\theta)}$. Por lo tanto, $\\frac{1}{\\sec(\\theta)} = \\cos(\\theta)$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Análisis trigonométrico y simplificación matemática Caso N° 10.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\cos(10x)$",
           "is_correct": true,
           "feedback": "Correcto. La secante es la inversa del coseno: $1/\\sec(\\theta) = \\cos(\\theta)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sin(10x)$",
           "is_correct": false,
           "feedback": "Incorrecto. La inversa del seno es la cosecante."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. La cotangente es la inversa de la tangente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por definición de las razones trigonométricas recíprocas, $\\sec(\\theta) = \\frac{1}{\\cos(\\theta)}$. Por lo tanto, $\\frac{1}{\\sec(\\theta)} = \\cos(\\theta)$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -508,31 +508,31 @@
       "context": "Análisis trigonométrico y simplificación matemática Caso N° 12.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\cos(12x)$",
           "is_correct": true,
           "feedback": "Correcto. La secante es la inversa del coseno: $1/\\sec(\\theta) = \\cos(\\theta)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sin(12x)$",
           "is_correct": false,
           "feedback": "Incorrecto. La inversa del seno es la cosecante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\tan(12x)$",
           "is_correct": false,
           "feedback": "Incorrecto. La tangente es la razón entre seno y coseno."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\cot(12x)$",
           "is_correct": false,
           "feedback": "Incorrecto. La cotangente es la inversa de la tangente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por definición de las razones trigonométricas recíprocas, $\\sec(\\theta) = \\frac{1}{\\cos(\\theta)}$. Por lo tanto, $\\frac{1}{\\sec(\\theta)} = \\cos(\\theta)$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -553,31 +553,31 @@
       "context": "Análisis trigonométrico y simplificación matemática Caso N° 13.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\cos(13x)$",
           "is_correct": true,
           "feedback": "Correcto. La secante es la inversa del coseno: $1/\\sec(\\theta) = \\cos(\\theta)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sin(13x)$",
           "is_correct": false,
           "feedback": "Incorrecto. La inversa del seno es la cosecante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\tan(13x)$",
           "is_correct": false,
           "feedback": "Incorrecto. La tangente es la razón entre seno y coseno."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\cot(13x)$",
           "is_correct": false,
           "feedback": "Incorrecto. La cotangente es la inversa de la tangente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por definición de las razones trigonométricas recíprocas, $\\sec(\\theta) = \\frac{1}{\\cos(\\theta)}$. Por lo tanto, $\\frac{1}{\\sec(\\theta)} = \\cos(\\theta)$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -598,31 +598,31 @@
       "context": "Análisis trigonométrico y simplificación matemática Caso N° 14.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$\\cos(14x)$",
           "is_correct": true,
           "feedback": "Correcto. La secante es la inversa del coseno: $1/\\sec(\\theta) = \\cos(\\theta)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sin(14x)$",
           "is_correct": false,
           "feedback": "Incorrecto. La inversa del seno es la cosecante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\tan(14x)$",
           "is_correct": false,
           "feedback": "Incorrecto. La tangente es la razón entre seno y coseno."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\cot(14x)$",
           "is_correct": false,
           "feedback": "Incorrecto. La cotangente es la inversa de la tangente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Por definición de las razones trigonométricas recíprocas, $\\sec(\\theta) = \\frac{1}{\\cos(\\theta)}$. Por lo tanto, $\\frac{1}{\\sec(\\theta)} = \\cos(\\theta)$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Análisis trigonométrico y simplificación matemática Caso N° 15.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\cos(15x)$",
           "is_correct": true,
           "feedback": "Correcto. La secante es la inversa del coseno: $1/\\sec(\\theta) = \\cos(\\theta)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sin(15x)$",
           "is_correct": false,
           "feedback": "Incorrecto. La inversa del seno es la cosecante."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. La cotangente es la inversa de la tangente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por definición de las razones trigonométricas recíprocas, $\\sec(\\theta) = \\frac{1}{\\cos(\\theta)}$. Por lo tanto, $\\frac{1}{\\sec(\\theta)} = \\cos(\\theta)$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,13 +688,13 @@
       "context": "Análisis trigonométrico y simplificación matemática Caso N° 16.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\cos(16x)$",
           "is_correct": true,
           "feedback": "Correcto. La secante es la inversa del coseno: $1/\\sec(\\theta) = \\cos(\\theta)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sin(16x)$",
           "is_correct": false,
           "feedback": "Incorrecto. La inversa del seno es la cosecante."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. La cotangente es la inversa de la tangente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por definición de las razones trigonométricas recíprocas, $\\sec(\\theta) = \\frac{1}{\\cos(\\theta)}$. Por lo tanto, $\\frac{1}{\\sec(\\theta)} = \\cos(\\theta)$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -823,13 +823,13 @@
       "context": "Análisis trigonométrico y simplificación matemática Caso N° 19.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\cos(19x)$",
           "is_correct": true,
           "feedback": "Correcto. La secante es la inversa del coseno: $1/\\sec(\\theta) = \\cos(\\theta)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sin(19x)$",
           "is_correct": false,
           "feedback": "Incorrecto. La inversa del seno es la cosecante."
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. La cotangente es la inversa de la tangente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por definición de las razones trigonométricas recíprocas, $\\sec(\\theta) = \\frac{1}{\\cos(\\theta)}$. Por lo tanto, $\\frac{1}{\\sec(\\theta)} = \\cos(\\theta)$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -868,13 +868,13 @@
       "context": "Análisis trigonométrico y simplificación matemática Caso N° 20.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\cos(20x)$",
           "is_correct": true,
           "feedback": "Correcto. La secante es la inversa del coseno: $1/\\sec(\\theta) = \\cos(\\theta)$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\sin(20x)$",
           "is_correct": false,
           "feedback": "Incorrecto. La inversa del seno es la cosecante."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. La cotangente es la inversa de la tangente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Por definición de las razones trigonométricas recíprocas, $\\sec(\\theta) = \\frac{1}{\\cos(\\theta)}$. Por lo tanto, $\\frac{1}{\\sec(\\theta)} = \\cos(\\theta)$.",
       "difficulty": "10",
       "images": [],

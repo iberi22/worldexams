@@ -13,13 +13,13 @@
       "context": "En una escuela de Bogotá, Juan organiza sus útiles sobre el pupitre antes de iniciar la clase de lenguaje.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Mesa",
           "is_correct": true,
           "feedback": "Es correcta porque nombra un objeto que se puede ver y tocar, por eso es un sustantivo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Correr",
           "is_correct": false,
           "feedback": "Es incorrecta porque expresa una acción y por eso es un verbo, no un sustantivo."
@@ -37,7 +37,7 @@
           "feedback": "Es incorrecta porque indica el modo de una acción y por eso es un adverbio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El sustantivo es la palabra que nombra personas, animales, objetos, lugares o ideas. En la lista, \"mesa\" nombra un objeto del salón, mientras que las otras palabras expresan acciones o cualidades. Reconocer el sustantivo es la base para estudiar después su género y su número.",
       "difficulty": "4",
       "images": [],
@@ -105,31 +105,31 @@
       "context": "Santiago escribe en Cali la lista de compras de la tienda con su mamá y debe escribir varios productos en plural porque necesita comprar tres mil pesos de cada fruta.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Árboles",
           "is_correct": true,
           "feedback": "Es correcta porque los sustantivos terminados en consonante forman el plural agregando \"es\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Árbols",
           "is_correct": false,
           "feedback": "Es incorrecta porque solo agregar \"s\" no sigue la regla de los sustantivos terminados en consonante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Arboles",
           "is_correct": false,
           "feedback": "Es incorrecta porque el plural de árbol conserva la tilde al volverse palabra esdrújula."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Los árbol",
           "is_correct": false,
           "feedback": "Es incorrecta porque cambia el artículo pero deja el sustantivo en singular."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Los sustantivos terminados en consonante forman el plural con \"es\": árbol-árboles, papel-papeles, color-colores. La palabra árbol es aguda con tilde y al formar el plural se vuelve esdrújula, por eso conserva la tilde en árboles. Aplicar esta regla permite escribir correctamente listas, descripciones y textos.",
       "difficulty": "6",
       "images": [],
@@ -151,13 +151,13 @@
       "context": "En Cartagena, Mariana ayuda a su profesora a marcar los cuadernos del curso con el nombre de cada estudiante.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El estudiante Mariana ganó el concurso de lectura.",
           "is_correct": true,
           "feedback": "Es correcta porque \"estudiante\" es un sustantivo común en cuanto al género y solo cambia el artículo de \"la\" a \"el\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La estudianta Mariana ganó el concurso de lectura.",
           "is_correct": false,
           "feedback": "Es incorrecta porque la palabra \"estudianta\" no existe en español."
@@ -175,7 +175,7 @@
           "feedback": "Es incorrecta porque mezcla el plural \"los\" con el sustantivo en singular."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Algunos sustantivos tienen una sola forma para masculino y femenino y solo cambian el artículo: el estudiante-la estudiante, el artista-la artista, el periodista-la periodista. Se llaman sustantivos comunes en cuanto al género. Reconocerlos evita crear formas incorrectas como \"estudianta\".",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En Manizales, los niños del grado quinto preparan carteles para la feria del libro con los nombres de los útiles que van a vender.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Las mochilas nuevas están listas para la feria.",
           "is_correct": true,
           "feedback": "Es correcta porque el artículo \"las\" y el adjetivo \"nuevas\" concuerdan en femenino plural con \"mochilas\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Las mochila nuevas están listas para la feria.",
           "is_correct": false,
           "feedback": "Es incorrecta porque el artículo plural \"las\" no concuerda con el sustantivo singular \"mochila\"."
@@ -221,7 +221,7 @@
           "feedback": "Es incorrecta porque mezcla singular y plural en el artículo, el sustantivo y el adjetivo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El artículo y el adjetivo deben concordar con el sustantivo en género y número. Si el sustantivo es femenino plural, como \"mochilas\", sus acompañantes también deben ser femeninos plurales: \"las\" y \"nuevas\". Esta concordancia da claridad y corrección a la oración.",
       "difficulty": "6",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "Dos estudiantes de Bogotá escribieron una oración sobre los mapas del salón. Oración 1: \"Los mapa están sobre la mesa\". Oración 2: \"Los mapas están sobre la mesa\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La oración 2, porque el sustantivo \"mapas\" concuerda en plural con el artículo \"los\" y el verbo \"están\".",
           "is_correct": true,
           "feedback": "Es correcta porque identifica la concordancia completa en número entre artículo, sustantivo y verbo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "La oración 1, porque el sustantivo \"mapa\" siempre se escribe en singular.",
           "is_correct": false,
           "feedback": "Es incorrecta porque \"mapa\" sí tiene plural y aquí se habla de varios mapas."
@@ -313,7 +313,7 @@
           "feedback": "Es incorrecta porque \"mapa\" es masculino, aunque termine en \"a\", y la razón dada es falsa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "El sustantivo \"mapa\" es una excepción famosa: termina en \"a\" pero es masculino, y su plural es \"mapas\". Al comparar oraciones se debe revisar el número y el género a la vez. La oración correcta mantiene la cadena de concordancia: \"los\" más \"mapas\" más \"están\".",
       "difficulty": "8",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "Valentina debe elegir el mejor párrafo para el periódico escolar de Medellín sobre la biblioteca del barrio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "La biblioteca nueva abre sus puertas. Los libros infantiles están organizados y las mesas limpias esperan a los lectores.",
           "is_correct": true,
           "feedback": "Es correcta porque todos los artículos y adjetivos concuerdan en género y número con sus sustantivos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "El biblioteca nuevo abre sus puertas. Los libro infantil está organizado y las mesa limpia espera a los lectores.",
           "is_correct": false,
           "feedback": "Es incorrecta porque presenta errores de género en \"biblioteca\" y de número en \"libro\" y \"mesa\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "La biblioteca nuevas abre sus puertas. El libros infantiles están organizados y los mesas limpios esperan a los lectores.",
           "is_correct": false,
           "feedback": "Es incorrecta porque mezcla singular con plural y masculino con femenino en casi todas las parejas."
@@ -359,7 +359,7 @@
           "feedback": "Es incorrecta porque todos los artículos contradicen el género o el número de los sustantivos."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Evaluar un párrafo exige comprobar cada pareja de sustantivo con su artículo y su adjetivo. La opción correcta mantiene la coherencia total: \"la biblioteca nueva\", \"los libros infantiles\", \"las mesas limpias\". Un texto con concordancia correcta comunica con claridad y demuestra dominio de la gramática.",
       "difficulty": "10",
       "images": [],
