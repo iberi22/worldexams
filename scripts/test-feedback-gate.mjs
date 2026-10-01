@@ -177,31 +177,34 @@ ${[2, 3, 4, 5, 6, 7, 8, 9, 10].map(fillerQuestion).join('\n\n')}
 let pass = 0;
 let fail = 0;
 
-try {
-  for (const c of cases) {
-    fs.writeFileSync(FILE, build(c), 'utf8');
-
-    let rejected = false;
-    let msg = '';
-    try {
-      execFileSync('node', [VALIDATOR, FILE], { cwd: REPO, stdio: 'pipe' });
-    } catch (e) {
-      rejected = true;
-      msg = String(e.stderr || '');
-    }
-
-    const hitFeedback = /option [A-D]: (feedback|missing feedback)/i.test(msg);
-    const verdict = rejected ? 'reject' : 'accept';
-    const want = c.expect === 'fail' ? 'reject' : 'accept';
-    const ok = verdict === want && (c.expect === 'pass' || hitFeedback);
-    console.log(`${ok ? 'PASS' : 'FAIL'}  ${c.name.padEnd(44)} validator=${verdict} (want ${want})`);
-    if (ok) pass += 1;
-    else {
-      fail += 1;
-      console.log(`      feedback-specific error: ${hitFeedback}`);
-      console.log(`      msg: ${msg.slice(0, 500).replace(/\n/g, ' | ')}`);
-    }
+// Runs the validator on the fixture built from `c` and grades it. `expect` is
+// 'accept' or 'reject'; `hit` names the error the case must actually trigger,
+// because a fixture that fails on collateral damage proves nothing.
+function grade(c, hitPattern) {
+  fs.writeFileSync(FILE, build(c), 'utf8');
+  let verdict = 'accept';
+  let msg = '';
+  try {
+    execFileSync('node', [VALIDATOR, FILE], { cwd: REPO, stdio: 'pipe' });
+  } catch (e) {
+    verdict = 'reject';
+    msg = String(e.stderr || '');
   }
+  const hit = hitPattern ? hitPattern.test(msg) : null;
+  // the older cases spell it pass/fail, the newer ones accept/reject
+  const want = c.expect === 'fail' || c.expect === 'reject' ? 'reject' : 'accept';
+  const ok = verdict === want && (want === 'accept' || hit);
+  console.log(`${ok ? 'PASS' : 'FAIL'}  ${c.name.padEnd(52)} validator=${verdict} (want ${want})`);
+  if (ok) pass += 1;
+  else {
+    fail += 1;
+    if (hitPattern) console.log(`      feedback-specific error: ${hit}`);
+    console.log(`      msg: ${msg.slice(0, 400).replace(/\n/g, ' | ')}`);
+  }
+}
+
+try {
+  for (const c of cases) grade(c, /option [A-D]: (feedback|missing feedback)/i);
 } finally {
   fs.rmSync(FILE, { force: true });
 }
@@ -250,25 +253,6 @@ const dupCases = [
   },
 ];
 
-for (const c of dupCases) {
-  fs.writeFileSync(FILE, build(c), 'utf8');
-  let verdict = 'accept';
-  let msg = '';
-  try {
-    execFileSync('node', [VALIDATOR, FILE], { cwd: REPO, stdio: 'pipe' });
-  } catch (e) {
-    verdict = 'reject';
-    msg = String(e.stderr || '');
-  }
-  const hit = /share the same feedback/i.test(msg);
-  const ok = verdict === c.expect && (c.expect === 'accept' || hit);
-  console.log(`${ok ? 'PASS' : 'FAIL'}  ${c.name.padEnd(52)} validator=${verdict} (want ${c.expect})`);
-  if (ok) pass += 1;
-  else {
-    fail += 1;
-    console.log(`      duplicate-feedback error: ${hit}`);
-    console.log(`      msg: ${msg.slice(0, 400).replace(/\n/g, ' | ')}`);
-  }
-}
+for (const c of dupCases) grade(c, /share the same feedback/i);
 console.log(`\n${pass} passed, ${fail} failed`);
 process.exit(fail ? 1 : 0);
