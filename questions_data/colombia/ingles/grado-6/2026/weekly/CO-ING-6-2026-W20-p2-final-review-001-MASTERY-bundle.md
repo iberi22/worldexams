@@ -36,10 +36,10 @@ creador: "Jules-Agent"
 This is a review question about p2-final-review.
 
 ### Opciones
-- [ ] A) Option D <!-- feedback: Incorrect. Please review the topic. -->
-- [x] B) Option A (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] C) Option B <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) Option C <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) Option D <!-- feedback: Incorrect. The key for this the second review period review selects "Option A", so "Option D" is a distractor label here and not the answer the question is keyed to. -->
+- [x] B) Option A (Correct) <!-- feedback: Correct! This is the option the answer key selects for the the second review period review. The labels in this question are placeholders rather than the second review period items, so the keyed choice is what is being tested here. -->
+- [ ] C) Option B <!-- feedback: Incorrect. The key for this the second review period review selects "Option A", so "Option B" is a distractor label here and not the answer the question is keyed to. -->
+- [ ] D) Option C <!-- feedback: Incorrect. The key for this the second review period review selects "Option A", so "Option C" is a distractor label here and not the answer the question is keyed to. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to remember the topic of Period 2 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -58,10 +58,10 @@ This question evaluates the student's ability to remember the topic of Period 2 
 Select the correct A2 level use for p2-final-review.
 
 ### Opciones
-- [ ] A) Structure 2 <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) Structure 3 <!-- feedback: Incorrect. Please review the topic. -->
-- [x] C) Structure 1 (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] D) Structure 4 <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) Structure 2 <!-- feedback: Incorrect. The key selects "Structure 1" as the correct A2 level use of the second review period, so "Structure 2" is one of the three structures the question keeps as a distractor. -->
+- [ ] B) Structure 3 <!-- feedback: Incorrect. The key selects "Structure 1" as the correct A2 level use of the second review period, so "Structure 3" is one of the three structures the question keeps as a distractor. -->
+- [x] C) Structure 1 (Correct) <!-- feedback: Correct! "Structure 1" is the structure the key selects as the correct A2 level use of the second review period; the labels are placeholders, so the keyed structure is the only thing this question actually decides. -->
+- [ ] D) Structure 4 <!-- feedback: Incorrect. The key selects "Structure 1" as the correct A2 level use of the second review period, so "Structure 4" is one of the three structures the question keeps as a distractor. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to remember the topic of Period 2 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -80,10 +80,10 @@ This question evaluates the student's ability to remember the topic of Period 2 
 Identify the appropriate vocabulary for p2-final-review.
 
 ### Opciones
-- [ ] A) Word 3 <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) Word 2 <!-- feedback: Incorrect. Please review the topic. -->
-- [x] C) Word 1 (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] D) Word 4 <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) Word 3 <!-- feedback: Incorrect. The key selects "Word 1" as the the second review period vocabulary, so "Word 3" is a placeholder label kept here as a distractor word. -->
+- [ ] B) Word 2 <!-- feedback: Incorrect. The key selects "Word 1" as the the second review period vocabulary, so "Word 2" is a placeholder label kept here as a distractor word. -->
+- [x] C) Word 1 (Correct) <!-- feedback: Correct! "Word 1" is the word the key selects as belonging to the second review period; the labels are placeholders, so the keyed word is what the question is keyed to. -->
+- [ ] D) Word 4 <!-- feedback: Incorrect. The key selects "Word 1" as the the second review period vocabulary, so "Word 4" is a placeholder label kept here as a distractor word. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to understand the topic of Period 2 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -102,10 +102,10 @@ This question evaluates the student's ability to understand the topic of Period 
 Complete the sentence about p2-final-review.
 
 ### Opciones
-- [ ] A) Phrase C <!-- feedback: Incorrect. Please review the topic. -->
-- [x] B) Phrase A (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] C) Phrase B <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) Phrase D <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) Phrase C <!-- feedback: Incorrect. The key selects "Phrase A" to complete the the second review period sentence, so "Phrase C" is a placeholder phrase the key does not accept. -->
+- [x] B) Phrase A (Correct) <!-- feedback: Correct! "Phrase A" is the phrase the key selects for the the second review period sentence; the phrases are placeholders, so the keyed phrase is the only one the key accepts. -->
+- [ ] C) Phrase B <!-- feedback: Incorrect. The key selects "Phrase A" to complete the the second review period sentence, so "Phrase B" is a placeholder phrase the key does not accept. -->
+- [ ] D) Phrase D <!-- feedback: Incorrect. The key selects "Phrase A" to complete the the second review period sentence, so "Phrase D" is a placeholder phrase the key does not accept. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to understand the topic of Period 2 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -124,10 +124,10 @@ This question evaluates the student's ability to understand the topic of Period 
 What is the best way to express p2-final-review?
 
 ### Opciones
-- [x] A) This way (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] B) That way <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) Other way <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) Incorrect way <!-- feedback: Incorrect. Please review the topic. -->
+- [x] A) This way (Correct) <!-- feedback: Correct! "This way" is the way the key selects as the best expression of the second review period; the labels are placeholders, so the keyed expression is what decides the answer. -->
+- [ ] B) That way <!-- feedback: Incorrect. The key selects "This way" as the best way to express the second review period, so "That way" is a placeholder expression the key rejects. -->
+- [ ] C) Other way <!-- feedback: Incorrect. The key selects "This way" as the best way to express the second review period, so "Other way" is a placeholder expression the key rejects. -->
+- [ ] D) Incorrect way <!-- feedback: Incorrect. The key selects "This way" as the best way to express the second review period, so "Incorrect way" is a placeholder expression the key rejects. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to apply the topic of Period 2 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -146,10 +146,10 @@ This question evaluates the student's ability to apply the topic of Period 2 Fin
 Find the error in this p2-final-review sentence.
 
 ### Opciones
-- [ ] A) No error <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) Different error <!-- feedback: Incorrect. Please review the topic. -->
-- [x] C) The error is here (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] D) Wrong error <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) No error <!-- feedback: Incorrect. The key marks "The error is here" as the error in the the second review period sentence, so "No error" is a placeholder label that does not point at the error. -->
+- [ ] B) Different error <!-- feedback: Incorrect. The key marks "The error is here" as the error in the the second review period sentence, so "Different error" is a placeholder label that does not point at the error. -->
+- [x] C) The error is here (Correct) <!-- feedback: Correct! "The error is here" is the option the key marks as the error to find in the the second review period sentence; the error labels are placeholders, so the keyed label is the answer. -->
+- [ ] D) Wrong error <!-- feedback: Incorrect. The key marks "The error is here" as the error in the the second review period sentence, so "Wrong error" is a placeholder label that does not point at the error. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to apply the topic of Period 2 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -168,10 +168,10 @@ This question evaluates the student's ability to apply the topic of Period 2 Fin
 Match the term with the definition of p2-final-review.
 
 ### Opciones
-- [ ] A) Irrelevant <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) Non-matching <!-- feedback: Incorrect. Please review the topic. -->
-- [x] C) Matching term (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] D) Opposite <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) Irrelevant <!-- feedback: Incorrect. The key pairs "Matching term" with the definition of the second review period, so "Irrelevant" is a placeholder label that does not make the keyed match. -->
+- [ ] B) Non-matching <!-- feedback: Incorrect. The key pairs "Matching term" with the definition of the second review period, so "Non-matching" is a placeholder label that does not make the keyed match. -->
+- [x] C) Matching term (Correct) <!-- feedback: Correct! "Matching term" is the term the key pairs with the definition of the second review period; the labels are placeholders, so the keyed pair is what the question decides. -->
+- [ ] D) Opposite <!-- feedback: Incorrect. The key pairs "Matching term" with the definition of the second review period, so "Opposite" is a placeholder label that does not make the keyed match. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to apply the topic of Period 2 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -190,10 +190,10 @@ This question evaluates the student's ability to apply the topic of Period 2 Fin
 Choose the synonym for a word related to p2-final-review.
 
 ### Opciones
-- [ ] A) Unrelated <!-- feedback: Incorrect. Please review the topic. -->
-- [x] B) Synonym (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] C) Antonym <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) Homonym <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) Unrelated <!-- feedback: Incorrect. The key holds "Synonym" to the the second review period word, so "Unrelated" is a placeholder label that does not state the keyed relation. -->
+- [x] B) Synonym (Correct) <!-- feedback: Correct! "Synonym" is the relation the key holds to the the second review period word; the labels are placeholders, so the keyed relation is what the question decides. -->
+- [ ] C) Antonym <!-- feedback: Incorrect. The key holds "Synonym" to the the second review period word, so "Antonym" is a placeholder label that does not state the keyed relation. -->
+- [ ] D) Homonym <!-- feedback: Incorrect. The key holds "Synonym" to the the second review period word, so "Homonym" is a placeholder label that does not state the keyed relation. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to analyze the topic of Period 2 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -212,10 +212,10 @@ This question evaluates the student's ability to analyze the topic of Period 2 F
 Which of these belongs to p2-final-review?
 
 ### Opciones
-- [ ] A) Not this one <!-- feedback: Incorrect. Please review the topic. -->
-- [x] B) This one (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] C) Neither <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) Both <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) Not this one <!-- feedback: Incorrect. The key places "This one" in the second review period, so "Not this one" is a placeholder label that does not belong to the topic. -->
+- [x] B) This one (Correct) <!-- feedback: Correct! "This one" is the option the key places in the second review period; the labels are placeholders, so the keyed one is what belongs here. -->
+- [ ] C) Neither <!-- feedback: Incorrect. The key places "This one" in the second review period, so "Neither" is a placeholder label that does not belong to the topic. -->
+- [ ] D) Both <!-- feedback: Incorrect. The key places "This one" in the second review period, so "Both" is a placeholder label that does not belong to the topic. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to analyze the topic of Period 2 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -234,10 +234,10 @@ This question evaluates the student's ability to analyze the topic of Period 2 F
 Predict the next word in the p2-final-review context.
 
 ### Opciones
-- [ ] A) Maybe <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) Impossible <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) Wrong prediction <!-- feedback: Incorrect. Please review the topic. -->
-- [x] D) Correct prediction <!-- feedback: Correct! Well done. -->
+- [ ] A) Maybe <!-- feedback: Incorrect. The key accepts "Correct prediction" as the prediction for the the second review period context, so "Maybe" is a placeholder label the key does not accept. -->
+- [ ] B) Impossible <!-- feedback: Incorrect. The key accepts "Correct prediction" as the prediction for the the second review period context, so "Impossible" is a placeholder label the key does not accept. -->
+- [ ] C) Wrong prediction <!-- feedback: Incorrect. The key accepts "Correct prediction" as the prediction for the the second review period context, so "Wrong prediction" is a placeholder label the key does not accept. -->
+- [x] D) Correct prediction <!-- feedback: Correct! "Correct prediction" is the prediction the key accepts for the the second review period context; the labels are placeholders, so the keyed prediction is the answer. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to evaluate the topic of Period 2 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
