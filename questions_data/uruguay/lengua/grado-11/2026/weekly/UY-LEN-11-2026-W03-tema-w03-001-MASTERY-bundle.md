@@ -250,7 +250,7 @@ En la literatura uruguaya contemporánea conviven de forma creativa y estética 
 **Contexto:** Un grupo de estudiantes de Maldonado realiza una encuesta en su barrio sobre el uso de la palabra 'bo' o 'vo'. Algunos vecinos opinan que 'está mal dicho' y otros afirman que 'es nuestra marca de identidad uruguaya'.
 
 ### Enunciado
-Desde el punto de vista sociolINGÜÍSTICO descriptivo, ¿cómo debe analizarse la expresión 'bo' o 'vo' en la comunidad de habla uruguaya?
+Desde el punto de vista sociolingüístico descriptivo, ¿cómo debe analizarse la expresión 'bo' o 'vo' en la comunidad de habla uruguaya?
 
 ### Opciones
 - [ ] A) Como una deformación analfabeta que debe sancionarse y extirparse del habla por violar las leyes de la lógica biológica del lenguaje.
