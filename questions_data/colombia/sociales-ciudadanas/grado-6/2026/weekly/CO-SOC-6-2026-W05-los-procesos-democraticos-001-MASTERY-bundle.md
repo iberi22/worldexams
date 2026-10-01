@@ -54,9 +54,9 @@ Si ellos acuerdan juntos el nuevo salario y lo dejan por escrito, ¿qué proceso
 
 ### Opciones
 - [x] A) La negociación colectiva.
-  <!-- feedback: Correcto. Negociar es acordar entre las partes: los trabajadores y el empleador llegaron a un salario nuevo y lo frontière por escrito, que es la esencia de una negociación colectiva. -->
+  <!-- feedback: Correcto. Negociar es acordar entre las partes: los trabajadores y el empleador llegaron a un salario nuevo y lo dejaron por escrito, que es la esencia de una negociación colectiva. -->
 - [ ] B) La competencia entre empresas.
-  <!-- feedback: Incorrecto. La competencia ocurre entre empresas rivales por.attractar clientes; en este caso los dos son las mismas partes y acuerdan, no compiten. -->
+  <!-- feedback: Incorrecto. La competencia ocurre entre empresas rivales por atraer clientes; en este caso los dos son las mismas partes y acuerdan, no compiten. -->
 - [ ] C) El ahorro interno de la empresa.
   <!-- feedback: Incorrecto. Ahorrar es guardar una parte del dinero en la empresa para futuro; en el enunciado no hay depósito ni reserva de capital, solo una conversación salarial. -->
 - [ ] D) La inversión extranjera.
@@ -155,7 +155,7 @@ Si Chile sube el impuesto de entrada a la ropa importada y la fábrica de Medell
   <!-- feedback: Incorrecto. Un arancel es un impuesto, no una prohibición: la mercancía puede seguir entrando a Chile pagando un precio mayor en la aduana. -->
 
 ### Explicacion Pedagogica
-Cuando un país vende productos a otro, el gobierno del país importante puede poner un arancel, es decir, un impuesto a la entrada de la mercancía. Ese sobrecosto lo paga quien importa y normalmente se traslada al precio final, encareciendo el producto para los consumidores del país importador. Esta es una de las formas en que los Estados regulan el comercio exterior, junto con las cuotas y los acuerdos comerciales. Entender los aranceles ayuda a comprender por qué un producto colombiano puede losing precio en otro mercado aunque en Colombia no haya cambiado nada.
+Cuando un país vende productos a otro, el gobierno del país importador puede poner un arancel, es decir, un impuesto a la entrada de la mercancía. Ese sobrecosto lo paga quien importa y normalmente se traslada al precio final, encareciendo el producto para los consumidores del país importador. Esta es una de las formas en que los Estados regulan el comercio exterior, junto con las cuotas y los acuerdos comerciales. Entender los aranceles ayuda a comprender por qué un producto colombiano puede perder precio en otro mercado aunque en Colombia no haya cambiado nada.
 
 ## Question 7 [D9-D10]
 **ID:** CO-SOC-6-2026-W05-los-procesos-democraticos-001-MASTERY-bundle-v7
@@ -178,7 +178,7 @@ Un estudiante afirma: "Con el aumento del salario mínimo, la desigualdad econó
   <!-- feedback: Incorrecto. Esa afirmación es falsa: el salario mínimo está definido por la ley en Colombia, por eso el error del estudiante está en creer que con él solo se borra la desigualdad. -->
 
 ### Explicacion Pedagogica
-Evaluar una afirmación es pesarla con argumentos, no repetirla ni negarla por costumbre. El salario mínimo es un avance importante porque pone un piso: ningún trabajador con contrato formal debería ganar menos que ese valor. Sin embargo, no alcanza por sí solo para eliminar la desigualdad, porque gran parte del empleo en Colombia es informal, y esa población no está cubierta por la norma. La desigualdad se|work alivia con un conjunto de medidas: salario justo, educación pública de calidad, salud, vivienda y oportunidades reales en el territorio.
+Evaluar una afirmación es pesarla con argumentos, no repetirla ni negarla por costumbre. El salario mínimo es un avance importante porque pone un piso: ningún trabajador con contrato formal debería ganar menos que ese valor. Sin embargo, no alcanza por sí solo para eliminar la desigualdad, porque gran parte del empleo en Colombia es informal, y esa población no está cubierta por la norma. La desigualdad se alivia con un conjunto de medidas: salario justo, educación pública de calidad, salud, vivienda y oportunidades reales en el territorio.
 
 ## Question 8 [D9-D10]
 **ID:** CO-SOC-6-2026-W05-los-procesos-democraticos-001-MASTERY-bundle-v8
