@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "SV-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v1",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Complete the sentence with the correct particle: 'The community has to cut its water use ______ during the dry months, because the reservoir level keeps falling.'",
+      "context": "English class in Acajutla, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! With the subject 'I', the present continuous is built with 'am' followed by the -ing form."
-        },
-        {
           "letter": "A",
-          "text": "is",
+          "text": "on",
           "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, but the subject here is 'I', which takes 'am'."
+          "feedback": "'Cut on' is not an English expression, so it cannot complete this sentence."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "of",
           "is_correct": false,
-          "feedback": "'are' goes with you, we and they, while 'I' is the first person singular and takes 'am'."
+          "feedback": "'Cut of' is not an English expression, since the verb needs the particle 'off' here."
+        },
+        {
+          "letter": "C",
+          "text": "off",
+          "is_correct": true,
+          "feedback": "'Cut off' means to reduce or stop a supply, which matches the falling reservoir level."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "up",
           "is_correct": false,
-          "feedback": "'be' is the bare infinitive used in the dictionary form; the present continuous needs the auxiliary 'am' before 'reading'."
+          "feedback": "'Cut up' means to divide something into pieces, and it does not describe reducing water use."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "explanation": "'Cut off' means to reduce or stop a supply, and the falling reservoir shows why consumption must be reduced.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -54,36 +54,36 @@
     },
     {
       "id": "SV-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v2",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "A geography text explains the water cycle. What kind of process does the water cycle represent?",
+      "context": "English class in Chalchuapa, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means kind, charitable and willing to give help to others."
+          "letter": "A",
+          "text": "a chemical process",
+          "is_correct": false,
+          "feedback": "The water cycle needs no laboratory or manufactured input, so it is not a chemical process."
         },
         {
-          "letter": "A",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "'Mean and cruel' is the opposite of benevolent, a word built from bene- for well and volens for wishing."
+          "letter": "B",
+          "text": "a natural cycle",
+          "is_correct": true,
+          "feedback": "The water cycle is evaporation, condensation and rain returning water to the sea, which is natural."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "a legal procedure",
           "is_correct": false,
-          "feedback": "'Quick and fast' describes speed, which says nothing about kindness or giving."
+          "feedback": "No law, court or official rule is involved in how water moves between air and land."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "a farming method",
           "is_correct": false,
-          "feedback": "'Slow and lazy' describes someone's effort or pace, not their generosity towards other people."
+          "feedback": "Farming methods are human activities, and the water cycle happens without any human action."
         }
       ],
       "correct_answer": "B",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "explanation": "The water cycle is the natural movement of water between the ocean, the air and the land, so it is a cycle of nature rather than a human process.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -99,36 +99,36 @@
     },
     {
       "id": "SV-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v3",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in San Miguel, SV.",
+      "statement": "A report says: 'Groundwater levels in the dry corridor have fallen sharply, and wells now reach deeper than before.' What does the report mainly signal about water in that region?",
+      "context": "English class in Suchitoto, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text links bees to two jobs, pollinating flowers and producing honey, and that is its central idea."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "The text never claims that bees are dangerous; it focuses on the useful work they do for flowering plants."
+          "text": "a rising need for it",
+          "is_correct": true,
+          "feedback": "Falling levels and deeper wells together signal that demand is outrunning the supply."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "a cheaper alternative to it",
           "is_correct": false,
-          "feedback": "The word 'only' overstates the text, which mentions pollination as well as honey, so bees do more than make honey."
+          "feedback": "The report describes difficulty obtaining water, not a cheaper way of buying it."
         },
         {
           "letter": "C",
-          "text": "Flowers don't need bees",
+          "text": "a new source of it",
           "is_correct": false,
-          "feedback": "The text says that bees pollinate flowers, so it presents flowering plants as depending on them."
+          "feedback": "No new source of water is mentioned anywhere in the report."
+        },
+        {
+          "letter": "D",
+          "text": "a safer way to store it",
+          "is_correct": false,
+          "feedback": "Nothing in the report concerns storage, so safety of storage is not the point."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "correct_answer": "A",
+      "explanation": "Falling groundwater levels and deeper wells mean the same supply is being taken faster than it returns, which signals a growing scarcity.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -144,36 +144,36 @@
     },
     {
       "id": "SV-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v4",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Choose the correct form: 'Plastic bottles ______ in the special bins behind the school, and the material is sold to a local factory.'",
+      "context": "English class in Metapan, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Go' is an irregular verb, so its simple past is 'went' and not 'goed'."
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "recycled",
           "is_correct": false,
-          "feedback": "'goed' only looks like the past of 'go' because of the German spelling; no English verb takes that form."
+          "feedback": "'Recycled' is the past participle and would need an auxiliary such as 'are' before it."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "recycle",
           "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have', as in 'has gone', and not the simple past."
+          "feedback": "'Recycle' is the base form, and the plural subject requires the -s ending."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "recycling",
           "is_correct": false,
-          "feedback": "'going' is the -ing form, which builds the present continuous rather than the simple past."
+          "feedback": "'Recycling' is the -ing form and would need an auxiliary such as 'are' before it."
+        },
+        {
+          "letter": "D",
+          "text": "recycles",
+          "is_correct": true,
+          "feedback": "'Recycles' is the third person singular form that a plural subject takes in the present simple."
         }
       ],
       "correct_answer": "D",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "explanation": "'Recycles' is the third person singular present simple, which matches the subject 'bottles' before the pronoun 'and'.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -189,36 +189,36 @@
     },
     {
       "id": "SV-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v5",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Choose the correct past form: 'The dry scrub near the coast ______ for three days before the fire brigade arrived in Candelaria.'",
+      "context": "English class in La Libertad, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple with 'she' the verb takes the -s ending, so 'goes' is the right form here."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "burns",
           "is_correct": false,
-          "feedback": "With 'she' in the present simple the verb must carry the -s ending, so 'go' is not correct in this sentence."
+          "feedback": "'Burns' is the third person present simple, and the fire is described in the past."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "burnt",
+          "is_correct": true,
+          "feedback": "'Burnt' is the irregular past simple of 'burn' and fits the completed fire."
+        },
+        {
+          "letter": "C",
+          "text": "burning",
           "is_correct": false,
-          "feedback": "This follows the present continuous pattern, which needs 'is' before 'going' rather than the present simple."
+          "feedback": "'Burning' is the -ing form and would need an auxiliary such as 'was' before it."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "burn",
           "is_correct": false,
-          "feedback": "This mixes two forms, because 'gone' is a past participle and does not fit the present simple sentence."
+          "feedback": "'Burn' is the base form, and a base form cannot fill the past slot after the subject."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "correct_answer": "B",
+      "explanation": "'Burnt' is the past simple of 'burn', and it matches the completed three-day fire described in the past.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -234,36 +234,36 @@
     },
     {
       "id": "SV-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v6",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Complete the sentence with the correct particle: 'Before the storm reached the coast, fishermen ______ their engines and sailed back to the harbour.'",
+      "context": "English class in Apaneca, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! With the subject 'I', the present continuous is built with 'am' followed by the -ing form."
+          "letter": "A",
+          "text": "puts off",
+          "is_correct": false,
+          "feedback": "'Put off' means to delay or postpone, and the fishermen stopped at once."
         },
         {
-          "letter": "A",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, but the subject here is 'I', which takes 'am'."
+          "letter": "B",
+          "text": "puts out",
+          "is_correct": true,
+          "feedback": "'Put out' is the standard expression for extinguishing something, including an engine."
         },
         {
           "letter": "C",
-          "text": "are",
+          "text": "puts up",
           "is_correct": false,
-          "feedback": "'are' goes with you, we and they, while 'I' is the first person singular and takes 'am'."
+          "feedback": "'Put up' means to raise or display, and it does not stop a machine."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "puts away",
           "is_correct": false,
-          "feedback": "'be' is the bare infinitive used in the dictionary form; the present continuous needs the auxiliary 'am' before 'reading'."
+          "feedback": "'Put away' means to store something, and the fishermen left rather than storing their engines."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "explanation": "'Put out' means to extinguish a fire, and putting out an engine is the standard way to stop it safely.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -279,36 +279,36 @@
     },
     {
       "id": "SV-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v7",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "A text describes bare slopes where rain once reached a forest canopy, and now the top layers of soil have been carried downhill by runoff. What process does the text describe?",
+      "context": "English class in Conchagua, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Kind and generous",
+          "letter": "A",
+          "text": "a gradual loss of topsoil",
           "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means kind, charitable and willing to give help to others."
+          "feedback": "Topsoil carried downhill by runoff after vegetation loss is the definition of soil erosion."
         },
         {
-          "letter": "A",
-          "text": "Mean and cruel",
+          "letter": "B",
+          "text": "the spread of fire",
           "is_correct": false,
-          "feedback": "'Mean and cruel' is the opposite of benevolent, a word built from bene- for well and volens for wishing."
+          "feedback": "No fire is mentioned anywhere in the description, so the process is not a fire."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "the drying of rivers",
           "is_correct": false,
-          "feedback": "'Quick and fast' describes speed, which says nothing about kindness or giving."
+          "feedback": "The text concerns soil on slopes, and it says nothing about rivers drying up."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "the melting of ice",
           "is_correct": false,
-          "feedback": "'Slow and lazy' describes someone's effort or pace, not their generosity towards other people."
+          "feedback": "No ice or snow appears in the description, so melting is not involved."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "correct_answer": "A",
+      "explanation": "When vegetation is removed, rain runs off bare ground and takes the upper soil with it, which is soil erosion.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -324,36 +324,36 @@
     },
     {
       "id": "SV-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v8",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "A school report states: 'Our recycling group collected ninety kilograms of plastic in one term and helped many families.' What is the main weakness of the report?",
+      "context": "English class in Intipuca, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text links bees to two jobs, pollinating flowers and producing honey, and that is its central idea."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
+          "text": "an unclear measurement",
           "is_correct": false,
-          "feedback": "The text never claims that bees are dangerous; it focuses on the useful work they do for flowering plants."
+          "feedback": "Ninety kilograms is a precise measurement, so the figures are not unclear."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "an obvious mistake",
           "is_correct": false,
-          "feedback": "The word 'only' overstates the text, which mentions pollination as well as honey, so bees do more than make honey."
+          "feedback": "Nothing in the report contradicts itself, so there is no mistake to point out."
         },
         {
           "letter": "C",
-          "text": "Flowers don't need bees",
+          "text": "a missing comparison",
+          "is_correct": true,
+          "feedback": "'Many families' has no number attached, so the second claim cannot be compared with the first."
+        },
+        {
+          "letter": "D",
+          "text": "an irrelevant date",
           "is_correct": false,
-          "feedback": "The text says that bees pollinate flowers, so it presents flowering plants as depending on them."
+          "feedback": "No date is needed to describe one term of work, so the date is not the weakness."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "correct_answer": "C",
+      "explanation": "The weight is a real measurement, but 'many families' has no number, so the reader cannot judge the scale of the second claim.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,36 +369,36 @@
     },
     {
       "id": "SV-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v9",
-      "statement": "Which is the correct past form of 'go'?",
+      "statement": "Which environmental term means the permanent disappearance of a species from Earth?",
       "context": "English class in Santa Ana, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Go' is an irregular verb, so its simple past is 'went' and not 'goed'."
-        },
-        {
           "letter": "A",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "'goed' only looks like the past of 'go' because of the German spelling; no English verb takes that form."
+          "text": "Extinction",
+          "is_correct": true,
+          "feedback": "Extinction means that a species no longer has any living members anywhere on Earth."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "Migration",
           "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have', as in 'has gone', and not the simple past."
+          "feedback": "Migration means movement between locations; the species continues to exist."
+        },
+        {
+          "letter": "C",
+          "text": "Conservation",
+          "is_correct": false,
+          "feedback": "Conservation means protecting species or resources rather than their disappearance."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "Adaptation",
           "is_correct": false,
-          "feedback": "'going' is the -ing form, which builds the present continuous rather than the simple past."
+          "feedback": "Adaptation involves characteristics that help organisms survive, not the disappearance of a species."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "correct_answer": "A",
+      "explanation": "Extinction occurs when the last living member of a species dies. It differs from a species disappearing only from a particular region.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -414,36 +414,36 @@
     },
     {
       "id": "SV-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v10",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Choose the correct past form: 'When the inspectors reached the mine, they found that the waste had already ______ into the river downstream.'",
+      "context": "English class in Cuyululu, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple with 'she' the verb takes the -s ending, so 'goes' is the right form here."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
-          "is_correct": false,
-          "feedback": "With 'she' in the present simple the verb must carry the -s ending, so 'go' is not correct in this sentence."
+          "text": "led",
+          "is_correct": true,
+          "feedback": "'Led' is the irregular past simple of 'lead' and describes waste moving towards the river."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "lay",
           "is_correct": false,
-          "feedback": "This follows the present continuous pattern, which needs 'is' before 'going' rather than the present simple."
+          "feedback": "'Lay' is the past of 'lie', which describes resting in a place rather than moving."
+        },
+        {
+          "letter": "C",
+          "text": "lain",
+          "is_correct": false,
+          "feedback": "'Lain' is not the past of 'lead', and it also describes a resting position."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "lidded",
           "is_correct": false,
-          "feedback": "This mixes two forms, because 'gone' is a past participle and does not fit the present simple sentence."
+          "feedback": "Adding -ed to a base form that already ends in -d does not produce a real past here."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "correct_answer": "A",
+      "explanation": "'Led' is the irregular past of 'lead', and the waste is shown moving towards the river, not resting there.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -459,36 +459,36 @@
     },
     {
       "id": "SV-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v11",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
+      "statement": "A school in Santa Ana installs taps that use less water and repairs leaking pipes. Complete its campaign slogan: 'Help us ______ water by preventing unnecessary use.'",
       "context": "English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! With the subject 'I', the present continuous is built with 'am' followed by the -ing form."
-        },
-        {
           "letter": "A",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, but the subject here is 'I', which takes 'am'."
+          "text": "conserve",
+          "is_correct": true,
+          "feedback": "To conserve water means to use it carefully and avoid wasting it, as efficient taps and repaired pipes do."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "contaminate",
           "is_correct": false,
-          "feedback": "'are' goes with you, we and they, while 'I' is the first person singular and takes 'am'."
+          "feedback": "To contaminate water means to make it impure, which does not describe preventing waste."
         },
         {
           "letter": "C",
-          "text": "be",
+          "text": "discharge",
           "is_correct": false,
-          "feedback": "'be' is the bare infinitive used in the dictionary form; the present continuous needs the auxiliary 'am' before 'reading'."
+          "feedback": "To discharge water means to release it; the campaign focuses on reducing unnecessary use."
+        },
+        {
+          "letter": "D",
+          "text": "evaporate",
+          "is_correct": false,
+          "feedback": "To evaporate water means to turn it into vapor, not to prevent waste through careful use."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "correct_answer": "A",
+      "explanation": "Conserve is the appropriate verb because both measures reduce wasted water. The slogan describes protecting a resource through efficient use.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -504,36 +504,36 @@
     },
     {
       "id": "SV-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v12",
-      "statement": "What does 'benevolent' mean?",
+      "statement": "A label says: 'This packaging is biodegradable under suitable conditions.' What does 'biodegradable' mean?",
       "context": "English class in San Miguel, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "Kind and generous",
+          "text": "It can be broken down by microorganisms.",
           "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means kind, charitable and willing to give help to others."
+          "feedback": "Biodegradable materials can undergo decomposition through the activity of microorganisms under appropriate conditions."
         },
         {
           "letter": "B",
-          "text": "Mean and cruel",
+          "text": "It can be used indefinitely without wearing out.",
           "is_correct": false,
-          "feedback": "'Mean and cruel' is the opposite of benevolent, a word built from bene- for well and volens for wishing."
+          "feedback": "Indefinite reuse concerns durability; biodegradability describes decomposition by living organisms."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "It can be melted and shaped into any new product.",
           "is_correct": false,
-          "feedback": "'Quick and fast' describes speed, which says nothing about kindness or giving."
+          "feedback": "Melting and reshaping concern material processing, not biological decomposition."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "It disappears immediately when exposed to sunlight.",
           "is_correct": false,
-          "feedback": "'Slow and lazy' describes someone's effort or pace, not their generosity towards other people."
+          "feedback": "Biodegradation does not mean immediate disappearance, and sunlight alone does not define the process."
         }
       ],
       "correct_answer": "A",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "explanation": "Biodegradable describes a material that microorganisms can break down. The label's reference to suitable conditions matters because the process depends on the environment.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -549,36 +549,36 @@
     },
     {
       "id": "SV-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v13",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Soyapango, SV.",
+      "statement": "A text argues that planting trees along a riverbank is the best way to stop erosion, but the only figure it gives shows that fewer than twenty seedlings survived. What is the main problem with the argument?",
+      "context": "English class in Jiquilisco, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text links bees to two jobs, pollinating flowers and producing honey, and that is its central idea."
+          "letter": "A",
+          "text": "the writer repeats one idea",
+          "is_correct": false,
+          "feedback": "The paragraph presents one position with a single figure, so nothing is repeated."
         },
         {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "The text never claims that bees are dangerous; it focuses on the useful work they do for flowering plants."
+          "letter": "B",
+          "text": "the evidence contradicts the claim",
+          "is_correct": true,
+          "feedback": "Low survival of the seedlings counts against the claim that this is the best method."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
+          "text": "the conclusion is missing",
           "is_correct": false,
-          "feedback": "The word 'only' overstates the text, which mentions pollination as well as honey, so bees do more than make honey."
+          "feedback": "The paragraph does reach a conclusion, since it names tree planting as the best answer."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "the topic sentence is too long",
           "is_correct": false,
-          "feedback": "The text says that bees pollinate flowers, so it presents flowering plants as depending on them."
+          "feedback": "Topic sentence length is a style matter and not the weakness in the reasoning here."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "explanation": "The argument claims trees are the best solution while its own data shows very low survival, so the evidence works against the conclusion.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -594,36 +594,36 @@
     },
     {
       "id": "SV-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v14",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Choose the correct option: 'The inspectors have ______ yet whether the spill reached the wells, so the village is still waiting for an answer.'",
+      "context": "English class in San Agustin, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Go' is an irregular verb, so its simple past is 'went' and not 'goed'."
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "did not established",
           "is_correct": false,
-          "feedback": "'goed' only looks like the past of 'go' because of the German spelling; no English verb takes that form."
+          "feedback": "The auxiliary 'did' belongs to the past simple, but the sentence uses 'have', so this form is wrong."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "not establishing",
           "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have', as in 'has gone', and not the simple past."
+          "feedback": "'Not establishing' would need an auxiliary such as 'are', and 'yet' does not fit that structure."
+        },
+        {
+          "letter": "C",
+          "text": "establish",
+          "is_correct": false,
+          "feedback": "'Establish' alone cannot follow 'have', and it carries no idea of an unfinished action."
         },
         {
           "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "'going' is the -ing form, which builds the present continuous rather than the simple past."
+          "text": "not established",
+          "is_correct": true,
+          "feedback": "'Have not established yet' is the correct present perfect with not, and it explains the waiting."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "correct_answer": "D",
+      "explanation": "'Have not established' is the present perfect with not, and 'yet' in that construction is what makes the sentence mean the answer is still pending.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -639,36 +639,36 @@
     },
     {
       "id": "SV-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v15",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Choose the correct form: 'That factory ______ almost half the energy it buys, because the old boilers lose so much heat.'",
+      "context": "English class in Sesori, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple with 'she' the verb takes the -s ending, so 'goes' is the right form here."
+          "text": "wasted",
+          "is_correct": false,
+          "feedback": "'Wasted' is the past simple, and the sentence describes a fact that is still true."
         },
         {
           "letter": "B",
-          "text": "She go to school every day.",
+          "text": "waste",
           "is_correct": false,
-          "feedback": "With 'she' in the present simple the verb must carry the -s ending, so 'go' is not correct in this sentence."
+          "feedback": "'Waste' is the base form, and a base form cannot follow the subject here."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
-          "is_correct": false,
-          "feedback": "This follows the present continuous pattern, which needs 'is' before 'going' rather than the present simple."
+          "text": "wastes",
+          "is_correct": true,
+          "feedback": "'Wastes' is the third person singular form that a singular subject takes."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "wasting",
           "is_correct": false,
-          "feedback": "This mixes two forms, because 'gone' is a past participle and does not fit the present simple sentence."
+          "feedback": "'Wasting' is the -ing form and would need an auxiliary such as 'is' before it."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "correct_answer": "C",
+      "explanation": "'Wastes' is the third person singular present simple, which matches the subject 'that factory' before the pronoun 'it'.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -684,36 +684,36 @@
     },
     {
       "id": "SV-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v16",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Complete the sentence with the correct particle: 'Turn the heating ______ at night, or the plants near the window will be damaged by the cold.'",
+      "context": "English class in Armenia, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! With the subject 'I', the present continuous is built with 'am' followed by the -ing form."
+          "letter": "A",
+          "text": "up",
+          "is_correct": false,
+          "feedback": "'Turn up' means to increase the level, and the plants would be exposed to more heat."
         },
         {
-          "letter": "A",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, but the subject here is 'I', which takes 'am'."
+          "letter": "B",
+          "text": "down",
+          "is_correct": true,
+          "feedback": "'Turn down' means to reduce a level, which is how the heating is lowered at night."
         },
         {
           "letter": "C",
-          "text": "are",
+          "text": "on",
           "is_correct": false,
-          "feedback": "'are' goes with you, we and they, while 'I' is the first person singular and takes 'am'."
+          "feedback": "'Turn on' means to activate a device, and that would start the heating rather than reduce it."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "off",
           "is_correct": false,
-          "feedback": "'be' is the bare infinitive used in the dictionary form; the present continuous needs the auxiliary 'am' before 'reading'."
+          "feedback": "'Turn off' means to stop a device completely, and the sentence asks for a reduction rather than a shutdown."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "explanation": "'Turn down' means to reduce the level of a device, and lowering the heat protects the plants near the window.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -729,36 +729,36 @@
     },
     {
       "id": "SV-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v17",
-      "statement": "What does 'benevolent' mean?",
+      "statement": "A company describes a fuel as 'renewable' because its source can be replenished. Which interpretation avoids adding a claim that the word does not support?",
       "context": "English class in San Miguel, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means kind, charitable and willing to give help to others."
+          "letter": "A",
+          "text": "The fuel releases no pollutants when used.",
+          "is_correct": false,
+          "feedback": "Renewable describes replenishment of the source; it does not guarantee pollution-free use."
         },
         {
-          "letter": "A",
-          "text": "Mean and cruel",
+          "letter": "B",
+          "text": "The fuel is available in unlimited quantities at every moment.",
           "is_correct": false,
-          "feedback": "'Mean and cruel' is the opposite of benevolent, a word built from bene- for well and volens for wishing."
+          "feedback": "A renewable resource can still have limits on how much is available and how quickly it is replenished."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "The fuel causes no environmental damage during production.",
           "is_correct": false,
-          "feedback": "'Quick and fast' describes speed, which says nothing about kindness or giving."
+          "feedback": "Renewability does not establish that production has no environmental effects."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
-          "is_correct": false,
-          "feedback": "'Slow and lazy' describes someone's effort or pace, not their generosity towards other people."
+          "text": "The fuel comes from a source that can be replenished, but its environmental impacts require separate assessment.",
+          "is_correct": true,
+          "feedback": "This interpretation preserves the meaning of renewable without assuming that replenishment eliminates all environmental impacts."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "correct_answer": "D",
+      "explanation": "Renewable refers to the replenishment of a resource. Claims about emissions or production impacts need additional evidence.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -774,36 +774,36 @@
     },
     {
       "id": "SV-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v18",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
+      "statement": "Read the notice: 'Residents may place clean paper and metal cans in the recycling bin. Food scraps belong in the compost container. Batteries must be taken to a special collection point.' Which distinction organizes these instructions?",
       "context": "English class in Mejicanos, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text links bees to two jobs, pollinating flowers and producing honey, and that is its central idea."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "The text never claims that bees are dangerous; it focuses on the useful work they do for flowering plants."
+          "text": "Waste is separated according to the treatment it requires.",
+          "is_correct": true,
+          "feedback": "The notice assigns recyclable materials, compostable scraps, and batteries to different collection routes based on their treatment needs."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "All household waste can be processed in the recycling bin.",
           "is_correct": false,
-          "feedback": "The word 'only' overstates the text, which mentions pollination as well as honey, so bees do more than make honey."
+          "feedback": "The notice explicitly sends food scraps and batteries to containers or collection points other than the recycling bin."
+        },
+        {
+          "letter": "C",
+          "text": "Waste is separated according to its purchase price.",
+          "is_correct": false,
+          "feedback": "The instructions mention material types and disposal routes, but provide no information about prices."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "Only materials made from plants need separate collection.",
           "is_correct": false,
-          "feedback": "The text says that bees pollinate flowers, so it presents flowering plants as depending on them."
+          "feedback": "Metal cans and batteries also receive specific collection instructions, so separation is not limited to plant-based materials."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "correct_answer": "A",
+      "explanation": "The notice classifies waste by its appropriate processing route. Recycling, composting, and special collection serve different material types.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -819,36 +819,36 @@
     },
     {
       "id": "SV-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v19",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Choose the correct form: 'Under the new rule, batteries cannot be ______ into the household waste, and shops must take them back instead.'",
+      "context": "English class in San Fernando, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Go' is an irregular verb, so its simple past is 'went' and not 'goed'."
+          "letter": "A",
+          "text": "throwed",
+          "is_correct": false,
+          "feedback": "Adding -ed to 'throw' does not give its past participle, because this verb is irregular."
         },
         {
-          "letter": "A",
-          "text": "goed",
+          "letter": "B",
+          "text": "throw",
           "is_correct": false,
-          "feedback": "'goed' only looks like the past of 'go' because of the German spelling; no English verb takes that form."
+          "feedback": "'Throw' is the base form, and a passive sentence needs the participle after 'be'."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "throwing",
           "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have', as in 'has gone', and not the simple past."
+          "feedback": "'Throwing' is the -ing form, and the sentence uses the modal 'can' with a passive."
         },
         {
           "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "'going' is the -ing form, which builds the present continuous rather than the simple past."
+          "text": "thrown",
+          "is_correct": true,
+          "feedback": "'Thrown' is the irregular past participle of 'throw' and fits after 'be'."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "correct_answer": "D",
+      "explanation": "'Thrown' is the past participle of 'throw', and 'cannot be thrown' is the passive form the rule requires.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "SV-ING-11-2026-W26-vocabulary-environment-001-MASTERY-bundle-v20",
-      "statement": "Which sentence uses the present simple correctly?",
+      "statement": "Which term specifically names harmful substances introduced into the air?",
       "context": "English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple with 'she' the verb takes the -s ending, so 'goes' is the right form here."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "Soil erosion",
           "is_correct": false,
-          "feedback": "With 'she' in the present simple the verb must carry the -s ending, so 'go' is not correct in this sentence."
+          "feedback": "Soil erosion is the removal of soil by processes such as wind or flowing water, not the introduction of harmful substances into the air."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "Habitat restoration",
           "is_correct": false,
-          "feedback": "This follows the present continuous pattern, which needs 'is' before 'going' rather than the present simple."
+          "feedback": "Habitat restoration means helping a damaged habitat recover, not contaminating the atmosphere."
+        },
+        {
+          "letter": "C",
+          "text": "Air pollution",
+          "is_correct": true,
+          "feedback": "Air pollution refers to harmful substances present in the atmosphere."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "Water conservation",
           "is_correct": false,
-          "feedback": "This mixes two forms, because 'gone' is a past participle and does not fit the present simple sentence."
+          "feedback": "Water conservation means preventing unnecessary water use; it does not name atmospheric contamination."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "explanation": "Air pollution names contamination of the atmosphere by harmful substances. The other terms describe soil loss or actions to protect resources.",
       "difficulty": "10",
       "images": [],
       "tags": [],

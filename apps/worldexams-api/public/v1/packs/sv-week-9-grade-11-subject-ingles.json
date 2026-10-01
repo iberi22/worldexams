@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "SV-ING-11-2026-W09-modal-verbs-001-MASTERY-bundle-v1",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Choose the correct modal: 'During the test you ___ use your phone. The teacher has posted the rule at the door.'",
+      "context": "English class in Mejicanos, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "am",
+          "text": "mustn't",
           "is_correct": true,
-          "feedback": "Correct! The subject of the sentence is 'I', and in the continuous form 'I' is always followed by 'am'."
+          "feedback": "'Mustn't' is the modal of prohibition in the present, so it states that using the phone is not allowed during the test."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "might not",
           "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, as in 'he is reading', so it does not fit 'I'."
+          "feedback": "'Might not' only suggests a small possibility. The posted rule forbids the action completely, so it needs the strongest modal."
         },
         {
           "letter": "C",
-          "text": "are",
+          "text": "don't have to",
           "is_correct": false,
-          "feedback": "'are' goes with you, we, they and plural nouns, so 'I are reading' is not grammatical."
+          "feedback": "'Don't have to' means an action is not required but still allowed, whereas the teacher's rule removes the permission entirely."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "should not",
           "is_correct": false,
-          "feedback": "'be' is the base form used after modals and in the infinitive; the continuous here needs the finite 'am'."
+          "feedback": "'Should not' advises against the action and leaves the choice to the student, but a posted school rule is a prohibition."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "explanation": "'Mustn't' expresses prohibition in the present. 'Should not' only advises and 'do not have to' merely removes an obligation, so none of them forbids the action as the rule does.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -54,36 +54,36 @@
     },
     {
       "id": "SV-ING-11-2026-W09-modal-verbs-001-MASTERY-bundle-v2",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "In the sentence 'It might rain this afternoon', what does 'might' express?",
+      "context": "English class in Santa Ana, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means well-meaning, kindly and generous towards other people."
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "A certainty about the weather",
           "is_correct": false,
-          "feedback": "that is the exact opposite of benevolent, which is a quality of kindness."
+          "feedback": "A certainty would be expressed with 'must'. 'Might' leaves the outcome open, which is the point of the sentence."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "A possibility that is not certain",
+          "is_correct": true,
+          "feedback": "'Might' presents the rain as possible but not certain, so the speaker avoids committing to a forecast."
+        },
+        {
+          "letter": "C",
+          "text": "A rule that forbids going out",
           "is_correct": false,
-          "feedback": "that describes speed, while 'benevolent' refers to the kind of treatment a person gives to others."
+          "feedback": "Nothing in the sentence forbids anything. A prohibition would need 'mightn't' in a different context."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "A past event that did not happen",
           "is_correct": false,
-          "feedback": "that describes laziness and slowness; 'benevolent' means kindly and generous, not idle."
+          "feedback": "The afternoon is still ahead, so the sentence is about the future. A missed past event needs 'might have'."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "correct_answer": "B",
+      "explanation": "'Might' presents something as possible but not certain. Modals of deduction run from the weakest, such as 'might', to the strongest, such as 'must'.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -99,36 +99,36 @@
     },
     {
       "id": "SV-ING-11-2026-W09-modal-verbs-001-MASTERY-bundle-v3",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Read: 'He has studied in the library since morning, so he must be preparing the presentation.' Why does the writer choose 'must'?",
+      "context": "English class in Santa Ana, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text names the two useful jobs of bees, pollinating flowers and producing honey, so that is its main idea."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
+          "text": "To give the reader an order",
           "is_correct": false,
-          "feedback": "the text never says that bees are dangerous; it describes the useful work they do for flowers."
+          "feedback": "The writer is not instructing the reader to do anything. The word follows a reason, so it reports a conclusion instead."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "To forbid the presentation",
           "is_correct": false,
-          "feedback": "the text also mentions pollination, so honey is not presented as the only product."
+          "feedback": "Nothing is prohibited in this sentence. A prohibition would require the negative form 'must not'."
         },
         {
           "letter": "C",
-          "text": "Flowers don't need bees",
+          "text": "To express a deduction from evidence",
+          "is_correct": true,
+          "feedback": "The hours in the library are the evidence, and 'must' shows how certain the writer is about the conclusion."
+        },
+        {
+          "letter": "D",
+          "text": "To promise a future result",
           "is_correct": false,
-          "feedback": "pollination depends on bees, so the text implies that flowers do need them."
+          "feedback": "There is no promise about what will happen. The sentence reasons backwards from a sign to a probable explanation."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "correct_answer": "C",
+      "explanation": "Here 'must' is not an obligation but a deduction. The time spent in the library is the evidence and 'must' shows how certain the writer is about the conclusion.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -144,36 +144,36 @@
     },
     {
       "id": "SV-ING-11-2026-W09-modal-verbs-001-MASTERY-bundle-v4",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Choose the correct modal: 'My sister ___ swim fifty metres when she was five, but she is afraid of water now.'",
+      "context": "English class in Mejicanos, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Went' is the irregular past simple form of the verb 'go'."
+          "text": "can",
+          "is_correct": false,
+          "feedback": "'Can' describes an ability the person still has, and the sentence says she has lost that ability in the present."
         },
         {
           "letter": "B",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "'goed' is not an English word; a past form is either regular or an irregular form already known."
+          "text": "could",
+          "is_correct": true,
+          "feedback": "'Could' is the past form of 'can', so it describes the ability she had as a child and no longer has."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "must",
           "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have' or 'has', not the past simple form."
+          "feedback": "'Must' expresses obligation or deduction, never an ability that somebody had in the past."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "will",
           "is_correct": false,
-          "feedback": "'going' is the -ing form used in the continuous, not a past form at all."
+          "feedback": "'Will' speaks about the future, so it cannot describe what she was able to do when she was five."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "correct_answer": "B",
+      "explanation": "The past of 'can' is 'could'. When a sentence contrasts an ability in the past with its absence now, the past half takes 'could' and the present half keeps 'can'.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -189,36 +189,36 @@
     },
     {
       "id": "SV-ING-11-2026-W09-modal-verbs-001-MASTERY-bundle-v5",
-      "statement": "Which sentence uses the present simple correctly?",
+      "statement": "Compare 'You should go to the doctor' and 'You must go to the doctor'. Which statement is correct?",
       "context": "English class in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple the third person singular of 'go' takes -es, so 'she goes' is the correct form."
+          "text": "Both sentences express the same obligation",
+          "is_correct": false,
+          "feedback": "The two modals differ in strength: one advises and the other imposes, so they are not equivalent."
         },
         {
           "letter": "B",
-          "text": "She go to school every day.",
+          "text": "'Must' is the weaker of the two modals",
           "is_correct": false,
-          "feedback": "after 'she' the verb needs the -s form, so this sentence is missing that ending."
+          "feedback": "The order is the other way round. 'Must' states an obligation, and 'should' only offers advice."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "'Should' forbids the listener from going",
           "is_correct": false,
-          "feedback": "'going' belongs to the continuous form, but 'every day' requires the simple present."
+          "feedback": "A prohibition would need 'shouldn't'. The positive form 'should' recommends an action without banning it."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "'gone' is a past participle, and the sentence describes a habit, so the simple present is needed."
+          "text": "'Must' is a strong obligation and 'should' is advice",
+          "is_correct": true,
+          "feedback": "'Must' obliges the listener to act, while 'should' recommends an action that the listener may ignore."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "correct_answer": "D",
+      "explanation": "'Must' states a strong obligation that the listener is expected to follow, while 'should' gives advice. A student may ignore advice but not an order.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -234,36 +234,36 @@
     },
     {
       "id": "SV-ING-11-2026-W09-modal-verbs-001-MASTERY-bundle-v6",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
+      "statement": "Choose the correct modal: 'You ___ touch the chemicals without gloves, because they can burn your skin.'",
       "context": "English class in Soyapango, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! The subject of the sentence is 'I', and in the continuous form 'I' is always followed by 'am'."
-        },
-        {
           "letter": "A",
-          "text": "is",
+          "text": "shouldn't",
           "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, as in 'he is reading', so it does not fit 'I'."
+          "feedback": "'Shouldn't' gives advice, so the sentence would read as a recommendation. The context needs a word that forbids the action outright."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "can't",
           "is_correct": false,
-          "feedback": "'are' goes with you, we, they and plural nouns, so 'I are reading' is not grammatical."
+          "feedback": "'Can't' here would describe an ability the person does not have, not a rule that applies to everybody in the laboratory."
+        },
+        {
+          "letter": "C",
+          "text": "mustn't",
+          "is_correct": true,
+          "feedback": "'Mustn't' is the modal of prohibition in the present, so it states that the action is not allowed at all."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "mightn't",
           "is_correct": false,
-          "feedback": "'be' is the base form used after modals and in the infinitive; the continuous here needs the finite 'am'."
+          "feedback": "'Mightn't' expresses a small possibility, which is far too weak for something described as dangerous."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "explanation": "'Mustn't' is the modal of prohibition in the present: it states that an action is forbidden. 'Shouldn't' only advises and 'can't' would describe a lack of ability.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -279,36 +279,36 @@
     },
     {
       "id": "SV-ING-11-2026-W09-modal-verbs-001-MASTERY-bundle-v7",
-      "statement": "What does 'benevolent' mean?",
+      "statement": "In the sentence 'I must finish this report before Friday', what does 'must' express?",
       "context": "English class in Santa Ana, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means well-meaning, kindly and generous towards other people."
+          "letter": "A",
+          "text": "A past action",
+          "is_correct": false,
+          "feedback": "Nothing in the sentence refers to the past. A past obligation would be expressed with 'had to finish'."
         },
         {
-          "letter": "A",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "that is the exact opposite of benevolent, which is a quality of kindness."
+          "letter": "B",
+          "text": "Present obligation",
+          "is_correct": true,
+          "feedback": "'Must' followed by a bare infinitive states an obligation the speaker has now, in the present."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "Past obligation",
           "is_correct": false,
-          "feedback": "that describes speed, while 'benevolent' refers to the kind of treatment a person gives to others."
+          "feedback": "A past obligation uses 'had to', as in 'I had to finish it'. 'Must' in this sentence points to the present."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "A possibility",
           "is_correct": false,
-          "feedback": "that describes laziness and slowness; 'benevolent' means kindly and generous, not idle."
+          "feedback": "'Must' never expresses chance. Possibility is given by 'may', 'might' or 'could'."
         }
       ],
       "correct_answer": "B",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "explanation": "'Must' plus a bare infinitive expresses a strong obligation in the present or the future. A past obligation needs 'had to' and possibility needs 'may' or 'could'.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -324,36 +324,36 @@
     },
     {
       "id": "SV-ING-11-2026-W09-modal-verbs-001-MASTERY-bundle-v8",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
+      "statement": "Read: 'She has worked at the hospital for twelve years, so she must know every machine in it.' Why does the writer choose 'must'?",
       "context": "English class in Santa Ana, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text names the two useful jobs of bees, pollinating flowers and producing honey, so that is its main idea."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
+          "text": "To give an order",
           "is_correct": false,
-          "feedback": "the text never says that bees are dangerous; it describes the useful work they do for flowers."
+          "feedback": "The writer is not ordering the listener to do anything. The word follows a reason, so it reports a conclusion."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "To make a promise",
           "is_correct": false,
-          "feedback": "the text also mentions pollination, so honey is not presented as the only product."
+          "feedback": "There is no promise about a future action. 'Must' here draws a conclusion from the long experience described."
         },
         {
           "letter": "C",
-          "text": "Flowers don't need bees",
+          "text": "To express a deduction from evidence",
+          "is_correct": true,
+          "feedback": "The twelve years of work are the evidence, and 'must' reports the strong conclusion the writer draws from it."
+        },
+        {
+          "letter": "D",
+          "text": "To express a prohibition",
           "is_correct": false,
-          "feedback": "pollination depends on bees, so the text implies that flowers do need them."
+          "feedback": "Nothing is forbidden in this sentence. A prohibition would need 'mustn't', but 'must' is used positively here."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "correct_answer": "C",
+      "explanation": "In this sentence 'must' is not an obligation, it is a deduction. The long experience is the evidence and 'must' shows how certain the writer feels about the conclusion.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,36 +369,36 @@
     },
     {
       "id": "SV-ING-11-2026-W09-modal-verbs-001-MASTERY-bundle-v9",
-      "statement": "Which is the correct past form of 'go'?",
+      "statement": "Which definition best describes 'should' in the sentence 'You should see a doctor if the pain continues'?",
       "context": "English class in Mejicanos, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Went' is the irregular past simple form of the verb 'go'."
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "A rule that is always broken",
           "is_correct": false,
-          "feedback": "'goed' is not an English word; a past form is either regular or an irregular form already known."
+          "feedback": "The word describes advice, not a broken rule. Breaching a rule would require 'mustn't', which forbids rather than advises."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "A past event that did not happen",
           "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have' or 'has', not the past simple form."
+          "feedback": "The sentence gives advice for the present and the future. A missed past action is expressed with 'should have'."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "A fact that everybody agrees on",
           "is_correct": false,
-          "feedback": "'going' is the -ing form used in the continuous, not a past form at all."
+          "feedback": "The speaker is advising the listener, so the statement is a recommendation rather than shared information."
+        },
+        {
+          "letter": "D",
+          "text": "Advice or recommendation",
+          "is_correct": true,
+          "feedback": "'Should' gives advice about what is a good idea to do, which fits a suggestion to see a doctor."
         }
       ],
       "correct_answer": "D",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "explanation": "'Should' expresses advice or a recommendation. It is weaker than 'must' because a person is free to choose not to follow it.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -414,36 +414,36 @@
     },
     {
       "id": "SV-ING-11-2026-W09-modal-verbs-001-MASTERY-bundle-v10",
-      "statement": "Which sentence uses the present simple correctly?",
+      "statement": "Choose the correct modal: 'We ___ open the windows during the chemistry test. The rule is absolute.'",
       "context": "English class in San Miguel, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "She goes to school every day.",
+          "text": "mustn't",
           "is_correct": true,
-          "feedback": "Correct! In the present simple the third person singular of 'go' takes -es, so 'she goes' is the correct form."
+          "feedback": "'Mustn't' is the modal of prohibition, so it states that opening the windows is forbidden during the test."
         },
         {
           "letter": "B",
-          "text": "She go to school every day.",
+          "text": "shouldn't",
           "is_correct": false,
-          "feedback": "after 'she' the verb needs the -s form, so this sentence is missing that ending."
+          "feedback": "'Shouldn't' only advises against the action. The stem says the rule is absolute, which points to a full prohibition."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "mightn't",
           "is_correct": false,
-          "feedback": "'going' belongs to the continuous form, but 'every day' requires the simple present."
+          "feedback": "'Mightn't' suggests a small possibility, so it would be much too weak for a rule described as absolute."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "don't have to",
           "is_correct": false,
-          "feedback": "'gone' is a past participle, and the sentence describes a habit, so the simple present is needed."
+          "feedback": "'Don't have to' means an action is not required, but it still allows the action. That is not the same as forbidding it."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "explanation": "Prohibition in the present is expressed with 'mustn't'. 'Shouldn't' advises and 'don't have to' only removes an obligation without forbidding the action.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -459,36 +459,36 @@
     },
     {
       "id": "SV-ING-11-2026-W09-modal-verbs-001-MASTERY-bundle-v11",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
+      "statement": "A library notice says students may bring their own water bottle but may not bring food. Which sentence reports both rules correctly?",
       "context": "English class in Mejicanos, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! The subject of the sentence is 'I', and in the continuous form 'I' is always followed by 'am'."
-        },
-        {
           "letter": "A",
-          "text": "is",
+          "text": "Students must bring a water bottle and mustn't bring food.",
           "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, as in 'he is reading', so it does not fit 'I'."
+          "feedback": "The notice says the bottle is allowed, not required, so 'must' overstates the first rule and only the second half is right."
         },
         {
           "letter": "B",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "'are' goes with you, we, they and plural nouns, so 'I are reading' is not grammatical."
+          "text": "Students don't have to bring a water bottle and mustn't bring food.",
+          "is_correct": true,
+          "feedback": "'Don't have to' reports that the bottle is optional while 'mustn't' reports that food is forbidden, matching the two rules."
         },
         {
           "letter": "C",
-          "text": "be",
+          "text": "Students mustn't bring a water bottle and mustn't bring food.",
           "is_correct": false,
-          "feedback": "'be' is the base form used after modals and in the infinitive; the continuous here needs the finite 'am'."
+          "feedback": "Both halves here are prohibitions, but the bottle is permitted, so the first rule is reported wrongly."
+        },
+        {
+          "letter": "D",
+          "text": "Students don't have to bring a water bottle and shouldn't bring food.",
+          "is_correct": false,
+          "feedback": "The first half is right, but 'shouldn't' only advises against food when the notice actually forbids it."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "correct_answer": "B",
+      "explanation": "'Don't have to' means an action is not required, while 'mustn't' means an action is forbidden. The two expressions are not interchangeable.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -504,36 +504,36 @@
     },
     {
       "id": "SV-ING-11-2026-W09-modal-verbs-001-MASTERY-bundle-v12",
-      "statement": "What does 'benevolent' mean?",
+      "statement": "Read: 'The road is dry and the tyres are wet, so the car must have been parked outside.' What does 'must have been' express?",
       "context": "English class in Soyapango, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means well-meaning, kindly and generous towards other people."
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "An obligation to park outside",
           "is_correct": false,
-          "feedback": "that is the exact opposite of benevolent, which is a quality of kindness."
+          "feedback": "An obligation to do that earlier would use 'had to park'. Here the speaker is drawing a conclusion from the evidence."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "Permission to park outside",
           "is_correct": false,
-          "feedback": "that describes speed, while 'benevolent' refers to the kind of treatment a person gives to others."
+          "feedback": "Permission would use 'might have' or 'was allowed to'. The sentence reports an inference, not a permission."
         },
         {
           "letter": "C",
-          "text": "Slow and lazy",
+          "text": "A strong deduction about the past",
+          "is_correct": true,
+          "feedback": "'Must have' plus a past participle reports a conclusion the speaker is sure about, based on the dry road and the wet tyres."
+        },
+        {
+          "letter": "D",
+          "text": "Proof that somebody watched the car",
           "is_correct": false,
-          "feedback": "that describes laziness and slowness; 'benevolent' means kindly and generous, not idle."
+          "feedback": "Nobody observed the car. The evidence is indirect, so the sentence shows an inference rather than direct observation."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "correct_answer": "C",
+      "explanation": "'Must have' plus a past participle expresses a strong deduction about a completed past action. It reports the speaker's certainty on the basis of present evidence.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -549,36 +549,36 @@
     },
     {
       "id": "SV-ING-11-2026-W09-modal-verbs-001-MASTERY-bundle-v13",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
+      "statement": "In 'You must be tired: you have been working since six in the morning', which modal carries the strongest certainty?",
       "context": "English class in Soyapango, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text names the two useful jobs of bees, pollinating flowers and producing honey, so that is its main idea."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
+          "text": "Could",
           "is_correct": false,
-          "feedback": "the text never says that bees are dangerous; it describes the useful work they do for flowers."
+          "feedback": "'Could' is one of the weakest modals of deduction, since it keeps the possibility of a different explanation open."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "Might",
           "is_correct": false,
-          "feedback": "the text also mentions pollination, so honey is not presented as the only product."
+          "feedback": "'Might' is weaker than 'must' because it offers the conclusion as a possibility rather than as a certainty."
         },
         {
           "letter": "C",
-          "text": "Flowers don't need bees",
+          "text": "Should",
           "is_correct": false,
-          "feedback": "pollination depends on bees, so the text implies that flowers do need them."
+          "feedback": "'Should' gives advice or an expectation, so it does not claim that the speaker knows the explanation for certain."
+        },
+        {
+          "letter": "D",
+          "text": "Must",
+          "is_correct": true,
+          "feedback": "'Must' is the strongest of the modals of deduction, because the speaker presents the conclusion as almost certain."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "explanation": "For deductions the common modals are 'might', 'could', 'may' and 'must'. 'Must' is the strongest, while 'might' and 'could' leave the conclusion open.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -594,36 +594,36 @@
     },
     {
       "id": "SV-ING-11-2026-W09-modal-verbs-001-MASTERY-bundle-v14",
-      "statement": "Which is the correct past form of 'go'?",
+      "statement": "What does 'should have' express in the sentence 'You should have taken an umbrella'?",
       "context": "English class in Santa Ana, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Went' is the irregular past simple form of the verb 'go'."
+          "letter": "A",
+          "text": "An obligation for the future",
+          "is_correct": false,
+          "feedback": "A future obligation is simply 'should' with a bare infinitive. The sentence looks back at an action that did not happen."
         },
         {
-          "letter": "A",
-          "text": "goed",
+          "letter": "B",
+          "text": "A prohibition in the past",
           "is_correct": false,
-          "feedback": "'goed' is not an English word; a past form is either regular or an irregular form already known."
+          "feedback": "A prohibition would need 'shouldn't have'. Here 'should' is positive, so the focus is a missed action and not a rule."
         },
         {
           "letter": "C",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have' or 'has', not the past simple form."
+          "text": "Regret about a missed action in the past",
+          "is_correct": true,
+          "feedback": "'Should have' plus a past participle points to an action that was advisable in the past but did not occur."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "A doubt about a future plan",
           "is_correct": false,
-          "feedback": "'going' is the -ing form used in the continuous, not a past form at all."
+          "feedback": "The sentence is about an umbrella that was not taken, which is a past situation rather than a future plan."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "correct_answer": "C",
+      "explanation": "'Should have' plus a past participle regrets or criticises an action that was advisable but was not carried out. It never describes the future.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -639,36 +639,36 @@
     },
     {
       "id": "SV-ING-11-2026-W09-modal-verbs-001-MASTERY-bundle-v15",
-      "statement": "Which sentence uses the present simple correctly?",
+      "statement": "What does 'might' express in the sentence 'The meeting might start at nine'?",
       "context": "English class in Mejicanos, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple the third person singular of 'go' takes -es, so 'she goes' is the correct form."
+          "letter": "A",
+          "text": "A rule that forbids the meeting",
+          "is_correct": false,
+          "feedback": "A prohibition would be 'mightn't' or 'mustn't'. The sentence presents the starting time as uncertain, not forbidden."
         },
         {
-          "letter": "A",
-          "text": "She go to school every day.",
-          "is_correct": false,
-          "feedback": "after 'she' the verb needs the -s form, so this sentence is missing that ending."
+          "letter": "B",
+          "text": "A possibility that is not certain",
+          "is_correct": true,
+          "feedback": "'Might' presents something as possible but not certain, which is why the speaker avoids promising nine o'clock."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "An obligation to hold the meeting",
           "is_correct": false,
-          "feedback": "'going' belongs to the continuous form, but 'every day' requires the simple present."
+          "feedback": "An obligation would use 'must'. Here the speaker is uncertain, so the modal expresses possibility instead."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "A past event that did not happen",
           "is_correct": false,
-          "feedback": "'gone' is a past participle, and the sentence describes a habit, so the simple present is needed."
+          "feedback": "The meeting refers to the future. A past unreal situation needs 'might have' plus a past participle."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "explanation": "'Might' expresses a possibility that is not certain. It is weaker than 'must' and it leaves the speaker free to know more later.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -684,36 +684,36 @@
     },
     {
       "id": "SV-ING-11-2026-W09-modal-verbs-001-MASTERY-bundle-v16",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
+      "statement": "A school notice says bringing a calculator is optional, but using a phone during the test is forbidden. Which sentence accurately reports both rules?",
       "context": "English class in Santa Ana, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! The subject of the sentence is 'I', and in the continuous form 'I' is always followed by 'am'."
+          "text": "You mustn't bring a calculator, and you don't have to use a phone during the test.",
+          "is_correct": false,
+          "feedback": "This prohibits the optional calculator and treats the forbidden phone as merely unnecessary, reversing both meanings."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "You must bring a calculator, and you may use a phone during the test.",
           "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, as in 'he is reading', so it does not fit 'I'."
+          "feedback": "'Must' makes the calculator compulsory, and 'may' permits phone use; neither matches the notice."
         },
         {
           "letter": "C",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "'are' goes with you, we, they and plural nouns, so 'I are reading' is not grammatical."
+          "text": "You don't have to bring a calculator, and you mustn't use a phone during the test.",
+          "is_correct": true,
+          "feedback": "'Don't have to' expresses absence of obligation, while 'mustn't' expresses prohibition."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "You may bring a calculator, and you should use a phone during the test.",
           "is_correct": false,
-          "feedback": "'be' is the base form used after modals and in the infinitive; the continuous here needs the finite 'am'."
+          "feedback": "The calculator permission fits, but 'should' recommends phone use even though the notice forbids it."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "correct_answer": "C",
+      "explanation": "'Don't have to' means an action is not required. 'Mustn't' means an action is prohibited, so the two expressions are not interchangeable.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -729,36 +729,36 @@
     },
     {
       "id": "SV-ING-11-2026-W09-modal-verbs-001-MASTERY-bundle-v17",
-      "statement": "What does 'benevolent' mean?",
+      "statement": "Read: 'The classroom door was locked and the lights were off, so the students must have left already.' What does 'must have left' express?",
       "context": "English class in Soyapango, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means well-meaning, kindly and generous towards other people."
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "A past obligation imposed on the students.",
           "is_correct": false,
-          "feedback": "that is the exact opposite of benevolent, which is a quality of kindness."
+          "feedback": "A past obligation would normally use 'had to leave'; here the speaker draws a conclusion from evidence."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "Permission for the students to leave in the future.",
           "is_correct": false,
-          "feedback": "that describes speed, while 'benevolent' refers to the kind of treatment a person gives to others."
+          "feedback": "Permission could use 'may leave', whereas 'must have left' refers to an inferred completed action."
+        },
+        {
+          "letter": "C",
+          "text": "A strong inference about a completed action based on present evidence.",
+          "is_correct": true,
+          "feedback": "'Must have' plus a past participle expresses a strong deduction about the past; the locked door and darkness supply evidence."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "Proof that the speaker personally watched the students leave.",
           "is_correct": false,
-          "feedback": "that describes laziness and slowness; 'benevolent' means kindly and generous, not idle."
+          "feedback": "The sentence describes indirect evidence and a deduction, not direct observation of the departure."
         }
       ],
       "correct_answer": "C",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "explanation": "'Must have' followed by a past participle expresses a strong deduction about a past event. It signals the speaker's inference rather than an obligation or direct observation.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -774,36 +774,36 @@
     },
     {
       "id": "SV-ING-11-2026-W09-modal-verbs-001-MASTERY-bundle-v18",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
+      "statement": "Read: 'The library closes at six, so you may borrow up to three books. However, you must return them on the same day, or you will pay a fine.' What does the text allow and what does it require?",
       "context": "English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text names the two useful jobs of bees, pollinating flowers and producing honey, so that is its main idea."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
+          "text": "Borrowing three books is forbidden",
           "is_correct": false,
-          "feedback": "the text never says that bees are dangerous; it describes the useful work they do for flowers."
+          "feedback": "The text permits up to three books with 'may', so reading the borrowing as forbidden reverses the first rule."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "Borrowing three books is mandatory",
           "is_correct": false,
-          "feedback": "the text also mentions pollination, so honey is not presented as the only product."
+          "feedback": "'May' grants permission, so the borrowing is allowed rather than compulsory. Nothing in the text makes it a duty."
         },
         {
           "letter": "C",
-          "text": "Flowers don't need bees",
+          "text": "Borrowing up to three books is allowed, but returning them is required",
+          "is_correct": true,
+          "feedback": "'May' gives permission for up to three books and 'must' requires the return on the same day."
+        },
+        {
+          "letter": "D",
+          "text": "Borrowing is allowed and returning them is optional",
           "is_correct": false,
-          "feedback": "pollination depends on bees, so the text implies that flowers do need them."
+          "feedback": "The second rule is wrong: 'must' requires the return, so it is not optional as this option claims."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "correct_answer": "C",
+      "explanation": "'May' grants permission and 'must' states an obligation. In this text the first modal allows the borrowing and the second one requires the return.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -819,36 +819,36 @@
     },
     {
       "id": "SV-ING-11-2026-W09-modal-verbs-001-MASTERY-bundle-v19",
-      "statement": "Which is the correct past form of 'go'?",
+      "statement": "Choose the correct modal: 'When she was a teenager, she ___ swim across the river, but she cannot do it now.'",
       "context": "English class in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Went' is the irregular past simple form of the verb 'go'."
+          "text": "can",
+          "is_correct": false,
+          "feedback": "'Can' describes an ability the person still has, and the sentence says she has lost that ability."
         },
         {
           "letter": "B",
-          "text": "goed",
+          "text": "must",
           "is_correct": false,
-          "feedback": "'goed' is not an English word; a past form is either regular or an irregular form already known."
+          "feedback": "'Must' expresses obligation or deduction, never an ability that somebody had in the past."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "will",
           "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have' or 'has', not the past simple form."
+          "feedback": "'Will' speaks about the future, so it cannot describe what she was able to do as a teenager."
         },
         {
           "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "'going' is the -ing form used in the continuous, not a past form at all."
+          "text": "could",
+          "is_correct": true,
+          "feedback": "'Could' is the past form of 'can', so it describes the ability she had then and does not have now."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "correct_answer": "D",
+      "explanation": "The past of 'can' is 'could'. A sentence that contrasts a past ability with its absence needs 'could' for the past and 'can' for the present.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "SV-ING-11-2026-W09-modal-verbs-001-MASTERY-bundle-v20",
-      "statement": "Which sentence uses the present simple correctly?",
+      "statement": "Which sentence uses 'can' to make a polite request rather than to describe an ability?",
       "context": "English class in Soyapango, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple the third person singular of 'go' takes -es, so 'she goes' is the correct form."
+          "letter": "A",
+          "text": "She can swim four hundred metres.",
+          "is_correct": false,
+          "feedback": "This sentence reports an ability she has, and there is no request directed at the listener."
         },
         {
-          "letter": "A",
-          "text": "She go to school every day.",
-          "is_correct": false,
-          "feedback": "after 'she' the verb needs the -s form, so this sentence is missing that ending."
+          "letter": "B",
+          "text": "Can you close the window, please?",
+          "is_correct": true,
+          "feedback": "Correct! 'Can you...' is the polite request form. It does not ask what the listener is able to do; it asks for an action."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "He can play the guitar, but he cannot read music.",
           "is_correct": false,
-          "feedback": "'going' belongs to the continuous form, but 'every day' requires the simple present."
+          "feedback": "Both halves of this sentence describe abilities, so 'can' states what people are able to do."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "The machine can fail when the power goes out.",
           "is_correct": false,
-          "feedback": "'gone' is a past participle, and the sentence describes a habit, so the simple present is needed."
+          "feedback": "Here 'can' describes something that is possible, that is the possibility of a breakdown, and not a request."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "explanation": "'Can' states an ability or a possibility. To make a polite request the verb moves to the front of the question, as in 'Can you close the window?'",
       "difficulty": "10",
       "images": [],
       "tags": [],

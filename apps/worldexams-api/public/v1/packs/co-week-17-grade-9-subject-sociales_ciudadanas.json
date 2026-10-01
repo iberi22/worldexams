@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "sociales_ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-17-grade-9-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-01T22:21:46.603Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-9-2026-W17-las-tic-y-el-trabajo-del-futuro-001-MASTERY-bundle-v1",
+      "statement": "Que significan las siglas TIC?",
+      "context": "En un colegio de Pereira, el profesor de Sociales Ciudadanas escribe en el tablero la sigla TIC antes de iniciar la clase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son los programas de television que permiten organizar citas medicas a distancia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un programa de television es un medio de comunicacion, y no una tecnología que procese y transmita datos de forma interactiva."
+        },
+        {
+          "letter": "B",
+          "text": "Son las tecnologías de la información y la comunicacion, conjunto de herramientas que permiten procesar, transmitir y almacenar datos.",
+          "is_correct": true,
+          "feedback": "Correcto. Las TIC agrupan computador, telefonia, internet y software, y su funcion comun es manipular información."
+        },
+        {
+          "letter": "C",
+          "text": "Son las empresas que producen equipos de computo en la ciudad de Pereira.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las TIC no son un sector economico, sino un conjunto de herramientas y tecnologías."
+        },
+        {
+          "letter": "D",
+          "text": "Son los cursos de capacitacion que el Estado ofrece a los trabajadores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La formacion es una respuesta a la falta de competencias, y no es lo que significa TIC."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las TIC son el conjunto de herramientas que permiten producir, transmitir y almacenar información de manera automatizada. Incluyen el computador, el telefono, internet y el software. Reconocer el concepto permite distinguir el uso cotidiano de la tecnología de su impacto en el trabajo. Es la base para analizar el resto de las preguntas del bundle.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Trabajo y economía",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-9-2026-W17-las-tic-y-el-trabajo-del-futuro-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W17-las-tic-y-el-trabajo-del-futuro-001-MASTERY-bundle-v2",
+      "statement": "Que es la brecha digital?",
+      "context": "Una profesora de Villavicencio muestra dossalon folders: uno con computador y conexion rapida, y otro sin ningun equipo propio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es la diferencia de velocidad entre un celular de gama alta y uno economico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La brecha digital no es una diferencia entre equipos, sino entre personas y sus accesos."
+        },
+        {
+          "letter": "B",
+          "text": "Es la desigualdad en el acceso y en el uso de las tecnologías entre personas, grupos y territorios.",
+          "is_correct": true,
+          "feedback": "Correcto. La brecha digital mide quanto acceso y uso real tienen las personas, y no solo cuanto equipo existe."
+        },
+        {
+          "letter": "C",
+          "text": "Es el número de productos que se venden por internet cada mes en el pais.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El volumen de ventas en linea es un dato comercial, y no mide el acceso desigual a la tecnología."
+        },
+        {
+          "letter": "D",
+          "text": "Es la distancia entre la velocidad de conexion de una ciudad y la de un municipio pequeno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La brecha digital no es solo de velocidad, e incluye también la propiedad de equipos y las habilidades."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Es el concepto clave para evaluar las políticas publicas de inclusion digital y para disenar respuestas que no profundicen la desigualdad entre zonas rurales y urbanas del país.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Trabajo y economía",
+      "expected_success": 0.88,
+      "bundle_id": "CO-SOC-9-2026-W17-las-tic-y-el-trabajo-del-futuro-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W17-las-tic-y-el-trabajo-del-futuro-001-MASTERY-bundle-v3",
+      "statement": "Que efecto inmediato tiene ese cambio en el trabajo del almacen?",
+      "context": "Una almacen de Cali reemplaza el cuaderno de pedidos manuales por un programa que registra las ventas en tiempo real.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elimina la necesidad de personas en la almacen, porque el programa hace todo el trabajo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El programa registra datos, y no reemplaza el criterio ni la atencion que requieren las personas."
+        },
+        {
+          "letter": "B",
+          "text": "Reduce la cantidad de información disponible para el almacen, porque el sistema ordena menos datos que el cuaderno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sistema genera más información y más rapida, y no menos."
+        },
+        {
+          "letter": "C",
+          "text": "Cambia la forma de trabajar: la persona debe registrar, consultar e interpretar datos en lugar de anotar a mano.",
+          "is_correct": true,
+          "feedback": "Correcto. La tecnología desplaza la tarea de transcripcion y concentra el trabajo en el analisis de la información."
+        },
+        {
+          "letter": "D",
+          "text": "Mantiene el trabajo exactamente igual, porque el cuaderno y el sistema producen el mismo resultado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resultado puede ser el mismo pedido, y las tareas que se requieren para llegar a el son distintas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La tecnología no elimina el trabajo: cambia su contenido. Cuando un sistema registra los pedidos, la persona deja de transcribir y pasa a revisar, interpretar y decidir sobre esos datos. Ese desplazamiento exige nuevas competencias, como leer información digital. Comprenderlo ayuda a explicar por que la formacion se vuelve inseparable de la tecnología.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Trabajo y economía",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-9-2026-W17-las-tic-y-el-trabajo-del-futuro-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W17-las-tic-y-el-trabajo-del-futuro-001-MASTERY-bundle-v4",
+      "statement": "Que competencia se esta evaluando en el proceso de selección de ese trabajo?",
+      "context": "Una Adriana de 16 anos de Soacha recibe una oferta para trabajar medio tiempo en una tienda por Internet, y la empresa pide el número de su cuenta bancaria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La capacidad de resolver problemas de matematica sin usar calculadora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las matemáticas pueden ayudar, y la competencia central en un trabajo por Internet es otra."
+        },
+        {
+          "letter": "D",
+          "text": "La capacidad de manejar herramientas digitales con criterio y de comunicar por medios electrónicos.",
+          "is_correct": true,
+          "feedback": "Correcto. Ese tipo de trabajo exige manejar herramientas digitales con criterio y comunicar por medios electronicos."
+        },
+        {
+          "letter": "C",
+          "text": "La capacidad de memorizar el catalogo de la tienda de forma integra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un catalogo se consulta, y memorizarlo no es la competencia que se evalua en ese proceso."
+        },
+        {
+          "letter": "B",
+          "text": "La capacidad de trabajar unicamente de forma presencial, porque el mundo digital no genera empleo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El trabajo por Internet es precisamente una forma de empleo, y si se esta evaluando su competencia digital."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un proceso de selección digital evalua dos competencias: el manejo critico de las herramientas y la comunicacion a distancia. Saber usar un sistema es distinto a entender que sirve y para que. Esa diferencia separa a un usuario corriente de un profesional de la información. Reconocer esas competencias permite entender por que el trabajo exige habilidades nuevas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Trabajo y economía",
+      "expected_success": 0.82,
+      "bundle_id": "CO-SOC-9-2026-W17-las-tic-y-el-trabajo-del-futuro-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W17-las-tic-y-el-trabajo-del-futuro-001-MASTERY-bundle-v5",
+      "statement": "Que debe hacer para proteger su información personal?",
+      "context": "Un estudiante de noveno grado de Florencia recibe un mensaje que dice que debe compartir el codigo de su cuenta bancaria para \"activar\" una beca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compartir el codigo, porque las becas solo se activan con ese dato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna beca legitima pide la clave bancaria, y compartirla da acceso total a los fondos."
+        },
+        {
+          "letter": "B",
+          "text": "Compartir el codigo solo con el remitente, porque la información privada se protege con confianza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La confianza no sustituye la seguridad, y ese pedido es el esquema tipico del fraude."
+        },
+        {
+          "letter": "C",
+          "text": "No compartir el dato, ignorar el mensaje y reportarlo a la plataforma o autoridad competente.",
+          "is_correct": true,
+          "feedback": "Correcto. La clave nunca se pide por mensaje, y reportar el intento es la conducta responsable."
+        },
+        {
+          "letter": "D",
+          "text": "Cambiar de número de celular, porque el problema es que el celular es viejo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema no es el dispositivo, y el atacante no dejaria de intentar con el nuevo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Pedir una clave bancaria por mensaje es un esquema de fraude muy frecuente. La regla basica es simple: ningun banco ni ninguna beca pide la clave por correo, mensaje o llamada. La conducta correcta es no compartir el dato, ignorar el mensaje y reportarlo. Aprender esta regla protege a los jovenes de un riesgo financiero y digital real.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-9-2026-W17-las-tic-y-el-trabajo-del-futuro-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W17-las-tic-y-el-trabajo-del-futuro-001-MASTERY-bundle-v6",
+      "statement": "Por que la automatizacion no produce el mismo efecto en todos los sectores de la economía?",
+      "context": "Un observador laboral de la Universidad de Antioquia compara los efectos de la automatizacion en dos sectores economicos.",
+      "options": [
+        {
+          "letter": "B",
+          "text": "Porque en algunos sectores los trabajadores se niegan a usar maquinas, y ese es el unico factor explicativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las variables relevantes incluyen la naturaleza de la tarea, y no solo la actitud de los trabajadores."
+        },
+        {
+          "letter": "A",
+          "text": "Porque el impacto depende de si las tareas son rutinarias o requieren criterio, juicio y trato humano.",
+          "is_correct": true,
+          "feedback": "Correcto. Las tareas rutinarias se automatizan con facilidad, y las que exigen criterio y relacion resisten la automatizacion."
+        },
+        {
+          "letter": "C",
+          "text": "Porque en todos los sectores la automatizacion produce exactamente la misma cantidad de empleos eliminados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La magnitud del efecto varia por sector, y por eso la afirmacion es incorrecta."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la automatizacion solo se aplica en la industria, y en los otros sectores no existe.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La automatizacion existe en servicios, salud, educación y administracion, y no solo en la industria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La automatizacion tiene efectos distintos según el tipo de tarea que reemplaza. Lo que es repetitivo y definido se automatiza con facilidad; lo que exige juicio, contexto y trato humano resiste. Comprender esa diferencia evita afirmaciones generales sobre el futuro del trabajo. Es lo que permite anticipar que campos de la profesion van a cambiar y como.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Trabajo y economía",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-W17-las-tic-y-el-trabajo-del-futuro-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W17-las-tic-y-el-trabajo-del-futuro-001-MASTERY-bundle-v7",
+      "statement": "Por que la formacion continua se vuelve una necesidad en el trabajo del futuro?",
+      "context": "Una investigadora de la Universidad del Valle revisa casos sobre trabajo digital en un municipio rural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el conocimiento adquirido una vez es suficiente hasta el final de la vida profesional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con la rapididad del cambio tecnologico, lo aprendido se queda obsoleto en poco tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las herramientas y los procesos cambian con rapidez, y trabajar exige actualizar los conocimientos.",
+          "is_correct": true,
+          "feedback": "Correcto. La formacion continua mantiene al trabajador al dia con herramientas, normas y formas de trabajo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la ley obliga a todos los trabajadores a estudiar una carrera universitaria completa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La formacion continua no equivale a una carrera, y la ley no obliga a todos a obtener un titulo."
+        },
+        {
+          "letter": "D",
+          "text": "Que el aprendizaje formal solo tenga sentido antes de conseguir el primer empleo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aprender despues de empezar a trabajar es precisamente lo que significa formacion continua."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La formacion continua es la actualizacion permanente de conocimientos y habilidades a lo largo de la vida laboral. En un contexto donde las herramientas cambian cada pocos anos, no basta con lo aprendido en la escuela o en la universidad. Reconocer esa necesidad es la base para pensar en el propio proyecto profesional. Es una competencia que empieza en la escuela.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Trabajo y economía",
+      "expected_success": 0.72,
+      "bundle_id": "CO-SOC-9-2026-W17-las-tic-y-el-trabajo-del-futuro-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W17-las-tic-y-el-trabajo-del-futuro-001-MASTERY-bundle-v8",
+      "statement": "Que efecto tiene esa concentracion sobre la desigualdad entre territorios?",
+      "context": "Un investigador de Tunja observa que los empleos digitales bien pagados se concentran en las ciudades grandes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguno, porque el trabajo remoto permite que todos trabajen desde cualquier lugar con la misma condicion.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El trabajo remoto exige conexion y equipos, y esa exigencia no se cumple por igual en todos los territorios."
+        },
+        {
+          "letter": "D",
+          "text": "Aumenta la desigualdad, porque quien no tiene buena conexion ni formacion digital queda con menos oportunidades.",
+          "is_correct": true,
+          "feedback": "Correcto. La concentracion de oportunidades digitales agrava la brecha entre territorios conectados y desconectados."
+        },
+        {
+          "letter": "C",
+          "text": "Disminuye la desigualdad, porque se eliminan las diferencias de costo de vida entre ciudades y pueblos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El trabajo remoto no elimina las diferencias de costo, y suele favorecer a los que viven en zonas rurales."
+        },
+        {
+          "letter": "B",
+          "text": "Aumenta la desigualdad, pero solo por decisiones de los empleadores, y no por condiciones de infraestructura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La brecha tiene causas estructurales como la conectividad y la formacion, no solo decisiones individuales."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Es la base para orientar políticas de inclusion digital con alcance regional, y para decidir donde invertir antes de que la brecha se consolide como una diferencia permanente de oportunidades.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-9-2026-W17-las-tic-y-el-trabajo-del-futuro-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W17-las-tic-y-el-trabajo-del-futuro-001-MASTERY-bundle-v9",
+      "statement": "Cual es el limite etico que no debe cruzarse al usar sistemas automaticos en decisiones laborales?",
+      "context": "Un profesor de Cundinamarca pide a sus estudiantes que discutan si la IA puede decidir quien merece un empleo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el sistema use la mayor cantidad posible de datos, porque mas datos siempre significa mejor decision.",
+          "is_correct": false,
+          "feedback": "Incorrecto. más datos no garantiza una mejor decisión, y pueden incluir sesgos y datos personales protegidos."
+        },
+        {
+          "letter": "B",
+          "text": "Que la decision se tome con apoyo tecnologico, porque el algoritmo tiene mas objetividad que la persona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El algoritmo reproduce los sesgos de los datos con los que fue entrenado, y no es neutral."
+        },
+        {
+          "letter": "C",
+          "text": "Que la decision final quede en manos de una persona responsable, que pueda explicar el criterio aplicado.",
+          "is_correct": true,
+          "feedback": "Correcto. Un sistema puede apoyar el analisis, y no puede sustituir la responsabilidad humana frente a una persona."
+        },
+        {
+          "letter": "D",
+          "text": "Que el sistema se use solo en las empresas grandes, y nunca en los negocios pequenos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El limite etico esta en la decisión y en la responsabilidad, y no en el tamano de la empresa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La automatizacion de decisiones laborales plantea un problema etico cuando deja de haber alguien que responda. Si un sistema rechaza a una persona, debe existir una persona responsable que pueda explicar el criterio. Esa exigencia protege la dignidad y hace posible recurrir una decisión injusta. Es el mismo principio que aplica a cualquier decisión administrativa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.68,
+      "bundle_id": "CO-SOC-9-2026-W17-las-tic-y-el-trabajo-del-futuro-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W17-las-tic-y-el-trabajo-del-futuro-001-MASTERY-bundle-v10",
+      "statement": "Esta bien justificada esa medida frente al principio de acceso al empleo?",
+      "context": "Un programa departamental propone que toda oferta de empleo en el sector público se publique unicamente en linea.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Si, porque publicar en linea es la unica via moderna de difundir una oferta y nadie queda por fuera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchas personas no tienen conectividad ni costumbre de buscar ofertas en linea, y quedan excluidas."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque esa medida es adecuada solo si se combina con otros canales y con apoyo para quien no tiene acceso digital.",
+          "is_correct": true,
+          "feedback": "Correcto. La publicacion digital es util, y se vuelve excluyente si es la unica via disponible."
+        },
+        {
+          "letter": "B",
+          "text": "Si, porque el Estado no tiene la obligacion de garantizar el acceso al empleo de forma universal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El acceso al trabajo es un derecho constitucional, y su garantia no puede dejarse a la buena voluntad."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque ninguna medida estatal puede usar Internet, por ser una tecnología de origen privado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Estado puede y debe usar herramientas digitales para garantizar derechos, y su origen privado no lo impide."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar una medida de modernizacion exige preguntar a quien deja fuera. Publicar solo en linea mejora la eficiencia, y puede excluir a quien no tiene conexion, no tiene celular o no sabe usar esas plataformas. Por eso una política responsable combina canales y ofrece apoyo. Ese criterio de inclusion se aplica a cualquier transformacion digital del Estado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-9-2026-W17-las-tic-y-el-trabajo-del-futuro-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W17-las-tic-y-el-trabajo-del-futuro-001-MASTERY-bundle-v11",
+      "statement": "Que valoracion es más adecuada de esa iniciativa?",
+      "context": "Una fundacion de Villavicencio ofrece un taller de alfabetizacion digital para adultos mayores del municipio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es innecesaria, porque la alfabetizacion digital es solo para jovenes que estudian en la universidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La alfabetizacion digital beneficia a cualquier edad, y a los adultos mayores les abre oportunidades concretas."
+        },
+        {
+          "letter": "B",
+          "text": "Es pertinente, porque reduce la brecha digital y permite ejercer derechos como cobrar y acceder a salud en linea.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin manejo de herramientas digitales, una persona queda fuera de servicios basicos del Estado."
+        },
+        {
+          "letter": "C",
+          "text": "Es suficiente, porque el manejo del celular reemplaza cualquier necesidad de formacion laboral.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Saber usar un celular es apenas una base, y no reemplaza la formacion tecnica de un oficio."
+        },
+        {
+          "letter": "D",
+          "text": "Es contraproducente, porque la propagacion de la tecnología acelera la exclusion de los adultos mayores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Formar en tecnología reduce la exclusion, y no la aumenta: es justamente el mecanismo de inclusion."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La alfabetizacion digital es una política de inclusion con efectos directos en los derechos. Permite cobrar, pedir citas, consultar el historial laboral y acceder a la salud sin depender de terceros. Por eso es pertinente en cualquier municipio, independientemente de la edad de sus habitantes. Evaluar una iniciativa así exige mirar a quien habilita, y no solo a quien la realiza.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.62,
+      "bundle_id": "CO-SOC-9-2026-W17-las-tic-y-el-trabajo-del-futuro-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W17-las-tic-y-el-trabajo-del-futuro-001-MASTERY-bundle-v12",
+      "statement": "Que elementos deberia incluir esa estrategia para responder a los cambios del mundo del trabajo?",
+      "context": "Un plan municipal de Armenia propone una estrategia de empleabilidad para los jovenes del municipio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Formacion digital basica, un sector economico definido para aplicar esas habilidades y acompanamiento durante la busqueda de empleo.",
+          "is_correct": true,
+          "feedback": "Correcto. Una estrategia completa combina capacidades digitales, un sector claro y acompanamiento durante la busqueda."
+        },
+        {
+          "letter": "B",
+          "text": "Solo formacion en manejo de computador, porque la competencia digital resuelve por si sola el acceso al empleo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El manejo de computador es una base, y sin un oficio ni un sector definido no alcanza."
+        },
+        {
+          "letter": "C",
+          "text": "Solo certificacion en el sector industrial, porque la industria es el unico sector con futuro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ningun sector tiene el monopolio del futuro, y la estrategia debe considerar la economía local completa."
+        },
+        {
+          "letter": "D",
+          "text": "Un programa para que cada joven tenga un computador propio, porque el equipo es la condicion unica para trabajar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El equipo ayuda, y no es la unica condicion: importan las habilidades, el acceso y la red de contactos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El computador es un medio, no una condicion suficiente: sin habilidades ni oportunidades de aplicar, el equipo no produce empleo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Trabajo y economía",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-9-2026-W17-las-tic-y-el-trabajo-del-futuro-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
