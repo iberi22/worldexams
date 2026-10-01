@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "sofa",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A sofa is the long padded seat where a family sits to watch TV."
         },
         {
           "letter": "B",
           "text": "bed",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A bed is where you sleep, so you lie on it, not sit on it to watch TV."
         },
         {
           "letter": "C",
           "text": "fridge",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A fridge is a kitchen appliance for keeping food cold, not something to sit on."
         },
         {
           "letter": "D",
           "text": "stove",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A stove is used for cooking food; it is not a seat."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "lamp",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A lamp gives light; it is not used for storing clothes."
         },
         {
           "letter": "B",
           "text": "wardrobe",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A wardrobe is a tall cupboard with a door where clothes are hung and kept."
         },
         {
           "letter": "C",
           "text": "sink",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A sink is where you wash your hands; clothes are not kept there."
         },
         {
           "letter": "D",
           "text": "mirror",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A mirror is used to look at yourself; it does not store clothes."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "chair",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A chair is for sitting; you sleep on a bed."
         },
         {
           "letter": "B",
           "text": "desk",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A desk is for writing and doing homework, not for sleeping."
         },
         {
           "letter": "C",
           "text": "bed",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A bed has a mattress and a pillow and that is where we sleep."
         },
         {
           "letter": "D",
           "text": "table",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A table is flat furniture for eating or working; you do not sleep on it."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "oven",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "An oven uses heat to bake food; it does not keep food cold."
         },
         {
           "letter": "B",
           "text": "cupboard",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A cupboard is for storing dry food and dishes, not for keeping it cold."
         },
         {
           "letter": "C",
           "text": "bookshelf",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A bookshelf is where books are kept, not where food is kept cold."
         },
         {
           "letter": "D",
           "text": "refrigerator",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A refrigerator keeps food and drinks cold inside, so \"refrigerator\" completes the sentence."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "desk",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A desk is the table where you sit to write and do homework."
         },
         {
           "letter": "B",
           "text": "toilet",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A toilet is a bathroom fixture; homework is not done there."
         },
         {
           "letter": "C",
           "text": "shower",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A shower is for washing the body, not for studying."
         },
         {
           "letter": "D",
           "text": "bath",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A bath is for washing; it is not a place to do homework."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "poster",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A poster hangs on a wall and shows a picture; it does not show your reflection."
         },
         {
           "letter": "B",
           "text": "mirror",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A mirror is the glass that sends the image back so you can see yourself."
         },
         {
           "letter": "C",
           "text": "curtain",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A curtain hangs over a window to block the light; it does not show your reflection."
         },
         {
           "letter": "D",
           "text": "rug",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A rug is a carpet on the floor that you walk on, not something you look into."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "clock",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A clock tells the time, so it is not used for seeing in a dark room."
         },
         {
           "letter": "B",
           "text": "radio",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A radio plays sound; you would need light, not sound, to see at night."
         },
         {
           "letter": "C",
           "text": "lamp",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A lamp gives light and that is exactly what you need to see at night."
         },
         {
           "letter": "D",
           "text": "telephone",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A telephone is for making calls; it does not light up a room."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "dishwasher",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A dishwasher washes dishes; books are not put inside it."
         },
         {
           "letter": "B",
           "text": "washing machine",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A washing machine washes clothes; books are not kept there."
         },
         {
           "letter": "C",
           "text": "toaster",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A toaster browns bread; it is not furniture for books."
         },
         {
           "letter": "D",
           "text": "bookshelf",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A bookshelf has shelves made for standing books, so that is where we put them."
         }
       ],
       "correct_answer": "D",

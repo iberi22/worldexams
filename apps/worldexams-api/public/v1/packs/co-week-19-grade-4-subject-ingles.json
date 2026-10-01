@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "lion",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "The lion is the king of the jungle: he is a top predator and the symbol of the savannah."
         },
         {
           "letter": "B",
           "text": "monkey",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Monkeys live in trees and are playful; the lion is the one called the king of the jungle."
         },
         {
           "letter": "C",
           "text": "elephant",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Elephants are the largest land animals, but they are not called the king of the jungle."
         },
         {
           "letter": "D",
           "text": "giraffe",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Giraffes eat leaves from tall trees and are known for their long necks."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "snake",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Snakes have no legs and no long neck; that is not their feature."
         },
         {
           "letter": "B",
           "text": "giraffe",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "The giraffe has a very long neck, which lets it reach the leaves high in the trees."
         },
         {
           "letter": "C",
           "text": "tiger",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Tigers have short necks and a striped coat."
         },
         {
           "letter": "D",
           "text": "zebra",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Zebras have short, upright manes, not long necks."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "monkey",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Monkeys are small and they have hands, not a trunk."
         },
         {
           "letter": "B",
           "text": "snake",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Snakes have no limbs at all, so they cannot have a trunk."
         },
         {
           "letter": "C",
           "text": "elephant",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "The elephant is very big and has a trunk, the long nose it uses to breathe and drink."
         },
         {
           "letter": "D",
           "text": "lion",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Lions are big cats with manes, but they have no trunk."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "elephant",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Elephants eat grass and leaves and are too heavy to climb trees."
         },
         {
           "letter": "B",
           "text": "giraffe",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Giraffes browse on leaves; they are not the animal known for climbing and eating bananas."
         },
         {
           "letter": "C",
           "text": "zebra",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Zebras graze grass on the plains; they do not climb trees."
         },
         {
           "letter": "D",
           "text": "monkey",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Monkeys climb trees and eat bananas, as the sentence describes."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "zebra",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A zebra is the animal with black and white stripes."
         },
         {
           "letter": "B",
           "text": "lion",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A lion has a plain tawny coat; the orange colour belongs to the tiger."
         },
         {
           "letter": "C",
           "text": "tiger",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A tiger is orange with black stripes, so 'tiger' is the answer if you mean the orange animal."
         },
         {
           "letter": "D",
           "text": "elephant",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "An elephant is grey and has no stripes."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "giraffe",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A giraffe has a long neck and a spotted coat; it is not a cat."
         },
         {
           "letter": "B",
           "text": "tiger",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A tiger is a big cat with orange fur and black stripes."
         },
         {
           "letter": "C",
           "text": "lion",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A lion is a big cat too, but its coat is plain golden and it has no stripes."
         },
         {
           "letter": "D",
           "text": "monkey",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Monkeys are not cats and have no fur like this."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "elephant",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "An elephant has four thick legs and walks on them."
         },
         {
           "letter": "B",
           "text": "lion",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A lion has four legs and runs on them."
         },
         {
           "letter": "C",
           "text": "snake",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A snake has no legs and moves by slithering along the ground."
         },
         {
           "letter": "D",
           "text": "monkey",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Monkeys have arms and legs and climb with them."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "bird",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A bird has feathers and flies, so it does not live in the forest or like honey."
         },
         {
           "letter": "B",
           "text": "rabbit",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A rabbit is small and shy; it lives in a burrow, not the forest, and it does not seek honey."
         },
         {
           "letter": "C",
           "text": "mouse",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A mouse is a tiny rodent that lives in walls and eats grain."
         },
         {
           "letter": "D",
           "text": "bear",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A bear is big and strong, lives in the forest, and loves honey."
         }
       ],
       "correct_answer": "D",

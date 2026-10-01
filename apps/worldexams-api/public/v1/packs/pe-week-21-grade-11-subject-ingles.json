@@ -8,41 +8,41 @@
   },
   "questions": [
     {
-      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v1",
+      "statement": "What does 'account for' mean in the sentence: 'Rising prices account for most of the complaints'?",
+      "context": "Phrasal verbs avanzados, Lima, grado 11.",
       "options": [
         {
-          "letter": "D",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
+          "text": "To count the number of items",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That would be 'account for' in the sense of counting, but not here."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "To take responsibility formally",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That would be 'take responsibility for'."
         },
         {
           "letter": "C",
-          "text": "currency",
+          "text": "To describe in detail",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That would be 'account for' as in a report describing events."
+        },
+        {
+          "letter": "D",
+          "text": "To explain or constitute the cause",
+          "is_correct": true,
+          "feedback": "'Account for' links a result to its explanation."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "explanation": "'Account for' significa explicar o constituir la causa de un fenomeno. Conviene practicarlo con otros ejemplos antes del examen.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle",
       "periodo": 21,
@@ -53,41 +53,41 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v2",
+      "statement": "Complete the sentence: 'Please ____ the meeting until Friday; several people cannot attend today.'",
+      "context": "Phrasal verb en contexto profesional, Arequipa.",
       "options": [
         {
-          "letter": "B",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "letter": "A",
+          "text": "put up",
+          "is_correct": false,
+          "feedback": "'Put up' means to display something or to tolerate a person."
         },
         {
-          "letter": "A",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "letter": "B",
+          "text": "put off",
+          "is_correct": true,
+          "feedback": "'Put off the meeting' means to postpone it to a later date."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "put out",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Put out' means to extinguish a fire or to publish something."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "put through",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Put through' means to connect a call or to complete a process."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "explanation": "'Put off' significa aplazar; el contexto de ausencias lo confirma. Este matiz se comprueba comparando con el resto de opciones.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle",
       "periodo": 21,
@@ -98,41 +98,41 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v3",
+      "statement": "Which sentence uses 'come across' correctly?",
+      "context": "Phrasal verbs de encuentro, Trujillo.",
       "options": [
         {
-          "letter": "B",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "letter": "A",
+          "text": "I came across the photo for the drawer.",
+          "is_correct": false,
+          "feedback": "'Across' requires a preposition of movement, not this use."
         },
         {
-          "letter": "A",
-          "text": "departure",
+          "letter": "B",
+          "text": "I came across of an old photograph.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No preposition 'of' belongs after 'come across'."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "I came the photograph across of in the drawer.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The word order breaks the phrasal verb structure."
         },
         {
           "letter": "D",
-          "text": "journey",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "I came across an old photograph in the drawer.",
+          "is_correct": true,
+          "feedback": "'Come across' means to find something by chance."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "'Come across' significa encontrar por casualidad o descubrir algo. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle",
       "periodo": 21,
@@ -143,41 +143,221 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v4",
+      "statement": "What does 'get away with' mean?",
+      "context": "Comprension de phrasal verbs, Piura.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
+          "text": "To do something wrong without being punished",
           "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "feedback": "'Get away with it' implies escaping the consequence."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "To escape from a dangerous place",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That would be 'get away' plus a destination or source."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "To leave a party early",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That would be 'leave early' or 'slip out'."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "To be absent from school",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That would be 'be away from'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "explanation": "'Get away with' significa salirse sin castigo por una accion indebida. Conviene practicarlo con otros ejemplos antes del examen.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v5",
+      "statement": "Read the text: 'After the audit, the manager had to account for the missing funds.' What does the phrasal verb mean?",
+      "context": "Analisis en contexto, Cusco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To count the missing money",
+          "is_correct": false,
+          "feedback": "Counting would be possible with the same words but not with this context."
+        },
+        {
+          "letter": "B",
+          "text": "To take the blame for the audit",
+          "is_correct": false,
+          "feedback": "Taking the blame would be 'take responsibility'."
+        },
+        {
+          "letter": "C",
+          "text": "To explain the missing money",
+          "is_correct": true,
+          "feedback": "'Account for' here means to justify or explain the funds."
+        },
+        {
+          "letter": "D",
+          "text": "To escape from the audit",
+          "is_correct": false,
+          "feedback": "Escaping would be 'get away with'."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En este contexto 'account for' significa dar explicaciones sobre el dinero faltante.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v6",
+      "statement": "Choose the sentence that uses 'take on' correctly.",
+      "context": "Phrasal verbs de contratacion, Huaraz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The company will take on the new employees of ten.",
+          "is_correct": false,
+          "feedback": "The word order breaks the phrasal verb structure."
+        },
+        {
+          "letter": "B",
+          "text": "The company will take the new employees on of ten.",
+          "is_correct": false,
+          "feedback": "'Of' does not belong after 'take on' in this sense."
+        },
+        {
+          "letter": "C",
+          "text": "The company will take of ten new employees.",
+          "is_correct": false,
+          "feedback": "The preposition placement destroys the phrasal verb."
+        },
+        {
+          "letter": "D",
+          "text": "The company will take on ten new employees.",
+          "is_correct": true,
+          "feedback": "'Take on' means to hire additional staff."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "'Take on' significa contratar a alguien o asumir una responsabilidad nueva. Este matiz se comprueba comparando con el resto de opciones.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v7",
+      "statement": "What does 'rule out' mean?",
+      "context": "Vocabulario de phrasal verbs, Juliaca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To write down a rule",
+          "is_correct": false,
+          "feedback": "That would be 'write down'."
+        },
+        {
+          "letter": "B",
+          "text": "To win a competition",
+          "is_correct": false,
+          "feedback": "That would be 'rule' or 'win'."
+        },
+        {
+          "letter": "C",
+          "text": "To eliminate something as a possibility",
+          "is_correct": true,
+          "feedback": "'Rule out' removes an option from consideration."
+        },
+        {
+          "letter": "D",
+          "text": "To measure according to a standard",
+          "is_correct": false,
+          "feedback": "That would be 'measure against' or 'assess by'."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Rule out' significa descartar una posibilidad, es decir, considerar que no es posible.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v8",
+      "statement": "Complete: 'We need to ____ the meeting because half the team is travelling.'",
+      "context": "Phrasal verb de cancelacion, Lima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "call off",
+          "is_correct": true,
+          "feedback": "'Call off the meeting' means to cancel it."
+        },
+        {
+          "letter": "B",
+          "text": "call on",
+          "is_correct": false,
+          "feedback": "'Call on' means to visit briefly or to appeal to someone."
+        },
+        {
+          "letter": "C",
+          "text": "call back",
+          "is_correct": false,
+          "feedback": "'Call back' means to return a phone call."
+        },
+        {
+          "letter": "D",
+          "text": "call for",
+          "is_correct": false,
+          "feedback": "'Call for' means to demand or to summon."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Call off' significa cancelar, y la razon que da la oracion lo confirma. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle",
       "periodo": 21,
@@ -188,41 +368,41 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v9",
+      "statement": "Which sentence uses 'figure out' correctly?",
+      "context": "Phrasal verb de comprension, Arequipa.",
       "options": [
         {
-          "letter": "B",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "letter": "A",
+          "text": "It took me an hour to figure the answer out of.",
+          "is_correct": false,
+          "feedback": "The particle placement and 'of' are both incorrect here."
         },
         {
-          "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "letter": "B",
+          "text": "It took me an hour to figure out the answer.",
+          "is_correct": true,
+          "feedback": "'Figure out' means to understand something after working on it."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "It took me an hour to figure of the answer.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No preposition 'of' belongs after this phrasal verb."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "It took me an hour to figure the out answer.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The particle cannot stand between two nouns of the phrase."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "explanation": "'Figure out' significa comprender o resolver algo tras pensar en ello. Conviene practicarlo con otros ejemplos antes del examen.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle",
       "periodo": 21,
@@ -233,41 +413,41 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v10",
+      "statement": "What does the phrasal verb 'keep up with' mean?",
+      "context": "Vocabulario de progreso, Trujillo.",
       "options": [
         {
-          "letter": "C",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "security",
+          "text": "To store something away",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That would be 'keep away' or 'put away'."
         },
         {
           "letter": "B",
-          "text": "terminal",
+          "text": "To continue working without rest",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That would be 'carry on' or 'keep going'."
+        },
+        {
+          "letter": "C",
+          "text": "To maintain the same pace or level as someone else",
+          "is_correct": true,
+          "feedback": "'Keep up with' implies staying level with a moving standard."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "To support a friend emotionally",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That would be 'stand by' or 'be there for'."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "explanation": "'Keep up with' significa mantener el mismo ritmo o nivel que otra persona o grupo. Este matiz se comprueba comparando con el resto de opciones.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle",
       "periodo": 21,
@@ -278,37 +458,37 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v11",
+      "statement": "Look at the sentence: 'The results were so surprising that nobody could account ____ them.' Choose the particle.",
+      "context": "Practica de particulas, Piura.",
       "options": [
         {
-          "letter": "B",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
+          "letter": "A",
+          "text": "of",
+          "is_correct": false,
+          "feedback": "'Account of' is not a standard phrasal verb in this meaning."
         },
         {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "letter": "B",
+          "text": "for",
+          "is_correct": true,
+          "feedback": "'Account for' requires 'for' as part of the fixed combination."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "about",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'About' would be a free preposition, not part of the phrasal verb."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "to",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Account to' belongs to a different pattern, as in reporting to a superior."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "explanation": "El phrasal verb es 'account for' y la preposicion 'for' es parte integrante del mismo.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -323,218 +503,83 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle",
-      "periodo": 21,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "prize",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle",
-      "periodo": 21,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle",
-      "periodo": 21,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "check-out",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle",
-      "periodo": 21,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v12",
+      "statement": "Which statement about 'put off' is correct?",
+      "context": "Marco conceptual, Cusco.",
       "options": [
         {
           "letter": "A",
-          "text": "layover",
+          "text": "It means to postpone or delay",
           "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
+          "feedback": "Both senses of 'put off' share the idea of delay."
         },
         {
           "letter": "B",
-          "text": "stopover",
+          "text": "It means to extinguish a fire",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That is 'put out'."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "It means to raise a subject",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That is 'put forward' or 'bring up'."
         },
         {
           "letter": "D",
-          "text": "transit",
+          "text": "It means to tolerate a person",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That is 'put up with'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "'Put off' tiene dos usos: aplazar una accion o posponer algo; en ambos casos el sentido es retrasar.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v13",
+      "statement": "Complete the sentence: 'The government is trying to ____ the effects of the drought on farmers.'",
+      "context": "Phrasal verb en contexto de politica, Puno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "care of",
+          "is_correct": false,
+          "feedback": "'Care for' means to look after someone; 'care of' would need a person."
+        },
+        {
+          "letter": "B",
+          "text": "count of",
+          "is_correct": false,
+          "feedback": "'Count on' means to rely on, not to deal with a problem."
+        },
+        {
+          "letter": "C",
+          "text": "cope with",
+          "is_correct": true,
+          "feedback": "'Cope with' means to deal with a difficult situation."
+        },
+        {
+          "letter": "D",
+          "text": "come of",
+          "is_correct": false,
+          "feedback": "'Come off' is not a phrasal verb with this meaning."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Cope with' significa hacer frente a una situacion dificil. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -548,128 +593,38 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v14",
+      "statement": "Which sentence uses 'get along with' correctly?",
+      "context": "Phrasal verbs de relaciones, Huaraz.",
       "options": [
         {
-          "letter": "D",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "coin",
+          "text": "She gets along of well with her colleagues.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The preposition 'of' does not belong after this phrasal verb."
         },
         {
           "letter": "B",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle",
-      "periodo": 21,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "guidebook",
+          "text": "She gets along well with her colleagues.",
           "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
+          "feedback": "'Get along with' expresses a good relationship."
         },
         {
-          "letter": "A",
-          "text": "map",
+          "letter": "C",
+          "text": "She gets along well of her colleagues.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The preposition must not be introduced before the noun."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "She gets along her colleagues well with.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle",
-      "periodo": 21,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "handbag",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The word order separates the phrasal verb incorrectly."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "'Get along with' significa llevarse bien con otra persona. Conviene practicarlo con otros ejemplos antes del examen.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -683,38 +638,173 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v15",
+      "statement": "Read: 'Despite the delays, the project was carried out on time.' What does 'carried out' mean?",
+      "context": "Analisis del phrasal verb, Jauja.",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
+          "text": "Carried physically",
+          "is_correct": false,
+          "feedback": "In this phrasal verb 'out' is the particle, not a direction."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "Postponed until later",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That would be 'put off' or 'held back'."
         },
         {
           "letter": "C",
-          "text": "local",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Executed or performed",
+          "is_correct": true,
+          "feedback": "'Carried out' describes performing a planned activity."
         },
         {
           "letter": "D",
-          "text": "national",
+          "text": "Cancelled",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The sentence says the project was completed on time."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Carry out' significa ejecutar o realizar una tarea o plan. Este matiz se comprueba comparando con el resto de opciones.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v16",
+      "statement": "Which sentence is grammatically incorrect?",
+      "context": "Revision de phrasal verbs, Lima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She turns off the lights when she leaves.",
+          "is_correct": false,
+          "feedback": "Correct subject-verb agreement with the phrasal verb."
+        },
+        {
+          "letter": "B",
+          "text": "She turned off the lights when she left.",
+          "is_correct": false,
+          "feedback": "Both verbs in the simple past are correct here."
+        },
+        {
+          "letter": "C",
+          "text": "She will turn off the lights when she leaves.",
+          "is_correct": false,
+          "feedback": "The future form agrees with the present 'leaves'."
+        },
+        {
+          "letter": "D",
+          "text": "She turn off the lights when she leaves.",
+          "is_correct": true,
+          "feedback": "The verb needs the third person singular 'turns' in the present simple."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "'Turn off' no admite la preposicion 'of' y el verbo debe ir en tercera persona singular.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v17",
+      "statement": "Complete: 'We should ____ the issue before it affects the whole project.'",
+      "context": "Phrasal verb de prevencion, Arequipa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "iron of",
+          "is_correct": false,
+          "feedback": "No preposition 'of' belongs after this phrasal verb."
+        },
+        {
+          "letter": "B",
+          "text": "iron over",
+          "is_correct": false,
+          "feedback": "'Iron over' is not a standard phrasal verb in English."
+        },
+        {
+          "letter": "C",
+          "text": "iron up",
+          "is_correct": false,
+          "feedback": "'Iron up' is not a standard English phrasal verb."
+        },
+        {
+          "letter": "D",
+          "text": "iron out",
+          "is_correct": true,
+          "feedback": "'Iron out' means to resolve a difficulty smoothly."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "'Iron out' significa resolver o suavizar una discrepancia o un problema. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v18",
+      "statement": "What does 'bring up' mean in the sentence: 'She was brought up in the countryside'?",
+      "context": "Phrasal verb de crianza, Trujillo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To raise a child during childhood",
+          "is_correct": true,
+          "feedback": "'Brought up' refers to upbringing."
+        },
+        {
+          "letter": "B",
+          "text": "To raise a question in a meeting",
+          "is_correct": false,
+          "feedback": "'Bring up' also means to mention a topic, but not with 'brought up'."
+        },
+        {
+          "letter": "C",
+          "text": "To bring something to a higher place",
+          "is_correct": false,
+          "feedback": "That would be 'lift' or 'raise'."
+        },
+        {
+          "letter": "D",
+          "text": "To introduce someone to others",
+          "is_correct": false,
+          "feedback": "That would be 'introduce' or 'present'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "'Bring up' en pasiva significa criar o educar a una persona durante su infancia. Conviene practicarlo con otros ejemplos antes del examen.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -728,86 +818,41 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v19",
+      "statement": "Which sentence uses 'come up with' correctly?",
+      "context": "Phrasal verb de creatividad, Cajamarca.",
       "options": [
         {
-          "letter": "D",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "expense",
+          "text": "She came up of a solution to the problem.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No preposition 'of' belongs after this phrasal verb."
         },
         {
           "letter": "B",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle",
-      "periodo": 21,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "insurance",
+          "text": "She came up with a solution to the problem.",
           "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Come up with' means to produce an idea or a solution."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "She came the solution up with of.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The particle placement and preposition are both wrong."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "She came with up a solution.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The particle cannot precede the verb in this construction."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "explanation": "'Come up with' significa idear o proponer una idea o solucion. Este matiz se comprueba comparando con el resto de opciones.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle",
       "periodo": 21,
@@ -818,86 +863,41 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle-v20",
+      "statement": "Which statement about phrasal verbs is correct?",
+      "context": "Marco conceptual, Cusco.",
       "options": [
         {
-          "letter": "C",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "They are verb plus particle units whose meaning is not fully predictable from the parts",
+          "is_correct": true,
+          "feedback": "That is the defining property of phrasal verbs."
         },
         {
           "letter": "B",
-          "text": "prescription",
+          "text": "They are simply verbs written with a hyphen",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle",
-      "periodo": 21,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "fatigue",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Phrasal verbs are written as separate words in running text."
         },
         {
           "letter": "C",
-          "text": "insomnia",
+          "text": "They always require a preposition plus an object",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That describes prepositional phrasal verbs only."
+        },
+        {
+          "letter": "D",
+          "text": "They never change the meaning of the base verb",
+          "is_correct": false,
+          "feedback": "Most phrasal verbs do change the meaning of the base verb."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "Un phrasal verb combina un verbo con una particula que cambia o completa su significado.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W21-phrasal-verbs-advanced-001-MASTERY-bundle",
       "periodo": 21,

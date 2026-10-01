@@ -736,25 +736,25 @@
           "letter": "A",
           "text": "of",
           "is_correct": false,
-          "feedback": "Incorrect preposition."
+          "feedback": "'Interested' takes the preposition 'in' for what someone wants to learn about, so 'of' does not fit."
         },
         {
           "letter": "B",
           "text": "in",
           "is_correct": true,
-          "feedback": "Correct. We use 'interested in'."
+          "feedback": "The fixed adjective-preposition combination is 'interested in', so 'in' is the correct choice."
         },
         {
           "letter": "C",
           "text": "at",
           "is_correct": false,
-          "feedback": "Incorrect preposition."
+          "feedback": "'At' follows verbs such as 'look at' or 'arrive at'; it does not follow 'interested'."
         },
         {
           "letter": "D",
           "text": "with",
           "is_correct": false,
-          "feedback": "Incorrect preposition."
+          "feedback": "'With' expresses an accompaniment ('interested with you'), which is not the meaning here."
         }
       ],
       "correct_answer": "B",

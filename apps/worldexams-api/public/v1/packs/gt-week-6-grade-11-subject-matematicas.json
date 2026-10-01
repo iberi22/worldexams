@@ -781,13 +781,13 @@
           "letter": "A",
           "text": "$1$",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "La composición con la inversa devuelve el argumento original, $f(f^{-1}(100))=100$, no $1$."
         },
         {
           "letter": "B",
           "text": "$0$",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "La composición con la inversa devuelve el argumento, $100$; el $0$ no aparece en ningún paso."
         },
         {
           "letter": "C",

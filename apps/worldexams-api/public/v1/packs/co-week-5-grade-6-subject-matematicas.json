@@ -108,25 +108,25 @@
           "letter": "C",
           "text": "3.5.",
           "is_correct": true,
-          "feedback": "Correcto. $(4 + 3 + 5 + 2)/4 = 3.5$."
+          "feedback": "El promedio se obtiene dividiendo la suma entre la cantidad de datos: $(4+3+5+2)/4 = 14/4 = 3.5$."
         },
         {
           "letter": "A",
           "text": "14.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esa es la suma, no el promedio."
+          "feedback": "El promedio es $3.5$; el valor $4$ correspondería a dividir por $3.5$ en lugar de por $4$."
         },
         {
           "letter": "B",
           "text": "4.",
           "is_correct": false,
-          "feedback": "Incorrecto. Aproximaste."
+          "feedback": "Si sumas mal y obtienes un total menor, el cociente queda por debajo del promedio real de $3.5$."
         },
         {
           "letter": "D",
           "text": "3.",
           "is_correct": false,
-          "feedback": "Incorrecto. No promediaste correctamente."
+          "feedback": "El promedio es $3.5$, no $3$: al dividir $14$ entre $4$ el resultado no baja de $3.5$."
         }
       ],
       "correct_answer": "C",

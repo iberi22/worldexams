@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "My uncle",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Your father's brother is your uncle."
         },
         {
           "letter": "B",
           "text": "My aunt",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Your father's sister would be your aunt, not his brother."
         },
         {
           "letter": "C",
           "text": "My cousin",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Your cousin is the child of your uncle or aunt, your generation."
         },
         {
           "letter": "D",
           "text": "My brother",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Your brother shares your parents, so he is the son of your uncle's parents too."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "In my pocket",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A pocket is a bag on your clothes; it is not part of the face."
         },
         {
           "letter": "B",
           "text": "On my face",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Your nose is in the middle of your face."
         },
         {
           "letter": "C",
           "text": "On my hand",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Your hand is at the end of your arm, not on your face."
         },
         {
           "letter": "D",
           "text": "On my foot",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Your foot is at the end of your leg, below the ankle."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "A hat",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A hat goes on your head, not on your feet."
         },
         {
           "letter": "B",
           "text": "A shirt",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A shirt goes on your body, over your torso."
         },
         {
           "letter": "C",
           "text": "Socks",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Socks are worn on the feet, between the shoe and the foot."
         },
         {
           "letter": "D",
           "text": "Gloves",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Gloves cover the hands, not the feet."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "My nose",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You smell with your nose; hearing and smelling are different senses."
         },
         {
           "letter": "B",
           "text": "My mouth",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You speak and eat with your mouth, and hear with your ears."
         },
         {
           "letter": "C",
           "text": "My eyes",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You see with your eyes."
         },
         {
           "letter": "D",
           "text": "My ears",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "You hear with your ears."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "daughter",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Your sister is your parents' daughter."
         },
         {
           "letter": "B",
           "text": "son",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Son' would be right for a boy, but your sister is a girl."
         },
         {
           "letter": "C",
           "text": "mother",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Your mother is the parent of your parents, the next generation up."
         },
         {
           "letter": "D",
           "text": "aunt",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "An aunt is the sister of your parent, not your sibling."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "Green",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Teeth are not green; that colour belongs to grass or leaves."
         },
         {
           "letter": "B",
           "text": "White",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Teeth are usually white, and clean teeth look bright white."
         },
         {
           "letter": "C",
           "text": "Red",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Red is a colour of things like apples or paint, not teeth."
         },
         {
           "letter": "D",
           "text": "Blue",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Blue is the colour of the sky or the sea, not teeth."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "t-shirt",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A t-shirt is worn for warm, dry days, not in the rain."
         },
         {
           "letter": "B",
           "text": "belt",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A belt holds up your trousers; it keeps you dry."
         },
         {
           "letter": "C",
           "text": "raincoat",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A raincoat is designed to keep the rain off you."
         },
         {
           "letter": "D",
           "text": "hat",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A hat covers your head; it does not protect your whole body from rain."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "heads / necks",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You have one head and one neck, not two of each."
         },
         {
           "letter": "B",
           "text": "noses / mouths",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You have one nose and one mouth, not two of each."
         },
         {
           "letter": "C",
           "text": "hairs / skins",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Hair' and 'skin' cannot be counted with 'two' in this phrasing; you have one skin."
         },
         {
           "letter": "D",
           "text": "arms / legs",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "You have two arms and two legs."
         }
       ],
       "correct_answer": "D",

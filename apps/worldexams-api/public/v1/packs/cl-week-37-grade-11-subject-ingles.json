@@ -61,7 +61,7 @@
           "letter": "A",
           "text": "are developing",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Are developing' is active, so the subject would have to be the states drafting the laws, but the sentence makes the laws the thing being drafted."
         },
         {
           "letter": "C",
@@ -79,7 +79,7 @@
           "letter": "D",
           "text": "have developed",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Have developed' is an active present perfect that would mean the laws are already finished, losing the sense of a process still under way."
         }
       ],
       "correct_answer": "C",
@@ -304,7 +304,7 @@
           "letter": "C",
           "text": "being reformed",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "The -ing form is used with a passive auxiliary, as in 'is being reformed'. After 'it is suggested that' English needs the bare subjunctive, which puts no auxiliary in front at all."
         }
       ],
       "correct_answer": "D",
@@ -349,7 +349,7 @@
           "letter": "C",
           "text": "rumor",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "A rumor is unverified talk that spreads by word of mouth, whereas consensus is an agreement reached after discussion."
         }
       ],
       "correct_answer": "D",
@@ -439,7 +439,7 @@
           "letter": "D",
           "text": "creativity",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Creativity is the ability to produce new ideas, and it is what critics say institutions lack, not what slows them down."
         }
       ],
       "correct_answer": "C",
@@ -466,7 +466,7 @@
           "letter": "B",
           "text": "Gifts",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "A gift is something given freely with no penalty attached, whereas a sanction punishes the state or individual it is applied to."
         },
         {
           "letter": "A",
@@ -646,7 +646,7 @@
           "letter": "B",
           "text": "unimportant",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Calling norms unimportant denies the whole conclusion, which claims they influence behaviour as strongly as written law."
         },
         {
           "letter": "A",
@@ -664,7 +664,7 @@
           "letter": "D",
           "text": "slogans",
           "is_correct": false,
-          "feedback": "Incorrect. Marketing."
+          "feedback": "A slogan is a short phrase for advertising; a norm is an unwritten standard that actually guides behaviour."
         }
       ],
       "correct_answer": "A",
@@ -691,7 +691,7 @@
           "letter": "B",
           "text": "tourist",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "A tourist travels for pleasure and pays for their own trip, not as an official representative of a government."
         },
         {
           "letter": "A",
@@ -703,13 +703,13 @@
           "letter": "C",
           "text": "spy",
           "is_correct": false,
-          "feedback": "Incorrect. Secret."
+          "feedback": "A spy works secretly to gather intelligence for a secret service, whereas an envoy works openly on an announced mission."
         },
         {
           "letter": "D",
           "text": "refugee",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "A refugee flees their country to seek protection, which is the opposite of being sent out on a diplomatic mission."
         }
       ],
       "correct_answer": "A",
@@ -844,7 +844,7 @@
           "letter": "D",
           "text": "have been",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Have been' is the present perfect and cannot be backshifted; reporting what someone said moves the tense of 'will be' to 'would be'."
         }
       ],
       "correct_answer": "A",

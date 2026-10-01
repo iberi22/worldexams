@@ -62,7 +62,7 @@
           "letter": "A",
           "text": "the / the",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'The' is used for a specific unique object, but a year takes no article, so 'the' cannot appear before 1928."
         },
         {
           "letter": "C",
@@ -74,7 +74,7 @@
           "letter": "B",
           "text": "a / -",
           "is_correct": false,
-          "feedback": "Incorrect for substances."
+          "feedback": "'A' is right for the year but wrong for penicillin: names of substances take no article."
         },
         {
           "letter": "D",
@@ -108,7 +108,7 @@
           "letter": "A",
           "text": "A / an / the",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'A' and 'an' are used for any single countable object, but the Moon is unique and takes 'the'."
         },
         {
           "letter": "D",
@@ -126,7 +126,7 @@
           "letter": "C",
           "text": "- / - / -",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "The Moon is a unique body and requires 'the'; zero article would leave the sentence ungrammatical."
         }
       ],
       "correct_answer": "D",
@@ -154,7 +154,7 @@
           "letter": "B",
           "text": "The / a / -",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'The' is not right for technology as a general concept, and the phrase 'the role' would also be wrong: it is 'a role'."
         },
         {
           "letter": "A",
@@ -172,7 +172,7 @@
           "letter": "D",
           "text": "The / the / -",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Zero article is right for technology, but 'the crucial role' needs 'a' since the role is singular and countable."
         }
       ],
       "correct_answer": "A",
@@ -264,7 +264,7 @@
           "letter": "D",
           "text": "- / - / -",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Zero article cannot introduce 'results of experiment' here, because both the results and the experiment are specific and identified."
         }
       ],
       "correct_answer": "C",
@@ -304,13 +304,13 @@
           "letter": "B",
           "text": "- / a / the",
           "is_correct": false,
-          "feedback": "Incorrect article/preposition."
+          "feedback": "Solar power and coal as general energy sources take no article, so 'the coal' is wrong here."
         },
         {
           "letter": "C",
           "text": "The / the / the",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'The solar power' and 'the coal' are wrong: as general energy sources both take zero article."
         }
       ],
       "correct_answer": "D",
@@ -436,19 +436,19 @@
           "letter": "A",
           "text": "- / the / - / the",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "The Amazon is a specific region and needs 'The', and 'science' as an academic discipline takes zero article."
         },
         {
           "letter": "B",
           "text": "The / the / the / -",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'The number' is wrong: the phrase is 'a number of', and 'the which' cannot follow 'many of'."
         },
         {
           "letter": "C",
           "text": "- / a / the / the",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "The Amazon needs 'The' for a specific region, and 'science' takes zero article, not 'the'."
         }
       ],
       "correct_answer": "D",
@@ -494,7 +494,7 @@
           "letter": "D",
           "text": "- / - / - / -",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'The' is needed for a specific named theory, so the sentence cannot start with the zero article."
         }
       ],
       "correct_answer": "A",
@@ -528,7 +528,7 @@
           "letter": "A",
           "text": "- / the / - / the",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "The structure is 'The more..., the more...', so both comparatives need 'the'; zero article breaks the second half."
         },
         {
           "letter": "B",
@@ -540,7 +540,7 @@
           "letter": "C",
           "text": "More / the / more / -",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'More more' has no article on either comparative, so the parallel structure the sentence requires is lost."
         }
       ],
       "correct_answer": "D",

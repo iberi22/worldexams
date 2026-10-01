@@ -646,7 +646,7 @@
           "letter": "A",
           "text": "$c = 1,5$",
           "is_correct": false,
-          "feedback": "Valor incorrecto."
+          "feedback": "La pendiente de la secante es (9-1)/(3-1) = 4, y f'(c) = 2c vale 4 solo cuando c = 2, no en el punto medio del intervalo."
         },
         {
           "letter": "D",

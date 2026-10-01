@@ -202,7 +202,7 @@
           "letter": "C",
           "text": "17,5",
           "is_correct": true,
-          "feedback": "Correcto. (10 + 20 + 15 + 25) / 4 = 70 / 4 = 17,5."
+          "feedback": "El promedio se obtiene sumando los cuatro valores y dividiendo por la cantidad de partidos: (10 + 20 + 15 + 25) = 70 y 70 / 4 = 17,5."
         },
         {
           "letter": "B",
@@ -787,7 +787,7 @@
           "letter": "C",
           "text": "La mediana será 150 y la moda mayor.",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "En una distribución simétrica y unimodal la moda también es 150, así que este valor mayor es incorrecto."
         },
         {
           "letter": "A",

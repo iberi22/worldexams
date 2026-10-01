@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "hat",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A hat is worn on the head and keeps the sun's rays off your face on a sunny day."
         },
         {
           "letter": "B",
           "text": "shoe",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A shoe goes on your foot, not on your head."
         },
         {
           "letter": "C",
           "text": "sock",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A sock goes inside your shoe on your foot, so it is never worn on the head."
         },
         {
           "letter": "D",
           "text": "glove",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A glove covers the hand to keep it warm, not the head."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "glasses",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Glasses are worn on the eyes to see better, not on the feet."
         },
         {
           "letter": "B",
           "text": "sneakers",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Sneakers are the sport shoes worn on the feet for running."
         },
         {
           "letter": "C",
           "text": "hats",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Hats are worn on the head, so they cannot be the thing on your feet."
         },
         {
           "letter": "D",
           "text": "shirts",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A shirt is a garment for the torso, not something you wear on your feet."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "t-shirt",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A t-shirt is thin and worn in warm weather; it does not protect you from the cold."
         },
         {
           "letter": "B",
           "text": "shorts",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Shorts are worn in hot weather and leave most of the legs bare."
         },
         {
           "letter": "C",
           "text": "jacket",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A jacket is a thick outer garment that keeps the cold out, so it is what you wear when it is cold."
         },
         {
           "letter": "D",
           "text": "swimsuit",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A swimsuit is worn in water or at the beach, not in cold weather."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "pants",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Pants are worn on the legs and they go over the socks, not under the shoes."
         },
         {
           "letter": "B",
           "text": "belts",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A belt is worn around the waist to hold up the pants."
         },
         {
           "letter": "C",
           "text": "ties",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A tie is worn around the neck with a formal shirt."
         },
         {
           "letter": "D",
           "text": "socks",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Socks are worn on the feet before the shoes go on, so they go under them."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "pants",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Pants are the garment worn on the legs of both boys and girls."
         },
         {
           "letter": "B",
           "text": "shirts",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A shirt is worn on the upper body, not on the legs."
         },
         {
           "letter": "C",
           "text": "gloves",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Gloves cover the hands."
         },
         {
           "letter": "D",
           "text": "hats",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A hat is worn on the head."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "raincoat",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A raincoat keeps the rain off, and it is only needed when it is raining."
         },
         {
           "letter": "B",
           "text": "uniform",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A uniform is the set of clothes a student is required to wear at school every day."
         },
         {
           "letter": "C",
           "text": "pajamas",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Pajamas are worn at home at night to sleep."
         },
         {
           "letter": "D",
           "text": "costume",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A costume is worn to act or to celebrate, not every school day."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "belts",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A belt goes around the waist, not on the hands."
         },
         {
           "letter": "B",
           "text": "scarves",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A scarf is worn around the neck."
         },
         {
           "letter": "C",
           "text": "gloves",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Gloves cover each hand and keep the fingers warm in very cold weather."
         },
         {
           "letter": "D",
           "text": "boots",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Boots are worn on the feet."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "watch",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A watch is worn on the wrist to tell the time."
         },
         {
           "letter": "B",
           "text": "ring",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A ring is worn on a finger as jewelry."
         },
         {
           "letter": "C",
           "text": "necklace",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A necklace is worn around the neck."
         },
         {
           "letter": "D",
           "text": "belt",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A belt is a strap worn around the waist that holds up the pants."
         }
       ],
       "correct_answer": "D",

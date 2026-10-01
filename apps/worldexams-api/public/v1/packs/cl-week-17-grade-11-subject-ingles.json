@@ -286,25 +286,25 @@
           "letter": "A",
           "text": "are constructing",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Are constructing' is the active voice and would make the paths do the building; the paths are the ones being built."
         },
         {
           "letter": "B",
           "text": "are being constructed",
           "is_correct": true,
-          "feedback": "Correct. Present continuous passive for an ongoing project."
+          "feedback": "Correct. 'Are being constructed' is the present continuous passive, used for a project that is under way at the moment of speaking."
         },
         {
           "letter": "C",
           "text": "constructed",
           "is_correct": false,
-          "feedback": "Incorrect. Past simple."
+          "feedback": "'Constructed' on its own would be past simple, but the construction is still in progress."
         },
         {
           "letter": "D",
           "text": "have constructed",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Have constructed' is the Present Perfect active, which would require the paths to be the ones doing the building."
         }
       ],
       "correct_answer": "B",
@@ -511,25 +511,25 @@
           "letter": "A",
           "text": "has transformed",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Has transformed' is the active voice and would make the shipyard do the transforming, but the shipyard received the change."
         },
         {
           "letter": "C",
           "text": "has been transformed",
           "is_correct": true,
-          "feedback": "Correct. Present perfect passive for a completed change with present result."
+          "feedback": "Correct. 'Has been transformed' is the present perfect passive, used for a completed change whose result defines the place today."
         },
         {
           "letter": "B",
           "text": "is transforming",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Is transforming' is active and ongoing, which does not fit a transformation that is already complete."
         },
         {
           "letter": "D",
           "text": "transforms",
           "is_correct": false,
-          "feedback": "Incorrect. Simple present."
+          "feedback": "'Transforms' is the present simple, and the sentence describes a completed change."
         }
       ],
       "correct_answer": "C",
@@ -646,25 +646,25 @@
           "letter": "A",
           "text": "parking",
           "is_correct": false,
-          "feedback": "Incorrect. Prioritizing parking usually hurts walkability."
+          "feedback": "Prioritizing parking discourages walking, so it works against the walkability the sentence praises."
         },
         {
           "letter": "D",
           "text": "walkability",
           "is_correct": true,
-          "feedback": "Correct. Walkability is the measure of how friendly an area is to walking."
+          "feedback": "Correct. 'Walkability' is the quality of a place that makes it easy and pleasant to walk in, which is what the sentence names."
         },
         {
           "letter": "B",
           "text": "isolation",
           "is_correct": false,
-          "feedback": "Incorrect. Negative."
+          "feedback": "Isolation is the opposite of making a city friendly to people on foot, so it cannot be the goal."
         },
         {
           "letter": "C",
           "text": "construction",
           "is_correct": false,
-          "feedback": "Incorrect. Too broad."
+          "feedback": "Construction is too broad: it says nothing about how friendly a place is to walking."
         }
       ],
       "correct_answer": "D",

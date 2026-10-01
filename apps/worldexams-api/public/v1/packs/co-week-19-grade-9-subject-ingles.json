@@ -80,7 +80,7 @@
           "letter": "D",
           "text": "haven't told",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Have not told' is present perfect and covers up to now. The regret described is already finished, which is why the past perfect is needed."
         }
       ],
       "correct_answer": "B",
@@ -126,7 +126,7 @@
           "letter": "D",
           "text": "won't leave",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Won't leave' is a plain future statement about what people will not do, with no sense of the wish or the complaint the sentence expresses."
         }
       ],
       "correct_answer": "A",
@@ -154,7 +154,7 @@
           "letter": "A",
           "text": "speak",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Speak' is the present simple, and 'if only' about a present state takes the past simple in the second conditional sense: 'if only you spoke'."
         },
         {
           "letter": "D",
@@ -166,7 +166,7 @@
           "letter": "B",
           "text": "would speak",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Would speak' belongs to the second conditional for a hypothetical, which needs both clauses to be hypothetical. Here the wish is about a real, missing ability."
         },
         {
           "letter": "C",
@@ -212,13 +212,13 @@
           "letter": "C",
           "text": "am",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Am' is the plain present form of 'be'. After 'wish' about an unreal situation, English uses 'were' for every person, including 'I'."
         },
         {
           "letter": "D",
           "text": "would be",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Would be' would require an 'if' clause to complete it, and on its own 'I wish I would be' leaves the sentence unfinished."
         }
       ],
       "correct_answer": "A",

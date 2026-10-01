@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "happy",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A 10 is a good mark, so the feeling is a happy one."
         },
         {
           "letter": "B",
           "text": "sad",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Sad' is the opposite of how you feel after a good result."
         },
         {
           "letter": "C",
           "text": "angry",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Angry' means cross or annoyed, which a good mark does not cause."
         },
         {
           "letter": "D",
           "text": "tired",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Tired' means lacking sleep or energy, and that is not the news here."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "bored",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Bored' means having nothing interesting to do, not sadness at losing something."
         },
         {
           "letter": "B",
           "text": "sad",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Losing a toy you loved makes a person feel sad."
         },
         {
           "letter": "C",
           "text": "happy",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Happy' is the opposite of the mood the sentence describes."
         },
         {
           "letter": "D",
           "text": "excited",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Excited' means very enthusiastic, which losing a toy does not cause."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "surprised",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Surprised' means an unexpected event occurred, and that is not the case at 10 PM."
         },
         {
           "letter": "B",
           "text": "hungry",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Hungry' means wanting to eat, but the speaker wants to sleep."
         },
         {
           "letter": "C",
           "text": "tired",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. At 10 PM the body needs rest, so feeling tired is what the sentence describes."
         },
         {
           "letter": "D",
           "text": "energetic",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Energetic' means full of energy, the opposite of wanting to go to bed."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "thirsty",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Thirsty' is the need for a drink, but the speaker wants food."
         },
         {
           "letter": "B",
           "text": "scared",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Scared' is a feeling of fear, not of wanting to eat."
         },
         {
           "letter": "C",
           "text": "sick",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Sick' means ill, and the speaker is well and hungry."
         },
         {
           "letter": "D",
           "text": "hungry",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Wanting to eat a hamburger is a feeling of hunger, so the word is hungry."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "thirsty",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Thirst is the need for a drink, and water is what the speaker wants."
         },
         {
           "letter": "B",
           "text": "hungry",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Hungry' is the need for food, not for a liquid."
         },
         {
           "letter": "C",
           "text": "hot",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Hot' describes the weather or the body temperature, not a feeling that makes you reach for water."
         },
         {
           "letter": "D",
           "text": "cold",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Cold' is the opposite state, and it does not create a wish for a drink."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "funny",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Funny' means amusing, which does not describe the reaction to a big spider."
         },
         {
           "letter": "B",
           "text": "scared",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A large spider that appears suddenly causes fear, so the feeling is scared."
         },
         {
           "letter": "C",
           "text": "happy",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Happy' is the opposite of the mood the sentence describes."
         },
         {
           "letter": "D",
           "text": "brave",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Brave' describes someone who is not afraid, and that is not what the sentence says."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "excited",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Excited' means very keen about something, which is not a reaction to damage."
         },
         {
           "letter": "B",
           "text": "calm",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Calm' means peaceful and relaxed, which is not a reaction to being wronged."
         },
         {
           "letter": "C",
           "text": "angry",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Someone whose favourite possession has been broken becomes angry."
         },
         {
           "letter": "D",
           "text": "happy",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Happy' is the opposite of the mood the sentence describes."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "busy",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Busy' means there is a lot to do, but the sentence says the opposite."
         },
         {
           "letter": "B",
           "text": "interested",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Interested' means keen about something, but there is nothing to be keen about."
         },
         {
           "letter": "C",
           "text": "active",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Active' means physically busy, which is not what having nothing to do means."
         },
         {
           "letter": "D",
           "text": "bored",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Having nothing to do leaves a person with nothing to occupy them, which is boredom."
         }
       ],
       "correct_answer": "D",

@@ -253,13 +253,13 @@
           "letter": "C",
           "text": "$x < 5$",
           "is_correct": false,
-          "feedback": "Error en el signo del resultado final."
+          "feedback": "Al dividir entre $-2$ el sentido de la desigualdad se invierte, de modo que la solución es $x > -5$ y no $x < 5$."
         },
         {
           "letter": "D",
           "text": "$x > 5$",
           "is_correct": false,
-          "feedback": "Error en el signo del resultado final."
+          "feedback": "El signo final debe ser mayor y no menor: de $-2x < 10$ se obtiene $x > -5$ al invertir la desigualdad."
         }
       ],
       "correct_answer": "A",

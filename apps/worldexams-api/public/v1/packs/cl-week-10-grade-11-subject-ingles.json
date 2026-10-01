@@ -376,25 +376,25 @@
           "letter": "A",
           "text": "are used to",
           "is_correct": false,
-          "feedback": "Incorrect. This means 'accustomed to'."
+          "feedback": "'Are used to' followed by a noun or by 'to' plus verb means 'accustomed to', which is a different idea."
         },
         {
           "letter": "D",
           "text": "used to",
           "is_correct": true,
-          "feedback": "Correct. Describes a past habit that has changed."
+          "feedback": "'Use to' is not correct English; the structure is always 'used to' with a d in the negative and in the past."
         },
         {
           "letter": "B",
           "text": "use to",
           "is_correct": false,
-          "feedback": "Incorrect grammar."
+          "feedback": "'Would' expresses a repeated past action but does not form the structure the sentence uses to contrast past habit with present reality."
         },
         {
           "letter": "C",
           "text": "would",
           "is_correct": false,
-          "feedback": "Incorrect. 'Used to' is better for contrasting the past and present."
+          "feedback": "Correct. 'Used to' is the standard structure for a past habit that no longer holds, which is exactly the contrast the sentence makes."
         }
       ],
       "correct_answer": "D",

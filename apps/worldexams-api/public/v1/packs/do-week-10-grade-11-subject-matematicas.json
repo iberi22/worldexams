@@ -61,13 +61,13 @@
           "letter": "A",
           "text": "Mayor que.",
           "is_correct": false,
-          "feedback": "Incorrecto. Es >."
+          "feedback": "$\\leq$ significa menor o igual; el símbolo de mayor que es $>$, no $\\leq$."
         },
         {
           "letter": "C",
           "text": "Menor estricto.",
           "is_correct": false,
-          "feedback": "Incorrecto. Es <."
+          "feedback": "$\\leq$ incluye el valor límite, mientras el menor estricto es $<$. El correcto es $\\leq$."
         },
         {
           "letter": "B",
@@ -298,7 +298,7 @@
           "letter": "B",
           "text": "5",
           "is_correct": false,
-          "feedback": "Incorrecto. Excede."
+          "feedback": "Con $5$ libras el costo sería $5\\times120=600>500$, así que excede el presupuesto; el máximo es $3$."
         },
         {
           "letter": "C",
@@ -439,7 +439,7 @@
           "letter": "D",
           "text": "88",
           "is_correct": false,
-          "feedback": "Incorrecto. Insuficiente."
+          "feedback": "Una nota de $88$ es menor que la mínima necesaria, porque el promedio exigido llega a $90$."
         }
       ],
       "correct_answer": "A",
@@ -601,7 +601,7 @@
           "letter": "A",
           "text": "Todos.",
           "is_correct": false,
-          "feedback": "Incorrecto. Negativos fallan."
+          "feedback": "Los valores negativos no cumplen la condición, porque el cociente de dos negativos es positivo y el denominador se anula en 0."
         },
         {
           "letter": "D",
@@ -613,7 +613,7 @@
           "letter": "B",
           "text": "Excepto 0.",
           "is_correct": false,
-          "feedback": "Incorrecto. Negativos fallan."
+          "feedback": "Excluir solo el cero no basta: los valores negativos también fallan, y esos no quedan fuera con esa fórmula."
         },
         {
           "letter": "C",
@@ -736,7 +736,7 @@
           "letter": "B",
           "text": "x < 6",
           "is_correct": false,
-          "feedback": "Incorrecto. Incompleto."
+          "feedback": "La desigualdad es estricta, $|x-4|<2$, y da el intervalo abierto $(2,6)$, no $x<6$."
         },
         {
           "letter": "A",
@@ -826,13 +826,13 @@
           "letter": "A",
           "text": "x < -1",
           "is_correct": false,
-          "feedback": "Incorrecto. (-2)^2+1=5."
+          "feedback": "Para $x=-2$: $(-2)^2+1=5>0$, así que no es menor que cero y la desigualdad no se cumple."
         },
         {
           "letter": "C",
           "text": "x > 1",
           "is_correct": false,
-          "feedback": "Incorrecto. 2^2+1=5."
+          "feedback": "Para $x=2$: $2^2+1=5>0$, de modo que tampoco se cumple; el lado izquierdo nunca es negativo."
         },
         {
           "letter": "B",
@@ -871,13 +871,13 @@
           "letter": "B",
           "text": "(10, 20)",
           "is_correct": false,
-          "feedback": "Incorrecto. Cumple ambas."
+          "feedback": "En $(10,20)$ se verifican las dos restricciones, con $10\\geq10$ y $20\\geq0$, así que el punto es factible."
         },
         {
           "letter": "C",
           "text": "(15, 5)",
           "is_correct": false,
-          "feedback": "Incorrecto. Cumple ambas."
+          "feedback": "En $(15,5)$ se cumplen ambas restricciones, por lo que el punto es factible y no puede ser la respuesta."
         },
         {
           "letter": "A",
@@ -889,7 +889,7 @@
           "letter": "D",
           "text": "(12, 10)",
           "is_correct": false,
-          "feedback": "Incorrecto. Cumple ambas."
+          "feedback": "En $(12,10)$ también se cumplen las dos restricciones, de modo que el punto es factible."
         }
       ],
       "correct_answer": "A",

@@ -61,25 +61,25 @@
           "letter": "A",
           "text": "Sustitución",
           "is_correct": false,
-          "feedback": "Incorrecto. Método estándar."
+          "feedback": "La sustitución es uno de los tres métodos clásicos para un sistema 2x2: se despeja una incógnita y se reemplaza en la otra ecuación."
         },
         {
           "letter": "B",
           "text": "Igualación",
           "is_correct": false,
-          "feedback": "Incorrecto. Método estándar."
+          "feedback": "La igualación también es un método estándar: se despeja la misma incógnita en ambas ecuaciones y se igualan las expresiones."
         },
         {
           "letter": "D",
           "text": "Factorización",
           "is_correct": true,
-          "feedback": "Correcto. Se usa para simplificar sumas, no sistemas lineales."
+          "feedback": "La factorización es una técnica para simplificar sumas y productos, no un procedimiento para eliminar incógnitas de un sistema."
         },
         {
           "letter": "C",
           "text": "Reducción",
           "is_correct": false,
-          "feedback": "Incorrecto. Método estándar (eliminación)."
+          "feedback": "La reducción (o eliminación) es precisamente el método que cancela una variable restando o sumando las ecuaciones."
         }
       ],
       "correct_answer": "D",
@@ -196,25 +196,25 @@
           "letter": "A",
           "text": "(10, 5)",
           "is_correct": false,
-          "feedback": "Incorrecto. No cumple y=2x."
+          "feedback": "Con $(10, 5)$ la relación $y = 2x$ daría $5 = 20$, que es falsa."
         },
         {
           "letter": "C",
           "text": "(5, 10)",
           "is_correct": true,
-          "feedback": "Correcto. $5+10=15$ y $10=2(5)$."
+          "feedback": "Con $(5, 10)$ se cumple $x + y = 5 + 10 = 15$ y $y = 2x = 2 \\cdot 5 = 10$ a la vez."
         },
         {
           "letter": "B",
           "text": "(7.5, 7.5)",
           "is_correct": false,
-          "feedback": "Incorrecto. No cumple y=2x."
+          "feedback": "Con $(7.5, 7.5)$ la relación $y = 2x$ daría $7.5 = 15$, que es falsa."
         },
         {
           "letter": "D",
           "text": "(3, 6)",
           "is_correct": false,
-          "feedback": "Incorrecto. Suma 9, no 15."
+          "feedback": "Con $(3, 6)$ la suma es $3 + 6 = 9$, y el sistema pide que sume $15$."
         }
       ],
       "correct_answer": "C",
@@ -286,25 +286,25 @@
           "letter": "A",
           "text": "RD\\$ 50",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa la diferencia."
+          "feedback": "Si el melón costara RD\\$ 50, dos melones serían RD\\$ 100, pero la diferencia entre las dos ecuaciones es de RD\\$ 200."
         },
         {
           "letter": "C",
           "text": "RD\\$ 100",
           "is_correct": true,
-          "feedback": "Correcto. 2 melones de diferencia valen 200."
+          "feedback": "Restando las dos ecuaciones, $5 - 3 = 2$ melones y $550 - 350 = 200$, de donde cada melón vale $200 / 2 = 100$."
         },
         {
           "letter": "B",
           "text": "RD\\$ 75",
           "is_correct": false,
-          "feedback": "Incorrecto. No cuadra la diferencia."
+          "feedback": "Con RD\\$ 75 por melón, los $2$ melones añadirían $150$ y no $200$, así que la diferencia no cuadra."
         },
         {
           "letter": "D",
           "text": "RD\\$ 150",
           "is_correct": false,
-          "feedback": "Incorrecto. Valor excedido."
+          "feedback": "Con RD\\$ 150 por melón, los $2$ melones añadirían $300$, y el sistema exige $200$."
         }
       ],
       "correct_answer": "C",
@@ -601,25 +601,25 @@
           "letter": "B",
           "text": "(4, 5)",
           "is_correct": false,
-          "feedback": "Incorrecto. Falló la primera."
+          "feedback": "En $(4, 5)$ la primera ecuación da $\\frac{4}{2} + \\frac{5}{3} = 2 + \\frac{5}{3} \\neq 4$."
         },
         {
           "letter": "A",
           "text": "(6, 3)",
           "is_correct": true,
-          "feedback": "Correcto. $3+1=4$ en la primera y $6+3=9$ en la segunda."
+          "feedback": "En $(6, 3)$ la primera ecuación da $3 + 1 = 4$ y la segunda $6 + 3 = 9$, así que el par satisface ambas."
         },
         {
           "letter": "C",
           "text": "(2, 7)",
           "is_correct": false,
-          "feedback": "Incorrecto. No satisface."
+          "feedback": "En $(2, 7)$ la segunda ecuación da $2 + 7 = 9$, pero la primera da $1 + \\frac{7}{3} \\neq 4$."
         },
         {
           "letter": "D",
           "text": "(3, 6)",
           "is_correct": false,
-          "feedback": "Incorrecto. No satisface."
+          "feedback": "En $(3, 6)$ la segunda ecuación da $3 + 6 = 9$, pero la primera da $\\frac{3}{2} + 2 = 3.5 \\neq 4$."
         }
       ],
       "correct_answer": "A",
@@ -646,25 +646,25 @@
           "letter": "A",
           "text": "1",
           "is_correct": false,
-          "feedback": "Incorrecto. Tendría solución."
+          "feedback": "Con $m = 1$ los coeficientes no son proporcionales y el sistema tiene una solución única."
         },
         {
           "letter": "B",
           "text": "2",
           "is_correct": true,
-          "feedback": "Correcto. Rectas paralelas no coincidentes."
+          "feedback": "Con $m = 2$ los coeficientes de las incógnitas son proporcionales pero los términos independientes no, así las rectas son paralelas y no se cortan: el sistema es inconsistente."
         },
         {
           "letter": "C",
           "text": "4",
           "is_correct": false,
-          "feedback": "Incorrecto. Tendría solución."
+          "feedback": "Con $m = 4$ las pendientes difieren, de modo que las rectas se cortan y hay solución."
         },
         {
           "letter": "D",
           "text": "0",
           "is_correct": false,
-          "feedback": "Incorrecto. No es paralelo."
+          "feedback": "Con $m = 0$ la pendiente es distinta de la del otro coeficiente, luego el sistema es compatible."
         }
       ],
       "correct_answer": "B",
@@ -691,25 +691,25 @@
           "letter": "A",
           "text": "RD\\$ 4,000",
           "is_correct": false,
-          "feedback": "Incorrecto. Interés insuficiente."
+          "feedback": "Si los RD\\$ 4,000 estuvieran al $6\\%$, el interés anual sería $240$ y el total no llegaría a $520$."
         },
         {
           "letter": "C",
           "text": "RD\\$ 6,000",
           "is_correct": true,
-          "feedback": "Correcto. $0.04(4000)+0.06(6000) = 160+360=520$."
+          "feedback": "Con $x$ al $4\\%$ y $10000 - x$ al $6\\%$: $0.04(4000) + 0.06(6000) = 160 + 360 = 520$, que es el total dado."
         },
         {
           "letter": "B",
           "text": "RD\\$ 5,000",
           "is_correct": false,
-          "feedback": "Incorrecto. Interés sería 500."
+          "feedback": "Con RD\\$ 5,000 y RD\\$ 5,000 el interés anual sería $\\frac{4+6}{2} = 5\\%$ sobre $10000$, es decir $500$, no $520$."
         },
         {
           "letter": "D",
           "text": "RD\\$ 2,000",
           "is_correct": false,
-          "feedback": "Incorrecto. Insuficiente."
+          "feedback": "Si sólo se pusieran RD\\$ 2,000$ al $6\\%$ con $8000$ al $4\\%$, el interés sería $320 + 120 = 440$, menor que $520$."
         }
       ],
       "correct_answer": "C",
@@ -871,25 +871,25 @@
           "letter": "B",
           "text": "20",
           "is_correct": false,
-          "feedback": "Incorrecto. Es la suma de los resultados."
+          "feedback": "El 20 es la suma de los lados derechos $5 + 7 + 8$, pero al sumar las tres ecuaciones cada incógnita aparece dos veces, así que esa suma es $2(x+y+z)$."
         },
         {
           "letter": "A",
           "text": "10",
           "is_correct": true,
-          "feedback": "Correcto. $2(x+y+z) = 20 \\implies 10$."
+          "feedback": "Al sumar $x+y=5$, $y+z=7$ y $x+z=8$ se obtiene $2(x+y+z) = 20$, y por tanto $x+y+z = 10$."
         },
         {
           "letter": "C",
           "text": "15",
           "is_correct": false,
-          "feedback": "Incorrecto. Excedido."
+          "feedback": "El 15 excede la suma pedida: como cada incógnita se cuenta dos veces, el total nunca puede superar $\\frac{20}{2} = 10$."
         },
         {
           "letter": "D",
           "text": "7.5",
           "is_correct": false,
-          "feedback": "Incorrecto. Insuficiente."
+          "feedback": "El 7.5 se obtiene al dividir los lados derechos entre cuatro, pero cada variable aparece exactamente dos veces, luego el divisor es $2$."
         }
       ],
       "correct_answer": "A",

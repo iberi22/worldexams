@@ -601,25 +601,25 @@
           "letter": "A",
           "text": "studied / will be",
           "is_correct": false,
-          "feedback": "Incorrect. Inconsistent tenses."
+          "feedback": "'Studied' is the past simple and 'will be' is future, so the two tenses do not match each other."
         },
         {
           "letter": "B",
           "text": "had studied / would be",
           "is_correct": true,
-          "feedback": "Correct. Mixed conditional (past condition, present result)."
+          "feedback": "Correct. 'If' plus the past perfect 'had studied' sets a past condition, and 'would be' gives its present consequence, which is the mixed conditional."
         },
         {
           "letter": "C",
           "text": "study / would be",
           "is_correct": false,
-          "feedback": "Incorrect. Inconsistent tenses."
+          "feedback": "'Study' is the base form and does not form the past perfect that the mixed conditional needs."
         },
         {
           "letter": "D",
           "text": "have studied / am",
           "is_correct": false,
-          "feedback": "Incorrect. Present perfect / present."
+          "feedback": "'Have studied' plus 'am' mixes the Present Perfect with the Present Simple; the sentence describes a hypothetical past condition with a present result."
         }
       ],
       "correct_answer": "B",
@@ -736,25 +736,25 @@
           "letter": "A",
           "text": "much",
           "is_correct": false,
-          "feedback": "Incorrect. While common, 'significantly' is better here."
+          "feedback": "'Much' is common in this position but it is too weak to express the large difference the sentence claims."
         },
         {
           "letter": "B",
           "text": "significantly",
           "is_correct": true,
-          "feedback": "Correct. An adverb used to indicate a large or important amount."
+          "feedback": "Correct. 'Significantly' is the adverb form and it modifies the adjective 'efficient', showing a large and important difference."
         },
         {
           "letter": "C",
           "text": "significant",
           "is_correct": false,
-          "feedback": "Incorrect. Adjective where an adverb is needed."
+          "feedback": "'Significant' is the adjective form, but the position before the adjective needs an adverb."
         },
         {
           "letter": "D",
           "text": "significance",
           "is_correct": false,
-          "feedback": "Incorrect. Noun."
+          "feedback": "'Significance' is the noun, so it cannot modify 'efficient' in that position."
         }
       ],
       "correct_answer": "B",
@@ -826,25 +826,25 @@
           "letter": "A",
           "text": "will be",
           "is_correct": false,
-          "feedback": "Incorrect. Present/future."
+          "feedback": "'Will be' is future, but the sentence describes an unreal situation in the past."
         },
         {
           "letter": "B",
           "text": "would be",
           "is_correct": false,
-          "feedback": "Incorrect. Second conditional."
+          "feedback": "'Would be' is the second conditional, used for present or general unreal situations, not for an unreal past outcome."
         },
         {
           "letter": "C",
           "text": "would have been",
           "is_correct": true,
-          "feedback": "Correct. Third conditional for a hypothetical past result."
+          "feedback": "Correct. 'Would have been' with 'if the team had' is the third conditional, which describes a past result that did not happen because the condition was not met."
         },
         {
           "letter": "D",
           "text": "is",
           "is_correct": false,
-          "feedback": "Incorrect. Present tense."
+          "feedback": "'Is' is present simple and cannot express the hypothetical past outcome the sentence describes."
         }
       ],
       "correct_answer": "C",

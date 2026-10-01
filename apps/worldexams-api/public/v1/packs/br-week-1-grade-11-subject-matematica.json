@@ -1783,13 +1783,13 @@
           "letter": "C",
           "text": "$X = 2Y$",
           "is_correct": false,
-          "feedback": "A relação correta é a igualdade."
+          "feedback": "Como X = Y para todo conjunto não vazio, o dobro de Y nunca puede ser igual a X; essa relação não se sustenta."
         },
         {
           "letter": "D",
           "text": "$X = Y/2$",
           "is_correct": false,
-          "feedback": "A relação correta é a igualdade."
+          "feedback": "Se X = Y, então Y/2 só seria igual a X quando Y = 0, o que contraria o fato de ambos valerem 2^(n-1)."
         }
       ],
       "correct_answer": "B",

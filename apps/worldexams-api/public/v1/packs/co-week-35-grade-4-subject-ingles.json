@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "football",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A football is traditionally a black and white ball, and it is played with the feet on a field."
         },
         {
           "letter": "B",
           "text": "basketball",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A basketball is orange, not black and white."
         },
         {
           "letter": "C",
           "text": "tennis",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A tennis ball is yellow-green, not black and white."
         },
         {
           "letter": "D",
           "text": "golf",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A golf ball is white and is hit with a club on a green, not with the foot."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "hockey",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Hockey is played with a stick on ice, and the puck is not put in a basket."
         },
         {
           "letter": "B",
           "text": "basketball",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. In basketball you jump to shoot the ball into a hoop hung from a backboard."
         },
         {
           "letter": "C",
           "text": "football",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "In football the ball is kicked into a goal, not into a basket."
         },
         {
           "letter": "D",
           "text": "baseball",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Baseball is played with a bat on a diamond and there is no basket."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "karate",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Karate is a martial art fought with the bare hands; there is no racket or ball."
         },
         {
           "letter": "B",
           "text": "swimming",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Swimming takes place in water and needs no racket."
         },
         {
           "letter": "C",
           "text": "tennis",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Tennis is played with a racket and a small hollow yellow ball over a net."
         },
         {
           "letter": "D",
           "text": "boxing",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Boxing is fought with fists and gloves, without a racket."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "running",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Running is done on the ground; the sea is not the place for it."
         },
         {
           "letter": "B",
           "text": "cycling",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Cycling needs a bicycle and a road or a track."
         },
         {
           "letter": "C",
           "text": "skating",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Skating is done on skates on ice or a rink, not in the sea."
         },
         {
           "letter": "D",
           "text": "surfing",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Surfing means riding the waves on a surfboard in the sea."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "baseball",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Baseball uses a bat to hit a ball and to run the bases around a diamond."
         },
         {
           "letter": "B",
           "text": "football",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Football is played with the feet, and no bat is used."
         },
         {
           "letter": "C",
           "text": "volleyball",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Volleyball is played with the hands over a net."
         },
         {
           "letter": "D",
           "text": "rugby",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Rugby is also played with the feet and without a bat."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "climbing",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Climbing a mountain is not an activity done on a bicycle on the road."
         },
         {
           "letter": "B",
           "text": "cycling",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Cycling is the activity of riding a bicycle."
         },
         {
           "letter": "C",
           "text": "swimming",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Swimming happens in water and needs no bicycle."
         },
         {
           "letter": "D",
           "text": "walking",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Walking is done on foot, so the bicycle would not be used."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "soccer",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Soccer is played with the feet and the goal is a full-size net."
         },
         {
           "letter": "B",
           "text": "golf",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Golf is played with a club on a course with holes."
         },
         {
           "letter": "C",
           "text": "volleyball",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Volleyball uses the hands to send the ball over a high net for each team."
         },
         {
           "letter": "D",
           "text": "football",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Football is played mainly with the feet, not with the hands over a net."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "sleeping",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Sleeping is resting, the opposite of running fast."
         },
         {
           "letter": "B",
           "text": "eating",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Eating is not a form of running."
         },
         {
           "letter": "C",
           "text": "sitting",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Sitting means staying still in one place, not moving quickly."
         },
         {
           "letter": "D",
           "text": "sprinting",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A sprint is a short race run at maximum speed, so running very fast is sprinting."
         }
       ],
       "correct_answer": "D",

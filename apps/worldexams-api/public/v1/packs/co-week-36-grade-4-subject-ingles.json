@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "rainy",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "When it is raining the weather is rainy."
         },
         {
           "letter": "B",
           "text": "sunny",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Sunny is the opposite of raining; the stem says it is raining."
         },
         {
           "letter": "C",
           "text": "dry",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Dry means there is no rain, which contradicts the stem."
         },
         {
           "letter": "D",
           "text": "clear",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Clear' means the sky is bright, which again contradicts the rain."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "shout",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A shout is something you make with your voice, not a thing you have on your face."
         },
         {
           "letter": "B",
           "text": "smile",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A smile is the big expression on your face that shows you are happy."
         },
         {
           "letter": "C",
           "text": "frown",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A frown is the opposite expression, used when you are unhappy or worried."
         },
         {
           "letter": "D",
           "text": "cry",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A cry is a sound made with tears; you cry, you do not wear a cry."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "swim",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You swim in water, not in the library."
         },
         {
           "letter": "B",
           "text": "cook",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You cook food, usually in the kitchen."
         },
         {
           "letter": "C",
           "text": "read",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "You read books, and that is what you do in the library."
         },
         {
           "letter": "D",
           "text": "dance",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You dance with music and movement, not with books."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "eating",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Eating is a daily activity, not a sport."
         },
         {
           "letter": "B",
           "text": "sleeping",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Sleeping is what you do at night, not a sport."
         },
         {
           "letter": "C",
           "text": "reading",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Reading is a hobby, not a sport."
         },
         {
           "letter": "D",
           "text": "football",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Football is a sport, and it is the one that is played with a ball."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "tired",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Not sleeping at night leaves you tired."
         },
         {
           "letter": "B",
           "text": "happy",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Being happy is the opposite of how you feel after a sleepless night."
         },
         {
           "letter": "C",
           "text": "excited",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Excitement is not what a tired person feels."
         },
         {
           "letter": "D",
           "text": "energetic",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Energetic is the opposite of tired; you feel low on energy."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "the fridge",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A fridge is cold inside, so it is not the hot place described."
         },
         {
           "letter": "B",
           "text": "summer",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Summer is the season that is very hot."
         },
         {
           "letter": "C",
           "text": "winter",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Winter is the cold season."
         },
         {
           "letter": "D",
           "text": "night",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Night can be cool, and it is a time of day rather than a season."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "books",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You do not play 'video books'; books are for reading."
         },
         {
           "letter": "B",
           "text": "pens",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You do not play 'video pens'; pens are for writing."
         },
         {
           "letter": "C",
           "text": "games",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "You play video games on a screen or a console."
         },
         {
           "letter": "D",
           "text": "balls",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Video balls' is not an expression; you play ball, but not on a video."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "water",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Water is for drinking, not for drawing lines on paper."
         },
         {
           "letter": "B",
           "text": "food",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Food is not a drawing tool."
         },
         {
           "letter": "C",
           "text": "shoes",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Shoes are worn on the feet; you do not draw with them."
         },
         {
           "letter": "D",
           "text": "crayons",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Crayons are the coloured pencils you draw with."
         }
       ],
       "correct_answer": "D",

@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "like",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "\"They are delicious\" means you like them, and the verb that agrees with \"I\" here is \"like\"."
         },
         {
           "letter": "B",
           "text": "don't like",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "\"Don't like\" means the food is not tasty, which contradicts \"they are delicious\"."
         },
         {
           "letter": "C",
           "text": "hate",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "\"Hate\" means you like it very, very little, which contradicts \"delicious\"."
         },
         {
           "letter": "D",
           "text": "dislike",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "\"Dislike\" means you do not enjoy the food, which is the opposite of calling it delicious."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "prefer",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "\"Prefer\" means you like one thing more than another; here you are saying you simply do not like onions."
         },
         {
           "letter": "B",
           "text": "don't like",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "\"I think they are bad\" matches the negative form \"don't like\", so that completes the answer."
         },
         {
           "letter": "C",
           "text": "love",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "\"Love\" means you like something very much, which is the opposite of \"they are bad\"."
         },
         {
           "letter": "D",
           "text": "like",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "\"Like\" is the positive form; it does not match \"I think they are bad\"."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "don't",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "In a short answer after \"Do you...\", the negative form is \"don't\", so it cannot be \"Yes, I don't\"."
         },
         {
           "letter": "B",
           "text": "am",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "\"Am\" is the verb \"be\" used with \"I\"; the question \"Do you like...?\" needs \"do\" or \"don't\"."
         },
         {
           "letter": "C",
           "text": "do",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "After \"Yes, I\", you repeat the auxiliary verb of the question, and the question is \"Do you...?\", so it is \"do\"."
         },
         {
           "letter": "D",
           "text": "does",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "\"Does\" is used with he, she and it, not with \"I\"."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "do",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "\"Yes, I do\" answers \"yes\"; the short answer here starts with \"No\", so it cannot be \"do\"."
         },
         {
           "letter": "B",
           "text": "doesn't",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "\"Doesn't\" goes with he, she or it; the subject of this short answer is \"I\"."
         },
         {
           "letter": "C",
           "text": "not",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "\"Not\" cannot stand alone as a short answer; it needs the auxiliary, as in \"I don't\"."
         },
         {
           "letter": "D",
           "text": "don't",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "After \"No, I\" you need the negative auxiliary \"don't\", so that completes the answer."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "is",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "\"My favorite food\" is singular (one food), so it takes \"is\" in the present simple."
         },
         {
           "letter": "B",
           "text": "am",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "\"Am\" goes with the pronoun \"I\", not with a thing like \"my favorite food\"."
         },
         {
           "letter": "C",
           "text": "are",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "\"Are\" is used with a plural subject; \"food\" here is singular."
         },
         {
           "letter": "D",
           "text": "be",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "\"Be\" is the plain form used after modals; a singular subject needs \"is\"."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "am",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "\"Am\" is a form of the verb \"be\"; the sentence needs a verb of liking such as \"love\"."
         },
         {
           "letter": "B",
           "text": "love",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "\"Love\" means you like something very much, and chocolate is called a favorite, so that is the answer."
         },
         {
           "letter": "C",
           "text": "hate",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "\"Hate\" means you dislike something a lot, which contradicts \"it is my favorite\"."
         },
         {
           "letter": "D",
           "text": "dislike",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "\"Dislike\" means you do not enjoy it, which is the opposite of \"my favorite\"."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "is",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "\"Is\" is a form of \"be\"; the short answer after \"Does\" needs the verb \"do\"."
         },
         {
           "letter": "B",
           "text": "am",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "\"Am\" goes with \"I\"; the subject of this question is \"she\"."
         },
         {
           "letter": "C",
           "text": "does",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "In a short answer you repeat the auxiliary of the question, and the question is \"Does she...?\", so it is \"does\"."
         },
         {
           "letter": "D",
           "text": "do",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "\"Do\" goes with I, you, we and they; \"she\" takes \"does\"."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "don't",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "\"Don't\" goes with I, you, we and they; the subject here is \"he\"."
         },
         {
           "letter": "B",
           "text": "is not",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "\"Is not\" is a form of \"be\", but the question is built with \"Does\", so the short answer needs \"doesn't\"."
         },
         {
           "letter": "C",
           "text": "has",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "\"Has\" is the verb for possession; the sentence is about liking, not owning."
         },
         {
           "letter": "D",
           "text": "doesn't",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "After \"No, he\" you repeat the negative auxiliary of the question \"Does he...\", which is \"doesn't\"."
         }
       ],
       "correct_answer": "D",

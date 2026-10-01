@@ -28,7 +28,7 @@
           "letter": "C",
           "text": "would",
           "is_correct": false,
-          "feedback": "Incorrect meaning."
+          "feedback": "'Would' belongs to the second conditional for a hypothetical case, and this sentence states practical diet advice rather than an imagined situation."
         },
         {
           "letter": "D",
@@ -108,7 +108,7 @@
           "letter": "A",
           "text": "should to",
           "is_correct": false,
-          "feedback": "Incorrect grammar."
+          "feedback": "A modal is followed either by a bare infinitive or by 'to' plus a verb, so 'should to' combines two patterns that cannot meet."
         },
         {
           "letter": "B",
@@ -172,7 +172,7 @@
           "letter": "D",
           "text": "will",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Will' states a certain future prediction, but an expert report that only 'suggests' is recommending rather than announcing."
         }
       ],
       "correct_answer": "A",
@@ -246,7 +246,7 @@
           "letter": "B",
           "text": "would",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Would' belongs to the second conditional for a hypothetical situation and does not state the firm advice this sentence needs."
         },
         {
           "letter": "A",
@@ -258,13 +258,13 @@
           "letter": "C",
           "text": "should to",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Should' cannot be followed directly by 'to'; a modal is either followed by a bare infinitive or by 'to' plus a noun."
         },
         {
           "letter": "D",
           "text": "ought",
           "is_correct": false,
-          "feedback": "Missing 'to'."
+          "feedback": "'Ought' has to be used with 'to', as in 'ought to avoid', so the bare form is incomplete."
         }
       ],
       "correct_answer": "A",
@@ -304,13 +304,13 @@
           "letter": "C",
           "text": "ought not eat",
           "is_correct": false,
-          "feedback": "Incorrect tense."
+          "feedback": "'Ought' needs 'to' before the infinitive, and even 'ought not to eat' would be about the present, not about what happened last night."
         },
         {
           "letter": "D",
           "text": "didn't have to eat",
           "is_correct": false,
-          "feedback": "Incorrect meaning."
+          "feedback": "'Didn't have to' means there was no obligation, which is not what the speaker is criticising; the eating certainly happened."
         }
       ],
       "correct_answer": "A",
@@ -338,7 +338,7 @@
           "letter": "B",
           "text": "should",
           "is_correct": false,
-          "feedback": "Incorrect with 'to'."
+          "feedback": "This modal is followed directly by 'to' and the infinitive, so 'should to drink' doubles the marker. 'Should drink' would be right, but the sentence already supplies the 'to'."
         },
         {
           "letter": "A",
@@ -350,13 +350,13 @@
           "letter": "C",
           "text": "must",
           "is_correct": false,
-          "feedback": "Incorrect with 'to'."
+          "feedback": "'Must' can only mean obligation here, and it leaves no room for the 'though needs vary' clause that qualifies the claim."
         },
         {
           "letter": "D",
           "text": "had better",
           "is_correct": false,
-          "feedback": "Incorrect with 'to'."
+          "feedback": "'Had better' takes the bare infinitive and adds urgency, which clashes with 'it is often said', a distant and impersonal report."
         }
       ],
       "correct_answer": "A",
@@ -402,7 +402,7 @@
           "letter": "D",
           "text": "would rather",
           "is_correct": false,
-          "feedback": "Incorrect meaning."
+          "feedback": "'Would rather' expresses a preference for one option over another, as in 'I would rather walk', and it needs a second alternative to compare against."
         }
       ],
       "correct_answer": "B",
@@ -448,7 +448,7 @@
           "letter": "D",
           "text": "would / can be",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Would not' is the second conditional and 'can be' states general possibility, so neither half carries the strong warning about a specific set of symptoms."
         }
       ],
       "correct_answer": "C",
@@ -476,13 +476,13 @@
           "letter": "A",
           "text": "should do",
           "is_correct": false,
-          "feedback": "Incorrect tense."
+          "feedback": "'Should do' can only point forward, but the sentence criticises what the government failed to do years ago."
         },
         {
           "letter": "C",
           "text": "ought to do",
           "is_correct": false,
-          "feedback": "Incorrect tense."
+          "feedback": "'Ought to do' has the same problem: it describes what should happen, not what should have happened at a past moment."
         },
         {
           "letter": "B",
@@ -494,7 +494,7 @@
           "letter": "D",
           "text": "had better do",
           "is_correct": false,
-          "feedback": "Incorrect tense."
+          "feedback": "'Had better' gives advice for the present, and it does not take a past reference the way 'should have done' does."
         }
       ],
       "correct_answer": "B",
@@ -528,19 +528,19 @@
           "letter": "B",
           "text": "is / make",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "After 'it is strongly recommended that', English requires the subjunctive 'be', not the indicative 'is'."
         },
         {
           "letter": "C",
           "text": "was / to make",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Was' would point at a past recommendation, and 'to make' is a to-infinitive where the sentence needs a gerund after the preposition."
         },
         {
           "letter": "D",
           "text": "should be / made",
           "is_correct": false,
-          "feedback": "'Made' is incorrect here."
+          "feedback": "'Should be' would add a modal to a structure that already carries the verb of recommendation, and 'made' is a past participle where a gerund belongs."
         }
       ],
       "correct_answer": "A",

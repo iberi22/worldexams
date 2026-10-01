@@ -601,7 +601,7 @@
           "letter": "A",
           "text": "will have",
           "is_correct": false,
-          "feedback": "Incorrect. Present/future."
+          "feedback": "After \"would\" the past participle is required: the form is \"would have\", never \"would will have\"."
         },
         {
           "letter": "D",
@@ -619,7 +619,7 @@
           "letter": "C",
           "text": "would had",
           "is_correct": false,
-          "feedback": "Incorrect grammar."
+          "feedback": "A modal verb takes the bare infinitive, so \"would had\" is wrong; the correct pair is \"would have\"."
         }
       ],
       "correct_answer": "D",

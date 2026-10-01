@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence describes a morning routine correctly?",
+      "context": "Rutinas diarias, grado 3.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "text": "She get up at six and eat breakfast.",
+          "is_correct": false,
+          "feedback": "Both verbs need the -s of the third person singular."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "She is get up at six and eat breakfast.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The present continuous does not describe a daily habit."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "She get up at six and is eat breakfast.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Mixing two present forms leaves the sentence ungrammatical."
         },
         {
           "letter": "D",
-          "text": "currency",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "She gets up at six and eats breakfast.",
+          "is_correct": true,
+          "feedback": "'Gets up' shows the third person singular of the routine."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Las rutinas se expresan en presente simple con la tercera persona singular terminada en -s.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lexico",
+      "bloom": "Apply",
+      "icfes_type": "Pragmatic Competence",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle",
       "periodo": 19,
@@ -55,41 +55,41 @@
     },
     {
       "id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "What does the expression 'get dressed' mean?",
+      "context": "Rutinas diarias, grado 3.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
+          "text": "To put on your clothes.",
           "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "feedback": "'Get dressed' is the fixed expression for putting on clothes."
         },
         {
           "letter": "B",
-          "text": "baggage",
+          "text": "To clean your room.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That would be 'clean your room'."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "To brush your teeth.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That would be 'brush your teeth'."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "To make the bed.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That would be 'make the bed'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "explanation": "'Get dressed' significa ponerse la ropa, una accion habitual de la manana. El mismo criterio se aplica al resto del vocabulario del tema.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Lexico",
+      "icfes_type": "Pragmatic Competence",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle",
       "periodo": 19,
@@ -101,41 +101,41 @@
     },
     {
       "id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete: 'After school I ____ my homework and then I play.'",
+      "context": "Orden de una rutina, grado 3.",
       "options": [
         {
-          "letter": "B",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "letter": "A",
+          "text": "does",
+          "is_correct": false,
+          "feedback": "'Does' is the third person singular form and does not agree with 'I'."
         },
         {
-          "letter": "A",
-          "text": "departure",
+          "letter": "B",
+          "text": "am doing",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Am doing' would be present continuous, a different tense."
         },
         {
           "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "do",
+          "is_correct": true,
+          "feedback": "'Do my homework' is the standard expression with the base form after 'I'."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "doing",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A gerund alone cannot act as the verb of the clause."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "La segunda parte usa el presente simple con 'I', por lo que el verbo va en forma base.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
+      "icfes_type": "Pragmatic Competence",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle",
       "periodo": 19,
@@ -147,41 +147,41 @@
     },
     {
       "id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the word that means 'to go to bed'.",
+      "context": "Vocabulario de rutinas, grado 3.",
       "options": [
         {
-          "letter": "C",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "go to school",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Go to school' refers to attending lessons."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "go to bed",
+          "is_correct": true,
+          "feedback": "'Go to bed' is the standard expression for going to sleep."
+        },
+        {
+          "letter": "C",
+          "text": "go to work",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Go to work' refers to an adult job."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "go home",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Go home' returns to one's house, not necessarily to sleep."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "'Go to bed' es la expresion fija para acostarse. Esta estructura se repite con otros sustantivos del mismo grupo.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
+      "bloom": "Remember",
+      "icfes_type": "Pragmatic Competence",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle",
       "periodo": 19,
@@ -193,41 +193,41 @@
     },
     {
       "id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Look at the text: 'Carlos brushes his teeth, washes his face and goes to school.' What is the main idea?",
+      "context": "Comprension de una rutina, grado 3.",
       "options": [
         {
-          "letter": "D",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
+          "text": "It describes how to brush teeth.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Only one action is detailed; the text covers the whole routine."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "It explains why school is important.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The text never states a reason or opinion about school."
         },
         {
           "letter": "C",
-          "text": "tourist",
+          "text": "It describes Carlos's morning routine.",
+          "is_correct": true,
+          "feedback": "All three actions belong to a morning routine."
+        },
+        {
+          "letter": "D",
+          "text": "It compares Carlos with another student.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No other student appears in the text."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "Las tres acciones descritas forman parte de la rutina matutina de Carlos. La regla se aprende junto con los demas ejemplos de la unidad.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
+      "bloom": "Understand",
+      "icfes_type": "Pragmatic Competence",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle",
       "periodo": 19,
@@ -239,41 +239,41 @@
     },
     {
       "id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses the present simple correctly with a plural subject?",
+      "context": "Concordancia verbal, grado 3.",
       "options": [
         {
-          "letter": "D",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "security",
+          "text": "My friends plays football on Sundays.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The -s would be required only for he, she or it."
         },
         {
           "letter": "B",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "My friends play football on Sundays.",
+          "is_correct": true,
+          "feedback": "'Friends' is plural, so the base form 'play' is correct."
         },
         {
           "letter": "C",
-          "text": "gate",
+          "text": "My friends is play football on Sundays.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The singular auxiliary 'is' contradicts the plural subject."
+        },
+        {
+          "letter": "D",
+          "text": "My friends are play football on Sundays.",
+          "is_correct": false,
+          "feedback": "'Are' plus the bare verb 'play' is not a valid combination."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Un sujeto plural no lleva -s en el presente simple; el verbo aparece en forma base. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
+      "icfes_type": "Pragmatic Competence",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle",
       "periodo": 19,
@@ -285,41 +285,41 @@
     },
     {
       "id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the best time expression for a habit: 'She ____ coffee every morning.'",
+      "context": "Marcadores de frecuencia, grado 3.",
       "options": [
         {
-          "letter": "D",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "drinks",
+          "is_correct": true,
+          "feedback": "'Every morning' marks a habit, so the present simple 'drinks' is required."
         },
         {
           "letter": "B",
-          "text": "receipt",
+          "text": "is drinking",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The present continuous would suggest an action in progress right now."
         },
         {
           "letter": "C",
-          "text": "brochure",
+          "text": "will drink",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Will' refers to a future action, not to a daily routine."
+        },
+        {
+          "letter": "D",
+          "text": "has drunk",
+          "is_correct": false,
+          "feedback": "The present perfect would connect the action to an unspecified past time."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "'Every morning' indica una accion habitual y por eso pide el presente simple. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
+      "bloom": "Apply",
+      "icfes_type": "Pragmatic Competence",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle",
       "periodo": 19,
@@ -331,41 +331,41 @@
     },
     {
       "id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "What does 'usually' tell us in the sentence: 'I usually walk to school'?",
+      "context": "Adverbios de frecuencia, grado 3.",
       "options": [
         {
-          "letter": "C",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
+          "text": "It happens exactly once.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Once' describes frequency, but 'usually' is the opposite of 'once'."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "It never happens.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Never' is the opposite of 'usually'."
+        },
+        {
+          "letter": "C",
+          "text": "It happened in the past.",
+          "is_correct": false,
+          "feedback": "'Usually' is a frequency adverb, not a time marker."
         },
         {
           "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "It happens often but not always.",
+          "is_correct": true,
+          "feedback": "'Usually' marks a high frequency without being absolute."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "'Usually' indica que la accion ocurre con frecuencia pero no siempre. Conviene practicarlo con otros ejemplos antes del examen.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
+      "bloom": "Understand",
+      "icfes_type": "Pragmatic Competence",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W19-daily-routines-1-001-MASTERY-bundle",
       "periodo": 19,

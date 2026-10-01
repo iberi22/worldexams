@@ -556,25 +556,25 @@
           "letter": "A",
           "text": "$1/2$",
           "is_correct": false,
-          "feedback": "Valor incorrecto."
+          "feedback": "$\\cos \\alpha = 1/2$ correspondería a un ángulo de $60^\\circ$, pero el producto escalar da $\\alpha = 45^\\circ$."
         },
         {
           "letter": "B",
           "text": "$1/\\sqrt{2}$",
           "is_correct": true,
-          "feedback": "Correcto. $\\cos(\\alpha) = \\frac{\\vec{u} \\cdot \\vec{v}}{|\\vec{u}| |\\vec{v}|} = \\frac{6}{3 \\cdot \\sqrt{8}} = \\frac{6}{3 \\cdot 2\\sqrt{2}} = 1/\\sqrt{2}$."
+          "feedback": "$\\cos(\\alpha) = \\frac{\\vec{u} \\cdot \\vec{v}}{|\\vec{u}||\\vec{v}|} = \\frac{6}{3 \\cdot 2\\sqrt{2}} = \\frac{1}{\\sqrt{2}}$, que es el coseno de $45^\\circ$."
         },
         {
           "letter": "C",
           "text": "$1$",
           "is_correct": false,
-          "feedback": "Solo si fueran paralelos y del mismo sentido."
+          "feedback": "El coseno vale 1 sólo si los vectores son paralelos y del mismo sentido; aquí el producto escalar es menor que el producto de los módulos."
         },
         {
           "letter": "D",
           "text": "$\\sqrt{3}/2$",
           "is_correct": false,
-          "feedback": "Valor incorrecto."
+          "feedback": "$\\sqrt{3}/2$ es el coseno de $30^\\circ$, y este ángulo mide $45^\\circ$."
         }
       ],
       "correct_answer": "B",

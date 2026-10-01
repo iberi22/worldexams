@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "father",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Your mother's husband is your father."
         },
         {
           "letter": "B",
           "text": "brother",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Your brother is the son of your parents, not the husband of your mother."
         },
         {
           "letter": "C",
           "text": "uncle",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Your uncle is your parent's brother, not your mother's husband."
         },
         {
           "letter": "D",
           "text": "cousin",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A cousin is the child of your uncle or aunt, not a spouse."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "sister",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Your father's sister is your aunt; a sister of your father is his female sibling."
         },
         {
           "letter": "B",
           "text": "aunt",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Your father's sister is your aunt."
         },
         {
           "letter": "C",
           "text": "mother",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Your mother is your father's wife, not his sister."
         },
         {
           "letter": "D",
           "text": "grandmother",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Your grandmother is your parent's mother, one generation further back."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "uncle",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "An uncle is the brother of your parent, outside your parents' own children."
         },
         {
           "letter": "B",
           "text": "nephew",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A nephew is the son of your sibling, not the son of your parents."
         },
         {
           "letter": "C",
           "text": "brother",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Your parents' son is your brother (or yourself, if you are a boy)."
         },
         {
           "letter": "D",
           "text": "daughter",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A daughter is the female child of your parents, so the word needs the 'son'."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "grandfather",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Your grandfather is your father's father, the male parent of your parent."
         },
         {
           "letter": "B",
           "text": "aunt",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "An aunt is the sister of your parent, not the mother of your mother."
         },
         {
           "letter": "C",
           "text": "cousin",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A cousin is the child of your uncle or aunt."
         },
         {
           "letter": "D",
           "text": "grandmother",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Your mother's mother is your grandmother."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "child",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Your parents are your fathers and mothers, and you are their child."
         },
         {
           "letter": "B",
           "text": "parent",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A parent is above you in the family; you cannot be your own parent."
         },
         {
           "letter": "C",
           "text": "grandparent",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A grandparent is two generations up, not your parents."
         },
         {
           "letter": "D",
           "text": "sibling",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A sibling is another child of your parents, the brother or sister of the speaker."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "grandfather",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Your grandfather is two generations above you, while your uncle is your parent's generation."
         },
         {
           "letter": "B",
           "text": "cousin",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Your uncle's son is your cousin."
         },
         {
           "letter": "C",
           "text": "brother",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Your brother shares your parents; your uncle's children have different parents."
         },
         {
           "letter": "D",
           "text": "father",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Your father is one generation above you, not the son of your uncle."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "mother",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A mother is the female parent of someone, a generation above you."
         },
         {
           "letter": "B",
           "text": "aunt",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "An aunt is the sister of your parent, not your own sister."
         },
         {
           "letter": "C",
           "text": "sister",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A girl sibling is your sister."
         },
         {
           "letter": "D",
           "text": "brother",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A boy sibling is your brother; the stem says the sibling is a girl."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "Grandmother",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Your grandmother is the mother of your father, so she is not the 'father of' him."
         },
         {
           "letter": "B",
           "text": "Uncle",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "An uncle is your father's brother, not his father."
         },
         {
           "letter": "C",
           "text": "Nephew",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A nephew is the son of your sibling, a generation below."
         },
         {
           "letter": "D",
           "text": "Grandfather",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "The father of your father is your grandfather."
         }
       ],
       "correct_answer": "D",

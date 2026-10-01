@@ -298,13 +298,13 @@
           "letter": "C",
           "text": "$8$",
           "is_correct": false,
-          "feedback": "Incorreto. g(2)=5."
+          "feedback": "Com $g(2)=5$, subtrair de $f(3)=9$ dá $4$; o valor $8$ vem de somar $9$ e $5$ em vez de subtrair."
         },
         {
           "letter": "D",
           "text": "$2$",
           "is_correct": false,
-          "feedback": "Incorreto. g(2)=5."
+          "feedback": "Com $f(3)=9$ e $g(2)=5$, o resultado é $9-5=4$; o valor $2$ sai de uma subtração errada, não da fórmula."
         }
       ],
       "correct_answer": "A",
@@ -343,13 +343,13 @@
           "letter": "C",
           "text": "$-1$",
           "is_correct": false,
-          "feedback": "Incorreto. a=3,b=-2."
+          "feedback": "Com $a=3$ e $b=-2$, temos $a+b=1$; o valor $-1$ troca os sinais dos dois termos."
         },
         {
           "letter": "D",
           "text": "$3$",
           "is_correct": false,
-          "feedback": "Incorreto. a=3,b=-2."
+          "feedback": "O valor $3$ é apenas o coeficiente angular $a$; a soma pedida inclui $b=-2$ e resulta em $1$."
         }
       ],
       "correct_answer": "A",
@@ -382,7 +382,7 @@
           "letter": "A",
           "text": "$22$",
           "is_correct": false,
-          "feedback": "Incorreto. 1+7+13=21."
+          "feedback": "Somando corretamente, $1+7+13=21$; o valor $22$ provém de um erro de soma em um dos termos."
         },
         {
           "letter": "C",
@@ -394,7 +394,7 @@
           "letter": "D",
           "text": "$24$",
           "is_correct": false,
-          "feedback": "Incorreto. 1+7+13=21."
+          "feedback": "A soma é $21$; o valor $24$ resulta de somar $1+7+13$ contando um termo a mais."
         }
       ],
       "correct_answer": "B",
@@ -484,7 +484,7 @@
           "letter": "D",
           "text": "$5$",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "Em $ax+b$ o coeficiente angular é o número que multiplica $x$, ou seja $7$; o $-2$ é o termo independente $b$."
         }
       ],
       "correct_answer": "B",
@@ -523,13 +523,13 @@
           "letter": "B",
           "text": "$-2$",
           "is_correct": false,
-          "feedback": "Incorreto. -3+5=2."
+          "feedback": "Calculando, $f(3)=-3+5=2$; o valor $-2$ troca o sinal do resultado."
         },
         {
           "letter": "C",
           "text": "$-3$",
           "is_correct": false,
-          "feedback": "Incorreto. -3+5=2."
+          "feedback": "O valor $-3$ é apenas a parcela $-x$; ao somar $5$ obtém-se $f(3)=2$."
         }
       ],
       "correct_answer": "D",
@@ -664,7 +664,7 @@
           "letter": "D",
           "text": "$(4,0) e (0,2)$",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "Os pontos de uma reta devem estar em $f$: em $x=4$ temos $f(4)=12\neq0$, e $(0,2)$ não é o intercepto, que é $4$."
         }
       ],
       "correct_answer": "A",
@@ -703,13 +703,13 @@
           "letter": "C",
           "text": "$x=-1$",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "Em $x=-1$, $f=-2$ e $g=8$, então não são iguais; a solução é $x=1$."
         },
         {
           "letter": "D",
           "text": "$x=5$",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "Em $x=5$, $f=16$ e $g=-4$; a igualdade $3x+1=-2x+6$ dá $5x=5$ e portanto $x=1$."
         }
       ],
       "correct_answer": "A",
@@ -844,7 +844,7 @@
           "letter": "D",
           "text": "$4$",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "Com $a=3$ e $b=2$, temos $f(0)=b=2$; o valor $4$ viria de somar $a$ e $b$ em vez de tomar só $b$."
         }
       ],
       "correct_answer": "B",

@@ -286,7 +286,7 @@
           "letter": "A",
           "text": "are recognizing",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Are recognizing' is active and would need the graphic novels to be the ones doing the recognizing."
         },
         {
           "letter": "B",
@@ -304,7 +304,7 @@
           "letter": "D",
           "text": "have recognized",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Have recognized' is an active present perfect that would mean the recognition is already complete, losing the idea of an ongoing trend."
         }
       ],
       "correct_answer": "B",
@@ -388,7 +388,7 @@
           "letter": "B",
           "text": "use to",
           "is_correct": false,
-          "feedback": "Incorrect grammar."
+          "feedback": "The modal is 'used to' with the d: 'use to' is not a form of the verb at all, so the sentence has no way to express the past habit."
         },
         {
           "letter": "D",

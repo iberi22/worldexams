@@ -241,7 +241,7 @@
           "letter": "A",
           "text": "RD\\$ 150",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el cálculo de la tasa unitaria."
+          "feedback": "Si 3 libras cuestan RD$ 105, la tasa por libra es 105 / 3 = RD$ 35 y 5 libras cuestan 35 × 5 = RD$ 175, no RD$ 150."
         },
         {
           "letter": "D",
@@ -556,7 +556,7 @@
           "letter": "A",
           "text": "Ciudad B es más densa.",
           "is_correct": false,
-          "feedback": "Incorrecto. Sus razones son iguales."
+          "feedback": "Ciudad B da 75.000 / 15 = 5.000 hab/km², exactamente la misma densidad que la ciudad A, así que no es más densa."
         },
         {
           "letter": "C",

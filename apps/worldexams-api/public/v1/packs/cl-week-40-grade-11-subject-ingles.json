@@ -16,7 +16,7 @@
           "letter": "A",
           "text": "Fact",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "A \"fact\" is something true that can be verified; a metaphor is a non-literal figure of speech, which is not verifiable as a statement."
         },
         {
           "letter": "B",
@@ -28,13 +28,13 @@
           "letter": "C",
           "text": "Review",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "A \"review\" is an evaluation of a work or a product; the figure of speech described is a metaphor."
         },
         {
           "letter": "D",
           "text": "Draft",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "A \"draft\" is a first version of a text; the definition given describes a metaphor, a way of speaking."
         }
       ],
       "correct_answer": "B",
@@ -241,7 +241,7 @@
           "letter": "A",
           "text": "Suggestion",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "A \"suggestion\" is an informal proposal with no binding force; legislation is a law passed officially."
         },
         {
           "letter": "D",
@@ -253,13 +253,13 @@
           "letter": "B",
           "text": "Rumor",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "A \"rumor\" is unverified talk that spreads by word of mouth; a law is approved in a formal procedure."
         },
         {
           "letter": "C",
           "text": "Tradition",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "A \"tradition\" is a custom passed down over generations; legislation is written and enacted by a government."
         }
       ],
       "correct_answer": "D",
@@ -286,7 +286,7 @@
           "letter": "A",
           "text": "are developing",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "\"Are developing\" is active and would make the countries the ones doing the work; here the standards are what is being developed."
         },
         {
           "letter": "B",
@@ -304,7 +304,7 @@
           "letter": "D",
           "text": "have developed",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "\"Have developed\" is active and perfect; the standards are still being drafted, so the present continuous passive is correct."
         }
       ],
       "correct_answer": "B",
@@ -331,7 +331,7 @@
           "letter": "B",
           "text": "Isolation",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Isolation\" is the opposite of coexistence; pluralism exists precisely because several groups live side by side."
         },
         {
           "letter": "A",
@@ -349,7 +349,7 @@
           "letter": "D",
           "text": "Stagnation",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Stagnation\" means a lack of change or growth; pluralism describes active coexistence of different groups."
         }
       ],
       "correct_answer": "A",
@@ -394,7 +394,7 @@
           "letter": "D",
           "text": "have been",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Have been\" would place the empathy in the past, while the leader is arguing about what modern governance needs now."
         }
       ],
       "correct_answer": "A",
@@ -556,7 +556,7 @@
           "letter": "A",
           "text": "Greed",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Greed\" is wanting more for oneself regardless of others; integrity is holding firm to moral principles."
         },
         {
           "letter": "B",
@@ -568,13 +568,13 @@
           "letter": "C",
           "text": "Fame",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Fame\" is public reputation; integrity is about honesty and principles you refuse to change."
         },
         {
           "letter": "D",
           "text": "Speed",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Speed\" is how fast something happens; it has no bearing on honesty or moral strength."
         }
       ],
       "correct_answer": "B",
@@ -619,7 +619,7 @@
           "letter": "D",
           "text": "declines",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "With the present perfect continuous \"had been declining\" already in place, the simple present would restart the timeline and break the aspect."
         }
       ],
       "correct_answer": "C",
@@ -664,7 +664,7 @@
           "letter": "C",
           "text": "create",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "To transcend biases means to rise above them, whereas \"create\" would mean producing new ones."
         }
       ],
       "correct_answer": "D",
@@ -691,7 +691,7 @@
           "letter": "A",
           "text": "Fragility",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Fragility\" is the opposite of bouncing back from a setback; resilience is defined precisely as that capacity."
         },
         {
           "letter": "C",
@@ -703,13 +703,13 @@
           "letter": "B",
           "text": "Apathy",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Apathy\" is a lack of interest or care; resilience requires adapting actively to hard circumstances."
         },
         {
           "letter": "D",
           "text": "Envy",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Envy\" is resentment of what others have; it is unrelated to recovering from setbacks."
         }
       ],
       "correct_answer": "C",
@@ -742,19 +742,19 @@
           "letter": "A",
           "text": "listens",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Listens\" has an -s ending for a third person singular subject, but the subject here is the plural \"all parties\"."
         },
         {
           "letter": "C",
           "text": "to listen",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"To listen\" is an infinitive; after \"it is vital that\" the subjunctive takes the bare base form with no \"to\"."
         },
         {
           "letter": "D",
           "text": "listening",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "A gerund needs its own auxiliary; after \"it is vital that\" the base form \"listen\" is used."
         }
       ],
       "correct_answer": "B",
@@ -793,13 +793,13 @@
           "letter": "C",
           "text": "Ruralization",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Ruralization\" describes population moving to the countryside, the opposite of the urban renovation the term refers to."
         },
         {
           "letter": "D",
           "text": "Isolation",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Isolation\" means being separated; gentrification is the opposite, an influx that transforms a district."
         }
       ],
       "correct_answer": "B",
@@ -838,13 +838,13 @@
           "letter": "B",
           "text": "uses to",
           "is_correct": false,
-          "feedback": "Incorrect grammar."
+          "feedback": "\"Uses to\" is not an English construction; the correct forms are \"used to\" for a past habit and \"is getting used to\" for an ongoing process."
         },
         {
           "letter": "D",
           "text": "get used to",
           "is_correct": false,
-          "feedback": "Incorrect grammar."
+          "feedback": "\"Get used to\" is a bare infinitive and needs an auxiliary plus the -ing form of \"get\" to build the present continuous."
         }
       ],
       "correct_answer": "C",

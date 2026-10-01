@@ -511,25 +511,25 @@
           "letter": "A",
           "text": "are clearing",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Are clearing' is the active voice and would make the areas do the clearing; the areas are the ones being cleared."
         },
         {
           "letter": "C",
           "text": "are being cleared",
           "is_correct": true,
-          "feedback": "Correct. Present continuous passive for ongoing process."
+          "feedback": "Correct. 'Are being cleared' is the present continuous passive, used here for the destruction that is happening right now."
         },
         {
           "letter": "B",
           "text": "cleared",
           "is_correct": false,
-          "feedback": "Incorrect. Past simple."
+          "feedback": "'Cleared' on its own would be past simple, but the clearing is happening now, not in the past."
         },
         {
           "letter": "D",
           "text": "have cleared",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Have cleared' is the Present Perfect active, which would need the subject to perform the action."
         }
       ],
       "correct_answer": "C",
