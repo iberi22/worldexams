@@ -29,7 +29,7 @@ Esta semana profundizamos en el género narrativo y analizamos el cuento como su
 **ID:** CO-LEN-9-2026-W02-genero-narrativo-y-cuento-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Textual
-**Contexto:** La docente de Español de Bogotá pregunta a sus estudiantes de noveno grado qué ожидает que encuentra un lector al abrir un cuento.
+**Contexto:** La docente de Español de Bogotá pregunta a sus estudiantes de noveno grado qué espera encontrar un lector al abrir un cuento.
 **Expected_Success:** 0.85
 
 ### Enunciado

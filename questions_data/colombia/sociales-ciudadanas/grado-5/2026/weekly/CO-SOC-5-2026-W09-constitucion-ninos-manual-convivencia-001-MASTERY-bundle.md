@@ -63,7 +63,7 @@ Reconocer los derechos fundamentales de los niños en la Constitución colombian
   <!-- feedback: Los derechos de la infancia son la base para el ejercicio de los demás derechos en la adultez. -->
 - [ ] B) Porque la Constitución prohíbe hablar de los niños.
   <!-- feedback: La Constitución, por el contrario, visibiliza y protege a la infancia. -->
-- [ ] C) Porque solo el Estado debe protegerlos, sin участие de la familia.
+- [ ] C) Porque solo el Estado debe protegerlos, sin participación de la familia.
   <!-- feedback: La Constitución incluye a la familia, la sociedad y el Estado en la protección. -->
 
 ### Explicacion Pedagogica
