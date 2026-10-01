@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-37-grade-10-subject-lengua",
+    "generated_at": "2026-10-01T15:30:44.952Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-10-2026-W37-la-narrativa-oral-y-el-relato-001-MASTERY-bundle-v1",
+      "statement": "Según la estructura básica de un relato, ¿qué elementos son indispensables para que una historia tenga secuencia narrativa?",
+      "context": "En el Colegio Nacional de Tunja, la profesora de Español lee a los estudiantes de grado 10 la versión escrita del mito de Bochica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un narrador, unos personajes, un tiempo, un espacio y unos hechos que se organicen en un conflicto.",
+          "is_correct": true,
+          "feedback": "Correcto. La secuencia narrativa se sostiene en esas cinco piezas: el narrador da la voz, los personajes actúan, el tiempo y el espacio sitúan y los hechos relatados forman el conflicto y el desenlace."
+        },
+        {
+          "letter": "B",
+          "text": "Un título, una portada, un prólogo y una bibliografía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son elementos paratextuales de un libro publicado, no de la secuencia narrativa; un relato oral puede contar sin ninguno de ellos."
+        },
+        {
+          "letter": "C",
+          "text": "Una tesis, una demostración, una conclusión y unas fuentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas piezas corresponden al texto argumentativo, que busca convencer, no al relato, que narra lo que ocurrió."
+        },
+        {
+          "letter": "D",
+          "text": "Un diálogo, un monólogo, una descripción y una moraleja.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El relato puede no tener ninguno de esos cuatro recursos: un mito como el de Bochica funciona sin diálogo explícito ni moraleja final."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La secuencia narrativa se apoya en cinco elementos: narrador, personajes, tiempo, espacio y hechos. Recordarlos permite después analizar voces y conflitos sin perder de vista que el relato cuenta hechos en un tiempo y un espacio determinados.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-10-2026-W37-la-narrativa-oral-y-el-relato-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W37-la-narrativa-oral-y-el-relato-001-MASTERY-bundle-v2",
+      "statement": "¿Qué distingue a una narrativa propiamente oral de la versión escrita de esa misma historia?",
+      "context": "En una feria del Carmen en Bucaramanga, una abuelita cuenta a sus nietos la historia del río sin usar libro alguno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la versión oral usa siempre el pasado imperfecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tiempo verbal cambia según el propósito del hablante, no por ser oral; un narrador oral puede usar el presente y uno escrito el pasado."
+        },
+        {
+          "letter": "B",
+          "text": "Que se produce y se transmite en la voz, con ritmo, gesto y relación directa con quien escucha.",
+          "is_correct": true,
+          "feedback": "Correcto. La oralidad está en el canal: la voz viva, la entonación, el gesto y la situación de escucha hacen parte del relato."
+        },
+        {
+          "letter": "C",
+          "text": "Que no puede tener personajes, porque su autor es anónimo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los personajes existen aunque no tengan nombre propio, como el caminante o la velha en los relatos tradicionalmente transmitidos."
+        },
+        {
+          "letter": "D",
+          "text": "Que sigue siempre un orden fijo e idéntico en cada versión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oralidad permite variación: cada narrador reorganiza, añade y omite detalles según su memoria y su audiencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La diferencia no está en un rasgo aislado sino en el canal y en la situación: la versión oral se constituye en la voz, el tono, el gesto y el contacto con el oyente, mientras la escrita se fija en la página y puede releerse sin interlocutor.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-10-2026-W37-la-narrativa-oral-y-el-relato-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W37-la-narrativa-oral-y-el-relato-001-MASTERY-bundle-v3",
+      "statement": "La narración dice: \"Primero salimos de madrugada. Después remamos hasta la confluencia. Luego la red se enredó y volvimos a casa con las manos vacías.\" ¿Qué juego de conectores está usando el narrador?",
+      "context": "En el Colegio Santa Librada de Cali, el grupo de oralidad de grado 10 transcribe y organiza la historia de un pescador del río.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conectores de causa: cada oración explica por qué ocurrió la siguiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay nexo de causalidad, porque la red enredarse no se presenta como la razón de volver; es una consecuencia dentro de la línea del tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "Conectores de oposición: cada oración se opone a la anterior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay contraste ni contraposición entre las oraciones, porque todas avanzan en una misma dirección."
+        },
+        {
+          "letter": "C",
+          "text": "Conectores de adición y orden temporal: primero, después, luego.",
+          "is_correct": true,
+          "feedback": "Correcto. Primero, después y luego ordenan los acontecimientos en el tiempo y encadenan las acciones en una secuencia lineal."
+        },
+        {
+          "letter": "D",
+          "text": "Conectores de acuerdo y de resumen, propios de un texto informativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese tipo de conectores sirve para informar y resumir; aquí el narrador está reconstruyendo una sucesión de hechos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reconocer la familia de conectores revela la lógica interna del discurso. Primero, después y luego construyen una secuencia temporal, y esa marca es la que permite al lector reconstruir el orden de los hechos en un relato oral transcrito.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-10-2026-W37-la-narrativa-oral-y-el-relato-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W37-la-narrativa-oral-y-el-relato-001-MASTERY-bundle-v4",
+      "statement": "Si un narrador quiere que los niños retengan la versión de la plaza, ¿qué recurso pragmático debe priorizar?",
+      "context": "En una vereda de Boyacá cerca de Tunja, un abuelo de 80 años cuenta a sus nietos cómo era la plaza de mercado cuando era joven.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usar un registro completamente formal, propio de los documentos públicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elevar el registro aleja al oyente del relato y rompe la cercanía que hace creíble la voz del abuelo."
+        },
+        {
+          "letter": "B",
+          "text": "Cargar el relato de datos técnicos, cifras y fechas exactas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa precisión pertenece al texto informativo; en una tradición oral la precisión numérica suele ser secundaria frente a la viveza."
+        },
+        {
+          "letter": "C",
+          "text": "Relatar los hechos en tercera persona, como si el narrador no estuviera presente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Alejar la voz del narrador impide que la experiencia se transmita como propia y se pierde el vínculo con quien escucha."
+        },
+        {
+          "letter": "D",
+          "text": "Usar un registro cercano, con ejemplos cotidianos y vocabulario de la comunidad.",
+          "is_correct": true,
+          "feedback": "Correcto. El registro cercano y los ejemplos cotidianos hacen que la experiencia sea verificable para el oyente y faciliten su recuerdo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La elección del registro responde a un propósito: si se busca que un niño recuerde, conviene el registro cercano, con imágenes y palabras del entorno. La pragmática del relato oral obliga a pensar en quién escucha y para qué se cuenta.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-10-2026-W37-la-narrativa-oral-y-el-relato-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W37-la-narrativa-oral-y-el-relato-001-MASTERY-bundle-v5",
+      "statement": "Un investigador recoge la versión de la abanderada y la del libro. ¿Cuál es el procedimiento más riguroso para evaluar la confiabilidad de ambas fuentes?",
+      "context": "En el Colegio Francisco de Paula Santander de Medellín, estudiantes de grado 10 comparan dos versiones del Dorado: una escrita en un libro de historia y otra contada por una abanderada de Boyacá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contrastar cada versión con documentos de archivo y comparar sus contextos de producción.",
+          "is_correct": true,
+          "feedback": "Correcto. El contraste entre fuentes y el examen de las circunstancias de cada versión permiten justificar por qué una es más confiable que otra."
+        },
+        {
+          "letter": "B",
+          "text": "Preferir siempre la fuente escrita, porque lo escrito es siempre más verdadero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El soporte material no garantiza por sí solo la verdad; un texto escrito puede repetir un error igual que un relato transmitido."
+        },
+        {
+          "letter": "C",
+          "text": "Descartar la fuente oral por no estar firmada ni fechada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ausencia de firma o fecha no invalida un testimonio oral; se evalúa su contexto, su consistencia y su relación con otras fuentes."
+        },
+        {
+          "letter": "D",
+          "text": "Tomar como versión definitiva la más antigua que se encuentre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La antigüedad no resuelve el problema: cada versión se modifica con el tiempo y ninguna es automáticamente la original."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar una fuente narrativa exige dos operaciones: contrastar versiones entre sí y examinar las condiciones en que cada una se produjo. Solo con esos dos pasos se puede sostener una afirmación sobre cuál versión es más confiable.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-10-2026-W37-la-narrativa-oral-y-el-relato-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W37-la-narrativa-oral-y-el-relato-001-MASTERY-bundle-v6",
+      "statement": "En el capítulo inicial de La vorágine, el narrador describe lo que ve y lo que le ocurre durante el viaje por el río. ¿Qué rasgo lo acerca a la tradición oral que el grupo está estudiando?",
+      "context": "En Bogotá, un semillero de lectura de grado 10 trabaja el contraste entre la tradición oral del Dorado y la novela La vorágine, de José Eustasio Rivera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Su rechazo a toda descripción del paisaje, para no distraer al lector del argumento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador de Rivera sí describe el páramo y el río, y esa descripción construye el clima de la obra."
+        },
+        {
+          "letter": "B",
+          "text": "Su contacto directo con el oyente, con marcas de oralidad que simulan la conversación.",
+          "is_correct": true,
+          "feedback": "Correcto. El narrador-protagonista se dirige al lector con preguntas y giros hablados, un rasgo que lo aproxima a la voz del narrador oral."
+        },
+        {
+          "letter": "C",
+          "text": "Su uso de un narrador en tercera persona que oculta su identidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador no oculta su identidad: se muestra como protagonista y participa en lo que cuenta."
+        },
+        {
+          "letter": "D",
+          "text": "Su estructura de capítulos sin diálogo, idéntica a la de un manual de historia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La novela no sigue la estructura informativa de un manual; su organización es narrativa y su voz es autobiográfica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El análisis intertextual permite ver que un texto escrito puede recuperar rasgos de la oralidad. La vorágine se abre con un narrador que conversa con el lector, y esa estrategia conversacional la acerca al relato oral que se estudia en la semana.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-10-2026-W37-la-narrativa-oral-y-el-relato-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W37-la-narrativa-oral-y-el-relato-001-MASTERY-bundle-v7",
+      "statement": "El relato empieza con \"Yo bajé al río con mi padre\" y termina con \"Ellos bajaron al río y yo lo leí después\". ¿Qué cambio de la voz narrativa revela ese par de frases?",
+      "context": "En Bucaramanga, un grupo de grado 10 analiza cómo cambia la voz del narrador entre el comienzo y el final de un relato recogido en la región.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El paso de un narrador testigo a un narrador participante, porque \"yo\" deja de estar en la acción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cambio va en sentido contrario: se pasa de estar dentro de la acción a observarla desde fuera, no al revés."
+        },
+        {
+          "letter": "B",
+          "text": "El paso de un narrador intradiegético a uno extradiegético, porque el narrador se separa de los hechos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la voz se separa de los hechos, la pregunta apunta al cambio de la posición del yo dentro de los hechos, no a la clasificación técnica del narrador."
+        },
+        {
+          "letter": "C",
+          "text": "El paso de un narrador autodiegético a uno heterodiegético, porque el yo deja de participar.",
+          "is_correct": true,
+          "feedback": "Correcto. En la primera frase el yo actúa y narra en primera persona; en la segunda solo observa y refiere lo que hicieron otros."
+        },
+        {
+          "letter": "D",
+          "text": "El paso de un narrador explícito a uno implícito, porque ya no se identifica a nadie.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En ambas frases se identifica a un narrador; lo que cambia es su relación con los hechos, no su existencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comparar la primera y la última oración permite ver el desplazamiento de la voz narrativa. El paso de \"yo\" que actúa a un \"yo\" que observa muestra cómo un mismo relato puede cambiar de distancia frente a los hechos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-10-2026-W37-la-narrativa-oral-y-el-relato-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W37-la-narrativa-oral-y-el-relato-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de las siguientes definiciones explica mejor qué es un relato?",
+      "context": "En el Colegio Boyacá de Tunja, la profesora pide a los estudiantes de grado 10 definir la palabra \"relato\" con sus propias palabras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una sucesión de oraciones sin ningún propósito comunicativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque un relato tenga oraciones encadenadas, siempre cumple un propósito: contar hechos y reconstruir una experiencia."
+        },
+        {
+          "letter": "B",
+          "text": "Es el conjunto de hechos verdaderos narrados sin ninguna modificación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El relato puede ser ficcional o verídico; lo que lo define no es la verdad del hecho, sino la forma en que se narra."
+        },
+        {
+          "letter": "C",
+          "text": "Es una descripción de un objeto con sus características materiales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la definición de un texto descriptivo; el relato se caracteriza por narrar hechos, no por detallar objetos."
+        },
+        {
+          "letter": "D",
+          "text": "Es una elaboración de hechos ordenados en el tiempo, contados desde una voz que los presenta con una intención.",
+          "is_correct": true,
+          "feedback": "Correcto. La definición reúne las tres condiciones esenciales: hechos ordenados en el tiempo, una voz que narra y una intención detrás del relato."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Definir un concepto exige separar sus rasgos esenciales. Un relato organiza hechos en el tiempo, los presenta desde una voz identificable y responde a un propósito; sin esos tres rasgos no hay relato.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Semantico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-10-2026-W37-la-narrativa-oral-y-el-relato-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W37-la-narrativa-oral-y-el-relato-001-MASTERY-bundle-v9",
+      "statement": "Si una carta dice \"no bajamos al río porque el agua estaba alta\" y la versión oral dice \"el agua estaba alta y por eso no bajamos\", ¿qué se puede concluir sobre la relación entre ambas fuentes?",
+      "context": "En el Colegio Departamental de Bogotá, un grupo de grado 10 reconstruye el discurso de un administrador del siglo XIX a partir de cartas y de versiones orales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las dos versiones son equivalentes y expresan la misma relación lógica, solo que con palabras distintas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí expresan la misma relación, pero la conclusión equivocada es que son equivalentes: la causalidad se ordena de otro modo y la oralidad se apoya en la experiencia vivida."
+        },
+        {
+          "letter": "B",
+          "text": "La versión oral es siempre menos confiable porque no respeta la norma escrita.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden distinto de las partes no invalida la versión oral; responde a cómo se recuerda y se cuenta, no a una falta de rigor."
+        },
+        {
+          "letter": "C",
+          "text": "Solo la carta sirve como fuente, porque fue redactada en el momento de los hechos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La carta se redactó en el momento, pero la oralidad conserva la experiencia de quienes participaron y también es fuente."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas fuentes coinciden en el contenido, pero la oralidad se organiza desde la experiencia y la escritura desde la norma sintáctica.",
+          "is_correct": true,
+          "feedback": "Correcto. Las dos versiones cuentan lo mismo; la diferencia está en la lógica que las ordena: la causa vivid frente a la causa gramatical."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La verdad está en qué se cuenta, no solo en cómo se ordena. Analizar dos versiones de un mismo hecho permite ver que el contenido coincide y que la diferencia se produce en la organización discursiva de cada una.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-10-2026-W37-la-narrativa-oral-y-el-relato-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W37-la-narrativa-oral-y-el-relato-001-MASTERY-bundle-v10",
+      "statement": "Para que el catálogo respete a los narradores y a su tradición, ¿qué decisión de edición es la más adecuada?",
+      "context": "En Medellín, un museo comunitario quiere publicar los relatos de los hermanos Sanders en un catálogo para visitantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Corregir la ortografía y reescribir los relatos con un lenguaje literario uniforme.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La corrección sin criterio borra las marcas de la voz de los narradores, que es justamente el valor documental y cultural del texto."
+        },
+        {
+          "letter": "B",
+          "text": "Mantener la voz original y explicar en una nota quién narra y en qué contexto lo hizo.",
+          "is_correct": true,
+          "feedback": "Correcto. Conservar la voz y documentar el contexto protege la tradición y permite que el lector sepa quién cuenta y desde dónde."
+        },
+        {
+          "letter": "C",
+          "text": "Publicar solo los relatos que confirmen la versión del libro de historia oficial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Filtrar los relatos por su acuerdo con una versión escrita elimina justamente la pluralidad que hace valiosa la fuente oral."
+        },
+        {
+          "letter": "D",
+          "text": "Mostrar los relatos como ficción literaria, para evitar compromisos con la comunidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Presentarlos como ficción sin explicar el contexto no resuelve la relación ética con la comunidad, que pide contexto y no etiquetas genéricas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Editar relatos orales implica una decisión ética además de técnica. Mantener la voz del narrador y documentar quién es y desde dónde cuenta respeta la tradición y conserva el valor de la fuente para la comunidad y para la investigación.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-10-2026-W37-la-narrativa-oral-y-el-relato-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W37-la-narrativa-oral-y-el-relato-001-MASTERY-bundle-v11",
+      "statement": "Un relato tiene: acciones ordenadas, un conflicto claro y un final que resuelve la tensión. Otro tiene acciones desordenadas, sin conflicto y termina de golpe. ¿Qué debería hacer el evaluador?",
+      "context": "En Cali, estudiantes de grado 10 deben evaluar la calidad de tres versiones distintas de un mismo relato de campo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dar por válido el segundo relato, porque la oralidad no necesita estructura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oralidad admite variaciones, pero un relato sin secuencia ni conflicto no permite reconstruir los hechos ni sostener un análisis."
+        },
+        {
+          "letter": "B",
+          "text": "Dar por válido el primero, porque la estructura es el criterio más importante y el único.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estructura importa, pero la evaluación debe considerar también la fidelidad a la voz y el contexto del narrador."
+        },
+        {
+          "letter": "C",
+          "text": "Valorar cada versión según su contexto y señalar qué elementos narrativos cumple y cuáles omite.",
+          "is_correct": true,
+          "feedback": "Correcto. Evaluar en contexto y describir qué elementos aparecen y cuáles faltan permite comparar versiones con criterio y sin jerarquizarlas sin fundamento."
+        },
+        {
+          "letter": "D",
+          "text": "Descartar ambas versiones, porque ninguna puede evaluarse sin un registro escrito completo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El registro escrito no es indispensable: la versión oral se puede evaluar por su coherencia interna, su secuencia y su contexto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar dos versiones del mismo relato exige un criterio explícito y aplicado por igual a ambas. Describir qué elementos narrativos aparecen y cuáles se omiten, en relación con el contexto, es lo que convierte una impresión en un juicio fundado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-10-2026-W37-la-narrativa-oral-y-el-relato-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W37-la-narrativa-oral-y-el-relato-001-MASTERY-bundle-v12",
+      "statement": "Un texto colonial describe el Dorado como un lugar real con oro; una novela del siglo XX usa el Dorado como metáfora de la riqueza perdida. ¿Qué relación existe entre ambos textos?",
+      "context": "En el Colegio San Francisco de Tunja, un grupo de grado 10 prepara una exposición sobre cómo el imaginario del Dorado aparece en textos de épocas distintas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El segundo texto reinterpreta un imaginario del primero y lo usa con otra intención.",
+          "is_correct": true,
+          "feedback": "Correcto. La novela toma el imaginario del Dorado que circulaba en textos anteriores y lo resignifica, cambiando su uso y su sentido."
+        },
+        {
+          "letter": "B",
+          "text": "Son equivalentes, porque los dos hablan del mismo lugar geográfico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación no es de equivalencia: el primero habla de un lugar y el segundo de un símbolo, y esa diferencia cambia su sentido."
+        },
+        {
+          "letter": "C",
+          "text": "El segundo texto contradice al primero, porque afirma algo que el primero niega.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay contradicción directa: la novela no niega la existencia del lugar, cambia su valor al usarlo como metáfora."
+        },
+        {
+          "letter": "D",
+          "text": "El primero es superior al segundo, porque los textos coloniales siempre son más precisos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Juzgar la superioridad de un texto colonial sobre uno novelístico por su precisión es un error de criterio: cada género cumple otra función."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La lectura intertextual permite ver que un texto puede retomar un imaginario de otro y transformarlo. Reconocer que la novela resignifica el Dorado colonial como metáfora enseña a leer las relaciones entre textos y no cada uno por separado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-10-2026-W37-la-narrativa-oral-y-el-relato-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
