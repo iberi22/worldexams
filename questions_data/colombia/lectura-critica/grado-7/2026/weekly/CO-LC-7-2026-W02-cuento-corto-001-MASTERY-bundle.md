@@ -47,7 +47,7 @@ Un texto narrativo sobre la vida cotidiana de una familia colombiana, para pract
 Comprender un texto narrativo empieza por reconocer con precisión el vocabulario que el autor emplea. En el fragmento, el sonido del molino se describe como algo que suena mientras la máquina trabaja, y para nombrar ese ruido la palabra exacta es "zumbido". Las otras opciones designan sonidos muy distintos: el susurro es apenas audible, el estruendo es intenso y el silencio no es un ruido. Elegir la palabra correcta es el primer paso para interpretar bien cualquier cuento.
 
 ## Question 2 [D3-D4]
-**ID:** CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle-v1
+**ID:** CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Textual
 **Expected_Success:** 0.85
@@ -70,7 +70,7 @@ Según el fragmento, ¿por qué Doña Elba conserva el molino aunque nadie lo ut
 Comprender un texto es poder explicar por qué el autor escribió lo que escribió. Cuando una narradora incluye una frase entre comillas, como "en esa cosa se molió el café con el que criamos a nuestros hijos", le está dando al lector la razón profunda de la conducta: el objeto guarda una historia compartida. Reconocer que se trata de un valor emocional y no material es lo que permite responder correctamente y prepara la comprensión para preguntas más difíciles.
 
 ## Question 3 [D5-D6]
-**ID:** CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle-v1
+**ID:** CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **ICFES:** Semantico
 **Expected_Success:** 0.80
@@ -93,7 +93,7 @@ Si tuvieras que resumir en una sola frase qué encuentra Sofía al abrir el cuad
 Resumir es una habilidad de aplicación: hay que tomar un fragmento y reducirlo a lo esencial sin inventar información. Aquí lo esencial es que Sofía abre un cuaderno de la cocina y encuentra un papel doblado con una lista de pasos para usar el molino. Una buena alternativa de respuesta conserva los elementos centrales y omite los detalles decorativos; las otras tres opciones agregan objetos que el texto nunca menciona, un error frecuente al resumir.
 
 ## Question 4 [D5-D6]
-**ID:** CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle-v1
+**ID:** CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **ICFES:** Textual
 **Expected_Success:** 0.78
@@ -116,7 +116,7 @@ Si tuvieras que organizar los tres indicaciones del papel en el orden en que se 
 Ordenar los pasos de un texto es aplicar la información a una situación real. El fragmento presenta tres instrucciones en una lista y el lector debe detectar la secuencia física posible: llenar, prender, esperar y apagar. Este ejercicio entrena el razonamiento lógico aplicado a la lectura y ayuda a detectar incoherencias, porque las opciones que invierten el orden describen acciones imposibles de realizar.
 
 ## Question 5 [D5-D6]
-**ID:** CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle-v1
+**ID:** CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **ICFES:** Semantico
 **Expected_Success:** 0.76
@@ -139,7 +139,7 @@ Si en tu barrio alguien cambia la pintura de la fachada de una casa, según la c
 Aplicar la información del texto a un caso nuevo es la base de la comprensión lectora. El fragmento describe una costumbre: los vecinos de La Sultana comentan y preguntan por los cambios de fachada. Ante una situación parecida, la reacción esperable es la misma curiosidad por el color y la combinación con la puerta. Las otras opciones exageran o inventan reacciones que el texto nunca plantea.
 
 ## Question 6 [D7-D8]
-**ID:** CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle-v1
+**ID:** CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **ICFES:** Discursivo
 **Expected_Success:** 0.72
@@ -162,7 +162,7 @@ Aplicar la información del texto a un caso nuevo es la base de la comprensión 
 Analizar un texto exige observar cómo el escritor construye una imagen para transmitir una idea sobre un personaje. La comparación con pelar el choclo, una labor doméstica que requiere calma y práctica, proyecta un retrato de Doña Elba como ordenada, paciente y metódica. Reconocer qué tipo de información transmite una imagen del autor sobre el carácter, y no sobre los hechos, es una habilidad de análisis discursivo de nivel alto.
 
 ## Question 7 [D7-D8]
-**ID:** CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle-v1
+**ID:** CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **ICFES:** Discursivo
 **Expected_Success:** 0.70
@@ -185,7 +185,7 @@ Analizar un texto exige observar cómo el escritor construye una imagen para tra
 Analizar cómo el autor organiza el texto es interpretar su estructura. Colocar una frase entre comillas y en el centro del párrafo la convierte en un pivote: la descripción del objeto se conecta con la vida de la familia. Reconocer ese recurso, el uso de comillas para marcar la voz de un personaje y para crear un vínculo entre lo físico y lo emocional, pertenece al análisis discursivo de textos narrativos.
 
 ## Question 8 [D7-D8]
-**ID:** CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle-v1
+**ID:** CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle-v8
 **Bloom:** Analyze
 **ICFES:** Textual
 **Expected_Success:** 0.68
@@ -208,7 +208,7 @@ Según el fragmento, ¿qué diferencia notable existe entre la presencia física
 Analizar un fragmento exige comparar lo que el texto afirma con lo que uno supondría. Aquí el dato clave es que el molino está a la vista, en la cocina, y aun así lleva años sin usarse. Esa distancia entre estar presente y ser utilizado es un rasgo que el lector debe detectar para comprender la historia de la familia. Identificar contrastes explícitos e implícitos es una habilidad propia del nivel de análisis textual.
 
 ## Question 9 [D9-D10]
-**ID:** CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle-v1
+**ID:** CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle-v9
 **Bloom:** Evaluate
 **ICFES:** Evaluativo
 **Expected_Success:** 0.66
@@ -231,7 +231,7 @@ Analizar un fragmento exige comparar lo que el texto afirma con lo que uno supon
 Evaluar es justificar una lectura crítica con argumentos tomados del propio texto. La opción correcta apoya su tesis en los tres hechos verificables del fragmento: Sofía pregunta a Doña Elba, respeta la advertencia de tener paciencia y consulta a alguien con experiencia en la finca. Las demás alternativas contradicen el texto o le atribuyen intenciones que no se desprenden de la lectura.
 
 ## Question 10 [D9-D10]
-**ID:** CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle-v1
+**ID:** CO-LC-7-2026-W02-cuento-corto-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
 **ICFES:** Evaluativo
 **Expected_Success:** 0.64

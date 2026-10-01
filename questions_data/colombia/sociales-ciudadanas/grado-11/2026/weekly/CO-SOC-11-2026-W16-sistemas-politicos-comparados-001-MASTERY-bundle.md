@@ -47,7 +47,7 @@ Según la Constitución Política de Colombia de 1991, ¿qué cargo ejerce simul
 El presidencialismo se caracteriza porque el presidente reúne la representación del Estado y la dirección del gobierno. La Constitución de 1991 establece la elección popular del presidente y consagra un ejecutivo unipersonal fuerte, frente al modelo europeo donde esas dos funciones suelen separarse entre jefe de Estado y primer ministro. Esta concentración define el sistema político colombiano comparado.
 
 ## Question 2 [D3-D4]
-**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **ICFES:** Sistema político y democracia
 **Expected_Success:** 0.85
@@ -70,7 +70,7 @@ De acuerdo con el artículo 190 de la Constitución de 1991, ¿cuánto dura el p
 El artículo 190 de la Constitución de 1991 señala que el presidente será elegido por el pueblo para un período de cuatro años contados desde su posesión. Si nadie obtiene la mitad más uno de los votos válidos se realiza segunda vuelta entre los dos más votados. Esta elección popular directa es un rasgo distintivo del presidencialismo frente al investidura parlamentaria del primer ministro.
 
 ## Question 3 [D3-D4]
-**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **ICFES:** Sistema político y democracia
 **Expected_Success:** 0.80
@@ -93,7 +93,7 @@ En un sistema parlamentario como el de Alemania, ¿de quién depende la permanen
 En el parlamentarismo existe una doble dependencia entre gobierno y parlamento: el primer ministro o canciller es investido por la cámara legislativa y puede ser removido por ella con un voto de desconfianza. A cambio, suele poder disolver el parlamento y convocar elecciones. En Alemania, el canciller federal depende de la confianza del Bundestag, mientras el presidente federal cumple un papel ceremonial.
 
 ## Question 4 [D3-D4]
-**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **ICFES:** Sistema político y democracia
 **Expected_Success:** 0.80
@@ -116,7 +116,7 @@ En el parlamentarismo existe una doble dependencia entre gobierno y parlamento: 
 La esencia del parlamentarismo es la separación entre dos figuras: un jefe de Estado con funciones simbólicas (el rey de España o el presidente federal de Alemania) y un jefe de gobierno con poder real (el presidente del gobierno o el canciller). Esta dualidad contrasta con Colombia, donde el artículo 189 concentra en el presidente ambas dimensiones.
 
 ## Question 5 [D5-D6]
-**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **ICFES:** Sistema político y democracia
 **Expected_Success:** 0.75
@@ -139,7 +139,7 @@ En la primera vuelta presidencial colombiana, el candidato más votado obtiene e
 La segunda vuelta o balotaje es uno de los mecanismos correctores del presidencialismo colombiano desde 1991: si en la primera vuelta nadie obtiene más de la mitad de los votos válidos, se cita a los dos candidatos siguientes a una nueva elección. Su función es garantizar que el presidente cuente con una mayoría legítima de partida, reduciendo el riesgo de presidentes electos con apoyo minoritario.
 
 ## Question 6 [D5-D6]
-**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **ICFES:** Sistema político y democracia
 **Expected_Success:** 0.75
@@ -162,7 +162,7 @@ Un país europeo tiene un presidente ceremonial elegido por una asamblea federal
 La moción de censura constructiva, típica de Alemania, obliga al parlamento a proponer un sucesor cuando derriba al canciller, evitando vacíos de gobierno. Clasificar sistemas exige mirar dónde reside la confianza: si el gabinete depende del legislativo, el régimen es parlamentario, aunque exista un presidente o monarca al frente del Estado.
 
 ## Question 7 [D5-D6]
-**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **ICFES:** Sistema político y democracia
 **Expected_Success:** 0.75
@@ -185,7 +185,7 @@ Según el artículo 137 de la Constitución de 1991, la estructura del Congreso 
 El artículo 137 de la Constitución define que el Congreso de Colombia se compondrá de dos cámaras: Senado y Cámara de Representantes. La bicameralidad, heredera del federalismo decimonónico aunque Colombia sea unitario, funciona como filtro deliberativo: los proyectos deben aprobarse en ambas corporaciones, lo que ralentiza y perfecciona la producción legislativa.
 
 ## Question 8 [D5-D6]
-**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **ICFES:** Sistema político y democracia
 **Expected_Success:** 0.70
@@ -208,7 +208,7 @@ Brasil posee estados con constituciones propias y capacidad de legislar en mater
 La forma de Estado responde a cómo se organiza territorialmente el poder: unitario (Colombia), federal (Brasil, México, Argentina) o regional. En la federación, la distribución de competencias surge de la constitución y no de una ley ordinaria del centro, lo que da a los estados una autonomía jurídicamente protegida que Colombia solo reconoce de forma más limitada a departamentos y municipios.
 
 ## Question 9 [D5-D6]
-**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **ICFES:** Sistema político y democracia
 **Expected_Success:** 0.70
@@ -231,7 +231,7 @@ Un elector vota por el logo de un partido y su voto reparte curules entre los no
 El sistema electoral traduce votos en escaños. Colombia usa representación proporcional con listas cerradas y bloqueadas: el partido arma el orden y el elector no lo modifica. Esto favorece sistemas de múltiples partidos y fortalece la disciplina interna, a diferencia del modelo mayoritario británico, que tiende al bipartidismo y a diputaciones locales con nombre propio.
 
 ## Question 10 [D5-D6]
-**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **ICFES:** Sistema político y democracia
 **Expected_Success:** 0.70
@@ -254,7 +254,7 @@ Después del Acto Legislativo de 2015, que modificó el artículo 197 de la Cons
 La reelección presidencial ha oscilado en Colombia: permitida en 1991, restringida en 2003 y eliminada en 2015 por el Congreso, que tras el debate público la restableció ese mismo año de forma inmediata y por una sola vez. Este vaivén ilustra cómo las reglas del juego político se reforman y cómo el diseño institucional busca equilibrar la continuidad de buenos gobiernos con el riesgo de perpetuación en el poder.
 
 ## Question 11 [D7-D8]
-**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **ICFES:** Sistema político y democracia
 **Expected_Success:** 0.65
@@ -277,7 +277,7 @@ Francia elige presidente por voto popular con poder sobre defensa y política ex
 El semipresidencialismo francés combina elección popular del presidente con responsabilidad ministerial ante el parlamento. La cohabitación muestra la flexibilidad y el conflicto inherentes al diseño: cuando el presidente pierde la mayoría legislativa, debe gobernar con un primer ministro adversario. Comparado, el presidencialismo evita esta diarquía, pero paga el precio de rigidez cuando el mandatario enfrenta congresos hostiles.
 
 ## Question 12 [D7-D8]
-**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **ICFES:** Sistema político y democracia
 **Expected_Success:** 0.65
@@ -300,7 +300,7 @@ El artículo 1 de la Constitución define a Colombia como Estado unitario y el a
 La distinción unitario-federal no depende de si hay gobernadores elegidos, sino del origen y blindaje de la autonomía: en las federaciones la repartición es constituyente y las entidades crean derecho propio amplio; en el Estado unitario, como el colombiano, el centro puede legislar sobre todo el territorio, aunque la Constitución de 1991 abrió espacio a ordenanzas, planes de desarrollo y recursos del Sistema General de Participaciones.
 
 ## Question 13 [D7-D8]
-**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **ICFES:** Sistema político y democracia
 **Expected_Success:** 0.65
@@ -323,7 +323,7 @@ La distinción unitario-federal no depende de si hay gobernadores elegidos, sino
 La flexibilidad del parlamentarismo permite cambiar de gobierno sin cambiar de régimen, lo que amortigua crisis pero puede producir inestabilidad, como muestran las repúblicas europeas de entreguerras o los gabinetos italianos. La fijidez del presidencialismo protege la estabilidad del mandato, aunque ante crisis de gobernabilidad solo ofrece válvulas extraordinarias como el juicio político, que en América Latina ha sido usado de forma ambigua.
 
 ## Question 14 [D7-D8]
-**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **ICFES:** Sistema político y democracia
 **Expected_Success:** 0.65
@@ -346,7 +346,7 @@ La flexibilidad del parlamentarismo permite cambiar de gobierno sin cambiar de r
 Las listas cerradas y bloqueadas trasladan al ciudadano una elección sobre partidos, no sobre personas. Analíticamente esto aumenta la responsabilidad colectiva y la cohesión legislativa, pero erosiona la rendición de cuentas individual: el votante difícilmente puede premiar o castigar a un congresista específico, lo que explica debates sobre listas abiertas y voto preferente en la región.
 
 ## Question 15 [D7-D8]
-**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **ICFES:** Sistema político y democracia
 **Expected_Success:** 0.65
@@ -369,7 +369,7 @@ El artículo 113 de la Constitución dice que las ramas del poder público son i
 La separación de poderes no significa aislamiento: cada rama participa, a su manera, en actos de las demás. Los decretos de estados de excepción, el presupuesto, la elección de controladores y el escrutinio constitucional muestran un sistema de checks and balances. El artículo 113 se complementa con el artículo 241, que asigna a la Corte Constitucional la guarda de la supremacía de la Carta.
 
 ## Question 16 [D7-D8]
-**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **ICFES:** Sistema político y democracia
 **Expected_Success:** 0.65
@@ -392,7 +392,7 @@ A igual cantidad de votos entre dos partidos, ¿por qué un sistema mayoritario 
 La fórmula electoral condiciona el resultado: el sistema mayoritario tiende a concentrar escaños en el partido ganador local y favorece el bipartidismo, mientras la representación proporcional reparte conforme a cocientes y restos, reflejando mejor la fragmentación del electorado. Por eso Colombia, con listas y umbral, tiene un sistema multipartidista moderado frente a países de distrito único como Estados Unidos o Reino Unido.
 
 ## Question 17 [D9-D10]
-**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **ICFES:** Sistema político y democracia
 **Expected_Success:** 0.60
@@ -415,7 +415,7 @@ Frente a una crisis de gobernabilidad en la que el presidente mantiene el cargo 
 La evaluación comparada exige sopesar valores: el presidencialismo privilegia estabilidad y representación popular directa, pero ante congresos bloqueados solo dispone de instrumentos extraordinarios; el parlamentarismo habilita cambios de gobierno por vía de confianza, con el costo posible de gabinetos efímeros. No hay veredicto absoluto: el desempeño depende de partidos, cultura cívica y cláusulas complementarias como la censura constructiva.
 
 ## Question 18 [D9-D10]
-**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **ICFES:** Sistema político y democracia
 **Expected_Success:** 0.60
@@ -438,7 +438,7 @@ La evaluación comparada exige sopesar valores: el presidencialismo privilegia e
 Evaluar la reelección obliga a ponderar: da tiempo para proyectos de largo plazo y responde al deseo popular, pero abre asimetrías —uso de recursos públicos, visibilidad mediática del gobernante— y presiones sobre controles. Países de la región han oscilado entre habilitarla y prohibirla. El acto legislativo de 2015 optó por un punto intermedio: una sola reelección consecutiva como límite a la perpetuación.
 
 ## Question 19 [D9-D10]
-**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **ICFES:** Sistema político y democracia
 **Expected_Success:** 0.55
@@ -461,7 +461,7 @@ Al evaluar la tensión entre el Estado unitario colombiano con autonomías del a
 Colombia es un país con profundas diferencias regionales: la Costa, la Amazonía y el centro-andino enfrentan realidades distintas. El evaluador debe preguntarse qué asignación territorial del poder mejora servicios, reduce clientelismo y preserva cohesión. Ni la uniformidad ni la fragmentación son óptimos: las democracias subnacionales exitosas combinan autonomía con compensación fiscal solidaria.
 
 ## Question 20 [D9-D10]
-**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W16-sistemas-politicos-comparados-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **ICFES:** Sistema político y democracia
 **Expected_Success:** 0.55

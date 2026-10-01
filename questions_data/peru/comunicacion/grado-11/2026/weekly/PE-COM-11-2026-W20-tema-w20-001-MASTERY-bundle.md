@@ -465,7 +465,7 @@ La evaluación compleja exige discriminar de forma cruzada múltiples variables 
 
 ---
 ## Question 19 [D9-D10]
-**ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v10
+**ID:** PE-COM-11-2026-W20-tema-w20-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Ortografía y redacción
 **Expected_Success:** 0.50
