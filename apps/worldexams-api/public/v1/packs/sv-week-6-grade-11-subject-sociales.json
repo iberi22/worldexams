@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "SV-SOC-11-2026-W06-colonia-sv-001-MASTERY-bundle-v1",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando colonia sv.",
+      "statement": "Que instrumento usaba la Corona para administrar la colonia?",
+      "context": "En el siglo XVIII la Corona espanol nombro virreyes y oidores para administrar el territorio.",
       "options": [
         {
-          "letter": "D",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución es la norma suprema que establece la organización del Estado y los derechos de los ciudadanos."
-        },
-        {
           "letter": "A",
-          "text": "Una ley ordinaria",
+          "text": "Directos desde cada pueblo",
           "is_correct": false,
-          "feedback": "una ley ordinaria regula un aspecto concreto, pero no es la norma que estructura los poderes del Estado."
+          "feedback": "No habia una asamblea local, porque la administracion se delegaba en autoridades nombradas por la Corona."
         },
         {
           "letter": "B",
-          "text": "Un decreto presidencial",
-          "is_correct": false,
-          "feedback": "un decreto es la orden del presidente que aplica una ley; por sí solo no organiza al Estado."
+          "text": "Virreyes y autoridades nombradas",
+          "is_correct": true,
+          "feedback": "Es la correcta: la Corona administraba el virreinato mediante virreyes y autoridades nombradas desde Espana."
         },
         {
           "letter": "C",
-          "text": "Un tratado internacional",
+          "text": "Una asamblea elegida por los indigenas",
           "is_correct": false,
-          "feedback": "un tratado obliga a dos o más países entre sí y no se ocupa de la organización interna de un Estado."
+          "feedback": "No existia una asamblea indigena elegida, porque los cargos coloniales se nombraban desde la peninsula."
+        },
+        {
+          "letter": "D",
+          "text": "Los encomenderos con poder total",
+          "is_correct": false,
+          "feedback": "Los encomenderos tenian poder sobre la tierra, pero no dirigian el gobierno de la colonia."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "B",
+      "explanation": "La Corona administraba la colonia mediante virreyes y autoridades nombradas, en lugar de gobernarla directamente desde Espana.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -54,36 +54,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W06-colonia-sv-001-MASTERY-bundle-v2",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando colonia sv.",
+      "statement": "Como se organizaba la propiedad de la tierra en la colonia?",
+      "context": "En el siglo XVII los encomenderos ocupaban grandes superficies de tierra en el campo.",
       "options": [
         {
           "letter": "A",
-          "text": "Urbanización masiva y nuevas clases sociales",
+          "text": "Con grandes haciendas y encomiendas",
           "is_correct": true,
-          "feedback": "Correcto: las fábricas concentraron el trabajo en las ciudades, lo que provocó una urbanización masiva y el surgimiento de nuevas clases sociales, como la burguesía industrial y el proletariado."
+          "feedback": "Es la correcta: la propiedad se organizaba en grandes haciendas y encomiendas, frente a las comunidades indigenas."
         },
         {
           "letter": "B",
-          "text": "Retorno a la vida agrícola",
+          "text": "Con pequenas parcelas igualitarias",
           "is_correct": false,
-          "feedback": "ocurrió justo lo contrario: los trabajadores pasaron de los campos a las fábricas y la sociedad se hizo más urbana."
+          "feedback": "La tierra estaba concentrada en pocas manos, y no repartida en parcelas iguales entre todos."
         },
         {
           "letter": "C",
-          "text": "Disminución del comercio global",
+          "text": "Sin propiedad privada de la tierra",
           "is_correct": false,
-          "feedback": "ocurrió lo contrario: el comercio mundial creció con las materias primas y los productos industriales."
+          "feedback": "Existia la propiedad privada de la tierra, porque los encomenderos y los hacendados eran sus duenos."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "Solo con ejidos comunitarios",
           "is_correct": false,
-          "feedback": "el trabajo manual aumentó con las fábricas, las vías y las ciudades; no llegó a eliminarse."
+          "feedback": "Habia tambien propiedad privada, y por eso los ejidios no eran la unica forma de tenencia."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "explanation": "La propiedad colonial de la tierra se organizaba en grandes haciendas y encomiendas, frente a las comunidades indigenas.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -99,36 +99,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W06-colonia-sv-001-MASTERY-bundle-v3",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando colonia sv.",
+      "statement": "Como se organizaba el comercio en la colonia?",
+      "context": "En el siglo XVII los mercaderes de Guatemala trataban con los del puerto de Acajutla.",
       "options": [
         {
-          "letter": "B",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución reconoce los derechos humanos fundamentales de todas las personas, como la vida, la igualdad y la libertad."
+          "letter": "A",
+          "text": "Solo por tierra y sin puertos",
+          "is_correct": false,
+          "feedback": "La colonia si tenia puertos de salida al Pacifico, como Acajutla, de modo que el comercio no era solo terrestre."
         },
         {
-          "letter": "A",
-          "text": "Solo derechos de propiedad",
-          "is_correct": false,
-          "feedback": "la propiedad es uno de los derechos, pero una Constitución democrática no se limita a protegerla."
+          "letter": "B",
+          "text": "Por puertos y rutas de tierra",
+          "is_correct": true,
+          "feedback": "Es la correcta: el comercio colonial combinaba la salida por puertos con las rutas terrestres entre regiones."
         },
         {
           "letter": "C",
-          "text": "Únicamente derechos políticos",
+          "text": "Exclusivamente a traves de la iglesia",
           "is_correct": false,
-          "feedback": "los derechos políticos son solo una parte; también existen derechos civiles, sociales y económicos."
+          "feedback": "La iglesia no dirigia el comercio, porque las rutas y los puertos eran materia de mercaderes y autoridades."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Con un monopolio de la Corona",
           "is_correct": false,
-          "feedback": "los derechos son de las personas y limitan al poder, no son privilegio exclusivo del gobierno."
+          "feedback": "El monopolio existio para algunos productos, pero el comercio colonial tambien operaba con particulares."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "explanation": "El comercio colonial combinaba la salida por puertos como Acajutla con rutas terrestres entre las regiones del virreinato.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -144,36 +144,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W06-colonia-sv-001-MASTERY-bundle-v4",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando colonia sv.",
+      "statement": "Como se repartia la poblacion colonial?",
+      "context": "En el siglo XVII la poblacion se repartia entre el campo, los pueblos y las ciudades.",
       "options": [
         {
-          "letter": "C",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto: si un país exporta más de lo que importa, la diferencia entre ambas cifras es un superávit comercial."
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "Solo en ciudades grandes",
           "is_correct": false,
-          "feedback": "el déficit aparece cuando las importaciones superan a las exportaciones, que es el caso contrario al del enunciado."
+          "feedback": "Habia tambien poblados rurales y campos, de modo que la poblacion no vivia unicamente en ciudades."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "Solo en campanas aisladas",
           "is_correct": false,
-          "feedback": "la balanza solo está equilibrada cuando las exportaciones y las importaciones son iguales."
+          "feedback": "Aunque habia zonas rurales, existian tambien pueblos y ciudades, y la poblacion no vivia aislada."
+        },
+        {
+          "letter": "C",
+          "text": "Entre campos, pueblos y ciudades",
+          "is_correct": true,
+          "feedback": "Es la correcta: la poblacion colonial se repartia entre el campo, los pueblos indigenas y las ciudades."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Entre el puerto y la mina",
           "is_correct": false,
-          "feedback": "un superávit describe un resultado favorable del comercio exterior, no una crisis."
+          "feedback": "El puerto y la mina eran dos puntos economicos, y no la forma general de la poblacion."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "explanation": "La poblacion colonial se repartia entre el campo, los pueblos indigenas y las ciudades, segun la actividad economica de cada zona.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -189,36 +189,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W06-colonia-sv-001-MASTERY-bundle-v5",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando colonia sv.",
+      "statement": "Que papel tenia el clero en la economia colonial?",
+      "context": "En el siglo XVIII el clero tenia grandes extensiones de tierra en el campo.",
       "options": [
         {
-          "letter": "D",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto: el asesinato del Archiduque en Sarajevo en 1914 fue la chispa que inició la Primera Guerra Mundial."
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
+          "text": "Administrar las minas de plata",
           "is_correct": false,
-          "feedback": "se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa del conflicto."
+          "feedback": "Las minas eran un sector del virreinato, y no la actividad principal del clero."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "Dirigir el comercio de cacao",
           "is_correct": false,
-          "feedback": "se produjo en 1917, cuando la guerra ya había empezado, así que no pudo causarla."
+          "feedback": "El comercio lo manejaban mercaderes y autoridades, y no el clero de manera principal."
         },
         {
           "letter": "C",
-          "text": "La invención del avión",
+          "text": "Ser dueno de grandes tierras",
+          "is_correct": true,
+          "feedback": "Es la correcta: el clero acumulo grandes extensiones de tierra y fue un actor central de la economia."
+        },
+        {
+          "letter": "D",
+          "text": "Administrar los puertos",
           "is_correct": false,
-          "feedback": "el avión fue un avance técnico de la época, no una causa política que provocara el conflicto armado."
+          "feedback": "Los puertos los administraban las autoridades coloniales, y no el clero."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "C",
+      "explanation": "El clero colonial acumulo grandes extensiones de tierra y fue un actor central de la economia de la colonia.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -234,36 +234,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W06-colonia-sv-001-MASTERY-bundle-v6",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando colonia sv.",
+      "statement": "Como se obtenia el tinte de indigo?",
+      "context": "En el siglo XVII los registros coloniales describen como secia el indigo.",
       "options": [
         {
-          "letter": "C",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución es la norma suprema que establece la organización del Estado y los derechos de los ciudadanos."
-        },
-        {
           "letter": "A",
-          "text": "Una ley ordinaria",
+          "text": "Fermentando solo la hoja",
           "is_correct": false,
-          "feedback": "una ley ordinaria regula un aspecto concreto, pero no es la norma que estructura los poderes del Estado."
+          "feedback": "El proceso no era solo fermentar la hoja, porque despues hacia falta secar el material para exportarlo."
         },
         {
           "letter": "B",
-          "text": "Un decreto presidencial",
+          "text": "Fermentando y secando la hoja",
+          "is_correct": true,
+          "feedback": "Es la correcta: se fermentaba la hoja y luego se secaba en panes para su comercializacion."
+        },
+        {
+          "letter": "C",
+          "text": "Extrayendo el tinte de la raiz",
           "is_correct": false,
-          "feedback": "un decreto es la orden del presidente que aplica una ley; por sí solo no organiza al Estado."
+          "feedback": "El indigo se sacaba de las hojas y no de las raices, de modo que esa opcion no sirve."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "Mezclando la hoja con sal",
           "is_correct": false,
-          "feedback": "un tratado obliga a dos o más países entre sí y no se ocupa de la organización interna de un Estado."
+          "feedback": "La sal no participa en el proceso, porque el color azul se obtiene de fermentar la hoja."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "B",
+      "explanation": "El indigo se obtenia de las hojas, que despues se secaban para formar los panes de tinte.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -279,36 +279,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W06-colonia-sv-001-MASTERY-bundle-v7",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando colonia sv.",
+      "statement": "Que obligacion tiene la encomienda para las comunidades indigenas?",
+      "context": "En el siglo XVII los encomenderos ocupaban tierras y cobraban tributo a las comunidades.",
       "options": [
         {
-          "letter": "C",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto: las fábricas concentraron el trabajo en las ciudades, lo que provocó una urbanización masiva y el surgimiento de nuevas clases sociales, como la burguesía industrial y el proletariado."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "Pagar renta anual a la Corona",
           "is_correct": false,
-          "feedback": "ocurrió justo lo contrario: los trabajadores pasaron de los campos a las fábricas y la sociedad se hizo más urbana."
+          "feedback": "La corona no cobraba renta directa de esas comunidades, porque el tributo iba primero al encomendero."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "Trabajar y pagar tributo al encomendero",
+          "is_correct": true,
+          "feedback": "Es la correcta: las comunidades debian trabajar la tierra y entregar tributo, sin recibir un salario."
+        },
+        {
+          "letter": "C",
+          "text": "Servir en el ejercito por dos años",
           "is_correct": false,
-          "feedback": "ocurrió lo contrario: el comercio mundial creció con las materias primas y los productos industriales."
+          "feedback": "El servicio militar no era la obligacion central de la encomienda, que se basaba en el trabajo y el tributo."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "Abandonar sus tierras natales",
           "is_correct": false,
-          "feedback": "el trabajo manual aumentó con las fábricas, las vías y las ciudades; no llegó a eliminarse."
+          "feedback": "Nadie obligaba a abandonar las tierras: las comunidades seguian viviendo en sus propios poblados."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "B",
+      "explanation": "La encomienda obligaba a las comunidades indigenas a trabajar y a entregar tributo al encomendero, sin recibir un salario.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -324,36 +324,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W06-colonia-sv-001-MASTERY-bundle-v8",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
+      "statement": "En una descripción de la sociedad colonial del territorio hoy salvadoreño, se distingue entre peninsulares y criollos. ¿Qué diferencia expresa esta clasificación?",
       "context": "Clase de ciencias sociales en Mejicanos estudiando colonia sv.",
       "options": [
         {
           "letter": "A",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución reconoce los derechos humanos fundamentales de todas las personas, como la vida, la igualdad y la libertad."
+          "text": "Los peninsulares eran indígenas y los criollos eran españoles recién llegados.",
+          "is_correct": false,
+          "feedback": "Los peninsulares no eran una categoría indígena; el término designaba a españoles nacidos en la península ibérica."
         },
         {
           "letter": "B",
-          "text": "Solo derechos de propiedad",
-          "is_correct": false,
-          "feedback": "la propiedad es uno de los derechos, pero una Constitución democrática no se limita a protegerla."
+          "text": "Los peninsulares eran españoles nacidos en Europa y los criollos eran descendientes de españoles nacidos en América.",
+          "is_correct": true,
+          "feedback": "La clasificación distinguía el lugar de nacimiento: España para los peninsulares y América para los criollos de ascendencia española."
         },
         {
           "letter": "C",
-          "text": "Únicamente derechos políticos",
+          "text": "Los peninsulares vivían exclusivamente en ciudades y los criollos exclusivamente en zonas rurales.",
           "is_correct": false,
-          "feedback": "los derechos políticos son solo una parte; también existen derechos civiles, sociales y económicos."
+          "feedback": "La distinción dependía del nacimiento y la ascendencia, no de una separación exclusiva entre residencia urbana y rural."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Los peninsulares trabajaban en agricultura y los criollos únicamente en comercio.",
           "is_correct": false,
-          "feedback": "los derechos son de las personas y limitan al poder, no son privilegio exclusivo del gobierno."
+          "feedback": "Las ocupaciones no definían estas categorías; personas de ambos grupos podían participar en distintas actividades económicas."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "B",
+      "explanation": "Peninsular y criollo eran categorías vinculadas al nacimiento y la ascendencia dentro de la sociedad colonial. No equivalían a profesiones ni a tipos de residencia.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,36 +369,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W06-colonia-sv-001-MASTERY-bundle-v9",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando colonia sv.",
+      "statement": "Que diferencia hay entre encomienda y mita?",
+      "context": "En el siglo XVII los encomenderos ocupaban tierras y cobraban tributo a las comunidades.",
       "options": [
         {
-          "letter": "C",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto: si un país exporta más de lo que importa, la diferencia entre ambas cifras es un superávit comercial."
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "Son el mismo nombre para lo mismo",
           "is_correct": false,
-          "feedback": "el déficit aparece cuando las importaciones superan a las exportaciones, que es el caso contrario al del enunciado."
+          "feedback": "No son lo mismo: la encomienda es un regimen de tierra y tributo, y la mita es trabajo en las minas."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "La mita era un impuesto comercial",
           "is_correct": false,
-          "feedback": "la balanza solo está equilibrada cuando las exportaciones y las importaciones son iguales."
+          "feedback": "La mita no era un impuesto comercial, porque consistia en trabajo forzado en las minas de plata."
+        },
+        {
+          "letter": "C",
+          "text": "La encomienda era trabajo en minas",
+          "is_correct": false,
+          "feedback": "El trabajo en las minas correspondia a la mita, y la encomienda se ocupaba de la tierra y el tributo."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
-          "is_correct": false,
-          "feedback": "un superávit describe un resultado favorable del comercio exterior, no una crisis."
+          "text": "La encomienda daba tierra y la mita exigia minas",
+          "is_correct": true,
+          "feedback": "Es la correcta: una institucion organizaba el acceso a la tierra y la otra el trabajo forzado en las minas."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "D",
+      "explanation": "La encomienda daba acceso a la tierra a cambio de tributo, mientras la mita obligaba a trabajar en las minas de plata.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -414,36 +414,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W06-colonia-sv-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando colonia sv.",
+      "statement": "Que caracterizo los levantamientos indigenas de 1791?",
+      "context": "En 1791 los indigenas de Coatepeque se levantaron contra el dominio espanol.",
       "options": [
         {
-          "letter": "D",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto: el asesinato del Archiduque en Sarajevo en 1914 fue la chispa que inició la Primera Guerra Mundial."
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
+          "text": "Buscaban la independencia del pais",
           "is_correct": false,
-          "feedback": "se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa del conflicto."
+          "feedback": "La independencia se lograria treinta años despues, y en 1791 se luchaba por mejores condiciones de trabajo."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "Apoyaban el comercio de indigo",
           "is_correct": false,
-          "feedback": "se produjo en 1917, cuando la guerra ya había empezado, así que no pudo causarla."
+          "feedback": "El indigo era el tinte colonial mas buscado, pero no era el motivo de los levantamientos."
         },
         {
           "letter": "C",
-          "text": "La invención del avión",
+          "text": "Luchaban por condiciones de trabajo",
+          "is_correct": true,
+          "feedback": "Es la correcta: los levantamientos buscaron mejoras en el trabajo y contra la explotacion a la que eran sometidos."
+        },
+        {
+          "letter": "D",
+          "text": "Querian independizar la iglesia",
           "is_correct": false,
-          "feedback": "el avión fue un avance técnico de la época, no una causa política que provocara el conflicto armado."
+          "feedback": "El conflicto era economico y laboral, no una separacion entre la iglesia y el Estado."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "C",
+      "explanation": "Los levantamientos indigenas de finales del siglo XVIII buscaron mejoras laborales contra la explotacion del sistema colonial.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -459,36 +459,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W06-colonia-sv-001-MASTERY-bundle-v11",
-      "statement": "¿Qué documento establece la organización del Estado?",
+      "statement": "Una encomienda autorizaba a un encomendero a recibir tributo de una comunidad indígena y le imponía obligaciones de protección y evangelización. ¿Por qué sería incorrecto describirla simplemente como una entrega de tierras?",
       "context": "Clase de ciencias sociales en San Miguel estudiando colonia sv.",
       "options": [
         {
-          "letter": "B",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución es la norma suprema que establece la organización del Estado y los derechos de los ciudadanos."
+          "letter": "A",
+          "text": "Porque eliminaba toda obligación de tributar de las comunidades indígenas.",
+          "is_correct": false,
+          "feedback": "La recepción de tributo era precisamente un componente de la encomienda; no representaba su eliminación."
         },
         {
-          "letter": "A",
-          "text": "Una ley ordinaria",
-          "is_correct": false,
-          "feedback": "una ley ordinaria regula un aspecto concreto, pero no es la norma que estructura los poderes del Estado."
+          "letter": "B",
+          "text": "Porque su elemento central era la concesión de tributo de una comunidad, no un título automático de propiedad territorial.",
+          "is_correct": true,
+          "feedback": "La encomienda concedía derechos sobre tributos y establecía obligaciones; la propiedad de tierras correspondía a mecanismos jurídicos distintos."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
+          "text": "Porque convertía al encomendero en propietario legal de todas las personas de la comunidad.",
           "is_correct": false,
-          "feedback": "un decreto es la orden del presidente que aplica una ley; por sí solo no organiza al Estado."
+          "feedback": "La encomienda no otorgaba un título de propiedad sobre las personas, aunque su funcionamiento pudiera generar explotación y abusos."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "Porque garantizaba que las comunidades eligieran libremente a sus autoridades españolas.",
           "is_correct": false,
-          "feedback": "un tratado obliga a dos o más países entre sí y no se ocupa de la organización interna de un Estado."
+          "feedback": "La institución no se definía por una elección comunitaria de autoridades españolas, sino por una concesión dentro del orden colonial."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "explanation": "La encomienda debe distinguirse de las concesiones de tierras. Su núcleo era el derecho a recibir tributo de comunidades indígenas, acompañado de obligaciones para el encomendero.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -504,36 +504,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W06-colonia-sv-001-MASTERY-bundle-v12",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando colonia sv.",
+      "statement": "Que papel tenia el puerto de Acajutla en la colonia?",
+      "context": "En el siglo XVIII los mercaderes de Guatemala mercadeaban por el puerto de Acajutla.",
       "options": [
         {
-          "letter": "D",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto: las fábricas concentraron el trabajo en las ciudades, lo que provocó una urbanización masiva y el surgimiento de nuevas clases sociales, como la burguesía industrial y el proletariado."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
-          "is_correct": false,
-          "feedback": "ocurrió justo lo contrario: los trabajadores pasaron de los campos a las fábricas y la sociedad se hizo más urbana."
+          "text": "Era la salida al Pacifico",
+          "is_correct": true,
+          "feedback": "Es la correcta: Acajutla fue el puerto principal por donde salian los productos coloniales hacia el Pacifico."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "Era la sede del virrey",
           "is_correct": false,
-          "feedback": "ocurrió lo contrario: el comercio mundial creció con las materias primas y los productos industriales."
+          "feedback": "El virrey residia en la capital, y no en un puerto comercial como Acajutla."
         },
         {
           "letter": "C",
-          "text": "Eliminación del trabajo manual",
+          "text": "Era la capital del pais",
           "is_correct": false,
-          "feedback": "el trabajo manual aumentó con las fábricas, las vías y las ciudades; no llegó a eliminarse."
+          "feedback": "Acajutla era un puerto, mientras que la capital colonial estaba en el interior del territorio."
+        },
+        {
+          "letter": "D",
+          "text": "Era una mina de plata",
+          "is_correct": false,
+          "feedback": "Las minas de plata estaban en la sierra, y Acajutla funcionaba como puerto de exportacion."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "A",
+      "explanation": "El puerto de Acajutla fue la principal salida al Pacifico por la que salian los productos de la colonia.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -549,36 +549,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W06-colonia-sv-001-MASTERY-bundle-v13",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando colonia sv.",
+      "statement": "Que cambio trajo la fundacion de pueblos de indigenas?",
+      "context": "En el siglo XVII los frailes fundaron pueblos donde vivir indigenas conversos.",
       "options": [
         {
-          "letter": "C",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución reconoce los derechos humanos fundamentales de todas las personas, como la vida, la igualdad y la libertad."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "El fin del trabajo comunitario",
           "is_correct": false,
-          "feedback": "la propiedad es uno de los derechos, pero una Constitución democrática no se limita a protegerla."
+          "feedback": "El trabajo comunitario bajo encomienda continuo, porque la fundacion de pueblos no elimino esas obligaciones."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "La concentracion de la poblacion",
+          "is_correct": true,
+          "feedback": "Es la correcta: se concentro a la poblacion en pueblos donde la iglesia podia enseñar y tener mejor control."
+        },
+        {
+          "letter": "C",
+          "text": "La aparicion de la mita",
           "is_correct": false,
-          "feedback": "los derechos políticos son solo una parte; también existen derechos civiles, sociales y económicos."
+          "feedback": "La mita es anterior y no fue consecuencia de fundar pueblos, porque ambas cosas coexistieron."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "La creacion de encomiendas",
           "is_correct": false,
-          "feedback": "los derechos son de las personas y limitan al poder, no son privilegio exclusivo del gobierno."
+          "feedback": "Las encomiendas ya existian con anteridad, de modo que no nacieron de la fundacion de pueblos."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "B",
+      "explanation": "La fundacion de pueblos concentro a la poblacion indigena, lo que facilito la evangelizacion y el control colonial.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -594,36 +594,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W06-colonia-sv-001-MASTERY-bundle-v14",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando colonia sv.",
+      "statement": "Que buscaba la politica de la Corona sobre el cacao?",
+      "context": "En el siglo XVIII la Corona espanol organizo el envio de cacao al exterior.",
       "options": [
         {
-          "letter": "C",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto: si un país exporta más de lo que importa, la diferencia entre ambas cifras es un superávit comercial."
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "Fomentar el comercio interior",
           "is_correct": false,
-          "feedback": "el déficit aparece cuando las importaciones superan a las exportaciones, que es el caso contrario al del enunciado."
+          "feedback": "La politica colonial buscaba enviar productos fuera, no mejorar el comercio entre las provincias."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "Prohibir el cultivo del cacao",
           "is_correct": false,
-          "feedback": "la balanza solo está equilibrada cuando las exportaciones y las importaciones son iguales."
+          "feedback": "El cacao no fue prohibido, porque era un producto valioso para el comercio de la colonia."
+        },
+        {
+          "letter": "C",
+          "text": "Controlar y gravar su envio",
+          "is_correct": true,
+          "feedback": "Es la correcta: la Corona organizo la salida del cacao y le puso impuestos para controlarla."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Entregar el cultivo a la iglesia",
           "is_correct": false,
-          "feedback": "un superávit describe un resultado favorable del comercio exterior, no una crisis."
+          "feedback": "La iglesia no administro el cultivo, porque ese control era responsabilidad de la Corona."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "explanation": "La Corona espanol organizo y gravo la salida del cacao para controlar el comercio colonial de productos.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -639,36 +639,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W06-colonia-sv-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
+      "statement": "¿Qué producto, utilizado para obtener un tinte azul, tuvo importancia en la economía colonial del territorio que hoy corresponde a El Salvador?",
       "context": "Clase de ciencias sociales en Soyapango estudiando colonia sv.",
       "options": [
         {
-          "letter": "C",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto: el asesinato del Archiduque en Sarajevo en 1914 fue la chispa que inició la Primera Guerra Mundial."
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
+          "text": "El café",
           "is_correct": false,
-          "feedback": "se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa del conflicto."
+          "feedback": "El café se utiliza principalmente para preparar una bebida y su auge exportador salvadoreño corresponde al período posterior a la independencia."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "El añil",
+          "is_correct": true,
+          "feedback": "El añil proporcionaba un colorante azul y fue un producto importante del comercio colonial de la región."
+        },
+        {
+          "letter": "C",
+          "text": "La caña de azúcar",
           "is_correct": false,
-          "feedback": "se produjo en 1917, cuando la guerra ya había empezado, así que no pudo causarla."
+          "feedback": "La caña sirve para producir azúcar y otros derivados, pero no era la fuente del tinte azul mencionado."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "El cacao",
           "is_correct": false,
-          "feedback": "el avión fue un avance técnico de la época, no una causa política que provocara el conflicto armado."
+          "feedback": "El cacao tuvo importancia económica y alimentaria, pero no corresponde al producto empleado para obtener ese tinte azul."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "B",
+      "explanation": "El añil se cultivaba y procesaba para obtener un tinte azul destinado al comercio. Su producción tuvo un papel destacado en la economía colonial de la región.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -684,36 +684,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W06-colonia-sv-001-MASTERY-bundle-v16",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando colonia sv.",
+      "statement": "Que dos formas de tributo coexistian en la colonia?",
+      "context": "En el siglo XVII las comunidades podian pagar el tributo en trabajo o en dinero.",
       "options": [
         {
-          "letter": "D",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución es la norma suprema que establece la organización del Estado y los derechos de los ciudadanos."
-        },
-        {
           "letter": "A",
-          "text": "Una ley ordinaria",
+          "text": "Trabajo en la mina y en la plantacion",
           "is_correct": false,
-          "feedback": "una ley ordinaria regula un aspecto concreto, pero no es la norma que estructura los poderes del Estado."
+          "feedback": "La mita era el trabajo en las minas, y no era una de las dos formas de pago del tributo."
         },
         {
           "letter": "B",
-          "text": "Un decreto presidencial",
-          "is_correct": false,
-          "feedback": "un decreto es la orden del presidente que aplica una ley; por sí solo no organiza al Estado."
+          "text": "Trabajo y dinero",
+          "is_correct": true,
+          "feedback": "Es la correcta: las comunidades podian cumplir el tributo trabajando o pagando una cantidad en dinero."
         },
         {
           "letter": "C",
-          "text": "Un tratado internacional",
+          "text": "Cacao y anil",
           "is_correct": false,
-          "feedback": "un tratado obliga a dos o más países entre sí y no se ocupa de la organización interna de un Estado."
+          "feedback": "El cacao y el anil eran productos de exportacion, y no formas de pago del tributo."
+        },
+        {
+          "letter": "D",
+          "text": "Puerto y mina",
+          "is_correct": false,
+          "feedback": "El puerto y la mina eran lugares de la economia, y no formas de cumplir el tributo."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "B",
+      "explanation": "El tributo colonial se podia cumplir en trabajo o en dinero, y ambas formas coexistieron en las comunidades.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -729,36 +729,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W06-colonia-sv-001-MASTERY-bundle-v17",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando colonia sv.",
+      "statement": "Que huella dejo la iglesia en la colonia?",
+      "context": "En el siglo XVII la iglesia construyo templos en las zonas altas del territorio.",
       "options": [
         {
           "letter": "A",
-          "text": "Urbanización masiva y nuevas clases sociales",
+          "text": "Iglesias y educacion en los pueblos",
           "is_correct": true,
-          "feedback": "Correcto: las fábricas concentraron el trabajo en las ciudades, lo que provocó una urbanización masiva y el surgimiento de nuevas clases sociales, como la burguesía industrial y el proletariado."
+          "feedback": "Es la correcta: la iglesia dejo iglesias, escuelas y una fuerte presencia en los pueblos indigenas."
         },
         {
           "letter": "B",
-          "text": "Retorno a la vida agrícola",
+          "text": "Minas de plata en la costa",
           "is_correct": false,
-          "feedback": "ocurrió justo lo contrario: los trabajadores pasaron de los campos a las fábricas y la sociedad se hizo más urbana."
+          "feedback": "Las minas estaban en la sierra, y son una huella economica y no de la iglesia."
         },
         {
           "letter": "C",
-          "text": "Disminución del comercio global",
+          "text": "Puertos para el comercio con Asia",
           "is_correct": false,
-          "feedback": "ocurrió lo contrario: el comercio mundial creció con las materias primas y los productos industriales."
+          "feedback": "Los puertos servian al comercio con el Pacifico, y no tenian relacion con la iglesia."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "Grandes plantaciones de cacao",
           "is_correct": false,
-          "feedback": "el trabajo manual aumentó con las fábricas, las vías y las ciudades; no llegó a eliminarse."
+          "feedback": "El cacao era un producto economico, no una construccion realizada por la iglesia."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "explanation": "La iglesia colonial dejo una huella basada en iglesias, escuelas y educacion religiosa en los pueblos indigenas.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -774,36 +774,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W06-colonia-sv-001-MASTERY-bundle-v18",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando colonia sv.",
+      "statement": "De donde obtenian sus ingresos los encomenderos?",
+      "context": "En el siglo XVII los encomenderos ocupaban tierras y vivian del trabajo de las comunidades.",
       "options": [
         {
-          "letter": "D",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución reconoce los derechos humanos fundamentales de todas las personas, como la vida, la igualdad y la libertad."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "Del salario que les pagaba la Corona",
           "is_correct": false,
-          "feedback": "la propiedad es uno de los derechos, pero una Constitución democrática no se limita a protegerla."
+          "feedback": "La Corona no les pagaba un salario, porque sus ingresos venian del trabajo de las comunidades."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "De la venta de cacao al exterior",
           "is_correct": false,
-          "feedback": "los derechos políticos son solo una parte; también existen derechos civiles, sociales y económicos."
+          "feedback": "El cacao lo comercializaban los mercaderes, y no era la fuente principal de los encomenderos."
         },
         {
           "letter": "C",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Del tributo de las comunidades",
+          "is_correct": true,
+          "feedback": "Es la correcta: los encomenderos vivian de lo que las comunidades indigenas entregaban como tributo."
+        },
+        {
+          "letter": "D",
+          "text": "De las minas de plata",
           "is_correct": false,
-          "feedback": "los derechos son de las personas y limitan al poder, no son privilegio exclusivo del gobierno."
+          "feedback": "Las minas eran otro sector de la economia, y no la base de los ingresos de los encomenderos."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "C",
+      "explanation": "Los encomenderos vivian del tributo que las comunidades indigenas entregaban a cambio del acceso a la tierra.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -819,36 +819,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W06-colonia-sv-001-MASTERY-bundle-v19",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
+      "statement": "Dos registros coloniales presentan datos distintos: el primero describe la extracción del tinte de añil; el segundo informa que algunos productores dependían de comerciantes que adelantaban dinero y fijaban condiciones de compra. Si investigas cómo se distribuía el poder económico en la producción de añil, ¿cómo debes utilizar estos registros?",
       "context": "Clase de ciencias sociales en San Miguel estudiando colonia sv.",
       "options": [
         {
           "letter": "A",
-          "text": "Superávit comercial",
+          "text": "Usar el segundo para analizar la dependencia comercial y el primero para contextualizar la actividad productiva.",
           "is_correct": true,
-          "feedback": "Correcto: si un país exporta más de lo que importa, la diferencia entre ambas cifras es un superávit comercial."
+          "feedback": "Los adelantos y las condiciones de compra aportan evidencia sobre control económico; la descripción técnica ayuda a comprender qué se producía."
         },
         {
           "letter": "B",
-          "text": "Déficit comercial",
+          "text": "Usar solo el primer registro, porque el procedimiento técnico demuestra quién controlaba los precios.",
           "is_correct": false,
-          "feedback": "el déficit aparece cuando las importaciones superan a las exportaciones, que es el caso contrario al del enunciado."
+          "feedback": "La extracción del tinte explica un proceso productivo, pero por sí sola no identifica quién imponía las condiciones comerciales."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
+          "text": "Descartar ambos, porque una actividad agrícola no puede generar relaciones de poder.",
           "is_correct": false,
-          "feedback": "la balanza solo está equilibrada cuando las exportaciones y las importaciones son iguales."
+          "feedback": "El acceso al crédito y la capacidad de fijar condiciones de compra pueden producir dependencia y desigualdad en una actividad agrícola."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Concluir que todos los productores tenían iguales ingresos porque obtenían el mismo tinte.",
           "is_correct": false,
-          "feedback": "un superávit describe un resultado favorable del comercio exterior, no una crisis."
+          "feedback": "Producir el mismo bien no implica recibir iguales ingresos; las deudas y condiciones de venta pueden diferir."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "explanation": "Cada fuente debe relacionarse con la pregunta de investigación que puede responder. El segundo registro permite examinar dependencia y poder comercial, mientras el primero contextualiza la producción.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W06-colonia-sv-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando colonia sv.",
+      "statement": "Que productos salian de la colonia al exterior?",
+      "context": "En el siglo XVII el cacao, el anil y el cafe salian del territorio hacia el exterior.",
       "options": [
         {
           "letter": "A",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto: el asesinato del Archiduque en Sarajevo en 1914 fue la chispa que inició la Primera Guerra Mundial."
+          "text": "Trigo y lana de Europa",
+          "is_correct": false,
+          "feedback": "El pais no era productivo en trigo y lana, porque su economia colonial se basaba en productos tropicales."
         },
         {
           "letter": "B",
-          "text": "El Tratado de Versalles",
-          "is_correct": false,
-          "feedback": "se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa del conflicto."
+          "text": "Cacao, anil y cafe",
+          "is_correct": true,
+          "feedback": "Es la correcta: el cacao, el anil y el cafe eran productos tropicales muy demandados en Europa."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
+          "text": "Sal y minerales del interior",
           "is_correct": false,
-          "feedback": "se produjo en 1917, cuando la guerra ya había empezado, así que no pudo causarla."
+          "feedback": "La sal y los minerales no dominaban el comercio, porque lo que lo movia era el mundo tropical."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "Telas de algodon",
           "is_correct": false,
-          "feedback": "el avión fue un avance técnico de la época, no una causa política que provocara el conflicto armado."
+          "feedback": "Las telas no dominaban el comercio, porque los grandes productos coloniales eran agricolas."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "B",
+      "explanation": "El cacao, el anil y el cafe salian de la colonia porque eran productos tropicales muy demandados en Europa.",
       "difficulty": "10",
       "images": [],
       "tags": [],
