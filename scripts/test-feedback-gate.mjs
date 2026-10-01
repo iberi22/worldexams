@@ -46,6 +46,16 @@ const REAL_GOOD = [
   ['chem: arithmetic', 'Incorrecto. 2 + 1 = 3'],
   ['chem: pOH', 'Correcto. pOH es 11'],
   ['chem: Kc relation', 'Incorrecto. $Q_c\\neq K_c$'],
+  // Category labels. The length floor accepted "Past continuous." (16) and
+  // rejected "Present tense." (14) - the same answer either side of an
+  // arbitrary number. Taken from CL-ING-11-2026-W08, which CI rejected.
+  ['eng: present tense', 'Incorrect. Present tense.'],
+  ['eng: past simple', 'Incorrect. Past simple.'],
+  ['eng: past continuous', 'Incorrect. Past continuous.'],
+  ['eng: second conditional', 'Incorrect. Second conditional.'],
+  ['eng: relative pronoun', "Incorrect. 'Who' is a relative pronoun, but we need possession."],
+  ['eng: gerund', 'Incorrect. Gerund.'],
+  ['eng: present perfect continuous', 'Incorrect. Present perfect continuous.'],
 ];
 
 

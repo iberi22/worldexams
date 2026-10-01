@@ -91,6 +91,25 @@ const VERDICT_PREFIX =
   /^\s*[¡!¿]?\s*(incorrecto|correcto|incorrecta|correcta|wrong|right|correct|incorrect)\s*[¡!¿.!?]*\s*[:\-–—]?\s*/i;
 const VAGUE_ONLY =
   /^\s*(revisa|revisar|consulta|observa|lee|vuelve a leer|intenta de nuevo|try again|practica|repasa|estudia)\b[\s\wáéíóúñ]{0,32}$/i;
+// A category label: the name of the tense, voice, mood, part of speech, semantic
+// relation or vocabulary register that an option belongs to. In language
+// courses this is the pedagogically correct answer to "why is this wrong?",
+// and it is routinely shorter than a generic explanatory sentence.
+const GRAMMAR_LABEL = new RegExp(
+  '^\\s*(?:' +
+    // tenses, aspects, moods, voices
+    '(?:present|past|future|simple|continuous|perfect|infinitive|gerund|participle|imperative|indicative|subjunctive|conditional|progressive|pluperfect|preterite|anterior|future perfect|passive|active)\\b' +
+    '|' +
+    // grammar / usage labels
+    '(?:relative pronoun|relative clause|possessive pronoun|personal pronoun|demonstrative|interrogative|indefinite|definite article|indefinite article|uncountable|countable|transitive|intransitive|ditransitive|gerund|phrasal verb|phrasal|idiom|idiomatic|collocation|conjugation|declension|adjective|adverb|preposition|conjunction|determiner)' +
+    '|' +
+    // semantic relations
+    '(?:synonym|antonym|hypernym|hyponym|broader|narrower|opposite|contrast|connotation|formal|informal|colloquial|slang|idiomatic|register|rhetorical)' +
+  ')\\s*(?:[a-z]+\\s*)?$' +
+  // a compound of up to three label words, e.g. "Past perfect continuous"
+  '|^(?:\\s*[a-z]+\\s*){1,3}(?:tense|aspect|mood|voice|pronoun|clause|phrase|form)\\s*$',
+  'i',
+);
 const MIN_REASON_CHARS = 15;
 
 function feedbackReason(feedback) {
@@ -105,6 +124,10 @@ export function feedbackProblem(feedback) {
   if (!raw) return 'missing feedback';
   const reason = feedbackReason(raw);
   if (!reason) return 'feedback is only a verdict ("Correcto."/"Incorrecto."), it does not explain why';
+  // A category label is a valid explanation whatever its length, so it is checked
+  // before the two structural rules below. "Gerund." is one word and short, and it
+  // is still the correct answer to "which part of speech is it?".
+  if (GRAMMAR_LABEL.test(reason)) return null;
   // A run of characters with no spaces carries no explanation, however long:
   // "123456789012345678901234" is not a reason, it is noise.
   if (!/\s/.test(reason)) return 'feedback is an unbroken string, it does not explain why';
