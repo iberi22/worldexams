@@ -62,7 +62,7 @@ What is the common contraction of "will not"?
 
 ### Opciones
 - [ ] A) Willn't
-  <!-- feedback: Incorrect spelling. -->
+  <!-- feedback: The negative contraction of "will" keeps both letters, so it is written "won't"; "Willn't" would leave a dangling l. -->
 - [x] B) Won't
   <!-- feedback: Correct! "Won't" is the contraction of "will not". -->
 - [ ] C) Don't

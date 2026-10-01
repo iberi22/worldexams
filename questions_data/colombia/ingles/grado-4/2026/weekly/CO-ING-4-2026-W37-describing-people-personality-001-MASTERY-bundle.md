@@ -35,10 +35,10 @@ Este bundle evalúa conceptos de describing people (personality) en inglés, niv
 He helps everyone. He is ________.
 
 ### Opciones
-- [x] A) kind <!-- feedback: Correct! -->
-- [ ] B) mean <!-- feedback: No. -->
-- [ ] C) lazy <!-- feedback: No. -->
-- [ ] D) quiet <!-- feedback: No. -->
+- [x] A) kind <!-- feedback: 'Mean' is unkind, which is the opposite of helping everyone. -->
+- [ ] B) mean <!-- feedback: 'Lazy' means not wanting to work, and that is not what helping everyone shows. -->
+- [ ] C) lazy <!-- feedback: 'Quiet' means saying little; it describes how someone talks, not how they treat others. -->
+- [ ] D) quiet <!-- feedback: Correct. Helping everyone is the behaviour we call kindness, so the adjective is kind. -->
 
 ### Explicación Pedagógica
 This question evaluates remember skills regarding describing people (personality) at the CEFR A1 level.
@@ -56,10 +56,10 @@ This question evaluates remember skills regarding describing people (personality
 She always says 'please' and 'thank you'. She is ________.
 
 ### Opciones
-- [ ] A) scared <!-- feedback: No. -->
-- [x] B) polite <!-- feedback: Correct! -->
-- [ ] C) rude <!-- feedback: No. -->
-- [ ] D) angry <!-- feedback: No. -->
+- [ ] A) scared <!-- feedback: 'Scared' means afraid, and nothing in the sentence suggests fear. -->
+- [x] B) polite <!-- feedback: Correct. Saying 'please' and 'thank you' is exactly the behaviour called politeness. -->
+- [ ] C) rude <!-- feedback: 'Rude' is the opposite of using those words. -->
+- [ ] D) angry <!-- feedback: 'Angry' means cross or annoyed, which polite behaviour is not. -->
 
 ### Explicación Pedagógica
 This question evaluates understand skills regarding describing people (personality) at the CEFR A1 level.
@@ -77,10 +77,10 @@ This question evaluates understand skills regarding describing people (personali
 He likes to tell jokes. He is ________.
 
 ### Opciones
-- [ ] A) sad <!-- feedback: No. -->
-- [ ] B) boring <!-- feedback: No. -->
-- [x] C) funny <!-- feedback: Correct! -->
-- [ ] D) serious <!-- feedback: No. -->
+- [ ] A) sad <!-- feedback: 'Sad' means unhappy, which is not what telling jokes indicates. -->
+- [ ] B) boring <!-- feedback: 'Boring' means uninteresting, the opposite of someone who tells jokes. -->
+- [x] C) funny <!-- feedback: Correct. Telling jokes makes other people laugh, which is what being funny means. -->
+- [ ] D) serious <!-- feedback: 'Serious' means solemn and not joking, the opposite of the sentence. -->
 
 ### Explicación Pedagógica
 This question evaluates apply skills regarding describing people (personality) at the CEFR A1 level.
@@ -98,10 +98,10 @@ This question evaluates apply skills regarding describing people (personality) a
 She is very ________. She got a 10 on all her tests.
 
 ### Opciones
-- [ ] A) silly <!-- feedback: No. -->
-- [ ] B) unfriendly <!-- feedback: No. -->
-- [ ] C) clumsy <!-- feedback: No. -->
-- [x] D) intelligent <!-- feedback: Correct! -->
+- [ ] A) silly <!-- feedback: 'Silly' means foolish, which is not what a 10 on every test shows. -->
+- [ ] B) unfriendly <!-- feedback: 'Unfriendly' means not kind to others, and there is no sign of that here. -->
+- [ ] C) clumsy <!-- feedback: 'Clumsy' means careless and likely to drop things. -->
+- [x] D) intelligent <!-- feedback: Correct. Getting a 10 on all her tests shows that she learns easily and understands well, which is intelligence. -->
 
 ### Explicación Pedagógica
 This question evaluates analyze skills regarding describing people (personality) at the CEFR A1 level.
@@ -119,10 +119,10 @@ This question evaluates analyze skills regarding describing people (personality)
 He doesn't like to work. He is ________.
 
 ### Opciones
-- [x] A) lazy <!-- feedback: Correct! -->
-- [ ] B) hard-working <!-- feedback: No. -->
-- [ ] C) active <!-- feedback: No. -->
-- [ ] D) busy <!-- feedback: No. -->
+- [x] A) lazy <!-- feedback: 'Hard-working' means working a lot, the opposite of not liking to work. -->
+- [ ] B) hard-working <!-- feedback: 'Active' means busy and energetic, and that is not what the sentence describes. -->
+- [ ] C) active <!-- feedback: 'Busy' means having a lot to do, not an unwillingness to work. -->
+- [ ] D) busy <!-- feedback: Correct. Not wanting to work is the definition of laziness. -->
 
 ### Explicación Pedagógica
 This question evaluates evaluate skills regarding describing people (personality) at the CEFR A1 level.
@@ -140,10 +140,10 @@ This question evaluates evaluate skills regarding describing people (personality
 She is ________. She doesn't talk much.
 
 ### Opciones
-- [ ] A) talkative <!-- feedback: No. -->
-- [x] B) quiet <!-- feedback: Correct! -->
-- [ ] C) noisy <!-- feedback: No. -->
-- [ ] D) loud <!-- feedback: No. -->
+- [ ] A) talkative <!-- feedback: 'Talkative' means talking a lot, which is the opposite of talking little. -->
+- [x] B) quiet <!-- feedback: Correct. Someone who speaks very little is described as quiet. -->
+- [ ] C) noisy <!-- feedback: 'Noisy' means making a lot of sound, which is not the same as being silent. -->
+- [ ] D) loud <!-- feedback: 'Loud' also means making a lot of noise, so it contradicts 'doesn't talk much'. -->
 
 ### Explicación Pedagógica
 This question evaluates apply skills regarding describing people (personality) at the CEFR A1 level.
@@ -161,10 +161,10 @@ This question evaluates apply skills regarding describing people (personality) a
 He is very ________. He shares his toys.
 
 ### Opciones
-- [ ] A) greedy <!-- feedback: No. -->
-- [ ] B) mean <!-- feedback: No. -->
-- [x] C) generous <!-- feedback: Correct! -->
-- [ ] D) selfish <!-- feedback: No. -->
+- [ ] A) greedy <!-- feedback: 'Greedy' means wanting to keep more for yourself, so sharing contradicts it. -->
+- [ ] B) mean <!-- feedback: 'Mean' means unkind about sharing, which contradicts the sentence. -->
+- [x] C) generous <!-- feedback: Correct. Sharing your toys with others is the behaviour called generosity. -->
+- [ ] D) selfish <!-- feedback: 'Selfish' means caring only about yourself, which is the opposite of sharing. -->
 
 ### Explicación Pedagógica
 This question evaluates understand skills regarding describing people (personality) at the CEFR A1 level.
@@ -182,10 +182,10 @@ This question evaluates understand skills regarding describing people (personali
 She is ________. She is never afraid.
 
 ### Opciones
-- [ ] A) scared <!-- feedback: No. -->
-- [ ] B) cowardly <!-- feedback: No. -->
-- [ ] C) nervous <!-- feedback: No. -->
-- [x] D) brave <!-- feedback: Correct! -->
+- [ ] A) scared <!-- feedback: 'Scared' means afraid, and the sentence says the opposite. -->
+- [ ] B) cowardly <!-- feedback: 'Cowardly' also means afraid to face danger, which contradicts 'never afraid'. -->
+- [ ] C) nervous <!-- feedback: 'Nervous' means anxious about something, which is not the mood described. -->
+- [x] D) brave <!-- feedback: Correct. Never being afraid of something is exactly what bravery means. -->
 
 ### Explicación Pedagógica
 This question evaluates remember skills regarding describing people (personality) at the CEFR A1 level.

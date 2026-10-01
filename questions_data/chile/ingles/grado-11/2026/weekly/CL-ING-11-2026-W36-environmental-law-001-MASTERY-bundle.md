@@ -95,10 +95,10 @@ The second conditional 'if + were' describes the likely outcome of a hypothetica
 The "polluter pays" principle suggests that those who produce pollution should bear the costs of managing it to prevent damage to human health or the environment.
 
 ### Opciones
-- [ ] A) ignore <!-- feedback: Incorrect. -->
+- [ ] A) ignore <!-- feedback: "Ignore" is the opposite of the principle, which requires the polluter to deal with the damage instead of looking away from it. -->
 - [x] C) bear the costs <!-- feedback: Correct. 'Bear the cost' means to pay for something. -->
 - [ ] B) avoid responsibility <!-- feedback: Incorrect. The principle is about taking responsibility. -->
-- [ ] D) increase emissions <!-- feedback: Incorrect. -->
+- [ ] D) increase emissions <!-- feedback: "Increase emissions" would mean producing even more pollution, the exact outcome the principle is designed to prevent. -->
 
 ### Explicacion Pedagogica
 'Bear the costs' is the formal phrase for taking financial responsibility for an impact.
@@ -135,10 +135,10 @@ Some legal scholars argue that natural features like rivers should have "legal p
 An environmental impact assessment (EIA) must be conducted before major construction projects can begin.
 
 ### Opciones
-- [ ] B) trial <!-- feedback: Incorrect. -->
+- [ ] B) trial <!-- feedback: A "trial" is a legal case in court; the term for the evaluation of a project's environmental impact is "assessment". -->
 - [x] A) assessment <!-- feedback: Correct. An assessment is an evaluation or estimation of the nature, quality, or ability of someone or something. -->
-- [ ] C) gossip <!-- feedback: Incorrect. -->
-- [ ] D) celebration <!-- feedback: Incorrect. -->
+- [ ] C) gossip <!-- feedback: "Gossip" is informal talk about private matters; it has no place in a legal assessment procedure. -->
+- [ ] D) celebration <!-- feedback: "Celebration" is a festive event; an EIA is a technical evaluation carried out before construction starts. -->
 
 ### Explicacion Pedagogica
 'Environmental impact assessment' is the technical term for the study of potential environmental effects of a project.
@@ -155,10 +155,10 @@ An environmental impact assessment (EIA) must be conducted before major construc
 Stricter limits on carbon emissions are being implemented by several European governments this year.
 
 ### Opciones
-- [ ] A) are implementing <!-- feedback: Incorrect. Active voice. -->
+- [ ] A) are implementing <!-- feedback: "Are implementing" is active: it would make the governments the ones doing the work. The limits are what is being implemented, so the passive is needed. -->
 - [x] D) are being implemented <!-- feedback: Correct. Present continuous passive for an ongoing regulatory process. -->
 - [ ] B) implemented <!-- feedback: Incorrect. Past simple. -->
-- [ ] C) have implemented <!-- feedback: Incorrect. Active voice. -->
+- [ ] C) have implemented <!-- feedback: "Have implemented" is active and perfect; the regulatory process is still under way, and the limits are what is being implemented. -->
 
 ### Explicacion Pedagogica
 The present continuous passive describes the current, active rollout of new regulations.
@@ -178,7 +178,7 @@ Companies that fail to comply with environmental regulations can face heavy fine
 - [ ] B) disagree <!-- feedback: Incorrect. You can disagree but still comply (obey). -->
 - [x] A) comply with <!-- feedback: Correct. To comply with means to act in accordance with a wish or command. -->
 - [ ] C) ignore <!-- feedback: Incorrect. Failure to comply is more formal than just ignoring. -->
-- [ ] D) create <!-- feedback: Incorrect. -->
+- [ ] D) create <!-- feedback: Companies face fines or legal action for breaking the rules; "create" would be the opposite of what regulations do. -->
 
 ### Explicacion Pedagogica
 'Comply with' is the formal verb for obeying laws or regulations.
@@ -217,7 +217,7 @@ Greenwashing involves misleading consumers about the environmental benefits of a
 ### Opciones
 - [ ] A) honest <!-- feedback: Incorrect. Greenwashing is deceptive. -->
 - [x] D) deceptive <!-- feedback: Correct. Deceptive means giving an appearance or impression different from the true one; misleading. -->
-- [ ] B) accurate <!-- feedback: Incorrect. -->
+- [ ] B) accurate <!-- feedback: Greenwashing means making claims that are false or exaggerated, so the description must be misleading, not accurate. -->
 - [ ] C) scientific <!-- feedback: Incorrect. It often lacks real scientific basis. -->
 
 ### Explicacion Pedagogica
@@ -235,10 +235,10 @@ Greenwashing involves misleading consumers about the environmental benefits of a
 Legislation is a law or a set of laws that have been passed by a parliament or other governing body.
 
 ### Opciones
-- [ ] B) Rumor <!-- feedback: Incorrect. -->
+- [ ] B) Rumor <!-- feedback: A "rumor" is unverified talk that spreads by word of mouth; legislation is the opposite, an officially approved text of law. -->
 - [x] A) Legislation <!-- feedback: Correct. The formal term for laws. -->
-- [ ] C) Tradition <!-- feedback: Incorrect. -->
-- [ ] D) Myth <!-- feedback: Incorrect. -->
+- [ ] C) Tradition <!-- feedback: A "tradition" is a custom passed down over generations; a law is deliberately enacted by a parliament. -->
+- [ ] D) Myth <!-- feedback: A "myth" is a traditional story believed to be true; legislation is a written rule approved by a governing body. -->
 
 ### Explicacion Pedagogica
 'Legislation' is the comprehensive term for the body of laws created by a legislative authority.
@@ -275,10 +275,10 @@ The future perfect passive describes the ban as a finished reality by the year 2
 Jurisdiction refers to the official power to make legal decisions and judgments within a specific area.
 
 ### Opciones
-- [ ] B) Navigation <!-- feedback: Incorrect. -->
+- [ ] B) Navigation <!-- feedback: "Navigation" is the planning of routes at sea or in the air; the power to make legal judgments belongs to "jurisdiction". -->
 - [x] A) Jurisdiction <!-- feedback: Correct. Legal power over an area. -->
-- [ ] C) Celebration <!-- feedback: Incorrect. -->
-- [ ] D) Isolation <!-- feedback: Incorrect. -->
+- [ ] C) Celebration <!-- feedback: "Celebration" is a festive event; jurisdiction is about legal authority over an area. -->
+- [ ] D) Isolation <!-- feedback: "Isolation" means being separated; jurisdiction is about the official power to decide legal matters. -->
 
 ### Explicacion Pedagogica
 'Jurisdiction' is the precise legal term for the scope of authority of a court or government body.
@@ -315,7 +315,7 @@ The second conditional 'if + past simple' describes the likely result of a hypot
 The author concludes that environmental litigation is a powerful tool for holding corporations accountable for their ecological impact.
 
 ### Opciones
-- [ ] A) unimportant <!-- feedback: Incorrect. -->
+- [ ] A) unimportant <!-- feedback: The author calls environmental litigation a powerful tool, so calling it unimportant contradicts the conclusion. -->
 - [x] C) powerful tool <!-- feedback: Correct. Litigation is the process of taking legal action. -->
 - [ ] B) secret weapon <!-- feedback: Incorrect. It's a public legal process. -->
 - [ ] D) distraction <!-- feedback: Incorrect. Author sees it as essential. -->
@@ -375,10 +375,10 @@ The 'wish + past perfect' structure allows for the expression of regret about a 
 Sustainable finance involves taking environmental, social, and governance (ESG) factors into account when making investment decisions.
 
 ### Opciones
-- [ ] B) ignoring <!-- feedback: Incorrect. -->
+- [ ] B) ignoring <!-- feedback: Sustainable finance requires ESG factors to be weighed up, so ignoring them would defeat the definition. -->
 - [x] A) taking into account <!-- feedback: Correct. To take into account means to consider something when making a decision. -->
-- [ ] C) hiding <!-- feedback: Incorrect. -->
-- [ ] D) deleting <!-- feedback: Incorrect. -->
+- [ ] C) hiding <!-- feedback: Hiding ESG information is the opposite of disclosing it, which is what the definition requires. -->
+- [ ] D) deleting <!-- feedback: Deleting the data would remove the factors entirely; the point is to consider them, not erase them. -->
 
 ### Explicacion Pedagogica
 'Taking into account' is the standard phrase for considering specific factors in a decision-making process.
@@ -417,8 +417,8 @@ Ultimately, environmental law is essential for ensuring that economic developmen
 ### Opciones
 - [x] B) at the expense of <!-- feedback: Correct. 'At the expense of' means with the loss or damage of. -->
 - [ ] A) in addition to <!-- feedback: Incorrect. It doesn't mean adding. -->
-- [ ] C) because of <!-- feedback: Incorrect. -->
-- [ ] D) instead of <!-- feedback: Incorrect. -->
+- [ ] C) because of <!-- feedback: "Because of" gives a cause, but the sentence contrasts economic development with damage to the planet rather than explaining a cause. -->
+- [ ] D) instead of <!-- feedback: "Instead of" signals a replacement, which would mean one thing is used in place of another; here the point is that development should not cost the planet its health. -->
 
 ### Explicacion Pedagogica
 'At the expense of' is the correct prepositional phrase for describing a trade-off where one thing is damaged to benefit another.

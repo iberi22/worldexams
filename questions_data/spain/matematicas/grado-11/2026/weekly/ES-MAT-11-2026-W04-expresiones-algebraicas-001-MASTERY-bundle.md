@@ -50,10 +50,10 @@ El coeficiente principal de un polinomio es el valor numérico que acompaña a l
 ¿Cuál es el grado del polinomio resultante de multiplicar un polinomio de grado 2 por otro de grado 3?
 
 ### Opciones
-- [ ] A) 6 <!-- feedback: Error al multiplicar los grados en lugar de sumarlos. -->
-- [x] B) 5 <!-- feedback: Correcto. Al multiplicar monomios de la misma base, se suman los exponentes. $x^2 \cdot x^3 = x^5$. -->
-- [ ] C) 3 <!-- feedback: El grado resultante debe ser mayor que el de los factores. -->
-- [ ] D) 2 <!-- feedback: El grado resultante debe ser mayor que el de los factores. -->
+- [ ] A) 6 <!-- feedback: El grado del producto se obtiene sumando, no multiplicando, los grados de los factores. -->
+- [x] B) 5 <!-- feedback: Al multiplicar monomios de la misma base los exponentes se suman: $x^2 \cdot x^3 = x^{2+3} = x^5$, y el producto tiene grado $2 + 3 = 5$. -->
+- [ ] C) 3 <!-- feedback: El grado del producto siempre es mayor o igual que el de cada factor, porque los grados se suman: $2 + 3 = 5 > 3$. -->
+- [ ] D) 2 <!-- feedback: El grado del producto no puede ser menor que el de un factor; aquí se obtiene $2 + 3 = 5$, no $2$. -->
 
 ### Explicacion Pedagogica
 El grado del producto de dos polinomios es igual a la suma de los grados de los polinomios factores. Esto se debe a la propiedad de las potencias de la misma base.

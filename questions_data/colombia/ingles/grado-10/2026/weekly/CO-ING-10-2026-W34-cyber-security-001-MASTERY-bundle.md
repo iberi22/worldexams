@@ -98,10 +98,10 @@ This bundle explores digital safety and security using B2-level grammar, focusin
 "If you ____ more careful about suspicious links, you ____ your password to those scammers."
 
 ### Opciones
-- [ ] A) are / wouldn't give <!-- feedback: Mixed conditional, possible but B is for past-to-past. -->
+- [ ] A) are / wouldn't give <!-- feedback: 'Are ... wouldn't give' is a mixed conditional; it would describe a habit that still holds, not the specific past mistake being recounted. -->
 - [x] B) had been / wouldn't have given <!-- feedback: Correct. Third Conditional for a past digital mistake. -->
-- [ ] C) were / won't give <!-- feedback: Incorrect. -->
-- [ ] D) are / don't give <!-- feedback: Zero Conditional (general truth). -->
+- [ ] C) were / won't give <!-- feedback: 'Were ... won't give' mixes a hypothetical past with a future consequence, so the two halves belong to different conditionals. -->
+- [ ] D) are / don't give <!-- feedback: 'Are ... don't give' is the zero conditional for a general truth, which loses the past event the sentence describes. -->
 
 ### Explicación Pedagógica
 Using the Third Conditional to analyze past cybersecurity failures.
@@ -140,10 +140,10 @@ Using the Third Conditional to analyze past cybersecurity failures.
 "Your identity ____ stolen if you ____ the same password for all your accounts."
 
 ### Opciones
-- [ ] A) will be / used <!-- feedback: Incorrect tense. -->
+- [ ] A) will be / used <!-- feedback: 'Will be' states the theft as a certainty, but the sentence warns about a risk that may or may not happen. -->
 - [x] C) could be / use <!-- feedback: Correct First Conditional with modal for possibility. -->
-- [ ] B) was / used <!-- feedback: Incorrect tense. -->
-- [ ] D) would be / use <!-- feedback: Incorrect. -->
+- [ ] B) was / used <!-- feedback: 'Was' points to a completed past event and 'used' is past tense, so the sentence would describe something that already happened rather than a general risk. -->
+- [ ] D) would be / use <!-- feedback: 'Would be' belongs to the second conditional for a hypothetical case, not to a general warning about behaviour that could happen to anyone. -->
 
 ### Explicación Pedagógica
 Using the First Conditional (could be + present) to warn about potential future digital risks.
@@ -161,10 +161,10 @@ Using the First Conditional (could be + present) to warn about potential future 
 "I ____ the email carefully before realizing it was a scam, but I didn't ____ any of the links."
 
 ### Opciones
-- [ ] A) looked up / click <!-- feedback: Incorrect meaning. -->
+- [ ] A) looked up / click <!-- feedback: 'Looked up' means to consult a reference or check a definition, not to examine a message from end to end. -->
 - [x] B) went through / click on <!-- feedback: Correct. To examine carefully + tech phrasal 'click on'. -->
-- [ ] C) broke into / look after <!-- feedback: Incorrect. -->
-- [ ] D) set up / log on <!-- feedback: Incorrect. -->
+- [ ] C) broke into / look after <!-- feedback: 'Broke into' means to enter a place or system illegally, and 'look after' means to care for someone, so neither fits either blank. -->
+- [ ] D) set up / log on <!-- feedback: 'Set up' means to arrange or install something, and 'log on' is to sign in with a password, so the pair does not describe examining an email. -->
 
 ### Explicación Pedagógica
 'Go through' means to examine something in detail, which is essential for identifying digital scams.
@@ -182,10 +182,10 @@ Using the First Conditional (could be + present) to warn about potential future 
 "The IT department ____ a new firewall to ____ hackers from accessing the main server."
 
 ### Opciones
-- [ ] B) set off / let <!-- feedback: Incorrect. -->
+- [ ] B) set off / let <!-- feedback: 'Set off' means to set something alight or to start a journey, and 'let' would permit the hackers rather than stop them. -->
 - [x] A) set up / keep <!-- feedback: Correct. To establish/install + to prevent. -->
-- [ ] C) brought up / stop <!-- feedback: Incorrect. -->
-- [ ] D) broke down / prevent <!-- feedback: Incorrect. -->
+- [ ] C) brought up / stop <!-- feedback: 'Brought up' means to raise a topic, and 'stop' is too general for the specific function of a firewall. -->
+- [ ] D) broke down / prevent <!-- feedback: 'Broke down' means to stop working or to fall apart, the opposite of installing something that is meant to protect the server. -->
 
 ### Explicación Pedagógica
 'Set up' means to establish or install a system, a key phrasal verb in tech contexts.
@@ -203,10 +203,10 @@ Using the First Conditional (could be + present) to warn about potential future 
 "Unless companies ____ multi-factor authentication, they ____ vulnerable to credential stuffing attacks."
 
 ### Opciones
-- [ ] A) implement / would remain <!-- feedback: Incorrect. -->
+- [ ] A) implement / would remain <!-- feedback: 'Would remain' is the second conditional for a hypothetical, whereas 'unless' here introduces a condition that is expected to hold. -->
 - [x] D) implement / will remain <!-- feedback: Correct First Conditional with 'unless'. -->
-- [ ] B) implemented / will remain <!-- feedback: Incorrect tense. -->
-- [ ] C) had implemented / remained <!-- feedback: Incorrect. -->
+- [ ] B) implemented / will remain <!-- feedback: 'Implemented' is past tense, so it would say the company already installed it rather than stating the ongoing requirement. -->
+- [ ] C) had implemented / remained <!-- feedback: 'Had implemented ... remained' is a past-to-past pair that fits the third conditional, not an 'unless' clause about current practice. -->
 
 ### Explicación Pedagógica
 Using 'unless' in a First Conditional to describe a necessary security measure and the consequence of not having it.
@@ -225,9 +225,9 @@ Using 'unless' in a First Conditional to describe a necessary security measure a
 
 ### Opciones
 - [x] D) using / can <!-- feedback: Correct inversion with 'Only by'. -->
-- [ ] A) use / will <!-- feedback: Incorrect syntax for 'Only by'. -->
-- [ ] B) using / - <!-- feedback: Missing auxiliary for inversion. -->
-- [ ] C) used / did <!-- feedback: Incorrect. -->
+- [ ] A) use / will <!-- feedback: 'Only by' is followed by a gerund, since 'by' takes a noun or an -ing form, so the bare 'use' is wrong. -->
+- [ ] B) using / - <!-- feedback: With 'only' first, the subject and auxiliary have to invert, so the clause cannot end without an auxiliary such as 'can'. -->
+- [ ] C) used / did <!-- feedback: 'Used' is a past participle and 'did' would be needed for an inversion of the past, which is not the form this sentence requires. -->
 
 ### Explicación Pedagógica
 Advanced B2 structure: Inversion after 'Only by + gerund' in a high-stakes security context.
@@ -245,10 +245,10 @@ Advanced B2 structure: Inversion after 'Only by + gerund' in a high-stakes secur
 "He ____ his computer unattended in a cafe; it was a clear violation of basic security rules."
 
 ### Opciones
-- [ ] A) must not leave <!-- feedback: Incorrect tense. -->
+- [ ] A) must not leave <!-- feedback: 'Must not leave' can only describe a rule for the present or future, so it cannot criticise the past act described in the sentence. -->
 - [ ] B) can't have left <!-- feedback: Contradicts the result (it happened). -->
 - [x] C) shouldn't have left <!-- feedback: Correct. Past criticism. -->
-- [ ] D) might not have left <!-- feedback: Incorrect meaning. -->
+- [ ] D) might not have left <!-- feedback: 'Might not have left' leaves open the possibility that he did not leave his computer unattended, which contradicts the semicolon clause that states it happened. -->
 
 ### Explicación Pedagógica
 Using 'shouldn't have' to criticize past negligent behavior in a digital context.
@@ -266,10 +266,10 @@ Using 'shouldn't have' to criticize past negligent behavior in a digital context
 "If the company ____ more transparent about its data practices, its reputation ____ so much today."
 
 ### Opciones
-- [ ] A) was / wouldn't suffer <!-- feedback: Second conditional. -->
+- [ ] A) was / wouldn't suffer <!-- feedback: 'Was ... wouldn't suffer' is the second conditional for a hypothetical in the past, but the sentence describes a consequence that is still going on today. -->
 - [x] C) had been / wouldn't be suffering <!-- feedback: Correct Mixed Conditional (Past action -> Present ongoing result). -->
-- [ ] B) had been / wouldn't have suffered <!-- feedback: Third conditional (Past result). -->
-- [ ] D) were / didn't suffer <!-- feedback: Incorrect. -->
+- [ ] B) had been / wouldn't have suffered <!-- feedback: 'Wouldn't have suffered' closes the third conditional with a finished past result, whereas the damage here is an ongoing present condition. -->
+- [ ] D) were / didn't suffer <!-- feedback: 'Were ... didn't suffer' is a second conditional with a negative result and does not convey a situation that is still ongoing. -->
 
 ### Explicación Pedagógica
 Mastery level: Using a Mixed Conditional to connect past corporate decisions to present-day reputation damage.

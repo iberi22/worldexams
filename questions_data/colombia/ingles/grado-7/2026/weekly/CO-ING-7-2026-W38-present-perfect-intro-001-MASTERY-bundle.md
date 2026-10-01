@@ -62,13 +62,13 @@ What form of the main verb is required in the Present Perfect tense?
 
 ### Opciones
 - [ ] B) Base form (e.g., eat)
-  <!-- feedback: Incorrect. -->
+  <!-- feedback: The base form follows 'do', 'does' or a modal such as 'can', not the auxiliary 'have'. -->
 - [ ] C) Past form (e.g., ate)
-  <!-- feedback: Incorrect. -->
+  <!-- feedback: The past form is used on its own in the Past Simple, as in 'I ate', not after 'have'. -->
 - [x] A) Past Participle (e.g., eaten)
-  <!-- feedback: Correct! We use the third column of verbs (past participle). -->
+  <!-- feedback: Correct. The Present Perfect is built with 'have' or 'has' followed by the past participle, the third column of the verb table. -->
 - [ ] D) Continuous form (e.g., eating)
-  <!-- feedback: Incorrect. -->
+  <!-- feedback: The continuous form needs 'be' plus 'ing', as in 'I am eating', which is the Present Perfect Continuous. -->
 
 ### Explicacion Pedagogica
 The student identifies the specific morphological form of the verb used in this tense.
@@ -87,13 +87,13 @@ Complete: "I ________ (see) the movie 'Encanto' three times."
 
 ### Opciones
 - [ ] B) have saw
-  <!-- feedback: Incorrect. "Saw" is the past form; "seen" is the participle. -->
+  <!-- feedback: 'Saw' is the past form used in the Past Simple; the participle of 'see' is 'seen'. -->
 - [x] A) have seen
-  <!-- feedback: Correct! Auxiliary "have" + past participle "seen". -->
+  <!-- feedback: Correct. The Present Perfect is 'have' plus the past participle 'seen'. -->
 - [ ] C) has seen
-  <!-- feedback: Incorrect. "Has" is for third person singular. -->
+  <!-- feedback: 'Has' goes with a third person singular subject such as 'she', but the subject here is 'I'. -->
 - [ ] D) am seen
-  <!-- feedback: Incorrect structure. -->
+  <!-- feedback: The Present Perfect needs the auxiliary 'have' or 'has'; 'am' only appears with continuous forms. -->
 
 ### Explicacion Pedagogica
 The student understands the combination of auxiliary and participle for the first person singular.

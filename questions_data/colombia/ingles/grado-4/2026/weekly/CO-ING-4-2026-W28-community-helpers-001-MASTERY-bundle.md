@@ -35,10 +35,10 @@ Este bundle evalúa conceptos de community helpers en inglés, nivel CEFR A1 par
 A ________ helps sick people.
 
 ### Opciones
-- [x] A) doctor <!-- feedback: Correct! -->
-- [ ] B) pilot <!-- feedback: No. -->
-- [ ] C) chef <!-- feedback: No. -->
-- [ ] D) singer <!-- feedback: No. -->
+- [x] A) doctor <!-- feedback: A pilot flies an airplane and does not treat sick people. -->
+- [ ] B) pilot <!-- feedback: Correct. A doctor is trained to diagnose and treat illness in people. -->
+- [ ] C) chef <!-- feedback: A chef cooks food in a restaurant, not in a clinic. -->
+- [ ] D) singer <!-- feedback: A singer performs music and does not help sick people. -->
 
 ### Explicación Pedagógica
 This question evaluates remember skills regarding community helpers at the CEFR A1 level.
@@ -56,10 +56,10 @@ This question evaluates remember skills regarding community helpers at the CEFR 
 A ________ teaches students at school.
 
 ### Opciones
-- [ ] A) artist <!-- feedback: No. -->
-- [x] B) teacher <!-- feedback: Correct! -->
-- [ ] C) driver <!-- feedback: No. -->
-- [ ] D) dancer <!-- feedback: No. -->
+- [ ] A) artist <!-- feedback: An artist paints and draws; teaching students at school is a different job. -->
+- [x] B) teacher <!-- feedback: Correct. A teacher works at a school and is paid to teach its students. -->
+- [ ] C) driver <!-- feedback: A driver transports people or goods, but does not teach a class. -->
+- [ ] D) dancer <!-- feedback: A dancer performs on a stage, not in front of a class of pupils. -->
 
 ### Explicación Pedagógica
 This question evaluates understand skills regarding community helpers at the CEFR A1 level.
@@ -77,10 +77,10 @@ This question evaluates understand skills regarding community helpers at the CEF
 A ________ protects the city and catches criminals.
 
 ### Opciones
-- [ ] A) firefighter <!-- feedback: No. -->
-- [ ] B) vet <!-- feedback: No. -->
-- [x] C) police officer <!-- feedback: Correct! -->
-- [ ] D) farmer <!-- feedback: No. -->
+- [ ] A) firefighter <!-- feedback: A firefighter puts out fires, and does not normally catch criminals. -->
+- [ ] B) vet <!-- feedback: A vet treats sick animals, not people in a city. -->
+- [x] C) police officer <!-- feedback: Correct. A police officer protects the population and is the one who catches criminals. -->
+- [ ] D) farmer <!-- feedback: A farmer works the land and grows food, not a city police force. -->
 
 ### Explicación Pedagógica
 This question evaluates apply skills regarding community helpers at the CEFR A1 level.
@@ -98,10 +98,10 @@ This question evaluates apply skills regarding community helpers at the CEFR A1 
 A ________ puts out fires.
 
 ### Opciones
-- [ ] A) waiter <!-- feedback: No. -->
-- [ ] B) lawyer <!-- feedback: No. -->
-- [ ] C) dentist <!-- feedback: No. -->
-- [x] D) firefighter <!-- feedback: Correct! -->
+- [ ] A) waiter <!-- feedback: A waiter serves food in a restaurant and has nothing to do with fires. -->
+- [ ] B) lawyer <!-- feedback: A lawyer defends people in court, not at a fire. -->
+- [ ] C) dentist <!-- feedback: A dentist cares for teeth, and is not trained to fight fires. -->
+- [x] D) firefighter <!-- feedback: Correct. A firefighter is trained to enter burning buildings and extinguish fires with water or foam. -->
 
 ### Explicación Pedagógica
 This question evaluates analyze skills regarding community helpers at the CEFR A1 level.
@@ -119,10 +119,10 @@ This question evaluates analyze skills regarding community helpers at the CEFR A
 A ________ flies an airplane.
 
 ### Opciones
-- [x] A) pilot <!-- feedback: Correct! -->
-- [ ] B) mechanic <!-- feedback: No. -->
-- [ ] C) nurse <!-- feedback: No. -->
-- [ ] D) clerk <!-- feedback: No. -->
+- [x] A) pilot <!-- feedback: A mechanic repairs engines in a garage, not aircraft in flight. -->
+- [ ] B) mechanic <!-- feedback: Correct. A pilot is the person trained to fly and steer an airplane. -->
+- [ ] C) nurse <!-- feedback: A nurse cares for sick patients in a hospital or clinic. -->
+- [ ] D) clerk <!-- feedback: A clerk does office paperwork; they do not operate an aircraft. -->
 
 ### Explicación Pedagógica
 This question evaluates evaluate skills regarding community helpers at the CEFR A1 level.
@@ -140,10 +140,10 @@ This question evaluates evaluate skills regarding community helpers at the CEFR 
 A ________ cooks food in a restaurant.
 
 ### Opciones
-- [ ] A) scientist <!-- feedback: No. -->
-- [x] B) chef <!-- feedback: Correct! -->
-- [ ] C) soldier <!-- feedback: No. -->
-- [ ] D) builder <!-- feedback: No. -->
+- [ ] A) scientist <!-- feedback: A scientist studies and researches, he does not cook in a restaurant kitchen. -->
+- [x] B) chef <!-- feedback: Correct. A chef is trained to prepare and cook the dishes a restaurant serves. -->
+- [ ] C) soldier <!-- feedback: A soldier serves in the armed forces, not in a restaurant kitchen. -->
+- [ ] D) builder <!-- feedback: A builder constructs walls and buildings, and does not cook. -->
 
 ### Explicación Pedagógica
 This question evaluates apply skills regarding community helpers at the CEFR A1 level.
@@ -161,10 +161,10 @@ This question evaluates apply skills regarding community helpers at the CEFR A1 
 A ________ helps sick animals.
 
 ### Opciones
-- [ ] A) librarian <!-- feedback: No. -->
-- [ ] B) guard <!-- feedback: No. -->
-- [x] C) vet <!-- feedback: Correct! -->
-- [ ] D) postman <!-- feedback: No. -->
+- [ ] A) librarian <!-- feedback: A librarian looks after books and lends them from a library. -->
+- [ ] B) guard <!-- feedback: A 'guard' watches and protects a building or an entrance. -->
+- [x] C) vet <!-- feedback: Correct. A vet, or veterinarian, is the doctor who treats sick animals. -->
+- [ ] D) postman <!-- feedback: A postman delivers letters and packages. -->
 
 ### Explicación Pedagógica
 This question evaluates understand skills regarding community helpers at the CEFR A1 level.
@@ -182,10 +182,10 @@ This question evaluates understand skills regarding community helpers at the CEF
 A ________ grows food on a farm.
 
 ### Opciones
-- [ ] A) manager <!-- feedback: No. -->
-- [ ] B) actor <!-- feedback: No. -->
-- [ ] C) secretary <!-- feedback: No. -->
-- [x] D) farmer <!-- feedback: Correct! -->
+- [ ] A) manager <!-- feedback: A manager runs a business or a team, he does not work the land. -->
+- [ ] B) actor <!-- feedback: An actor performs in films or on stage, not on a farm. -->
+- [ ] C) secretary <!-- feedback: A secretary handles office documents and calls. -->
+- [x] D) farmer <!-- feedback: Correct. A farmer works the land to grow crops and raise animals for food. -->
 
 ### Explicación Pedagógica
 This question evaluates remember skills regarding community helpers at the CEFR A1 level.

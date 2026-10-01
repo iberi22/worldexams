@@ -219,7 +219,7 @@ What does the phrase 'In conclusion' signal to the reader?
   <!-- feedback: Questions use question forms, not this connective. -->
 
 ### Explicacion Pedagogica
-La expresion anuncia el cierre del ensayo y la sintesis final de los argumentos.
+La expresion anuncia el cierre del ensayo y la sintesis final de los argumentos. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
 
 ---
 
@@ -269,7 +269,7 @@ Choose the best transition between paragraphs on different aspects of the same t
   <!-- feedback: The contrast introduces an unrelated setting. -->
 
 ### Explicacion Pedagogica
-'Furthermore' anade un argumento adicional al ya presentado dentro del mismo tema.
+'Furthermore' anade un argumento adicional al ya presentado dentro del mismo tema. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
 
 ---
 
@@ -494,7 +494,7 @@ Choose the best title for an essay about the benefits of public transport.
   <!-- feedback: It does not identify the subject matter at all. -->
 
 ### Explicacion Pedagogica
-Un buen titulo anuncia el tema y el enfoque del texto de forma breve y precisa.
+Un buen titulo anuncia el tema y el enfoque del texto de forma breve y precisa. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
 
 ---
 

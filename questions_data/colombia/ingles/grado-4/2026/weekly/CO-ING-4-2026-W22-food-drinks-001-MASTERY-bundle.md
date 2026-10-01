@@ -35,10 +35,10 @@ Este bundle evalúa conceptos de food and drinks en inglés, nivel CEFR A1 para 
 I am thirsty. I want to drink ________.
 
 ### Opciones
-- [x] A) water <!-- feedback: Correct! -->
-- [ ] B) bread <!-- feedback: No. -->
-- [ ] C) pizza <!-- feedback: No. -->
-- [ ] D) cheese <!-- feedback: No. -->
+- [x] A) water <!-- feedback: Correct. Water is the drink you take when you are thirsty; it quenches thirst and hydrates the body. -->
+- [ ] B) bread <!-- feedback: Bread is a solid food that you eat, not something you drink. -->
+- [ ] C) pizza <!-- feedback: Pizza is a meal to eat and it does not quench thirst. -->
+- [ ] D) cheese <!-- feedback: Cheese is a solid dairy food, so it is eaten and not drunk. -->
 
 ### Explicación Pedagógica
 This question evaluates remember skills regarding food and drinks at the CEFR A1 level.
@@ -56,10 +56,10 @@ This question evaluates remember skills regarding food and drinks at the CEFR A1
 Monkeys love to eat ________.
 
 ### Opciones
-- [ ] A) fish <!-- feedback: No. -->
-- [x] B) bananas <!-- feedback: Correct! -->
-- [ ] C) meat <!-- feedback: No. -->
-- [ ] D) eggs <!-- feedback: No. -->
+- [ ] A) fish <!-- feedback: Monkeys mainly eat fruit, leaves and seeds; fish is not part of their diet. -->
+- [x] B) bananas <!-- feedback: Correct. Bananas grow in the tropical forests where monkeys live, and they are one of their favorite fruits. -->
+- [ ] C) meat <!-- feedback: Most monkeys are mainly fruit-eaters, so meat is not their main food. -->
+- [ ] D) eggs <!-- feedback: Eggs are an occasional food for some monkeys, but bananas are what they are known for eating. -->
 
 ### Explicación Pedagógica
 This question evaluates understand skills regarding food and drinks at the CEFR A1 level.
@@ -77,10 +77,10 @@ This question evaluates understand skills regarding food and drinks at the CEFR 
 What do you eat for breakfast?
 
 ### Opciones
-- [ ] A) A shoe <!-- feedback: No. -->
-- [ ] B) A book <!-- feedback: No. -->
-- [x] C) Cereal and milk <!-- feedback: Correct! -->
-- [ ] D) A pencil <!-- feedback: No. -->
+- [ ] A) A shoe <!-- feedback: A shoe is not food; it is worn on the foot. -->
+- [ ] B) A book <!-- feedback: A book is read, not eaten. -->
+- [x] C) Cereal and milk <!-- feedback: Correct. Cereal with milk is a typical breakfast food, eaten in the morning. -->
+- [ ] D) A pencil <!-- feedback: A pencil is used to write; it is not edible. -->
 
 ### Explicación Pedagógica
 This question evaluates apply skills regarding food and drinks at the CEFR A1 level.
@@ -98,10 +98,10 @@ This question evaluates apply skills regarding food and drinks at the CEFR A1 le
 Rabbits like to eat ________.
 
 ### Opciones
-- [ ] A) chocolate <!-- feedback: No. -->
-- [ ] B) coffee <!-- feedback: No. -->
-- [ ] C) soda <!-- feedback: No. -->
-- [x] D) carrots <!-- feedback: Correct! -->
+- [ ] A) chocolate <!-- feedback: Chocolate is a sweet made for humans and would harm a rabbit. -->
+- [ ] B) coffee <!-- feedback: Coffee is a drink made from roasted beans for people; rabbits should not have it. -->
+- [ ] C) soda <!-- feedback: Soda is a sugary fizzy drink for people, not food for rabbits. -->
+- [x] D) carrots <!-- feedback: Correct. Rabbits have front teeth that grow continuously, and they gnaw raw vegetables such as carrots. -->
 
 ### Explicación Pedagógica
 This question evaluates analyze skills regarding food and drinks at the CEFR A1 level.
@@ -119,10 +119,10 @@ This question evaluates analyze skills regarding food and drinks at the CEFR A1 
 What is a common Italian food?
 
 ### Opciones
-- [x] A) Pizza <!-- feedback: Correct! -->
-- [ ] B) Rice <!-- feedback: No. -->
-- [ ] C) Hamburger <!-- feedback: No. -->
-- [ ] D) Soup <!-- feedback: No. -->
+- [x] A) Pizza <!-- feedback: Correct. Pizza originated in Naples, Italy, and is the dish that identifies Italian food worldwide. -->
+- [ ] B) Rice <!-- feedback: Rice is eaten in Italy too, but it does not identify Italian cooking the way pizza does. -->
+- [ ] C) Hamburger <!-- feedback: The hamburger comes from the United States. -->
+- [ ] D) Soup <!-- feedback: Soup is found in every cuisine, so it does not belong to one country in particular. -->
 
 ### Explicación Pedagógica
 This question evaluates evaluate skills regarding food and drinks at the CEFR A1 level.
@@ -140,10 +140,10 @@ This question evaluates evaluate skills regarding food and drinks at the CEFR A1
 I put ________ on my bread.
 
 ### Opciones
-- [ ] A) milk <!-- feedback: No. -->
-- [x] B) butter <!-- feedback: Correct! -->
-- [ ] C) juice <!-- feedback: No. -->
-- [ ] D) tea <!-- feedback: No. -->
+- [ ] A) milk <!-- feedback: Milk is a drink poured into a glass, not something you spread on bread. -->
+- [x] B) butter <!-- feedback: Correct. Butter is soft and spreads easily, so it is what goes on bread. -->
+- [ ] C) juice <!-- feedback: Juice is a drink poured in a glass, not spread on bread. -->
+- [ ] D) tea <!-- feedback: Tea is a hot drink: you drink it, you do not put it on bread. -->
 
 ### Explicación Pedagógica
 This question evaluates apply skills regarding food and drinks at the CEFR A1 level.
@@ -161,10 +161,10 @@ This question evaluates apply skills regarding food and drinks at the CEFR A1 le
 You use a ________ to eat soup.
 
 ### Opciones
-- [ ] A) knife <!-- feedback: No. -->
-- [ ] B) straw <!-- feedback: No. -->
-- [x] C) spoon <!-- feedback: Correct! -->
-- [ ] D) fork <!-- feedback: No. -->
+- [ ] A) knife <!-- feedback: A knife is for cutting; soup is not cut but scooped. -->
+- [ ] B) straw <!-- feedback: A straw is for drinking liquids such as juice or soda. -->
+- [x] C) spoon <!-- feedback: Correct. A spoon holds and lifts liquid food like soup in its bowl. -->
+- [ ] D) fork <!-- feedback: A fork is for solid pieces that can be pronged, not for liquid soup. -->
 
 ### Explicación Pedagógica
 This question evaluates understand skills regarding food and drinks at the CEFR A1 level.
@@ -182,10 +182,10 @@ This question evaluates understand skills regarding food and drinks at the CEFR 
 What drink is white and comes from cows?
 
 ### Opciones
-- [ ] A) Water <!-- feedback: No. -->
-- [ ] B) Soda <!-- feedback: No. -->
-- [ ] C) Orange juice <!-- feedback: No. -->
-- [x] D) Milk <!-- feedback: Correct! -->
+- [ ] A) Water <!-- feedback: Water is clear and comes from rivers, wells or rain, not from cows. -->
+- [ ] B) Soda <!-- feedback: Soda is a fizzy drink mixed with flavoring and water; it does not come from cows. -->
+- [ ] C) Orange juice <!-- feedback: Orange juice is orange and is pressed from oranges. -->
+- [x] D) Milk <!-- feedback: Correct. Milk is white and comes from cows, which is why it is a dairy drink. -->
 
 ### Explicación Pedagógica
 This question evaluates remember skills regarding food and drinks at the CEFR A1 level.

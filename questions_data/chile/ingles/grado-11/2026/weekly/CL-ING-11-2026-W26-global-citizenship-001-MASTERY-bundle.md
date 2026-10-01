@@ -55,10 +55,10 @@ Global citizenship is the idea that one's identity transcends geography or polit
 Human rights are being protected by international treaties and organizations around the world.
 
 ### Opciones
-- [ ] A) are protecting <!-- feedback: Incorrect. Active voice. -->
-- [x] B) are being protected <!-- feedback: Correct. Present continuous passive for an ongoing state. -->
-- [ ] C) protected <!-- feedback: Incorrect. Past simple. -->
-- [ ] D) have protected <!-- feedback: Incorrect. Active voice. -->
+- [ ] A) are protecting <!-- feedback: 'Are protecting' is the active voice and would make the human rights do the protecting. -->
+- [x] B) are being protected <!-- feedback: Correct. 'Are being protected' is the present continuous passive, used for protection that is under way at the moment. -->
+- [ ] C) protected <!-- feedback: 'Protected' on its own would be past simple, but the protection is happening now. -->
+- [ ] D) have protected <!-- feedback: 'Have protected' is the Present Perfect active, which would require the rights to be the ones doing the protecting. -->
 
 ### Explicacion Pedagogica
 The present continuous passive describes the ongoing, active protection of rights.
@@ -235,10 +235,10 @@ Ethnocentrism is the tendency to view one's own culture as superior and to judge
 Empathy is a key component of global citizenship, as it allows us to understand the experiences of people from different backgrounds.
 
 ### Opciones
-- [ ] A) Apathy <!-- feedback: Incorrect. Lack of interest. -->
-- [x] C) Empathy <!-- feedback: Correct. Ability to understand others. -->
-- [ ] B) Envy <!-- feedback: Incorrect. Jealousy. -->
-- [ ] D) Greed <!-- feedback: Incorrect. Selfish desire. -->
+- [ ] A) Apathy <!-- feedback: 'Apathy' is the absence of interest or concern, the opposite of understanding others. -->
+- [x] C) Empathy <!-- feedback: Correct. 'Empathy' is the ability to understand and share what people from other backgrounds are feeling. -->
+- [ ] B) Envy <!-- feedback: 'Envy' is jealousy of what someone else has, which has nothing to do with understanding them. -->
+- [ ] D) Greed <!-- feedback: 'Greed' is a selfish desire for more, which also works against empathy. -->
 
 ### Explicacion Pedagogica
 'Empathy' is fundamental for understanding and connecting with the global community.
@@ -255,10 +255,10 @@ Empathy is a key component of global citizenship, as it allows us to understand 
 Migrants whose safety is at risk have the right to seek asylum in other countries.
 
 ### Opciones
-- [ ] A) who <!-- feedback: Incorrect. Subject pronoun. -->
-- [x] D) whose <!-- feedback: Correct. Possessive relative pronoun for 'migrants' safety'. -->
-- [ ] B) that <!-- feedback: Incorrect. -->
-- [ ] C) which <!-- feedback: Incorrect. -->
+- [ ] A) who <!-- feedback: 'Who' is used as a subject pronoun, but the blank needs to show possession of 'safety'. -->
+- [x] D) whose <!-- feedback: Correct. 'Whose' is the possessive relative pronoun that links the migrants to the safety that is at risk. -->
+- [ ] B) that <!-- feedback: 'That' introduces a defining clause about 'migrants' themselves and cannot express possession. -->
+- [ ] C) which <!-- feedback: 'Which' is used for things, not for people, and it does not express possession either. -->
 
 ### Explicacion Pedagogica
 'Whose' is used to show possession, linking the migrants to the safety that is at risk.
@@ -275,10 +275,10 @@ Migrants whose safety is at risk have the right to seek asylum in other countrie
 Social justice is the view that everyone deserves equal economic, political, and social rights and opportunities.
 
 ### Opciones
-- [ ] A) wealth <!-- feedback: Incorrect. Money-focused. -->
-- [x] B) opportunities <!-- feedback: Correct. Refers to chances for success. -->
-- [ ] C) outcomes <!-- feedback: Incorrect. Not the standard phrase. -->
-- [ ] D) status <!-- feedback: Incorrect. Position. -->
+- [ ] A) wealth <!-- feedback: 'Wealth' refers to money and property, and the definition is about rights and chances rather than possessions. -->
+- [x] B) opportunities <!-- feedback: Correct. 'Opportunities' is part of the definition: social justice means everyone gets a fair chance at success. -->
+- [ ] C) outcomes <!-- feedback: 'Outcomes' is not the standard word in this definition; the sentence names the chances people are given, not the results. -->
+- [ ] D) status <!-- feedback: 'Status' means social position or rank, and social justice is about equal rights rather than rank. -->
 
 ### Explicacion Pedagogica
 'Opportunities' is a core part of the definition of social justice, emphasizing fair chances for all.
@@ -295,10 +295,10 @@ Social justice is the view that everyone deserves equal economic, political, and
 You shouldn't judge cultural practices unless you understand the context in which they developed.
 
 ### Opciones
-- [ ] B) if <!-- feedback: Incorrect. 'If you understand' would mean don't judge if you *do* understand. -->
-- [x] A) unless <!-- feedback: Correct. 'Unless' means 'if not'. -->
-- [ ] C) although <!-- feedback: Incorrect. Contrast. -->
-- [ ] D) whether <!-- feedback: Incorrect. Choice. -->
+- [ ] B) if <!-- feedback: 'If' would reverse the logic and mean 'do not judge in the case that you understand', which is not what the sentence says. -->
+- [x] A) unless <!-- feedback: Correct. 'Unless' means 'if not', so the sentence says you should not judge until you understand the context. -->
+- [ ] C) although <!-- feedback: 'Although' expresses a contrast between two true statements, not the condition the sentence sets. -->
+- [ ] D) whether <!-- feedback: 'Whether' introduces a choice between possibilities and does not express the condition described. -->
 
 ### Explicacion Pedagogica
 'Unless' sets the condition that understanding context must happen before judgment can be fair.
@@ -315,10 +315,10 @@ You shouldn't judge cultural practices unless you understand the context in whic
 The author concludes that being an active citizen means taking responsibility for the well-being of the entire global community.
 
 ### Opciones
-- [ ] B) ignoring <!-- feedback: Incorrect. Opposite of active. -->
-- [x] A) taking responsibility <!-- feedback: Correct. Implies active care and effort. -->
-- [ ] C) avoiding <!-- feedback: Incorrect. Negative. -->
-- [ ] D) resenting <!-- feedback: Incorrect. Negative feeling. -->
+- [ ] B) ignoring <!-- feedback: 'Ignoring' the well-being of others is the opposite of taking an active role. -->
+- [x] A) taking responsibility <!-- feedback: Correct. 'Taking responsibility' means accepting an active duty to care for others, which is what the conclusion describes. -->
+- [ ] C) avoiding <!-- feedback: 'Avoiding' the community means staying out of it, which is not active citizenship. -->
+- [ ] D) resenting <!-- feedback: 'Resenting' is a hostile feeling towards others, not the commitment the sentence describes. -->
 
 ### Explicacion Pedagogica
 'Taking responsibility' is the proactive behavior that defines active global citizenship.
@@ -335,10 +335,10 @@ The author concludes that being an active citizen means taking responsibility fo
 A stereotype is a widely held but fixed and oversimplified image or idea of a particular type of person or thing.
 
 ### Opciones
-- [ ] A) fact <!-- feedback: Incorrect. -->
-- [x] D) stereotype <!-- feedback: Correct. Oversimplified and often biased idea. -->
-- [ ] B) news <!-- feedback: Incorrect. -->
-- [ ] C) slogan <!-- feedback: Incorrect. -->
+- [ ] A) fact <!-- feedback: 'Fact' means something true and verifiable; the definition given is of an idea that is not accurate. -->
+- [x] D) stereotype <!-- feedback: Correct. A 'stereotype' is a fixed, oversimplified idea about a group of people that people hold widely. -->
+- [ ] B) news <!-- feedback: 'News' is a report of recent events and says nothing about a held image of a kind of person. -->
+- [ ] C) slogan <!-- feedback: 'A slogan' is a short catchy phrase, not a belief about a type of person. -->
 
 ### Explicacion Pedagogica
 'Stereotype' is the term for the reductive generalizations made about groups of people.
@@ -415,10 +415,10 @@ In reported speech, we backshift the tense of the original statement to show it 
 Ultimately, our shared humanity is more significant than the national or cultural differences that divide us.
 
 ### Opciones
-- [x] D) humanity <!-- feedback: Correct. The quality of being human. -->
-- [ ] A) wealth <!-- feedback: Incorrect. Unrelated to the social point. -->
-- [ ] B) power <!-- feedback: Incorrect. Power often divides. -->
-- [ ] C) greed <!-- feedback: Incorrect. Negative. -->
+- [x] D) humanity <!-- feedback: Correct. 'Humanity' is the quality of being human, and the sentence argues that this shared nature matters more than national or cultural divisions. -->
+- [ ] A) wealth <!-- feedback: 'Wealth' is money and property, and the sentence contrasts shared humanity with national and cultural differences, not with riches. -->
+- [ ] B) power <!-- feedback: 'Power' tends to divide people rather than unite them, which is the opposite of the common humanity the sentence defends. -->
+- [ ] C) greed <!-- feedback: 'Greed' is a selfish desire, and the sentence is arguing for a shared bond rather than for selfish interest. -->
 
 ### Explicacion Pedagogica
 'Shared humanity' is the central concept in global citizenship that emphasizes commonality over division.

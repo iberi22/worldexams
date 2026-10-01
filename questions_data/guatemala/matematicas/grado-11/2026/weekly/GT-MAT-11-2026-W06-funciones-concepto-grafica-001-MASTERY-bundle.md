@@ -355,8 +355,8 @@ Las asíntotas verticales ocurren en los valores de $x$ que hacen que el denomin
 Si $f(x)$ es una función biyectiva y $f^{-1}(x)$ es su inversa, ¿cuál es el resultado de la operación $f(f^{-1}(100))$?
 
 ### Opciones
-- [ ] A) $1$ <!-- feedback: Incorrecto. -->
-- [ ] B) $0$ <!-- feedback: Incorrecto. -->
+- [ ] A) $1$ <!-- feedback: La composición con la inversa devuelve el argumento original, $f(f^{-1}(100))=100$, no $1$. -->
+- [ ] B) $0$ <!-- feedback: La composición con la inversa devuelve el argumento, $100$; el $0$ no aparece en ningún paso. -->
 - [x] C) $100$ <!-- feedback: Correcto. Por definición, la composición de una función con su inversa devuelve el valor original. -->
 - [ ] D) $f(100)$ <!-- feedback: La inversa anula el efecto de la función original, devolviendo el argumento. -->
 

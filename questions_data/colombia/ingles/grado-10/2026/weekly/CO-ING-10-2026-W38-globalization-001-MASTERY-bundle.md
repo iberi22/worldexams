@@ -35,9 +35,9 @@ This bundle explores the impact of globalization using B2-level grammar, focusin
 "International trade has increased significantly ____ the reduction of tariffs and transport costs."
 
 ### Opciones
-- [ ] A) because <!-- feedback: Needs a full clause. -->
+- [ ] A) because <!-- feedback: "Because" must be followed by a full clause with a subject and a verb, but the blank is followed by the noun phrase "the reduction of tariffs and transport costs". -->
 - [x] D) due to <!-- feedback: Correct. Followed by a noun phrase to show cause. -->
-- [ ] B) as <!-- feedback: Needs a full clause. -->
+- [ ] B) as <!-- feedback: "As" either introduces a clause or means "in the role of"; neither sense connects a noun phrase as the cause of the increase. -->
 - [ ] C) so that <!-- feedback: Incorrect meaning (purpose). -->
 
 ### Explicación Pedagógica
@@ -58,8 +58,8 @@ This bundle explores the impact of globalization using B2-level grammar, focusin
 ### Opciones
 - [ ] B) in order <!-- feedback: Needs 'to'. -->
 - [x] A) so that <!-- feedback: Correct purpose connector followed by a clause. -->
-- [ ] C) for <!-- feedback: Incorrect meaning. -->
-- [ ] D) because of <!-- feedback: Incorrect meaning. -->
+- [ ] C) for <!-- feedback: "Because of" states a cause, but studying languages here is done for a purpose, and it is not followed by the clause a cause would need. -->
+- [ ] D) because of <!-- feedback: "Because of" is a causal preposition followed by a noun; the sentence expresses purpose, not a reason that already existed. -->
 
 ### Explicación Pedagógica
 'So that' is used to express purpose and is followed by a clause with a modal verb (can/could/will/would).
@@ -77,9 +77,9 @@ This bundle explores the impact of globalization using B2-level grammar, focusin
 "Local businesses often struggle to compete. ____, some have been forced to close down."
 
 ### Opciones
-- [ ] A) However <!-- feedback: Incorrect (contrast). -->
+- [ ] A) However <!-- feedback: "However" introduces a contrast, but the second clause is a result of the first one, not a contrast with it. -->
 - [x] B) Consequently <!-- feedback: Correct result connector. -->
-- [ ] C) Moreover <!-- feedback: Incorrect (addition). -->
+- [ ] C) Moreover <!-- feedback: "Moreover" adds information, while the sentence needs a connector that draws a consequence from the closing businesses. -->
 - [ ] D) Despite <!-- feedback: Incorrect preposition. -->
 
 ### Explicación Pedagógica
@@ -101,7 +101,7 @@ This bundle explores the impact of globalization using B2-level grammar, focusin
 - [ ] A) so as to <!-- feedback: Needs an infinitive. -->
 - [x] B) since <!-- feedback: Correct reason connector (synonym of 'because'). -->
 - [ ] C) owing to <!-- feedback: Needs a noun phrase. -->
-- [ ] D) for fear of <!-- feedback: Incorrect meaning. -->
+- [ ] D) for fear of <!-- feedback: "For fear of" expresses a reason for avoiding something, but the sentence states the goal the nomads are travelling for. -->
 
 ### Explicación Pedagógica
 'Since' and 'as' can be used as synonyms for 'because' to introduce a reason clause.
@@ -122,7 +122,7 @@ This bundle explores the impact of globalization using B2-level grammar, focusin
 - [ ] A) so that <!-- feedback: Needs a full clause. -->
 - [x] C) in order to <!-- feedback: Correct purpose connector followed by an infinitive. -->
 - [ ] B) with a view to <!-- feedback: Needs a gerund. -->
-- [ ] D) because <!-- feedback: Incorrect. -->
+- [ ] D) because <!-- feedback: "Because" introduces a reason, but the clause after it states a purpose: what the regulations are meant to achieve. -->
 
 ### Explicación Pedagógica
 'In order to' and 'so as to' are followed by an infinitive to express purpose.
@@ -140,10 +140,10 @@ This bundle explores the impact of globalization using B2-level grammar, focusin
 "The market is unstable. ____, investors are becoming increasingly cautious."
 
 ### Opciones
-- [ ] A) Furthermore <!-- feedback: Incorrect. -->
+- [ ] A) Furthermore <!-- feedback: "Furthermore" adds new information, but the investors' caution is a consequence of the unstable market. -->
 - [x] D) Accordingly <!-- feedback: Correct formal result connector. -->
-- [ ] B) Nevertheless <!-- feedback: Incorrect (contrast). -->
-- [ ] C) Likewise <!-- feedback: Incorrect (similarity). -->
+- [ ] B) Nevertheless <!-- feedback: "Nevertheless" introduces a contrast, while the clause states what follows from the instability. -->
+- [ ] C) Likewise <!-- feedback: "Likewise" links two similar statements, and there is no earlier point here to be similar to. -->
 
 ### Explicación Pedagógica
 'Accordingly' is a formal adverb used to show that an action is a logical response to a situation.
@@ -164,7 +164,7 @@ This bundle explores the impact of globalization using B2-level grammar, focusin
 - [ ] A) due <!-- feedback: Needs 'to'. -->
 - [x] D) on account of <!-- feedback: Correct formal reason connector followed by a noun phrase. -->
 - [ ] B) because <!-- feedback: Needs a full clause. -->
-- [ ] C) so as to <!-- feedback: Incorrect. -->
+- [ ] C) so as to <!-- feedback: "So as to" needs an infinitive, but the blank is followed by the noun "its failure to comply". -->
 
 ### Explicación Pedagógica
 'On account of' is a formal alternative to 'because of' or 'due to'.
@@ -182,10 +182,10 @@ This bundle explores the impact of globalization using B2-level grammar, focusin
 "Companies are adopting greener practices ____ improving their public image."
 
 ### Opciones
-- [ ] B) so as to <!-- feedback: Needs an infinitive. -->
+- [ ] B) so as to <!-- feedback: "So as to" requires an infinitive, but the blank is followed by the gerund "improving". -->
 - [x] A) with a view to <!-- feedback: Correct formal purpose connector followed by a gerund. -->
-- [ ] C) in order to <!-- feedback: Needs an infinitive. -->
-- [ ] D) since <!-- feedback: Incorrect. -->
+- [ ] C) in order to <!-- feedback: "In order to" also requires an infinitive after it, and "improving" is a gerund, so the connector does not fit. -->
+- [ ] D) since <!-- feedback: "Since" introduces a reason, while the sentence states the purpose of adopting the greener practices. -->
 
 ### Explicación Pedagógica
 'With a view to' is a formal expression of purpose followed by the gerund form (-ing).
@@ -205,8 +205,8 @@ This bundle explores the impact of globalization using B2-level grammar, focusin
 ### Opciones
 - [ ] A) However <!-- feedback: Correct contrast, but B is more specific for result. -->
 - [x] D) Thus <!-- feedback: Correct formal result connector. -->
-- [ ] B) Moreover <!-- feedback: Incorrect. -->
-- [ ] C) Provided <!-- feedback: Incorrect. -->
+- [ ] B) Moreover <!-- feedback: "Moreover" adds extra information to what came before, while the sentence needs a connector that draws a consequence from the mixed results. -->
+- [ ] C) Provided <!-- feedback: "Provided" introduces a condition and needs a full clause with a subject and verb, so it cannot link the result stated here. -->
 
 ### Explicación Pedagógica
 'Thus' is a very formal connector used to introduce a result or conclusion.
@@ -226,7 +226,7 @@ This bundle explores the impact of globalization using B2-level grammar, focusin
 ### Opciones
 - [x] D) pervasive / that <!-- feedback: Correct 'So + adjective + that' structure for result. -->
 - [ ] A) much / that <!-- feedback: 'Much' is for quantity, 'pervasive' (adj) fits here. -->
-- [ ] B) pervasive / as <!-- feedback: Incorrect. -->
+- [ ] B) pervasive / as <!-- feedback: "As" cannot open the result clause of a "so ... that" structure; that role belongs to "that". -->
 - [ ] C) such / that <!-- feedback: 'Such' needs a noun phrase. -->
 
 ### Explicación Pedagógica
@@ -245,10 +245,10 @@ Advanced B2 structure: 'So + adjective + that' to express degree and result.
 "The model failed to predict the crash ____ it ignored the psychological factors of the market."
 
 ### Opciones
-- [ ] A) because of <!-- feedback: Incorrect. -->
-- [ ] B) owing to <!-- feedback: Incorrect. -->
+- [ ] A) because of <!-- feedback: "Because of" gives a plain cause with a noun phrase; the connector expected in this formal register also signals extent, which is what "insofar as" does. -->
+- [ ] B) owing to <!-- feedback: "Owing to" marks a straightforward cause and carries none of the formal, qualified tone the sentence uses here. -->
 - [x] C) insofar as <!-- feedback: Correct formal reason/extent connector. -->
-- [ ] D) so as to <!-- feedback: Incorrect. -->
+- [ ] D) so as to <!-- feedback: "So as to" expresses purpose and needs an infinitive, so it cannot introduce the reason clause that follows. -->
 
 ### Explicación Pedagógica
 'Insofar as' is a formal B2/C1 connector used to explain the reason or extent to which something is true.
@@ -267,9 +267,9 @@ Advanced B2 structure: 'So + adjective + that' to express degree and result.
 
 ### Opciones
 - [x] C) Much as / that <!-- feedback: Correct sophisticated concession + result structure. -->
-- [ ] A) Since / as <!-- feedback: Incorrect. -->
-- [ ] B) Even if / so <!-- feedback: Incorrect. -->
-- [ ] D) Although / then <!-- feedback: Incorrect. -->
+- [ ] A) Since / as <!-- feedback: "Since" placed first would be read as giving a reason, and "as" cannot serve as the second half of a concession paired with a result. -->
+- [ ] B) Even if / so <!-- feedback: "Even if" introduces a hypothetical condition, and "so" cannot open the result half of this structure after the concession. -->
+- [ ] D) Although / then <!-- feedback: "Although" is a valid concessive, but "then" cannot function as the result connector that completes this sentence. -->
 
 ### Explicación Pedagógica
 Mastery level: Using 'Much as' (concession) combined with 'so... that' (result) in a complex analysis of a global trend.

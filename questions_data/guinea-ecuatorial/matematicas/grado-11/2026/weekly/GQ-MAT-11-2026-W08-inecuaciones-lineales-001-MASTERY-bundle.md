@@ -126,8 +126,8 @@ El termino "capacidad maxima" implica un limite superior que incluye el valor li
 ### Opciones
 - [ ] B) $x < -5$ <!-- feedback: Olvido invertir el sentido de la desigualdad al dividir por -2. -->
 - [x] A) $x > -5$ <!-- feedback: ¡Correcto! Al dividir por -2, el sentido de la desigualdad cambia de $<$ a $>$. -->
-- [ ] C) $x < 5$ <!-- feedback: Error en el signo del resultado final. -->
-- [ ] D) $x > 5$ <!-- feedback: Error en el signo del resultado final. -->
+- [ ] C) $x < 5$ <!-- feedback: Al dividir entre $-2$ el sentido de la desigualdad se invierte, de modo que la solución es $x > -5$ y no $x < 5$. -->
+- [ ] D) $x > 5$ <!-- feedback: El signo final debe ser mayor y no menor: de $-2x < 10$ se obtiene $x > -5$ al invertir la desigualdad. -->
 
 ### Explicacion Pedagogica
 Al dividir ambos miembros por un numero negativo ($-2$), debemos recordar dos cosas: 1) Realizar la division aritmetica normal ($10 / -2 = -5$). 2) Invertir el signo de la desigualdad.

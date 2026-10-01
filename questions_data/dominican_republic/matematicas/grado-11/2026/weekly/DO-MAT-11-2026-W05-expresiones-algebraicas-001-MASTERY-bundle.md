@@ -113,10 +113,10 @@ Suma de todos los lados combinando términos semejantes.
 ¿Clasificación de $x^2 - 5x + 6$?
 
 ### Opciones
-- [ ] B) Monomio <!-- feedback: Incorrecto. Tiene 3 términos. -->
-- [ ] C) Binomio <!-- feedback: Incorrecto. Tiene 3 términos. -->
-- [x] A) Trinomio <!-- feedback: Correcto. Polinomio de exactamente tres términos. -->
-- [ ] D) Grado 1 <!-- feedback: Incorrecto. Es grado 2. -->
+- [ ] B) Monomio <!-- feedback: Un monomio tiene un solo término, y aquí hay tres: $x^2$, $-5x$ y $6$. -->
+- [ ] C) Binomio <!-- feedback: Un binomio tiene dos términos, y aquí hay tres sumandos con exponentes distintos. -->
+- [x] A) Trinomio <!-- feedback: Un trinomio tiene exactamente tres términos, y $x^2$, $-5x$ y $6$ son los tres. -->
+- [ ] D) Grado 1 <!-- feedback: El grado es 2 porque el mayor exponente es el 2; el 1 corresponde a un polinomio lineal. -->
 
 ### Explicacion Pedagogica
 Nomenclatura de polinomios por cantidad de sumandos.

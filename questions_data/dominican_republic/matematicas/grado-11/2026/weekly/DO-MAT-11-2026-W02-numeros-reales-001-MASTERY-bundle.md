@@ -344,8 +344,8 @@ Se resuelve primero lo interno al corchete (multiplicación antes que suma) y lu
 ¿Qué conjunto es una extensión de los reales para incluir raíces de negativos?
 
 ### Opciones
-- [ ] B) Enteros <!-- feedback: Incorrecto. Subconjunto de reales. -->
-- [ ] C) Racionales <!-- feedback: Incorrecto. Subconjunto de reales. -->
+- [ ] B) Enteros <!-- feedback: Los enteros son un subconjunto de los racionales y por tanto de los reales: no añaden raíces de números negativos. -->
+- [ ] C) Racionales <!-- feedback: Los racionales también están contenidos en los reales; ningún número racional aporta la raíz cuadrada de un negativo. -->
 - [x] A) Complejos <!-- feedback: Correcto. Incluyen la unidad imaginaria. -->
 - [ ] D) Naturales <!-- feedback: Incorrecto. Subconjunto muy pequeño. -->
 

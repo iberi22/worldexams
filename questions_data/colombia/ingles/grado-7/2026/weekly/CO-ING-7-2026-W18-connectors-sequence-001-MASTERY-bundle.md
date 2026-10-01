@@ -113,13 +113,13 @@ Choose the most logical sequence of connectors.
 
 ### Opciones
 - [ ] A) Finally / First / Then
-  <!-- feedback: Incorrect order. -->
+  <!-- feedback: Waking up is the opening action, so it cannot be introduced by 'Finally'. -->
 - [x] C) First / Then / Finally
-  <!-- feedback: Correct! This follows the logical start, middle, and end. -->
+  <!-- feedback: The actions run start to finish, which is 'First / Then / Finally'. -->
 - [ ] B) Next / Finally / First
-  <!-- feedback: Incorrect order. -->
+  <!-- feedback: 'Next' before 'Finally' is out of order, and 'First' at the end inverts the sequence. -->
 - [ ] D) First / Finally / Then
-  <!-- feedback: Incorrect order. -->
+  <!-- feedback: The shower is the middle step, so 'Finally' in the second blank misplaces it. -->
 
 ### Explicacion Pedagogica
 The student understands the standard structure of a three-step sequence.

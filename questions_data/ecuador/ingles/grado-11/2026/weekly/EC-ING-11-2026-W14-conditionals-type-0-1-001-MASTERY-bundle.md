@@ -168,7 +168,7 @@ Complete the sentence: 'If I ____ you, I would accept the offer.'
   <!-- feedback: 'Will be' does not appear in the 'if' clause of the second conditional. -->
 
 ### Explicacion Pedagogica
-En el condicional tipo dos se usa 'were' para todas las personas, incluso para 'I'.
+En el condicional tipo dos se usa 'were' para todas las personas, incluso para 'I'. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
 
 ---
 
@@ -418,7 +418,7 @@ Which sentence is NOT correct?
   <!-- feedback: 'Played taller' is semantically wrong, but the tense frame is the second conditional. -->
 
 ### Explicacion Pedagogica
-En el condicional tipo dos la clausula de 'if' lleva pasado simple, nunca 'would'.
+En el condicional tipo dos la clausula de 'if' lleva pasado simple, nunca 'would'. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
 
 ---
 

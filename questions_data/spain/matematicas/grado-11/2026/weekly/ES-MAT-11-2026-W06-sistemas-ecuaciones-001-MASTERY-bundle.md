@@ -267,7 +267,7 @@ $\begin{cases} x + y + z = 6 \\ y + z = 5 \\ z = 3 \end{cases}$
 - [ ] A) $x=3, y=2, z=1$ <!-- feedback: La suma es 6, pero z no es 3. -->
 - [x] B) $x=1, y=2, z=3$ <!-- feedback: Correcto. $z=3 \Rightarrow y+3=5 \Rightarrow y=2 \Rightarrow x+2+3=6 \Rightarrow x=1$. -->
 - [ ] C) $x=2, y=2, z=2$ <!-- feedback: No cumple la tercera ecuación. -->
-- [ ] D) $x=1, y=3, z=2$ <!-- feedback: No cumple la tercera ecuación. -->
+- [ ] D) $x=1, y=3, z=2$ <!-- feedback: Con z = 2 la tercera ecuación se cumple, pero y = 3 haría que y + z = 5, no lo que pide la segunda ecuación. -->
 
 ### Explicacion Pedagogica
 Este es un sistema ya escalonado (triangular superior). Se resuelve por sustitución regresiva: empezamos por la última incógnita y vamos subiendo para hallar las anteriores.

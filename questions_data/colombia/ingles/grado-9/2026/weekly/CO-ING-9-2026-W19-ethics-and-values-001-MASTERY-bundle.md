@@ -60,7 +60,7 @@ If only I ________ that lie. Now my friend doesn't trust me anymore.
 - [ ] A) didn't tell <!-- feedback: Incorrect. This would refer to the present. -->
 - [x] B) hadn't told <!-- feedback: Correct! "If only + Past Perfect" expresses regret about the past. -->
 - [ ] C) wouldn't tell <!-- feedback: Incorrect. This is for future complaints. -->
-- [ ] D) haven't told <!-- feedback: Incorrect. -->
+- [ ] D) haven't told <!-- feedback: 'Have not told' is present perfect and covers up to now. The regret described is already finished, which is why the past perfect is needed. -->
 
 ### Explicacion Pedagogica
 *If only* seguido del pasado perfecto (*hadn't told*) se utiliza para expresar un arrepentimiento profundo sobre algo que sucedió en el pasado y que no podemos cambiar.
@@ -81,7 +81,7 @@ I wish people ________ their trash on the street. It's very disrespectful.
 - [ ] B) didn't leave <!-- feedback: Incorrect. This describes a state. -->
 - [x] A) wouldn't leave <!-- feedback: Correct! "Wish + would" is used to complain about annoying habits or to request a change. -->
 - [ ] C) hadn't left <!-- feedback: Incorrect. This is for a past regret. -->
-- [ ] D) won't leave <!-- feedback: Incorrect. -->
+- [ ] D) won't leave <!-- feedback: 'Won't leave' is a plain future statement about what people will not do, with no sense of the wish or the complaint the sentence expresses. -->
 
 ### Explicacion Pedagogica
 Cuando queremos expresar molestia o queja sobre un comportamiento repetitivo de otras personas, utilizamos *wish + would* seguido del infinitivo.
@@ -100,9 +100,9 @@ Cuando queremos expresar molestia o queja sobre un comportamiento repetitivo de 
 "If only you ________ at least a bit of it!"
 
 ### Opciones
-- [ ] A) speak <!-- feedback: Incorrect. -->
+- [ ] A) speak <!-- feedback: 'Speak' is the present simple, and 'if only' about a present state takes the past simple in the second conditional sense: 'if only you spoke'. -->
 - [x] D) spoke <!-- feedback: Correct! "If only + Past Simple" for a present desire. -->
-- [ ] B) would speak <!-- feedback: Incorrect. -->
+- [ ] B) would speak <!-- feedback: 'Would speak' belongs to the second conditional for a hypothetical, which needs both clauses to be hypothetical. Here the wish is about a real, missing ability. -->
 - [ ] C) had spoken <!-- feedback: Incorrect. This would refer to the past. -->
 
 ### Explicacion Pedagogica
@@ -123,8 +123,8 @@ I wish I ________ in a world where everyone had equal opportunities.
 ### Opciones
 - [ ] B) was <!-- feedback: Incorrect. (In B2 level, "were" is preferred for all persons). -->
 - [x] A) were <!-- feedback: Correct! Using "were" after "wish" for all persons is formal and grammatically standard in B2. -->
-- [ ] C) am <!-- feedback: Incorrect. -->
-- [ ] D) would be <!-- feedback: Incorrect. -->
+- [ ] C) am <!-- feedback: 'Am' is the plain present form of 'be'. After 'wish' about an unreal situation, English uses 'were' for every person, including 'I'. -->
+- [ ] D) would be <!-- feedback: 'Would be' would require an 'if' clause to complete it, and on its own 'I wish I would be' leaves the sentence unfinished. -->
 
 ### Explicacion Pedagogica
 Al igual que en el segundo condicional, después de *wish* se prefiere el uso de *were* para todas las personas gramaticales en contextos formales.

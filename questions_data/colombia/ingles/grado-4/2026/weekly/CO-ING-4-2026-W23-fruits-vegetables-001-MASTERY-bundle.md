@@ -35,10 +35,10 @@ Este bundle evalúa conceptos de fruits and vegetables en inglés, nivel CEFR A1
 An ________ is red and round.
 
 ### Opciones
-- [x] A) apple <!-- feedback: Correct! -->
-- [ ] B) banana <!-- feedback: No. -->
-- [ ] C) carrot <!-- feedback: No. -->
-- [ ] D) potato <!-- feedback: No. -->
+- [x] A) apple <!-- feedback: An apple is red and round. -->
+- [ ] B) banana <!-- feedback: A banana is long and yellow, not round. -->
+- [ ] C) carrot <!-- feedback: A carrot is long and orange and grows in the ground. -->
+- [ ] D) potato <!-- feedback: A potato is brown and grows underground, so it is not red. -->
 
 ### Explicación Pedagógica
 This question evaluates remember skills regarding fruits and vegetables at the CEFR A1 level.
@@ -56,10 +56,10 @@ This question evaluates remember skills regarding fruits and vegetables at the C
 A ________ is orange and long.
 
 ### Opciones
-- [ ] A) pear <!-- feedback: No. -->
-- [x] B) carrot <!-- feedback: Correct! -->
-- [ ] C) grape <!-- feedback: No. -->
-- [ ] D) lemon <!-- feedback: No. -->
+- [ ] A) pear <!-- feedback: A pear is green or yellow and shaped like a teardrop, not long. -->
+- [x] B) carrot <!-- feedback: A carrot is orange and long, with the green leaves on top. -->
+- [ ] C) grape <!-- feedback: A grape is small, round and purple or green, not long. -->
+- [ ] D) lemon <!-- feedback: A lemon is yellow, small and round, not long. -->
 
 ### Explicación Pedagógica
 This question evaluates understand skills regarding fruits and vegetables at the CEFR A1 level.
@@ -77,10 +77,10 @@ This question evaluates understand skills regarding fruits and vegetables at the
 ________ are small and purple or green.
 
 ### Opciones
-- [ ] A) Pineapples <!-- feedback: No. -->
-- [ ] B) Onions <!-- feedback: No. -->
-- [x] C) Grapes <!-- feedback: Correct! -->
-- [ ] D) Strawberries <!-- feedback: No. -->
+- [ ] A) Pineapples <!-- feedback: A pineapple is one large fruit with a spiky crown, not small. -->
+- [ ] B) Onions <!-- feedback: An onion is a round bulb with papery skin, and it grows underground. -->
+- [x] C) Grapes <!-- feedback: Grapes are small and come in purple or green. -->
+- [ ] D) Strawberries <!-- feedback: Strawberries are small but red, never purple or green. -->
 
 ### Explicación Pedagógica
 This question evaluates apply skills regarding fruits and vegetables at the CEFR A1 level.
@@ -98,10 +98,10 @@ This question evaluates apply skills regarding fruits and vegetables at the CEFR
 A ________ is yellow and sour.
 
 ### Opciones
-- [ ] A) watermelon <!-- feedback: No. -->
-- [ ] B) tomato <!-- feedback: No. -->
-- [ ] C) broccoli <!-- feedback: No. -->
-- [x] D) lemon <!-- feedback: Correct! -->
+- [ ] A) watermelon <!-- feedback: A watermelon is green outside and red inside, so it is not yellow or sour. -->
+- [ ] B) tomato <!-- feedback: A tomato is red and mild, not sour. -->
+- [ ] C) broccoli <!-- feedback: Broccoli is green and has no sour taste at all. -->
+- [x] D) lemon <!-- feedback: A lemon is yellow and sour. -->
 
 ### Explicación Pedagógica
 This question evaluates analyze skills regarding fruits and vegetables at the CEFR A1 level.
@@ -119,10 +119,10 @@ This question evaluates analyze skills regarding fruits and vegetables at the CE
 A ________ is big, green outside and red inside.
 
 ### Opciones
-- [x] A) watermelon <!-- feedback: Correct! -->
-- [ ] B) cherry <!-- feedback: No. -->
-- [ ] C) peach <!-- feedback: No. -->
-- [ ] D) cucumber <!-- feedback: No. -->
+- [x] A) watermelon <!-- feedback: A watermelon is big, green on the outside and red inside. -->
+- [ ] B) cherry <!-- feedback: A cherry is small and red, with no green skin. -->
+- [ ] C) peach <!-- feedback: A peach is soft and fuzzy, with a pink or orange skin. -->
+- [ ] D) cucumber <!-- feedback: A cucumber is green on the outside and pale inside, not red. -->
 
 ### Explicación Pedagógica
 This question evaluates evaluate skills regarding fruits and vegetables at the CEFR A1 level.
@@ -140,10 +140,10 @@ This question evaluates evaluate skills regarding fruits and vegetables at the C
 A ________ is red and we use it in salads.
 
 ### Opciones
-- [ ] A) coconut <!-- feedback: No. -->
-- [x] B) tomato <!-- feedback: Correct! -->
-- [ ] C) plum <!-- feedback: No. -->
-- [ ] D) mango <!-- feedback: No. -->
+- [ ] A) coconut <!-- feedback: A coconut is brown and hard on the outside; it does not go in salads. -->
+- [x] B) tomato <!-- feedback: A tomato is red and is one of the vegetables we put in salads. -->
+- [ ] C) plum <!-- feedback: A plum is purple and is usually eaten as fruit, not in salads. -->
+- [ ] D) mango <!-- feedback: A mango is yellow-orange and sweet, a fruit rather than a salad vegetable. -->
 
 ### Explicación Pedagógica
 This question evaluates apply skills regarding fruits and vegetables at the CEFR A1 level.
@@ -161,10 +161,10 @@ This question evaluates apply skills regarding fruits and vegetables at the CEFR
 A ________ is white and brown, and we use it to make French fries.
 
 ### Opciones
-- [ ] A) lettuce <!-- feedback: No. -->
-- [ ] B) garlic <!-- feedback: No. -->
-- [x] C) potato <!-- feedback: Correct! -->
-- [ ] D) kiwi <!-- feedback: No. -->
+- [ ] A) lettuce <!-- feedback: Lettuce is green and leafy, so it does not match the description. -->
+- [ ] B) garlic <!-- feedback: Garlic is white and made of cloves, and it is used for flavour, not fries. -->
+- [x] C) potato <!-- feedback: A potato is white inside with brown skin, and we fry it to make French fries. -->
+- [ ] D) kiwi <!-- feedback: A kiwi is green inside with black seeds, and it is eaten fresh. -->
 
 ### Explicación Pedagógica
 This question evaluates understand skills regarding fruits and vegetables at the CEFR A1 level.
@@ -182,10 +182,10 @@ This question evaluates understand skills regarding fruits and vegetables at the
 An ________ is orange and gives us juice.
 
 ### Opciones
-- [ ] A) apple <!-- feedback: No. -->
-- [ ] B) banana <!-- feedback: No. -->
-- [ ] C) pear <!-- feedback: No. -->
-- [x] D) orange <!-- feedback: Correct! -->
+- [ ] A) apple <!-- feedback: An apple can be red or green, so it is not always orange. -->
+- [ ] B) banana <!-- feedback: A banana is yellow when ripe, not orange. -->
+- [ ] C) pear <!-- feedback: A pear is green or yellow and does not usually give us juice. -->
+- [x] D) orange <!-- feedback: An orange is orange and gives us orange juice. -->
 
 ### Explicación Pedagógica
 This question evaluates remember skills regarding fruits and vegetables at the CEFR A1 level.

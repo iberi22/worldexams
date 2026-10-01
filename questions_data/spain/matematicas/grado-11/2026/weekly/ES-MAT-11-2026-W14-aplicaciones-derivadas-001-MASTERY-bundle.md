@@ -323,7 +323,7 @@ Al plantear el área en función del ángulo o de una de las coordenadas, la der
 ¿En qué punto $c$ del intervalo se cumple que la derivada es igual a la pendiente de la recta secante que une los extremos?
 
 ### Opciones
-- [ ] A) $c = 1,5$ <!-- feedback: Valor incorrecto. -->
+- [ ] A) $c = 1,5$ <!-- feedback: La pendiente de la secante es (9-1)/(3-1) = 4, y f'(c) = 2c vale 4 solo cuando c = 2, no en el punto medio del intervalo. -->
 - [x] D) $c = 2$ <!-- feedback: Correcto. Pendiente secante: $(9-1)/(3-1) = 8/2 = 4$. Derivada: $f'(c) = 2c$. Igualando: $2c = 4 \Rightarrow c = 2$. -->
 - [ ] B) $c = 2,5$ <!-- feedback: Valor incorrecto. -->
 - [ ] C) $c = \sqrt{3}$ <!-- feedback: Este valor corresponde a otros teoremas de promedios. -->

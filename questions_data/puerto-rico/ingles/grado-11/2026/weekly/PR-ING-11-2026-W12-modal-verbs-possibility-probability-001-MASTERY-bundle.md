@@ -17,466 +17,507 @@ tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
 ---
-# MASTERY Bundle - Ingles: Modal Verbs Possibility Probability (W12)
+# MASTERY Bundle - Ingles: modal-verbs-possibility-probability (W12)
 **20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
-## Question 1 [D3]
+
+## Question 1 [D5-D6]
 **ID:** PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Modales de posibilidad, San Juan, grado 11.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which sentence expresses a possibility of about fifty per cent?
 
 ### Opciones
-- [x] D) accommodation
-  <!-- feedback: Correct! 'accommodation' matches the definition. -->
-- [ ] A) transportation
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) entertainment
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) currency
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) It may rain later this afternoon.
+  <!-- feedback: 'May' is a standard possibility form and is also acceptable here. -->
+- [ ] B) It must rain later this afternoon.
+  <!-- feedback: 'Must' expresses strong deduction, not a fifty per cent chance. -->
+- [x] C) It might rain later this afternoon.
+  <!-- feedback: 'Might' suggests a lower probability than 'may'. -->
+- [ ] D) It cannot rain later this afternoon.
+  <!-- feedback: 'Cannot' expresses impossibility. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+'May' expresa posibilidad en general, mientras 'might' sugiere una probabilidad menor.
+
 ---
-## Question 2 [D4]
+
+## Question 2 [D5-D6]
 **ID:** PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
-
-### Opciones
-- [x] B) itinerary
-  <!-- feedback: Correct! 'itinerary' matches the definition. -->
-- [ ] A) baggage
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) destination
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) passport
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
-## Question 3 [D3]
-**ID:** PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
-
-### Opciones
-- [x] C) destination
-  <!-- feedback: Correct! 'destination' matches the definition. -->
-- [ ] A) departure
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) arrival
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) journey
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
----
-## Question 4 [D4]
-**ID:** PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
-
-### Opciones
-- [x] B) luggage
-  <!-- feedback: Correct! 'luggage' matches the definition. -->
-- [ ] A) ticket
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) flight
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) reservation
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
----
-## Question 5 [D5]
-**ID:** PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
-
-### Opciones
-- [x] B) passenger
-  <!-- feedback: Correct! 'passenger' matches the definition. -->
-- [ ] A) pedestrian
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) commuter
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) tourist
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
-## Question 6 [D6]
-**ID:** PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
-
-### Opciones
-- [x] D) customs
-  <!-- feedback: Correct! 'customs' matches the definition. -->
-- [ ] A) security
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) terminal
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) gate
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
-## Question 7 [D5]
-**ID:** PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Modales de probabilidad, Ponce, grado 11.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Complete: 'You ____ be right, but I doubt it.' The speaker thinks it is unlikely.
 
 ### Opciones
-- [x] C) boarding pass
-  <!-- feedback: Correct! 'boarding pass' matches the definition. -->
-- [ ] A) visa
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) receipt
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) brochure
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) must
+  <!-- feedback: 'Must' would assert certainty. -->
+- [ ] B) should
+  <!-- feedback: 'Should' expresses expectation or recommendation, not the speaker's doubt. -->
+- [ ] C) will
+  <!-- feedback: 'Will' is a future auxiliary and carries no hedging function. -->
+- [x] D) might
+  <!-- feedback: 'Might' conveys the speaker's own low confidence in the statement. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+Una conjetura que el hablante considera poco probable se expresa con 'might be'. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
-## Question 8 [D6]
+
+## Question 3 [D5-D6]
+**ID:** PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v3
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Modales de deduccion, Mayaguez, grado 11.
+
+### Enunciado
+What does 'must' mean in the sentence 'She must be exhausted; she has been working all day'?
+
+### Opciones
+- [ ] A) The speaker is giving an order
+  <!-- feedback: An order requires a different pattern, not this declarative use. -->
+- [x] B) The speaker is almost certain, based on the evidence
+  <!-- feedback: 'Must' marks a deduction from the facts given. -->
+- [ ] C) The speaker is not certain at all
+  <!-- feedback: That reading would require 'might' or 'could'. -->
+- [ ] D) The speaker is certain the opposite is true
+  <!-- feedback: 'Cannot' would express that reading instead. -->
+
+### Explicacion Pedagogica
+En presente, 'must' expresa una conclusion logica a partir de la evidencia disponible.
+
+---
+
+## Question 4 [D3-D4]
+**ID:** PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v4
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Uso de modales, Humacao, grado 11.
+
+### Enunciado
+Choose the sentence that uses 'cannot' correctly.
+
+### Opciones
+- [x] A) That cannot be true; the numbers do not match.
+  <!-- feedback: 'Cannot be' expresses that the situation is impossible. -->
+- [ ] B) That can not be true is obvious.
+  <!-- feedback: Splitting 'cannot' and inverting the order breaks the grammar. -->
+- [ ] C) That cannot be true is obvious.
+  <!-- feedback: The word order after 'cannot' is inverted without cause. -->
+- [ ] D) That cannot be being true.
+  <!-- feedback: The progressive is not compatible with this modal use. -->
+
+### Explicacion Pedagogica
+'Cannot' expresa imposibilidad y mantiene el mismo orden que los demas modales. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
+---
+
+## Question 5 [D5-D6]
+**ID:** PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v5
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Modales en contexto, Caguas, grado 11.
+
+### Enunciado
+Complete: 'You ____ have told me earlier; I would have cancelled the trip.'
+
+### Opciones
+- [ ] A) would
+  <!-- feedback: 'Would have' describes an unreal past result, not a reproach. -->
+- [x] B) should
+  <!-- feedback: 'Should have' expresses reproach about something not done in the past. -->
+- [ ] C) can
+  <!-- feedback: 'Can have' does not carry that function. -->
+- [ ] D) must
+  <!-- feedback: 'Must have' would express a deduction about the past, not blame. -->
+
+### Explicacion Pedagogica
+La expresion reprocha una omision pasada, asi que el modal corresponde al pasado: 'should have'.
+
+---
+
+## Question 6 [D5-D6]
+**ID:** PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v6
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Comparacion de modales, Arecibo, grado 11.
+
+### Enunciado
+What is the difference between 'could' and 'was able to'?
+
+### Opciones
+- [x] A) 'Could' is general ability; 'was able to' is a specific past occasion
+  <!-- feedback: 'Was able to' points to one realised instance. -->
+- [ ] B) They mean exactly the same thing in every context
+  <!-- feedback: They overlap in many sentences but differ in this focus. -->
+- [ ] C) 'Could' is only used in questions
+  <!-- feedback: 'Could' is common in statements as well. -->
+- [ ] D) 'Was able to' refers to the future
+  <!-- feedback: 'Was able to' is a past form. -->
+
+### Explicacion Pedagogica
+'Could' expresa habilidad general o posibilidad, mientras 'was able to' se refiere a un caso concreto.
+
+---
+
+## Question 7 [D5-D6]
+**ID:** PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v7
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Comprension de intencion, Guaynabo, grado 11.
+
+### Enunciado
+Read: 'You may want to check the figures before the meeting.' What is the speaker doing?
+
+### Opciones
+- [ ] A) Issuing a strict order
+  <!-- feedback: An order would use 'must' or 'have to'. -->
+- [ ] B) Expressing a doubt about the figures
+  <!-- feedback: 'May' here softens the suggestion rather than expressing doubt. -->
+- [ ] C) Making a prediction about the meeting
+  <!-- feedback: No future prediction is made in the sentence. -->
+- [x] D) Offering a polite suggestion
+  <!-- feedback: 'May want to' softens the advice so the listener can decide. -->
+
+### Explicacion Pedagogica
+'May want to' expresa una sugerencia prudente al oyente sin imponerla. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
+---
+
+## Question 8 [D5-D6]
 **ID:** PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Deduccion sobre el presente, Vega Baja, grado 11.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Complete: 'She ____ be at the office by now; she left an hour ago.'
 
 ### Opciones
-- [x] C) sightseeing
-  <!-- feedback: Correct! 'sightseeing' matches the definition. -->
-- [ ] A) shopping
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) hiking
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) camping
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) might
+  <!-- feedback: 'Might' would weaken a deduction the speaker considers solid. -->
+- [ ] B) should
+  <!-- feedback: 'Should' expresses expectation, which is weaker than the evidence warrants here. -->
+- [x] C) must
+  <!-- feedback: 'Must be' expresses the deduction the evidence supports. -->
+- [ ] D) will
+  <!-- feedback: 'Will' is a future auxiliary and carries no deductive meaning. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+Los datos apresentados sostienen una conclusion logica en presente, que corresponde a 'must be'.
+
 ---
-## Question 9 [D5]
+
+## Question 9 [D5-D6]
 **ID:** PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Modales en pasado, Jayuya, grado 11.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Which sentence expresses certainty about a past situation?
 
 ### Opciones
-- [x] A) souvenir
-  <!-- feedback: Correct! 'souvenir' matches the definition. -->
-- [ ] B) gift
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) award
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) prize
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) He must forget the appointment.
+  <!-- feedback: The bare infinitive refers to a present or future obligation. -->
+- [ ] B) He will have forget the appointment.
+  <!-- feedback: The future perfect requires a participle, not the base form. -->
+- [ ] C) He must been the appointment.
+  <!-- feedback: That sequence is not grammatical. -->
+- [x] D) He must have forgotten the appointment.
+  <!-- feedback: 'Must have' plus participle marks a firm conclusion about the past. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+'Must have' seguido de participio expresa una conclusion firme sobre el pasado. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
-## Question 10 [D6]
+
+## Question 10 [D3-D4]
 **ID:** PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Deteccion de errores, Yauco, grado 11.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Look at the sentence: 'She must to leave early.' What is the error?
 
 ### Opciones
-- [x] A) delay
-  <!-- feedback: Correct! 'delay' matches the definition. -->
-- [ ] B) cancellation
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) departure
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) arrival
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) 'To' must be removed after 'must'
+  <!-- feedback: Modal verbs are followed directly by the base form. -->
+- [ ] B) Nothing is wrong with the sentence
+  <!-- feedback: The infinitive after 'must' is a standard error. -->
+- [ ] C) 'Must' must be 'will'
+  <!-- feedback: Neither modal takes an infinitive, so that change would not fix it. -->
+- [ ] D) 'Leave' must be 'leaving'
+  <!-- feedback: After a modal the base form is required, not the -ing form. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+Tras un modal no se usa 'to' ni ningun otro auxiliar. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
-## Question 11 [D7]
+
+## Question 11 [D3-D4]
 **ID:** PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Preferencias, Barceloneta, grado 11.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Complete: 'I ____ rather stay at home tonight.'
 
 ### Opciones
-- [x] D) check-in
-  <!-- feedback: Correct! 'check-in' matches the definition. -->
-- [ ] A) check-out
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) booking
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) reservation
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) will
+  <!-- feedback: 'Will rather' is not a standard construction. -->
+- [ ] B) must
+  <!-- feedback: 'Must' expresses obligation, not preference. -->
+- [ ] C) could
+  <!-- feedback: 'Could rather' is not idiomatic in this position. -->
+- [x] D) would
+  <!-- feedback: 'Would rather' expresses a preference between two options. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+'Would rather' expresa preferencia y va seguido de la forma base del verbo. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
-## Question 12 [D8]
+
+## Question 12 [D3-D4]
 **ID:** PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Obligacion, Maunabo, grado 11.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Which sentence uses 'have to' correctly?
 
 ### Opciones
-- [x] C) layover
-  <!-- feedback: Correct! 'layover' matches the definition. -->
-- [ ] A) stopover
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) transfer
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) transit
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) Students must to wear a uniform at this school.
+  <!-- feedback: No infinitive may follow a modal verb. -->
+- [ ] B) Students are having to wear a uniform to school.
+  <!-- feedback: The progressive is not used with 'have to' in this meaning. -->
+- [x] C) Students have to wear a uniform at this school.
+  <!-- feedback: 'Have to' marks an externally imposed obligation. -->
+- [ ] D) Students have wear a uniform at this school.
+  <!-- feedback: 'Have' requires the base form, not the bare infinitive. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+'Have to' expresa obligacion externa impuesta por una norma o una tercera persona. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
-## Question 13 [D7]
+
+## Question 13 [D5-D6]
 **ID:** PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Inferencia sobre una prediccion, Naguabo, grado 11.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Read: 'The concert may be sold out by tonight.' What can you conclude?
 
 ### Opciones
-- [x] B) currency
-  <!-- feedback: Correct! 'currency' matches the definition. -->
-- [ ] A) coin
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) banknote
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) cash
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) There is a chance that all tickets have been sold
+  <!-- feedback: 'May' keeps the possibility open without confirming it. -->
+- [ ] B) All tickets have certainly been sold
+  <!-- feedback: Certainty would require 'must be' or a plain statement. -->
+- [ ] C) No tickets have been sold
+  <!-- feedback: 'Cannot be sold out' would express that reading. -->
+- [ ] D) The concert has been cancelled
+  <!-- feedback: No mention of a cancellation appears in the sentence. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+'May be' deja abierta la posibilidad de que ya no queden entradas, sin asegurarlo. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
-## Question 14 [D8]
+
+## Question 14 [D3-D4]
 **ID:** PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Consejo, Ciales, grado 11.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Complete: 'You ____ have seen the doctor; you look feverish.'
 
 ### Opciones
-- [x] D) guidebook
-  <!-- feedback: Correct! 'guidebook' matches the definition. -->
-- [ ] A) map
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) dictionary
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) encyclopedia
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) must
+  <!-- feedback: 'Must have' would turn the recommendation into a deduction. -->
+- [ ] B) can
+  <!-- feedback: 'Can have' does not express advice. -->
+- [x] C) should
+  <!-- feedback: 'Should have seen' is a recommendation about what ought to have happened. -->
+- [ ] D) will
+  <!-- feedback: 'Will have' is a future perfect form with no advisory sense. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+'Should' expresa recomendacion y no una afirmacion sobre el pasado. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
-## Question 15 [D7]
+
+## Question 15 [D5-D6]
 **ID:** PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Revision de modales, Juana Diaz, grado 11.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Which sentence is NOT correct?
 
 ### Opciones
-- [x] C) backpack
-  <!-- feedback: Correct! 'backpack' matches the definition. -->
-- [ ] A) suitcase
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) briefcase
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) handbag
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) I would like a cup of coffee.
+  <!-- feedback: The fixed expression 'would like' is complete here. -->
+- [x] B) I would a cup of coffee like.
+  <!-- feedback: The auxiliary 'would' cannot be separated from 'like'. -->
+- [ ] C) I would like to have a cup of coffee.
+  <!-- feedback: 'Would like to' plus the infinitive is correct. -->
+- [ ] D) I would like a coffee cup.
+  <!-- feedback: 'Would like' plus a noun phrase is also correct. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+Las dos palabras 'would like' funcionan como un bloque y no deben separarse por un sustantivo.
+
 ---
-## Question 16 [D8]
+
+## Question 16 [D5-D6]
 **ID:** PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Marco conceptual, Luquillo, grado 11.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+What does 'ought to' express?
 
 ### Opciones
-- [x] D) overseas
-  <!-- feedback: Correct! 'overseas' matches the definition. -->
-- [ ] A) domestic
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) local
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) national
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) Past obligation only
+  <!-- feedback: 'Ought to have' covers the past, but the plain form is present. -->
+- [ ] B) Certainty about the past
+  <!-- feedback: That is 'must have'. -->
+- [x] C) Obligation or advice, close to 'should'
+  <!-- feedback: 'Ought to' is the formal equivalent of 'should'. -->
+- [ ] D) Probability of about fifty per cent
+  <!-- feedback: That is 'may' or 'might'. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+'Ought to' expresa obligacion o recomendacion y equivale a 'should'. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
-## Question 17 [D9]
+
+## Question 17 [D3-D4]
 **ID:** PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Prohibicion, Caguas, grado 11.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Complete: 'You ____ not smoke in the hospital; it is against the rules.'
 
 ### Opciones
-- [x] A) budget
-  <!-- feedback: Correct! 'budget' matches the definition. -->
-- [ ] B) expense
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) cost
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) price
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) should
+  <!-- feedback: 'Should not' would express advice rather than a prohibition. -->
+- [ ] B) might
+  <!-- feedback: 'Might not' expresses a low probability, not a rule. -->
+- [ ] C) could
+  <!-- feedback: 'Could not' expresses inability rather than prohibition. -->
+- [x] D) must
+  <!-- feedback: 'Must not' expresses a prohibition grounded in a rule. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+Una prohibicion formulada con 'must' se expresa en negativo con 'must not'. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
-## Question 18 [D10]
+
+## Question 18 [D5-D6]
 **ID:** PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Obligacion pasada, Cayey, grado 11.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Which sentence correctly reports a past obligation?
 
 ### Opciones
-- [x] B) insurance
-  <!-- feedback: Correct! 'insurance' matches the definition. -->
-- [ ] A) warranty
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) guarantee
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) policy
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) We should leave earlier to avoid the traffic.
+  <!-- feedback: The bare 'should' refers to the present or future. -->
+- [x] B) We should have left earlier to avoid the traffic.
+  <!-- feedback: 'Should have' expresses a past obligation that was not met. -->
+- [ ] C) We will have left earlier to avoid the traffic.
+  <!-- feedback: The future perfect refers to a future reference point. -->
+- [ ] D) We must have left earlier to avoid the traffic.
+  <!-- feedback: 'Must have' would express a deduction, not an obligation. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+'Should have' u 'ought to have' expresa una obligacion retrospectiva sobre algo no hecho.
+
 ---
-## Question 19 [D9]
+
+## Question 19 [D5-D6]
 **ID:** PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Habilidad, Yauco, grado 11.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Read the sentence: 'He can play three languages, but he cannot write in all of them.' What does the modal convey?
 
 ### Opciones
-- [x] B) vaccination
-  <!-- feedback: Correct! 'vaccination' matches the definition. -->
-- [ ] A) medication
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) prescription
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) infection
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) Ability that exists in one direction but not the other
+  <!-- feedback: 'Can' grants the skill and 'cannot' withholds it in writing. -->
+- [ ] B) A possibility that depends on time
+  <!-- feedback: 'Can' expresses ability here, not a temporal condition. -->
+- [ ] C) A prohibition on writing
+  <!-- feedback: Prohibition would require a modal of obligation, not 'cannot' as ability. -->
+- [ ] D) A deduction about the past
+  <!-- feedback: Past deduction requires 'must have'. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+La pareja 'can' y 'cannot' delimita hasta donde llega la capacidad del hablante. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
 ---
-## Question 20 [D10]
+
+## Question 20 [D5-D6]
 **ID:** PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Registro y forma, Vega Baja, grado 11.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Choose the sentence that uses 'might' in the correct register and form.
 
 ### Opciones
-- [x] D) jet lag
-  <!-- feedback: Correct! 'jet lag' matches the definition. -->
-- [ ] A) fatigue
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) exhaustion
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) insomnia
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) You might wanting to reconsider the offer.
+  <!-- feedback: The -ing form cannot follow a modal verb. -->
+- [x] B) You might want to reconsider the offer.
+  <!-- feedback: 'Might' hedges the suggestion politely and is fully standard. -->
+- [ ] C) You might to reconsider the offer.
+  <!-- feedback: No infinitive marker may follow a modal. -->
+- [ ] D) You might reconsiders the offer.
+  <!-- feedback: The base form must follow the modal. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+'Might' es la forma correcta para expresar una posibilidad menor y suena mas diplomático que 'may'.
+
+---

@@ -50,10 +50,10 @@ Un sistema busca la intersección de condiciones matemáticas representadas por 
 ¿Cuál NO es un método para resolver sistemas lineales?
 
 ### Opciones
-- [ ] A) Sustitución <!-- feedback: Incorrecto. Método estándar. -->
-- [ ] B) Igualación <!-- feedback: Incorrecto. Método estándar. -->
-- [x] D) Factorización <!-- feedback: Correcto. Se usa para simplificar sumas, no sistemas lineales. -->
-- [ ] C) Reducción <!-- feedback: Incorrecto. Método estándar (eliminación). -->
+- [ ] A) Sustitución <!-- feedback: La sustitución es uno de los tres métodos clásicos para un sistema 2x2: se despeja una incógnita y se reemplaza en la otra ecuación. -->
+- [ ] B) Igualación <!-- feedback: La igualación también es un método estándar: se despeja la misma incógnita en ambas ecuaciones y se igualan las expresiones. -->
+- [x] D) Factorización <!-- feedback: La factorización es una técnica para simplificar sumas y productos, no un procedimiento para eliminar incógnitas de un sistema. -->
+- [ ] C) Reducción <!-- feedback: La reducción (o eliminación) es precisamente el método que cancela una variable restando o sumando las ecuaciones. -->
 
 ### Explicacion Pedagogica
 Identificación de los procedimientos algebraicos específicos para sistemas 2x2.
@@ -113,10 +113,10 @@ Concepto de sistema inconsistente basado en el paralelismo.
 Halla (x, y).
 
 ### Opciones
-- [ ] A) (10, 5) <!-- feedback: Incorrecto. No cumple y=2x. -->
-- [x] C) (5, 10) <!-- feedback: Correcto. $5+10=15$ y $10=2(5)$. -->
-- [ ] B) (7.5, 7.5) <!-- feedback: Incorrecto. No cumple y=2x. -->
-- [ ] D) (3, 6) <!-- feedback: Incorrecto. Suma 9, no 15. -->
+- [ ] A) (10, 5) <!-- feedback: Con $(10, 5)$ la relación $y = 2x$ daría $5 = 20$, que es falsa. -->
+- [x] C) (5, 10) <!-- feedback: Con $(5, 10)$ se cumple $x + y = 5 + 10 = 15$ y $y = 2x = 2 \cdot 5 = 10$ a la vez. -->
+- [ ] B) (7.5, 7.5) <!-- feedback: Con $(7.5, 7.5)$ la relación $y = 2x$ daría $7.5 = 15$, que es falsa. -->
+- [ ] D) (3, 6) <!-- feedback: Con $(3, 6)$ la suma es $3 + 6 = 9$, y el sistema pide que sume $15$. -->
 
 ### Explicacion Pedagogica
 Uso del método de sustitución para hallar el punto de intersección.
@@ -155,10 +155,10 @@ Eliminación de una variable mediante la adición de ecuaciones.
 ¿Precio de un melón?
 
 ### Opciones
-- [ ] A) RD\$ 50 <!-- feedback: Incorrecto. Revisa la diferencia. -->
-- [x] C) RD\$ 100 <!-- feedback: Correcto. 2 melones de diferencia valen 200. -->
-- [ ] B) RD\$ 75 <!-- feedback: Incorrecto. No cuadra la diferencia. -->
-- [ ] D) RD\$ 150 <!-- feedback: Incorrecto. Valor excedido. -->
+- [ ] A) RD\$ 50 <!-- feedback: Si el melón costara RD\$ 50, dos melones serían RD\$ 100, pero la diferencia entre las dos ecuaciones es de RD\$ 200. -->
+- [x] C) RD\$ 100 <!-- feedback: Restando las dos ecuaciones, $5 - 3 = 2$ melones y $550 - 350 = 200$, de donde cada melón vale $200 / 2 = 100$. -->
+- [ ] B) RD\$ 75 <!-- feedback: Con RD\$ 75 por melón, los $2$ melones añadirían $150$ y no $200$, así que la diferencia no cuadra. -->
+- [ ] D) RD\$ 150 <!-- feedback: Con RD\$ 150 por melón, los $2$ melones añadirían $300$, y el sistema exige $200$. -->
 
 ### Explicacion Pedagogica
 Deducción lógica a partir de la comparación de dos estados del sistema.
@@ -302,10 +302,10 @@ Planteamiento de sistemas de mezcla balanceando peso y costo.
 Resuelve $x/2 + y/3 = 4$ y $x + y = 9$.
 
 ### Opciones
-- [ ] B) (4, 5) <!-- feedback: Incorrecto. Falló la primera. -->
-- [x] A) (6, 3) <!-- feedback: Correcto. $3+1=4$ en la primera y $6+3=9$ en la segunda. -->
-- [ ] C) (2, 7) <!-- feedback: Incorrecto. No satisface. -->
-- [ ] D) (3, 6) <!-- feedback: Incorrecto. No satisface. -->
+- [ ] B) (4, 5) <!-- feedback: En $(4, 5)$ la primera ecuación da $\frac{4}{2} + \frac{5}{3} = 2 + \frac{5}{3} \neq 4$. -->
+- [x] A) (6, 3) <!-- feedback: En $(6, 3)$ la primera ecuación da $3 + 1 = 4$ y la segunda $6 + 3 = 9$, así que el par satisface ambas. -->
+- [ ] C) (2, 7) <!-- feedback: En $(2, 7)$ la segunda ecuación da $2 + 7 = 9$, pero la primera da $1 + \frac{7}{3} \neq 4$. -->
+- [ ] D) (3, 6) <!-- feedback: En $(3, 6)$ la segunda ecuación da $3 + 6 = 9$, pero la primera da $\frac{3}{2} + 2 = 3.5 \neq 4$. -->
 
 ### Explicacion Pedagogica
 Simplificación de sistemas con coeficientes fraccionarios.
@@ -323,10 +323,10 @@ Simplificación de sistemas con coeficientes fraccionarios.
 ¿Valor de m para que sea inconsistente?
 
 ### Opciones
-- [ ] A) 1 <!-- feedback: Incorrecto. Tendría solución. -->
-- [x] B) 2 <!-- feedback: Correcto. Rectas paralelas no coincidentes. -->
-- [ ] C) 4 <!-- feedback: Incorrecto. Tendría solución. -->
-- [ ] D) 0 <!-- feedback: Incorrecto. No es paralelo. -->
+- [ ] A) 1 <!-- feedback: Con $m = 1$ los coeficientes no son proporcionales y el sistema tiene una solución única. -->
+- [x] B) 2 <!-- feedback: Con $m = 2$ los coeficientes de las incógnitas son proporcionales pero los términos independientes no, así las rectas son paralelas y no se cortan: el sistema es inconsistente. -->
+- [ ] C) 4 <!-- feedback: Con $m = 4$ las pendientes difieren, de modo que las rectas se cortan y hay solución. -->
+- [ ] D) 0 <!-- feedback: Con $m = 0$ la pendiente es distinta de la del otro coeficiente, luego el sistema es compatible. -->
 
 ### Explicacion Pedagogica
 Condiciones de paralelismo en los coeficientes de las incógnitas.
@@ -344,10 +344,10 @@ Condiciones de paralelismo en los coeficientes de las incógnitas.
 ¿Cantidad al 6%?
 
 ### Opciones
-- [ ] A) RD\$ 4,000 <!-- feedback: Incorrecto. Interés insuficiente. -->
-- [x] C) RD\$ 6,000 <!-- feedback: Correcto. $0.04(4000)+0.06(6000) = 160+360=520$. -->
-- [ ] B) RD\$ 5,000 <!-- feedback: Incorrecto. Interés sería 500. -->
-- [ ] D) RD\$ 2,000 <!-- feedback: Incorrecto. Insuficiente. -->
+- [ ] A) RD\$ 4,000 <!-- feedback: Si los RD\$ 4,000 estuvieran al $6\%$, el interés anual sería $240$ y el total no llegaría a $520$. -->
+- [x] C) RD\$ 6,000 <!-- feedback: Con $x$ al $4\%$ y $10000 - x$ al $6\%$: $0.04(4000) + 0.06(6000) = 160 + 360 = 520$, que es el total dado. -->
+- [ ] B) RD\$ 5,000 <!-- feedback: Con RD\$ 5,000 y RD\$ 5,000 el interés anual sería $\frac{4+6}{2} = 5\%$ sobre $10000$, es decir $500$, no $520$. -->
+- [ ] D) RD\$ 2,000 <!-- feedback: Si sólo se pusieran RD\$ 2,000$ al $6\%$ con $8000$ al $4\%$, el interés sería $320 + 120 = 440$, menor que $520$. -->
 
 ### Explicacion Pedagogica
 Aplicación de sistemas de ecuaciones a finanzas personales.
@@ -428,10 +428,10 @@ Análisis de la intersección entre diferentes familias de funciones.
 Halla $x+y+z$.
 
 ### Opciones
-- [ ] B) 20 <!-- feedback: Incorrecto. Es la suma de los resultados. -->
-- [x] A) 10 <!-- feedback: Correcto. $2(x+y+z) = 20 \implies 10$. -->
-- [ ] C) 15 <!-- feedback: Incorrecto. Excedido. -->
-- [ ] D) 7.5 <!-- feedback: Incorrecto. Insuficiente. -->
+- [ ] B) 20 <!-- feedback: El 20 es la suma de los lados derechos $5 + 7 + 8$, pero al sumar las tres ecuaciones cada incógnita aparece dos veces, así que esa suma es $2(x+y+z)$. -->
+- [x] A) 10 <!-- feedback: Al sumar $x+y=5$, $y+z=7$ y $x+z=8$ se obtiene $2(x+y+z) = 20$, y por tanto $x+y+z = 10$. -->
+- [ ] C) 15 <!-- feedback: El 15 excede la suma pedida: como cada incógnita se cuenta dos veces, el total nunca puede superar $\frac{20}{2} = 10$. -->
+- [ ] D) 7.5 <!-- feedback: El 7.5 se obtiene al dividir los lados derechos entre cuatro, pero cada variable aparece exactamente dos veces, luego el divisor es $2$. -->
 
 ### Explicacion Pedagogica
 Uso de la suma de ecuaciones para extraer propiedades del sistema sin resolver variables.

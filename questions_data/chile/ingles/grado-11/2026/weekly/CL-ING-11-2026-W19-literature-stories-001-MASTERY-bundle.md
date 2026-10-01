@@ -155,10 +155,10 @@ A fable is a short story, typically with animals as characters, conveying a mora
 Graphic novels are increasingly being recognized as a serious form of literature.
 
 ### Opciones
-- [ ] A) are recognizing <!-- feedback: Incorrect. Active voice. -->
+- [ ] A) are recognizing <!-- feedback: 'Are recognizing' is active and would need the graphic novels to be the ones doing the recognizing. -->
 - [x] B) are being recognized <!-- feedback: Correct. Present continuous passive for an ongoing trend. -->
 - [ ] C) recognized <!-- feedback: Incorrect. Past simple. -->
-- [ ] D) have recognized <!-- feedback: Incorrect. Active voice. -->
+- [ ] D) have recognized <!-- feedback: 'Have recognized' is an active present perfect that would mean the recognition is already complete, losing the idea of an ongoing trend. -->
 
 ### Explicacion Pedagogica
 The present continuous passive describes the current process of shifting critical opinion.
@@ -197,7 +197,7 @@ I used to read fairy tales every night when I was a child.
 ### Opciones
 - [ ] A) am used to <!-- feedback: Incorrect. This means 'accustomed to' in the present. -->
 - [x] C) used to <!-- feedback: Correct. 'Used to' describes a past habit. -->
-- [ ] B) use to <!-- feedback: Incorrect grammar. -->
+- [ ] B) use to <!-- feedback: The modal is 'used to' with the d: 'use to' is not a form of the verb at all, so the sentence has no way to express the past habit. -->
 - [ ] D) would <!-- feedback: Incorrect. While 'would' works for habits, 'used to' is the standard for contrasting past and present. -->
 
 ### Explicacion Pedagogica

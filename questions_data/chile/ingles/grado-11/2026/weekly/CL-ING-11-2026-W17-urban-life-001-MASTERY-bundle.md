@@ -155,10 +155,10 @@ In a metropolis, you can find a wide variety of shops, restaurants, and entertai
 New cycling paths are being constructed throughout the city to promote sustainable transport.
 
 ### Opciones
-- [ ] A) are constructing <!-- feedback: Incorrect. Active voice. -->
-- [x] B) are being constructed <!-- feedback: Correct. Present continuous passive for an ongoing project. -->
-- [ ] C) constructed <!-- feedback: Incorrect. Past simple. -->
-- [ ] D) have constructed <!-- feedback: Incorrect. Active voice. -->
+- [ ] A) are constructing <!-- feedback: 'Are constructing' is the active voice and would make the paths do the building; the paths are the ones being built. -->
+- [x] B) are being constructed <!-- feedback: Correct. 'Are being constructed' is the present continuous passive, used for a project that is under way at the moment of speaking. -->
+- [ ] C) constructed <!-- feedback: 'Constructed' on its own would be past simple, but the construction is still in progress. -->
+- [ ] D) have constructed <!-- feedback: 'Have constructed' is the Present Perfect active, which would require the paths to be the ones doing the building. -->
 
 ### Explicacion Pedagogica
 The present continuous passive describes a construction project that is currently in progress.
@@ -255,10 +255,10 @@ A commuter is a person who travels some distance to work on a regular basis.
 The old shipyard has been transformed into a vibrant cultural hub.
 
 ### Opciones
-- [ ] A) has transformed <!-- feedback: Incorrect. Active voice. -->
-- [x] C) has been transformed <!-- feedback: Correct. Present perfect passive for a completed change with present result. -->
-- [ ] B) is transforming <!-- feedback: Incorrect. Active voice. -->
-- [ ] D) transforms <!-- feedback: Incorrect. Simple present. -->
+- [ ] A) has transformed <!-- feedback: 'Has transformed' is the active voice and would make the shipyard do the transforming, but the shipyard received the change. -->
+- [x] C) has been transformed <!-- feedback: Correct. 'Has been transformed' is the present perfect passive, used for a completed change whose result defines the place today. -->
+- [ ] B) is transforming <!-- feedback: 'Is transforming' is active and ongoing, which does not fit a transformation that is already complete. -->
+- [ ] D) transforms <!-- feedback: 'Transforms' is the present simple, and the sentence describes a completed change. -->
 
 ### Explicacion Pedagogica
 The present perfect passive describes a completed process of change that defines the current state of a place.
@@ -315,10 +315,10 @@ The second conditional 'if + were' describes how a hypothetical improvement woul
 The author argues that cities must prioritize "walkability" to improve the health and well-being of their residents.
 
 ### Opciones
-- [ ] A) parking <!-- feedback: Incorrect. Prioritizing parking usually hurts walkability. -->
-- [x] D) walkability <!-- feedback: Correct. Walkability is the measure of how friendly an area is to walking. -->
-- [ ] B) isolation <!-- feedback: Incorrect. Negative. -->
-- [ ] C) construction <!-- feedback: Incorrect. Too broad. -->
+- [ ] A) parking <!-- feedback: Prioritizing parking discourages walking, so it works against the walkability the sentence praises. -->
+- [x] D) walkability <!-- feedback: Correct. 'Walkability' is the quality of a place that makes it easy and pleasant to walk in, which is what the sentence names. -->
+- [ ] B) isolation <!-- feedback: Isolation is the opposite of making a city friendly to people on foot, so it cannot be the goal. -->
+- [ ] C) construction <!-- feedback: Construction is too broad: it says nothing about how friendly a place is to walking. -->
 
 ### Explicacion Pedagogica
 'Walkability' is a key concept in modern urban planning focused on human-centric design.

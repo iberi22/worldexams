@@ -155,10 +155,10 @@ A slogan is a short and striking or memorable phrase used in advertising.
 In some countries, certain websites are blocked to restrict access to information.
 
 ### Opciones
-- [ ] A) block <!-- feedback: Incorrect. Active voice. -->
+- [ ] A) block <!-- feedback: 'Block' in the active voice needs the doers as the subject, but the sentence describes the websites as the thing being acted on. -->
 - [x] B) are blocked <!-- feedback: Correct. Present simple passive for a general ongoing situation. -->
 - [ ] C) were blocked <!-- feedback: Incorrect. Past simple. -->
-- [ ] D) have blocked <!-- feedback: Incorrect. Active voice. -->
+- [ ] D) have blocked <!-- feedback: 'Have blocked' is an active present perfect and again requires an agent as subject; nothing in the sentence names one. -->
 
 ### Explicacion Pedagogica
 The passive voice 'are blocked' is used because the subject (the websites) is the recipient of the action.

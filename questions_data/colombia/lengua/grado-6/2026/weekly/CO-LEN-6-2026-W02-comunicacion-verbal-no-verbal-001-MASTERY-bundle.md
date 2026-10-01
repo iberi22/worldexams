@@ -159,10 +159,10 @@ La cromática es una rama de la comunicación no verbal que estudia el uso del c
 ¿Cómo se llama el estudio del uso del espacio y la distancia en la comunicación no verbal?
 
 ### Opciones
-- [ ] A) Kinésica. <!-- feedback: Incorrecto. Estudia los movimientos corporales. -->
-- [x] B) Proxémica. <!-- feedback: Correcto. Estudia cómo las personas usan el espacio físico y las distancias para comunicarse. -->
-- [ ] C) Paralenguaje. <!-- feedback: Incorrecto. Estudia los aspectos no verbales de la voz (tono, ritmo). -->
-- [ ] D) Semiótica lingüística. <!-- feedback: Incorrecto. Es un término general para el estudio de los signos. -->
+- [ ] A) Kinésica. <!-- feedback: La kinésica estudia los movimientos del cuerpo (gestos, postura y expresión facial), no el uso del espacio. -->
+- [x] B) Proxémica. <!-- feedback: Correcto. La proxémica estudia cómo las personas usan el espacio físico y las distancias para comunicarse. -->
+- [ ] C) Paralenguaje. <!-- feedback: El paralenguaje estudia los aspectos no verbales de la voz, como el tono, el volumen y el ritmo. -->
+- [ ] D) Semiótica lingüística. <!-- feedback: La semiótica lingüística es el estudio general de los signos, no específicamente del espacio y la distancia. -->
 
 ### Explicacion Pedagogica
 La proxémica analiza las distancias entre las personas según el tipo de relación (íntima, personal, social o pública). El uso del espacio también comunica jerarquía, respeto o confianza.

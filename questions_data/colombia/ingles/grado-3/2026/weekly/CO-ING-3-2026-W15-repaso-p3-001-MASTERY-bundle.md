@@ -44,7 +44,7 @@ Choose the correct sentence in the present simple.
   <!-- feedback: A gerund alone cannot be the verb of the sentence. -->
 
 ### Explicacion Pedagogica
-El presente simple exige la terminacion -s cuando el sujeto es 'he', 'she' o 'it'.
+El presente simple exige la terminacion -s cuando el sujeto es 'he', 'she' o 'it'. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
 
 ---
 

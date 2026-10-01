@@ -35,10 +35,10 @@ Este bundle evalúa conceptos de feelings and emotions en inglés, nivel CEFR A1
 I got a 10 on my test! I am ________.
 
 ### Opciones
-- [x] A) happy <!-- feedback: Correct! -->
-- [ ] B) sad <!-- feedback: No. -->
-- [ ] C) angry <!-- feedback: No. -->
-- [ ] D) tired <!-- feedback: No. -->
+- [x] A) happy <!-- feedback: A 10 is a good mark, so the feeling is a happy one. -->
+- [ ] B) sad <!-- feedback: 'Sad' is the opposite of how you feel after a good result. -->
+- [ ] C) angry <!-- feedback: 'Angry' means cross or annoyed, which a good mark does not cause. -->
+- [ ] D) tired <!-- feedback: 'Tired' means lacking sleep or energy, and that is not the news here. -->
 
 ### Explicación Pedagógica
 This question evaluates remember skills regarding feelings and emotions at the CEFR A1 level.
@@ -56,10 +56,10 @@ This question evaluates remember skills regarding feelings and emotions at the C
 I lost my toy. I am ________.
 
 ### Opciones
-- [ ] A) bored <!-- feedback: No. -->
-- [x] B) sad <!-- feedback: Correct! -->
-- [ ] C) happy <!-- feedback: No. -->
-- [ ] D) excited <!-- feedback: No. -->
+- [ ] A) bored <!-- feedback: 'Bored' means having nothing interesting to do, not sadness at losing something. -->
+- [x] B) sad <!-- feedback: Correct. Losing a toy you loved makes a person feel sad. -->
+- [ ] C) happy <!-- feedback: 'Happy' is the opposite of the mood the sentence describes. -->
+- [ ] D) excited <!-- feedback: 'Excited' means very enthusiastic, which losing a toy does not cause. -->
 
 ### Explicación Pedagógica
 This question evaluates understand skills regarding feelings and emotions at the CEFR A1 level.
@@ -77,10 +77,10 @@ This question evaluates understand skills regarding feelings and emotions at the
 It is 10:00 PM. I want to sleep. I am ________.
 
 ### Opciones
-- [ ] A) surprised <!-- feedback: No. -->
-- [ ] B) hungry <!-- feedback: No. -->
-- [x] C) tired <!-- feedback: Correct! -->
-- [ ] D) energetic <!-- feedback: No. -->
+- [ ] A) surprised <!-- feedback: 'Surprised' means an unexpected event occurred, and that is not the case at 10 PM. -->
+- [ ] B) hungry <!-- feedback: 'Hungry' means wanting to eat, but the speaker wants to sleep. -->
+- [x] C) tired <!-- feedback: Correct. At 10 PM the body needs rest, so feeling tired is what the sentence describes. -->
+- [ ] D) energetic <!-- feedback: 'Energetic' means full of energy, the opposite of wanting to go to bed. -->
 
 ### Explicación Pedagógica
 This question evaluates apply skills regarding feelings and emotions at the CEFR A1 level.
@@ -98,10 +98,10 @@ This question evaluates apply skills regarding feelings and emotions at the CEFR
 I want to eat a hamburger. I am ________.
 
 ### Opciones
-- [ ] A) thirsty <!-- feedback: No. -->
-- [ ] B) scared <!-- feedback: No. -->
-- [ ] C) sick <!-- feedback: No. -->
-- [x] D) hungry <!-- feedback: Correct! -->
+- [ ] A) thirsty <!-- feedback: 'Thirsty' is the need for a drink, but the speaker wants food. -->
+- [ ] B) scared <!-- feedback: 'Scared' is a feeling of fear, not of wanting to eat. -->
+- [ ] C) sick <!-- feedback: 'Sick' means ill, and the speaker is well and hungry. -->
+- [x] D) hungry <!-- feedback: Correct. Wanting to eat a hamburger is a feeling of hunger, so the word is hungry. -->
 
 ### Explicación Pedagógica
 This question evaluates analyze skills regarding feelings and emotions at the CEFR A1 level.
@@ -119,10 +119,10 @@ This question evaluates analyze skills regarding feelings and emotions at the CE
 I want to drink some water. I am ________.
 
 ### Opciones
-- [x] A) thirsty <!-- feedback: Correct! -->
-- [ ] B) hungry <!-- feedback: No. -->
-- [ ] C) hot <!-- feedback: No. -->
-- [ ] D) cold <!-- feedback: No. -->
+- [x] A) thirsty <!-- feedback: Correct. Thirst is the need for a drink, and water is what the speaker wants. -->
+- [ ] B) hungry <!-- feedback: 'Hungry' is the need for food, not for a liquid. -->
+- [ ] C) hot <!-- feedback: 'Hot' describes the weather or the body temperature, not a feeling that makes you reach for water. -->
+- [ ] D) cold <!-- feedback: 'Cold' is the opposite state, and it does not create a wish for a drink. -->
 
 ### Explicación Pedagógica
 This question evaluates evaluate skills regarding feelings and emotions at the CEFR A1 level.
@@ -140,10 +140,10 @@ This question evaluates evaluate skills regarding feelings and emotions at the C
 There is a big spider! I am ________.
 
 ### Opciones
-- [ ] A) funny <!-- feedback: No. -->
-- [x] B) scared <!-- feedback: Correct! -->
-- [ ] C) happy <!-- feedback: No. -->
-- [ ] D) brave <!-- feedback: No. -->
+- [ ] A) funny <!-- feedback: 'Funny' means amusing, which does not describe the reaction to a big spider. -->
+- [x] B) scared <!-- feedback: Correct. A large spider that appears suddenly causes fear, so the feeling is scared. -->
+- [ ] C) happy <!-- feedback: 'Happy' is the opposite of the mood the sentence describes. -->
+- [ ] D) brave <!-- feedback: 'Brave' describes someone who is not afraid, and that is not what the sentence says. -->
 
 ### Explicación Pedagógica
 This question evaluates apply skills regarding feelings and emotions at the CEFR A1 level.
@@ -161,10 +161,10 @@ This question evaluates apply skills regarding feelings and emotions at the CEFR
 My brother broke my favorite pencil. I am ________.
 
 ### Opciones
-- [ ] A) excited <!-- feedback: No. -->
-- [ ] B) calm <!-- feedback: No. -->
-- [x] C) angry <!-- feedback: Correct! -->
-- [ ] D) happy <!-- feedback: No. -->
+- [ ] A) excited <!-- feedback: 'Excited' means very keen about something, which is not a reaction to damage. -->
+- [ ] B) calm <!-- feedback: 'Calm' means peaceful and relaxed, which is not a reaction to being wronged. -->
+- [x] C) angry <!-- feedback: Correct. Someone whose favourite possession has been broken becomes angry. -->
+- [ ] D) happy <!-- feedback: 'Happy' is the opposite of the mood the sentence describes. -->
 
 ### Explicación Pedagógica
 This question evaluates understand skills regarding feelings and emotions at the CEFR A1 level.
@@ -182,10 +182,10 @@ This question evaluates understand skills regarding feelings and emotions at the
 I have nothing to do. I am ________.
 
 ### Opciones
-- [ ] A) busy <!-- feedback: No. -->
-- [ ] B) interested <!-- feedback: No. -->
-- [ ] C) active <!-- feedback: No. -->
-- [x] D) bored <!-- feedback: Correct! -->
+- [ ] A) busy <!-- feedback: 'Busy' means there is a lot to do, but the sentence says the opposite. -->
+- [ ] B) interested <!-- feedback: 'Interested' means keen about something, but there is nothing to be keen about. -->
+- [ ] C) active <!-- feedback: 'Active' means physically busy, which is not what having nothing to do means. -->
+- [x] D) bored <!-- feedback: Correct. Having nothing to do leaves a person with nothing to occupy them, which is boredom. -->
 
 ### Explicación Pedagógica
 This question evaluates remember skills regarding feelings and emotions at the CEFR A1 level.

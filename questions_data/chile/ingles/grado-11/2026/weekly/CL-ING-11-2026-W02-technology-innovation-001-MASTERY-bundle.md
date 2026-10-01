@@ -295,10 +295,10 @@ Virtual Reality provides an immersive experience that allows users to feel as if
 If I had studied computer science in college, I would be working for a tech company now.
 
 ### Opciones
-- [ ] A) studied / will be <!-- feedback: Incorrect. Inconsistent tenses. -->
-- [x] B) had studied / would be <!-- feedback: Correct. Mixed conditional (past condition, present result). -->
-- [ ] C) study / would be <!-- feedback: Incorrect. Inconsistent tenses. -->
-- [ ] D) have studied / am <!-- feedback: Incorrect. Present perfect / present. -->
+- [ ] A) studied / will be <!-- feedback: 'Studied' is the past simple and 'will be' is future, so the two tenses do not match each other. -->
+- [x] B) had studied / would be <!-- feedback: Correct. 'If' plus the past perfect 'had studied' sets a past condition, and 'would be' gives its present consequence, which is the mixed conditional. -->
+- [ ] C) study / would be <!-- feedback: 'Study' is the base form and does not form the past perfect that the mixed conditional needs. -->
+- [ ] D) have studied / am <!-- feedback: 'Have studied' plus 'am' mixes the Present Perfect with the Present Simple; the sentence describes a hypothetical past condition with a present result. -->
 
 ### Explicacion Pedagogica
 The mixed conditional (if + past perfect, would + verb) connects a past hypothetical action with a present result.
@@ -355,10 +355,10 @@ Beware of phishing emails that try to trick you into revealing your personal inf
 Electric vehicles are significantly more efficient than internal combustion engines.
 
 ### Opciones
-- [ ] A) much <!-- feedback: Incorrect. While common, 'significantly' is better here. -->
-- [x] B) significantly <!-- feedback: Correct. An adverb used to indicate a large or important amount. -->
-- [ ] C) significant <!-- feedback: Incorrect. Adjective where an adverb is needed. -->
-- [ ] D) significance <!-- feedback: Incorrect. Noun. -->
+- [ ] A) much <!-- feedback: 'Much' is common in this position but it is too weak to express the large difference the sentence claims. -->
+- [x] B) significantly <!-- feedback: Correct. 'Significantly' is the adverb form and it modifies the adjective 'efficient', showing a large and important difference. -->
+- [ ] C) significant <!-- feedback: 'Significant' is the adjective form, but the position before the adjective needs an adverb. -->
+- [ ] D) significance <!-- feedback: 'Significance' is the noun, so it cannot modify 'efficient' in that position. -->
 
 ### Explicacion Pedagogica
 The adverb 'significantly' modifies the adjective 'efficient'.
@@ -395,10 +395,10 @@ Smartwatches can monitor your heart rate and sleep patterns to provide health in
 The project would have been successful if the team had better communication from the start.
 
 ### Opciones
-- [ ] A) will be <!-- feedback: Incorrect. Present/future. -->
-- [ ] B) would be <!-- feedback: Incorrect. Second conditional. -->
-- [x] C) would have been <!-- feedback: Correct. Third conditional for a hypothetical past result. -->
-- [ ] D) is <!-- feedback: Incorrect. Present tense. -->
+- [ ] A) will be <!-- feedback: 'Will be' is future, but the sentence describes an unreal situation in the past. -->
+- [ ] B) would be <!-- feedback: 'Would be' is the second conditional, used for present or general unreal situations, not for an unreal past outcome. -->
+- [x] C) would have been <!-- feedback: Correct. 'Would have been' with 'if the team had' is the third conditional, which describes a past result that did not happen because the condition was not met. -->
+- [ ] D) is <!-- feedback: 'Is' is present simple and cannot express the hypothetical past outcome the sentence describes. -->
 
 ### Explicacion Pedagogica
 The third conditional 'would have been' describes a past outcome that didn't happen because a condition wasn't met.
