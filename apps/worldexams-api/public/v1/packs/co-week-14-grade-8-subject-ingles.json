@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-14-grade-8-subject-ingles",
+    "generated_at": "2026-10-02T20:36:31.170Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-8-2026-W14-sports-and-leisure-001-MASTERY-bundle-v1",
+      "statement": "Before the match, the players ________ for ten minutes so that their muscles do not get cold.",
+      "context": "A coach in Cali explains to young players what they must do before the match starts.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "warm down",
+          "is_correct": false,
+          "feedback": "Incorrect. Warming down is the opposite action: it is done after training to cool the body down gradually."
+        },
+        {
+          "letter": "B",
+          "text": "warm up",
+          "is_correct": true,
+          "feedback": "Correct. \"To warm up\" is the standard expression for preparing the body before exercising so the muscles do not get cold."
+        },
+        {
+          "letter": "C",
+          "text": "warm off",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Warm off\" is not an expression that exists in English, so no meaning can be attached to it here."
+        },
+        {
+          "letter": "D",
+          "text": "warm round",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Warm round\" does not exist either; the correct phrasal verb in this context is \"warm up\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sports English depends on fixed phrases: \"warm up\" before the activity and \"cool down\" after it. Phrasal verbs cannot be improvised, because changing the particle changes the meaning or makes the phrase non-existent, as with \"warm off\" and \"warm round\".\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-8-2026-W14-sports-and-leisure-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W14-sports-and-leisure-001-MASTERY-bundle-v2",
+      "statement": "It's raining heavily. We ________ cancel the football match and play indoors instead. Use \"would like to\".",
+      "context": "Two classmates are talking in the school yard while rain starts to fall in Pasto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "would liking to",
+          "is_correct": false,
+          "feedback": "Incorrect. After a modal we never use the \"-ing\" form, and \"would like\" is already a complete structure."
+        },
+        {
+          "letter": "B",
+          "text": "would like",
+          "is_correct": false,
+          "feedback": "Incorrect. The infinitive needs its \"to\": \"would like to cancel\" is the correct form, not \"would like cancel\"."
+        },
+        {
+          "letter": "C",
+          "text": "would like to",
+          "is_correct": true,
+          "feedback": "Correct. \"Would like to\" expresses a polite preference, and the infinitive \"cancel\" completes the structure correctly."
+        },
+        {
+          "letter": "D",
+          "text": "would likes to",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Would\" is a modal, so the following verb never takes the third person ending \"-s\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Would like to\" is a polite way to say what a person wants to do, and it follows the same rule as every modal: modal + to + base form of the verb. It is never used with \"-ing\" and never with a verb in the \"-s\" form.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Structural Cloze",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W14-sports-and-leisure-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W14-sports-and-leisure-001-MASTERY-bundle-v3",
+      "statement": "Which question is the most natural way to ask about someone's hobbies?",
+      "context": "A new student has just joined a class in Bucaramanga and the others want to get to know her.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"What do you like doing in your free time?\"",
+          "is_correct": true,
+          "feedback": "Correct. It is polite and complete, and it uses the structure \"what ... doing\" for activities that are repeated."
+        },
+        {
+          "letter": "B",
+          "text": "\"What are your hobbies and why are they stupid?\"",
+          "is_correct": false,
+          "feedback": "Incorrect. Calling someone's hobbies stupid is an insult and damages the conversation immediately."
+        },
+        {
+          "letter": "C",
+          "text": "\"Do you do nothing all the weekend?\"",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Do you do nothing\" is an accusation about someone's free time, not a genuine question about hobbies."
+        },
+        {
+          "letter": "D",
+          "text": "\"Which sport you play every Sunday?\"",
+          "is_correct": false,
+          "feedback": "Incorrect. A question word cannot be followed directly by a subject and a bare verb; the auxiliary \"do\" is missing."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Asking a friendly question about free time requires a polite structure and correct word order. Options B and C are aggressive or accusatory, and option D mixes question words with a statement word order. The natural question uses \"do you\" plus the \"-ing\" form to ask about repeated activities.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W14-sports-and-leisure-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W14-sports-and-leisure-001-MASTERY-bundle-v4",
+      "statement": "Every Thursday the students of grade 8 walk to the neighbourhood park instead of taking the bus. They play football for an hour and then help in the community garden. Their teacher says the activity has changed the way they spend their Saturday mornings. According to the text, what has changed?",
+      "context": "A short text about a school activity in a town near the Caribbean coast is used in a reading lesson.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The school bus now goes to the park on Saturdays.",
+          "is_correct": false,
+          "feedback": "Incorrect. The walk happens on Thursdays, and the text says nothing about a bus going to the park on Saturdays."
+        },
+        {
+          "letter": "B",
+          "text": "Students now spend Saturday mornings in a different way.",
+          "is_correct": true,
+          "feedback": "Correct. The text says the activity \"has changed the way they spend their Saturday mornings\", which is exactly this change."
+        },
+        {
+          "letter": "C",
+          "text": "The teacher now organises the football matches.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text does not say the teacher began organising matches; the students themselves choose the football."
+        },
+        {
+          "letter": "D",
+          "text": "The park has added a new community garden.",
+          "is_correct": false,
+          "feedback": "Incorrect. The garden is not described as new; it is mentioned as something the students already help in."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The answer to a \"what has changed\" question is normally stated explicitly in the last line of the text. Here \"has changed the way they spend their Saturday mornings\" gives the change directly. The other options either change the day mentioned or invent a detail that the passage never provides.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W14-sports-and-leisure-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W14-sports-and-leisure-001-MASTERY-bundle-v5",
+      "statement": "Laura is learning to swim, but she would ________ go to the local club on Saturdays. Use \"prefer\".",
+      "context": "Laura is taking a swimming course at the municipal pool in Manizales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "preferring",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Would preferring\" is wrong because modals are always followed by the bare infinitive of the verb."
+        },
+        {
+          "letter": "B",
+          "text": "prefer",
+          "is_correct": true,
+          "feedback": "Correct. After the modal \"would\" we use the base form \"prefer\", with no \"-s\" and no \"-ing\"."
+        },
+        {
+          "letter": "C",
+          "text": "prefers",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Prefers\" is the third person form and would be needed without \"would\", as in \"she prefers the club\"."
+        },
+        {
+          "letter": "D",
+          "text": "preferred",
+          "is_correct": false,
+          "feedback": "Incorrect. The past form \"preferred\" describes a habit in the past, but here the intention is for the future."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A modal such as \"would\" is always followed by the base form of the verb, so the third person \"-s\" and the \"-ing\" form are impossible. The past form would also change the meaning, because the sentence describes a preference for Saturdays that has not happened yet.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W14-sports-and-leisure-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W14-sports-and-leisure-001-MASTERY-bundle-v6",
+      "statement": "On Sundays my father and I ________ our bikes along the river and then have lunch in the town. Use the correct verb form.",
+      "context": "A father and his son describe a regular Sunday activity in Montería.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ride",
+          "is_correct": true,
+          "feedback": "Correct. The subject \"my father and I\" is plural, so the simple present takes the base form \"ride\" with two subjects."
+        },
+        {
+          "letter": "B",
+          "text": "rides",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Rides\" is the third person singular form, which does not apply when the subject is \"my father and I\"."
+        },
+        {
+          "letter": "C",
+          "text": "riding",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Riding\" is not a complete verb in this clause, because there is no auxiliary before it."
+        },
+        {
+          "letter": "D",
+          "text": "to ride",
+          "is_correct": false,
+          "feedback": "Incorrect. The infinitive cannot follow a subject directly; it needs a modal such as \"we would like to ride\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "When the subject is two people joined by \"and\", the verb is plural and takes the base form in the present simple. Students who apply the \"-s\" rule to a double subject make a typical error; the plural form has priority over the third person rule.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Structural Cloze",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W14-sports-and-leisure-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W14-sports-and-leisure-001-MASTERY-bundle-v7",
+      "statement": "You want to invite a friend to play basketball on Sunday. Which invitation is the most appropriate?",
+      "context": "A classmate has a free Sunday afternoon and a group is playing basketball at the court in the neighbourhood.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"You must come to the court at ten, no excuses.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. \"No excuses\" turns a friendly invitation into a command and sounds aggressive between friends."
+        },
+        {
+          "letter": "B",
+          "text": "\"If you don't come to the court, I will tell everyone.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. It applies emotional pressure by threatening to inform other people instead of inviting sincerely."
+        },
+        {
+          "letter": "C",
+          "text": "\"Would you like to play basketball on Sunday? We usually play at ten.\"",
+          "is_correct": true,
+          "feedback": "Correct. It uses a polite question, adds useful information about the time and leaves the decision to the listener."
+        },
+        {
+          "letter": "D",
+          "text": "\"You always say you will play and then you do not come.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. It is a complaint about past behaviour and does not actually invite the person to anything."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A good invitation has three elements: a polite question, some useful information, and space for the other person to refuse. Option C meets all three. Commands, threats and complaints may get a result, but they damage the relationship that a friendship depends on.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatic Competence",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W14-sports-and-leisure-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W14-sports-and-leisure-001-MASTERY-bundle-v8",
+      "statement": "Choose the correct sentence for a sports report.",
+      "context": "A sports newspaper reports the result of the match between two national teams.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Colombia beat Brazil two goals to one in the last match.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Beat\" does not take a score after the opponent, because the score belongs to the verb \"won\"."
+        },
+        {
+          "letter": "B",
+          "text": "\"Colombia won Brazil two goals to one in the last match.\"",
+          "is_correct": true,
+          "feedback": "Correct. \"To win a match\" takes the opponent as the object and can be followed by the score, in the order verb + opponent + score."
+        },
+        {
+          "letter": "C",
+          "text": "\"Colombia won two goals to one against Brazil's team, which was the Brazil of the match.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. The relative clause repeats \"Brazil\" and loses the verb that shows the result, so the sentence does not report the outcome clearly."
+        },
+        {
+          "letter": "D",
+          "text": "\"Colombia beat two goals to one Brazil in the last match.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. The score cannot be placed between the verb and its object; the correct order is verb + opponent + score."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Two verbs describe the result of a match: \"to win\" and \"to beat\", and they do not behave in the same way. \"Win\" takes the opponent and allows a score after it, while \"beat\" only takes the opponent and never a score. This difference in structure is what makes one sentence correct and the others wrong.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W14-sports-and-leisure-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W14-sports-and-leisure-001-MASTERY-bundle-v9",
+      "statement": "Ms. Ramírez keeps a notebook in her bag. On every trip she writes the names of the birds she sees and marks the day and the weather. She says she started the notebook three years ago and has added an entry almost every week. What can be inferred about Ms. Ramírez?",
+      "context": "A reading about a hobby is used to practise inference skills in a school in Tunja.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She works in a bank and records business trips.",
+          "is_correct": false,
+          "feedback": "Incorrect. Nothing in the text mentions a bank, business trips or any kind of work."
+        },
+        {
+          "letter": "B",
+          "text": "She takes her hobby seriously and has a long-term interest in birds.",
+          "is_correct": true,
+          "feedback": "Correct. Three years of nearly weekly entries and the detailed notes on birds and weather show a consistent and serious practice."
+        },
+        {
+          "letter": "C",
+          "text": "She wants to sell the notebook to a publishing house.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text never mentions publishing, selling or any plan for the notebook."
+        },
+        {
+          "letter": "D",
+          "text": "She copies the notebook of another birdwatcher.",
+          "is_correct": false,
+          "feedback": "Incorrect. There is no reference to another person's notebook; the entries are presented as her own observations."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "An inference is a conclusion drawn from several details together, not from one isolated word. The length of the practice, its regularity and the kind of information recorded all point to the same conclusion about a serious hobby. Options that add a motive or a job appear nowhere in the text.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W14-sports-and-leisure-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W14-sports-and-leisure-001-MASTERY-bundle-v10",
+      "statement": "The gym is closed for renovation, so I ________ play football in the park instead.",
+      "context": "The gym in the neighbourhood has closed for two weeks while the floor is repaired.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will rather",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Will rather\" is not a construction in English; the fixed expression is \"would rather\"."
+        },
+        {
+          "letter": "B",
+          "text": "would rather to",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Would rather\" takes the base form of the verb with no \"to\", unlike \"would prefer to\"."
+        },
+        {
+          "letter": "C",
+          "text": "would rather",
+          "is_correct": true,
+          "feedback": "Correct. \"Would rather\" expresses a preference and is followed by the base form of the verb: would rather + play."
+        },
+        {
+          "letter": "D",
+          "text": "rather would",
+          "is_correct": false,
+          "feedback": "Incorrect. The order must be \"would\" + \"rather\"; \"rather would\" is inverted and ungrammatical."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Would rather\" is a fixed expression with three rules: \"would\" comes first, \"rather\" comes second, and the base form of the verb follows with no \"to\" and no \"-ing\". Comparing \"would rather\" with \"would prefer to\" is a quick way to avoid the most common error.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Structural Cloze",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W14-sports-and-leisure-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W14-sports-and-leisure-001-MASTERY-bundle-v11",
+      "statement": "\"At forty, Carlos decided to ________ playing table tennis, and now he plays every weekend.\"",
+      "context": "An adult beginner's course describes how a hobby can start late in life.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "get up",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Get up\" means to leave the bed, so it has nothing to do with starting a regular activity."
+        },
+        {
+          "letter": "B",
+          "text": "give up",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Give up\" means to stop doing something, which is the opposite of the decision described."
+        },
+        {
+          "letter": "C",
+          "text": "set off",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Set off\" means to begin a journey, so it describes travel rather than taking up a hobby."
+        },
+        {
+          "letter": "D",
+          "text": "take up",
+          "is_correct": true,
+          "feedback": "Correct. \"Take up\" means to start doing an activity as a hobby, which matches the new weekend routine described."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "English has fixed phrasal verbs for the beginning and the end of a hobby: \"take up\" means to start doing something regularly, and \"give up\" means to stop. Knowing this pair prevents the two opposite meanings from being confused in both speech and writing.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lexico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W14-sports-and-leisure-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W14-sports-and-leisure-001-MASTERY-bundle-v12",
+      "statement": "The sports school of the neighbourhood announces new swimming courses for teenagers. The first session is on Tuesday at four in the afternoon and there are twelve places. Students who want a place must sign up before Friday. Diego wants to join but he is not free on Tuesday. What should he do?",
+      "context": "A neighbourhood sports school in Pereira announces new swimming courses for teenagers.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arrive at ten on Tuesday and join late.",
+          "is_correct": false,
+          "feedback": "Incorrect. The first session starts on Tuesday and there is no mention of accepting late arrivals, so he would miss the beginning of the course."
+        },
+        {
+          "letter": "B",
+          "text": "Come on Monday and explain that the school should start on Monday.",
+          "is_correct": false,
+          "feedback": "Incorrect. Asking for a change of rules cannot solve the conflict of dates; the school did not choose Monday for the first session."
+        },
+        {
+          "letter": "C",
+          "text": "Arrive on Tuesday morning to ask whether there is another group or another session.",
+          "is_correct": true,
+          "feedback": "Correct. Asking about an alternative group is the sensible step, since his aim is to take one of the twelve available places."
+        },
+        {
+          "letter": "D",
+          "text": "Sign up before Friday and then not attend any session.",
+          "is_correct": false,
+          "feedback": "Incorrect. Signing up and never attending wastes one of the twelve places that other teenagers could use."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Solving a practical problem means matching the information given with a real action. The text fixes the first session on Tuesday, so the only useful question is whether another group or another session exists. The other options either ignore the information or act against the purpose of the course.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmatic Competence",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W14-sports-and-leisure-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

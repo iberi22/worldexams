@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-18-grade-8-subject-ingles",
+    "generated_at": "2026-10-02T20:36:31.171Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-8-2026-W18-science-and-technology-001-MASTERY-bundle-v1",
+      "statement": "The film was very ________; I nearly fell asleep.",
+      "context": "A group of students at home in Bogotá is discussing a film they watched together.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "bored",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Bored\" describes how a person feels, but the sentence describes the kind of film, not the viewer's state."
+        },
+        {
+          "letter": "B",
+          "text": "boring",
+          "is_correct": true,
+          "feedback": "Correct. An \"-ing\" adjective describes the quality of the thing itself, and this film made the viewer want to sleep."
+        },
+        {
+          "letter": "C",
+          "text": "interest",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Interest\" is a noun here, so it cannot modify the noun \"film\" before it."
+        },
+        {
+          "letter": "D",
+          "text": "interesting",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Interesting\" has the opposite meaning, and the speaker clearly did not enjoy the film."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "An \"-ing\" adjective describes what a thing or a situation is like, while an \"-ed\" adjective describes how a person feels because of it. A film that makes you sleep is \"boring\", and the person who feels bored is \"bored\". Applying this rule prevents the two forms from being confused.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-8-2026-W18-science-and-technology-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W18-science-and-technology-001-MASTERY-bundle-v2",
+      "statement": "The students were ________ when they saw the experiment with the coloured liquid change from blue to red.",
+      "context": "A school science fair describes what the students felt when they saw a reaction in a beaker.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "excited",
+          "is_correct": true,
+          "feedback": "Correct. An \"-ed\" adjective describes the feeling of the people, so the students themselves were excited."
+        },
+        {
+          "letter": "B",
+          "text": "exciting",
+          "is_correct": false,
+          "feedback": "Incorrect. An \"-ing\" adjective describes the cause of the feeling, which would be the experiment and not the students."
+        },
+        {
+          "letter": "C",
+          "text": "excite",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Excite\" is the verb, and a verb cannot follow \"were\" in the adjective position of this sentence."
+        },
+        {
+          "letter": "D",
+          "text": "excitement",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Excitement\" is a noun, and nouns cannot complete the structure \"were\" + adjective."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The subject of the sentence decides the form: people take \"-ed\" adjectives for their feelings, and things take \"-ing\" adjectives for their qualities. In this sentence the subject is \"the students\", so the correct form is \"were excited\".\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Structural Cloze",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W18-science-and-technology-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W18-science-and-technology-001-MASTERY-bundle-v3",
+      "statement": "The scientist put the sample under a ________ so that he could see it much bigger.",
+      "context": "A laboratory tour for students describes the instruments used in a research centre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "telescope",
+          "is_correct": false,
+          "feedback": "Incorrect. A telescope makes distant objects look closer, and it is used for astronomy, not for small samples."
+        },
+        {
+          "letter": "B",
+          "text": "microscope",
+          "is_correct": true,
+          "feedback": "Correct. A microscope makes very small objects look bigger, which is exactly what the scientist needs."
+        },
+        {
+          "letter": "C",
+          "text": "thermometer",
+          "is_correct": false,
+          "feedback": "Incorrect. A thermometer measures temperature, so it cannot magnify a sample."
+        },
+        {
+          "letter": "D",
+          "text": "microphone",
+          "is_correct": false,
+          "feedback": "Incorrect. A microphone collects and amplifies sound, which has nothing to do with seeing a sample."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Laboratory vocabulary names instruments by their function: \"microscope\" magnifies small objects, \"telescope\" magnifies distant ones, \"thermometer\" measures temperature and \"microphone\" amplifies sound. Reading the purpose in the sentence makes the correct instrument obvious.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W18-science-and-technology-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W18-science-and-technology-001-MASTERY-bundle-v4",
+      "statement": "Before the internet, a researcher who wanted to read a paper published in another country had to order a copy and wait weeks. Today the same paper can be downloaded in seconds. The technology did not replace reading; it changed how quickly it can start. What changed according to the text?",
+      "context": "A short text about scientific publishing is used in a reading lesson on how technology changes research.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Researchers stopped reading scientific papers.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says the technology did not replace reading, so this conclusion is the opposite of what is written."
+        },
+        {
+          "letter": "B",
+          "text": "Only local universities can publish now.",
+          "is_correct": false,
+          "feedback": "Incorrect. Nothing about universities or their rights to publish appears in the text."
+        },
+        {
+          "letter": "C",
+          "text": "Scientific papers became less accurate.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says nothing about the accuracy of the papers."
+        },
+        {
+          "letter": "D",
+          "text": "The time needed to access a paper is much shorter.",
+          "is_correct": true,
+          "feedback": "Correct. The contrast between waiting weeks and downloading in seconds shows a much shorter access time."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The change in the text is measured in time: weeks before and seconds now. Anything about reading habits, publishing rights or accuracy is a topic the passage never opens, so those options cannot be supported.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W18-science-and-technology-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W18-science-and-technology-001-MASTERY-bundle-v5",
+      "statement": "The experiment was so ________ that we could not hear the music in the next room.",
+      "context": "A student complains about the noise produced during an experiment in the school laboratory.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "noised",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Noised\" is not an English adjective; the correct word is built from the noun \"noise\"."
+        },
+        {
+          "letter": "B",
+          "text": "noisily",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Noisily\" is an adverb and would have to modify a verb of action, not follow \"was so\"."
+        },
+        {
+          "letter": "C",
+          "text": "noisy",
+          "is_correct": true,
+          "feedback": "Correct. \"Noisy\" is the adjective that describes the experiment, and it follows \"was so\" correctly."
+        },
+        {
+          "letter": "D",
+          "text": "noisiness",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Noisiness\" is a noun and cannot be used after \"was so\" in this structure."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The word after \"was so\" must be an adjective of degree. \"Noisy\" is the adjective, \"noisily\" is the adverb and \"noisiness\" is the noun, so only one of them can complete the sentence.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W18-science-and-technology-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W18-science-and-technology-001-MASTERY-bundle-v6",
+      "statement": "The first vaccine against this disease was ________ in a laboratory in the capital in 1985. Use \"developed\".",
+      "context": "A newspaper reports on a medical discovery made in a research institute.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "develop",
+          "is_correct": false,
+          "feedback": "Incorrect. The base form \"develop\" cannot follow \"was\" in a passive structure; the past participle is required."
+        },
+        {
+          "letter": "B",
+          "text": "developed",
+          "is_correct": true,
+          "feedback": "Correct. The passive is formed with \"was\" plus the past participle, so the sentence needs \"was developed\"."
+        },
+        {
+          "letter": "C",
+          "text": "developing",
+          "is_correct": false,
+          "feedback": "Incorrect. A continuous passive would need \"was being developed\", which describes an action in progress, not a completed one."
+        },
+        {
+          "letter": "D",
+          "text": "developer",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Developer\" is a person or a computer program, and it is not a past participle."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The passive voice has a fixed shape in the past: \"was\" or \"were\" plus the past participle. Knowing the three forms of the verb (develop, was developing, developed) makes it easy to build each structure correctly.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Structural Cloze",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W18-science-and-technology-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W18-science-and-technology-001-MASTERY-bundle-v7",
+      "statement": "Solar panels convert sunlight directly into electricity, so they produce power without burning fuel and without releasing smoke. However, they do not work at night, and their production depends on the weather. What limitation of solar panels is mentioned?",
+      "context": "An article about renewable energy is used in a unit on the advantages and limitations of technology.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They do not produce electricity at night.",
+          "is_correct": true,
+          "feedback": "Correct. The text states explicitly that they do not work at night, which is the limitation described."
+        },
+        {
+          "letter": "B",
+          "text": "They release smoke when they work.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says the opposite, that they produce power without releasing smoke."
+        },
+        {
+          "letter": "C",
+          "text": "They stop working when it rains.",
+          "is_correct": false,
+          "feedback": "Incorrect. Rain is not the limitation named; the text identifies the night and the weather in general."
+        },
+        {
+          "letter": "D",
+          "text": "They are more expensive than coal plants.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text makes no comparison of cost between solar panels and coal plants."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A limitation is the negative detail given in the passage, and here it is stated directly with \"do not work at night\". Options that contradict the text, such as releasing smoke, or that introduce a comparison never made, such as price, cannot be the answer.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W18-science-and-technology-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W18-science-and-technology-001-MASTERY-bundle-v8",
+      "statement": "Which word best completes the sentence: \"A ________ is a person who invents or improves machines and processes\"?",
+      "context": "A school career poster explains what different professionals do in science and technology.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "engineer",
+          "is_correct": false,
+          "feedback": "Incorrect. An engineer designs and builds solutions inside an existing system, while the definition given describes someone who creates the invention."
+        },
+        {
+          "letter": "B",
+          "text": "scientist",
+          "is_correct": false,
+          "feedback": "Incorrect. A scientist studies nature and produces knowledge, which is not the same activity as inventing a machine."
+        },
+        {
+          "letter": "C",
+          "text": "researcher",
+          "is_correct": false,
+          "feedback": "Incorrect. A researcher investigates a question and publishes findings; the definition is about creating something new."
+        },
+        {
+          "letter": "D",
+          "text": "inventor",
+          "is_correct": true,
+          "feedback": "Correct. An inventor is the person who creates or improves a new device, process or machine, which matches the definition."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Science and technology jobs have clear limits: the \"scientist\" produces knowledge, the \"engineer\" applies it, the \"researcher\" investigates a question and the \"inventor\" creates something new. Matching the verb in the definition, \"invents\", with the right noun is the decisive clue.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W18-science-and-technology-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W18-science-and-technology-001-MASTERY-bundle-v9",
+      "statement": "By the time the results arrived, everyone was ________ because the first trial had worked perfectly.",
+      "context": "A team of researchers describes the moment when an experiment worked for the first time.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "satisfy",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Satisfy\" is the verb, and it cannot follow \"was\" in the adjective position of this sentence."
+        },
+        {
+          "letter": "B",
+          "text": "satisfying",
+          "is_correct": false,
+          "feedback": "Incorrect. An \"-ing\" adjective describes the cause, so it would modify the trial and not the researchers."
+        },
+        {
+          "letter": "C",
+          "text": "satisfied",
+          "is_correct": true,
+          "feedback": "Correct. An \"-ed\" adjective describes how the people felt at that moment, and \"was\" requires an adjective."
+        },
+        {
+          "letter": "D",
+          "text": "satisfyed",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Satisfyed\" is not a word; the correct past participle of \"satisfy\" is \"satisfied\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The same distinction between cause and reaction governs this sentence: the trial is \"satisfying\", and the researchers are \"satisfied\". The subject of the sentence decides which of the two adjectives is correct.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W18-science-and-technology-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W18-science-and-technology-001-MASTERY-bundle-v10",
+      "statement": "If enough funds are raised, the prototype can be built and ________ in less than a year.",
+      "context": "A university project explains the steps that remain after the funding is confirmed.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "tested",
+          "is_correct": true,
+          "feedback": "Correct. After the modal \"can be\" the second passive requires the past participle, so the sentence needs \"can be tested\"."
+        },
+        {
+          "letter": "B",
+          "text": "testing",
+          "is_correct": false,
+          "feedback": "Incorrect. A modal passive always takes the participle; \"can be testing\" is not a possible form."
+        },
+        {
+          "letter": "C",
+          "text": "test",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Can be test\" is wrong because the passive of \"test\" requires the participle \"tested\"."
+        },
+        {
+          "letter": "D",
+          "text": "tests",
+          "is_correct": false,
+          "feedback": "Incorrect. A modal never takes the third person \"-s\", and the passive would need \"be tested\" in any case."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Modal passive structures follow one rule: modal + \"be\" + past participle. Nothing changes when the passive has two verbs joined by \"and\"; each of them must be in the same form, so both halves need the participle.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Structural Cloze",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W18-science-and-technology-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W18-science-and-technology-001-MASTERY-bundle-v11",
+      "statement": "Ten years ago the students at a school in Bogotá had one computer room for the whole school. This year every classroom has a projector and students are expected to prepare short presentations in groups. Teachers have noticed that students ask more questions during the first ten minutes of the class. What can be inferred about the change?",
+      "context": "A school in Bogotá describes how its technology changed the way classes begin.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The number of students in the school has doubled.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text never mentions the number of students, so that change cannot be inferred."
+        },
+        {
+          "letter": "B",
+          "text": "Students now spend the beginning of the class presenting and asking questions.",
+          "is_correct": true,
+          "feedback": "Correct. The presentations are prepared in advance and the first ten minutes are used for questions, which explains the change described."
+        },
+        {
+          "letter": "C",
+          "text": "Teachers now give longer explanations at the start of the lesson.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text reports that the beginning of the class is used for questions, not for longer explanations."
+        },
+        {
+          "letter": "D",
+          "text": "Students no longer need to ask questions.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says students ask more questions, which is the opposite of this option."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The inference links the equipment with the classroom practice: projectors and group presentations explain why the first minutes are now used for questions. Options that change the direction of what is reported, such as \"no longer need to ask\", contradict the text.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W18-science-and-technology-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W18-science-and-technology-001-MASTERY-bundle-v12",
+      "statement": "Which sentence is correct in a scientific report?",
+      "context": "A scientific writing workshop reviews how results are reported in journals.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"The results were surprising for the team of researchers.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. The preposition \"for\" is not used here; a structure like \"X surprised Y\" needs two different subjects or objects."
+        },
+        {
+          "letter": "B",
+          "text": "\"The results were surprising to the team of researchers.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. This structure describes a quality that surprises people, but \"the results\" are an action here, not a quality."
+        },
+        {
+          "letter": "C",
+          "text": "\"The results surprised for the team of researchers.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. The active verb \"surprised\" is followed directly by its object, so the preposition \"for\" cannot be placed there."
+        },
+        {
+          "letter": "D",
+          "text": "\"The results surprised the team of researchers.\"",
+          "is_correct": true,
+          "feedback": "Correct. An active verb can take the affected people as its object: \"The results surprised the team\"."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Deciding between the active and the passive voice depends on the focus: if the people are important we use \"The results surprised the team\", and if the focus is the quality we use \"were surprising to\". Mixing an active verb with a preposition produces the ungrammatical option C.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W18-science-and-technology-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

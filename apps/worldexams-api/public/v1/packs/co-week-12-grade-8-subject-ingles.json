@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-12-grade-8-subject-ingles",
+    "generated_at": "2026-10-02T20:36:31.169Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-8-2026-W12-health-and-wellbeing-001-MASTERY-bundle-v1",
+      "statement": "Which expression best describes Mateo's problem?",
+      "context": "After eating fried chicken from the street stall in Barranquilla, Mateo has a painful swelling in his throat and difficulty swallowing.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a runny nose",
+          "is_correct": false,
+          "feedback": "Incorrect. A runny nose means fluid coming out of the nose, which happens with a cold, not with pain in the throat."
+        },
+        {
+          "letter": "B",
+          "text": "a sore throat",
+          "is_correct": true,
+          "feedback": "Correct. A sore throat is the standard collocation for a painful swelling in the throat that makes swallowing difficult."
+        },
+        {
+          "letter": "C",
+          "text": "a backache",
+          "is_correct": false,
+          "feedback": "Incorrect. A backache is pain in the back, so it has nothing to do with the pain Mateo feels in his throat."
+        },
+        {
+          "letter": "D",
+          "text": "a cough",
+          "is_correct": false,
+          "feedback": "Incorrect. A cough is the sound produced when air is forced out of the throat; it does not describe the painful swelling he has."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Learning a symptom means learning the whole collocation, not just the word. \"Throat\" goes with \"sore\" when it hurts, while \"runny\" describes a nose with liquid and \"cough\" is the act of forcing air out of the throat. Recognising the body part named in the situation is the fastest way to choose the right phrase.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-8-2026-W12-health-and-wellbeing-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W12-health-and-wellbeing-001-MASTERY-bundle-v2",
+      "statement": "You ________ stay up so late; you need to rest.",
+      "context": "Camila looks pale and keeps rubbing her forehead during the morning break in her school in Medellín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "shouldn't to",
+          "is_correct": false,
+          "feedback": "Incorrect. The negative of \"should\" is made without \"do\", and the modal is followed by the bare infinitive, so \"shouldn't stay\" is the complete structure."
+        },
+        {
+          "letter": "B",
+          "text": "must not to",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Must not\" states a prohibition rather than advice, and it still requires the bare infinitive \"stay\" with no \"to\"."
+        },
+        {
+          "letter": "C",
+          "text": "shouldn't",
+          "is_correct": true,
+          "feedback": "Correct. After the modal \"should\" we use the bare infinitive, so the gap takes \"shouldn't\" and the sentence continues with \"stay up so late\"."
+        },
+        {
+          "letter": "D",
+          "text": "can't to",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Can't\" expresses inability, not advice, and like every modal it is never followed by \"to\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Should\" is a modal verb, and modals never take the preposition \"to\" before the main verb and never take the \"-ing\" form. The pattern is always: modal + base form of the verb. To give advice negatively, we put \"not\" inside the modal (\"shouldn't\") instead of using a separate auxiliary.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Structural Cloze",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W12-health-and-wellbeing-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W12-health-and-wellbeing-001-MASTERY-bundle-v3",
+      "statement": "Which reply shows the most sympathetic reaction to a friend's news?",
+      "context": "Camila has just been told by the school nurse that she has to rest for a week.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"I'm really sorry to hear that. Do you want to talk about it?\"",
+          "is_correct": true,
+          "feedback": "Correct. It shows empathy with \"I'm really sorry to hear that\" and then offers to listen, which is exactly what someone who is unwell needs."
+        },
+        {
+          "letter": "B",
+          "text": "\"That's fine. You shouldn't feel sad about it.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. \"That's fine\" minimises the problem, and telling someone \"you shouldn't feel sad\" judges their reaction as wrong."
+        },
+        {
+          "letter": "C",
+          "text": "\"Everybody feels that way sometimes, so don't worry.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Everybody feels that way\" generalises and dismisses the individual pain instead of acknowledging what the friend is going through."
+        },
+        {
+          "letter": "D",
+          "text": "\"Cheer up! It could be worse.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Cheer up\" gives an order to change feelings, and \"it could be worse\" shifts attention away from the friend's real problem."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A sympathetic reaction has two parts: naming the feeling (\"I'm sorry to hear that\") and offering support (\"do you want to talk about it?\"). Responses that judge, minimise or generalise the problem are not sympathetic, even when the words sound polite, because they tell the person how they should feel.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W12-health-and-wellbeing-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W12-health-and-wellbeing-001-MASTERY-bundle-v4",
+      "statement": "The pharmacy gave the patient a box of ________ that the nurse recommended for the infection.",
+      "context": "A pharmacy in Pereira gave a box of tablets with the doctor's prescription after a clinic check-up.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "advices",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Advice\" is uncountable in English, so \"advices\" does not exist; a box has to contain a countable noun."
+        },
+        {
+          "letter": "B",
+          "text": "pills",
+          "is_correct": true,
+          "feedback": "Correct. \"Pills\" is the countable noun that fits \"a box of pills\" and refers to the tablets prescribed for the infection."
+        },
+        {
+          "letter": "C",
+          "text": "informations",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Information\" is uncountable, so the plural \"informations\" is not used, and it does not describe tablets either."
+        },
+        {
+          "letter": "D",
+          "text": "furnitures",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Furniture\" is uncountable and \"furnitures\" is not a word; this noun also has nothing to do with medicine."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Some nouns are countable (a pill, two pills) and others are uncountable (advice, information, furniture). Countable nouns have a plural in \"-s\" and can follow expressions like \"a box of\"; uncountable nouns have no plural and need a unit word such as \"a piece of\". Choosing the right type of noun is what makes the phrase grammatically correct.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W12-health-and-wellbeing-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W12-health-and-wellbeing-001-MASTERY-bundle-v5",
+      "statement": "Her grandmother told her she ________ in bed and see a doctor instead of going to school.",
+      "context": "Valentina has been coughing for a week and her grandmother is worried about her.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ought to resting",
+          "is_correct": false,
+          "feedback": "Incorrect. After \"ought to\" we never add \"-ing\"; the modal structure requires the base form of the verb."
+        },
+        {
+          "letter": "B",
+          "text": "ought to rest",
+          "is_correct": true,
+          "feedback": "Correct. \"Ought to\" behaves exactly like \"should\" and takes the bare infinitive: ought to + rest."
+        },
+        {
+          "letter": "C",
+          "text": "ought to rested",
+          "is_correct": false,
+          "feedback": "Incorrect. The past participle \"rested\" is wrong here because the advice refers to future actions, which require the infinitive."
+        },
+        {
+          "letter": "D",
+          "text": "ought rest to",
+          "is_correct": false,
+          "feedback": "Incorrect. The order must be modal + to + verb, so \"ought rest to\" inverts the pattern and cannot be used."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Ought to\" and \"should\" share the same structure: modal + to + base form of the verb. They both give advice, and neither of them takes \"-ing\", the past participle or the third person \"-s\". Recognising that they behave like the other modals is what prevents the wrong forms.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W12-health-and-wellbeing-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W12-health-and-wellbeing-001-MASTERY-bundle-v6",
+      "statement": "I ________ a headache since I started working on the computer every evening.",
+      "context": "A nurse in Cali asked a patient about the duration of her symptoms during the consultation.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have had",
+          "is_correct": true,
+          "feedback": "Correct. \"Since\" plus a point in time requires the present perfect, and the third person singular of \"have\" is \"has\", so the sentence needs \"have had\"."
+        },
+        {
+          "letter": "B",
+          "text": "have",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Have\" on its own does not complete the structure; the present perfect needs both the auxiliary and the past participle."
+        },
+        {
+          "letter": "C",
+          "text": "had have",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Had have\" mixes the past perfect with the present perfect, and the two tenses cannot be combined in this way."
+        },
+        {
+          "letter": "D",
+          "text": "was having",
+          "is_correct": false,
+          "feedback": "Incorrect. The past continuous \"was having\" describes an action in progress in the past, but \"since\" links the past with the present."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"Since\" always points from a past moment to now, so it goes with the present perfect: have/has + past participle. Because the subject is \"I\", the auxiliary is \"have\", and the verb \"to have\" becomes \"had\" in the participle: \"have had\".\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Structural Cloze",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W12-health-and-wellbeing-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W12-health-and-wellbeing-001-MASTERY-bundle-v7",
+      "statement": "Which question is the most appropriate in this situation?",
+      "context": "A classmate has stayed away from two classes in a row and looks pale during the break.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Are you sick or are you just tired?\"",
+          "is_correct": false,
+          "feedback": "Incorrect. The phrase \"or are you just tired\" puts the person on the defensive by suggesting the symptom is not real."
+        },
+        {
+          "letter": "B",
+          "text": "\"Why have you got a stomach ache? You look terrible.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. \"You look terrible\" is an insult about someone's appearance, so the question is not appropriate."
+        },
+        {
+          "letter": "C",
+          "text": "\"How are you feeling today? Do you want to see the school nurse?\"",
+          "is_correct": true,
+          "feedback": "Correct. It opens with a neutral question about wellbeing and then offers a practical solution, which is polite and useful."
+        },
+        {
+          "letter": "D",
+          "text": "\"You must go home now, everyone is worried about you.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. \"You must\" gives an order and appeals to pressure from others, instead of asking what the person needs."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Choosing the right question in a wellbeing situation depends on register: begin with a neutral question about how the person feels, then offer a concrete option such as seeing the nurse. Option A questions the reality of the illness, option B is an insult, and option D gives an order.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatic Competence",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W12-health-and-wellbeing-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W12-health-and-wellbeing-001-MASTERY-bundle-v8",
+      "statement": "Isabel's father starts at five in the morning and finishes at noon, so when she leaves school she knows that he ________ at home for lunch.",
+      "context": "Isabel's father works at the bakery in the town square and finishes his shift at noon.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will wait",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Will wait\" describes a future event that has not been decided; the text says she already knows his routine, so a present tense is needed."
+        },
+        {
+          "letter": "B",
+          "text": "must wait",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Must\" expresses obligation, and waiting for his daughter is his choice, not an imposed duty."
+        },
+        {
+          "letter": "C",
+          "text": "is waiting",
+          "is_correct": true,
+          "feedback": "Correct. The present continuous is used here because the waiting is an arrangement that is already happening and still true at lunchtime."
+        },
+        {
+          "letter": "D",
+          "text": "has waited",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Has waited\" would mean he already finished waiting in the past, which contradicts the routine described."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "When a future event is arranged and already certain, English often uses a present tense instead of a future form. \"Is waiting\" presents the lunchtime routine as an arrangement that is definitely happening, while \"will wait\" suggests the arrangement has not been decided yet.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W12-health-and-wellbeing-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W12-health-and-wellbeing-001-MASTERY-bundle-v9",
+      "statement": "Santiago has a mild fever. Which sentence matches the doctor's recommendation exactly?",
+      "context": "Santiago woke up with a mild fever and the school doctor gave him a recommendation about what to drink.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"You shouldn't drink coffee, but you could drink water.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. The sentence contradicts itself, because the first half forbids coffee while the second recommends water, and the doctor advised neither of those extremes."
+        },
+        {
+          "letter": "B",
+          "text": "\"You shouldn't drink coffee, and you shouldn't drink water.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. Forbidding water as well is not the recommendation; water is normally the drink advised when someone has a fever."
+        },
+        {
+          "letter": "C",
+          "text": "\"You'd rather drink water than coffee.\"",
+          "is_correct": true,
+          "feedback": "Correct. \"You'd rather A than B\" gives exactly one recommendation, drink water instead of coffee, which is the standard advice for a fever."
+        },
+        {
+          "letter": "D",
+          "text": "\"You mustn't drink water, but you must drink coffee.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. It forbids water and insists on coffee, which is the exact opposite of the doctor's recommendation."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Would rather\" compares two actions and expresses the preferred one: \"You'd rather drink water than coffee\". Options A, B and D each say something the doctor never said, and A is also logically contradictory because it gives two different instructions about water.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W12-health-and-wellbeing-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W12-health-and-wellbeing-001-MASTERY-bundle-v10",
+      "statement": "If you ________ more vegetables, you would probably feel less tired during the day.",
+      "context": "A health poster at a school in Tunja explains that small daily habits prevent several common illnesses.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "eat",
+          "is_correct": false,
+          "feedback": "Incorrect. \"If you eat\" with \"would feel\" mixes a present simple result with the conditional \"would\"; the result clause needs \"would\" too."
+        },
+        {
+          "letter": "B",
+          "text": "will eat",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Will\" cannot follow \"if\" in a conditional sentence; the future in this structure is expressed with \"would\"."
+        },
+        {
+          "letter": "C",
+          "text": "ate",
+          "is_correct": false,
+          "feedback": "Incorrect. The past simple \"ate\" would describe a different situation; this advice refers to habits from now on."
+        },
+        {
+          "letter": "D",
+          "text": "would eat",
+          "is_correct": true,
+          "feedback": "Correct. The second conditional is formed with \"would\" plus the base form in the result clause: if + present simple, would + base verb."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The second conditional describes an unreal or probable situation in the present or future. Its two halves are \"if\" + present simple for the condition and \"would\" + base form for the result. Neither \"will\" nor the past simple may be used in that structure.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Structural Cloze",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W12-health-and-wellbeing-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W12-health-and-wellbeing-001-MASTERY-bundle-v11",
+      "statement": "Which sentence uses the word correctly?",
+      "context": "A student has missed several days of school and is recovering at home after an infection.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"She has been ill for two weeks, so she is very weak.\"",
+          "is_correct": true,
+          "feedback": "Correct. \"For\" measures a length of time, which is exactly what \"two weeks\" is, and it goes with the present perfect to state the duration."
+        },
+        {
+          "letter": "B",
+          "text": "\"She has been ill since two weeks.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Since\" marks a starting point rather than a duration, so it cannot be followed by \"two weeks\"."
+        },
+        {
+          "letter": "C",
+          "text": "\"She is ill for two weeks.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. The present simple with \"for\" describes a situation that is generally true; a temporary illness of this kind is expressed with the present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "\"She is ill since two weeks.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. This sentence repeats the same error: \"since\" needs a point in time such as \"since January\" or \"since 5 March\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The choice between \"since\" and \"for\" depends on what follows: \"since\" introduces a starting point (\"since Monday\", \"since 2022\") and \"for\" introduces a period of time (\"for two weeks\", \"for three days\"). The verb chosen also matters, because a temporary situation is normally expressed with the present perfect.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W12-health-and-wellbeing-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W12-health-and-wellbeing-001-MASTERY-bundle-v12",
+      "statement": "After the sports competition, Luis felt a sharp pain in his ankle and could not put weight on his foot. His coach did not let him continue, and a physiotherapist checked him at the clinic the next morning. What can be inferred about the coach?",
+      "context": "A text about sports injuries is used in a health unit at a school in Armenia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The coach believed the pain was nothing serious.",
+          "is_correct": false,
+          "feedback": "Incorrect. The coach did not minimise the pain at all: he stopped the activity immediately and arranged a clinical check-up."
+        },
+        {
+          "letter": "B",
+          "text": "The coach ignored the injury because the final was about to start.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text never mentions a final or any competition deadline, so that motivation is invented."
+        },
+        {
+          "letter": "C",
+          "text": "The coach acted responsibly by stopping the game and getting medical help.",
+          "is_correct": true,
+          "feedback": "Correct. The passage shows that the coach prevented Luis from continuing and that he got professional help, which is responsible behaviour."
+        },
+        {
+          "letter": "D",
+          "text": "The coach sent Luis back to the field without examining him.",
+          "is_correct": false,
+          "feedback": "Incorrect. This contradicts the text, because Luis was stopped and was examined by a physiotherapist the next morning."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Inferences must be supported by details that are actually in the text. Here the two facts are that the coach stopped Luis from playing and that a physiotherapist examined him the next morning; together they support the conclusion that the coach acted responsibly. Any option that adds information the text never gives, such as a final match, cannot be inferred.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W12-health-and-wellbeing-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}
