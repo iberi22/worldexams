@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-34-grade-6-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-02T08:16:06.781Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-6-2026-W34-el-consumidor-y-sus-derechos-001-MASTERY-bundle-v1",
+      "statement": "En una tienda de Bogotá, Laura nota que el empaque de un alimento no indica la fecha de vencimiento. ¿Cuál es el derecho que le permite pedir al comerciante información clara sobre ese dato?",
+      "context": "Bogotá, Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solicitar información clara y completa sobre el alimento.",
+          "is_correct": true,
+          "feedback": "Correcto. La Ley 1487 de 2011 garantiza el derecho a recibir información clara y completa sobre los bienes y servicios que compra el consumidor."
+        },
+        {
+          "letter": "B",
+          "text": "Solicitar que se compruebe la seguridad del alimento para la salud.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El derecho a seguridad consiste en que los productos no representen riesgos para la salud o la vida del consumidor."
+        },
+        {
+          "letter": "C",
+          "text": "Solicitar que se verifique la calidad del alimento para el consumo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El derecho a calidad permite exigir que el producto cumpla las condiciones de calidad esperadas por el consumidor."
+        },
+        {
+          "letter": "D",
+          "text": "Solicitar una indemnización por no conocer la fecha de vencimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La indemnización procede cuando se demuestra un daño causado por una falla del proveedor o del producto, no solo por faltar información."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Ley 1487 de 2011 reconoce el derecho del consumidor a recibir información clara, completa, oportuna y veraz. Conocer la fecha de vencimiento permite decidir si un alimento puede consumirse de manera segura.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-6-2026-W34-el-consumidor-y-sus-derechos-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W34-el-consumidor-y-sus-derechos-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo debe actuar Luis para ejercer su derecho como consumidor?",
+      "context": "En Barranquilla, Luis compró una mesa para computador por 180.000 COP y recibió el comprobante de pago. Al llegar a casa, vio que una pata estaba suelta y la mesa no podía usarse.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Guardar la mesa sin reclamar, porque la garantía solo cubre daños posteriores a la entrega.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La garantía legal cubre defectos que afecten la calidad o el funcionamiento del producto; no protege únicamente daños posteriores."
+        },
+        {
+          "letter": "B",
+          "text": "Solicitar al comercializador que haga efectiva la garantía legal del producto recibido.",
+          "is_correct": true,
+          "feedback": "Correcto. La Ley 1710 de 2014 obliga al comerciante a hacer efectiva la garantía legal, reparando, reemplazando o devolviendo el dinero cuando corresponda."
+        },
+        {
+          "letter": "C",
+          "text": "Pagar la reparación por su cuenta, porque la factura elimina la obligación del vendedor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El comprobante de pago acredita la compra, pero no elimina el deber del vendedor de responder por un defecto cubierto."
+        },
+        {
+          "letter": "D",
+          "text": "Comprar otra mesa por su cuenta, porque el vendedor puede negarse a reconocer la garantía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vendedor no puede evadir la garantía legal del producto; si se niega, el consumidor puede reclamar ante la autoridad competente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La garantía legal protege al consumidor cuando un producto presenta defectos que impiden su uso o afectan su funcionamiento. La Ley 1710 de 2014 obliga al comerciante a hacer efectiva esa garantía.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.89,
+      "bundle_id": "CO-SOC-6-2026-W34-el-consumidor-y-sus-derechos-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W34-el-consumidor-y-sus-derechos-001-MASTERY-bundle-v3",
+      "statement": "En una tienda de Bogotá, Camila pagó COP 95.000 por una mochila anunciada como impermeable, pero se humedeció durante una caminata. ¿Qué actuación respeta y protege mejor sus derechos como consumidora?",
+      "context": "Bogotá, Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Camila debería comprar otra mochila por su cuenta, porque la publicidad de un producto no genera obligaciones para el comerciante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La publicidad sobre la impermeabilidad se convierte en información exigible por el consumidor y protege su derecho a recibir información veraz."
+        },
+        {
+          "letter": "B",
+          "text": "Camila debería pedir un cambio únicamente si demuestra que la mochila se rompió por un mal uso, porque toda garantía cubre esos daños.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la garantía de calidad, el consumidor no debe demostrar primero un mal uso; el vendedor debe probar que el defecto no le es imputable."
+        },
+        {
+          "letter": "C",
+          "text": "Camila debería guardar el comprobante y exigir el cambio o reembolso, porque la calidad prometida también es un derecho del consumidor.",
+          "is_correct": true,
+          "feedback": "Correcto. La Ley 1489 de 2011, en su artículo 18, reconoce el derecho a recibir productos de buena calidad y permite solicitar reemplazo o devolución del precio."
+        },
+        {
+          "letter": "D",
+          "text": "Camila debería acudir a la Superintendencia de Industria y Comercio, porque solo esa autoridad puede resolver el cambio o la devolución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Superintendencia de Industria y Comercio puede investigar y sancionar, pero no reemplaza al comerciante ni resuelve directamente la garantía."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La publicidad sobre las características de un producto forma parte del derecho del consumidor a recibir información veraz. Además, la Ley 1489 de 2011 garantiza que los productos cumplan con la calidad prometida y permite solicitar su cambio o devolución cuando no la cumplen.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.87,
+      "bundle_id": "CO-SOC-6-2026-W34-el-consumidor-y-sus-derechos-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W34-el-consumidor-y-sus-derechos-001-MASTERY-bundle-v4",
+      "statement": "¿Qué derecho del consumidor vulnera la tienda al cobrar un gasto de envío que no estaba informado en el anuncio?",
+      "context": "En Bogotá, una familia compró un juego de mesa por 120.000 COP. El anuncio no mencionaba el costo de envío, pero el vendedor cobró 20.000 COP adicionales al entregar el producto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El derecho a recibir cualquier producto sin pagar gastos de envío previamente informados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El consumidor sí puede pagar gastos de envío si estos son informados previamente; lo prohibido es cobrarlos sin conocimiento previo."
+        },
+        {
+          "letter": "B",
+          "text": "La garantía de que todos los productos de la tienda cumplen normas técnicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La garantía legal y el cumplimiento de normas técnicas son conceptos distintos del derecho a conocer el precio total."
+        },
+        {
+          "letter": "C",
+          "text": "La libertad del vendedor para cambiar el precio después de aceptar el pago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vendedor no puede aumentar unilateralmente el precio después de que el consumidor ha realizado el pago."
+        },
+        {
+          "letter": "D",
+          "text": "El derecho a recibir información clara sobre el precio total antes de comprar.",
+          "is_correct": true,
+          "feedback": "Correcto. El artículo 2 de la Ley 1484 de 2011 garantiza información clara, veraz y verificable sobre precios y cargos adicionales."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El derecho a la información permite que el consumidor conozca el precio total y los cargos adicionales antes de tomar una decisión de compra. En este caso, la familia no pudo saber que debía pagar el costo de envío porque este no apareció en el anuncio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-6-2026-W34-el-consumidor-y-sus-derechos-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W34-el-consumidor-y-sus-derechos-001-MASTERY-bundle-v5",
+      "statement": "En un mercado de Cali, Luis compró una bolsa de arroz por $12.000 COP. Al llegar a casa, vio que la fecha de vencimiento ya había pasado y que el empaque estaba abierto. ¿Cuál es la manera más adecuada de ejercer sus derechos como consumidor?",
+      "context": "Compra de un alimento en un mercado de Cali, Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Llevar el arroz y el comprobante al mercado para solicitar la devolución del dinero o el cambio.",
+          "is_correct": true,
+          "feedback": "Correcto. La Ley 1489 de 2011 protege el derecho a la calidad y al desahogo: ante un alimento vencido, el consumidor puede pedir su cambio o la devolución del dinero."
+        },
+        {
+          "letter": "B",
+          "text": "Guardar el arroz y consumirlo después, porque el vencimiento solo importa si alguien se enferma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El derecho a la calidad exige que los alimentos comercializados no estén vencidos; consumirlos puede causar daño a la salud."
+        },
+        {
+          "letter": "C",
+          "text": "Comprar otra bolsa y no reclamar la primera, porque el mercado ya cumplió al expender el producto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El derecho al desahogo permite reclamar al proveedor; comprar otra bolsa no resuelve el problema del producto ya adquirido."
+        },
+        {
+          "letter": "D",
+          "text": "Regalar el arroz a un familiar, porque el daño queda resuelto sin pedir la protección del mercado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La protección al consumidor busca un comercio seguro y justo; regalar el alimento no exime al mercado de responder."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Ley 1489 de 2011 garantiza que las personas consumidoras reciban productos de calidad y puedan pedir soluciones cuando una compra no cumple lo ofrecido. Ejercer estos derechos contribuye a un comercio más justo y evita que los riesgos se trasladen a los consumidores.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.84,
+      "bundle_id": "CO-SOC-6-2026-W34-el-consumidor-y-sus-derechos-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W34-el-consumidor-y-sus-derechos-001-MASTERY-bundle-v6",
+      "statement": "En una tienda de electrodomésticos de Bogotá, un cartel anuncia un televisor en seis cuotas, pero no informa el valor total a pagar ni las condiciones de interés. ¿Cuál derecho del consumidor vulnera principalmente ese cartel?",
+      "context": "<escenario real de una ciudad colombiana: Bogota, Medellin, Cali, Barranquilla, Cartagena, Bucaramanga, Pereira o Manizales. Si hablas de dinero, pesos colombianos COP.>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acceder a educación para el consumo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La educación para el consumo orienta al comprador, pero no sustituye la obligación de informar el precio total y las condiciones económicas."
+        },
+        {
+          "letter": "B",
+          "text": "Recibir información clara, veraz y oportuna.",
+          "is_correct": true,
+          "feedback": "Correcto. El artículo 24 de la Ley 1484 de 2011 reconoce este derecho y exige que la publicidad permita conocer el precio total y las condiciones de pago."
+        },
+        {
+          "letter": "C",
+          "text": "Obtener garantía sobre el televisor comprado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La garantía legal protege frente a defectos y permite solicitar reparación, sustitución o devolución; aquí la falla está en la información del precio."
+        },
+        {
+          "letter": "D",
+          "text": "Retractarse de una compra a distancia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La retractación corresponde a ciertas compras a distancia; la situación analizada es el anuncio de un producto en una tienda física."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La publicidad debe aportar datos que permitan tomar una decisión informada, incluyendo el precio total y las condiciones económicas. Omitir esos datos vulnera el derecho a recibir información clara, veraz y oportuna, reconocido en el artículo 24 de la Ley 1484 de 2011.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Globalización y comercio",
+      "expected_success": 0.83,
+      "bundle_id": "CO-SOC-6-2026-W34-el-consumidor-y-sus-derechos-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W34-el-consumidor-y-sus-derechos-001-MASTERY-bundle-v7",
+      "statement": "En Bogotá, Camilo compró un televisor por $450.000 COP. El comprobante de compra registra una garantía de doce meses. Después de tres meses, el televisor no se enciende y la tienda se niega a repararlo porque afirma que la garantía solo cubre piezas certificadas por el fabricante. ¿Qué debe hacer Camilo para hacer valer sus derechos como consumidor?",
+      "context": "Bogotá, Colombia; los precios están expresados en pesos colombianos (COP).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entregar el televisor al fabricante y aceptar que la tienda queda exonerada de la garantía anunciada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tienda no puede exonerarse unilateralmente de una garantía ofrecida al consumidor."
+        },
+        {
+          "letter": "B",
+          "text": "Pagar por la reparación, porque la garantía de la tienda cubre únicamente las piezas certificadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tienda no puede agregar una condición limitante que no estaba incluida en la garantía."
+        },
+        {
+          "letter": "C",
+          "text": "Exigir el cumplimiento de la garantía con el comprobante y, si no hay acuerdo, pedir conciliación ante la SIC.",
+          "is_correct": true,
+          "feedback": "Correcto. La Ley 1483 de 2011 protege el derecho a la calidad, la seguridad y la información fidedigna del consumidor."
+        },
+        {
+          "letter": "D",
+          "text": "Esperar sin reclamar que el fabricante repare el televisor, aunque el plazo de garantía siga vigente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El consumidor puede exigir al proveedor el cumplimiento de la garantía sin depender de una reparación voluntaria."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La garantía es una promesa de protección frente a las fallas indicadas durante el tiempo pactado. Camilo debe conservar el comprobante y exigir su cumplimiento; si la tienda no llega a un acuerdo, puede solicitar la conciliación de la SIC conforme a la Ley 1483 de 2011.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.81,
+      "bundle_id": "CO-SOC-6-2026-W34-el-consumidor-y-sus-derechos-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W34-el-consumidor-y-sus-derechos-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de las siguientes afirmaciones explica mejor la situación de Camilo?",
+      "context": "En Bogotá, Camilo compró por internet una mochila azul e impermeable por $320.000 COP. La tienda le entregó una mochila roja que no era impermeable.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tienda puede conservar el dinero porque las compras por internet no tienen protección.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las compras por internet también están protegidas por el Estatuto del Consumidor."
+        },
+        {
+          "letter": "B",
+          "text": "Camilo debe aceptar la mochila porque el recibo no incluye una política de cambios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ausencia de una política de cambios no elimina el derecho a reclamar por un producto no conforme."
+        },
+        {
+          "letter": "C",
+          "text": "Camilo solo podría reclamar si la mochila causa una lesión, pues la calidad no lo protege.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La protección por calidad no exige una lesión; basta con que el producto no coincida con lo ofrecido."
+        },
+        {
+          "letter": "D",
+          "text": "Camilo puede pedir cambio o devolución porque la mochila no coincide con lo anunciado.",
+          "is_correct": true,
+          "feedback": "Correcto. El derecho a reemplazo o devolución aplica cuando el producto recibido no cumple las características anunciadas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La publicidad describe lo que la tienda ofrece y el consumidor tiene derecho a recibir un producto que cumpla esas condiciones. Si la mochila difiere de lo anunciado, el consumidor puede solicitar su reemplazo o la devolución del dinero.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Trabajo y economía",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-6-2026-W34-el-consumidor-y-sus-derechos-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W34-el-consumidor-y-sus-derechos-001-MASTERY-bundle-v9",
+      "statement": "En Medellín, Camila compró un audífono y recibió una garantía escrita de seis meses. Un mes después, el audífono dejó de funcionar, pero el vendedor se negó a cambiarlo porque su tienda no aceptaba devoluciones. ¿Qué derecho de Camila está siendo vulnerado?",
+      "context": "<escenario real de una ciudad colombiana: Bogota, Medellin, Cali, Barranquilla, Cartagena, Bucaramanga, Pereira o Manizales. Si hablas de dinero, pesos colombianos COP.>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El derecho a hacer efectiva la garantía escrita del audífono.",
+          "is_correct": true,
+          "feedback": "Correcto. La Ley 1487 de 2011 protege el derecho del consumidor a hacer efectiva la garantía del producto adquirido."
+        },
+        {
+          "letter": "B",
+          "text": "El derecho a obtener una devolución sin tener garantía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La normativa colombiana no reconoce una devolución automática sin garantía; el vendedor debe respetar las garantías ofrecidas."
+        },
+        {
+          "letter": "C",
+          "text": "El derecho a conocer los precios de otras tiendas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Conocer precios pertenece al derecho de información, pero esa información no es la que se solicita en esta situación."
+        },
+        {
+          "letter": "D",
+          "text": "El derecho a reclamar después de que termine la garantía.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falla ocurrió dentro del período de garantía, por lo que Camila puede reclamarla desde ese momento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Ley 1487 de 2011 establece que los consumidores tienen derecho a adquirir bienes de calidad y a hacer efectiva la garantía ofrecida. Como el audífono falló dentro de los seis meses de garantía, el vendedor debe atender el reclamo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Interpretación de relaciones espaciales",
+      "expected_success": 0.78,
+      "bundle_id": "CO-SOC-6-2026-W34-el-consumidor-y-sus-derechos-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W34-el-consumidor-y-sus-derechos-001-MASTERY-bundle-v10",
+      "statement": "En Bogotá, Juliana compró un morral para el colegio por internet el 10 de marzo de 2026. La tienda se lo entregó el 13 del mismo mes y ese día le envió un correo para revocar la compra. Según la Ley 1484 de 2011, ¿cuál conclusión es correcta?",
+      "context": "Escenario de compra por internet en Bogotá, Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Juliana no puede revocar la compra porque esta se realizó por internet.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El derecho de revelación se aplica precisamente en compras a distancia, por internet o telemarketing."
+        },
+        {
+          "letter": "B",
+          "text": "Juliana puede revocar la compra porque notificó dentro de los cinco días hábiles desde la entrega.",
+          "is_correct": true,
+          "feedback": "Correcto. La Ley 1484 de 2011 concede cinco días hábiles contados desde la entrega para ejercer este derecho."
+        },
+        {
+          "letter": "C",
+          "text": "Juliana debía esperar cinco días calendario después del pago para poder revocar la compra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El plazo es de cinco días hábiles y comienza desde la entrega, no desde el pago."
+        },
+        {
+          "letter": "D",
+          "text": "Juliana solo podía revocar la compra si el morral no había sido abierto por ella.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El derecho de revelación no exige que el consumidor mantenga el producto sin abrir."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Ley 1484 de 2011 reconoce el derecho de revelación en compras realizadas a distancia, por internet o por telemarketing. El consumidor tiene cinco días hábiles desde la entrega para comunicar su decisión mediante un medio que registre la fecha y la hora. Por eso, el correo enviado por Juliana el día de la entrega cumple el plazo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Identificación de relaciones espaciotemporales",
+      "expected_success": 0.77,
+      "bundle_id": "CO-SOC-6-2026-W34-el-consumidor-y-sus-derechos-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

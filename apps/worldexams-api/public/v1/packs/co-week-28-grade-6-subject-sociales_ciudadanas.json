@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-28-grade-6-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-02T08:16:06.780Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-6-2026-W28-los-parques-y-el-espacio-publico-001-MASTERY-bundle-v1",
+      "statement": "En un parque de Bogotá, ¿qué caracteriza al espacio público?",
+      "context": "En Bogotá, las personas utilizan los parques y las plazas para descansar, encontrarse y participar en actividades comunitarias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un lugar de acceso común para la convivencia y el cuidado colectivo.",
+          "is_correct": true,
+          "feedback": "Correcto. El espacio público es de acceso común y favorece la convivencia, la participación y el cuidado colectivo."
+        },
+        {
+          "letter": "B",
+          "text": "Es una propiedad privada cuyo uso corresponde únicamente a sus dueños.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los parques y las plazas son espacios públicos, no propiedades privadas de uso exclusivo."
+        },
+        {
+          "letter": "C",
+          "text": "Es un espacio reservado exclusivamente para la práctica de deportes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El espacio público también se utiliza para descansar, encontrarse, desplazarse y participar."
+        },
+        {
+          "letter": "D",
+          "text": "Es un lugar sin normas donde cada persona puede actuar como quiera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El espacio público funciona bajo normas compartidas que protegen la convivencia y los bienes comunes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El espacio público es un lugar de acceso común donde las personas pueden encontrarse, descansar y participar en la vida comunitaria. Su uso responsable y el cuidado colectivo ayudan a conservar los parques y las plazas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-6-2026-W28-los-parques-y-el-espacio-publico-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W28-los-parques-y-el-espacio-publico-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de las siguientes acciones respeta mejor la participación democrática en la transformación del parque?",
+      "context": "En un barrio de Bogotá, la comunidad quiere decidir cómo remodelar un parque para que haya más árboles, juegos y espacios deportivos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entregar la decisión únicamente a una empresa privada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La participación democrática requiere la intervención de los ciudadanos y no la decisión exclusiva de una empresa."
+        },
+        {
+          "letter": "B",
+          "text": "Asistir a una reunión comunitaria y participar en la propuesta.",
+          "is_correct": true,
+          "feedback": "Correcto. La participación comunitaria permite que los ciudadanos dialoguen y propongan soluciones para el espacio público."
+        },
+        {
+          "letter": "C",
+          "text": "Esperar que la decisión se tome sin consultar a los habitantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La democracia exige considerar las opiniones de la comunidad para construir acuerdos legítimos."
+        },
+        {
+          "letter": "D",
+          "text": "Cambiar el uso del parque sin hablar con la comunidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La transformación del espacio público debeaccordarse con normas y procesos participativos, no imponer cambios unilateralmente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los parques hacen parte del espacio público y su transformación puede democráticamente ser discutida con la comunidad. Participar en reuniones y proponer soluciones permite ejercer la ciudadanía y construir decisiones colectivas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.89,
+      "bundle_id": "CO-SOC-6-2026-W28-los-parques-y-el-espacio-publico-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W28-los-parques-y-el-espacio-publico-001-MASTERY-bundle-v3",
+      "statement": "¿Qué acción permite remodelar el parque de manera participativa, segura e inclusiva?",
+      "context": "En Medellín se va a remodelar un parque utilizado por familias, niños, adultos mayores y personas con discapacidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consultar solo a los comerciantes y decidir la remodelación sin escuchar a los demás usuarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excluye a otros usuarios y vulnera la participación ciudadana en las decisiones sobre el espacio público."
+        },
+        {
+          "letter": "B",
+          "text": "Dedicar todo el parque a eventos privados y cobrarles a los vecinos para poder entrar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Limita el acceso de la comunidad y debilita el carácter colectivo, recreativo y compartido del parque."
+        },
+        {
+          "letter": "C",
+          "text": "Invitar a usuarios diversos a proponer actividades y negociar reglas de uso seguras e inclusivas.",
+          "is_correct": true,
+          "feedback": "Correcto. Promueve la participación, el respeto por la dignidad y la convivencia de personas con necesidades diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "Cerrar el parque durante la remodelación y abrirlo después sin consultar sobre sus nuevos espacios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falta de consulta y de un espacio accesible contradice la participación y la inclusión en el espacio público."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los parques hacen parte del espacio público y permiten el encuentro, la recreación y la convivencia de personas diferentes. La Constitución, en su artículo 19, protege la participación ciudadana y la dignidad de las personas. Por eso, al remodelarlos se deben considerar necesidades diversas y acordar usos seguros e inclusivos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.87,
+      "bundle_id": "CO-SOC-6-2026-W28-los-parques-y-el-espacio-publico-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W28-los-parques-y-el-espacio-publico-001-MASTERY-bundle-v4",
+      "statement": "Bogotá dispone de recursos públicos para mejorar el parque de un barrio. ¿Cuál inversión permite aprovechar mejor el parque como espacio público, considerando la participación, la recreación y el cuidado ambiental?",
+      "context": "<Bogotá dispone de recursos públicos para mejorar el parque de un barrio.>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pintar bancas y cerrar senderos durante una semana para adelantar obras privadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción bloquea el uso común del parque y prioriza una obra privada sin considerar la participación vecinal ni el cuidado ambiental."
+        },
+        {
+          "letter": "B",
+          "text": "Cobrar una cuota a cada visita y restringir el parque a familias que se inscriban.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los parques son espacios públicos de uso común; cobrar una entrada o restringir el acceso disminuye su función social y recreativa."
+        },
+        {
+          "letter": "C",
+          "text": "Construir un local comercial en el parque sin consultar a los vecinos ni conservar los árboles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La construcción de un local comercial privatiza parte del espacio público, elimina arborización y tampoco aplica la participación ciudadana."
+        },
+        {
+          "letter": "D",
+          "text": "Mejorar senderos accesibles, consultar a los vecinos y sembrar árboles nativos en el parque.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta inversión fortalecería el acceso universal, la participación ciudadana y la conservación ambiental del parque."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las decisiones sobre el presupuesto público deben responder a necesidades colectivas y fortalecer el uso común del parque. La participación permite identificar prioridades, mientras que la accesibilidad y el cuidado de los árboles nativos favorecen la recreación, la convivencia y el ambiente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-6-2026-W28-los-parques-y-el-espacio-publico-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W28-los-parques-y-el-espacio-publico-001-MASTERY-bundle-v5",
+      "statement": "Ante esta situación, ¿qué decisión respeta mejor el carácter público y compartido del parque?",
+      "context": "<Un parque de Bogotá es utilizado por familias, jóvenes, vendedores y visitantes, pero se presentan conflictos por los horarios, el ruido y la limpieza.>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Convocar a los usuarios para acordar reglas de uso compartido, aseo y cuidado del parque.",
+          "is_correct": true,
+          "feedback": "Correcto. Los espacios públicos pertenecen a la comunidad y las reglas acordadas favorecen la convivencia, la inclusión y el cuidado común."
+        },
+        {
+          "letter": "B",
+          "text": "Restringir el ingreso a los vecinos del sector y dejar las demás personas sin acceso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un parque público es un espacio común que también puede ser utilizado por visitantes de distintos lugares."
+        },
+        {
+          "letter": "C",
+          "text": "Dejar que cada persona actúe como quiera, sin normas, porque todos tienen la misma libertad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La libertad de una persona termina cuando vulnera los derechos, la seguridad o la convivencia de los demás."
+        },
+        {
+          "letter": "D",
+          "text": "Entregar el parque a una empresa privada para que lo use solo quien pague una tarifa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La privatización y el cobro de una tarifa limitan el acceso y debilitan el carácter público del espacio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El espacio público permite el encuentro y el disfrute de todas las personas, por lo que requiere normas que respeten sus derechos y garanticen la convivencia. Acordar reglas compartidas también enseña que el bienestar del parque depende del cuidado de toda la comunidad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.84,
+      "bundle_id": "CO-SOC-6-2026-W28-los-parques-y-el-espacio-publico-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W28-los-parques-y-el-espacio-publico-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál análisis explica mejor la función del Parque de los Periodistas como espacio público?",
+      "context": "En Bogotá, el Parque de los Periodistas es utilizado por niños para jugar, por personas mayores para caminar y por grupos vecinales para reunirse.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una propiedad privada que pertenece solo a quienes realizan actividades recreativas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El artículo 63 de la Constitución reconoce los parques como bienes de uso público, no como propiedades privadas."
+        },
+        {
+          "letter": "B",
+          "text": "Es un bien de uso común que permite la recreación y también el encuentro vecinal.",
+          "is_correct": true,
+          "feedback": "Correcto. El espacio público pertenece a todos y favorece la recreación, el encuentro y la convivencia ciudadana."
+        },
+        {
+          "letter": "C",
+          "text": "Es un espacio destinado únicamente a la producción de bienes y servicios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El parque no cumple una función exclusivamente económica o industrial; también sirve para el bienestar social y recreativo."
+        },
+        {
+          "letter": "D",
+          "text": "Es una zona verde usada solo para conservar plantas y no para la convivencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque los parques ayudan a conservar la naturaleza, también permiten el encuentro y la participación comunitaria."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En Colombia, el artículo 63 de la Constitución define los parques como bienes de uso público, porque su uso pertenece a todos. Reconocer este uso común permite analizar cómo estos espacios favorecen la recreación, la convivencia y el bienestar comunitario.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Globalización y comercio",
+      "expected_success": 0.83,
+      "bundle_id": "CO-SOC-6-2026-W28-los-parques-y-el-espacio-publico-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W28-los-parques-y-el-espacio-publico-001-MASTERY-bundle-v7",
+      "statement": "La comunidad de un parque en Medellín quiere evitar conflictos por el ruido y el uso de las instalaciones. ¿Cuál propuesta respeta mejor el concepto de espacio público y promueve la convivencia?",
+      "context": "<escenario real de una ciudad colombiana: Medellín. Si hablas de dinero, pesos colombianos COP.>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prohíbe todo juego y actividades culturales, porque un parque solo sirve para conservar la naturaleza y proteger la fauna.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El espacio público permite diversos usos, como recreación, encuentro, participación y actividades culturales; no está destinado únicamente a conservar la naturaleza."
+        },
+        {
+          "letter": "B",
+          "text": "Deja que cada grupo actúe sin acuerdos, porque la convivencia significa que las personas pueden hacer cuanto quieran.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La convivencia se construye mediante diálogo y acuerdos; el uso responsable del espacio público requiere reglas que respeten los derechos de los demás."
+        },
+        {
+          "letter": "C",
+          "text": "Acuerda horarios, promueve actividades para todos y fija normas básicas para respetar y cuidar el espacio común.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta propuesta equilibra el derecho al uso del parque con el respeto y el cuidado del espacio común, principios esenciales de la convivencia."
+        },
+        {
+          "letter": "D",
+          "text": "Prioriza solo los eventos comerciales, porque el espacio público tiene como fin principal producir dinero para el municipio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El espacio público persigue principalmente el bienestar común y el encuentro ciudadano, no la generación de ganancias comerciales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un parque público es un espacio de uso común destinado al bienestar de la comunidad, no solamente a la conservación de la naturaleza. La convivencia se fortalece mediante acuerdos que garantizan acceso, respeto y cuidado de las instalaciones y de los derechos de los demás.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.81,
+      "bundle_id": "CO-SOC-6-2026-W28-los-parques-y-el-espacio-publico-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W28-los-parques-y-el-espacio-publico-001-MASTERY-bundle-v8",
+      "statement": "En Bogotá hay COP 2.000 millones disponibles para ampliar una vía congestionada o para mejorar un parque vecinal. ¿Qué análisis es más adecuado para tomar la decisión?",
+      "context": "Bogotá, Colombia. Una administración municipal debe decidir cómo utilizar un presupuesto público.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Priorizar la vía, porque solo los vehículos necesitan espacio para moverse con rapidez.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La movilidad es importante, pero los parques también son espacios públicos destinados a la recreación, la convivencia y el cuidado del ambiente."
+        },
+        {
+          "letter": "B",
+          "text": "Priorizar el parque, porque ningún proyecto urbano puede modificar el espacio público.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta afirmación es absoluta: las vías públicas también facilitates la movilidad y el acceso de las personas a distintos lugares de la ciudad."
+        },
+        {
+          "letter": "C",
+          "text": "Repartir el presupuesto, porque el parque y la vía cumplen funciones idénticas para la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el presupuesto puede repartirse, no es obligatorio; el parque y la vía tienen funciones distintas y complementarias dentro del espacio público."
+        },
+        {
+          "letter": "D",
+          "text": "Comparar ambos beneficios, considerando movilidad, convivencia, recreación y uso responsable del presupuesto.",
+          "is_correct": true,
+          "feedback": "Correcto. Evaluar los beneficios y el costo de oportunidad de cada alternativa permite tomar una decisión equilibrada y responsable para los habitantes."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los parques son espacios públicos que Patton la recreación, la convivencia, la actividad cultural y el bienestar ambiental. Al comparar proyectos con un presupuesto limitado, se deben considerar sus efectos en la movilidad, la calidad de vida y el uso responsable de los recursos públicos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Trabajo y economía",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-6-2026-W28-los-parques-y-el-espacio-publico-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W28-los-parques-y-el-espacio-publico-001-MASTERY-bundle-v9",
+      "statement": "En un parque de Bogotá, la vía rápida pasa junto al juego infantil y un parqueadero bloquea la entrada peatonal de la biblioteca. ¿Cuál propuesta mejora mejor el acceso y la seguridad de este espacio público?",
+      "context": "<escenario real de una ciudad colombiana: Bogota, Medellin, Cali, Barranquilla, Cartagena, Bucaramanga, Pereira o Manizales. Si hablas de dinero, pesos colombianos COP.>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conectar la biblioteca con la acera, separar el juego infantil de la vía rápida e instalar cruces peatonales seguros.",
+          "is_correct": true,
+          "feedback": "Correcto. Las conexiones peatonales y la separación del tránsito rápido favorecen la circulación segura, el acceso y la recreación en el espacio público."
+        },
+        {
+          "letter": "B",
+          "text": "Ampliar el parqueadero para que cada visitante pueda llegar en carro y así usar mejor esta zona pública.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ampliar el parqueadero prioriza el acceso en vehículo particular y reduce el espacio disponible para la circulación peatonal."
+        },
+        {
+          "letter": "C",
+          "text": "Mantener la distribución actual y colocar letreros grandes que inviten a todos los vecinos a usar la zona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los letreros pueden informar, pero no eliminan el bloqueo peatonal ni la cercanía con el tránsito rápido."
+        },
+        {
+          "letter": "D",
+          "text": "Rodear la zona con un muro y restringir la entrada para evitar conflictos entre los distintos usuarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un muro y el acceso restringido limitan la circulación y el encuentro, funciones esenciales de un espacio público."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un espacio público no solo debe existir, sino permitir que diferentes personas lleguen, circulen y se encuentren con seguridad. Conectar sus partes mediante senderos peatonales y separar las actividades de las vías peligrosas mejora su uso e inclusión.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Interpretación de relaciones espaciales",
+      "expected_success": 0.78,
+      "bundle_id": "CO-SOC-6-2026-W28-los-parques-y-el-espacio-publico-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W28-los-parques-y-el-espacio-publico-001-MASTERY-bundle-v10",
+      "statement": "En un parque de Medellín, una entrada está separada por un gran espacio ocupado como parqueadero. ¿Cuál transformación mejora mejor la relación de los transeúntes con el espacio público?",
+      "context": "Parque urbano de Medellín, Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mantener todo el espacio como parqueadero para que mayor cantidad de carros ingresen sin dificultad.",
+          "is_correct": false,
+          "feedback": "El uso exclusivo para carros particularizados reduce la circulación peatonal y el encuentro ciudadano, funciones propias de los espacios públicos."
+        },
+        {
+          "letter": "B",
+          "text": "Abrir un sendero peatonal y colocar bancas junto a zonas verdes para facilitar la estancia.",
+          "is_correct": true,
+          "feedback": "Correcto. El sendero y las bancas favorecen la circulación y la permanencia de las personas que caminan, y reconocen la función de convivencia del espacio público."
+        },
+        {
+          "letter": "C",
+          "text": "Reservar el espacio para actividades privadas y prohibir su uso a los visitantes del parque.",
+          "is_correct": false,
+          "feedback": "La reserva para actividades privadas y la prohibición limitan el acceso ciudadano, una característica central de los espacios públicos."
+        },
+        {
+          "letter": "D",
+          "text": "Cubrir el espacio con puestos comerciales y eliminar las áreas destinadas al descanso y al juego.",
+          "is_correct": false,
+          "feedback": "La ocupación comercial total y la eliminación de áreas recreativas reducen las posibilidades de encuentro, descanso y Algorithms juego."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los parques son espacios públicos que facilitan la circulación, el encuentro, el descanso y la recreación de la ciudadanía. Su organización debe priorizar el acceso y una relación segura y compleja entre las personas y el entorno.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Identificación de relaciones espaciotemporales",
+      "expected_success": 0.77,
+      "bundle_id": "CO-SOC-6-2026-W28-los-parques-y-el-espacio-publico-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

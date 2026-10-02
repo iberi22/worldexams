@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-40-grade-6-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-02T08:16:06.783Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-6-2026-W40-la-ciudadania-y-los-derechos-humanos-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes afirmaciones explica correctamente qué son los derechos humanos?",
+      "context": "En Bogotá, una estudiante nueva conoce sus derechos dentro del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son garantías que el Estado reconoce a todas las personas y que deben respetarse sin importar su origen.",
+          "is_correct": true,
+          "feedback": "Correcto. Los derechos humanos son garantías que el Estado reconoce a todas las personas, sin importar su origen, su religión ni su condición social."
+        },
+        {
+          "letter": "B",
+          "text": "Son privilegios que solo puede usar la gente que tiene dinero para pagar sus servicios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los derechos humanos no son servicios que se compran, son garantías que corresponden a toda persona por el solo hecho de existir."
+        },
+        {
+          "letter": "C",
+          "text": "Son normas que aplican únicamente a las personas que viven en las ciudades.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los derechos humanos valen para todas las personas, también para quienes viven en el campo o han cruzado una frontera."
+        },
+        {
+          "letter": "D",
+          "text": "Son acuerdos que cada familia firma para que sus hijos puedan estudiar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna familia firma los derechos humanos, porque son normas reconocidas por la comunidad internacional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los derechos humanos son garantías que protegen la dignidad, la vida, la igualdad y la libertad de todas las personas. El Estado y la sociedad deben respetarlos y garantizar que se cumplan, sin excepciones por origen, religión o posición económica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-6-2026-W40-la-ciudadania-y-los-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W40-la-ciudadania-y-los-derechos-humanos-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué la Constitución Política de Colombia se considera la norma más importante del país?",
+      "context": "En Medellín, un estudiante de grado sexto estudia la Constitución Política de Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque contiene el precio de los servicios públicos de cada ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Constitución no fija precios, define los principios y las reglas que las leyes y las instituciones deben respetar."
+        },
+        {
+          "letter": "B",
+          "text": "Porque establece los derechos y los deberes de las personas y la forma en que se organiza el poder público.",
+          "is_correct": true,
+          "feedback": "Correcto. La Constitución define los derechos de las personas y la organización del poder público, y ninguna ley puede contradecirla."
+        },
+        {
+          "letter": "C",
+          "text": "Porque obliga a todos los estudiantes a estudiar exactamente los mismos temas en todo el país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Constitución organiza el Estado y sus derechos, no determina los contenidos exactos de cada asignatura."
+        },
+        {
+          "letter": "D",
+          "text": "Porque contiene todos los artículos que se aplican directamente sin necesidad de ninguna ley.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchos derechos se desarrollan con leyes posteriores, aunque la Constitución es siempre la norma superior."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Constitución Política es la norma más importante porque fija los derechos, los deberes y la organización del Estado. Toda ley debe ajustarse a ella, y sus garantías deben cumplirse para todas las personas sin distinción.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.89,
+      "bundle_id": "CO-SOC-6-2026-W40-la-ciudadania-y-los-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W40-la-ciudadania-y-los-derechos-humanos-001-MASTERY-bundle-v3",
+      "statement": "A un estudiante de grado sexto en Cali se le niega el ingreso a la biblioteca del colegio porque no usa el uniforme. ¿Cuál de las siguientes acciones aplica correctamente un derecho humano?",
+      "context": "En Cali, se le niega el ingreso a la biblioteca de un colegio a un estudiante porque no usa el uniforme.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aceptar la decisión porque los profesores tienen la última palabra en el colegio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La autoridad de un profesor no puede usarse para negar un derecho que la Constitución garantiza a todos los estudiantes."
+        },
+        {
+          "letter": "B",
+          "text": "Dejar de asistir al colegio para castigar a la institución.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dejar de asistir no recupera el derecho perdido y solo afecta al estudiante que intenta defenderlo."
+        },
+        {
+          "letter": "C",
+          "text": "Solicitar la revisión de la decisión ante la dirección del colegio y dejar constancia del caso.",
+          "is_correct": true,
+          "feedback": "Correcto. Ante una negativa injusta se puede pedir la revisión, porque los derechos se hacen valer y no se renuncian."
+        },
+        {
+          "letter": "D",
+          "text": "Amenazar con abandonar el colegio si no lo dejan entrar a la biblioteca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Amenazar no resuelve la situación y además rompe la convivencia que también protege los derechos de los demás."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un derecho humano se aplica cuando una persona puede exigir que sea respetado. Si una decisión administrativa vulnera un derecho, lo correcto es solicitar la revisión por las vías previstas y no aceptar la situación ni responder con amenazas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.88,
+      "bundle_id": "CO-SOC-6-2026-W40-la-ciudadania-y-los-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W40-la-ciudadania-y-los-derechos-humanos-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de las siguientes acciones aplica mejor el respeto y la tolerancia entre personas de religiones diferentes?",
+      "context": "En Pereira, un grupo de estudiantes de distintas religiones quiere orar en un espacio del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Obligar a todos los estudiantes a participar en la oración del grupo más grande.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Obligar a orar vulnera la libertad de conciencia, que es un derecho reconocido por la Constitución."
+        },
+        {
+          "letter": "B",
+          "text": "Prohibir que cualquier grupo se reúna para practicar su religión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Prohibir la práctica religiosa de todos también es discriminación, porque no respeta el derecho de cada persona a creer libremente."
+        },
+        {
+          "letter": "C",
+          "text": "Decidir que solo una religión puede usarse en el colegio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En Colombia ninguna religión es oficial, así que el colegio no puede favorecer una sobre otra."
+        },
+        {
+          "letter": "D",
+          "text": "Acordar espacios y horarios para que cada grupo use el colegio sin estorbar a los demás.",
+          "is_correct": true,
+          "feedback": "Correcto. Acordar horarios y espacios respeta la libertad de conciencia y permite la convivencia de todos los grupos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La tolerancia y el respeto a la diferencia consisten en reconocer que cada persona tiene derecho a sus creencias. Acordar espacios, horarios y normas compartidas permite que grupos diferentes convivan sin que ninguno tenga que renunciar a su identidad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.87,
+      "bundle_id": "CO-SOC-6-2026-W40-la-ciudadania-y-los-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W40-la-ciudadania-y-los-derechos-humanos-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál de las siguientes instituciones explica mejor quién protege los derechos fundamentales en Colombia?",
+      "context": "En Bogotá, un estudiante quiere saber quién vigila que se respeten los derechos en el país.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Corte Constitucional, porque revisa si las leyes y las decisiones del Estado respetan los derechos de las personas.",
+          "is_correct": true,
+          "feedback": "Correcto. La Corte Constitucional vigila que ninguna ley ni decisión del Estado vulnere los derechos fundamentales de los ciudadanos."
+        },
+        {
+          "letter": "B",
+          "text": "El Ministerio de Transporte, porque todas las decisiones del país pasan por ese ministerio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ministerios manejan sectores concretos, como el transporte, y no vigilan los derechos de toda la población."
+        },
+        {
+          "letter": "C",
+          "text": "Las fuerzas armadas, porque pueden imponer el cumplimiento de la Constitución por la fuerza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fuerzas armadas cumplen tareas de defensa y seguridad, no vigilan los derechos fundamentales de forma general."
+        },
+        {
+          "letter": "D",
+          "text": "Una emisora local, porque informa a la población sobre las leyes del país.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un medio de comunicación informa a la gente, pero no tiene la función jurídica de proteger los derechos fundamentales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En Colombia, la Corte Constitucional es la institución encargada de revisar si las leyes y las decisiones del Estado respetan los derechos fundamentales. Ese control ayuda a que ninguna norma vulnere los derechos de las personas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.86,
+      "bundle_id": "CO-SOC-6-2026-W40-la-ciudadania-y-los-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W40-la-ciudadania-y-los-derechos-humanos-001-MASTERY-bundle-v6",
+      "statement": "En Barranquilla, una dueña de tienda no atiende a una persona porque viste una camisa de otra religión. ¿Qué analiza mejor esa situación desde los derechos humanos?",
+      "context": "En Barranquilla, una dueña de tienda se niega a atender a una persona porque su camisa es de otra religión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la dueña actúa bien porque puede hacer lo que quiera dentro de su negocio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La libertad de un negocio tiene límites, no puede negar el servicio por la religión o el origen de una persona."
+        },
+        {
+          "letter": "B",
+          "text": "Que se vulnera el derecho a la igualdad, porque nadie puede ser discriminado por su religión.",
+          "is_correct": true,
+          "feedback": "Correcto. Negar el servicio por la religión vulnera el derecho a la igualdad y a la no discriminación."
+        },
+        {
+          "letter": "C",
+          "text": "Que la persona tiene razón para entrar por la fuerza si nadie la atiende.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Forzar el ingreso también vulnera los derechos de los demás, la respuesta correcta es reclamar y denunciar."
+        },
+        {
+          "letter": "D",
+          "text": "Que el problema se resuelve únicamente con una multa muy alta para la dueña del local.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La multa es una consecuencia, pero el análisis debe partir del derecho vulnerado y no solo del castigo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar un caso desde los derechos humanos significa identificar qué derecho se vulnera y a quién. Cuando una persona es discriminada por su religión, se vulnera la igualdad y el respeto a la dignidad, por eso el caso debe denunciarse y garantizarse la atención.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.84,
+      "bundle_id": "CO-SOC-6-2026-W40-la-ciudadania-y-los-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W40-la-ciudadania-y-los-derechos-humanos-001-MASTERY-bundle-v7",
+      "statement": "En Medellín, una estudiante de una comunidad indígena es aislada de sus compañeros porque habla su propia lengua. ¿Qué analiza mejor esa situación?",
+      "context": "En Medellín, una estudiante de una comunidad indígena es aislada del grupo porque habla su propia lengua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la estudiante aislada debe aprender mejor otro idioma para poder integrarse al grupo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema no está en la estudiante, sino en el grupo que no respeta una diferencia cultural válida."
+        },
+        {
+          "letter": "B",
+          "text": "Que la diferencia cultural siempre produce conflictos entre los estudiantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia cultural no es la causa del conflicto, la causa es la falta de respeto del grupo."
+        },
+        {
+          "letter": "C",
+          "text": "Que se vulnera el respeto a la diferencia y se reproduce la desigualdad dentro del aula.",
+          "is_correct": true,
+          "feedback": "Correcto. Excluir a alguien por su origen vulnera el respeto a la diferencia y mantiene la desigualdad en el aula."
+        },
+        {
+          "letter": "D",
+          "text": "Que la institución debería prohibir que todos los estudiantes hablen durante el recreo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Prohibir cualquier conversación es una medida arbitraria que castiga a todo el grupo por el acto de uno."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar esta situación permite ver que la desigualdad aparece cuando un grupo rechaza a otro por su origen. El respeto a la diferencia exige aceptar que hablar otra lengua o tener otra costumbre no es un defecto, sino una parte de la identidad de las personas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.82,
+      "bundle_id": "CO-SOC-6-2026-W40-la-ciudadania-y-los-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W40-la-ciudadania-y-los-derechos-humanos-001-MASTERY-bundle-v8",
+      "statement": "En Cali se discute un proyecto de ley que quiere modificar un derecho protegido por la Constitución. ¿Qué analiza correctamente ese trámite?",
+      "context": "En Cali, el Congreso discute un proyecto de ley que quiere cambiar un derecho protegido por la Constitución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el proyecto puede aprobarse igual, porque el Congreso tiene la última palabra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Congreso legisla, pero ninguna ley puede contradecir los derechos que fija la Constitución."
+        },
+        {
+          "letter": "B",
+          "text": "Que el proyecto solo puede estudiarlo un abogado, porque los ciudadanos no participan en eso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La participación ciudadana es un derecho, y los estudiantes y las comunidades pueden opinar sobre estas decisiones."
+        },
+        {
+          "letter": "C",
+          "text": "Que la decisión final la toma solamente el presidente de la República.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El presidente puede aprobar u objetar un proyecto, pero no puede cambiar por su cuenta los derechos constitucionales."
+        },
+        {
+          "letter": "D",
+          "text": "Que el proyecto debe revisarse para que respete la Constitución y que la Corte Constitucional vigila el resultado.",
+          "is_correct": true,
+          "feedback": "Correcto. La revisión constitucional asegura que la ley respete los derechos y la Corte vigila que así sea."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En una democracia la ley se discute, se vota y se revisa para que respete la Constitución. Así, ningún proyecto de ley puede borrar un derecho fundamental de la población, porque la norma superior del país está por encima de cualquier ley.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.81,
+      "bundle_id": "CO-SOC-6-2026-W40-la-ciudadania-y-los-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W40-la-ciudadania-y-los-derechos-humanos-001-MASTERY-bundle-v9",
+      "statement": "Una comunidad de Bucaramanga enfrenta una situación que pone en riesgo el derecho a la educación de sus habitantes. ¿Cuál de las siguientes opciones se evalúa mejor?",
+      "context": "En Bucaramanga, una comunidad enfrenta una situación que pone en riesgo el derecho a la educación de sus habitantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Garantizar que todos los niños del barrio puedan asistir al colegio sin que se les cobre ninguna cuota.",
+          "is_correct": true,
+          "feedback": "Correcto. La educación es un derecho y el Estado debe garantizar que todos los niños ingresen sin que se les cobre ninguna cuota."
+        },
+        {
+          "letter": "B",
+          "text": "Esperar a que la comunidad se organic sola para resolver el problema educativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esperar sin acciones permite que el derecho siga vulnerado, la respuesta exige una garantía del Estado."
+        },
+        {
+          "letter": "C",
+          "text": "Cerrar la escuela del barrio hasta que la situación se normalice por completo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cerrar la escuela vulnera el derecho a la educación de los niños en lugar de protegerlo."
+        },
+        {
+          "letter": "D",
+          "text": "Aumentar las multas a los padres que no envían a sus hijos al colegio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sancionar a las familias castiga a los niños y no garantiza que el Estado ofrezca educación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar una medida de protección de derechos exige comprobar si garantiza el acceso real de las personas a ese derecho. Garantizar que los niños ingresen al colegio sin costos satisface el derecho a la educación, mientras que las sanciones a las familias no reemplazan la garantía del Estado y pueden empeorar la situación.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.79,
+      "bundle_id": "CO-SOC-6-2026-W40-la-ciudadania-y-los-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W40-la-ciudadania-y-los-derechos-humanos-001-MASTERY-bundle-v10",
+      "statement": "Un colegio de Pereira decide si admite a una estudiante que tuvo que salir de su casa por un conflicto familiar. ¿Cuál decisión evalúa mejor el respeto a los derechos humanos?",
+      "context": "En Pereira, un colegio debe decidir si admite a una estudiante que tuvo que salir de su casa por un conflicto familiar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Negar el ingreso porque la estudiante no trae los documentos completos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La burocracia no puede usarse para negarle a una niña el derecho a la educación, sobre todo en una emergencia."
+        },
+        {
+          "letter": "B",
+          "text": "Admitir a la estudiante y activar las medidas de protección previstas para su seguridad.",
+          "is_correct": true,
+          "feedback": "Correcto. Priorizar la seguridad de la menor y garantizar su escolarización protege su vida y su derecho a la educación."
+        },
+        {
+          "letter": "C",
+          "text": "Esperar a que la situación de la familia se normalice antes de decidir sobre el ingreso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esperar sin protección deja a la estudiante en riesgo y vulnera su derecho a la educación."
+        },
+        {
+          "letter": "D",
+          "text": "Admitirla solo si la estudiante se compromete a portarse bien durante todo el año.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conducta de la estudiante no puede ser condición para ejercer un derecho fundamental como la educación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar una decisión con perspectiva de derechos humanos exige priorizar la vida, la dignidad y la educación de las personas, sobre todo de los niños. Ante una situación de riesgo, la respuesta ética es proteger a la persona afectada y garantizar su acceso al colegio sin exigir condiciones que ella no puede cumplir.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.77,
+      "bundle_id": "CO-SOC-6-2026-W40-la-ciudadania-y-los-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
