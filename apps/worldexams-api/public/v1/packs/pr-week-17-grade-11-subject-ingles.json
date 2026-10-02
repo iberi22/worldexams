@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "She said that she was tired.",
           "is_correct": true,
-          "feedback": "Correcto. El verbo 'to be' pasa a pasado, el pronombre 'I' se cambia y el complemento temporal tambien retrocede."
+          "feedback": "Correct. The verb 'to be' shifts to the past, the pronoun 'I' changes, and the time expression also shifts back."
         },
         {
           "letter": "B",
           "text": "She said that she is tired.",
           "is_correct": false,
-          "feedback": "Incorrecto. En discurso indirecto el verbo 'to be' debe ir en pasado, no en presente como en la frase original."
+          "feedback": "Incorrect. In reported speech, the verb 'to be' must be in the past, not in the present as in the original sentence."
         },
         {
           "letter": "C",
           "text": "She said that I was tired.",
           "is_correct": false,
-          "feedback": "Incorrecto. El pronombre de la primera persona se ajusta a la persona del hablante, que aqui es 'she'."
+          "feedback": "Incorrect. The first-person pronoun changes to match the speaker, who here is 'she'."
         },
         {
           "letter": "D",
           "text": "She say that she was tired.",
           "is_correct": false,
-          "feedback": "Incorrecto. El verbo de introductory tambien retrocede a pasado: 'said', no 'say'."
+          "feedback": "Incorrect. The introductory verb also shifts back to the past: 'said', not 'say'."
         }
       ],
       "correct_answer": "A",
@@ -61,25 +61,25 @@
           "letter": "A",
           "text": "boiled",
           "is_correct": false,
-          "feedback": "Incorrecto. Las verdades universales suelen mantenerse en presente incluso dentro de un discurso indirecto en pasado."
+          "feedback": "Incorrect. Universal truths usually stay in the present, even in past reported speech."
         },
         {
           "letter": "B",
           "text": "would boil",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Would boil' pertenece a un condicional y no corresponde a un discurso indirecto de una afirmacion."
+          "feedback": "Incorrect. 'Would boil' belongs to a conditional and is not how a reported statement is formed."
         },
         {
           "letter": "C",
           "text": "boils",
           "is_correct": true,
-          "feedback": "Correcto. Las verdades universales no retroceden, de modo que el verbo cientifico conserva el presente simple."
+          "feedback": "Correct. Universal truths do not backshift, so the verb stating the scientific fact keeps the present simple."
         },
         {
           "letter": "D",
           "text": "is boiling",
           "is_correct": false,
-          "feedback": "Incorrecto. El presente continuo tampoco corresponde a la idea de una verdad general permanente."
+          "feedback": "Incorrect. The present continuous does not fit the idea of a permanent general truth either."
         }
       ],
       "correct_answer": "C",
@@ -106,25 +106,25 @@
           "letter": "A",
           "text": "He said that he will call me tomorrow.",
           "is_correct": false,
-          "feedback": "Incorrecto. Ni el futuro ni la expresion temporal retroceden, de modo que la frase sigue demasiado directa."
+          "feedback": "Incorrect. Neither the future nor the time expression shifts back, so the sentence still reads like direct speech."
         },
         {
           "letter": "B",
           "text": "He said that he would call me the next day.",
           "is_correct": true,
-          "feedback": "Correcto. 'Will' se convierte en 'would', 'I' en 'he', 'you' en 'me' y 'tomorrow' en 'the next day'."
+          "feedback": "Correct. 'Will' becomes 'would', 'I' becomes 'he', 'you' becomes 'me', and 'tomorrow' becomes 'the next day'."
         },
         {
           "letter": "C",
           "text": "He said that he called me the next day.",
           "is_correct": false,
-          "feedback": "Incorrecto. El futuro 'will call' debe convertirse en 'would call' y no en pasado simple 'called'."
+          "feedback": "Incorrect. The future 'will call' must become 'would call', not the past simple 'called'."
         },
         {
           "letter": "D",
           "text": "He told me that he would call the next day.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Told' requiere un objeto indirecto explicito, y ademas falta el 'me' del complemento del nombre."
+          "feedback": "Incorrect. 'Told' requires an explicit indirect object, and the complement 'me' is missing."
         }
       ],
       "correct_answer": "B",
@@ -151,25 +151,25 @@
           "letter": "A",
           "text": "He said that she is studying for the exam.",
           "is_correct": false,
-          "feedback": "Incorrecto. El presente continuo debe retroceder a pasado continuo para mantener la coherencia temporal."
+          "feedback": "Incorrect. The present continuous must shift back to the past continuous to keep the tenses consistent."
         },
         {
           "letter": "B",
           "text": "He said that she studied for the exam.",
           "is_correct": false,
-          "feedback": "Incorrecto. El pasado simple corresponde a un presente simple original, no a un presente continuo."
+          "feedback": "Incorrect. The past simple corresponds to an original present simple, not a present continuous."
         },
         {
           "letter": "C",
           "text": "He said that she would study for the exam.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Would study' corresponde a un futuro o a un condicional, no a un presente continuo."
+          "feedback": "Incorrect. 'Would study' corresponds to a future or a conditional, not a present continuous."
         },
         {
           "letter": "D",
           "text": "He said that she was studying for the exam.",
           "is_correct": true,
-          "feedback": "Correcto. El presente continuo se convierte en pasado continuo cuando el discurso indirecto va en pasado."
+          "feedback": "Correct. The present continuous becomes the past continuous when the reported speech is in the past."
         }
       ],
       "correct_answer": "D",
@@ -196,25 +196,25 @@
           "letter": "A",
           "text": "She said that she can swim very well.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Can' pertenece al discurso directo y no retrocede cuando el marco esta en pasado."
+          "feedback": "Incorrect. 'Can' is the direct-speech form and has not been shifted back, even though the reporting frame is in the past."
         },
         {
           "letter": "B",
           "text": "would be able to swim very well",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Would be able to' expresa una capacidad futura hipotetica y no traduce la capacidad declarada en el discurso directo."
+          "feedback": "Incorrect. 'Would be able to' expresses a hypothetical future ability and does not convey the ability stated in the direct speech."
         },
         {
           "letter": "C",
           "text": "She said that she may swim very well.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'May' expresa permiso o posibilidad y no traduce la capacidad declarada con 'can'."
+          "feedback": "Incorrect. 'May' expresses permission or possibility and does not convey the ability expressed by 'can'."
         },
         {
           "letter": "D",
           "text": "She said that she could swim very well.",
           "is_correct": true,
-          "feedback": "Correcto. 'Can' retrocede a 'could' en discurso indirecto y el pronombre se ajusta a 'she'."
+          "feedback": "Correct. 'Can' shifts back to 'could' in reported speech, and the pronoun changes to 'she'."
         }
       ],
       "correct_answer": "D",
@@ -241,25 +241,25 @@
           "letter": "A",
           "text": "My friend said me that she was moving to Ponce.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Say' no lleva objeto indirecto; si se quiere dar el destinatario se usa 'tell me'."
+          "feedback": "Incorrect. 'Say' does not take an indirect object; to name the listener, use 'tell me'."
         },
         {
           "letter": "B",
           "text": "My friend told me that she was moving to Ponce.",
           "is_correct": true,
-          "feedback": "Correcto. 'Tell' exige un objeto indirecto explicito, y 'me' cumple esa funcion con 'that' introduciendo la oracion."
+          "feedback": "Correct. 'Tell' requires an explicit indirect object, and 'me' fills that role, with 'that' introducing the clause."
         },
         {
           "letter": "C",
           "text": "My friend told that she was moving to Ponce.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Tell' requiere el objeto indirecto, y sin el la frase es incompleta."
+          "feedback": "Incorrect. 'Tell' requires an indirect object, and without one the sentence is incomplete."
         },
         {
           "letter": "D",
           "text": "My friend said me she moving to Ponce.",
           "is_correct": false,
-          "feedback": "Incorrecto. Aparte del error de 'say me', falta el verbo principal 'was' y la estructura no es gramatical."
+          "feedback": "Incorrect. Besides the 'say me' error, the main verb 'was' is missing, so the structure is ungrammatical."
         }
       ],
       "correct_answer": "B",
@@ -286,25 +286,25 @@
           "letter": "A",
           "text": "She said that she would meet me there the next day.",
           "is_correct": true,
-          "feedback": "Correcto. 'Here' se convierte en 'there' porque el lugar de referencia cambia al del hablante que reporta."
+          "feedback": "Correct. 'Here' becomes 'there' because the place of reference shifts to that of the reporting speaker."
         },
         {
           "letter": "B",
           "text": "She said that she would meet me here the next day.",
           "is_correct": false,
-          "feedback": "Incorrecto. Al cambiar de hablante, las palabras de lugar tambien deben ajustarse: 'here' pasa a 'there'."
+          "feedback": "Incorrect. When the speaker changes, place words must also change: 'here' becomes 'there'."
         },
         {
           "letter": "C",
           "text": "She said that she would meet me there tomorrow.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Tomorrow' debe retroceder a 'the next day' porque el marco temporal ya es pasado."
+          "feedback": "Incorrect. 'Tomorrow' must shift back to 'the next day' because the time frame is now in the past."
         },
         {
           "letter": "D",
           "text": "She said that she will meet me there the next day.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Will' no retrocede y ademas aparece con una referencia temporal ya convertida al pasado."
+          "feedback": "Incorrect. 'Will' has not been shifted back, and it also appears with a time reference that has already been shifted to the past."
         }
       ],
       "correct_answer": "A",
@@ -331,25 +331,25 @@
           "letter": "A",
           "text": "She said that she has already finished the report before I arrived.",
           "is_correct": false,
-          "feedback": "Incorrecto. El pasado perfecto no retrocede a presente perfecto; se mantiene en su propio nivel temporal."
+          "feedback": "Incorrect. The past perfect does not shift to the present perfect; it stays in the same tense."
         },
         {
           "letter": "B",
           "text": "She said that she would have finished the report before I arrived.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Would have' es condicional tipo tres y no corresponde a un discurso indirecto de un hecho pasado."
+          "feedback": "Incorrect. 'Would have' is a third conditional and is not used to report a past fact."
         },
         {
           "letter": "C",
           "text": "She said that she had already finished the report before I arrived.",
           "is_correct": true,
-          "feedback": "Correcto. El pasado perfecto ya estaba en pasado y se mantiene; el pronombre 'you' se ajusta a 'I'."
+          "feedback": "Correct. The past perfect is already a past tense, so it stays the same; the pronoun 'you' changes to 'I'."
         },
         {
           "letter": "D",
           "text": "She said that she had already finish the report before I arrived.",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de 'had' el verbo va en participio 'finished' y no en la forma base 'finish'."
+          "feedback": "Incorrect. After 'had', the verb takes the participle 'finished', not the base form 'finish'."
         }
       ],
       "correct_answer": "C",
@@ -376,25 +376,25 @@
           "letter": "A",
           "text": "She said that she has visited Ponce three times.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Has visited' es presente perfecto y no retrocede, de modo que el tiempo queda incoherente."
+          "feedback": "Incorrect. 'Has visited' is present perfect and has not been shifted back, so the tenses are inconsistent."
         },
         {
           "letter": "B",
           "text": "She said that she would visit Ponce three times.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Would visit' expresa una accion futura hipotetica y no una experiencia pasada ya ocurrida."
+          "feedback": "Incorrect. 'Would visit' expresses a hypothetical future action, not a past experience that already happened."
         },
         {
           "letter": "C",
           "text": "She said that she had visited Ponce three times.",
           "is_correct": true,
-          "feedback": "Correcto. El presente perfecto retrocede a pasado perfecto cuando el discurso indirecto va en pasado simple."
+          "feedback": "Correct. The present perfect shifts back to the past perfect when the reporting verb is in the past simple."
         },
         {
           "letter": "D",
           "text": "She said that she visited Ponce three times ago.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Ago' fue introducido por el hablante que reporta y no estaba en la frase original."
+          "feedback": "Incorrect. 'Ago' was added by the reporting speaker and was not in the original sentence."
         }
       ],
       "correct_answer": "C",
@@ -421,25 +421,25 @@
           "letter": "A",
           "text": "In informal speech when reporting a statement, not a question or command.",
           "is_correct": true,
-          "feedback": "Correcto. 'That' se omite con frecuencia al informar de una afirmacion en el registro coloquial."
+          "feedback": "Correct. 'That' is often omitted when reporting a statement in informal speech."
         },
         {
           "letter": "B",
           "text": "Only when the reported speech is a question.",
           "is_correct": false,
-          "feedback": "Incorrecto. En las preguntas el 'that' se convierte en un interrogativo y nunca se omite."
+          "feedback": "Incorrect. In questions, 'that' is replaced by a question word, so it is never simply omitted."
         },
         {
           "letter": "C",
           "text": "Whenever the main verb is in the present tense.",
           "is_correct": false,
-          "feedback": "Incorrecto. La presencia o ausencia de 'that' depende del tipo de oracion que se informa, no de la conjugacion."
+          "feedback": "Incorrect. Whether 'that' is used or left out depends on the type of sentence being reported, not on the conjugation."
         },
         {
           "letter": "D",
           "text": "Never in any register of the language.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'That' es imprescindible en el registro formal y en los textos escritos Academicamente."
+          "feedback": "Incorrect. 'That' is essential in formal register and in academic writing."
         }
       ],
       "correct_answer": "A",
@@ -466,25 +466,25 @@
           "letter": "A",
           "text": "mumble",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Mumble' describe hablar de forma poco clara y no es apropiado para una noticia academica."
+          "feedback": "Incorrect. 'Mumble' means speaking unclearly and is not appropriate for academic news."
         },
         {
           "letter": "B",
           "text": "complain",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Complain' implica malestar o dissatisfied y no corresponde a la comunicacion de una buena noticia."
+          "feedback": "Incorrect. 'Complain' implies discomfort or dissatisfaction and does not fit the sharing of good news."
         },
         {
           "letter": "C",
           "text": "mister",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Mister' no es un verbo de habla y por eso no puede introducir discurso indirecto."
+          "feedback": "Incorrect. 'Mister' is not a reporting verb, so it cannot introduce reported speech."
         },
         {
           "letter": "D",
           "text": "announce",
           "is_correct": true,
-          "feedback": "Correcto. 'Announce' transmite una noticia formal y encaja con un logro academico como una beca."
+          "feedback": "Correct. 'Announce' conveys formal news and fits an academic achievement such as a scholarship."
         }
       ],
       "correct_answer": "D",
@@ -511,25 +511,25 @@
           "letter": "A",
           "text": "He said that he is going to study medicine.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Going to' debe retroceder a pasado cuando el marco del discurso indirecto esta en 'said'."
+          "feedback": "Incorrect. 'Going to' must backshift to the past when the reported speech frame uses 'said'."
         },
         {
           "letter": "B",
           "text": "He said that he was going to study medicine.",
           "is_correct": true,
-          "feedback": "Correcto. 'Going to' se convierte en 'was going to' y el pronombre se ajusta a 'he'."
+          "feedback": "Correct. 'Going to' becomes 'was going to' and the pronoun shifts to 'he'."
         },
         {
           "letter": "C",
           "text": "He said that he will go to study medicine.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Going to' expresa una intencion planificada y no se sustituye por 'will' en el discurso indirecto."
+          "feedback": "Incorrect. 'Going to' expresses a planned intention and is not replaced by 'will' in reported speech."
         },
         {
           "letter": "D",
           "text": "He said that he went to study medicine.",
           "is_correct": false,
-          "feedback": "Incorrecto. El pasado simple 'went' corresponde a un presente simple original y no a una intencion futura."
+          "feedback": "Incorrect. The past simple 'went' corresponds to an original present simple, not to a future intention."
         }
       ],
       "correct_answer": "B",
@@ -556,25 +556,25 @@
           "letter": "A",
           "text": "She said that she would live in Mayaguez.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Would live' expresa una hipotesis futura y no un estado que existio en el pasado."
+          "feedback": "Incorrect. 'Would live' expresses a future hypothesis, not a state that existed in the past."
         },
         {
           "letter": "B",
           "text": "She said that she used to live in Mayaguez.",
           "is_correct": true,
-          "feedback": "Correcto. 'Used to' describe un estado pasado y permanece igual dentro del discurso indirecto."
+          "feedback": "Correct. 'Used to' describes a past state and stays the same in reported speech."
         },
         {
           "letter": "C",
           "text": "She said that she lives in Mayaguez.",
           "is_correct": false,
-          "feedback": "Incorrecto. El presente simple 'lives' contradice el sentido de 'used to', que ya no es verdad."
+          "feedback": "Incorrect. The present simple 'lives' contradicts the meaning of 'used to', which implies it is no longer true."
         },
         {
           "letter": "D",
           "text": "She said that she lived to Mayaguez.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Live' no lleva 'to' detras; la preposicion correcta con un lugar es 'in'."
+          "feedback": "Incorrect. 'Live' is not followed by 'to'; the correct preposition with a place is 'in'."
         }
       ],
       "correct_answer": "B",
@@ -601,25 +601,25 @@
           "letter": "A",
           "text": "They said that they were waiting for the bus when it started raining.",
           "is_correct": false,
-          "feedback": "Incorrecto. Es una variante aceptable con el gerundio simple, pero el enunciado pide el pasado continuo, que es la conversion estandar."
+          "feedback": "Incorrect. It is an acceptable variant with the simple gerund, but the prompt asks for the past continuous, which is the standard conversion."
         },
         {
           "letter": "B",
           "text": "They said that they waited for the bus when it started to rain.",
           "is_correct": false,
-          "feedback": "Incorrecto. El pasado continuo debe mantenerse, ya que describe una accion que estaba en curso."
+          "feedback": "Incorrect. The past continuous must be kept, since it describes an action that was in progress."
         },
         {
           "letter": "C",
           "text": "They said that they would wait for the bus when it started to rain.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Would wait' es condicional y no corresponde a una escena que ya estaba ocurrir en pasado."
+          "feedback": "Incorrect. 'Would wait' is conditional and does not fit a scene that was already happening in the past."
         },
         {
           "letter": "D",
           "text": "They said that they were waiting for the bus when it started to rain.",
           "is_correct": true,
-          "feedback": "Correcto. 'We' se cambia a 'they' y los dos verbos en pasado se mantienen en su tiempo."
+          "feedback": "Correct. 'We' changes to 'they' and both past-tense verbs keep their tense."
         }
       ],
       "correct_answer": "D",
@@ -646,25 +646,25 @@
           "letter": "A",
           "text": "When the reported speech contains a modal verb.",
           "is_correct": false,
-          "feedback": "Incorrecto. Los modales si retroceden en la mayoria de los casos, y solo permanecen iguales cuando su sentido no cambia con el tiempo."
+          "feedback": "Incorrect. Modals do backshift in most cases and only stay the same when their meaning does not change over time."
         },
         {
           "letter": "B",
           "text": "Only when the sentence is a question.",
           "is_correct": false,
-          "feedback": "Incorrecto. Las preguntas cambian de estructura, pero la regla de no retroceder depende del tiempo del marco."
+          "feedback": "Incorrect. Questions change their structure, but the no-backshift rule depends on the tense of the reporting frame."
         },
         {
           "letter": "C",
           "text": "When the reporting verb is already in the present.",
           "is_correct": true,
-          "feedback": "Correcto. Si el marco esta en presente, el discurso conserva el tiempo original del enunciado."
+          "feedback": "Correct. If the reporting frame is in the present, the reported speech keeps the original tense of the statement."
         },
         {
           "letter": "D",
           "text": "Only when the statement refers to the future.",
           "is_correct": false,
-          "feedback": "Incorrecto. Las afirmaciones futuras sí retroceden, de 'will' a 'would', aunque la frase se formule en presente."
+          "feedback": "Incorrect. Future statements do backshift, from 'will' to 'would', even if the sentence is phrased in the present."
         }
       ],
       "correct_answer": "C",
@@ -691,25 +691,25 @@
           "letter": "A",
           "text": "She said that the exam had been very difficult.",
           "is_correct": true,
-          "feedback": "Correcto. El pasado simple retrocede a pasado perfecto cuando el discurso indirecto va en pasado."
+          "feedback": "Correct. The past simple backshifts to the past perfect when the reported speech is in the past."
         },
         {
           "letter": "B",
           "text": "She said that the exam was very difficult.",
           "is_correct": false,
-          "feedback": "Incorrecto. El pasado simple debe retroceder a pasado perfecto cuando el marco de 'said' ya esta en pasado."
+          "feedback": "Incorrect. The past simple must backshift to the past perfect when the 'said' frame is already in the past."
         },
         {
           "letter": "C",
           "text": "She said that the exam would be very difficult.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Would be' es condicional y no corresponde a un hecho que ya ocurrio en el pasado."
+          "feedback": "Incorrect. 'Would be' is conditional and does not fit a fact that already happened in the past."
         },
         {
           "letter": "D",
           "text": "She said that the exam has been very difficult.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Has been' es presente perfecto y contradice el hecho ya ocurrido que la persona estaba contando en pasado."
+          "feedback": "Incorrect. 'Has been' is present perfect and contradicts the completed event the person was recounting in the past."
         }
       ],
       "correct_answer": "A",
@@ -736,25 +736,25 @@
           "letter": "A",
           "text": "He said that he would bring his sister because she knew the place.",
           "is_correct": true,
-          "feedback": "Correcto. Los posesivos 'my' y 'my' se ajustan a 'his', y el futuro pasa a 'would'."
+          "feedback": "Correct. The possessives 'my' and 'my' change to 'his', and the future becomes 'would'."
         },
         {
           "letter": "B",
           "text": "He said that I would bring my sister because she knew the place.",
           "is_correct": false,
-          "feedback": "Incorrecto. El pronombre sujeto de la frase original no se conserva, porque pasa a referido al hablante que reporta."
+          "feedback": "Incorrect. The subject pronoun of the original sentence is not kept, because it shifts to match the reporting speaker's perspective."
         },
         {
           "letter": "C",
           "text": "He said that he would bring her sister because she knew the place.",
           "is_correct": false,
-          "feedback": "Incorrecto. El posesivo debe ser 'his', porque el referente es el hermano que hablo, y no 'her'."
+          "feedback": "Incorrect. The possessive must be 'his', not 'her', because the referent is the brother who spoke."
         },
         {
           "letter": "D",
           "text": "He said that he would bring my sister because she knew the place.",
           "is_correct": false,
-          "feedback": "Incorrecto. El posesivo 'my' solo es valido si la frase sigue siendo narrada desde la perspectiva del hablante original."
+          "feedback": "Incorrect. The possessive 'my' is only valid if the sentence is still narrated from the original speaker's perspective."
         }
       ],
       "correct_answer": "A",
@@ -781,25 +781,25 @@
           "letter": "A",
           "text": "She said that she have lost her notebook.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Have' es presente y no concuerda con el marco de discurso indirecto en pasado."
+          "feedback": "Incorrect. 'Have' is present and does not agree with a past reported speech frame."
         },
         {
           "letter": "B",
           "text": "She said that she had lose her notebook.",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de 'had' el verbo va en participio 'lost' y no en la forma base 'lose'."
+          "feedback": "Incorrect. After 'had' the verb takes the participle 'lost', not the base form 'lose'."
         },
         {
           "letter": "C",
           "text": "She said she had lose her notebook.",
           "is_correct": false,
-          "feedback": "Incorrecto. Aunque omitir 'that' es posible en el habla, el participio sigue siendo obligatorio en este caso."
+          "feedback": "Incorrect. Although 'that' can be omitted in speech, the participle is still required here."
         },
         {
           "letter": "D",
           "text": "She said that she had lost her notebook.",
           "is_correct": true,
-          "feedback": "Correcto. 'Had lost' es pasado perfecto y reproduce correctamente el pasado simple original 'lost'."
+          "feedback": "Correct. 'Had lost' is past perfect and correctly renders the original past simple 'lost'."
         }
       ],
       "correct_answer": "D",
@@ -826,25 +826,25 @@
           "letter": "A",
           "text": "He said that he doesn't know where the library is.",
           "is_correct": false,
-          "feedback": "Incorrecto. Ni la negacion ni el verbo principal retroceden, y la frase permanece demasiado directa."
+          "feedback": "Incorrect. Neither the negation nor the main verb is backshifted, so the sentence remains too direct."
         },
         {
           "letter": "B",
           "text": "He said that he didn't know where the library was.",
           "is_correct": true,
-          "feedback": "Correcto. 'Don't' pasa a 'didn't', el verbo principal retrocede a pasado y 'is' pasa a 'was'."
+          "feedback": "Correct. 'Don't' becomes 'didn't', the main verb backshifts to the past, and 'is' becomes 'was'."
         },
         {
           "letter": "C",
           "text": "He said that he didn't knew where the library was.",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de 'didn't' el verbo vuelve a la forma base 'know' y no al pasado 'knew'."
+          "feedback": "Incorrect. After 'didn't' the verb returns to the base form 'know', not the past 'knew'."
         },
         {
           "letter": "D",
           "text": "He said that where the library was, he didn't know.",
           "is_correct": false,
-          "feedback": "Incorrecto. La clausula interrogativa indirecta no puede ocupar el lugar de la oracion principal del discurso indirecto."
+          "feedback": "Incorrect. The indirect question clause cannot take the place of the main clause in reported speech."
         }
       ],
       "correct_answer": "B",
@@ -871,25 +871,25 @@
           "letter": "A",
           "text": "She said that they could meet here this afternoon.",
           "is_correct": false,
-          "feedback": "Incorrecto. Las palabras de lugar y tiempo deben ajustarse porque la perspectiva del relato es ahora la de ella."
+          "feedback": "Incorrect. Place and time words must be adjusted because the story is now told from her perspective."
         },
         {
           "letter": "B",
           "text": "She said that they can meet there that afternoon.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Can' no retrocede a 'could' cuando el marco de la oracion esta en pasado."
+          "feedback": "Incorrect. 'Can' is not backshifted to 'could' here, even though the sentence frame is in the past."
         },
         {
           "letter": "C",
           "text": "She said that they could meet there that afternoon.",
           "is_correct": true,
-          "feedback": "Correcto. 'Can' pasa a 'could', 'we' a 'they', 'here' a 'there' y 'this afternoon' a 'that afternoon'."
+          "feedback": "Correct. 'Can' becomes 'could', 'we' becomes 'they', 'here' becomes 'there', and 'this afternoon' becomes 'that afternoon'."
         },
         {
           "letter": "D",
           "text": "She said that they could meet there that afternoon ago.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Ago' pertenece al pasado distant y no puede acompanar a 'that afternoon'."
+          "feedback": "Incorrect. 'Ago' belongs to the distant past and cannot go with 'that afternoon'."
         }
       ],
       "correct_answer": "C",

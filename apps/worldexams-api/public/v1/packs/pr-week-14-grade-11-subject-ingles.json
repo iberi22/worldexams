@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "If I lived closer to San Juan, I would walk to school every day.",
           "is_correct": true,
-          "feedback": "Correcto. El tipo dos expresa una hipotesis presente e irreal: pasado simple mas 'would' mas infinitivo."
+          "feedback": "Correct. The second conditional expresses an unreal present hypothesis: past simple plus 'would' plus infinitive."
         },
         {
           "letter": "B",
           "text": "If I will live closer to San Juan, I would walk to school every day.",
           "is_correct": false,
-          "feedback": "Incorrecto. La clausula de 'if' no lleva 'will'; en el tipo dos va en pasado simple."
+          "feedback": "Incorrect. The 'if' clause does not take 'will'; in the second conditional it takes the past simple."
         },
         {
           "letter": "C",
           "text": "If I had lived closer to San Juan, I would walk to school every day.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Had lived' corresponde al condicional tipo tres, que se refiere al pasado en lugar del presente."
+          "feedback": "Incorrect. 'Had lived' belongs to the third conditional, which refers to the past rather than the present."
         },
         {
           "letter": "D",
           "text": "If I live closer to San Juan, I would walk to school every day.",
           "is_correct": false,
-          "feedback": "Incorrecto. El presente simple en la clausula de 'if' corresponde al tipo uno, no a una hipotesis presente del tipo dos."
+          "feedback": "Incorrect. The present simple in the 'if' clause belongs to the first conditional, not to a present hypothesis of the second conditional."
         }
       ],
       "correct_answer": "A",
@@ -61,25 +61,25 @@
           "letter": "A",
           "text": "was",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Was' es posible en lenguaje coloquial, pero en el condicional tipo dos la forma formal y esperada es 'were'."
+          "feedback": "Incorrect. 'Was' is possible in informal speech, but in the second conditional the formal, expected form is 'were'."
         },
         {
           "letter": "B",
           "text": "am",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Am' es presente y no corresponde a la hipotesis irreal que plantea el tipo dos."
+          "feedback": "Incorrect. 'Am' is present tense and does not fit the unreal hypothesis of the second conditional."
         },
         {
           "letter": "C",
           "text": "were",
           "is_correct": true,
-          "feedback": "Correcto. En el condicional tipo dos el verbo 'to be' toma la forma 'were' con cualquier sujeto, incluso con 'I'."
+          "feedback": "Correct. In the second conditional, the verb 'to be' takes the form 'were' with any subject, even with 'I'."
         },
         {
           "letter": "D",
           "text": "will be",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Will be' pertenece a un futuro y no a la hipotesis presente del condicional tipo dos."
+          "feedback": "Incorrect. 'Will be' is a future form and does not fit the present hypothesis of the second conditional."
         }
       ],
       "correct_answer": "C",
@@ -106,25 +106,25 @@
           "letter": "A",
           "text": "studied",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Studied' es pasado simple simple y corresponderia al tipo dos, no a una hipotesis pasada."
+          "feedback": "Incorrect. 'Studied' is past simple and would belong to the second conditional, not to a past hypothesis."
         },
         {
           "letter": "B",
           "text": "had studied",
           "is_correct": true,
-          "feedback": "Correcto. El tipo tres expresa una hipotesis pasada: 'had' mas participio en la clausula de 'if'."
+          "feedback": "Correct. The third conditional expresses a past hypothesis: 'had' plus participle in the 'if' clause."
         },
         {
           "letter": "C",
           "text": "has studied",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Has' es presente perfecto y no corresponde a una accion pasada que se cumplio."
+          "feedback": "Incorrect. 'Has' is present perfect and does not fit a past action that was carried out."
         },
         {
           "letter": "D",
           "text": "would study",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Would study' es el resultado de un condicional y no la condicion; la colocacion seria incorrecta."
+          "feedback": "Incorrect. 'Would study' is the result of a conditional, not the condition, so it is in the wrong place."
         }
       ],
       "correct_answer": "B",
@@ -151,25 +151,25 @@
           "letter": "A",
           "text": "have",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Have' es presente y pertenece al condicional tipo uno, que expresa una condicion real y posible."
+          "feedback": "Incorrect. 'Have' is present tense and belongs to the first conditional, which expresses a real, possible condition."
         },
         {
           "letter": "B",
           "text": "will have",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Will have' es futuro y no corresponde a la hipotesis irreal del tipo dos."
+          "feedback": "Incorrect. 'Will have' is future and does not fit the unreal hypothesis of the second conditional."
         },
         {
           "letter": "C",
           "text": "would have",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Would have' es el resultado del condicional tipo tres y va en la principal, no en la de 'if'."
+          "feedback": "Incorrect. 'Would have' is the result of the third conditional and goes in the main clause, not in the 'if' clause."
         },
         {
           "letter": "D",
           "text": "had",
           "is_correct": true,
-          "feedback": "Correcto. 'Had' es el pasado de 'to have' y corresponde a la hipotesis presente del condicional tipo dos."
+          "feedback": "Correct. 'Had' is the past of 'to have' and expresses the present hypothesis of the second conditional."
         }
       ],
       "correct_answer": "D",
@@ -196,25 +196,25 @@
           "letter": "A",
           "text": "knew",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Knew' es pasado simple y corresponde al condicional tipo dos, que habla del presente."
+          "feedback": "Incorrect. 'Knew' is past simple and belongs to the second conditional, which refers to the present."
         },
         {
           "letter": "B",
           "text": "have known",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Have known' es presente perfecto y no corresponde a una hipotesis pasada no cumplida."
+          "feedback": "Incorrect. 'Have known' is present perfect and does not express an unfulfilled past hypothesis."
         },
         {
           "letter": "C",
           "text": "would know",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Would know' es el resultado de un condicional y no la condicion de la frase."
+          "feedback": "Incorrect. 'Would know' is the result of a conditional, not the condition of the sentence."
         },
         {
           "letter": "D",
           "text": "had known",
           "is_correct": true,
-          "feedback": "Correcto. 'Had known' es el pasado perfecto y expresa la hipotesis pasada del condicional tipo tres."
+          "feedback": "Correct. 'Had known' is the past perfect and expresses the past hypothesis of the third conditional."
         }
       ],
       "correct_answer": "D",
@@ -241,25 +241,25 @@
           "letter": "A",
           "text": "If I had studied medicine, I would have worked in a hospital now.",
           "is_correct": false,
-          "feedback": "Incorrecto. Con las dos partes en tipo tres la frase suena redundante y no expresa el cambio de estado actual."
+          "feedback": "Incorrect. With both clauses in the third conditional, the sentence sounds redundant and does not express the change in the present situation."
         },
         {
           "letter": "B",
           "text": "If I had studied medicine, I would be working in a hospital now.",
           "is_correct": true,
-          "feedback": "Correcto. Es la estructura mixta clasica: tipo tres en la clausula de 'if' y tipo dos en la principal."
+          "feedback": "Correct. This is the classic mixed structure: third conditional in the 'if' clause and second conditional in the main clause."
         },
         {
           "letter": "C",
           "text": "If I studied medicine, I had been working in a hospital now.",
           "is_correct": false,
-          "feedback": "Incorrecto. El orden esta invertido: el tipo dos pertenece a la principal y el tipo tres a la clausula de 'if'."
+          "feedback": "Incorrect. The order is reversed: the second conditional belongs in the main clause and the third conditional in the 'if' clause."
         },
         {
           "letter": "D",
           "text": "If I would have studied medicine, I would be working in a hospital now.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Would' no aparece nunca en la clausula de 'if' de un condicional estandar."
+          "feedback": "Incorrect. 'Would' never appears in the 'if' clause of a standard conditional."
         }
       ],
       "correct_answer": "B",
@@ -286,25 +286,25 @@
           "letter": "A",
           "text": "were",
           "is_correct": true,
-          "feedback": "Correcto. 'Were' es la forma del condicional tipo dos con 'I' y expresa una hipotesis presente irreal."
+          "feedback": "Correct. 'Were' is the second conditional form with 'I' and expresses an unreal present hypothesis."
         },
         {
           "letter": "B",
           "text": "am",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Am' es presente real y pertenece al condicional tipo cero o al uno, segun el resto de la frase."
+          "feedback": "Incorrect. 'Am' is a real present and belongs to the zero or first conditional, depending on the rest of the sentence."
         },
         {
           "letter": "C",
           "text": "will be",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Will be' es futuro y no corresponde a la hipotesis presente e irreal del tipo dos."
+          "feedback": "Incorrect. 'Will be' is future and does not fit the unreal present hypothesis of the second conditional."
         },
         {
           "letter": "D",
           "text": "had been",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Had been' corresponde al condicional tipo tres, que se refiere a una hipotesis pasada."
+          "feedback": "Incorrect. 'Had been' belongs to the third conditional, which refers to a past hypothesis."
         }
       ],
       "correct_answer": "A",
@@ -331,25 +331,25 @@
           "letter": "A",
           "text": "would not have break",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de 'would have' el verbo va en participio 'broken' y no en la forma base 'break'."
+          "feedback": "Incorrect. After 'would have', the verb takes the participle 'broken', not the base form 'break'."
         },
         {
           "letter": "B",
           "text": "didn't broke",
           "is_correct": false,
-          "feedback": "Incorrecto. Se mezclan el pasado simple con el pasado irregular y la frase no corresponde a un condicional."
+          "feedback": "Incorrect. It mixes the past simple with the irregular past, and the sentence does not form a conditional."
         },
         {
           "letter": "C",
           "text": "wouldn't have broken",
           "is_correct": true,
-          "feedback": "Correcto. 'Wouldn't have' mas participio expresa el arrepentimiento por una accion pasada no realizada."
+          "feedback": "Correct. 'Wouldn't have' plus participle expresses regret about a past action that did not happen."
         },
         {
           "letter": "D",
           "text": "don't have broken",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Don't have' es presente y no corresponde a una hipotesis pasada del condicional tipo tres."
+          "feedback": "Incorrect. 'Don't have' is present tense and does not fit a past hypothesis of the third conditional."
         }
       ],
       "correct_answer": "C",
@@ -376,25 +376,25 @@
           "letter": "A",
           "text": "If I will be you, I would talk to the principal.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Will be' es futuro y no corresponde a la hipotesis irreal de esta formula."
+          "feedback": "Incorrect. 'Will be' is future and does not fit the unreal hypothesis of this set phrase."
         },
         {
           "letter": "B",
           "text": "If I am you, I would talk to the principal.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Am' es presente real y la formula exige la forma 'were' para marcar la hipotesis."
+          "feedback": "Incorrect. 'Am' is a real present, and the set phrase requires 'were' to mark the hypothesis."
         },
         {
           "letter": "C",
           "text": "If I were you, I would talk to the principal.",
           "is_correct": true,
-          "feedback": "Correcto. 'If I were you' es una formula del condicional tipo dos que da consejo sobre una hipotesis irreal."
+          "feedback": "Correct. 'If I were you' is a second conditional set phrase used to give advice based on an unreal hypothesis."
         },
         {
           "letter": "D",
           "text": "If I had been you, I would talk to the principal.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Had been' es tipo tres y situaria la hipotesis en el pasado, que no es el sentido de la frase."
+          "feedback": "Incorrect. 'Had been' is third conditional and would place the hypothesis in the past, which is not the meaning of the sentence."
         }
       ],
       "correct_answer": "C",
@@ -421,25 +421,25 @@
           "letter": "A",
           "text": "had told",
           "is_correct": true,
-          "feedback": "Correcto. 'Had told' es el pasado perfecto y expresa la hipotesis pasada del condicional tipo tres."
+          "feedback": "Correct. 'Had told' is the past perfect and expresses the past hypothesis of the third conditional."
         },
         {
           "letter": "B",
           "text": "would have told",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Would have told' es la consecuencia y pertenece a la oracion principal, no a la clausula de 'if'."
+          "feedback": "Incorrect. 'Would have told' is the consequence and belongs in the main clause, not in the 'if' clause."
         },
         {
           "letter": "C",
           "text": "told",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Told' es pasado simple y corresponde al condicional tipo dos, que se refiere al presente."
+          "feedback": "Incorrect. 'Told' is past simple and belongs to the second conditional, which refers to the present."
         },
         {
           "letter": "D",
           "text": "has told",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Has told' es presente perfecto y no corresponde a una hipotesis pasada que no llego a ocurrir."
+          "feedback": "Incorrect. 'Has told' is present perfect and does not fit a past hypothesis that never happened."
         }
       ],
       "correct_answer": "A",
@@ -466,25 +466,25 @@
           "letter": "A",
           "text": "Where you would live if you would win the lottery?",
           "is_correct": false,
-          "feedback": "Incorrecto. El orden interrogativo exige que 'where' abra la frase y que 'if' no lleve 'would'."
+          "feedback": "Incorrect. Question word order requires 'where' to open the sentence, and the 'if' clause cannot take 'would'."
         },
         {
           "letter": "B",
           "text": "Where do you would live if you won the lottery?",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Do' no puede preceder a 'would', porque ambos son auxiliares verbales."
+          "feedback": "Incorrect. 'Do' cannot come before 'would', because both are auxiliary verbs."
         },
         {
           "letter": "C",
           "text": "Where would you live if you will win the lottery?",
           "is_correct": false,
-          "feedback": "Incorrecto. La clausula de 'if' no lleva 'will'; en un condicional tipo dos va en pasado simple."
+          "feedback": "Incorrect. The 'if' clause does not take 'will'; in a second conditional it uses the past simple."
         },
         {
           "letter": "D",
           "text": "Where would you live if you won the lottery?",
           "is_correct": true,
-          "feedback": "Correcto. El 'would' abre la pregunta de tipo dos y la clausula de 'if' va en pasado simple."
+          "feedback": "Correct. 'Would' opens the second conditional question, and the 'if' clause uses the past simple."
         }
       ],
       "correct_answer": "D",
@@ -511,25 +511,25 @@
           "letter": "A",
           "text": "The second is for questions and the third for statements.",
           "is_correct": false,
-          "feedback": "Incorrecto. Los dos tipos aparecen en preguntas y en afirmaciones por igual; el orden de las palabras no es lo que los distingue."
+          "feedback": "Incorrect. Both types appear equally in questions and statements; word order is not what distinguishes them."
         },
         {
           "letter": "B",
           "text": "The second refers to an unreal present and the third to an unreal past.",
           "is_correct": true,
-          "feedback": "Correcto. El tipo dos proyecta una hipotesis al presente y el tipo tres a una accion pasada que no ocurrio."
+          "feedback": "Correct. The second conditional projects a hypothesis onto the present, and the third conditional onto a past action that did not happen."
         },
         {
           "letter": "C",
           "text": "The second uses 'would' and the third uses 'will'.",
           "is_correct": false,
-          "feedback": "Incorrecto. Los dos usan 'would'; lo que cambia es el pasado simple frente a 'had' mas participio en la clausula de 'if'."
+          "feedback": "Incorrect. Both use 'would'; what changes is the past simple versus 'had' plus participle in the 'if' clause."
         },
         {
           "letter": "D",
           "text": "The second is formal and the third is informal.",
           "is_correct": false,
-          "feedback": "Incorrecto. No hay diferencia de registro: los dos son estructuras formales propias de la lengua escrita y academica."
+          "feedback": "Incorrect. There is no difference in register: both are formal structures typical of written and academic language."
         }
       ],
       "correct_answer": "B",
@@ -556,25 +556,25 @@
           "letter": "A",
           "text": "would have written",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Would have written' es la consecuencia hipotetica y va en la oracion principal."
+          "feedback": "Incorrect. 'Would have written' is the hypothetical consequence and goes in the main clause."
         },
         {
           "letter": "B",
           "text": "had written",
           "is_correct": true,
-          "feedback": "Correcto. 'Had written' expresa la accion pasada hipotetica y el participio irregular es obligatorio en el tipo tres."
+          "feedback": "Correct. 'Had written' expresses the hypothetical past action, and the irregular participle is required in the third conditional."
         },
         {
           "letter": "C",
           "text": "wrote",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Wrote' es pasado simple y corresponde al condicional tipo dos."
+          "feedback": "Incorrect. 'Wrote' is past simple and belongs to the second conditional."
         },
         {
           "letter": "D",
           "text": "have written",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Have written' es presente perfecto y no expresa una hipotesis pasada no cumplida."
+          "feedback": "Incorrect. 'Have written' is present perfect and does not express an unfulfilled past hypothesis."
         }
       ],
       "correct_answer": "B",
@@ -601,25 +601,25 @@
           "letter": "A",
           "text": "are",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Are' es presente real y corresponde al condicional tipo cero o al uno, no a una hipotesis."
+          "feedback": "Incorrect. 'Are' is a real present and belongs to the zero or first conditional, not to a hypothesis."
         },
         {
           "letter": "B",
           "text": "will be",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Will be' es futuro y no expresa la hipotesis irreal del condicional tipo dos."
+          "feedback": "Incorrect. 'Will be' is future and does not express the unreal hypothesis of the second conditional."
         },
         {
           "letter": "C",
           "text": "had been",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Had been' es tipo tres y situaria la hipotesis en un pasado remoto que el enunciado no menciona."
+          "feedback": "Incorrect. 'Had been' is third conditional and would place the hypothesis in a distant past that the sentence does not mention."
         },
         {
           "letter": "D",
           "text": "were",
           "is_correct": true,
-          "feedback": "Correcto. Con 'you' la forma 'were' es la del condicional tipo dos y mantiene la uniformidad de todo el tipo."
+          "feedback": "Correct. With 'you', 'were' is the second conditional form and keeps the form uniform throughout this conditional type."
         }
       ],
       "correct_answer": "D",
@@ -646,25 +646,25 @@
           "letter": "A",
           "text": "unless",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Unless' significa 'si no', de modo que cambiaria por completo el significado de la condicion hipotetica."
+          "feedback": "Incorrect. 'Unless' means 'si no' (if not), so it would completely change the meaning of the hypothetical condition."
         },
         {
           "letter": "B",
           "text": "although",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Although' introduce una concession, no una condicion, y por eso no construye un condicional."
+          "feedback": "Incorrect. 'Although' introduces a concession, not a condition, so it does not form a conditional."
         },
         {
           "letter": "C",
           "text": "if",
           "is_correct": true,
-          "feedback": "Correcto. 'If' introduce la hipotesis pasada y la principal con 'would have' mas participio completa el tipo tres."
+          "feedback": "Correct. 'If' introduces the past hypothesis, and the main clause with 'would have' plus participle completes the third conditional."
         },
         {
           "letter": "D",
           "text": "because",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Because' introduce una causa presente o pasada real, no la hipotesis que exige el tipo tres."
+          "feedback": "Incorrect. 'Because' introduces a real present or past cause, not the hypothesis the third conditional requires."
         }
       ],
       "correct_answer": "C",
@@ -691,25 +691,25 @@
           "letter": "A",
           "text": "If she studied architecture, she would work in her hometown.",
           "is_correct": true,
-          "feedback": "Correcto. Ambas partes corresponden al tipo dos: pasado simple en 'if' y 'would' mas infinitivo en la principal."
+          "feedback": "Correct. Both parts follow the second conditional: past simple in the 'if' clause and 'would' plus infinitive in the main clause."
         },
         {
           "letter": "B",
           "text": "If she will study architecture, she would work in her hometown.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Will' no aparece en la clausula de 'if' de un condicional tipo dos."
+          "feedback": "Incorrect. 'Will' does not appear in the 'if' clause of a second conditional."
         },
         {
           "letter": "C",
           "text": "If she studies architecture, she would work in her hometown.",
           "is_correct": false,
-          "feedback": "Incorrecto. El presente simple en 'if' corresponde al condicional tipo uno, de caracter real y no hipotetico."
+          "feedback": "Incorrect. The present simple in the 'if' clause belongs to the first conditional, which is real, not hypothetical."
         },
         {
           "letter": "D",
           "text": "If she had studied architecture, she would have worked in her hometown.",
           "is_correct": false,
-          "feedback": "Incorrecto. Las dos partes en tipo tres suenan a arrepentimiento y no a hipotesis sobre el presente."
+          "feedback": "Incorrect. With both parts in the third conditional, the sentence sounds like regret, not a hypothesis about the present."
         }
       ],
       "correct_answer": "A",
@@ -736,25 +736,25 @@
           "letter": "A",
           "text": "would have passed",
           "is_correct": true,
-          "feedback": "Correcto. 'Would have' mas participio es la consecuencia hipotetica del condicional tipo tres."
+          "feedback": "Correct. 'Would have' plus participle is the hypothetical consequence of the third conditional."
         },
         {
           "letter": "B",
           "text": "would pass",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Would pass' es la consecuencia del tipo dos y no encaja con una clausula en pasado perfecto."
+          "feedback": "Incorrect. 'Would pass' is the second conditional consequence and does not match a past perfect clause."
         },
         {
           "letter": "C",
           "text": "will have passed",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Will have' es futuro perfecto y no corresponde a una hipotesis pasada."
+          "feedback": "Incorrect. 'Will have' is future perfect and does not fit a past hypothesis."
         },
         {
           "letter": "D",
           "text": "would passing",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de 'would have' el verbo va en participio 'passed' y nunca en gerundio."
+          "feedback": "Incorrect. After 'would have', the verb takes the participle 'passed', never the gerund."
         }
       ],
       "correct_answer": "A",
@@ -781,25 +781,25 @@
           "letter": "A",
           "text": "Yes, I would have been.",
           "is_correct": false,
-          "feedback": "Incorrecto. La forma contracta de la respuesta corta al tipo tres es 'would have' y el resto de la oracion no aporta el auxiliar correcto."
+          "feedback": "Incorrect. The short-answer form for the third conditional is 'would have', and the rest of the sentence does not provide the correct auxiliary."
         },
         {
           "letter": "B",
           "text": "Yes, I will have.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Will have' es futuro perfecto y no responde a una pregunta sobre una hipotesis pasada."
+          "feedback": "Incorrect. 'Will have' is future perfect and does not answer a question about a past hypothesis."
         },
         {
           "letter": "C",
           "text": "Yes, I did.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Did' responde a una pregunta de pasado simple y no a una construida con 'would have'."
+          "feedback": "Incorrect. 'Did' answers a past simple question, not one built with 'would have'."
         },
         {
           "letter": "D",
           "text": "Yes, I would have.",
           "is_correct": true,
-          "feedback": "Correcto. La respuesta corta repite 'would have' de la pregunta, que es la forma propia del tipo tres."
+          "feedback": "Correct. The short answer repeats 'would have' from the question, which is the form specific to the third conditional."
         }
       ],
       "correct_answer": "D",
@@ -826,25 +826,25 @@
           "letter": "A",
           "text": "will have",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Will have' es futuro y no corresponde a la hipotesis irreal que plantea la frase."
+          "feedback": "Incorrect. 'Will have' is future and does not fit the unreal hypothesis the sentence sets up."
         },
         {
           "letter": "B",
           "text": "had",
           "is_correct": true,
-          "feedback": "Correcto. 'Had' es el pasado de 'to have' y forma la hipotesis presente del condicional tipo dos."
+          "feedback": "Correct. 'Had' is the past of 'to have' and forms the present hypothesis of the second conditional."
         },
         {
           "letter": "C",
           "text": "has",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Has' es presente y construye un condicional tipo uno con una condicion real."
+          "feedback": "Incorrect. 'Has' is present tense and forms a first conditional with a real condition."
         },
         {
           "letter": "D",
           "text": "had had",
           "is_correct": false,
-          "feedback": "Incorrecto. La forma 'had had' corresponde al tipo tres con 'to have' y no al tipo dos, que solo pide el pasado simple."
+          "feedback": "Incorrect. 'Had had' belongs to the third conditional with 'to have', not to the second conditional, which only needs the past simple."
         }
       ],
       "correct_answer": "B",
@@ -871,25 +871,25 @@
           "letter": "A",
           "text": "would have gone",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Would have gone' es la consecuencia hipotetica y va en la oracion principal."
+          "feedback": "Incorrect. 'Would have gone' is the hypothetical consequence and goes in the main clause."
         },
         {
           "letter": "B",
           "text": "went",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Went' es pasado simple y corresponde al condicional tipo dos, que se refiere al presente."
+          "feedback": "Incorrect. 'Went' is past simple and belongs to the second conditional, which refers to the present."
         },
         {
           "letter": "C",
           "text": "had gone",
           "is_correct": true,
-          "feedback": "Correcto. 'Had gone' es pasado perfecto y forma la hipotesis pasada del condicional tipo tres."
+          "feedback": "Correct. 'Had gone' is past perfect and forms the past hypothesis of the third conditional."
         },
         {
           "letter": "D",
           "text": "have gone",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Have gone' es presente perfecto y no expresa una hipotesis pasada no cumplida."
+          "feedback": "Incorrect. 'Have gone' is present perfect and does not express an unfulfilled past hypothesis."
         }
       ],
       "correct_answer": "C",

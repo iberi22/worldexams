@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "You must submit the form before Friday.",
           "is_correct": true,
-          "feedback": "Correcto. 'Must' expresa obligacion fuerte y le sigue directamente la forma base del verbo."
+          "feedback": "Correct. 'Must' expresses strong obligation and is followed directly by the base form of the verb."
         },
         {
           "letter": "B",
           "text": "You must to submit the form before Friday.",
           "is_correct": false,
-          "feedback": "Incorrecto. El modal 'must' no lleva 'to' detras, porque el verbo principal va directamente en forma base."
+          "feedback": "Incorrect. The modal 'must' is not followed by 'to', because the main verb goes directly in the base form."
         },
         {
           "letter": "C",
           "text": "You must submits the form before Friday.",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de un modal la forma es la base, de modo que corresponde 'submit' y no 'submits'."
+          "feedback": "Incorrect. After a modal the verb is in the base form, so it should be 'submit', not 'submits'."
         },
         {
           "letter": "D",
           "text": "You must submitting the form before Friday.",
           "is_correct": false,
-          "feedback": "Incorrecto. El gerundio no puede seguir a un modal en ningun tiempo verbal de esta unidad."
+          "feedback": "Incorrect. The gerund cannot follow a modal in any tense covered in this unit."
         }
       ],
       "correct_answer": "A",
@@ -61,25 +61,25 @@
           "letter": "A",
           "text": "must to",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Must' no lleva 'to' detras y ademas el enunciado pide una forma para un sujeto plural."
+          "feedback": "Incorrect. 'Must' is not followed by 'to', and the prompt also asks for a form for a plural subject."
         },
         {
           "letter": "B",
           "text": "must",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Must' con el sujeto plural 'students' no concuerda y ademas el enunciado pide la forma de una regla externa, no la obligacion del hablante."
+          "feedback": "Incorrect. 'Must' does not agree with the plural subject 'students', and the prompt also asks for the form used for an external rule, not the speaker's obligation."
         },
         {
           "letter": "C",
           "text": "have to",
           "is_correct": true,
-          "feedback": "Correcto. 'Have to' expresa una obligacion impuesta por una regla externa, como el reglamento del centro."
+          "feedback": "Correct. 'Have to' expresses an obligation imposed by an external rule, such as the school regulations."
         },
         {
           "letter": "D",
           "text": "shall to",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Shall' no admite 'to' detras y ademas expresa propuesta o determinacion, no obligacion administrativa."
+          "feedback": "Incorrect. 'Shall' is not followed by 'to', and it also expresses suggestion or determination, not administrative obligation."
         }
       ],
       "correct_answer": "C",
@@ -106,25 +106,25 @@
           "letter": "A",
           "text": "You must not to use your phone during the test.",
           "is_correct": false,
-          "feedback": "Incorrecto. El gerundio o el infinitivo no pueden seguir a un modal; detras va la forma base 'use'."
+          "feedback": "Incorrect. Neither the gerund nor the infinitive can follow a modal; it must be followed by the base form 'use'."
         },
         {
           "letter": "B",
           "text": "You must not use your phone during the test.",
           "is_correct": true,
-          "feedback": "Correcto. 'Must not' expresa prohibicion absoluta y significa que la accion no esta permitida."
+          "feedback": "Correct. 'Must not' expresses absolute prohibition and means the action is not allowed."
         },
         {
           "letter": "C",
           "text": "You don't must use your phone during the test.",
           "is_correct": false,
-          "feedback": "Incorrecto. Un modal nunca va precedido de 'do not', porque los modales ya son la forma negativa."
+          "feedback": "Incorrect. A modal is never preceded by 'do not', because modals already form the negative on their own."
         },
         {
           "letter": "D",
           "text": "You must not uses your phone during the test.",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de 'must not' el verbo va en forma base 'use' y no en tercera persona."
+          "feedback": "Incorrect. After 'must not' the verb goes in the base form 'use', not the third person form."
         }
       ],
       "correct_answer": "B",
@@ -151,25 +151,25 @@
           "letter": "A",
           "text": "You should to see a doctor if you have a fever.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Should' va seguido de la forma base y no admite 'to' entre el modal y el verbo."
+          "feedback": "Incorrect. 'Should' is followed by the base form and does not allow 'to' between the modal and the verb."
         },
         {
           "letter": "B",
           "text": "You should seeing a doctor if you have a fever.",
           "is_correct": false,
-          "feedback": "Incorrecto. El gerundio detras de un modal es siempre incorrecto, y aqui corresponde 'see'."
+          "feedback": "Incorrect. A gerund after a modal is always wrong; here the correct form is 'see'."
         },
         {
           "letter": "C",
           "text": "You shall see a doctor if you have a fever.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Shall' expresa propuesta o determinacion, y no una recomendacion dirigida a la segunda persona."
+          "feedback": "Incorrect. 'Shall' expresses suggestion or determination, not a recommendation addressed to the second person."
         },
         {
           "letter": "D",
           "text": "You should see a doctor if you have a fever.",
           "is_correct": true,
-          "feedback": "Correcto. 'Should' expresa recomendacion y ofrece una solucion razonable a la situacion."
+          "feedback": "Correct. 'Should' expresses a recommendation and offers a reasonable solution to the situation."
         }
       ],
       "correct_answer": "D",
@@ -196,25 +196,25 @@
           "letter": "A",
           "text": "should to",
           "is_correct": false,
-          "feedback": "Incorrecto. En pasado el modal 'should' se combina directamente con 'have' y el participio, sin 'to' intermedia."
+          "feedback": "Incorrect. In the past, the modal 'should' combines directly with 'have' and the participle, with no 'to' in between."
         },
         {
           "letter": "B",
           "text": "must",
           "is_correct": false,
-          "feedback": "Incorrecto. El pasado de 'must' es 'had to', y 'must have' pertenece al presente y no al pasado."
+          "feedback": "Incorrect. The past of 'must' is 'had to', and 'must have' belongs to the present, not the past."
         },
         {
           "letter": "C",
           "text": "could",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Could have' habla de una posibilidad pasada, no de una recomendacion incumplida como la del enunciado."
+          "feedback": "Incorrect. 'Could have' refers to a past possibility, not an unfulfilled recommendation like the one in the prompt."
         },
         {
           "letter": "D",
           "text": "should",
           "is_correct": true,
-          "feedback": "Correcto. 'Should have' mas participio expresa una accion pasada que era recomendable y que no se realizo."
+          "feedback": "Correct. 'Should have' plus participle expresses a past action that was advisable but did not happen."
         }
       ],
       "correct_answer": "D",
@@ -241,25 +241,25 @@
           "letter": "A",
           "text": "must not have",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Must not have' expresa una prohibicion pasada y ademas necesita participio detras."
+          "feedback": "Incorrect. 'Must not have' expresses a past prohibition and also needs a participle after it."
         },
         {
           "letter": "B",
           "text": "didn't have to",
           "is_correct": true,
-          "feedback": "Correcto. 'Didn't have to' es pasado simple y expresa que la obligacion no llego a aplicarse."
+          "feedback": "Correct. 'Didn't have to' is past simple and expresses that the obligation never actually applied."
         },
         {
           "letter": "C",
           "text": "should not have",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Should not have' significa que no era recomendable hacerlo, y no expresa la ausencia de obligacion."
+          "feedback": "Incorrect. 'Should not have' means it was not advisable to do it, and does not express the absence of obligation."
         },
         {
           "letter": "D",
           "text": "had not must",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Had to' es el pasado de 'have to' y no admite 'must' detras como auxiliar."
+          "feedback": "Incorrect. 'Had to' is the past of 'have to' and does not take 'must' after it as an auxiliary."
         }
       ],
       "correct_answer": "B",
@@ -286,25 +286,25 @@
           "letter": "A",
           "text": "don't have to",
           "is_correct": true,
-          "feedback": "Correcto. 'Don't have to' indica que algo no es obligatorio, y por tanto la accion queda libre."
+          "feedback": "Correct. 'Don't have to' indicates that something is not compulsory, so the action is optional."
         },
         {
           "letter": "B",
           "text": "must to",
           "is_correct": false,
-          "feedback": "Incorrecto. El modal 'must' no lleva 'to' detras, de modo que 'must to' no es una forma del ingles."
+          "feedback": "Incorrect. The modal 'must' is not followed by 'to', so 'must to' is not an English form."
         },
         {
           "letter": "C",
           "text": "must not to",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Must' no lleva 'to' detras y la estructura seria incorrecta incluso sin ese 'to'."
+          "feedback": "Incorrect. 'Must' is not followed by 'to', and the structure would be wrong even without that 'to'."
         },
         {
           "letter": "D",
           "text": "don't must",
           "is_correct": false,
-          "feedback": "Incorrecto. Un modal nunca va despues de 'do not', porque el modal ya forma la negacion por si mismo."
+          "feedback": "Incorrect. A modal never comes after 'do not', because the modal forms the negative by itself."
         }
       ],
       "correct_answer": "A",
@@ -331,25 +331,25 @@
           "letter": "A",
           "text": "Do I must wear a tie to the ceremony?",
           "is_correct": false,
-          "feedback": "Incorrecto. Un modal no va precedido de 'do', porque los modales ya son auxiliares por si mismos."
+          "feedback": "Incorrect. A modal is not preceded by 'do', because modals are already auxiliaries in their own right."
         },
         {
           "letter": "B",
           "text": "Must I wearing a tie to the ceremony?",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras del modal va la forma base 'wear' y no el gerundio 'wearing'."
+          "feedback": "Incorrect. After the modal comes the base form 'wear', not the gerund 'wearing'."
         },
         {
           "letter": "C",
           "text": "Must I wear a tie to the ceremony?",
           "is_correct": true,
-          "feedback": "Correcto. El modal 'must' abre la pregunta y el verbo principal queda en forma base 'wear'."
+          "feedback": "Correct. The modal 'must' opens the question and the main verb stays in the base form 'wear'."
         },
         {
           "letter": "D",
           "text": "Must I to wear a tie to the ceremony?",
           "is_correct": false,
-          "feedback": "Incorrecto. No se anade 'to' entre el modal y el verbo principal, porque el modal ya contiene el modo infinitivo."
+          "feedback": "Incorrect. No 'to' is added between the modal and the main verb, because the modal already carries the infinitive."
         }
       ],
       "correct_answer": "C",
@@ -376,25 +376,25 @@
           "letter": "A",
           "text": "should to",
           "is_correct": false,
-          "feedback": "Incorrecto. El modal 'should' va seguido de la forma base y no admite 'to' entre el modal y el verbo."
+          "feedback": "Incorrect. The modal 'should' is followed by the base form and does not allow 'to' between the modal and the verb."
         },
         {
           "letter": "B",
           "text": "should have studied",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Should have studied' observa la situacion desde el pasado y no encaja con la condicion presente del enunciado."
+          "feedback": "Incorrect. 'Should have studied' views the situation from the past and does not fit the present condition in the prompt."
         },
         {
           "letter": "C",
           "text": "should",
           "is_correct": true,
-          "feedback": "Correcto. 'Should' expresa una recomendacion smoothly conectada con la condicion de la frase."
+          "feedback": "Correct. 'Should' expresses a recommendation that connects smoothly with the condition in the sentence."
         },
         {
           "letter": "D",
           "text": "should studying",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de un modal el verbo va en forma base 'study' y no en gerundio 'studying'."
+          "feedback": "Incorrect. After a modal the verb goes in the base form 'study', not the gerund 'studying'."
         }
       ],
       "correct_answer": "C",
@@ -421,25 +421,25 @@
           "letter": "A",
           "text": "mustn't",
           "is_correct": true,
-          "feedback": "Correcto. 'Mustn't' es la forma contracta de 'must not' y expresa la prohibicion de forma natural y breve."
+          "feedback": "Correct. 'Mustn't' is the contracted form of 'must not' and expresses prohibition naturally and concisely."
         },
         {
           "letter": "B",
           "text": "must not to",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Must' no lleva 'to' detras y la forma contracta de la prohibicion es 'mustn't' sin 'to'."
+          "feedback": "Incorrect. 'Must' is not followed by 'to', and the contracted form of the prohibition is 'mustn't' without 'to'."
         },
         {
           "letter": "C",
           "text": "don't must",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Do not' nunca precede a un modal, porque el modal ya constituye la forma negativa."
+          "feedback": "Incorrect. 'Do not' never comes before a modal, because the modal already forms the negative."
         },
         {
           "letter": "D",
           "text": "must not opening",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de 'must not' va la forma base 'open' y no el gerundio 'opening'."
+          "feedback": "Incorrect. After 'must not' comes the base form 'open', not the gerund 'opening'."
         }
       ],
       "correct_answer": "A",
@@ -466,25 +466,25 @@
           "letter": "A",
           "text": "An obligation in the past.",
           "is_correct": false,
-          "feedback": "Incorrecto. La obligacion pasada se expresa con 'had to' y no con 'must have'."
+          "feedback": "Incorrect. Past obligation is expressed with 'had to', not 'must have'."
         },
         {
           "letter": "B",
           "text": "A recommendation about the past.",
           "is_correct": false,
-          "feedback": "Incorrecto. La recomendacion incumplida se expresa con 'should have' mas participio."
+          "feedback": "Incorrect. An unfulfilled recommendation is expressed with 'should have' plus participle."
         },
         {
           "letter": "C",
           "text": "A prohibition in the past.",
           "is_correct": false,
-          "feedback": "Incorrecto. La prohibicion pasada se expresa con 'was not allowed to' y no con 'must have'."
+          "feedback": "Incorrect. Past prohibition is expressed with 'was not allowed to', not 'must have'."
         },
         {
           "letter": "D",
           "text": "A certain supposition about the past.",
           "is_correct": true,
-          "feedback": "Correcto. 'Must have' mas participio expresa una suposicion casi segura sobre un hecho pasado."
+          "feedback": "Correct. 'Must have' plus participle expresses an almost certain assumption about a past event."
         }
       ],
       "correct_answer": "D",
@@ -511,25 +511,25 @@
           "letter": "A",
           "text": "ought",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Ought' necesita la preposicion 'to' detras para funcionar como modal equivalente a 'should'."
+          "feedback": "Incorrect. 'Ought' needs the preposition 'to' after it to work as a modal equivalent to 'should'."
         },
         {
           "letter": "B",
           "text": "ought to",
           "is_correct": true,
-          "feedback": "Correcto. 'Ought to' expresa obligacion moral y es equivalente a 'should' en significado."
+          "feedback": "Correct. 'Ought to' expresses moral obligation and is equivalent in meaning to 'should'."
         },
         {
           "letter": "C",
           "text": "ought to apologising",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras del modal y de la preposicion va el infinitivo 'apologise' y no el gerundio 'apologising'."
+          "feedback": "Incorrect. After the modal and the preposition comes the infinitive 'apologise', not the gerund 'apologising'."
         },
         {
           "letter": "D",
           "text": "ought to be",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Ought to be' deja la oracion incompleta, porque el verbo principal 'apologise' sigue siendo obligatorio."
+          "feedback": "Incorrect. 'Ought to be' leaves the sentence incomplete, because the main verb 'apologise' is still required."
         }
       ],
       "correct_answer": "B",
@@ -556,25 +556,25 @@
           "letter": "A",
           "text": "should arrived",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de 'should have' el verbo va en participio 'arrived' y no en forma base ni en pasado simple."
+          "feedback": "Incorrect. After 'should have' the verb goes in the participle 'arrived', not the base form or the past simple."
         },
         {
           "letter": "B",
           "text": "should have",
           "is_correct": true,
-          "feedback": "Correcto. 'Should have' mas participio indica que.man llegar antes habria resuelto el problema."
+          "feedback": "Correct. 'Should have' plus participle indicates that arriving earlier would have solved the problem."
         },
         {
           "letter": "C",
           "text": "must have",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Must have' expresa una suposicion sobre el pasado, no una recomendacion incumplida."
+          "feedback": "Incorrect. 'Must have' expresses an assumption about the past, not an unfulfilled recommendation."
         },
         {
           "letter": "D",
           "text": "had must",
           "is_correct": false,
-          "feedback": "Incorrecto. El pasado de 'must' es 'had to' y la estructura con 'had must' no existe en ingles."
+          "feedback": "Incorrect. The past of 'must' is 'had to', and the structure 'had must' does not exist in English."
         }
       ],
       "correct_answer": "B",
@@ -601,25 +601,25 @@
           "letter": "A",
           "text": "Yes, we must.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Must' expresa obligacion y no es la respuesta a una pregunta de recomendacion."
+          "feedback": "Incorrect. 'Must' expresses obligation and is not the answer to a question asking for a recommendation."
         },
         {
           "letter": "B",
           "text": "Yes, we do.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Do' es el auxiliar del presente simple y no corresponde a una pregunta con modal."
+          "feedback": "Incorrect. 'Do' is the present simple auxiliary and does not fit a question with a modal."
         },
         {
           "letter": "C",
           "text": "Yes, we have to.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Have to' expresa obligacion externa y no es la forma de la respuesta a 'should we'."
+          "feedback": "Incorrect. 'Have to' expresses external obligation and is not the form used to answer 'should we'."
         },
         {
           "letter": "D",
           "text": "Yes, we should.",
           "is_correct": true,
-          "feedback": "Correcto. La respuesta corta repite el modal 'should' de la pregunta, que es la forma esperada."
+          "feedback": "Correct. The short answer repeats the modal 'should' from the question, which is the expected form."
         }
       ],
       "correct_answer": "D",
@@ -658,7 +658,7 @@
           "letter": "C",
           "text": "You must to arrive on time.",
           "is_correct": true,
-          "feedback": "Correcto. Esta es la frase incorrecta: el modal 'must' no lleva 'to' antes del verbo principal."
+          "feedback": "Correct. This is the incorrect sentence: the modal 'must' does not take 'to' before the main verb."
         },
         {
           "letter": "D",
@@ -691,25 +691,25 @@
           "letter": "A",
           "text": "You mustn't",
           "is_correct": true,
-          "feedback": "Correcto. 'Mustn't' expresa la prohibicion que impone el reglamento de la biblioteca."
+          "feedback": "Correct. 'Mustn't' expresses the prohibition imposed by the library rules."
         },
         {
           "letter": "B",
           "text": "You must not to",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Must' no lleva 'to' detras y ademas el gerundio es la forma usada en el enunciado."
+          "feedback": "Incorrect. 'Must' is not followed by 'to', and the gerund is also the form used in the sentence."
         },
         {
           "letter": "C",
           "text": "You don't must",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Do not' nunca precede a un modal en la lengua inglesa."
+          "feedback": "Incorrect. 'Do not' never comes before a modal in English."
         },
         {
           "letter": "D",
           "text": "You must not eating",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de 'must not' va la forma base 'eat' y no el gerundio 'eating'."
+          "feedback": "Incorrect. 'Must not' is followed by the base form 'eat', not the gerund 'eating'."
         }
       ],
       "correct_answer": "A",
@@ -736,25 +736,25 @@
           "letter": "A",
           "text": "need to",
           "is_correct": true,
-          "feedback": "Correcto. 'Need to' expresa necesidad y funciona en presente y en pasado como un verbo auxiliar normal."
+          "feedback": "Correct. 'Need to' expresses necessity and works in both the present and the past like an ordinary auxiliary verb."
         },
         {
           "letter": "B",
           "text": "must",
           "is_correct": false,
-          "feedback": "Incorrecto. La oracion informa de una necesidad, y el verbo modale adecuado para esa funcion es 'need to' y no 'must'."
+          "feedback": "Incorrect. The sentence states a need, and the right modal verb for that function is 'need to', not 'must'."
         },
         {
           "letter": "C",
           "text": "need",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Need' sin 'to' no funciona como modal de necesidad, porque solo el sustantivo 'need' significa 'necesidad'."
+          "feedback": "Incorrect. 'Need' without 'to' does not work as a modal of necessity, because only the noun 'need' means 'necesidad' (necessity)."
         },
         {
           "letter": "D",
           "text": "must to",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Must' no lleva 'to' detras, de modo que la estructura con 'to' despues del modal es incorrecta."
+          "feedback": "Incorrect. 'Must' is not followed by 'to', so a structure with 'to' after the modal is wrong."
         }
       ],
       "correct_answer": "A",
@@ -781,25 +781,25 @@
           "letter": "A",
           "text": "He must have lost the keys somewhere.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Must have' expresa una conclusion casi segura y no una suposicion dudosa."
+          "feedback": "Incorrect. 'Must have' expresses an almost certain conclusion, not a tentative guess."
         },
         {
           "letter": "B",
           "text": "He should have lost the keys somewhere.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Should have' expresa una recomendacion incumplida y no una deduccion sobre el pasado."
+          "feedback": "Incorrect. 'Should have' expresses advice that was not followed, not a deduction about the past."
         },
         {
           "letter": "C",
           "text": "He can't have lost the keys somewhere.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Can't have' descarta una posibilidad en lugar de plantear una suposicion posible."
+          "feedback": "Incorrect. 'Can't have' rules out a possibility instead of suggesting a possible explanation."
         },
         {
           "letter": "D",
           "text": "He may have lost the keys somewhere.",
           "is_correct": true,
-          "feedback": "Correcto. 'May have' mas participio expresa una suposicion posible pero no confirmada sobre el pasado."
+          "feedback": "Correct. 'May have' plus past participle expresses a possible but unconfirmed guess about the past."
         }
       ],
       "correct_answer": "D",
@@ -826,25 +826,25 @@
           "letter": "A",
           "text": "mustn't have",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Mustn't have' expresa una prohibicion pasada, que no es el sentido de esta frase."
+          "feedback": "Incorrect. 'Mustn't have' expresses a past prohibition, which is not the meaning of this sentence."
         },
         {
           "letter": "B",
           "text": "didn't have to",
           "is_correct": true,
-          "feedback": "Correcto. 'Didn't have to' indica que la obligacion de evacuar llego tarde y por eso no se aplico."
+          "feedback": "Correct. 'Didn't have to' shows that the order to evacuate came too late and so did not apply."
         },
         {
           "letter": "C",
           "text": "shouldn't have",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Shouldn't have' significa que no era evacuar y no fue necesario, en lugar de indicar que llego tarde."
+          "feedback": "Incorrect. 'Shouldn't have' means that evacuating was not advisable or necessary, not that the order came too late."
         },
         {
           "letter": "D",
           "text": "had to not",
           "is_correct": false,
-          "feedback": "Incorrecto. La negacion del pasado de 'have to' se forma con 'didn't', no colocando 'not' detras de 'had to'."
+          "feedback": "Incorrect. The negative past of 'have to' is formed with 'didn't', not by putting 'not' after 'had to'."
         }
       ],
       "correct_answer": "B",
@@ -871,25 +871,25 @@
           "letter": "A",
           "text": "Students don't should use their phones during class.",
           "is_correct": false,
-          "feedback": "Incorrecto. Un modal nunca va despues de 'do not', porque el modal ya forma la negacion."
+          "feedback": "Incorrect. A modal never follows 'do not', because the modal itself forms the negative."
         },
         {
           "letter": "B",
           "text": "Students should not to use their phones during class.",
           "is_correct": false,
-          "feedback": "Incorrecto. No se anade 'to' entre el modal y el verbo principal."
+          "feedback": "Incorrect. No 'to' goes between the modal and the main verb."
         },
         {
           "letter": "C",
           "text": "Students shouldn't use their phones during class.",
           "is_correct": true,
-          "feedback": "Correcto. 'Shouldn't' expresa una recomendacion en contra de una accion, sin llegar a la prohibicion."
+          "feedback": "Correct. 'Shouldn't' advises against an action without going as far as a prohibition."
         },
         {
           "letter": "D",
           "text": "Students should using their phones during class.",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de 'should' el verbo va en forma base 'use' y no en gerundio 'using'."
+          "feedback": "Incorrect. After 'should' the verb takes the base form 'use', not the gerund 'using'."
         }
       ],
       "correct_answer": "C",

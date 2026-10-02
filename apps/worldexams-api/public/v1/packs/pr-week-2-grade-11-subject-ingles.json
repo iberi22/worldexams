@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "She is studying for the biology test right now.",
           "is_correct": true,
-          "feedback": "Correcto. 'Am, is' o 'are' seguido del gerundio forma el presente continuo, y 'right now' confirma que la accion esta en curso."
+          "feedback": "Correct. 'Am, is' or 'are' followed by the -ing form makes the present continuous, and 'right now' confirms that the action is in progress."
         },
         {
           "letter": "B",
           "text": "She study for the biology test right now.",
           "is_correct": false,
-          "feedback": "Incorrecto. Sin el auxiliar 'is' la frase queda en presente simple, y 'right now' exige el progresiva."
+          "feedback": "Incorrect. Without the auxiliary 'is' the sentence stays in the present simple, and 'right now' requires the progressive."
         },
         {
           "letter": "C",
           "text": "She is study for the biology test right now.",
           "is_correct": false,
-          "feedback": "Incorrecto. Despues de 'is' hace falta el gerundio 'studying', no la forma base del verbo."
+          "feedback": "Incorrect. After 'is' you need the -ing form 'studying', not the base form of the verb."
         },
         {
           "letter": "D",
           "text": "She studying for the biology test right now.",
           "is_correct": false,
-          "feedback": "Incorrecto. Falta por completo el auxiliar, y el gerundio nunca sustituye al verbo auxiliar en esta unidad."
+          "feedback": "Incorrect. The auxiliary is missing entirely, and the -ing form never replaces the auxiliary verb in this unit."
         }
       ],
       "correct_answer": "A",
@@ -61,25 +61,25 @@
           "letter": "A",
           "text": "is waiting",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Is' concuerda con he, she o it, no con 'they', que es plural en esta frase."
+          "feedback": "Incorrect. 'Is' agrees with he, she or it, not with 'they', which is plural in this sentence."
         },
         {
           "letter": "B",
           "text": "waits",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Waits' es presente simple y describe una rutina, mientras que esperar el bus es una situacion puntual."
+          "feedback": "Incorrect. 'Waits' is present simple and describes a routine, while waiting for the bus is a one-off situation."
         },
         {
           "letter": "C",
           "text": "are waiting",
           "is_correct": true,
-          "feedback": "Correcto. Con el sujeto plural 'they' el verbo 'to be' es 'are' y el gerundio 'waiting' completa el progresiva."
+          "feedback": "Correct. With the plural subject 'they' the verb 'to be' is 'are', and the -ing form 'waiting' completes the progressive."
         },
         {
           "letter": "D",
           "text": "wait",
           "is_correct": false,
-          "feedback": "Incorrecto. Es la forma base sin gerundio y sin auxiliar, de modo que la frase no expresa la accion en curso."
+          "feedback": "Incorrect. This is the base form with no -ing and no auxiliary, so the sentence does not express an action in progress."
         }
       ],
       "correct_answer": "C",
@@ -106,25 +106,25 @@
           "letter": "A",
           "text": "don't read",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Don't' corresponde al presente simple, no al progresiva, y ademas 'at the moment' pide el continuo."
+          "feedback": "Incorrect. 'Don't' belongs to the present simple, not the progressive, and 'at the moment' also calls for the continuous."
         },
         {
           "letter": "B",
           "text": "isn't reading",
           "is_correct": true,
-          "feedback": "Correcto. El negativo del presente continuo se forma con el auxiliar 'is' mas 'not', y el gerundio no cambia."
+          "feedback": "Correct. The negative of the present continuous is formed with the auxiliary 'is' plus 'not', and the -ing form does not change."
         },
         {
           "letter": "C",
           "text": "isn't read",
           "is_correct": false,
-          "feedback": "Incorrecto. Despues de 'is' el verbo va en gerundio, nunca en su forma base como aparece aqui."
+          "feedback": "Incorrect. After 'is' the verb takes the -ing form, never its base form as it appears here."
         },
         {
           "letter": "D",
           "text": "not reads",
           "is_correct": false,
-          "feedback": "Incorrecto. Falta el auxiliar 'to be' y el verbo queda con la terminacion de presente simple, mezclando dos tiempos verbales en una sola oracion."
+          "feedback": "Incorrect. The auxiliary 'to be' is missing and the verb keeps its present simple ending, mixing two tenses in a single sentence."
         }
       ],
       "correct_answer": "B",
@@ -151,25 +151,25 @@
           "letter": "A",
           "text": "Do you use the library room now?",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Do' forma preguntas de presente simple, y 'now' pide la accion en curso."
+          "feedback": "Incorrect. 'Do' forms present simple questions, and 'now' calls for an action in progress."
         },
         {
           "letter": "B",
           "text": "Are you use the library room now?",
           "is_correct": false,
-          "feedback": "Incorrecto. El verbo principal queda en forma base detras de 'are', lo cual es incorrecto en progresiva."
+          "feedback": "Incorrect. The main verb stays in its base form after 'are', which is wrong in the progressive."
         },
         {
           "letter": "C",
           "text": "You are using the library room now?",
           "is_correct": false,
-          "feedback": "Incorrecto. El orden no es interrogativo: el auxiliar debe abrir la frase antes del sujeto."
+          "feedback": "Incorrect. This is not question word order: the auxiliary must open the sentence before the subject."
         },
         {
           "letter": "D",
           "text": "Are you using the library room now?",
           "is_correct": true,
-          "feedback": "Correcto. La pregunta progresiva invierte el orden a auxiliar, sujeto y gerundio, con 'are' por el sujeto 'you'."
+          "feedback": "Correct. A progressive question inverts the order to auxiliary, subject and -ing form, with 'are' for the subject 'you'."
         }
       ],
       "correct_answer": "D",
@@ -196,25 +196,25 @@
           "letter": "A",
           "text": "runing",
           "is_correct": false,
-          "feedback": "Incorrecto. Perder la -e final produce una forma mal escrita, y ese es el error tipico al formar gerundios."
+          "feedback": "Incorrect. Dropping the final -e produces a misspelled form, and that is the typical mistake when forming the -ing form."
         },
         {
           "letter": "B",
           "text": "runnning",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Run' ya termina en -n y no se dobla la consonante, porque solo se duplica tras vocal breve tensa."
+          "feedback": "Incorrect. 'Run' already ends in -n and the consonant is not doubled, because it is only doubled after a short stressed vowel."
         },
         {
           "letter": "C",
           "text": "runeing",
           "is_correct": false,
-          "feedback": "Incorrecto. La -e no se convierte en otra vocal ni se desplaza: simplemente se elimina antes de añadir -ing."
+          "feedback": "Incorrect. The -e doesn't change into another vowel or move: it is simply dropped before adding -ing."
         },
         {
           "letter": "D",
           "text": "running",
           "is_correct": true,
-          "feedback": "Correcto. Cuando el verbo termina en vocal más -e se elimina la -e y se añade -ing, salvo excepciones como 'to be'."
+          "feedback": "Correct. When the verb ends in a vowel plus -e, the -e is dropped and -ing is added, except in cases like 'to be'."
         }
       ],
       "correct_answer": "D",
@@ -241,25 +241,25 @@
           "letter": "A",
           "text": "swiming",
           "is_correct": false,
-          "feedback": "Incorrecto. Con vocal breve tensa la -m final debe duplicarse, porque una sola produce una sílaba incorrecta."
+          "feedback": "Incorrect. With a short stressed vowel, the final -m must be doubled, because a single one produces an incorrect syllable."
         },
         {
           "letter": "B",
           "text": "swimming",
           "is_correct": true,
-          "feedback": "Correcto. 'Swim' termina en vocal breve tensa con -m, y en ese caso la consonante final se duplica antes de -ing."
+          "feedback": "Correct. 'Swim' ends in a short stressed vowel plus -m, and in that case the final consonant is doubled before -ing."
         },
         {
           "letter": "C",
           "text": "swimm ing",
           "is_correct": false,
-          "feedback": "Incorrecto. No se puede separar la consonante con un espacio: la palabra es una sola unidad silabica."
+          "feedback": "Incorrect. The consonant can't be separated with a space: the word is a single syllabic unit."
         },
         {
           "letter": "D",
           "text": "swuming",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Swum' es una forma del pasado simple, no la base a la que se le anade el gerundio."
+          "feedback": "Incorrect. 'Swum' is a past simple form, not the base to which the -ing ending is added."
         }
       ],
       "correct_answer": "B",
@@ -286,25 +286,25 @@
           "letter": "A",
           "text": "is making",
           "is_correct": true,
-          "feedback": "Correcto. El sujeto es tercera persona singular, de modo que el auxiliar es 'is' seguido del gerundio 'making'."
+          "feedback": "Correct. The subject is third person singular, so the auxiliary is 'is' followed by the -ing form 'making'."
         },
         {
           "letter": "B",
           "text": "are making",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Are' corresponde a un sujeto plural, y 'my sister' es singular en esta frase."
+          "feedback": "Incorrect. 'Are' goes with a plural subject, and 'my sister' is singular in this sentence."
         },
         {
           "letter": "C",
           "text": "is make",
           "is_correct": false,
-          "feedback": "Incorrecto. El verbo principal debe ir en gerundio detras del auxiliar, no en su forma base."
+          "feedback": "Incorrect. The main verb must be in the -ing form after the auxiliary, not in its base form."
         },
         {
           "letter": "D",
           "text": "makes",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Makes' es presente simple y ademas la marca 'right now' pide el progresiva."
+          "feedback": "Incorrect. 'Makes' is present simple, and the time marker 'right now' calls for the progressive."
         }
       ],
       "correct_answer": "A",
@@ -331,25 +331,25 @@
           "letter": "A",
           "text": "is studying",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Is' se usa con he, she o it, y el sujeto de esta frase es la primera persona del singular."
+          "feedback": "Incorrect. 'Is' is used with he, she or it, and the subject of this sentence is first person singular."
         },
         {
           "letter": "B",
           "text": "am study",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de 'am' el verbo va en gerundio, no en la forma base 'study'."
+          "feedback": "Incorrect. After 'am' the verb takes the -ing form, not the base form 'study'."
         },
         {
           "letter": "C",
           "text": "am studying",
           "is_correct": true,
-          "feedback": "Correcto. Con el sujeto 'I' el auxiliar es 'am' y el gerundio 'studying' completa la estructura progresiva."
+          "feedback": "Correct. With the subject 'I' the auxiliary is 'am', and the -ing form 'studying' completes the progressive structure."
         },
         {
           "letter": "D",
           "text": "study",
           "is_correct": false,
-          "feedback": "Incorrecto. La forma base sola describe una rutina y no encaja con la expresion 'at the moment'."
+          "feedback": "Incorrect. The base form alone describes a routine and doesn't fit the expression 'at the moment'."
         }
       ],
       "correct_answer": "C",
@@ -376,25 +376,25 @@
           "letter": "A",
           "text": "is playing",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Is' no concuerda con el sujeto plural 'the children', y esa discordancia marca la frase como incorrecta."
+          "feedback": "Incorrect. 'Is' doesn't agree with the plural subject 'the children', and that mismatch makes the sentence incorrect."
         },
         {
           "letter": "B",
           "text": "plays",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Plays' es presente simple y no concorda con la idea de una accion en curso que implica el progresiva."
+          "feedback": "Incorrect. 'Plays' is present simple and doesn't fit the idea of an action in progress implied by the progressive."
         },
         {
           "letter": "C",
           "text": "are playing",
           "is_correct": true,
-          "feedback": "Correcto. La construccion es gramaticalmente posible, aunque 'every afternoon' normalmente pide presente simple para una rutina habitual."
+          "feedback": "Correct. The construction is grammatically possible, although 'every afternoon' normally calls for the present simple for a habitual routine."
         },
         {
           "letter": "D",
           "text": "play",
           "is_correct": false,
-          "feedback": "Incorrecto. Falta el gerundio y el auxiliar, de modo que la frase no expresa la accion progresiva."
+          "feedback": "Incorrect. The -ing form and the auxiliary are missing, so the sentence doesn't express the progressive action."
         }
       ],
       "correct_answer": "C",
@@ -421,25 +421,25 @@
           "letter": "A",
           "text": "aren't they",
           "is_correct": true,
-          "feedback": "Correcto. Una afirmacion en positivo pide un tag negativo, y el auxiliar del tag es el mismo 'are' de la frase principal."
+          "feedback": "Correct. A positive statement takes a negative tag, and the tag's auxiliary is the same 'are' as in the main clause."
         },
         {
           "letter": "B",
           "text": "isn't they",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Isn't' es la tercera persona singular y la frase principal usa 'are', de modo que el tag debe repetir ese auxiliar."
+          "feedback": "Incorrect. 'Isn't' is third person singular and the main clause uses 'are', so the tag must repeat that auxiliary."
         },
         {
           "letter": "C",
           "text": "don't they",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Don't' pertenece al presente simple, no al presente continuo que lleva la frase principal."
+          "feedback": "Incorrect. 'Don't' belongs to the present simple, not to the present continuous used in the main clause."
         },
         {
           "letter": "D",
           "text": "they are not",
           "is_correct": false,
-          "feedback": "Incorrecto. El tag invierte la polaridad pero mantiene el orden auxiliar mas pronombre, no sujeto mas verbo."
+          "feedback": "Incorrect. The tag reverses the polarity but keeps the auxiliary-plus-pronoun order, not subject plus verb."
         }
       ],
       "correct_answer": "A",
@@ -466,25 +466,25 @@
           "letter": "A",
           "text": "are lieing",
           "is_correct": false,
-          "feedback": "Incorrecto. El gerundio correcto es 'lying' y no admite la -e intercalada que aqui se ha colocado."
+          "feedback": "Incorrect. The correct -ing form is 'lying', and it doesn't take the -e that has been inserted here."
         },
         {
           "letter": "B",
           "text": "are lain",
           "is_correct": false,
-          "feedback": "Incorrecto. 'lain' es el participio pasado, y el presente continuo exige la forma -ing."
+          "feedback": "Incorrect. 'lain' is the past participle, and the present continuous requires the -ing form."
         },
         {
           "letter": "C",
           "text": "is lying",
           "is_correct": false,
-          "feedback": "Incorrecto. El sujeto es plural, de modo que el auxiliar debe ser 'are' y no 'is'."
+          "feedback": "Incorrect. The subject is plural, so the auxiliary must be 'are', not 'is'."
         },
         {
           "letter": "D",
           "text": "are lying",
           "is_correct": true,
-          "feedback": "Correcto. El gerundio de 'to lie' es 'lying', con la -y conservada y la vocal anterior breve tensa."
+          "feedback": "Correct. The -ing form of 'to lie' is 'lying', keeping the -y, with the preceding vowel short and stressed."
         }
       ],
       "correct_answer": "D",
@@ -511,25 +511,25 @@
           "letter": "A",
           "text": "He never is late for class.",
           "is_correct": false,
-          "feedback": "Incorrecto. En inglés el adverbio de negacion se coloca despues del verbo auxiliar, no delante."
+          "feedback": "Incorrect. In English the negative adverb goes after the auxiliary verb, not before it."
         },
         {
           "letter": "B",
           "text": "He is never late for class.",
           "is_correct": true,
-          "feedback": "Correcto. 'Never' admite el presente continuo y la frase describe una situacion del presente, no una rutina pasada."
+          "feedback": "Correct. 'Never' works with the present continuous, and the sentence describes a present situation, not a past routine."
         },
         {
           "letter": "C",
           "text": "He is late never for class.",
           "is_correct": false,
-          "feedback": "Incorrecto. El adverbio 'never' va inmediatamente despues de 'is', y en ningun caso al final de la oracion."
+          "feedback": "Incorrect. The adverb 'never' goes immediately after 'is', and never at the end of the sentence."
         },
         {
           "letter": "D",
           "text": "He never late for class.",
           "is_correct": false,
-          "feedback": "Incorrecto. Falta una segunda forma verbal, porque la construccion negativa necesita 'not' o el adverbio 'never' con el auxiliar 'is'."
+          "feedback": "Incorrect. A second verb form is missing, because the negative construction needs 'not' or the adverb 'never' with the auxiliary 'is'."
         }
       ],
       "correct_answer": "B",
@@ -556,25 +556,25 @@
           "letter": "A",
           "text": "is teach ing",
           "is_correct": false,
-          "feedback": "Incorrecto. El gerundio no lleva espacio y no conserva la -e final del verbo base."
+          "feedback": "Incorrect. The -ing form has no space and doesn't keep the final -e of the base verb."
         },
         {
           "letter": "B",
           "text": "is teaching",
           "is_correct": true,
-          "feedback": "Correcto. El gerundio de 'to teach' es 'teaching', con la -e final eliminada antes de anadir -ing."
+          "feedback": "Correct. The -ing form of 'to teach' is 'teaching', with the final -e dropped before adding -ing."
         },
         {
           "letter": "C",
           "text": "teaches",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Teaches' es presente simple; la frase no lleva ninguna marca temporal que fuerce el progresiva."
+          "feedback": "Incorrect. 'Teaches' is present simple; the sentence has no time marker that forces the progressive."
         },
         {
           "letter": "D",
           "text": "is teatching",
           "is_correct": false,
-          "feedback": "Incorrecto. No se duplica la -t despues de una vocal larga como 'ea', de modo que la forma correcta es 'teaching'."
+          "feedback": "Incorrect. The -t is not doubled after a long vowel like 'ea', so the correct form is 'teaching'."
         }
       ],
       "correct_answer": "B",
@@ -601,25 +601,25 @@
           "letter": "A",
           "text": "is writeing",
           "is_correct": false,
-          "feedback": "Incorrecto. Un verbo terminado en -w no pierde la -e antes de -ing, y la forma correcta duplica la consonante."
+          "feedback": "Incorrect. A verb ending in -w doesn't lose the -e before -ing, and the correct form doubles the consonant."
         },
         {
           "letter": "B",
           "text": "is writting",
           "is_correct": false,
-          "feedback": "Incorrecto. No se anade una -t extra: 'write' no termina en -t, de modo que el gerundio no lleva doble -t."
+          "feedback": "Incorrect. No extra -t is added: 'write' doesn't end in -t, so the -ing form doesn't have a double -t."
         },
         {
           "letter": "C",
           "text": "writes",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Writes' es presente simple, mientras que 'right now' describe una accion que esta ocurriendo."
+          "feedback": "Incorrect. 'Writes' is present simple, whereas 'right now' describes an action that is happening."
         },
         {
           "letter": "D",
           "text": "is writing",
           "is_correct": true,
-          "feedback": "Correcto. 'Write' termina en -e y la vocal 'i' es breve tensa, por lo que la -w final se duplica antes de -ing."
+          "feedback": "Correct. 'Write' ends in -e and the vowel 'i' is short and stressed, so the final -w is doubled before -ing."
         }
       ],
       "correct_answer": "D",
@@ -646,25 +646,25 @@
           "letter": "A",
           "text": "Do",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Do' pertenece al presente simple y no admite el gerundio 'waiting' detras."
+          "feedback": "Incorrect. 'Do' belongs to the present simple and can't be followed by the -ing form 'waiting'."
         },
         {
           "letter": "B",
           "text": "Is",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Is' corresponde a he, she o it y no concuerda con el sujeto 'you'."
+          "feedback": "Incorrect. 'Is' goes with he, she or it and doesn't agree with the subject 'you'."
         },
         {
           "letter": "C",
           "text": "Are",
           "is_correct": true,
-          "feedback": "Correcto. Con el sujeto 'you' el auxiliar es 'are', y la negacion ya viene expresada por el verbo principal 'waiting' en la pregunta."
+          "feedback": "Correct. With the subject 'you' the auxiliary is 'are', and the negation is already expressed by the main verb 'waiting' in the question."
         },
         {
           "letter": "D",
           "text": "Am",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Am' se usa con 'I' en primera persona del singular, nunca con 'you'."
+          "feedback": "Incorrect. 'Am' is used with 'I' in the first person singular, never with 'you'."
         }
       ],
       "correct_answer": "C",
@@ -691,25 +691,25 @@
           "letter": "A",
           "text": "An arrangement for a future time.",
           "is_correct": true,
-          "feedback": "Correcto. El presente continuo con referencia al futuro expresa un plan o acuerdo ya organizado."
+          "feedback": "Correct. The present continuous with future reference expresses a plan or arrangement that has already been made."
         },
         {
           "letter": "B",
           "text": "An action that is happening right now.",
           "is_correct": false,
-          "feedback": "Incorrecto. La marca 'tomorrow at ten' situa la accion en el futuro, de modo que la lectura de algo que ocurre ahora mismo no encaja con el enunciado."
+          "feedback": "Incorrect. The marker 'tomorrow at ten' places the action in the future, so reading it as something happening right now doesn't fit the sentence."
         },
         {
           "letter": "C",
           "text": "A habit from the past.",
           "is_correct": false,
-          "feedback": "Incorrecto. Los habitos del pasado se expresan con el pasado simple o el pasado continuo, no con esta estructura."
+          "feedback": "Incorrect. Past habits are expressed with the past simple or the past continuous, not with this structure."
         },
         {
           "letter": "D",
           "text": "A prediction about the future.",
           "is_correct": false,
-          "feedback": "Incorrecto. Las predicciones usan 'will' o 'going to', mientras que el presente continuo anuncia planes ya decididos."
+          "feedback": "Incorrect. Predictions use 'will' or 'going to', whereas the present continuous announces plans that have already been decided."
         }
       ],
       "correct_answer": "A",
@@ -736,25 +736,25 @@
           "letter": "A",
           "text": "Yes, I am.",
           "is_correct": true,
-          "feedback": "Correcto. La respuesta corta repite el auxiliar 'to be' y el sujeto, y es la forma esperada en presente continuo."
+          "feedback": "Correct. The short answer repeats the auxiliary 'to be' and the subject, and it is the expected form in the present continuous."
         },
         {
           "letter": "B",
           "text": "Yes, I eat.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'I eat' es presente simple y no repite el auxiliar que abre la pregunta."
+          "feedback": "Incorrect. 'I eat' is present simple and doesn't repeat the auxiliary that opens the question."
         },
         {
           "letter": "C",
           "text": "Yes, I am eating.",
           "is_correct": false,
-          "feedback": "Incorrecto. Es una respuesta valida pero no es una respuesta corta: la pregunta pide solo 'Yes, I am'."
+          "feedback": "Incorrect. It's a valid answer but not a short answer: the question calls for just 'Yes, I am'."
         },
         {
           "letter": "D",
           "text": "Yes, I do.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Do' responde a preguntas de presente simple, no a una pregunta construida con 'are'."
+          "feedback": "Incorrect. 'Do' answers present simple questions, not a question built with 'are'."
         }
       ],
       "correct_answer": "A",
@@ -781,25 +781,25 @@
           "letter": "A",
           "text": "An action that is happening right now.",
           "is_correct": false,
-          "feedback": "Incorrecto. La marca 'tomorrow at ten' situa la frase en el futuro, no en este momento, asi que la lectura de ahora es incorrecta."
+          "feedback": "Incorrect. The marker 'tomorrow at ten' places the sentence in the future, not at this moment, so the \"right now\" reading is incorrect."
         },
         {
           "letter": "B",
           "text": "A habit from the past.",
           "is_correct": false,
-          "feedback": "Incorrecto. Los habitos del pasado se expresan con el pasado simple o el pasado continuo, nunca con 'are meeting'."
+          "feedback": "Incorrect. Past habits are expressed with the past simple or the past continuous, never with 'are meeting'."
         },
         {
           "letter": "C",
           "text": "A prediction about the future.",
           "is_correct": false,
-          "feedback": "Incorrecto. Las predicciones usan 'will' o 'going to'; el presente continuo anuncia un acuerdo, no una prediccion."
+          "feedback": "Incorrect. Predictions use 'will' or 'going to'; the present continuous announces an arrangement, not a prediction."
         },
         {
           "letter": "D",
           "text": "An arrangement for a future time.",
           "is_correct": true,
-          "feedback": "Correcto. Con fecha y hora concretas el presente continuo anuncia un plan ya organizado, que es su uso futuro mas caracteristico."
+          "feedback": "Correct. With a specific date and time, the present continuous announces a plan that has already been arranged, which is its most typical future use."
         }
       ],
       "correct_answer": "D",
@@ -826,25 +826,25 @@
           "letter": "A",
           "text": "comes",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Comes' es presente simple, y la exclamacion 'Look' apunta a algo que ocurre en este instante."
+          "feedback": "Incorrect. 'Comes' is present simple, and the exclamation 'Look' points to something happening at this very moment."
         },
         {
           "letter": "B",
           "text": "is coming",
           "is_correct": true,
-          "feedback": "Correcto. 'Look' es la marca clasica del presente continuo y senala algo que esta sucediendo en este momento."
+          "feedback": "Correct. 'Look' is the classic marker of the present continuous and signals something happening at this moment."
         },
         {
           "letter": "C",
           "text": "is come",
           "is_correct": false,
-          "feedback": "Incorrecto. Falta el auxiliar 'to be' y el verbo queda con la terminacion de presente simple, mezclando dos tiempos verbales."
+          "feedback": "Incorrect. The auxiliary 'to be' is missing and the verb keeps the present simple ending, mixing two tenses."
         },
         {
           "letter": "D",
           "text": "is comming",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Come' ya termina en -e, de modo que se pierde la -e y no se duplica la -m final."
+          "feedback": "Incorrect. 'Come' already ends in -e, so the -e is dropped and the final -m is not doubled."
         }
       ],
       "correct_answer": "B",
@@ -871,25 +871,25 @@
           "letter": "A",
           "text": "aren't I",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Aren't' corresponde a 'you' o a un sujeto plural, y el sujeto del enunciado es 'I'."
+          "feedback": "Incorrect. 'Aren't' goes with 'you' or a plural subject, and the subject of the sentence is 'I'."
         },
         {
           "letter": "B",
           "text": "do I not",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Do' pertenece al presente simple, no al presente continuo que aparece en la frase principal."
+          "feedback": "Incorrect. 'Do' belongs to the present simple, not to the present continuous used in the main clause."
         },
         {
           "letter": "C",
           "text": "am I not",
           "is_correct": true,
-          "feedback": "Correcto. Una frase negativa pide un tag positivo, y el auxiliar 'am' se mantiene con 'I' como sujeto."
+          "feedback": "Correct. A negative sentence takes a positive tag, and the auxiliary 'am' is kept with 'I' as the subject."
         },
         {
           "letter": "D",
           "text": "isn't I",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Isn't' es la tercera persona singular y no concuerda con el sujeto 'I' de la oracion."
+          "feedback": "Incorrect. 'Isn't' is third person singular and doesn't agree with the subject 'I' of the sentence."
         }
       ],
       "correct_answer": "C",

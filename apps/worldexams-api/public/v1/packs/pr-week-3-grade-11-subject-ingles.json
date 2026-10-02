@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "They walked to the beach yesterday.",
           "is_correct": true,
-          "feedback": "Correcto. 'Walked' es el pasado simple regular, con el sufijo -ed detras de una consonante."
+          "feedback": "Correct. 'Walked' is the regular past simple, with the -ed suffix after a consonant."
         },
         {
           "letter": "B",
           "text": "They walk to the beach yesterday.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Walk' es la forma base; la marca 'yesterday' obliga al pasado simple con terminacion -ed."
+          "feedback": "Incorrect. 'Walk' is the base form; the marker 'yesterday' requires the past simple with the -ed ending."
         },
         {
           "letter": "C",
           "text": "They are walked to the beach yesterday.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Are walked' mezcla el presente continuo con el pasado simple, y no corresponde a ninguna forma valida."
+          "feedback": "Incorrect. 'Are walked' mixes the present continuous with the past simple and is not a valid form."
         },
         {
           "letter": "D",
           "text": "They walking to the beach yesterday.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Walking' es el gerundio del presente continuo y no puede ocupar el lugar del verbo principal en pasado."
+          "feedback": "Incorrect. 'Walking' is the -ing form of the present continuous and can't take the place of the main verb in the past."
         }
       ],
       "correct_answer": "A",
@@ -61,25 +61,25 @@
           "letter": "A",
           "text": "studyed",
           "is_correct": false,
-          "feedback": "Incorrecto. La -y consonantal se convierte en -i, de modo que escribir 'studyed' no corresponde a ninguna regla."
+          "feedback": "Incorrect. The consonant -y changes to -i, so writing 'studyed' doesn't follow any rule."
         },
         {
           "letter": "B",
           "text": "study",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Study' es la forma base presente y no lleva la terminacion -ed que exige el pasado simple."
+          "feedback": "Incorrect. 'Study' is the present base form and lacks the -ed ending that the past simple requires."
         },
         {
           "letter": "C",
           "text": "studied",
           "is_correct": true,
-          "feedback": "Correcto. Un verbo terminado en consonante mas -y cambia la -y por -i antes de añadir -ed."
+          "feedback": "Correct. A verb ending in a consonant plus -y changes the -y to -i before adding -ed."
         },
         {
           "letter": "D",
           "text": "studys",
           "is_correct": false,
-          "feedback": "Incorrecto. Falta la -e del sufijo: el pasado simple regular termina siempre en -ed o -d."
+          "feedback": "Incorrect. The -e of the suffix is missing: the regular past simple always ends in -ed or -d."
         }
       ],
       "correct_answer": "C",
@@ -106,25 +106,25 @@
           "letter": "A",
           "text": "goed",
           "is_correct": false,
-          "feedback": "Incorrecto. Anadir -ed a un verbo irregular no produce una forma del ingles; 'go' debe aprenderse aparte."
+          "feedback": "Incorrect. Adding -ed to an irregular verb doesn't produce an English form; 'go' must be learned separately."
         },
         {
           "letter": "B",
           "text": "went",
           "is_correct": true,
-          "feedback": "Correcto. 'To go' es irregular y su pasado simple es 'went', sin terminacion -ed."
+          "feedback": "Correct. 'To go' is irregular and its past simple is 'went', without an -ed ending."
         },
         {
           "letter": "C",
           "text": "gone",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Gone' es el participio pasado, que se usa con 'have' o en pasiva, no como verbo principal en pasado simple."
+          "feedback": "Incorrect. 'Gone' is the past participle, used with 'have' or in the passive, not as a main verb in the past simple."
         },
         {
           "letter": "D",
           "text": "going",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Going' pertenece al presente continuo y ademas necesita el auxiliar 'was' para ser valido."
+          "feedback": "Incorrect. 'Going' belongs to the present continuous and also needs the auxiliary 'was' to be valid."
         }
       ],
       "correct_answer": "B",
@@ -151,25 +151,25 @@
           "letter": "A",
           "text": "didn't saw",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de 'didn't' el verbo vuelve a la forma base, de modo que corresponde 'see' y no 'saw'."
+          "feedback": "Incorrect. After 'didn't' the verb goes back to the base form, so it should be 'see', not 'saw'."
         },
         {
           "letter": "B",
           "text": "don't see",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Don't' es el negativo del presente simple, y el enunciado ya situa la accion en el pasado."
+          "feedback": "Incorrect. 'Don't' is the present simple negative, and the sentence already places the action in the past."
         },
         {
           "letter": "C",
           "text": "not saw",
           "is_correct": false,
-          "feedback": "Incorrecto. Falta el auxiliar 'did', que es obligatorio en toda frase negativa de pasado simple."
+          "feedback": "Incorrect. The auxiliary 'did' is missing, and it is required in every negative past simple sentence."
         },
         {
           "letter": "D",
           "text": "didn't see",
           "is_correct": true,
-          "feedback": "Correcto. El pasado simple negativo usa 'did not' o 'didn't' delante del verbo en forma base."
+          "feedback": "Correct. The negative past simple uses 'did not' or 'didn't' before the verb in its base form."
         }
       ],
       "correct_answer": "D",
@@ -196,25 +196,25 @@
           "letter": "A",
           "text": "Do you finished the project last week?",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Do' es el auxiliar del presente simple y ademas el verbo lleva la terminacion incorrecta."
+          "feedback": "Incorrect. 'Do' is the present simple auxiliary, and the verb also has the wrong ending."
         },
         {
           "letter": "B",
           "text": "Did you finished the project last week?",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de 'did' el verbo vuelve a la forma base, de modo que la terminacion -ed sobra y produce una frase invalida."
+          "feedback": "Incorrect. After 'did' the verb goes back to the base form, so the -ed ending is unnecessary and makes the sentence invalid."
         },
         {
           "letter": "C",
           "text": "Was you finish the project last week?",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Was' corresponde al verbo 'to be' y no admite el verbo principal en forma base detras."
+          "feedback": "Incorrect. 'Was' belongs to the verb 'to be' and can't be followed by the main verb in its base form."
         },
         {
           "letter": "D",
           "text": "Did you finish the project last week?",
           "is_correct": true,
-          "feedback": "Correcto. La pregunta en pasado simple abre con 'Did' y el verbo principal queda en forma base."
+          "feedback": "Correct. A past simple question opens with 'Did', and the main verb stays in the base form."
         }
       ],
       "correct_answer": "D",
@@ -241,25 +241,25 @@
           "letter": "A",
           "text": "was",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Was' corresponde a la primera y tercera persona del singular, no al sujeto plural 'they'."
+          "feedback": "Incorrect. 'Was' goes with the first and third person singular, not with the plural subject 'they'."
         },
         {
           "letter": "B",
           "text": "were",
           "is_correct": true,
-          "feedback": "Correcto. Con el sujeto 'they' el pasado de 'to be' es 'were', y 'last night' confirma el tiempo verbal."
+          "feedback": "Correct. With the subject 'they' the past of 'to be' is 'were', and 'last night' confirms the tense."
         },
         {
           "letter": "C",
           "text": "are",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Are' es presente, y por lo tanto no concuerda con la marca temporal 'last night'."
+          "feedback": "Incorrect. 'Are' is present, so it doesn't agree with the time marker 'last night'."
         },
         {
           "letter": "D",
           "text": "be",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Be' es la forma base del verbo y necesita una forma conjugada para funcionar como verbo principal."
+          "feedback": "Incorrect. 'Be' is the base form of the verb and needs a conjugated form to work as the main verb."
         }
       ],
       "correct_answer": "B",
@@ -286,25 +286,25 @@
           "letter": "A",
           "text": "stopped",
           "is_correct": true,
-          "feedback": "Correcto. Cuando el verbo termina en vocal breve tensa y consonante se duplica la consonante y despues se anade -ed."
+          "feedback": "Correct. When the verb ends in a short stressed vowel plus a consonant, the consonant is doubled and then -ed is added."
         },
         {
           "letter": "B",
           "text": "stoped",
           "is_correct": false,
-          "feedback": "Incorrecto. Sin duplicar la -p la palabra perderia la vocal breve y sonaria distinta; la regla exige la doble consonante."
+          "feedback": "Incorrect. Without doubling the -p, the word would lose its short vowel and sound different; the rule requires the double consonant."
         },
         {
           "letter": "C",
           "text": "stoppes",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Stoppes' duplica la -p y anade una -e final, y ninguna regla del pasado simple produce esa forma."
+          "feedback": "Incorrect. 'Stoppes' doubles the -p and adds a final -e, and no past simple rule produces that form."
         },
         {
           "letter": "D",
           "text": "stopt",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Stopt' no existe; el pasado simple regular siempre termina en -ed o -d."
+          "feedback": "Incorrect. 'Stopt' doesn't exist; the regular past simple always ends in -ed or -d."
         }
       ],
       "correct_answer": "A",
@@ -331,25 +331,25 @@
           "letter": "A",
           "text": "writed",
           "is_correct": false,
-          "feedback": "Incorrecto. Anadir -ed a un verbo irregular no forma parte del ingles, y 'wrote' es la unica forma aceptada."
+          "feedback": "Incorrect. Adding -ed to an irregular verb isn't correct English, and 'wrote' is the only accepted form."
         },
         {
           "letter": "B",
           "text": "written",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Written' es el participio pasado, que se usa con 'have written' y nunca solo como verbo principal en pasado."
+          "feedback": "Incorrect. 'Written' is the past participle, used in 'have written' and never on its own as a main verb in the past."
         },
         {
           "letter": "C",
           "text": "wrote",
           "is_correct": true,
-          "feedback": "Correcto. El pasado simple de 'to write' es 'wrote', que se confunde con 'to ride' pero se escribe con -o-."
+          "feedback": "Correct. The past simple of 'to write' is 'wrote', which is often confused with 'to ride' but is spelled with -o-."
         },
         {
           "letter": "D",
           "text": "write",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Write' es la forma base y no lleva ninguna marca de pasado; falta el verbo conjugado o el auxiliar 'did'."
+          "feedback": "Incorrect. 'Write' is the base form and carries no past marker; the conjugated verb or the auxiliary 'did' is missing."
         }
       ],
       "correct_answer": "C",
@@ -376,25 +376,25 @@
           "letter": "A",
           "text": "doesn't he",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Doesn't' es el auxiliar del presente simple, y la frase principal esta en pasado."
+          "feedback": "Incorrect. 'Doesn't' is the present simple auxiliary, and the main clause is in the past."
         },
         {
           "letter": "B",
           "text": "wasn't he",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Wasn't' pertenece al verbo 'to be', y aqui el verbo principal es 'finished'."
+          "feedback": "Incorrect. 'Wasn't' belongs to the verb 'to be', and here the main verb is 'finished'."
         },
         {
           "letter": "C",
           "text": "didn't he",
           "is_correct": true,
-          "feedback": "Correcto. Una afirmacion en positivo pide un tag negativo, y el auxiliar 'did' es el que corresponde al pasado simple."
+          "feedback": "Correct. A positive statement takes a negative tag, and 'did' is the auxiliary that goes with the past simple."
         },
         {
           "letter": "D",
           "text": "did he not",
           "is_correct": false,
-          "feedback": "Incorrecto. El tag debe invertir la polaridad placing el auxiliar antes del pronombre, no despues."
+          "feedback": "Incorrect. The tag must reverse the polarity by placing the auxiliary before the pronoun, not after it."
         }
       ],
       "correct_answer": "C",
@@ -421,25 +421,25 @@
           "letter": "A",
           "text": "ate",
           "is_correct": true,
-          "feedback": "Correcto. El pasado simple de 'to eat' es 'ate', una forma totalmente irregular que hay que memorizar."
+          "feedback": "Correct. The past simple of 'to eat' is 'ate', a completely irregular form that has to be memorized."
         },
         {
           "letter": "B",
           "text": "eated",
           "is_correct": false,
-          "feedback": "Incorrecto. Ningun verbo del ingles forma su pasado anadiendo -ed a 'eat', porque es irregular."
+          "feedback": "Incorrect. English never forms the past of 'eat' by adding -ed, because it is irregular."
         },
         {
           "letter": "C",
           "text": "eaten",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Eaten' es el participio pasado, que necesita 'have' delante para formar el pasado perfecto."
+          "feedback": "Incorrect. 'Eaten' is the past participle, which needs 'have' in front of it to form the present perfect."
         },
         {
           "letter": "D",
           "text": "eat",
           "is_correct": false,
-          "feedback": "Incorrecto. Es la forma base; sin 'did' ni forma conjugada la frase no expresa una accion pasada concreta."
+          "feedback": "Incorrect. This is the base form; without 'did' or a conjugated form, the sentence does not express a specific past action."
         }
       ],
       "correct_answer": "A",
@@ -466,25 +466,25 @@
           "letter": "A",
           "text": "haved",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Haved' no existe en ingles; 'to have' es irregular y su pasado es 'had'."
+          "feedback": "Incorrect. 'Haved' does not exist in English; 'to have' is irregular and its past is 'had'."
         },
         {
           "letter": "B",
           "text": "haveed",
           "is_correct": false,
-          "feedback": "Incorrecto. Anadir -ed a 'have' no produce una forma valida, aunque 'have' funcione como auxiliar en otros tiempos."
+          "feedback": "Incorrect. Adding -ed to 'have' does not produce a valid form, even though 'have' works as an auxiliary in other tenses."
         },
         {
           "letter": "C",
           "text": "hade",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Hade' no es una forma verbal del pasado simple; el pasado de 'to have' es siempre 'had'."
+          "feedback": "Incorrect. 'Hade' is not a past simple verb form; the past of 'to have' is always 'had'."
         },
         {
           "letter": "D",
           "text": "had",
           "is_correct": true,
-          "feedback": "Correcto. El pasado simple de 'to have' es 'had', la misma forma que sirve para todas las personas del singular y del plural."
+          "feedback": "Correct. The past simple of 'to have' is 'had', the same form for all persons, singular and plural."
         }
       ],
       "correct_answer": "D",
@@ -511,25 +511,25 @@
           "letter": "A",
           "text": "weren't",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Weren't' corresponde a un sujeto plural, y el sujeto de la oracion es 'it' en singular."
+          "feedback": "Incorrect. 'Weren't' goes with a plural subject, and the subject of the sentence is singular 'it'."
         },
         {
           "letter": "B",
           "text": "wasn't",
           "is_correct": true,
-          "feedback": "Correcto. El negativo del pasado de 'to be' con el sujeto 'it' se forma con 'was not' o 'wasn't'."
+          "feedback": "Correct. The past negative of 'to be' with the subject 'it' is formed with 'was not' or 'wasn't'."
         },
         {
           "letter": "C",
           "text": "didn't",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Didn't' solo se usa con verbos de accion en forma base, nunca con 'to be'."
+          "feedback": "Incorrect. 'Didn't' is only used with action verbs in the base form, never with 'to be'."
         },
         {
           "letter": "D",
           "text": "isn't",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Isn't' es presente; la marca 'yesterday afternoon' exige la forma del pasado."
+          "feedback": "Incorrect. 'Isn't' is present; the time marker 'yesterday afternoon' requires the past form."
         }
       ],
       "correct_answer": "B",
@@ -556,25 +556,25 @@
           "letter": "A",
           "text": "caried",
           "is_correct": false,
-          "feedback": "Incorrecto. La vocal larga 'a' mantiene la -y en el pasado, y escribir 'caried' corresponde a un hablante no nativo."
+          "feedback": "Incorrect. The long vowel 'a' keeps the -y in the past, and spelling it 'caried' is a non-native speaker's mistake."
         },
         {
           "letter": "B",
           "text": "carried",
           "is_correct": true,
-          "feedback": "Correcto. Con vocal larga antes de la -y se conserva la -y y solo se anade -ed, como en 'carried'."
+          "feedback": "Correct. When a long vowel comes before the -y, the -y is kept and only -ed is added, as in 'carried'."
         },
         {
           "letter": "C",
           "text": "caryed",
           "is_correct": false,
-          "feedback": "Incorrecto. No se cambia la -y por -i cuando la vocal anterior es una a, y 'caryed' no es una forma del ingles."
+          "feedback": "Incorrect. The -y is not changed to -i when the preceding vowel is an a, and 'caryed' is not an English form."
         },
         {
           "letter": "D",
           "text": "carryed",
           "is_correct": false,
-          "feedback": "Incorrecto. Un verbo terminado en -y nunca anade -ed de forma directa cuando la y es consonantal o va precedida de vocal larga."
+          "feedback": "Incorrect. A verb ending in -y never adds -ed directly when the y is consonantal or preceded by a long vowel."
         }
       ],
       "correct_answer": "B",
@@ -601,25 +601,25 @@
           "letter": "A",
           "text": "decidded",
           "is_correct": false,
-          "feedback": "Incorrecto. La vocal de 'decide' es larga, de modo que no se duplica la -d al anadir -ed."
+          "feedback": "Incorrect. The vowel in 'decide' is long, so the -d is not doubled when adding -ed."
         },
         {
           "letter": "B",
           "text": "decied",
           "is_correct": false,
-          "feedback": "Incorrecto. Falta la -d final, y el pasado simple regular siempre termina en -ed o -d."
+          "feedback": "Incorrect. The final -d is missing, and the regular past simple always ends in -ed or -d."
         },
         {
           "letter": "C",
           "text": "decidedd",
           "is_correct": false,
-          "feedback": "Incorrecto. Doble -d no corresponde a ninguna regla; el termino correcto es 'decided' con una sola -d final."
+          "feedback": "Incorrect. A double -d does not follow any rule; the correct form is 'decided' with a single final -d."
         },
         {
           "letter": "D",
           "text": "decided",
           "is_correct": true,
-          "feedback": "Correcto. 'Decided' es un pasado regular y termina en -ed, por lo que el sufijo no altera la pronunciacion de la -d."
+          "feedback": "Correct. 'Decided' is a regular past form ending in -ed, so the suffix does not change the pronunciation of the -d."
         }
       ],
       "correct_answer": "D",
@@ -646,25 +646,25 @@
           "letter": "A",
           "text": "doed",
           "is_correct": false,
-          "feedback": "Incorrecto. Ninguna forma del ingles contiene 'doed'; el pasado de 'to do' es 'did'."
+          "feedback": "Incorrect. 'Doed' is not an English form; the past of 'to do' is 'did'."
         },
         {
           "letter": "B",
           "text": "done",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Done' es el participio pasado y necesita 'have' delante, como en 'I have done it'."
+          "feedback": "Incorrect. 'Done' is the past participle and needs 'have' in front of it, as in 'I have done it'."
         },
         {
           "letter": "C",
           "text": "did",
           "is_correct": true,
-          "feedback": "Correcto. El pasado simple de 'to do' es 'did', y no lleva terminacion -ed ni ningun auxiliar delante."
+          "feedback": "Correct. The past simple of 'to do' is 'did', with no -ed ending and no auxiliary in front."
         },
         {
           "letter": "D",
           "text": "do",
           "is_correct": false,
-          "feedback": "Incorrecto. Es la forma base del verbo y no expresa el pasado, ademas la frase ya lleva 'yesterday'."
+          "feedback": "Incorrect. This is the base form of the verb and does not express the past, and the sentence already contains 'yesterday'."
         }
       ],
       "correct_answer": "C",
@@ -691,25 +691,25 @@
           "letter": "A",
           "text": "Yes, I did.",
           "is_correct": true,
-          "feedback": "Correcto. La respuesta corta repite el auxiliar 'did' de la pregunta, que es la forma esperada en pasado simple."
+          "feedback": "Correct. The short answer repeats the auxiliary 'did' from the question, which is the expected form in the past simple."
         },
         {
           "letter": "B",
           "text": "Yes, I was.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Was' responde a preguntas con 'to be' y no concuerda con el auxiliar 'did' de la pregunta."
+          "feedback": "Incorrect. 'Was' answers questions with 'to be' and does not match the auxiliary 'did' in the question."
         },
         {
           "letter": "C",
           "text": "Yes, I called.",
           "is_correct": false,
-          "feedback": "Incorrecto. Es una respuesta valida pero no es corta; la forma esperada repite el auxiliar, no el verbo principal."
+          "feedback": "Incorrect. It is a valid answer but not a short one; the expected form repeats the auxiliary, not the main verb."
         },
         {
           "letter": "D",
           "text": "Yes, I do.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Do' es la respuesta corta del presente simple y no corresponde a una pregunta con 'did'."
+          "feedback": "Incorrect. 'Do' is the present simple short answer and does not match a question with 'did'."
         }
       ],
       "correct_answer": "A",
@@ -736,25 +736,25 @@
           "letter": "A",
           "text": "broke",
           "is_correct": true,
-          "feedback": "Correcto. El pasado simple de 'to break' es 'broke', que comparte terminacion con 'to speak', 'to drive' y 'to rise'."
+          "feedback": "Correct. The past simple of 'to break' is 'broke', which shares its ending with 'to speak', 'to drive' and 'to rise'."
         },
         {
           "letter": "B",
           "text": "breaked",
           "is_correct": false,
-          "feedback": "Incorrecto. Anadir -ed a un verbo irregular no produce una forma valida del ingles."
+          "feedback": "Incorrect. Adding -ed to an irregular verb does not produce a valid English form."
         },
         {
           "letter": "C",
           "text": "broken",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Broken' es el participio pasado, que se emplea con 'have broken' y no como verbo principal solo."
+          "feedback": "Incorrect. 'Broken' is the past participle, used in 'have broken', not on its own as a main verb."
         },
         {
           "letter": "D",
           "text": "break",
           "is_correct": false,
-          "feedback": "Incorrecto. Es la forma base y la frase no lleva 'did', de modo que no hay marca alguna de pasado."
+          "feedback": "Incorrect. This is the base form, and the sentence has no 'did', so there is no past marker at all."
         }
       ],
       "correct_answer": "A",
@@ -781,25 +781,25 @@
           "letter": "A",
           "text": "takeed",
           "is_correct": false,
-          "feedback": "Incorrecto. El verbo 'to take' es irregular y no admite la terminacion -ed del pasado regular."
+          "feedback": "Incorrect. The verb 'to take' is irregular and does not take the regular past -ed ending."
         },
         {
           "letter": "B",
           "text": "taken",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Taken' es el participio pasado y requiere el auxiliar 'have' para construir el pasado perfecto."
+          "feedback": "Incorrect. 'Taken' is the past participle and requires the auxiliary 'have' to form the present perfect."
         },
         {
           "letter": "C",
           "text": "taked",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Taked' no existe en ingles; la forma correcta del pasado simple es 'took'."
+          "feedback": "Incorrect. 'Taked' does not exist in English; the correct past simple form is 'took'."
         },
         {
           "letter": "D",
           "text": "took",
           "is_correct": true,
-          "feedback": "Correcto. El pasado simple de 'to take' es 'took', una forma irregular que se parece al presente pero con vocal larga."
+          "feedback": "Correct. The past simple of 'to take' is 'took', an irregular form that looks like the present but has a long vowel."
         }
       ],
       "correct_answer": "D",
@@ -826,25 +826,25 @@
           "letter": "A",
           "text": "She didn't ready for the test.",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de 'did' el verbo vuelve a la forma base, y 'ready' es un adjetivo, no un verbo."
+          "feedback": "Incorrect. After 'did' the verb goes back to the base form, and 'ready' is an adjective, not a verb."
         },
         {
           "letter": "B",
           "text": "She wasn't ready for the test.",
           "is_correct": true,
-          "feedback": "Correcto. 'Wasn't' es la forma contracta de 'was not' y corresponde al pasado con sujeto singular."
+          "feedback": "Correct. 'Wasn't' is the contracted form of 'was not' and is the past form for a singular subject."
         },
         {
           "letter": "C",
           "text": "She wasn't be ready for the test.",
           "is_correct": false,
-          "feedback": "Incorrecto. El pasado de 'to be' ya es una forma completa, de modo que sobra la forma base 'be' detras."
+          "feedback": "Incorrect. The past of 'to be' is already a complete form, so the base form 'be' after it is unnecessary."
         },
         {
           "letter": "D",
           "text": "She isn't ready for the test yesterday.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Isn't' es presente y contradice la marca temporal 'yesterday' de la oracion."
+          "feedback": "Incorrect. 'Isn't' is present and contradicts the time marker 'yesterday' in the sentence."
         }
       ],
       "correct_answer": "B",
@@ -871,25 +871,25 @@
           "letter": "A",
           "text": "She moves to Mayaguez two years ago.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Moves' es presente simple y no concuerda con una expresion que situa la accion en el pasado."
+          "feedback": "Incorrect. 'Moves' is present simple and does not agree with an expression that places the action in the past."
         },
         {
           "letter": "B",
           "text": "She is moving to Mayaguez two years ago.",
           "is_correct": false,
-          "feedback": "Incorrecto. El presente continuo con 'ago' es incorrecto, porque la accion ya ocurrio y no esta en curso."
+          "feedback": "Incorrect. The present continuous cannot be used with 'ago', because the action has already happened and is not in progress."
         },
         {
           "letter": "C",
           "text": "She moved to Mayaguez two years ago.",
           "is_correct": true,
-          "feedback": "Correcto. 'Two years ago' es una expresion de pasado y el verbo 'moved' responde a esa marca temporal."
+          "feedback": "Correct. 'Two years ago' is a past time expression, and the verb 'moved' matches that time marker."
         },
         {
           "letter": "D",
           "text": "She moved to Mayaguez two years ago tomorrow.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Ago' y 'tomorrow' se contradicen; las dos expresiones de tiempo no pueden coexistir."
+          "feedback": "Incorrect. 'Ago' and 'tomorrow' contradict each other; the two time expressions cannot appear together."
         }
       ],
       "correct_answer": "C",
