@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-22-grade-4-subject-matematicas",
+    "generated_at": "2026-10-02T15:18:05.282Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-4-2026-W22-problemas-de-sumacion-y-sustraccion-001-MASTERY-bundle-v1",
+      "statement": "¿Cuántas naranjas vendió en total durante el día?",
+      "context": "En Armenia, un tendero vende 125 naranjas por la mañana y 80 naranjas por la tarde.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "45 naranjas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste 125 − 80, pero la pregunta pide juntar las dos ventas y eso se resuelve con una suma."
+        },
+        {
+          "letter": "B",
+          "text": "105 naranjas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste mal las cantidades, cuando hay que sumar 125 + 80 para juntar lo vendido."
+        },
+        {
+          "letter": "C",
+          "text": "205 naranjas",
+          "is_correct": true,
+          "feedback": "Correcto. Se suman las dos ventas: 125 + 80 = 205 naranjas."
+        },
+        {
+          "letter": "D",
+          "text": "215 naranjas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 125 + 80 pero escribiste 215; el resultado correcto es 205."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando el problema pide juntar dos cantidades, la operación es la suma. Aquí se unen las 125 naranjas de la mañana con las 80 de la tarde: 125 + 80 = 205. La resta se usaría si preguntara cuántas más se vendieron por la mañana, es decir la diferencia entre las dos cantidades.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-4-2026-W22-problemas-de-sumacion-y-sustraccion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W22-problemas-de-sumacion-y-sustraccion-001-MASTERY-bundle-v2",
+      "statement": "¿Cuántos libros quedaron en la biblioteca?",
+      "context": "En Bogotá, una biblioteca escolar tenía 340 libros y prestó 128 a los estudiantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "468 libros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 340 + 128, pero los libros prestados salen de la biblioteca y por eso se restan."
+        },
+        {
+          "letter": "B",
+          "text": "212 libros",
+          "is_correct": true,
+          "feedback": "Correcto. A los 340 libros iniciales se les quitan los 128 prestados: 340 − 128 = 212."
+        },
+        {
+          "letter": "C",
+          "text": "222 libros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste con un error de agrupación; al calcular 340 − 128 el resultado es 212."
+        },
+        {
+          "letter": "D",
+          "text": "202 libros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste de más; el resultado correcto de 340 − 128 es 212."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando algo se presta, se vende o se gasta, la cantidad disminuye y se usa la resta. Partiendo de 340 libros y quitando 128, quedan 340 − 128 = 212. Se puede comprobar sumando el resultado con lo prestado: 212 + 128 = 340, que es el total inicial.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-4-2026-W22-problemas-de-sumacion-y-sustraccion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W22-problemas-de-sumacion-y-sustraccion-001-MASTERY-bundle-v3",
+      "statement": "¿Cuántos colores compró el colegio en los dos meses?",
+      "context": "En Cali, un colegio compró 2.450 colores en enero y 1.875 colores en febrero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3.325 colores",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste 2.450 − 1.875, cuando el problema pide reunir las dos compras con una suma."
+        },
+        {
+          "letter": "B",
+          "text": "4.225 colores",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste con un error de acarreo; 2.450 + 1.875 da 4.325."
+        },
+        {
+          "letter": "C",
+          "text": "4.300 colores",
+          "is_correct": false,
+          "feedback": "Incorrecto. Redondeaste mal al sumar; el resultado exacto es 4.325."
+        },
+        {
+          "letter": "D",
+          "text": "4.325 colores",
+          "is_correct": true,
+          "feedback": "Correcto. Al sumar 2.450 + 1.875 se obtiene 4.325 colores."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para reunir dos compras se suman las cantidades. Se suman las unidades, luego las decenas, las centenas y las unidades de mil, agrupando cuando una columna pasa de 9. Así, 2.450 + 1.875 = 4.325. La comprobación consiste en restar una de las partes al total: 4.325 − 1.875 = 2.450.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-4-2026-W22-problemas-de-sumacion-y-sustraccion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W22-problemas-de-sumacion-y-sustraccion-001-MASTERY-bundle-v4",
+      "statement": "¿Cuántas camisetas le quedan al almacén?",
+      "context": "En Barranquilla, un almacén tenía 3.600 camisetas y vendió 1.475.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.125 camisetas",
+          "is_correct": true,
+          "feedback": "Correcto. Se restan las vendidas del total: 3.600 − 1.475 = 2.125 camisetas."
+        },
+        {
+          "letter": "B",
+          "text": "2.175 camisetas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste con un error de agrupación en las centenas; el resultado es 2.125."
+        },
+        {
+          "letter": "C",
+          "text": "5.075 camisetas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 3.600 + 1.475, cuando las camisetas vendidas se descuentan y se restan."
+        },
+        {
+          "letter": "D",
+          "text": "2.135 camisetas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste de más en las decenas; al calcular 3.600 − 1.475 el resultado es 2.125."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando una cantidad se vende, se usa la resta para saber cuánto queda. Se calcula 3.600 − 1.475 = 2.125. La comprobación es sumar lo que queda con lo vendido: 2.125 + 1.475 = 3.600, el total inicial. Esta verificación ayuda a detectar errores de acarreo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-4-2026-W22-problemas-de-sumacion-y-sustraccion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W22-problemas-de-sumacion-y-sustraccion-001-MASTERY-bundle-v5",
+      "statement": "¿Cuánto dinero ahorró en total en los tres días?",
+      "context": "En Pereira, Camila ahorró 1.250 pesos el lunes, 980 pesos el martes y 1.320 pesos el miércoles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3.450 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 1.250 + 980 + 1.220, cambiando el tercer ahorro; el dato correcto es 1.320."
+        },
+        {
+          "letter": "B",
+          "text": "2.550 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Omitiste los 1.000 pesos del tercer día; hay que sumar los tres valores completos."
+        },
+        {
+          "letter": "C",
+          "text": "3.550 pesos",
+          "is_correct": true,
+          "feedback": "Correcto. Se suman los tres ahorros: 1.250 + 980 + 1.320 = 3.550 pesos."
+        },
+        {
+          "letter": "D",
+          "text": "3.650 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 100 pesos de más; el total exacto es 3.550."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para reunir varios ahorros se suman todos los valores, no solo dos. Primero se puede sumar 1.250 + 980 = 2.230 y luego agregar 1.320, lo que da 3.550 pesos. Sumar en dos pasos reduce los errores y permite verificar el resultado parcial en cada etapa.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-4-2026-W22-problemas-de-sumacion-y-sustraccion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W22-problemas-de-sumacion-y-sustraccion-001-MASTERY-bundle-v6",
+      "statement": "¿Cuántas estampas tiene Andrés ahora?",
+      "context": "En Bucaramanga, Andrés tenía 800 estampas, regaló 275 y después compró 150 más.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "525 estampas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste 800 − 275 pero olvidaste sumar las 150 estampas que compró después."
+        },
+        {
+          "letter": "B",
+          "text": "675 estampas",
+          "is_correct": true,
+          "feedback": "Correcto. Primero 800 − 275 = 525 y luego 525 + 150 = 675 estampas."
+        },
+        {
+          "letter": "C",
+          "text": "925 estampas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 275 y 150 en lugar de restar lo regalado y sumar lo comprado."
+        },
+        {
+          "letter": "D",
+          "text": "375 estampas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste también las 150 compradas, cuando esas estampas se deben sumar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En un problema con dos cambios conviene hacerlos en orden. Andrés empieza con 800, regala 275 y queda con 800 − 275 = 525; después compra 150 y termina con 525 + 150 = 675. Restar lo que sale y sumar lo que entra refleja la situación real y evita combinar mal las operaciones.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-4-2026-W22-problemas-de-sumacion-y-sustraccion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W22-problemas-de-sumacion-y-sustraccion-001-MASTERY-bundle-v7",
+      "statement": "¿Cuántas cajas quedan en la bodega después de las dos ventas?",
+      "context": "En Santa Marta, en una bodega había 2.000 cajas. El lunes se vendieron 740 y el martes 615.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.260 cajas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste solo las 740 del lunes y olvidaste descontar las 615 del martes."
+        },
+        {
+          "letter": "B",
+          "text": "1.385 cajas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste solo las 615 del martes y olvidaste descontar las 740 del lunes."
+        },
+        {
+          "letter": "C",
+          "text": "1.355 cajas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las dos ventas, 740 + 615 = 1.355, pero esa es la cantidad vendida y no la que queda."
+        },
+        {
+          "letter": "D",
+          "text": "645 cajas",
+          "is_correct": true,
+          "feedback": "Correcto. Se restan las dos ventas del total: 2.000 − 740 − 615 = 645 cajas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cuando hay varias salidas, se pueden restar una tras otra o sumar todas las salidas y restarlas de una vez. Aquí las ventas suman 740 + 615 = 1.355, y 2.000 − 1.355 = 645. La comprobación es 645 + 1.355 = 2.000, que coincide con las cajas iniciales.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-4-2026-W22-problemas-de-sumacion-y-sustraccion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W22-problemas-de-sumacion-y-sustraccion-001-MASTERY-bundle-v8",
+      "statement": "¿Cuántas páginas debe leer el equipo rojo para tener más páginas que el equipo azul?",
+      "context": "En Neiva, en una competencia de lectura el equipo rojo leyó 1.850 páginas y el equipo azul leyó 1.975 páginas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "126 páginas",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia es 1.975 − 1.850 = 125, y con 126 páginas el rojo supera al azul por una página."
+        },
+        {
+          "letter": "B",
+          "text": "125 páginas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con 125 páginas el rojo empata, porque 1.850 + 125 = 1.975, y el problema pide superar."
+        },
+        {
+          "letter": "C",
+          "text": "225 páginas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese número no corresponde a la diferencia entre 1.975 y 1.850, que es 125."
+        },
+        {
+          "letter": "D",
+          "text": "3.825 páginas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las páginas de los dos equipos, cuando se busca la diferencia para superar al azul."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para superar una cantidad hay que igualarla y luego sumar al menos una unidad. La diferencia entre el azul y el rojo es 1.975 − 1.850 = 125. Si el rojo lee 125 páginas más, empata; si lee 126, queda por encima. Este problema muestra la diferencia entre igualar y superar, un detalle importante al interpretar comparaciones.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-4-2026-W22-problemas-de-sumacion-y-sustraccion-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

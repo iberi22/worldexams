@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-27-grade-4-subject-matematicas",
+    "generated_at": "2026-10-02T15:18:05.285Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-4-2026-W27-problemas-con-multiplicacion-y-adicion-001-MASTERY-bundle-v1",
+      "statement": "¿Cuántos chocolates hay en total?",
+      "context": "En Armenia, una tienda tiene 3 cajas con 12 chocolates cada una y además 5 chocolates sueltos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 chocolates",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 12 + 3 + 5, cuando las cajas se multiplican y solo después se suma lo suelto."
+        },
+        {
+          "letter": "B",
+          "text": "36 chocolates",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste solo las 3 cajas, 3 × 12 = 36, y olvidaste sumar los 5 chocolates sueltos."
+        },
+        {
+          "letter": "C",
+          "text": "17 chocolates",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 12 + 5 y olvidaste multiplicar por las 3 cajas."
+        },
+        {
+          "letter": "D",
+          "text": "41 chocolates",
+          "is_correct": true,
+          "feedback": "Correcto. Las cajas tienen 3 × 12 = 36 chocolates, y con los 5 sueltos hay 36 + 5 = 41."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los problemas de varios pasos se resuelven por partes. Primero se calcula lo que hay en las cajas iguales con una multiplicación: 3 × 12 = 36. Después se agrega lo que está suelto con una suma: 36 + 5 = 41. Multiplicar los grupos iguales evita sumar doce veces el mismo número.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-4-2026-W27-problemas-con-multiplicacion-y-adicion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W27-problemas-con-multiplicacion-y-adicion-001-MASTERY-bundle-v2",
+      "statement": "¿Cuántas personas viajan en total?",
+      "context": "En Cali, 4 buses llevan 25 estudiantes cada uno y en total viajan también 8 profesores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 personas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contaste solo los estudiantes, 4 × 25 = 100, y olvidaste sumar los 8 profesores."
+        },
+        {
+          "letter": "B",
+          "text": "108 personas",
+          "is_correct": true,
+          "feedback": "Correcto. Los estudiantes son 4 × 25 = 100, y con los 8 profesores viajan 100 + 8 = 108 personas."
+        },
+        {
+          "letter": "C",
+          "text": "37 personas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 25 + 4 + 8, cuando los estudiantes se calculan multiplicando."
+        },
+        {
+          "letter": "D",
+          "text": "33 personas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 25 + 8 y no multiplicaste por los 4 buses."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En un problema con grupos iguales y un grupo aparte, se multiplica primero y se suma después. Los estudiantes se calculan con 4 × 25 = 100, y luego se agregan los 8 profesores: 100 + 8 = 108. Reconocer qué parte del problema forma grupos iguales permite elegir la operación correcta.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-4-2026-W27-problemas-con-multiplicacion-y-adicion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W27-problemas-con-multiplicacion-y-adicion-001-MASTERY-bundle-v3",
+      "statement": "¿Cuántos cuadernos compró en total?",
+      "context": "En Medellín, una escuela compra 6 cajas con 15 cuadernos cada una y después compra 20 cuadernos más.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "110 cuadernos",
+          "is_correct": true,
+          "feedback": "Correcto. Las cajas tienen 6 × 15 = 90 cuadernos, y con los 20 adicionales son 90 + 20 = 110."
+        },
+        {
+          "letter": "B",
+          "text": "90 cuadernos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste solo las cajas y olvidaste sumar los 20 cuadernos comprados después."
+        },
+        {
+          "letter": "C",
+          "text": "41 cuadernos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 6 + 15 + 20, cuando los cuadernos de las cajas se multiplican."
+        },
+        {
+          "letter": "D",
+          "text": "120 cuadernos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 6 × 20, usando el número de cajas por los cuadernos adicionales en lugar de por los de cada caja."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para resolver un problema de dos pasos se identifica primero la parte con grupos iguales. Las 6 cajas de 15 cuadernos dan 6 × 15 = 90, y luego se suman los 20 cuadernos adicionales: 90 + 20 = 110. Escribir el cálculo en dos pasos facilita revisar que ninguna parte quede sin usar.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-4-2026-W27-problemas-con-multiplicacion-y-adicion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W27-problemas-con-multiplicacion-y-adicion-001-MASTERY-bundle-v4",
+      "statement": "¿Cuántas sillas quedan vacías?",
+      "context": "En Barranquilla, un teatro tiene 8 filas con 12 sillas cada una y a la función asisten 75 personas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "96 sillas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el total de sillas, 8 × 12 = 96, pero la pregunta pide las que quedan vacías."
+        },
+        {
+          "letter": "B",
+          "text": "67 sillas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste 75 − 8, restando las filas en lugar de las sillas ocupadas."
+        },
+        {
+          "letter": "C",
+          "text": "21 sillas",
+          "is_correct": true,
+          "feedback": "Correcto. El teatro tiene 8 × 12 = 96 sillas, y al ocuparse 75 quedan 96 − 75 = 21 vacías."
+        },
+        {
+          "letter": "D",
+          "text": "15 sillas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste 75 − 60, usando un total de sillas que no corresponde a 8 filas de 12."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este problema combina una multiplicación y una resta. Primero se halla el total de sillas, 8 × 12 = 96, y luego se restan las personas que asistieron: 96 − 75 = 21 sillas vacías. Identificar que el total viene de grupos iguales y que lo ocupado se descuenta es clave para resolverlo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-4-2026-W27-problemas-con-multiplicacion-y-adicion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W27-problemas-con-multiplicacion-y-adicion-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántas naranjas le quedan?",
+      "context": "En Pereira, un vendedor tenía 7 bolsas con 20 naranjas cada una y regaló 12 naranjas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "152 naranjas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 140 + 12, cuando las naranjas regaladas se descuentan."
+        },
+        {
+          "letter": "B",
+          "text": "140 naranjas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste las 7 bolsas, 7 × 20 = 140, y olvidaste restar las 12 naranjas regaladas."
+        },
+        {
+          "letter": "C",
+          "text": "32 naranjas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 20 + 12, cuando hay que multiplicar por las 7 bolsas."
+        },
+        {
+          "letter": "D",
+          "text": "128 naranjas",
+          "is_correct": true,
+          "feedback": "Correcto. Las bolsas tienen 7 × 20 = 140 naranjas, y al regalar 12 quedan 140 − 12 = 128."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El problema tiene dos pasos: hallar el total y descontar lo que sale. Las 7 bolsas dan 7 × 20 = 140 naranjas, y al regalar 12 quedan 140 − 12 = 128. La resta se aplica después de la multiplicación, porque solo se descuenta de la cantidad total.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-4-2026-W27-problemas-con-multiplicacion-y-adicion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W27-problemas-con-multiplicacion-y-adicion-001-MASTERY-bundle-v6",
+      "statement": "¿Cuántos útiles compró en total?",
+      "context": "En Bucaramanga, Ana compra 3 paquetes con 8 lápices cada uno y 2 paquetes con 5 borradores cada uno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "24 útiles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contaste solo los lápices, 3 × 8 = 24, y olvidaste los borradores."
+        },
+        {
+          "letter": "B",
+          "text": "34 útiles",
+          "is_correct": true,
+          "feedback": "Correcto. Los lápices son 3 × 8 = 24 y los borradores 2 × 5 = 10, así que en total son 24 + 10 = 34."
+        },
+        {
+          "letter": "C",
+          "text": "10 útiles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contaste solo los borradores, 2 × 5 = 10, y olvidaste los lápices."
+        },
+        {
+          "letter": "D",
+          "text": "26 útiles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste 3 × 8 + 2, sumando la cantidad de paquetes en lugar de los borradores."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando hay dos tipos de grupos iguales, se calcula cada uno por separado y luego se suman los resultados. Los lápices son 3 × 8 = 24 y los borradores 2 × 5 = 10. El total de útiles es 24 + 10 = 34. Separar los grupos evita mezclar las cantidades.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-4-2026-W27-problemas-con-multiplicacion-y-adicion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W27-problemas-con-multiplicacion-y-adicion-001-MASTERY-bundle-v7",
+      "statement": "¿Cuántas sillas le faltan?",
+      "context": "En Santa Marta, un colegio organiza 5 filas de 9 sillas cada una y necesita 50 sillas para un acto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 sillas",
+          "is_correct": true,
+          "feedback": "Correcto. Las 5 filas dan 5 × 9 = 45 sillas, y para llegar a 50 faltan 50 − 45 = 5."
+        },
+        {
+          "letter": "B",
+          "text": "45 sillas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el número de sillas organizadas, pero la pregunta pide cuántas faltan."
+        },
+        {
+          "letter": "C",
+          "text": "55 sillas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 45 + 10 en lugar de comparar las 45 sillas con las 50 necesarias."
+        },
+        {
+          "letter": "D",
+          "text": "40 sillas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 5 × 8 en lugar de 5 × 9, y por eso el resultado no corresponde."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Este problema compara lo que se tiene con lo que se necesita. Las sillas organizadas son 5 × 9 = 45, y como se necesitan 50, faltan 50 − 45 = 5. La resta entre lo necesario y lo disponible indica cuánto falta, mientras que una resta al contrario indicaría lo que sobra.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-4-2026-W27-problemas-con-multiplicacion-y-adicion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W27-problemas-con-multiplicacion-y-adicion-001-MASTERY-bundle-v8",
+      "statement": "¿Qué se puede afirmar sobre el cálculo de Pedro?",
+      "context": "En Neiva, Pedro quiere saber cuánto gasta al comprar 4 camisetas de 18.000 pesos cada una y un pantalón de 45.000 pesos. Pedro propone sumar 18.000 + 45.000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcto, porque solo hay dos precios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque hay dos precios, la camiseta se compra 4 veces y eso exige una multiplicación."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcto, porque la multiplicación no se usa con dinero",
+          "is_correct": false,
+          "feedback": "Incorrecto. La multiplicación sí se usa con dinero cuando se repite un mismo precio varias veces."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecto, porque debe multiplicar 4 × 18.000 y luego sumar 45.000",
+          "is_correct": true,
+          "feedback": "Correcto. Las 4 camisetas cuestan 4 × 18.000 = 72.000 pesos y con el pantalón el total es 72.000 + 45.000 = 117.000."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecto, porque debe restar los dos precios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los gastos se suman, no se restan, porque Pedro paga ambos artículos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando un mismo precio se repite varias veces, se multiplica para hallar el subtotal y luego se suman los demás gastos. Las 4 camisetas cuestan 4 × 18.000 = 72.000 pesos, y al agregar el pantalón de 45.000 el total es 117.000. Reconocer los grupos iguales permite elegir la multiplicación en lugar de una suma incompleta.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-4-2026-W27-problemas-con-multiplicacion-y-adicion-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
