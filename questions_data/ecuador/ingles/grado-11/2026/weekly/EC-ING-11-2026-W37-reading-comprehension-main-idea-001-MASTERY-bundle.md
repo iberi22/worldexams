@@ -11,7 +11,7 @@ bundle_type: "weekly"
 protocol_version: "5.2"
 total_questions: 20
 bundle_size: 20
-alignment: "Curriculo de Ingles"
+alignment: "BGU - Ministerio de Educacion"
 license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
@@ -20,463 +20,500 @@ bundle_index: 1
 # MASTERY Bundle - Ingles: Reading Comprehension Main Idea (W37)
 **20 preguntas | Ingles | BGU - Ministerio de Educacion**
 
----
 ## Question 1 [D3]
-**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v1
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
-
-### Opciones
-- [x] C) accommodation
-  <!-- feedback: 'accommodation' is the word for a place where you live or stay, including on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' means the way you travel, such as buses or planes, not where you stay. -->
-- [ ] B) entertainment
-  <!-- feedback: 'entertainment' is the activity of enjoying shows, films or games, not a place to live. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money of a country, such as the colon; a place to stay is not money. -->
-
-### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
----
-## Question 2 [D4]
-**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v2
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
-
-### Opciones
-- [x] D) itinerary
-  <!-- feedback: 'itinerary' is a detailed plan of a journey, listing the route and the stops along the way. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' is the suitcases and bags you travel with, not the plan of the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'destination' is only the place you are going to; the plan of the route is the itinerary. -->
-- [ ] C) passport
-  <!-- feedback: 'passport' is the travel document you show at the border, not the plan of a journey. -->
-
-### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
-## Question 3 [D3]
-**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v3
+**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v1
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Texto: 'Quito sits at 2,850 metres above sea level. Its thin air and bright light attract walkers from all over the world, although the equatorial sun makes the days hard on the skin.'
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+What is the main idea of the text?
 
 ### Opciones
-- [x] A) destination
-  <!-- feedback: 'destination' names the place a person or thing is going or being sent to. -->
-- [ ] B) departure
-  <!-- feedback: 'departure' is the action of leaving, not the place you leave for. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the moment of reaching a place, not the place itself. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, not the place at the end of it. -->
+- [ ] A) Quito is located at a height of 2,850 metres.
+  <!-- feedback: No. That figure is a supporting detail, because the text uses it to explain why the city attracts visitors. -->
+- [x] B) Quito's altitude shapes both what attracts visitors to it and what makes it difficult for them.
+  <!-- feedback: Correct! Both sentences of the text contribute to this point, so it covers the whole passage. -->
+- [ ] C) The equatorial sun damages the skin of everybody who lives in Quito.
+  <!-- feedback: No. Only visitors are mentioned, and the last sentence is a qualification rather than the point of the passage. -->
+- [ ] D) Walkers travel from all over the world to climb the hills around Quito.
+  <!-- feedback: No. The text says they come for the altitude itself and never mentions climbing the hills. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+A main idea is a sentence that could stand as a title for the whole passage. Test each candidate by asking whether both sentences of the text point towards it. Here the altitude explains the attraction and the difficulty, so only the option that names both effects can serve as the main idea.
+
 ---
+
+## Question 2 [D3]
+**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v2
+**Bloom:** Understand
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.80
+**Contexto:** Texto: 'The library in Babahoyo used to close at six. Since the students began arriving from rural communities, the opening hours were extended to nine in the evening.'
+
+### Enunciado
+Which sentence best expresses the main idea of the passage?
+
+### Opciones
+- [ ] A) The library in Babahoyo closed at six in the evening.
+  <!-- feedback: No. That was the old arrangement, and the second sentence explains that it no longer holds. -->
+- [ ] B) Many students in Babahoyo come from rural communities.
+  <!-- feedback: No. The origin of the students is only the reason behind the change, not the change itself. -->
+- [ ] C) Rural libraries in Ecuador should stay open late at night.
+  <!-- feedback: No. The passage reports one decision; it does not argue for a general rule about other libraries. -->
+- [x] D) The library extended its evening opening because of the students who needed it.
+  <!-- feedback: Correct! It joins the change and its cause in one sentence, which is exactly what a main idea must do. -->
+
+### Explicacion Pedagogica
+A passage usually presents a situation and then a response to it. When the second sentence explains why the first one happened, the main idea has to carry both parts. An option that reports only the situation, or only the reason, leaves half of the text outside the summary.
+
+---
+
+## Question 3 [D3-D4]
+**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v3
+**Bloom:** Understand
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.80
+**Contexto:** Texto: 'In the coastal town of Manta the fishermen used to sell their catch at dawn. The noise and the middlemen persuaded most of them to sell at the municipal auction instead.'
+
+### Enunciado
+Which detail in the text supports the main idea directly?
+
+### Opciones
+- [x] A) The noise of the dawn market and the pressure of the middlemen.
+  <!-- feedback: Correct! This detail explains why the fishermen changed the place where they sell. -->
+- [ ] B) The town of Manta is described as a coastal town.
+  <!-- feedback: No. That only locates the place, and it does not explain any change in the selling habits. -->
+- [ ] C) Fishermen traditionally work at night.
+  <!-- feedback: No. The text places their selling at dawn, not their work, and it does not mention night work at all. -->
+- [ ] D) The municipal auction opens at midday.
+  <!-- feedback: No. The passage gives no opening time for the auction and never mentions midday. -->
+
+### Explicacion Pedagogica
+A supporting detail is the piece of information that makes the main idea plausible. To find it, first state the main idea in your own words and then ask which sentence in the passage supplies the reason, the example or the figure that the idea requires.
+
+---
+
 ## Question 4 [D4]
-**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v4
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
-
-### Opciones
-- [x] C) luggage
-  <!-- feedback: 'luggage' is the collective word for the suitcases and bags you pack for a trip. -->
-- [ ] A) ticket
-  <!-- feedback: 'ticket' is the document you buy that admits you to the journey. -->
-- [ ] B) flight
-  <!-- feedback: 'flight' is the plane or the scheduled trip itself, not the bags you carry. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the booking you hold for a seat or a room. -->
-
-### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
----
-## Question 5 [D5]
-**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v5
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
-
-### Opciones
-- [x] D) passenger
-  <!-- feedback: 'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'pedestrian' is a person who travels on foot, not on a bus, a train or a plane. -->
-- [ ] B) commuter
-  <!-- feedback: 'commuter' is someone who travels regularly between home and work, a narrower idea than passenger. -->
-- [ ] C) tourist
-  <!-- feedback: 'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew. -->
-
-### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
-## Question 6 [D6]
-**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v6
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
-
-### Opciones
-- [x] C) customs
-  <!-- feedback: 'customs' is the office where officials check the goods, the luggage and the travellers entering a country. -->
-- [ ] A) security
-  <!-- feedback: 'security' refers to the staff and the measures that keep the airport safe, not to the goods check. -->
-- [ ] B) terminal
-  <!-- feedback: 'terminal' is the building where you wait for and board your flight. -->
-- [ ] D) gate
-  <!-- feedback: 'gate' is the door you board the plane through, not the place where officials check luggage. -->
-
-### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
-## Question 7 [D5]
-**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v7
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
-
-### Opciones
-- [x] B) boarding pass
-  <!-- feedback: 'boarding pass' is the slip the airline hands over at check-in that lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: 'visa' is the official permission to enter and stay in a foreign country. -->
-- [ ] C) receipt
-  <!-- feedback: 'receipt' is the proof of payment for the ticket, not the document that lets you board. -->
-- [ ] D) brochure
-  <!-- feedback: 'brochure' is a small booklet with tourist information, not a travel document. -->
-
-### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
----
-## Question 8 [D6]
-**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v8
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
-
-### Opciones
-- [x] A) sightseeing
-  <!-- feedback: 'sightseeing' is visiting the places of interest of a location in order to look at them. -->
-- [ ] B) shopping
-  <!-- feedback: 'shopping' is buying things, which is a different activity from visiting sights. -->
-- [ ] C) hiking
-  <!-- feedback: 'hiking' is walking in the countryside along a trail, usually for exercise. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' means spending the night outdoors in a tent. -->
-
-### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
----
-## Question 9 [D5]
-**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
-
-### Opciones
-- [x] D) souvenir
-  <!-- feedback: 'souvenir' is an object kept because it reminds you of a person, a place or an event. -->
-- [ ] A) gift
-  <!-- feedback: 'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder. -->
-- [ ] B) award
-  <!-- feedback: 'award' is a distinction given for a merit or an achievement. -->
-- [ ] C) prize
-  <!-- feedback: 'prize' is what is won in a competition, not an object bought to remember a trip. -->
-
-### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
----
-## Question 10 [D6]
-**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v10
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
-
-### Opciones
-- [x] D) delay
-  <!-- feedback: 'delay' is the extra period of time by which something becomes late or is postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: 'cancellation' ends the booking or the trip altogether rather than pushing it back. -->
-- [ ] B) departure
-  <!-- feedback: 'departure' is the time a vehicle is scheduled to leave, not a postponement. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the moment you reach the destination, not the waiting time. -->
-
-### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
----
-## Question 11 [D7]
-**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v11
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
-
-### Opciones
-- [x] A) check-in
-  <!-- feedback: 'check-in' is reporting your presence at the airport or the hotel and registering. -->
-- [ ] B) check-out
-  <!-- feedback: 'check-out' is the opposite moment: leaving the hotel and settling the bill. -->
-- [ ] C) booking
-  <!-- feedback: 'booking' is reserving the room or the seat in advance, which happens before you arrive. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the record of that booking, not the act of reporting your presence. -->
-
-### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
----
-## Question 12 [D8]
-**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
-
-### Opciones
-- [x] D) layover
-  <!-- feedback: 'layover' is the rest or the waiting period between two stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'stopover' is a break in a journey during which you leave the vehicle, often overnight. -->
-- [ ] B) transfer
-  <!-- feedback: 'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time. -->
-- [ ] C) transit
-  <!-- feedback: 'transit' means passage through a place or the system that carries people, not the pause itself. -->
-
-### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
----
-## Question 13 [D7]
-**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v13
+**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v4
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Texto: 'Rainfall in the Andean highlands has not fallen below average for nine consecutive years. Scientists at the university now compare the region with the driest period recorded since measurements began.'
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Which statement belongs to the main idea rather than to a detail?
 
 ### Opciones
-- [x] D) currency
-  <!-- feedback: 'currency' is the whole money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: 'coin' is a single round piece of metal money, only one part of a currency. -->
-- [ ] B) banknote
-  <!-- feedback: 'banknote' is a paper note, again only one part of a country's money system. -->
-- [ ] C) cash
-  <!-- feedback: 'cash' is money in coins and notes seen as a form of payment, not the system a country has. -->
+- [ ] A) Measurements in the highlands began at some point in the past.
+  <!-- feedback: No. That appears only inside the final comparison and carries none of the general point. -->
+- [ ] B) The university has scientists who study the climate.
+  <!-- feedback: No. The subject is mentioned in order to name a source, not to develop the message of the text. -->
+- [x] C) The highlands are facing a dry period of unusual length.
+  <!-- feedback: Correct! This sentence could serve as the title of the passage and covers what follows. -->
+- [ ] D) Rainfall has stayed below average for exactly nine years.
+  <!-- feedback: No. That figure supports the main idea, but it is one of the data points behind it. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+Numbers, names and comparisons are usually details, because they answer narrower questions. The main idea is what those particulars add up to, and here they add up to an unusually long dry period, which is the sentence a reader would use as a heading.
+
 ---
-## Question 14 [D8]
-**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v14
+
+## Question 5 [D4]
+**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Texto: 'The national park received 340,000 visitors last year, twice the figure of a decade earlier. Rangers say the new trail, opened in March, explains most of the increase.'
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Which sentence is NOT part of the main idea of the passage?
 
 ### Opciones
-- [x] D) guidebook
-  <!-- feedback: 'guidebook' is a book of information about a place written for the use of visitors. -->
-- [ ] A) map
-  <!-- feedback: 'map' is a drawing of the area, not a book of information. -->
-- [ ] B) dictionary
-  <!-- feedback: 'dictionary' explains the words of a language, not the places of a region. -->
-- [ ] C) encyclopedia
-  <!-- feedback: 'encyclopedia' covers all branches of knowledge, not one destination for tourists. -->
+- [ ] A) Visitor numbers have grown considerably over ten years.
+  <!-- feedback: No. That is the development the whole passage describes, so it belongs to the main idea. -->
+- [x] B) The new mountain trail was opened in March.
+  <!-- feedback: No. That is the explanation offered by the rangers, a supporting detail and not the point of the passage. -->
+- [ ] C) The park is receiving many more visitors than before.
+  <!-- feedback: No. That is another formulation of the growth in visitor numbers, so it belongs to the main idea. -->
+- [ ] D) Something specific caused the increase in visitors.
+  <!-- feedback: No. Attributing the rise to a recent change is part of the central message of the text. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+Excluding an option is as useful as choosing one. The details of a passage supply evidence for its central claim, so a date, a figure or a named change usually belongs outside the main idea even when the reader understands it perfectly.
+
 ---
+
+## Question 6 [D4]
+**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v6
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.80
+**Contexto:** Texto: 'Three schools in the Amazon region now teach in both Spanish and Kichwa. Test scores have not fallen, and half the pupils say they feel more comfortable asking questions in class.'
+
+### Enunciado
+What is the best main idea for this passage?
+
+### Opciones
+- [x] A) Teaching in two languages has improved participation without damaging results.
+  <!-- feedback: Correct! It covers the decision, the consequence for the marks and the consequence for the pupils. -->
+- [ ] B) The Amazon region has a large Kichwa-speaking population.
+  <!-- feedback: No. The text gives no figures about the population and never makes that claim. -->
+- [ ] C) Pupils who speak Kichwa at home perform better at school.
+  <!-- feedback: No. The passage does not compare the results of pupils who speak the language at home with those of other pupils. -->
+- [ ] D) Three schools were closed because of a shortage of teachers.
+  <!-- feedback: No. Nothing in the passage mentions a shortage of teachers or the closure of any school. -->
+
+### Explicacion Pedagogica
+A main idea is measured by coverage, not by how much of the passage it repeats. The strongest candidate here is the one that gathers the decision and both of its reported results, because a narrower summary would leave out half the evidence.
+
+---
+
+## Question 7 [D5-D6]
+**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v7
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.80
+**Contexto:** Texto: 'A district hospital in Napo began recording the origin of every patient. The map that resulted showed that two thirds of the cases came from communities more than an hour away.'
+
+### Enunciado
+Which sentence captures the main idea of the passage?
+
+### Opciones
+- [ ] A) The hospital in Napo needed a better system for storing patient records.
+  <!-- feedback: No. The text says nothing about storage and describes the collection of origins instead. -->
+- [ ] B) People in remote communities do not trust hospitals.
+  <!-- feedback: No. No attitude is described; the passage only reports where the patients travelled from. -->
+- [x] C) Recording where patients came from revealed how far they travel for medical care.
+  <!-- feedback: Correct! It joins the action taken to the discovery it produced, which is what the two sentences deliver. -->
+- [ ] D) Most of the patients in the district came from the town itself.
+  <!-- feedback: No. The passage says the opposite, since two thirds of the cases came from far away. -->
+
+### Explicacion Pedagogica
+When a text describes an action and its result, the main idea names both. Reporting only the action leaves the reader without the point of the action, and reporting only the result loses the reason the hospital decided to gather the data in the first place.
+
+---
+
+## Question 8 [D5-D6]
+**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v8
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.80
+**Contexto:** Texto: 'The old bridge across the river was closed for repairs in June. Coaches were rerouted through the neighbouring province until the new surface was ready in August.'
+
+### Enunciado
+Which option states an idea that the passage does NOT include?
+
+### Opciones
+- [ ] A) The bridge was unavailable for a period of time.
+  <!-- feedback: No. The text says exactly that, since it was closed from June until the repairs were finished. -->
+- [ ] B) Long-distance vehicles had to change their route.
+  <!-- feedback: No. That is the direct consequence of a closed bridge and is stated in the second sentence. -->
+- [ ] C) The surface of the bridge was improved.
+  <!-- feedback: No. The closing is described as a repair, and the new surface is mentioned when the bridge reopens. -->
+- [x] D) The neighbouring province complained about the extra traffic.
+  <!-- feedback: No. The route change is reported; no reaction from the province appears anywhere in the text. -->
+
+### Explicacion Pedagogica
+A passage states facts and leaves the rest open. Options that describe reactions, opinions or causes never mentioned in the text can be rejected immediately, which makes them useful distractors when you are asked what the passage does not include.
+
+---
+
+## Question 9 [D5-D6]
+**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v9
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.80
+**Contexto:** Texto: 'Volunteers cleared two hectares of mangroves near the estuary last spring. Fishers report that juvenile shrimp have returned to the channel where the planting was done.'
+
+### Enunciado
+What is the main idea of this passage?
+
+### Opciones
+- [ ] A) Two hectares of mangrove were cleared near the estuary.
+  <!-- feedback: No. That is the first action in the story, and it is reported by the sentence that sets the scene. -->
+- [x] B) Restoring mangroves was followed by a return of young shrimp.
+  <!-- feedback: Correct! The passage is built around that sequence, from the planting to the effect on the channel. -->
+- [ ] C) Fishers along the estuary have become better informed about shrimp.
+  <!-- feedback: No. The text does not attribute any new knowledge to them, only an observation about the shrimp. -->
+- [ ] D) Mangrove restoration is cheaper than shrimp farming.
+  <!-- feedback: No. The passage contains no comparison of costs and never mentions shrimp farming. -->
+
+### Explicacion Pedagogica
+Test and outcome passages are common in informational texts, and their main idea takes the form of a sequence. Restoring the mangroves is the test, the returning shrimp are the outcome, and the sentence that joins both is the one a heading could reproduce.
+
+---
+
+## Question 10 [D5-D6]
+**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v10
+**Bloom:** Evaluate
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.80
+**Contexto:** Texto: 'The town council has published the plans for the new plaza twice. On both occasions the comments received were few, and the work began without further consultation.'
+
+### Enunciado
+Which statement best captures what the passage is mainly about?
+
+### Opciones
+- [ ] A) The plaza in the town will be larger than the old one.
+  <!-- feedback: No. The passage gives no dimensions and never compares the size of the new plaza with the old one. -->
+- [ ] B) Residents were asked to send comments about the plans.
+  <!-- feedback: No. The plans were published twice, but the text describes no request for opinions from anyone. -->
+- [ ] C) The town council has published two sets of plans.
+  <!-- feedback: No. The plans were published twice, yet the repetition is the setting of the story and not its point. -->
+- [x] D) A public consultation was held but drew almost no response.
+  <!-- feedback: Correct! That sentence condenses the whole passage, including the repetition, the silence and the decision to continue. -->
+
+### Explicacion Pedagogica
+When a detail repeats twice in a text, that repetition is a signal. Two publications followed by two rounds of silence are there to build the point about a consultation that failed to involve the public, and the main idea has to name that failure.
+
+---
+
+## Question 11 [D6]
+**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v11
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.80
+**Contexto:** Texto: 'Every morning the students of a rural school collect a plastic bag full of waste from the riverbank. In six months they have removed 400 kilograms and counted 31 species of bird along the same stretch of river.'
+
+### Enunciado
+Which sentence gives the main idea of the passage?
+
+### Opciones
+- [x] A) A school group combined river clean-up work with wildlife recording.
+  <!-- feedback: Correct! The passage names both activities and the two figures that belong to each of them. -->
+- [ ] B) The students found 31 species of bird near their school.
+  <!-- feedback: No. That is one of the two results and it leaves the other half of the passage outside the summary. -->
+- [ ] C) Plastic waste is a serious problem in the Ecuadorian countryside.
+  <!-- feedback: No. The passage reports a local action and never generalises about the country as a whole. -->
+- [ ] D) Riverbanks attract more birds than plastic banks do.
+  <!-- feedback: No. Nothing in the text compares birds with waste, and no such relationship is described. -->
+
+### Explicacion Pedagogica
+Two parallel activities and two figures make one message. A main idea that mentions only the birds, or only the kilograms of waste, drops half the evidence, and a sentence that generalises to the whole country goes beyond what the passage supports.
+
+---
+
+## Question 12 [D6]
+**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v12
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.80
+**Contexto:** Texto: 'Reading for pleasure has dropped among secondary students, yet sales of printed novels in the country have risen slightly. Librarians attribute the difference to the growth of study guides for the university entrance exam.'
+
+### Enunciado
+Which option best states the point of the passage?
+
+### Opciones
+- [ ] A) Secondary students read less for pleasure than before.
+  <!-- feedback: No. That sentence opens the passage and supplies the situation that the rest of the text complicates. -->
+- [ ] B) The sales of printed novels in the country have risen.
+  <!-- feedback: No. The rise is true, but the passage uses it as evidence against the first impression rather than as its conclusion. -->
+- [x] C) More books are being sold for study than for pleasure.
+  <!-- feedback: Correct! Reconciling both figures is what the passage exists to do, so this is the message it delivers. -->
+- [ ] D) Librarians disagree with the publishers about sales figures.
+  <!-- feedback: No. The librarians explain the difference; the text reports no disagreement between the two groups. -->
+
+### Explicacion Pedagogica
+A text may open with a fact that the closing paragraph qualifies. Here the fall in recreational reading is set against a rise in total sales, and the explanation given resolves the apparent contradiction, which is the true main idea.
+
+---
+
+## Question 13 [D6]
+**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v13
+**Bloom:** Evaluate
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.80
+**Contexto:** Texto: 'In the province of Tungurahua the rainy months now begin two weeks later than the averages recorded in the 1980s. Farmers of the higher slopes have moved coffee a little further down the mountain to protect the frosts.'
+
+### Enunciado
+Which of these is a supporting detail of the main idea?
+
+### Opciones
+- [ ] A) The averages for the rainy months were recorded in the 1980s.
+  <!-- feedback: No. That date belongs to the comparison that sets up the main idea rather than to the evidence for it. -->
+- [x] B) Farmers have shifted coffee down the mountain.
+  <!-- feedback: Correct! That change is the practical response the passage gives as proof of the consequences. -->
+- [ ] C) The province of Tungurahua is in Ecuador.
+  <!-- feedback: No. The name of the province only locates the scene and supports nothing that follows. -->
+- [ ] D) Rainy months always begin earlier in the year than dry ones.
+  <!-- feedback: No. The text is about a delay in the start of the rains and makes no such general statement. -->
+
+### Explicacion Pedagogica
+A supporting detail answers the question of how the reader knows the main idea is true. In a passage about a climatic shift, the responses of the people who live with it provide that proof, while the dates of the comparison belong to the framing of the passage.
+
+---
+
+## Question 14 [D6]
+**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v14
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.80
+**Contexto:** Texto: 'The school in the highlands runs a class that meets before dawn, when the pupils who walk long distances have not yet left. Attendance has stayed above ninety per cent since the schedule changed.'
+
+### Enunciado
+Which sentence expresses the main idea of the passage?
+
+### Opciones
+- [ ] A) Some pupils in the highlands walk long distances to school.
+  <!-- feedback: No. That is the difficulty the new schedule tries to answer, and it is only part of the text. -->
+- [ ] B) The school offers a class that begins before dawn.
+  <!-- feedback: No. The arrangement is the first half of the story, while the result in the second sentence completes it. -->
+- [ ] C) Attendance in rural schools often falls below ninety per cent.
+  <!-- feedback: No. The passage says nothing about other schools and gives no comparison of that kind. -->
+- [x] D) An early class was introduced and attendance has stayed high since.
+  <!-- feedback: Correct! It joins the measure taken with the result obtained, which is the shape of the whole passage. -->
+
+### Explicacion Pedagogica
+Measured results are the usual core of an informational text, and the sentence that reports them belongs in the main idea. The description of the measure itself remains supporting material, however vivid or useful it is for the reader.
+
+---
+
 ## Question 15 [D7]
-**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v15
+**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Texto: 'Water from the mountain above the village arrives once a week by pipeline. The council has now collected enough signatures to ask the regional government for a second connection, which the regional office says it will study.'
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+What is the main idea of the passage?
 
 ### Opciones
-- [x] C) backpack
-  <!-- feedback: 'backpack' has shoulder straps and is carried on the back. -->
-- [ ] A) suitcase
-  <!-- feedback: 'suitcase' is a case with a handle that is pulled along, not one worn on the back. -->
-- [ ] B) briefcase
-  <!-- feedback: 'briefcase' is a flat case for documents that you carry by hand at work. -->
-- [ ] D) handbag
-  <!-- feedback: 'handbag' is a small bag held in the hand, usually for personal items. -->
+- [ ] A) The village in the mountains receives water by pipeline.
+  <!-- feedback: No. That describes how the supply works today and forms the background of the passage. -->
+- [x] B) The village has asked for a second water connection and the request is under consideration.
+  <!-- feedback: Correct! The request and the answer from the regional office are the two steps the passage reports. -->
+- [ ] C) The regional government has promised the village a second connection.
+  <!-- feedback: No. The office says only that it will study the request, which is not the same as a promise. -->
+- [ ] D) Mountain villages are ignored by regional governments in Ecuador.
+  <!-- feedback: No. The text reports a single request and its reception, and it draws no conclusion about other villages. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+Careful reading distinguishes study, consider and promise, and passages usually test that distinction. Here the tense of the regional answer matters: an intention to study is not a commitment to provide, so the accurate summary has to preserve that gap.
+
 ---
-## Question 16 [D8]
-**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v16
+
+## Question 16 [D7]
+**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v16
+**Bloom:** Evaluate
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.80
+**Contexto:** Texto: 'The province has 2,400 native tree species, and less than a fifth of the original forest is still standing. A restoration programme planted 190,000 seedlings in five years, covering an area smaller than a football field in total.'
+
+### Enunciado
+Which detail best illustrates the difficulty mentioned in the passage?
+
+### Opciones
+- [ ] A) The province holds 2,400 native tree species.
+  <!-- feedback: No. That figure measures the richness of the region and says nothing about the difficulty of restoring it. -->
+- [ ] B) Less than a fifth of the original forest remains.
+  <!-- feedback: No. That is part of the problem stated in the text, but it does not illustrate the difficulty of the response. -->
+- [x] C) Five years of planting covered an area smaller than a football field.
+  <!-- feedback: Correct! The disproportion between the effort and the result is what shows how hard the restoration is. -->
+- [ ] D) The programme used native seedlings.
+  <!-- feedback: No. The passage never states what kind of seedlings were used, so this cannot illustrate anything. -->
+
+### Explicacion Pedagogica
+Illustrating a difficulty means finding the detail that makes the problem visible. The contrast between five years of effort and a very small area is exactly the kind of comparison a reader needs in order to feel how slow the recovery will be.
+
+---
+
+## Question 17 [D7]
+**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Texto: 'Most of the graduates interviewed last year said they would choose the same field again. When asked why, two out of three mentioned the moment they first worked in a real project during their studies.'
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Which sentence best states the central message of the passage?
 
 ### Opciones
-- [x] D) overseas
-  <!-- feedback: 'overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] B) local
-  <!-- feedback: 'local' means belonging to a small area nearby, not to a foreign country. -->
-- [ ] C) national
-  <!-- feedback: 'national' means concerning the whole nation and says nothing about being abroad. -->
+- [x] A) Practical experience during the degree appears to have shaped career satisfaction.
+  <!-- feedback: Correct! The two figures are linked by the word that connects them, and that link is the message of the text. -->
+- [ ] B) Most graduates would not change their degree subject.
+  <!-- feedback: No. That is the opening fact and it leaves the explanation offered by the graduates outside the summary. -->
+- [ ] C) Universities should add more practical projects to their programmes.
+  <!-- feedback: No. The text reports what graduates said and does not present the recommendation of anybody. -->
+- [ ] D) Two out of three graduates were dissatisfied with their studies.
+  <!-- feedback: No. The figure counts those who gave a particular reason, not those who were dissatisfied. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+The bridge between two figures is often where the main idea hides. Here the percentage of graduates who would repeat the choice is attributed to the practical work they did, so the message concerns what made them satisfied, not merely how satisfied they were.
+
 ---
-## Question 17 [D9]
-**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v17
+
+## Question 18 [D7]
+**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Texto: 'The municipality installed 40 smart meters in one neighbourhood last year. Bills in the area fell by eleven per cent, and the reports now reaching the council assume the saving came from residents who had never been shown their previous consumption.'
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Which statement is the most accurate summary of the passage?
 
 ### Opciones
-- [x] D) budget
-  <!-- feedback: 'budget' is an estimate of income and expenditure planned for a set period. -->
-- [ ] A) expense
-  <!-- feedback: 'expense' is a single amount of money that is spent, not the plan for a whole period. -->
-- [ ] B) cost
-  <!-- feedback: 'cost' is what one item or one service costs, again not an estimate for a period. -->
-- [ ] C) price
-  <!-- feedback: 'price' is the sum a customer pays for one product; a budget covers income and spending together. -->
+- [ ] A) The municipality has proved that smart meters reduce consumption.
+  <!-- feedback: No. The text reports a fall and then immediately questions the explanation that would justify that claim. -->
+- [ ] B) Residents in the neighbourhood pay less money for their water.
+  <!-- feedback: No. The text reports a fall in bills by eleven per cent without ever specifying which service is billed. -->
+- [ ] C) The council has decided to install smart meters everywhere.
+  <!-- feedback: No. Forty meters in one neighbourhood is all the passage mentions, and no wider decision appears. -->
+- [x] D) The reported fall in bills may owe more to unfamiliar readings than to the new meters.
+  <!-- feedback: Correct! It keeps both the measurement and the doubt expressed in the last sentence. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+A careful summary keeps the hedging of the original. When a text finishes by questioning the explanation of its own first sentence, the summary that reproduces both without strengthening either is the one that matches what the author actually claims.
+
 ---
-## Question 18 [D10]
-**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v18
+
+## Question 19 [D8]
+**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Texto: 'Attendance at the regional science fair fell for the third year running. The organisers blamed the date, which was announced late, and have moved the event to the second week of the school year with the calendar fixed a year in advance.'
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Which option is a fair main idea and a fair conclusion from the passage?
 
 ### Opciones
-- [x] B) insurance
-  <!-- feedback: 'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: 'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge. -->
-- [ ] C) guarantee
-  <!-- feedback: 'guarantee' is a general promise of quality and does not involve paying a premium. -->
-- [ ] D) policy
-  <!-- feedback: 'policy' is the written document that states what an insurance contract covers. -->
+- [ ] A) Science fairs in the region are losing popularity with teachers.
+  <!-- feedback: No. The passage reports falling attendance and attributes it to the timing, not to a loss of interest. -->
+- [x] B) A recurring decline led to a change in scheduling intended to restore participation.
+  <!-- feedback: Correct! It joins the problem, the diagnosis offered and the measure taken, without claiming more than the text supports. -->
+- [ ] C) The organisers will cancel the fair if attendance falls again.
+  <!-- feedback: No. The passage reports a change of dates and no decision of any kind about the following year. -->
+- [ ] D) The late announcement was the only reason for the fall in attendance.
+  <!-- feedback: No. The organisers offer that explanation, but the text presents it as their view rather than as a proved cause. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+Summary questions punish both omissions and additions. A complete answer names the problem, the explanation the author proposes and the action taken, while stopping short of endorsing the explanation or predicting an outcome the text never mentions.
+
 ---
-## Question 19 [D9]
-**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v19
+
+## Question 20 [D9]
+**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Texto: 'The regional government published the list of projects approved for the last quarter. Four of the seven entries concern the same road, while the health centre promised for two years appears nowhere in the list.'
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Which reading best explains what the passage as a whole is built to make the reader notice?
 
 ### Opciones
-- [x] B) vaccination
-  <!-- feedback: 'vaccination' is the treatment with a vaccine that makes the body immune to a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'medication' is a drug taken to treat an illness, not to prevent one. -->
-- [ ] C) prescription
-  <!-- feedback: 'prescription' is the written order that authorises a medicine, not the treatment itself. -->
-- [ ] D) infection
-  <!-- feedback: 'infection' is the disease itself, the opposite of the protection a vaccination gives. -->
+- [ ] A) The regional government publishes lists of projects at the end of each quarter.
+  <!-- feedback: No. That is the occasion the text describes and not the point it is making. -->
+- [ ] B) Roads are usually approved more often than health centres.
+  <!-- feedback: No. The passage reports four road entries out of seven, but draws no comparison with any other region or period. -->
+- [x] C) The distribution of approved funds is unbalanced, and an unmet promise goes unmentioned.
+  <!-- feedback: Correct! The imbalance and the absence of the health centre are the two observations the list was presented to reveal. -->
+- [ ] D) The health centre has been abandoned permanently.
+  <!-- feedback: No. Its absence from one quarterly list is not evidence that the project has been abandoned for good. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
----
-## Question 20 [D10]
-**ID:** EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
-
-### Opciones
-- [x] A) jet lag
-  <!-- feedback: 'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight. -->
-- [ ] B) fatigue
-  <!-- feedback: 'fatigue' is tiredness that can come from any long effort, not specifically from a flight. -->
-- [ ] C) exhaustion
-  <!-- feedback: 'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep. -->
-- [ ] D) insomnia
-  <!-- feedback: 'insomnia' is the inability to fall asleep, which has many causes besides travel. -->
-
-### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+At the highest level the task is to identify the point the evidence is assembled to support. Here the repetition of road entries and the omission of a promised facility are presented together so that the reader draws a conclusion about balance, which is the real subject of the passage.
