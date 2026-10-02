@@ -477,7 +477,7 @@ Un informe local afirma: "La Sequía en el río Magdalena, que ha reducido los c
   <!-- feedback: Fija una posición inexistente: la proposición adjetiva se integra en su sintagma nominal y no admite esa restricción de posición. -->
 - [ ] C) El período presenta un error porque el nexo relativo debe concordar con el verbo y no con el antecedente.
   <!-- feedback: Invierte la concordancia: el relativo concuerda en número y género con su antecedente, no con el verbo de la proposición que introduce. -->
-- [x] D) El período combina una proposición principal, una adjetiva que modifica "río Magdalena" y unaRIX la cláusula final, de modo que el informe usa correctamente la subordinación.
+- [x] D) El período combina una proposición principal, una adjetiva que modifica "río Magdalena" y unifica la cláusula final, de modo que el informe usa correctamente la subordinación.
   <!-- feedback: Es correcta porque el análisis identifica las tres proposiciones del período, la principal, la adjetiva con su antecedente y la adverbial final con su nexo. -->
 
 ### Explicacion Pedagogica

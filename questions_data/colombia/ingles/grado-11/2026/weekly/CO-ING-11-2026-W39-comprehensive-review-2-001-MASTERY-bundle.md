@@ -57,20 +57,20 @@ This question tests advanced vocabulary (verbs of change and impact) suitable fo
 **Contexto:** Discussing comprehensive review 2 in Cartagena.
 
 ### Enunciado
-In the context of comprehensive review 2, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?
+In the context of comprehensive review 2, which word best completes the following sentence: 'Months of delays have left the road project half finished, and the constant stop-start has done nothing but __________ local trade'?
 
 ### Opciones
-- [x] C) exacerbate
-  <!-- feedback: Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here. -->
-- [ ] A) alleviate
-  <!-- feedback: Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed. -->
-- [ ] B) mitigate
-  <!-- feedback: Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied. -->
-- [ ] D) facilitate
-  <!-- feedback: Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide. -->
+- [x] C) hamper
+  <!-- feedback: 'Hamper' means to make progress difficult by getting in the way, which is exactly what the delays do to trade. -->
+- [ ] A) accelerate
+  <!-- feedback: 'Accelerate' means to make something faster, whereas the sentence describes work being obstructed. -->
+- [ ] B) endorse
+  <!-- feedback: 'Endorse' means to give support or approval, which has no connection to obstacles in a road project. -->
+- [ ] D) allocate
+  <!-- feedback: 'Allocate' means to distribute resources for a purpose, and no distribution of funds is described here. -->
 
 ### Explicacion Pedagogica
-This question tests advanced vocabulary (verbs of change and impact) suitable for C1+ level.
+Verbs differ in whether they help or hinder progress, and 'hamper' is the one that describes obstruction, whereas 'accelerate' describes making something faster.
 
 ---
 
@@ -82,20 +82,20 @@ This question tests advanced vocabulary (verbs of change and impact) suitable fo
 **Contexto:** Discussing comprehensive review 2 in Cartagena.
 
 ### Enunciado
-In the context of comprehensive review 2, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?
+In the context of comprehensive review 2, which word best completes the sentence: 'The committee had to __________ the final report before the deadline could be moved'?
 
 ### Opciones
-- [x] C) exacerbate
-  <!-- feedback: Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here. -->
-- [ ] A) alleviate
-  <!-- feedback: Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed. -->
-- [ ] B) mitigate
-  <!-- feedback: Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied. -->
-- [ ] D) facilitate
-  <!-- feedback: Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide. -->
+- [x] C) compile
+  <!-- feedback: 'Compile' means to gather material into a single document, which is what producing a report from many sources requires. -->
+- [ ] A) dwell
+  <!-- feedback: 'Dwell' means to stay in one place or think at length, not to assemble a document from scattered material. -->
+- [ ] B) repel
+  <!-- feedback: 'Repel' means to drive away or reject, so it points away from the idea of producing anything at all. -->
+- [ ] D) disperse
+  <!-- feedback: 'Disperse' means to scatter, which is the opposite of collecting contributions into one report. -->
 
 ### Explicacion Pedagogica
-This question tests advanced vocabulary (verbs of change and impact) suitable for C1+ level.
+'Compile' is the standard verb for assembling a report or list from separate parts, whereas 'dwell', 'repel' and 'disperse' carry no sense of collection.
 
 ---
 
@@ -107,20 +107,20 @@ This question tests advanced vocabulary (verbs of change and impact) suitable fo
 **Contexto:** Discussing comprehensive review 2 in Cali.
 
 ### Enunciado
-In the context of comprehensive review 2, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?
+In the context of comprehensive review 2, which word best completes the sentence: 'The ministry has yet to __________ the recommendations that the parliamentary committee submitted last year'?
 
 ### Opciones
-- [x] C) exacerbate
-  <!-- feedback: Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here. -->
-- [ ] A) alleviate
-  <!-- feedback: Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed. -->
-- [ ] B) mitigate
-  <!-- feedback: Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied. -->
-- [ ] D) facilitate
-  <!-- feedback: Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide. -->
+- [x] C) implement
+  <!-- feedback: 'Implement' means to put a decision or recommendation into practice, which is exactly what the ministry has not done. -->
+- [ ] A) withdraw
+  <!-- feedback: 'Withdraw' means to take back or retract, and the sentence describes a delay rather than a cancellation. -->
+- [ ] B) contradict
+  <!-- feedback: 'Contradict' means to say the opposite of something, and no disagreement with the text is reported. -->
+- [ ] D) imitate
+  <!-- feedback: 'Imitate' means to copy the manner of someone else, which has no place in the relationship between a ministry and its own committee. -->
 
 ### Explicacion Pedagogica
-This question tests advanced vocabulary (verbs of change and impact) suitable for C1+ level.
+Government vocabulary pairs 'submit' with 'implement', since a recommendation only becomes policy once it is put into practice, and 'has yet to' marks that this step is still pending.
 
 ---
 
@@ -307,20 +307,20 @@ This evaluates mastery of advanced inversion structures, a key component of C1+ 
 **Contexto:** Discussing comprehensive review 2 in Medellín.
 
 ### Enunciado
-Complete the following sentence about comprehensive review 2: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Final Assessment Prep)
+Complete the following sentence about comprehensive review 2: 'Only after the committee had verified the totals __________ the error be announced publicly.'
 
 ### Opciones
-- [x] B) had
-  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
-- [ ] A) has
-  <!-- feedback: Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion. -->
+- [x] A) did
+  <!-- feedback: Fronting 'Only after' forces inversion, so the auxiliary 'did' comes before the subject 'the error'. -->
+- [ ] B) has
+  <!-- feedback: 'Has' would not create the inversion that 'Only after' requires, so the restrictive timing is not expressed. -->
 - [ ] C) was
-  <!-- feedback: Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'. -->
-- [ ] D) did
-  <!-- feedback: Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'. -->
+  <!-- feedback: 'Was' cannot be inverted to open this clause and does not place the announcement after the verification. -->
+- [ ] D) did not
+  <!-- feedback: 'Did not' would say the error was never announced, whereas the sentence only rules out announcing it before the verification. -->
 
 ### Explicacion Pedagogica
-This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.
+'Only after' is a fronted restrictive phrase, and it obliges subject-auxiliary inversion: 'only after the committee had verified the totals did the error be announced'.
 
 ---
 
@@ -332,20 +332,20 @@ This evaluates mastery of advanced inversion structures, a key component of C1+ 
 **Contexto:** Discussing comprehensive review 2 in Barranquilla.
 
 ### Enunciado
-Complete the following sentence about comprehensive review 2: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Final Assessment Prep)
+Complete the following sentence about comprehensive review 2: 'Not until the second reviewer signed off __________ the case be closed.'
 
 ### Opciones
-- [x] C) had
-  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
+- [x] D) did
+  <!-- feedback: Fronting the negative phrase 'Not until' triggers inversion, so the auxiliary 'did' precedes the subject 'the case'. -->
 - [ ] A) has
-  <!-- feedback: Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion. -->
+  <!-- feedback: 'Has' would not produce the inversion 'Not until' requires, so the sense of delay would be lost. -->
 - [ ] B) was
-  <!-- feedback: Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'. -->
-- [ ] D) did
-  <!-- feedback: Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'. -->
+  <!-- feedback: 'Was' cannot be inverted to begin this clause and does not place the closure after the sign-off. -->
+- [ ] C) did not
+  <!-- feedback: 'Did not' would say the case was never closed, whereas the sentence only rules out closing it before the sign-off. -->
 
 ### Explicacion Pedagogica
-This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.
+'Not until the second reviewer signed off did the case be closed' combines a fronted negative with subject-auxiliary inversion, so the closing is presented as both late and dependent.
 
 ---
 
@@ -357,20 +357,20 @@ This evaluates mastery of advanced inversion structures, a key component of C1+ 
 **Contexto:** Discussing comprehensive review 2 in Medellín.
 
 ### Enunciado
-Complete the following sentence about comprehensive review 2: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Final Assessment Prep)
+Complete the following sentence about comprehensive review 2: 'Rarely __________ a resubmission pass the external check on the first attempt.'
 
 ### Opciones
-- [x] C) had
-  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
+- [x] C) does
+  <!-- feedback: 'Rarely does' is the inversion that follows a fronted negative adverb, so 'does a resubmission pass' is the required pattern. -->
 - [ ] A) has
-  <!-- feedback: Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion. -->
+  <!-- feedback: 'Has' would not trigger the inversion that 'Rarely' calls for, leaving the clause without negative emphasis. -->
 - [ ] B) was
-  <!-- feedback: Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'. -->
-- [ ] D) did
-  <!-- feedback: Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'. -->
+  <!-- feedback: 'Was' cannot be inverted to open this construction and does not express how rare the success was. -->
+- [ ] D) does not
+  <!-- feedback: 'Does not' would say no resubmission ever passed, whereas 'rarely' means it almost never happened. -->
 
 ### Explicacion Pedagogica
-This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.
+With a fronted negative adverb such as 'rarely', English inverts the auxiliary ahead of the subject, so the sentence reads 'rarely does a resubmission pass', meaning 'it almost never passed'.
 
 ---
 
@@ -382,20 +382,20 @@ This evaluates mastery of advanced inversion structures, a key component of C1+ 
 **Contexto:** Discussing comprehensive review 2 in Pereira.
 
 ### Enunciado
-Complete the following sentence about comprehensive review 2: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Final Assessment Prep)
+Complete the following sentence about comprehensive review 2: 'Not until the finance minister appeared before Congress __________ the auditors allowed to publish their findings.'
 
 ### Opciones
-- [x] B) had
-  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
+- [x] B) did
+  <!-- feedback: Fronting 'Not until' triggers inversion, so the auxiliary 'did' comes before the subject 'the auditors'. -->
 - [ ] A) has
-  <!-- feedback: Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion. -->
+  <!-- feedback: 'Has' would not create the inversion that 'Not until' requires, so the delay before publication is lost. -->
 - [ ] C) was
-  <!-- feedback: Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'. -->
-- [ ] D) did
-  <!-- feedback: Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'. -->
+  <!-- feedback: 'Was' cannot be inverted to open this clause and does not place the publication after the appearance. -->
+- [ ] D) did not
+  <!-- feedback: 'Did not' would say the auditors were never allowed to publish, whereas the sentence only rules out publishing earlier. -->
 
 ### Explicacion Pedagogica
-This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.
+'Not until' is a fronted negative phrase, and English puts the auxiliary before the subject after it: 'not until the minister appeared did the auditors publish their findings'.
 
 ---
 
@@ -407,20 +407,20 @@ This evaluates mastery of advanced inversion structures, a key component of C1+ 
 **Contexto:** Discussing comprehensive review 2 in Barranquilla.
 
 ### Enunciado
-Complete the following sentence about comprehensive review 2: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Final Assessment Prep)
+Complete the following sentence about comprehensive review 2: 'Scarcely __________ the marking had finished than the appeals began arriving.'
 
 ### Opciones
-- [x] A) had
-  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
-- [ ] B) has
-  <!-- feedback: Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion. -->
+- [x] B) had
+  <!-- feedback: 'Scarcely had' is the past perfect inversion, showing the marking finished immediately before the appeals came in. -->
+- [ ] A) has
+  <!-- feedback: 'Has' would place the marking in the present, but both the finishing and the appeals belong to a past sequence. -->
 - [ ] C) was
-  <!-- feedback: Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'. -->
+  <!-- feedback: 'Was' cannot form the inversion that fronted 'Scarcely' demands and does not order the two past events. -->
 - [ ] D) did
-  <!-- feedback: Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'. -->
+  <!-- feedback: 'Did' would require a base form verb after it, instead of the past participle the past perfect construction needs. -->
 
 ### Explicacion Pedagogica
-This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.
+'Scarcely had the marking finished than the appeals began arriving' inverts the past perfect after a fronted negative, marking two past events as following one another immediately.
 
 ---
 

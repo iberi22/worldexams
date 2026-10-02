@@ -22,7 +22,7 @@ creador: "Jules-Agent"
 # Bundle MASTERY: El humor y la sátira en la literatura - Grado 9 (W35)
 ## Semana W35
 
-Esta semana los estudiantes de noveno estudian el humor y la sátira como recursos de la literatura para explicar y cuestionar la realidad. Se diferencia el humor amable, que divierte sin atacar, de la sátira, que utiliza la risa para denunciar y provocar un cambio. Se analizan los mecanismos del humor: exageración, ironía, parodia e hipérbole, y se estudia cómo funcionan en el teatro, el cuento y la poesía. Se practica la identificación del blanco al que apunta cada texto satírico y la valoración de su eficacia crítica. El objetivo es comprender que reírse puede ser una forma seria de pensar la realidad.
+Esta semana los estudiantes de noveno estudian el humor y la sátira como recursos de la literatura para explicar y cuestionar la realidad. Se diferencia el humor amable, que divierte sin atacar, de la sátira, que utiliza la risa para denunciar y provocar un cambio. Se analizan los mecanismos del humor: exageración, ironía, parodia e hipérbole, y se estudia cómo funcionan en el teatro, el cuento y la poesía. Se práctica la identificación del blanco al que apunta cada texto satírico y la valoración de su eficacia crítica. El objetivo es comprender que reírse puede ser una forma seria de pensar la realidad.
 
 ## Question 1 [D3-D4]
 **ID:** CO-LEN-9-2026-W35-el-humor-y-la-satira-en-la-literatura-001-MASTERY-bundle-v1
@@ -152,7 +152,7 @@ En una escena cómica, un personaje se burla de su propioخدمhya, así que el 
 ### Opciones
 - [ ] A) Aumenta la irritation del público, porque nadie soporta escuchar burla de sí mismo
   <!-- feedback: La autocrítica suele generar complicidad y no irritation, porque el público se reconoce en esa actitud. -->
-- [ ] B) Elimina el efectoIVO humorístico, porque el chiste pierde la capacidad de surprise
+- [ ] B) Elimina el efecto humorístico, porque el chiste pierde la capacidad de surprise
   <!-- feedback: La autocrítica no elimina el humor, sino que lo vuelve más amable y evita el carácter ofensivo de la burla. -->
 - [x] C) Reduce la defensividad del público, porque la burla recae sobre alguien que se expone voluntariamente
   <!-- feedback: La autocrítica relaja al público, porque nadie puede sentirse atacado por una burla que el propio personaje asume. -->

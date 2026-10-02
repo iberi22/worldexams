@@ -29,7 +29,7 @@ Esta semana estudia el lenguaje argumentativo y las dos maneras de reproducir la
 
 **Texto 1 (Acta de una reunión vecinal):** «Doña Gladys, de la tienda de la esquina, informó que desde hace cuatro semanas el agua llega turbia por las mañanas. El señor Ruiz dijo que él fue en persona a pedir la revisión de la válvula, pero nadie le respondió. La asamblea decidió esperar quince días antes de presentar una denuncia formal, porque una vecina se ofreció a recoger muestras. Al final, doña Gladys añadió: "Uno llega a pensar que si uno no se queja, eso significa que uno está de acuerdo con lo que está pasando".»
 
-**Texto 2 (Fragmento de entrevista periodística):** «El conductor, un hombre de cincuenta años que lleva quince manejando en la ciudad, respondió: "A mí me enseñaron que el carril es para los carros. Si uno se pone en bicicleta, lo que viene por detrás tiene que frenar por uno". El periodista preguntó si no le daba miedo. El conductorLEVEL agregó que sí le daba miedo, pero que si todos se asustaban, el carril quedaría vacío y todos usarían la calle.»
+**Texto 2 (Fragmento de entrevista periodística):** «El conductor, un hombre de cincuenta años que lleva quince manejando en la ciudad, respondió: "A mí me enseñaron que el carril es para los carros. Si uno se pone en bicicleta, lo que viene por detrás tiene que frenar por uno". El periodista preguntó si no le daba miedo. El conductor agregó que sí le daba miedo, pero que si todos se asustaban, el carril quedaría vacío y todos usarían la calle.»
 
 ## Question 1 [D3-D4]
 **ID:** CO-LC-9-2026-W05-el-lenguaje-argumentativo-y-los-modos-del-discurso-001-MASTERY-bundle-v1

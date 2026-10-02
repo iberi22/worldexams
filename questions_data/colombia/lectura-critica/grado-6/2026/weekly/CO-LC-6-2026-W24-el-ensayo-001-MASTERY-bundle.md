@@ -39,7 +39,7 @@ Una estudiante de Medellín lee esta definición: «El ensayo es un texto en el 
   <!-- feedback: Describir hechos sin tomar posición corresponde a otro género textual; el ensayo siempre incluye la postura del autor. -->
 - [ ] C) El ensayo es un texto breve que solo narrategias en orden cronológico.
   <!-- feedback: La narración cronológica pertenece al relato, no al ensayo, que es de carácter argumentativo. -->
-- [ ] D) El ensayo es un texto poético escrito en verso para expresarUNC Ion emotions.
+- [ ] D) El ensayo es un texto poético escrito en verso para expresar emociones.
   <!-- feedback: La poesía no es el género ensayístico; aquí lo determinante es la argumentación, no el verso. -->
 
 ### Explicacion Pedagogica
