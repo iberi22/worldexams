@@ -19,464 +19,462 @@ bundle_index: 1
 ---
 # MASTERY Bundle - Ingles: Reading Detail Inference (W38)
 **20 preguntas | Ingles | Curriculo de Ingles**
-
----
 ## Question 1 [D3]
 **ID:** PR-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W38 de ingles, grado 11: ejercicio 1 de 20 sobre reading detail and inference.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Read the text: 'Maria repairs old clocks in her shop on Calle Luna. She says the hardest part is not the mechanism but finding out what a previous owner did years ago, because the marks they left on the case show where the fault lies.' What detail does the text give about how Maria finds faults?
 
 ### Opciones
-- [x] B) accommodation
-  <!-- feedback: Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay. -->
-- [ ] C) entertainment
-  <!-- feedback: 'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay. -->
+- [x] A) She looks at the marks that earlier owners left on the case of a clock.
+  <!-- feedback: Correct! The text says the marks left by previous owners show where the fault lies, which is exactly the detail asked about. -->
+- [ ] B) She sends each clock away to a factory in another city.
+  <!-- feedback: No. The text places the work in her own shop and never mentions sending clocks away. -->
+- [ ] C) She keeps a photograph of every clock she has repaired.
+  <!-- feedback: No. No photographs are mentioned anywhere in the passage. -->
+- [ ] D) She asks the family of the owner to explain the problem.
+  <!-- feedback: No. The text never mentions asking the family of the previous owner for information. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+The text says the marks left by previous owners show where the fault lies, which is exactly the detail asked about. In this item the choice that works is 'She looks at the marks that earlier owners left on the case of a clock.', because it is the option that matches what the sentence and the task require.
 ---
 ## Question 2 [D4]
 **ID:** PR-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W38 de ingles, grado 11: ejercicio 2 de 20 sobre reading detail and inference.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Read the text: 'Maria repairs old clocks in her shop on Calle Luna. She says the hardest part is not the mechanism but finding out what a previous owner did years ago, because the marks they left on the case show where the fault lies.' What can be INFERRED about the clocks in Maria's shop?
 
 ### Opciones
-- [x] B) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' means the suitcases and bags you travel with, not the plan that organises the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the official travel document you show at the border, not a description of the journey route. -->
+- [x] B) They have all been repaired at least once before.
+  <!-- feedback: Correct! Maria speaks of what a previous owner did to each clock, which means every clock already has one repair in its history. -->
+- [ ] A) They were all bought new in the same year.
+  <!-- feedback: No. Nothing in the text says when the clocks were bought or that they were bought together. -->
+- [ ] C) They are all worth more than new clocks.
+  <!-- feedback: No. The text mentions no value at all, either old or new. -->
+- [ ] D) The previous owners all knew how to repair clocks.
+  <!-- feedback: No. If the owners knew how to repair, Maria would not be asked to work on the clocks now. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+Maria speaks of what a previous owner did to each clock, which means every clock already has one repair in its history. In this item the choice that works is 'They have all been repaired at least once before.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 3 [D3]
+## Question 3 [D5]
 **ID:** PR-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W38 de ingles, grado 11: ejercicio 3 de 20 sobre reading detail and inference.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Read the text: 'The town lost its last cinema in 1998. For twenty years the building was used only for storage, until a group of neighbours leased it and reopened it as a small theatre with sixty seats.' What detail does the text give about the building between 1998 and the reopening?
 
 ### Opciones
-- [x] B) destination
-  <!-- feedback: Correct! A 'destination' is the place to which someone or something is going or being sent. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, whereas the definition names only where it ends. -->
+- [x] C) It was used for storing things and nothing else.
+  <!-- feedback: Correct! The text says the building was used only for storage, which is the specific detail the question asks for. -->
+- [ ] A) It was closed and could not be entered by anyone.
+  <!-- feedback: No. The text does not say the building was closed; it says it was used, and by whom is stated. -->
+- [ ] B) It was used as a garage for buses.
+  <!-- feedback: No. No buses or garages appear anywhere in the passage. -->
+- [ ] D) It was repaired and repainted several times.
+  <!-- feedback: No. The text mentions no repairs or repainting during that period. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+The text says the building was used only for storage, which is the specific detail the question asks for. In this item the choice that works is 'It was used for storing things and nothing else.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 4 [D4]
+## Question 4 [D3]
 **ID:** PR-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W38 de ingles, grado 11: ejercicio 4 de 20 sobre reading detail and inference.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Read the text: 'The town lost its last cinema in 1998. For twenty years the building was used only for storage, until a group of neighbours leased it and reopened it as a small theatre with sixty seats.' What can be INFERRED about the group of neighbours?
 
 ### Opciones
-- [x] B) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling. -->
-- [ ] A) ticket
-  <!-- feedback: a 'ticket' is the document that gives you the right to travel; it carries nothing at all. -->
-- [ ] C) flight
-  <!-- feedback: a 'flight' is the trip itself by plane, not the bags you pack for it. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the booking held for a seat or a room, not the container where clothes go. -->
+- [x] D) They did not own the building, since they had to lease it.
+  <!-- feedback: Correct! Leasing means renting for a period, so the group does not own the building. -->
+- [ ] A) They had all worked in the film industry.
+  <!-- feedback: No. The text never mentions the film industry or any job connected to it. -->
+- [ ] B) They were the only people who wanted to save it.
+  <!-- feedback: No. The text gives no information about how many people were interested in the building. -->
+- [ ] C) They paid nothing at all to use the building.
+  <!-- feedback: No. A lease is a payment arrangement, so 'nothing at all' cannot be inferred. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+Leasing means renting for a period, so the group does not own the building. In this item the choice that works is 'They did not own the building, since they had to lease it.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 5 [D5]
+## Question 5 [D4]
 **ID:** PR-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W38 de ingles, grado 11: ejercicio 5 de 20 sobre reading detail and inference.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Read the text: 'Rain fell on the island for nine days without stopping. The river rose six metres and flooded the lower half of the town, damaging most of the houses built on the riverbank.' What detail does the text give about the houses on the riverbank?
 
 ### Opciones
-- [x] A) passenger
-  <!-- feedback: Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew. -->
-- [ ] B) pedestrian
-  <!-- feedback: a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all. -->
-- [ ] C) commuter
-  <!-- feedback: a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance. -->
-- [ ] D) tourist
-  <!-- feedback: a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle. -->
+- [x] A) Most of them were damaged by the flood.
+  <!-- feedback: Correct! The text says most of the houses on the riverbank were damaged, which is the detail being asked for. -->
+- [ ] B) All of them were destroyed completely.
+  <!-- feedback: No. The text says most were damaged, not that all were destroyed. -->
+- [ ] C) None of them was touched by the water.
+  <!-- feedback: No. The text says the flood damaged them, so they were clearly touched. -->
+- [ ] D) They were all built above the flood level.
+  <!-- feedback: No. If they had stood above the flood level, they would not have been damaged. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+The text says most of the houses on the riverbank were damaged, which is the detail being asked for. In this item the choice that works is 'Most of them were damaged by the flood.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 6 [D6]
+## Question 6 [D5]
 **ID:** PR-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W38 de ingles, grado 11: ejercicio 6 de 20 sobre reading detail and inference.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Read the text: 'Rain fell on the island for nine days without stopping. The river rose six metres and flooded the lower half of the town, damaging most of the houses built on the riverbank.' What can be INFERRED about the town?
 
 ### Opciones
-- [x] C) customs
-  <!-- feedback: Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage. -->
-- [ ] A) security
-  <!-- feedback: 'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs. -->
-- [ ] B) terminal
-  <!-- feedback: a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done. -->
-- [ ] D) gate
-  <!-- feedback: a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings. -->
+- [x] B) Parts of it stand on higher ground than the river reaches.
+  <!-- feedback: Correct! The text says the flood covered only the lower half of the town, so the rest must stand above the level the river reached. -->
+- [ ] A) Every house in the town was flooded.
+  <!-- feedback: No. The text limits the flooding to the lower half, so not every house was affected. -->
+- [ ] C) The town has never experienced heavy rain before.
+  <!-- feedback: No. The passage describes this flood but says nothing about whether it is the first of its kind. -->
+- [ ] D) The river is carefully managed so that it never floods.
+  <!-- feedback: No. A river that floods is not being carefully managed, whatever else may be true. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+The text says the flood covered only the lower half of the town, so the rest must stand above the level the river reached. In this item the choice that works is 'Parts of it stand on higher ground than the river reaches.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 7 [D5]
+## Question 7 [D3]
 **ID:** PR-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v7
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W38 de ingles, grado 11: ejercicio 7 de 20 sobre reading detail and inference.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Read the text: 'Luis runs a small bakery and starts work at three in the morning. He says the quiet hour before the first customers arrive is the part of the day he enjoys most, because nobody asks him anything yet.' What detail does the text give about the hour before the bakery opens?
 
 ### Opciones
-- [x] D) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board. -->
-- [ ] A) visa
-  <!-- feedback: a 'visa' is the permission to enter a country, obtained before the trip and not from the airline. -->
-- [ ] B) receipt
-  <!-- feedback: a 'receipt' only proves that you paid; it does not let you board the plane. -->
-- [ ] C) brochure
-  <!-- feedback: a 'brochure' is printed information about the airline or the destination, not a travel document. -->
+- [x] C) It is quiet and free from customers' questions.
+  <!-- feedback: Correct! Luis describes that hour as quiet and as the time before anyone asks him anything, which is the detail asked about. -->
+- [ ] A) It is the busiest hour of his working day.
+  <!-- feedback: No. He calls it the part he enjoys precisely because the day is not yet busy. -->
+- [ ] B) He uses it to sleep for an hour.
+  <!-- feedback: No. There is no mention of sleeping anywhere in the passage. -->
+- [ ] D) He spends it talking to the other bakers.
+  <!-- feedback: No. No other bakers are mentioned in the text. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+Luis describes that hour as quiet and as the time before anyone asks him anything, which is the detail asked about. In this item the choice that works is 'It is quiet and free from customers' questions.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 8 [D6]
+## Question 8 [D4]
 **ID:** PR-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v8
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W38 de ingles, grado 11: ejercicio 8 de 20 sobre reading detail and inference.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Read the text: 'Luis runs a small bakery and starts work at three in the morning. He says the quiet hour before the first customers arrive is the part of the day he enjoys most, because nobody asks him anything yet.' What can be INFERRED about Luis's customers?
 
 ### Opciones
-- [x] D) sightseeing
-  <!-- feedback: Correct! 'sightseeing' is the activity of visiting the places of interest of a location. -->
-- [ ] A) shopping
-  <!-- feedback: 'shopping' is buying things in stores, not the general activity of visiting a place's sights. -->
-- [ ] B) hiking
-  <!-- feedback: 'hiking' is one specific outdoor walk in nature, only one kind of activity out of many. -->
-- [ ] C) camping
-  <!-- feedback: 'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark. -->
+- [x] D) They usually arrive at the bakery well after three in the morning.
+  <!-- feedback: Correct! He is alone and undisturbed from three until the first customers, so those customers must arrive later than three. -->
+- [ ] A) They ask him about the bread very often.
+  <!-- feedback: No. He says nobody asks him anything in that early hour, so questions cannot be frequent at that time. -->
+- [ ] B) They come to the bakery before he opens.
+  <!-- feedback: No. The text places the customers after the quiet hour, not before he opens. -->
+- [ ] C) They prefer buying bread in the evening.
+  <!-- feedback: No. Nothing in the text says when during the day they prefer to buy. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+He is alone and undisturbed from three until the first customers, so those customers must arrive later than three. In this item the choice that works is 'They usually arrive at the bakery well after three in the morning.', because it is the option that matches what the sentence and the task require.
 ---
 ## Question 9 [D5]
 **ID:** PR-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W38 de ingles, grado 11: ejercicio 9 de 20 sobre reading detail and inference.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Read the text: 'The school library used to be locked at four in the afternoon, so students who wanted to study quietly had nowhere to go. When the library stayed open until eight, their use of it tripled within a term.' What detail does the text give about the change in opening hours?
 
 ### Opciones
-- [x] C) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event. -->
-- [ ] A) gift
-  <!-- feedback: a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event. -->
-- [ ] B) award
-  <!-- feedback: an 'award' is an honour granted by an institution for merit, not a keepsake. -->
-- [ ] D) prize
-  <!-- feedback: a 'prize' is the reward of a competition; the definition describes an object kept as a memento. -->
+- [x] A) The closing time moved from four in the afternoon to eight in the evening.
+  <!-- feedback: Correct! The text gives the old closing time of four and the new one of eight, which is the detail the question asks about. -->
+- [ ] B) The library opened two hours earlier than before.
+  <!-- feedback: No. The text says nothing about the opening time, only about when the library closes. -->
+- [ ] C) The library changed from being a study room into a lending room.
+  <!-- feedback: No. The library is described as a place to study; no change of function is reported. -->
+- [ ] D) The library began closing during the week instead of at weekends.
+  <!-- feedback: No. The change concerns the hour of closing on ordinary days, not weekend arrangements. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+The text gives the old closing time of four and the new one of eight, which is the detail the question asks about. In this item the choice that works is 'The closing time moved from four in the afternoon to eight in the evening.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 10 [D6]
+## Question 10 [D3]
 **ID:** PR-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
-
-### Opciones
-- [x] D) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which something ends up late or postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: a 'cancellation' means the trip or event will not happen at all, not that it happens later. -->
-- [ ] B) departure
-  <!-- feedback: 'departure' is simply the moment of leaving, which can be perfectly punctual. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the moment of reaching the place, and it says nothing about being late. -->
-
-### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
----
-## Question 11 [D7]
-**ID:** PR-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
-
-### Opciones
-- [x] C) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter. -->
-- [ ] A) check-out
-  <!-- feedback: 'check-out' is the opposite moment, when you pay and hand the room key back before leaving. -->
-- [ ] B) booking
-  <!-- feedback: 'booking' is the reservation made beforehand; check-in is what you do on arrival. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the earlier record of your booking, not the act of registering your presence. -->
-
-### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
----
-## Question 12 [D8]
-**ID:** PR-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
-
-### Opciones
-- [x] D) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two further stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey. -->
-- [ ] B) transfer
-  <!-- feedback: a 'transfer' is the change from one vehicle or flight to another, not the pause itself. -->
-- [ ] C) transit
-  <!-- feedback: 'transit' means the action of passing through a place, with no idea of resting between stages. -->
-
-### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
----
-## Question 13 [D7]
-**ID:** PR-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
-
-### Opciones
-- [x] B) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: a 'coin' is one single piece of money, not the whole system used in the country. -->
-- [ ] C) banknote
-  <!-- feedback: a 'banknote' is one single paper note of that system, not the system itself. -->
-- [ ] D) cash
-  <!-- feedback: 'cash' means money in coins and notes in general, not the specific monetary system of a country. -->
-
-### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
----
-## Question 14 [D8]
-**ID:** PR-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
-
-### Opciones
-- [x] A) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists. -->
-- [ ] B) map
-  <!-- feedback: a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information. -->
-- [ ] C) dictionary
-  <!-- feedback: a 'dictionary' gives the meaning of words, not details about a destination for travellers. -->
-- [ ] D) encyclopedia
-  <!-- feedback: an encyclopedia covers all branches of knowledge rather than one particular place for visitors. -->
-
-### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
----
-## Question 15 [D7]
-**ID:** PR-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
-
-### Opciones
-- [x] A) backpack
-  <!-- feedback: Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back. -->
-- [ ] B) suitcase
-  <!-- feedback: a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps. -->
-- [ ] C) briefcase
-  <!-- feedback: a 'briefcase' is a case for documents and a laptop that is carried in the hand. -->
-- [ ] D) handbag
-  <!-- feedback: a 'handbag' is a small bag held in the hand, not carried on the back. -->
-
-### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
----
-## Question 16 [D8]
-**ID:** PR-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
-
-### Opciones
-- [x] B) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: 'local' means belonging to the area where you already are, again the opposite meaning. -->
-- [ ] D) national
-  <!-- feedback: 'national' refers to the nation as a whole, but it does not mean being abroad. -->
-
-### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
----
-## Question 17 [D9]
-**ID:** PR-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W38 de ingles, grado 11: ejercicio 10 de 20 sobre reading detail and inference.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Read the text: 'The school library used to be locked at four in the afternoon, so students who wanted to study quietly had nowhere to go. When the library stayed open until eight, their use of it tripled within a term.' What can be INFERRED about the longer opening hours?
 
 ### Opciones
-- [x] C) budget
-  <!-- feedback: Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time. -->
-- [ ] A) expense
-  <!-- feedback: an 'expense' is a single cost; a budget gathers all income and spending over a period. -->
-- [ ] B) cost
-  <!-- feedback: 'cost' is the amount paid for one thing, not an estimate for a whole period. -->
-- [ ] D) price
-  <!-- feedback: 'price' is the figure written on a product, not a plan of income and expenditure. -->
+- [x] B) They were welcome by the students who wanted to study.
+  <!-- feedback: Correct! Use tripled after the hours changed, which shows the students valued and took advantage of the longer opening. -->
+- [ ] A) They were decided without asking the students' opinion.
+  <!-- feedback: No. The text does not describe how the decision was taken, so nothing can be inferred about consultation. -->
+- [ ] C) They were forced on the students by the school rules.
+  <!-- feedback: No. Nothing in the text describes the change as compulsory for the students. -->
+- [ ] D) They mattered more to the staff than to the students.
+  <!-- feedback: No. The rise reported is in student use, not in staff interest. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+Use tripled after the hours changed, which shows the students valued and took advantage of the longer opening. In this item the choice that works is 'They were welcome by the students who wanted to study.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 18 [D10]
+## Question 11 [D4]
+**ID:** PR-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v11
+**Bloom:** Understand
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.80
+**Contexto:** Semana W38 de ingles, grado 11: ejercicio 11 de 20 sobre reading detail and inference.
+
+### Enunciado
+Read the text: 'Every house on the hill has a cistern that collects rain, because piped water reaches only the bottom of the street. In the same street, families without a cistern buy water by the barrel.' What detail does the text give about water supply on the hill?
+
+### Opciones
+- [x] C) Piped water reaches only the bottom of the street.
+  <!-- feedback: Correct! The text states directly that piped water reaches only the bottom of the street. -->
+- [ ] A) Every family on the hill owns a cistern.
+  <!-- feedback: No. The text says families without a cistern still exist and buy water by the barrel. -->
+- [ ] B) Rainwater is collected only in the winter months.
+  <!-- feedback: No. The text mentions no restriction of the collection to certain months. -->
+- [ ] D) Piped water reaches the top of the street as well.
+  <!-- feedback: No. The text says the opposite: the pipe reaches only the bottom. -->
+
+### Explicacion Pedagogica
+The text states directly that piped water reaches only the bottom of the street. In this item the choice that works is 'Piped water reaches only the bottom of the street.', because it is the option that matches what the sentence and the task require.
+---
+## Question 12 [D5]
+**ID:** PR-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v12
+**Bloom:** Evaluate
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.80
+**Contexto:** Semana W38 de ingles, grado 11: ejercicio 12 de 20 sobre reading detail and inference.
+
+### Enunciado
+Read the text: 'Every house on the hill has a cistern that collects rain, because piped water reaches only the bottom of the street. In the same street, families without a cistern buy water by the barrel.' What can be INFERRED about families without a cistern?
+
+### Opciones
+- [x] D) They live close enough to the pipe, or they have chosen not to build one.
+  <!-- feedback: Correct! The pipe reaches the bottom of the street, so households near it can supply themselves while others must buy, which is the reason given. -->
+- [ ] A) They store far more water than the families with cisterns.
+  <!-- feedback: No. Nothing in the text says anything about how much water those families store. -->
+- [ ] B) They pay less for water than anyone else on the hill.
+  <!-- feedback: No. Buying water by the barrel implies a cost, so they do not pay less. -->
+- [ ] C) They had a cistern and then removed it.
+  <!-- feedback: No. The text never mentions a cistern being removed; it simply says some families do not have one. -->
+
+### Explicacion Pedagogica
+The pipe reaches the bottom of the street, so households near it can supply themselves while others must buy, which is the reason given. In this item the choice that works is 'They live close enough to the pipe, or they have chosen not to build one.', because it is the option that matches what the sentence and the task require.
+---
+## Question 13 [D3]
+**ID:** PR-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v13
+**Bloom:** Understand
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.80
+**Contexto:** Semana W38 de ingles, grado 11: ejercicio 13 de 20 sobre reading detail and inference.
+
+### Enunciado
+Read the text: 'The football team trains on a field of hard ground where the ball bounces unpredictably. Their coach moved the first hour of training to the grass pitch across town, and since then the number of injuries has fallen to almost none.' What detail does the text give about the two training places?
+
+### Opciones
+- [x] A) One has hard ground and the other is a grass pitch in another part of town.
+  <!-- feedback: Correct! The text describes a hard ground field and a grass pitch across town, which is the detail the question asks about. -->
+- [ ] B) Both are on hard ground but at different hours.
+  <!-- feedback: No. One of the two places is explicitly a grass pitch, so both are not hard ground. -->
+- [ ] C) The grass pitch belongs to the same school as the team.
+  <!-- feedback: No. The text never says which school owns the grass pitch. -->
+- [ ] D) The field of hard ground is the larger of the two.
+  <!-- feedback: No. No comparison of size between the two places appears in the passage. -->
+
+### Explicacion Pedagogica
+The text describes a hard ground field and a grass pitch across town, which is the detail the question asks about. In this item the choice that works is 'One has hard ground and the other is a grass pitch in another part of town.', because it is the option that matches what the sentence and the task require.
+---
+## Question 14 [D4]
+**ID:** PR-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v14
+**Bloom:** Evaluate
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.80
+**Contexto:** Semana W38 de ingles, grado 11: ejercicio 14 de 20 sobre reading detail and inference.
+
+### Enunciado
+Read the text: 'The football team trains on a field of hard ground where the ball bounces unpredictably. Their coach moved the first hour of training to the grass pitch across town, and since then the number of injuries has fallen to almost none.' What can be INFERRED about the coach's decision?
+
+### Opciones
+- [x] B) She believed the surface of the ground was causing the injuries.
+  <!-- feedback: Correct! The text links the surface to unpredictable bouncing and then reports injuries falling after the move to grass, so the surface is the implied cause. -->
+- [ ] A) She wanted the team to spend less time in training.
+  <!-- feedback: No. Nothing in the text suggests the coach wanted to reduce the hours of training. -->
+- [ ] C) She disliked the field of hard ground for personal reasons.
+  <!-- feedback: No. The text gives a practical reason about the surface, not a personal dislike. -->
+- [ ] D) She had been asked to move by the school.
+  <!-- feedback: No. The passage never says anyone requested the change. -->
+
+### Explicacion Pedagogica
+The text links the surface to unpredictable bouncing and then reports injuries falling after the move to grass, so the surface is the implied cause. In this item the choice that works is 'She believed the surface of the ground was causing the injuries.', because it is the option that matches what the sentence and the task require.
+---
+## Question 15 [D5]
+**ID:** PR-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v15
+**Bloom:** Understand
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.80
+**Contexto:** Semana W38 de ingles, grado 11: ejercicio 15 de 20 sobre reading detail and inference.
+
+### Enunciado
+Read the text: 'The market hall is open on Wednesday afternoons only. Traders noticed that many customers come straight from work, so they asked the council to keep two stalls open until eight in the evening on Fridays.' What detail does the text give about the traders' request?
+
+### Opciones
+- [x] C) They asked for two stalls to stay open late on Fridays.
+  <!-- feedback: Correct! The request described is that two stalls remain open until eight on Fridays, which is the detail asked about. -->
+- [ ] A) They asked for the whole hall to open every evening.
+  <!-- feedback: No. The request concerns two stalls on Fridays, not the whole hall every evening. -->
+- [ ] B) They asked the council to open on Sunday mornings.
+  <!-- feedback: No. Sunday mornings are not mentioned anywhere in the passage. -->
+- [ ] D) They asked for the closing hour to be made earlier.
+  <!-- feedback: No. The request was to keep the stalls open later, not to close them earlier. -->
+
+### Explicacion Pedagogica
+The request described is that two stalls remain open until eight on Fridays, which is the detail asked about. In this item the choice that works is 'They asked for two stalls to stay open late on Fridays.', because it is the option that matches what the sentence and the task require.
+---
+## Question 16 [D3]
+**ID:** PR-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v16
+**Bloom:** Evaluate
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.80
+**Contexto:** Semana W38 de ingles, grado 11: ejercicio 16 de 20 sobre reading detail and inference.
+
+### Enunciado
+Read the text: 'The market hall is open on Wednesday afternoons only. Traders noticed that many customers come straight from work, so they asked the council to keep two stalls open until eight in the evening on Fridays.' What can be INFERRED about the council?
+
+### Opciones
+- [x] D) It was not willing to extend the opening hours for the whole hall.
+  <!-- feedback: Correct! The traders asked for late Friday trading and the text reports only that two stalls stayed open, which fits a limited approval. -->
+- [ ] A) It had refused every request from the traders before.
+  <!-- feedback: No. The passage reports one request and does not describe earlier refusals. -->
+- [ ] B) It does not want the market hall to trade on Fridays.
+  <!-- feedback: No. Two stalls did trade on Fridays, so the council does not object to Friday opening altogether. -->
+- [ ] C) It plans to close the hall on Wednesday afternoons.
+  <!-- feedback: No. Nothing suggests any change to the Wednesday afternoon session. -->
+
+### Explicacion Pedagogica
+The traders asked for late Friday trading and the text reports only that two stalls stayed open, which fits a limited approval. In this item the choice that works is 'It was not willing to extend the opening hours for the whole hall.', because it is the option that matches what the sentence and the task require.
+---
+## Question 17 [D4]
+**ID:** PR-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v17
+**Bloom:** Understand
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.80
+**Contexto:** Semana W38 de ingles, grado 11: ejercicio 17 de 20 sobre reading detail and inference.
+
+### Enunciado
+Read the text: 'Ana studied chemistry for three years and then changed to graphic design. She says the two fields look unrelated but both of them require the same habit: showing a first idea to someone who will criticise it.' What detail does the text give about the two fields?
+
+### Opciones
+- [x] A) Both require a first idea to be shown to someone who criticises it.
+  <!-- feedback: Correct! The text states directly that both fields require the habit of showing a first idea to a critic, which is the detail asked about. -->
+- [ ] B) Both lead to jobs in the same industry.
+  <!-- feedback: No. The text says nothing about the industry the two fields lead into. -->
+- [ ] C) Both take exactly the same number of years to study.
+  <!-- feedback: No. Only the three years in chemistry is given; the length of the design course is not mentioned. -->
+- [ ] D) Both were taught only in the same university.
+  <!-- feedback: No. No university or place of study is named in the passage. -->
+
+### Explicacion Pedagogica
+The text states directly that both fields require the habit of showing a first idea to a critic, which is the detail asked about. In this item the choice that works is 'Both require a first idea to be shown to someone who criticises it.', because it is the option that matches what the sentence and the task require.
+---
+## Question 18 [D5]
 **ID:** PR-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W38 de ingles, grado 11: ejercicio 18 de 20 sobre reading detail and inference.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Read the text: 'Ana studied chemistry for three years and then changed to graphic design. She says the two fields look unrelated but both of them require the same habit: showing a first idea to someone who will criticise it.' What can be INFERRED about Ana?
 
 ### Opciones
-- [x] D) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only. -->
-- [ ] B) guarantee
-  <!-- feedback: a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement. -->
-- [ ] C) policy
-  <!-- feedback: a 'policy' is the written document of the contract, not the practice of insuring itself. -->
+- [x] B) She is comfortable with criticism of her work.
+  <!-- feedback: Correct! Ana treats criticism of a first idea as a normal part of both fields, which shows she is used to receiving it. -->
+- [ ] A) She regrets the three years she spent on chemistry.
+  <!-- feedback: No. The text reports a change of subject and says nothing about regret. -->
+- [ ] C) She found the design course much harder than chemistry.
+  <!-- feedback: No. No comparison of difficulty between the two courses appears in the passage. -->
+- [ ] D) She wants to return to chemistry when she graduates.
+  <!-- feedback: No. Nothing in the text mentions any plan to go back to chemistry. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+Ana treats criticism of a first idea as a normal part of both fields, which shows she is used to receiving it. In this item the choice that works is 'She is comfortable with criticism of her work.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 19 [D9]
+## Question 19 [D3]
 **ID:** PR-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W38 de ingles, grado 11: ejercicio 19 de 20 sobre reading detail and inference.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Read the text: 'The old bridge was closed after inspectors found cracks in two of its supports. Repairs were expected to take eight months, so the council built a temporary crossing for pedestrians and cyclists a kilometre downstream.' What detail does the text give about the reason for the closure?
 
 ### Opciones
-- [x] C) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'medication' treats the symptoms of a disease; it does not create immunity against it. -->
-- [ ] B) prescription
-  <!-- feedback: a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself. -->
-- [ ] D) infection
-  <!-- feedback: an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease. -->
+- [x] C) Inspectors found cracks in two of the supports.
+  <!-- feedback: Correct! The text states that inspectors found cracks in two supports, which is the reason given for the closure. -->
+- [ ] A) A flood damaged the surface of the roadway.
+  <!-- feedback: No. No flood appears anywhere in the passage, and the damage described came from age. -->
+- [ ] B) The council decided to rebuild the bridge entirely.
+  <!-- feedback: No. The text mentions repairs taking eight months, not a complete rebuild decided on by the council. -->
+- [ ] D) Too many vehicles were using it each day.
+  <!-- feedback: No. The number of vehicles is never mentioned in the text. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+The text states that inspectors found cracks in two supports, which is the reason given for the closure. In this item the choice that works is 'Inspectors found cracks in two of the supports.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 20 [D10]
+## Question 20 [D4]
 **ID:** PR-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W38 de ingles, grado 11: ejercicio 20 de 20 sobre reading detail and inference.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Read the text: 'The old bridge was closed after inspectors found cracks in two of its supports. Repairs were expected to take eight months, so the council built a temporary crossing for pedestrians and cyclists a kilometre downstream.' What can be INFERRED about the temporary crossing?
 
 ### Opciones
-- [x] B) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones. -->
-- [ ] C) exhaustion
-  <!-- feedback: 'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones. -->
-- [ ] D) insomnia
-  <!-- feedback: 'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight. -->
+- [x] D) It does not carry motor vehicles.
+  <!-- feedback: Correct! The crossing is described for pedestrians and cyclists only, so cars cannot use it. -->
+- [ ] A) It is used by the same buses as the old bridge.
+  <!-- feedback: No. Buses are not mentioned anywhere in the passage. -->
+- [ ] B) It is closer to the town centre than the old bridge.
+  <!-- feedback: No. The text says the crossing is a kilometre downstream, which is a direction, not a distance from the centre. -->
+- [ ] C) It was built by the same inspectors who closed the bridge.
+  <!-- feedback: No. Inspectors found the cracks; the council built the crossing. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+The crossing is described for pedestrians and cyclists only, so cars cannot use it. In this item the choice that works is 'It does not carry motor vehicles.', because it is the option that matches what the sentence and the task require.

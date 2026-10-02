@@ -21,462 +21,463 @@ bundle_index: 1
 **20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
+
 ## Question 1 [D3]
 **ID:** ES-ING-11-2026-W38-writing-formal-informal-emails-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Lucia is learning formal and informal email styles in class.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+You write to your head teacher. Which greeting starts the email formally?
 
 ### Opciones
-- [x] C) accommodation
-  <!-- feedback: Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay. -->
-- [ ] B) entertainment
-  <!-- feedback: 'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay. -->
+- [ ] A) Dear Mrs Lopez,
+  <!-- feedback: Correct! Dear Mrs Lopez is formal because Dear plus title plus surname shows respect suited to a teacher or office. -->
+- [x] B) Hi Lucia,
+  <!-- feedback: The greeting Hi Lucia is wrong as formal because Hi plus first name is friendly and informal, not respectful for officials. -->
+- [ ] C) Yo guys, listen up,
+  <!-- feedback: The greeting Yo guys, listen up is wrong because slang plus order is very informal and rude for any formal email. -->
+- [ ] D) Starting with no greeting at all.
+  <!-- feedback: Starting with no greeting is wrong because opening without salutation looks careless and never meets formal email rules. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
----
+Formal greetings use Dear plus title and surname, such as Dear Mrs Lopez. Informal greetings use Hi or Hello plus first name for friends.
+
 ## Question 2 [D4]
 **ID:** ES-ING-11-2026-W38-writing-formal-informal-emails-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Marco is studying polite closings for different email types.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+You finish a formal complaint to a company. Which closing is correct?
 
 ### Opciones
-- [x] C) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' means the suitcases and bags you travel with, not the plan that organises the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the official travel document you show at the border, not a description of the journey route. -->
+- [ ] A) Yours faithfully, Pablo Ruiz.
+  <!-- feedback: Correct! Yours faithfully is formal closing because it matches official letters and pairs with a full name signature. -->
+- [ ] B) Lots of love, Pablo.
+  <!-- feedback: The closing Lots of love is wrong as formal because it expresses affection suited to close friends, not to officials. -->
+- [ ] C) Cheers mate, Pablo.
+  <!-- feedback: The closing Cheers mate is wrong as formal because Cheers plus mate is casual slang for friends, not for formal mail. -->
+- [x] D) No closing and no signature.
+  <!-- feedback: Closing with no signature is wrong because ending without a name looks incomplete and unprofessional in any formal message. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
+Formal closings include Yours faithfully or Yours sincerely plus full name. Informal closings use Best wishes, Cheers or Lots of love.
+
 ## Question 3 [D3]
 **ID:** ES-ING-11-2026-W38-writing-formal-informal-emails-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Sara is learning to choose the right subject line.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+You email the office for a certificate. Which subject line is formal and clear?
 
 ### Opciones
-- [x] D) destination
-  <!-- feedback: Correct! A 'destination' is the place to which someone or something is going or being sent. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action. -->
-- [ ] B) arrival
-  <!-- feedback: 'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it. -->
-- [ ] C) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, whereas the definition names only where it ends. -->
+- [x] A) Request for school certificate, 12 May.
+  <!-- feedback: Correct! Request for school certificate, 12 May is clear because it names the exact request plus a date for the office to process. -->
+- [ ] B) Hey you, open this fast.
+  <!-- feedback: The subject Hey you is wrong because vague slang gives no clue about content and looks unprofessional in an inbox. -->
+- [ ] C) Funny cats video inside.
+  <!-- feedback: The subject Funny cats video is wrong because cats are unrelated to a certificate and mislead the office staff completely. -->
+- [ ] D) Leaving the subject line blank.
+  <!-- feedback: Leaving the subject blank is wrong because empty subjects force readers to guess and often send mail to spam folders. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
----
+Subject lines summarise the email purpose in a few clear words. Formal subjects name request plus date, while vague hellos confuse readers.
+
 ## Question 4 [D4]
 **ID:** ES-ING-11-2026-W38-writing-formal-informal-emails-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Pablo is practising formal requests in emails.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+You ask a language school for details. Which request sentence is formal?
 
 ### Opciones
-- [x] B) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling. -->
-- [ ] A) ticket
-  <!-- feedback: a 'ticket' is the document that gives you the right to travel; it carries nothing at all. -->
-- [ ] C) flight
-  <!-- feedback: a 'flight' is the trip itself by plane, not the bags you pack for it. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the booking held for a seat or a room, not the container where clothes go. -->
+- [ ] A) I am writing to request information about courses.
+  <!-- feedback: Correct! I am writing to request information about courses is formal because the full purpose phrase plus polite noun shows respectful structure. -->
+- [ ] B) Send me course info right now.
+  <!-- feedback: The demand Send me course info now is wrong because the imperative plus now sounds like an order and lacks formal softening. -->
+- [x] C) Gimme stuff about those courses.
+  <!-- feedback: The slang Gimme stuff about courses is wrong because Gimme is very informal slang that destroys any formal tone instantly. -->
+- [ ] D) Do you like courses or not?
+  <!-- feedback: The question Do you like courses or not is wrong because asking personal taste never requests course information formally. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
----
+Formal requests use I am writing to plus infinitive and polite modals like Could you. Short demands like Send me lack courtesy and structure.
+
 ## Question 5 [D5]
 **ID:** ES-ING-11-2026-W38-writing-formal-informal-emails-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Elena is comparing contractions in formal and informal mail.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Which apology sentence suits a formal email to a teacher?
 
 ### Opciones
-- [x] C) passenger
-  <!-- feedback: Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all. -->
-- [ ] B) commuter
-  <!-- feedback: a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance. -->
-- [ ] D) tourist
-  <!-- feedback: a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle. -->
+- [x] A) I am sorry for the delay, I will reply soon.
+  <!-- feedback: Correct! I am sorry for the delay, I will reply soon is formal because full forms plus apology keep a respectful professional tone. -->
+- [ ] B) Gonna reply soon, wanna wait a bit?
+  <!-- feedback: The line Gonna reply soon, wanna wait is wrong as formal because gonna and wanna are spoken slang unsuitable for official mail. -->
+- [ ] C) Whatever, chill, we talk later.
+  <!-- feedback: The line Whatever, chill, talk later is wrong because dismissal plus slang shows no respect and breaks any formal register. -->
+- [ ] D) Send pics, LOL, bye for now.
+  <!-- feedback: The line Send pics, LOL, bye is wrong because text slang plus LOL belongs to chats, not to formal apology emails. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
-## Question 6 [D6]
+Formal emails avoid contractions and slang, using I am and I would like. Informal emails accept gonna, wanna and short forms between friends.
+
+## Question 6 [D5]
 **ID:** ES-ING-11-2026-W38-writing-formal-informal-emails-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Diego is writing an informal email to a close friend.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+You email your friend Marta about the weekend. Which opening is informal and warm?
 
 ### Opciones
-- [x] B) customs
-  <!-- feedback: Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage. -->
-- [ ] A) security
-  <!-- feedback: 'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs. -->
-- [ ] C) terminal
-  <!-- feedback: a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done. -->
-- [ ] D) gate
-  <!-- feedback: a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings. -->
+- [ ] A) Hi Marta! Thanks for your message!
+  <!-- feedback: Correct! Hi Marta! Thanks for your message! is informal because Hi plus first name plus exclamation shows warm friendly tone. -->
+- [ ] B) Dear Sir or Madam,
+  <!-- feedback: The formal Dear Sir or Madam is wrong as friendly because Dear Sir is distant and cold when writing to a close friend. -->
+- [x] C) I remain your obedient servant,
+  <!-- feedback: The sentence I remain your obedient servant is wrong because ancient formal phrases sound comic and stiff between young friends. -->
+- [ ] D) Please acknowledge receipt of this message.
+  <!-- feedback: The demand Acknowledge receipt of this message is wrong because office language about receipt is cold and unsuitable for friends. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
+Informal emails to friends use Hi, contractions, exclamation and warm closings. Overly stiff Dear Sir language sounds distant between friends.
+
 ## Question 7 [D5]
 **ID:** ES-ING-11-2026-W38-writing-formal-informal-emails-001-MASTERY-bundle-v7
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Carmen is learning how to start a formal complaint email.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Your new phone broke in two days. Which opening starts a formal complaint well?
 
 ### Opciones
-- [x] D) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board. -->
-- [ ] A) visa
-  <!-- feedback: a 'visa' is the permission to enter a country, obtained before the trip and not from the airline. -->
-- [ ] B) receipt
-  <!-- feedback: a 'receipt' only proves that you paid; it does not let you board the plane. -->
-- [ ] C) brochure
-  <!-- feedback: a 'brochure' is printed information about the airline or the destination, not a travel document. -->
+- [ ] A) I am writing to complain about the broken phone.
+  <!-- feedback: Correct! I am writing to complain about the broken phone is effective because it names purpose plus faulty item calmly and clearly. -->
+- [ ] B) You thieves stole my money, fix it.
+  <!-- feedback: The insult You thieves stole my money is wrong because accusations plus anger sound aggressive and weaken a formal complaint. -->
+- [ ] C) My phone loves flying off tables, haha.
+  <!-- feedback: The joke My phone loves flying off tables is wrong because humour hides the problem and gives no clear complaint facts. -->
+- [x] D) Your shop is the best in the city.
+  <!-- feedback: The praise Your shop is the best ever is wrong because compliments cannot complain about a broken phone and confuse the reader. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
----
+Complaints state the problem politely with I am writing to complain about plus facts. Angry insults weaken the case and may be ignored.
+
 ## Question 8 [D6]
 **ID:** ES-ING-11-2026-W38-writing-formal-informal-emails-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Andres is practising polite endings before a signature.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Which sentence ends a formal email politely before the signature?
 
 ### Opciones
-- [x] A) sightseeing
-  <!-- feedback: Correct! 'sightseeing' is the activity of visiting the places of interest of a location. -->
-- [ ] B) shopping
-  <!-- feedback: 'shopping' is buying things in stores, not the general activity of visiting a place's sights. -->
-- [ ] C) hiking
-  <!-- feedback: 'hiking' is one specific outdoor walk in nature, only one kind of activity out of many. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark. -->
+- [ ] A) Thank you for your time and kind attention.
+  <!-- feedback: Correct! Thank you for your time and kind attention is polite because thanks plus attention shows gratitude before the formal signature. -->
+- [x] B) Reply now or I will report you.
+  <!-- feedback: The demand Reply now or I will report you is wrong because threats plus urgency destroy politeness before the signature. -->
+- [ ] C) Later dude, catch you soon.
+  <!-- feedback: The slang Later dude, catch you soon is wrong because dude plus catch you is casual chat, not a polite formal ending. -->
+- [ ] D) Ending with no thanks at all.
+  <!-- feedback: Ending with no thanks at all is wrong because closing without gratitude sounds cold and incomplete in formal correspondence. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
----
-## Question 9 [D5]
+Polite formal endings thank the reader and promise contact, such as Thank you for your time. Rude endings demand fast action without thanks.
+
+## Question 9 [D6]
 **ID:** ES-ING-11-2026-W38-writing-formal-informal-emails-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Lucia is identifying register mistakes in student drafts.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Formal complaint draft includes four lines. Which line breaks formal register?
 
 ### Opciones
-- [x] A) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event. -->
-- [ ] B) gift
-  <!-- feedback: a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event. -->
-- [ ] C) award
-  <!-- feedback: an 'award' is an honour granted by an institution for merit, not a keepsake. -->
-- [ ] D) prize
-  <!-- feedback: a 'prize' is the reward of a competition; the definition describes an object kept as a memento. -->
+- [ ] A) I wanna ask for a refund ASAP.
+  <!-- feedback: Correct! I wanna ask for a refund ASAP is the mistake because wanna plus ASAP slang clashes with the formal complaint purpose. -->
+- [ ] B) I am writing to request a refund.
+  <!-- feedback: The phrase I am writing to request a refund is not a mistake because full forms plus request keep a consistent formal register. -->
+- [x] C) Please find my receipt attached.
+  <!-- feedback: The phrase Please find my receipt attached is not a mistake because polite please plus attached follows standard formal conventions. -->
+- [ ] D) Yours sincerely, Lucia Gomez.
+  <!-- feedback: The phrase Yours sincerely with full name is not a mistake because the classic closing correctly finishes a formal complaint. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
----
-## Question 10 [D6]
+Register mistakes mix slang into formal mail. Wanna and gonna clash with Dear Sir openings, while full forms keep the tone consistent.
+
+## Question 10 [D5]
 **ID:** ES-ING-11-2026-W38-writing-formal-informal-emails-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Marco is reviewing opening lines for informal invitations.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+You invite friends by email to your party. Which line is informal and natural?
 
 ### Opciones
-- [x] C) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which something ends up late or postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: a 'cancellation' means the trip or event will not happen at all, not that it happens later. -->
-- [ ] B) departure
-  <!-- feedback: 'departure' is simply the moment of leaving, which can be perfectly punctual. -->
-- [ ] D) arrival
-  <!-- feedback: 'arrival' is the moment of reaching the place, and it says nothing about being late. -->
+- [x] A) Come to my party on Saturday, it will be great!
+  <!-- feedback: Correct! Come to my party on Saturday, it will be great is informal because the direct invite plus will be great sounds warm and friendly. -->
+- [ ] B) You are cordially invited to attend the gala.
+  <!-- feedback: The formal You are cordially invited to attend is wrong as informal because cordially plus attend is stiff and ceremonial for friends. -->
+- [ ] C) Staff must confirm attendance in writing.
+  <!-- feedback: The office line Staff must confirm attendance in writing is wrong because must plus in writing is bureaucratic, not a friendly invite. -->
+- [ ] D) Something maybe happens sometime soon.
+  <!-- feedback: The vague Something maybe happens sometime is wrong because vagueness gives no clear invitation details for the party. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
----
-## Question 11 [D7]
+Informal invitations are direct and warm with You are invited plus contractions. Formal notices use passive structures and full titles instead.
+
+## Question 11 [D6]
 **ID:** ES-ING-11-2026-W38-writing-formal-informal-emails-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Sara is choosing formal language for job applications.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+You apply for a summer job. Which opening sentence is formal and strong?
 
 ### Opciones
-- [x] B) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter. -->
-- [ ] A) check-out
-  <!-- feedback: 'check-out' is the opposite moment, when you pay and hand the room key back before leaving. -->
-- [ ] C) booking
-  <!-- feedback: 'booking' is the reservation made beforehand; check-in is what you do on arrival. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the earlier record of your booking, not the act of registering your presence. -->
+- [ ] A) I would like to apply for the assistant post.
+  <!-- feedback: Correct! I would like to apply for the assistant post is formal because would like plus post names the goal with respectful grammar. -->
+- [ ] B) I wanna get that job, so call me.
+  <!-- feedback: The slang I wanna get that job, call me is wrong because wanna plus call me sounds like a text to friends, not an application. -->
+- [ ] C) I am the coolest person alive today.
+  <!-- feedback: The joke I am the coolest person alive is wrong because boasting plus coolest gives no skills and breaks formal self presentation. -->
+- [x] D) Do you pay well for this job?
+  <!-- feedback: The question Do you pay well for this job is wrong as opening because asking salary first ignores skills and sounds impolite. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
----
-## Question 12 [D8]
+Job applications need formal self presentation with I would like to apply and I attach my CV. Casual chat about bands harms the candidate image.
+
+## Question 12 [D6]
 **ID:** ES-ING-11-2026-W38-writing-formal-informal-emails-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Pablo is correcting abbreviations in formal emails.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Which line is too informal for a message to the school office? Choose the informal one.
 
 ### Opciones
-- [x] D) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two further stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey. -->
-- [ ] B) transfer
-  <!-- feedback: a 'transfer' is the change from one vehicle or flight to another, not the pause itself. -->
-- [ ] C) transit
-  <!-- feedback: 'transit' means the action of passing through a place, with no idea of resting between stages. -->
+- [ ] A) BTW, send me the file ASAP, thx.
+  <!-- feedback: Correct! BTW, send me the file ASAP, thx is informal because BTW plus ASAP plus thx are text abbreviations unsuitable for formal mail. -->
+- [x] B) Please send the file at your convenience.
+  <!-- feedback: The sentence Please send the file at your convenience is formal, not informal, because please plus convenience keeps full respectful wording. -->
+- [ ] C) I attach the report for your review.
+  <!-- feedback: The sentence I attach the report for your review is formal because attach plus review uses complete professional vocabulary. -->
+- [ ] D) Thank you for your prompt reply.
+  <!-- feedback: The sentence Thank you for your prompt reply is formal because thank you plus prompt reply shows full polite business language. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
----
+Formal emails write words in full and avoid text forms like BTW, LOL or u. Informal chats accept them, but offices expect complete spelling.
+
 ## Question 13 [D7]
 **ID:** ES-ING-11-2026-W38-writing-formal-informal-emails-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Elena is judging paragraph order in a formal email.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Which sequence organises a formal request email correctly?
 
 ### Opciones
-- [x] D) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: a 'coin' is one single piece of money, not the whole system used in the country. -->
-- [ ] B) banknote
-  <!-- feedback: a 'banknote' is one single paper note of that system, not the system itself. -->
-- [ ] C) cash
-  <!-- feedback: 'cash' means money in coins and notes in general, not the specific monetary system of a country. -->
+- [ ] A) Greeting, purpose, details, polite close.
+  <!-- feedback: Correct! Greeting, purpose, details, polite close is logical because each step prepares the next and respects formal reader expectations. -->
+- [ ] B) Threats, demands, insults, no signature.
+  <!-- feedback: The order starting with threats is wrong because threats first alarm readers before any purpose or details are explained. -->
+- [ ] C) Joke, meme, gossip, sudden request.
+  <!-- feedback: The order starting with jokes is wrong because humour first hides purpose and undermines the serious formal request. -->
+- [x] D) No greeting, random details, abrupt end.
+  <!-- feedback: The order with no greeting at all is wrong because missing salutation breaks formal structure from the very first line. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
----
-## Question 14 [D8]
+Formal emails order ideas as greeting, purpose, details, polite close. Asking for money before stating purpose confuses and offends readers.
+
+## Question 14 [D7]
 **ID:** ES-ING-11-2026-W38-writing-formal-informal-emails-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Diego is analysing the function of I look forward phrases.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Email ends: I look forward to hearing from you. What is the function of this line?
 
 ### Opciones
-- [x] A) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists. -->
-- [ ] B) map
-  <!-- feedback: a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information. -->
-- [ ] C) dictionary
-  <!-- feedback: a 'dictionary' gives the meaning of words, not details about a destination for travellers. -->
-- [ ] D) encyclopedia
-  <!-- feedback: an encyclopedia covers all branches of knowledge rather than one particular place for visitors. -->
+- [ ] A) It politely invites a reply and closes formally.
+  <!-- feedback: Correct! It politely invites a reply and closes formally is right because look forward to hearing signals respectful expectation of an answer. -->
+- [ ] B) It insults the reader for slow answers.
+  <!-- feedback: The claim it insults the reader is wrong because look forward language is courteous and never expresses insult or criticism. -->
+- [x] C) It tells a funny joke before goodbye.
+  <!-- feedback: The claim it tells a joke is wrong because no humour appears and the routine is serious business closing language. -->
+- [ ] D) It orders fast delivery of products.
+  <!-- feedback: The claim it orders fast delivery is wrong because no demand or deadline is set and the tone stays inviting, not commanding. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
----
+I look forward to hearing from you politely ends formal mail and invites reply. It uses gerund hearing, a classic formal closing routine.
+
 ## Question 15 [D7]
 **ID:** ES-ING-11-2026-W38-writing-formal-informal-emails-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Carmen is writing a formal email asking for permission.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+You must miss class for a family event. Which permission request is formal?
 
 ### Opciones
-- [x] B) backpack
-  <!-- feedback: Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back. -->
-- [ ] A) suitcase
-  <!-- feedback: a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps. -->
-- [ ] C) briefcase
-  <!-- feedback: a 'briefcase' is a case for documents and a laptop that is carried in the hand. -->
-- [ ] D) handbag
-  <!-- feedback: a 'handbag' is a small bag held in the hand, not carried on the back. -->
+- [ ] A) Could you please allow me to miss class on Friday?
+  <!-- feedback: Correct! Could you please allow me to miss Friday is polite because Could you plus please turns permission into a respectful formal request. -->
+- [x] B) I want Friday off, so give it to me.
+  <!-- feedback: The demand I want Friday off, give it is wrong because want plus give it orders the teacher instead of requesting permission. -->
+- [ ] C) Maybe I come on Friday or maybe not.
+  <!-- feedback: The vague Maybe I come or maybe not is wrong because vagueness gives no clear request and confuses the permission decision. -->
+- [ ] D) I never miss parties, you know that.
+  <!-- feedback: The boast I never miss parties, you know is wrong because boasting about parties is irrelevant and never asks permission formally. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
----
+Permission requests use Could you please allow and Would it be possible. Direct I want statements sound demanding in school correspondence.
+
 ## Question 16 [D8]
 **ID:** ES-ING-11-2026-W38-writing-formal-informal-emails-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
-
-### Opciones
-- [x] B) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: 'local' means belonging to the area where you already are, again the opposite meaning. -->
-- [ ] D) national
-  <!-- feedback: 'national' refers to the nation as a whole, but it does not mean being abroad. -->
-
-### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
----
-## Question 17 [D9]
-**ID:** ES-ING-11-2026-W38-writing-formal-informal-emails-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Andres is comparing two apologies for a late application.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Your application arrived late. Which apology fits a formal email best?
 
 ### Opciones
-- [x] C) budget
-  <!-- feedback: Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time. -->
-- [ ] A) expense
-  <!-- feedback: an 'expense' is a single cost; a budget gathers all income and spending over a period. -->
-- [ ] B) cost
-  <!-- feedback: 'cost' is the amount paid for one thing, not an estimate for a whole period. -->
-- [ ] D) price
-  <!-- feedback: 'price' is the figure written on a product, not a plan of income and expenditure. -->
+- [x] A) I apologise for the delay due to illness.
+  <!-- feedback: Correct! I apologise for the delay due to illness is strong because apologise plus brief reason plus attached form shows full responsibility. -->
+- [ ] B) Traffic was bad, whatever, here it is.
+  <!-- feedback: The excuse Traffic was bad, whatever is wrong because whatever dismisses fault and lacks the formal apology structure needed. -->
+- [ ] C) Sorry I forgot, my dog ate the form.
+  <!-- feedback: The joke Sorry I forgot, my dog ate it is wrong because humour plus dog excuse is childish and unsuitable for formal applications. -->
+- [ ] D) Sending late papers with no apology.
+  <!-- feedback: The silence with no apology is wrong because sending late papers without any apology looks careless and disrespectful. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
----
-## Question 18 [D10]
+Strong formal apologies admit delay, give a brief reason and show action. Blaming traffic without responsibility sounds weak and informal.
+
+## Question 17 [D7]
+**ID:** ES-ING-11-2026-W38-writing-formal-informal-emails-001-MASTERY-bundle-v17
+**Bloom:** Analyze
+**EJE:** Expresion escrita
+**Expected_Success:** 0.80
+**Contexto:** Lucia is checking tone in emails to unknown officials.
+
+### Enunciado
+You email an unknown grants officer. Which style keeps the right tone?
+
+### Opciones
+- [ ] A) Dear Sir or Madam, with neutral tone.
+  <!-- feedback: Correct! Dear Sir or Madam with neutral tone is right because the title plus polite distance respects an unknown official correctly. -->
+- [ ] B) Hey man, what is up with you?
+  <!-- feedback: The greeting Hey man with slang is wrong because Hey man assumes close friendship and insults an unknown official. -->
+- [x] C) Kisses, see you soon, my friend.
+  <!-- feedback: The closing Kisses, see you soon is wrong because affectionate kisses assume intimacy that is absent with unknown officials. -->
+- [ ] D) Answer fast, I have no time.
+  <!-- feedback: The demand Answer fast, I have no time is wrong because rushing plus no time pressures officials rudely instead of respecting them. -->
+
+### Explicacion Pedagogica
+Unknown officials need Dear Sir or Madam plus neutral polite language. First names and kisses assume familiarity that does not exist yet.
+
+## Question 18 [D8]
 **ID:** ES-ING-11-2026-W38-writing-formal-informal-emails-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Marco is judging attachments language in formal mail.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+You attach a CV to a job email. Which attachment line is formal?
 
 ### Opciones
-- [x] D) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only. -->
-- [ ] B) guarantee
-  <!-- feedback: a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement. -->
-- [ ] C) policy
-  <!-- feedback: a 'policy' is the written document of the contract, not the practice of insuring itself. -->
+- [ ] A) Please find my CV attached for review.
+  <!-- feedback: Correct! Please find my CV attached for review is formal because please plus attached plus review follows standard business wording. -->
+- [ ] B) See pics attached, LOL, check them.
+  <!-- feedback: The slang See pics attached, LOL is wrong because pics plus LOL are chat abbreviations that break formal attachment language. -->
+- [ ] C) Stuff is somewhere inside this mail.
+  <!-- feedback: The vague Stuff is somewhere in the mail is wrong because somewhere gives no clear file reference and sounds careless. -->
+- [x] D) Open it fast and reply right now.
+  <!-- feedback: The order Open it fast and reply now is wrong because fast plus now commands the reader instead of politely signalling an attachment. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
----
+Attachment phrases use Please find attached plus file name. Informal see pics attached lacks the polite structure offices expect.
+
 ## Question 19 [D9]
 **ID:** ES-ING-11-2026-W38-writing-formal-informal-emails-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Sara is revising a full formal email for final sending.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Which description matches a complete and correct formal email?
 
 ### Opciones
-- [x] D) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'medication' treats the symptoms of a disease; it does not create immunity against it. -->
-- [ ] B) prescription
-  <!-- feedback: a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself. -->
-- [ ] C) infection
-  <!-- feedback: an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease. -->
+- [x] A) Clear subject, Dear title, purpose, close.
+  <!-- feedback: Correct! Clear subject, Dear, purpose, details, close is complete because every formal element appears in logical order for the reader. -->
+- [ ] B) No subject, Hi, random chat, no name.
+  <!-- feedback: The version with no subject and Hi is wrong because missing subject plus Hi breaks formal completeness from the very start. -->
+- [ ] C) Slang, emojis and jokes throughout.
+  <!-- feedback: The version full of slang and emojis is wrong because slang plus emojis destroy professional tone even if structure looks similar. -->
+- [ ] D) Threats, demands and no signature.
+  <!-- feedback: The version with threats and no signature is wrong because threats plus missing name make the mail aggressive and incomplete. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
----
+Full formal emails need clear subject, Dear title, stated purpose, details, polite close and full name. Missing subjects or slang break the whole message.
+
 ## Question 20 [D10]
 **ID:** ES-ING-11-2026-W38-writing-formal-informal-emails-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Pablo is facing the hardest choice on mixed register repair.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Formal complaint draft mixes Hey, wanna, ASAP and LOL. Which repair fixes the whole register?
 
 ### Opciones
-- [x] C) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones. -->
-- [ ] D) insomnia
-  <!-- feedback: 'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight. -->
+- [ ] A) Dear manager, request, please, Yours sincerely.
+  <!-- feedback: Correct! Dear manager, request, please, Yours sincerely fixes all because each informal bit is replaced while keeping the refund content intact. -->
+- [x] B) Hey manager, refund, LOL, cheers dude.
+  <!-- feedback: The fix keeping Hey and LOL is wrong because retaining Hey plus LOL leaves informal greetings and laughter in a formal complaint. -->
+- [ ] C) I wanna refund ASAP, send it now.
+  <!-- feedback: The fix keeping wanna and ASAP is wrong because wanna plus ASAP preserve slang abbreviations that still break formal register. -->
+- [ ] D) Give refund or else, no closing line.
+  <!-- feedback: The fix with threats and no close is wrong because adding aggression plus dropping the close worsens rather than repairing register. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Repairing mixed register means replacing every informal bit while keeping content. Only full Dear, purpose, please and Yours sincerely fix all errors together.

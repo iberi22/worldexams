@@ -21,462 +21,463 @@ bundle_index: 1
 **20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
+
 ## Question 1 [D3]
 **ID:** ES-ING-11-2026-W35-writing-descriptive-paragraphs-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student writes a descriptive paragraph about the small square behind her apartment building.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which adjective best completes the sentence: "The square is ____; three old fig trees give it plenty of shade."
 
 ### Opciones
-- [x] A) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay temporarily while you are away from home. -->
-- [ ] B) transportation
-  <!-- feedback: Wrong. 'Transportation' names the way you travel, such as buses, trains or planes, not the place where you stay. -->
-- [ ] C) entertainment
-  <!-- feedback: Wrong. 'Entertainment' is the activity of enjoying shows, films or games, not a place where you sleep. -->
-- [ ] D) currency
-  <!-- feedback: Wrong. 'Currency' is the money used in a country, which has nothing to do with lodging. -->
+- [ ] A) shady
+  <!-- feedback: 'Shady' is the correct word for a place that is covered in shade, and it fits a square where trees block the sun. -->
+- [x] B) shadeless
+  <!-- feedback: 'Shadeless' would be a made-up opposite form; English does not build an adjective that way for this word. -->
+- [ ] C) shadower
+  <!-- feedback: 'Shadower' is not a standard English word, and nothing in the noun pattern of the sentence would accept it. -->
+- [ ] D) shadedly
+  <!-- feedback: 'Shadedly' is not an adjective at all but an invented adverb form, and it does not describe a place. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
----
+A descriptive paragraph depends on precise adjectives, and English prefers the shortest word that carries the meaning: 'shady' already means 'giving shade', so no longer form is needed. Spanish speakers often extend a root mechanically, but the correct approach is to learn the word as a whole and check whether the ending is a real English suffix.
+
 ## Question 2 [D4]
 **ID:** ES-ING-11-2026-W35-writing-descriptive-paragraphs-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A writer wants to describe a narrow street where laundry is always hanging between the balconies.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+"The street is so ____ that the balconies almost ____ across it." Which words complete the sentence?
 
 ### Opciones
-- [x] D) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the planned route of a journey together with the places and times along the way. -->
-- [ ] A) baggage
-  <!-- feedback: Wrong. 'Baggage' is the suitcases and bags themselves, not the plan of the trip. -->
-- [ ] B) destination
-  <!-- feedback: Wrong. A 'destination' is only the place where the journey ends, while an itinerary lists the whole route. -->
-- [ ] C) passport
-  <!-- feedback: Wrong. A 'passport' is the travel document that proves who you are, not the plan of the journey. -->
+- [ ] A) narrow / meet
+  <!-- feedback: Correct! 'Narrow' describes the limited width of the street, and two balconies that span it can 'meet' in the middle. -->
+- [ ] B) narrow / meat
+  <!-- feedback: 'Meat' is the noun for food and replaces the verb the sentence needs, so the two halves no longer make sense together. -->
+- [ ] C) near / meet
+  <!-- feedback: 'Near' describes distance rather than width, and a street that is near something is not the same idea as a street of limited width. -->
+- [x] D) narrow / mete
+  <!-- feedback: 'Mete' is not a verb form; the base verb is 'meet', and the sentence requires that form after the modal-like phrase. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
+Descriptive writing often links a quality and its consequence with 'so ... that'. The adjective must name the feature being depicted, here the width of the street, and the verb must express what the balconies do across it. Choosing a homophone of the right word is a spelling slip, not a meaning slip, and both destroy the image.
+
 ## Question 3 [D3]
 **ID:** ES-ING-11-2026-W35-writing-descriptive-paragraphs-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student describes the smell of a grandmother's kitchen on a Sunday morning.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+"The kitchen smelled ____ of onions and rosemary, so the whole flat felt warm." Which adverb is correct?
 
 ### Opciones
-- [x] B) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going to or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: Wrong. A 'departure' is the act of leaving and the place you leave from, the opposite end of the trip. -->
-- [ ] C) arrival
-  <!-- feedback: Wrong. An 'arrival' is the event of getting there, not the place that is being travelled to. -->
-- [ ] D) journey
-  <!-- feedback: Wrong. A 'journey' is the whole trip from start to finish, not the place at the end of it. -->
+- [x] A) strongly
+  <!-- feedback: Correct! 'Strongly' is the adverb form of 'strong' and correctly modifies the verb 'smelt' to describe an intense smell. -->
+- [ ] B) strong
+  <!-- feedback: 'Strong' is the adjective, and an adjective cannot modify a verb directly in this structure without a linking word. -->
+- [ ] C) strongish
+  <!-- feedback: 'Strongish' is an informal invention; it is not accepted in an exam answer and has no place in formal written work. -->
+- [ ] D) most strong
+  <!-- feedback: 'Most strong' is a double form that English does not use; intensity is expressed by the adverb 'strongly'. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
----
+An adverb of degree or manner answers how, and it is normally built from the adjective with the suffix -ly: strong becomes strongly, quiet becomes quietly. Some common exceptions such as fast and hard keep their form, but 'strong' is not one of them, so a descriptive paragraph must use the -ly form before a verb.
+
 ## Question 4 [D4]
 **ID:** ES-ING-11-2026-W35-writing-descriptive-paragraphs-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A photographer describes the light in a cathedral in the early afternoon.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+"Sunlight poured through the high windows and turned the ____ dust into visible shafts of light." Which word is the best fit?
 
 ### Opciones
-- [x] C) luggage
-  <!-- feedback: Correct! 'Luggage' is the collective word for the suitcases and bags you pack your belongings in. -->
-- [ ] A) ticket
-  <!-- feedback: Wrong. A 'ticket' is the document that pays for and authorises a journey, not the bag you pack. -->
-- [ ] B) flight
-  <!-- feedback: Wrong. A 'flight' is the journey by plane itself, not the bags carried on it. -->
-- [ ] D) reservation
-  <!-- feedback: Wrong. A 'reservation' is the booking you make for a seat or a room, not the baggage itself. -->
+- [ ] A) floating
+  <!-- feedback: Correct! 'Floating' is the -ing form used as a participle before the noun 'dust', and it describes dust that drifts in the air. -->
+- [ ] B) floatingly
+  <!-- feedback: 'Floatingly' is not an English word; the adverb ending cannot be attached to this participle. -->
+- [x] C) floated
+  <!-- feedback: 'Floated' is the past tense, which would make the sentence narrate a completed action instead of describing dust in the light. -->
+- [ ] D) float
+  <!-- feedback: 'Float' is the bare verb, and a bare verb cannot stand directly before a noun to describe it. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
----
-## Question 5 [D5]
+English uses the -ing form of a verb as a participle that qualifies the following noun, as in 'floating dust' or 'a shining surface'. This lets a noun be described by an action rather than a plain adjective, which is one of the main ways a descriptive paragraph gains vividness. The past tense and the bare verb cannot fill that slot.
+
+## Question 5 [D4]
 **ID:** ES-ING-11-2026-W35-writing-descriptive-paragraphs-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student describes a mountain village where the houses have dark stone roofs.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+"Most of the houses in the village have ____ roofs, which makes the whole place look grey from a distance." Which word is correct?
 
 ### Opciones
-- [x] C) passenger
-  <!-- feedback: Correct! A 'passenger' is anyone travelling in a vehicle who is not the one driving or piloting it. -->
-- [ ] A) pedestrian
-  <!-- feedback: Wrong. A 'pedestrian' travels on foot, so they are not aboard any conveyance at all. -->
-- [ ] B) commuter
-  <!-- feedback: Wrong. A 'commuter' is defined by making the same trip regularly to work or school, not by being a passenger in general. -->
-- [ ] D) tourist
-  <!-- feedback: Wrong. A 'tourist' is defined by travelling for pleasure, not simply by riding in a vehicle. -->
+- [x] A) greyish
+  <!-- feedback: Correct! 'Greyish' is the adjective meaning slightly grey, and it describes roofs that are dark but not entirely grey. -->
+- [ ] B) grewish
+  <!-- feedback: 'Grewish' is a misspelling; the correct form is 'greyish', with the spelling 'grey' inside it. -->
+- [ ] C) graying
+  <!-- feedback: 'Graying' is a verb form meaning becoming grey, so it would describe an action and not the colour of the roofs. -->
+- [ ] D) greyed
+  <!-- feedback: 'Greyed' is also a verb form, and a verb cannot sit between the article and the noun in this position. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
-## Question 6 [D6]
+Colour in descriptive writing comes in three intensities: the plain colour as in grey, a stronger form with a suffix as in greyish, and a darker form as in dark grey. The -ish suffix is the standard way to soften a colour, and it is a single word, which is why 'greyish' is the only option that works as an attribute noun.
+
+## Question 6 [D4]
 **ID:** ES-ING-11-2026-W35-writing-descriptive-paragraphs-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A writer describes an old olive grove where the trees are twisted and the soil is dry.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+"The ____ trees have grown in dry soil for centuries, so their trunks are thick and pale." Which adjective is the most precise?
 
 ### Opciones
-- [x] A) customs
-  <!-- feedback: Correct! 'Customs' is the office where officials check the goods and the people coming in from abroad. -->
-- [ ] B) security
-  <!-- feedback: Wrong. 'Security' is the police or staff who keep order, while customs staff collect duties on goods. -->
-- [ ] C) terminal
-  <!-- feedback: Wrong. A 'terminal' is the building where you arrive or depart, not the office that checks imports. -->
-- [ ] D) gate
-  <!-- feedback: Wrong. A 'gate' is the door you pass through to reach the plane; customs is the check itself. -->
+- [ ] A) gnarled
+  <!-- feedback: Correct! 'Gnarled' is the precise adjective for a trunk that is twisted and knotted with age, which is exactly what an old olive grove shows. -->
+- [ ] B) garnished
+  <!-- feedback: 'Garnished' means decorated with a garnish, usually on food, and has no connection to tree trunks. -->
+- [x] C) narrowed
+  <!-- feedback: 'Narrowed' means made narrower, which describes an action or a shape but not the twisted character of an aged tree. -->
+- [ ] D) gnarledness
+  <!-- feedback: 'Gnarledness' is a noun naming the quality, and a noun cannot be used to modify another noun directly. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
+A descriptive paragraph is stronger when a general adjective is replaced by a precise one. 'Old' and 'bent' only suggest age; 'gnarled' names exactly the twisted, knotted shape that a reader can picture. Precision in adjectives is what separates a description that decorates a text from one that actually shows a scene.
+
 ## Question 7 [D5]
 **ID:** ES-ING-11-2026-W35-writing-descriptive-paragraphs-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student describes a bustling market where the sellers shout and the smell of fruit fills the lane.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Which sentence gives the most vivid and accurate picture of the market?
 
 ### Opciones
-- [x] B) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline hands you at check-in that lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: Wrong. A 'visa' is the official permission a government gives to enter a country, granted before you travel. -->
-- [ ] C) receipt
-  <!-- feedback: Wrong. A 'receipt' only proves that you paid for something; it does not admit you to the aircraft. -->
-- [ ] D) brochure
-  <!-- feedback: Wrong. A 'brochure' is advertising material about destinations, not a travel document for boarding. -->
+- [ ] A) The market is loud and the fruit is fresh.
+  <!-- feedback: 'Loud and fresh' is accurate but abstract: it gives two general qualities and no image, so the reader must imagine everything. -->
+- [ ] B) The sellers shout, the wheels of the carts rattle, and the smell of ripe fruit fills the narrow lane.
+  <!-- feedback: Correct! The three clauses name specific actions and sensations, and they build a picture the reader can see, hear and smell. -->
+- [ ] C) The market is full of fruit and it is very busy.
+  <!-- feedback: 'Full of fruit and very busy' repeats the same vague idea twice, so the description adds no information to the first sentence. -->
+- [x] D) The market was busy, and the fruit was there.
+  <!-- feedback: 'The fruit was there' states only existence, and the simple past loses the sense of a market happening now. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
----
-## Question 8 [D6]
+Vivid description depends on selecting concrete detail over summary: a shout, the rattle of wheels and a smell fill a line where 'loud and fresh' cannot. The most effective descriptive paragraph mixes the senses and the actions, then lets the reader draw the conclusion instead of naming the general quality outright.
+
+## Question 8 [D5]
 **ID:** ES-ING-11-2026-W35-writing-descriptive-paragraphs-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student describes a seaside town that is completely rebuilt after a storm.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+"Every building in the town is ____ glass, which makes the whole seafront look almost weightless." Which adjective is the best fit?
 
 ### Opciones
-- [x] B) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' means going round and looking at the famous sights of a place as a visitor. -->
-- [ ] A) shopping
-  <!-- feedback: Wrong. 'Shopping' is buying things in a city, a different activity from visiting its places of interest. -->
-- [ ] C) hiking
-  <!-- feedback: Wrong. 'Hiking' is walking long distances in the countryside on marked trails, not touring the sights of a location. -->
-- [ ] D) camping
-  <!-- feedback: Wrong. 'Camping' means staying the night outdoors in a tent, not a day of visiting places of interest. -->
+- [ ] A) made of
+  <!-- feedback: Correct! 'Made of' is the passive construction that names the material a finished object is built from, and it fits a rebuilt seafront. -->
+- [x] B) built from
+  <!-- feedback: 'Built from' refers to materials that shape a structure, such as wood or stone, not the transparent surface described here. -->
+- [ ] C) done in
+  <!-- feedback: 'Done in' is a colour expression such as 'done in blue', and it does not name a building material. -->
+- [ ] D) made with
+  <!-- feedback: 'Made with' names the tool or ingredient used, not the substance that makes up the object itself. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
----
+Passive description of objects is built on a fixed set of frames: 'made of' for the substance an object consists of, 'made from' for the original material after transformation, and 'made with' for tools or added ingredients. Choosing the wrong frame changes what the sentence says about the object, so a descriptive paragraph must use the frame that matches the material.
+
 ## Question 9 [D5]
 **ID:** ES-ING-11-2026-W35-writing-descriptive-paragraphs-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student describes a person in a photograph who is about to leave a room.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+"In the photograph the man ____ to the door, his hand already on the handle." Which verb form is correct?
 
 ### Opciones
-- [x] A) souvenir
-  <!-- feedback: Correct! A 'souvenir' is an object kept afterwards as a reminder of the trip and of the people or places on it. -->
-- [ ] B) gift
-  <!-- feedback: Wrong. A 'gift' is chosen to be given to somebody else, while a souvenir is kept by the traveller. -->
-- [ ] C) award
-  <!-- feedback: Wrong. An 'award' is a distinction given for an achievement, not a keepsake bought on a trip. -->
-- [ ] D) prize
-  <!-- feedback: Wrong. A 'prize' is what a competitor wins in a contest; it says nothing about remembering a journey. -->
+- [ ] A) is about to leave
+  <!-- feedback: Correct! 'Be about to' is followed by the bare infinitive with 'to', so 'is about to leave' is the only form that works. -->
+- [ ] B) are about to leaving
+  <!-- feedback: 'Are' does not agree with the third person subject 'the man', and 'about to' never takes an -ing form. -->
+- [x] C) is about leaving
+  <!-- feedback: 'About leaving' would be correct after 'is', but the phrase here is 'is about to', which requires the infinitive. -->
+- [ ] D) about to leaves
+  <!-- feedback: 'About to leaves' has a third person ending added to an infinitive, which English does not allow in this structure. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
----
+The structure 'be about to' expresses an intention that has not yet happened and is followed by the infinitive, unlike 'be going to', which is also followed by the infinitive, and 'be doing', which takes the -ing form. Mixing these frames is one of the most frequent errors in written description of behaviour, so the pattern should be memorised as a unit.
+
 ## Question 10 [D6]
 **ID:** ES-ING-11-2026-W35-writing-descriptive-paragraphs-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student describes a garden where nothing grows under a large pine tree.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+"Under the pine tree the soil is ____, so only moss manages to grow there." Which adjective is the most precise?
 
 ### Opciones
-- [x] A) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which a departure or arrival is postponed. -->
-- [ ] B) cancellation
-  <!-- feedback: Wrong. A 'cancellation' calls the plan off entirely, whereas a delay only postpones it by some hours. -->
-- [ ] C) departure
-  <!-- feedback: Wrong. 'Departure' is simply the moment of leaving; the lateness is measured separately from it. -->
-- [ ] D) arrival
-  <!-- feedback: Wrong. An 'arrival' is the moment of getting there, not the amount of time a plan runs late. -->
+- [x] A) barren
+  <!-- feedback: Correct! 'Barren' is the adjective for ground where nothing can grow, and it names the condition precisely in one word. -->
+- [ ] B) barrenness
+  <!-- feedback: 'Barrenness' is the noun naming that quality, and a noun cannot be used to modify 'soil' directly in English. -->
+- [ ] C) barrenly
+  <!-- feedback: 'Barrenly' is an adverb; it would have to modify a verb, and the sentence needs a word describing the soil. -->
+- [ ] D) unbarren
+  <!-- feedback: 'Unbarren' is an invented negative form, since the opposite of barren in this sense is fertile, and English does not build it that way. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
----
-## Question 11 [D7]
+Precision in a descriptive paragraph means choosing a single adjective that names the whole quality, rather than a noun that names the quality abstractly. English reserves the -ness ending for a noun, so the same root appears as 'barren' before a noun and as 'barrenness' when the quality itself is being discussed.
+
+## Question 11 [D6]
 **ID:** ES-ING-11-2026-W35-writing-descriptive-paragraphs-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student describes a street in winter where the cold keeps everyone indoors.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+"____ the cold, the street is almost empty after eight in the evening." Which phrase correctly completes the sentence?
 
 ### Opciones
-- [x] D) check-in
-  <!-- feedback: Correct! 'Check-in' is when you arrive and register, and the desk records your presence and gives you your pass. -->
-- [ ] A) check-out
-  <!-- feedback: Wrong. 'Check-out' is the opposite moment, when you pay and hand back the room key before leaving. -->
-- [ ] B) booking
-  <!-- feedback: Wrong. A 'booking' is the reservation made earlier, while check-in is the reporting of your arrival. -->
-- [ ] C) reservation
-  <!-- feedback: Wrong. A 'reservation' holds a room or a seat for you in advance, not the act of registering on arrival. -->
+- [ ] A) Because of
+  <!-- feedback: Correct! 'Because of' is the preposition followed by a noun phrase, and 'the cold' is a noun phrase, so the frame is correct. -->
+- [ ] B) Because
+  <!-- feedback: 'Because' introduces a clause and needs a subject and a verb after it, which 'the cold' does not provide. -->
+- [ ] C) Due
+  <!-- feedback: 'Due' must be followed by 'to' and then a noun, so it needs 'due to the cold' and cannot start this sentence on its own. -->
+- [x] D) Owing
+  <!-- feedback: 'Owing' can begin a sentence but requires 'to' before its noun, so 'owing the cold' is incomplete. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
----
-## Question 12 [D8]
+English distinguishes a reason expressed with a noun from one expressed with a clause. 'Because of the cold' takes a noun phrase; 'because it is cold' takes a clause with a subject and a verb. 'Due to' and 'owing to' also require a noun phrase, but they cannot stand alone at the start of a sentence in this pattern.
+
+## Question 12 [D6]
 **ID:** ES-ING-11-2026-W35-writing-descriptive-paragraphs-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A writer compares two versions of the same description of a bird on a wire.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+"Version A says: 'The bird was sitting on the wire.' Version B says: 'A small brown bird hunched on the wire, its head tucked under its wing.'" Which version is the better description, and why?
 
 ### Opciones
-- [x] C) layover
-  <!-- feedback: Correct! A 'layover' is the wait between two flights, usually at the connecting airport, before you continue. -->
-- [ ] A) stopover
-  <!-- feedback: Wrong. A 'stopover' is a deliberate break in a long journey to spend extra time at a place, not a wait between flights. -->
-- [ ] B) transfer
-  <!-- feedback: Wrong. A 'transfer' is the flight or vehicle that moves you from one place to another, not the waiting itself. -->
-- [ ] D) transit
-  <!-- feedback: Wrong. 'Transit' names the general passing through an area or a country, not a specific rest between stages. -->
+- [ ] A) Version B, because it offers concrete detail the reader can picture
+  <!-- feedback: Correct! Version B gives colour, posture and gesture, so the reader can see the bird instead of being told only that it was there. -->
+- [x] B) Version A, because it is shorter and therefore clearer
+  <!-- feedback: 'Shorter is clearer' is not a principle of descriptive writing, and Version A actually leaves the reader with almost no information. -->
+- [ ] C) Version A, because 'was sitting' describes a continuing action
+  <!-- feedback: 'Was sitting' would describe a continuing action in a narrative, but the comparison is about descriptive power, not tense. -->
+- [ ] D) Version B, because it uses a longer sentence
+  <!-- feedback: 'A longer sentence' is not in itself better; what matters is the concrete detail, which the first option identifies. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
----
+The test for a descriptive paragraph is whether the reader can reconstruct the scene. Concrete nouns and precise verbs carry that burden, while a summary verb such as 'was sitting' leaves the work to the reader. Length is a side effect of detail, never the goal in itself.
+
 ## Question 13 [D7]
 **ID:** ES-ING-11-2026-W35-writing-descriptive-paragraphs-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student is told to describe a room and chooses a plain list of its contents.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+"The room has a bed, a desk, a lamp, a chair and a shelf." Which revision turns this list into a description?
 
 ### Opciones
-- [x] D) currency
-  <!-- feedback: Correct! 'Currency' is the whole monetary system a country uses, not any single object. -->
-- [ ] A) coin
-  <!-- feedback: Wrong. A 'coin' is one round metal piece of money, while the definition covers the entire money system. -->
-- [ ] B) banknote
-  <!-- feedback: Wrong. A 'banknote' is a single paper note, while the definition is about the money system of a whole country. -->
-- [ ] C) cash
-  <!-- feedback: Wrong. 'Cash' is the money in coins and notes that you are holding, regardless of any country's system. -->
+- [ ] A) The room has a narrow iron bed under the window, a scarred wooden desk, a brass lamp and a single shelf.
+  <!-- feedback: Correct! The revision adds material, size, position and colour to each object, so the reader can picture the room. -->
+- [ ] B) The room contains a bed, a desk, a lamp, a chair and a shelf.
+  <!-- feedback: 'Contains a bed, a desk' restates the original list in slightly more formal words and adds no description at all. -->
+- [ ] C) The room is a room with things inside it that people use.
+  <!-- feedback: 'Things inside it that people use' is so general that it describes no particular room in the world. -->
+- [x] D) The room has furniture such as a bed and a desk among other items.
+  <!-- feedback: 'Furniture such as' hides the objects behind a category, which is the opposite of what a descriptive paragraph should do. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
----
-## Question 14 [D8]
+Description requires moving from the general name of a thing to its particular qualities. A reader who is told 'a desk' must imagine their own desk, whereas 'a scarred wooden desk' gives a desk with a history. Adding material, condition, size and position to each noun is the basic technique of a descriptive paragraph.
+
+## Question 14 [D7]
 **ID:** ES-ING-11-2026-W35-writing-descriptive-paragraphs-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A writer is checking whether a description stays consistent with what is visible.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+In a description of a snowy mountain village, which detail contradicts the setting?
 
 ### Opciones
-- [x] C) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book written about a place to help visitors find their way around it. -->
-- [ ] A) map
-  <!-- feedback: Wrong. A 'map' is a single drawing of an area, not the book of practical information about the place. -->
-- [ ] B) dictionary
-  <!-- feedback: Wrong. A 'dictionary' lists words and their meanings, not practical details about a destination. -->
-- [ ] D) encyclopedia
-  <!-- feedback: Wrong. An 'encyclopedia' covers all knowledge on a subject, while a guidebook is written about one specific place. -->
+- [ ] A) A narrow lane where footprints lead up to a wooden door
+  <!-- feedback: 'Narrow lane', 'wooden door', 'stone wall', 'frost' and 'smoke' all fit a cold mountain village in winter, so they are consistent. -->
+- [ ] B) A bright beach with palm trees and a blue sea
+  <!-- feedback: Correct! A bright beach with palm trees contradicts snow and a mountain village, so this detail breaks the setting the text has established. -->
+- [x] C) A stone wall with frost along the top of it
+  <!-- feedback: 'A stone wall with frost' reinforces the winter setting rather than contradicting it. -->
+- [ ] D) A chimney sending smoke into a grey morning sky
+  <!-- feedback: 'Smoke into a grey morning sky' suggests cold weather and supports the snowy setting. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
----
+A description must be internally coherent: every detail has to belong to the same scene, and one image that belongs to a different climate or season breaks the picture the writer is building. Checking each detail against the established setting is a standard step when a description feels confusing to the reader.
+
 ## Question 15 [D7]
 **ID:** ES-ING-11-2026-W35-writing-descriptive-paragraphs-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student must describe a building in a formal report rather than a personal account.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+"The building is a fairly old kind of place and it has got a lot of floors inside it." Which revision is more accurate in a formal register?
 
 ### Opciones
-- [x] B) backpack
-  <!-- feedback: Correct! A 'backpack' has two shoulder straps and is designed to be carried on your back. -->
-- [ ] A) suitcase
-  <!-- feedback: Wrong. A 'suitcase' is a flat box with a handle that you pull along beside you. -->
-- [ ] C) briefcase
-  <!-- feedback: Wrong. A 'briefcase' is a stiff case for papers that you carry in your hand at work. -->
-- [ ] D) handbag
-  <!-- feedback: Wrong. A 'handbag' is held in the hand and has no straps at all. -->
+- [ ] A) The building is a historic structure of considerable height.
+  <!-- feedback: Correct! 'Historic structure' and 'considerable height' are formal and precise, and they avoid the informal words of the original. -->
+- [x] B) The building is a pretty old place with lots of floors.
+  <!-- feedback: 'Pretty old place' and 'lots of floors' are conversational, so they are wrong for a formal report. -->
+- [ ] C) The building is an ancient and incredibly tall house.
+  <!-- feedback: 'Incredibly' exaggerates without evidence, and calling a multi-storey building a house removes its institutional character. -->
+- [ ] D) The building is old and it is tall as well as wide.
+  <!-- feedback: 'As well as' introduces an addition the text never mentions, and the sentence abandons the formal register entirely. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
----
+Register is part of a description's quality. Formal English replaces conversational words such as 'pretty', 'place' and 'lots of' with precise nouns such as 'structure' and 'considerable', and it avoids exaggeration that the evidence does not support. The same scene can therefore be described in very different registers without changing its facts.
+
 ## Question 16 [D8]
 **ID:** ES-ING-11-2026-W35-writing-descriptive-paragraphs-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A writer reviews the first paragraph of a descriptive essay about a forest.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+"The paragraph describes the forest in eleven sentences, none of which names a tree, a bird or a sound." Which assessment is most accurate?
 
 ### Opciones
-- [x] C) overseas
-  <!-- feedback: Correct! 'Overseas' means to or in another country reached by crossing the sea. -->
-- [ ] A) domestic
-  <!-- feedback: Wrong. 'Domestic' means inside the borders of your own country, which is the opposite of overseas. -->
-- [ ] B) local
-  <!-- feedback: Wrong. 'Local' means in a particular small area or town, which may well be inside your own country. -->
-- [ ] D) national
-  <!-- feedback: Wrong. 'National' means concerning the nation as a whole, not travelling away from it across the sea. -->
+- [x] A) The paragraph is not yet descriptive, because it summarises the setting without showing it
+  <!-- feedback: Correct! Without concrete detail the reader receives only a label, so the paragraph announces a forest instead of depicting one. -->
+- [ ] B) The paragraph is a successful description, because length is enough
+  <!-- feedback: 'Length is enough' confuses quantity with quality; many sentences can say nothing concrete at all. -->
+- [ ] C) The paragraph is not descriptive, because description is impossible in eleven sentences
+  <!-- feedback: 'Impossible in eleven sentences' is not a real limitation, since a short description can be very vivid. -->
+- [ ] D) The paragraph is a successful description, because it avoids difficult details
+  <!-- feedback: 'Avoiding difficult details' is not a virtue in description, and it produces exactly the vagueness the paragraph has. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
----
-## Question 17 [D9]
+Description is identified by the presence of concrete particulars, not by the number of sentences. A paragraph that only names a setting tells the reader what the topic is, which is the job of the opening sentence, and then leaves the depiction to the imagination. The remedy is to replace general nouns with specific ones.
+
+## Question 17 [D8]
 **ID:** ES-ING-11-2026-W35-writing-descriptive-paragraphs-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student must describe a room to someone who will never see it.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Which set of details is most useful for helping the reader locate objects in an unknown room?
 
 ### Opciones
-- [x] A) budget
-  <!-- feedback: Correct! A 'budget' estimates planned income and spending over a set period such as a month or a year. -->
-- [ ] B) expense
-  <!-- feedback: Wrong. An 'expense' is a single outgoing payment, not a plan covering a whole period. -->
-- [ ] C) cost
-  <!-- feedback: Wrong. The 'cost' is the price of one thing or service, with no timeframe attached to it. -->
-- [ ] D) price
-  <!-- feedback: Wrong. A 'price' is the amount a single item sells for, not an estimate of a period's finances. -->
+- [ ] A) A chest of drawers under the window, with a reading lamp beside it
+  <!-- feedback: Correct! Naming the type, the position and an adjacent object lets the reader place each item in a mental map of the room. -->
+- [ ] B) Some furniture that is in the room
+  <!-- feedback: 'Some furniture that is in the room' names no item and no position, so nothing can be located. -->
+- [x] C) The useful pieces of the room
+  <!-- feedback: 'The useful pieces of the room' judges the furniture and still identifies neither object nor place. -->
+- [ ] D) Things placed around the walls
+  <!-- feedback: 'Things placed around the walls' is a general description of a perimeter and gives no way to find anything. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
----
-## Question 18 [D10]
+Spatial description depends on giving the reader coordinates: what the object is, where it stands, and what it sits next to or beneath. This is what makes a description usable rather than merely decorative, and it is why vague plurals such as 'things' and 'pieces' weaken a paragraph that is meant to be read as a guide.
+
+## Question 18 [D9]
 **ID:** ES-ING-11-2026-W35-writing-descriptive-paragraphs-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Two students write the same description of a hill town at dusk.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Version A: 'The town is pretty and nice at dusk.' Version B: 'At dusk the last light catches the terracotta roofs, and the church tower becomes a black shape against a violet sky.' Which sentence should the writer keep, and on what grounds?
 
 ### Opciones
-- [x] B) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement where a company pays compensation for a specified loss in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: Wrong. A 'warranty' covers a defective product for a limited time and is given by the maker, not for illness or death. -->
-- [ ] C) guarantee
-  <!-- feedback: Wrong. A 'guarantee' is a promise about the quality of a product or service, with no payment of a premium. -->
-- [ ] D) policy
-  <!-- feedback: Wrong. A 'policy' is the written document that records an insurance contract, not the practice of compensation itself. -->
+- [ ] A) Version B, because it renders the scene with images a reader can reconstruct
+  <!-- feedback: Correct! Colour, texture and silhouette give the reader a scene to reconstruct, which is the purpose of a descriptive paragraph. -->
+- [ ] B) Version A, because a short description is easier to read
+  <!-- feedback: 'Easier to read' would be a fair reason in a different context, but it does not make the sentence descriptive. -->
+- [ ] C) Version A, because 'pretty and nice' expresses a clear judgement
+  <!-- feedback: 'Pretty and nice' are general judgements that tell nothing about the place itself. -->
+- [x] D) Version B, because 'dusk' is a more precise word than 'night'
+  <!-- feedback: 'Dusk' is indeed precise, but the real strength of Version B lies in the concrete images, not in one time word. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
----
-## Question 19 [D9]
+A description earns its place by making a scene reconstructable. 'Pretty and nice' are evaluations that could apply to almost anything the writer likes, whereas terracotta, light on roofs and a tower against a violet sky could only be this town at this hour. Specificity is what separates description from praise.
+
+## Question 19 [D10]
 **ID:** ES-ING-11-2026-W35-writing-descriptive-paragraphs-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student is told to describe a city street in continuous present tense as if the reader is walking through it.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Which sentence maintains the continuous present consistently?
 
 ### Opciones
-- [x] A) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the administration of a vaccine that makes the immune system ready against a disease. -->
-- [ ] B) medication
-  <!-- feedback: Wrong. 'Medication' treats the symptoms of an illness you already have; it does not create immunity beforehand. -->
-- [ ] C) prescription
-  <!-- feedback: Wrong. A 'prescription' is the doctor's written order for a medicine, not the vaccine itself. -->
-- [ ] D) infection
-  <!-- feedback: Wrong. An 'infection' is the invasion of the body by a pathogen, which is the opposite of preventing it. -->
+- [x] A) You turn the corner and the market opens up in front of you.
+  <!-- feedback: Correct! Both clauses use the present simple, which is what the continuous present convention requires for a walk-through description. -->
+- [ ] B) You turn the corner and then the market opened in front of you.
+  <!-- feedback: 'Opened' shifts the second clause into the past, so the tense convention breaks in the middle of the sentence. -->
+- [ ] C) You are turning the corner and the market opens in front of you.
+  <!-- feedback: 'Are turning' is a progressive form, which the continuous present convention does not use here. -->
+- [ ] D) You turned the corner and the market opens up in front of you.
+  <!-- feedback: 'Turned' places the first action in the past while the second stays in the present, so the two halves do not match. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
----
+The continuous present describes an action unfolding now, and in a walk-through description it is realised with the present simple, not the progressive: 'you turn, you see, you hear'. Keeping the tense uniform across the whole passage is what makes the reader feel the movement as it happens.
+
 ## Question 20 [D10]
 **ID:** ES-ING-11-2026-W35-writing-descriptive-paragraphs-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A writer wants to check whether a descriptive paragraph still works after a student changes every 'grey' to 'greyish'.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+"The sky was greyish, the walls were greyish, and the water looked greyish." What has happened to the effect?
 
 ### Opciones
-- [x] A) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock caused by crossing several time zones in a flight. -->
-- [ ] B) fatigue
-  <!-- feedback: Wrong. 'Fatigue' is general tiredness from any cause, such as hard work, not specifically from time zones. -->
-- [ ] C) exhaustion
-  <!-- feedback: Wrong. 'Exhaustion' is extreme tiredness from physical effort or illness, not from a change of time zone. -->
-- [ ] D) insomnia
-  <!-- feedback: Wrong. 'Insomnia' is simply difficulty sleeping, which can come from many causes unrelated to flying. -->
+- [ ] A) The distinctions have been flattened, so every surface now seems almost the same
+  <!-- feedback: Correct! Replacing a precise term with a softened one everywhere removes the contrast between surfaces, so the scene loses its variety. -->
+- [x] B) The description has become more precise, because 'greyish' is the more literary word
+  <!-- feedback: 'More literary' is not a reason; a weakened adjective is weaker regardless of register, and here it also destroys the contrasts. -->
+- [ ] C) Nothing has changed, because 'greyish' and 'grey' mean exactly the same thing
+  <!-- feedback: 'Exactly the same' is wrong because 'greyish' means only slightly grey, so it is a genuinely different word. -->
+- [ ] D) The passage has become longer, so it is now a better description
+  <!-- feedback: 'Longer' is not the goal of description, and a longer paragraph with fewer distinctions is a poorer one. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Description depends on contrast: a light surface next to a dark one, a clean wall next to a stained one. A single adjective applied to every noun destroys exactly the differences that let the reader see the scene. Precision therefore means choosing the right word for each surface, not applying one gentle word everywhere.

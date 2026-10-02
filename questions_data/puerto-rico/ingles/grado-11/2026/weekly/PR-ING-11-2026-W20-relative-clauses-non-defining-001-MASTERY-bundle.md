@@ -20,463 +20,462 @@ bundle_index: 1
 # MASTERY Bundle - Ingles: Relative Clauses Non Defining (W20)
 **20 preguntas | Ingles | Curriculo de Ingles**
 
----
 ## Question 1 [D3]
 **ID:** PR-ING-11-2026-W20-relative-clauses-non-defining-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W20 de ingles, grado 11: ejercicio 1 de 20 sobre non-defining relative clauses.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Choose the sentence that uses commas correctly around a non-defining relative clause.
 
 ### Opciones
-- [x] C) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep. -->
-- [ ] B) entertainment
-  <!-- feedback: 'Entertainment' is the fun or activities you enjoy, not the building or room where you stay. -->
-- [ ] D) currency
-  <!-- feedback: 'Currency' is the money of a country, which has nothing to do with where you sleep. -->
+- [x] A) My sister, who lives in Ponce, is visiting us next week.
+  <!-- feedback: Correct! Both commas close around the extra information about the sister, which is not needed to identify her. -->
+- [ ] B) My sister who lives in Ponce is visiting us next week.
+  <!-- feedback: No. With no commas the clause becomes defining, and it would claim you have only one sister who lives in Ponce. -->
+- [ ] C) My sister, who lives in Ponce, is visiting us next week next week.
+  <!-- feedback: No. Repeating the time expression makes the sentence say the visit happens two times next week. -->
+- [ ] D) My sister who lives in Ponce, is visiting us next week.
+  <!-- feedback: No. A comma after the subject but not before the clause leaves the extra information badly marked. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+Both commas close around the extra information about the sister, which is not needed to identify her. In this item the choice that works is 'My sister, who lives in Ponce, is visiting us next week.', because it is the option that matches what the sentence and the task require.
 ---
 ## Question 2 [D4]
 **ID:** PR-ING-11-2026-W20-relative-clauses-non-defining-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W20 de ingles, grado 11: ejercicio 2 de 20 sobre non-defining relative clauses.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Which relative pronoun is normally used after a preposition in a non-defining relative clause?
 
 ### Opciones
-- [x] A) itinerary
-  <!-- feedback: Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route. -->
-- [ ] B) baggage
-  <!-- feedback: 'Baggage' is the suitcases and bags you travel with, not the written plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan. -->
-- [ ] D) passport
-  <!-- feedback: 'Passport' is the travel document that lets you cross a border, not the schedule of your trip. -->
+- [x] B) whom
+  <!-- feedback: Correct! After a preposition, the object form 'whom' is used for people in a non-defining clause. -->
+- [ ] A) who
+  <!-- feedback: No. 'Who' is the subject form and cannot follow a preposition in this position. -->
+- [ ] C) which
+  <!-- feedback: No. 'Which' refers to things and never to a person, so it cannot fill this slot. -->
+- [ ] D) what
+  <!-- feedback: No. 'What' cannot function as a relative pronoun after a preposition. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+After a preposition, the object form 'whom' is used for people in a non-defining clause. In this item the choice that works is 'whom', because it is the option that matches what the sentence and the task require.
 ---
-## Question 3 [D3]
+## Question 3 [D5]
 **ID:** PR-ING-11-2026-W20-relative-clauses-non-defining-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W20 de ingles, grado 11: ejercicio 3 de 20 sobre non-defining relative clauses.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Choose the correct non-defining clause to complete: 'The car, ___ was bought in 2015, is electric.'
 
 ### Opciones
-- [x] D) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'Departure' is the action of leaving, the opposite end of the journey from the destination. -->
-- [ ] B) arrival
-  <!-- feedback: 'Arrival' is the act of getting there; the place you arrive at is the destination. -->
-- [ ] C) journey
-  <!-- feedback: 'Journey' is the whole trip from start to finish, not the place you are heading to. -->
+- [x] C) which
+  <!-- feedback: Correct! The clause gives extra information about the car, and 'which' is the pronoun used for things in that role. -->
+- [ ] A) that
+  <!-- feedback: No. 'That' is not used in non-defining clauses, where the meaning would be ambiguous without the commas. -->
+- [ ] B) who
+  <!-- feedback: No. 'Who' refers to people, and a car is not a person. -->
+- [ ] D) whose
+  <!-- feedback: No. 'Whose' shows possession, but the sentence says nothing about who owns the car. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+The clause gives extra information about the car, and 'which' is the pronoun used for things in that role. In this item the choice that works is 'which', because it is the option that matches what the sentence and the task require.
 ---
-## Question 4 [D4]
+## Question 4 [D3]
 **ID:** PR-ING-11-2026-W20-relative-clauses-non-defining-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W20 de ingles, grado 11: ejercicio 4 de 20 sobre non-defining relative clauses.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+In which sentence is the comma correct because the clause is non-defining?
 
 ### Opciones
-- [x] D) luggage
-  <!-- feedback: Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip. -->
-- [ ] A) ticket
-  <!-- feedback: 'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself. -->
-- [ ] B) flight
-  <!-- feedback: 'Flight' is the journey by plane, or the plane itself; the bags are called luggage. -->
-- [ ] C) reservation
-  <!-- feedback: 'Reservation' is the booking you make for a seat or a room, not the bags you pack. -->
+- [x] D) Her brother, who is a chef, opened a small bakery in Old San Juan.
+  <!-- feedback: Correct! The clause 'who is a chef' is extra detail, so a comma is needed before and after it. -->
+- [ ] A) Her brother, who is a chef opened a small bakery in Old San Juan.
+  <!-- feedback: No. Only the opening comma is present, so the sentence never closes the extra information. -->
+- [ ] B) Her brother who is a chef, opened a small bakery in Old San Juan.
+  <!-- feedback: No. Only the closing comma is present, so the extra information is never properly opened. -->
+- [ ] C) Her brother, who is a chef, opened a small bakery, in Old San Juan.
+  <!-- feedback: No. The second comma separates a verb from its complement, which English does not do. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+The clause 'who is a chef' is extra detail, so a comma is needed before and after it. In this item the choice that works is 'Her brother, who is a chef, opened a small bakery in Old San Juan.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 5 [D5]
+## Question 5 [D4]
 **ID:** PR-ING-11-2026-W20-relative-clauses-non-defining-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W20 de ingles, grado 11: ejercicio 5 de 20 sobre non-defining relative clauses.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Which sentence contains a NON-defining relative clause, rather than a defining one?
 
 ### Opciones
-- [x] B) passenger
-  <!-- feedback: Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all. -->
-- [ ] C) commuter
-  <!-- feedback: 'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case. -->
-- [ ] D) tourist
-  <!-- feedback: 'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents. -->
+- [x] A) The concert, which was sold out in an hour, took place at the stadium.
+  <!-- feedback: Correct! Commas on both sides mark the clause as extra information about the concert, not the thing being named. -->
+- [ ] B) The concert that was sold out in an hour took place at the stadium.
+  <!-- feedback: No. Without commas the clause identifies which concert is meant, which makes it defining. -->
+- [ ] C) The concert, that was sold out in an hour, took place at the stadium.
+  <!-- feedback: No. 'That' cannot introduce a non-defining clause, so the commas are not enough to save it. -->
+- [ ] D) The concert which was sold out in an hour, took place at the stadium.
+  <!-- feedback: No. A single comma does not mark the clause as non-defining and leaves the sentence unbalanced. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+Commas on both sides mark the clause as extra information about the concert, not the thing being named. In this item the choice that works is 'The concert, which was sold out in an hour, took place at the stadium.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 6 [D6]
+## Question 6 [D5]
 **ID:** PR-ING-11-2026-W20-relative-clauses-non-defining-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W20 de ingles, grado 11: ejercicio 6 de 20 sobre non-defining relative clauses.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Choose the option that correctly completes the sentence with a non-defining clause: 'They moved to Trujillo, ___ the job was offered to her father.'
 
 ### Opciones
-- [x] D) customs
-  <!-- feedback: Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage. -->
-- [ ] A) security
-  <!-- feedback: 'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in. -->
-- [ ] B) terminal
-  <!-- feedback: 'Terminal' is the whole building where passengers wait, eat and catch their flights. -->
-- [ ] C) gate
-  <!-- feedback: 'Gate' is the particular door you board through, not the place where officials inspect your luggage. -->
+- [x] B) where
+  <!-- feedback: Correct! 'Where' introduces the place of the extra information, and a non-defining clause in a place sense takes 'where'. -->
+- [ ] A) which
+  <!-- feedback: No. 'Which' cannot stand for a place in this clause, and the commas do not allow it to. -->
+- [ ] C) that
+  <!-- feedback: No. 'That' is not used in non-defining clauses in standard English. -->
+- [ ] D) when
+  <!-- feedback: No. 'When' would give a time, but the sentence talks about a place, not a moment. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+'Where' introduces the place of the extra information, and a non-defining clause in a place sense takes 'where'. In this item the choice that works is 'where', because it is the option that matches what the sentence and the task require.
 ---
-## Question 7 [D5]
+## Question 7 [D3]
 **ID:** PR-ING-11-2026-W20-relative-clauses-non-defining-001-MASTERY-bundle-v7
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W20 de ingles, grado 11: ejercicio 7 de 20 sobre non-defining relative clauses.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+What is the effect of removing the commas from: 'The results, which were surprising, changed the plan.'
 
 ### Opciones
-- [x] B) boarding pass
-  <!-- feedback: Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board. -->
-- [ ] A) visa
-  <!-- feedback: 'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane. -->
-- [ ] C) receipt
-  <!-- feedback: 'Receipt' is the proof of payment for a purchase, not the travel document for boarding. -->
-- [ ] D) brochure
-  <!-- feedback: 'Brochure' is a small booklet of tourist information, not the document that lets you board. -->
+- [x] C) The clause becomes defining, so it would identify only the results that changed the plan.
+  <!-- feedback: Correct! Commas are what separate extra information from defining information, so taking them away changes the meaning. -->
+- [ ] A) The sentence becomes a question, because commas work like question marks.
+  <!-- feedback: No. Commas never create or remove interrogative structure; a question needs auxiliary inversion. -->
+- [ ] B) The clause becomes a passive voice construction with the auxiliary 'were'.
+  <!-- feedback: No. The passive voice is decided by the verb form 'were changed', not by punctuation. -->
+- [ ] D) The sentence keeps exactly the same meaning, since commas never change meaning in English.
+  <!-- feedback: No. Commas are meaning-bearing in English, which is exactly why the non-defining clause needs them. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+Commas are what separate extra information from defining information, so taking them away changes the meaning. In this item the choice that works is 'The clause becomes defining, so it would identify only the results that changed the plan.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 8 [D6]
+## Question 8 [D4]
 **ID:** PR-ING-11-2026-W20-relative-clauses-non-defining-001-MASTERY-bundle-v8
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W20 de ingles, grado 11: ejercicio 8 de 20 sobre non-defining relative clauses.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Which relative adverb is correct for a non-defining clause about time?
 
 ### Opciones
-- [x] A) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' is the activity of visiting the places of interest in a location. -->
-- [ ] B) shopping
-  <!-- feedback: 'Shopping' is buying things in stores, which is not the same as visiting the sights of a place. -->
-- [ ] C) hiking
-  <!-- feedback: 'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions. -->
-- [ ] D) camping
-  <!-- feedback: 'Camping' is staying outdoors in a tent, not visiting the sights of a location. -->
+- [x] D) when
+  <!-- feedback: Correct! 'When' introduces a clause of time, and in non-defining clauses it normally follows a comma. -->
+- [ ] A) how
+  <!-- feedback: No. 'How' introduces manner or means, never a point in time. -->
+- [ ] B) why
+  <!-- feedback: No. 'Why' introduces a reason, which would need the word 'because' to work here. -->
+- [ ] C) where
+  <!-- feedback: No. 'Where' introduces a place, so it cannot complete a clause about time. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+'When' introduces a clause of time, and in non-defining clauses it normally follows a comma. In this item the choice that works is 'when', because it is the option that matches what the sentence and the task require.
 ---
 ## Question 9 [D5]
 **ID:** PR-ING-11-2026-W20-relative-clauses-non-defining-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W20 de ingles, grado 11: ejercicio 9 de 20 sobre non-defining relative clauses.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Choose the sentence with the correct use of a non-defining clause in the possessive form.
 
 ### Opciones
-- [x] D) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited. -->
-- [ ] A) gift
-  <!-- feedback: 'Gift' is something you give to another person; a souvenir is kept by the person who took the trip. -->
-- [ ] B) award
-  <!-- feedback: 'Award' is a prize given for an achievement, not an object bought or kept as a memory. -->
-- [ ] C) prize
-  <!-- feedback: 'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey. -->
+- [x] A) Her parents, whose house has a mango tree, live in Guayama.
+  <!-- feedback: Correct! 'Whose' shows possession of the house, and the commas mark the whole clause as extra information. -->
+- [ ] B) Her parents, who house has a mango tree, live in Guayama.
+  <!-- feedback: No. 'Who house' is not a valid subject and verb combination; 'whose' is required before a noun. -->
+- [ ] C) Her parents who house has a mango tree, live in Guayama.
+  <!-- feedback: No. Only one comma is used, so the extra information is never closed, and 'who' is wrong anyway. -->
+- [ ] D) Her parents, whose have a mango tree, live in Guayama.
+  <!-- feedback: No. 'Whose' cannot stand alone; it must be followed by the noun it modifies. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+'Whose' shows possession of the house, and the commas mark the whole clause as extra information. In this item the choice that works is 'Her parents, whose house has a mango tree, live in Guayama.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 10 [D6]
+## Question 10 [D3]
 **ID:** PR-ING-11-2026-W20-relative-clauses-non-defining-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W20 de ingles, grado 11: ejercicio 10 de 20 sobre non-defining relative clauses.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Which sentence uses a non-defining clause correctly with a preposition?
 
 ### Opciones
-- [x] D) delay
-  <!-- feedback: Correct! A 'delay' is the extra time by which something ends up late or gets postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: 'Cancellation' means the event does not happen at all, not that it happens later than planned. -->
-- [ ] B) departure
-  <!-- feedback: 'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost. -->
-- [ ] C) arrival
-  <!-- feedback: 'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination. -->
+- [x] B) The team, which we had travelled with, finally won the match.
+  <!-- feedback: Correct! The preposition 'with' sits inside the non-defining clause before the subject pronoun 'we', which is the correct word order. -->
+- [ ] A) The team, with we had travelled, finally won the match.
+  <!-- feedback: No. After a preposition the object form 'me' is needed, not the subject 'we'. -->
+- [ ] C) The team, which we had travelled with finally won the match.
+  <!-- feedback: No. The closing comma after 'with' is missing, so the extra information is not marked off. -->
+- [ ] D) The team which we had travelled with finally won the match.
+  <!-- feedback: No. Without commas the clause would define the team instead of adding extra detail about it. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+The preposition 'with' sits inside the non-defining clause before the subject pronoun 'we', which is the correct word order. In this item the choice that works is 'The team, which we had travelled with, finally won the match.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 11 [D7]
+## Question 11 [D4]
 **ID:** PR-ING-11-2026-W20-relative-clauses-non-defining-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W20 de ingles, grado 11: ejercicio 11 de 20 sobre non-defining relative clauses.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+In a non-defining clause about a person, which pronoun form is correct after the verb 'to'?
 
 ### Opciones
-- [x] C) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter. -->
-- [ ] A) check-out
-  <!-- feedback: 'Check-out' is the opposite moment, when you leave the hotel or hand back the room. -->
-- [ ] B) booking
-  <!-- feedback: 'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in. -->
-- [ ] D) reservation
-  <!-- feedback: 'Reservation' is the booking document, not the act of reporting your presence at the desk. -->
+- [x] C) I called the doctor, to whom I explained the whole problem.
+  <!-- feedback: Correct! After the preposition 'to', a non-defining clause referring to a person takes 'whom'. -->
+- [ ] A) I called the doctor, to who I explained the whole problem.
+  <!-- feedback: No. 'Who' is the subject form and cannot follow a preposition in a relative clause. -->
+- [ ] B) I called the doctor, to which I explained the whole problem.
+  <!-- feedback: No. 'Which' refers to things, and a doctor is a person, so the pronoun cannot be 'which'. -->
+- [ ] D) I called the doctor, to that I explained the whole problem.
+  <!-- feedback: No. 'That' cannot be preceded by a preposition to form a relative pronoun in this clause. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+After the preposition 'to', a non-defining clause referring to a person takes 'whom'. In this item the choice that works is 'I called the doctor, to whom I explained the whole problem.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 12 [D8]
+## Question 12 [D5]
 **ID:** PR-ING-11-2026-W20-relative-clauses-non-defining-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W20 de ingles, grado 11: ejercicio 12 de 20 sobre non-defining relative clauses.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Which option correctly adds non-defining information about the subject 'The lecture'?
 
 ### Opciones
-- [x] C) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights. -->
-- [ ] B) transfer
-  <!-- feedback: 'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting. -->
-- [ ] D) transit
-  <!-- feedback: 'Transit' is a system of moving people and goods through a city, not a break between two flights. -->
+- [x] D) The lecture, which lasted three hours, covered the entire syllabus.
+  <!-- feedback: Correct! Both commas are present and 'which' is allowed in a non-defining clause about a thing. -->
+- [ ] A) The lecture, that lasted three hours, covered the entire syllabus.
+  <!-- feedback: No. 'That' is not used to introduce non-defining clauses in standard English. -->
+- [ ] B) The lecture which lasted three hours, covered the entire syllabus.
+  <!-- feedback: No. The opening comma is missing, so the clause merges into the main sentence. -->
+- [ ] C) The lecture, which lasted three hours covered the entire syllabus.
+  <!-- feedback: No. The closing comma is missing after 'hours', so the extra information is not properly closed. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+Both commas are present and 'which' is allowed in a non-defining clause about a thing. In this item the choice that works is 'The lecture, which lasted three hours, covered the entire syllabus.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 13 [D7]
+## Question 13 [D3]
 **ID:** PR-ING-11-2026-W20-relative-clauses-non-defining-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W20 de ingles, grado 11: ejercicio 13 de 20 sobre non-defining relative clauses.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Which sentence is punctuated correctly and keeps the extra information clearly separate?
 
 ### Opciones
-- [x] A) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] B) coin
-  <!-- feedback: 'Coin' is a single metal piece of money, one item within the currency, not the whole system. -->
-- [ ] C) banknote
-  <!-- feedback: 'Banknote' is a paper bill, one item of the currency rather than the system of money itself. -->
-- [ ] D) cash
-  <!-- feedback: 'Cash' means money in the physical form you hold, not the money system of a country. -->
+- [x] A) The bridge, which was built in 1950, is the oldest one in the town.
+  <!-- feedback: Correct! The comma pair surrounds 'which was built in 1950', marking it as non-defining extra information. -->
+- [ ] B) The bridge which was built in 1950, is the oldest one in the town.
+  <!-- feedback: No. The comma is in the wrong place; both commas must surround the whole relative clause. -->
+- [ ] C) The bridge, which was built in 1950 is the oldest one in the town.
+  <!-- feedback: No. The comma before 'which' has no matching comma to close the extra information. -->
+- [ ] D) The bridge which was built in 1950 is the oldest one in the town.
+  <!-- feedback: No. With no commas the clause would identify which bridge is meant, making it a defining clause. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+The comma pair surrounds 'which was built in 1950', marking it as non-defining extra information. In this item the choice that works is 'The bridge, which was built in 1950, is the oldest one in the town.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 14 [D8]
+## Question 14 [D4]
 **ID:** PR-ING-11-2026-W20-relative-clauses-non-defining-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W20 de ingles, grado 11: ejercicio 14 de 20 sobre non-defining relative clauses.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+What kind of information does a non-defining relative clause usually add?
 
 ### Opciones
-- [x] C) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for visitors and tourists. -->
-- [ ] A) map
-  <!-- feedback: 'Map' is a single sheet or screen showing the layout of a place, not a book of information. -->
-- [ ] B) dictionary
-  <!-- feedback: 'Dictionary' is a book of word definitions of a language, not information about a place for visitors. -->
-- [ ] D) encyclopedia
-  <!-- feedback: 'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place. -->
+- [x] B) Extra detail about something already identified, which the reader could do without.
+  <!-- feedback: Correct! Non-defining clauses add optional detail and always sit between two commas. -->
+- [ ] A) The essential detail needed to identify exactly which thing is meant.
+  <!-- feedback: No. Essential identifying detail is what defines a defining relative clause, which takes no commas. -->
+- [ ] C) A list of every other object that appears in the same sentence.
+  <!-- feedback: No. A relative clause carries one verb of its own; it does not list other objects. -->
+- [ ] D) A second main verb that must agree with the subject of the main clause.
+  <!-- feedback: No. Agreement of the main verb depends on the subject alone, not on any extra clause. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+Non-defining clauses add optional detail and always sit between two commas. In this item the choice that works is 'Extra detail about something already identified, which the reader could do without.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 15 [D7]
+## Question 15 [D5]
 **ID:** PR-ING-11-2026-W20-relative-clauses-non-defining-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W20 de ingles, grado 11: ejercicio 15 de 20 sobre non-defining relative clauses.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Choose the option in which the clause is correctly non-defining and refers to a person.
 
 ### Opciones
-- [x] D) backpack
-  <!-- feedback: Correct! A 'backpack' is the bag with shoulder straps that you carry on your back. -->
-- [ ] A) suitcase
-  <!-- feedback: 'Suitcase' is a case with a handle that you pull along, not a bag worn on the back. -->
-- [ ] B) briefcase
-  <!-- feedback: 'Briefcase' is a case for documents and a laptop, carried in the hand for work. -->
-- [ ] C) handbag
-  <!-- feedback: 'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps. -->
+- [x] C) Sofia, who designed the poster, is graduating in June.
+  <!-- feedback: Correct! 'Who' is the subject pronoun for a person in a non-defining clause, and both commas are present. -->
+- [ ] A) Sofia who designed the poster, is graduating in June.
+  <!-- feedback: No. 'Whom' is the object form and cannot act as the subject of the clause verb 'designed'. -->
+- [ ] B) Sofia, whom designed the poster, is graduating in June.
+  <!-- feedback: No. 'That' is not used for people in relative clauses in standard English. -->
+- [ ] D) Sofia, that designed the poster, is graduating in June.
+  <!-- feedback: No. Only the opening comma is present, so the extra information is never closed. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+'Who' is the subject pronoun for a person in a non-defining clause, and both commas are present. In this item the choice that works is 'Sofia, who designed the poster, is graduating in June.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 16 [D8]
+## Question 16 [D3]
 **ID:** PR-ING-11-2026-W20-relative-clauses-non-defining-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W20 de ingles, grado 11: ejercicio 16 de 20 sobre non-defining relative clauses.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Which sentence correctly uses 'which' to refer to a whole preceding idea rather than to a single noun?
 
 ### Opciones
-- [x] B) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'Domestic' means inside your own country, the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: 'Local' means in the area where you are, even more restricted than domestic; it never crosses a border. -->
-- [ ] D) national
-  <!-- feedback: 'National' refers to a whole country without saying it is foreign, so it does not imply going abroad. -->
+- [x] D) She trained for months, which finally paid off in the competition.
+  <!-- feedback: Correct! 'Which' can stand for the whole preceding clause, and this use requires non-defining commas. -->
+- [ ] A) She trained for months, that finally paid off in the competition.
+  <!-- feedback: No. 'That' cannot introduce a clause that refers back to a whole idea. -->
+- [ ] B) She trained for months, what finally paid off in the competition.
+  <!-- feedback: No. 'What' cannot act as a relative pronoun in this position. -->
+- [ ] C) She trained for months, it finally paid off in the competition.
+  <!-- feedback: No. 'It' is a personal pronoun and cannot refer back to a previous clause in English. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+'Which' can stand for the whole preceding clause, and this use requires non-defining commas. In this item the choice that works is 'She trained for months, which finally paid off in the competition.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 17 [D9]
+## Question 17 [D4]
 **ID:** PR-ING-11-2026-W20-relative-clauses-non-defining-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W20 de ingles, grado 11: ejercicio 17 de 20 sobre non-defining relative clauses.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Choose the sentence with a non-defining clause in the object position that is punctuated correctly.
 
 ### Opciones
-- [x] B) budget
-  <!-- feedback: Correct! A 'budget' is the estimate of income and expenditure planned for a set period. -->
-- [ ] A) expense
-  <!-- feedback: 'Expense' is a single cost already paid; the definition is the estimate for the whole period. -->
-- [ ] C) cost
-  <!-- feedback: 'Cost' is the price of one thing, whereas a budget covers all income and all spending. -->
-- [ ] D) price
-  <!-- feedback: 'Price' is the amount a single item costs, not a plan of income and expenditure over time. -->
+- [x] A) The recipe I found online, which my sister sent me, has no measurements.
+  <!-- feedback: Correct! The object clause 'which my sister sent me' is closed by a comma on both sides, as a non-defining clause must be. -->
+- [ ] B) The recipe I found online which my sister sent me, has no measurements.
+  <!-- feedback: No. 'Which my sister sent me' is closing-comma missing, so the extra information is not marked off. -->
+- [ ] C) The recipe, I found online, which my sister sent me has no measurements.
+  <!-- feedback: No. 'The recipe, I found online' inserts a comma between the subject and its verb, which is wrong in English. -->
+- [ ] D) The recipe I found online, which my sister sent me has no measurements.
+  <!-- feedback: No. Only the opening comma is present; a non-defining clause needs the pair. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+The object clause 'which my sister sent me' is closed by a comma on both sides, as a non-defining clause must be. In this item the choice that works is 'The recipe I found online, which my sister sent me, has no measurements.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 18 [D10]
+## Question 18 [D5]
 **ID:** PR-ING-11-2026-W20-relative-clauses-non-defining-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W20 de ingles, grado 11: ejercicio 18 de 20 sobre non-defining relative clauses.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Which sentence correctly uses a non-defining clause to add information about a place?
 
 ### Opciones
-- [x] A) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium. -->
-- [ ] B) warranty
-  <!-- feedback: 'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract. -->
-- [ ] C) guarantee
-  <!-- feedback: 'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium. -->
-- [ ] D) policy
-  <!-- feedback: 'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance. -->
+- [x] B) The cafe, which overlooks the plaza, serves breakfast until noon.
+  <!-- feedback: Correct! 'Which' is permitted in a non-defining clause about a place, and both commas are correctly placed. -->
+- [ ] A) The cafe, that overlooks the plaza, serves breakfast until noon.
+  <!-- feedback: No. 'That' is not used in non-defining clauses, so the comma pair cannot rescue it. -->
+- [ ] C) The cafe which overlooks the plaza, serves breakfast until noon.
+  <!-- feedback: No. The comma must come before 'which' as well as after the clause. -->
+- [ ] D) The cafe, which overlooks the plaza serves breakfast until noon.
+  <!-- feedback: No. The closing comma is missing, so 'which overlooks the plaza' runs into the main clause. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+'Which' is permitted in a non-defining clause about a place, and both commas are correctly placed. In this item the choice that works is 'The cafe, which overlooks the plaza, serves breakfast until noon.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 19 [D9]
+## Question 19 [D3]
 **ID:** PR-ING-11-2026-W20-relative-clauses-non-defining-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W20 de ingles, grado 11: ejercicio 19 de 20 sobre non-defining relative clauses.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Why can a non-defining relative clause never begin with the word 'that' in standard written English?
 
 ### Opciones
-- [x] B) vaccination
-  <!-- feedback: Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one. -->
-- [ ] C) prescription
-  <!-- feedback: 'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself. -->
-- [ ] D) infection
-  <!-- feedback: 'Infection' is the state of having the disease; vaccination is what protects you before you get it. -->
+- [x] C) Because 'that' introduces only defining clauses, which need no surrounding commas.
+  <!-- feedback: Correct! Restrictive clauses use 'that', and it is precisely those defining clauses that take no commas. -->
+- [ ] A) Because 'that' is a preposition and cannot follow the comma in this position.
+  <!-- feedback: No. 'That' is a determiner and a conjunction here, never a preposition before a clause. -->
+- [ ] B) Because a clause starting with 'that' must always be a question in inverted order.
+  <!-- feedback: No. A 'that' clause is not a question and shows no auxiliary inversion. -->
+- [ ] D) Because 'that' can only refer to objects and never to the subject of the sentence.
+  <!-- feedback: No. 'That' refers to people or things equally in defining clauses; it is not limited to objects. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+Restrictive clauses use 'that', and it is precisely those defining clauses that take no commas. In this item the choice that works is 'Because 'that' introduces only defining clauses, which need no surrounding commas.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 20 [D10]
+## Question 20 [D4]
 **ID:** PR-ING-11-2026-W20-relative-clauses-non-defining-001-MASTERY-bundle-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W20 de ingles, grado 11: ejercicio 20 de 20 sobre non-defining relative clauses.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Choose the version that keeps the extra information non-defining and the commas balanced.
 
 ### Opciones
-- [x] A) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones. -->
-- [ ] B) fatigue
-  <!-- feedback: 'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones. -->
-- [ ] C) exhaustion
-  <!-- feedback: 'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect. -->
-- [ ] D) insomnia
-  <!-- feedback: 'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock. -->
+- [x] D) The storm, which damaged two neighborhoods, happened during the night.
+  <!-- feedback: Correct! The commas enclose the whole clause 'which damaged two neighborhoods', leaving the main clause intact. -->
+- [ ] A) The storm which damaged two neighborhoods, happened during the night.
+  <!-- feedback: No. Only the closing comma is present, so the extra information is never opened. -->
+- [ ] B) The storm, which damaged two neighborhoods happened during the night.
+  <!-- feedback: No. The comma after 'neighborhoods' is missing, so the clause runs straight into the verb. -->
+- [ ] C) The storm which damaged two neighborhoods happened during the night.
+  <!-- feedback: No. With no commas the clause defines the storm instead of adding optional detail. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+The commas enclose the whole clause 'which damaged two neighborhoods', leaving the main clause intact. In this item the choice that works is 'The storm, which damaged two neighborhoods, happened during the night.', because it is the option that matches what the sentence and the task require.

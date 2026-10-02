@@ -22,461 +22,481 @@ bundle_index: 1
 
 ---
 ## Question 1 [D3]
-**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-v1
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-bundle-v1
+**Bloom:** Understand
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** There are a few chairs left in the classroom, but not many.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+There ___ some chairs left in the classroom.
 
 ### Opciones
-- [x] C) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep. -->
-- [ ] B) entertainment
-  <!-- feedback: 'Entertainment' is the fun or activities you enjoy, not the building or room where you stay. -->
-- [ ] D) currency
-  <!-- feedback: 'Currency' is the money of a country, which has nothing to do with where you sleep. -->
+- [x] A) are
+  <!-- feedback: Correct! 'Some' follows a plural noun, so the verb must be 'are', and the quantifier states that a limited number of chairs remains. -->
+- [ ] B) is
+  <!-- feedback: No. 'is' is singular and 'chairs' is a plural noun, so the sentence would break the agreement between subject and verb. -->
+- [ ] C) have
+  <!-- feedback: No. 'have' is the auxiliary of the perfect tenses and has no plural agreement here; the simple present needs a form of 'be'. -->
+- [ ] D) has
+  <!-- feedback: No. 'has' is singular and belongs to the third person of the present perfect, which is not the structure of this sentence. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+When a quantifier such as some is followed by a plural noun, the verb agrees with that noun and takes the plural form. The choice of quantifier and the choice of verb are two separate decisions that students often confuse.
 ---
-## Question 2 [D4]
-**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-v2
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+
+## Question 2 [D3]
+**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-bundle-v2
+**Bloom:** Apply
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The student asked whether there were any tickets left for the evening show.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+The student asked whether there ___ any tickets left for the evening show.
 
 ### Opciones
-- [x] C) itinerary
-  <!-- feedback: Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route. -->
-- [ ] A) baggage
-  <!-- feedback: 'Baggage' is the suitcases and bags you travel with, not the written plan of the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan. -->
-- [ ] D) passport
-  <!-- feedback: 'Passport' is the travel document that lets you cross a border, not the schedule of your trip. -->
+- [ ] A) was
+  <!-- feedback: No. 'was' is singular and 'tickets' is plural, so the agreement between the verb and the quantified noun is broken. -->
+- [ ] B) is
+  <!-- feedback: No. 'is' is the singular present form and does not agree with a plural noun in any tense. -->
+- [ ] C) has been
+  <!-- feedback: No. 'has been' is a passive auxiliary and there is no passive construction in this sentence about how many tickets remain. -->
+- [x] D) were
+  <!-- feedback: Correct! In a negative or interrogative clause 'any' is used, and with the plural noun 'tickets' the verb is the past plural 'were'. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+Any is the quantifier used in questions and in negatives, because it points to an unknown quantity. With a plural noun it takes a plural verb, so the interrogative clause reads there were any tickets rather than there was any ticket.
 ---
+
 ## Question 3 [D3]
-**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-v3
+**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** She does not have much time before the exam begins.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+She does not have ___ time before the exam begins.
 
 ### Opciones
-- [x] D) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'Departure' is the action of leaving, the opposite end of the journey from the destination. -->
-- [ ] B) arrival
-  <!-- feedback: 'Arrival' is the act of getting there; the place you arrive at is the destination. -->
-- [ ] C) journey
-  <!-- feedback: 'Journey' is the whole trip from start to finish, not the place you are heading to. -->
+- [x] A) much
+  <!-- feedback: Correct! 'Much' is the quantifier for uncountable nouns, and in a negative clause it strengthens the sense of absence. -->
+- [ ] B) many
+  <!-- feedback: No. 'Many' is used with countable plural nouns, and 'time' here is uncountable, so 'many' cannot appear in front of it. -->
+- [ ] C) a few
+  <!-- feedback: No. 'A few' quantifies countable plural items such as chairs or tickets, and 'time' is not countable in this use. -->
+- [ ] D) a little
+  <!-- feedback: No. 'A little' quantifies a small positive amount, and the negative context of the sentence makes it inconsistent. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+Countable and uncountable nouns take different quantifier families: many, few and a few for countable, much and little for uncountable. Choosing the right family is what makes the sentence acceptable in both affirmative and negative contexts.
 ---
+
 ## Question 4 [D4]
-**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-v4
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
-
-### Opciones
-- [x] C) luggage
-  <!-- feedback: Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip. -->
-- [ ] A) ticket
-  <!-- feedback: 'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself. -->
-- [ ] B) flight
-  <!-- feedback: 'Flight' is the journey by plane, or the plane itself; the bags are called luggage. -->
-- [ ] D) reservation
-  <!-- feedback: 'Reservation' is the booking you make for a seat or a room, not the bags you pack. -->
-
-### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
----
-## Question 5 [D5]
-**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-v5
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
-
-### Opciones
-- [x] C) passenger
-  <!-- feedback: Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all. -->
-- [ ] B) commuter
-  <!-- feedback: 'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case. -->
-- [ ] D) tourist
-  <!-- feedback: 'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents. -->
-
-### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
-## Question 6 [D6]
-**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-v6
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
-
-### Opciones
-- [x] A) customs
-  <!-- feedback: Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage. -->
-- [ ] B) security
-  <!-- feedback: 'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in. -->
-- [ ] C) terminal
-  <!-- feedback: 'Terminal' is the whole building where passengers wait, eat and catch their flights. -->
-- [ ] D) gate
-  <!-- feedback: 'Gate' is the particular door you board through, not the place where officials inspect your luggage. -->
-
-### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
-## Question 7 [D5]
-**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-v7
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
-
-### Opciones
-- [x] C) boarding pass
-  <!-- feedback: Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board. -->
-- [ ] A) visa
-  <!-- feedback: 'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane. -->
-- [ ] B) receipt
-  <!-- feedback: 'Receipt' is the proof of payment for a purchase, not the travel document for boarding. -->
-- [ ] D) brochure
-  <!-- feedback: 'Brochure' is a small booklet of tourist information, not the document that lets you board. -->
-
-### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
----
-## Question 8 [D6]
-**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-v8
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
-
-### Opciones
-- [x] B) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' is the activity of visiting the places of interest in a location. -->
-- [ ] A) shopping
-  <!-- feedback: 'Shopping' is buying things in stores, which is not the same as visiting the sights of a place. -->
-- [ ] C) hiking
-  <!-- feedback: 'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions. -->
-- [ ] D) camping
-  <!-- feedback: 'Camping' is staying outdoors in a tent, not visiting the sights of a location. -->
-
-### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
----
-## Question 9 [D5]
-**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
-
-### Opciones
-- [x] C) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited. -->
-- [ ] A) gift
-  <!-- feedback: 'Gift' is something you give to another person; a souvenir is kept by the person who took the trip. -->
-- [ ] B) award
-  <!-- feedback: 'Award' is a prize given for an achievement, not an object bought or kept as a memory. -->
-- [ ] D) prize
-  <!-- feedback: 'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey. -->
-
-### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
----
-## Question 10 [D6]
-**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-v10
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
-
-### Opciones
-- [x] D) delay
-  <!-- feedback: Correct! A 'delay' is the extra time by which something ends up late or gets postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: 'Cancellation' means the event does not happen at all, not that it happens later than planned. -->
-- [ ] B) departure
-  <!-- feedback: 'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost. -->
-- [ ] C) arrival
-  <!-- feedback: 'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination. -->
-
-### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
----
-## Question 11 [D7]
-**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-v11
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
-
-### Opciones
-- [x] D) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter. -->
-- [ ] A) check-out
-  <!-- feedback: 'Check-out' is the opposite moment, when you leave the hotel or hand back the room. -->
-- [ ] B) booking
-  <!-- feedback: 'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in. -->
-- [ ] C) reservation
-  <!-- feedback: 'Reservation' is the booking document, not the act of reporting your presence at the desk. -->
-
-### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
----
-## Question 12 [D8]
-**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
-
-### Opciones
-- [x] D) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights. -->
-- [ ] B) transfer
-  <!-- feedback: 'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting. -->
-- [ ] C) transit
-  <!-- feedback: 'Transit' is a system of moving people and goods through a city, not a break between two flights. -->
-
-### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
----
-## Question 13 [D7]
-**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-v13
+**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-bundle-v4
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** How many students have already submitted the project outline?
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+___ students have already submitted the project outline?
 
 ### Opciones
-- [x] B) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: 'Coin' is a single metal piece of money, one item within the currency, not the whole system. -->
-- [ ] C) banknote
-  <!-- feedback: 'Banknote' is a paper bill, one item of the currency rather than the system of money itself. -->
-- [ ] D) cash
-  <!-- feedback: 'Cash' means money in the physical form you hold, not the money system of a country. -->
+- [x] A) How many
+  <!-- feedback: Correct! 'How many' is the interrogative quantifier for countable plural nouns, and it is written as two words at the start of the question. -->
+- [ ] B) Much
+  <!-- feedback: No. 'Much' quantifies uncountable nouns and cannot stand in front of a countable plural such as 'students'. -->
+- [ ] C) Few
+  <!-- feedback: No. 'Few' is not used to open a direct question about a quantity; English uses 'how many' in that slot. -->
+- [ ] D) Little
+  <!-- feedback: No. 'Little' quantifies an uncountable noun and has no plural form, so it cannot agree with 'students'. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+Interrogative quantities are formed with how plus a quantifier: how many for countable plurals and how much for uncountable nouns. They always begin the question and they never change form to agree with the noun that follows.
 ---
-## Question 14 [D8]
-**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-v14
+
+## Question 5 [D3]
+**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-bundle-v5
+**Bloom:** Apply
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** There is little water left in the tank after the long dry season.
+
+### Enunciado
+There ___ water left in the tank after the long dry season.
+
+### Opciones
+- [ ] A) are little
+  <!-- feedback: No. 'are' is plural and would not agree with the singular mass noun 'water', which is treated as one thing. -->
+- [x] B) is little
+  <!-- feedback: Correct! With the uncountable noun 'water' the singular verb 'is' is used, and 'little' marks a very small quantity. -->
+- [ ] C) is few
+  <!-- feedback: No. 'Few' belongs to the countable family and cannot quantify an uncountable noun such as water. -->
+- [ ] D) are few
+  <!-- feedback: No. The noun is uncountable and the verb is plural here, so both decisions are wrong at once. -->
+
+### Explicacion Pedagogica
+Uncountable nouns take a singular verb because a mass noun is treated as a single unit for agreement. The quantifier that goes with it comes from the little family, and the same noun would also accept much or a little in other contexts.
+---
+
+## Question 6 [D4]
+**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The students had few opportunities to practise the skill in real conditions.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+The students had ___ opportunities to practise the skill in real conditions.
 
 ### Opciones
-- [x] D) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for visitors and tourists. -->
-- [ ] A) map
-  <!-- feedback: 'Map' is a single sheet or screen showing the layout of a place, not a book of information. -->
-- [ ] B) dictionary
-  <!-- feedback: 'Dictionary' is a book of word definitions of a language, not information about a place for visitors. -->
-- [ ] C) encyclopedia
-  <!-- feedback: 'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place. -->
+- [ ] A) much
+  <!-- feedback: No. 'much' quantifies uncountable nouns and 'opportunities' is a countable plural, so the quantifier belongs to the wrong family. -->
+- [ ] B) a few
+  <!-- feedback: No. 'a few' marks a small positive number, and the sentence is about a situation where almost none were available. -->
+- [x] C) few
+  <!-- feedback: Correct! 'Few' with a plural noun is negative in meaning, and it agrees here with the plural 'opportunities' that follows it. -->
+- [ ] D) little
+  <!-- feedback: No. 'little' quantifies an uncountable noun and cannot stand in front of a countable plural. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+Few and a few differ in judgement rather than in grammar. Both take plural nouns, but few suggests the quantity is disappointingly small while a few suggests it is satisfactory, and the context decides which one the speaker intends.
 ---
-## Question 15 [D7]
-**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-v15
+
+## Question 7 [D4]
+**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-bundle-v7
+**Bloom:** Evaluate
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** How much does the new laboratory equipment cost?
+
+### Enunciado
+___ does the new laboratory equipment cost?
+
+### Opciones
+- [ ] A) How many
+  <!-- feedback: No. 'How many' is used with countable plural nouns, and 'equipment' is uncountable in this sentence. -->
+- [ ] B) How long
+  <!-- feedback: No. 'How long' asks about duration or length, and the sentence asks about a price. -->
+- [x] C) How much
+  <!-- feedback: Correct! 'How much' is the interrogative quantifier for uncountable nouns, and 'equipment' behaves as one mass noun here. -->
+- [ ] D) How far
+  <!-- feedback: No. 'How far' asks about distance, which has nothing to do with the cost of the equipment. -->
+
+### Explicacion Pedagogica
+Choosing between how many and how much depends entirely on the noun that follows. Words such as equipment, information, furniture and advice are uncountable even when they look like plurals, so they take how much.
+---
+
+## Question 8 [D4]
+**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-bundle-v8
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** He has very little experience with the software that the company uses.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+He has very ___ experience with the software that the company uses.
 
 ### Opciones
-- [x] A) backpack
-  <!-- feedback: Correct! A 'backpack' is the bag with shoulder straps that you carry on your back. -->
-- [ ] B) suitcase
-  <!-- feedback: 'Suitcase' is a case with a handle that you pull along, not a bag worn on the back. -->
-- [ ] C) briefcase
-  <!-- feedback: 'Briefcase' is a case for documents and a laptop, carried in the hand for work. -->
-- [ ] D) handbag
-  <!-- feedback: 'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps. -->
+- [ ] A) few
+  <!-- feedback: No. 'Few' requires a plural countable noun, and 'experience' here is an uncountable mass noun. -->
+- [ ] B) many
+  <!-- feedback: No. 'Many' also requires a plural countable noun and cannot quantify an abstract mass noun such as experience. -->
+- [ ] C) a few
+  <!-- feedback: No. 'a few' suggests a small but sufficient number, and the sentence says he has hardly any experience at all. -->
+- [x] D) little
+  <!-- feedback: Correct! 'Little' quantifies an uncountable noun and, with 'very' before it, marks an amount close to zero. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+Abstract nouns such as experience, knowledge, advice and progress are uncountable and take the little and much family. The intensifier 'very' strengthens the sense of scarcity without changing the grammatical category of the quantifier.
 ---
-## Question 16 [D8]
-**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-v16
+
+## Question 9 [D4]
+**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-bundle-v9
+**Bloom:** Apply
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The school bought a lot of new equipment for the laboratories last term.
+
+### Enunciado
+The school bought a ___ of new equipment for the laboratories last term.
+
+### Opciones
+- [ ] A) many
+  <!-- feedback: No. 'many' requires a plural countable noun, and 'equipment' is uncountable, so the phrase cannot be built this way. -->
+- [ ] B) few
+  <!-- feedback: No. 'a few of' would need a plural noun and would also suggest a small quantity, which is the opposite of what the sentence reports. -->
+- [x] C) lot
+  <!-- feedback: Correct! 'A lot of' works with both countable and uncountable nouns, and here it modifies the uncountable noun 'equipment'. -->
+- [ ] D) little
+  <!-- feedback: No. 'a little of' would suggest a small amount of an uncountable noun, and the verb 'bought' points to a large acquisition. -->
+
+### Explicacion Pedagogica
+A lot of and lots of are the most flexible quantifiers in English because they accept countable and uncountable nouns alike. They are often preferred in speech to many and much, and they need no adjustment of the verb that follows.
+---
+
+## Question 10 [D4]
+**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-bundle-v10
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The council said that none of the complaints had been answered yet.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+___ of the complaints had been answered when the council spoke.
 
 ### Opciones
-- [x] D) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'Domestic' means inside your own country, the opposite of overseas. -->
-- [ ] B) local
-  <!-- feedback: 'Local' means in the area where you are, even more restricted than domestic; it never crosses a border. -->
-- [ ] C) national
-  <!-- feedback: 'National' refers to a whole country without saying it is foreign, so it does not imply going abroad. -->
+- [x] A) None
+  <!-- feedback: Correct! 'None of' takes a plural noun phrase and agrees with the plural passive 'had been answered', stating that not one complaint was dealt with. -->
+- [ ] B) Neither
+  <!-- feedback: No. 'Neither' is used for two items and takes a singular verb, whereas the sentence refers to an open set of complaints. -->
+- [ ] C) All
+  <!-- feedback: No. 'All of' would state the opposite, because it says that every complaint had been answered before the council spoke. -->
+- [ ] D) Few of the complaint
+  <!-- feedback: No. 'few of' would need a plural noun inside the phrase, and the verb here is passive, so a smaller but non-zero number is what the option claims. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+None, all, most, some and half are the quantifiers that accept an of phrase followed by a plural noun. They keep their own grammatical number when used alone, but inside the of phrase they agree with the plural noun and the verb of the sentence.
 ---
-## Question 17 [D9]
-**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-v17
+
+## Question 11 [D4]
+**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-bundle-v11
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** There aren't any students in the laboratory at this hour.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+There ___ any students in the laboratory at this hour.
 
 ### Opciones
-- [x] A) budget
-  <!-- feedback: Correct! A 'budget' is the estimate of income and expenditure planned for a set period. -->
-- [ ] B) expense
-  <!-- feedback: 'Expense' is a single cost already paid; the definition is the estimate for the whole period. -->
-- [ ] C) cost
-  <!-- feedback: 'Cost' is the price of one thing, whereas a budget covers all income and all spending. -->
-- [ ] D) price
-  <!-- feedback: 'Price' is the amount a single item costs, not a plan of income and expenditure over time. -->
+- [ ] A) is
+  <!-- feedback: No. 'is' is singular and 'students' is a plural noun, so the verb and the quantified noun would not agree. -->
+- [x] B) aren't
+  <!-- feedback: Correct! The negative contraction 'aren't' agrees with the plural 'students' and suits the negative context in which 'any' appears. -->
+- [ ] C) are some
+  <!-- feedback: No. 'some' is not used in a negative clause that denies the existence of the items, and the verb does not agree with it here. -->
+- [ ] D) weren't
+  <!-- feedback: No. 'weren't' is the negative past, and the sentence refers to the present moment with the expression 'at this hour'. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+In the there is or there are construction the verb agrees with the noun that follows the quantifier, not with the pronoun 'there'. Any in a negative clause points to an expected quantity that turns out to be absent, which is why it goes with the plural verb here.
 ---
-## Question 18 [D10]
-**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+
+## Question 12 [D4]
+**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-bundle-v12
+**Bloom:** Analyze
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** Do you have some questions about the reading passage?
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+___ you have some questions about the reading passage?
 
 ### Opciones
-- [x] A) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium. -->
-- [ ] B) warranty
-  <!-- feedback: 'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract. -->
-- [ ] C) guarantee
-  <!-- feedback: 'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium. -->
-- [ ] D) policy
-  <!-- feedback: 'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance. -->
+- [ ] A) Has
+  <!-- feedback: No. 'Has' is the third person singular, and the subject of this question is the second person pronoun 'you'. -->
+- [ ] B) Does
+  <!-- feedback: No. 'Does' is the third person singular auxiliary and would not agree with the pronoun 'you'. -->
+- [ ] C) Are
+  <!-- feedback: No. 'Are' agrees with plural subjects and with the pronoun 'you', but the main verb here is 'have', not 'be'. -->
+- [x] D) Do
+  <!-- feedback: Correct! In the interrogative the auxiliary 'do' comes before the subject 'you', which is the word order English requires in questions. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+Questions built on the verb have take the auxiliary do in the present, and the auxiliary is placed in front of the subject. The quantifier inside the question is then a matter of context: some in a friendly offer, any in a neutral enquiry.
 ---
-## Question 19 [D9]
-**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-v19
+
+## Question 13 [D4]
+**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-bundle-v13
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** We do not have enough chairs for the whole audience.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+We do not have ___ chairs for the whole audience.
 
 ### Opciones
-- [x] A) vaccination
-  <!-- feedback: Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease. -->
-- [ ] B) medication
-  <!-- feedback: 'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one. -->
-- [ ] C) prescription
-  <!-- feedback: 'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself. -->
-- [ ] D) infection
-  <!-- feedback: 'Infection' is the state of having the disease; vaccination is what protects you before you get it. -->
+- [ ] A) much
+  <!-- feedback: No. 'much' quantifies an uncountable noun and 'chairs' is a countable plural, so the quantifier belongs to the wrong family. -->
+- [x] B) enough
+  <!-- feedback: Correct! 'Enough' follows a plural countable noun without any article, and it works after the noun wherever it appears in the sentence. -->
+- [ ] C) a few
+  <!-- feedback: No. 'a few' suggests a small but sufficient number, and the sentence complains that there are not enough of them. -->
+- [ ] D) little
+  <!-- feedback: No. 'little' quantifies an uncountable noun and cannot stand in front of a plural countable noun. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+Enough quantifies countable plurals, uncountable nouns and adjectives alike, and it never takes an article. In a negative clause it is the standard way to say that the quantity available falls short of what is needed.
 ---
-## Question 20 [D10]
-**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+
+## Question 14 [D4]
+**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-bundle-v14
+**Bloom:** Apply
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The technician explained that there was hardly any space left in the storage room.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+The technician explained that there ___ any space left in the storage room.
 
 ### Opciones
-- [x] C) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect. -->
-- [ ] D) insomnia
-  <!-- feedback: 'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock. -->
+- [ ] A) were hardly
+  <!-- feedback: No. 'were' is plural and would not agree with the uncountable singular noun 'space'. -->
+- [x] B) was hardly
+  <!-- feedback: Correct! 'Hardly any' is the negative quantifier of this clause, and 'was' agrees with the uncountable noun 'space'. -->
+- [ ] C) was a few
+  <!-- feedback: No. 'a few' quantifies countable plurals and suggests a small acceptable amount, which is the opposite of 'hardly any'. -->
+- [ ] D) was many
+  <!-- feedback: No. 'many' requires a plural countable noun, and 'space' is uncountable in this sentence. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Hardly, barely and little build negative quantifiers with any and much, and the verb agrees with the noun rather than with the intensifier. 'Hardly any space' means the quantity is close to zero, which is what the technician reports.
+---
+
+## Question 15 [D4]
+**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-bundle-v15
+**Bloom:** Analyze
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** There are a few apples in the basket, but not many.
+
+### Enunciado
+There ___ a few apples in the basket.
+
+### Opciones
+- [ ] A) is
+  <!-- feedback: No. 'is' is singular and the quantified noun 'apples' is a plural countable noun, so the agreement is wrong. -->
+- [ ] B) has
+  <!-- feedback: No. 'has' belongs to the third person of the present perfect and is not the verb used in this existential construction. -->
+- [x] C) are
+  <!-- feedback: Correct! 'A few' quantifies a plural noun, so the existential verb is 'are' and the quantity is presented as small but sufficient. -->
+- [ ] D) have
+  <!-- feedback: No. 'have' is the auxiliary of the perfect tenses and has no plural agreement in this construction. -->
+
+### Explicacion Pedagogica
+In the there is or there are structure the verb agrees with the noun that follows the quantifier, and a plural noun always demands the plural form. A few and few differ in attitude, not in the form of the verb.
+---
+
+## Question 16 [D4]
+**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-bundle-v16
+**Bloom:** Evaluate
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The report contains very little information about the causes of the accident.
+
+### Enunciado
+The report contains very ___ information about the causes of the accident.
+
+### Opciones
+- [ ] A) few
+  <!-- feedback: No. 'few' requires a plural countable noun, and 'information' is uncountable however much detail it contains. -->
+- [ ] B) many
+  <!-- feedback: No. 'many' also requires a plural countable noun and cannot be used with a mass noun like information. -->
+- [ ] C) a few
+  <!-- feedback: No. 'a few' quantifies countable plurals and would also carry a positive judgement that the sentence does not express. -->
+- [x] D) little
+  <!-- feedback: Correct! 'Little' quantifies an uncountable noun such as information, and 'very' before it emphasises how little there is. -->
+
+### Explicacion Pedagogica
+Nouns such as information, advice, news, progress and research are uncountable no matter how many separate items they seem to contain. The little family, not the few family, is the only set of quantifiers these nouns accept.
+---
+
+## Question 17 [D4]
+**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-bundle-v17
+**Bloom:** Analyze
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** Some of the answers were missing, but only two were wrong.
+
+### Enunciado
+___ of the answers were missing from the returned sheet.
+
+### Opciones
+- [ ] A) Much
+  <!-- feedback: No. 'Much' quantifies an uncountable noun, and 'answers' is a countable plural that takes the 'some' and 'most' family. -->
+- [ ] B) Few of the answer
+  <!-- feedback: No. The noun is left in the singular inside the phrase, and the verb 'were' clearly requires a plural subject. -->
+- [x] C) Some of the answers
+  <!-- feedback: Correct! 'Some of' takes a plural noun phrase and agrees with the plural verb 'were', which is the form used in the sentence. -->
+- [ ] D) Every of the answers
+  <!-- feedback: No. 'Every' is followed directly by a singular noun and never by 'of' plus a plural noun phrase. -->
+
+### Explicacion Pedagogica
+The quantifiers some, most, all, none, half and plenty can be followed by of plus a plural noun phrase. In that pattern they keep their original form and simply take the agreement of the noun inside the of phrase.
+---
+
+## Question 18 [D4]
+**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-bundle-v18
+**Bloom:** Apply
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The teacher asked the class for more examples of irregular verbs.
+
+### Enunciado
+The teacher asked the class for ___ examples of irregular verbs.
+
+### Opciones
+- [ ] A) much
+  <!-- feedback: No. 'much' quantifies an uncountable noun, and 'examples' is a countable plural that takes 'more' or 'many'. -->
+- [x] B) more
+  <!-- feedback: Correct! 'More' quantifies a countable plural in a comparative clause and needs no article, which is why 'more examples' is the accepted form. -->
+- [ ] C) little
+  <!-- feedback: No. 'little' quantifies an uncountable noun and would also express the opposite of what the teacher is asking for. -->
+- [ ] D) a few more
+  <!-- feedback: No. 'a few more' means a small additional number, which weakens the request that the teacher is making in this context. -->
+
+### Explicacion Pedagogica
+More and less are the comparative quantifiers and they work with both countable and uncountable nouns, always without an article. Fewer is the alternative for countable plurals when a more precise countable comparison is wanted.
+---
+
+## Question 19 [D4]
+**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-bundle-v19
+**Bloom:** Evaluate
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** How much sugar do you usually add to your coffee in the morning?
+
+### Enunciado
+___ sugar do you usually add to your coffee in the morning?
+
+### Opciones
+- [x] A) How much
+  <!-- feedback: Correct! 'How much' is the interrogative quantifier for uncountable nouns and is written as two separate words. -->
+- [ ] B) How many
+  <!-- feedback: No. 'How many' is used with countable plural nouns, and 'sugar' is an uncountable mass noun. -->
+- [ ] C) How few
+  <!-- feedback: No. 'How few' is not a standard interrogative quantifier in English; the negative degree is expressed by other means. -->
+- [ ] D) How long
+  <!-- feedback: No. 'How long' asks about duration or length, and the sentence asks about a quantity of a substance. -->
+
+### Explicacion Pedagogica
+Food substances, materials and abstract qualities are uncountable and take how much in questions and much or little in statements. The same noun with a plural form, such as sugars, would change both the quantifier and the agreement of the verb.
+---
+
+## Question 20 [D4]
+**ID:** EC-ING-11-2026-W25-quantifiers-some-any-much-many-001-MASTERY-bundle-v20
+**Bloom:** Analyze
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The workshop only accepts a limited number of participants each term.
+
+### Enunciado
+The workshop only accepts a ___ number of participants each term.
+
+### Opciones
+- [ ] A) little
+  <!-- feedback: No. 'little' quantifies an uncountable noun, and 'number' here takes a countable pattern with 'of' plus a plural noun. -->
+- [ ] B) much
+  <!-- feedback: No. 'much' is the uncountable quantifier and cannot stand in front of 'number of' in this construction. -->
+- [ ] C) few number
+  <!-- feedback: No. 'few' does not combine with 'number of', because a limited number is a positive but restricted quantity. -->
+- [x] D) limited
+  <!-- feedback: Correct! 'A limited number of' is the standard collocation, and the plural 'participants' inside the of phrase is what the verb counts. -->
+
+### Explicacion Pedagogica
+The phrase a number of takes a plural noun after of and describes a quantity that exists but is restricted. It differs from a small number, which stresses the restriction, and from no number, which denies that any exist at all.
+---

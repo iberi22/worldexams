@@ -22,461 +22,481 @@ bundle_index: 1
 
 ---
 ## Question 1 [D3]
-**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v1
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v1
+**Bloom:** Understand
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The national exam begins at eight in the morning on a Monday.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+The national exam begins ___ eight in the morning.
 
 ### Opciones
-- [x] B) accommodation
-  <!-- feedback: 'accommodation' is the word for a place where you live or stay, including on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' means the way you travel, such as buses or planes, not where you stay. -->
-- [ ] C) entertainment
-  <!-- feedback: 'entertainment' is the activity of enjoying shows, films or games, not a place to live. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money of a country, such as the colon; a place to stay is not money. -->
+- [ ] A) in
+  <!-- feedback: No. 'in' is used with periods of time such as the morning, the afternoon or the year, not with a clock time. -->
+- [ ] B) on
+  <!-- feedback: No. 'on' is used with days and dates, so it cannot introduce an hour of the day in this sentence. -->
+- [x] C) at
+  <!-- feedback: Correct! A clock time takes the preposition 'at', because the expression names a precise point within the day rather than a duration. -->
+- [ ] D) for
+  <!-- feedback: No. 'for' expresses a duration of time, and the sentence names a starting point rather than a length of time. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+English uses at for clock times, on for days and dates, in for months, seasons and parts of the day, and for durations. Deciding which one applies is a matter of what kind of time expression is being named.
 ---
-## Question 2 [D4]
-**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v2
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+
+## Question 2 [D3]
+**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v2
+**Bloom:** Apply
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The children return to school in September after the summer holidays.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+The children return to school ___ September after the summer holidays.
 
 ### Opciones
-- [x] D) itinerary
-  <!-- feedback: 'itinerary' is a detailed plan of a journey, listing the route and the stops along the way. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' is the suitcases and bags you travel with, not the plan of the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'destination' is only the place you are going to; the plan of the route is the itinerary. -->
-- [ ] C) passport
-  <!-- feedback: 'passport' is the travel document you show at the border, not the plan of a journey. -->
+- [x] A) in
+  <!-- feedback: Correct! Months, years, seasons and parts of the day all take the preposition 'in', which is the widest of the time prepositions. -->
+- [ ] B) at
+  <!-- feedback: No. 'at' is used with clock times and with specific points, not with a month of the calendar. -->
+- [ ] C) on
+  <!-- feedback: No. 'on' is used with days and dates, and September is a month rather than a day. -->
+- [ ] D) since
+  <!-- feedback: No. 'since' marks a starting point that continues up to the present, and the sentence names a recurring event rather than that stretch of time. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+The preposition in covers the largest category of time expressions, from months and years to parts of the day such as the morning. It contrasts with at for clock times and on for days and dates.
 ---
+
 ## Question 3 [D3]
-**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v3
+**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The library is on the corner of the plaza, next to the cathedral.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+The library is ___ the corner of the plaza.
 
 ### Opciones
-- [x] C) destination
-  <!-- feedback: 'destination' names the place a person or thing is going or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the action of leaving, not the place you leave for. -->
-- [ ] B) arrival
-  <!-- feedback: 'arrival' is the moment of reaching a place, not the place itself. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, not the place at the end of it. -->
+- [ ] A) in
+  <!-- feedback: No. 'in' is used for enclosed space such as a room or a city, and a corner on a plaza is described with 'on'. -->
+- [ ] B) at
+  <!-- feedback: No. 'at' is used for a precise point such as a single building or a meeting place, not for a surface position. -->
+- [x] C) on
+  <!-- feedback: Correct! 'on' is the preposition for a surface or a line, and it is also used for a location within a street or a square. -->
+- [ ] D) to
+  <!-- feedback: No. 'to' shows movement towards a place and cannot describe where a building stands. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+Place prepositions divide the physical space differently: in for interiors, on for surfaces and lines, at for points. Corners, walls, floors and squares all take on, while rooms, cities and countries take in.
 ---
+
 ## Question 4 [D4]
-**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v4
+**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v4
+**Bloom:** Analyze
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The conference will be held at the main auditorium of the university.
+
+### Enunciado
+The conference will be held ___ the main auditorium of the university.
+
+### Opciones
+- [ ] A) in
+  <!-- feedback: No. 'in' would place the event inside an enclosed or bounded area, but the sentence treats the auditorium as a single venue. -->
+- [ ] B) on
+  <!-- feedback: No. 'on' describes a surface such as a wall or a street, and an auditorium is a location rather than a surface. -->
+- [x] C) at
+  <!-- feedback: Correct! 'At' is the preposition of a single point of location, which is how a venue such as an auditorium is named in English. -->
+- [ ] D) to
+  <!-- feedback: No. 'to' shows the direction of a movement and has no use in a statement about where an event takes place. -->
+
+### Explicacion Pedagogica
+At is used when a place is treated as one point, typically a building or a venue. It is also the preposition of addresses, of public transport destinations and of events, which is why it appears with held, met and born.
+---
+
+## Question 5 [D3]
+**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** He has lived in the same neighbourhood since he was a child.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+He has lived in the same neighbourhood ___ he was a child.
 
 ### Opciones
-- [x] B) luggage
-  <!-- feedback: 'luggage' is the collective word for the suitcases and bags you pack for a trip. -->
-- [ ] A) ticket
-  <!-- feedback: 'ticket' is the document you buy that admits you to the journey. -->
-- [ ] C) flight
-  <!-- feedback: 'flight' is the plane or the scheduled trip itself, not the bags you carry. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the booking you hold for a seat or a room. -->
+- [x] A) since
+  <!-- feedback: Correct! 'Since' marks the starting point of a situation that continues up to the present, which is the case with the present perfect here. -->
+- [ ] B) for
+  <!-- feedback: No. 'for' expresses a length of time, and the sentence gives a starting point rather than a duration. -->
+- [ ] C) during
+  <!-- feedback: No. 'during' is used with a defined period or event, and it does not mark a continuation up to the present moment. -->
+- [ ] D) while
+  <!-- feedback: No. 'while' introduces a subordinate time clause and needs a main clause, which the sentence does not provide. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+Since names a starting point and for names a duration, and the two are frequently confused. With a perfect tense such as has lived, since he was a child says when the situation began, while for ten years says how long it has lasted.
 ---
-## Question 5 [D5]
-**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v5
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
 
-### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
-
-### Opciones
-- [x] C) passenger
-  <!-- feedback: 'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'pedestrian' is a person who travels on foot, not on a bus, a train or a plane. -->
-- [ ] B) commuter
-  <!-- feedback: 'commuter' is someone who travels regularly between home and work, a narrower idea than passenger. -->
-- [ ] D) tourist
-  <!-- feedback: 'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew. -->
-
-### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
-## Question 6 [D6]
-**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v6
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
-
-### Opciones
-- [x] B) customs
-  <!-- feedback: 'customs' is the office where officials check the goods, the luggage and the travellers entering a country. -->
-- [ ] A) security
-  <!-- feedback: 'security' refers to the staff and the measures that keep the airport safe, not to the goods check. -->
-- [ ] C) terminal
-  <!-- feedback: 'terminal' is the building where you wait for and board your flight. -->
-- [ ] D) gate
-  <!-- feedback: 'gate' is the door you board the plane through, not the place where officials check luggage. -->
-
-### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
-## Question 7 [D5]
-**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v7
+## Question 6 [D4]
+**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The repair work continued for three weeks during the wettest months of the year.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+The repair work continued ___ three weeks.
 
 ### Opciones
-- [x] D) boarding pass
-  <!-- feedback: 'boarding pass' is the slip the airline hands over at check-in that lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: 'visa' is the official permission to enter and stay in a foreign country. -->
-- [ ] B) receipt
-  <!-- feedback: 'receipt' is the proof of payment for the ticket, not the document that lets you board. -->
-- [ ] C) brochure
-  <!-- feedback: 'brochure' is a small booklet with tourist information, not a travel document. -->
+- [ ] A) since
+  <!-- feedback: No. 'since' requires a starting point and marks a continuation to the present, while this sentence describes a completed period in the past. -->
+- [x] B) for
+  <!-- feedback: Correct! 'For' is followed by a length of time, so 'for three weeks' states how long the work lasted. -->
+- [ ] C) at
+  <!-- feedback: No. 'at' is the preposition of clock times and of precise points, not of durations. -->
+- [ ] D) in
+  <!-- feedback: No. 'in' is used with months, years and parts of the day, and 'three weeks' is a duration rather than one of those. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+Durations are always introduced by for, whether the tense is perfect or not. The expression after for names a quantity of time such as three weeks, two hours or a long time, and never a calendar point.
 ---
-## Question 8 [D6]
-**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v8
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
 
-### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
-
-### Opciones
-- [x] B) sightseeing
-  <!-- feedback: 'sightseeing' is visiting the places of interest of a location in order to look at them. -->
-- [ ] A) shopping
-  <!-- feedback: 'shopping' is buying things, which is a different activity from visiting sights. -->
-- [ ] C) hiking
-  <!-- feedback: 'hiking' is walking in the countryside along a trail, usually for exercise. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' means spending the night outdoors in a tent. -->
-
-### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
----
-## Question 9 [D5]
-**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
-
-### Opciones
-- [x] C) souvenir
-  <!-- feedback: 'souvenir' is an object kept because it reminds you of a person, a place or an event. -->
-- [ ] A) gift
-  <!-- feedback: 'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder. -->
-- [ ] B) award
-  <!-- feedback: 'award' is a distinction given for a merit or an achievement. -->
-- [ ] D) prize
-  <!-- feedback: 'prize' is what is won in a competition, not an object bought to remember a trip. -->
-
-### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
----
-## Question 10 [D6]
-**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v10
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
-
-### Opciones
-- [x] A) delay
-  <!-- feedback: 'delay' is the extra period of time by which something becomes late or is postponed. -->
-- [ ] B) cancellation
-  <!-- feedback: 'cancellation' ends the booking or the trip altogether rather than pushing it back. -->
-- [ ] C) departure
-  <!-- feedback: 'departure' is the time a vehicle is scheduled to leave, not a postponement. -->
-- [ ] D) arrival
-  <!-- feedback: 'arrival' is the moment you reach the destination, not the waiting time. -->
-
-### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
----
-## Question 11 [D7]
-**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v11
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
-
-### Opciones
-- [x] A) check-in
-  <!-- feedback: 'check-in' is reporting your presence at the airport or the hotel and registering. -->
-- [ ] B) check-out
-  <!-- feedback: 'check-out' is the opposite moment: leaving the hotel and settling the bill. -->
-- [ ] C) booking
-  <!-- feedback: 'booking' is reserving the room or the seat in advance, which happens before you arrive. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the record of that booking, not the act of reporting your presence. -->
-
-### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
----
-## Question 12 [D8]
-**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
-
-### Opciones
-- [x] A) layover
-  <!-- feedback: 'layover' is the rest or the waiting period between two stages of a journey. -->
-- [ ] B) stopover
-  <!-- feedback: 'stopover' is a break in a journey during which you leave the vehicle, often overnight. -->
-- [ ] C) transfer
-  <!-- feedback: 'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time. -->
-- [ ] D) transit
-  <!-- feedback: 'transit' means passage through a place or the system that carries people, not the pause itself. -->
-
-### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
----
-## Question 13 [D7]
-**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v13
+## Question 7 [D4]
+**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The bus stop is opposite the hospital on the main avenue.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+The bus stop is ___ the hospital on the main avenue.
 
 ### Opciones
-- [x] C) currency
-  <!-- feedback: 'currency' is the whole money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: 'coin' is a single round piece of metal money, only one part of a currency. -->
-- [ ] B) banknote
-  <!-- feedback: 'banknote' is a paper note, again only one part of a country's money system. -->
-- [ ] D) cash
-  <!-- feedback: 'cash' is money in coins and notes seen as a form of payment, not the system a country has. -->
+- [x] A) opposite
+  <!-- feedback: Correct! 'Opposite' is a preposition of relative position, and it describes the bus stop as facing the other side of the street from the hospital. -->
+- [ ] B) to
+  <!-- feedback: No. 'to' marks a direction of movement and would require a verb of motion, which the sentence does not contain. -->
+- [ ] C) between
+  <!-- feedback: No. 'between' requires two elements with the bus stop in the middle, and only one building is named in the sentence. -->
+- [ ] D) under
+  <!-- feedback: No. 'under' describes a position below something and does not fit the horizontal arrangement of two buildings on a street. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+English has a group of prepositions of relative position: opposite, behind, in front of, beside, between, above and below. They describe how one thing is placed with respect to another, and they need no verb of movement to work.
 ---
-## Question 14 [D8]
-**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v14
+
+## Question 8 [D4]
+**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v8
+**Bloom:** Evaluate
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The test will take place on the fifteenth of December in the main hall.
+
+### Enunciado
+The test will take place ___ the fifteenth of December.
+
+### Opciones
+- [ ] A) in
+  <!-- feedback: No. 'in' is used with months and years, but a day with its ordinal number takes 'on' in standard English. -->
+- [ ] B) at
+  <!-- feedback: No. 'at' is the preposition of clock times and of a single point, and a full date is expressed differently. -->
+- [x] C) on
+  <!-- feedback: Correct! Days and dates take the preposition 'on', including the fifteenth of December, which is a day of the month. -->
+- [ ] D) by
+  <!-- feedback: No. 'by' marks a deadline or an agent, and the sentence states when the test happens rather than how late it may be. -->
+
+### Explicacion Pedagogica
+The rule for dates is that on goes with a day and in goes with the rest of the date. When the day is spelled out, as in the fifteenth of December, the whole expression is treated as a day and takes on.
+---
+
+## Question 9 [D4]
+**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v9
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** She arrived at the airport two hours before her flight to Madrid.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+She arrived ___ the airport two hours before her flight to Madrid.
 
 ### Opciones
-- [x] C) guidebook
-  <!-- feedback: 'guidebook' is a book of information about a place written for the use of visitors. -->
-- [ ] A) map
-  <!-- feedback: 'map' is a drawing of the area, not a book of information. -->
-- [ ] B) dictionary
-  <!-- feedback: 'dictionary' explains the words of a language, not the places of a region. -->
-- [ ] D) encyclopedia
-  <!-- feedback: 'encyclopedia' covers all branches of knowledge, not one destination for tourists. -->
+- [ ] A) in
+  <!-- feedback: No. 'in' would place her inside a country or a room, and the sentence treats the airport as one arrival point. -->
+- [x] B) at
+  <!-- feedback: Correct! 'At' is the preposition for a single point of destination such as an airport, a station or a venue. -->
+- [ ] C) on
+  <!-- feedback: No. 'on' describes a surface, and an airport is a location rather than a surface where something rests. -->
+- [ ] D) into
+  <!-- feedback: No. 'into' marks movement from outside to inside, which is not the simple arrival described in the sentence. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+A place that is regarded as one point takes at: at the airport, at the station, at school and at home. This is different from in, which is used when the destination is an area such as a city or a region.
 ---
-## Question 15 [D7]
-**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v15
+
+## Question 10 [D4]
+**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v10
+**Bloom:** Apply
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The instruments are kept in a cabinet near the entrance of the laboratory.
+
+### Enunciado
+The instruments are kept ___ a cabinet near the entrance of the laboratory.
+
+### Opciones
+- [ ] A) on
+  <!-- feedback: No. 'on' would place them on the surface of the cabinet, while the sentence says they are stored inside a container. -->
+- [ ] B) at
+  <!-- feedback: No. 'at' is used for a single point, and a cabinet is a bounded interior rather than a single spot. -->
+- [ ] C) under
+  <!-- feedback: No. 'under' would place them below the cabinet, which is not what the sentence describes. -->
+- [x] D) in
+  <!-- feedback: Correct! 'In' marks an enclosed interior, and a cabinet is the kind of container that requires the preposition 'in'. -->
+
+### Explicacion Pedagogica
+In is the preposition of interiors and containers, and it also covers cities, regions and periods of time. The choice between in and on is really a question of whether the reference point is a boundary or a surface.
+---
+
+## Question 11 [D4]
+**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v11
+**Bloom:** Evaluate
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The pupils must be at school before eight every morning this term.
+
+### Enunciado
+The pupils must be ___ school before eight every morning this term.
+
+### Opciones
+- [x] A) at
+  <!-- feedback: Correct! The fixed expression 'at school' treats the institution as one point of location, and it is the standard form in this context. -->
+- [ ] B) in
+  <!-- feedback: No. 'in school' would suggest being inside a building for some purpose, and the sentence refers to being present at the place of study as such. -->
+- [ ] C) to
+  <!-- feedback: No. 'to' marks a direction of movement and would need a verb such as go, which the sentence does not use. -->
+- [ ] D) on
+  <!-- feedback: No. 'on' describes a surface and has no fixed use with school as a place of study. -->
+
+### Explicacion Pedagogica
+Several places have a fixed preposition in English: at school, at home, at work, in prison and in hospital. These expressions describe the activity or condition rather than the geometry of the location.
+---
+
+## Question 12 [D4]
+**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v12
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The examination will last two hours and it cannot be extended.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+The examination will last ___ two hours.
 
 ### Opciones
-- [x] C) backpack
-  <!-- feedback: 'backpack' has shoulder straps and is carried on the back. -->
-- [ ] A) suitcase
-  <!-- feedback: 'suitcase' is a case with a handle that is pulled along, not one worn on the back. -->
-- [ ] B) briefcase
-  <!-- feedback: 'briefcase' is a flat case for documents that you carry by hand at work. -->
-- [ ] D) handbag
-  <!-- feedback: 'handbag' is a small bag held in the hand, usually for personal items. -->
+- [ ] A) since
+  <!-- feedback: No. 'since' marks a starting point in a continuing situation, and a scheduled length of time is expressed with 'for'. -->
+- [x] B) for
+  <!-- feedback: Correct! 'For' introduces the duration of an event, and two hours is exactly the kind of length of time it can follow. -->
+- [ ] C) during
+  <!-- feedback: No. 'during' is used with a defined period or event and does not introduce a bare duration such as 'two hours'. -->
+- [ ] D) while
+  <!-- feedback: No. 'while' introduces a time clause and needs a main clause, so it cannot stand in the slot of this preposition here. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+For introduces durations in both perfect and non-perfect contexts, and it is the only preposition that can be followed directly by a phrase such as two hours or a long time. Since, by contrast, always needs a starting point.
 ---
-## Question 16 [D8]
-**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v16
+
+## Question 13 [D4]
+**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v13
+**Bloom:** Apply
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The market on Plaza Grande opens every Saturday in the early morning.
+
+### Enunciado
+The market on Plaza Grande opens every Saturday ___ the early morning.
+
+### Opciones
+- [ ] A) at
+  <!-- feedback: No. 'at' is used with a clock time, and 'the early morning' names a period of the day rather than an hour. -->
+- [x] B) in
+  <!-- feedback: Correct! Parts of the day such as the morning, the afternoon and the evening take the preposition 'in'. -->
+- [ ] C) on
+  <!-- feedback: No. 'on' belongs to the day itself, which is already expressed by 'every Saturday' in the same sentence. -->
+- [ ] D) for
+  <!-- feedback: No. 'for' would require a duration, and the sentence names a part of the day rather than a length of time. -->
+
+### Explicacion Pedagogica
+Parts of the day are treated as containers of time and take in: in the morning, in the afternoon, in the evening. The exceptions are the fixed phrases at night and at noon, which are so established that they are treated as single points.
+---
+
+## Question 14 [D4]
+**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v14
+**Bloom:** Apply
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The bell rings at the end of each lesson and the pupils go out into the corridor.
+
+### Enunciado
+The bell rings ___ the end of each lesson.
+
+### Opciones
+- [ ] A) during
+  <!-- feedback: No. 'during' is followed by a noun naming a period or event, and here the phrase is itself a point rather than the surrounding period. -->
+- [ ] B) within
+  <!-- feedback: No. 'within' marks a limit that something stays inside, and the sentence names a moment rather than a boundary. -->
+- [ ] C) since
+  <!-- feedback: No. 'since' marks the start of a situation that continues to the present, which has no role in a daily timetable. -->
+- [x] D) at
+  <!-- feedback: Correct! 'At' is the preposition of a point in time, and the end of a lesson is such a point rather than a duration. -->
+
+### Explicacion Pedagogica
+Expressions that name a moment, such as the end, the start, noon and midnight, take at. This is a small but very consistent family, and it is the reason a sentence about the end of a lesson never uses in.
+---
+
+## Question 15 [D4]
+**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The bridge over the river was closed for repairs during the whole of August.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+The bridge ___ the river was closed for repairs during the whole of August.
 
 ### Opciones
-- [x] C) overseas
-  <!-- feedback: 'overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] B) local
-  <!-- feedback: 'local' means belonging to a small area nearby, not to a foreign country. -->
-- [ ] D) national
-  <!-- feedback: 'national' means concerning the whole nation and says nothing about being abroad. -->
+- [ ] A) in
+  <!-- feedback: No. 'in' would place the bridge inside a space such as a room, but the sentence describes a crossing above a river. -->
+- [ ] B) under
+  <!-- feedback: No. 'under' would place the bridge below the river, which is the opposite of what a bridge does. -->
+- [x] C) over
+  <!-- feedback: Correct! 'Over' expresses a position above something and at the same time the crossing relationship that defines a bridge. -->
+- [ ] D) between
+  <!-- feedback: No. 'between' requires two named elements on either side, and the sentence names only the river. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+Over, under, above and below describe vertical position, and they are used constantly with bridges, roads and other structures that cross a space. In this sentence over also carries the idea of extending across.
 ---
-## Question 17 [D9]
-**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v17
+
+## Question 16 [D4]
+**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The students will receive their certificates at the end of the academic year.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+The students will receive their certificates ___ the end of the academic year.
 
 ### Opciones
-- [x] B) budget
-  <!-- feedback: 'budget' is an estimate of income and expenditure planned for a set period. -->
-- [ ] A) expense
-  <!-- feedback: 'expense' is a single amount of money that is spent, not the plan for a whole period. -->
-- [ ] C) cost
-  <!-- feedback: 'cost' is what one item or one service costs, again not an estimate for a period. -->
-- [ ] D) price
-  <!-- feedback: 'price' is the sum a customer pays for one product; a budget covers income and spending together. -->
+- [ ] A) in
+  <!-- feedback: No. 'in' can be used with the year but not normally with a point such as the end of a period, which is named with 'at'. -->
+- [x] B) at
+  <!-- feedback: Correct! A point in time, such as the end of a period or a named moment, takes the preposition 'at'. -->
+- [ ] C) to
+  <!-- feedback: No. 'to' can follow an end to indicate a range, but here it would need a second time expression to close the interval. -->
+- [ ] D) by
+  <!-- feedback: No. 'by' marks a deadline no later than the moment mentioned, and the sentence names an exact point rather than a limit. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+At covers both clock times and abstract points in a period, which is why at the end, at the beginning and at noon all behave in the same way. End expressions are a small but very reliable family in the use of at.
 ---
-## Question 18 [D10]
-**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+
+## Question 17 [D4]
+**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v17
+**Bloom:** Analyze
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The old theatre stands between the cathedral and the government palace.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+The old theatre stands ___ the cathedral and the government palace.
 
 ### Opciones
-- [x] B) insurance
-  <!-- feedback: 'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: 'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge. -->
-- [ ] C) guarantee
-  <!-- feedback: 'guarantee' is a general promise of quality and does not involve paying a premium. -->
-- [ ] D) policy
-  <!-- feedback: 'policy' is the written document that states what an insurance contract covers. -->
+- [ ] A) among
+  <!-- feedback: No. 'among' refers to a group of more than two items, and the sentence places the theatre between exactly two buildings. -->
+- [ ] B) behind
+  <!-- feedback: No. 'behind' would place the theatre at the back of one of the buildings, which the sentence does not claim. -->
+- [ ] C) beside
+  <!-- feedback: No. 'Beside' means next to a single element, and the sentence gives two elements with the theatre in the middle. -->
+- [x] D) between
+  <!-- feedback: Correct! 'Between' takes exactly two elements and places the subject in the middle of them, which is the arrangement described. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+Between names a position in the middle of two elements, while among names a position inside a group of three or more. Both are prepositions of relative position and work without a verb of movement.
 ---
-## Question 19 [D9]
-**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+
+## Question 18 [D4]
+**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v18
+**Bloom:** Apply
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The reading list for the term includes three novels written in the twentieth century.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+The reading list for the term includes three novels written ___ the twentieth century.
 
 ### Opciones
-- [x] B) vaccination
-  <!-- feedback: 'vaccination' is the treatment with a vaccine that makes the body immune to a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'medication' is a drug taken to treat an illness, not to prevent one. -->
-- [ ] C) prescription
-  <!-- feedback: 'prescription' is the written order that authorises a medicine, not the treatment itself. -->
-- [ ] D) infection
-  <!-- feedback: 'infection' is the disease itself, the opposite of the protection a vaccination gives. -->
+- [x] A) in
+  <!-- feedback: Correct! Centuries, decades and long historical periods take the preposition 'in', like months and years. -->
+- [ ] B) at
+  <!-- feedback: No. 'at' is the preposition of a precise point in time, and a century is a span of years rather than a point. -->
+- [ ] C) on
+  <!-- feedback: No. 'on' is used with days and dates, and the century here functions more like a year or a season. -->
+- [ ] D) for
+  <!-- feedback: No. 'for' would require a duration to measure, and the century is used as the period in which the novels were written. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+Long periods of time, from decades to eras, behave like years and take in. The difference between these and clock times is one of span, and English signals it through the choice of preposition.
 ---
-## Question 20 [D10]
-**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v20
+
+## Question 19 [D4]
+**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The new stadium is next to the old railway station on the north side of the city.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+The new stadium is next ___ the old railway station on the north side of the city.
 
 ### Opciones
-- [x] C) jet lag
-  <!-- feedback: 'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight. -->
-- [ ] A) fatigue
-  <!-- feedback: 'fatigue' is tiredness that can come from any long effort, not specifically from a flight. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep. -->
-- [ ] D) insomnia
-  <!-- feedback: 'insomnia' is the inability to fall asleep, which has many causes besides travel. -->
+- [ ] A) of
+  <!-- feedback: No. 'of' expresses belonging or origin and cannot describe a position next to another building. -->
+- [ ] B) for
+  <!-- feedback: No. 'for' marks a purpose or a destination and has no spatial use in a statement about position. -->
+- [ ] C) since
+  <!-- feedback: No. 'since' is a preposition of time and cannot describe the spatial relation between two buildings. -->
+- [x] D) to
+  <!-- feedback: Correct! 'Next to' is the standard expression for adjacency, and 'to' is the preposition that carries that meaning of nearness. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Words such as next, close, near and opposite all take the preposition to. They describe distance between two points, and English expresses the relation with a preposition rather than with a comparative adjective in these fixed collocations.
+---
+
+## Question 20 [D4]
+**ID:** EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v20
+**Bloom:** Analyze
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The seminar will not begin until the dean arrives at the faculty building.
+
+### Enunciado
+The seminar will not begin ___ the dean arrives at the faculty building.
+
+### Opciones
+- [ ] A) as
+  <!-- feedback: No. 'as' introduces a comparison of two actions happening at the same time, and the sentence states a delay rather than a coincidence. -->
+- [ ] B) since
+  <!-- feedback: No. 'since' marks the beginning of a situation that continues to the present, and no such continuing situation appears in the sentence. -->
+- [ ] C) while
+  <!-- feedback: No. 'while' introduces a time clause and needs a main clause, whereas 'until' is followed by a complete clause on its own. -->
+- [x] D) until
+  <!-- feedback: Correct! 'Until' marks the point at which a negative or limiting clause stops being in effect, which is the sense of 'not begin until' here. -->
+
+### Explicacion Pedagogica
+Until marks an end point, so it is common with not, no longer and hardly, all of which place an action before a limit. Since marks a starting point instead, and the two words answer different questions about time.
+---

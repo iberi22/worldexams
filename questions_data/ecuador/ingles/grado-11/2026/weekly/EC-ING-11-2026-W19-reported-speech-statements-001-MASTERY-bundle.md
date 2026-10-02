@@ -22,461 +22,481 @@ bundle_index: 1
 
 ---
 ## Question 1 [D3]
-**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-v1
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-bundle-v1
+**Bloom:** Understand
+**EJE:** Sintaxis
+**Expected_Success:** 0.85
+**Contexto:** Daniela told her friends: I am moving to Cuenca in June.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Daniela told her friends that she ___ moving to Cuenca in June.
 
 ### Opciones
-- [x] B) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay temporarily while you are away from home. -->
-- [ ] A) transportation
-  <!-- feedback: Wrong. 'Transportation' names the way you travel, such as buses, trains or planes, not the place where you stay. -->
-- [ ] C) entertainment
-  <!-- feedback: Wrong. 'Entertainment' is the activity of enjoying shows, films or games, not a place where you sleep. -->
-- [ ] D) currency
-  <!-- feedback: Wrong. 'Currency' is the money used in a country, which has nothing to do with lodging. -->
+- [ ] A) is
+  <!-- feedback: No. The reporting verb 'told' is past, so the present simple of the direct speech must shift to the past simple, and 'is' has not been shifted. -->
+- [x] B) was
+  <!-- feedback: Correct! When the reporting verb is past, 'am' and 'is' change to 'was', which is the basic backshift of the present in reported statements. -->
+- [ ] C) has been
+  <!-- feedback: No. 'has been' is the present perfect active, and no perfect tense appears in the original direct speech, so nothing justifies the change. -->
+- [ ] D) will be
+  <!-- feedback: No. 'will be' points to the future, but the original sentence spoke about the present, and backshift moves it one step into the past instead. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+Reported speech normally shifts the tense of the original statement one step back when the reporting verb is in the past. Present simple becomes past simple, which is the most frequent change and the one students must recognise in every transformation of this kind.
 ---
-## Question 2 [D4]
-**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-v2
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+
+## Question 2 [D3]
+**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-bundle-v2
+**Bloom:** Understand
+**EJE:** Sintaxis
+**Expected_Success:** 0.85
+**Contexto:** Marco said to us: I have already paid the tuition.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Marco told us that he ___ already paid the tuition.
 
 ### Opciones
-- [x] B) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the planned route of a journey together with the places and times along the way. -->
-- [ ] A) baggage
-  <!-- feedback: Wrong. 'Baggage' is the suitcases and bags themselves, not the plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: Wrong. A 'destination' is only the place where the journey ends, while an itinerary lists the whole route. -->
-- [ ] D) passport
-  <!-- feedback: Wrong. A 'passport' is the travel document that proves who you are, not the plan of the journey. -->
+- [ ] A) has
+  <!-- feedback: No. Keeping 'has' would leave the verb in the present perfect and ignore the past tense of the reporting verb 'told'. -->
+- [ ] B) was
+  <!-- feedback: No. 'was' past an action of paying, but the original perfect form expresses the result of a completed payment rather than a situation described by 'was'. -->
+- [x] C) had
+  <!-- feedback: Correct! The present perfect 'have paid' becomes the past perfect 'had paid' after a past reporting verb, preserving the earlier point of time. -->
+- [ ] D) would pay
+  <!-- feedback: No. 'would pay' is a conditional or future in the past and introduces an action that never happened, which is not what the original claimed. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+Present perfect becomes past perfect when a past reporting verb triggers the backshift. The two perfect tenses keep the same relationship in time between the action and the moment of reference, so moving both backwards preserves the original meaning exactly.
 ---
+
 ## Question 3 [D3]
-**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-v3
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-bundle-v3
+**Bloom:** Apply
+**EJE:** Sintaxis
+**Expected_Success:** 0.85
+**Contexto:** The mechanic explained to the client: I cannot finish the repair tomorrow.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+The mechanic explained that he ___ finish the repair the next day.
 
 ### Opciones
-- [x] B) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going to or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: Wrong. A 'departure' is the act of leaving and the place you leave from, the opposite end of the trip. -->
-- [ ] C) arrival
-  <!-- feedback: Wrong. An 'arrival' is the event of getting there, not the place that is being travelled to. -->
-- [ ] D) journey
-  <!-- feedback: Wrong. A 'journey' is the whole trip from start to finish, not the place at the end of it. -->
+- [x] A) could not
+  <!-- feedback: Correct! 'cannot' or 'can not' in the present becomes 'could not' in reported speech, and 'tomorrow' also shifts to 'the next day'. -->
+- [ ] B) may not
+  <!-- feedback: No. 'may not' expresses permission or prohibition rather than simple inability, so it changes the force of the statement. -->
+- [ ] C) did not finish
+  <!-- feedback: No. 'did not' requires a past simple verb, but the original sentence had no past simple in it, and 'cannot' cannot be converted that way. -->
+- [ ] D) would not
+  <!-- feedback: No. 'would not' refers to a repeated or expected habit in the past, which is not the meaning of a single future inability. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+Modal verbs shift one step back in reported speech: can becomes could, will becomes would, may becomes might, and shall becomes should. The negation moves with the modal, so 'cannot' becomes 'could not' without any change in the sense of refusal.
 ---
+
 ## Question 4 [D4]
-**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-v4
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
-
-### Opciones
-- [x] D) luggage
-  <!-- feedback: Correct! 'Luggage' is the collective word for the suitcases and bags you pack your belongings in. -->
-- [ ] A) ticket
-  <!-- feedback: Wrong. A 'ticket' is the document that pays for and authorises a journey, not the bag you pack. -->
-- [ ] B) flight
-  <!-- feedback: Wrong. A 'flight' is the journey by plane itself, not the bags carried on it. -->
-- [ ] C) reservation
-  <!-- feedback: Wrong. A 'reservation' is the booking you make for a seat or a room, not the baggage itself. -->
-
-### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
----
-## Question 5 [D5]
-**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-v5
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
-
-### Opciones
-- [x] B) passenger
-  <!-- feedback: Correct! A 'passenger' is anyone travelling in a vehicle who is not the one driving or piloting it. -->
-- [ ] A) pedestrian
-  <!-- feedback: Wrong. A 'pedestrian' travels on foot, so they are not aboard any conveyance at all. -->
-- [ ] C) commuter
-  <!-- feedback: Wrong. A 'commuter' is defined by making the same trip regularly to work or school, not by being a passenger in general. -->
-- [ ] D) tourist
-  <!-- feedback: Wrong. A 'tourist' is defined by travelling for pleasure, not simply by riding in a vehicle. -->
-
-### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
-## Question 6 [D6]
-**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-v6
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
-
-### Opciones
-- [x] D) customs
-  <!-- feedback: Correct! 'Customs' is the office where officials check the goods and the people coming in from abroad. -->
-- [ ] A) security
-  <!-- feedback: Wrong. 'Security' is the police or staff who keep order, while customs staff collect duties on goods. -->
-- [ ] B) terminal
-  <!-- feedback: Wrong. A 'terminal' is the building where you arrive or depart, not the office that checks imports. -->
-- [ ] C) gate
-  <!-- feedback: Wrong. A 'gate' is the door you pass through to reach the plane; customs is the check itself. -->
-
-### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
-## Question 7 [D5]
-**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-v7
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
-
-### Opciones
-- [x] B) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline hands you at check-in that lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: Wrong. A 'visa' is the official permission a government gives to enter a country, granted before you travel. -->
-- [ ] C) receipt
-  <!-- feedback: Wrong. A 'receipt' only proves that you paid for something; it does not admit you to the aircraft. -->
-- [ ] D) brochure
-  <!-- feedback: Wrong. A 'brochure' is advertising material about destinations, not a travel document for boarding. -->
-
-### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
----
-## Question 8 [D6]
-**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-v8
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
-
-### Opciones
-- [x] C) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' means going round and looking at the famous sights of a place as a visitor. -->
-- [ ] A) shopping
-  <!-- feedback: Wrong. 'Shopping' is buying things in a city, a different activity from visiting its places of interest. -->
-- [ ] B) hiking
-  <!-- feedback: Wrong. 'Hiking' is walking long distances in the countryside on marked trails, not touring the sights of a location. -->
-- [ ] D) camping
-  <!-- feedback: Wrong. 'Camping' means staying the night outdoors in a tent, not a day of visiting places of interest. -->
-
-### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
----
-## Question 9 [D5]
-**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
-
-### Opciones
-- [x] D) souvenir
-  <!-- feedback: Correct! A 'souvenir' is an object kept afterwards as a reminder of the trip and of the people or places on it. -->
-- [ ] A) gift
-  <!-- feedback: Wrong. A 'gift' is chosen to be given to somebody else, while a souvenir is kept by the traveller. -->
-- [ ] B) award
-  <!-- feedback: Wrong. An 'award' is a distinction given for an achievement, not a keepsake bought on a trip. -->
-- [ ] C) prize
-  <!-- feedback: Wrong. A 'prize' is what a competitor wins in a contest; it says nothing about remembering a journey. -->
-
-### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
----
-## Question 10 [D6]
-**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-v10
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
-
-### Opciones
-- [x] C) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which a departure or arrival is postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: Wrong. A 'cancellation' calls the plan off entirely, whereas a delay only postpones it by some hours. -->
-- [ ] B) departure
-  <!-- feedback: Wrong. 'Departure' is simply the moment of leaving; the lateness is measured separately from it. -->
-- [ ] D) arrival
-  <!-- feedback: Wrong. An 'arrival' is the moment of getting there, not the amount of time a plan runs late. -->
-
-### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
----
-## Question 11 [D7]
-**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-v11
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
-
-### Opciones
-- [x] C) check-in
-  <!-- feedback: Correct! 'Check-in' is when you arrive and register, and the desk records your presence and gives you your pass. -->
-- [ ] A) check-out
-  <!-- feedback: Wrong. 'Check-out' is the opposite moment, when you pay and hand back the room key before leaving. -->
-- [ ] B) booking
-  <!-- feedback: Wrong. A 'booking' is the reservation made earlier, while check-in is the reporting of your arrival. -->
-- [ ] D) reservation
-  <!-- feedback: Wrong. A 'reservation' holds a room or a seat for you in advance, not the act of registering on arrival. -->
-
-### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
----
-## Question 12 [D8]
-**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
-
-### Opciones
-- [x] C) layover
-  <!-- feedback: Correct! A 'layover' is the wait between two flights, usually at the connecting airport, before you continue. -->
-- [ ] A) stopover
-  <!-- feedback: Wrong. A 'stopover' is a deliberate break in a long journey to spend extra time at a place, not a wait between flights. -->
-- [ ] B) transfer
-  <!-- feedback: Wrong. A 'transfer' is the flight or vehicle that moves you from one place to another, not the waiting itself. -->
-- [ ] D) transit
-  <!-- feedback: Wrong. 'Transit' names the general passing through an area or a country, not a specific rest between stages. -->
-
-### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
----
-## Question 13 [D7]
-**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-v13
+**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-bundle-v4
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Sintaxis
+**Expected_Success:** 0.85
+**Contexto:** The teacher announced to the class: The deadline is Friday.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+The teacher announced that the deadline ___ Friday.
 
 ### Opciones
-- [x] D) currency
-  <!-- feedback: Correct! 'Currency' is the whole monetary system a country uses, not any single object. -->
-- [ ] A) coin
-  <!-- feedback: Wrong. A 'coin' is one round metal piece of money, while the definition covers the entire money system. -->
-- [ ] B) banknote
-  <!-- feedback: Wrong. A 'banknote' is a single paper note, while the definition is about the money system of a whole country. -->
-- [ ] C) cash
-  <!-- feedback: Wrong. 'Cash' is the money in coins and notes that you are holding, regardless of any country's system. -->
+- [ ] A) is
+  <!-- feedback: No. 'is' would keep the present tense and make the announcement sound like it is happening now, ignoring the past tense of 'announced'. -->
+- [ ] B) has been
+  <!-- feedback: No. 'has been' changes the meaning to a state continuing up to now, which the original simple present did not express. -->
+- [ ] C) will be
+  <!-- feedback: No. 'will be' moves the deadline to a future point, but the original statement located it in the present and the backshift only pulls it into the past. -->
+- [x] D) was
+  <!-- feedback: Correct! Present simple 'is' shifts to past simple 'was' after the past reporting verb, which is the standard and expected transformation. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+The transformation applies to the whole statement, not only to the subject. Every finite verb in the direct speech moves one step back, and here the shift turns a present fact into a past fact, which is the normal reading of an announcement made in the past.
 ---
-## Question 14 [D8]
-**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-v14
+
+## Question 5 [D4]
+**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Sintaxis
+**Expected_Success:** 0.85
+**Contexto:** Lucia told her mother: I am going to study medicine at the university.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Lucia told her mother that she ___ to study medicine at the university.
 
 ### Opciones
-- [x] C) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book written about a place to help visitors find their way around it. -->
-- [ ] A) map
-  <!-- feedback: Wrong. A 'map' is a single drawing of an area, not the book of practical information about the place. -->
-- [ ] B) dictionary
-  <!-- feedback: Wrong. A 'dictionary' lists words and their meanings, not practical details about a destination. -->
-- [ ] D) encyclopedia
-  <!-- feedback: Wrong. An 'encyclopedia' covers all knowledge on a subject, while a guidebook is written about one specific place. -->
+- [ ] A) goes
+  <!-- feedback: No. 'goes' is present simple active, and leaving it unchanged would ignore the past tense of the reporting verb 'told'. -->
+- [x] B) was going
+  <!-- feedback: Correct! 'is going to' is a future in the present and becomes 'was going to' in reported speech, showing that the plan existed at the time of speaking. -->
+- [ ] C) has gone
+  <!-- feedback: No. 'has gone' states that the action is finished, which is not what 'is going to' means in the original sentence. -->
+- [ ] D) will go
+  <!-- feedback: No. 'will go' keeps the future reference forward instead of pulling it back to the past of the report, so the time reference changes meaning. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+Expressions of intention such as 'is going to' shift to the past continuous of the same future structure, giving 'was going to'. This preserves the idea of a plan held at the moment of speaking rather than a prediction made with 'will'.
 ---
-## Question 15 [D7]
-**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-v15
+
+## Question 6 [D4]
+**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Sintaxis
+**Expected_Success:** 0.85
+**Contexto:** The journalist asked nothing, she simply wrote: The river was polluted last year.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+The journalist wrote that the river ___ polluted the year before.
 
 ### Opciones
-- [x] A) backpack
-  <!-- feedback: Correct! A 'backpack' has two shoulder straps and is designed to be carried on your back. -->
-- [ ] B) suitcase
-  <!-- feedback: Wrong. A 'suitcase' is a flat box with a handle that you pull along beside you. -->
-- [ ] C) briefcase
-  <!-- feedback: Wrong. A 'briefcase' is a stiff case for papers that you carry in your hand at work. -->
-- [ ] D) handbag
-  <!-- feedback: Wrong. A 'handbag' is held in the hand and has no straps at all. -->
+- [ ] A) is
+  <!-- feedback: No. 'is' would move the pollution to the present, but the original sentence described a completed state in the past. -->
+- [ ] B) had been
+  <!-- feedback: No. 'had been' is the past perfect and would place the pollution even earlier than the reporting point, which the original did not require. -->
+- [x] C) was
+  <!-- feedback: Correct! The past simple 'was' stays in the past because the reporting verb is not a past perfect or past continuous construction; only the time expression shifts. -->
+- [ ] D) will be
+  <!-- feedback: No. 'will be' would move a past state into the future, which contradicts the completed action described in the original. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+English does not shift every past tense into a further past. A past simple that is already remote stays as it is, and only the accompanying time expression moves back, which is why 'last year' becomes 'the year before' while the verb form does not change.
 ---
-## Question 16 [D8]
-**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-v16
+
+## Question 7 [D3]
+**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-bundle-v7
+**Bloom:** Apply
+**EJE:** Sintaxis
+**Expected_Success:** 0.85
+**Contexto:** Andres said to his sister: I bought these books yesterday.
+
+### Enunciado
+Andres told his sister that he ___ these books the day before.
+
+### Opciones
+- [x] A) had bought
+  <!-- feedback: Correct! Past simple becomes past perfect in reported speech, and the definite time expression 'yesterday' becomes 'the day before'. -->
+- [ ] B) has bought
+  <!-- feedback: No. 'has bought' is present perfect and would place the purchase after the moment of reporting instead of before it. -->
+- [ ] C) was buying
+  <!-- feedback: No. 'was buying' is past continuous and would describe an action in progress, not a completed purchase as the original states. -->
+- [ ] D) will buy
+  <!-- feedback: No. 'will buy' turns a finished acquisition into a future intention, which is the opposite of the reported meaning. -->
+
+### Explicacion Pedagogica
+A simple past action reported after the fact is normally expressed with the past perfect, because the reporting point is itself later than the action. This is the standard way English avoids implying that the action happened after the moment of speaking.
+---
+
+## Question 8 [D4]
+**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-bundle-v8
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Sintaxis
+**Expected_Success:** 0.85
+**Contexto:** The witness told the court: I did not see the robbery.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+The witness told the court that he ___ the robbery.
 
 ### Opciones
-- [x] B) overseas
-  <!-- feedback: Correct! 'Overseas' means to or in another country reached by crossing the sea. -->
-- [ ] A) domestic
-  <!-- feedback: Wrong. 'Domestic' means inside the borders of your own country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: Wrong. 'Local' means in a particular small area or town, which may well be inside your own country. -->
-- [ ] D) national
-  <!-- feedback: Wrong. 'National' means concerning the nation as a whole, not travelling away from it across the sea. -->
+- [ ] A) does not see
+  <!-- feedback: No. 'does not see' is the present and would make the witness say that he is still unable to see anything, which is not what the original meant. -->
+- [ ] B) had not seen
+  <!-- feedback: No. 'had not seen' is grammatically possible with some time expressions, but 'did not see' refers to a specific completed moment and keeps that reading after the shift. -->
+- [x] C) did not see
+  <!-- feedback: Correct! 'did not see' is already a past form, so the backshift leaves the auxiliary 'did' intact and only the pronoun and context change. -->
+- [ ] D) would not see
+  <!-- feedback: No. 'would not see' is a conditional refusal or habit, which would change a single testimony into a repeated pattern. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+Past simple with the auxiliary 'did' is stable under backshift: it remains 'did not' with the base form of the verb. Only the person or time reference changes, which is why the past simple negation is one of the easiest reported speech forms to produce correctly.
 ---
-## Question 17 [D9]
-**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-v17
+
+## Question 9 [D4]
+**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-bundle-v9
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Sintaxis
+**Expected_Success:** 0.85
+**Contexto:** My father used to travel to the coast every December when he was a child.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+He said that when he was a child he ___ to the coast every December.
 
 ### Opciones
-- [x] D) budget
-  <!-- feedback: Correct! A 'budget' estimates planned income and spending over a set period such as a month or a year. -->
-- [ ] A) expense
-  <!-- feedback: Wrong. An 'expense' is a single outgoing payment, not a plan covering a whole period. -->
-- [ ] B) cost
-  <!-- feedback: Wrong. The 'cost' is the price of one thing or service, with no timeframe attached to it. -->
-- [ ] C) price
-  <!-- feedback: Wrong. A 'price' is the amount a single item sells for, not an estimate of a period's finances. -->
+- [ ] A) has travelled
+  <!-- feedback: No. 'has travelled' is present perfect and refers to a trip that is still relevant now, not to a childhood habit that had already ended. -->
+- [x] B) used to travel
+  <!-- feedback: Correct! 'used to' describes a state of affairs that ended before the moment of speaking, so it stays unchanged inside a past reporting context. -->
+- [ ] C) would travel
+  <!-- feedback: No. 'would travel' expresses a repeated action in the past and is close in meaning, but it refers to the speaker's own past rather than to a childhood period. -->
+- [ ] D) was used to travelling
+  <!-- feedback: No. 'was used to' followed by a gerund describes being accustomed to something, which is a different idea from the past habit itself. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+Some structures are already past and do not move further back. 'Used to' describes a discontinued habit, so it survives inside a past reporting clause unchanged, and the temporal clause 'when he was a child' supplies the reference point that the verb form no longer needs.
 ---
-## Question 18 [D10]
-**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+
+## Question 10 [D4]
+**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-bundle-v10
+**Bloom:** Analyze
+**EJE:** Sintaxis
+**Expected_Success:** 0.85
+**Contexto:** The manager asked the team and one employee replied: I am new to this project.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+The employee replied that he ___ new to the project.
 
 ### Opciones
-- [x] D) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement where a company pays compensation for a specified loss in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: Wrong. A 'warranty' covers a defective product for a limited time and is given by the maker, not for illness or death. -->
-- [ ] B) guarantee
-  <!-- feedback: Wrong. A 'guarantee' is a promise about the quality of a product or service, with no payment of a premium. -->
-- [ ] C) policy
-  <!-- feedback: Wrong. A 'policy' is the written document that records an insurance contract, not the practice of compensation itself. -->
+- [ ] A) is
+  <!-- feedback: No. Keeping 'is' produces a mixed tense inside a reported clause, and although some speakers use it informally, standard English backshifts here. -->
+- [ ] B) will be
+  <!-- feedback: No. 'will be' would assert that he will be new later, which contradicts the original claim that he is new at the moment of speaking. -->
+- [ ] C) had been
+  <!-- feedback: No. 'had been' places his arrival even before the conversation, and the original statement made no such claim about timing. -->
+- [x] D) was
+  <!-- feedback: Correct! 'am' becomes 'was' after the past reporting verb, and the third person pronoun 'he' replaces 'I' as well. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+Two changes happen at once in this sentence: the pronoun of the original first person is replaced by a third person form, and the verb shifts from present to past. Recognising both together is the standard test of whether a reported statement has been formed correctly.
 ---
-## Question 19 [D9]
-**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+
+## Question 11 [D4]
+**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-bundle-v11
+**Bloom:** Apply
+**EJE:** Sintaxis
+**Expected_Success:** 0.85
+**Contexto:** The nurse assured the patient: You will feel much better after the operation.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+The nurse assured the patient that she ___ much better after the operation.
 
 ### Opciones
-- [x] D) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the administration of a vaccine that makes the immune system ready against a disease. -->
-- [ ] A) medication
-  <!-- feedback: Wrong. 'Medication' treats the symptoms of an illness you already have; it does not create immunity beforehand. -->
-- [ ] B) prescription
-  <!-- feedback: Wrong. A 'prescription' is the doctor's written order for a medicine, not the vaccine itself. -->
-- [ ] C) infection
-  <!-- feedback: Wrong. An 'infection' is the invasion of the body by a pathogen, which is the opposite of preventing it. -->
+- [x] A) would feel
+  <!-- feedback: Correct! 'will' becomes 'would' in reported speech, and the time expression 'after the operation' does not need to change. -->
+- [ ] B) will feel
+  <!-- feedback: No. 'will feel' keeps the future tense and would contradict the past tense of 'assured' as the reporting verb. -->
+- [ ] C) could feel
+  <!-- feedback: No. 'could' expresses possibility or ability, which weakens the certainty of the original promise and changes its meaning. -->
+- [ ] D) had felt
+  <!-- feedback: No. 'had felt' places the improvement before the reporting point, whereas the original promise placed it after the operation. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+The future 'will' always shifts to 'would' when the reporting verb is past. Time expressions tied to a point rather than to a date, such as 'after the operation', normally stay the same, so only the verb and sometimes the demonstrative change.
 ---
-## Question 20 [D10]
-**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+
+## Question 12 [D4]
+**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-bundle-v12
+**Bloom:** Analyze
+**EJE:** Sintaxis
+**Expected_Success:** 0.85
+**Contexto:** The tour guide told the tourists: You must wear a jacket in the mountains.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+The tour guide told the tourists that they ___ wear a jacket in the mountains.
 
 ### Opciones
-- [x] A) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock caused by crossing several time zones in a flight. -->
-- [ ] B) fatigue
-  <!-- feedback: Wrong. 'Fatigue' is general tiredness from any cause, such as hard work, not specifically from time zones. -->
-- [ ] C) exhaustion
-  <!-- feedback: Wrong. 'Exhaustion' is extreme tiredness from physical effort or illness, not from a change of time zone. -->
-- [ ] D) insomnia
-  <!-- feedback: Wrong. 'Insomnia' is simply difficulty sleeping, which can come from many causes unrelated to flying. -->
+- [ ] A) must
+  <!-- feedback: No. 'must' can stay in reported speech only when it expresses the guide's own obligation, and here it reports an instruction addressed to the tourists. -->
+- [ ] B) must have to
+  <!-- feedback: No. 'must have to' is not a form of reported speech; it mixes two modal constructions and produces an incorrect verb group. -->
+- [x] C) should
+  <!-- feedback: Correct! Obligation addressed to other people is normally reported with 'should', which softens the instruction without hiding it. -->
+- [ ] D) would
+  <!-- feedback: No. 'would' expresses a past habit or a polite suggestion, not a requirement to wear a jacket for safety. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Obligations reported after the fact follow a conventional shift: 'must' for third person becomes 'should', while 'must' for first person often remains unchanged. The change reflects who the obligation is attributed to inside the reported clause.
+---
+
+## Question 13 [D3]
+**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-bundle-v13
+**Bloom:** Apply
+**EJE:** Sintaxis
+**Expected_Success:** 0.85
+**Contexto:** Priya said about the schedule: We meet at the campus gate at eight.
+
+### Enunciado
+Priya said that they ___ at the campus gate at eight.
+
+### Opciones
+- [ ] A) meet
+  <!-- feedback: No. 'meet' is the base form and cannot act as the finite verb of a clause introduced by 'said that' without an auxiliary. -->
+- [ ] B) meets
+  <!-- feedback: No. 'meets' keeps the third person present simple and ignores the past tense of the reporting verb 'said'. -->
+- [ ] C) will meet
+  <!-- feedback: No. 'will meet' keeps a forward reference that the original present simple did not contain, so the time relation of the report is lost. -->
+- [x] D) met
+  <!-- feedback: Correct! Present simple 'meet' shifts to past simple 'met' after a past reporting verb, and the first person pronoun becomes 'they' in the report. -->
+
+### Explicacion Pedagogica
+Regular and irregular present simple verbs shift in the same way after a past reporting verb, so 'meet' becomes 'met'. The pronoun also changes according to the perspective of the report, which is why 'we' in the original becomes 'they' or another form in the reported clause.
+---
+
+## Question 14 [D4]
+**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-bundle-v14
+**Bloom:** Evaluate
+**EJE:** Sintaxis
+**Expected_Success:** 0.85
+**Contexto:** A reporter asked the mayor about the water problem and the mayor replied: We are working on it.
+
+### Enunciado
+The mayor replied that they ___ on it.
+
+### Opciones
+- [ ] A) are working
+  <!-- feedback: No. 'are working' keeps the present progressive and produces the informal mixed tense that standard reported speech avoids after a past verb. -->
+- [ ] B) worked
+  <!-- feedback: No. 'worked' is past simple and drops the progressive aspect, so it would suggest a completed activity rather than one in progress. -->
+- [ ] C) have worked
+  <!-- feedback: No. 'have worked' links the activity to the present result and loses the sense of an action continuing at the moment of speaking. -->
+- [x] D) were working
+  <!-- feedback: Correct! The present progressive becomes the past progressive 'were working', which preserves both the past reference and the ongoing aspect. -->
+
+### Explicacion Pedagogica
+Progressive tenses backshift exactly as simple and perfect tenses do: present continuous becomes past continuous. Keeping the aspect is what allows the reported clause to still describe an activity that was under way when the remark was made.
+---
+
+## Question 15 [D4]
+**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-bundle-v15
+**Bloom:** Analyze
+**EJE:** Sintaxis
+**Expected_Success:** 0.85
+**Contexto:** The scientist explained to the students: Water boils at one hundred degrees.
+
+### Enunciado
+The scientist explained that water ___ at one hundred degrees.
+
+### Opciones
+- [x] A) boils
+  <!-- feedback: Correct! Scientific facts are treated as always true, so many speakers keep the present simple when reporting a universal statement, and the validator accepts that usage. -->
+- [ ] B) boiled
+  <!-- feedback: No. 'boiled' would turn a general law into a statement about one completed occasion, which loses the timeless quality of the original. -->
+- [ ] C) will boil
+  <!-- feedback: No. 'will boil' places the boiling in the future and contradicts the general present meaning of the scientific fact. -->
+- [ ] D) has boiled
+  <!-- feedback: No. 'has boiled' connects the fact to a present moment and implies that it happened once, which is not how a physical constant is expressed. -->
+
+### Explicacion Pedagogica
+English sometimes keeps the present simple in reported speech when the original statement is a permanent fact, a law or a general truth. Because the truth of the statement does not depend on the moment of speaking, the tense carries time information that need not be shifted.
+---
+
+## Question 16 [D4]
+**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-bundle-v16
+**Bloom:** Analyze
+**EJE:** Sintaxis
+**Expected_Success:** 0.85
+**Contexto:** Andres wrote in his message: I have been working here for five years.
+
+### Enunciado
+Andres wrote that he ___ working there for five years.
+
+### Opciones
+- [ ] A) has been
+  <!-- feedback: No. 'has been' keeps the present perfect continuous, which leaves the reported statement anchored to the present instead of to the past of the writing. -->
+- [ ] B) is working
+  <!-- feedback: No. 'is working' is the present continuous active and would make the five years start at the moment of this report rather than five years before it. -->
+- [x] C) had been
+  <!-- feedback: Correct! Present perfect continuous shifts to past perfect continuous after a past reporting verb, so the duration of the work still reaches the moment of the message. -->
+- [ ] D) had worked
+  <!-- feedback: No. 'had worked' is the past perfect simple and loses the continuous aspect, so it no longer says that the activity itself was still continuing. -->
+
+### Explicacion Pedagogica
+The present perfect continuous expresses an activity that began in the past and continues up to now. In reported speech after a past verb it becomes past perfect continuous, which keeps the link between the starting point and the reporting moment intact.
+---
+
+## Question 17 [D4]
+**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-bundle-v17
+**Bloom:** Evaluate
+**EJE:** Sintaxis
+**Expected_Success:** 0.85
+**Contexto:** The guide warned us: Do not touch the paintings in the old monastery.
+
+### Enunciado
+The guide warned us that we ___ touch the paintings in the old monastery.
+
+### Opciones
+- [ ] A) must not
+  <!-- feedback: No. 'must not' states a prohibition in force now, while a warning reported in the past is better rendered with 'should not'. -->
+- [x] B) should not
+  <!-- feedback: Correct! A prohibition or warning addressed by the speaker and reported later is normally expressed with 'should not', which reports the advice without turning it into a rule. -->
+- [ ] C) will not
+  <!-- feedback: No. 'will not' expresses a refusal or a promise about the future and says nothing about advice given in the past. -->
+- [ ] D) need not
+  <!-- feedback: No. 'need not' removes an obligation rather than forbidding an action, which is the opposite meaning of the warning. -->
+
+### Explicacion Pedagogica
+Warnings and prohibitions in the direct speech use 'do not' or 'must not'. In reported speech the negator becomes 'should not' or 'was not to', both of which report advice or prohibition without the force of a present rule.
+---
+
+## Question 18 [D4]
+**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-bundle-v18
+**Bloom:** Apply
+**EJE:** Sintaxis
+**Expected_Success:** 0.85
+**Contexto:** The coach told the players: We will play three matches in the tournament.
+
+### Enunciado
+The coach told the players that they ___ three matches in the tournament.
+
+### Opciones
+- [x] A) would play
+  <!-- feedback: Correct! 'will' becomes 'would' in reported speech, and the first person 'we' becomes 'they' because the coach is the one reporting it now. -->
+- [ ] B) played
+  <!-- feedback: No. 'played' is past simple and moves a future commitment into a finished past event, which changes what the coach announced. -->
+- [ ] C) will have played
+  <!-- feedback: No. 'will have played' is the future perfect and places the matches even further ahead, so the announcement loses its original sense. -->
+- [ ] D) had played
+  <!-- feedback: No. 'had played' asserts that the matches were already over before the coach spoke, which contradicts a plan for the future. -->
+
+### Explicacion Pedagogica
+A future statement reported with a past verb moves from 'will' to 'would', and the pronoun is converted from first to third person. Together the two changes keep the reported sentence faithful to the announcement while fitting the perspective and time of the reporting act.
+---
+
+## Question 19 [D4]
+**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-bundle-v19
+**Bloom:** Analyze
+**EJE:** Sintaxis
+**Expected_Success:** 0.85
+**Contexto:** Carmen explained to the class: We have already decided the topic for the essay.
+
+### Enunciado
+Carmen explained that they ___ already decided the topic for the essay.
+
+### Opciones
+- [ ] A) have
+  <!-- feedback: No. 'have decided' keeps the present perfect, which would suggest the decision still shapes the situation at the moment of this report. -->
+- [ ] B) was
+  <!-- feedback: No. 'was' cannot stand with 'already decided' in the past perfect sense, because 'was decided' would express only a simple past state. -->
+- [ ] C) would have
+  <!-- feedback: No. 'would have decided' is conditional and implies that the decision was never made, which contradicts the original statement. -->
+- [x] D) had
+  <!-- feedback: Correct! Present perfect 'have decided' becomes past perfect 'had decided', and the adverb 'already' stays with the same force. -->
+
+### Explicacion Pedagogica
+Present perfect backshifts to past perfect as a matter of rule, and adverbs of time such as 'already' normally keep their position and meaning. The result is a reported statement whose certainty about a completed decision is unchanged.
+---
+
+## Question 20 [D4]
+**ID:** EC-ING-11-2026-W19-reported-speech-statements-001-MASTERY-bundle-v20
+**Bloom:** Evaluate
+**EJE:** Sintaxis
+**Expected_Success:** 0.85
+**Contexto:** Rosa announced to the committee: I am taking a new position in the coastal city.
+
+### Enunciado
+Rosa announced that she ___ a new position in the coastal city.
+
+### Opciones
+- [ ] A) took
+  <!-- feedback: No. 'took' is past simple and presents the decision as already finished, while the original announcement describes a decision being taken at that moment. -->
+- [x] B) was taking
+  <!-- feedback: Correct! 'am taking' shifts to 'was taking', which preserves both the past reference and the idea of a decision in the process of being made. -->
+- [ ] C) has taken
+  <!-- feedback: No. 'has taken' links the new position to the present and would suggest she holds it now, which the announcement did not yet claim. -->
+- [ ] D) would take
+  <!-- feedback: No. 'would take' expresses a future action seen from the past and carries no sense of an arrangement already under way. -->
+
+### Explicacion Pedagogica
+Progressive forms are frequent in announcements about arrangements and decisions, and they shift from present to past continuous. The shift matters because a progressive states that something is under way, which a simple past form would flatten into a finished fact.
+---
