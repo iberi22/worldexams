@@ -161,7 +161,7 @@ La ganancia es la diferencia entre lo que entra y lo que sale. En cualquier ofic
 ### Explicacion Pedagogica
 Cada oficio sirve a alguien. El que prepara alimentos, el que cuida a los enfermos, el que lleva mensajes y el que repara lo que se daña son todos parte de la comunidad. Conocer esos oficios ayuda a valorar el trabajo de los demás y a entender que una comunidad necesita de todos.
 
-## Question 7 [D7-D8]
+## Question 7 [D9-D10]
 **ID:** CO-SOC-4-2026-W08-el-trabajo-y-los-oficios-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **ICFES:** Ciudadano
@@ -184,7 +184,7 @@ Cada oficio sirve a alguien. El que prepara alimentos, el que cuida a los enferm
 ### Explicacion Pedagogica
 Conocer un trabajo se hace preguntando, no suponiendo. Cuando un niño pregunta qué hace su padre o su madre durante el día, aprende a respetar ese esfuerzo y a entender de dónde vienen los recursos de la casa. La curiosidad es la base del respeto.
 
-## Question 8 [D7-D8]
+## Question 8 [D9-D10]
 **ID:** CO-SOC-4-2026-W08-el-trabajo-y-los-oficios-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
 **ICFES:** Reflexión ética y política

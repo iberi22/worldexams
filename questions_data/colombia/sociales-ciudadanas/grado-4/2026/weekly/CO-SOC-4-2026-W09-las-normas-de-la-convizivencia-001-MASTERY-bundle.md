@@ -161,7 +161,7 @@ Para saber cuántos grupos entran se divide el total de estudiantes entre los qu
 ### Explicacion Pedagogica
 Una norma pierde fuerza cuando se pide a otros y uno no la cumple. La convivencia se sostiene en la simetría: la regla vale por igual para el que la proclama y para el resto. Por eso lo primero que se revisa en un conflicto es si quien exige está cumple también.
 
-## Question 7 [D7-D8]
+## Question 7 [D9-D10]
 **ID:** CO-SOC-4-2026-W09-las-normas-de-la-convizivencia-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **ICFES:** Ciudadano
@@ -184,7 +184,7 @@ Una norma pierde fuerza cuando se pide a otros y uno no la cumple. La convivenci
 ### Explicacion Pedagogica
 Cuando un grupo decide algo que afecta a todos, tiene que consultar a quien corresponde. Limpiar el parque es buena intención, pero si se hace sin permiso ni acuerdo, deja de ser acción comunitaria y se vuelve una intervención que otros no pidieron.
 
-## Question 8 [D7-D8]
+## Question 8 [D9-D10]
 **ID:** CO-SOC-4-2026-W09-las-normas-de-la-convizivencia-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
 **ICFES:** Reflexión ética y política

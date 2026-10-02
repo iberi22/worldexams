@@ -161,7 +161,7 @@ Si la norma está escrita pero casi nadie la cumple, ¿qué conviene revisar pri
 ### Explicacion Pedagogica
 Una norma que no se cumple casi nunca falla por falta de sanción. Primero hay que preguntarse si se entiende, si es posible cumplirla con lo que hay y si hay alguien responsable. Solo si todo eso funciona, la sanción deja de ser lo central.
 
-## Question 7 [D7-D8]
+## Question 7 [D9-D10]
 **ID:** CO-SOC-4-2026-W07-la-escuela-como-comunidad-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **ICFES:** Ciudadano
@@ -186,7 +186,7 @@ No todo pesa igual en una comunidad: hay necesidades esenciales para poder apren
 
 Una comunidad responsable reconoce esa diferencia. No le pide a quien no alcanza a pagar que pague igual, y a la vez no deja que esa carencia se vuelva motivo de burla o de exclusión. También busca que todos alcancen a participar: con un fondo común, con trabajo cooperativo o con una cuota que no castigue a las familias con menos recursos. Eso es lo que diferencia una comunidad que comparte de una que solo comparte quien puede.
 
-## Question 8 [D7-D8]
+## Question 8 [D9-D10]
 **ID:** CO-SOC-4-2026-W07-la-escuela-como-comunidad-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
 **ICFES:** Reflexión ética y política
