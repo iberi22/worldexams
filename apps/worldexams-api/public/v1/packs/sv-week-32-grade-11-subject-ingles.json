@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle-v1",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Soyapango, SV.",
+      "statement": "A text begins: 'Read this notice carefully: all students must return library books on Friday.' What is the purpose of the text?",
+      "context": "A reading comprehension exercise in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! With 'I' the present continuous needs the auxiliary 'am', and 'reading' is the -ing form: I am reading."
-        },
-        {
           "letter": "A",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "'Is' goes with he, she, it and singular nouns, not with 'I'. The subject here is 'I', so the auxiliary must be 'am'."
+          "text": "To tell readers what they are required to do",
+          "is_correct": true,
+          "feedback": "The notice gives an obligation, which is the purpose its form signals."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "To describe how the library works",
           "is_correct": false,
-          "feedback": "'Are' goes with you, we, they and plural nouns. With 'I' the only correct auxiliary in this tense is 'am'."
+          "feedback": "Only the return requirement is mentioned, not a description of the whole system."
+        },
+        {
+          "letter": "C",
+          "text": "To persuade students to enjoy reading more",
+          "is_correct": false,
+          "feedback": "No argument about reading habits appears in the notice at all."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "To tell a story about a lost book",
           "is_correct": false,
-          "feedback": "'Be' on its own is the bare infinitive; the present continuous is formed with a conjugated auxiliary plus the -ing form, and 'I' takes 'am'."
+          "feedback": "There is no narrative in the text; it is a set of instructions."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "correct_answer": "A",
+      "explanation": "The imperative verb 'must return' and the wording 'carefully' show that the writer wants readers to act on the information.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -54,41 +54,41 @@
     },
     {
       "id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle-v2",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "What is the purpose of a text that lists the ingredients and steps for making a soup?",
+      "context": "A reading comprehension lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means showing kindness and generosity towards other people."
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "To argue that soup is better than other dishes",
           "is_correct": false,
-          "feedback": "That is the opposite of 'benevolent', which describes someone who is kind and generous, not unkind."
+          "feedback": "No comparison or opinion is offered in a recipe."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "To explain how to prepare a dish",
+          "is_correct": true,
+          "feedback": "The sequence of steps gives instructions for cooking, which is the purpose."
+        },
+        {
+          "letter": "C",
+          "text": "To tell the history of the recipe",
           "is_correct": false,
-          "feedback": "'Benevolent' does not describe speed; it describes character. Words like 'quick' or 'fast' belong to how fast somebody acts, not to how kind they are."
+          "feedback": "Nothing in the description concerns where the recipe came from."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "To describe the taste of the soup",
           "is_correct": false,
-          "feedback": "'Benevolent' describes kindness, not speed or effort. It has nothing to do with being slow or lazy."
+          "feedback": "Taste would need adjectives about flavour, which the text does not include."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "correct_answer": "B",
+      "explanation": "A text that lists ingredients and steps is written so that a reader can carry out the process described.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -99,41 +99,41 @@
     },
     {
       "id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle-v3",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Read the text and identify its purpose: 'Once you have read the chapter, answer the six questions at the end of page forty.'",
+      "context": "A reading comprehension exercise in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text covers both jobs of bees: they carry pollen from flower to flower and they make honey."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
+          "text": "To summarise the plot of the chapter",
           "is_correct": false,
-          "feedback": "The text says nothing about bees being dangerous; it presents them as useful, because of pollination and honey production."
+          "feedback": "The text gives no plot information at all; it only directs the reader."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "To persuade the reader to read further chapters",
           "is_correct": false,
-          "feedback": "The text names two things bees do, pollination and honey, so honey is not the only product mentioned."
+          "feedback": "There is no argument encouraging the reader to continue."
+        },
+        {
+          "letter": "C",
+          "text": "To direct the reader to a task to carry out",
+          "is_correct": true,
+          "feedback": "The imperative 'answer' tells the reader what to do next, which is the purpose."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "To provide background information about the author",
           "is_correct": false,
-          "feedback": "That contradicts the text: pollination by bees is exactly what the passage describes as one of their contributions."
+          "feedback": "Nothing in the instruction concerns the author."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "explanation": "The instruction points the reader to a specific activity after reading, so the purpose is to direct the reader's next step.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -144,41 +144,41 @@
     },
     {
       "id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle-v4",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "A text describes how a new recycling system works in the city. What is its purpose?",
+      "context": "A reading comprehension lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Go' is irregular, so its past simple is 'went' and it does not take the -ed ending."
+          "text": "To convince readers to oppose the system",
+          "is_correct": false,
+          "feedback": "An argumentative text would present reasons against it, which the text does not."
         },
         {
           "letter": "B",
-          "text": "goed",
+          "text": "To narrate the life of a recycler",
           "is_correct": false,
-          "feedback": "'Goed' is not an English word. The verb 'go' is irregular, so its past simple is 'went'."
+          "feedback": "A narrative would tell a story with characters, which is absent here."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "To entertain with a humorous account",
           "is_correct": false,
-          "feedback": "'Gone' is the past participle, used with 'have' (I have gone), not the past simple form the question asks for."
+          "feedback": "Humour is not the register the description of the system uses."
         },
         {
           "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'am/is/are' (I am going), not the past simple."
+          "text": "To inform readers about how the system works",
+          "is_correct": true,
+          "feedback": "Explaining a process is an informative purpose, which matches the text."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "correct_answer": "D",
+      "explanation": "A text that explains how a system works is intended to inform the reader about the way it functions.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Understand",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -189,41 +189,41 @@
     },
     {
       "id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle-v5",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "What is the purpose of a text that reports the results of a scientific study?",
+      "context": "A reading comprehension task in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple, 'she' takes the verb with -s: she goes."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "To sell a product to the public",
           "is_correct": false,
-          "feedback": "The third person singular in the present simple adds -s, so it must be 'she goes', not 'she go'."
+          "feedback": "Nothing in the description is commercial, and reports do not aim to sell."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "To entertain readers with an unusual event",
           "is_correct": false,
-          "feedback": "This is missing the auxiliary. With 'going' you need 'is': she is going to school every day."
+          "feedback": "The purpose is factual rather than entertaining in a study report."
         },
         {
           "letter": "C",
-          "text": "She gone to school every day.",
+          "text": "To teach a practical skill step by step",
           "is_correct": false,
-          "feedback": "'Gone' is a past participle and needs 'has' (she has gone); the present simple is 'she goes'."
+          "feedback": "That would be an instructional text, not a report of findings."
+        },
+        {
+          "letter": "D",
+          "text": "To present findings and information about a study",
+          "is_correct": true,
+          "feedback": "A report of results exists to inform the reader about what was discovered."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "6",
+      "explanation": "Reporting findings is an informative purpose: the writer's aim is to convey what the study discovered.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Understand",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -234,41 +234,41 @@
     },
     {
       "id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle-v6",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Choose the text whose purpose is to entertain.",
+      "context": "A reading comprehension lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! With 'I' the present continuous needs the auxiliary 'am', and 'reading' is the -ing form: I am reading."
+          "letter": "A",
+          "text": "A list of the dates of each school holiday",
+          "is_correct": false,
+          "feedback": "A list of dates is informative and serves no purpose to amuse."
         },
         {
-          "letter": "A",
-          "text": "is",
+          "letter": "B",
+          "text": "A description of how to change a bicycle tyre",
           "is_correct": false,
-          "feedback": "'Is' goes with he, she, it and singular nouns, not with 'I'. The subject here is 'I', so the auxiliary must be 'am'."
+          "feedback": "A set of instructions is instructional rather than entertaining."
         },
         {
           "letter": "C",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "'Are' goes with you, we, they and plural nouns. With 'I' the only correct auxiliary in this tense is 'am'."
+          "text": "A funny story about a student who lost his shoes on the way to school",
+          "is_correct": true,
+          "feedback": "The humour and the light plot aim to amuse the reader, which is entertainment."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "A report on school attendance figures",
           "is_correct": false,
-          "feedback": "'Be' on its own is the bare infinitive; the present continuous is formed with a conjugated auxiliary plus the -ing form, and 'I' takes 'am'."
+          "feedback": "A report of figures is informative and would not aim to amuse."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "A text written to entertain aims to give the reader pleasure, usually through a story or a humorous situation.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -279,41 +279,41 @@
     },
     {
       "id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle-v7",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Read the text and identify its purpose: 'Because the road will be closed on Friday, the school bus will pick you up two streets earlier than usual.'",
+      "context": "A reading comprehension exercise in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means showing kindness and generosity towards other people."
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "To argue against closing roads in the city",
           "is_correct": false,
-          "feedback": "That is the opposite of 'benevolent', which describes someone who is kind and generous, not unkind."
+          "feedback": "The text accepts the closure and works with it rather than objecting to it."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "To inform readers about a change to the bus route",
+          "is_correct": true,
+          "feedback": "The sentence gives practical information about an alteration caused by roadworks."
+        },
+        {
+          "letter": "C",
+          "text": "To describe the history of the bus route",
           "is_correct": false,
-          "feedback": "'Benevolent' does not describe speed; it describes character. Words like 'quick' or 'fast' belong to how fast somebody acts, not to how kind they are."
+          "feedback": "No historical background appears in the notice."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "To entertain readers with an amusing anecdote",
           "is_correct": false,
-          "feedback": "'Benevolent' describes kindness, not speed or effort. It has nothing to do with being slow or lazy."
+          "feedback": "The tone is practical and factual, with no aim to amuse."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "The text explains a change caused by roadworks so that passengers can adapt, which is a practical informative purpose.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -324,41 +324,41 @@
     },
     {
       "id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle-v8",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "What is the difference between a text written to inform and one written to persuade?",
+      "context": "A reading strategy lesson in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text covers both jobs of bees: they carry pollen from flower to flower and they make honey."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "The text says nothing about bees being dangerous; it presents them as useful, because of pollination and honey production."
+          "text": "An informative text presents facts; a persuasive one argues for a position.",
+          "is_correct": true,
+          "feedback": "The first aims at understanding and the second at convincing, which is the core difference."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "They are exactly the same, because both report facts.",
           "is_correct": false,
-          "feedback": "The text names two things bees do, pollination and honey, so honey is not the only product mentioned."
+          "feedback": "A persuasive text uses facts to support an argument, which is a different aim."
+        },
+        {
+          "letter": "C",
+          "text": "An informative text is always shorter than a persuasive one.",
+          "is_correct": false,
+          "feedback": "Length is a matter of subject matter, not of purpose."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "A persuasive text never mentions facts at all.",
           "is_correct": false,
-          "feedback": "That contradicts the text: pollination by bees is exactly what the passage describes as one of their contributions."
+          "feedback": "Persuasive writing often relies heavily on facts and figures as evidence."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "An informative text presents facts, while a persuasive text argues for a position and tries to change the reader's mind.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle-v9",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Choose the sentence that signals an argumentative text.",
+      "context": "A reading comprehension exercise in a secondary school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Go' is irregular, so its past simple is 'went' and it does not take the -ed ending."
+          "text": "The school day begins at seven o'clock and ends at one in the afternoon.",
+          "is_correct": false,
+          "feedback": "This is a plain statement of fact with no position being argued for."
         },
         {
           "letter": "B",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "'Goed' is not an English word. The verb 'go' is irregular, so its past simple is 'went'."
+          "text": "In my view, the school day should start later, because students sleep badly otherwise.",
+          "is_correct": true,
+          "feedback": "The phrase 'in my view' and the word 'because' present a claim with its reason, which is argument."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "The bell rings at seven o'clock every weekday morning.",
           "is_correct": false,
-          "feedback": "'Gone' is the past participle, used with 'have' (I have gone), not the past simple form the question asks for."
+          "feedback": "Reporting a fixed routine is informative, not argumentative."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "The playground is on the other side of the building.",
           "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'am/is/are' (I am going), not the past simple."
+          "feedback": "Giving a location is informative and takes no position at all."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "An argumentative text asks the reader to accept a claim, so it uses words such as 'therefore', 'in my view' or 'clearly' to push a position.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle-v10",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Salvador, SV.",
+      "statement": "What is the purpose of a text that gives directions for reaching a place?",
+      "context": "A reading comprehension task in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple, 'she' takes the verb with -s: she goes."
+          "letter": "A",
+          "text": "To describe the history of the place",
+          "is_correct": false,
+          "feedback": "Nothing in a set of directions concerns origins or dates."
         },
         {
-          "letter": "A",
-          "text": "She go to school every day.",
+          "letter": "B",
+          "text": "To persuade the reader to visit the place",
           "is_correct": false,
-          "feedback": "The third person singular in the present simple adds -s, so it must be 'she goes', not 'she go'."
+          "feedback": "Directions help a reader find a place; they do not argue for visiting it."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "To entertain the reader with local customs",
           "is_correct": false,
-          "feedback": "This is missing the auxiliary. With 'going' you need 'is': she is going to school every day."
+          "feedback": "A description of customs would be a different text with a different purpose."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "'Gone' is a past participle and needs 'has' (she has gone); the present simple is 'she goes'."
+          "text": "To instruct the reader on how to get somewhere",
+          "is_correct": true,
+          "feedback": "Directions exist to lead a reader from one place to another."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "Giving directions so that a reader can find a place is an instructional purpose, since the aim is that the reader can act on the information.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Understand",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -459,41 +459,41 @@
     },
     {
       "id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle-v11",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in San Salvador, SV.",
+      "statement": "What is the purpose of a text that opens with 'Dear Customer' and closes with 'Yours faithfully'?",
+      "context": "A reading skills lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! With 'I' the present continuous needs the auxiliary 'am', and 'reading' is the -ing form: I am reading."
+          "text": "To tell a fictional story",
+          "is_correct": false,
+          "feedback": "A story does not use a salutation or a formal sign-off."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "To describe a scientific process",
           "is_correct": false,
-          "feedback": "'Is' goes with he, she, it and singular nouns, not with 'I'. The subject here is 'I', so the auxiliary must be 'am'."
+          "feedback": "A scientific text uses impersonal verbs rather than a letter format."
         },
         {
           "letter": "C",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "'Are' goes with you, we, they and plural nouns. With 'I' the only correct auxiliary in this tense is 'am'."
+          "text": "To write a formal letter",
+          "is_correct": true,
+          "feedback": "The salutation and the closing are the conventions of a formal letter."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "To list prices for customers",
           "is_correct": false,
-          "feedback": "'Be' on its own is the bare infinitive; the present continuous is formed with a conjugated auxiliary plus the -ing form, and 'I' takes 'am'."
+          "feedback": "A price list is informative and would not include a sign-off."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "The formal opening and closing mark a letter, so the text exists to communicate with a particular reader in an official way.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -504,41 +504,41 @@
     },
     {
       "id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle-v12",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Read and identify the purpose: 'The following three sections explain how to apply, how to renew and how to cancel a membership.'",
+      "context": "A reading skills lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Kind and generous",
+          "letter": "A",
+          "text": "To explain how to carry out three procedures",
           "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means showing kindness and generosity towards other people."
+          "feedback": "Each section gives instructions the reader can follow, which is instructional."
         },
         {
-          "letter": "A",
-          "text": "Mean and cruel",
+          "letter": "B",
+          "text": "To argue that memberships are unnecessary",
           "is_correct": false,
-          "feedback": "That is the opposite of 'benevolent', which describes someone who is kind and generous, not unkind."
+          "feedback": "No argument against memberships appears in the text."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "To describe the history of the organisation",
           "is_correct": false,
-          "feedback": "'Benevolent' does not describe speed; it describes character. Words like 'quick' or 'fast' belong to how fast somebody acts, not to how kind they are."
+          "feedback": "The sentence concerns current procedures, not past history."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "To persuade readers to become members",
           "is_correct": false,
-          "feedback": "'Benevolent' describes kindness, not speed or effort. It has nothing to do with being slow or lazy."
+          "feedback": "The text explains how to use a membership but does not promote joining one."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "The text lays out procedures step by step so that a reader can carry them out, which is an instructional purpose.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -549,41 +549,41 @@
     },
     {
       "id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle-v13",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in San Miguel, SV.",
+      "statement": "A text describes the causes of a landslide that blocked a road. What is its purpose?",
+      "context": "A reading skills lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text covers both jobs of bees: they carry pollen from flower to flower and they make honey."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
+          "text": "To entertain readers with a dramatic story",
           "is_correct": false,
-          "feedback": "The text says nothing about bees being dangerous; it presents them as useful, because of pollination and honey production."
+          "feedback": "The aim is factual explanation, not amusement."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "To persuade readers to avoid the road entirely",
           "is_correct": false,
-          "feedback": "The text names two things bees do, pollination and honey, so honey is not the only product mentioned."
+          "feedback": "The text explains the cause but makes no recommendation of that kind."
+        },
+        {
+          "letter": "C",
+          "text": "To give instructions for clearing the road",
+          "is_correct": false,
+          "feedback": "The text describes causes rather than instructing anyone to act."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
-          "is_correct": false,
-          "feedback": "That contradicts the text: pollination by bees is exactly what the passage describes as one of their contributions."
+          "text": "To explain why the event happened",
+          "is_correct": true,
+          "feedback": "The text investigates causes, which makes it explanatory and therefore informative."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Explaining why something happened is an informative purpose, since the reader's understanding is the aim.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -594,41 +594,41 @@
     },
     {
       "id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle-v14",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Which text has a persuasive purpose?",
+      "context": "A reading skills lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Go' is irregular, so its past simple is 'went' and it does not take the -ed ending."
+          "text": "This route runs for eleven kilometres and passes through three towns.",
+          "is_correct": false,
+          "feedback": "It reports measurable facts without arguing for a choice."
         },
         {
           "letter": "B",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "'Goed' is not an English word. The verb 'go' is irregular, so its past simple is 'went'."
+          "text": "We strongly recommend this route, because it avoids the steep climb and saves nearly an hour.",
+          "is_correct": true,
+          "feedback": "It recommends a course of action and supplies the reasons for doing so."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "The route was closed for repairs during the month of March.",
           "is_correct": false,
-          "feedback": "'Gone' is the past participle, used with 'have' (I have gone), not the past simple form the question asks for."
+          "feedback": "That is a neutral statement of fact about an event."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "Mountain roads in the region are built with wide hairpin bends.",
           "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'am/is/are' (I am going), not the past simple."
+          "feedback": "The sentence generalises about construction without recommending anything."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "A persuasive text takes a position and gives reasons so that the reader is convinced.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -639,41 +639,41 @@
     },
     {
       "id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle-v15",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Read and identify the purpose: 'Turn left after the bridge, walk for two hundred metres and then turn right at the school gate.'",
+      "context": "A reading skills lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "She goes to school every day.",
+          "text": "To direct a reader to a location",
           "is_correct": true,
-          "feedback": "Correct! In the present simple, 'she' takes the verb with -s: she goes."
+          "feedback": "The imperative verbs describe the route step by step."
         },
         {
           "letter": "B",
-          "text": "She go to school every day.",
+          "text": "To persuade the reader to visit the school",
           "is_correct": false,
-          "feedback": "The third person singular in the present simple adds -s, so it must be 'she goes', not 'she go'."
+          "feedback": "The sentence gives directions and makes no invitation at all."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "To describe the history of the bridge",
           "is_correct": false,
-          "feedback": "This is missing the auxiliary. With 'going' you need 'is': she is going to school every day."
+          "feedback": "No historical information appears in the directions given."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "To explain why the road was closed",
           "is_correct": false,
-          "feedback": "'Gone' is a past participle and needs 'has' (she has gone); the present simple is 'she goes'."
+          "feedback": "The sentence concerns directions, not reasons for any closure."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "8",
+      "explanation": "A sequence of instructions the reader can follow is an instructional text intended to guide someone to a place.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -684,41 +684,41 @@
     },
     {
       "id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle-v16",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "What is the purpose of a text that reports what happened at a town meeting?",
+      "context": "A reading skills lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! With 'I' the present continuous needs the auxiliary 'am', and 'reading' is the -ing form: I am reading."
+          "letter": "A",
+          "text": "To argue that the decisions taken were wrong",
+          "is_correct": false,
+          "feedback": "That would require reasons and a position, which reporting does not supply."
         },
         {
-          "letter": "A",
-          "text": "is",
+          "letter": "B",
+          "text": "To persuade people to attend the next meeting",
           "is_correct": false,
-          "feedback": "'Is' goes with he, she, it and singular nouns, not with 'I'. The subject here is 'I', so the auxiliary must be 'am'."
+          "feedback": "A report describes the past meeting rather than advertising another one."
         },
         {
           "letter": "C",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "'Are' goes with you, we, they and plural nouns. With 'I' the only correct auxiliary in this tense is 'am'."
+          "text": "To report the events of the meeting",
+          "is_correct": true,
+          "feedback": "The text recounts what occurred so that readers can know about it."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "To instruct readers on how to hold a meeting",
           "is_correct": false,
-          "feedback": "'Be' on its own is the bare infinitive; the present continuous is formed with a conjugated auxiliary plus the -ing form, and 'I' takes 'am'."
+          "feedback": "The text is not a guide to procedure; it reports one specific case."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "Reporting an event accurately for those who could not attend is an informative purpose.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -729,41 +729,41 @@
     },
     {
       "id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle-v17",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "How can a reader tell a text is written to persuade?",
+      "context": "A reading skills lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means showing kindness and generosity towards other people."
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "It contains a list of dates and figures only",
           "is_correct": false,
-          "feedback": "That is the opposite of 'benevolent', which describes someone who is kind and generous, not unkind."
+          "feedback": "Facts appear in informative writing and can also support an argument."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
-          "is_correct": false,
-          "feedback": "'Benevolent' does not describe speed; it describes character. Words like 'quick' or 'fast' belong to how fast somebody acts, not to how kind they are."
+          "text": "It contains a position supported by reasons",
+          "is_correct": true,
+          "feedback": "A claim with evidence aimed at agreement is the marker of persuasive writing."
         },
         {
           "letter": "C",
-          "text": "Slow and lazy",
+          "text": "It is always printed in a newspaper",
           "is_correct": false,
-          "feedback": "'Benevolent' describes kindness, not speed or effort. It has nothing to do with being slow or lazy."
+          "feedback": "Medium does not determine the purpose of a text."
+        },
+        {
+          "letter": "D",
+          "text": "It contains no paragraphs at all",
+          "is_correct": false,
+          "feedback": "Persuasive texts are usually well organised into paragraphs."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "Persuasive writing contains a claim and supporting reasons, usually marked by words such as 'therefore' or 'clearly'.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -774,41 +774,41 @@
     },
     {
       "id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle-v18",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Read and identify the purpose: 'Twenty years ago the factory employed three hundred people; today it employs twelve.'",
+      "context": "A reading skills lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Bees are important for pollination and honey",
+          "letter": "A",
+          "text": "To present a contrastive comparison of employment",
           "is_correct": true,
-          "feedback": "Correct! The text covers both jobs of bees: they carry pollen from flower to flower and they make honey."
+          "feedback": "The two figures are compared to show how the situation changed."
         },
         {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
+          "letter": "B",
+          "text": "To argue that the factory should close",
           "is_correct": false,
-          "feedback": "The text says nothing about bees being dangerous; it presents them as useful, because of pollination and honey production."
+          "feedback": "The text reports figures without recommending any action."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
+          "text": "To entertain readers with a story about workers",
           "is_correct": false,
-          "feedback": "The text names two things bees do, pollination and honey, so honey is not the only product mentioned."
+          "feedback": "There is no narrative element in a bare statistical comparison."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "To explain how to apply for a job there",
           "is_correct": false,
-          "feedback": "That contradicts the text: pollination by bees is exactly what the passage describes as one of their contributions."
+          "feedback": "The sentence says nothing about how to find work in the factory."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "The sentence sets two figures against each other so the reader can see the decline, which is an informative contrast.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle-v19",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Choose the text that is mainly informative rather than persuasive.",
+      "context": "A reading skills lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Go' is irregular, so its past simple is 'went' and it does not take the -ed ending."
+          "text": "You simply must visit this museum, because it is the finest in the region.",
+          "is_correct": false,
+          "feedback": "The imperative and the superlative push the reader towards a decision."
         },
         {
           "letter": "B",
-          "text": "goed",
+          "text": "Everyone agrees that this museum deserves more funding than it receives.",
           "is_correct": false,
-          "feedback": "'Goed' is not an English word. The verb 'go' is irregular, so its past simple is 'went'."
+          "feedback": "The appeal for funding states a position the reader is expected to share."
         },
         {
           "letter": "C",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": "'Gone' is the past participle, used with 'have' (I have gone), not the past simple form the question asks for."
+          "text": "The museum contains more than four hundred paintings from the sixteenth century onwards.",
+          "is_correct": true,
+          "feedback": "The sentence presents a verifiable fact and argues for nothing."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "In my opinion the museum is far too small for its collection.",
           "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'am/is/are' (I am going), not the past simple."
+          "feedback": "The phrase 'in my opinion' announces a personal judgement to be accepted."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "An informative text presents facts without taking a position, while a persuasive one argues for one.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle-v20",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Read and identify the purpose: 'If you are allergic to any ingredient, tell the kitchen before you order.'",
+      "context": "A reading skills lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple, 'she' takes the verb with -s: she goes."
+          "letter": "A",
+          "text": "To describe the ingredients in the kitchen",
+          "is_correct": false,
+          "feedback": "The sentence says nothing about the ingredients themselves."
         },
         {
-          "letter": "A",
-          "text": "She go to school every day.",
+          "letter": "B",
+          "text": "To warn that the restaurant may close soon",
           "is_correct": false,
-          "feedback": "The third person singular in the present simple adds -s, so it must be 'she goes', not 'she go'."
+          "feedback": "No mention of closing appears in the sentence."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "To persuade customers to choose a different restaurant",
           "is_correct": false,
-          "feedback": "This is missing the auxiliary. With 'going' you need 'is': she is going to school every day."
+          "feedback": "The sentence keeps the reader inside this restaurant and gives advice."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "'Gone' is a past participle and needs 'has' (she has gone); the present simple is 'she goes'."
+          "text": "To instruct a reader on what to do before ordering",
+          "is_correct": true,
+          "feedback": "It gives a conditional instruction the reader can act on directly."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "The sentence gives a practical instruction for a safe course of action, which is an instructional purpose.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",

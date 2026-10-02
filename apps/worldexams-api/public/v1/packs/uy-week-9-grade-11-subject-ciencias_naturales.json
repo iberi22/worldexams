@@ -189,36 +189,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v5",
-      "statement": "¿Cuál es la función de las enzimas de restricción (endonucleasas) en la tecnología del ADN recombinante?",
-      "context": "En el taller de Ciencias Naturales en Mercedes, Juana observa un modelo experimental de enzimas de restricción.",
+      "statement": "Que caracteristica de los genes bacterianos facilita la expresion de un gen humano en una bacteria?",
+      "context": "En el laboratorio del Liceo N. 5 de Maldonado, Joaquin incorpora un gen de insulina humana en un cromosoma bacteriano.",
       "options": [
         {
-          "letter": "D",
-          "text": "Cortar el ADN en secuencias de nucleótidos específicas y palindrómicas de manera precisa.",
-          "is_correct": true,
-          "feedback": "Correcto. Las enzimas de restricción cortan el ADN reconociendo secuencias diana de 4 a 8 pares de bases."
-        },
-        {
           "letter": "A",
-          "text": "Unir de forma covalente azúcares desoxirribosas de diferentes plásmidos.",
-          "is_correct": false,
-          "feedback": "Incorrecto. La unión covalente de fragmentos de ADN es catalizada por la enzima ligasa."
+          "text": "La existencia de una secuencia de inicio y de terminacion reconocibles por la maquinaria bacteriana.",
+          "is_correct": true,
+          "feedback": "Correcto. Aunque el gen venga de un organismo eucariota, si incluye las señales de inicio y de parada del hospedero bacteriano la transcripcion y la traduccion pueden ocurrir en el."
         },
         {
           "letter": "B",
-          "text": "Duplicar de manera exponencial cadenas de ARN dentro de un termociclador.",
+          "text": "La ausencia de intrones en el ADN bacteriano, que evita tener que procesar el ARN mensajero.",
           "is_correct": false,
-          "feedback": "Incorrecto. La duplicación in vitro es realizada por la polimerasa Taq en la PCR, no por endonucleasas."
+          "feedback": "Correcto pero no basta por si solo, porque ademas hacen falta las señales de inicio y de terminacion y un promotor adecuado."
         },
         {
           "letter": "C",
-          "text": "Degradar las proteínas de la envoltura celular bacteriana antes de la inserción.",
+          "text": "El hecho de que las bacterias tengan 70S en lugar de 80S ribosomas.",
           "is_correct": false,
-          "feedback": "Incorrecto. Las membranas o paredes se disuelven mediante detergentes, lisozimas o electroporación."
+          "feedback": "Incorrecto. La diferencia entre los ribosomas no permite que una bacteria traduzca un gen humano, porque el problema no esta en el tamaño de la maquina de traduccion."
+        },
+        {
+          "letter": "D",
+          "text": "La capacidad bacteriana de replicar con rapidez cualquier fragmento de ADN que se incorpore.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incorporar un fragmento no basta para que se exprese, y ademas el ADN foraneo suele necesitar una proteccion o una procedencia concreta para sobrevivir."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Las enzimas de restricción, descubiertas en bacterias como mecanismo de defensa viral, generan extremos cohesivos o romos útiles para clonación. En este contexto, Juana de Mercedes determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "A",
+      "explanation": "La expresion heterologa depende de que el gen foraneo sea reconocible para el hospedero. Por eso en ingenieria genetica se combinan un promotor bacteriano con la secuencia codificante humana, de modo que los dos elementos sean los que la bacteria ya sabe procesar.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -234,36 +234,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v6",
-      "statement": "¿Qué propiedad física de las macromoléculas permite separar las dos hebras de la doble hélice de ADN durante el paso de desnaturalización en un ensayo de PCR?",
-      "context": "Durante una actividad de laboratorio en el Liceo N° 4 de Montevideo, Ignacio analiza la reacción en cadena de la polimerasa (pcr).",
+      "statement": "Que propiedad de la PCR explica que una cantidad minima de ADN pueda amplificarse hasta ser visible?",
+      "context": "Durante una actividad de laboratorio en el Liceo N. 3 de Salto, Sofia analiza los resultados de un ensayo de PCR.",
       "options": [
         {
-          "letter": "D",
-          "text": "El calor: el incremento de temperatura a ~95 °C rompe los puentes de hidrógeno sin dañar los enlaces fosfodiéster covalentes.",
+          "letter": "B",
+          "text": "Que cada ciclo duplica la cantidad de ADN presente, de modo que el aumento es exponencial.",
           "is_correct": true,
-          "feedback": "Correcto. La desnaturalización térmica separa las hebras de manera reversible en cada ciclo de la PCR."
+          "feedback": "Correcto. Tras treinta ciclos, una sola molecula inicial puede convertirse en mas de mil millones de copias, y esa eficacia es lo que permite trabajar con cantidades minimas de material."
         },
         {
           "letter": "A",
-          "text": "La fuerza centrífuga a altas velocidades de rotación mecánica de sobremesa.",
+          "text": "Que el ciclo trabaja con una temperatura constante que evita cualquier degradacion.",
           "is_correct": false,
-          "feedback": "Incorrecto. La centrifugación separa componentes por densidad o masa molecular pero no desnaturaliza la doble hélice de ADN."
-        },
-        {
-          "letter": "B",
-          "text": "La acción catalítica de enzimas helicasas termoestables sintéticas.",
-          "is_correct": false,
-          "feedback": "Incorrecto. La PCR convencional prescinde de helicasas; la separación se logra mediante calor controlado."
+          "feedback": "Incorrecto. La PCR cambia de temperatura varias veces en cada ciclo, con una fase de desnaturalizacion cercana a los noventa grados y otras fases a temperaturas menores."
         },
         {
           "letter": "C",
-          "text": "El cambio brusco de pH alcalino por adición de hidróxido de sodio concentrado.",
+          "text": "Que utiliza enzimas que separan las hebras del ADN sin necesidad de calor.",
           "is_correct": false,
-          "feedback": "Incorrecto. El pH químico dañaría irreversiblemente las enzimas Taq polimerasa necesarias para la elongación."
+          "feedback": "Incorrecto. La desnaturalizacion se consigue con calor y no con enzimas, y por eso los ciclos de temperatura son la parte central del procedimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Que aumenta el numero de cromosomas de las bacterias del cultivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La PCR trabaja sobre ADN fuera de la celula y en un tubo, de modo que no modifica ningun cromosoma ni ninguna bacteria."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La PCR utiliza una ADN polimerasa termoestable (Taq) para resistir ciclos repetidos de altas temperaturas de desnaturalización. En este contexto, Ignacio de Montevideo determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "B",
+      "explanation": "La PCR es una tecnica de amplificacion in vitro que no necesita celulas vivas. Su potencia esta en la repeticion del ciclo, porque cada vuelta duplica el material de partida y el efecto acumulativo convierte una traza en una cantidad analizable.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -279,36 +279,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v7",
-      "statement": "Al realizar una electroforesis en gel de agarosa para separar fragmentos de ADN de diferentes longitudes, ¿en qué dirección migran las muestras y por qué?",
-      "context": "En la clase práctica del Liceo N° 5 en Mercedes, Paula y sus compañeros debaten sobre electroforesis en gel.",
+      "statement": "Que tecnica permite detectar si un gen esta presente en una muestra de ADN mediante la hibridacion con una sonda marcada?",
+      "context": "Para el proyecto final de ciencias en el Liceo N. 4 de Fray Bentos, Lucia analiza una membrana de nitrocelulosa sobre la que se ha Placeado ADN desnaturalizado.",
       "options": [
         {
-          "letter": "D",
-          "text": "Hacia el polo positivo (ánodo) debido a la carga eléctrica negativa neta de los grupos fosfato del ADN.",
+          "letter": "C",
+          "text": "La tecnica Southern blot, que separa los fragmentos en un gel y los transfiere a una membrana para hibridar.",
           "is_correct": true,
-          "feedback": "Correcto. Los fosfatos le otorgan carga negativa constante al ADN, haciendo que migre hacia el ánodo en un campo eléctrico."
+          "feedback": "Correcto. El Southern blot separa los fragmentos por tamano, los transfiere a una membrana y permite detectar secuencias concretas mediante una sonda complementaria marcada."
         },
         {
           "letter": "A",
-          "text": "Hacia el polo negativo (cátodo) atraído por las cargas positivas de las bases nitrogenadas libres.",
+          "text": "La tecnica Northern blot, que analiza el ARN messenger de la muestra.",
           "is_correct": false,
-          "feedback": "Incorrecto. El ADN es atraído por el ánodo (+), no por el cátodo (-) debido a que es un polímero de carácter ácido negativo."
+          "feedback": "Correcto para el ARN messenger, pero la pregunta se refiere a ADN y por eso corresponde al Southern."
         },
         {
           "letter": "B",
-          "text": "Hacia el fondo del gel por sedimentación gravitatoria dependiente de los azúcares pentosas.",
+          "text": "La tecnica Western blot, que detecta proteinas mediante anticuerpos.",
           "is_correct": false,
-          "feedback": "Incorrecto. La gravedad no tiene relevancia en la separación molecular en geles de matriz estrecha."
+          "feedback": "Incorrecto. El Western blot trabaja con proteinas y el Southern con ADN, de modo que son tecnicas distintas con objetivos distintos."
         },
         {
-          "letter": "C",
-          "text": "Se desplazan de manera lateral en círculos concéntricos inducidos por un campo magnético alterno.",
+          "letter": "D",
+          "text": "La electroforesis en gel de agarosa sin transferencia a membrana.",
           "is_correct": false,
-          "feedback": "Incorrecto. La electroforesis utiliza corriente continua lineal unidireccional para forzar el avance de las muestras."
+          "feedback": "Incorrecto. La electroforesis separa los fragmentos pero no identifica si contienen una secuencia concreta, porque para eso hace falta la sonda marcada."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "En la electroforesis, los fragmentos pequeños de ADN se desplazan más rápido a través de la matriz del gel que los fragmentos grandes. En este contexto, Paula de Mercedes determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "C",
+      "explanation": "Las tres tecnicas siguen el mismo esquema logico y se distinguen por la molecula analizada. Southern para ADN, Northern para ARN y Western para proteinas, y en las tres la especificidad la aporta la sonda o el anticuerpo marcado, no el gel por si solo.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -324,36 +324,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v8",
-      "statement": "¿Cuál es la definición correcta de un organismo transgénico en biotecnología moderna?",
-      "context": "Para el proyecto final de ciencias en el Liceo Piloto de Montevideo, Diego investiga acerca de organismos transgénicos.",
+      "statement": "Que permite observar un gel de electroforesis con los fragmentos separados?",
+      "context": "En la clase practica del Liceo N. 2 de Tacuarembó, Martin compara el perfil de bandas de un gel con el de una muestra conocida.",
       "options": [
         {
-          "letter": "A",
-          "text": "Un organismo vivo que posee un gen exógeno de otra especie incorporado de forma estable en su genoma.",
+          "letter": "D",
+          "text": "El numero y la posicion de las bandas, que dependen del tamano de cada fragmento.",
           "is_correct": true,
-          "feedback": "Correcto. El transgén es integrado de manera artificial para conferir una característica fenotípica de interés comercial o medicinal."
+          "feedback": "Correcto. Como la corriente deposita los fragmentos segun su tamano, los pequenos migran mas lejos, de modo que la posicion de cada banda informa del numero de nucleotidos del fragmento."
+        },
+        {
+          "letter": "A",
+          "text": "El color de las bandas, que indica directamente la secuencia de bases del fragmento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El gel no determina la secuencia, y solo informa del tamano aproximado de cada fragmento, porque dos fragmentos de igual longitud migran igual aunque sean distintos."
         },
         {
           "letter": "B",
-          "text": "Un espécimen sometido a radiación ionizante para eliminar selectivamente genes perjudiciales.",
+          "text": "La velocidad a la que se mueven las bandas, que se mide de forma directa durante la carrera.",
           "is_correct": false,
-          "feedback": "Incorrecto. La mutagénesis aleatoria por radiación no constituye transgenia, ya que no introduce genes de otras especies."
+          "feedback": "Incorrecto. La observacion se hace al final de la carrera, cuando las bandas se han detenido y pueden medirse con regla sobre la fotografia del gel."
         },
         {
           "letter": "C",
-          "text": "Un clon idéntico obtenido por transferencia nuclear de células germinales del mismo individuo.",
+          "text": "El numero de bandas que aparece, que siempre coincide con el numero de genes del organismo.",
           "is_correct": false,
-          "feedback": "Incorrecto. La clonación copia el genoma preexistente; no involucra recombinación interespecífica de genes."
-        },
-        {
-          "letter": "D",
-          "text": "Un híbrido resultante de la fecundación tradicional de dos variedades del mismo cultivo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. El mejoramiento clásico por cruce sexual es un proceso natural que opera dentro de barreras biológicas."
+          "feedback": "Incorrecto. El numero de bandas depende de los fragmentos generados por las enzimas usadas y no del numero de genes, que es otra cifra muy distinta."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La biotecnología genera transgénicos mediante vectores de clonación como plásmidos o virus, planteando debates bioéticos rigurosos. En este contexto, Diego de Montevideo determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "D",
+      "explanation": "El gel de agarosa es un metodo analitico de tamano, no de secuencia. Por eso se combina con la tecnica Southern blot, que anade la especificidad mediante una sonda marcada y permite saber si uno de esos fragmentos contiene la secuencia buscada.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,36 +369,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v9",
-      "statement": "¿Cuál es la función de las enzimas de restricción (endonucleasas) en la tecnología del ADN recombinante?",
-      "context": "Mientras repasa para el examen parcial en Mercedes, Clara estudia detenidamente enzimas de restricción.",
+      "statement": "Que estrategia se sigue al insertar un gen de insulina en una bacteria?",
+      "context": "Mientras repasa para el examen parcial en Paysandu, Camila estudia la produccion de insulina humana por bacterias.",
       "options": [
         {
-          "letter": "C",
-          "text": "Cortar el ADN en secuencias de nucleótidos específicas y palindrómicas de manera precisa.",
+          "letter": "B",
+          "text": "Activar un promotor bacteriano fuerte que provoque la expresion intensa del gen.",
           "is_correct": true,
-          "feedback": "Correcto. Las enzimas de restricción cortan el ADN reconociendo secuencias diana de 4 a 8 pares de bases."
+          "feedback": "Correcto. Como las bacterias no producen proinsulina funcional de forma espontanea, se usan promotorres bacterianos que fuerzan la transcripcion masiva del gen introducido."
         },
         {
           "letter": "A",
-          "text": "Unir de forma covalente azúcares desoxirribosas de diferentes plásmidos.",
+          "text": "Introducir la insulina ya sintetizada en el interior de la bacteria.",
           "is_correct": false,
-          "feedback": "Incorrecto. La unión covalente de fragmentos de ADN es catalizada por la enzima ligasa."
+          "feedback": "Incorrecto. La insulina es una proteina y no un gen, de modo que no se introduce el producto final sino la informacion que lo codifica."
         },
         {
-          "letter": "B",
-          "text": "Duplicar de manera exponencial cadenas de ARN dentro de un termociclador.",
+          "letter": "C",
+          "text": "Modificar el ARN mensajero bacteriano despues de la transcripcion.",
           "is_correct": false,
-          "feedback": "Incorrecto. La duplicación in vitro es realizada por la polimerasa Taq en la PCR, no por endonucleasas."
+          "feedback": "Incorrecto. La modificacion se hace sobre el ADN antes de introducirlo, y una vez que el gen esta presente el proceso ocurre de forma automatica en cada generacion bacteriana."
         },
         {
           "letter": "D",
-          "text": "Degradar las proteínas de la envoltura celular bacteriana antes de la inserción.",
+          "text": "Seleccionar bacterias que ya producen insulina de forma natural.",
           "is_correct": false,
-          "feedback": "Incorrecto. Las membranas o paredes se disuelven mediante detergentes, lisozimas o electroporación."
+          "feedback": "Incorrecto. Ninguna bacteria produce insulina de forma natural, y esa es precisamente la razon por la que hay que introducir el gen de un organismo eucariota."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Las enzimas de restricción, descubiertas en bacterias como mecanismo de defensa viral, generan extremos cohesivos o romos útiles para clonación. En este contexto, Clara de Mercedes determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "B",
+      "explanation": "La insulina humana se produce hoy en bacterias que no la fabricaban. El trabajo se concentra en el diseno de un sistema de expresion eficiente y en la eliminacion del tramo que codifica el peptido señal, que impide obtener la molecula madura directamente.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -414,36 +414,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v10",
-      "statement": "¿Qué propiedad física de las macromoléculas permite separar las dos hebras de la doble hélice de ADN durante el paso de desnaturalización en un ensayo de PCR?",
-      "context": "En el taller de Ciencias Naturales en Montevideo, Agustín observa un modelo experimental de la reacción en cadena de la polimerasa (pcr).",
+      "statement": "Por que el ADN mas corto migra mas lejos en un gel de electroforesis?",
+      "context": "En el taller de Ciencias Naturales de Las Piedras, Nicolas compara dos moleculas de ADN de distinta longitud en un gel.",
       "options": [
         {
           "letter": "C",
-          "text": "El calor: el incremento de temperatura a ~95 °C rompe los puentes de hidrógeno sin dañar los enlaces fosfodiéster covalentes.",
+          "text": "Porque la matriz de agarosa ofrece menos resistencia a las moleculas pequeñas y estas avanzan con mayor rapidez.",
           "is_correct": true,
-          "feedback": "Correcto. La desnaturalización térmica separa las hebras de manera reversible en cada ciclo de la PCR."
+          "feedback": "Correcto. La velocidad de migracion depende de la relacion entre el tamano de la molecula y la porosidad del gel, de modo que un fragmento corto atraviesa la matriz con menos resistencia y llega mas lejos."
         },
         {
           "letter": "A",
-          "text": "La fuerza centrífuga a altas velocidades de rotación mecánica de sobremesa.",
+          "text": "Porque el ADN corto tiene mas enlaces con las bases nitrogenadas y por eso avanza mas.",
           "is_correct": false,
-          "feedback": "Incorrecto. La centrifugación separa componentes por densidad o masa molecular pero no desnaturaliza la doble hélice de ADN."
+          "feedback": "Incorrecto. Los enlaces de las bases estan dentro de la doble hebra, y lo que frena la migracion es el roce con la matriz y no el numero de bases."
         },
         {
           "letter": "B",
-          "text": "La acción catalítica de enzimas helicasas termoestables sintéticas.",
+          "text": "Porque el ADN corto tiene menos carga negativa y por eso es arrastrado con mas fuerza.",
           "is_correct": false,
-          "feedback": "Incorrecto. La PCR convencional prescinde de helicasas; la separación se logra mediante calor controlado."
+          "feedback": "Incorrecto. La carga negativa es proporcional a la longitud, de modo que el fragmento corto tiene menos carga y migra menos, no mas, por el campo electrico."
         },
         {
           "letter": "D",
-          "text": "El cambio brusco de pH alcalino por adición de hidróxido de sodio concentrado.",
+          "text": "Porque el ADN corto tiene una forma mas globular que el largo.",
           "is_correct": false,
-          "feedback": "Incorrecto. El pH químico dañaría irreversiblemente las enzimas Taq polimerasa necesarias para la elongación."
+          "feedback": "Correcto pero describe una consecuencia parcial, porque la forma del ADN cambia con la concentracion de sal y no es la causa principal."
         }
       ],
       "correct_answer": "C",
-      "explanation": "La PCR utiliza una ADN polimerasa termoestable (Taq) para resistir ciclos repetidos de altas temperaturas de desnaturalización. En este contexto, Agustín de Montevideo determinó correctamente la respuesta correcta.\n\n---",
+      "explanation": "La relacion entre tamano y velocidad de migracion es aproximadamente lineal en un rango de longitudes amplio. Esa relacion es la que permite usar una escala de referencia con fragmentos de tamano conocido como marcador para estimar el tamano de los fragmentos de la muestra.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -459,36 +459,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v11",
-      "statement": "Al realizar una electroforesis en gel de agarosa para separar fragmentos de ADN de diferentes longitudes, ¿en qué dirección migran las muestras y por qué?",
-      "context": "Durante una actividad de laboratorio en el Liceo N° 3 de Mercedes, Sebastián analiza electroforesis en gel.",
+      "statement": "Que tecnologia hace posible unir un gen humano a un cromosoma bacteriano?",
+      "context": "En la clase practica del Liceo N. 3 de Rocha, Lucia intenta obtener una bacteria que produzca insulina usando un gen humano.",
       "options": [
         {
-          "letter": "C",
-          "text": "Hacia el polo positivo (ánodo) debido a la carga eléctrica negativa neta de los grupos fosfato del ADN.",
-          "is_correct": true,
-          "feedback": "Correcto. Los fosfatos le otorgan carga negativa constante al ADN, haciendo que migre hacia el ánodo en un campo eléctrico."
-        },
-        {
           "letter": "A",
-          "text": "Hacia el polo negativo (cátodo) atraído por las cargas positivas de las bases nitrogenadas libres.",
-          "is_correct": false,
-          "feedback": "Incorrecto. El ADN es atraído por el ánodo (+), no por el cátodo (-) debido a que es un polímero de carácter ácido negativo."
+          "text": "La ingenieria genetica, que recorta los genes con endonucleasas de restriccion y los une con ligasa.",
+          "is_correct": true,
+          "feedback": "Correcto. La ligasa une los fragmentos cuyos extremos son compatibles y permite ensamblar un vector con un gen de interes de forma controlada."
         },
         {
           "letter": "B",
-          "text": "Hacia el fondo del gel por sedimentación gravitatoria dependiente de los azúcares pentosas.",
+          "text": "La seleccion natural, que actua durante millones de años y no puede modificar de forma dirigida un gen.",
           "is_correct": false,
-          "feedback": "Incorrecto. La gravedad no tiene relevancia en la separación molecular en geles de matriz estrecha."
+          "feedback": "Incorrecto. La seleccion natural no permite elegir que caracter se modifica ni en que generacion, de modo que no sirve para construir una bacteria concreta."
+        },
+        {
+          "letter": "C",
+          "text": "La mutacion espontanea, que produce cambios al azar sin dirigirlos hacia un objetivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mutacion espontanea no puede dirigirse hacia un resultado util, de modo que obtener esa bacteria exige diseno experimental y no azar."
         },
         {
           "letter": "D",
-          "text": "Se desplazan de manera lateral en círculos concéntricos inducidos por un campo magnético alterno.",
+          "text": "La hibridacion molecular, que permite aparear secuencias complementarias entre organismos distintos.",
           "is_correct": false,
-          "feedback": "Incorrecto. La electroforesis utiliza corriente continua lineal unidireccional para forzar el avance de las muestras."
+          "feedback": "Incorrecto. La hibridacion aparea hebras complementarias, pero no une fragmentos de ADN para construir una molecula recombinante."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "En la electroforesis, los fragmentos pequeños de ADN se desplazan más rápido a través de la matriz del gel que los fragmentos grandes. En este contexto, Sebastián de Mercedes determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "A",
+      "explanation": "La ingenieria genetica combina tres herramientas: las endonucleasas de restriccion cortan en secuencias concretas, la ligasa une los fragmentos y los vectores los llevan hasta la celula hospedera. El resultado es una molecula recombinante que ninguna naturaleza produce por azar.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -504,36 +504,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v12",
-      "statement": "¿Cuál es la definición correcta de un organismo transgénico en biotecnología moderna?",
-      "context": "En la clase práctica del Liceo N° 4 en Montevideo, Valentina y sus compañeros debaten sobre organismos transgénicos.",
+      "statement": "Para que sirve un marcador de tamano en un experimento de electroforesis?",
+      "context": "Para el proyecto final de ciencias en el Liceo N. 5 de Montevideo, Agustin prepara un gel con marcadores de tamano conocido.",
       "options": [
         {
-          "letter": "A",
-          "text": "Un organismo vivo que posee un gen exógeno de otra especie incorporado de forma estable en su genoma.",
+          "letter": "C",
+          "text": "Para estimar el tamano de los fragmentos de la muestra, comparando su migracion con la de los marcadores.",
           "is_correct": true,
-          "feedback": "Correcto. El transgén es integrado de manera artificial para conferir una característica fenotípica de interés comercial o medicinal."
+          "feedback": "Correcto. El marcador contiene fragmentos de longitud conocida y sirve como referencia, de modo que la distancia recorrida permite asignar un tamano aproximado a cada banda de la muestra."
+        },
+        {
+          "letter": "A",
+          "text": "Para aumentar la cantidad de ADN que se aplica en el gel.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El marcador se aplica en un carril aparte y no aumenta la cantidad de muestra, de modo que su funcion es de referencia y no de cantidad."
         },
         {
           "letter": "B",
-          "text": "Un espécimen sometido a radiación ionizante para eliminar selectivamente genes perjudiciales.",
+          "text": "Para visualizar las bandas de la muestra bajo luz ultravioleta.",
           "is_correct": false,
-          "feedback": "Incorrecto. La mutagénesis aleatoria por radiación no constituye transgenia, ya que no introduce genes de otras especies."
-        },
-        {
-          "letter": "C",
-          "text": "Un clon idéntico obtenido por transferencia nuclear de células germinales del mismo individuo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. La clonación copia el genoma preexistente; no involucra recombinación interespecífica de genes."
+          "feedback": "Incorrecto. La visualizacion depende del colorante que se usa para teñir el ADN, y no del marcador de tamano, que contiene los mismos colorantes pero con otra funcion."
         },
         {
           "letter": "D",
-          "text": "Un híbrido resultante de la fecundación tradicional de dos variedades del mismo cultivo.",
+          "text": "Para separar los fragmentos por su carga electrica y no por su tamano.",
           "is_correct": false,
-          "feedback": "Incorrecto. El mejoramiento clásico por cruce sexual es un proceso natural que opera dentro de barreras biológicas."
+          "feedback": "Incorrecto. La separacion se produce por tamano, y el marcador no cambia el mecanismo, solo proporciona la referencia para medirlo."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La biotecnología genera transgénicos mediante vectores de clonación como plásmidos o virus, planteando debates bioéticos rigurosos. En este contexto, Valentina de Montevideo determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "C",
+      "explanation": "Sin una referencia conocida, la distancia recorrida por una banda no significa nada medible. El marcador convierte esa distancia en un dato, porque establece la correspondencia entre distancia recorrida y numero de nucleotidos en ese gel concreto.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -549,36 +549,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v13",
-      "statement": "¿Cuál es la función de las enzimas de restricción (endonucleasas) en la tecnología del ADN recombinante?",
-      "context": "Para el proyecto final de ciencias en el Liceo N° 5 de Mercedes, Santiago investiga acerca de enzimas de restricción.",
+      "statement": "Que diferencia en la organizacion del genoma es caracteristica de los organismos procariotas?",
+      "context": "En el Liceo Piloto de Florida, Valentina compara la organizacion del genoma de un microorganismo con la de un organismo pluricelular.",
       "options": [
         {
-          "letter": "C",
-          "text": "Cortar el ADN en secuencias de nucleótidos específicas y palindrómicas de manera precisa.",
-          "is_correct": true,
-          "feedback": "Correcto. Las enzimas de restricción cortan el ADN reconociendo secuencias diana de 4 a 8 pares de bases."
-        },
-        {
           "letter": "A",
-          "text": "Unir de forma covalente azúcares desoxirribosas de diferentes plásmidos.",
-          "is_correct": false,
-          "feedback": "Incorrecto. La unión covalente de fragmentos de ADN es catalizada por la enzima ligasa."
+          "text": "La presencia de un cromosoma circular con genes organizados en operones.",
+          "is_correct": true,
+          "feedback": "Correcto. Los procariotas suelen tener un unico cromosoma circular, y sus genes funcionalmente relacionados se agrupan en operones que se transcriben a la vez desde un mismo promotor."
         },
         {
           "letter": "B",
-          "text": "Duplicar de manera exponencial cadenas de ARN dentro de un termociclador.",
+          "text": "La presencia de varios cromosomas lineales con envoltura nuclear que los separa del citoplasma.",
           "is_correct": false,
-          "feedback": "Incorrecto. La duplicación in vitro es realizada por la polimerasa Taq en la PCR, no por endonucleasas."
+          "feedback": "Incorrecto. Esa descripcion corresponde a los eucariotas, porque la envoltura nuclear y los cromosomas lineales son rasgos eucariotas y no procariotas."
+        },
+        {
+          "letter": "C",
+          "text": "La presencia de varios cromosomas lineales con envoltura, centromeros, telomeros e histonas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los cromosomas lineales con histonas, centromeros y telomeros son rasgos de los cromosomas eucariotas, no de los procariotas."
         },
         {
           "letter": "D",
-          "text": "Degradar las proteínas de la envoltura celular bacteriana antes de la inserción.",
+          "text": "La presencia de intrones en la mayoria de sus genes y de un grado importante de procesamiento del ARN mensajero.",
           "is_correct": false,
-          "feedback": "Incorrecto. Las membranas o paredes se disuelven mediante detergentes, lisozimas o electroporación."
+          "feedback": "Incorrecto. Esos rasgos son tipicos de los eucariotas, y los procariotas suelen tener muy pocos intrones y un ARN mensajero que se traduce casi sin procesar."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Las enzimas de restricción, descubiertas en bacterias como mecanismo de defensa viral, generan extremos cohesivos o romos útiles para clonación. En este contexto, Santiago de Mercedes determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "A",
+      "explanation": "La organizacion del genoma procariota refleja un modo de vida unicelular con necesidad de respuesta rapida. Los operones permiten fabricar varias proteinas de una misma via a la vez, y esa eficiencia explica que una bacteria tenga un genoma muy compacto con muy poco ADN no codificante.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -594,36 +594,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v14",
-      "statement": "¿Qué propiedad física de las macromoléculas permite separar las dos hebras de la doble hélice de ADN durante el paso de desnaturalización en un ensayo de PCR?",
-      "context": "Mientras repasa para el examen parcial en Montevideo, Florencia estudia detenidamente la reacción en cadena de la polimerasa (pcr).",
+      "statement": "Como se utiliza un antibiotico como herramienta de seleccion en el laboratorio de microbiologia?",
+      "context": "Durante una actividad de laboratorio en el Liceo N. 4 de San Jose de Mayo, Belen coloca una bacteria en un medio con antibiotico al que es resistente.",
       "options": [
         {
-          "letter": "D",
-          "text": "El calor: el incremento de temperatura a ~95 °C rompe los puentes de hidrógeno sin dañar los enlaces fosfodiéster covalentes.",
+          "letter": "B",
+          "text": "Porque solo sobreviviran las bacterias que poseen un gen de resistencia, y esas seran las que se multipliquen.",
           "is_correct": true,
-          "feedback": "Correcto. La desnaturalización térmica separa las hebras de manera reversible en cada ciclo de la PCR."
+          "feedback": "Correcto. El antibiotico funciona como filtro: mata a las bacterias susceptibles y permite que las resistentes sobrevivan y crezcan, de modo que se seleccionan las queenya tienen el gen."
         },
         {
           "letter": "A",
-          "text": "La fuerza centrífuga a altas velocidades de rotación mecánica de sobremesa.",
+          "text": "Porque aumenta la velocidad de multiplicacion de las bacterias resistentes.",
           "is_correct": false,
-          "feedback": "Incorrecto. La centrifugación separa componentes por densidad o masa molecular pero no desnaturaliza la doble hélice de ADN."
-        },
-        {
-          "letter": "B",
-          "text": "La acción catalítica de enzimas helicasas termoestables sintéticas.",
-          "is_correct": false,
-          "feedback": "Incorrecto. La PCR convencional prescinde de helicasas; la separación se logra mediante calor controlado."
+          "feedback": "Incorrecto. El antibiotico no acelera nada, y las bacterias que sobreviven lo hacen porque resisten su accion y no porque crezcan mejor."
         },
         {
           "letter": "C",
-          "text": "El cambio brusco de pH alcalino por adición de hidróxido de sodio concentrado.",
+          "text": "Porque obliga a las bacterias a transferir sus genes a las de la especie.",
           "is_correct": false,
-          "feedback": "Incorrecto. El pH químico dañaría irreversiblemente las enzimas Taq polimerasa necesarias para la elongación."
+          "feedback": "Incorrecto. La seleccion no fuerza la transferencia horizontal, y aunque puede favorecer a las que la realizan, no la provoca de forma dirigida."
+        },
+        {
+          "letter": "D",
+          "text": "Porque modifica el ADN de las bacterias y crea nuevas resistencias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El antibiotico aplica una presion selectiva sobre la variacion ya existente, y no genera por si mismo las mutaciones que luego selecciona."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La PCR utiliza una ADN polimerasa termoestable (Taq) para resistir ciclos repetidos de altas temperaturas de desnaturalización. En este contexto, Florencia de Montevideo determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "B",
+      "explanation": "La seleccion artificial es el motor de los protocolos microbiológicos. Placa todo el cultivo sobre un medio con antibiotico y solo crecen las bacterias que lo resisten, y ese criterio es el que permite transformar y mantener cepas portadoras de un plasmidio.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -639,36 +639,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v15",
-      "statement": "Al realizar una electroforesis en gel de agarosa para separar fragmentos de ADN de diferentes longitudes, ¿en qué dirección migran las muestras y por qué?",
-      "context": "En el taller de Ciencias Naturales en Mercedes, Joaquín observa un modelo experimental de electroforesis en gel.",
+      "statement": "Como se verifica que una bacteria ha adquirido un plasmidio con el gen de interes?",
+      "context": "En el Liceo N. 2 de Melo, Felipe comprueba si un plasmidio se ha introducido correctamente en una bacteria transformada.",
       "options": [
         {
-          "letter": "D",
-          "text": "Hacia el polo positivo (ánodo) debido a la carga eléctrica negativa neta de los grupos fosfato del ADN.",
+          "letter": "C",
+          "text": "Con un ensayo de PCR o un Southern blot que detecte la secuencia especifica del gen en el ADN de la bacteria.",
           "is_correct": true,
-          "feedback": "Correcto. Los fosfatos le otorgan carga negativa constante al ADN, haciendo que migre hacia el ánodo en un campo eléctrico."
+          "feedback": "Correcto. Confirmar requiere evidencia directa de la secuencia presente, y tanto la PCR como el Southern blot permiten distinguir una bacteria transformada de una que solo recibio el vector vacio."
         },
         {
           "letter": "A",
-          "text": "Hacia el polo negativo (cátodo) atraído por las cargas positivas de las bases nitrogenadas libres.",
+          "text": "Observando que la bacteria crecio en un medio con antibiotico, porque eso ya lo confirma.",
           "is_correct": false,
-          "feedback": "Incorrecto. El ADN es atraído por el ánodo (+), no por el cátodo (-) debido a que es un polímero de carácter ácido negativo."
+          "feedback": "Correcto como primer paso, pero el antibiotico solo indica que hay resistencia y no que el gen de interes este presente y bien orientado."
         },
         {
           "letter": "B",
-          "text": "Hacia el fondo del gel por sedimentación gravitatoria dependiente de los azúcares pentosas.",
+          "text": "Mirando el color de la colonia, porque las transformadas tienen un tono distinto.",
           "is_correct": false,
-          "feedback": "Incorrecto. La gravedad no tiene relevancia en la separación molecular en geles de matriz estrecha."
+          "feedback": "Incorrecto. El color de la colonia depende de los pigmentos que produzca el microorganismo y no de los genes transferidos."
         },
         {
-          "letter": "C",
-          "text": "Se desplazan de manera lateral en círculos concéntricos inducidos por un campo magnético alterno.",
+          "letter": "D",
+          "text": "Comprobando que la colonia sea mayor que las que no recibieron plasmidio.",
           "is_correct": false,
-          "feedback": "Incorrecto. La electroforesis utiliza corriente continua lineal unidireccional para forzar el avance de las muestras."
+          "feedback": "Correcto pero insuficiente, porque el tamano de la colonia depende de las condiciones del medio y no de la presencia de un gen."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "En la electroforesis, los fragmentos pequeños de ADN se desplazan más rápido a través de la matriz del gel que los fragmentos grandes. En este contexto, Joaquín de Mercedes determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "C",
+      "explanation": "La confirmacion de una transformacion tiene dos etapas. La seleccion con antibiotico indica que la bacteria recibio algo que la protege, y solo la deteccion de la secuencia del gen confirma que el plasmidio lleva la carga que se pretendia introducir.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -684,36 +684,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v16",
-      "statement": "¿Cuál es la definición correcta de un organismo transgénico en biotecnología moderna?",
-      "context": "Durante una actividad de laboratorio en el Liceo N° 2 de Montevideo, Camila analiza organismos transgénicos.",
+      "statement": "Que propiedad hace que una proteina humana producida en una bacteria sea clinicamente util?",
+      "context": "En el taller de Ciencias Naturales de Canelones, Paula analiza como una nueva proteina recombinante podria\n\nu usarse en medicina.",
       "options": [
         {
-          "letter": "C",
-          "text": "Un organismo vivo que posee un gen exógeno de otra especie incorporado de forma estable en su genoma.",
+          "letter": "B",
+          "text": "Que tiene la misma secuencia de aminoacidos que la humana y por tanto la misma actividad biologica.",
           "is_correct": true,
-          "feedback": "Correcto. El transgén es integrado de manera artificial para conferir una característica fenotípica de interés comercial o medicinal."
+          "feedback": "Correcto. Si la bacteria produce exactamente la misma cadena de aminoacidos, la proteina puede ejercer la misma funcion, y esa equivalencia es la base de los medicamentos biotecnologicos actuales."
         },
         {
           "letter": "A",
-          "text": "Un espécimen sometido a radiación ionizante para eliminar selectivamente genes perjudiciales.",
+          "text": "Que procede de una celula bacteriana, lo que la hace mas estable en el organismo humano.",
           "is_correct": false,
-          "feedback": "Incorrecto. La mutagénesis aleatoria por radiación no constituye transgenia, ya que no introduce genes de otras especies."
+          "feedback": "Correcto como efecto practice, pero no es la propiedad que explica por que es clinicamente util."
         },
         {
-          "letter": "B",
-          "text": "Un clon idéntico obtenido por transferencia nuclear de células germinales del mismo individuo.",
+          "letter": "C",
+          "text": "Que se fabrica en mucho mayor cantidad y por eso tiene un precio mas bajo.",
           "is_correct": false,
-          "feedback": "Incorrecto. La clonación copia el genoma preexistente; no involucra recombinación interespecífica de genes."
+          "feedback": "Correcto como consecuencia economica, pero no es lo que hace que la proteina funcione en el cuerpo humano."
         },
         {
           "letter": "D",
-          "text": "Un híbrido resultante de la fecundación tradicional de dos variedades del mismo cultivo.",
+          "text": "Que se encuentra en solucion y por eso se administra sin necesidad de unguento.",
           "is_correct": false,
-          "feedback": "Incorrecto. El mejoramiento clásico por cruce sexual es un proceso natural que opera dentro de barreras biológicas."
+          "feedback": "Correcto como consecuencia practica, pero no explica por que la proteina conserva su funcion."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La biotecnología genera transgénicos mediante vectores de clonación como plásmidos o virus, planteando debates bioéticos rigurosos. En este contexto, Camila de Montevideo determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "B",
+      "explanation": "La equivalencia de secuencia es el criterio de validez de una proteina recombinante. Si los aminoacidos coinciden con los de la proteina humana, el plegamiento y la actividad se conservan, y esa coincidencia es lo que permite usar una bacteria como fabrica de farmacos.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -729,36 +729,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v17",
-      "statement": "¿Cuál es la función de las enzimas de restricción (endonucleasas) en la tecnología del ADN recombinante?",
-      "context": "En la clase práctica del Liceo N° 3 en Mercedes, Mateo y sus compañeros debaten sobre enzimas de restricción.",
+      "statement": "Que organismo se utiliza como agente de transformacion en la ingenieria genetica de plantas?",
+      "context": "En el Liceo N. 4 de Montevideo, Nicolasresume el proceso que permite obtener una planta tolerante a la sal.",
       "options": [
         {
-          "letter": "B",
-          "text": "Cortar el ADN en secuencias de nucleótidos específicas y palindrómicas de manera precisa.",
+          "letter": "A",
+          "text": "La bacteria Agrobacterium tumefaciens, que transfiere su plasmidio T hacia las celulas vegetales.",
           "is_correct": true,
-          "feedback": "Correcto. Las enzimas de restricción cortan el ADN reconociendo secuencias diana de 4 a 8 pares de bases."
+          "feedback": "Correcto. Esa bacteria infecta plantas y les transfiere el ADN de su plasmidio Ti, y esa capacidad natural se usa para introducir genes ajenos en el genoma vegetal."
         },
         {
-          "letter": "A",
-          "text": "Unir de forma covalente azúcares desoxirribosas de diferentes plásmidos.",
+          "letter": "B",
+          "text": "El virus del mosaico del tabacaba, que se usa como portador de genes en plantas.",
           "is_correct": false,
-          "feedback": "Incorrecto. La unión covalente de fragmentos de ADN es catalizada por la enzima ligasa."
+          "feedback": "Correcto pero describe un sistema distinto, y en el aula se emplea sobre todo la bacteria Agrobacterium."
         },
         {
           "letter": "C",
-          "text": "Duplicar de manera exponencial cadenas de ARN dentro de un termociclador.",
+          "text": "La bacteria E. coli, que se utiliza para transformar plantas mediante conjugacion.",
           "is_correct": false,
-          "feedback": "Incorrecto. La duplicación in vitro es realizada por la polimerasa Taq en la PCR, no por endonucleasas."
+          "feedback": "Incorrecto. La E. coli es la hospedera habitual de clonado en el laboratorio, y no transfiere genes a las celulas vegetales por conjugacion."
         },
         {
           "letter": "D",
-          "text": "Degradar las proteínas de la envoltura celular bacteriana antes de la inserción.",
+          "text": "El hongo Penicillium, que modifica el ADN de las plantas durante la infeccion.",
           "is_correct": false,
-          "feedback": "Incorrecto. Las membranas o paredes se disuelven mediante detergentes, lisozimas o electroporación."
+          "feedback": "Incorrecto. Los hongos son declarados y parasitos, y no actu an como vectores de genes hacia las celulas vegetales."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Las enzimas de restricción, descubiertas en bacterias como mecanismo de defensa viral, generan extremos cohesivos o romos útiles para clonación. En este contexto, Mateo de Mercedes determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Agrobacterium es una bacteria del suelo que infecta plantas de forma natural y les transfiere parte de su genoma. Los investigadores retiran los genes que causan la enfermedad y los sustituyen por los de interes, conservando la capacidad de transferencia.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -774,36 +774,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v18",
-      "statement": "¿Qué propiedad física de las macromoléculas permite separar las dos hebras de la doble hélice de ADN durante el paso de desnaturalización en un ensayo de PCR?",
-      "context": "Para el proyecto final de ciencias en el Liceo N° 4 de Montevideo, Sofía investiga acerca de la reacción en cadena de la polimerasa (pcr).",
+      "statement": "Que fase del clonacion consiste en introducir el plasmidio en la bacteria hospedera?",
+      "context": "Mientras repasa para el examen parcial en Minas, Ignacio distingue las fases del proceso de clonacion molecular.",
       "options": [
         {
-          "letter": "B",
-          "text": "El calor: el incremento de temperatura a ~95 °C rompe los puentes de hidrógeno sin dañar los enlaces fosfodiéster covalentes.",
+          "letter": "D",
+          "text": "La transformacion, en la que las bacterias reciben el plasmidio y se vuelven portadoras del gen.",
           "is_correct": true,
-          "feedback": "Correcto. La desnaturalización térmica separa las hebras de manera reversible en cada ciclo de la PCR."
+          "feedback": "Correcto. La transformacion es el paso en que la bacteria incorpora el ADN foraneo, y de ella depende que las fases siguientes tengan algo que propagar."
         },
         {
           "letter": "A",
-          "text": "La fuerza centrífuga a altas velocidades de rotación mecánica de sobremesa.",
+          "text": "La restriccion, en la que se cortan el vector y el gen de interes con enzimas de restriccion.",
           "is_correct": false,
-          "feedback": "Incorrecto. La centrifugación separa componentes por densidad o masa molecular pero no desnaturaliza la doble hélice de ADN."
+          "feedback": "Incorrecto. La restriccion es un paso previo de preparacion de los fragmentos, y no la incorporacion del material a la celula."
+        },
+        {
+          "letter": "B",
+          "text": "La ligasa, en la que se unen los fragmentos de ADN para formar el plasmidio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ligasa forma el recombinante que luego se introduce, de modo que es un paso anterior a la transformacion."
         },
         {
           "letter": "C",
-          "text": "La acción catalítica de enzimas helicasas termoestables sintéticas.",
+          "text": "La seleccion, en la que se cultivan las bacterias en un medio con antibiotico.",
           "is_correct": false,
-          "feedback": "Incorrecto. La PCR convencional prescinde de helicasas; la separación se logra mediante calor controlado."
-        },
-        {
-          "letter": "D",
-          "text": "El cambio brusco de pH alcalino por adición de hidróxido de sodio concentrado.",
-          "is_correct": false,
-          "feedback": "Incorrecto. El pH químico dañaría irreversiblemente las enzimas Taq polimerasa necesarias para la elongación."
+          "feedback": "Incorrecto. La seleccion distingue las bacterias que recibieron el plasmidio de las que no, y ocurre despues de la transformacion."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La PCR utiliza una ADN polimerasa termoestable (Taq) para resistir ciclos repetidos de altas temperaturas de desnaturalización. En este contexto, Sofía de Montevideo determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "D",
+      "explanation": "El clonacion tiene varias fases bien distinguibles. Se recorta y se une el ADN, se introduce en la bacteria, se seleccionan las portadoras y se confirma la presencia del gen, y cada fase resuelve un problema distinto del proceso.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -819,36 +819,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v19",
-      "statement": "Al realizar una electroforesis en gel de agarosa para separar fragmentos de ADN de diferentes longitudes, ¿en qué dirección migran las muestras y por qué?",
-      "context": "Mientras repasa para el examen parcial en Mercedes, Martín estudia detenidamente electroforesis en gel.",
+      "statement": "Que ventaja tiene la insulina producida por bacterias frente a la obtenida de pancreas de cerdo o de vaca?",
+      "context": "En la discusion final del proyecto en el Liceo N. 5 de Montevideo, Florencia debate las ventajas de la insulina recombinante frente a la de origen animal.",
       "options": [
         {
-          "letter": "D",
-          "text": "Hacia el polo positivo (ánodo) debido a la carga eléctrica negativa neta de los grupos fosfato del ADN.",
+          "letter": "B",
+          "text": "Que su secuencia es identica a la humana, de modo que provoca menos reacciones alergicas y es mejor tolerada.",
           "is_correct": true,
-          "feedback": "Correcto. Los fosfatos le otorgan carga negativa constante al ADN, haciendo que migre hacia el ánodo en un campo eléctrico."
+          "feedback": "Correcto. La insulina porcina tiene una diferencia de un aminoacido respecto de la humana, mientras que la bacteriana reproduce la secuencia exacta y por eso ofrece menos problemas inmunologicos."
         },
         {
           "letter": "A",
-          "text": "Hacia el polo negativo (cátodo) atraído por las cargas positivas de las bases nitrogenadas libres.",
+          "text": "Que se fabrica en mayor cantidad y por eso se consigue a menor precio en el mercado.",
           "is_correct": false,
-          "feedback": "Incorrecto. El ADN es atraído por el ánodo (+), no por el cátodo (-) debido a que es un polímero de carácter ácido negativo."
-        },
-        {
-          "letter": "B",
-          "text": "Hacia el fondo del gel por sedimentación gravitatoria dependiente de los azúcares pentosas.",
-          "is_correct": false,
-          "feedback": "Incorrecto. La gravedad no tiene relevancia en la separación molecular en geles de matriz estrecha."
+          "feedback": "Correcto como consecuencia comercial real, pero no es la ventaja biomedica que distingue a la insulina humana de la animal."
         },
         {
           "letter": "C",
-          "text": "Se desplazan de manera lateral en círculos concéntricos inducidos por un campo magnético alterno.",
+          "text": "Que se administra por via oral porque se disuelve en agua.",
           "is_correct": false,
-          "feedback": "Incorrecto. La electroforesis utiliza corriente continua lineal unidireccional para forzar el avance de las muestras."
+          "feedback": "Incorrecto. La insulina recombinante se administra por inyeccion, igual que la de origen animal, porque es una proteina que se digiere en el aparato digestivo."
+        },
+        {
+          "letter": "D",
+          "text": "Que no necesita ninguna modificacion posterior a la fermentacion bacteriana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La insulina recombinante si requiere un proceso de purificacion y maduracion, y esa etapa es imprescindible para obtener una molecula activa."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "En la electroforesis, los fragmentos pequeños de ADN se desplazan más rápido a través de la matriz del gel que los fragmentos grandes. En este contexto, Martín de Mercedes determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "B",
+      "explanation": "La ventaja clinica de la insulina recombinante es de secuencia y no de procedimiento. Al ser identica a la humana, el sistema inmunitario la reconoce como propia y la tolerancia es mayor, y por eso hoy se prefiere a la de origen animal.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál es la definición correcta de un organismo transgénico en biotecnología moderna?",
-      "context": "En el taller de Ciencias Naturales en Montevideo, Lucía observa un modelo experimental de organismos transgénicos.",
+      "statement": "Que dilemna etica central plantea el uso de la ingenieria genetica en organismos vivos?",
+      "context": "En la evaluacion final del Liceo N. 1 Departamental de Artigas, Camila redacta la conclusion sobre las implicancias de la biotecnologia.",
       "options": [
         {
-          "letter": "A",
-          "text": "Un organismo vivo que posee un gen exógeno de otra especie incorporado de forma estable en su genoma.",
+          "letter": "C",
+          "text": "El equilibrio entre el beneficio que aporta y los riesgos para la salud y para la diversidad biologica.",
           "is_correct": true,
-          "feedback": "Correcto. El transgén es integrado de manera artificial para conferir una característica fenotípica de interés comercial o medicinal."
+          "feedback": "Correcto. La biotecnologia ofrece ventajas claras en salud y en la produccion, y a la vez plantea preguntas legitimas sobre seguridad, acceso y efectos a largo plazo sobre los ecosistemas."
+        },
+        {
+          "letter": "A",
+          "text": "El equilibrio entre la rapididad de las tecnicas y la lentitud con que se acumulan sus efectos en los seres vivos.",
+          "is_correct": false,
+          "feedback": "Correcto como parte del analisis, pero por si solo no constituye la dimension etica de la cuestion."
         },
         {
           "letter": "B",
-          "text": "Un espécimen sometido a radiación ionizante para eliminar selectivamente genes perjudiciales.",
+          "text": "La decision de si las plantas con genes ajenos son mas utiles que las que no los tienen.",
           "is_correct": false,
-          "feedback": "Incorrecto. La mutagénesis aleatoria por radiación no constituye transgenia, ya que no introduce genes de otras especies."
-        },
-        {
-          "letter": "C",
-          "text": "Un clon idéntico obtenido por transferencia nuclear de células germinales del mismo individuo.",
-          "is_correct": false,
-          "feedback": "Incorrecto. La clonación copia el genoma preexistente; no involucra recombinación interespecífica de genes."
+          "feedback": "Correcto pero se limita a un caso, y la cuestion etica abarca los organismos modificados en general."
         },
         {
           "letter": "D",
-          "text": "Un híbrido resultante de la fecundación tradicional de dos variedades del mismo cultivo.",
+          "text": "La cuestion de si los microorganismos usados en laboratorio son mas peligrosos en la naturaleza.",
           "is_correct": false,
-          "feedback": "Incorrecto. El mejoramiento clásico por cruce sexual es un proceso natural que opera dentro de barreras biológicas."
+          "feedback": "Correcto como riesgo concreto, pero no agota el conjunto de cuestiones que plantea la disciplina."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La biotecnología genera transgénicos mediante vectores de clonación como plásmidos o virus, planteando debates bioéticos rigurosos. En este contexto, Lucía de Montevideo determinó correctamente la respuesta correcta.",
+      "correct_answer": "C",
+      "explanation": "Ninguna aplicacion biotecnologica esta libre de ANALISISUtils. La reflexion etica se apoya en el principio de sintomas, que pide comparar los riesgos con los beneficios reales y no solo con los beneficios potenciales.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

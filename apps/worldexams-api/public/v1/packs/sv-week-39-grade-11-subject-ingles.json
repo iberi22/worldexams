@@ -9,81 +9,36 @@
   "questions": [
     {
       "id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v1",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "What are the main parts of a typical English story?",
+      "context": "A writing lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'."
-        },
-        {
           "letter": "A",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'."
+          "text": "A setting, characters, events and an ending",
+          "is_correct": true,
+          "feedback": "These four elements together give a story its structure from beginning to end."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "A title, a margin and a page number",
           "is_correct": false,
-          "feedback": "'are' is used with 'you', 'we' and 'they', never with the singular 'I'."
+          "feedback": "Those are features of a printed page, not the parts of a narrative."
         },
         {
           "letter": "C",
-          "text": "be",
+          "text": "A topic sentence in each of five paragraphs",
           "is_correct": false,
-          "feedback": "After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
-      "periodo": 39,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v2",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Mejicanos, SV.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "'Benevolent' describes a person who is kind and ready to give help to others."
-        },
-        {
-          "letter": "A",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "That is the opposite of benevolent, whose root means well-wishing."
-        },
-        {
-          "letter": "C",
-          "text": "Quick and fast",
-          "is_correct": false,
-          "feedback": "Those describe speed; benevolent refers to character and generosity."
+          "feedback": "That structure belongs to an essay, not to a story with characters and events."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "A list of facts presented alphabetically",
           "is_correct": false,
-          "feedback": "Those describe laziness, the opposite of a generous attitude towards others."
+          "feedback": "Alphabetical lists belong to reference material, not to a narrative."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "correct_answer": "A",
+      "explanation": "A story usually moves through a setting, a series of events, characters and a conclusion that resolves the central problem.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -98,173 +53,38 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v3",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in San Miguel, SV.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "The text names exactly two things bees do: pollinating flowers and making honey."
-        },
-        {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "Nothing in the text says bees are dangerous; it describes useful work they do."
-        },
-        {
-          "letter": "B",
-          "text": "Honey is the only product bees make",
-          "is_correct": false,
-          "feedback": "The text gives pollination as another thing bees do, so honey is not the only product."
-        },
-        {
-          "letter": "C",
-          "text": "Flowers don't need bees",
-          "is_correct": false,
-          "feedback": "The text says bees help pollinate flowers, so flowers do rely on them."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
-      "bundle_id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
-      "periodo": 39,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v4",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Mejicanos, SV.",
+      "id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v2",
+      "statement": "Choose the best opening line for a story about a boy who finds a bicycle in the river.",
+      "context": "A creative writing exercise in a school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "'Went' is the irregular past simple of 'go'."
+          "text": "This story is about a boy named Tomas and about a bicycle and about a river.",
+          "is_correct": false,
+          "feedback": "The opening lists the elements of the story instead of beginning it."
         },
         {
           "letter": "B",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "English does not add -ed to spell the past of 'go'; the past form is irregular."
-        },
-        {
-          "letter": "C",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": "'Gone' is the past participle used after 'have', not the past simple."
-        },
-        {
-          "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'is' or 'are', not the past simple."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
-      "periodo": 39,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v5",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Salvador, SV.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "She goes to school every day.",
+          "text": "The bicycle surfaced from the river exactly as Tomas reached the bank.",
           "is_correct": true,
-          "feedback": "The third person singular of 'go' takes -s, and 'every day' asks for the present simple."
-        },
-        {
-          "letter": "A",
-          "text": "She go to school every day.",
-          "is_correct": false,
-          "feedback": "After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error."
-        },
-        {
-          "letter": "B",
-          "text": "She going to school every day.",
-          "is_correct": false,
-          "feedback": "That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary."
-        },
-        {
-          "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
-      "periodo": 39,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v6",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Soyapango, SV.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'."
-        },
-        {
-          "letter": "A",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'."
+          "feedback": "The line introduces the character and the key event in the same moment, which pulls the reader in."
         },
         {
           "letter": "C",
-          "text": "are",
+          "text": "Rivers have many uses, and a history of rivers is very long.",
           "is_correct": false,
-          "feedback": "'are' is used with 'you', 'we' and 'they', never with the singular 'I'."
+          "feedback": "The general comment about rivers does not begin the story at all."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "In this paragraph I am going to explain the meaning of the word bicycle.",
           "is_correct": false,
-          "feedback": "After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit."
+          "feedback": "That is the language of an essay, not the language of a narrative."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "6",
+      "explanation": "A strong opening enters the action quickly and gives the reader a reason to keep reading, rather than starting with long background.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -278,38 +98,218 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v7",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Soyapango, SV.",
+      "id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v3",
+      "statement": "What does the setting of a story tell the reader?",
+      "context": "A writing lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "'Benevolent' describes a person who is kind and ready to give help to others."
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "The order in which the events take place",
           "is_correct": false,
-          "feedback": "That is the opposite of benevolent, whose root means well-wishing."
+          "feedback": "That is the order of events, which is a separate element of the story."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "The lesson the reader should learn",
           "is_correct": false,
-          "feedback": "Those describe speed; benevolent refers to character and generosity."
+          "feedback": "Any lesson is drawn by the reader; the setting itself states only place and time."
         },
         {
           "letter": "C",
-          "text": "Slow and lazy",
+          "text": "The time and place where the events occur",
+          "is_correct": true,
+          "feedback": "The setting establishes where and when the narrative takes place."
+        },
+        {
+          "letter": "D",
+          "text": "The reason the story was written",
           "is_correct": false,
-          "feedback": "Those describe laziness, the opposite of a generous attitude towards others."
+          "feedback": "The purpose of the author is not part of the setting."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The setting gives the time and the place where the story happens, and it shapes how the events can occur.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v4",
+      "statement": "Choose the best way to build tension in a short story.",
+      "context": "A creative writing task in a secondary school in San Salvador, SV.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Describing the colour of the walls at length",
+          "is_correct": false,
+          "feedback": "Long description of scenery slows the action down without creating any stakes."
+        },
+        {
+          "letter": "B",
+          "text": "Repeating the same sentence five times for effect",
+          "is_correct": false,
+          "feedback": "Repetition without rising stakes adds no pressure to the outcome."
+        },
+        {
+          "letter": "C",
+          "text": "Ending the story as soon as the problem appears",
+          "is_correct": false,
+          "feedback": "Resolving at once removes the uncertainty that produces tension."
+        },
+        {
+          "letter": "D",
+          "text": "Introducing a problem that matters to the character and delaying its solution",
+          "is_correct": true,
+          "feedback": "Stakes combined with delay create suspense, which is the engine of narrative tension."
         }
       ],
       "correct_answer": "D",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "6",
+      "explanation": "Tension grows when a problem appears and something is at stake for the character, so raising the difficulty of a problem is the standard technique.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v5",
+      "statement": "Choose the best ending for a story about a student who wanted to join the school band.",
+      "context": "A creative writing exercise in a school in San Salvador, SV.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She auditioned for the band that year and nothing more was ever written about it.",
+          "is_correct": false,
+          "feedback": "The story stops without resolving the question it created for the reader."
+        },
+        {
+          "letter": "B",
+          "text": "Bands are popular in many schools and students often audition for them.",
+          "is_correct": false,
+          "feedback": "A general comment replaces the resolution and abandons the character entirely."
+        },
+        {
+          "letter": "C",
+          "text": "She never wanted to join the band and she never considered doing so.",
+          "is_correct": false,
+          "feedback": "The ending contradicts the whole premise the story was built on."
+        },
+        {
+          "letter": "D",
+          "text": "She auditioned with no confidence, was unsure at first, and was then invited to join the band for the term.",
+          "is_correct": true,
+          "feedback": "The ending answers the question about whether she would be accepted, with the uncertainty that makes it believable."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "A satisfying ending resolves the question the story raised, whether that resolution is fully successful or only partly so.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v6",
+      "statement": "Which sentence best shows a character's action rather than telling a feeling?",
+      "context": "A writing lesson in a school in San Salvador, SV.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He was very nervous about the interview, which he felt strongly.",
+          "is_correct": false,
+          "feedback": "The sentence names the feeling directly and adds no observable behaviour."
+        },
+        {
+          "letter": "B",
+          "text": "He thought about the interview and it made him anxious.",
+          "is_correct": false,
+          "feedback": "The sentence reports the internal state instead of showing anything the reader can see."
+        },
+        {
+          "letter": "C",
+          "text": "He checked the door twice, wiped his palms and said nothing at all.",
+          "is_correct": true,
+          "feedback": "The actions let the reader infer the nervousness without being told about it."
+        },
+        {
+          "letter": "D",
+          "text": "His nervousness was present and clearly noticeable.",
+          "is_correct": false,
+          "feedback": "The sentence repeats the label without any concrete action attached to it."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Showing means letting the reader see the behaviour directly, while telling names the feeling without demonstrating it.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v7",
+      "statement": "What is the role of the problem in a story?",
+      "context": "A writing lesson in a secondary school in San Salvador, SV.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It appears only in the final sentence of the story",
+          "is_correct": false,
+          "feedback": "A problem stated at the end cannot drive anything, because the story has finished."
+        },
+        {
+          "letter": "B",
+          "text": "It creates the obstacle that drives the events forward",
+          "is_correct": true,
+          "feedback": "Without a problem there is no reason for the events to unfold as they do."
+        },
+        {
+          "letter": "C",
+          "text": "It is decoration added to make the text longer",
+          "is_correct": false,
+          "feedback": "The problem gives the story its purpose rather than padding its length."
+        },
+        {
+          "letter": "D",
+          "text": "It replaces the characters entirely in the middle section",
+          "is_correct": false,
+          "feedback": "The characters continue to act in the presence of the problem rather than being replaced."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The problem is the obstacle that drives the events and gives the narrative its purpose and direction.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -324,41 +324,41 @@
     },
     {
       "id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v8",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Choose the correct sequence for the parts of a story.",
+      "context": "A planning exercise in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "The text names exactly two things bees do: pollinating flowers and making honey."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "Nothing in the text says bees are dangerous; it describes useful work they do."
+          "text": "Setting, problem, events, conflict, resolution",
+          "is_correct": true,
+          "feedback": "This order introduces where things happen, what goes wrong, and how it ends."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "Resolution, setting, problem, events, conflict",
           "is_correct": false,
-          "feedback": "The text gives pollination as another thing bees do, so honey is not the only product."
+          "feedback": "The story would begin with how it ends, which destroys the sequence of cause and effect."
+        },
+        {
+          "letter": "C",
+          "text": "Conflict, resolution, setting, problem, events",
+          "is_correct": false,
+          "feedback": "Starting with conflict before the setting leaves the reader with no context."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "Events, setting, problem, resolution, conflict",
           "is_correct": false,
-          "feedback": "The text says bees help pollinate flowers, so flowers do rely on them."
+          "feedback": "Events cannot come before the setting that makes them possible."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "A narrative moves from the setting to the introduction of the problem, through the events and the conflict, and ends with a resolution.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v9",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Which verb in a story sentence shows action most strongly?",
+      "context": "A creative writing lesson in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "'Went' is the irregular past simple of 'go'."
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "He did something with the younger child during the emergency.",
           "is_correct": false,
-          "feedback": "English does not add -ed to spell the past of 'go'; the past form is irregular."
+          "feedback": "The phrase reports an event without any picture of what actually happened."
         },
         {
           "letter": "B",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": "'Gone' is the past participle used after 'have', not the past simple."
+          "text": "He sprinted across the yard and pulled the younger child clear.",
+          "is_correct": true,
+          "feedback": "Sprinted and pulled give movement and force, which make the moment visible."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "He was involved in the situation that occurred at that time.",
           "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'is' or 'are', not the past simple."
+          "feedback": "The phrasing reports involvement without showing any concrete action."
+        },
+        {
+          "letter": "D",
+          "text": "He made a movement related to the child who was there.",
+          "is_correct": false,
+          "feedback": "The phrase is vague and gives the reader no image of the event."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "A precise verb of movement or change creates a vivid image, while a general verb such as did leaves the reader with no picture.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v10",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "What does the word 'flashback' mean in a story?",
+      "context": "A reading and writing lesson in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "The third person singular of 'go' takes -s, and 'every day' asks for the present simple."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "A summary of the whole story given at the start",
           "is_correct": false,
-          "feedback": "After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error."
+          "feedback": "That is a prologue or an abstract, which is not a flashback."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "A quick repetition of a sentence for emphasis",
           "is_correct": false,
-          "feedback": "That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary."
+          "feedback": "Repetition for effect is a rhetorical device, not a shift in narrative time."
         },
         {
           "letter": "C",
-          "text": "She gone to school every day.",
+          "text": "A disagreement between two characters in the story",
           "is_correct": false,
-          "feedback": "'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject."
+          "feedback": "A dispute between characters is a conflict, which is a separate narrative element."
+        },
+        {
+          "letter": "D",
+          "text": "A scene set earlier that explains the present events",
+          "is_correct": true,
+          "feedback": "A flashback moves back in time and usually clarifies why the present action happens."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "6",
+      "explanation": "A flashback interrupts the present action of a narrative to show an earlier event that explains the characters or the situation.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Understand",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -459,37 +459,37 @@
     },
     {
       "id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v11",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Choose the best sentence for the ending of a story about a lost dog that finally finds its owner.",
+      "context": "A creative writing exercise in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'."
-        },
-        {
           "letter": "A",
-          "text": "is",
+          "text": "Dogs sometimes wander and sometimes they come back, which is a fact of nature.",
           "is_correct": false,
-          "feedback": "'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'."
+          "feedback": "The general observation replaces the resolution with a comment about dogs."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "The dog was lost and the owner was worried and the search went on all day.",
           "is_correct": false,
-          "feedback": "'are' is used with 'you', 'we' and 'they', never with the singular 'I'."
+          "feedback": "The sentence restates the situation instead of ending it."
+        },
+        {
+          "letter": "C",
+          "text": "The dog pushed its way through the crowd and stopped, wagging, in front of the woman who had been searching since dawn.",
+          "is_correct": true,
+          "feedback": "The ending brings the search to a close with an image that confirms the reunion."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "Nobody in this story ever found the dog again at any point.",
           "is_correct": false,
-          "feedback": "After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit."
+          "feedback": "The sentence contradicts the premise the story has been building towards."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "explanation": "A good ending resolves the central question of the story and leaves the reader with a settled feeling about what happened.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,37 +504,37 @@
     },
     {
       "id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v12",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Why do writers use dialogue in a story?",
+      "context": "A writing lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "'Benevolent' describes a person who is kind and ready to give help to others."
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "That is the opposite of benevolent, whose root means well-wishing."
+          "text": "To reveal the thoughts of characters and move the story forward",
+          "is_correct": true,
+          "feedback": "Speech shows what characters feel and often advances the action at the same time."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "To fill space on the page with words",
           "is_correct": false,
-          "feedback": "Those describe speed; benevolent refers to character and generosity."
+          "feedback": "Dialogue is used for effect, not to lengthen a text arbitrarily."
         },
         {
           "letter": "C",
-          "text": "Slow and lazy",
+          "text": "To replace the need for a clear setting",
           "is_correct": false,
-          "feedback": "Those describe laziness, the opposite of a generous attitude towards others."
+          "feedback": "A story still needs a setting; dialogue does not replace that element."
+        },
+        {
+          "letter": "D",
+          "text": "To guarantee that every reader enjoys the plot",
+          "is_correct": false,
+          "feedback": "No technique can ensure that, and dialogue is not used for that purpose."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "Dialogue lets characters reveal their thoughts and relationships directly and makes a narrative move faster than narration alone.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -549,41 +549,41 @@
     },
     {
       "id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v13",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Choose the sentence that best shows rising tension near the end of a story.",
+      "context": "A writing assessment in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "The text names exactly two things bees do: pollinating flowers and making honey."
+          "letter": "A",
+          "text": "He reached the bank, sat down and then had something to eat.",
+          "is_correct": false,
+          "feedback": "The problem is over by this point, so the tension has already been released."
         },
         {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
+          "letter": "B",
+          "text": "The river was long and the day was sunny and the walk was pleasant.",
           "is_correct": false,
-          "feedback": "Nothing in the text says bees are dangerous; it describes useful work they do."
+          "feedback": "The description is calm and unthreatening, which works against any sense of danger."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
+          "text": "He had crossed the river many times and knew the route well.",
           "is_correct": false,
-          "feedback": "The text gives pollination as another thing bees do, so honey is not the only product."
+          "feedback": "Familiarity removes the uncertainty that a tense moment depends on."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
-          "is_correct": false,
-          "feedback": "The text says bees help pollinate flowers, so flowers do rely on them."
+          "text": "The rope slipped another inch and the water was already at his knees.",
+          "is_correct": true,
+          "feedback": "The growing danger and the pressure of the moment make the outcome uncertain."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Tension rises when the danger increases and the outcome becomes less certain, which these sentences express through urgency and unresolved pressure.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -594,127 +594,37 @@
     },
     {
       "id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v14",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Complete the story sentence: 'The door would not open, and from inside came a sound that nobody in the house could explain.'",
+      "context": "A creative writing task in a secondary school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "'Went' is the irregular past simple of 'go'."
+          "text": "The sound was a clear and pleasant ring of the doorbell pressed once.",
+          "is_correct": false,
+          "feedback": "A friendly bell sound resolves the mystery instead of creating one."
         },
         {
           "letter": "B",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "English does not add -ed to spell the past of 'go'; the past form is irregular."
-        },
-        {
-          "letter": "C",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": "'Gone' is the past participle used after 'have', not the past simple."
-        },
-        {
-          "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'is' or 'are', not the past simple."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
-      "periodo": 39,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v15",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Salvador, SV.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "She goes to school every day.",
+          "text": "The sound was slow and uneven and nothing in the house explained it.",
           "is_correct": true,
-          "feedback": "The third person singular of 'go' takes -s, and 'every day' asks for the present simple."
-        },
-        {
-          "letter": "A",
-          "text": "She go to school every day.",
-          "is_correct": false,
-          "feedback": "After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error."
-        },
-        {
-          "letter": "B",
-          "text": "She going to school every day.",
-          "is_correct": false,
-          "feedback": "That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary."
-        },
-        {
-          "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
-      "periodo": 39,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v16",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in San Salvador, SV.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'."
-        },
-        {
-          "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'."
+          "feedback": "The unexplained sound raises a question the next part of the story will have to answer."
         },
         {
           "letter": "C",
-          "text": "are",
+          "text": "The sound was a friendly voice saying that everything was fine.",
           "is_correct": false,
-          "feedback": "'are' is used with 'you', 'we' and 'they', never with the singular 'I'."
+          "feedback": "The reassurance ends the tension rather than sustaining it."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "The sound was an explanation of exactly what had happened earlier.",
           "is_correct": false,
-          "feedback": "After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit."
+          "feedback": "Giving the explanation here removes the uncertainty the sentence needs to create."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "To create suspense the sentence should introduce an unexpected sound or presence without explaining it, leaving the reader wanting to know more.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -728,38 +638,128 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v17",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in San Miguel, SV.",
+      "id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v15",
+      "statement": "What should a writer check when reviewing a story for coherence?",
+      "context": "A writing skills lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "Kind and generous",
+          "text": "That the events follow from one another and the problem is resolved",
           "is_correct": true,
-          "feedback": "'Benevolent' describes a person who is kind and ready to give help to others."
+          "feedback": "Logical sequence and a solved central problem are what make a narrative coherent."
         },
         {
           "letter": "B",
-          "text": "Mean and cruel",
+          "text": "That every sentence is exactly the same length as the one before it",
           "is_correct": false,
-          "feedback": "That is the opposite of benevolent, whose root means well-wishing."
+          "feedback": "Uniform sentence length has no bearing on whether the events hang together."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "That no word appears more than once in the whole text",
           "is_correct": false,
-          "feedback": "Those describe speed; benevolent refers to character and generosity."
+          "feedback": "Repeating words is normal and does not damage the coherence of a story."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "That the text contains no more than two paragraphs",
           "is_correct": false,
-          "feedback": "Those describe laziness, the opposite of a generous attitude towards others."
+          "feedback": "The number of paragraphs is a matter of length and pacing, not of coherence."
         }
       ],
       "correct_answer": "A",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "10",
+      "explanation": "A coherent story has events that follow one another logically and a resolution that answers the problem the narrative raised.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v16",
+      "statement": "Choose the best description of a main character in a story.",
+      "context": "A creative writing exercise in a school in San Salvador, SV.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A character defined only by height, eye colour and age",
+          "is_correct": false,
+          "feedback": "Physical details alone do not explain why a character matters to the plot."
+        },
+        {
+          "letter": "B",
+          "text": "A character who appears in the first paragraph and then disappears",
+          "is_correct": false,
+          "feedback": "Appearing briefly does not make a character main; involvement in the conflict does."
+        },
+        {
+          "letter": "C",
+          "text": "A character defined by what they want and by the choices they make",
+          "is_correct": true,
+          "feedback": "Desire and choice are what make a character central to the plot."
+        },
+        {
+          "letter": "D",
+          "text": "A character whose name is repeated most often in the text",
+          "is_correct": false,
+          "feedback": "Repetition of a name is a technical detail, not what makes a character central."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A main character is defined by what the character wants and by how they respond to the central problem, not by a list of physical details.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v17",
+      "statement": "What is the function of the narrator in a story?",
+      "context": "A reading comprehension lesson in a secondary school in San Salvador, SV.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To write the dialogue for every character in the story",
+          "is_correct": false,
+          "feedback": "Characters speak for themselves; the narrator reports and frames their actions."
+        },
+        {
+          "letter": "B",
+          "text": "To tell the events and decide what the reader knows",
+          "is_correct": true,
+          "feedback": "The narrator presents the action and controls the information given to the reader."
+        },
+        {
+          "letter": "C",
+          "text": "To prove that the events really happened as described",
+          "is_correct": false,
+          "feedback": "A narrator is part of the fiction and does not certify real events."
+        },
+        {
+          "letter": "D",
+          "text": "To decide how long the story should be before it is written",
+          "is_correct": false,
+          "feedback": "Length is a structural choice of the writer, not the defining role of the narrator."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The narrator is the voice that tells the story and decides what the reader is allowed to know about the events.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -774,41 +774,41 @@
     },
     {
       "id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v18",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "What does the word 'plot' mean in a story?",
+      "context": "A creative writing lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "The text names exactly two things bees do: pollinating flowers and making honey."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "Nothing in the text says bees are dangerous; it describes useful work they do."
+          "text": "The sequence of events in the story",
+          "is_correct": true,
+          "feedback": "The plot is the chain of events that carries the narrative forward."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "The list of characters who appear in the story",
           "is_correct": false,
-          "feedback": "The text gives pollination as another thing bees do, so honey is not the only product."
+          "feedback": "That list is the cast of the story, not the plot."
+        },
+        {
+          "letter": "C",
+          "text": "The physical appearance of the main character",
+          "is_correct": false,
+          "feedback": "Description of appearance is a matter of detail rather than of plot."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "The number of pages in the story",
           "is_correct": false,
-          "feedback": "The text says bees help pollinate flowers, so flowers do rely on them."
+          "feedback": "Length is a property of the text and not what the word 'plot' denotes."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "The plot is the sequence of events that makes up the narrative, arranged so that one event leads to the next.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Understand",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v19",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Why should a writer open a story with action rather than with long description?",
+      "context": "A creative writing lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "'Went' is the irregular past simple of 'go'."
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "Because description is never used in modern stories",
           "is_correct": false,
-          "feedback": "English does not add -ed to spell the past of 'go'; the past form is irregular."
+          "feedback": "Description does appear in stories, though usually after the action has begun."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "Because action is always easier to write than description",
           "is_correct": false,
-          "feedback": "'Gone' is the past participle used after 'have', not the past simple."
+          "feedback": "The claim is not true; precise description is among the hardest things to write."
+        },
+        {
+          "letter": "C",
+          "text": "It draws the reader into the events before attention fades",
+          "is_correct": true,
+          "feedback": "The immediate action creates a question the reader wants answered."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "Because readers never notice descriptive sentences",
           "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'is' or 'are', not the past simple."
+          "feedback": "Readers notice them, and a long opening description often loses their interest."
         }
       ],
       "correct_answer": "C",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "10",
+      "explanation": "An action opening puts the reader inside the story immediately, which creates curiosity about what will happen next.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v20",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "What should happen to a problem that a story never resolves?",
+      "context": "A creative writing lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "The third person singular of 'go' takes -s, and 'every day' asks for the present simple."
+          "letter": "A",
+          "text": "The reader is left wanting a longer version of the same story",
+          "is_correct": false,
+          "feedback": "Suspense about the outcome is different from a problem that simply never closes."
         },
         {
-          "letter": "A",
-          "text": "She go to school every day.",
+          "letter": "B",
+          "text": "The reader is left wanting to read a different author's work",
           "is_correct": false,
-          "feedback": "After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error."
+          "feedback": "That reaction follows from tedium rather than from an unresolved problem."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "The reader is left wanting to rewrite the story themselves",
           "is_correct": false,
-          "feedback": "That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary."
+          "feedback": "That reaction follows from poor quality writing, not from an open ending."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject."
+          "text": "The reader is left unsure how the story ends",
+          "is_correct": true,
+          "feedback": "An unresolved central problem denies the reader the satisfaction the plot promised."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "A narrative that leaves its central problem unresolved frustrates the reader, so the ending must address what became of it.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",

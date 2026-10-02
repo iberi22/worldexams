@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v1",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Choose the correct passive form: 'The bridge ___ (repair) last winter.'",
+      "context": "A news report read in an English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "am",
+          "letter": "A",
+          "text": "was repaired",
           "is_correct": true,
-          "feedback": "'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'."
+          "feedback": "'Was repaired' is the past passive: the auxiliary 'was' plus the participle of the verb."
         },
         {
-          "letter": "A",
-          "text": "is",
+          "letter": "B",
+          "text": "was repair",
           "is_correct": false,
-          "feedback": "'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'."
+          "feedback": "'Was' must be followed by the past participle 'repaired', not by the base form of the verb."
         },
         {
           "letter": "C",
-          "text": "are",
+          "text": "is repairing",
           "is_correct": false,
-          "feedback": "'are' is used with 'you', 'we' and 'they', never with the singular 'I'."
+          "feedback": "'Is repairing' is the present continuous, which cannot describe an event from last winter."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "was repairing",
           "is_correct": false,
-          "feedback": "After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit."
+          "feedback": "'Was repairing' is the past continuous and lacks the participle a passive sentence requires."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "correct_answer": "A",
+      "explanation": "A past event in which the bridge received the action takes the past passive, so 'was' is followed by the participle 'repaired'.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -54,40 +54,40 @@
     },
     {
       "id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v2",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Choose the correct option: 'The letter ___ (write) by Ana is on the desk.'",
+      "context": "A note found in a classroom in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "'Benevolent' describes a person who is kind and ready to give help to others."
+          "letter": "A",
+          "text": "is writing",
+          "is_correct": false,
+          "feedback": "'Is writing' is the present continuous and would need a subject that performs the action."
         },
         {
-          "letter": "A",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "That is the opposite of benevolent, whose root means well-wishing."
+          "letter": "B",
+          "text": "was written",
+          "is_correct": true,
+          "feedback": "'Was written' is the past passive and fits a letter that Ana wrote and that now sits on the desk."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "wrote",
           "is_correct": false,
-          "feedback": "Those describe speed; benevolent refers to character and generosity."
+          "feedback": "'Wrote' is the past simple active and cannot be followed by 'by Ana'."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "was write",
           "is_correct": false,
-          "feedback": "Those describe laziness, the opposite of a generous attitude towards others."
+          "feedback": "The past passive needs the past participle 'written', not the bare form 'write'."
         }
       ],
       "correct_answer": "B",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "explanation": "When the subject is the thing that receives the action, English uses the passive, here 'was written' with the past participle 'written'.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle",
       "periodo": 12,
@@ -99,41 +99,41 @@
     },
     {
       "id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v3",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Which sentence is in the passive voice?",
+      "context": "A test on voice in an English class in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "The text names exactly two things bees do: pollinating flowers and making honey."
+          "text": "The engineers built the bridge in 1930.",
+          "is_correct": false,
+          "feedback": "'Built' here is the past simple active, with the engineers performing the action."
         },
         {
           "letter": "B",
-          "text": "Bees are dangerous insects",
+          "text": "The bridge is building in 1930.",
           "is_correct": false,
-          "feedback": "Nothing in the text says bees are dangerous; it describes useful work they do."
+          "feedback": "'Is building' is an active present continuous and does not use the participle."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
-          "is_correct": false,
-          "feedback": "The text gives pollination as another thing bees do, so honey is not the only product."
+          "text": "The bridge was built in 1930.",
+          "is_correct": true,
+          "feedback": "'Was built' is 'be' plus the past participle, so the bridge receives the action."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "The bridge has built itself in 1930.",
           "is_correct": false,
-          "feedback": "The text says bees help pollinate flowers, so flowers do rely on them."
+          "feedback": "A thing cannot build itself; the verb here would need the passive form 'was built'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "correct_answer": "C",
+      "explanation": "A passive sentence makes the subject receive the action and uses a form of 'to be' plus the past participle.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -144,41 +144,41 @@
     },
     {
       "id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v4",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Choose the correct active version: 'The song was sung by Mara.'",
+      "context": "A music class discussion in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "'Went' is the irregular past simple of 'go'."
+          "letter": "A",
+          "text": "Mara is singing the song.",
+          "is_correct": false,
+          "feedback": "'Is singing' is the present continuous, which does not match the past event described."
         },
         {
-          "letter": "A",
-          "text": "goed",
+          "letter": "B",
+          "text": "The song sings Mara.",
           "is_correct": false,
-          "feedback": "English does not add -ed to spell the past of 'go'; the past form is irregular."
+          "feedback": "That reverses the roles and makes the song perform the action, which makes no sense."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "Mara was sung the song.",
           "is_correct": false,
-          "feedback": "'Gone' is the past participle used after 'have', not the past simple."
+          "feedback": "'Was sung' keeps the passive voice and cannot describe Mara as the subject."
         },
         {
           "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'is' or 'are', not the past simple."
+          "text": "Mara sang the song.",
+          "is_correct": true,
+          "feedback": "'Sang' is the past simple of 'sing', so the performer becomes the subject in the active voice."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "correct_answer": "D",
+      "explanation": "To make the sentence active, the performer becomes the subject and the verb returns to the simple past: 'Mara sang the song'.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -189,41 +189,41 @@
     },
     {
       "id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v5",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Choose the correct passive question: '___ the room cleaned every day?'",
+      "context": "A conversation about household chores in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "The third person singular of 'go' takes -s, and 'every day' asks for the present simple."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "Are",
           "is_correct": false,
-          "feedback": "After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error."
+          "feedback": "'Are' would need a plural subject, but 'the room' is singular."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "Do",
           "is_correct": false,
-          "feedback": "That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary."
+          "feedback": "'Do' opens an active present simple question and would take the base verb 'clean'."
+        },
+        {
+          "letter": "C",
+          "text": "Did",
+          "is_correct": false,
+          "feedback": "'Did' opens a past simple question and would require the base form 'clean'."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject."
+          "text": "Is",
+          "is_correct": true,
+          "feedback": "'Is the room cleaned' places 'is' before the subject, as the passive question requires."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "In a present simple passive question the auxiliary 'is' comes first, followed by the subject and the past participle.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -234,40 +234,40 @@
     },
     {
       "id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v6",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Which time expression goes with the present perfect passive?",
+      "context": "A grammar chart of verb forms in a school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'."
+          "text": "last century",
+          "is_correct": false,
+          "feedback": "A finished distant past period normally takes the past simple rather than the present perfect."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "every day",
           "is_correct": false,
-          "feedback": "'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'."
+          "feedback": "'Every day' describes a repeated habit and belongs to the present simple."
         },
         {
           "letter": "C",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "'are' is used with 'you', 'we' and 'they', never with the singular 'I'."
+          "text": "already",
+          "is_correct": true,
+          "feedback": "'Already' pairs with 'has been' plus participle to report a completed action relevant to now."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "in a moment",
           "is_correct": false,
-          "feedback": "After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit."
+          "feedback": "'In a moment' points to the future and needs a future tense."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "The present perfect passive links a past action with the present through the form 'has been' plus the past participle, often with 'already', 'just' or 'recently'.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle",
       "periodo": 12,
@@ -279,41 +279,41 @@
     },
     {
       "id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v7",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Choose the correct option: 'The window ___ (break) by the ball.'",
+      "context": "A sports report in an English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "'Benevolent' describes a person who is kind and ready to give help to others."
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "was breaked",
           "is_correct": false,
-          "feedback": "That is the opposite of benevolent, whose root means well-wishing."
+          "feedback": "'Break' is irregular, so the past participle is 'broken' and never 'breaked'."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "was broken",
+          "is_correct": true,
+          "feedback": "'Was broken' is the past passive with the irregular participle 'broken'."
+        },
+        {
+          "letter": "C",
+          "text": "was breaking",
           "is_correct": false,
-          "feedback": "Those describe speed; benevolent refers to character and generosity."
+          "feedback": "'Was breaking' is the past continuous, which describes an action in progress."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "is breaking",
           "is_correct": false,
-          "feedback": "Those describe laziness, the opposite of a generous attitude towards others."
+          "feedback": "'Is breaking' is present tense and does not describe a completed event."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "A ball performs the action, so the window receives it; the past participle of 'break' is 'broken' and the auxiliary is 'was'.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -324,41 +324,41 @@
     },
     {
       "id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v8",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Choose the correct negative passive: 'The documents ___ (not / sign) yet.'",
+      "context": "A reminder about paperwork in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Bees are important for pollination and honey",
+          "letter": "A",
+          "text": "have not been signed",
           "is_correct": true,
-          "feedback": "The text names exactly two things bees do: pollinating flowers and making honey."
+          "feedback": "'Have not been signed' is the negative present perfect passive, which matches 'yet'."
         },
         {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
+          "letter": "B",
+          "text": "did not signed",
           "is_correct": false,
-          "feedback": "Nothing in the text says bees are dangerous; it describes useful work they do."
+          "feedback": "'Did' must be followed by the base form 'sign', never by the participle 'signed'."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
+          "text": "are not signing",
           "is_correct": false,
-          "feedback": "The text gives pollination as another thing bees do, so honey is not the only product."
+          "feedback": "'Are not signing' is an active present continuous negative, not a passive one."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "were not signing",
           "is_correct": false,
-          "feedback": "The text says bees help pollinate flowers, so flowers do rely on them."
+          "feedback": "'Were not signing' is a past continuous negative and lacks the participle."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "The present perfect passive negative uses 'have not been' plus the past participle, and 'yet' fits that form.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v9",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Choose the correct sentence.",
+      "context": "An exercise on the passive voice in a secondary school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "'Went' is the irregular past simple of 'go'."
+          "text": "The results were announcing by the principal.",
+          "is_correct": false,
+          "feedback": "'Were announcing' is a past continuous, which cannot form the passive."
         },
         {
           "letter": "B",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "English does not add -ed to spell the past of 'go'; the past form is irregular."
+          "text": "The results were announced by the principal.",
+          "is_correct": true,
+          "feedback": "'Were announced' is 'be' plus participle, and 'the results' receives the action."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "The results are announce by the principal.",
           "is_correct": false,
-          "feedback": "'Gone' is the past participle used after 'have', not the past simple."
+          "feedback": "'Are announce' lacks the past participle, so the passive structure is incomplete."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "The results has announced by the principal.",
           "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'is' or 'are', not the past simple."
+          "feedback": "'Has' alone cannot build a passive; a form of 'to be' is required."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "Only the sentence that uses a form of 'to be' plus a past participle and makes the subject receive the action is a correct passive.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v10",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Choose the correct option: 'The letter ___ (send) to her yesterday.'",
+      "context": "A short story retold in an English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "The third person singular of 'go' takes -s, and 'every day' asks for the present simple."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "is sent",
           "is_correct": false,
-          "feedback": "After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error."
+          "feedback": "'Is sent' is the present simple passive and would place the action in the present."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "was sending",
           "is_correct": false,
-          "feedback": "That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary."
+          "feedback": "'Was sending' is the past continuous, which cannot form the passive."
         },
         {
           "letter": "C",
-          "text": "She gone to school every day.",
+          "text": "has sent",
           "is_correct": false,
-          "feedback": "'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject."
+          "feedback": "'Has sent' is the present perfect active with 'the letter' as the sender."
+        },
+        {
+          "letter": "D",
+          "text": "was sent",
+          "is_correct": true,
+          "feedback": "'Was sent' is the past simple passive: 'was' plus the participle 'sent'."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "6",
+      "explanation": "'Yesterday' points to a finished past moment, so the passive needs 'was sent' with the auxiliary 'was' and the participle 'sent'.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -459,37 +459,172 @@
     },
     {
       "id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v11",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Choose the correct passive infinitive: 'He wants to ___ (invite) to the ceremony.'",
+      "context": "A conversation about invitations in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'."
-        },
-        {
           "letter": "A",
-          "text": "is",
+          "text": "invite",
           "is_correct": false,
-          "feedback": "'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'."
+          "feedback": "'To invite' is the active infinitive and would make him the one doing the inviting."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "to invited",
           "is_correct": false,
-          "feedback": "'are' is used with 'you', 'we' and 'they', never with the singular 'I'."
+          "feedback": "A double 'to' is not possible; the infinitive marker plus 'be' gives 'to be invited'."
         },
         {
           "letter": "C",
-          "text": "be",
+          "text": "be invited",
+          "is_correct": true,
+          "feedback": "'To be invited' is the passive infinitive, with the subject receiving the invitation."
+        },
+        {
+          "letter": "D",
+          "text": "being invited",
           "is_correct": false,
-          "feedback": "After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit."
+          "feedback": "'Being invited' is a gerund phrase and cannot follow 'wants to' in that position."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The passive infinitive is built with 'to be' plus the past participle, so it reads 'to be invited'.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v12",
+      "statement": "Identify the only well-formed passive sentence about a photograph.",
+      "context": "An exercise on the passive voice in a secondary school in San Salvador, SV.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The photos were taken by my brother.",
+          "is_correct": true,
+          "feedback": "'Were taken' is 'be' plus participle, and 'the photos' receives the action."
+        },
+        {
+          "letter": "B",
+          "text": "The photos were take by my brother.",
+          "is_correct": false,
+          "feedback": "'Were take' uses the base form instead of the participle 'taken'."
+        },
+        {
+          "letter": "C",
+          "text": "The photos have take by my brother.",
+          "is_correct": false,
+          "feedback": "'Have' alone cannot build a passive, and 'take' is not the participle here."
+        },
+        {
+          "letter": "D",
+          "text": "The photos are take by my brother.",
+          "is_correct": false,
+          "feedback": "'Are' would need the participle 'taken' to form a correct present passive."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A correct passive sentence uses a form of 'to be' plus a past participle and lets the subject receive the action.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v13",
+      "statement": "Which sentence is NOT in the passive voice?",
+      "context": "A question on voice in an English class in San Salvador, SV.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The project was finished early.",
+          "is_correct": false,
+          "feedback": "'Was finished' is 'be' plus participle, so this sentence is passive."
+        },
+        {
+          "letter": "B",
+          "text": "The project has been finished early.",
+          "is_correct": false,
+          "feedback": "'Has been finished' contains a form of 'be' plus participle, so it is passive."
+        },
+        {
+          "letter": "C",
+          "text": "The project is being finished now.",
+          "is_correct": false,
+          "feedback": "'Is being finished' is the present continuous passive."
+        },
+        {
+          "letter": "D",
+          "text": "The students finished the project early.",
+          "is_correct": true,
+          "feedback": "'Finished' here is the past simple active, with the students performing the action."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "explanation": "A sentence is active when its subject performs the action, even when the verb happens to be in a participle form for other reasons.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v14",
+      "statement": "Choose the correct passive with a modal: 'This medicine ___ (take) three times a day.'",
+      "context": "A health instruction understood in a school in San Salvador, SV.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must taking",
+          "is_correct": false,
+          "feedback": "A modal verb never takes the -ing form directly after it."
+        },
+        {
+          "letter": "B",
+          "text": "must be taken",
+          "is_correct": true,
+          "feedback": "Modal plus 'be' plus participle gives 'must be taken', which fits a medical instruction."
+        },
+        {
+          "letter": "C",
+          "text": "must taken",
+          "is_correct": false,
+          "feedback": "'Taken' alone cannot follow a modal; the auxiliary 'be' is required."
+        },
+        {
+          "letter": "D",
+          "text": "must be take",
+          "is_correct": false,
+          "feedback": "'Be' must be followed by the past participle 'taken', not by the base form."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Instructions about what something must be done to it use 'must be' plus the past participle, so the sentence reads 'must be taken'.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -503,177 +638,42 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v12",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Mejicanos, SV.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "'Benevolent' describes a person who is kind and ready to give help to others."
-        },
-        {
-          "letter": "B",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "That is the opposite of benevolent, whose root means well-wishing."
-        },
-        {
-          "letter": "C",
-          "text": "Quick and fast",
-          "is_correct": false,
-          "feedback": "Those describe speed; benevolent refers to character and generosity."
-        },
-        {
-          "letter": "D",
-          "text": "Slow and lazy",
-          "is_correct": false,
-          "feedback": "Those describe laziness, the opposite of a generous attitude towards others."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle",
-      "periodo": 12,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v13",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Soyapango, SV.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "The text names exactly two things bees do: pollinating flowers and making honey."
-        },
-        {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "Nothing in the text says bees are dangerous; it describes useful work they do."
-        },
-        {
-          "letter": "B",
-          "text": "Honey is the only product bees make",
-          "is_correct": false,
-          "feedback": "The text gives pollination as another thing bees do, so honey is not the only product."
-        },
-        {
-          "letter": "D",
-          "text": "Flowers don't need bees",
-          "is_correct": false,
-          "feedback": "The text says bees help pollinate flowers, so flowers do rely on them."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
-      "bundle_id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle",
-      "periodo": 12,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v14",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Salvador, SV.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "'Went' is the irregular past simple of 'go'."
-        },
-        {
-          "letter": "A",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "English does not add -ed to spell the past of 'go'; the past form is irregular."
-        },
-        {
-          "letter": "C",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": "'Gone' is the past participle used after 'have', not the past simple."
-        },
-        {
-          "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'is' or 'are', not the past simple."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle",
-      "periodo": 12,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
       "id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v15",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Choose the correct option: 'The problem ___ (solve) by the end of the term.'",
+      "context": "A progress report in a school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "She goes to school every day.",
+          "text": "will have been solved",
           "is_correct": true,
-          "feedback": "The third person singular of 'go' takes -s, and 'every day' asks for the present simple."
+          "feedback": "'Will have been solved' places the completion before a future deadline in the passive."
         },
         {
           "letter": "B",
-          "text": "She go to school every day.",
+          "text": "will solve",
           "is_correct": false,
-          "feedback": "After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error."
+          "feedback": "'Will solve' is the future simple active and needs a subject that does the solving."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "has solved",
           "is_correct": false,
-          "feedback": "That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary."
+          "feedback": "'Has solved' is the present perfect active and links the past to the present."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "is solving",
           "is_correct": false,
-          "feedback": "'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject."
+          "feedback": "'Is solving' is the present continuous active and describes an action in progress."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "8",
+      "explanation": "A result expected by a future deadline uses the future perfect passive: 'will have been solved'.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -684,37 +684,37 @@
     },
     {
       "id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v16",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Change to the passive: 'They built the school in 1960.'",
+      "context": "A history lesson in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'."
-        },
-        {
           "letter": "A",
-          "text": "is",
+          "text": "The school is built in 1960.",
           "is_correct": false,
-          "feedback": "'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'."
+          "feedback": "'Is built' is the present simple passive and does not match the past year given."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "The school was building in 1960.",
           "is_correct": false,
-          "feedback": "'are' is used with 'you', 'we' and 'they', never with the singular 'I'."
+          "feedback": "'Was building' is the past continuous and cannot describe a completed construction."
         },
         {
           "letter": "C",
-          "text": "be",
+          "text": "The school was built in 1960.",
+          "is_correct": true,
+          "feedback": "'Was built' is 'be' plus participle, and the school becomes the subject receiving the action."
+        },
+        {
+          "letter": "D",
+          "text": "The school built in 1960.",
           "is_correct": false,
-          "feedback": "After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit."
+          "feedback": "'Built' as a main verb leaves the sentence without an auxiliary and gives no passive."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "In the past simple passive the agent may be left out, giving 'The school was built in 1960'.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -729,40 +729,40 @@
     },
     {
       "id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v17",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Choose the correct gerund passive: 'I remember ___ (lock) the door by my brother.'",
+      "context": "A sentence about an old habit in a conversation class in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "'Benevolent' describes a person who is kind and ready to give help to others."
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "locking",
           "is_correct": false,
-          "feedback": "That is the opposite of benevolent, whose root means well-wishing."
+          "feedback": "'Locking' is the active gerund and would make the subject the one who locks the door."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "being locked",
+          "is_correct": true,
+          "feedback": "'Being locked' is the gerund passive, describing the door receiving the action in the past."
+        },
+        {
+          "letter": "C",
+          "text": "locked",
           "is_correct": false,
-          "feedback": "Those describe speed; benevolent refers to character and generosity."
+          "feedback": "'Locked' is the past participle alone and cannot stand after 'remember' in this form."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "to being locked",
           "is_correct": false,
-          "feedback": "Those describe laziness, the opposite of a generous attitude towards others."
+          "feedback": "A double infinitive marker is not possible after the verb 'remember'."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "After 'remember' the gerund 'being' plus the past participle gives the passive of an earlier habit.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle",
       "periodo": 12,
@@ -774,41 +774,41 @@
     },
     {
       "id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v18",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Choose the correct question in the past passive: '___ the money stolen?'",
+      "context": "A discussion about a theft in a school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "Bees are important for pollination and honey",
+          "text": "Was",
           "is_correct": true,
-          "feedback": "The text names exactly two things bees do: pollinating flowers and making honey."
+          "feedback": "'Was the money stolen' places the auxiliary before the subject, as a passive question requires."
         },
         {
           "letter": "B",
-          "text": "Bees are dangerous insects",
+          "text": "Did",
           "is_correct": false,
-          "feedback": "Nothing in the text says bees are dangerous; it describes useful work they do."
+          "feedback": "'Did' opens an active past simple question and would take the base verb 'steal'."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
+          "text": "Has",
           "is_correct": false,
-          "feedback": "The text gives pollination as another thing bees do, so honey is not the only product."
+          "feedback": "'Has' would build a present perfect and would need 'the money' followed by 'been stolen'."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "Do",
           "is_correct": false,
-          "feedback": "The text says bees help pollinate flowers, so flowers do rely on them."
+          "feedback": "'Do' opens a present simple question and does not match the past participle 'stolen'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "10",
+      "explanation": "A past passive question begins with 'was', followed by the subject and the past participle.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v19",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Choose the correct sentence with two passive clauses.",
+      "context": "A report written for a school newspaper in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "'Went' is the irregular past simple of 'go'."
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "The letter was wrote by Ana and it was sent yesterday.",
           "is_correct": false,
-          "feedback": "English does not add -ed to spell the past of 'go'; the past form is irregular."
+          "feedback": "'Was wrote' uses the past simple instead of the participle 'written'."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "The letter wrote by Ana and it was sent yesterday.",
           "is_correct": false,
-          "feedback": "'Gone' is the past participle used after 'have', not the past simple."
+          "feedback": "'Wrote' with no auxiliary leaves the first clause active and incomplete."
+        },
+        {
+          "letter": "C",
+          "text": "The letter was written by Ana and it was sent yesterday.",
+          "is_correct": true,
+          "feedback": "Both 'was written' and 'was sent' are past passives with participle verbs."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "The letter was written by Ana and it sent yesterday.",
           "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'is' or 'are', not the past simple."
+          "feedback": "'Sent' with no auxiliary leaves the second clause without a passive verb."
         }
       ],
       "correct_answer": "C",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "10",
+      "explanation": "Both clauses must use a form of 'to be' plus a past participle for the sentence to be passive throughout.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v20",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Choose the correct passive negative in the present perfect: 'The classroom ___ (not / clean) yet.'",
+      "context": "A notice on a classroom door in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "The third person singular of 'go' takes -s, and 'every day' asks for the present simple."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "has not clean",
           "is_correct": false,
-          "feedback": "After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error."
+          "feedback": "'Has not clean' uses the base form instead of the participle 'cleaned'."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "did not cleaned",
           "is_correct": false,
-          "feedback": "That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary."
+          "feedback": "'Did' cannot be followed by a participle, and it marks a finished past action."
+        },
+        {
+          "letter": "C",
+          "text": "is not cleaning",
+          "is_correct": false,
+          "feedback": "'Is not cleaning' is the present continuous and lacks the participle."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject."
+          "text": "has not been cleaned",
+          "is_correct": true,
+          "feedback": "'Has not been cleaned' is the negative present perfect passive and matches 'yet'."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "'Yet' belongs with the present perfect, and the present perfect passive uses 'has not been' plus the past participle.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",

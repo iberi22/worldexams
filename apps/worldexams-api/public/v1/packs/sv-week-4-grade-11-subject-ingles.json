@@ -9,36 +9,81 @@
   "questions": [
     {
       "id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle-v1",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Which sentence is in the past continuous?",
+      "context": "A tense exercise in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! The subject of the sentence is 'I', and in the continuous form 'I' is always followed by 'am'."
-        },
-        {
           "letter": "A",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, as in 'he is reading', so it does not fit 'I'."
+          "text": "They were waiting for the bus.",
+          "is_correct": true,
+          "feedback": "'Were waiting' joins 'were' with the -ing form 'waiting', which is the past continuous."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "They waited for the bus.",
           "is_correct": false,
-          "feedback": "'are' goes with you, we, they and plural nouns, so 'I are reading' is not grammatical."
+          "feedback": "'Waited' with no auxiliary is the past simple, which reports a completed action."
+        },
+        {
+          "letter": "C",
+          "text": "They are waiting for the bus.",
+          "is_correct": false,
+          "feedback": "'Are waiting' is the present continuous, describing a situation happening now."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "They will wait for the bus.",
           "is_correct": false,
-          "feedback": "'be' is the base form used after modals and in the infinitive; the continuous here needs the finite 'am'."
+          "feedback": "'Will wait' is the future simple and points forward in time."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "correct_answer": "A",
+      "explanation": "The past continuous is built with 'was' or 'were' plus the -ing form, so only the sentence with that structure belongs to it.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle-v2",
+      "statement": "Choose the correct option: 'I ___ (walk) to school when I saw the accident.'",
+      "context": "A description of a morning event in a school in San Salvador, SV.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "walk",
+          "is_correct": false,
+          "feedback": "'Walk' with no auxiliary is the past simple and gives no sense of an ongoing action."
+        },
+        {
+          "letter": "B",
+          "text": "was walking",
+          "is_correct": true,
+          "feedback": "'Was walking' places the walk in progress before the moment of seeing the accident."
+        },
+        {
+          "letter": "C",
+          "text": "was walked",
+          "is_correct": false,
+          "feedback": "'Was walked' is the past passive and would make the speaker the thing being walked."
+        },
+        {
+          "letter": "D",
+          "text": "am walking",
+          "is_correct": false,
+          "feedback": "'Am walking' is the present continuous and cannot describe a past morning."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The walking was in progress when the accident was noticed, so the past continuous 'was walking' is required.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -53,87 +98,42 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle-v2",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in San Miguel, SV.",
+      "id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle-v3",
+      "statement": "Choose the correct time expression for the past continuous.",
+      "context": "A grammar table in an English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means well-meaning, kindly and generous towards other people."
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "every Sunday",
           "is_correct": false,
-          "feedback": "that is the exact opposite of benevolent, which is a quality of kindness."
+          "feedback": "'Every Sunday' describes a repeated habit, which belongs to the present simple."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "right now",
           "is_correct": false,
-          "feedback": "that describes speed, while 'benevolent' refers to the kind of treatment a person gives to others."
+          "feedback": "'Right now' belongs to the present continuous, not to a past tense."
         },
         {
           "letter": "C",
-          "text": "Slow and lazy",
+          "text": "at nine last night",
+          "is_correct": true,
+          "feedback": "'At nine last night' is a specific past moment, which is exactly when an action can be in progress."
+        },
+        {
+          "letter": "D",
+          "text": "next month",
           "is_correct": false,
-          "feedback": "that describes laziness and slowness; 'benevolent' means kindly and generous, not idle."
+          "feedback": "'Next month' points to the future and needs a future tense."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "correct_answer": "C",
+      "explanation": "Expressions that point to a moment in the past, such as 'at nine o'clock last night' or 'while', go with the past continuous.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle-v3",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Soyapango, SV.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text names the two useful jobs of bees, pollinating flowers and producing honey, so that is its main idea."
-        },
-        {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "the text never says that bees are dangerous; it describes the useful work they do for flowers."
-        },
-        {
-          "letter": "B",
-          "text": "Honey is the only product bees make",
-          "is_correct": false,
-          "feedback": "the text also mentions pollination, so honey is not presented as the only product."
-        },
-        {
-          "letter": "C",
-          "text": "Flowers don't need bees",
-          "is_correct": false,
-          "feedback": "pollination depends on bees, so the text implies that flowers do need them."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.85,
       "bundle_id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -144,41 +144,41 @@
     },
     {
       "id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle-v4",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Complete the question: 'What ___ your brother doing when the phone rang?'",
+      "context": "A listening exercise in a school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Went' is the irregular past simple form of the verb 'go'."
+          "text": "were",
+          "is_correct": false,
+          "feedback": "'Were' goes with plural subjects and with 'you', not with a singular brother."
         },
         {
           "letter": "B",
-          "text": "goed",
+          "text": "is",
           "is_correct": false,
-          "feedback": "'goed' is not an English word; a past form is either regular or an irregular form already known."
+          "feedback": "'Is' is the present auxiliary and would describe an action happening now."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "did",
           "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have' or 'has', not the past simple form."
+          "feedback": "'Did' opens a past simple question and requires the base verb 'do'."
         },
         {
           "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "'going' is the -ing form used in the continuous, not a past form at all."
+          "text": "was",
+          "is_correct": true,
+          "feedback": "'Was' agrees with 'your brother' and gives the past continuous question 'What was he doing'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "correct_answer": "D",
+      "explanation": "The subject 'your brother' is singular, so the past auxiliary is 'was', placed after the question word 'what'.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -189,41 +189,41 @@
     },
     {
       "id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle-v5",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Choose the correct negative past continuous: 'She ___ (not / sleep) when I called.'",
+      "context": "A retelling of an evening call in a school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple the third person singular of 'go' takes -es, so 'she goes' is the correct form."
+          "text": "not was sleeping",
+          "is_correct": false,
+          "feedback": "English puts the auxiliary before 'not', so 'not was' reverses the order."
         },
         {
           "letter": "B",
-          "text": "She go to school every day.",
+          "text": "did not sleep",
           "is_correct": false,
-          "feedback": "after 'she' the verb needs the -s form, so this sentence is missing that ending."
+          "feedback": "'Did not sleep' is the negative past simple, not the negative past continuous."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "was not sleep",
           "is_correct": false,
-          "feedback": "'going' belongs to the continuous form, but 'every day' requires the simple present."
+          "feedback": "After 'was not' the verb must take its -ing form, so the bare 'sleep' is wrong."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "'gone' is a past participle, and the sentence describes a habit, so the simple present is needed."
+          "text": "was not sleeping",
+          "is_correct": true,
+          "feedback": "'Was not sleeping' places the negation in the correct position in the past continuous."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "The past continuous negative places 'not' after the auxiliary 'was' and before the -ing form of the verb.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -234,37 +234,37 @@
     },
     {
       "id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle-v6",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Choose the correct option: 'We ___ (do) our homework when the lights went out.'",
+      "context": "A story told in an English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! The subject of the sentence is 'I', and in the continuous form 'I' is always followed by 'am'."
+          "letter": "A",
+          "text": "was doing",
+          "is_correct": false,
+          "feedback": "'Was' does not agree with the plural subject 'we' in the past."
         },
         {
-          "letter": "A",
-          "text": "is",
+          "letter": "B",
+          "text": "are doing",
           "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, as in 'he is reading', so it does not fit 'I'."
+          "feedback": "'Are doing' is the present continuous and cannot sit before 'went out'."
         },
         {
           "letter": "C",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "'are' goes with you, we, they and plural nouns, so 'I are reading' is not grammatical."
+          "text": "were doing",
+          "is_correct": true,
+          "feedback": "'Were' agrees with 'we' and 'doing' is the -ing form of 'do'."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "were do",
           "is_correct": false,
-          "feedback": "'be' is the base form used after modals and in the infinitive; the continuous here needs the finite 'am'."
+          "feedback": "'Were' must be followed by the -ing form, so the bare 'do' is wrong."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "The action in progress before the interruption is 'do our homework', so the past continuous with the plural 'were' is required.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -279,40 +279,40 @@
     },
     {
       "id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle-v7",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Choose the correct contraction: 'It was not raining.'",
+      "context": "A note about the weather in a school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means well-meaning, kindly and generous towards other people."
+          "text": "wasnt",
+          "is_correct": false,
+          "feedback": "'Wasnt' without an apostrophe loses the missing letter and is misspelled."
         },
         {
           "letter": "B",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "that is the exact opposite of benevolent, which is a quality of kindness."
+          "text": "wasn't",
+          "is_correct": true,
+          "feedback": "'Was not' shortens to \"wasn't\", with the apostrophe standing in for the missing 'o'."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "weren't",
           "is_correct": false,
-          "feedback": "that describes speed, while 'benevolent' refers to the kind of treatment a person gives to others."
+          "feedback": "\"Weren't\" contracts 'were not', which does not agree with the singular 'it'."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "didn't",
           "is_correct": false,
-          "feedback": "that describes laziness and slowness; 'benevolent' means kindly and generous, not idle."
+          "feedback": "\"Didn't\" contracts 'did not' and belongs to the past simple."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "'Was not' contracts to \"wasn't\" in English, so the negative sentence becomes \"It wasn't raining\".",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle",
       "periodo": 4,
@@ -324,41 +324,41 @@
     },
     {
       "id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle-v8",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Choose the correct -ing form: 'He was ___ (run) to catch the bus.'",
+      "context": "A short description of a morning in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text names the two useful jobs of bees, pollinating flowers and producing honey, so that is its main idea."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "the text never says that bees are dangerous; it describes the useful work they do for flowers."
+          "text": "running",
+          "is_correct": true,
+          "feedback": "'Run' doubles its final 'n' before -ing, giving 'running' after 'was'."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "runing",
           "is_correct": false,
-          "feedback": "the text also mentions pollination, so honey is not presented as the only product."
+          "feedback": "A short vowel plus a final consonant doubles that consonant before -ing in English."
         },
         {
           "letter": "C",
-          "text": "Flowers don't need bees",
+          "text": "runnning",
           "is_correct": false,
-          "feedback": "pollination depends on bees, so the text implies that flowers do need them."
+          "feedback": "Only one 'n' is added, so 'runnning' with three n's is a misspelling."
+        },
+        {
+          "letter": "D",
+          "text": "ran",
+          "is_correct": false,
+          "feedback": "'Ran' is the past simple of 'run' and cannot take an -ing ending."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "'Run' is a one-syllable verb ending in a consonant after a short vowel, so the final 'n' doubles before -ing.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle-v9",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Choose the correct sentence.",
+      "context": "A test on the past continuous in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Went' is the irregular past simple form of the verb 'go'."
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "She cook when the guests arrived.",
           "is_correct": false,
-          "feedback": "'goed' is not an English word; a past form is either regular or an irregular form already known."
+          "feedback": "'Cook' has no auxiliary, so the clause is not a past continuous at all."
         },
         {
           "letter": "B",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have' or 'has', not the past simple form."
+          "text": "She was cooking when the guests arrived.",
+          "is_correct": true,
+          "feedback": "'Was cooking' is 'was' plus the -ing form and introduces the interrupting past action."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "She was cooked when the guests arrived.",
           "is_correct": false,
-          "feedback": "'going' is the -ing form used in the continuous, not a past form at all."
+          "feedback": "'Was cooked' is the past passive, not the past continuous."
+        },
+        {
+          "letter": "D",
+          "text": "She is cooking when the guests arrived.",
+          "is_correct": false,
+          "feedback": "'Is cooking' is present tense and cannot describe an action before 'arrived'."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "Only the sentence with 'was' or 'were' plus an -ing form is grammatically a past continuous.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle-v10",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "What is the function of 'while' in 'While she was sleeping, the alarm rang'?",
+      "context": "A grammar explanation in an English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple the third person singular of 'go' takes -es, so 'she goes' is the correct form."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "It states a reason for the alarm ringing.",
           "is_correct": false,
-          "feedback": "after 'she' the verb needs the -s form, so this sentence is missing that ending."
+          "feedback": "A reason is expressed with 'because', so 'while' does not carry that meaning."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "It marks a contrast between two unrelated ideas.",
           "is_correct": false,
-          "feedback": "'going' belongs to the continuous form, but 'every day' requires the simple present."
+          "feedback": "'While' links simultaneous actions; a contrast uses 'although' or 'but'."
         },
         {
           "letter": "C",
-          "text": "She gone to school every day.",
+          "text": "It expresses a condition that must be met.",
           "is_correct": false,
-          "feedback": "'gone' is a past participle, and the sentence describes a habit, so the simple present is needed."
+          "feedback": "A condition uses 'if' or 'unless', not 'while' in this usage."
+        },
+        {
+          "letter": "D",
+          "text": "It shows that one action was in progress during another.",
+          "is_correct": true,
+          "feedback": "'While' introduces the ongoing action against which the other event happened."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "6",
+      "explanation": "'While' links two past events and shows that the action in the clause after it was in progress during the action in the other clause.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -459,37 +459,37 @@
     },
     {
       "id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle-v11",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Choose the correct form: 'We ___ (visit) the museum last Sunday.'",
+      "context": "A student describes a weekend trip with a group from Metapan, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! The subject of the sentence is 'I', and in the continuous form 'I' is always followed by 'am'."
-        },
-        {
           "letter": "A",
-          "text": "is",
+          "text": "were visiting",
           "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, as in 'he is reading', so it does not fit 'I'."
+          "feedback": "The past continuous describes an action in progress in the past; the trip described here is over."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "are visiting",
           "is_correct": false,
-          "feedback": "'are' goes with you, we, they and plural nouns, so 'I are reading' is not grammatical."
+          "feedback": "'Are visiting' is the present continuous and describes what is happening now, not last Sunday."
         },
         {
           "letter": "C",
-          "text": "be",
+          "text": "visited",
+          "is_correct": true,
+          "feedback": "'Last Sunday' names a completed moment, so the past simple 'visited' is the right form."
+        },
+        {
+          "letter": "D",
+          "text": "have visited",
           "is_correct": false,
-          "feedback": "'be' is the base form used after modals and in the infinitive; the continuous here needs the finite 'am'."
+          "feedback": "The present perfect links a past action to the present, and 'last Sunday' normally rules it out."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "'Last Sunday' is finished past time, so the verb needs the past simple form 'visited' and no auxiliary at all.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,41 +504,41 @@
     },
     {
       "id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle-v12",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Which time expression is normally used with the past continuous?",
+      "context": "A grammar poster about tenses in a language school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Kind and generous",
+          "letter": "A",
+          "text": "while",
           "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means well-meaning, kindly and generous towards other people."
+          "feedback": "'While' links two actions in progress at the same past moment, which is the core use of the past continuous."
         },
         {
-          "letter": "A",
-          "text": "Mean and cruel",
+          "letter": "B",
+          "text": "every morning",
           "is_correct": false,
-          "feedback": "that is the exact opposite of benevolent, which is a quality of kindness."
+          "feedback": "'Every morning' describes a habit, and habits belong to the present simple."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "tomorrow",
           "is_correct": false,
-          "feedback": "that describes speed, while 'benevolent' refers to the kind of treatment a person gives to others."
+          "feedback": "'Tomorrow' points to the future, so it can never introduce a past continuous."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "now",
           "is_correct": false,
-          "feedback": "that describes laziness and slowness; 'benevolent' means kindly and generous, not idle."
+          "feedback": "'Now' belongs to the present continuous; the past continuous needs a past reference point."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "The past continuous describes an action that was in progress at a past moment, so expressions such as 'at eight o'clock last night' or 'while' fit it.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -549,41 +549,41 @@
     },
     {
       "id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle-v13",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Complete the question: 'What ___ you doing at the party last night?'",
+      "context": "A teacher in Sonsonate asks about an event that has already happened.",
       "options": [
         {
-          "letter": "C",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text names the two useful jobs of bees, pollinating flowers and producing honey, so that is its main idea."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
+          "text": "was",
           "is_correct": false,
-          "feedback": "the text never says that bees are dangerous; it describes the useful work they do for flowers."
+          "feedback": "'Was' goes with singular subjects such as 'he' or 'she'; 'you' always takes 'were' in the past."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "are",
           "is_correct": false,
-          "feedback": "the text also mentions pollination, so honey is not presented as the only product."
+          "feedback": "'Are' is the present form of 'be' and would place the question in the present continuous."
+        },
+        {
+          "letter": "C",
+          "text": "did",
+          "is_correct": false,
+          "feedback": "'Did' belongs to the past simple, which takes the base verb rather than the -ing form."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
-          "is_correct": false,
-          "feedback": "pollination depends on bees, so the text implies that flowers do need them."
+          "text": "were",
+          "is_correct": true,
+          "feedback": "'You' takes 'were' in the past, so the question reads 'What were you doing'."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "The subject 'you' requires the past form of 'be', which is 'were', in front of the -ing form 'doing'.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -594,40 +594,40 @@
     },
     {
       "id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle-v14",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Choose the correct option: 'While I ___ dinner, the phone rang.'",
+      "context": "A retelling of a personal anecdote in a conversation class in Santa Ana, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Went' is the irregular past simple form of the verb 'go'."
+          "text": "cook",
+          "is_correct": false,
+          "feedback": "'Cook' has no auxiliary, so the clause would be the past simple and 'while' would not fit it."
         },
         {
           "letter": "B",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "'goed' is not an English word; a past form is either regular or an irregular form already known."
+          "text": "was cooking",
+          "is_correct": true,
+          "feedback": "'While' introduces an action in progress in the past, so 'was cooking' completes the sentence."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "was cooked",
           "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have' or 'has', not the past simple form."
+          "feedback": "'Was cooked' is the past passive; the subject 'I' performs the action, so the voice is wrong."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "am cooking",
           "is_correct": false,
-          "feedback": "'going' is the -ing form used in the continuous, not a past form at all."
+          "feedback": "'Am cooking' is the present continuous and cannot describe an evening that has already passed."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "The action in progress when the phone rang is 'cook dinner', so the clause takes 'was cooking' with 'while'.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.85,
       "bundle_id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle",
       "periodo": 4,
@@ -639,41 +639,41 @@
     },
     {
       "id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle-v15",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Choose the correct option: 'They ___ (write) an essay when the bell rang.'",
+      "context": "A supervisor looks into a classroom in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple the third person singular of 'go' takes -es, so 'she goes' is the correct form."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
-          "is_correct": false,
-          "feedback": "after 'she' the verb needs the -s form, so this sentence is missing that ending."
+          "text": "were writing",
+          "is_correct": true,
+          "feedback": "'They' takes 'were', and 'write' drops its silent e before -ing to give 'writing'."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "was writing",
           "is_correct": false,
-          "feedback": "'going' belongs to the continuous form, but 'every day' requires the simple present."
+          "feedback": "'Was' agrees with a singular subject; with 'they' the past auxiliary must be 'were'."
+        },
+        {
+          "letter": "C",
+          "text": "were writting",
+          "is_correct": false,
+          "feedback": "'Write' keeps no consonant to double, so 'writting' with three t's is a misspelling."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "are writing",
           "is_correct": false,
-          "feedback": "'gone' is a past participle, and the sentence describes a habit, so the simple present is needed."
+          "feedback": "'Are writing' is the present continuous, which cannot sit before 'when the bell rang'."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "The past continuous needs 'were' for a plural subject plus the -ing form, and the spelling of 'write' becomes 'writing' by dropping the silent e.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -684,37 +684,37 @@
     },
     {
       "id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle-v16",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Choose the correct question in the past continuous: '___ you sleeping when the storm started?'",
+      "context": "A weather conversation after a storm in Chalatenango, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! The subject of the sentence is 'I', and in the continuous form 'I' is always followed by 'am'."
+          "text": "Was",
+          "is_correct": false,
+          "feedback": "'Was' agrees with singular subjects; 'you' takes 'were' in the past continuous."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "Did",
           "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, as in 'he is reading', so it does not fit 'I'."
+          "feedback": "'Did' would require the base verb 'sleep', not the -ing form used in the past continuous."
         },
         {
           "letter": "C",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "'are' goes with you, we, they and plural nouns, so 'I are reading' is not grammatical."
+          "text": "Were",
+          "is_correct": true,
+          "feedback": "The question word is followed by the past auxiliary 'were', giving 'Were you sleeping'."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "Are",
           "is_correct": false,
-          "feedback": "'be' is the base form used after modals and in the infinitive; the continuous here needs the finite 'am'."
+          "feedback": "'Are' is present tense, so the question would describe a situation happening now."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "In the past continuous question the auxiliary 'were' comes directly after the question word, before the subject 'you'.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -729,40 +729,40 @@
     },
     {
       "id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle-v17",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Choose the correct negative: 'He ___ (not / watch) the match last night.'",
+      "context": "A small-group conversation about football in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means well-meaning, kindly and generous towards other people."
+          "letter": "A",
+          "text": "not was watching",
+          "is_correct": false,
+          "feedback": "The auxiliary always comes first in English negation, so 'not was' reverses the correct order."
         },
         {
-          "letter": "A",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "that is the exact opposite of benevolent, which is a quality of kindness."
+          "letter": "B",
+          "text": "was not watching",
+          "is_correct": true,
+          "feedback": "The past continuous negative places 'not' after 'was' and before the -ing form."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "did not watching",
           "is_correct": false,
-          "feedback": "that describes speed, while 'benevolent' refers to the kind of treatment a person gives to others."
+          "feedback": "'Did' builds the negative of the past simple, which never uses the -ing form of the verb."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "was not watch",
           "is_correct": false,
-          "feedback": "that describes laziness and slowness; 'benevolent' means kindly and generous, not idle."
+          "feedback": "The bare verb 'watch' cannot follow 'was'; the present of 'be' requires the -ing form."
         }
       ],
       "correct_answer": "B",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "10",
+      "explanation": "'Not' goes after the past auxiliary 'was', and the verb 'watch' takes the -ing form 'watching'.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle",
       "periodo": 4,
@@ -774,41 +774,41 @@
     },
     {
       "id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle-v18",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Choose the correct option: 'What ___ you ___ (do) yesterday afternoon?'",
+      "context": "An interview activity in a school in San Miguel, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text names the two useful jobs of bees, pollinating flowers and producing honey, so that is its main idea."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "the text never says that bees are dangerous; it describes the useful work they do for flowers."
+          "text": "were...doing",
+          "is_correct": true,
+          "feedback": "'Were' provides the past auxiliary and 'doing' the -ing form, completing the past continuous question."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "was...do",
           "is_correct": false,
-          "feedback": "the text also mentions pollination, so honey is not presented as the only product."
+          "feedback": "'Was' does not agree with 'you', and the bare verb 'do' cannot follow an auxiliary in this tense."
         },
         {
           "letter": "C",
-          "text": "Flowers don't need bees",
+          "text": "did...doing",
           "is_correct": false,
-          "feedback": "pollination depends on bees, so the text implies that flowers do need them."
+          "feedback": "'Did' is followed by the base form of the verb in the past simple, never by the -ing form."
+        },
+        {
+          "letter": "D",
+          "text": "are...doing",
+          "is_correct": false,
+          "feedback": "'Are' is the present auxiliary, which would put the question in the present continuous."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "The past continuous question needs the auxiliary 'were' and the -ing form, so the double gap is filled by 'were' and 'doing'.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Apply",
+      "expected_success": 0.85,
       "bundle_id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle-v19",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Which sentence uses the past continuous correctly?",
+      "context": "A test on tenses handed back in a secondary school in Ahuachapan, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Went' is the irregular past simple form of the verb 'go'."
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "She painted the wall when the visitors arrived.",
           "is_correct": false,
-          "feedback": "'goed' is not an English word; a past form is either regular or an irregular form already known."
+          "feedback": "'Painted' is the past simple, so it reports the finished action rather than the action in progress."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "She is painting the wall when the visitors arrived.",
           "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have' or 'has', not the past simple form."
+          "feedback": "'Is painting' is present tense and cannot describe an action happening before 'arrived'."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "She was painting the wall when the visitors arrived.",
+          "is_correct": true,
+          "feedback": "'Was painting' is 'was' plus the -ing form and sets up the interrupting action 'arrived'."
+        },
+        {
+          "letter": "D",
+          "text": "She paints the wall when the visitors arrive.",
           "is_correct": false,
-          "feedback": "'going' is the -ing form used in the continuous, not a past form at all."
+          "feedback": "'Paints' and 'arrive' are both present simple, describing a habit instead of a past situation."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "The past continuous describes an action in progress in the past, so it needs 'was' or 'were' plus an -ing form of a real verb.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle-v20",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Choose the correct option: 'The children ___ (play) football all morning.'",
+      "context": "A description of a school holiday in a writing workshop in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple the third person singular of 'go' takes -es, so 'she goes' is the correct form."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "was playing",
           "is_correct": false,
-          "feedback": "after 'she' the verb needs the -s form, so this sentence is missing that ending."
+          "feedback": "'Was' goes with a singular subject, so it does not agree with the plural 'the children'."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "are playing",
           "is_correct": false,
-          "feedback": "'going' belongs to the continuous form, but 'every day' requires the simple present."
+          "feedback": "'Are playing' is the present continuous, which describes an action happening now."
         },
         {
           "letter": "C",
-          "text": "She gone to school every day.",
+          "text": "played",
           "is_correct": false,
-          "feedback": "'gone' is a past participle, and the sentence describes a habit, so the simple present is needed."
+          "feedback": "'Played' is the past simple and gives the finished action rather than the ongoing one."
+        },
+        {
+          "letter": "D",
+          "text": "were playing",
+          "is_correct": true,
+          "feedback": "'Were' agrees with 'the children' and 'playing' is the -ing form of 'play'."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "10",
+      "explanation": "With a plural subject the past auxiliary is 'were', and 'play' keeps its spelling and simply takes -ing, giving 'were playing'.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",

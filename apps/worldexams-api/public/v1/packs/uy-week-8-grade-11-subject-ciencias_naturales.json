@@ -189,36 +189,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v5",
-      "statement": "¿Qué enzima es la encargada de catalizar la síntesis de ARNm a partir de una hebra de ADN molde durante la transcripción?",
-      "context": "En el taller de Ciencias Naturales en Paysandú, Felipe observa un modelo experimental de transcripción: arn polimerasa.",
+      "statement": "En que parte de la celula se transcribe el ARN mensajero a partir del ADN?",
+      "context": "En el laboratorio del Liceo N. 5 de Maldonado, Joaquin sigue el recorrido de una proteina desde el nucleo hasta su secrecion.",
       "options": [
         {
-          "letter": "C",
-          "text": "ARN polimerasa.",
-          "is_correct": true,
-          "feedback": "Correcto. La ARN polimerasa lee la hebra molde de ADN en dirección 3' a 5' y sintetiza la hebra complementaria de ARN en dirección 5' a 3'."
-        },
-        {
           "letter": "A",
-          "text": "ADN polimerasa III.",
-          "is_correct": false,
-          "feedback": "Incorrecto. La ADN polimerasa participa en la replicación celular del material genético, no en la transcripción de genes."
+          "text": "En el nucleo, porque solo alli el ADN puede ser leído por la ARN polimerasa.",
+          "is_correct": true,
+          "feedback": "Correcto. La transcripcion ocurre en el nucleo de las celulas eucariotas, y el ARN mensajero alli formado sale despues al citoplasma para ser traducido."
         },
         {
           "letter": "B",
-          "text": "Retrotranscriptasa reversa.",
+          "text": "En el ribosoma, porque es el organelo que lee la secuencia de bases del ADN.",
           "is_correct": false,
-          "feedback": "Incorrecto. La retrotranscriptasa copia ARN a ADN, proceso típico de retrovirus pero ajeno a la transcripción normal."
+          "feedback": "Incorrecto. El ribosoma lee el ARN mensajero y no el ADN, de modo que la transcripcion no puede ocurrir en el."
+        },
+        {
+          "letter": "C",
+          "text": "En el aparato de Golgi, que copia la informacion del ADN para formar el ARN mensajero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Golgi organiza y modifica productos, y no realiza la transcripcion ni copia la informacion del ADN."
         },
         {
           "letter": "D",
-          "text": "Peptidil transferasa ribosomal.",
+          "text": "En el citoplasma, porque el ADN sale del nucleo durante la transcripcion.",
           "is_correct": false,
-          "feedback": "Incorrecto. La peptidil transferasa es un ARN ribosómico que cataliza el enlace peptídico en la traducción proteica."
+          "feedback": "Incorrecto. El ADN permanece dentro del nucleo y no sale de el, y el ARN mensajero es lo que viaja hacia el citoplasma."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La transcripción requiere de regiones promotoras específicas del ADN para reclutar a la ARN polimerasa e iniciar la síntesis. En este contexto, Felipe de Paysandú determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "A",
+      "explanation": "En las celulas eucariotas la informacion se procesa en compartimentos separados. El ADN se transcribe en el nucleo y el ARN resultante se traslada al citoplasma, donde los ribosomas realizan la traduccion.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -234,36 +234,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v6",
-      "statement": "En las células eucariotas, ¿en qué consiste el procesamiento postranscripcional conocido como splicing (empalme) de ARN?",
-      "context": "Durante una actividad de laboratorio en el Liceo N° 3 de Melo, Juana analiza procesamiento del arn (splicing).",
+      "statement": "Que consecuencia tiene sobre la sintesis de proteinas la ausencia de los factores de inicio?",
+      "context": "Durante una actividad de laboratorio en el Liceo N. 3 de Salto, Sofia elimina el factor de inicio de la traduccion en un experimento con extractos celulares.",
       "options": [
         {
-          "letter": "C",
-          "text": "En la remoción de intrones no codificantes y el empalme correlativo de exones codificantes para generar un ARNm maduro.",
+          "letter": "B",
+          "text": "Impide que los ribosomas se unan al ARN mensajero, de modo que no comienza la traduccion.",
           "is_correct": true,
-          "feedback": "Correcto. El splicing elimina los intrones antes de que el ARNm maduro sea exportado del núcleo al citoplasma."
+          "feedback": "Correcto. Los factores de inicio son los que reconocen el codon de inicio y colocan el ribosoma correctamente, y sin ellos no hay Union y por tanto no hay sintesis."
         },
         {
           "letter": "A",
-          "text": "En la unión covalente de azúcares desoxirribosas en los extremos del transcrito.",
+          "text": "Aumenta la velocidad de sintesis, porque los ribosomas se unen mas facilmente sin esos factores.",
           "is_correct": false,
-          "feedback": "Incorrecto. El ARN contiene azúcares ribosa de forma natural; no se agregan desoxirribosas."
+          "feedback": "Incorrecto. La union es un proceso dirigido que necesita factores, de modo que eliminarlos no acelera nada sino que impide el inicio."
         },
         {
-          "letter": "B",
-          "text": "En la degradación de los ribosomas libres para evitar la síntesis defectuosa de proteínas.",
+          "letter": "C",
+          "text": "Modifica la secuencia de aminoacidos, aunque la sintesis sigue produciendose con normalidad.",
           "is_correct": false,
-          "feedback": "Incorrecto. Los ribosomas no se degradan durante la transcripción; participan posteriormente en la traducción."
+          "feedback": "Incorrecto. Si no hay sintesis no puede haber cambio en la secuencia, porque la proteina llega a formarse durante la traduccion que se ha bloqueado."
         },
         {
           "letter": "D",
-          "text": "En la sustitución de todos los nucleótidos de uracilo por timina en el citoplasma celular.",
+          "text": "Aumenta la degradacion de las proteinas ya formadas, sin alterar la sintesis de las nuevas.",
           "is_correct": false,
-          "feedback": "Incorrecto. El ARN conserva la base uracilo de manera permanente en su estructura monocatenaria."
+          "feedback": "Incorrecto. El bloqueo del inicio impide fabricar proteinas nuevas y no acelera su degradacion, de modo que ese efecto secundario no se sigue del enunciado."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "El splicing alternativo permite que un solo gen codifique para múltiples variantes de proteínas o isoformas. En este contexto, Juana de Melo determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "B",
+      "explanation": "La iniciacion es una etapa exigente: exige que el ribosoma identifique el codon AUG de inicio y que se ensamblen varios factores. Esa secuencia de reconocimiento es lo que garantiza que la lectura comience en el lugar correcto del ARN mensajero.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -279,36 +279,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v7",
-      "statement": "¿Qué significa que el código genético sea degenerado o redundante en la biología molecular?",
-      "context": "En la clase práctica del Liceo N° 4 en Colonia del Sacramento, Ignacio y sus compañeros debaten sobre traducción y código genético.",
+      "statement": "Cuantos aminoacidos formaran una proteina codificada por un ARN mensajero con ciento veinte nucleotidos?",
+      "context": "Para el proyecto final de ciencias en el Liceo N. 4 de Fray Bentos, Lucia determina la longitud de una cadena de proteinas codificada por un ARN mensajero.",
       "options": [
         {
-          "letter": "B",
-          "text": "Que existen múltiples codones diferentes que codifican para un mismo aminoácido.",
+          "letter": "C",
+          "text": "Treinta y nueve, porque el codon de inicio ocupa tres nucleotidos y despues quedan ciento diecisiete para los demas.",
           "is_correct": true,
-          "feedback": "Correcto. Hay 64 codones posibles para especificar solo 20 aminoácidos estándar, por lo que varios codones corresponden al mismo aminoácido."
+          "feedback": "Correcto. Cada codon ocupa tres nucleotidos, de modo que ciento veinte nucleotidos dan cuarenta codones, y uno de ellos es el codon de inicio, que no codifica aminoacido. Quedan treinta y nueve."
         },
         {
           "letter": "A",
-          "text": "Que se altera con facilidad perdiendo nucleótidos esenciales de forma espontánea.",
+          "text": "Cuarenta, porque todos los codones codifican un aminoacido.",
           "is_correct": false,
-          "feedback": "Incorrecto. Degeneración en código genético no es sinónimo de inestabilidad mutacional o daño físico."
+          "feedback": "Correcto en el calculo, pero hay que descontar el codon de inicio, que se consume antes del primer aminoacido."
         },
         {
-          "letter": "C",
-          "text": "Que un solo codón puede codificar para muchos tipos de aminoácidos diferentes.",
+          "letter": "B",
+          "text": "Ciento veinte, porque cada nucleotido codifica un aminoacido.",
           "is_correct": false,
-          "feedback": "Incorrecto. El código no es ambiguo: cada codón especifica únicamente un único aminoácido."
+          "feedback": "Incorrecto. La unidad de codificacion es el codon de tres nucleotidos, de modo que el numero de aminoacidos es mucho menor que el de nucleotidos."
         },
         {
           "letter": "D",
-          "text": "Que varía de forma aleatoria entre las diferentes especies de un mismo ecosistema.",
+          "text": "Ciento diecisiete, porque solo se descuenta el codon de inicio de un total de ciento veinte codones.",
           "is_correct": false,
-          "feedback": "Incorrecto. El código genético es prácticamente universal, compartiendo los mismos codones todos los seres vivos."
+          "feedback": "Incorrecto. Confunde nucleotidos con codones: ciento veinte nucleotidos no son ciento veinte codones, y el numero de aminoacidos resulta de dividir entre tres."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La degeneración del código genético otorga tolerancia a ciertas mutaciones puntuales de transición (mutaciones sinónimas). En este contexto, Ignacio de Colonia del Sacramento determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "C",
+      "explanation": "El calculo de la longitud de una proteina es un ejercicio directo de la estructura del codigo genetico. Se divide el numero de nucleotidos entre tres para obtener los codones, y se resta uno por el codon de inicio, que cumple otra funcion.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -324,36 +324,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v8",
-      "statement": "¿Qué papel clave desempeña el ARN de transferencia (ARNt) durante la fase de traducción en el ribosoma?",
-      "context": "Para el proyecto final de ciencias en el Liceo N° 5 de Las Piedras, Paula investiga acerca de función del arnt.",
+      "statement": "Que diferencia estructural presenta un ARN mensajero eucariota frente a uno procariota?",
+      "context": "En la clase practica del Liceo N. 2 de Tacuarembó, Martin compara dos ARN mensajeros distintos con el microscopio electronico.",
       "options": [
         {
-          "letter": "A",
-          "text": "Alinear su anticodón complementario con el codón del ARNm para entregar el aminoácido específico asociado.",
+          "letter": "D",
+          "text": "El eucariota suele tener una region de poli adenina al final y un casquete en el extremo cinco, ausentes en el procariota.",
           "is_correct": true,
-          "feedback": "Correcto. El ARNt actúa como adaptador acoplando el código de nucleótidos del ARNm con el aminoácido correspondiente."
+          "feedback": "Correcto. El ARN mensajero eucariota se procesa mediante la adicion de una cola de adeninas y un casquete de guaninas, y esas modificaciones aumentan su estabilidad frente al ARNm bacteriano."
+        },
+        {
+          "letter": "A",
+          "text": "El procariota tiene una region de poli adenina y el eucariota carece de ella.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa asignacion esta invertida, porque el ARNm eucariota es el que recibe la cola de adeninas y el ARNm bacteriano se traduce casi de inmediato."
         },
         {
           "letter": "B",
-          "text": "Copiar el mensaje genético desde el núcleo celular de manera transitoria.",
+          "text": "El eucariota tiene intrones que el procariota no tiene, y por eso pesa menos.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta es la función exclusiva del ARN mensajero (ARNm)."
+          "feedback": "Incorrecto. Los intrones hacen que el ARN mensajero inmaduro pese mas antes de ser procesado, y el ARNm maduro es mas corto una vez eliminados."
         },
         {
           "letter": "C",
-          "text": "Formar la estructura física y catalítica de las dos subunidades del ribosoma.",
+          "text": "El procariota tiene intrones y el eucariota no, lo que explica la diferencia de longitud.",
           "is_correct": false,
-          "feedback": "Incorrecto. El ARN ribosómico (ARNr) es el que conforma la estructura del ribosoma celular."
-        },
-        {
-          "letter": "D",
-          "text": "Cortar los enlaces peptídicos de proteínas anómalas marcadas para destrucción.",
-          "is_correct": false,
-          "feedback": "Incorrecto. La degradación proteica ocurre en proteasomas y no depende del ARN de transferencia."
+          "feedback": "Incorrecto. Es la relacion inversa, porque los intrones son rasgos caracteristicos de los genes eucariotas y no de los procariotas."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La enzima aminoacil-ARNt sintetasa une covalentemente el aminoácido correcto al extremo 3' del ARNt consumiendo ATP. En este contexto, Paula de Las Piedras determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "D",
+      "explanation": "El procesamiento postranscripcional es la diferencia que distingue a los dos tipos de ARN mensajero. Ese proceso aumenta la estabilidad de la molecula y ademas ha permitido la aparicion de nuevas variantes de proteinas mediante la eleccion de exons alternos.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,36 +369,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v9",
-      "statement": "¿Qué enzima es la encargada de catalizar la síntesis de ARNm a partir de una hebra de ADN molde durante la transcripción?",
-      "context": "Mientras repasa para el examen parcial en Montevideo, Diego estudia detenidamente transcripción: arn polimerasa.",
+      "statement": "Que funcion cumple el ARN de transferencia?",
+      "context": "Mientras repasa para el examen parcial en Paysandu, Camila compara las funciones de los tres tipos principales de ARN.",
       "options": [
         {
-          "letter": "C",
-          "text": "ARN polimerasa.",
+          "letter": "B",
+          "text": "Transportar aminoacidos hasta el ribosoma y reconocer el codon correspondiente mediante su anticodon.",
           "is_correct": true,
-          "feedback": "Correcto. La ARN polimerasa lee la hebra molde de ADN en dirección 3' a 5' y sintetiza la hebra complementaria de ARN en dirección 5' a 3'."
+          "feedback": "Correcto. Cada ARNt tiene una region anticodon que se aparea con el codon del ARN mensajero y un extremo aminoacilo que transporta el aminoacido correspondiente hasta el ribosoma."
         },
         {
           "letter": "A",
-          "text": "ADN polimerasa III.",
+          "text": "Copiar el ADN para formar una segunda hebra antes de la division celular.",
           "is_correct": false,
-          "feedback": "Incorrecto. La ADN polimerasa participa en la replicación celular del material genético, no en la transcripción de genes."
+          "feedback": "Incorrecto. Esa es la funcion de la ADN polimerasa durante la replicacion del ADN, y el ARN de transferencia no participa en ella."
         },
         {
-          "letter": "B",
-          "text": "Retrotranscriptasa reversa.",
+          "letter": "C",
+          "text": "Servir como molde para la sintesis del ARN mensajero en el nucleo.",
           "is_correct": false,
-          "feedback": "Incorrecto. La retrotranscriptasa copia ARN a ADN, proceso típico de retrovirus pero ajeno a la transcripción normal."
+          "feedback": "Incorrecto. El ARN de transferencia no es un molde de transcripcion, de modo que no interviene en la fabricacion del ARN mensajero."
         },
         {
           "letter": "D",
-          "text": "Peptidil transferasa ribosomal.",
+          "text": "Actuar como catalizador de la union de aminoacidos en la cadena que crece.",
           "is_correct": false,
-          "feedback": "Incorrecto. La peptidil transferasa es un ARN ribosómico que cataliza el enlace peptídico en la traducción proteica."
+          "feedback": "Incorrecto. La funcion catalitica de la union corresponde al ribosoma, y el ARN de transferencia aporta el aminoacido pero no cataliza la reaccion por si mismo."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La transcripción requiere de regiones promotoras específicas del ADN para reclutar a la ARN polimerasa e iniciar la síntesis. En este contexto, Diego de Montevideo determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "B",
+      "explanation": "El ARN de transferencia es el adaptador que hace posible la decodificacion del ARN mensajero. Si el ribosoma leyera el ARN mensajero directamente, no existiria forma de asegar que cada codon reciba el aminoacido que le corresponde.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -414,36 +414,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v10",
-      "statement": "En las células eucariotas, ¿en qué consiste el procesamiento postranscripcional conocido como splicing (empalme) de ARN?",
-      "context": "En el taller de Ciencias Naturales en Fray Bentos, Clara observa un modelo experimental de procesamiento del arn (splicing).",
+      "statement": "Que efecto tiene una mutacion por deleccion de un solo nucleotido en el codigo genetico?",
+      "context": "En el taller de Ciencias Naturales de Las Piedras, Nicolas observa como una mutacion altera la secuencia de una proteina.",
       "options": [
         {
-          "letter": "D",
-          "text": "En la remoción de intrones no codificantes y el empalme correlativo de exones codificantes para generar un ARNm maduro.",
+          "letter": "C",
+          "text": "Desplaza el marco de lectura y cambia todos los codones siguientes de la proteina.",
           "is_correct": true,
-          "feedback": "Correcto. El splicing elimina los intrones antes de que el ARNm maduro sea exportado del núcleo al citoplasma."
+          "feedback": "Correcto. La deleccion de una base deja los grupos de tres desalineados, de modo que todos los codones posteriores se leen distinto y suelen aparecer aminoacidos equivocados y un codon de parada prematuro."
         },
         {
           "letter": "A",
-          "text": "En la unión covalente de azúcares desoxirribosas en los extremos del transcrito.",
+          "text": "Cambia un solo aminoacido de la proteina y no afecta a los demas.",
           "is_correct": false,
-          "feedback": "Incorrecto. El ARN contiene azúcares ribosa de forma natural; no se agregan desoxirribosas."
+          "feedback": "Correcto pero describe una sustitucion, y no una deleccion de un solo nucleotido."
         },
         {
           "letter": "B",
-          "text": "En la degradación de los ribosomas libres para evitar la síntesis defectuosa de proteínas.",
+          "text": "No tiene efecto, porque el codigo genetico es redundante y tolera las deleciones.",
           "is_correct": false,
-          "feedback": "Incorrecto. Los ribosomas no se degradan durante la transcripción; participan posteriormente en la traducción."
+          "feedback": "Incorrecto. La redundancia tolera cambios en la tercera base de un codon, y una deleccion de una base SI altera el marco de lectura."
         },
         {
-          "letter": "C",
-          "text": "En la sustitución de todos los nucleótidos de uracilo por timina en el citoplasma celular.",
+          "letter": "D",
+          "text": "Aumenta la longitud de la proteina, porque cada nucleotido codifica un aminoacido.",
           "is_correct": false,
-          "feedback": "Incorrecto. El ARN conserva la base uracilo de manera permanente en su estructura monocatenaria."
+          "feedback": "Incorrecto. La deleccion no aumenta la longitud y ademas suele introducir un codon de terminacion antes de tiempo."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "El splicing alternativo permite que un solo gen codifique para múltiples variantes de proteínas o isoformas. En este contexto, Clara de Fray Bentos determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "C",
+      "explanation": "La deleccion y la insercion son mutaciones mucho mas graves que la sustitucion. Mientras que cambiar una base altera como mucho un aminoacido, quitar una base desalinea todo lo que viene despues y produce una proteina completamente distinta.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -459,36 +459,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v11",
-      "statement": "¿Qué significa que el código genético sea degenerado o redundante en la biología molecular?",
-      "context": "Durante una actividad de laboratorio en el Liceo N° 2 de Florida, Agustín analiza traducción y código genético.",
+      "statement": "Que organelo incorpora los aminoacidos a la cadena proteica en crecimiento?",
+      "context": "En la clase practica del Liceo N. 3 de Rocha, Lucia traza el camino de un aminoacido desde su sintesis hasta su incorporacion a una proteina.",
       "options": [
         {
-          "letter": "C",
-          "text": "Que existen múltiples codones diferentes que codifican para un mismo aminoácido.",
-          "is_correct": true,
-          "feedback": "Correcto. Hay 64 codones posibles para especificar solo 20 aminoácidos estándar, por lo que varios codones corresponden al mismo aminoácido."
-        },
-        {
           "letter": "A",
-          "text": "Que se altera con facilidad perdiendo nucleótidos esenciales de forma espontánea.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Degeneración en código genético no es sinónimo de inestabilidad mutacional o daño físico."
+          "text": "El ribosoma, que cataliza el enlace peptidico entre el aminoacido entrante y la cadena ya formada.",
+          "is_correct": true,
+          "feedback": "Correcto. El ribosoma posee actividad peptidil transferasa en su subunidad mayor y es el lugar donde se forma el enlace peptidico entre aminoacidos sucesivos."
         },
         {
           "letter": "B",
-          "text": "Que un solo codón puede codificar para muchos tipos de aminoácidos diferentes.",
+          "text": "El aparato de Golgi, que une los aminoacidos antes de exportarlos.",
           "is_correct": false,
-          "feedback": "Incorrecto. El código no es ambiguo: cada codón especifica únicamente un único aminoácido."
+          "feedback": "Incorrecto. El Golgi modifica proteinas ya formadas y no participa en la sintesis de la cadena de aminoacidos."
+        },
+        {
+          "letter": "C",
+          "text": "El reticulo endoplasmatico rugoso, que fabrica los enlaces peptidicos entre los aminoacidos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El reticulo rugoso aloja ribosomas que hacen la sintesis, pero es el ribosoma y no la membrana la que cataliza el enlace."
         },
         {
           "letter": "D",
-          "text": "Que varía de forma aleatoria entre las diferentes especies de un mismo ecosistema.",
+          "text": "El lisosoma, que degrada las proteinas y por tanto fabrica las cadenas nuevas.",
           "is_correct": false,
-          "feedback": "Incorrecto. El código genético es prácticamente universal, compartiendo los mismos codones todos los seres vivos."
+          "feedback": "Incorrecto. El lisosoma destruye proteinas y no participa en su fabricacion, de modo que no puede incorporar aminoacidos a una cadena."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La degeneración del código genético otorga tolerancia a ciertas mutaciones puntuales de transición (mutaciones sinónimas). En este contexto, Agustín de Florida determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "A",
+      "explanation": "La funcion catalitica del ribosoma es una de las mas notables de la biologia celular. Esa actividad la realiza la subunidad mayor, que contiene peptidil transferasa y que une los aminoacidos con el enlace peptidico.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -504,36 +504,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v12",
-      "statement": "¿Qué papel clave desempeña el ARN de transferencia (ARNt) durante la fase de traducción en el ribosoma?",
-      "context": "En la clase práctica del Liceo N° 3 en Tacuarembó, Sebastián y sus compañeros debaten sobre función del arnt.",
+      "statement": "Que ventaja aporta a la celula la adicion de la cola de adeninas al extremo tres del ARN mensajero?",
+      "context": "Para el proyecto final de ciencias en el Liceo N. 5 de Montevideo, Agustin analiza el cuidado de los extremos del ARN mensajero.",
       "options": [
         {
-          "letter": "D",
-          "text": "Alinear su anticodón complementario con el codón del ARNm para entregar el aminoácido específico asociado.",
+          "letter": "C",
+          "text": "Protege al ARN mensajero de su degradacion y aumenta el tiempo durante el cual puede ser traducido.",
           "is_correct": true,
-          "feedback": "Correcto. El ARNt actúa como adaptador acoplando el código de nucleótidos del ARNm con el aminoácido correspondiente."
+          "feedback": "Correcto. La cola de adeninas reconoce las proteinas de union a la cola poliadenilica, que protegen el extremo frente a las enzimas de degradacion y facilitan el inicio de la traduccion."
         },
         {
           "letter": "A",
-          "text": "Copiar el mensaje genético desde el núcleo celular de manera transitoria.",
+          "text": "Permite que el ARN mensajero se una directamente a los ribosomas sin necesidad de ARN de transferencia.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta es la función exclusiva del ARN mensajero (ARNm)."
+          "feedback": "Incorrecto. El reconocimiento del extremo de la hebra lo hace el complejo de iniciacion y no la cola, que ademas no exime del uso de ARN de transferencia."
         },
         {
           "letter": "B",
-          "text": "Formar la estructura física y catalítica de las dos subunidades del ribosoma.",
+          "text": "Aumenta el numero de codones disponibles para codificar aminoacidos.",
           "is_correct": false,
-          "feedback": "Incorrecto. El ARN ribosómico (ARNr) es el que conforma la estructura del ribosoma celular."
+          "feedback": "Incorrecto. La cola de adeninas se anade al extremo y no se lee como codigo, de modo que no aporta aminoacidos nuevos a la proteina."
         },
         {
-          "letter": "C",
-          "text": "Cortar los enlaces peptídicos de proteínas anómalas marcadas para destrucción.",
+          "letter": "D",
+          "text": "Hace que el ARN mensajero se repliegue formando una estructura de doble hebra estable.",
           "is_correct": false,
-          "feedback": "Incorrecto. La degradación proteica ocurre en proteasomas y no depende del ARN de transferencia."
+          "feedback": "Incorrecto. La cola de adeninas no aparea con adeninas de otra region de forma estable, de modo que no estabiliza una doble hebra del ARN mensajero."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La enzima aminoacil-ARNt sintetasa une covalentemente el aminoácido correcto al extremo 3' del ARNt consumiendo ATP. En este contexto, Sebastián de Tacuarembó determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "C",
+      "explanation": "El extremo tres del ARN mensajero es la zona mas expuesta a las nucleasas. La cola de adeninas funciona como un escudo que enlaza proteinas protectoras, y esa proteccion explica en parte por que las celulas eucariotas regulan la cantidad de proteina que producen mediante la estabilidad del ARN mensajero.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -549,36 +549,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v13",
-      "statement": "¿Qué enzima es la encargada de catalizar la síntesis de ARNm a partir de una hebra de ADN molde durante la transcripción?",
-      "context": "Para el proyecto final de ciencias en el Liceo N° 4 de Minas, Valentina investiga acerca de transcripción: arn polimerasa.",
+      "statement": "Por que los niveles de ARN mensajero y los de proteina no siempre se corresponden de forma directa?",
+      "context": "En el Liceo Piloto de Florida, Valentina comprueba la relacion entre los niveles de ARN mensajero y los de proteina en un cultivo celular.",
       "options": [
         {
-          "letter": "B",
-          "text": "ARN polimerasa.",
+          "letter": "A",
+          "text": "Porque la traduccion es un proceso regulado que no ocurre con la misma velocidad que la transcripcion.",
           "is_correct": true,
-          "feedback": "Correcto. La ARN polimerasa lee la hebra molde de ADN en dirección 3' a 5' y sintetiza la hebra complementaria de ARN en dirección 5' a 3'."
+          "feedback": "Correcto. La cantidad de proteina depende de la estabilidad del ARN mensajero, de la eficiencia de la traduccion y de la degradacion de la proteina, de modo que la relacion entre ambos niveles es indirecta."
         },
         {
-          "letter": "A",
-          "text": "ADN polimerasa III.",
+          "letter": "B",
+          "text": "Porque el ARN mensajero se fabrica en el citoplasma y la proteina se produce en el nucleo.",
           "is_correct": false,
-          "feedback": "Incorrecto. La ADN polimerasa participa en la replicación celular del material genético, no en la transcripción de genes."
+          "feedback": "Incorrecto. Esa asignacion esta invertida: el ARN mensajero se fabrica en el nucleo y la proteina se sintetiza en el citoplasma, en los ribosomas."
         },
         {
           "letter": "C",
-          "text": "Retrotranscriptasa reversa.",
+          "text": "Porque cada aminoacido necesita tres ARN mensajeros distintos para codificarse.",
           "is_correct": false,
-          "feedback": "Incorrecto. La retrotranscriptasa copia ARN a ADN, proceso típico de retrovirus pero ajeno a la transcripción normal."
+          "feedback": "Incorrecto. Cada aminoacido lo codifica al menos un codon y la traduccion utiliza ARN mensajeros completos, y no uno distinto por aminoacido."
         },
         {
           "letter": "D",
-          "text": "Peptidil transferasa ribosomal.",
+          "text": "Porque la proteina se degrada antes de Translation mientras el ARN mensajero permanece intacto.",
           "is_correct": false,
-          "feedback": "Incorrecto. La peptidil transferasa es un ARN ribosómico que cataliza el enlace peptídico en la traducción proteica."
+          "feedback": "Correcto como parte de la explicacion, pero por si solo no justifica la falta de correspondencia entre los dos niveles."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La transcripción requiere de regiones promotoras específicas del ADN para reclutar a la ARN polimerasa e iniciar la síntesis. En este contexto, Valentina de Minas determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "A",
+      "explanation": "La regulacion de la expresion genica puede actuar en muchos puntos distintos. Modificar la tasa de transcripcion, la estabilidad del ARN mensajero, la eficiencia de la traduccion o la degradacion de la proteina produce efectos diferentes sobre la cantidad final de proteina.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -594,36 +594,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v14",
-      "statement": "En las células eucariotas, ¿en qué consiste el procesamiento postranscripcional conocido como splicing (empalme) de ARN?",
-      "context": "Mientras repasa para el examen parcial en Paysandú, Santiago estudia detenidamente procesamiento del arn (splicing).",
+      "statement": "Que ventaja tactica ofrece a los virus la poliadenilacion de su ARN mensajero?",
+      "context": "Durante una actividad de laboratorio en el Liceo N. 4 de San Jose de Mayo, Belen provoca la formacion de cuerpos de inclusion intracelulares con virus en un cultivo.",
       "options": [
         {
           "letter": "B",
-          "text": "En la remoción de intrones no codificantes y el empalme correlativo de exones codificantes para generar un ARNm maduro.",
+          "text": "Que su ARN mensajero resulta indistinguible del de la celula huesped, de modo que escapa de la vigilancia inmunitaria.",
           "is_correct": true,
-          "feedback": "Correcto. El splicing elimina los intrones antes de que el ARNm maduro sea exportado del núcleo al citoplasma."
+          "feedback": "Correcto. Los virus suelen incorporar una enzima que alarga el ARN con una cola de adeninas y un casquete, con lo que su mensajero se parece al de la celula infectada y el sistema inmunitario lo detecta peor."
         },
         {
           "letter": "A",
-          "text": "En la unión covalente de azúcares desoxirribosas en los extremos del transcrito.",
+          "text": "Que les permite fabricar muchas mas proteinas virales porque cada ARN codifica varios marcos de lectura.",
           "is_correct": false,
-          "feedback": "Incorrecto. El ARN contiene azúcares ribosa de forma natural; no se agregan desoxirribosas."
+          "feedback": "Incorrecto. Un cambio de unread marco no aumenta el numero de marcos, y la ventaja que aqui se describe tiene que ver con el disfraz, no con la capacidad de traduccion."
         },
         {
           "letter": "C",
-          "text": "En la degradación de los ribosomas libres para evitar la síntesis defectuosa de proteínas.",
+          "text": "Que el ARN mensajero viral no necesita ser traducido para producir las proteinas del virus.",
           "is_correct": false,
-          "feedback": "Incorrecto. Los ribosomas no se degradan durante la transcripción; participan posteriormente en la traducción."
+          "feedback": "Incorrecto. Los virus necesitan sus proteinas y las producen mediante traduccion, de modo que esa opcion describe un mecanismo que no existe en ellos."
         },
         {
           "letter": "D",
-          "text": "En la sustitución de todos los nucleótidos de uracilo por timina en el citoplasma celular.",
+          "text": "Que la cola de adeninas impide que el ADN viral se integre en el genoma de la celula.",
           "is_correct": false,
-          "feedback": "Incorrecto. El ARN conserva la base uracilo de manera permanente en su estructura monocatenaria."
+          "feedback": "Incorrecto. La integracion del ADN viral es un proceso distinto de la modificacion del ARN, y la poliadenilacion no impide ninguna de las dos cosas."
         }
       ],
       "correct_answer": "B",
-      "explanation": "El splicing alternativo permite que un solo gen codifique para múltiples variantes de proteínas o isoformas. En este contexto, Santiago de Paysandú determinó correctamente la respuesta correcta.\n\n---",
+      "explanation": "Los virus imitan parte del procesamiento de los ARN mensajeros de su huesped. Esa imitacion les permite usar la maquinaria de traduccion de la celula y al mismo tiempo reducir la respuesta defensiva, y por eso resulta tan eficaz el ciclo de infeccion.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -639,36 +639,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v15",
-      "statement": "¿Qué significa que el código genético sea degenerado o redundante en la biología molecular?",
-      "context": "En el taller de Ciencias Naturales en Melo, Florencia observa un modelo experimental de traducción y código genético.",
+      "statement": "Que caracteristica del destino de una proteina esta codificada por la secuencia de aminoacidos inicial?",
+      "context": "En el Liceo N. 2 de Melo, Felipe analiza la secuencia de un gen que codifica una proteina de membrana.",
       "options": [
         {
-          "letter": "D",
-          "text": "Que existen múltiples codones diferentes que codifican para un mismo aminoácido.",
+          "letter": "C",
+          "text": "La presencia de una secuencia senal hydrophobic de aminoacidos hidrofobos que dirige la proteina al reticulo endoplasmatico.",
           "is_correct": true,
-          "feedback": "Correcto. Hay 64 codones posibles para especificar solo 20 aminoácidos estándar, por lo que varios codones corresponden al mismo aminoácido."
+          "feedback": "Correcto. La secuencia senal funciona como una etiqueta de destino y es reconocida por el receptor de senal, que conduce a la proteina al reticulo mientras se esta traduciendo."
         },
         {
           "letter": "A",
-          "text": "Que se altera con facilidad perdiendo nucleótidos esenciales de forma espontánea.",
+          "text": "La longitud total de la proteina, que determina si va a la membrana o al citoplasma.",
           "is_correct": false,
-          "feedback": "Incorrecto. Degeneración en código genético no es sinónimo de inestabilidad mutacional o daño físico."
+          "feedback": "Incorrecto. El destino no lo decide la longitud de la cadena, sino una secuencia concreta de aminoacidos presente en el extremo inicial."
         },
         {
           "letter": "B",
-          "text": "Que un solo codón puede codificar para muchos tipos de aminoácidos diferentes.",
+          "text": "El numero de cadenas de oligosacaridos que lleva, porque esa cifra indica su ubicacion.",
           "is_correct": false,
-          "feedback": "Incorrecto. El código no es ambiguo: cada codón especifica únicamente un único aminoácido."
+          "feedback": "Incorrecto. Esas cadenas se anaden despues en el reticulo y en el Golgi, y no son la señal que dirige la proteina a destino."
         },
         {
-          "letter": "C",
-          "text": "Que varía de forma aleatoria entre las diferentes especies de un mismo ecosistema.",
+          "letter": "D",
+          "text": "La presencia de una cola de adeninas en el extremo tres del ARN mensajero que la codifica.",
           "is_correct": false,
-          "feedback": "Incorrecto. El código genético es prácticamente universal, compartiendo los mismos codones todos los seres vivos."
+          "feedback": "Incorrecto. Esa cola pertenece al ARN mensajero y no forma parte de la proteina, de modo que no codifica el destino de la proteina."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La degeneración del código genético otorga tolerancia a ciertas mutaciones puntuales de transición (mutaciones sinónimas). En este contexto, Florencia de Melo determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "C",
+      "explanation": "El destino de una proteina lo marca su secuencia de aminoacidos, y ese mecanismo se llama direccionamiento. La mayoria de las proteinas de secrecion y de membrana tienen esa secuencia inicial hidrofoba que las conduce de forma acoplada al reticulo endoplasmatico.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -684,36 +684,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v16",
-      "statement": "¿Qué papel clave desempeña el ARN de transferencia (ARNt) durante la fase de traducción en el ribosoma?",
-      "context": "Durante una actividad de laboratorio en el Liceo N° 1 Departamental de Colonia del Sacramento, Joaquín analiza función del arnt.",
+      "statement": "Que diferencia bioquimica puede producir esa cambio de una sola base en la proteina resultante?",
+      "context": "En el taller de Ciencias Naturales de Canelones, Paula compara dos alelos de un mismo gen que difieren en una sola base.",
       "options": [
         {
           "letter": "B",
-          "text": "Alinear su anticodón complementario con el codón del ARNm para entregar el aminoácido específico asociado.",
+          "text": "Un cambio de un aminoacido que altera la forma tridimensional y con ello la funcion de la proteina.",
           "is_correct": true,
-          "feedback": "Correcto. El ARNt actúa como adaptador acoplando el código de nucleótidos del ARNm con el aminoácido correspondiente."
+          "feedback": "Correcto. Un solo aminoacido distinto puede cambiar el plegamiento y alterar el sitio activo, y esos casos explican buena parte de las enfermedades de origen genetico."
         },
         {
           "letter": "A",
-          "text": "Copiar el mensaje genético desde el núcleo celular de manera transitoria.",
+          "text": "Ninguna, porque siempre hay otro codon que codifica el mismo aminoacido en ese punto.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta es la función exclusiva del ARN mensajero (ARNm)."
+          "feedback": "Incorrecto. Aunque el codigo es degenerado, en el contexto de una secuencia concreta la mayoria de las sustituciones si cambia el aminoacido resultante."
         },
         {
           "letter": "C",
-          "text": "Formar la estructura física y catalítica de las dos subunidades del ribosoma.",
+          "text": "Un cambio en el numero total de proteinas que produce el gen, porque se duplica la traduccion.",
           "is_correct": false,
-          "feedback": "Incorrecto. El ARN ribosómico (ARNr) es el que conforma la estructura del ribosoma celular."
+          "feedback": "Incorrecto. Un cambio de una base no altera la cantidad de ARN mensajero ni la velocidad con que se traduce, sino la secuencia del producto."
         },
         {
           "letter": "D",
-          "text": "Cortar los enlaces peptídicos de proteínas anómalas marcadas para destrucción.",
+          "text": "La formacion de una proteina completamente distinta con longitud muy diferente.",
           "is_correct": false,
-          "feedback": "Incorrecto. La degradación proteica ocurre en proteasomas y no depende del ARN de transferencia."
+          "feedback": "Incorrecto. Una sustitucion conserva el numero de nucleotidos y por tanto la longitud de la proteina, y solo una insercion o deleccion modifica el marco de lectura."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La enzima aminoacil-ARNt sintetasa une covalentemente el aminoácido correcto al extremo 3' del ARNt consumiendo ATP. En este contexto, Joaquín de Colonia del Sacramento determinó correctamente la respuesta correcta.\n\n---",
+      "explanation": "Una sola base puede tener consecuencias graves porque la forma de una proteina determina su funcion. Ese principio explica por que las mutaciones puntuales pueden causar enfermedad y por que la mayoria de ellas se consideran conservadoras cuando el aminoacido sustituido tiene propiedades similares.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -729,36 +729,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v17",
-      "statement": "¿Qué enzima es la encargada de catalizar la síntesis de ARNm a partir de una hebra de ADN molde durante la transcripción?",
-      "context": "En la clase práctica del Liceo N° 2 en Las Piedras, Camila y sus compañeros debaten sobre transcripción: arn polimerasa.",
+      "statement": "Que principio resume el recorrido de la informacion desde el ADN hasta la proteina funcional?",
+      "context": "En el Liceo N. 4 de Montevideo, Nicolas resume el flujo de informacion en la celula eucariota.",
       "options": [
         {
-          "letter": "C",
-          "text": "ARN polimerasa.",
-          "is_correct": true,
-          "feedback": "Correcto. La ARN polimerasa lee la hebra molde de ADN en dirección 3' a 5' y sintetiza la hebra complementaria de ARN en dirección 5' a 3'."
-        },
-        {
           "letter": "A",
-          "text": "ADN polimerasa III.",
-          "is_correct": false,
-          "feedback": "Incorrecto. La ADN polimerasa participa en la replicación celular del material genético, no en la transcripción de genes."
+          "text": "Que la informacion fluye del ADN al ARN mensajero y de este a la proteina, mediante transcripcion y traduccion.",
+          "is_correct": true,
+          "feedback": "Correcto. Ese recorrido recibe el nombre de dogma central de la biologia molecular y describe la direccion en que se transmite la informacion genetica."
         },
         {
           "letter": "B",
-          "text": "Retrotranscriptasa reversa.",
+          "text": "Que la informacion fluye de la proteina al ARN mensajero y de este al ADN.",
           "is_correct": false,
-          "feedback": "Incorrecto. La retrotranscriptasa copia ARN a ADN, proceso típico de retrovirus pero ajeno a la transcripción normal."
+          "feedback": "Incorrecto. Esa es la direccion inversa, que corresponde a la transcripcion inversa y no al proceso habitual de sintesis proteica."
+        },
+        {
+          "letter": "C",
+          "text": "Que la informacion pasa del ARN mensajero al ADN y luego a la proteina.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ADN no se fabrica a partir del ARN mensajero en el proceso de sintesis, de modo que el primer paso de ese camino no existe en este esquema."
         },
         {
           "letter": "D",
-          "text": "Peptidil transferasa ribosomal.",
+          "text": "Que la informacion pasa de la proteina al ARN de transferencia y de este al ARN mensajero.",
           "is_correct": false,
-          "feedback": "Incorrecto. La peptidil transferasa es un ARN ribosómico que cataliza el enlace peptídico en la traducción proteica."
+          "feedback": "Incorrecto. El ARN de transferencia lleva el aminoacido y no retrocede la informacion desde la proteina hacia los ARN mensajeros."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La transcripción requiere de regiones promotoras específicas del ADN para reclutar a la ARN polimerasa e iniciar la síntesis. En este contexto, Camila de Las Piedras determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "A",
+      "explanation": "El dogma central describe tres transfers de informacion: el ADN se copia en ARN mensajero, el ARN mensajero se traduce en proteina y la proteina actúa como enzima o como componente celular. El sentido de ese flujo es el que define el sentido de la lectura biologica.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -774,36 +774,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v18",
-      "statement": "En las células eucariotas, ¿en qué consiste el procesamiento postranscripcional conocido como splicing (empalme) de ARN?",
-      "context": "Para el proyecto final de ciencias en el Liceo N° 3 de Montevideo, Mateo investiga acerca de procesamiento del arn (splicing).",
+      "statement": "Como puede una celula regular la cantidad de una proteina concreta en lugar de fabricar todas por igual?",
+      "context": "Mientras repasa para el examen parcial en Minas, Ignacio prepara una pregunta sobre la regulacion de la sintesis proteica.",
       "options": [
         {
           "letter": "D",
-          "text": "En la remoción de intrones no codificantes y el empalme correlativo de exones codificantes para generar un ARNm maduro.",
+          "text": "Activando solo los genes que codifican las proteinas que necesita, y desactivando los demas.",
           "is_correct": true,
-          "feedback": "Correcto. El splicing elimina los intrones antes de que el ARNm maduro sea exportado del núcleo al citoplasma."
+          "feedback": "Correcto. La regulacion por transcripcion es el nivel principal de control, porque decidir si un gen se copia o no basta para decidir si su proteina existe."
         },
         {
           "letter": "A",
-          "text": "En la unión covalente de azúcares desoxirribosas en los extremos del transcrito.",
+          "text": "Fabricando mas ARN mensajero para todos los genes a la vez, de modo que la traduccion sea proporcional.",
           "is_correct": false,
-          "feedback": "Incorrecto. El ARN contiene azúcares ribosa de forma natural; no se agregan desoxirribosas."
+          "feedback": "Incorrecto. Si se fabricara todo a la vez y en la misma proporcion, no habria seleccion y por tanto tampoco regulacion posible."
         },
         {
           "letter": "B",
-          "text": "En la degradación de los ribosomas libres para evitar la síntesis defectuosa de proteínas.",
+          "text": "Traduciendo mas rapido los ARN mensajeros de los genes que necesita en cada momento.",
           "is_correct": false,
-          "feedback": "Incorrecto. Los ribosomas no se degradan durante la transcripción; participan posteriormente en la traducción."
+          "feedback": "Incorrecto. La velocidad de traduccion de un ARN mensajero es una consecuencia de sus propias caracteristicas y no un mecanismo de seleccion entre genes."
         },
         {
           "letter": "C",
-          "text": "En la sustitución de todos los nucleótidos de uracilo por timina en el citoplasma celular.",
+          "text": "Destruyendo las proteinas que no necesita, en lugar de evitar fabricarlas.",
           "is_correct": false,
-          "feedback": "Incorrecto. El ARN conserva la base uracilo de manera permanente en su estructura monocatenaria."
+          "feedback": "Correcto pero es un nivel de control posterior, menos eficiente que el control de la transcripcion."
         }
       ],
       "correct_answer": "D",
-      "explanation": "El splicing alternativo permite que un solo gen codifique para múltiples variantes de proteínas o isoformas. En este contexto, Mateo de Montevideo determinó correctamente la respuesta correcta.\n\n---",
+      "explanation": "Economizar es el criterio que guia la regulacion. Una celula produce miles de proteinas y solo necesita ciertas en cada momento, de modo que el control de la transcripcion evita el gasto de fabricar lo que luego se destruira.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -819,36 +819,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v19",
-      "statement": "¿Qué significa que el código genético sea degenerado o redundante en la biología molecular?",
-      "context": "Mientras repasa para el examen parcial en Fray Bentos, Sofía estudia detenidamente traducción y código genético.",
+      "statement": "Por que las plantas pueden sintetizar todas sus proteinas con menos ARN mensajero que los animales?",
+      "context": "En la discusion final del proyecto en el Liceo N. 5 de Montevideo, Florencia debate sobre las diferencias entre las plantas y los animales.",
       "options": [
         {
-          "letter": "D",
-          "text": "Que existen múltiples codones diferentes que codifican para un mismo aminoácido.",
-          "is_correct": true,
-          "feedback": "Correcto. Hay 64 codones posibles para especificar solo 20 aminoácidos estándar, por lo que varios codones corresponden al mismo aminoácido."
-        },
-        {
-          "letter": "A",
-          "text": "Que se altera con facilidad perdiendo nucleótidos esenciales de forma espontánea.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Degeneración en código genético no es sinónimo de inestabilidad mutacional o daño físico."
-        },
-        {
           "letter": "B",
-          "text": "Que un solo codón puede codificar para muchos tipos de aminoácidos diferentes.",
-          "is_correct": false,
-          "feedback": "Incorrecto. El código no es ambiguo: cada codón especifica únicamente un único aminoácido."
+          "text": "Porque las plantas eliminan intrones mucho mas rapido y aprovechan mejor cada region codificante de sus genes.",
+          "is_correct": true,
+          "feedback": "Correcto. Los intrones abundan en los genes vegetales y su eliminacion es muy eficiente, de modo que el ARNm maduro conserva una proporcion mayor de su longitud inicial y codifica mas con el mismo numero de bases."
         },
         {
           "letter": "C",
-          "text": "Que varía de forma aleatoria entre las diferentes especies de un mismo ecosistema.",
+          "text": "Porque las plantas poseen mas genes que los animales en cada cromosoma.",
           "is_correct": false,
-          "feedback": "Incorrecto. El código genético es prácticamente universal, compartiendo los mismos codones todos los seres vivos."
+          "feedback": "Incorrecto. Esa no es la diferencia relevante, y ademas el numero de genes por cromosoma es muy distinto entre especies."
+        },
+        {
+          "letter": "A",
+          "text": "Porque las plantas no tienen intrones en sus genes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas tienen intrones, y de hecho suelen tener mas que los animales, aunque los eliminan de forma mas eficiente."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el codigo genetico de las plantas es mas eficiente que el de los animales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El codigo genetico es casi universal y comparte la misma tabla de aminoacidos, de modo que no existe esa diferencia de eficiencia."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La degeneración del código genético otorga tolerancia a ciertas mutaciones puntuales de transición (mutaciones sinónimas). En este contexto, Sofía de Fray Bentos determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "B",
+      "explanation": "La eficiencia del procesamiento del ARN depende de la especie. En las plantas, cuya ancestria es mas reciente y cuyo estilo de vida limita la dispersion de las semillas, el sistema de intrones se ha optimizado de una forma que no se observa igual en los animales.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W08-tema-w08-001-MASTERY-bundle-v20",
-      "statement": "¿Qué papel clave desempeña el ARN de transferencia (ARNt) durante la fase de traducción en el ribosoma?",
-      "context": "En el taller de Ciencias Naturales en Florida, Martín observa un modelo experimental de función del arnt.",
+      "statement": "Cual es la secuencia correcta de las etapas de la sintesis de una proteina en una celula eucariota?",
+      "context": "En la evaluacion final del Liceo N. 1 Departamental de Artigas, Camila redacta la conclusion sobre las etapas de la sintesis proteica.",
       "options": [
         {
-          "letter": "B",
-          "text": "Alinear su anticodón complementario con el codón del ARNm para entregar el aminoácido específico asociado.",
+          "letter": "C",
+          "text": "Transcripcion en el nucleo, procesamiento del ARN, exportacion y traduccion en los ribosomas del citoplasma.",
           "is_correct": true,
-          "feedback": "Correcto. El ARNt actúa como adaptador acoplando el código de nucleótidos del ARNm con el aminoácido correspondiente."
+          "feedback": "Correcto. Esa es la secuencia completa: el ARN se fabrica en el nucleo, se procesa con casquete y cola de adeninas, sale por los poros nucleares y se traduce en los ribosomas del citoplasma."
         },
         {
           "letter": "A",
-          "text": "Copiar el mensaje genético desde el núcleo celular de manera transitoria.",
+          "text": "Traduccion en el nucleo, transcripcion en el citoplasma, procesamiento y secrecion.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta es la función exclusiva del ARN mensajero (ARNm)."
+          "feedback": "Correcto pero situa la traduccion en el lugar equivocado, porque en las eucariotas se fabrica en el nucleo y se traduce en el citoplasma."
         },
         {
-          "letter": "C",
-          "text": "Formar la estructura física y catalítica de las dos subunidades del ribosoma.",
+          "letter": "B",
+          "text": "Transcripcion en el citoplasma, procesamiento en el nucleo, traduccion y secrecion.",
           "is_correct": false,
-          "feedback": "Incorrecto. El ARN ribosómico (ARNr) es el que conforma la estructura del ribosoma celular."
+          "feedback": "Incorrecto. El orden de las dos primeras etapas esta invertido, porque el ARN se fabrica en el nucleo y alli mismo se procesa."
         },
         {
           "letter": "D",
-          "text": "Cortar los enlaces peptídicos de proteínas anómalas marcadas para destrucción.",
+          "text": "Procesamiento, transcripcion, traduccion y exportacion del ARN a el citoplasma.",
           "is_correct": false,
-          "feedback": "Incorrecto. La degradación proteica ocurre en proteasomas y no depende del ARN de transferencia."
+          "feedback": "Incorrecto. El procesamiento ocurre despues de la transcripcion y no antes, de modo que esa secuencia situa mal las dos primeras etapas."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La enzima aminoacil-ARNt sintetasa une covalentemente el aminoácido correcto al extremo 3' del ARNt consumiendo ATP. En este contexto, Martín de Florida determinó correctamente la respuesta correcta.",
+      "correct_answer": "C",
+      "explanation": "La compartimentalizacion define la secuencia de las etapas en las eucariotas. Cada paso tiene su lugar, y entender ese orden explica por que un farmaco puede bloquear la traduccion sin afectar a la transcripcion y a la inversa.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

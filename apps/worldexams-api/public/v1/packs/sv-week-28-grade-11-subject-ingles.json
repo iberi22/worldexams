@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v1",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Read the text and identify its main idea: 'Volunteers planted forty trees along the river this spring. Local schools collected plastic and glass, and the river bank now looks completely different.'",
+      "context": "A reading comprehension exercise in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'."
-        },
-        {
           "letter": "A",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'."
+          "text": "A volunteer project changed the river bank",
+          "is_correct": true,
+          "feedback": "Both sentences describe the same project and the change it produced, which is the central idea."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "Plastic and glass are dangerous for rivers",
           "is_correct": false,
-          "feedback": "'are' is used with 'you', 'we' and 'they', never with the singular 'I'."
+          "feedback": "That is a general claim the text never makes; it only mentions the collection of waste."
+        },
+        {
+          "letter": "C",
+          "text": "Local schools dislike planting trees",
+          "is_correct": false,
+          "feedback": "The text shows the opposite: the schools took part in the planting effort."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "Spring is the best season for planting",
           "is_correct": false,
-          "feedback": "After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit."
+          "feedback": "The season is mentioned once and is not the point the text develops."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "correct_answer": "A",
+      "explanation": "The whole text describes one project and its visible result, so the main idea is what the tree planting achieved along the river.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -54,41 +54,41 @@
     },
     {
       "id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v2",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Which sentence best expresses the main idea of a text about a library that lends books and also runs reading clubs on Saturdays?",
+      "context": "A reading strategy lesson in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "'Benevolent' describes a person who is kind and ready to give help to others."
+          "letter": "A",
+          "text": "Reading clubs are more useful than borrowing books",
+          "is_correct": false,
+          "feedback": "The text describes both without ranking them, so this adds a judgement it does not make."
         },
         {
-          "letter": "A",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "That is the opposite of benevolent, whose root means well-wishing."
+          "letter": "B",
+          "text": "The library lends books and organises reading clubs",
+          "is_correct": true,
+          "feedback": "This names both activities the text describes, which is what a main idea must do."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "Saturdays are busy at the library",
           "is_correct": false,
-          "feedback": "Those describe speed; benevolent refers to character and generosity."
+          "feedback": "That is a single detail about one day rather than the idea the whole text supports."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "Libraries should not lend books on Saturdays",
           "is_correct": false,
-          "feedback": "Those describe laziness, the opposite of a generous attitude towards others."
+          "feedback": "The text gives no recommendation of that kind, so this contradicts the information."
         }
       ],
       "correct_answer": "B",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "explanation": "The main idea covers both functions described, so the best statement names the library and its two activities together.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -99,36 +99,36 @@
     },
     {
       "id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v3",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Read the passage and choose the main idea: 'Every morning before school, Ana walks her dog in the park. She has done this for three years and knows every regular there by name.'",
+      "context": "A reading comprehension task in a secondary school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "The text names exactly two things bees do: pollinating flowers and making honey."
+          "text": "The park is empty in the early morning",
+          "is_correct": false,
+          "feedback": "The text says she knows the regulars, which implies the opposite of an empty park."
         },
         {
           "letter": "B",
-          "text": "Bees are dangerous insects",
+          "text": "Ana dislikes walking in the park",
           "is_correct": false,
-          "feedback": "Nothing in the text says bees are dangerous; it describes useful work they do."
+          "feedback": "Knowing the regulars by name suggests she enjoys the routine, which is the opposite."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
-          "is_correct": false,
-          "feedback": "The text gives pollination as another thing bees do, so honey is not the only product."
+          "text": "Ana keeps a daily morning routine with her dog",
+          "is_correct": true,
+          "feedback": "The habit of three years is the point of the passage, and both sentences support it."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "Dogs should not be walked before school",
           "is_correct": false,
-          "feedback": "The text says bees help pollinate flowers, so flowers do rely on them."
+          "feedback": "The text makes no comment on whether the habit is appropriate."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "correct_answer": "C",
+      "explanation": "Both sentences describe Ana's long-standing morning routine with her dog and the familiarity it has brought.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -144,41 +144,41 @@
     },
     {
       "id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v4",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "What is the main idea of a text that explains how a school reduced its water use?",
+      "context": "A reading comprehension lesson in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "'Went' is the irregular past simple of 'go'."
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "Water is a natural resource",
           "is_correct": false,
-          "feedback": "English does not add -ed to spell the past of 'go'; the past form is irregular."
+          "feedback": "That is a general fact stated anywhere, not the specific point the text develops."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "Students should wash less often",
           "is_correct": false,
-          "feedback": "'Gone' is the past participle used after 'have', not the past simple."
+          "feedback": "No such recommendation appears; the text reports measures the school took itself."
+        },
+        {
+          "letter": "C",
+          "text": "Schools in the region use a lot of water",
+          "is_correct": false,
+          "feedback": "That would be a generalisation about many schools rather than this one's achievement."
         },
         {
           "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'is' or 'are', not the past simple."
+          "text": "The school managed to use less water",
+          "is_correct": true,
+          "feedback": "The purpose of such a text is to report a change achieved, which is the central idea."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "correct_answer": "D",
+      "explanation": "A text about reducing water use centres on the measures taken and the results they produced, so the main idea must include the change.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Understand",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -189,41 +189,41 @@
     },
     {
       "id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v5",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Which detail is a main idea rather than a supporting detail?",
+      "context": "A lesson on main idea and detail in a school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "The third person singular of 'go' takes -s, and 'every day' asks for the present simple."
+          "text": "'The panels were installed in April by a local company'",
+          "is_correct": false,
+          "feedback": "The date and the company support the main point but do not constitute it themselves."
         },
         {
           "letter": "B",
-          "text": "She go to school every day.",
+          "text": "'The roof of the building was rebuilt'",
           "is_correct": false,
-          "feedback": "After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error."
+          "feedback": "This is a background fact about the building that does not express the point of the text."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "'The school has about six hundred students'",
           "is_correct": false,
-          "feedback": "That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary."
+          "feedback": "The number of students is context, not the central message about the panels."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject."
+          "text": "'Solar panels now supply the school's electricity'",
+          "is_correct": true,
+          "feedback": "This statement carries the purpose of the whole text and is not limited to one part of it."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "A main idea is the point the whole text serves, while a detail is one fact used to support it.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -234,41 +234,41 @@
     },
     {
       "id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v6",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Read and choose the main idea: 'The city closed several roads near the stadium so that thousands of fans could arrive safely on foot instead of driving.'",
+      "context": "A reading comprehension exercise in a secondary school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'."
+          "text": "Thousands of fans came to the stadium that day",
+          "is_correct": false,
+          "feedback": "That is a fact mentioned in passing, not the point the sentence is serving."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "Cars are dangerous in city centres",
           "is_correct": false,
-          "feedback": "'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'."
+          "feedback": "The text does not generalise about cars; it reports one specific measure on one occasion."
         },
         {
           "letter": "C",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "'are' is used with 'you', 'we' and 'they', never with the singular 'I'."
+          "text": "Roads were closed to keep fans safe on the way to the stadium",
+          "is_correct": true,
+          "feedback": "The action and its purpose are stated in one sentence, which makes it the central point."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "The stadium should be moved out of the city",
           "is_correct": false,
-          "feedback": "After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit."
+          "feedback": "No such proposal appears anywhere in the text."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "The text gives a measure taken and the reason for it, so the main idea is about protecting fans around the stadium.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -279,41 +279,41 @@
     },
     {
       "id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v7",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "What is the difference between a main idea and a topic?",
+      "context": "A reading strategy explanation in an English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "'Benevolent' describes a person who is kind and ready to give help to others."
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "They are two words for exactly the same thing.",
           "is_correct": false,
-          "feedback": "That is the opposite of benevolent, whose root means well-wishing."
+          "feedback": "The topic is narrower than the claim the text makes, so they are not identical."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "The topic names the subject; the main idea states what is said about it",
+          "is_correct": true,
+          "feedback": "A topic is broad and a main idea is a complete claim about that subject."
+        },
+        {
+          "letter": "C",
+          "text": "The main idea is always the title of the text.",
           "is_correct": false,
-          "feedback": "Those describe speed; benevolent refers to character and generosity."
+          "feedback": "A title often hints at the topic, but the main idea is a statement, not a title."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "A text has a main idea but never a topic.",
           "is_correct": false,
-          "feedback": "Those describe laziness, the opposite of a generous attitude towards others."
+          "feedback": "Every text has a topic; the main idea is the extra step of stating a claim."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "The topic names the subject area of a text, while the main idea states what the text actually says about that subject.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -324,41 +324,41 @@
     },
     {
       "id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v8",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Read the text and choose the main idea: 'Many small farmers stopped using chemical fertilisers after learning that overuse had left the soil exhausted, and their harvests became cheaper and healthier.'",
+      "context": "A reading comprehension exercise in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "The text names exactly two things bees do: pollinating flowers and making honey."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "Nothing in the text says bees are dangerous; it describes useful work they do."
+          "text": "Small farmers changed their methods for better results",
+          "is_correct": true,
+          "feedback": "The cause and its two effects together form the central point of the passage."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "Chemical fertilisers should be banned everywhere",
           "is_correct": false,
-          "feedback": "The text gives pollination as another thing bees do, so honey is not the only product."
+          "feedback": "The text reports a change of practice, not a general prohibition it advocates."
         },
         {
           "letter": "C",
-          "text": "Flowers don't need bees",
+          "text": "Farming is the most important activity in a country",
           "is_correct": false,
-          "feedback": "The text says bees help pollinate flowers, so flowers do rely on them."
+          "feedback": "That broad claim is not made anywhere in the passage."
+        },
+        {
+          "letter": "D",
+          "text": "Soil exhaustion is impossible to repair",
+          "is_correct": false,
+          "feedback": "The passage shows the opposite, since the harvests improved after the change."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "The text links a change in farming practice to two results, and that link is what the whole passage is about.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.65,
       "bundle_id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v9",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Which sentence states a main idea that covers the whole of a short text?",
+      "context": "A summarizing exercise in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "'Went' is the irregular past simple of 'go'."
+          "letter": "A",
+          "text": "The roof of the theatre leaked for years",
+          "is_correct": false,
+          "feedback": "This covers only one part of the text and would leave the rest unexplained."
         },
         {
-          "letter": "A",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "English does not add -ed to spell the past of 'go'; the past form is irregular."
+          "letter": "B",
+          "text": "The text explains how the old theatre was restored",
+          "is_correct": true,
+          "feedback": "Every part of the text would contribute to that explanation, which is the test of a main idea."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "The city restored several old buildings",
           "is_correct": false,
-          "feedback": "'Gone' is the past participle used after 'have', not the past simple."
+          "feedback": "This is broader than the text and would not identify what this particular text is about."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "Restoration work can be very expensive",
           "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'is' or 'are', not the past simple."
+          "feedback": "That is a general comment the text does not necessarily make at all."
         }
       ],
       "correct_answer": "B",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "6",
+      "explanation": "A good main idea must be true of the entire text, not only of the first or last sentence, and must state a complete claim.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v10",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Read and choose the main idea: 'A small library that had only printed books began lending tablets as well, and soon elderly visitors who rarely read print were visiting every week.'",
+      "context": "A reading comprehension task in a school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "The third person singular of 'go' takes -s, and 'every day' asks for the present simple."
+          "text": "Printed books are no longer worth reading",
+          "is_correct": false,
+          "feedback": "The library kept its printed books, so the text does not argue for abandoning them."
         },
         {
           "letter": "B",
-          "text": "She go to school every day.",
+          "text": "Tablets are cheaper than printed books",
           "is_correct": false,
-          "feedback": "After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error."
+          "feedback": "No comparison of cost appears anywhere in the passage."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "Elderly people cannot learn to use new technology",
           "is_correct": false,
-          "feedback": "That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary."
+          "feedback": "The text shows them using the tablets with ease, which contradicts the claim."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject."
+          "text": "Adding tablets brought older readers to the library",
+          "is_correct": true,
+          "feedback": "The change and its effect on visitors form the connected central point."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "The passage reports a change and its effect on a specific group, and that is the claim the whole text supports.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -459,41 +459,41 @@
     },
     {
       "id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v11",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Read the text and choose its main idea: 'The council planted trees along the avenue, and during the following summer the temperature at midday was noticeably lower than before.'",
+      "context": "A reading skills lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'."
-        },
-        {
           "letter": "A",
-          "text": "is",
+          "text": "Avenues are usually wider than side streets",
           "is_correct": false,
-          "feedback": "'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'."
+          "feedback": "The sentence compares widths, which the text never discusses."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "Summer is hotter than every other season",
           "is_correct": false,
-          "feedback": "'are' is used with 'you', 'we' and 'they', never with the singular 'I'."
+          "feedback": "The text mentions only one summer and makes no such comparison."
+        },
+        {
+          "letter": "C",
+          "text": "Planting trees lowered the temperature along the avenue",
+          "is_correct": true,
+          "feedback": "The action and its measured effect together form the central claim."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "The council ignored the views of residents",
           "is_correct": false,
-          "feedback": "After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit."
+          "feedback": "Nothing in the passage suggests any disagreement with the public."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "explanation": "The passage connects an action taken with a measured result, and that link is the point the whole text serves.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -504,41 +504,41 @@
     },
     {
       "id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v12",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Which sentence would make the best topic sentence for a paragraph about the value of a school library?",
+      "context": "A reading skills lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "'Benevolent' describes a person who is kind and ready to give help to others."
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "That is the opposite of benevolent, whose root means well-wishing."
+          "text": "A school library gives students access to resources they cannot easily find elsewhere.",
+          "is_correct": true,
+          "feedback": "It names the subject and opens a claim that several sentences can develop."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "I went to the library on Tuesday afternoon at about four.",
           "is_correct": false,
-          "feedback": "Those describe speed; benevolent refers to character and generosity."
+          "feedback": "It reports one personal visit, which is too narrow to govern a paragraph."
+        },
+        {
+          "letter": "C",
+          "text": "The word library comes from the Latin word for books.",
+          "is_correct": false,
+          "feedback": "The etymology introduces a different subject from the paragraph's point."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "Books are made of paper that comes from trees.",
           "is_correct": false,
-          "feedback": "Those describe laziness, the opposite of a generous attitude towards others."
+          "feedback": "The sentence changes the subject to the raw material of books."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "A topic sentence must be general enough to be developed and must name the subject the paragraph will explain.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -549,41 +549,41 @@
     },
     {
       "id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v13",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Read and identify the main idea: 'Fewer students chose the optional computing course this year, and the teachers decided to review how it was advertised to beginners.'",
+      "context": "A reading skills lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "The text names exactly two things bees do: pollinating flowers and making honey."
+          "letter": "A",
+          "text": "Computing is not useful for most students",
+          "is_correct": false,
+          "feedback": "The text never evaluates the subject, only its uptake."
         },
         {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
+          "letter": "B",
+          "text": "Teachers should stop offering optional courses",
           "is_correct": false,
-          "feedback": "Nothing in the text says bees are dangerous; it describes useful work they do."
+          "feedback": "No such recommendation appears in the passage."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
+          "text": "Advertising for courses is always ineffective",
           "is_correct": false,
-          "feedback": "The text gives pollination as another thing bees do, so honey is not the only product."
+          "feedback": "The text describes one case and draws no general conclusion."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
-          "is_correct": false,
-          "feedback": "The text says bees help pollinate flowers, so flowers do rely on them."
+          "text": "Falling enrolment led to a review of how the course was advertised",
+          "is_correct": true,
+          "feedback": "The decline and the resulting decision form the connected central point."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "The text reports a decline and the response taken, and that combination is what the passage is about.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -594,41 +594,41 @@
     },
     {
       "id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v14",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Which detail is NOT part of the main idea of a text about a town that introduced a recycling scheme?",
+      "context": "A reading skills lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "'Went' is the irregular past simple of 'go'."
+          "text": "That most households now separate their waste",
+          "is_correct": false,
+          "feedback": "This shows how the scheme worked, which supports the main point."
         },
         {
           "letter": "B",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "English does not add -ed to spell the past of 'go'; the past form is irregular."
+          "text": "The colour of the bins placed on the street",
+          "is_correct": true,
+          "feedback": "This is incidental information that the argument does not need."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "That the amount collected each week has risen",
           "is_correct": false,
-          "feedback": "'Gone' is the past participle used after 'have', not the past simple."
+          "feedback": "The result confirms the scheme's success and belongs with the main idea."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "That the council spent money on new vehicles",
           "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'is' or 'are', not the past simple."
+          "feedback": "This explains how the scheme was carried out and supports the claim."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "A supporting detail explains or illustrates the main point, so it can be removed without destroying the central message.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -639,41 +639,41 @@
     },
     {
       "id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v15",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "How would you summarise the main idea of a text that describes three different methods for reducing food waste?",
+      "context": "A reading skills lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "She goes to school every day.",
+          "text": "It presents several practical ways of cutting food waste",
           "is_correct": true,
-          "feedback": "The third person singular of 'go' takes -s, and 'every day' asks for the present simple."
+          "feedback": "The summary captures what all three methods have in common."
         },
         {
           "letter": "B",
-          "text": "She go to school every day.",
+          "text": "The first method involves storing bread in the freezer",
           "is_correct": false,
-          "feedback": "After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error."
+          "feedback": "That is one detail of one method, which a summary must generalise."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "The third method was suggested by a shop nearby",
           "is_correct": false,
-          "feedback": "That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary."
+          "feedback": "The source of one suggestion is a detail, not the shared point."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "Food waste has increased in the last ten years",
           "is_correct": false,
-          "feedback": "'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject."
+          "feedback": "That is a background claim the text does not necessarily make."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "8",
+      "explanation": "A summary must cover the shared purpose of the methods described and leave out the detail of each individual one.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -684,41 +684,41 @@
     },
     {
       "id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v16",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Read and choose the main idea: 'Some students in the orchestra had never played an instrument, so the conductor ran two introductory sessions before the first rehearsal.'",
+      "context": "A reading skills lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'."
+          "text": "The orchestra performed better than other orchestras",
+          "is_correct": false,
+          "feedback": "No comparison with other orchestras appears anywhere in the text."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "Learning music is easier than learning a language",
           "is_correct": false,
-          "feedback": "'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'."
+          "feedback": "The text draws no comparison between music and language learning."
         },
         {
           "letter": "C",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "'are' is used with 'you', 'we' and 'they', never with the singular 'I'."
+          "text": "Introductory sessions were added to prepare new players",
+          "is_correct": true,
+          "feedback": "The problem and the measure taken together make the point of the passage."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "The conductor did not enjoy working with beginners",
           "is_correct": false,
-          "feedback": "After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit."
+          "feedback": "Nothing in the passage expresses the conductor's feelings about beginners."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "The passage explains a difficulty and the practical step taken to overcome it, which is the central matter.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -729,41 +729,41 @@
     },
     {
       "id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v17",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "What is the best test of whether a sentence is the main idea of a text?",
+      "context": "A reading skills lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "'Benevolent' describes a person who is kind and ready to give help to others."
+          "text": "Whether it appears more than twice in the passage",
+          "is_correct": false,
+          "feedback": "Repetition of a word or phrase is not the test of a main idea."
         },
         {
           "letter": "B",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "That is the opposite of benevolent, whose root means well-wishing."
+          "text": "Whether the rest of the text is needed to explain it",
+          "is_correct": true,
+          "feedback": "If the sentence needs all the others to make sense, it is the main idea."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "Whether it is longer than the other sentences",
           "is_correct": false,
-          "feedback": "Those describe speed; benevolent refers to character and generosity."
+          "feedback": "Length has no bearing on whether a sentence states the central point."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "Whether it contains the word used in the title",
           "is_correct": false,
-          "feedback": "Those describe laziness, the opposite of a generous attitude towards others."
+          "feedback": "A text can name its topic in the title without repeating it word for word."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "A main idea must account for the whole text, and deleting the rest of the passage should leave the sense intact.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -774,41 +774,41 @@
     },
     {
       "id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v18",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Read and choose the main idea: 'The old cinema had been closed for years, and after a local group raised the money, its roof was repaired and it reopened with a small stage inside.'",
+      "context": "A reading skills lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "The text names exactly two things bees do: pollinating flowers and making honey."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "Nothing in the text says bees are dangerous; it describes useful work they do."
+          "text": "A closed cinema was repaired and reopened by local effort",
+          "is_correct": true,
+          "feedback": "The transformation and the people behind it form the central narrative."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "Small theatres are more popular than large ones",
           "is_correct": false,
-          "feedback": "The text gives pollination as another thing bees do, so honey is not the only product."
+          "feedback": "The passage draws no general conclusion about the size of venues."
         },
         {
           "letter": "C",
-          "text": "Flowers don't need bees",
+          "text": "Cinemas in the region have all closed",
           "is_correct": false,
-          "feedback": "The text says bees help pollinate flowers, so flowers do rely on them."
+          "feedback": "Only one building is discussed, so no regional claim is made."
+        },
+        {
+          "letter": "D",
+          "text": "Roof repairs are always expensive",
+          "is_correct": false,
+          "feedback": "The cost of repairs is not mentioned in the text at all."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "The passage traces a change in one building from closure to reopening, which is what the whole text is about.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v19",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Which sentence is a supporting detail for a paragraph whose topic sentence is 'Public libraries give free access to knowledge'?",
+      "context": "A reading skills lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "'Went' is the irregular past simple of 'go'."
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "Knowledge is one of the most discussed ideas in education.",
           "is_correct": false,
-          "feedback": "English does not add -ed to spell the past of 'go'; the past form is irregular."
+          "feedback": "The general claim would sit better as a topic sentence than as support for one."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "Libraries usually have more books than bookshops.",
           "is_correct": false,
-          "feedback": "'Gone' is the past participle used after 'have', not the past simple."
+          "feedback": "The comparison of stock levels does not illustrate free access to knowledge."
+        },
+        {
+          "letter": "C",
+          "text": "Members can borrow up to eight books at a time without paying anything.",
+          "is_correct": true,
+          "feedback": "The sentence shows how the free access described actually works in practice."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "Some libraries close during the afternoon.",
           "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'is' or 'are', not the past simple."
+          "feedback": "This describes opening hours and does not support the claim about free access."
         }
       ],
       "correct_answer": "C",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "10",
+      "explanation": "A supporting detail illustrates or proves the general claim made in the topic sentence.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v20",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Read the paragraph and identify its main idea: 'The committee rejected the first design because the roof leaked. It approved the second design, which included new drainage and a steeper pitch, and construction began in March.'",
+      "context": "A reading skills lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "The third person singular of 'go' takes -s, and 'every day' asks for the present simple."
+          "text": "Building committees should always meet in public",
+          "is_correct": false,
+          "feedback": "The text says nothing about how the committee conducts its meetings."
         },
         {
           "letter": "B",
-          "text": "She go to school every day.",
+          "text": "Steep roofs are more expensive to build",
           "is_correct": false,
-          "feedback": "After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error."
+          "feedback": "That detail about cost is never mentioned in the passage."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "The first design was better than the second one",
           "is_correct": false,
-          "feedback": "That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary."
+          "feedback": "The text reports the opposite, since the second design was approved."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject."
+          "text": "A second design was approved after fixing the leaking roof",
+          "is_correct": true,
+          "feedback": "The rejection, the change and the approval form the connected central point."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "The paragraph follows a design through rejection to approval, and the reason for the change is the point it develops.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",

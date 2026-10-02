@@ -189,36 +189,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v5",
-      "statement": "¿En qué zona de la mitocondria ocurre el ciclo de Krebs durante la respiración celular?",
-      "context": "En el taller de Ciencias Naturales en Canelones, Martín observa un modelo experimental de la respiración celular mitocondrial.",
+      "statement": "Que propiedad de las mitocondrias explica que el fraccionamiento celular permita recuperarlas en esa fraccion?",
+      "context": "En el laboratorio del Liceo N. 3 de Salto, Sofia separa mitocondrias de una muestra de higado por centrifugacion diferencial.",
       "options": [
         {
-          "letter": "C",
-          "text": "En la matriz mitocondrial interna.",
-          "is_correct": true,
-          "feedback": "Correcto. El ciclo de Krebs ocurre en la matriz mitocondrial gracias a enzimas solubles específicas."
-        },
-        {
           "letter": "A",
-          "text": "En el espacio intermembrana que separa ambas bicapas.",
-          "is_correct": false,
-          "feedback": "Incorrecto. En esta zona se acumulan protones transitoriamente para generar el gradiente quimiosmótico."
+          "text": "Tienen una densidad propia, distinta de la del citoplasma y la de otros organelos.",
+          "is_correct": true,
+          "feedback": "Correcto. La centrifugacion diferencial separa las estructuras segun su tamano y densidad, y las mitocondrias sedimentan a una velocidad caracteristica que las distingue del resto."
         },
         {
           "letter": "B",
-          "text": "En las crestas formadas por la membrana mitocondrial interna.",
+          "text": "Son el unico organelo que contiene lipidos en su envoltura.",
           "is_correct": false,
-          "feedback": "Incorrecto. En las crestas se localizan las proteínas de la cadena transportadora de electrones y la ATP sintasa."
+          "feedback": "Incorrecto. Todas las envolturas de organelos membranosos contienen lipidos, de modo que esa propiedad no explica su separacion."
+        },
+        {
+          "letter": "C",
+          "text": "Su membrana es semipermeable y por eso retienen el sedimento en el tubo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La permeabilidad selectiva de la membrana regula el paso de sustancias y no determina la velocidad a la que la estructura sedimenta."
         },
         {
           "letter": "D",
-          "text": "En la membrana mitocondrial externa permeable a iones libres.",
+          "text": "Producen ATP y por eso se localizan en la fraccion mas densa del gradiente.",
           "is_correct": false,
-          "feedback": "Incorrecto. La membrana externa es una barrera semipermeable de paso de metabolitos primarios."
+          "feedback": "Correcto pero insuficiente como razon tecnica."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La mitocondria aloja el ciclo de Krebs en la matriz y la cadena respiratoria en sus crestas, optimizando la síntesis de ATP. En este contexto, Martín de Canelones determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "A",
+      "explanation": "El fraccionamiento celular se apoya en diferencias fisicas reales de los componentes. Como cada organelo tiene una masa y un volumen caracteristicos, puede separarse de los demas por sedimentacion a distintas velocidades de centrifugacion.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -234,36 +234,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v6",
-      "statement": "¿Cuál es la función del tilacoide en la ultraestructura del cloroplasto?",
-      "context": "Durante una actividad de laboratorio en el Liceo N° 4 de Montevideo, Lucía analiza el cloroplasto y la fotosíntesis.",
+      "statement": "Que organelo se identifica en esas celulas por su desplazamiento en el citoplasma y por colorearse con un pigmento verde?",
+      "context": "Durante una actividad de laboratorio en el Liceo N. 4 de Rocha, Martin coloca una hoja de elodea bajo el microscopio en luz natural.",
       "options": [
         {
-          "letter": "A",
-          "text": "Contener los fotosistemas y la cadena de transporte de electrones para la fase luminosa.",
+          "letter": "B",
+          "text": "El cloroplasto, que contiene clorofila y se desplaza con la corriente citoplasmatica.",
           "is_correct": true,
-          "feedback": "Correcto. La membrana del tilacoide alberga la clorofila y proteínas necesarias para convertir energía solar en química."
+          "feedback": "Correcto. Los cloroplastos son organelos que contienen clorofila en sus tilacoides y se mueven pasivamente arrastrados por el ciclosis, lo que los hace visibles como gránulos verdes."
         },
         {
-          "letter": "B",
-          "text": "Sintetizar la enzima Rubisco para iniciar el ciclo de Calvin fijador.",
+          "letter": "A",
+          "text": "La mitocondria, que contiene clorofila y se desplaza con la corriente citoplasmatica.",
           "is_correct": false,
-          "feedback": "Incorrecto. El ciclo de Calvin y la síntesis de la enzima Rubisco ocurren en el estroma soluble."
+          "feedback": "Incorrecto. La mitocondria no contiene clorofila, porque su funcion es la respiracion celular y no la fotosintesis."
         },
         {
           "letter": "C",
-          "text": "Almacenar el almidón de reserva resultante del metabolismo celular nocturno.",
+          "text": "El lisosoma, que se tiñe de verde por el colorante y se desplaza por el citoplasma.",
           "is_correct": false,
-          "feedback": "Incorrecto. Los granos de almidón se acumulan transitoriamente en el estroma, fuera de los tilacoides."
+          "feedback": "Incorrecto. Los lisosomas son organelos de la digestion intracelular, no tienen pigmentos y no producen la coloracion verde observada."
         },
         {
           "letter": "D",
-          "text": "Delimitar el paso de lípidos sintetizados en el retículo liso.",
+          "text": "El aparato de Golgi, que aparece como un ovillo verde en el citoplasma.",
           "is_correct": false,
-          "feedback": "Incorrecto. El cloroplasto no se encarga de regular la distribución de grasas del retículo."
+          "feedback": "Incorrecto. El Golgi se observa como un conjunto de cisternas apiladas, y su coloracion no depende de ningun pigmento verde."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La fase luminosa de la fotosíntesis ocurre en las membranas de los tilacoides, liberando oxígeno y generando NADPH y ATP. En este contexto, Lucía de Montevideo determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "B",
+      "explanation": "La observacion de organelos en celulas vivas se facilita por el movimiento del citoplasma, que los arrastra sin necesidad de fijarlos. El cloroplasto es el organelo mas facil de reconocer por su coloracion verde y por su mayor tamano dentro de la celula vegetal.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -279,36 +279,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v7",
-      "statement": "¿Qué organelo celular es responsable directo de la síntesis de lípidos de membrana y detoxificación de fármacos?",
-      "context": "En la clase práctica del Liceo N° 5 en Maldonado, Gastón y sus compañeros debaten sobre la síntesis y exportación de lípidos.",
+      "statement": "Cual es la funcion principal del aparato de Golgi en esas celulas?",
+      "context": "Para el proyecto final de ciencias en el Liceo N. 5 de Montevideo, Agustin estudia el aparato de Golgi en celulas secretoras de suero de la leche.",
       "options": [
         {
           "letter": "C",
-          "text": "El retículo endoplasmático liso (REL).",
+          "text": "Modificar, clasificar y envolver en vesiculas las proteinas que llegan del reticulo endoplasmatico.",
           "is_correct": true,
-          "feedback": "Correcto. El REL carece de ribosomas y se especializa en la biosíntesis de fosfolípidos, colesterol y hormonas esteroideas."
+          "feedback": "Correcto. El Golgi recibe las proteinas del reticulo rugoso, modifica sus cadenas de oligosacaridos, las ordena por destino y las envuelve en vesiculas de secrecion."
         },
         {
           "letter": "A",
-          "text": "El retículo endoplasmático rugoso (RER).",
+          "text": "Sintetizar las proteinas a partir de la informacion del ARN mensajero.",
           "is_correct": false,
-          "feedback": "Incorrecto. El RER se encarga principalmente de la síntesis y plegamiento de proteínas de exportación o membrana."
+          "feedback": "Incorrecto. Esa es la funcion de los ribosomas, y no la de Golgi, que interviene despues de la sintesis proteica."
         },
         {
           "letter": "B",
-          "text": "El aparato de Golgi con sus cisternas aplanadas.",
+          "text": "Oxidar las proteinas para almacenar energia en forma de ATP.",
           "is_correct": false,
-          "feedback": "Incorrecto. El Golgi empaqueta, clasifica y distribuye macromoléculas, modificándolas covalentemente."
+          "feedback": "Incorrecto. La oxidacion de nutrientes ocurre en la mitocondria, mientras que el Golgi no participa en el metabolismo energetico."
         },
         {
           "letter": "D",
-          "text": "Los ribosomas libres asociados a microtúbulos.",
+          "text": "Duplicar el ADN antes de la division celular.",
           "is_correct": false,
-          "feedback": "Incorrecto. Los ribosomas se dedican exclusivamente a la síntesis de cadenas polipeptídicas de proteínas."
+          "feedback": "Incorrecto. La duplicacion del ADN ocurre en el nucleo durante la fase S del ciclo, y no tiene relacion con el aparato de Golgi."
         }
       ],
       "correct_answer": "C",
-      "explanation": "El retículo endoplasmático liso detoxifica xenobióticos mediante enzimas de la familia del citocromo P450, abundando en hepatocitos. En este contexto, Gastón de Maldonado determinó correctamente la respuesta correcta.\n\n---",
+      "explanation": "El Golgi funciona como una oficina de correos celular: recibe, modifica, ordena y despacha. Su organization en cisternas ordenadas de la region cis a la region trans explica por que puede realizar pasos distintos sobre el mismo producto.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -324,36 +324,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v8",
-      "statement": "¿Qué tipo de ambiente químico interno caracteriza a los lisosomas para permitir su correcto funcionamiento digestivo?",
-      "context": "Para el proyecto final de ciencias en el Liceo Piloto de Tacuarembó, Nicolás investiga acerca de los lisosomas y digestión celular.",
+      "statement": "Que ocurre con las particulas de tinta cuando la celula se expone a ese medio?",
+      "context": "En la clase practica del Liceo N. 2 de Tacuarembó, Camila coloca una celula con particulas de tinta en un medio con baja concentracion de sal.",
       "options": [
         {
-          "letter": "C",
-          "text": "Un ambiente ácido mantenido por bombas de protones activas que introducen iones H+.",
+          "letter": "D",
+          "text": "La celula las expulsa por exocitosis, liberando las particulas al exterior.",
           "is_correct": true,
-          "feedback": "Correcto. Las hidrolasas ácidas de los lisosomas requieren un pH óptimo cercano a 5.0 mantenido por bombas de protones."
+          "feedback": "Correcto. Las particulas de tinta son muy grandes para entrar por endocitosis, de modo que la celula las envuelve y las libera al exterior mediante una vesicula que se fusiona con la membrana."
         },
         {
           "letter": "A",
-          "text": "Un medio alcalino concentrado con alta saturación de cationes de sodio.",
+          "text": "La celula las incorpora por endocitosis y las digiere en los lisosomas.",
           "is_correct": false,
-          "feedback": "Incorrecto. Un medio básico desnaturaliza y desactiva las enzimas hidrolíticas lisosomales."
+          "feedback": "Incorrecto. La endocitosis incorporaria particulas solidas en vesiculas, y no es el mecanismo que actua frente a particulas de gran tamano como la tinta."
         },
         {
           "letter": "B",
-          "text": "Una solución neutra isotónica con nula actividad enzimática hidrolítica.",
+          "text": "Las particulas atraviesan la membrana por difusion simple.",
           "is_correct": false,
-          "feedback": "Incorrecto. A pH neutro celular (~7.2) las enzimas lisosomales pierden eficacia catalítica."
+          "feedback": "Incorrecto. La tinta no es una molecula pequena disuelta, y no atraviesa la bicapa lipida como lo haria el oxigeno o el dioxido de carbono."
         },
         {
-          "letter": "D",
-          "text": "Un fluido anhidro sin presencia de moléculas de agua reactivas.",
+          "letter": "C",
+          "text": "Las particulas se acumulan en el vacuolo y permanecen alli sin salir de la celula.",
           "is_correct": false,
-          "feedback": "Incorrecto. Las hidrolasas requieren agua para romper enlaces químicos covalentes mediante hidrólisis."
+          "feedback": "Incorrecto. La tinta se utiliza precisamente como trazador de la exocitosis, y su aparicion fuera de la celula demuestra que el material fue expulsado."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "El bajo pH del lisosoma actúa como sistema de protección celular: si se rompe, las hidrolasas no dañan el citosol neutro. En este contexto, Nicolás de Tacuarembó determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "D",
+      "explanation": "La exocitosis se usa para eliminar material que la celula no digiere. La tinta china es el trazador clasico porque su presencia en el medio exterior es la evidencia directa de que una vesicula se fusiono con la membrana plasmática.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,36 +369,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v9",
-      "statement": "¿En qué zona de la mitocondria ocurre el ciclo de Krebs durante la respiración celular?",
-      "context": "Mientras repasa para el examen parcial en Mercedes, Belén estudia detenidamente la respiración celular mitocondrial.",
+      "statement": "Que conjunto de organelos se encuentra en mayor cantidad en las celulas que tienen una demanda energetica elevada?",
+      "context": "Mientras repasa para el examen parcial en Paysandu, Ignacio delimits las fases del ciclo celular en un esquema.",
       "options": [
         {
-          "letter": "A",
-          "text": "En la matriz mitocondrial interna.",
+          "letter": "B",
+          "text": "Las mitocondrias, que producen el ATP que la celula necesita para su trabajo.",
           "is_correct": true,
-          "feedback": "Correcto. El ciclo de Krebs ocurre en la matriz mitocondrial gracias a enzimas solubles específicas."
+          "feedback": "Correcto. Las celulas con alta demanda energetica, como las del musculo o las del riñon, desarrollan un numeroso aparato de crestas mitocondriales que aumenta la superficie de la membrana donde se fabrica ATP."
         },
         {
-          "letter": "B",
-          "text": "En el espacio intermembrana que separa ambas bicapas.",
+          "letter": "A",
+          "text": "Los lisosomas, que degradan las moleculas que liberan la energia.",
           "is_correct": false,
-          "feedback": "Incorrecto. En esta zona se acumulan protones transitoriamente para generar el gradiente quimiosmótico."
+          "feedback": "Incorrecto. Los lisosomas degradan material, pero la liberacion de energia a partir de los nutrientes ocurre en la mitocondria."
         },
         {
           "letter": "C",
-          "text": "En las crestas formadas por la membrana mitocondrial interna.",
+          "text": "Los ribosomas, que fabrican las moleculas que luego se degradan para obtener energia.",
           "is_correct": false,
-          "feedback": "Incorrecto. En las crestas se localizan las proteínas de la cadena transportadora de electrones y la ATP sintasa."
+          "feedback": "Incorrecto. Los ribosomas sintetizan proteinas y no producen ATP, de modo que su cantidad depende de la actividad de sintesis y no de la demanda energetica."
         },
         {
           "letter": "D",
-          "text": "En la membrana mitocondrial externa permeable a iones libres.",
+          "text": "El aparato de Golgi, que separa los productos del metabolismo en compartimentos.",
           "is_correct": false,
-          "feedback": "Incorrecto. La membrana externa es una barrera semipermeable de paso de metabolitos primarios."
+          "feedback": "Incorrecto. El Golgi organiza la distribucion de productos celulares y no interviene en la produccion directa de energia."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La mitocondria aloja el ciclo de Krebs en la matriz y la cadena respiratoria en sus crestas, optimizando la síntesis de ATP. En este contexto, Belén de Mercedes determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "B",
+      "explanation": "La correlacion entre actividad celular y numero de mitocondrias se observa en el musculo esquelético y en el cardiaco. Un aumento de la demanda de ATP se compensa con mas mitocondrias y con mas crestas por mitocondria.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -414,36 +414,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál es la función del tilacoide en la ultraestructura del cloroplasto?",
-      "context": "En el taller de Ciencias Naturales en Melo, Felipe observa un modelo experimental de el cloroplasto y la fotosíntesis.",
+      "statement": "Como se distinguen un lisosoma y un peroxisoma al microscopio electronico?",
+      "context": "En el taller de Ciencias Naturales de Las Piedras, Nicolas observa un corte de celula del pancreas bajo el microscopio electronico.",
       "options": [
         {
-          "letter": "C",
-          "text": "Contener los fotosistemas y la cadena de transporte de electrones para la fase luminosa.",
-          "is_correct": true,
-          "feedback": "Correcto. La membrana del tilacoide alberga la clorofila y proteínas necesarias para convertir energía solar en química."
-        },
-        {
           "letter": "A",
-          "text": "Sintetizar la enzima Rubisco para iniciar el ciclo de Calvin fijador.",
-          "is_correct": false,
-          "feedback": "Incorrecto. El ciclo de Calvin y la síntesis de la enzima Rubisco ocurren en el estroma soluble."
+          "text": "El lisosoma muestra un contenido electronodenso y heterogeneo, mientras el peroxisoma presenta un cristal interno caracteristico.",
+          "is_correct": true,
+          "feedback": "Correcto. El lisosoma contiene hidrolasas acidas y material heterogeneo en degradacion, mientras que el peroxisoma suele mostrar un nucleoide cristalino de oxidoeperoxisoma y enzimas oxidativas."
         },
         {
           "letter": "B",
-          "text": "Almacenar el almidón de reserva resultante del metabolismo celular nocturno.",
+          "text": "Los dos se distinguen solo por su tamano, porque el peroxisoma es mucho mayor.",
           "is_correct": false,
-          "feedback": "Incorrecto. Los granos de almidón se acumulan transitoriamente en el estroma, fuera de los tilacoides."
+          "feedback": "Incorrecto. Ambos organelos tienen tamanos semejantes, de modo que la diferencia de tamano no permite separarlos."
+        },
+        {
+          "letter": "C",
+          "text": "El peroxisoma tiene doble envoltura y el lisosoma envoltura simple.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa diferencia corresponde a las mitocondrias, y tanto el lisosoma como el peroxisoma poseen envoltura simple."
         },
         {
           "letter": "D",
-          "text": "Delimitar el paso de lípidos sintetizados en el retículo liso.",
+          "text": "El lisosoma contiene clorofila y por eso aparece verde en la micrografia.",
           "is_correct": false,
-          "feedback": "Incorrecto. El cloroplasto no se encarga de regular la distribución de grasas del retículo."
+          "feedback": "Incorrecto. Los lisosomas no tienen pigmentos, y en una micrografia electronica el color se sustituye por distintos grados de gris."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La fase luminosa de la fotosíntesis ocurre en las membranas de los tilacoides, liberando oxígeno y generando NADPH y ATP. En este contexto, Felipe de Melo determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "A",
+      "explanation": "En la micrografia electronica el contraste depende de la densidad de los elementos. Los lisosomas aparecen oscuros y granulosos por su carga de material en degradacion, y los peroxisomas muestran con frecuencia un cristal proteico muy regular en su interior.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -459,36 +459,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v11",
-      "statement": "¿Qué organelo celular es responsable directo de la síntesis de lípidos de membrana y detoxificación de fármacos?",
-      "context": "Durante una actividad de laboratorio en el Liceo N° 3 de Canelones, Juana analiza la síntesis y exportación de lípidos.",
+      "statement": "Que diferencia estructural distingue al reticulo endoplasmatico rugoso del liso?",
+      "context": "En la clase practica del Liceo N. 3 de San Jose de Mayo, Valentina estudia la estructura del reticulo endoplasmatico en celulas de glandula mamaria.",
       "options": [
         {
-          "letter": "D",
-          "text": "El retículo endoplasmático liso (REL).",
-          "is_correct": true,
-          "feedback": "Correcto. El REL carece de ribosomas y se especializa en la biosíntesis de fosfolípidos, colesterol y hormonas esteroideas."
-        },
-        {
           "letter": "A",
-          "text": "El retículo endoplasmático rugoso (RER).",
-          "is_correct": false,
-          "feedback": "Incorrecto. El RER se encarga principalmente de la síntesis y plegamiento de proteínas de exportación o membrana."
+          "text": "El rugoso presenta ribosomas adheridos a su cara citoplasmatica y el liso carece de ellos.",
+          "is_correct": true,
+          "feedback": "Correcto. Los ribosomas que se ven sobre el reticulo rugoso son la razon de su nombre, y esa diferencia se relaciona con su funcion en la sintesis y el procesamiento de proteinas."
         },
         {
           "letter": "B",
-          "text": "El aparato de Golgi con sus cisternas aplanadas.",
+          "text": "El rugoso carece de membrana y el liso esta formado por varias membranas.",
           "is_correct": false,
-          "feedback": "Incorrecto. El Golgi empaqueta, clasifica y distribuye macromoléculas, modificándolas covalentemente."
+          "feedback": "Incorrecto. Ambos son sistemas de membranas, y la diferencia no esta en la presencia o ausencia de membrana."
         },
         {
           "letter": "C",
-          "text": "Los ribosomas libres asociados a microtúbulos.",
+          "text": "El rugoso solo se encuentra en celulas animales y el liso unicamente en las vegetales.",
           "is_correct": false,
-          "feedback": "Incorrecto. Los ribosomas se dedican exclusivamente a la síntesis de cadenas polipeptídicas de proteínas."
+          "feedback": "Incorrecto. Ambos se encuentran en los dos tipos de celula, aunque su desarrollo relativo varia segun la actividad celular."
+        },
+        {
+          "letter": "D",
+          "text": "El rugoso participa en la sintesis de lipidos y el liso en la de proteinas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa atribucion esta invertida, porque el reticulo liso interviene en la sintesis de lipidos y el rugoso en la de proteinas."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "El retículo endoplasmático liso detoxifica xenobióticos mediante enzimas de la familia del citocromo P450, abundando en hepatocitos. En este contexto, Juana de Canelones determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "A",
+      "explanation": "La misma forma de las membranas se asocia a dos funciones muy distintas. Los ribosomas adheridos convierten al reticulo rugoso en el sitio de la sintesis de proteinas de secrecion y de membrana, mientras el reticulo liso trabaja con lipidos y calcio.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -504,36 +504,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v12",
-      "statement": "¿Qué tipo de ambiente químico interno caracteriza a los lisosomas para permitir su correcto funcionamiento digestivo?",
-      "context": "En la clase práctica del Liceo N° 4 en Montevideo, Ignacio y sus compañeros debaten sobre los lisosomas y digestión celular.",
+      "statement": "Por que se considera que los peroxisomas son organelos de detoxificacion?",
+      "context": "Para el proyecto final de ciencias en el Liceo N. 1 Departamental de Punta del Este, Belen investiga el papel de los peroxisomas en las celulas del higado.",
       "options": [
         {
-          "letter": "D",
-          "text": "Un ambiente ácido mantenido por bombas de protones activas que introducen iones H+.",
+          "letter": "C",
+          "text": "Porque sus enzimas oxidantes degradan sustancias toxicas, como el etanol y el acido urico.",
           "is_correct": true,
-          "feedback": "Correcto. Las hidrolasas ácidas de los lisosomas requieren un pH óptimo cercano a 5.0 mantenido por bombas de protones."
+          "feedback": "Correcto. Los peroxisomas contienen oxidasas que rompen moleculas toxicas en productos mas simples, y la catalasa descompone luego el peroxido de hidrogeno que esas reacciones generan."
         },
         {
           "letter": "A",
-          "text": "Un medio alcalino concentrado con alta saturación de cationes de sodio.",
+          "text": "Porque acumulan lipidos y los liberan cuando la celula necesita energia inmediata.",
           "is_correct": false,
-          "feedback": "Incorrecto. Un medio básico desnaturaliza y desactiva las enzimas hidrolíticas lisosomales."
+          "feedback": "Incorrecto. El almacenamiento y la liberacion de lipidos corresponde a los adipositos y a la gota lipidica, y no es la funcion del peroxisoma."
         },
         {
           "letter": "B",
-          "text": "Una solución neutra isotónica con nula actividad enzimática hidrolítica.",
+          "text": "Porque producen ATP a partir de la oxidacion de los nutrientes.",
           "is_correct": false,
-          "feedback": "Incorrecto. A pH neutro celular (~7.2) las enzimas lisosomales pierden eficacia catalítica."
+          "feedback": "Incorrecto. La fabricacion de ATP por oxidacion ocurre en la mitocondria, y el peroxisoma no posee cadena respiratoria propia."
         },
         {
-          "letter": "C",
-          "text": "Un fluido anhidro sin presencia de moléculas de agua reactivas.",
+          "letter": "D",
+          "text": "Porque digieren los materiales que entran por endocitosis.",
           "is_correct": false,
-          "feedback": "Incorrecto. Las hidrolasas requieren agua para romper enlaces químicos covalentes mediante hidrólisis."
+          "feedback": "Incorrecto. La digestion del material fagocitado corresponde a los lisosomas, mientras que el peroxisoma trabaja sobre moleculas solubles del propio citoplasma."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "El bajo pH del lisosoma actúa como sistema de protección celular: si se rompe, las hidrolasas no dañan el citosol neutro. En este contexto, Ignacio de Montevideo determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "C",
+      "explanation": "Los peroxisomas se encuentran en el citoplasma y reaccionan con moleculas de pequeno tamano. Su funcion oxidante es util porque no consume oxigeno de forma directa y no genera radicales libres en exceso, a diferencia de la mitocondria.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -549,36 +549,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v13",
-      "statement": "¿En qué zona de la mitocondria ocurre el ciclo de Krebs durante la respiración celular?",
-      "context": "Para el proyecto final de ciencias en el Liceo N° 5 de Maldonado, Paula investiga acerca de la respiración celular mitocondrial.",
+      "statement": "Como se llama el proceso por el que una vesicula del Golgi se fusiona con la membrana plasmática y libera su contenido al exterior?",
+      "context": "En el Liceo Piloto de Florida, Diego analiza un esquema del aparato de Golgi y sus vesiculas asociadas.",
       "options": [
         {
-          "letter": "B",
-          "text": "En la matriz mitocondrial interna.",
+          "letter": "A",
+          "text": "Exocitosis, porque la vesícula se une a la membrana y libera su contenido fuera de la celula.",
           "is_correct": true,
-          "feedback": "Correcto. El ciclo de Krebs ocurre en la matriz mitocondrial gracias a enzimas solubles específicas."
+          "feedback": "Correcto. La exocitosis es la via por la que la celula exporta sustancias, y en ella la membrana de la vesícula se incorpora a la membrana plasmática al fusionarse con ella."
         },
         {
-          "letter": "A",
-          "text": "En el espacio intermembrana que separa ambas bicapas.",
+          "letter": "B",
+          "text": "Endocitosis, porque la celula incorpora material del exterior.",
           "is_correct": false,
-          "feedback": "Incorrecto. En esta zona se acumulan protones transitoriamente para generar el gradiente quimiosmótico."
+          "feedback": "Incorrecto. La endocitosis es el proceso contrario, en el que la membrana invagina y forma vesiculas hacia el interior de la celula."
         },
         {
           "letter": "C",
-          "text": "En las crestas formadas por la membrana mitocondrial interna.",
+          "text": "Difusion facilitada, porque las sustancias atraviesan la membrana por proteinas transportadoras.",
           "is_correct": false,
-          "feedback": "Incorrecto. En las crestas se localizan las proteínas de la cadena transportadora de electrones y la ATP sintasa."
+          "feedback": "Incorrecto. La diffusion facilitada mueve moleculas pequenas a traves de la membrana, y no implica la fusion de una vesicula con ella."
         },
         {
           "letter": "D",
-          "text": "En la membrana mitocondrial externa permeable a iones libres.",
+          "text": "Osmosis, porque el agua entra en la celula por el canal de acuaporina.",
           "is_correct": false,
-          "feedback": "Incorrecto. La membrana externa es una barrera semipermeable de paso de metabolitos primarios."
+          "feedback": "Incorrecto. La osmosis es el paso de agua a traves de la membrana, y no tiene relacion con la liberacion de contenido desde una vesícula."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La mitocondria aloja el ciclo de Krebs en la matriz y la cadena respiratoria en sus crestas, optimizando la síntesis de ATP. En este contexto, Paula de Maldonado determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "A",
+      "explanation": "La polaridad del Golgi se refleja en la direccion del transporte. Las vesiculas que parten de la region trans llevan material a la membrana plasmática, y su fusion es el ultimo paso de la exocitosis.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -594,36 +594,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v14",
-      "statement": "¿Cuál es la función del tilacoide en la ultraestructura del cloroplasto?",
-      "context": "Mientras repasa para el examen parcial en Tacuarembó, Diego estudia detenidamente el cloroplasto y la fotosíntesis.",
+      "statement": "Que organelo es responsable de mantener el potencial de membrana de la neurona mediante el bombeo de iones?",
+      "context": "Durante una actividad de laboratorio en el Liceo N. 4 de Las Piedras, Florencia mide el potencial de membrana de una neurona en reposo.",
       "options": [
         {
           "letter": "B",
-          "text": "Contener los fotosistemas y la cadena de transporte de electrones para la fase luminosa.",
+          "text": "La mitocondria, que aporta la energia que impulsa la bomba de sodio y potasio.",
           "is_correct": true,
-          "feedback": "Correcto. La membrana del tilacoide alberga la clorofila y proteínas necesarias para convertir energía solar en química."
+          "feedback": "Correcto. La bomba de sodio y potasio es una proteina de membrana que consume ATP, y ese ATP procede de la fosforilacion oxidativa que ocurre en la mitocondria."
         },
         {
           "letter": "A",
-          "text": "Sintetizar la enzima Rubisco para iniciar el ciclo de Calvin fijador.",
+          "text": "El reticulo endoplasmatico liso, que genera directamente los iones que atraviesan la membrana.",
           "is_correct": false,
-          "feedback": "Incorrecto. El ciclo de Calvin y la síntesis de la enzima Rubisco ocurren en el estroma soluble."
+          "feedback": "Incorrecto. El reticulo liso regula las concentraciones de calcio y sintetiza lipidos, pero no genera el gradiente ionico de la neurona."
         },
         {
           "letter": "C",
-          "text": "Almacenar el almidón de reserva resultante del metabolismo celular nocturno.",
+          "text": "El lisosoma, que acumula iones para liberarlos luego a traves de la membrana.",
           "is_correct": false,
-          "feedback": "Incorrecto. Los granos de almidón se acumulan transitoriamente en el estroma, fuera de los tilacoides."
+          "feedback": "Incorrecto. El lisosoma contiene hidrolasas acidas y no participa en el mantenimiento del potencial de membrana."
         },
         {
           "letter": "D",
-          "text": "Delimitar el paso de lípidos sintetizados en el retículo liso.",
+          "text": "El aparato de Golgi, que distribuye las proteinas de canal entre la membrana y el citoplasma.",
           "is_correct": false,
-          "feedback": "Incorrecto. El cloroplasto no se encarga de regular la distribución de grasas del retículo."
+          "feedback": "Incorrecto. El Golgi moviliza proteinas de membrana, pero el potencial se mantiene por el bombeo de la bomba de sodio y potasio con ATP mitocondrial."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La fase luminosa de la fotosíntesis ocurre en las membranas de los tilacoides, liberando oxígeno y generando NADPH y ATP. En este contexto, Diego de Tacuarembó determinó correctamente la respuesta correcta.\n\n---",
+      "explanation": "La mitocondria ocupa una posicion central en la bioenergetica celular. Aunque no forma el potencial directamente, su funcion es supplying el ATP que la bomba consume para manter las concentraciones ionicas desiguales entre dentro y fuera.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -639,36 +639,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v15",
-      "statement": "¿Qué organelo celular es responsable directo de la síntesis de lípidos de membrana y detoxificación de fármacos?",
-      "context": "En el taller de Ciencias Naturales en Mercedes, Clara observa un modelo experimental de la síntesis y exportación de lípidos.",
+      "statement": "Que relacion existe entre el reticulo endoplasmatico rugoso y el ribosoma en la sintesis de proteinas?",
+      "context": "En el Liceo N. 5 de Montevideo, Agustin sigue la ruta de una proteina marcada desde el reticulo hasta la secrecion.",
       "options": [
         {
-          "letter": "D",
-          "text": "El retículo endoplasmático liso (REL).",
+          "letter": "C",
+          "text": "Los ribosomas se adhieren a la cara citoplasmatica del reticulo y fabrican las proteinas que pasan a su luz.",
           "is_correct": true,
-          "feedback": "Correcto. El REL carece de ribosomas y se especializa en la biosíntesis de fosfolípidos, colesterol y hormonas esteroideas."
+          "feedback": "Correcto. Los ribosomas adheridos traducen el ARN mensajero mientras la cadena proteica creciente atraviesa la membrana hacia la luz del reticulo, donde se pliega y se modifica."
         },
         {
           "letter": "A",
-          "text": "El retículo endoplasmático rugoso (RER).",
+          "text": "El reticulo endoplasmatico produce el ARN mensajero y el ribosoma lo translate.",
           "is_correct": false,
-          "feedback": "Incorrecto. El RER se encarga principalmente de la síntesis y plegamiento de proteínas de exportación o membrana."
+          "feedback": "Incorrecto. El ARN mensajero se sintetiza en el nucleo, y en el reticulo rugoso los ribosomas son los que realizan la traduccion."
         },
         {
           "letter": "B",
-          "text": "El aparato de Golgi con sus cisternas aplanadas.",
+          "text": "El ribosoma fabrica los lipidos de la membrana del reticulo y no proteínas.",
           "is_correct": false,
-          "feedback": "Incorrecto. El Golgi empaqueta, clasifica y distribuye macromoléculas, modificándolas covalentemente."
+          "feedback": "Incorrecto. Los ribosomas sintetizan cadenas polipeptidicas y no lipidos; la sintesis de lipidos corresponde al reticulo liso."
         },
         {
-          "letter": "C",
-          "text": "Los ribosomas libres asociados a microtúbulos.",
+          "letter": "D",
+          "text": "Ambos son independientes y no participan en la sintesis de proteinas.",
           "is_correct": false,
-          "feedback": "Incorrecto. Los ribosomas se dedican exclusivamente a la síntesis de cadenas polipeptídicas de proteínas."
+          "feedback": "Incorrecto. Los ribosomas del reticulo rugoso son precisamente la maquinaria que fabrica las proteinas que luego se modifican y exportan."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "El retículo endoplasmático liso detoxifica xenobióticos mediante enzimas de la familia del citocromo P450, abundando en hepatocitos. En este contexto, Clara de Mercedes determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "C",
+      "explanation": "La asociacion entre ribosoma y reticulo rugoso es la base de la via secretora. La cadena proteica se fabrica en el ribosoma y atraviesa la membrana del reticulo para entrar en su luz, donde se pliega y recibe sus primeras modificaciones.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -684,36 +684,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v16",
-      "statement": "¿Qué tipo de ambiente químico interno caracteriza a los lisosomas para permitir su correcto funcionamiento digestivo?",
-      "context": "Durante una actividad de laboratorio en el Liceo N° 2 de Melo, Agustín analiza los lisosomas y digestión celular.",
+      "statement": "Que disposicion de las miofibrilas y de las mitocondrias explica la alta resistencia a la fatiga de las fibras lentas?",
+      "context": "En el taller de Ciencias Naturales de Canelones, Paula observa un corte de muscle esquelético con microscopio electronico.",
       "options": [
         {
-          "letter": "C",
-          "text": "Un ambiente ácido mantenido por bombas de protones activas que introducen iones H+.",
+          "letter": "B",
+          "text": "Numerosas mitocondrias con crestas muy destacadas situadas entre las miofibrilas.",
           "is_correct": true,
-          "feedback": "Correcto. Las hidrolasas ácidas de los lisosomas requieren un pH óptimo cercano a 5.0 mantenido por bombas de protones."
+          "feedback": "Correcto. Las fibras de contraccion lenta contienen muchas mitocondrias de gran tamano con crestas desarrolladas y entre ellas fosfato de creatina, lo que sostiene la produccion de ATP durante el ejercicio sostenido."
         },
         {
           "letter": "A",
-          "text": "Un medio alcalino concentrado con alta saturación de cationes de sodio.",
+          "text": "Pocas mitocondrias y un deposito abundante de glucogeno.",
           "is_correct": false,
-          "feedback": "Incorrecto. Un medio básico desnaturaliza y desactiva las enzimas hidrolíticas lisosomales."
+          "feedback": "Incorrecto. El glucogeno es una reserva de glucosa y no explica la capacidad de sostener la contraccion durante mucho tiempo sin pausa."
         },
         {
-          "letter": "B",
-          "text": "Una solución neutra isotónica con nula actividad enzimática hidrolítica.",
+          "letter": "C",
+          "text": "Numerosos lisosomas que degradan glucogeno de forma continua.",
           "is_correct": false,
-          "feedback": "Incorrecto. A pH neutro celular (~7.2) las enzimas lisosomales pierden eficacia catalítica."
+          "feedback": "Incorrecto. Los lisosomas degradan material y no sintetizan ATP, de modo que no explican una mayor resistencia a la fatiga muscular."
         },
         {
           "letter": "D",
-          "text": "Un fluido anhidro sin presencia de moléculas de agua reactivas.",
+          "text": "Ausencia total de miofibrilas y presencia de fibras de material amorfo.",
           "is_correct": false,
-          "feedback": "Incorrecto. Las hidrolasas requieren agua para romper enlaces químicos covalentes mediante hidrólisis."
+          "feedback": "Incorrecto. Las miofibrilas son la estructura contráctil del musculo y no pueden faltar, y ninguna disposicion de ellas explica por si sola la fatiga."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "El bajo pH del lisosoma actúa como sistema de protección celular: si se rompe, las hidrolasas no dañan el citosol neutro. En este contexto, Agustín de Melo determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "B",
+      "explanation": "La ultraestructura de las fibras musculares explica su funcionamiento. Las miofibrilas alineadas producen la fuerza y las mitocondrias situadas entre ellas suministran el ATP, de modo que ambas estructuras son inseparables en la explicacion de la resistencia muscular.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -729,36 +729,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v17",
-      "statement": "¿En qué zona de la mitocondria ocurre el ciclo de Krebs durante la respiración celular?",
-      "context": "En la clase práctica del Liceo N° 3 en Canelones, Sebastián y sus compañeros debaten sobre la respiración celular mitocondrial.",
+      "statement": "Que resultado esperaria si una celula recibe una proteina marcada con un azucar distinto al que ya tiene en su superficie?",
+      "context": "En la clase practica del Liceo N. 2 de Canelones, Nicolas investiga el aparato de Golgi con una sustancia que reacciona con azucares.",
       "options": [
         {
-          "letter": "B",
-          "text": "En la matriz mitocondrial interna.",
+          "letter": "A",
+          "text": "La proteina pasara por el Golgi, donde su cadena de azucares sera modificada mediante un proceso de glucosilacion.",
           "is_correct": true,
-          "feedback": "Correcto. El ciclo de Krebs ocurre en la matriz mitocondrial gracias a enzimas solubles específicas."
+          "feedback": "Correcto. El Golgi modifica las cadenas de oligosacaridos de las proteinas, y ese proceso se llama glucosilacion y determina su destino dentro de la celula y su reconocimiento por el sistema inmunitario."
         },
         {
-          "letter": "A",
-          "text": "En el espacio intermembrana que separa ambas bicapas.",
+          "letter": "B",
+          "text": "La proteina se degradara en el lisosoma antes de alcanzar el Golgi.",
           "is_correct": false,
-          "feedback": "Incorrecto. En esta zona se acumulan protones transitoriamente para generar el gradiente quimiosmótico."
+          "feedback": "Incorrecto. La degradacion en lisosomas ocurre con material fagocitado o con proteinas ya marcadas para su destruccion, y no con toda proteina que pasa por el Golgi."
         },
         {
           "letter": "C",
-          "text": "En las crestas formadas por la membrana mitocondrial interna.",
+          "text": "La proteina saldra de la celula sin modificar, porque el Golgi solo clasifica y no modifica.",
           "is_correct": false,
-          "feedback": "Incorrecto. En las crestas se localizan las proteínas de la cadena transportadora de electrones y la ATP sintasa."
+          "feedback": "Incorrecto. El Golgi realiza ambas funciones: modifica las cadenas de azucares y ademas ordena y distribuye las proteinas segun su destino."
         },
         {
           "letter": "D",
-          "text": "En la membrana mitocondrial externa permeable a iones libres.",
+          "text": "La proteina quedara retenida en el reticulo endoplasmatico sin llegar al Golgi.",
           "is_correct": false,
-          "feedback": "Incorrecto. La membrana externa es una barrera semipermeable de paso de metabolitos primarios."
+          "feedback": "Incorrecto. Las proteinas que superan el control de calidad del reticulo salen de el y llegan al Golgi, donde reciben la modificacion de sus azucares."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La mitocondria aloja el ciclo de Krebs en la matriz y la cadena respiratoria en sus crestas, optimizando la síntesis de ATP. En este contexto, Sebastián de Canelones determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "A",
+      "explanation": "El Golgi funciona como una estacion de modificacion postsintetica. La adiccion de azucares a las proteinas funciona como una etiqueta de destino, de modo que una proteina glucosilada puede ir a la membrana, al lisosoma o a la secrecion.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -774,36 +774,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v18",
-      "statement": "¿Cuál es la función del tilacoide en la ultraestructura del cloroplasto?",
-      "context": "Para el proyecto final de ciencias en el Liceo N° 4 de Montevideo, Valentina investiga acerca de el cloroplasto y la fotosíntesis.",
+      "statement": "Que organelo desensambla y recicla los componentes internos que la celula ya no necesita?",
+      "context": "Mientras repasa para el examen parcial en Minas, Ignacio prepara un informe sobre las funciones de los organelos.",
       "options": [
         {
-          "letter": "B",
-          "text": "Contener los fotosistemas y la cadena de transporte de electrones para la fase luminosa.",
+          "letter": "D",
+          "text": "El lisosoma, que contiene hidrolasas acidas que degradan macromoleculas y organelos viejos.",
           "is_correct": true,
-          "feedback": "Correcto. La membrana del tilacoide alberga la clorofila y proteínas necesarias para convertir energía solar en química."
+          "feedback": "Correcto. El lisosoma es el organelo de la digestion intracelular y sus enzimas degradan desde Inbound proteinas hasta organelos enteros mediante autofagia."
         },
         {
           "letter": "A",
-          "text": "Sintetizar la enzima Rubisco para iniciar el ciclo de Calvin fijador.",
+          "text": "El reticulo endoplasmatico rugoso, que desdobla las proteinas en sus aminoacidos.",
           "is_correct": false,
-          "feedback": "Incorrecto. El ciclo de Calvin y la síntesis de la enzima Rubisco ocurren en el estroma soluble."
+          "feedback": "Incorrecto. El reticulo rugoso sintetiza proteinas y participa en su plegamiento, y no contiene enzimas que degraden macromoleculas completas."
+        },
+        {
+          "letter": "B",
+          "text": "El aparato de Golgi, que separa los componentes para separarlos y exportarlos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Golgi modifica, ordena y envuelve productos, pero no los degrada ni los recicla dentro de la celula."
         },
         {
           "letter": "C",
-          "text": "Almacenar el almidón de reserva resultante del metabolismo celular nocturno.",
+          "text": "El peroxisoma, que oxida moleculas para liberar energia en forma de ATP.",
           "is_correct": false,
-          "feedback": "Incorrecto. Los granos de almidón se acumulan transitoriamente en el estroma, fuera de los tilacoides."
-        },
-        {
-          "letter": "D",
-          "text": "Delimitar el paso de lípidos sintetizados en el retículo liso.",
-          "is_correct": false,
-          "feedback": "Incorrecto. El cloroplasto no se encarga de regular la distribución de grasas del retículo."
+          "feedback": "Incorrecto. El peroxisoma oxida sustancias con riesgo de liberar energia termica y no realiza la degradacion de macromoleculas y organelos."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La fase luminosa de la fotosíntesis ocurre en las membranas de los tilacoides, liberando oxígeno y generando NADPH y ATP. En este contexto, Valentina de Montevideo determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "D",
+      "explanation": "El sistema endomembranoso integra la degradacion al mismo circuito que la sintesis. Las proteinas y los organelos que dejan de ser utiles llegan al lisosoma, y sus componentes vuelven al citoplasma para reutilizarse.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -819,36 +819,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v19",
-      "statement": "¿Qué organelo celular es responsable directo de la síntesis de lípidos de membrana y detoxificación de fármacos?",
-      "context": "Mientras repasa para el examen parcial en Maldonado, Santiago estudia detenidamente la síntesis y exportación de lípidos.",
+      "statement": "Que criterio distingue mejor a un orgánulo de una inclusion celular?",
+      "context": "En la discusion final del proyecto en el Liceo N. 4 de Rocha, Camila compara dos imagenes de organelos obtenidas con distinta tecnica.",
       "options": [
         {
-          "letter": "A",
-          "text": "El retículo endoplasmático liso (REL).",
-          "is_correct": true,
-          "feedback": "Correcto. El REL carece de ribosomas y se especializa en la biosíntesis de fosfolípidos, colesterol y hormonas esteroideas."
-        },
-        {
           "letter": "B",
-          "text": "El retículo endoplasmático rugoso (RER).",
-          "is_correct": false,
-          "feedback": "Incorrecto. El RER se encarga principalmente de la síntesis y plegamiento de proteínas de exportación o membrana."
+          "text": "El organelo esta delimitado por una membrana propia y la inclusion no lo esta.",
+          "is_correct": true,
+          "feedback": "Correcto. Los organelos son estructuras con membrana que cumplen una funcion definida y estructurada, mientras que las inclusiones son acumulaciones de sustancias sin envoltura membranosa."
         },
         {
           "letter": "C",
-          "text": "El aparato de Golgi con sus cisternas aplanadas.",
+          "text": "El organelo siempre presenta ribosomas en su superficie y la inclusion nunca.",
           "is_correct": false,
-          "feedback": "Incorrecto. El Golgi empaqueta, clasifica y distribuye macromoléculas, modificándolas covalentemente."
+          "feedback": "Incorrecto. Solo el reticulo endoplasmatico rugoso tiene ribosomas adheridos, y esa caracteristica no se extiende a los demas organelos."
         },
         {
           "letter": "D",
-          "text": "Los ribosomas libres asociados a microtúbulos.",
+          "text": "El organelo se puede observar al microscopio optico y la inclusion solo al electronico.",
           "is_correct": false,
-          "feedback": "Incorrecto. Los ribosomas se dedican exclusivamente a la síntesis de cadenas polipeptídicas de proteínas."
+          "feedback": "Incorrecto. Las grandes inclusiones como las gotas lipidicas se ven al microscopio optico, y algunos organelos menores solo se observan con microscopia electronica."
+        },
+        {
+          "letter": "A",
+          "text": "El organelo se encuentra solo en celulas animales y la inclusion solo en las vegetales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tipos de estructura se encuentran en los dos modelos celulares, y su distribucion depende de la actividad de la celula, no de su procariotismo."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "El retículo endoplasmático liso detoxifica xenobióticos mediante enzimas de la familia del citocromo P450, abundando en hepatocitos. En este contexto, Santiago de Maldonado determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "B",
+      "explanation": "El criterio de la envoltura membranosa ordena la complejidad interna de la celula eucariota. Los organelos forman parte de su maquinaria bioquimica, mientras que las inclusiones son reservas o acumulaciones de metabolismo, como las gotas lipidicas o los gránulos de glucógeno.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W03-tema-w03-001-MASTERY-bundle-v20",
-      "statement": "¿Qué tipo de ambiente químico interno caracteriza a los lisosomas para permitir su correcto funcionamiento digestivo?",
-      "context": "En el taller de Ciencias Naturales en Tacuarembó, Florencia observa un modelo experimental de los lisosomas y digestión celular.",
+      "statement": "Cual es la secuencia correcta que recorre una proteina de secrecion desde su sintesis hasta su liberacion?",
+      "context": "En la evaluacion final del Liceo N. 1 Departamental de Artigas, Valentina redacta la conclusion sobre el transporte de proteinas en la celula.",
       "options": [
         {
           "letter": "C",
-          "text": "Un ambiente ácido mantenido por bombas de protones activas que introducen iones H+.",
+          "text": "Ribosoma del reticulo rugoso, luz del reticulo, aparato de Golgi, vesicula, membrana plasmatica.",
           "is_correct": true,
-          "feedback": "Correcto. Las hidrolasas ácidas de los lisosomas requieren un pH óptimo cercano a 5.0 mantenido por bombas de protones."
+          "feedback": "Correcto. La proteina se fabrica en el ribosoma adherido, atraviesa la membrana del reticulo, se modifica en el Golgi y viaja en una vesicula que se fusiona con la membrana para ser liberada por exocitosis."
         },
         {
           "letter": "A",
-          "text": "Un medio alcalino concentrado con alta saturación de cationes de sodio.",
+          "text": "Aparato de Golgi, ribosoma del reticulo rugoso, membrana plasmatica, luz del reticulo.",
           "is_correct": false,
-          "feedback": "Incorrecto. Un medio básico desnaturaliza y desactiva las enzimas hidrolíticas lisosomales."
+          "feedback": "Incorrecto. El Golgi actua despues de que la proteina ha sido sintetizada y ha entrado en el reticulo, de modo que los dos primeros pasos estan intercambiados."
         },
         {
           "letter": "B",
-          "text": "Una solución neutra isotónica con nula actividad enzimática hidrolítica.",
+          "text": "Membrana plasmatica, ribosoma del reticulo rugoso, aparato de Golgi, luz del reticulo.",
           "is_correct": false,
-          "feedback": "Incorrecto. A pH neutro celular (~7.2) las enzimas lisosomales pierden eficacia catalítica."
+          "feedback": "Incorrecto. La membrana plasmatica es el punto final del recorrido y no el inicial, porque alli ocurre la liberacion y no la sintesis."
         },
         {
           "letter": "D",
-          "text": "Un fluido anhidro sin presencia de moléculas de agua reactivas.",
+          "text": "Luz del reticulo, ribosoma del reticulo rugoso, aparato de Golgi, membrana plasmatica.",
           "is_correct": false,
-          "feedback": "Incorrecto. Las hidrolasas requieren agua para romper enlaces químicos covalentes mediante hidrólisis."
+          "feedback": "Incorrecto. La sintesis ocurre en el ribosoma y el producto entra despues en la luz del reticulo, de modo que los dos primeros pasos estan invertidos."
         }
       ],
       "correct_answer": "C",
-      "explanation": "El bajo pH del lisosoma actúa como sistema de protección celular: si se rompe, las hidrolasas no dañan el citosol neutro. En este contexto, Florencia de Tacuarembó determinó correctamente la respuesta correcta.",
+      "explanation": "La via secretora respeta la secuencia ribosoma, reticulo, Golgi y membrana. Recordarla como un circuito ordenado ayuda a explicar por que un bloqueo en cualquiera de esas etapas acumula proteinas sin procesar en el organelo anterior.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

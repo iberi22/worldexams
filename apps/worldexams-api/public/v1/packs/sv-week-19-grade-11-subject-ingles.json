@@ -9,36 +9,126 @@
   "questions": [
     {
       "id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v1",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Choose the correct preposition: 'The keys are ___ the drawer.'",
+      "context": "A description of a kitchen in a language class in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! The subject of the sentence is 'I', and in the continuous form 'I' is always followed by 'am'."
-        },
-        {
           "letter": "A",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, as in 'he is reading', so it does not fit 'I'."
+          "text": "in",
+          "is_correct": true,
+          "feedback": "'In the drawer' places the keys inside the container named by 'drawer'."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "on",
           "is_correct": false,
-          "feedback": "'are' goes with you, we, they and plural nouns, so 'I are reading' is not grammatical."
+          "feedback": "'On' describes a surface: the keys would be on top of the drawer, not inside it."
+        },
+        {
+          "letter": "C",
+          "text": "at",
+          "is_correct": false,
+          "feedback": "'At' names a point or a place such as 'at the door', not the interior of a container."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "under",
           "is_correct": false,
-          "feedback": "'be' is the base form used after modals and in the infinitive; the continuous here needs the finite 'am'."
+          "feedback": "'Under' describes a position below something, which the sentence does not suggest."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'In' describes something inside a container that is part of a larger space, such as keys inside a drawer.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.85,
+      "bundle_id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v2",
+      "statement": "Choose the correct preposition: 'She is waiting ___ the bus stop.'",
+      "context": "A morning scene described in an English class in San Salvador, SV.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "'In' describes the interior of a container or a bounded area, which a bus stop is not."
+        },
+        {
+          "letter": "B",
+          "text": "at",
+          "is_correct": true,
+          "feedback": "'At the bus stop' names the exact point where she waits."
+        },
+        {
+          "letter": "C",
+          "text": "under",
+          "is_correct": false,
+          "feedback": "'Under' would place her below the bus stop, which the sentence does not say."
+        },
+        {
+          "letter": "D",
+          "text": "between",
+          "is_correct": false,
+          "feedback": "'Between' requires two things being separated, and only one location is named."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'At' is used with a specific point or location where someone waits, and a bus stop is such a point.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.85,
+      "bundle_id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v3",
+      "statement": "Complete the sentence: 'The cat is hiding ___ the bed.'",
+      "context": "A description of a pet in a school in San Salvador, SV.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "between",
+          "is_correct": false,
+          "feedback": "'Between' needs two objects with the cat in the middle, and only the bed is named."
+        },
+        {
+          "letter": "B",
+          "text": "beside",
+          "is_correct": false,
+          "feedback": "'Beside' means at the side of the bed, not below it, so the meaning would change."
+        },
+        {
+          "letter": "C",
+          "text": "under",
+          "is_correct": true,
+          "feedback": "'Under the bed' puts the cat below the bed, matching the idea of hiding."
+        },
+        {
+          "letter": "D",
+          "text": "above",
+          "is_correct": false,
+          "feedback": "'Above' would place the cat on top of the bed, which is the opposite position."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "explanation": "Hiding under a piece of furniture places the cat below the bed, which is exactly what 'under' expresses.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -53,41 +143,41 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v2",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in San Salvador, SV.",
+      "id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v4",
+      "statement": "Choose the correct sentence.",
+      "context": "An exercise on prepositions of place in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means well-meaning, kindly and generous towards other people."
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "The library is between the school and the park and the museum.",
           "is_correct": false,
-          "feedback": "that is the exact opposite of benevolent, which is a quality of kindness."
+          "feedback": "'Between' joins two items, so adding a third one breaks the structure."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "The library is in the school and the park.",
           "is_correct": false,
-          "feedback": "that describes speed, while 'benevolent' refers to the kind of treatment a person gives to others."
+          "feedback": "'In' does not express a middle position between two separate places."
+        },
+        {
+          "letter": "C",
+          "text": "The library is between in the school and the park.",
+          "is_correct": false,
+          "feedback": "'Between' is followed directly by the first noun and then by 'and', not by 'in'."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
-          "is_correct": false,
-          "feedback": "that describes laziness and slowness; 'benevolent' means kindly and generous, not idle."
+          "text": "The library is between the school and the park.",
+          "is_correct": true,
+          "feedback": "'Between' places the library in the middle of two named places, which is the correct use."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "correct_answer": "D",
+      "explanation": "Each preposition of place matches a different spatial relation, so only one sentence describes the position correctly.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
       "periodo": 19,
@@ -98,131 +188,41 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v3",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Santa Ana, SV.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text names the two useful jobs of bees, pollinating flowers and producing honey, so that is its main idea."
-        },
-        {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "the text never says that bees are dangerous; it describes the useful work they do for flowers."
-        },
-        {
-          "letter": "B",
-          "text": "Honey is the only product bees make",
-          "is_correct": false,
-          "feedback": "the text also mentions pollination, so honey is not presented as the only product."
-        },
-        {
-          "letter": "D",
-          "text": "Flowers don't need bees",
-          "is_correct": false,
-          "feedback": "pollination depends on bees, so the text implies that flowers do need them."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
-      "bundle_id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v4",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Mejicanos, SV.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Went' is the irregular past simple form of the verb 'go'."
-        },
-        {
-          "letter": "B",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "'goed' is not an English word; a past form is either regular or an irregular form already known."
-        },
-        {
-          "letter": "C",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have' or 'has', not the past simple form."
-        },
-        {
-          "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "'going' is the -ing form used in the continuous, not a past form at all."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
       "id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v5",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Choose the correct option: 'The money is ___ the safe.'",
+      "context": "A description of a shop in a story read in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple the third person singular of 'go' takes -es, so 'she goes' is the correct form."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "on",
           "is_correct": false,
-          "feedback": "after 'she' the verb needs the -s form, so this sentence is missing that ending."
+          "feedback": "'On' describes a surface, so 'on the safe' would mean resting on top of it."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "at",
           "is_correct": false,
-          "feedback": "'going' belongs to the continuous form, but 'every day' requires the simple present."
+          "feedback": "'At' names a point such as 'at the bank', not the interior of a container."
         },
         {
           "letter": "C",
-          "text": "She gone to school every day.",
+          "text": "into",
           "is_correct": false,
-          "feedback": "'gone' is a past participle, and the sentence describes a habit, so the simple present is needed."
+          "feedback": "'Into' shows movement from outside to inside, and the sentence describes a position."
+        },
+        {
+          "letter": "D",
+          "text": "in",
+          "is_correct": true,
+          "feedback": "'In the safe' places the money inside that secure container."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "6",
+      "explanation": "'A safe is a strong container built to keep valuables inside, so anything stored in it is described with the preposition 'in', and the other options would all change that meaning.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.85,
       "bundle_id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
       "periodo": 19,
@@ -234,41 +234,41 @@
     },
     {
       "id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v6",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "What is the difference between 'in' and 'on' for a surface?",
+      "context": "A question about prepositions in an English class in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! The subject of the sentence is 'I', and in the continuous form 'I' is always followed by 'am'."
+          "text": "They are exactly the same preposition.",
+          "is_correct": false,
+          "feedback": "They express different spatial relations and cannot be interchanged freely."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "'On' is used with verbs and 'in' with nouns.",
           "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, as in 'he is reading', so it does not fit 'I'."
+          "feedback": "Both are prepositions of place; the choice depends on the space, not on the word class."
         },
         {
           "letter": "C",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "'are' goes with you, we, they and plural nouns, so 'I are reading' is not grammatical."
+          "text": "'On' touches a surface; 'in' places something inside a space.",
+          "is_correct": true,
+          "feedback": "'On the table' is surface contact, while 'in the box' is interior position."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "'In' only works with countries and cities.",
           "is_correct": false,
-          "feedback": "'be' is the base form used after modals and in the infinitive; the continuous here needs the finite 'am'."
+          "feedback": "'In' is also used with rooms, boxes and other enclosed spaces."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "'On' describes contact with a surface, while 'in' describes something within a bounded space such as a room or a box.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -279,41 +279,41 @@
     },
     {
       "id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v7",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Choose the correct preposition: 'There is a bridge ___ the river.'",
+      "context": "A description of a landscape in an English class in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means well-meaning, kindly and generous towards other people."
+          "text": "under",
+          "is_correct": false,
+          "feedback": "'Under the river' would place the bridge below the water, which is not the case."
         },
         {
           "letter": "B",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "that is the exact opposite of benevolent, which is a quality of kindness."
+          "text": "over",
+          "is_correct": true,
+          "feedback": "'Over the river' places the bridge above the water, which matches the description."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "between",
           "is_correct": false,
-          "feedback": "that describes speed, while 'benevolent' refers to the kind of treatment a person gives to others."
+          "feedback": "'Between' needs two objects on either side, and only the river is named."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "inside",
           "is_correct": false,
-          "feedback": "that describes laziness and slowness; 'benevolent' means kindly and generous, not idle."
+          "feedback": "'Inside the river' would mean submerged, which is not what a bridge does."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "'Over' describes a position above and crossing something, which is the position of a bridge above a river.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.85,
       "bundle_id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -324,41 +324,41 @@
     },
     {
       "id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v8",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Choose the correct option: 'We are ___ the mountain.'",
+      "context": "A description of a hike in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Bees are important for pollination and honey",
+          "letter": "A",
+          "text": "on",
           "is_correct": true,
-          "feedback": "Correct! The text names the two useful jobs of bees, pollinating flowers and producing honey, so that is its main idea."
+          "feedback": "'On the mountain' places the hikers in contact with the summit surface."
         },
         {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
+          "letter": "B",
+          "text": "in",
           "is_correct": false,
-          "feedback": "the text never says that bees are dangerous; it describes the useful work they do for flowers."
+          "feedback": "'In the mountain' would suggest being inside the rock, not on top of it."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
+          "text": "under",
           "is_correct": false,
-          "feedback": "the text also mentions pollination, so honey is not presented as the only product."
+          "feedback": "'Under the mountain' would place the hikers below the summit."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "into",
           "is_correct": false,
-          "feedback": "pollination depends on bees, so the text implies that flowers do need them."
+          "feedback": "'Into' shows movement towards the interior and does not describe a static position."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "'On' describes a position in contact with a surface, and a hiker is on top of the mountain.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -369,40 +369,40 @@
     },
     {
       "id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v9",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Choose the correct preposition: 'The gloves are ___ the bed and the wardrobe.'",
+      "context": "A description of a bedroom in an English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Went' is the irregular past simple form of the verb 'go'."
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "among",
           "is_correct": false,
-          "feedback": "'goed' is not an English word; a past form is either regular or an irregular form already known."
+          "feedback": "'Among' is used for more than two items in a group, not for two named objects."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "between",
+          "is_correct": true,
+          "feedback": "'Between the bed and the wardrobe' places the gloves in the middle of two items."
+        },
+        {
+          "letter": "C",
+          "text": "behind",
           "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have' or 'has', not the past simple form."
+          "feedback": "'Behind' would place the gloves at the back of the bed only, not in the middle."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "across",
           "is_correct": false,
-          "feedback": "'going' is the -ing form used in the continuous, not a past form at all."
+          "feedback": "'Across' describes movement from one side to another, not a static middle position."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "'Between' is the preposition that places one item in the middle of two others, and the sentence names exactly two: the bed and the wardrobe.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.85,
       "bundle_id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
       "periodo": 19,
@@ -414,41 +414,41 @@
     },
     {
       "id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v10",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Choose the correct sentence about position.",
+      "context": "A test on prepositions of place in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple the third person singular of 'go' takes -es, so 'she goes' is the correct form."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "The pencil is between the notebook.",
           "is_correct": false,
-          "feedback": "after 'she' the verb needs the -s form, so this sentence is missing that ending."
+          "feedback": "'Between' requires two objects, and only the notebook is named."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "The pencil is among the notebook.",
           "is_correct": false,
-          "feedback": "'going' belongs to the continuous form, but 'every day' requires the simple present."
+          "feedback": "'Among' works with a group of more than two items, not with a single object."
         },
         {
           "letter": "C",
-          "text": "She gone to school every day.",
+          "text": "The pencil is over in the notebook.",
           "is_correct": false,
-          "feedback": "'gone' is a past participle, and the sentence describes a habit, so the simple present is needed."
+          "feedback": "'Over' followed by 'in' produces two prepositions that do not work together here."
+        },
+        {
+          "letter": "D",
+          "text": "The pencil is behind the notebook.",
+          "is_correct": true,
+          "feedback": "'Behind' describes a position at the back of another object, which is what the sentence states."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "6",
+      "explanation": "The preposition must match the spatial relation that the sentence actually describes.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -459,37 +459,37 @@
     },
     {
       "id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v11",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Complete the sentence: 'The lamp is ___ the corner of the room.'",
+      "context": "A description of a living space in an English class in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! The subject of the sentence is 'I', and in the continuous form 'I' is always followed by 'am'."
+          "text": "on",
+          "is_correct": false,
+          "feedback": "'On the corner' would describe contact with a surface, such as a table corner."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "at",
           "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, as in 'he is reading', so it does not fit 'I'."
+          "feedback": "'At the corner' is possible, but 'in the corner of the room' is the standard expression."
         },
         {
           "letter": "C",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "'are' goes with you, we, they and plural nouns, so 'I are reading' is not grammatical."
+          "text": "in",
+          "is_correct": true,
+          "feedback": "'In the corner of the room' places the lamp inside the room at the meeting of two walls."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "into",
           "is_correct": false,
-          "feedback": "'be' is the base form used after modals and in the infinitive; the continuous here needs the finite 'am'."
+          "feedback": "'Into' shows movement towards a space and does not describe a static position."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "'In the corner' describes a position inside the room where two walls meet, which is what a corner is.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,41 +504,41 @@
     },
     {
       "id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v12",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Choose the correct preposition: 'The bookshop is opposite ___ the park.'",
+      "context": "A description of the city in an English class in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "Kind and generous",
+          "text": "to",
           "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means well-meaning, kindly and generous towards other people."
+          "feedback": "'Opposite to' is the standard collocation for facing something across from it."
         },
         {
           "letter": "B",
-          "text": "Mean and cruel",
+          "text": "from",
           "is_correct": false,
-          "feedback": "that is the exact opposite of benevolent, which is a quality of kindness."
+          "feedback": "'Opposite from' is also heard, but 'opposite to' is the form used in written English."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "between",
           "is_correct": false,
-          "feedback": "that describes speed, while 'benevolent' refers to the kind of treatment a person gives to others."
+          "feedback": "'Between' needs two objects with the subject in the middle, which is not the case."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "among",
           "is_correct": false,
-          "feedback": "that describes laziness and slowness; 'benevolent' means kindly and generous, not idle."
+          "feedback": "'Among' describes a member of a group of more than two, not a facing relation."
         }
       ],
       "correct_answer": "A",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "8",
+      "explanation": "'Opposite to' describes facing something across from it, which is the relation between the bookshop and the park.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.85,
       "bundle_id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -549,41 +549,41 @@
     },
     {
       "id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v13",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Choose the correct preposition: 'She put the milk ___ the fridge.'",
+      "context": "A description of an action in a kitchen in an English class in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text names the two useful jobs of bees, pollinating flowers and producing honey, so that is its main idea."
+          "text": "on",
+          "is_correct": false,
+          "feedback": "'On the fridge' would place the milk on top of the appliance, not inside it."
         },
         {
           "letter": "B",
-          "text": "Bees are dangerous insects",
+          "text": "under",
           "is_correct": false,
-          "feedback": "the text never says that bees are dangerous; it describes the useful work they do for flowers."
+          "feedback": "'Under the fridge' would give a position below the appliance."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
+          "text": "beside",
           "is_correct": false,
-          "feedback": "the text also mentions pollination, so honey is not presented as the only product."
+          "feedback": "'Beside the fridge' would place the milk next to it rather than inside."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
-          "is_correct": false,
-          "feedback": "pollination depends on bees, so the text implies that flowers do need them."
+          "text": "in",
+          "is_correct": true,
+          "feedback": "'Put the milk in the fridge' gives the final position inside the container."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "The verb 'put' shows movement from outside to a final position inside a container, so 'in' is the correct preposition of destination.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Apply",
+      "expected_success": 0.85,
       "bundle_id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -594,41 +594,41 @@
     },
     {
       "id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v14",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Identify the only sentence whose preposition matches the relation it describes.",
+      "context": "A test on prepositions of place in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Went' is the irregular past simple form of the verb 'go'."
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "The children are playing nearest the river.",
           "is_correct": false,
-          "feedback": "'goed' is not an English word; a past form is either regular or an irregular form already known."
+          "feedback": "'Nearest' is a superlative form and cannot be used as a preposition."
         },
         {
           "letter": "B",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have' or 'has', not the past simple form."
+          "text": "The children are playing near the river.",
+          "is_correct": true,
+          "feedback": "'Near' describes a position close to a named place without saying exactly where."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "The children are playing at the river.",
           "is_correct": false,
-          "feedback": "'going' is the -ing form used in the continuous, not a past form at all."
+          "feedback": "'At' names a specific point, which changes the meaning from 'close by' to 'at that spot'."
+        },
+        {
+          "letter": "D",
+          "text": "The children are playing in the river.",
+          "is_correct": false,
+          "feedback": "'In the river' would place them inside the water, which the sentence does not state."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Only one sentence uses the preposition that matches the spatial relation it describes.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -639,41 +639,41 @@
     },
     {
       "id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v15",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Choose the correct preposition: 'The teacher wrote my name ___ the board.'",
+      "context": "A scene observed during a lesson in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple the third person singular of 'go' takes -es, so 'she goes' is the correct form."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
-          "is_correct": false,
-          "feedback": "after 'she' the verb needs the -s form, so this sentence is missing that ending."
+          "text": "on",
+          "is_correct": true,
+          "feedback": "'On the board' describes contact with the board's surface, which is correct."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "in",
           "is_correct": false,
-          "feedback": "'going' belongs to the continuous form, but 'every day' requires the simple present."
+          "feedback": "'In the board' would place the name inside a solid object, which is not how a board works."
         },
         {
           "letter": "C",
-          "text": "She gone to school every day.",
+          "text": "at",
           "is_correct": false,
-          "feedback": "'gone' is a past participle, and the sentence describes a habit, so the simple present is needed."
+          "feedback": "'At the board' names a point but does not describe the surface contact the sentence implies."
+        },
+        {
+          "letter": "D",
+          "text": "into",
+          "is_correct": false,
+          "feedback": "'Into' shows movement towards the interior, which does not apply to a flat surface."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "'On' describes a surface, and a board is a flat surface that a name can be written on.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -684,37 +684,37 @@
     },
     {
       "id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v16",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Choose the correct preposition: 'We live ___ the hill, near the river.'",
+      "context": "A description of where a family lives in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! The subject of the sentence is 'I', and in the continuous form 'I' is always followed by 'am'."
-        },
-        {
           "letter": "A",
-          "text": "is",
+          "text": "in",
           "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, as in 'he is reading', so it does not fit 'I'."
+          "feedback": "'In the hill' would place the house inside the mound of earth."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "at",
           "is_correct": false,
-          "feedback": "'are' goes with you, we, they and plural nouns, so 'I are reading' is not grammatical."
+          "feedback": "'At the hill' names a point but does not describe living on its surface."
+        },
+        {
+          "letter": "C",
+          "text": "on",
+          "is_correct": true,
+          "feedback": "'On the hill' places the house on the slope, which matches the description."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "under",
           "is_correct": false,
-          "feedback": "'be' is the base form used after modals and in the infinitive; the continuous here needs the finite 'am'."
+          "feedback": "'Under the hill' would place the house below the slope."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "explanation": "'On' describes a surface, and living on a hill means the house stands on that slope.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -729,40 +729,40 @@
     },
     {
       "id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v17",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "What is the difference between 'above' and 'over'?",
+      "context": "A question about prepositions in an English class in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means well-meaning, kindly and generous towards other people."
+          "text": "They are always interchangeable with no difference.",
+          "is_correct": false,
+          "feedback": "They are similar but not identical, and context decides which is natural."
         },
         {
           "letter": "B",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "that is the exact opposite of benevolent, which is a quality of kindness."
+          "text": "'Over' suggests crossing or covering; 'above' only marks a higher position.",
+          "is_correct": true,
+          "feedback": "A bridge is over a river because it crosses it; a lamp is above a table without crossing it."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "'Above' is a preposition of time and 'over' is a preposition of place.",
           "is_correct": false,
-          "feedback": "that describes speed, while 'benevolent' refers to the kind of treatment a person gives to others."
+          "feedback": "Both can be used of place; 'over' also has a time use meaning 'during'."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "'Above' marks a lower position and 'over' a higher one.",
           "is_correct": false,
-          "feedback": "that describes laziness and slowness; 'benevolent' means kindly and generous, not idle."
+          "feedback": "Both indicate a higher position; the difference is the crossing nuance."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "'Over' usually marks a crossing or a covering relation, while 'above' marks a position higher than something without crossing it.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
       "periodo": 19,
@@ -774,41 +774,41 @@
     },
     {
       "id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v18",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Choose the correct preposition: 'The keys are ___ the table and the chair.'",
+      "context": "A description of a room in an English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text names the two useful jobs of bees, pollinating flowers and producing honey, so that is its main idea."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "the text never says that bees are dangerous; it describes the useful work they do for flowers."
+          "text": "between",
+          "is_correct": true,
+          "feedback": "'Between the table and the chair' places the keys in the middle of two items."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "among",
           "is_correct": false,
-          "feedback": "the text also mentions pollination, so honey is not presented as the only product."
+          "feedback": "'Among' is used with a group of more than two items rather than with two named objects."
+        },
+        {
+          "letter": "C",
+          "text": "across",
+          "is_correct": false,
+          "feedback": "'Across' describes movement from one side to the other, not a middle position."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "beneath",
           "is_correct": false,
-          "feedback": "pollination depends on bees, so the text implies that flowers do need them."
+          "feedback": "'Beneath' would place the keys below both items."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "With two named objects and one item placed among them, 'between' marks the middle position.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v19",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Choose the correct sentence describing movement.",
+      "context": "A description of movement in an English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Went' is the irregular past simple form of the verb 'go'."
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "The child ran across the road for an hour.",
           "is_correct": false,
-          "feedback": "'goed' is not an English word; a past form is either regular or an irregular form already known."
+          "feedback": "The time expression with 'for' does not fit, and the sentence needs no such phrase."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "The child ran over of the road.",
           "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have' or 'has', not the past simple form."
+          "feedback": "'Over of' is not a valid prepositional phrase in English."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "The child ran across the road.",
+          "is_correct": true,
+          "feedback": "'Across' describes movement from one side of the road to the other."
+        },
+        {
+          "letter": "D",
+          "text": "The child ran at across the road.",
           "is_correct": false,
-          "feedback": "'going' is the -ing form used in the continuous, not a past form at all."
+          "feedback": "'At' before 'across' duplicates the preposition and breaks the structure."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "Prepositions of movement describe where something is going, while prepositions of position describe where it is.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -864,37 +864,37 @@
     },
     {
       "id": "SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v20",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Choose the correct preposition with 'next to'.",
+      "context": "A placement task in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple the third person singular of 'go' takes -es, so 'she goes' is the correct form."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "next from",
           "is_correct": false,
-          "feedback": "after 'she' the verb needs the -s form, so this sentence is missing that ending."
+          "feedback": "'Next from' is not a standard expression; 'next to' is the correct form."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "nearest to",
           "is_correct": false,
-          "feedback": "'going' belongs to the continuous form, but 'every day' requires the simple present."
+          "feedback": "'Nearest' is a superlative form and cannot serve as a preposition."
+        },
+        {
+          "letter": "C",
+          "text": "closer of",
+          "is_correct": false,
+          "feedback": "'Of' after 'closer' would form a superlative comparison, not a location phrase."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "'gone' is a past participle, and the sentence describes a habit, so the simple present is needed."
+          "text": "next to",
+          "is_correct": true,
+          "feedback": "'Next to' is the fixed expression meaning immediately beside, used as one unit."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "'Next to' is a two-word preposition meaning immediately beside something, and it is used as a single unit.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
