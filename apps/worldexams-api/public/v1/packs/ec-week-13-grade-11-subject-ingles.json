@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the modal that expresses a reasonable deduction based on evidence.",
+      "context": "The bag is very heavy. It ___ contain the camera equipment we brought.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
+          "text": "It must contain the camera equipment we brought.",
           "is_correct": true,
-          "feedback": "Correct! 'Accommodation' is the word for a place where you live or stay temporarily while you are away from home."
+          "feedback": "Correct! 'Must' expresses a strong deduction: the weight of the bag makes the conclusion almost certain."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "It must containing the camera equipment we brought.",
           "is_correct": false,
-          "feedback": "Wrong. 'Transportation' names the way you travel, such as buses, trains or planes, not the place where you stay."
+          "feedback": "'Must containing' needs the base form after the modal, so the correct form is 'must contain'."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "It must contains the camera equipment we brought.",
           "is_correct": false,
-          "feedback": "Wrong. 'Entertainment' is the activity of enjoying shows, films or games, not a place where you sleep."
+          "feedback": "'Must contains' adds the third person ending after a modal, which never happens in English."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "It must to contain the camera equipment we brought.",
           "is_correct": false,
-          "feedback": "Wrong. 'Currency' is the money used in a country, which has nothing to do with lodging."
+          "feedback": "'Must to contain' adds an infinitive marker that never follows a modal verb."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "explanation": "A deduction with 'must' is a logical conclusion drawn from evidence: the roads are wet, so it must have rained. It expresses certainty based on reasoning, not on the speaker's personal will.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -54,81 +54,36 @@
     },
     {
       "id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is the planned route of a journey together with the places and times along the way."
-        },
-        {
-          "letter": "A",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "Wrong. 'Baggage' is the suitcases and bags themselves, not the plan of the trip."
-        },
-        {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "Wrong. A 'destination' is only the place where the journey ends, while an itinerary lists the whole route."
-        },
-        {
-          "letter": "D",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "Wrong. A 'passport' is the travel document that proves who you are, not the plan of the journey."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the modal that expresses a guess the speaker cannot confirm.",
+      "context": "There is no light in the room and the door is locked. She ___ be at home; she said she was going out.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place someone or something is going to or being sent to."
+          "text": "She is may be at home, or she may have gone out as she said.",
+          "is_correct": false,
+          "feedback": "'Is may' combines the auxiliary 'is' with the modal 'may', which is not grammatical in English."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "She may being at home, or she may have gone out as she said.",
           "is_correct": false,
-          "feedback": "Wrong. A 'departure' is the act of leaving and the place you leave from, the opposite end of the trip."
+          "feedback": "'May being' needs the base form after the modal, so the correct form is 'may be'."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "She may to be at home, or she may have gone out as she said.",
           "is_correct": false,
-          "feedback": "Wrong. An 'arrival' is the event of getting there, not the place that is being travelled to."
+          "feedback": "'May to be' adds an infinitive marker that never follows a modal verb."
         },
         {
           "letter": "D",
-          "text": "journey",
-          "is_correct": false,
-          "feedback": "Wrong. A 'journey' is the whole trip from start to finish, not the place at the end of it."
+          "text": "She may be at home, or she may have gone out as she said.",
+          "is_correct": true,
+          "feedback": "Correct! 'May be' presents one possibility and the repetition in 'may have gone' presents the other, which is the normal way to offer alternatives."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Alternatives are expressed by repeating the modal, as in 'she may be there or she may have left'. With 'may' and 'might' the two options can also be joined by 'or' without any extra conjunction.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -143,173 +98,38 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v3",
+      "statement": "Complete the sentence with the modal that expresses the speaker's strong doubt.",
+      "context": "Don't worry, it ___ be true; nobody in the village has a television.",
       "options": [
         {
-          "letter": "C",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'Luggage' is the collective word for the suitcases and bags you pack your belongings in."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "It can to be true, because nobody in the village has a television.",
           "is_correct": false,
-          "feedback": "Wrong. A 'ticket' is the document that pays for and authorises a journey, not the bag you pack."
+          "feedback": "'Can to be' adds an infinitive marker that never follows a modal verb."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "It can't be true, because nobody in the village has a television.",
+          "is_correct": true,
+          "feedback": "Correct! 'Can't be' expresses the certainty that something is not true, which the evidence supports."
+        },
+        {
+          "letter": "C",
+          "text": "It can being true, because nobody in the village has a television.",
           "is_correct": false,
-          "feedback": "Wrong. A 'flight' is the journey by plane itself, not the bags carried on it."
+          "feedback": "'Can being' needs the base form after the modal, so the correct form is 'can be'."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "It can be not true, because nobody in the village has a television.",
           "is_correct": false,
-          "feedback": "Wrong. A 'reservation' is the booking you make for a seat or a room, not the baggage itself."
+          "feedback": "'Can be not true' puts 'not' after the verb phrase, which is not where English places the negation."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "'Can't' followed by the infinitive is used to reject a possibility firmly. It is different from 'needn't', which says an action is unnecessary, and from 'mustn't', which forbids it.\n---",
       "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! A 'passenger' is anyone travelling in a vehicle who is not the one driving or piloting it."
-        },
-        {
-          "letter": "B",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "Wrong. A 'pedestrian' travels on foot, so they are not aboard any conveyance at all."
-        },
-        {
-          "letter": "C",
-          "text": "commuter",
-          "is_correct": false,
-          "feedback": "Wrong. A 'commuter' is defined by making the same trip regularly to work or school, not by being a passenger in general."
-        },
-        {
-          "letter": "D",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "Wrong. A 'tourist' is defined by travelling for pleasure, not simply by riding in a vehicle."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'Customs' is the office where officials check the goods and the people coming in from abroad."
-        },
-        {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Wrong. 'Security' is the police or staff who keep order, while customs staff collect duties on goods."
-        },
-        {
-          "letter": "B",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "Wrong. A 'terminal' is the building where you arrive or depart, not the office that checks imports."
-        },
-        {
-          "letter": "D",
-          "text": "gate",
-          "is_correct": false,
-          "feedback": "Wrong. A 'gate' is the door you pass through to reach the plane; customs is the check itself."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! A 'boarding pass' is the document the airline hands you at check-in that lets you board the plane."
-        },
-        {
-          "letter": "B",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "Wrong. A 'visa' is the official permission a government gives to enter a country, granted before you travel."
-        },
-        {
-          "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Wrong. A 'receipt' only proves that you paid for something; it does not admit you to the aircraft."
-        },
-        {
-          "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "Wrong. A 'brochure' is advertising material about destinations, not a travel document for boarding."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -323,38 +143,218 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v4",
+      "statement": "Complete the sentence with the modal perfect that expresses a deduction about the past.",
+      "context": "You did not lock the door, so the burglar ___ have entered through the garden.",
       "options": [
         {
-          "letter": "D",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'Sightseeing' means going round and looking at the famous sights of a place as a visitor."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
+          "text": "The burglar must have to enter through the garden.",
           "is_correct": false,
-          "feedback": "Wrong. 'Shopping' is buying things in a city, a different activity from visiting its places of interest."
+          "feedback": "'Must have to enter' adds an infinitive marker that never appears between 'have' and the participle."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "The burglar must have entering through the garden.",
           "is_correct": false,
-          "feedback": "Wrong. 'Hiking' is walking long distances in the countryside on marked trails, not touring the sights of a location."
+          "feedback": "'Must have entering' needs the past participle after 'must have', so the correct form is 'must have entered'."
         },
         {
           "letter": "C",
-          "text": "camping",
+          "text": "The burglar must have entered through the garden.",
+          "is_correct": true,
+          "feedback": "Correct! 'Must have entered' is the modal perfect of deduction about a past event, formed with 'must have' plus the past participle."
+        },
+        {
+          "letter": "D",
+          "text": "The burglar must have entry through the garden.",
           "is_correct": false,
-          "feedback": "Wrong. 'Camping' means staying the night outdoors in a tent, not a day of visiting places of interest."
+          "feedback": "'Entry' is a noun and cannot serve as the past participle of the verb 'enter'."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Must have' plus a past participle expresses a deduction about the past: the floor is wet, so it must have rained. The same form also criticises: you must have forgotten about the meeting.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v5",
+      "statement": "Choose the sentence that correctly expresses a deduction about a past possibility.",
+      "context": "I'm sure she did not hear the phone; she ___ have been in the garden at that hour.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She can't have been in the garden at that hour, because she was at the dentist.",
+          "is_correct": true,
+          "feedback": "Correct! 'Can't have been' rejects a past possibility, and the reason given supports that rejection."
+        },
+        {
+          "letter": "B",
+          "text": "She can't have being in the garden at that hour, because she was at the dentist.",
+          "is_correct": false,
+          "feedback": "'Can't have being' needs the past participle after 'have', so the correct form is 'can't have been'."
+        },
+        {
+          "letter": "C",
+          "text": "She can't have to be in the garden at that hour, because she was at the dentist.",
+          "is_correct": false,
+          "feedback": "'Can't have to be' adds an infinitive marker that never appears between 'have' and the participle."
+        },
+        {
+          "letter": "D",
+          "text": "She can't has been in the garden at that hour, because she was at the dentist.",
+          "is_correct": false,
+          "feedback": "'Can't has been' mixes the negative modal with another auxiliary, which is not grammatical in English."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Can't have' plus a past participle states that a past situation is impossible, and 'might have' states that it is merely unlikely. The choice between them depends on how firm the speaker's evidence is.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v6",
+      "statement": "Choose the modal that expresses a probable hypothesis about the past.",
+      "context": "These photographs look old. They ___ be from the 1920s.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They might to be from the 1920s.",
+          "is_correct": false,
+          "feedback": "'Might to be' adds an infinitive marker that never follows a modal verb."
+        },
+        {
+          "letter": "B",
+          "text": "They might being from the 1920s.",
+          "is_correct": false,
+          "feedback": "'Might being' needs the base form after the modal, so the correct form is 'might be'."
+        },
+        {
+          "letter": "C",
+          "text": "They might be from the 1920s.",
+          "is_correct": true,
+          "feedback": "Correct! 'Might be' presents a probable hypothesis without committing the speaker to it."
+        },
+        {
+          "letter": "D",
+          "text": "They are might be from the 1920s.",
+          "is_correct": false,
+          "feedback": "'Are might' combines the auxiliary 'are' with the modal 'might', which is not grammatical in English."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Hypotheses about the past use the same three modals as hypotheses about the present: 'must have' for a firm deduction, 'may have' or 'might have' for a possibility and 'could have' for something that did not happen.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v7",
+      "statement": "Complete the sentence with the modal that expresses a probable negative consequence.",
+      "context": "Don't run in the corridor. You ___ hurt yourself.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You might hurts yourself if you run in the corridor.",
+          "is_correct": false,
+          "feedback": "'Might hurts' adds the third person ending after a modal, which never happens in English."
+        },
+        {
+          "letter": "B",
+          "text": "You might hurting yourself if you run in the corridor.",
+          "is_correct": false,
+          "feedback": "'Might hurting' needs the base form after the modal, so the correct form is 'might hurt'."
+        },
+        {
+          "letter": "C",
+          "text": "You might to hurt yourself if you run in the corridor.",
+          "is_correct": false,
+          "feedback": "'Might to hurt' adds an infinitive marker that never follows a modal verb."
+        },
+        {
+          "letter": "D",
+          "text": "You might hurt yourself if you run in the corridor.",
+          "is_correct": true,
+          "feedback": "Correct! 'Might hurt' expresses a probable but not certain negative consequence, which is what a warning uses."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "Warnings about consequences use 'might', 'may' and 'could' followed by the base form. Adding 'you' as a subject and a clause beginning with 'if' makes the possible result explicit.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v8",
+      "statement": "Choose the modal that expresses a suspicion about a past action.",
+      "context": "Where is Pablo? He ___ have gone to the library without telling us.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He must have going to the library without telling us.",
+          "is_correct": false,
+          "feedback": "'Must have going' needs the past participle after 'must have', so the correct form is 'must have gone'."
+        },
+        {
+          "letter": "B",
+          "text": "He must have gone to the library without telling us.",
+          "is_correct": true,
+          "feedback": "Correct! 'Must have gone' expresses a firm deduction about a past event that the disappearance makes likely."
+        },
+        {
+          "letter": "C",
+          "text": "He must have to gone to the library without telling us.",
+          "is_correct": false,
+          "feedback": "'Must have to gone' adds an infinitive marker that never appears between 'have' and the participle."
+        },
+        {
+          "letter": "D",
+          "text": "He must has gone to the library without telling us.",
+          "is_correct": false,
+          "feedback": "'Must has gone' mixes two auxiliaries and is not a structure in English."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Must have' plus a past participle is used to express a deduction about the past and also a criticism: you must have forgotten. The subject of that construction is almost always the person whose intention or mistake is being discussed.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -369,217 +369,37 @@
     },
     {
       "id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is an object kept afterwards as a reminder of the trip and of the people or places on it."
-        },
-        {
-          "letter": "A",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "Wrong. A 'gift' is chosen to be given to somebody else, while a souvenir is kept by the traveller."
-        },
-        {
-          "letter": "B",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "Wrong. An 'award' is a distinction given for an achievement, not a keepsake bought on a trip."
-        },
-        {
-          "letter": "C",
-          "text": "prize",
-          "is_correct": false,
-          "feedback": "Wrong. A 'prize' is what a competitor wins in a contest; it says nothing about remembering a journey."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra period of time by which a departure or arrival is postponed."
-        },
-        {
-          "letter": "A",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "Wrong. A 'cancellation' calls the plan off entirely, whereas a delay only postpones it by some hours."
-        },
-        {
-          "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Wrong. 'Departure' is simply the moment of leaving; the lateness is measured separately from it."
-        },
-        {
-          "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Wrong. An 'arrival' is the moment of getting there, not the amount of time a plan runs late."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly uses a modal of deduction with a conditional clause.",
+      "context": "The meeting starts at nine, so we ___ arrive on time if we leave now.",
       "options": [
         {
           "letter": "A",
-          "text": "check-in",
+          "text": "We should arrive on time if we leave now.",
           "is_correct": true,
-          "feedback": "Correct! 'Check-in' is when you arrive and register, and the desk records your presence and gives you your pass."
+          "feedback": "Correct! 'Should' expresses the probable consequence of leaving now, and it is followed by the base form."
         },
         {
           "letter": "B",
-          "text": "check-out",
+          "text": "We should arriving on time if we leave now.",
           "is_correct": false,
-          "feedback": "Wrong. 'Check-out' is the opposite moment, when you pay and hand back the room key before leaving."
+          "feedback": "'Should arriving' needs the base form after the modal, so the correct form is 'should arrive'."
         },
         {
           "letter": "C",
-          "text": "booking",
+          "text": "We should to arrive on time if we leave now.",
           "is_correct": false,
-          "feedback": "Wrong. A 'booking' is the reservation made earlier, while check-in is the reporting of your arrival."
+          "feedback": "'Should to arrive' adds an infinitive marker that never follows a modal verb."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "We are should arrive on time if we leave now.",
           "is_correct": false,
-          "feedback": "Wrong. A 'reservation' holds a room or a seat for you in advance, not the act of registering on arrival."
+          "feedback": "'Are should' combines the auxiliary 'are' with the modal 'should', which is not grammatical in English."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! A 'layover' is the wait between two flights, usually at the connecting airport, before you continue."
-        },
-        {
-          "letter": "A",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "Wrong. A 'stopover' is a deliberate break in a long journey to spend extra time at a place, not a wait between flights."
-        },
-        {
-          "letter": "B",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "Wrong. A 'transfer' is the flight or vehicle that moves you from one place to another, not the waiting itself."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Wrong. 'Transit' names the general passing through an area or a country, not a specific rest between stages."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'Currency' is the whole monetary system a country uses, not any single object."
-        },
-        {
-          "letter": "B",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Wrong. A 'coin' is one round metal piece of money, while the definition covers the entire money system."
-        },
-        {
-          "letter": "C",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "Wrong. A 'banknote' is a single paper note, while the definition is about the money system of a whole country."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "Wrong. 'Cash' is the money in coins and notes that you are holding, regardless of any country's system."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "'Should', 'may' and 'might' combine easily with an 'if' clause to express probable consequences: if it rains, we may cancel. In all cases the modal is followed by the base form of the verb.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -593,38 +413,218 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v10",
+      "statement": "Choose the modal that expresses the obvious conclusion from the information given.",
+      "context": "She's been working here for fifteen years and knows every file, so she ___ be the right person to train the new staff.",
       "options": [
         {
           "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book written about a place to help visitors find their way around it."
+          "text": "She must being the right person to train the new staff.",
+          "is_correct": false,
+          "feedback": "'Must being' needs the base form after the modal, so the correct form is 'must be'."
         },
         {
           "letter": "B",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "Wrong. A 'map' is a single drawing of an area, not the book of practical information about the place."
+          "text": "She must be the right person to train the new staff.",
+          "is_correct": true,
+          "feedback": "Correct! 'Must be' expresses the conclusion that follows from her long experience in the company."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "She must to be the right person to train the new staff.",
           "is_correct": false,
-          "feedback": "Wrong. A 'dictionary' lists words and their meanings, not practical details about a destination."
+          "feedback": "'Must to be' adds an infinitive marker that never follows a modal verb."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "She must the right person to train the new staff.",
           "is_correct": false,
-          "feedback": "Wrong. An 'encyclopedia' covers all knowledge on a subject, while a guidebook is written about one specific place."
+          "feedback": "'Must' needs a verb after it, so a modal cannot be placed directly before an adjective."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A modal of deduction must always be followed by a verb, most often the verb 'to be'. Saying 'she must the right person' is impossible, because 'must' cannot stand alone in front of an adjective.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v11",
+      "statement": "Complete the sentence with the modal that expresses an obvious deduction about the present continuous.",
+      "context": "The lights are on and there is music playing, so they ___ be having a party tonight.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They must are having a party tonight.",
+          "is_correct": false,
+          "feedback": "'Must are having' combines a modal with the auxiliary 'are', which cannot appear together."
+        },
+        {
+          "letter": "B",
+          "text": "They must having a party tonight.",
+          "is_correct": false,
+          "feedback": "'Must having' needs the auxiliary 'be' before the -ing form, so the correct structure is 'must be having'."
+        },
+        {
+          "letter": "C",
+          "text": "They must to having a party tonight.",
+          "is_correct": false,
+          "feedback": "'Must to having' adds an infinitive marker and an -ing form at once, which is not English."
+        },
+        {
+          "letter": "D",
+          "text": "They must be having a party tonight.",
+          "is_correct": true,
+          "feedback": "Correct! 'Must be having' is a deduction about the present, and 'be' plus 'having' is the continuous form it requires."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "A deduction with a modal is followed by a complete verb phrase, which may itself be in the continuous: they must be working, we must have been waiting. The auxiliary of the main phrase comes after the modal, not before it.\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v12",
+      "statement": "Choose the sentence that expresses a probable future consequence.",
+      "context": "I left my passport at home, so they ___ turn us away at the border.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They will probably to turn away at the border.",
+          "is_correct": false,
+          "feedback": "'Will probably to turn' adds an infinitive marker that never follows 'will'."
+        },
+        {
+          "letter": "B",
+          "text": "They will probably turning away at the border.",
+          "is_correct": false,
+          "feedback": "'Will probably turning' needs the base form after 'will', so the correct form is 'will probably turn'."
+        },
+        {
+          "letter": "C",
+          "text": "They will probably turn us away at the border.",
+          "is_correct": true,
+          "feedback": "Correct! 'Will turn' states the future action and the adverb 'probably' places the probability between the auxiliary and the verb."
+        },
+        {
+          "letter": "D",
+          "text": "They will probably turns away at the border.",
+          "is_correct": false,
+          "feedback": "'Will probably turns' adds the third person ending after 'will', which is never the case."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Adverbs of probability are placed after the auxiliary: it will probably rain, they will probably arrive. The verb keeps its base form wherever the adverb falls.\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v13",
+      "statement": "Choose the sentence that expresses criticism about a past failure.",
+      "context": "You said you would help me and then you left. You ___ have told me you were too busy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You should have told me you were too busy.",
+          "is_correct": true,
+          "feedback": "Correct! 'Should have told' criticises a past action that the speaker believes should have been done."
+        },
+        {
+          "letter": "B",
+          "text": "You should have tell me you were too busy.",
+          "is_correct": false,
+          "feedback": "'Should have tell' uses the base form after 'should have'; that construction needs the past participle."
+        },
+        {
+          "letter": "C",
+          "text": "You should told me you were too busy.",
+          "is_correct": false,
+          "feedback": "'Should told' uses only two forms; the third form of a modal needs 'have' between the modal and the participle."
+        },
+        {
+          "letter": "D",
+          "text": "You should have to told me you were too busy.",
+          "is_correct": false,
+          "feedback": "'Should have to told' adds an infinitive marker that never appears between 'have' and the participle."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "'Should have' plus a past participle expresses regret or criticism about something not done in the past: you should have told me, you should have warned her. It is followed by a past participle, never by an infinitive.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v14",
+      "statement": "Choose the sentence that expresses a prediction of impossibility in the future.",
+      "context": "The concert has been sold out, so we ___ not be able to get tickets at the door.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "We will not being able to get tickets at the door.",
+          "is_correct": false,
+          "feedback": "'Not being' uses the -ing form after the modal, where the adjective phrase with 'be able' is needed."
+        },
+        {
+          "letter": "B",
+          "text": "We will not able to get tickets at the door.",
+          "is_correct": false,
+          "feedback": "'Not able' is missing the verb 'be', which a modal requires before an adjective."
+        },
+        {
+          "letter": "C",
+          "text": "We will not be able to get tickets at the door.",
+          "is_correct": true,
+          "feedback": "Correct! 'Will not be able' is the standard negative prediction, with the verb 'be' before the adjective 'able'."
+        },
+        {
+          "letter": "D",
+          "text": "We will not to able to get tickets at the door.",
+          "is_correct": false,
+          "feedback": "'Not to able' adds an infinitive marker that never appears between 'be' and the adjective 'able'."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A modal followed by an adjective always needs the verb 'be' in between: it must be cold, she will not be able, they might be wrong. This is a fixed structure and one of the easiest ways to produce a defective sentence.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -639,40 +639,40 @@
     },
     {
       "id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly expresses a doubt about a past action.",
+      "context": "Perhaps we left the tickets at home; I can't find them anywhere.",
       "options": [
         {
-          "letter": "C",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! A 'backpack' has two shoulder straps and is designed to be carried on your back."
-        },
-        {
           "letter": "A",
-          "text": "suitcase",
+          "text": "Perhaps we left the tickets at home; I cannot find it anywhere.",
           "is_correct": false,
-          "feedback": "Wrong. A 'suitcase' is a flat box with a handle that you pull along beside you."
+          "feedback": "'Find it' uses the singular pronoun, but the noun being searched for is the plural 'tickets'."
         },
         {
           "letter": "B",
-          "text": "briefcase",
+          "text": "Perhaps we left the tickets at home; I cannot find them anywhere.",
+          "is_correct": true,
+          "feedback": "Correct! 'Left' is the past simple of the irregular verb 'leave' and 'them' agrees with the plural noun 'tickets'."
+        },
+        {
+          "letter": "C",
+          "text": "Perhaps we left the tickets at home; I cannot find them anywere.",
           "is_correct": false,
-          "feedback": "Wrong. A 'briefcase' is a stiff case for papers that you carry in your hand at work."
+          "feedback": "'Anywere' is a misspelling; the word is 'anywhere', and a single sentence cannot carry two different spellings of the same adverb."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "Perhaps we left the tickets at home; I no can find them anywhere.",
           "is_correct": false,
-          "feedback": "Wrong. A 'handbag' is held in the hand and has no straps at all."
+          "feedback": "'No can' places 'no' in front of a modal, but the negative of 'can' is 'cannot' or the contraction 'can't'."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "B",
+      "explanation": "'Leave' is irregular, so its past simple is 'left' and not 'leaved'. The pronoun that refers back to 'tickets' must be plural, and the negative modal is written as one word, 'cannot'.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-bundle",
       "periodo": 13,
@@ -684,37 +684,172 @@
     },
     {
       "id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence with the modal that expresses a certainty about a refusal in the future.",
+      "context": "He arrived without his passport, so the airline ___ not let him board the plane.",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'Overseas' means to or in another country reached by crossing the sea."
+          "text": "The airline will not lets him board the plane.",
+          "is_correct": false,
+          "feedback": "'Will not lets' adds the third person ending after the modal, which never happens in English."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "The airline will not letting him board the plane.",
           "is_correct": false,
-          "feedback": "Wrong. 'Domestic' means inside the borders of your own country, which is the opposite of overseas."
+          "feedback": "'Not letting' needs the base form after the modal, so the correct form is 'will not let'."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "The airline not will let him board the plane.",
           "is_correct": false,
-          "feedback": "Wrong. 'Local' means in a particular small area or town, which may well be inside your own country."
+          "feedback": "'Not will' places 'not' in front of the modal, but English forms the negative as 'will not'."
         },
         {
           "letter": "D",
-          "text": "national",
+          "text": "The airline will not let him board the plane.",
+          "is_correct": true,
+          "feedback": "Correct! 'Will not let' expresses a certain refusal and is followed by the base form of the verb."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "A prediction presented as certain is expressed with 'will not'. A deduction of that kind is stronger than 'might not', and it is often used when the outcome follows from a rule that has already been stated.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v17",
+      "statement": "Choose the modal that expresses the most probable explanation of what happened.",
+      "context": "We waited an hour and the bus never came. It ___ have broken down on the mountain road.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It must have broken down on the mountain road.",
+          "is_correct": true,
+          "feedback": "Correct! 'Must have broken down' is the modal perfect of deduction with an irregular verb, whose past participle is 'broken'."
+        },
+        {
+          "letter": "B",
+          "text": "It must have break down on the mountain road.",
           "is_correct": false,
-          "feedback": "Wrong. 'National' means concerning the nation as a whole, not travelling away from it across the sea."
+          "feedback": "'Must have break' uses the base form after 'must have'; that construction needs the past participle."
+        },
+        {
+          "letter": "C",
+          "text": "It must have broken on the mountain road.",
+          "is_correct": false,
+          "feedback": "'Broken' is the correct participle but 'break' alone is not, so the phrase as written lacks the participle the modal requires."
+        },
+        {
+          "letter": "D",
+          "text": "It must have to break down on the mountain road.",
+          "is_correct": false,
+          "feedback": "'Must have to break' adds an infinitive marker that never appears between 'have' and the participle."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "Phrasal verbs keep their particle in the modal perfect: must have broken down, must have given up, must have taken off. The past participle of 'break' is irregular and must be learned separately from its past simple.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v18",
+      "statement": "Choose the sentence that matches the probability being described.",
+      "context": "It's very likely to rain, so take an umbrella.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It will probably rains, so take an umbrella with you.",
+          "is_correct": false,
+          "feedback": "'Will probably rains' adds the third person ending after 'will', which never happens in English."
+        },
+        {
+          "letter": "B",
+          "text": "It will probably rain, so take an umbrella with you.",
+          "is_correct": true,
+          "feedback": "Correct! 'Will probably rain' places the adverb after the auxiliary and keeps the verb in its base form."
+        },
+        {
+          "letter": "C",
+          "text": "It will probably to rain, so take an umbrella with you.",
+          "is_correct": false,
+          "feedback": "'Will probably to rain' adds an infinitive marker that never follows 'will'."
+        },
+        {
+          "letter": "D",
+          "text": "It will probably raining, so take an umbrella with you.",
+          "is_correct": false,
+          "feedback": "'Will probably raining' needs the base form after 'will', so the correct form is 'will probably rain'."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Adverbs of likelihood such as 'probably', 'certainly' and 'possibly' are placed after the auxiliary. Modals of possibility and prediction are often combined for a more precise statement: it will probably rain, it might possibly snow.\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v19",
+      "statement": "Complete the sentence with the modal that expresses an obligation deduced from the situation.",
+      "context": "She was very rude to the teacher, so she ___ apologize.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She must apologizes for what she did.",
+          "is_correct": false,
+          "feedback": "'Must apologizes' adds the third person ending after a modal, which never happens in English."
+        },
+        {
+          "letter": "B",
+          "text": "She must apologizing for what she did.",
+          "is_correct": false,
+          "feedback": "'Must apologizing' needs the base form after the modal, so the correct form is 'must apologize'."
+        },
+        {
+          "letter": "C",
+          "text": "She must to apologize for what she did.",
+          "is_correct": false,
+          "feedback": "'Must to apologize' adds an infinitive marker that never follows a modal verb."
+        },
+        {
+          "letter": "D",
+          "text": "She must apologize for what she did.",
+          "is_correct": true,
+          "feedback": "Correct! 'Must' expresses the deduction that her behaviour obliges her to apologise, and the verb keeps its base form."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "A deduction of obligation uses 'must' followed by the base form, exactly as an obligation does. The difference lies in the reasoning of the speaker rather than in the grammatical structure, which is why both uses look identical on the page.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -728,173 +863,38 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! A 'budget' estimates planned income and spending over a set period such as a month or a year."
-        },
-        {
-          "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "Wrong. An 'expense' is a single outgoing payment, not a plan covering a whole period."
-        },
-        {
-          "letter": "C",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "Wrong. The 'cost' is the price of one thing or service, with no timeframe attached to it."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "Wrong. A 'price' is the amount a single item sells for, not an estimate of a period's finances."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement where a company pays compensation for a specified loss in exchange for a premium."
-        },
-        {
-          "letter": "A",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Wrong. A 'warranty' covers a defective product for a limited time and is given by the maker, not for illness or death."
-        },
-        {
-          "letter": "C",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "Wrong. A 'guarantee' is a promise about the quality of a product or service, with no payment of a premium."
-        },
-        {
-          "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "Wrong. A 'policy' is the written document that records an insurance contract, not the practice of compensation itself."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'Vaccination' is the administration of a vaccine that makes the immune system ready against a disease."
-        },
-        {
-          "letter": "A",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Wrong. 'Medication' treats the symptoms of an illness you already have; it does not create immunity beforehand."
-        },
-        {
-          "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Wrong. A 'prescription' is the doctor's written order for a medicine, not the vaccine itself."
-        },
-        {
-          "letter": "D",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "Wrong. An 'infection' is the invasion of the body by a pathogen, which is the opposite of preventing it."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
       "id": "EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the modal that expresses a strong suspicion about a past action.",
+      "context": "Have you seen my glasses? I ___ have left them at the office.",
       "options": [
         {
-          "letter": "C",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the tiredness and disturbed body clock caused by crossing several time zones in a flight."
-        },
-        {
           "letter": "A",
-          "text": "fatigue",
+          "text": "I must have to left them at the office.",
           "is_correct": false,
-          "feedback": "Wrong. 'Fatigue' is general tiredness from any cause, such as hard work, not specifically from time zones."
+          "feedback": "'Must have to left' adds an infinitive marker that never appears between 'have' and the participle."
         },
         {
           "letter": "B",
-          "text": "exhaustion",
+          "text": "I must have leaving them at the office.",
           "is_correct": false,
-          "feedback": "Wrong. 'Exhaustion' is extreme tiredness from physical effort or illness, not from a change of time zone."
+          "feedback": "'Must have leaving' needs the past participle after 'must have', so the correct form is 'must have left'."
+        },
+        {
+          "letter": "C",
+          "text": "I must have left them at the office.",
+          "is_correct": true,
+          "feedback": "Correct! 'Must have left' expresses the strong suspicion that the glasses were left somewhere earlier."
         },
         {
           "letter": "D",
-          "text": "insomnia",
+          "text": "I must has left them at the office.",
           "is_correct": false,
-          "feedback": "Wrong. 'Insomnia' is simply difficulty sleeping, which can come from many causes unrelated to flying."
+          "feedback": "'Must has left' mixes the modal 'must' with the auxiliary 'has', which is not a valid combination."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "explanation": "Suspicions about the past use the modal perfect: I must have forgotten, he must have taken them, she must have paid. The construction always contains a modal, then 'have', then a past participle.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",

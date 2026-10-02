@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "PR-ING-11-2026-W09-future-continuous-perfect-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses the future continuous correctly?",
+      "context": "Future continuous, San Juan, grado 11, W09.",
       "options": [
         {
-          "letter": "C",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'Accommodation' is the word for a place where you live or stay temporarily while you are away from home."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "Wrong. 'Transportation' names the way you travel, such as buses, trains or planes, not the place where you stay."
+          "text": "This time tomorrow I will be flying to Madrid.",
+          "is_correct": true,
+          "feedback": "Correcto. 'Will be' mas gerundio expresa una accion que estara en curso en un momento futuro concreto."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "This time tomorrow I will be fly to Madrid.",
           "is_correct": false,
-          "feedback": "Wrong. 'Entertainment' is the activity of enjoying shows, films or games, not a place where you sleep."
+          "feedback": "Incorrecto. Detras de 'will be' el verbo va en gerundio 'flying' y no en la forma base 'fly'."
+        },
+        {
+          "letter": "C",
+          "text": "This time tomorrow I will flying to Madrid.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Falta el 'be', y sin el auxiliar la forma 'will flying' no es valida en ingles."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "This time tomorrow I am flying to Madrid.",
           "is_correct": false,
-          "feedback": "Wrong. 'Currency' is the money used in a country, which has nothing to do with lodging."
+          "feedback": "Incorrecto. El presente continuo no puede situar la accion en el futuro con 'this time tomorrow'."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "El futuro continuo se forma con 'will be' mas el gerundio y expresa una accion en curso en un momento futuro. Se usa con expresiones como 'this time tomorrow', 'at nine tonight' o 'at that moment', que localizan el instante en que la accion estara ocurriendo.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W09-future-continuous-perfect-001-MASTERY-bundle",
       "periodo": 9,
@@ -54,40 +54,40 @@
     },
     {
       "id": "PR-ING-11-2026-W09-future-continuous-perfect-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'By next June I ____ (live) in San Juan for ten years.'",
+      "context": "Future perfect, Ponce, grado 11, W09.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is the planned route of a journey together with the places and times along the way."
+          "text": "will be living",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Will be living' es futuro continuo y enfoca en la accion en curso, no en la duracion completada."
         },
         {
           "letter": "B",
-          "text": "baggage",
+          "text": "will have live",
           "is_correct": false,
-          "feedback": "Wrong. 'Baggage' is the suitcases and bags themselves, not the plan of the trip."
+          "feedback": "Incorrecto. Detras de 'will have' el verbo va en participio 'lived' y no en la forma base 'live'."
         },
         {
           "letter": "C",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "Wrong. A 'destination' is only the place where the journey ends, while an itinerary lists the whole route."
+          "text": "will have lived",
+          "is_correct": true,
+          "feedback": "Correcto. 'Will have' mas participio expresa que la duracion estara completa en un momento futuro."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "will lived",
           "is_correct": false,
-          "feedback": "Wrong. A 'passport' is the travel document that proves who you are, not the plan of the journey."
+          "feedback": "Incorrecto. Anadir -ed a un verbo sin el auxiliar 'have' no forma ninguna estructura del futuro."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "El futuro perfecto se forma con 'will have' mas el participio pasado y se refiere a una accion que estara terminada antes de un momento futuro. La expresion 'by' mas fecha futura es su senal mas clara, igual que 'by the time' lo es del pasado perfecto.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W09-future-continuous-perfect-001-MASTERY-bundle",
       "periodo": 9,
@@ -99,40 +99,40 @@
     },
     {
       "id": "PR-ING-11-2026-W09-future-continuous-perfect-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'At this time tomorrow I ____ (study) for the final exam.'",
+      "context": "Future continuous with the verb to study, Carolina, grado 11, W09.",
       "options": [
         {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place someone or something is going to or being sent to."
-        },
-        {
           "letter": "A",
-          "text": "departure",
+          "text": "will study",
           "is_correct": false,
-          "feedback": "Wrong. A 'departure' is the act of leaving and the place you leave from, the opposite end of the trip."
+          "feedback": "Incorrecto. 'Will study' es futuro simple y no sugiere una accion en curso en ese momento concreto."
         },
         {
           "letter": "B",
-          "text": "arrival",
+          "text": "will be studying",
+          "is_correct": true,
+          "feedback": "Correcto. 'Will be studying' describe lo que estara ocurriendo a la misma hora del dia siguiente."
+        },
+        {
+          "letter": "C",
+          "text": "will be study",
           "is_correct": false,
-          "feedback": "Wrong. An 'arrival' is the event of getting there, not the place that is being travelled to."
+          "feedback": "Incorrecto. Detras de 'will be' el verbo va en gerundio 'studying' y no en la forma base."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "am studying at this time tomorrow",
           "is_correct": false,
-          "feedback": "Wrong. A 'journey' is the whole trip from start to finish, not the place at the end of it."
+          "feedback": "Incorrecto. El presente continuo no puede describir una accion futura con esa localizacion temporal."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "correct_answer": "B",
+      "explanation": "El futuro continuo y el futuro simple se distinguen por el enfasis. 'Will study' presenta el hecho como una accion puntual futura, mientras que 'will be studying' la situa dentro de un momento concreto como si el hablante lo viviera desde ese instante.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W09-future-continuous-perfect-001-MASTERY-bundle",
       "periodo": 9,
@@ -144,40 +144,40 @@
     },
     {
       "id": "PR-ING-11-2026-W09-future-continuous-perfect-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "What does 'By 2030 she will have worked here for twenty years' express?",
+      "context": "Future perfect versus future simple, Bayamon, grado 11, W09.",
       "options": [
         {
-          "letter": "D",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'Luggage' is the collective word for the suitcases and bags you pack your belongings in."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "An action that will be in progress at that date.",
           "is_correct": false,
-          "feedback": "Wrong. A 'ticket' is the document that pays for and authorises a journey, not the bag you pack."
+          "feedback": "Incorrecto. Para describir una accion en curso en un instante futuro se usaria el futuro continuo, no el futuro perfecto con 'by'."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "An action that already happened before today.",
           "is_correct": false,
-          "feedback": "Wrong. A 'flight' is the journey by plane itself, not the bags carried on it."
+          "feedback": "Incorrecto. El futuro no habla de un pasado ya cerrado, sino de un momento por venir."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "A habit that she has every day without exception.",
           "is_correct": false,
-          "feedback": "Wrong. A 'reservation' is the booking you make for a seat or a room, not the baggage itself."
+          "feedback": "Incorrecto. Los habitos se expresan con presente simple y no con futuro perfecto."
+        },
+        {
+          "letter": "D",
+          "text": "A period that will be complete at a future date.",
+          "is_correct": true,
+          "feedback": "Correcto. El futuro perfecto con 'by' mas fecha expresa una duracion que estara cerrada en ese momento."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "explanation": "El futuro perfecto y el futuro continuo se combinan con frecuencia porque los dos hablan del futuro. El perfecto se detiene en el resultado y el continuo se detiene en el proceso. La preposicion 'by' orienta al futuro perfecto y un instante concreto al futuro continuo.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W09-future-continuous-perfect-001-MASTERY-bundle",
       "periodo": 9,
@@ -189,40 +189,40 @@
     },
     {
       "id": "PR-ING-11-2026-W09-future-continuous-perfect-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which is the correct gerund form of the verb 'to run'?",
+      "context": "Future continuous with spelling, Arecibo, grado 11, W09.",
       "options": [
         {
-          "letter": "C",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! A 'passenger' is anyone travelling in a vehicle who is not the one driving or piloting it."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
+          "text": "runing",
           "is_correct": false,
-          "feedback": "Wrong. A 'pedestrian' travels on foot, so they are not aboard any conveyance at all."
+          "feedback": "Incorrecto. Sin duplicar la consonante la palabra se silabea mal y no es una forma aceptada del ingles."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "runnning",
           "is_correct": false,
-          "feedback": "Wrong. A 'commuter' is defined by making the same trip regularly to work or school, not by being a passenger in general."
+          "feedback": "Incorrecto. 'Run' ya termina en -n, de modo que duplicarla dos veces no corresponde a ninguna regla."
+        },
+        {
+          "letter": "C",
+          "text": "raning",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Ran' es el pasado simple y no es la base a la que se le anade el gerundio."
         },
         {
           "letter": "D",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "Wrong. A 'tourist' is defined by travelling for pleasure, not simply by riding in a vehicle."
+          "text": "running",
+          "is_correct": true,
+          "feedback": "Correcto. La vocal breve tensa de 'run' obliga a duplicar la -n antes de anadir -ing, igual que en los demas tiempos."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "D",
+      "explanation": "Las reglas de formacion del gerundio son las mismas en todos los tiempos: se duplica la consonante tras vocal breve tensa y se elimina la -e final. El futuro continuo y el presente continuo comparten exactamente las mismas reglas ortograficas.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W09-future-continuous-perfect-001-MASTERY-bundle",
       "periodo": 9,
@@ -234,40 +234,40 @@
     },
     {
       "id": "PR-ING-11-2026-W09-future-continuous-perfect-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'By December I ____ (finish) all the courses of the degree.'",
+      "context": "Future perfect with irregular participles, Humacao, grado 11, W09.",
       "options": [
         {
-          "letter": "D",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'Customs' is the office where officials check the goods and the people coming in from abroad."
-        },
-        {
           "letter": "A",
-          "text": "security",
+          "text": "will have finish",
           "is_correct": false,
-          "feedback": "Wrong. 'Security' is the police or staff who keep order, while customs staff collect duties on goods."
+          "feedback": "Incorrecto. Detras de 'will have' el verbo va en participio pasado y no en la forma base 'finish'."
         },
         {
           "letter": "B",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "Wrong. A 'terminal' is the building where you arrive or depart, not the office that checks imports."
+          "text": "will have finished",
+          "is_correct": true,
+          "feedback": "Correcto. El participio de 'to finish' es 'finished' y 'will have' forma el futuro perfecto."
         },
         {
           "letter": "C",
-          "text": "gate",
+          "text": "will be finishing",
           "is_correct": false,
-          "feedback": "Wrong. A 'gate' is the door you pass through to reach the plane; customs is the check itself."
+          "feedback": "Incorrecto. 'Will be finishing' es futuro continuo y no expresa que la accion estara terminada."
+        },
+        {
+          "letter": "D",
+          "text": "will finish",
+          "is_correct": false,
+          "feedback": "Incorrecto. El futuro simple no lleva el enfasis de resultado completo que pide 'by December'."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "La diferencia entre el futuro perfecto y el futuro simple es el punto de vista. El futuro simple mira al futuro desde ahora, mientras que el futuro perfecto mira al futuro desde un instante posterior y por eso necesita el auxiliar 'will have'.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W09-future-continuous-perfect-001-MASTERY-bundle",
       "periodo": 9,
@@ -279,37 +279,37 @@
     },
     {
       "id": "PR-ING-11-2026-W09-future-continuous-perfect-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'Don't call me at eight; I ____ (write) an essay then.'",
+      "context": "Future continuous with the verb to write, Aguadilla, grado 11, W09.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
+          "text": "will be writing",
           "is_correct": true,
-          "feedback": "Correct! A 'boarding pass' is the document the airline hands you at check-in that lets you board the plane."
+          "feedback": "Correcto. 'Will be writing' explica lo que estara haciendo el hablante a esa hora, con el enfasis en la actividad en curso."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "will write",
           "is_correct": false,
-          "feedback": "Wrong. A 'visa' is the official permission a government gives to enter a country, granted before you travel."
+          "feedback": "Incorrecto. 'Will write' es futuro simple y no justifica la interrupcion de la llamada de forma tan natural como el futuro continuo."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "will be write",
           "is_correct": false,
-          "feedback": "Wrong. A 'receipt' only proves that you paid for something; it does not admit you to the aircraft."
+          "feedback": "Incorrecto. Detras de 'will be' el verbo va en gerundio 'writing' y no en la forma base 'write'."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "am writing an essay then",
           "is_correct": false,
-          "feedback": "Wrong. A 'brochure' is advertising material about destinations, not a travel document for boarding."
+          "feedback": "Incorrecto. El presente continuo no puede proyectar la accion hacia una hora futura concreta."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "explanation": "El futuro continuo es muy util para explicar por que no se puede hacer algo en un momento futuro. La estructura 'I will be doing something then' comunica al oyente que esa hora estara ocupada, y por eso aparece con tanta frecuencia en conversaciones reales.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,37 +324,37 @@
     },
     {
       "id": "PR-ING-11-2026-W09-future-continuous-perfect-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which question is correct?",
+      "context": "Future continuous questions, Guayanilla, grado 11, W09.",
       "options": [
         {
-          "letter": "B",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'Sightseeing' means going round and looking at the famous sights of a place as a visitor."
+          "letter": "A",
+          "text": "What do you be doing this weekend?",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Do' no combina con 'to be' en gerundio, y la estructura pedida es 'will be doing'."
         },
         {
-          "letter": "A",
-          "text": "shopping",
+          "letter": "B",
+          "text": "What will you do this weekend be?",
           "is_correct": false,
-          "feedback": "Wrong. 'Shopping' is buying things in a city, a different activity from visiting its places of interest."
+          "feedback": "Incorrecto. El gerundio va detras de 'will be' y no al final de la oracion interrogativa."
         },
         {
           "letter": "C",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "Wrong. 'Hiking' is walking long distances in the countryside on marked trails, not touring the sights of a location."
+          "text": "What will you be doing this weekend?",
+          "is_correct": true,
+          "feedback": "Correcto. El futuro continuo abre con 'will' mas 'be' mas gerundio, y 'this weekend' es un periodo futuro."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "What you will be doing this weekend?",
           "is_correct": false,
-          "feedback": "Wrong. 'Camping' means staying the night outdoors in a tent, not a day of visiting places of interest."
+          "feedback": "Incorrecto. El orden interrogativo mantiene el auxiliar 'will' delante del sujeto, y no despues."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "En las preguntas de futuro continuo el auxiliar 'will' abre la frase y 'be' le sigue inmediatamente. El gerundio se coloca al final del grupo verbal, nunca al final de la oracion, porque forma parte del verbo y no es un elementomovible.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -369,40 +369,40 @@
     },
     {
       "id": "PR-ING-11-2026-W09-future-continuous-perfect-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'By the time you arrive, I ____ (cook) dinner.'",
+      "context": "Future perfect with time expressions, Trujillo Alto, grado 11, W09.",
       "options": [
         {
-          "letter": "C",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is an object kept afterwards as a reminder of the trip and of the people or places on it."
-        },
-        {
           "letter": "A",
-          "text": "gift",
+          "text": "will cook",
           "is_correct": false,
-          "feedback": "Wrong. A 'gift' is chosen to be given to somebody else, while a souvenir is kept by the traveller."
+          "feedback": "Incorrecto. 'Will cook' no marca la accion como previa a la llegada, que es lo que pide la expresion 'by the time'."
         },
         {
           "letter": "B",
-          "text": "award",
+          "text": "have cooked",
           "is_correct": false,
-          "feedback": "Wrong. An 'award' is a distinction given for an achievement, not a keepsake bought on a trip."
+          "feedback": "Incorrecto. 'Have' es presente perfecto y no corresponde a una proyeccion desde un futuro."
+        },
+        {
+          "letter": "C",
+          "text": "will have cooked",
+          "is_correct": true,
+          "feedback": "Correcto. 'By the time' con un futuro introduce el futuro perfecto, que situa la accion antes de la llegada."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "will be cooking",
           "is_correct": false,
-          "feedback": "Wrong. A 'prize' is what a competitor wins in a contest; it says nothing about remembering a journey."
+          "feedback": "Incorrecto. 'Will be cooking' es futuro continuo y enfoca en la accion en curso, no en el resultado anterior."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "explanation": "El futuro perfecto se usa con 'by the time' mas presente o futuro. Cuando las dos acciones son futuras, la segunda va en futuro continuo o futuro simple y la primera en futuro perfecto, que marca claramente la antecedencia.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W09-future-continuous-perfect-001-MASTERY-bundle",
       "periodo": 9,
@@ -414,37 +414,37 @@
     },
     {
       "id": "PR-ING-11-2026-W09-future-continuous-perfect-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'We ____ (drive) through Caguas at six, so we will not make the flight.'",
+      "context": "Future continuous with the verb to go, Barceloneta, grado 11, W09.",
       "options": [
         {
-          "letter": "C",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra period of time by which a departure or arrival is postponed."
-        },
-        {
           "letter": "A",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "Wrong. A 'cancellation' calls the plan off entirely, whereas a delay only postpones it by some hours."
+          "text": "will be driving",
+          "is_correct": true,
+          "feedback": "Correcto. 'Will be driving' situa la accion en curso a las seis del dia siguiente o de ese dia, segun el contexto."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "will drive",
           "is_correct": false,
-          "feedback": "Wrong. 'Departure' is simply the moment of leaving; the lateness is measured separately from it."
+          "feedback": "Incorrecto. 'Will drive' es futuro simple y no sugiere que el trayecto estara-developed en curso a esa hora."
+        },
+        {
+          "letter": "C",
+          "text": "will be drive",
+          "is_correct": false,
+          "feedback": "Incorrecto. Detras de 'will be' el verbo va en gerundio 'driving' y no en la forma base 'drive'."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "have been driving",
           "is_correct": false,
-          "feedback": "Wrong. An 'arrival' is the moment of getting there, not the amount of time a plan runs late."
+          "feedback": "Incorrecto. El presente perfecto continuo no se usa para proyectar una accion hacia una hora futura concreta."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "El futuro continuo combina muy bien con los planes de viaje. Al decir 'we will be driving at six' el hablante presenta el trayecto como un hecho ya organizado en un momento concreto, no como una posibilidad abierta.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -459,37 +459,37 @@
     },
     {
       "id": "PR-ING-11-2026-W09-future-continuous-perfect-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'By the end of the trip I ____ (see) most of the island.'",
+      "context": "Future perfect with the verb to see, Maunabo, grado 11, W09.",
       "options": [
         {
-          "letter": "C",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'Check-in' is when you arrive and register, and the desk records your presence and gives you your pass."
-        },
-        {
           "letter": "A",
-          "text": "check-out",
+          "text": "will be seeing",
           "is_correct": false,
-          "feedback": "Wrong. 'Check-out' is the opposite moment, when you pay and hand back the room key before leaving."
+          "feedback": "Incorrecto. 'Will be seeing' es futuro continuo y no expresa que la accion estara completada."
         },
         {
           "letter": "B",
-          "text": "booking",
+          "text": "will have see",
           "is_correct": false,
-          "feedback": "Wrong. A 'booking' is the reservation made earlier, while check-in is the reporting of your arrival."
+          "feedback": "Incorrecto. Detras de 'will have' el verbo va en participio 'seen' y no en la forma base 'see'."
+        },
+        {
+          "letter": "C",
+          "text": "will see",
+          "is_correct": false,
+          "feedback": "Incorrecto. El futuro simple no lleva el enfasis de resultado que da la expresion 'by the end of'."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Wrong. A 'reservation' holds a room or a seat for you in advance, not the act of registering on arrival."
+          "text": "will have seen",
+          "is_correct": true,
+          "feedback": "Correcto. 'Will have seen' es futuro perfecto y 'by the end of' marca un limite temporal que la accion completa."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "D",
+      "explanation": "Las expresiones con 'by' mas un punto de tiempo futuro, como 'by the end of the trip' o 'by next week', indican que la accion quedara terminada antes de ese limite. Esa es exactamente la funcion del futuro perfecto.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,37 +504,37 @@
     },
     {
       "id": "PR-ING-11-2026-W09-future-continuous-perfect-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'At nine o'clock tonight I ____ (teach) a literature class.'",
+      "context": "Future continuous with the verb to teach, Yauco, grado 11, W09.",
       "options": [
         {
-          "letter": "B",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! A 'layover' is the wait between two flights, usually at the connecting airport, before you continue."
+          "letter": "A",
+          "text": "will teach",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Will teach' es futuro simple y no sitúa la accion dentro de un momento futuro preciso."
         },
         {
-          "letter": "A",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "Wrong. A 'stopover' is a deliberate break in a long journey to spend extra time at a place, not a wait between flights."
+          "letter": "B",
+          "text": "will be teaching",
+          "is_correct": true,
+          "feedback": "Correcto. 'Will be teaching' describe la clase que estara dando el hablante a esa hora futura concreta."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "will be teach",
           "is_correct": false,
-          "feedback": "Wrong. A 'transfer' is the flight or vehicle that moves you from one place to another, not the waiting itself."
+          "feedback": "Incorrecto. Detras de 'will be' el verbo va en gerundio 'teaching' y no en la forma base."
         },
         {
           "letter": "D",
-          "text": "transit",
+          "text": "am teaching at nine o'clock tonight",
           "is_correct": false,
-          "feedback": "Wrong. 'Transit' names the general passing through an area or a country, not a specific rest between stages."
+          "feedback": "Incorrecto. El presente continuo no puede describir lo que ocurrira a una hora futura ya mencionada."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "El gerundio de 'to teach' pierde la -e final antes de -ing y no duplica la -t, porque la vocal anterior es larga. Esa regla se aplica igual en presente continuo, futuro continuo y cualquier otro tiempo que use el gerundio.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -549,40 +549,40 @@
     },
     {
       "id": "PR-ING-11-2026-W09-future-continuous-perfect-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct negative: 'By August she ____ (not / graduate) yet.'",
+      "context": "Future perfect negatives, Cayey, grado 11, W09.",
       "options": [
         {
-          "letter": "B",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'Currency' is the whole monetary system a country uses, not any single object."
+          "letter": "A",
+          "text": "will not graduated",
+          "is_correct": false,
+          "feedback": "Incorrecto. Detras del auxiliar hace falta 'have' y el participio 'graduated', no solo la forma pasada."
         },
         {
-          "letter": "A",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Wrong. A 'coin' is one round metal piece of money, while the definition covers the entire money system."
+          "letter": "B",
+          "text": "won't have graduated",
+          "is_correct": true,
+          "feedback": "Correcto. El futuro perfecto negativo se forma con 'will not' o 'won't' mas 'have' mas participio."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "will not be graduating",
           "is_correct": false,
-          "feedback": "Wrong. A 'banknote' is a single paper note, while the definition is about the money system of a whole country."
+          "feedback": "Incorrecto. 'Will not be' forma el futuro continuo negativo, no el futuro perfecto."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "has not graduated",
           "is_correct": false,
-          "feedback": "Wrong. 'Cash' is the money in coins and notes that you are holding, regardless of any country's system."
+          "feedback": "Incorrecto. 'Has not' es presente perfecto y no corresponde a una proyeccion hacia agosto."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "El futuro perfecto negativo mantiene las tres piezas del tiempo verbal: 'will not' mas 'have' mas participio. El adverbio 'yet' se coloca al final y confirma que la accion no se ha completado en el momento de referencia.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W09-future-continuous-perfect-001-MASTERY-bundle",
       "periodo": 9,
@@ -594,40 +594,40 @@
     },
     {
       "id": "PR-ING-11-2026-W09-future-continuous-perfect-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'We ____ (have) dinner at my grandmother's house at eight.'",
+      "context": "Future continuous with the verb to have, San Sebastian, grado 11, W09.",
       "options": [
         {
-          "letter": "C",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book written about a place to help visitors find their way around it."
-        },
-        {
           "letter": "A",
-          "text": "map",
+          "text": "will have",
           "is_correct": false,
-          "feedback": "Wrong. A 'map' is a single drawing of an area, not the book of practical information about the place."
+          "feedback": "Incorrecto. 'Will have dinner' es futuro simple y ademas suena como tener posesion, no como cenar."
         },
         {
           "letter": "B",
-          "text": "dictionary",
+          "text": "will be have",
           "is_correct": false,
-          "feedback": "Wrong. A 'dictionary' lists words and their meanings, not practical details about a destination."
+          "feedback": "Incorrecto. Detras de 'will be' el verbo va en gerundio 'having' y no en la forma base 'have'."
+        },
+        {
+          "letter": "C",
+          "text": "are having dinner at eight",
+          "is_correct": false,
+          "feedback": "Incorrecto. El presente continuo no puede proyectar la accion hacia una hora futura ya mencionada."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "Wrong. An 'encyclopedia' covers all knowledge on a subject, while a guidebook is written about one specific place."
+          "text": "will be having",
+          "is_correct": true,
+          "feedback": "Correcto. 'Will be having' describe la cena que estaran compartiendo a esa hora futura concreta."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "En-inglés 'will have' significa tener o poseer, mientras que 'will be having' significa estar teniendo una comida o una reunion. La confusion entre ambas estructuras cambia por completo el significado de la frase.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W09-future-continuous-perfect-001-MASTERY-bundle",
       "periodo": 9,
@@ -639,37 +639,37 @@
     },
     {
       "id": "PR-ING-11-2026-W09-future-continuous-perfect-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Question: 'Will you have finished the project by Friday?' Answer: '____'",
+      "context": "Future perfect in short answers, Camuy, grado 11, W09.",
       "options": [
         {
-          "letter": "B",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! A 'backpack' has two shoulder straps and is designed to be carried on your back."
+          "letter": "A",
+          "text": "Yes, I will be.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Will be' pertenece al futuro continuo y no responde a una pregunta de futuro perfecto."
         },
         {
-          "letter": "A",
-          "text": "suitcase",
+          "letter": "B",
+          "text": "Yes, I have finished.",
           "is_correct": false,
-          "feedback": "Wrong. A 'suitcase' is a flat box with a handle that you pull along beside you."
+          "feedback": "Incorrecto. 'Have' es presente perfecto y mezcla dos tiempos verbales distintos."
         },
         {
           "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Wrong. A 'briefcase' is a stiff case for papers that you carry in your hand at work."
+          "text": "Yes, I will.",
+          "is_correct": true,
+          "feedback": "Correcto. La respuesta corta repite el auxiliar 'will' de la pregunta, que es la forma esperada."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "Yes, I have finished already.",
           "is_correct": false,
-          "feedback": "Wrong. A 'handbag' is held in the hand and has no straps at all."
+          "feedback": "Incorrecto. 'Have' es presente perfecto y mezcla dos tiempos verbales en una respuesta sobre el futuro."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "Las respuestas cortas al futuro perfecto usan 'will', igual que las del futuro simple. La frase completa con el participio tambien es aceptable, pero la respuesta corta omite el verbo principal y conserva solo el auxiliar.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -684,40 +684,40 @@
     },
     {
       "id": "PR-ING-11-2026-W09-future-continuous-perfect-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'Call me later; I ____ (sleep) at that time.'",
+      "context": "Future continuous with the verb to sleep, Luquillo, grado 11, W09.",
       "options": [
         {
-          "letter": "C",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'Overseas' means to or in another country reached by crossing the sea."
-        },
-        {
           "letter": "A",
-          "text": "domestic",
-          "is_correct": false,
-          "feedback": "Wrong. 'Domestic' means inside the borders of your own country, which is the opposite of overseas."
+          "text": "will be sleeping",
+          "is_correct": true,
+          "feedback": "Correcto. 'Will be sleeping' indica que a esa hora el hablante estará descansando, y por eso no conviene llamar."
         },
         {
           "letter": "B",
-          "text": "local",
+          "text": "will sleep",
           "is_correct": false,
-          "feedback": "Wrong. 'Local' means in a particular small area or town, which may well be inside your own country."
+          "feedback": "Incorrecto. 'Will sleep' es futuro simple y no comunica con la misma claridad que la persona estara ocupada esa noche."
+        },
+        {
+          "letter": "C",
+          "text": "will be sleep",
+          "is_correct": false,
+          "feedback": "Incorrecto. Detras de 'will be' el verbo va en gerundio 'sleeping' y no en la forma base 'sleep'."
         },
         {
           "letter": "D",
-          "text": "national",
+          "text": "have been sleeping",
           "is_correct": false,
-          "feedback": "Wrong. 'National' means concerning the nation as a whole, not travelling away from it across the sea."
+          "feedback": "Incorrecto. El presente perfecto continuo no se utiliza para proyectar la accion hacia un momento futuro."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "El futuro continuo es el tiempo del uso de la palabra 'probably' y de las preguntas sobre lo que alguien estará haciendo. Su valor principal es proyectar una escena completa en un instante futuro concreto.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W09-future-continuous-perfect-001-MASTERY-bundle",
       "periodo": 9,
@@ -729,40 +729,40 @@
     },
     {
       "id": "PR-ING-11-2026-W09-future-continuous-perfect-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'By next month I ____ (know) the results already.'",
+      "context": "Future perfect with the verb to know, Toa Baja, grado 11, W09.",
       "options": [
         {
-          "letter": "D",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! A 'budget' estimates planned income and spending over a set period such as a month or a year."
-        },
-        {
           "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "Wrong. An 'expense' is a single outgoing payment, not a plan covering a whole period."
+          "text": "will have known",
+          "is_correct": true,
+          "feedback": "Correcto. 'By next month' marca un limite futuro y el participio 'known' completa el futuro perfecto."
         },
         {
           "letter": "B",
-          "text": "cost",
+          "text": "will be knowing",
           "is_correct": false,
-          "feedback": "Wrong. The 'cost' is the price of one thing or service, with no timeframe attached to it."
+          "feedback": "Incorrecto. 'To know' es un verbo de estado y no admite normalmente el tiempo continuo."
         },
         {
           "letter": "C",
-          "text": "price",
+          "text": "will have know",
           "is_correct": false,
-          "feedback": "Wrong. A 'price' is the amount a single item sells for, not an estimate of a period's finances."
+          "feedback": "Incorrecto. Detras de 'will have' el verbo va en participio 'known' y no en la forma base 'know'."
+        },
+        {
+          "letter": "D",
+          "text": "will know",
+          "is_correct": false,
+          "feedback": "Incorrecto. El futuro simple no expresa el resultado completado que la preposicion 'by' hace inevitable aqui."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "A",
+      "explanation": "Los verbos de estado como 'to know', 'to love' y 'to own' no se usan en tiempo continuo. Cuando aparecen con 'will', debe ser el futuro simple, y con 'will have' el futuro perfecto, nunca el continuo.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W09-future-continuous-perfect-001-MASTERY-bundle",
       "periodo": 9,
@@ -774,40 +774,40 @@
     },
     {
       "id": "PR-ING-11-2026-W09-future-continuous-perfect-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is correct?",
+      "context": "Future continuous with time expressions, Naguabo, grado 11, W09.",
       "options": [
         {
-          "letter": "B",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement where a company pays compensation for a specified loss in exchange for a premium."
+          "letter": "A",
+          "text": "I'll be flying to San Juan at six tomorrow morning ago.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Ago' pertenece al pasado y contradice completamente la proyeccion futura de la frase."
         },
         {
-          "letter": "A",
-          "text": "warranty",
+          "letter": "B",
+          "text": "I will flying to San Juan at six tomorrow morning.",
           "is_correct": false,
-          "feedback": "Wrong. A 'warranty' covers a defective product for a limited time and is given by the maker, not for illness or death."
+          "feedback": "Incorrecto. Falta el 'be' entre 'will' y el gerundio, de modo que la estructura es incompleta."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "I am flying to San Juan at six tomorrow morning.",
           "is_correct": false,
-          "feedback": "Wrong. A 'guarantee' is a promise about the quality of a product or service, with no payment of a premium."
+          "feedback": "Incorrecto. El presente continuo no describe una escena futura en un instante concreto como el enunciado."
         },
         {
           "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "Wrong. A 'policy' is the written document that records an insurance contract, not the practice of compensation itself."
+          "text": "I'll be flying to San Juan at six tomorrow morning.",
+          "is_correct": true,
+          "feedback": "Correcto. La expresion 'at six tomorrow morning' localiza el instante y pide futuro continuo."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "El futuro continuo necesita un instante futuro de referencia, y las expresiones que lo acompanan tienen que squarely esa proyeccion. 'Ago', 'yesterday' o 'last year' son marcas de pasado y convierten la frase en incorrecta.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W09-future-continuous-perfect-001-MASTERY-bundle",
       "periodo": 9,
@@ -819,40 +819,40 @@
     },
     {
       "id": "PR-ING-11-2026-W09-future-continuous-perfect-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence correctly uses a future time expression with the future continuous?",
+      "context": "Future perfect with time expressions, Hatillo, grado 11, W09.",
       "options": [
         {
-          "letter": "B",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'Vaccination' is the administration of a vaccine that makes the immune system ready against a disease."
+          "letter": "A",
+          "text": "By 2028 she will be teaching here since twenty years.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Since' no acepta una cantidad de tiempo, ademas el futuro continuo no encaja con la preposicion 'by'."
         },
         {
-          "letter": "A",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Wrong. 'Medication' treats the symptoms of an illness you already have; it does not create immunity beforehand."
+          "letter": "B",
+          "text": "By 2028 she will have been teaching here for twenty years.",
+          "is_correct": true,
+          "feedback": "Correcto. 'By' mas fecha futura y futuro perfecto expresan una duracion que estara completa en ese momento."
         },
         {
           "letter": "C",
-          "text": "prescription",
+          "text": "By 2028 she will have been teaching here for twenty years ago.",
           "is_correct": false,
-          "feedback": "Wrong. A 'prescription' is the doctor's written order for a medicine, not the vaccine itself."
+          "feedback": "Incorrecto. 'Ago' cierra el pasado y es incompatible con la proyeccion futura de 'by 2028'."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "By 2028 she will teaching here for twenty years.",
           "is_correct": false,
-          "feedback": "Wrong. An 'infection' is the invasion of the body by a pathogen, which is the opposite of preventing it."
+          "feedback": "Incorrecto. Falta el 'have' y el gerundio, de modo que la estructura del futuro perfecto esta incompleta."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "explanation": "La preposicion 'by' mas fecha futura es la senal inequivoca del futuro perfecto. Las demas piezas de la frase deben respetar esa proyeccion: 'since' con cantidades y 'ago' con expresiones futuras son incompatibles con esta unidad.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W09-future-continuous-perfect-001-MASTERY-bundle",
       "periodo": 9,
@@ -864,40 +864,40 @@
     },
     {
       "id": "PR-ING-11-2026-W09-future-continuous-perfect-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "What does 'By the time we get there, the storm will have passed and we will be walking on the beach' express?",
+      "context": "Future continuous and future perfect together, Yabucoa, grado 11, W09.",
       "options": [
         {
-          "letter": "B",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the tiredness and disturbed body clock caused by crossing several time zones in a flight."
+          "letter": "A",
+          "text": "Two actions that will happen simultaneously in the past.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos acciones son futuras y se situan en una secuencia posterior al momento de referencia."
         },
         {
-          "letter": "A",
-          "text": "fatigue",
+          "letter": "B",
+          "text": "An action that already finished before the speakers left.",
           "is_correct": false,
-          "feedback": "Wrong. 'Fatigue' is general tiredness from any cause, such as hard work, not specifically from time zones."
+          "feedback": "Incorrecto. Todo el pasaje esta proyectado hacia el futuro, no hacia un pasado ya cerrado."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "Wrong. 'Exhaustion' is extreme tiredness from physical effort or illness, not from a change of time zone."
+          "text": "One future event will be complete before another future event begins.",
+          "is_correct": true,
+          "feedback": "Correcto. El futuro perfecto marca el resultado ya cerrado y el futuro continuo describe la escena posterior."
         },
         {
           "letter": "D",
-          "text": "insomnia",
+          "text": "A prediction that the storm will last the whole night.",
           "is_correct": false,
-          "feedback": "Wrong. 'Insomnia' is simply difficulty sleeping, which can come from many causes unrelated to flying."
+          "feedback": "Incorrecto. 'Will have passed' indica que la tormenta ya habra terminado, no que continuara toda la noche."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "El futuro perfecto y el futuro continuo pueden convivir en la misma oracion porque hablan de dos momentos distintos del futuro. El primero se apoya en un resultado completado y el segundo en una escena en curso, y esa combinacion se ve a menudo en los pronosticos del tiempo.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W09-future-continuous-perfect-001-MASTERY-bundle",
       "periodo": 9,

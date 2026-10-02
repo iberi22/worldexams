@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read the paragraph: Our school recycles paper and plastic every Friday. Students sort waste into special bins. Teachers explain why recycling protects nature. What is the main idea?",
+      "context": "Lucia is practising reading skills for her English exam in class.",
       "options": [
         {
-          "letter": "C",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
+          "text": "School recycling every Friday is the central point of the paragraph.",
           "is_correct": false,
-          "feedback": "'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay."
+          "feedback": "Correct! School recycling every Friday is the central point because every sentence explains how students organise that weekly activity."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "The paragraph is mainly about the colour of the blue bins.",
+          "is_correct": true,
+          "feedback": "The sentence about blue bins is wrong because it mentions only one detail about containers and ignores the wider weekly recycling programme."
+        },
+        {
+          "letter": "C",
+          "text": "The paragraph is mainly about a history teacher with old maps.",
           "is_correct": false,
-          "feedback": "'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place."
+          "feedback": "The sentence about the history teacher is wrong because it picks a small example from one lesson and misses the main recycling message."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "The paragraph is mainly about a school trip to Madrid.",
           "is_correct": false,
-          "feedback": "'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay."
+          "feedback": "The sentence about a trip to Madrid is wrong because no trip appears in the paragraph and it cannot represent the recycling idea."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "The main idea is the central point the whole paragraph supports. Details and examples prove it but cannot replace it when you summarise.",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle",
       "periodo": 26,
@@ -54,36 +54,126 @@
     },
     {
       "id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read the advert: Join our team today! Football is fun, healthy and for everyone. Sign up this week! What is the purpose of the text?",
+      "context": "Marco is learning to recognise the purpose of short English texts.",
       "options": [
         {
-          "letter": "B",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order."
+          "letter": "A",
+          "text": "To persuade students to join the sports club this term.",
+          "is_correct": false,
+          "feedback": "Correct! Joining the sports club is a persuasion text because Join our team today directly invites the reader to take action now."
         },
         {
-          "letter": "A",
-          "text": "baggage",
+          "letter": "B",
+          "text": "To inform readers about new library opening hours.",
           "is_correct": false,
-          "feedback": "'baggage' means the suitcases and bags you travel with, not the plan that organises the trip."
+          "feedback": "The option about informing library hours is wrong because the text never gives opening times and instead urges the reader to join."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "To entertain readers with a funny story about training.",
           "is_correct": false,
-          "feedback": "'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself."
+          "feedback": "The option about telling a funny story is wrong because there is no humour or story, only direct encouragement to participate."
         },
         {
           "letter": "D",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "'passport' is the official travel document you show at the border, not a description of the journey route."
+          "text": "To explain how to do a science experiment step by step.",
+          "is_correct": true,
+          "feedback": "The option about explaining an experiment is wrong because no scientific process is described and no steps or results are presented."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Authors write to inform, persuade, entertain or explain. Persuasive texts use calls to action and positive adjectives to change behaviour.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle-v3",
+      "statement": "Read the paragraph: Mobile phones must be silent in class. Students can check messages at break. Teachers keep the rules fair. Which sentence states the main idea?",
+      "context": "Sara is training to separate main ideas from supporting details.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Students should use phones responsibly during lessons.",
+          "is_correct": true,
+          "feedback": "Correct! Responsible phone use in class is the main idea because rules about silent mode and break time all support that general point."
+        },
+        {
+          "letter": "B",
+          "text": "Students may use phones only during the morning break.",
+          "is_correct": false,
+          "feedback": "The sentence about break time only is wrong because using phones at break is just one detail that supports the wider rule about responsible use."
+        },
+        {
+          "letter": "C",
+          "text": "A new phone brand is the best choice for students.",
+          "is_correct": false,
+          "feedback": "The sentence about a new phone brand is wrong because the paragraph never advertises a brand and focuses on classroom behaviour instead."
+        },
+        {
+          "letter": "D",
+          "text": "All phones should be banned from schools forever.",
+          "is_correct": false,
+          "feedback": "The sentence about banning all phones forever is wrong because the text allows limited use and never proposes a total permanent ban."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Supporting details give examples or reasons for the main idea. A single break time or brand name is too narrow to be the whole message.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle-v4",
+      "statement": "Paragraph: Cycling to school saves money and keeps you fit. It avoids traffic jams. It also reduces pollution. Which sentence is the topic sentence?",
+      "context": "Pablo is identifying topic sentences in short English paragraphs.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cycling to school saves money and keeps you fit.",
+          "is_correct": false,
+          "feedback": "Correct! Cycling to school saves money and keeps you fit is the topic sentence because it introduces the general benefit developed by later details."
+        },
+        {
+          "letter": "B",
+          "text": "On rainy days some students prefer taking the bus.",
+          "is_correct": false,
+          "feedback": "The sentence about rainy days and the bus is wrong because it gives only one weather exception instead of introducing the whole cycling topic."
+        },
+        {
+          "letter": "C",
+          "text": "Maria bought a strong new lock for her bicycle.",
+          "is_correct": true,
+          "feedback": "The sentence about Marias new lock is wrong because it reports a small personal detail that cannot introduce the general paragraph."
+        },
+        {
+          "letter": "D",
+          "text": "You need a pump to repair a flat tyre quickly.",
+          "is_correct": false,
+          "feedback": "The sentence about repairing a flat tyre is wrong because it describes one maintenance detail and does not cover the wider benefits of cycling."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The topic sentence often opens a paragraph and states the main idea. Later sentences add details, so the first general sentence is the best guide.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -98,127 +188,37 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place to which someone or something is going or being sent."
-        },
-        {
-          "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action."
-        },
-        {
-          "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it."
-        },
-        {
-          "letter": "D",
-          "text": "journey",
-          "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, whereas the definition names only where it ends."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling."
-        },
-        {
-          "letter": "B",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "a 'ticket' is the document that gives you the right to travel; it carries nothing at all."
-        },
-        {
-          "letter": "C",
-          "text": "flight",
-          "is_correct": false,
-          "feedback": "a 'flight' is the trip itself by plane, not the bags you pack for it."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "a 'reservation' is the booking held for a seat or a room, not the container where clothes go."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
       "id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read the story: We lost our suitcase, Dad wore beach sandals to dinner, and we laughed all night. What is the purpose of this story?",
+      "context": "Elena is studying how to detect texts written to entertain.",
       "options": [
         {
-          "letter": "B",
-          "text": "passenger",
+          "letter": "A",
+          "text": "To entertain readers with a funny holiday story.",
           "is_correct": true,
-          "feedback": "Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew."
+          "feedback": "Correct! To entertain with a funny holiday story is right because the lost suitcase and beach sandals create humour rather than factual instruction."
         },
         {
-          "letter": "A",
-          "text": "pedestrian",
+          "letter": "B",
+          "text": "To inform readers about new train times and prices.",
           "is_correct": false,
-          "feedback": "a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all."
+          "feedback": "The option about informing of train times is wrong because the story gives no schedules or prices and centres on amusing holiday events."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "To persuade readers to buy a brand of sun cream.",
           "is_correct": false,
-          "feedback": "a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance."
+          "feedback": "The option about persuading to buy sun cream is wrong because no product is promoted and no purchase call appears in the narrative."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "To explain the rules for completing homework correctly.",
           "is_correct": false,
-          "feedback": "a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle."
+          "feedback": "The option about explaining homework rules is wrong because no school rules are described and the tone is playful instead of instructional."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Texts written to entertain use humour, adventure and surprising events. They focus on enjoyment rather than giving instructions or factual data.",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -234,40 +234,40 @@
     },
     {
       "id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Notice: The school library opens from nine to six from Monday to Friday. Books can be borrowed for two weeks. What is the purpose?",
+      "context": "Diego is learning to spot purely informative news texts.",
       "options": [
         {
-          "letter": "D",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage."
-        },
-        {
           "letter": "A",
-          "text": "security",
+          "text": "To inform readers about new library opening hours.",
           "is_correct": false,
-          "feedback": "'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs."
+          "feedback": "Correct! To inform about library hours is right because the notice gives factual opening times in neutral language without persuasion."
         },
         {
           "letter": "B",
-          "text": "terminal",
+          "text": "To persuade readers to join a local gym this month.",
           "is_correct": false,
-          "feedback": "a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done."
+          "feedback": "The option about persuading to join a gym is wrong because the notice mentions no sport and contains no call to join anything."
         },
         {
           "letter": "C",
-          "text": "gate",
+          "text": "To entertain readers with jokes about books and exams.",
+          "is_correct": true,
+          "feedback": "The option about entertaining with jokes is wrong because the notice has no humour and only presents practical factual information."
+        },
+        {
+          "letter": "D",
+          "text": "To describe an exciting football match last weekend.",
           "is_correct": false,
-          "feedback": "a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings."
+          "feedback": "The option about describing a football match is wrong because no game or score is reported and the focus is library service hours."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "Informative texts present facts such as dates, places and times in neutral language. They do not sell products or tell jokes as their main goal.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Remember",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle",
       "periodo": 26,
@@ -279,36 +279,36 @@
     },
     {
       "id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Advert: Fresh fruit market! Apples, oranges and bananas at low prices. Open every Saturday near the park. What is the main idea?",
+      "context": "Carmen is practising main idea questions with short adverts.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board."
+          "text": "A local market sells fresh and affordable fruit.",
+          "is_correct": false,
+          "feedback": "Correct! A local market sells fresh and affordable fruit is the main idea because every line promotes that central benefit for families."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "Apples at the market cost exactly two euros.",
           "is_correct": false,
-          "feedback": "a 'visa' is the permission to enter a country, obtained before the trip and not from the airline."
+          "feedback": "The sentence about apples costing two euros is wrong because the price is only one supporting detail and not the whole market message."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "The market has a large car park for visitors.",
           "is_correct": false,
-          "feedback": "a 'receipt' only proves that you paid; it does not let you board the plane."
+          "feedback": "The sentence about a market car park is wrong because parking is a minor facility detail and misses the fresh food focus."
         },
         {
           "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "a 'brochure' is printed information about the airline or the destination, not a travel document."
+          "text": "Someone lost a wallet near the market entrance.",
+          "is_correct": true,
+          "feedback": "The sentence about a lost wallet is wrong because no lost property is mentioned and it is unrelated to the advert purpose."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "The main idea of an advert combines product and benefit. Price details alone are supporting facts that help sell the central healthy eating message.",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -324,40 +324,40 @@
     },
     {
       "id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Poster: Vote for a cleaner school! Bring your bottle, save water, plant a tree. Act now! What is the purpose?",
+      "context": "Lucia is studying persuasive techniques in school campaign texts.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' is the activity of visiting the places of interest of a location."
+          "text": "To persuade students to vote for green actions.",
+          "is_correct": false,
+          "feedback": "Correct! To persuade students to vote for green actions is right because Vote for a cleaner school directly asks readers to support the campaign."
         },
         {
           "letter": "B",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "'shopping' is buying things in stores, not the general activity of visiting a place's sights."
+          "text": "To describe the landscape of a wide river.",
+          "is_correct": true,
+          "feedback": "The option about describing a river is wrong because no river landscape is painted and the text pushes action rather than description."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "To inform students about final exam dates.",
           "is_correct": false,
-          "feedback": "'hiking' is one specific outdoor walk in nature, only one kind of activity out of many."
+          "feedback": "The option about informing of exam dates is wrong because no dates or subjects are announced and the focus is environmental votes."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "To entertain readers with a cartoon adventure.",
           "is_correct": false,
-          "feedback": "'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark."
+          "feedback": "The option about entertaining with a cartoon is wrong because there is no funny story and the tone is serious campaign persuasion."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "Calls such as vote, join or act now signal persuasion. Descriptive passages lack that direct appeal and simply paint a scene for the reader.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle",
       "periodo": 26,
@@ -369,40 +369,40 @@
     },
     {
       "id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Text: Teenagers need sleep, healthy food and sport. A balanced routine improves mood and marks. Which sentence best summarises the main idea?",
+      "context": "Marco is learning to find the sentence that best summarises.",
       "options": [
         {
-          "letter": "B",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event."
+          "letter": "A",
+          "text": "A balanced daily routine keeps teenagers healthy.",
+          "is_correct": false,
+          "feedback": "Correct! A balanced daily routine keeps teenagers healthy is the best summary because sleep, food and sport together express the full message."
         },
         {
-          "letter": "A",
-          "text": "gift",
+          "letter": "B",
+          "text": "Eating carrots on Monday is the only healthy habit.",
           "is_correct": false,
-          "feedback": "a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event."
+          "feedback": "The sentence about carrots on Monday is wrong because one vegetable on one day is a narrow detail and not the whole routine."
         },
         {
           "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "an 'award' is an honour granted by an institution for merit, not a keepsake."
+          "text": "The football coach shouts loudly during training.",
+          "is_correct": true,
+          "feedback": "The sentence about a football coach shouting is wrong because the coach never appears and shouting is unrelated to the healthy habits theme."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "Buying a red bicycle makes everyone very happy.",
           "is_correct": false,
-          "feedback": "a 'prize' is the reward of a competition; the definition describes an object kept as a memento."
+          "feedback": "The sentence about buying a red bicycle is wrong because no purchase is discussed and a bicycle alone cannot summarise the routine."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "Summarising means keeping the overall habit and result. Single foods or single days are details that support but do not equal the healthy routine.",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle",
       "periodo": 26,
@@ -414,36 +414,36 @@
     },
     {
       "id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Paragraph: Rain forms when water evaporates, rises, cools and falls from clouds. This cycle repeats every day. What is the purpose?",
+      "context": "Sara is identifying explanatory texts in her coursebook.",
       "options": [
         {
-          "letter": "D",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra period of time by which something ends up late or postponed."
-        },
-        {
           "letter": "A",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "a 'cancellation' means the trip or event will not happen at all, not that it happens later."
+          "text": "To explain how rain forms and falls.",
+          "is_correct": true,
+          "feedback": "Correct! To explain how rain forms and falls is right because the paragraph describes evaporation and clouds as a causal process."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "To entertain with a tale about brave dragons.",
           "is_correct": false,
-          "feedback": "'departure' is simply the moment of leaving, which can be perfectly punctual."
+          "feedback": "The option about entertaining with dragons is wrong because no fantasy creatures appear and the tone is factual rather than playful."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "To persuade readers to visit a new museum.",
           "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching the place, and it says nothing about being late."
+          "feedback": "The option about persuading a reader to visit a museum is wrong because the passage makes no recommendation and no persuasive appeal appears in the text, so the author's purpose cannot be to invite anyone to go."
+        },
+        {
+          "letter": "D",
+          "text": "To inform passengers about current bus delays.",
+          "is_correct": false,
+          "feedback": "The option about informing of bus delays is wrong because no transport news is given and the focus is a natural water cycle."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Explanatory writing answers how or why with steps and causes. Stories about dragons aim to amuse, while invitations aim to persuade, not explain.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -459,40 +459,40 @@
     },
     {
       "id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Report: Twenty volunteers cleaned the city river on Sunday. They removed plastic and cans. The water looks clear now. Choose the best title.",
+      "context": "Pablo is judging which title captures the main idea best.",
       "options": [
         {
-          "letter": "C",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter."
-        },
-        {
           "letter": "A",
-          "text": "check-out",
+          "text": "Volunteers Clean the City River.",
           "is_correct": false,
-          "feedback": "'check-out' is the opposite moment, when you pay and hand the room key back before leaving."
+          "feedback": "Correct! Volunteers Clean the City River is the best title because it names both the actors and the central cleaning action of the report."
         },
         {
           "letter": "B",
-          "text": "booking",
+          "text": "Ducks Swim Happily in Spring.",
           "is_correct": false,
-          "feedback": "'booking' is the reservation made beforehand; check-in is what you do on arrival."
+          "feedback": "The title about ducks in spring is wrong because ducks are only a background detail and cannot represent the volunteer cleaning effort."
+        },
+        {
+          "letter": "C",
+          "text": "A School Trip to London.",
+          "is_correct": false,
+          "feedback": "The title about a trip to London is wrong because no travel to London occurs and the river event is entirely local."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "a 'reservation' is the earlier record of your booking, not the act of registering your presence."
+          "text": "How to Buy Plastic Bottles.",
+          "is_correct": true,
+          "feedback": "The title about buying plastic bottles is wrong because the report opposes plastic waste and never recommends buying more bottles."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "D",
+      "explanation": "A strong title names the topic plus the main point. Titles that mention only one detail or an unrelated trip mislead the reader about content.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle",
       "periodo": 26,
@@ -504,37 +504,82 @@
     },
     {
       "id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Column: Cycling is the best way to move. It is cheap, clean and fast. Everyone should choose a bike. What is the purpose?",
+      "context": "Elena is analysing purpose clues in opinion columns.",
       "options": [
         {
-          "letter": "D",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! A 'layover' is a period of rest or waiting between two further stages of a journey."
-        },
-        {
           "letter": "A",
-          "text": "stopover",
+          "text": "To persuade readers that cycling is the best option.",
           "is_correct": false,
-          "feedback": "'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey."
+          "feedback": "Correct! To persuade readers that cycling is best is right because should choose and cleaner make a clear evaluative recommendation to act."
         },
         {
           "letter": "B",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "a 'transfer' is the change from one vehicle or flight to another, not the pause itself."
+          "text": "To give neutral news about traffic in the city.",
+          "is_correct": true,
+          "feedback": "The option about neutral news on traffic is wrong because evaluative words like best and should choose go beyond neutral reporting."
         },
         {
           "letter": "C",
-          "text": "transit",
+          "text": "To entertain readers with an exciting bike race.",
           "is_correct": false,
-          "feedback": "'transit' means the action of passing through a place, with no idea of resting between stages."
+          "feedback": "The option about entertaining with a race is wrong because no exciting race story is told and the style is argumentative."
+        },
+        {
+          "letter": "D",
+          "text": "To explain in detail how to repair a bicycle.",
+          "is_correct": false,
+          "feedback": "The option about explaining bike repair is wrong because no tools or repair steps are listed and the focus is opinion, not instructions."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Opinion writers persuade by giving views and reasons plus a recommendation. Pure news reports avoid evaluative adjectives and direct recommendations.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle-v13",
+      "statement": "Biography: Born poor, she studied hard, became a doctor and created cheap vaccines. What is the main idea?",
+      "context": "Diego is practising with short biographies of famous people.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A scientist overcame hardship to help medicine.",
+          "is_correct": false,
+          "feedback": "Correct! A scientist overcame hardship to help medicine is the main idea because poverty, study and vaccines together show a life achievement."
+        },
+        {
+          "letter": "B",
+          "text": "She won exactly one prize in the month of June.",
+          "is_correct": false,
+          "feedback": "The sentence about winning one prize in June is wrong because a single award is a detail within a much wider life story."
+        },
+        {
+          "letter": "C",
+          "text": "She liked chocolate cake for her birthday party.",
+          "is_correct": false,
+          "feedback": "The sentence about liking chocolate cake is wrong because food preferences are irrelevant and never mentioned in the biography."
+        },
+        {
+          "letter": "D",
+          "text": "Her school football team lost every single match.",
+          "is_correct": true,
+          "feedback": "The sentence about a school football team is wrong because sport is not discussed and cannot summarise a medical research career."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "Biographies inform by presenting life facts in order. The main idea covers the whole achievement, while one prize or school is only a part.",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -548,86 +593,41 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'Currency' is the money system in general use in a particular country."
-        },
-        {
-          "letter": "B",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "a 'coin' is one single piece of money, not the whole system used in the country."
-        },
-        {
-          "letter": "C",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "a 'banknote' is one single paper note of that system, not the system itself."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "'cash' means money in coins and notes in general, not the specific monetary system of a country."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
       "id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Debate text: Some say homework helps memory. Others say it causes stress. Both views deserve attention. What is the purpose?",
+      "context": "Carmen is evaluating author intent in two sided debates.",
       "options": [
         {
-          "letter": "C",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists."
-        },
-        {
           "letter": "A",
-          "text": "map",
+          "text": "To inform readers about homework pros and cons.",
           "is_correct": false,
-          "feedback": "a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information."
+          "feedback": "Correct! To inform readers about homework pros and cons is right because the text gives both sides in neutral language for reflection."
         },
         {
           "letter": "B",
-          "text": "dictionary",
+          "text": "To persuade readers to ban all homework forever.",
           "is_correct": false,
-          "feedback": "a 'dictionary' gives the meaning of words, not details about a destination for travellers."
+          "feedback": "The option about persuading to ban homework is wrong because the text keeps both views and never demands a ban as the only solution."
+        },
+        {
+          "letter": "C",
+          "text": "To entertain readers with jokes about school life.",
+          "is_correct": true,
+          "feedback": "The option about entertaining with school jokes is wrong because no humour is used and the style stays factual and balanced."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "To describe the new canteen menu in detail.",
           "is_correct": false,
-          "feedback": "an encyclopedia covers all branches of knowledge rather than one particular place for visitors."
+          "feedback": "The option about describing a canteen menu is wrong because food is never mentioned and the topic is homework arguments."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "Balanced debates inform by showing pros and cons. One sided slogans persuade, while jokes entertain, so neutral presentation signals information.",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle",
       "periodo": 26,
@@ -639,37 +639,37 @@
     },
     {
       "id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Passage: The village has stone houses, narrow streets and slow evenings. Smoke rises over the hills. What is the purpose?",
+      "context": "Andres is distinguishing descriptive purpose from persuasion.",
       "options": [
         {
-          "letter": "B",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back."
+          "letter": "A",
+          "text": "To describe a quiet mountain village.",
+          "is_correct": false,
+          "feedback": "Correct! To describe a quiet mountain village is right because stone houses and slow evenings paint sensory images without any call to action."
         },
         {
-          "letter": "A",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps."
+          "letter": "B",
+          "text": "To persuade readers to buy a new flat.",
+          "is_correct": true,
+          "feedback": "The option about persuading to buy a flat is wrong because no sale or price is offered and the tone is observational, not commercial."
         },
         {
           "letter": "C",
-          "text": "briefcase",
+          "text": "To explain a difficult maths formula clearly.",
           "is_correct": false,
-          "feedback": "a 'briefcase' is a case for documents and a laptop that is carried in the hand."
+          "feedback": "The option about explaining a maths formula is wrong because no calculation or rule is presented and the focus is visual atmosphere."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "To inform passengers about flight delays today.",
           "is_correct": false,
-          "feedback": "a 'handbag' is a small bag held in the hand, not carried on the back."
+          "feedback": "The option about informing of flight delays is wrong because no travel news appears and the village portrait has no timetable."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "Descriptive purpose paints how something looks, sounds or feels. It uses sensory adjectives without urging the reader to buy, vote or join.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -684,36 +684,81 @@
     },
     {
       "id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Paragraph: Take short showers. Turn off taps. Wash clothes with full loads. Choose the best heading.",
+      "context": "Lucia is choosing headings that match paragraph main ideas.",
       "options": [
         {
-          "letter": "C",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea."
-        },
-        {
           "letter": "A",
-          "text": "domestic",
-          "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
+          "text": "Simple Ways to Save Water at Home.",
+          "is_correct": true,
+          "feedback": "Correct! Simple Ways to Save Water at Home is the best heading because short showers and full loads express the whole saving idea."
         },
         {
           "letter": "B",
-          "text": "local",
+          "text": "How Taps Are Made in a Factory.",
           "is_correct": false,
-          "feedback": "'local' means belonging to the area where you already are, again the opposite meaning."
+          "feedback": "The heading about a tap factory is wrong because manufacturing taps is never discussed and narrows the home habits theme."
+        },
+        {
+          "letter": "C",
+          "text": "Results of a Swimming Contest.",
+          "is_correct": false,
+          "feedback": "The heading about a swimming contest is wrong because no contest is reported and sport misses the conservation message."
         },
         {
           "letter": "D",
-          "text": "national",
+          "text": "The Long History of Pipes.",
           "is_correct": false,
-          "feedback": "'national' refers to the nation as a whole, but it does not mean being abroad."
+          "feedback": "The heading about the history of pipes is wrong because history is not explained and the paragraph focuses on present actions."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Headings must reflect the main idea, not a detail. A paragraph about water saving needs a heading about saving water, not about one tap model.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle-v17",
+      "statement": "Notice: Exams start on June tenth. Silence is required. Bring identity cards. No phones allowed. What is the purpose?",
+      "context": "Marco is detecting irony free purpose in formal notices.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To inform students of exam rules and dates.",
+          "is_correct": false,
+          "feedback": "Correct! To inform students of exam rules is right because silence and dates give binding instructions in a formal neutral register."
+        },
+        {
+          "letter": "B",
+          "text": "To entertain readers with funny exam anecdotes.",
+          "is_correct": false,
+          "feedback": "The option about entertaining with exam anecdotes is wrong because no funny stories are told and the register stays official."
+        },
+        {
+          "letter": "C",
+          "text": "To persuade students to buy expensive pens.",
+          "is_correct": true,
+          "feedback": "The option about persuading to buy pens is wrong because no product is sold and the notice only sets conduct rules."
+        },
+        {
+          "letter": "D",
+          "text": "To describe a lively party in the library.",
+          "is_correct": false,
+          "feedback": "The option about describing a library party is wrong because no celebration is announced and the content is purely regulatory."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
+      "explanation": "Formal notices inform and request compliance with rules. They use polite directives and dates, not humour or sales patter, to guide behaviour.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -728,83 +773,38 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time."
-        },
-        {
-          "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "an 'expense' is a single cost; a budget gathers all income and spending over a period."
-        },
-        {
-          "letter": "B",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "'cost' is the amount paid for one thing, not an estimate for a whole period."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "'price' is the figure written on a product, not a plan of income and expenditure."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
       "id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Argument: Night buses help young workers return safely. They reduce cars and keep streets lively. What is the main idea?",
+      "context": "Sara is judging main idea in longer argumentative paragraphs.",
       "options": [
         {
           "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium."
+          "text": "Night buses improve safety and nightlife access.",
+          "is_correct": false,
+          "feedback": "Correct! Night buses improve safety and nightlife access is the main idea because safer streets and late jobs give the full argument for the service."
         },
         {
           "letter": "B",
-          "text": "warranty",
+          "text": "One friendly driver is called Luis and smiles.",
           "is_correct": false,
-          "feedback": "a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only."
+          "feedback": "The sentence about one driver named Luis is wrong because a single driver is anecdotal evidence and cannot carry the whole policy argument."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "Ticket machines sometimes freeze in cold winter.",
           "is_correct": false,
-          "feedback": "a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement."
+          "feedback": "The sentence about ticket machines in winter is wrong because machines are a minor operational detail unrelated to the safety claim."
         },
         {
           "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "a 'policy' is the written document of the contract, not the practice of insuring itself."
+          "text": "Owls sleep quietly during the cold night hours.",
+          "is_correct": true,
+          "feedback": "The sentence about owls sleeping at night is wrong because owls are irrelevant to urban transport and add no argumentative support."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "Argumentative main ideas state a position plus a reason. Examples of one neighbour or one night are evidence, not the claim the author defends.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -819,36 +819,36 @@
     },
     {
       "id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Leaflet: Our square was built in nineteen hundred. Litter harms birds. Join us on Saturday to clean it! What is the main purpose?",
+      "context": "Pablo is tackling advanced purpose questions with mixed tones.",
       "options": [
         {
           "letter": "A",
-          "text": "vaccination",
+          "text": "To persuade neighbours to join clean up days.",
           "is_correct": true,
-          "feedback": "Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease."
+          "feedback": "Correct! To persuade neighbours to join clean up days is right because Join us on Saturday turns prior facts into a direct appeal for action."
         },
         {
           "letter": "B",
-          "text": "medication",
+          "text": "To give a neutral history of the old square.",
           "is_correct": false,
-          "feedback": "'medication' treats the symptoms of a disease; it does not create immunity against it."
+          "feedback": "The option about neutral history of the square is wrong because the final call to join goes beyond neutral history into active persuasion."
         },
         {
           "letter": "C",
-          "text": "prescription",
+          "text": "To entertain children with tales of ghosts.",
           "is_correct": false,
-          "feedback": "a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself."
+          "feedback": "The option about entertaining with ghost tales is wrong because no ghost story is told and the tone is civic rather than spooky."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "To explain the system of parking fines clearly.",
           "is_correct": false,
-          "feedback": "an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease."
+          "feedback": "The option about explaining parking fines is wrong because no fines or rules are detailed and the focus is community participation."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
+      "explanation": "Mixed texts blend information with gentle persuasion. The closing call to volunteer reveals persuasion as the dominant purpose beyond neutral facts.",
       "difficulty": "9",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Story: Two teams made posters. One planned early and finished calmly. The other started late and failed. What is the implied main idea?",
+      "context": "Elena is facing the hardest inference of implied main idea.",
       "options": [
         {
-          "letter": "D",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones."
-        },
-        {
           "letter": "A",
-          "text": "fatigue",
+          "text": "Preparation decides success in school projects.",
           "is_correct": false,
-          "feedback": "'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones."
+          "feedback": "Correct! Preparation decides success in school projects is the implied idea because ready teams finishing calmly points to that general lesson."
         },
         {
           "letter": "B",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones."
+          "text": "Buying blue folders guarantees excellent school marks.",
+          "is_correct": true,
+          "feedback": "The sentence about buying blue folders is wrong because folders are a superficial detail and never linked to project success in the story."
         },
         {
           "letter": "C",
-          "text": "insomnia",
+          "text": "Rain often cancels football matches in spring.",
           "is_correct": false,
-          "feedback": "'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight."
+          "feedback": "The sentence about rain cancelling matches is wrong because weather is absent from the text and cannot explain the project contrast."
+        },
+        {
+          "letter": "D",
+          "text": "Teachers enjoy long coffee breaks every morning.",
+          "is_correct": false,
+          "feedback": "The sentence about teachers liking coffee breaks is wrong because teacher habits are irrelevant and miss the preparation theme entirely."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
+      "correct_answer": "B",
+      "explanation": "Implied main ideas are never stated word for word. You must infer the general lesson about preparation from repeated contrasts between ready and unready teams.",
       "difficulty": "10",
       "images": [],
       "tags": [],

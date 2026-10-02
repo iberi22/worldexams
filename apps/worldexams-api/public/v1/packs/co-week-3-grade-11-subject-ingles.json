@@ -55,36 +55,36 @@
     },
     {
       "id": "CO-ING-11-2026-W03-technological-breakthroughs-001-MASTERY-bundle-v2",
-      "statement": "In the context of technological breakthroughs, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?",
+      "statement": "In the context of technological breakthroughs, which word best completes the following sentence: 'The prototype __________ by the engineering team last March is now being tested on real patients'?",
       "context": "Discussing technological breakthroughs in Barranquilla.",
       "options": [
         {
-          "letter": "D",
-          "text": "exacerbate",
+          "letter": "B",
+          "text": "developed",
           "is_correct": true,
-          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
+          "feedback": "'Developed by the engineering team' is a reduced relative clause, the standard C1 way of saying that the team designed and built the prototype without repeating a full 'which was' construction."
         },
         {
           "letter": "A",
-          "text": "alleviate",
+          "text": "developing",
           "is_correct": false,
-          "feedback": "Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed."
-        },
-        {
-          "letter": "B",
-          "text": "mitigate",
-          "is_correct": false,
-          "feedback": "Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied."
+          "feedback": "A gerund before 'by' would leave the clause incomplete: 'developing by the team' is not a verb phrase, so it cannot modify 'the prototype' on its own."
         },
         {
           "letter": "C",
-          "text": "facilitate",
+          "text": "designing",
           "is_correct": false,
-          "feedback": "Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide."
+          "feedback": "The participle is grammatically valid, but the timeline contradicts the sentence. The prototype was built last March and is now being tested, so it must be described as completed, not as the act of designing it."
+        },
+        {
+          "letter": "D",
+          "text": "development",
+          "is_correct": false,
+          "feedback": "A noun cannot stand in the verb slot. 'The development by the team' would be a noun phrase describing a process, not an identification of that particular prototype."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "This question tests advanced vocabulary (verbs of change and impact) suitable for C1+ level.\n\n---",
+      "correct_answer": "B",
+      "explanation": "Reduced relative clauses are a hallmark of formal written English at C1: the relative pronoun and the auxiliary are dropped, leaving the past participle to carry the whole clause. Students must recognise the participle and not read it as an active verb.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -101,36 +101,36 @@
     },
     {
       "id": "CO-ING-11-2026-W03-technological-breakthroughs-001-MASTERY-bundle-v3",
-      "statement": "In the context of technological breakthroughs, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?",
+      "statement": "In the context of technological breakthroughs, which word best completes the following sentence: 'A prototype that passes every internal test and then stalls at the regulatory stage __________ the team more time than the engineering ever did'?",
       "context": "Discussing technological breakthroughs in Bogotá.",
       "options": [
         {
-          "letter": "D",
-          "text": "exacerbate",
-          "is_correct": true,
-          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
-        },
-        {
           "letter": "A",
-          "text": "alleviate",
-          "is_correct": false,
-          "feedback": "Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed."
+          "text": "consumes",
+          "is_correct": true,
+          "feedback": "'Consume' means to use up a resource such as time, and the clause contrasts the delay at the regulatory stage with the time the engineering itself took. The relative clause describes an experience that uses up a schedule."
         },
         {
           "letter": "B",
-          "text": "mitigate",
+          "text": "returns",
           "is_correct": false,
-          "feedback": "Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied."
+          "feedback": "'Return' would give something back, and the sentence describes time being spent rather than recovered. Nothing in the clause suggests the team got time back from the process."
         },
         {
           "letter": "C",
-          "text": "facilitate",
+          "text": "conceals",
           "is_correct": false,
-          "feedback": "Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide."
+          "feedback": "'Conceal' means to hide, and nothing in the sentence is being kept from view. The clause is about a delay that is visible to everyone involved in the approval."
+        },
+        {
+          "letter": "D",
+          "text": "donates",
+          "is_correct": false,
+          "feedback": "'Donate' means to give away voluntarily, usually resources to a cause, and time spent waiting is not a gift. The relative clause describes something that takes up a schedule rather than contributing to one."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "This question tests advanced vocabulary (verbs of change and impact) suitable for C1+ level.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Business and research writing at C1+ describes delay as a resource consumed rather than as a neutral absence of progress. The contrast between the regulatory stage and the engineering itself is what makes the verb about usage rather than about loss or gift.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -147,36 +147,36 @@
     },
     {
       "id": "CO-ING-11-2026-W03-technological-breakthroughs-001-MASTERY-bundle-v4",
-      "statement": "In the context of technological breakthroughs, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?",
+      "statement": "In the context of technological breakthroughs, which word best completes the following sentence: 'Robotics firms warn that the shortage of skilled technicians may ultimately __________ their own expansion plans'?",
       "context": "Discussing technological breakthroughs in Bogotá.",
       "options": [
         {
           "letter": "C",
-          "text": "exacerbate",
+          "text": "constrain",
           "is_correct": true,
-          "feedback": "Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here."
+          "feedback": "'To constrain is to limit or hold back within a set of limits. A shortage of technicians sets exactly that kind of external limit on how fast a firm can grow, so 'constrain their own plans' is the natural collocation."
         },
         {
           "letter": "A",
-          "text": "alleviate",
+          "text": "accelerate",
           "is_correct": false,
-          "feedback": "Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed."
+          "feedback": "'Accelerate' means to make something happen faster. A shortage of workers works in the opposite direction, so the plans would slow down rather than speed up."
         },
         {
           "letter": "B",
-          "text": "mitigate",
+          "text": "compensate",
           "is_correct": false,
-          "feedback": "Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied."
+          "feedback": "'To compensate for something' is to make up for a loss. A shortage would limit growth, but the sentence says the shortage threatens the plans, not that the firms are making up for damage already done."
         },
         {
           "letter": "D",
-          "text": "facilitate",
+          "text": "celebrate",
           "is_correct": false,
-          "feedback": "Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide."
+          "feedback": "'Celebrate' marks something as an achievement. Plans that are at risk of being held back are the opposite of an achievement, so the verb contradicts the warning in the sentence."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question tests advanced vocabulary (verbs of change and impact) suitable for C1+ level.\n\n---",
+      "explanation": "C1+ lexical precision means choosing between near-synonyms by their collocation rather than by their general meaning: 'constrain a plan' is a fixed pairing, while 'accelerate' and 'compensate' bring in a different logical relation to the object.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -331,36 +331,36 @@
     },
     {
       "id": "CO-ING-11-2026-W03-technological-breakthroughs-001-MASTERY-bundle-v8",
-      "statement": "According to a recent report on technological breakthroughs in Manizales, what is implied about the role of Advanced Passive Voice in shaping public opinion?",
+      "statement": "A report on technological breakthroughs in Manizales states that 'the algorithm was withdrawn from public use only after engineers had established, through independent testing, that its predictions had been systematically biased against rural patients'. Why did the engineers insist on independent testing?",
       "context": "Discussing technological breakthroughs in Manizales.",
       "options": [
         {
-          "letter": "C",
-          "text": "It serves as a critical tool for nuanced communication.",
-          "is_correct": true,
-          "feedback": "Correct. C1+ level reading requires identifying subtle implications about language use."
-        },
-        {
           "letter": "A",
-          "text": "It is largely irrelevant to the general public.",
-          "is_correct": false,
-          "feedback": "Incorrect. The text suggests the opposite regarding the importance of linguistic precision."
+          "text": "To rule out the possibility that the bias came from the test itself rather than from the algorithm.",
+          "is_correct": true,
+          "feedback": "The phrase 'through independent testing' is what makes the evidence credible. If the team that built the system had also tested it, a flaw in the test could be mistaken for a flaw in the algorithm, so independence is the condition that lets the conclusion be trusted."
         },
         {
           "letter": "B",
-          "text": "It simplifies complex socio-political messages.",
+          "text": "To keep the findings secret until the company had prepared a public statement.",
           "is_correct": false,
-          "feedback": "Incorrect. The construction in question adds precision and nuance to the message, so it makes the reading harder rather than simplifying it."
+          "feedback": "The sentence says the algorithm was withdrawn from public use, which is an act of disclosure, not concealment. Nothing suggests a prepared statement or a motive to hide the result."
+        },
+        {
+          "letter": "C",
+          "text": "To avoid spending money on research that nobody had requested.",
+          "is_correct": false,
+          "feedback": "No cost or demand for research is mentioned. The clause 'after engineers had established' shows a completed investigation whose purpose was to find out whether the bias was real."
         },
         {
           "letter": "D",
-          "text": "It is only used by academic elites in {city}.",
+          "text": "To prove that the engineers had built the algorithm incorrectly.",
           "is_correct": false,
-          "feedback": "Incorrect. The report discusses its broader application in media and discourse."
+          "feedback": "The testing established that the predictions were biased, not that the engineers made a mistake in building it. A system can be built competently and still produce unfair outcomes, which is what the sentence describes."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "This question requires inferential reading skills to understand how complex structures convey deeper meaning.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Inferential reading of causal clauses at C1+ means tracking why a condition is stated: 'only after X' restricts what could have happened earlier, and the study's independence is the feature that makes the later decision justified.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -469,36 +469,36 @@
     },
     {
       "id": "CO-ING-11-2026-W03-technological-breakthroughs-001-MASTERY-bundle-v11",
-      "statement": "Complete the following sentence about technological breakthroughs: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Advanced Passive Voice)",
+      "statement": "Complete the following sentence about technological breakthroughs: 'The chip was __________ at twice the thickness of the earlier design, which is why the heat had to be vented through a separate layer.' (Topic: past participle used as an adjective in a passive relative clause)",
       "context": "Discussing technological breakthroughs in Barranquilla.",
       "options": [
         {
-          "letter": "C",
-          "text": "had",
+          "letter": "B",
+          "text": "fabricated",
           "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
+          "feedback": "'Fabricate' means to manufacture a physical object, and a chip is made rather than assembled from parts. The participle follows 'was' as a passive adjective, and the thickness mentioned is a property of a manufactured item."
         },
         {
           "letter": "A",
-          "text": "has",
+          "text": "conceived",
           "is_correct": false,
-          "feedback": "Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion."
+          "feedback": "'Conceive' means to form the idea of something, which applies to a design on paper rather than to a physical object. A chip with a stated thickness is a manufactured thing, not an idea."
         },
         {
-          "letter": "B",
-          "text": "was",
+          "letter": "C",
+          "text": "predicted",
           "is_correct": false,
-          "feedback": "Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'."
+          "feedback": "'Predict' means to say what will happen, and the sentence describes something that was actually produced. Nothing here concerns a forecast or a projection."
         },
         {
           "letter": "D",
-          "text": "did",
+          "text": "assembled",
           "is_correct": false,
-          "feedback": "Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'."
+          "feedback": "'Assemble' means to put parts together, which implies a device built from separate components. A chip is described as a single layer with a thickness, so the verb would misrepresent what was made."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.\n\n---",
+      "correct_answer": "B",
+      "explanation": "Participles after 'was' do not all mean the same kind of action, and choosing between them requires knowing what the object physically is. At C1+ the test is to ask what kind of thing is being described, since that separates manufacturing from designing, forecasting and assembling.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -561,36 +561,36 @@
     },
     {
       "id": "CO-ING-11-2026-W03-technological-breakthroughs-001-MASTERY-bundle-v13",
-      "statement": "Complete the following sentence about technological breakthroughs: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Advanced Passive Voice)",
-      "context": "Discussing technological breakthroughs in Cali.",
+      "statement": "Complete the following sentence about technological breakthroughs: 'The patent application was __________ for eighteen months before the examiners raised a single objection.' (Topic: past continuous in the passive for a prolonged process)",
+      "context": "Discussing technological breakthroughs in Manizales.",
       "options": [
         {
           "letter": "A",
-          "text": "had",
+          "text": "being reviewed",
           "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
+          "feedback": "'Was being reviewed' is the past continuous passive, which is what an eighteen-month process with no interruption calls for. The clause about the examiners' silence identifies the period during which the review continued uninterrupted."
         },
         {
           "letter": "B",
-          "text": "has",
+          "text": "reviewed",
           "is_correct": false,
-          "feedback": "Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion."
+          "feedback": "'Reviewed' alone is the past simple passive and describes a completed event rather than a process stretched over time. The duration given makes the continuous form necessary."
         },
         {
           "letter": "C",
-          "text": "was",
+          "text": "being rejected",
           "is_correct": false,
-          "feedback": "Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'."
+          "feedback": "'Being rejected' would mean the application was refused during that time, which the sentence contradicts by saying no objection was raised. The process described is a review, not a refusal."
         },
         {
           "letter": "D",
-          "text": "did",
+          "text": "being delayed",
           "is_correct": false,
-          "feedback": "Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'."
+          "feedback": "'Being delayed' would add the idea of a hold-up that the sentence does not report. The examiners simply reviewed for eighteen months, and nothing suggests the file was held back by anyone."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.\n\n---",
+      "explanation": "A duration given in the sentence is usually the signal for the continuous, and the passive adds which party is responsible. At C1+ students should treat the period and the absence of interruption as two separate pieces of evidence, since together they determine both the aspect and the voice.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -607,36 +607,36 @@
     },
     {
       "id": "CO-ING-11-2026-W03-technological-breakthroughs-001-MASTERY-bundle-v14",
-      "statement": "Complete the following sentence about technological breakthroughs: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Advanced Passive Voice)",
-      "context": "Discussing technological breakthroughs in Cartagena.",
+      "statement": "Complete the following sentence about technological breakthroughs: 'It was not until the funding was renewed that the lab __________ a technician for the spectroscopy work.' (Topic: subject-verb inversion after an emphatic negative clause)",
+      "context": "Discussing technological breakthroughs in Cali.",
       "options": [
         {
-          "letter": "D",
-          "text": "had",
+          "letter": "B",
+          "text": "could hire",
           "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
+          "feedback": "After an emphatic negative opening such as 'It was not until... that', the subject and verb invert, so 'technician' and 'could hire' swap places. A modal makes the ability to recruit available once the money arrived."
         },
         {
           "letter": "A",
-          "text": "has",
+          "text": "can hire",
           "is_correct": false,
-          "feedback": "Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion."
-        },
-        {
-          "letter": "B",
-          "text": "was",
-          "is_correct": false,
-          "feedback": "Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'."
+          "feedback": "'Can' is present, and the sentence establishes a past situation resolved at a point in time. The period of not hiring belonged to the past, so the modal has to be the past form."
         },
         {
           "letter": "C",
-          "text": "did",
+          "text": "could have hired",
           "is_correct": false,
-          "feedback": "Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'."
+          "feedback": "'Could have hired' would place the hiring even earlier than the funding, which reverses the causal order the sentence states. The clause says the ability arrived only after the renewal."
+        },
+        {
+          "letter": "D",
+          "text": "might hire",
+          "is_correct": false,
+          "feedback": "'Might' expresses possibility rather than a resolved ability, and the emphatic structure here presents a settled sequence of events. Nothing in the sentence leaves the outcome uncertain."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.\n\n---",
+      "correct_answer": "B",
+      "explanation": "Emphasis structures invert the subject and verb, and the tense is often what students get wrong once the inversion is recognised. At C1+ the reliable procedure is to rewrite the sentence in its ordinary order first, which makes the required modal form obvious before the inversion is put back.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -653,36 +653,36 @@
     },
     {
       "id": "CO-ING-11-2026-W03-technological-breakthroughs-001-MASTERY-bundle-v15",
-      "statement": "Complete the following sentence about technological breakthroughs: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Advanced Passive Voice)",
+      "statement": "Complete the following sentence about technological breakthroughs: 'Only when the trial results were verified by an external lab __________ the new treatment be considered safe for wider use.' (Topic: cleft sentences with 'only')",
       "context": "Discussing technological breakthroughs in Cartagena.",
       "options": [
         {
           "letter": "D",
-          "text": "had",
+          "text": "could",
           "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
+          "feedback": "'Only when...' makes a restrictive conditional, and the rest of the sentence needs a modal: 'could the new treatment be considered safe'. The perfect 'have been considered' would place the condition in the past, which the sentence does not do."
         },
         {
           "letter": "A",
-          "text": "has",
+          "text": "would",
           "is_correct": false,
-          "feedback": "Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion."
+          "feedback": "'Would' would form a second conditional and point to an unreal or hypothetical situation. Here the condition is presented as a real, verified requirement for a decision about safety, which is exactly what 'could' expresses."
         },
         {
           "letter": "B",
-          "text": "was",
+          "text": "must",
           "is_correct": false,
-          "feedback": "Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'."
+          "feedback": "'Must' expresses obligation, so the sentence would say the treatment is required to be considered safe. The clause only states what becomes possible once the verification happens, not what someone is obliged to do."
         },
         {
           "letter": "C",
-          "text": "did",
+          "text": "should",
           "is_correct": false,
-          "feedback": "Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'."
+          "feedback": "'Should' is used for advice, recommendations or expected outcomes, and it would suggest that somebody ought to make the treatment safe. Nothing in the sentence recommends an action; it sets a condition for a possibility."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.\n\n---",
+      "explanation": "A cleft sentence with 'only' is a C1 device for controlling emphasis: everything that follows 'only' is presented as the decisive condition. Choosing the right modal means asking whether the clause describes a possibility, an obligation, a recommendation or a hypothetical, one of which is what this item tests.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -699,36 +699,36 @@
     },
     {
       "id": "CO-ING-11-2026-W03-technological-breakthroughs-001-MASTERY-bundle-v16",
-      "statement": "Complete the following sentence about technological breakthroughs: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Advanced Passive Voice)",
+      "statement": "Complete the following sentence about technological breakthroughs: 'The report notes that the equipment __________ the university two years ago has since been replaced, and the original was never decommissioned properly.' (Topic: reduced relative clause introduced by a noun phrase)",
       "context": "Discussing technological breakthroughs in Medellín.",
       "options": [
         {
           "letter": "C",
-          "text": "had",
+          "text": "which",
           "is_correct": true,
-          "feedback": "Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events."
+          "feedback": "A non-defining relative clause about a specific piece of equipment is introduced by 'which' or 'that', and the comma before it signals the non-defining form. The clause adds information about an item already identified rather than defining which one is meant."
         },
         {
           "letter": "A",
-          "text": "has",
+          "text": "what",
           "is_correct": false,
-          "feedback": "Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion."
+          "feedback": "'What' introduces a clause acting as a subject or object, not a relative clause identifying a noun. A defining clause here would need to come without a comma and would not permit an item already referred to."
         },
         {
           "letter": "B",
-          "text": "was",
+          "text": "where",
           "is_correct": false,
-          "feedback": "Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'."
+          "feedback": "'Where' refers to a place, and no location is involved in the relative information about the equipment or its replacement. The clause comments on the object rather than on a site."
         },
         {
           "letter": "D",
-          "text": "did",
+          "text": "whose",
           "is_correct": false,
-          "feedback": "Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'."
+          "feedback": "'Whose' introduces a clause showing possession, and the clause here describes what happened to the equipment rather than who owns it. The subject of the relative clause is 'the university', which cannot follow 'whose'."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.\n\n---",
+      "explanation": "At C1+ a comma before a relative clause tells the student that the clause is non-defining and that the noun is already identified. That punctuation removes any need to choose between 'which' and 'that' and narrows the question to the relative pronoun itself.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],

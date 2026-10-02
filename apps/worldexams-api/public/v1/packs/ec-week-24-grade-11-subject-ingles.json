@@ -8,132 +8,42 @@
   },
   "questions": [
     {
-      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle-v1",
+      "statement": "The Jirishanca flower grows in the ___ part of the eastern range.",
+      "context": "The Jirishanca flower grows in the highest part of the eastern range.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'Accommodation' is the word for a place where you live or stay temporarily while you are away from home."
+          "text": "high",
+          "is_correct": false,
+          "feedback": "No. 'the high' is not a grammatical phrase here, because the bare adjective states no degree at all."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "more high",
           "is_correct": false,
-          "feedback": "Wrong. 'Transportation' names the way you travel, such as buses, trains or planes, not the place where you stay."
+          "feedback": "No. 'more high' mixes the two comparative systems; a one syllable adjective never takes 'more' before it."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "highing",
           "is_correct": false,
-          "feedback": "Wrong. 'Entertainment' is the activity of enjoying shows, films or games, not a place where you sleep."
+          "feedback": "No. 'highing' is not a form of this adjective in English, and it could not function as a superlative in any case."
         },
         {
           "letter": "D",
-          "text": "currency",
-          "is_correct": false,
-          "feedback": "Wrong. 'Currency' is the money used in a country, which has nothing to do with lodging."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "itinerary",
+          "text": "highest",
           "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is the planned route of a journey together with the places and times along the way."
-        },
-        {
-          "letter": "B",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "Wrong. 'Baggage' is the suitcases and bags themselves, not the plan of the trip."
-        },
-        {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "Wrong. A 'destination' is only the place where the journey ends, while an itinerary lists the whole route."
-        },
-        {
-          "letter": "D",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "Wrong. A 'passport' is the travel document that proves who you are, not the plan of the journey."
+          "feedback": "Correct! 'High' is a short adjective that takes the ending 'est' for the superlative, and 'the' identifies the single extreme of the range."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place someone or something is going to or being sent to."
-        },
-        {
-          "letter": "A",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Wrong. A 'departure' is the act of leaving and the place you leave from, the opposite end of the trip."
-        },
-        {
-          "letter": "B",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Wrong. An 'arrival' is the event of getting there, not the place that is being travelled to."
-        },
-        {
-          "letter": "D",
-          "text": "journey",
-          "is_correct": false,
-          "feedback": "Wrong. A 'journey' is the whole trip from start to finish, not the place at the end of it."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Superlatives built with the ending 'est' require the definite article before them and identify one item among a group. The suffix follows the same spelling rules as the comparative 'er', doubled consonants and all.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -143,447 +53,87 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle-v2",
+      "statement": "Of the two proposals, the second one is the ___ convincing one.",
+      "context": "Of the two proposals, the second one is the more convincing.",
       "options": [
         {
-          "letter": "D",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'Luggage' is the collective word for the suitcases and bags you pack your belongings in."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "most",
           "is_correct": false,
-          "feedback": "Wrong. A 'ticket' is the document that pays for and authorises a journey, not the bag you pack."
+          "feedback": "No. 'the most' forms a superlative, and the sentence compares exactly two items rather than a group of three or more."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "convincingest",
           "is_correct": false,
-          "feedback": "Wrong. A 'flight' is the journey by plane itself, not the bags carried on it."
+          "feedback": "No. The ending 'est' is never added to an adjective of more than one syllable, so this form does not exist."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "more",
+          "is_correct": true,
+          "feedback": "Correct! A long adjective takes 'more' before it, and the phrase 'of the two proposals' restricts the comparison to a pair."
+        },
+        {
+          "letter": "D",
+          "text": "mostest",
           "is_correct": false,
-          "feedback": "Wrong. A 'reservation' is the booking you make for a seat or a room, not the baggage itself."
+          "feedback": "No. Combining 'most' with the ending 'est' produces a word with no meaning in English."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "A comparison of two items is normally a comparative, but when a definite article is added to select one of them the pattern still works with 'more'. What distinguishes the two is the presence of 'than' and the absence of an explicit second term.\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle-v3",
+      "statement": "This was the ___ storm that hit the coast in the last fifty years.",
+      "context": "This was the worst storm that hit the coast in the last fifty years.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "worse",
+          "is_correct": false,
+          "feedback": "No. 'worse' is the comparative of bad and would need 'than' plus a second storm to be compared with."
+        },
+        {
+          "letter": "B",
+          "text": "worst",
+          "is_correct": true,
+          "feedback": "Correct! 'Bad' has the irregular superlative 'worst', which is preceded by 'the' and followed by the clause naming the storms being compared."
+        },
+        {
+          "letter": "C",
+          "text": "most worst",
+          "is_correct": false,
+          "feedback": "No. 'most' and an irregular comparative ending cannot be combined, so the phrase is not grammatical."
+        },
+        {
+          "letter": "D",
+          "text": "worsted",
+          "is_correct": false,
+          "feedback": "No. 'worsted' is not a form of the adjective in English; the past participle belongs to the verb worst, not to the adjective bad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The irregular superlatives good to best, bad to worst, far to furthest and little to least must be learned as whole words. They follow the same pattern as regular ones, with the definite article before them and a group rather than 'than'.\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! A 'passenger' is anyone travelling in a vehicle who is not the one driving or piloting it."
-        },
-        {
-          "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "Wrong. A 'pedestrian' travels on foot, so they are not aboard any conveyance at all."
-        },
-        {
-          "letter": "B",
-          "text": "commuter",
-          "is_correct": false,
-          "feedback": "Wrong. A 'commuter' is defined by making the same trip regularly to work or school, not by being a passenger in general."
-        },
-        {
-          "letter": "C",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "Wrong. A 'tourist' is defined by travelling for pleasure, not simply by riding in a vehicle."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'Customs' is the office where officials check the goods and the people coming in from abroad."
-        },
-        {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Wrong. 'Security' is the police or staff who keep order, while customs staff collect duties on goods."
-        },
-        {
-          "letter": "B",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "Wrong. A 'terminal' is the building where you arrive or depart, not the office that checks imports."
-        },
-        {
-          "letter": "D",
-          "text": "gate",
-          "is_correct": false,
-          "feedback": "Wrong. A 'gate' is the door you pass through to reach the plane; customs is the check itself."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! A 'boarding pass' is the document the airline hands you at check-in that lets you board the plane."
-        },
-        {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "Wrong. A 'visa' is the official permission a government gives to enter a country, granted before you travel."
-        },
-        {
-          "letter": "B",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Wrong. A 'receipt' only proves that you paid for something; it does not admit you to the aircraft."
-        },
-        {
-          "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "Wrong. A 'brochure' is advertising material about destinations, not a travel document for boarding."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'Sightseeing' means going round and looking at the famous sights of a place as a visitor."
-        },
-        {
-          "letter": "A",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "Wrong. 'Shopping' is buying things in a city, a different activity from visiting its places of interest."
-        },
-        {
-          "letter": "B",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "Wrong. 'Hiking' is walking long distances in the countryside on marked trails, not touring the sights of a location."
-        },
-        {
-          "letter": "C",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "Wrong. 'Camping' means staying the night outdoors in a tent, not a day of visiting places of interest."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is an object kept afterwards as a reminder of the trip and of the people or places on it."
-        },
-        {
-          "letter": "B",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "Wrong. A 'gift' is chosen to be given to somebody else, while a souvenir is kept by the traveller."
-        },
-        {
-          "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "Wrong. An 'award' is a distinction given for an achievement, not a keepsake bought on a trip."
-        },
-        {
-          "letter": "D",
-          "text": "prize",
-          "is_correct": false,
-          "feedback": "Wrong. A 'prize' is what a competitor wins in a contest; it says nothing about remembering a journey."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra period of time by which a departure or arrival is postponed."
-        },
-        {
-          "letter": "A",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "Wrong. A 'cancellation' calls the plan off entirely, whereas a delay only postpones it by some hours."
-        },
-        {
-          "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Wrong. 'Departure' is simply the moment of leaving; the lateness is measured separately from it."
-        },
-        {
-          "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Wrong. An 'arrival' is the moment of getting there, not the amount of time a plan runs late."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'Check-in' is when you arrive and register, and the desk records your presence and gives you your pass."
-        },
-        {
-          "letter": "A",
-          "text": "check-out",
-          "is_correct": false,
-          "feedback": "Wrong. 'Check-out' is the opposite moment, when you pay and hand back the room key before leaving."
-        },
-        {
-          "letter": "B",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Wrong. A 'booking' is the reservation made earlier, while check-in is the reporting of your arrival."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Wrong. A 'reservation' holds a room or a seat for you in advance, not the act of registering on arrival."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! A 'layover' is the wait between two flights, usually at the connecting airport, before you continue."
-        },
-        {
-          "letter": "A",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "Wrong. A 'stopover' is a deliberate break in a long journey to spend extra time at a place, not a wait between flights."
-        },
-        {
-          "letter": "B",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "Wrong. A 'transfer' is the flight or vehicle that moves you from one place to another, not the waiting itself."
-        },
-        {
-          "letter": "C",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Wrong. 'Transit' names the general passing through an area or a country, not a specific rest between stages."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'Currency' is the whole monetary system a country uses, not any single object."
-        },
-        {
-          "letter": "B",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Wrong. A 'coin' is one round metal piece of money, while the definition covers the entire money system."
-        },
-        {
-          "letter": "C",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "Wrong. A 'banknote' is a single paper note, while the definition is about the money system of a whole country."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "Wrong. 'Cash' is the money in coins and notes that you are holding, regardless of any country's system."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -593,267 +143,42 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book written about a place to help visitors find their way around it."
-        },
-        {
-          "letter": "A",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "Wrong. A 'map' is a single drawing of an area, not the book of practical information about the place."
-        },
-        {
-          "letter": "B",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "Wrong. A 'dictionary' lists words and their meanings, not practical details about a destination."
-        },
-        {
-          "letter": "D",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "Wrong. An 'encyclopedia' covers all knowledge on a subject, while a guidebook is written about one specific place."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! A 'backpack' has two shoulder straps and is designed to be carried on your back."
-        },
-        {
-          "letter": "A",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "Wrong. A 'suitcase' is a flat box with a handle that you pull along beside you."
-        },
-        {
-          "letter": "B",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Wrong. A 'briefcase' is a stiff case for papers that you carry in your hand at work."
-        },
-        {
-          "letter": "C",
-          "text": "handbag",
-          "is_correct": false,
-          "feedback": "Wrong. A 'handbag' is held in the hand and has no straps at all."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle-v4",
+      "statement": "The ___ island of the archipelago has no permanent residents.",
+      "context": "The smallest island of the archipelago has no permanent residents.",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'Overseas' means to or in another country reached by crossing the sea."
+          "text": "small",
+          "is_correct": false,
+          "feedback": "No. The bare adjective states no degree, so the sentence would not identify which island of the archipelago is meant."
         },
         {
           "letter": "B",
-          "text": "domestic",
-          "is_correct": false,
-          "feedback": "Wrong. 'Domestic' means inside the borders of your own country, which is the opposite of overseas."
-        },
-        {
-          "letter": "C",
-          "text": "local",
-          "is_correct": false,
-          "feedback": "Wrong. 'Local' means in a particular small area or town, which may well be inside your own country."
-        },
-        {
-          "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Wrong. 'National' means concerning the nation as a whole, not travelling away from it across the sea."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "budget",
+          "text": "smallest",
           "is_correct": true,
-          "feedback": "Correct! A 'budget' estimates planned income and spending over a set period such as a month or a year."
-        },
-        {
-          "letter": "B",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "Wrong. An 'expense' is a single outgoing payment, not a plan covering a whole period."
+          "feedback": "Correct! 'Small' takes the ending 'est' directly, and the phrase 'of the archipelago' provides the group against which the extreme is measured."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "smaller",
           "is_correct": false,
-          "feedback": "Wrong. The 'cost' is the price of one thing or service, with no timeframe attached to it."
+          "feedback": "No. 'smaller' is a comparative and would require 'than' plus a second island in the group."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "most small",
           "is_correct": false,
-          "feedback": "Wrong. A 'price' is the amount a single item sells for, not an estimate of a period's finances."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement where a company pays compensation for a specified loss in exchange for a premium."
-        },
-        {
-          "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Wrong. A 'warranty' covers a defective product for a limited time and is given by the maker, not for illness or death."
-        },
-        {
-          "letter": "C",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "Wrong. A 'guarantee' is a promise about the quality of a product or service, with no payment of a premium."
-        },
-        {
-          "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "Wrong. A 'policy' is the written document that records an insurance contract, not the practice of compensation itself."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
-      "periodo": 24,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'Vaccination' is the administration of a vaccine that makes the immune system ready against a disease."
-        },
-        {
-          "letter": "A",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Wrong. 'Medication' treats the symptoms of an illness you already have; it does not create immunity beforehand."
-        },
-        {
-          "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Wrong. A 'prescription' is the doctor's written order for a medicine, not the vaccine itself."
-        },
-        {
-          "letter": "D",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "Wrong. An 'infection' is the invasion of the body by a pathogen, which is the opposite of preventing it."
+          "feedback": "No. 'most small' mixes the two superlative systems and is not a grammatical form of the adjective small."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "explanation": "Adjectives ending in a double consonant add only 'est' in the superlative, giving smallest. The definite article and the phrase of the archipelago together supply the two elements that a superlative needs: an article and a group to be compared.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -863,42 +188,717 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle-v5",
+      "statement": "She is the ___ designer who has graduated from that school.",
+      "context": "She is the most talented designer who has graduated from that school.",
       "options": [
         {
-          "letter": "B",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the tiredness and disturbed body clock caused by crossing several time zones in a flight."
+          "letter": "A",
+          "text": "talentedest",
+          "is_correct": false,
+          "feedback": "No. The ending 'est' is reserved for one syllable adjectives, and this adjective has two syllables and ends in 'ed'."
         },
         {
-          "letter": "A",
-          "text": "fatigue",
+          "letter": "B",
+          "text": "more talented",
           "is_correct": false,
-          "feedback": "Wrong. 'Fatigue' is general tiredness from any cause, such as hard work, not specifically from time zones."
+          "feedback": "No. 'more talented' is the comparative and would need 'than' plus another designer to compare against."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "talenteder",
           "is_correct": false,
-          "feedback": "Wrong. 'Exhaustion' is extreme tiredness from physical effort or illness, not from a change of time zone."
+          "feedback": "No. Adding 'er' directly to an adjective that already ends in 'ed' is not a rule of English comparative formation."
         },
         {
           "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Wrong. 'Insomnia' is simply difficulty sleeping, which can come from many causes unrelated to flying."
+          "text": "most talented",
+          "is_correct": true,
+          "feedback": "Correct! An adjective of more than one syllable takes 'the most' before it, and the clause after it defines the group of graduates being compared."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "Syllable count decides the system: one syllable uses 'est', two or more syllables use 'the most'. An adjective of two syllables ending in 'ed' can sometimes take 'er' as well, but the superlative still requires 'the most'.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle-v6",
+      "statement": "The Aleutian Islands are among the ___ places on the planet.",
+      "context": "The Aleutian Islands are among the loneliest places on the planet.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "more lonely",
+          "is_correct": false,
+          "feedback": "No. 'more lonely' is a comparative and would need 'than', so it cannot appear among a superlative set."
+        },
+        {
+          "letter": "B",
+          "text": "loneliestness",
+          "is_correct": false,
+          "feedback": "No. 'Loneliness' is a noun, and a noun cannot be modified by 'the' in a comparative or superlative construction."
+        },
+        {
+          "letter": "C",
+          "text": "loneliest",
+          "is_correct": true,
+          "feedback": "Correct! 'Lonely' takes the ending 'est', and the expression 'among the' signals that the items belong to a wider group without ranking them absolutely."
+        },
+        {
+          "letter": "D",
+          "text": "most lonely",
+          "is_correct": false,
+          "feedback": "No. 'most' belongs with longer adjectives, so 'most lonely' is not the form used with this one syllable word."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Superlatives can appear inside the pattern among the plus superlative plus noun, which is common in written English. The form of the adjective itself follows the usual rule, and no 'than' is present because the group is not named item by item.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle-v7",
+      "statement": "The old bridge is the ___ structure in the valley.",
+      "context": "The old bridge is the widest structure in the valley.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "wider",
+          "is_correct": false,
+          "feedback": "No. 'wider' is a comparative and would need 'than' plus a second structure to be compared with."
+        },
+        {
+          "letter": "B",
+          "text": "most wide",
+          "is_correct": false,
+          "feedback": "No. 'most' is used with adjectives of two or more syllables, so it cannot precede this one syllable adjective."
+        },
+        {
+          "letter": "C",
+          "text": "wideest",
+          "is_correct": false,
+          "feedback": "No. When an adjective ends in a silent 'e' the ending 'est' is added directly, keeping only one 'e' in the final word."
+        },
+        {
+          "letter": "D",
+          "text": "widest",
+          "is_correct": true,
+          "feedback": "Correct! 'Wide' takes the ending 'est' without doubling the final letter, and 'the' selects it as the greatest of the structures in the valley."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Spelling is the main difficulty with regular superlatives. An adjective ending in a silent 'e' keeps that 'e' and adds 'est', which is why wide becomes widest and not wideest.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle-v8",
+      "statement": "That was the ___ performance of the entire festival.",
+      "context": "That was the funniest performance of the entire festival.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "funniest",
+          "is_correct": true,
+          "feedback": "Correct! 'Funny' changes its final 'y' to 'i' before the ending 'est', which gives the form that names the best item of the festival."
+        },
+        {
+          "letter": "B",
+          "text": "more funny",
+          "is_correct": false,
+          "feedback": "No. 'more funny' is the comparative of this adjective and belongs with 'than', not with a superlative set."
+        },
+        {
+          "letter": "C",
+          "text": "most funny",
+          "is_correct": false,
+          "feedback": "No. 'most' is not used with a one syllable adjective in the superlative, so this form is ungrammatical."
+        },
+        {
+          "letter": "D",
+          "text": "funniestest",
+          "is_correct": false,
+          "feedback": "No. The ending 'est' is added once, and adding it twice produces a word that does not exist."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Adjectives ending in a consonant plus 'y' drop the 'y' and take 'i' before 'est' or 'er'. The spelling rule also applies after a vowel plus 'y', where the 'y' is simply kept, as in grey and greyer.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle-v9",
+      "statement": "The northern region is the ___ of the four regions in the country.",
+      "context": "The northern region is the coldest of the four regions in the country.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "colder",
+          "is_correct": false,
+          "feedback": "No. 'colder' is a comparative and would need 'than' plus a second region, and no such comparison appears in the sentence."
+        },
+        {
+          "letter": "B",
+          "text": "most cold",
+          "is_correct": false,
+          "feedback": "No. 'most cold' mixes the two superlative systems and is not a form English uses."
+        },
+        {
+          "letter": "C",
+          "text": "coldest",
+          "is_correct": true,
+          "feedback": "Correct! 'Cold' takes the ending 'est' directly, and the phrase 'of the four regions' names the group that makes the superlative possible."
+        },
+        {
+          "letter": "D",
+          "text": "coldiest",
+          "is_correct": false,
+          "feedback": "No. No English adjective takes the ending 'iest'; the rule for a final 'y' applies only after a consonant."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The superlative is the form used whenever a definite group is named with a phrase of the plus numeral or plural noun. What the group is has no effect on how the adjective itself must be spelled.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle-v10",
+      "statement": "This recipe is the ___ one for students who live in small flats.",
+      "context": "This recipe is the most practical one for students who live in small flats.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "most practical",
+          "is_correct": true,
+          "feedback": "Correct! A long adjective takes 'the most' before it, and the clause about students defines the group the recipe is best for."
+        },
+        {
+          "letter": "B",
+          "text": "practicaler",
+          "is_correct": false,
+          "feedback": "No. Adding 'er' to this adjective is not a rule of English, because it already ends in a consonant plus 'al'."
+        },
+        {
+          "letter": "C",
+          "text": "practicalest",
+          "is_correct": false,
+          "feedback": "No. The ending 'est' applies only to one syllable adjectives, and this adjective has three."
+        },
+        {
+          "letter": "D",
+          "text": "more practical",
+          "is_correct": false,
+          "feedback": "No. 'more practical' is the comparative and would require 'than' plus another recipe to be compared with."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Long adjectives always form the superlative with 'the most', and the noun they modify comes after the adjective. In this sentence the clause at the end restricts the group to a particular kind of user.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle-v11",
+      "statement": "Nothing in the shop was ___ than the price advertised on the window.",
+      "context": "Nothing in the shop was cheaper than the price advertised on the window.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "cheaper",
+          "is_correct": true,
+          "feedback": "Correct! 'Cheap' takes the ending 'er' for the comparative, and the negative subject 'nothing' makes the comparison an extreme one."
+        },
+        {
+          "letter": "B",
+          "text": "the cheapest",
+          "is_correct": false,
+          "feedback": "No. 'the cheapest' is a superlative and cannot be followed by 'than', which belongs only to comparisons."
+        },
+        {
+          "letter": "C",
+          "text": "most cheap",
+          "is_correct": false,
+          "feedback": "No. 'most cheap' mixes the two superlative systems and is not a form English produces."
+        },
+        {
+          "letter": "D",
+          "text": "cheapester",
+          "is_correct": false,
+          "feedback": "No. The ending 'er' forms comparatives, not superlatives, and adding 'est' to it is not a rule."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The presence of 'than' is the surest signal that a comparative is required, whatever the rest of the sentence says. A superlative never takes 'than', so the two forms cannot be mixed in a single sentence.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle-v12",
+      "statement": "The ___ load the truck can carry is written on the side panel.",
+      "context": "The heaviest load the truck can carry is written on the side panel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "heaviest",
+          "is_correct": true,
+          "feedback": "Correct! 'Heavy' changes the final 'y' to 'i' before the ending 'est', and the clause that follows defines the limit being described."
+        },
+        {
+          "letter": "B",
+          "text": "heavier",
+          "is_correct": false,
+          "feedback": "No. 'heavier' is the comparative and would need 'than' plus a second load to compare with."
+        },
+        {
+          "letter": "C",
+          "text": "more heavy",
+          "is_correct": false,
+          "feedback": "No. 'more heavy' mixes the two systems, since a one syllable adjective never takes 'more' before its comparative."
+        },
+        {
+          "letter": "D",
+          "text": "most heavy",
+          "is_correct": false,
+          "feedback": "No. 'most' is used with long adjectives, so it cannot precede this one syllable adjective."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The spelling change from 'y' to 'i' is applied before both comparative and superlative endings. In this sentence the superlative is used because the load described is the limit, the greatest that the truck is able to carry.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle-v13",
+      "statement": "Of all the singers in the competition, she is the ___.",
+      "context": "Of all the singers in the competition, she is the most expressive.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "expressiveer",
+          "is_correct": false,
+          "feedback": "No. This form does not exist; a long adjective of more than two syllables never takes a comparative ending directly."
+        },
+        {
+          "letter": "B",
+          "text": "most expressive",
+          "is_correct": true,
+          "feedback": "Correct! The superlative of a long adjective is built with 'the most', and the phrase of all the singers names the whole group."
+        },
+        {
+          "letter": "C",
+          "text": "more expressive",
+          "is_correct": false,
+          "feedback": "No. 'more expressive' is the comparative and would need 'than' plus another singer to be compared against."
+        },
+        {
+          "letter": "D",
+          "text": "expressiveest",
+          "is_correct": false,
+          "feedback": "No. Adding the ending 'est' to a long adjective is not a formation pattern that English uses."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The expression of all plus the definite group is one of the most common contexts for the superlative in written English. The adjective itself follows the syllable rule, so a long one appears after 'the most' unchanged.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle-v14",
+      "statement": "The ___ month of the year in that region is usually August.",
+      "context": "The driest month of the year in that region is usually August.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "dryer",
+          "is_correct": false,
+          "feedback": "No. 'dryer' is a comparative and would need 'than' plus a second month to be compared with."
+        },
+        {
+          "letter": "B",
+          "text": "driest",
+          "is_correct": true,
+          "feedback": "Correct! 'Dry' ends in a vowel plus 'y', so the 'y' is kept when the ending 'est' is added, giving 'driest'."
+        },
+        {
+          "letter": "C",
+          "text": "most dry",
+          "is_correct": false,
+          "feedback": "No. 'most dry' mixes the two superlative systems, since 'most' belongs with long adjectives."
+        },
+        {
+          "letter": "D",
+          "text": "dryest",
+          "is_correct": false,
+          "feedback": "No. 'Dryest' would apply the consonant plus 'y' rule to a word where the letter before the 'y' is a vowel."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "When a vowel stands immediately before the final 'y', English keeps the 'y' and simply adds the ending: dry becomes drier and driest. Only a consonant before the 'y' triggers the change to 'i'.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle-v15",
+      "statement": "The ___ route to the summit passes through the northern pass.",
+      "context": "The safest route to the summit passes through the northern pass.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "safest one",
+          "is_correct": true,
+          "feedback": "No. Repeating 'one' after the superlative is redundant here, since the noun 'route' already identifies a single item."
+        },
+        {
+          "letter": "B",
+          "text": "more safe",
+          "is_correct": false,
+          "feedback": "No. 'more safe' is a possible comparative, but this sentence names one single route, so a superlative is needed instead."
+        },
+        {
+          "letter": "C",
+          "text": "safester",
+          "is_correct": false,
+          "feedback": "No. This form does not exist; an adjective ending in a silent 'e' keeps the 'e' when the ending is added."
+        },
+        {
+          "letter": "D",
+          "text": "safest",
+          "is_correct": false,
+          "feedback": "Correct! The bare word 'safest' is the superlative of safe, and the definite article names it as the one route with that quality."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A silent final 'e' is retained when the comparative or superlative ending is added, which gives safer and safest. The rest of the structure then follows the ordinary pattern, with the article before and no 'than' after.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle-v16",
+      "statement": "The ___ result of the experiment was obtained in the third trial.",
+      "context": "The best result of the experiment was obtained in the third trial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "most good",
+          "is_correct": false,
+          "feedback": "No. 'most good' mixes the two superlative systems and ignores the irregular form of the adjective good."
+        },
+        {
+          "letter": "B",
+          "text": "goodest",
+          "is_correct": false,
+          "feedback": "No. The ending 'est' is never applied to this adjective, whose superlative is an entirely different word."
+        },
+        {
+          "letter": "C",
+          "text": "best",
+          "is_correct": true,
+          "feedback": "Correct! The superlative of good is the irregular 'best', used with the definite article exactly like any other superlative."
+        },
+        {
+          "letter": "D",
+          "text": "the better",
+          "is_correct": false,
+          "feedback": "No. 'the better' belongs to a comparative reading and would need 'than' plus a second result to compare against."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Irregular superlatives behave like regular ones from the point of view of the surrounding structure. The word 'best' is placed after the article and before the noun, and it can be followed by a clause that defines the group in question.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle-v17",
+      "statement": "That museum holds the ___ collection of coins in the whole region.",
+      "context": "That museum holds the rarest collection of coins in the whole region.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "more rare",
+          "is_correct": false,
+          "feedback": "No. 'more rare' is a comparative and would need 'than' plus another collection to compare with."
+        },
+        {
+          "letter": "B",
+          "text": "rarest",
+          "is_correct": true,
+          "feedback": "Correct! 'Rare' takes the ending 'est' directly, and the phrase 'in the whole region' names the complete group for the comparison."
+        },
+        {
+          "letter": "C",
+          "text": "most rare",
+          "is_correct": false,
+          "feedback": "No. 'most' is not used with a one syllable adjective in the superlative, so this form is ungrammatical."
+        },
+        {
+          "letter": "D",
+          "text": "rarely",
+          "is_correct": false,
+          "feedback": "No. 'Rarely' is an adverb of frequency and cannot stand in the adjective slot between the article and the noun."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A superlative identifies the greatest degree within a group that is named explicitly, whether by a phrase of the plus plural or by a wider expression such as in the whole region. The adjective simply follows the regular spelling rule for its syllable count.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle-v18",
+      "statement": "The northern slope is the ___ part of the mountain.",
+      "context": "The northern slope is the most exposed part of the mountain.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "exposedest",
+          "is_correct": false,
+          "feedback": "No. The ending 'est' applies to one syllable adjectives only, and this adjective has two."
+        },
+        {
+          "letter": "B",
+          "text": "more exposed",
+          "is_correct": false,
+          "feedback": "No. 'more exposed' is the comparative and would need 'than' plus a second part of the mountain."
+        },
+        {
+          "letter": "C",
+          "text": "most exposed",
+          "is_correct": true,
+          "feedback": "Correct! A long adjective takes 'the most' before it, and the phrase 'of the mountain' names the whole set of its parts."
+        },
+        {
+          "letter": "D",
+          "text": "exposeder",
+          "is_correct": false,
+          "feedback": "No. Adding 'er' directly to this adjective is not a formation rule of English."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Partitives such as part, side, area and section are common after superlatives because a whole can be divided into portions. The adjective still obeys the syllable rule, and the phrase of the mountain supplies the group.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle-v19",
+      "statement": "The ___ book of the shelf belongs to the student in the second row.",
+      "context": "The thinnest book of the shelf belongs to the student in the second row.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "thinner",
+          "is_correct": false,
+          "feedback": "No. 'thinner' is a comparative and would need 'than' plus a second book to be compared with."
+        },
+        {
+          "letter": "B",
+          "text": "most thin",
+          "is_correct": false,
+          "feedback": "No. 'most' belongs with adjectives of two or more syllables and cannot precede this one syllable word."
+        },
+        {
+          "letter": "C",
+          "text": "the thinner",
+          "is_correct": false,
+          "feedback": "No. 'the thinner' would need 'than' to complete the comparison, and no second book is named in the sentence."
+        },
+        {
+          "letter": "D",
+          "text": "thinnest",
+          "is_correct": true,
+          "feedback": "Correct! 'Thin' doubles its final consonant before 'est', which gives 'thinnest', and the phrase 'of the shelf' names the group."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "A short vowel followed by a single consonant doubles that consonant before 'er' or 'est'. This is the rule behind thin to thinner and big to bigger, and it keeps the stress on the correct syllable of the resulting word.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle-v20",
+      "statement": "The final report was the ___ of the three documents produced.",
+      "context": "The final report was the least useful of the three documents produced.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "little",
+          "is_correct": false,
+          "feedback": "No. 'the little' would express a small quantity of something countable and does not name the lowest degree of usefulness."
+        },
+        {
+          "letter": "B",
+          "text": "less useful",
+          "is_correct": false,
+          "feedback": "No. 'less useful' is the comparative and would need 'than' plus another document to be compared with."
+        },
+        {
+          "letter": "C",
+          "text": "most useful",
+          "is_correct": false,
+          "feedback": "No. 'the most useful' states the opposite, since the sentence says this report was the least useful of the three."
+        },
+        {
+          "letter": "D",
+          "text": "least useful",
+          "is_correct": true,
+          "feedback": "Correct! 'Least' is the superlative of 'little' used with adjectives, and it takes the definite article in the same way as any other superlative."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Least is the extreme member of the little family, and it functions with adjectives exactly as the superlative of the negative degree. It is preceded by the article and followed by the adjective it modifies, with no 'than' anywhere in the sentence.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.85,
       "bundle_id": "EC-ING-11-2026-W24-superlatives-adjectives-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",

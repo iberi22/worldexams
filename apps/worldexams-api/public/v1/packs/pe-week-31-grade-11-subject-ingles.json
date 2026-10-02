@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The city of Huancayo has introduced a weekly recycling collection. Residents must separate paper, glass and plastic into different bins before the lorry arrives. The programme began in three districts last year and will expand to the rest of the city next year. Officials say the aim is to reduce the amount of waste sent to landfill by half within a decade.",
+      "context": "A short passage about a city recycling programme.",
       "options": [
         {
-          "letter": "B",
-          "text": "accommodation",
+          "letter": "A",
+          "text": "The city is expanding a recycling programme in order to cut the waste it sends to landfill.",
           "is_correct": true,
-          "feedback": "Correct! 'Accommodation' is the word for a place where you live or stay temporarily while you are away from home."
+          "feedback": "Correct. The passage states the aim of the recycling programme, and reducing landfill waste by half is that stated aim."
         },
         {
-          "letter": "A",
-          "text": "transportation",
+          "letter": "B",
+          "text": "The programme has already achieved its target of reducing landfill waste by half.",
           "is_correct": false,
-          "feedback": "Wrong. 'Transportation' names the way you travel, such as buses, trains or planes, not the place where you stay."
+          "feedback": "Wrong. The reduction is described as an aim for the next decade, so the target has not yet been achieved."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "Residents must collect their own waste because the collection service has been reduced.",
           "is_correct": false,
-          "feedback": "Wrong. 'Entertainment' is the activity of enjoying shows, films or games, not a place where you sleep."
+          "feedback": "Wrong. The passage says residents must separate waste, not that the service has been reduced."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "The city has banned the use of plastic bottles across all of its districts.",
           "is_correct": false,
-          "feedback": "Wrong. 'Currency' is the money used in a country, which has nothing to do with lodging."
+          "feedback": "Wrong. No ban on plastic bottles is mentioned anywhere in the passage."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "The main idea is the one statement that all the supporting details serve, and here they all describe a recycling scheme aimed at cutting landfill.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -54,36 +54,36 @@
     },
     {
       "id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Every year, twenty students from a secondary school in Arequipa travel to Finland to spend two weeks with a partner school. The students stay with host families, attend regular lessons and take part in a joint science project. The cost is partly covered by the school and partly by a regional fund. Teachers say the aim is to build confidence in English rather than to improve exam results.",
+      "context": "A short passage about a school exchange visit.",
       "options": [
         {
-          "letter": "C",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is the planned route of a journey together with the places and times along the way."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "The exchange exists mainly to raise the school's results in the national examinations.",
           "is_correct": false,
-          "feedback": "Wrong. 'Baggage' is the suitcases and bags themselves, not the plan of the trip."
+          "feedback": "Wrong. The passage explicitly says the aim is confidence in English rather than better exam results."
         },
         {
           "letter": "B",
-          "text": "destination",
+          "text": "The visit combines host families, classroom work and a shared project, and its stated purpose is to build confidence in English.",
+          "is_correct": true,
+          "feedback": "Correct. This summarises the activities and the stated aim, which is what a main-idea answer must cover."
+        },
+        {
+          "letter": "C",
+          "text": "Students spend the two weeks working in factories rather than attending lessons.",
           "is_correct": false,
-          "feedback": "Wrong. A 'destination' is only the place where the journey ends, while an itinerary lists the whole route."
+          "feedback": "Wrong. The students attend regular lessons and take part in a science project, not factory work."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "The regional fund pays for the entire cost of the trip, so families contribute nothing.",
           "is_correct": false,
-          "feedback": "Wrong. A 'passport' is the travel document that proves who you are, not the plan of the journey."
+          "feedback": "Wrong. The passage states that the cost is split between the school and the fund."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "A main idea must cover the whole passage, and this option accounts for both the activities and the purpose without adding anything absent.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -99,41 +99,41 @@
     },
     {
       "id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Paita used to depend almost entirely on fishing. Over the last decade, the town has developed a small but steady tourism industry, mainly because the bay is now visited by cruise ships. Fishing is still important, but the number of people working in hotels and restaurants has grown faster than the number of fishermen. The council expects tourism to become the main source of income within fifteen years.",
+      "context": "A short passage about a coastal town.",
       "options": [
         {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place someone or something is going to or being sent to."
-        },
-        {
           "letter": "A",
-          "text": "departure",
+          "text": "What mainly changed in Paita was the arrival of cruise ships, which replaced fishing boats in the bay.",
           "is_correct": false,
-          "feedback": "Wrong. A 'departure' is the act of leaving and the place you leave from, the opposite end of the trip."
+          "feedback": "Wrong. Cruise ships explain why tourism grew, but they did not replace the fishing fleet."
         },
         {
           "letter": "B",
-          "text": "arrival",
+          "text": "What mainly changed in Paita was the number of fish caught, which has fallen sharply over the decade.",
           "is_correct": false,
-          "feedback": "Wrong. An 'arrival' is the event of getting there, not the place that is being travelled to."
+          "feedback": "Wrong. Nothing in the passage states that the number of fish caught fell; it says fishing is still important."
+        },
+        {
+          "letter": "C",
+          "text": "What mainly changed in Paita was the source of income, which is gradually moving from fishing to tourism.",
+          "is_correct": true,
+          "feedback": "Correct. The passage is organised around a change in the economic base of the town, which is the central idea."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "What mainly changed in Paita was the size of the town, which grew rapidly after tourism began.",
           "is_correct": false,
-          "feedback": "Wrong. A 'journey' is the whole trip from start to finish, not the place at the end of it."
+          "feedback": "Wrong. The passage does not mention rapid population growth, only a change in employment."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "explanation": "When a passage explains how something changed over time, the change itself is usually the main idea and the other details explain it.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -144,41 +144,41 @@
     },
     {
       "id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The municipal library in Trujillo used to open only on weekdays. Last year it extended its hours and now opens on Saturdays as well. It also began a home-delivery service for residents over seventy who cannot travel easily. Attendance has risen by a third since these changes, although the library employs the same number of staff. The director attributes the increase to the longer opening hours rather than to the delivery service.",
+      "context": "A short passage about a library service.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'Luggage' is the collective word for the suitcases and bags you pack your belongings in."
+          "text": "Attendance rose before the library extended its hours, so the changes made no difference.",
+          "is_correct": false,
+          "feedback": "Wrong. The changes came first and the passage presents them as the cause of the increase."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "Attendance fell during the year, and the delivery service was closed to save money.",
           "is_correct": false,
-          "feedback": "Wrong. A 'ticket' is the document that pays for and authorises a journey, not the bag you pack."
+          "feedback": "Wrong. Attendance rose by a third and the delivery service was introduced, not closed."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "Attendance rose because the library hired more staff last year, which is why the total cost went up.",
           "is_correct": false,
-          "feedback": "Wrong. A 'flight' is the journey by plane itself, not the bags carried on it."
+          "feedback": "Wrong. The passage states that the number of staff is unchanged."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Wrong. A 'reservation' is the booking you make for a seat or a room, not the baggage itself."
+          "text": "Attendance rose after the library extended its hours, and the director considers the longer hours the main reason.",
+          "is_correct": true,
+          "feedback": "Correct. The passage links the rise in attendance to the longer hours, and the director's statement confirms which change mattered most."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "A passage that lists changes and then attributes a result to one of them usually points to that attribution as its main point.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -189,37 +189,37 @@
     },
     {
       "id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "A study of two thousand office workers found that those who took a short walk at lunchtime reported lower stress levels than those who stayed at their desks. The researchers also recorded that the walkers slept better that night. However, the study did not measure how long the effects lasted, and it did not include workers who exercise outside the office. The authors therefore recommend more research before the results are used in official health advice.",
+      "context": "A short passage about a medical study.",
       "options": [
         {
-          "letter": "C",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! A 'passenger' is anyone travelling in a vehicle who is not the one driving or piloting it."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "Wrong. A 'pedestrian' travels on foot, so they are not aboard any conveyance at all."
+          "text": "A study linked lunchtime walking with lower reported stress and better sleep, but the researchers say more work is needed.",
+          "is_correct": true,
+          "feedback": "Correct. This states the finding and the researchers' own caution, which together form the message of the passage."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "A study compared lunchtimes at work and found that walking reduces the need for official health advice.",
           "is_correct": false,
-          "feedback": "Wrong. A 'commuter' is defined by making the same trip regularly to work or school, not by being a passenger in general."
+          "feedback": "Wrong. The recommendation for more research does not mean the study reduces the need for health advice."
+        },
+        {
+          "letter": "C",
+          "text": "A study found that office workers who stay at their desks sleep worse than those who walk for health reasons.",
+          "is_correct": false,
+          "feedback": "Wrong. The participants were office workers who stayed at their desks, not people who exercise elsewhere."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "A study proved that taking a walk at lunchtime permanently reduces stress in all office workers.",
           "is_correct": false,
-          "feedback": "Wrong. A 'tourist' is defined by travelling for pleasure, not simply by riding in a vehicle."
+          "feedback": "Wrong. The study did not measure duration and did not claim a permanent effect on all workers."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "A study passage usually has a finding and a limitation; a main-idea answer needs both and must avoid overstating the finding.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -234,41 +234,41 @@
     },
     {
       "id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Farmers in the highlands have traditionally left fields fallow for a year so that the soil can recover. This practice costs them a full season of income. A trial in three communities replaced the fallow year with a cover crop of clover, which fixes nitrogen in the soil. Yields in the following season were fourteen per cent higher than on fallow land, and the extra income covered the cost of the seed within the first year.",
+      "context": "A short passage about a farming technique.",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'Customs' is the office where officials check the goods and the people coming in from abroad."
+          "text": "Replacing a fallow year with a cover crop failed because the seed cost more than the extra income.",
+          "is_correct": false,
+          "feedback": "Wrong. The passage says the extra income covered the seed cost, so the trial succeeded."
         },
         {
           "letter": "B",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Wrong. 'Security' is the police or staff who keep order, while customs staff collect duties on goods."
+          "text": "Replacing a fallow year with a cover crop increased later yields and paid for itself, which is the point of the trial.",
+          "is_correct": true,
+          "feedback": "Correct. The passage gives the yield increase and the financial outcome, and the improvement is the central message."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "The trial proved that clover is the only profitable crop for highland farming communities.",
           "is_correct": false,
-          "feedback": "Wrong. A 'terminal' is the building where you arrive or depart, not the office that checks imports."
+          "feedback": "Wrong. Only three communities were involved and nothing suggests clover is the only profitable crop."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "Highland farmers have always used clover because fallow years have never been practised there.",
           "is_correct": false,
-          "feedback": "Wrong. A 'gate' is the door you pass through to reach the plane; customs is the check itself."
+          "feedback": "Wrong. The passage states that farmers traditionally used fallow years, so the practice was common."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "An evaluative passage reports both an outcome and its practical significance, and a main-idea answer should capture the significance.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -279,41 +279,41 @@
     },
     {
       "id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Two cities of similar size have very different bus networks. In one, buses arrive every ten minutes from six in the morning until ten at night. In the other, service is frequent only during the morning and evening peaks, with long gaps in the middle of the day. Surveys show that residents of the first city use the bus far more often for ordinary journeys, while the second city's residents tend to rely on walking or on being driven. Planners conclude that frequency matters more than the number of routes.",
+      "context": "A short passage about public transport.",
       "options": [
         {
-          "letter": "B",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! A 'boarding pass' is the document the airline hands you at check-in that lets you board the plane."
+          "letter": "A",
+          "text": "The city with more routes is likely to attract more passengers in the future than the city with fewer.",
+          "is_correct": false,
+          "feedback": "Wrong. The planners conclude the opposite, that frequency outweighs the number of routes."
         },
         {
-          "letter": "A",
-          "text": "visa",
+          "letter": "B",
+          "text": "Two cities of similar size should always copy the same bus network from one another.",
           "is_correct": false,
-          "feedback": "Wrong. A 'visa' is the official permission a government gives to enter a country, granted before you travel."
+          "feedback": "Wrong. The passage draws a lesson from the comparison; it does not advise one city to copy the other."
         },
         {
           "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Wrong. A 'receipt' only proves that you paid for something; it does not admit you to the aircraft."
+          "text": "Reliable all-day bus frequency, rather than the number of routes, is what makes residents use public transport for everyday trips.",
+          "is_correct": true,
+          "feedback": "Correct. The survey results and the planners' conclusion together point to frequency as the decisive factor."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "Bus networks in cities of similar size make no measurable difference to how residents travel.",
           "is_correct": false,
-          "feedback": "Wrong. A 'brochure' is advertising material about destinations, not a travel document for boarding."
+          "feedback": "Wrong. The surveys show a measurable difference between the two cities."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "A passage built around a comparison ends with a conclusion, and that conclusion is the main idea the details support.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -324,41 +324,41 @@
     },
     {
       "id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Many students believe that a night of poor sleep ruins the whole following day. Researchers have found a more complicated picture: after one bad night, performance falls but recovers within a day, whereas three consecutive nights of poor sleep reduce performance for a week afterwards. The researchers add that caffeine can mask the effects of a single bad night, which is why people often overestimate the damage. They recommend that students prioritise three consecutive nights of adequate sleep rather than occasional long sleeps.",
+      "context": "A short passage about sleep research.",
       "options": [
         {
-          "letter": "C",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'Sightseeing' means going round and looking at the famous sights of a place as a visitor."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
+          "text": "Students should sleep long at weekends to compensate for poor sleep during the week.",
           "is_correct": false,
-          "feedback": "Wrong. 'Shopping' is buying things in a city, a different activity from visiting its places of interest."
+          "feedback": "Wrong. The recommendation is consistent sleep rather than compensating with long sleeps at weekends."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "Poor sleep has no measurable effect on performance, and only caffeine affects how people feel.",
           "is_correct": false,
-          "feedback": "Wrong. 'Hiking' is walking long distances in the countryside on marked trails, not touring the sights of a location."
+          "feedback": "Wrong. The passage reports measurable effects on performance, so this contradicts it."
+        },
+        {
+          "letter": "C",
+          "text": "A single night of poor sleep damages a student's performance for a full week without recovering.",
+          "is_correct": false,
+          "feedback": "Wrong. The passage states that performance recovers within a day after a single bad night."
         },
         {
           "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "Wrong. 'Camping' means staying the night outdoors in a tent, not a day of visiting places of interest."
+          "text": "The real damage comes from several nights of poor sleep in a row, so occasional recovery nights do not offset it.",
+          "is_correct": true,
+          "feedback": "Correct. The passage distinguishes one bad night from three consecutive nights and builds its advice on that distinction."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "When a passage corrects a popular belief, the correction is usually the main idea and the research details support it.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "A regional museum has removed all the rope barriers from its main gallery. Visitors may now walk close to the exhibits, including the fragile eighteenth-century ceramics. Attendance has doubled since the change, and the museum reports that many visitors mention the freedom of movement as the reason for returning. However, three objects have been damaged in the past year, none of which was behind a barrier. The director will decide in December whether to restore the barriers to some displays.",
+      "context": "A short passage about a museum policy.",
       "options": [
         {
-          "letter": "B",
-          "text": "souvenir",
+          "letter": "A",
+          "text": "The museum traded protection for access and will review the decision, which is the situation the passage describes.",
           "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is an object kept afterwards as a reminder of the trip and of the people or places on it."
+          "feedback": "Correct. This captures both sides of the outcome, the access gained and the risk incurred, and notes that a decision is pending."
         },
         {
-          "letter": "A",
-          "text": "gift",
+          "letter": "B",
+          "text": "The museum's policy was unpopular with visitors, who preferred to view the ceramics from behind barriers.",
           "is_correct": false,
-          "feedback": "Wrong. A 'gift' is chosen to be given to somebody else, while a souvenir is kept by the traveller."
+          "feedback": "Wrong. Visitors reported that the freedom of movement was the reason they returned, so they liked the change."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "The museum will restore all the rope barriers in December, because visitors have complained about them.",
           "is_correct": false,
-          "feedback": "Wrong. An 'award' is a distinction given for an achievement, not a keepsake bought on a trip."
+          "feedback": "Wrong. The passage says the director will decide whether to restore barriers, not that all of them will return."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "The museum doubled its attendance without any cost, since nothing has been damaged in the gallery.",
           "is_correct": false,
-          "feedback": "Wrong. A 'prize' is what a competitor wins in a contest; it says nothing about remembering a journey."
+          "feedback": "Wrong. Three objects have been damaged, so the change did have a cost."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "A passage that reports a benefit and a cost and ends with a pending decision has that tension at its centre.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "A secondary school has moved its start time from seven to half past seven. The change was made because buses arrived late and many students missed the first period. Since the change, punctuality has improved and the number of students arriving after eight has fallen sharply. However, several students who travel a long distance now complain that they get home later in the afternoon, and bus drivers say the later start has delayed the routes. The head teacher says the change will be reviewed at the end of the year.",
+      "context": "A short passage about a school timetable change.",
       "options": [
         {
-          "letter": "D",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra period of time by which a departure or arrival is postponed."
-        },
-        {
           "letter": "A",
-          "text": "cancellation",
+          "text": "A later start solved the transport problem completely and nobody is dissatisfied with the outcome.",
           "is_correct": false,
-          "feedback": "Wrong. A 'cancellation' calls the plan off entirely, whereas a delay only postpones it by some hours."
+          "feedback": "Wrong. The afternoon complaint from long-distance travellers shows that not everyone is satisfied."
         },
         {
           "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Wrong. 'Departure' is simply the moment of leaving; the lateness is measured separately from it."
+          "text": "A later start improved punctuality but created a new problem for long-distance travellers, so the school will review it.",
+          "is_correct": true,
+          "feedback": "Correct. This reports the benefit, the new drawback and the planned review, which together form the passage's message."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "A later start was rejected by the bus drivers, who refused to change their routes.",
           "is_correct": false,
-          "feedback": "Wrong. An 'arrival' is the moment of getting there, not the amount of time a plan runs late."
+          "feedback": "Wrong. The drivers reported a delay, but nothing suggests they refused to operate the routes."
+        },
+        {
+          "letter": "D",
+          "text": "A later start reduced punctuality and made the bus problem significantly worse for everyone.",
+          "is_correct": false,
+          "feedback": "Wrong. Punctuality improved rather than deteriorating."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "A passage that presents an improvement and a resulting problem is balanced in structure, and a good main-idea answer must keep both.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Understand",
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -459,41 +459,41 @@
     },
     {
       "id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "A language school replaced traditional grammar lessons with conversation tasks in which students must negotiate meaning to complete a task. Test scores in grammar did not fall, and speaking scores rose sharply. Teachers reported that students became more willing to guess unfamiliar words, which they had previously avoided. The school's director nevertheless warns that the method works only where learners are not required to write formal essays, which the final exam does.",
+      "context": "A short passage about a language-teaching method.",
       "options": [
         {
-          "letter": "D",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'Check-in' is when you arrive and register, and the desk records your presence and gives you your pass."
-        },
-        {
           "letter": "A",
-          "text": "check-out",
+          "text": "The school abandoned grammar teaching altogether, which explains the rise in speaking scores.",
           "is_correct": false,
-          "feedback": "Wrong. 'Check-out' is the opposite moment, when you pay and hand back the room key before leaving."
+          "feedback": "Wrong. The method replaced grammar lessons rather than abandoning grammar teaching, since the scores were maintained."
         },
         {
           "letter": "B",
-          "text": "booking",
+          "text": "The new method raised grammar scores as well, so no aspect of the syllabus was affected.",
           "is_correct": false,
-          "feedback": "Wrong. A 'booking' is the reservation made earlier, while check-in is the reporting of your arrival."
+          "feedback": "Wrong. The passage says grammar scores did not fall, not that they rose."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "The new method helped speaking and confidence while leaving grammar intact, but it is not suitable for the exam's written demands.",
+          "is_correct": true,
+          "feedback": "Correct. This states the measured outcomes and the stated limitation together, which is the passage's balanced message."
+        },
+        {
+          "letter": "D",
+          "text": "The director believes the exam should be changed to remove its written section.",
           "is_correct": false,
-          "feedback": "Wrong. A 'reservation' holds a room or a seat for you in advance, not the act of registering on arrival."
+          "feedback": "Wrong. The director warns the school about the mismatch rather than proposing a change to the exam."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "A passage that presents measured results and then a limitation is best summarised by an option that carries both halves.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -504,41 +504,41 @@
     },
     {
       "id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "A city introduced a charge for driving into its centre during peak hours. Traffic volume fell by eighteen per cent in the first year, and average journey times dropped by six minutes. Retailers in the centre complained that they lost customers, and several moved to the suburbs. Transport planners reply that the scheme pays for better bus services, and figures show that bus use has risen by a quarter. They add that air quality has improved measurably since the charge began.",
+      "context": "A short passage about urban traffic.",
       "options": [
         {
-          "letter": "C",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! A 'layover' is the wait between two flights, usually at the connecting airport, before you continue."
-        },
-        {
           "letter": "A",
-          "text": "stopover",
+          "text": "The congestion charge was cancelled because retailers successfully challenged it in court.",
           "is_correct": false,
-          "feedback": "Wrong. A 'stopover' is a deliberate break in a long journey to spend extra time at a place, not a wait between flights."
+          "feedback": "Wrong. Nothing in the passage reports a legal challenge or a cancellation."
         },
         {
           "letter": "B",
-          "text": "transfer",
+          "text": "The congestion charge increased traffic in the centre and made air quality worse.",
           "is_correct": false,
-          "feedback": "Wrong. A 'transfer' is the flight or vehicle that moves you from one place to another, not the waiting itself."
+          "feedback": "Wrong. Traffic fell and air quality improved, which is the opposite of this option."
+        },
+        {
+          "letter": "C",
+          "text": "The congestion charge achieved every result it was designed for, with no opposition from any group.",
+          "is_correct": false,
+          "feedback": "Wrong. The retailers complained and some left, so the outcome was not without opposition."
         },
         {
           "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Wrong. 'Transit' names the general passing through an area or a country, not a specific rest between stages."
+          "text": "The congestion charge reduced traffic and improved air quality, but it shifted some commercial activity to the suburbs.",
+          "is_correct": true,
+          "feedback": "Correct. This includes the environmental successes and the commercial reaction, which together make up the passage's content."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Summarising a policy passage means acknowledging both the benefits reported by the promoters and the costs reported by the affected.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -549,41 +549,41 @@
     },
     {
       "id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "A foundation awards scholarships to students from rural districts who cannot afford university fees. Applicants must submit a short essay and two references. In its first year the foundation funded sixty awards. However, when applications were reviewed, it emerged that more than half of the successful candidates had attended a selective school in the capital, which suggests that the scheme is reaching better-resourced families than intended. The foundation has decided to reserve half of next year's awards for students from schools with no exam preparation centre.",
+      "context": "A short passage about a scholarship programme.",
       "options": [
         {
-          "letter": "C",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'Currency' is the whole monetary system a country uses, not any single object."
-        },
-        {
           "letter": "A",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Wrong. A 'coin' is one round metal piece of money, while the definition covers the entire money system."
+          "text": "The scholarship reached better-resourced applicants than intended, so the foundation has reserved part of the scheme for less advantaged schools.",
+          "is_correct": true,
+          "feedback": "Correct. The passage identifies a mismatch between the aim and the outcome and gives the resulting change to the scheme."
         },
         {
           "letter": "B",
-          "text": "banknote",
+          "text": "The scholarship has already met its objective and the foundation will continue unchanged.",
           "is_correct": false,
-          "feedback": "Wrong. A 'banknote' is a single paper note, while the definition is about the money system of a whole country."
+          "feedback": "Wrong. The foundation decided to reserve half the awards, so the scheme is changing."
+        },
+        {
+          "letter": "C",
+          "text": "The foundation found that rural students were less likely to submit applications, which is why the scheme was revised.",
+          "is_correct": false,
+          "feedback": "Wrong. The problem was not the number of applicants but the type of school they had attended."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "The scholarship was cancelled because too many applicants already had university funding.",
           "is_correct": false,
-          "feedback": "Wrong. 'Cash' is the money in coins and notes that you are holding, regardless of any country's system."
+          "feedback": "Wrong. The foundation awarded sixty scholarships and has revised it, not cancelled it."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "A passage that describes a scheme and then discovers it is not reaching its intended group has that discovery as its central point.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -594,41 +594,41 @@
     },
     {
       "id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "A stretch of coastline in southern Peru is losing roughly two metres of land each year. Satellite images show that the retreat is fastest where a river reaches the sea, because the river carries sediment that once replaced the eroded sand. Engineers have built a sea wall along two kilometres of the shore, and there the erosion has slowed. However, a geologist warns that the wall may simply move the erosion to neighbouring beaches, since the sediment that used to settle nearby now settles behind the wall.",
+      "context": "A short passage about a coastline.",
       "options": [
         {
-          "letter": "B",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book written about a place to help visitors find their way around it."
+          "letter": "A",
+          "text": "Coastal erosion is caused entirely by the river sediment that reaches the sea.",
+          "is_correct": false,
+          "feedback": "Wrong. The erosion is worse where the sediment arrives, so sediment is protective rather than causal."
         },
         {
-          "letter": "A",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "Wrong. A 'map' is a single drawing of an area, not the book of practical information about the place."
+          "letter": "B",
+          "text": "Sea walls slow erosion where they are built but may transfer the problem to nearby coastlines, according to the geologist.",
+          "is_correct": true,
+          "feedback": "Correct. This reports the local benefit and the geologist's warning about transfer, which is the passage's central tension."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "The satellite images show that the coastline has advanced by two metres in recent years.",
           "is_correct": false,
-          "feedback": "Wrong. A 'dictionary' lists words and their meanings, not practical details about a destination."
+          "feedback": "Wrong. The images show a loss of land, which is a retreat rather than an advance."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "Engineers have solved the erosion problem along the whole affected coastline with sea walls.",
           "is_correct": false,
-          "feedback": "Wrong. An 'encyclopedia' covers all knowledge on a subject, while a guidebook is written about one specific place."
+          "feedback": "Wrong. Walls cover only two kilometres and the erosion continues elsewhere."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "A passage that describes an intervention and then a professional warning about its side effects is best summarised by an option holding both.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -639,41 +639,41 @@
     },
     {
       "id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Two explanations have been offered for the fall in bee numbers. One blames the use of neonicotinoid pesticides, pointing to the fact that colony losses began shortly after their introduction. The other blames the spread of the invasive varroa mite, noting that losses also occurred in regions where the pesticides were never used. A review of the evidence concludes that both factors are likely involved, since the greatest losses have occurred in places where the two overlap.",
+      "context": "A short passage about two competing explanations.",
       "options": [
         {
-          "letter": "C",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! A 'backpack' has two shoulder straps and is designed to be carried on your back."
-        },
-        {
           "letter": "A",
-          "text": "suitcase",
+          "text": "The review concludes that pesticides are the only cause, since losses began after their introduction.",
           "is_correct": false,
-          "feedback": "Wrong. A 'suitcase' is a flat box with a handle that you pull along beside you."
+          "feedback": "Wrong. The evidence from regions without the pesticides is precisely why the review kept the second explanation."
         },
         {
           "letter": "B",
-          "text": "briefcase",
+          "text": "The review rejects the pesticide explanation entirely and blames the varroa mite alone.",
           "is_correct": false,
-          "feedback": "Wrong. A 'briefcase' is a stiff case for papers that you carry in your hand at work."
+          "feedback": "Wrong. The review does not reject the pesticide explanation; it retains it as one contributing factor."
+        },
+        {
+          "letter": "C",
+          "text": "The review attributes the losses to two interacting causes rather than to a single one, which is why the greatest losses are where both are present.",
+          "is_correct": true,
+          "feedback": "Correct. This captures the review's conclusion that both factors interact and explains the pattern of the worst losses."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "The review finds no link between either factor and the fall in bee numbers.",
           "is_correct": false,
-          "feedback": "Wrong. A 'handbag' is held in the hand and has no straps at all."
+          "feedback": "Wrong. The review concludes that the two factors are likely involved in the losses."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "When a passage weighs two explanations and reaches a conclusion about their interaction, that conclusion is the main idea.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -684,41 +684,41 @@
     },
     {
       "id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "A report on water use in a coastal city opens with a detailed table of consumption figures for each district. It then gives a brief methodological note explaining where the figures came from, and only in the fourth section does it present an argument about what should be done. A reviewer notes that many readers stop before reaching the argument, and recommends that the report lead with its recommendations.",
+      "context": "A short passage about the structure of a report.",
       "options": [
         {
-          "letter": "B",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'Overseas' means to or in another country reached by crossing the sea."
+          "letter": "A",
+          "text": "The reviewer recommends removing the recommendations so that the report ends with data rather than advice.",
+          "is_correct": false,
+          "feedback": "Wrong. The reviewer recommends promoting the recommendations, not deleting them."
         },
         {
-          "letter": "A",
-          "text": "domestic",
+          "letter": "B",
+          "text": "The reviewer objects to the length of the report and would prefer a shorter document.",
           "is_correct": false,
-          "feedback": "Wrong. 'Domestic' means inside the borders of your own country, which is the opposite of overseas."
+          "feedback": "Wrong. Length is not the criticism made; the order of the material is."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "The reviewer thinks the figures are unreliable, because they appear before the methodological note.",
           "is_correct": false,
-          "feedback": "Wrong. 'Local' means in a particular small area or town, which may well be inside your own country."
+          "feedback": "Wrong. The reviewer raises no doubt about the reliability of the figures."
         },
         {
           "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Wrong. 'National' means concerning the nation as a whole, not travelling away from it across the sea."
+          "text": "The reviewer's point is that the report buries its recommendations after preliminary material, which may prevent readers from reaching them.",
+          "is_correct": true,
+          "feedback": "Correct. This identifies the structural problem the reviewer describes and connects it to the recommendation to lead with conclusions."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "A passage about a text's own structure is best summarised by an option that states the diagnosis and the resulting recommendation together.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -729,41 +729,41 @@
     },
     {
       "id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Participants read a text on screen with their eyes tracked by a camera. The results showed that readers fixated on the first and last line of each paragraph far longer than on the middle lines. Researchers concluded that readers rely heavily on what they expect to find at paragraph boundaries. When the paragraph order was scrambled, readers took much longer to identify the topic of the text, which supports the same conclusion.",
+      "context": "A short passage about a reading experiment.",
       "options": [
         {
-          "letter": "D",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! A 'budget' estimates planned income and spending over a set period such as a month or a year."
-        },
-        {
           "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "Wrong. An 'expense' is a single outgoing payment, not a plan covering a whole period."
+          "text": "The tracking results and the scrambling experiment together suggest that readers use paragraph boundaries to predict the content of a text.",
+          "is_correct": true,
+          "feedback": "Correct. This integrates the two pieces of evidence and draws the shared conclusion about prediction at boundaries."
         },
         {
           "letter": "B",
-          "text": "cost",
+          "text": "The study proves that eye movements alone determine whether a reader understands a text.",
           "is_correct": false,
-          "feedback": "Wrong. The 'cost' is the price of one thing or service, with no timeframe attached to it."
+          "feedback": "Wrong. The study reports attention and speed; it makes no claim about understanding being determined by eye movements."
         },
         {
           "letter": "C",
-          "text": "price",
+          "text": "The scrambling experiment shows that paragraph order is irrelevant to how quickly a topic is identified.",
           "is_correct": false,
-          "feedback": "Wrong. A 'price' is the amount a single item sells for, not an estimate of a period's finances."
+          "feedback": "Wrong. Scrambling the order made identification slower, so order does matter."
+        },
+        {
+          "letter": "D",
+          "text": "The tracking results show that readers pay most attention to the middle of a paragraph because that is where the detail lies.",
+          "is_correct": false,
+          "feedback": "Wrong. The longest fixations were on the first and last lines, not the middle."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "A research passage that presents two experiments is summarised best by an option that unifies their shared conclusion.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -774,41 +774,41 @@
     },
     {
       "id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "For four centuries, merchants carried salt from the coastal salt pans to the highlands in exchange for textiles. The route shaped the architecture of several intermediate towns, whose houses were built from salt blocks that later dissolved and left distinctive foundations. Historians have used those foundations to map the route, although a recent study warns that the same building technique was used elsewhere for unrelated reasons, so the evidence must be interpreted cautiously.",
+      "context": "A short passage about a historical trade route.",
       "options": [
         {
-          "letter": "D",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement where a company pays compensation for a specified loss in exchange for a premium."
-        },
-        {
           "letter": "A",
-          "text": "warranty",
+          "text": "Salt-block foundations proved exactly where the route passed, because no other building used that technique.",
           "is_correct": false,
-          "feedback": "Wrong. A 'warranty' covers a defective product for a limited time and is given by the maker, not for illness or death."
+          "feedback": "Wrong. The recent study explicitly warns that the same technique was used elsewhere."
         },
         {
           "letter": "B",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "Wrong. A 'guarantee' is a promise about the quality of a product or service, with no payment of a premium."
+          "text": "Salt-block foundations helped historians trace the trade route, but the technique was not unique enough to prove the route's path on its own.",
+          "is_correct": true,
+          "feedback": "Correct. This states what the evidence contributed and the limitation the study identifies, which is the passage's balanced point."
         },
         {
           "letter": "C",
-          "text": "policy",
+          "text": "Merchants built houses from salt for three centuries before they began trading textiles.",
           "is_correct": false,
-          "feedback": "Wrong. A 'policy' is the written document that records an insurance contract, not the practice of compensation itself."
+          "feedback": "Wrong. The passage describes the trade in salt and textiles together over four centuries, not a separate building phase."
+        },
+        {
+          "letter": "D",
+          "text": "The salt trade had no effect on architecture, and the foundations are unrelated to the merchants.",
+          "is_correct": false,
+          "feedback": "Wrong. The passage states that the route shaped the architecture of the intermediate towns."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "Evidence passages distinguish what a source can show from what it cannot prove, and a good summary preserves both.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Universities have promoted spaced revision for years, but the evidence quoted in this article comes almost entirely from laboratory studies of vocabulary learning. The author notes that students preparing for essay subjects may need a different approach, since their skill is in organising arguments rather than recalling isolated facts. She therefore argues that research should compare the two kinds of learning before advising all students to revise the same way.",
+      "context": "A short passage with an explicit thesis about study methods.",
       "options": [
         {
-          "letter": "B",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'Vaccination' is the administration of a vaccine that makes the immune system ready against a disease."
+          "letter": "A",
+          "text": "The article's thesis is that laboratory studies of vocabulary learning are scientifically worthless.",
+          "is_correct": false,
+          "feedback": "Wrong. The article criticises the narrowness of the evidence, not its scientific value."
         },
         {
-          "letter": "A",
-          "text": "medication",
+          "letter": "B",
+          "text": "The article's thesis is that spaced revision has been proved effective for all subjects, including essays.",
           "is_correct": false,
-          "feedback": "Wrong. 'Medication' treats the symptoms of an illness you already have; it does not create immunity beforehand."
+          "feedback": "Wrong. The author questions rather than confirms the extension of that evidence to essays."
         },
         {
           "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Wrong. A 'prescription' is the doctor's written order for a medicine, not the vaccine itself."
+          "text": "The article's thesis is that advice based on vocabulary research should not be extended to essay-based subjects without further comparison.",
+          "is_correct": true,
+          "feedback": "Correct. This states the argument the author makes, which is that the evidence does not yet cover essay-based learning."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "The article's thesis is that essay writing should be replaced by spaced revision of isolated facts.",
           "is_correct": false,
-          "feedback": "Wrong. An 'infection' is the invasion of the body by a pathogen, which is the opposite of preventing it."
+          "feedback": "Wrong. The author proposes more comparison, not the replacement of essay writing."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "When a passage states that evidence does not justify a wider application, the gap between the evidence and the advice is the thesis.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "A drug intended to lower blood pressure was tested in a large trial. The drug did lower blood pressure, as expected, but patients who took it reported noticeably worse sleep than those in the control group. The researchers concluded that the drug should be used only where the benefit outweighs the sleep disturbance. The trial therefore did not produce a simple positive result, even though its main intended effect was confirmed.",
+      "context": "A short passage about an unexpected outcome in a trial.",
       "options": [
         {
-          "letter": "C",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the tiredness and disturbed body clock caused by crossing several time zones in a flight."
-        },
-        {
           "letter": "A",
-          "text": "fatigue",
+          "text": "The trial concluded that the drug should never be used, because the sleep disturbance outweighed every benefit.",
           "is_correct": false,
-          "feedback": "Wrong. 'Fatigue' is general tiredness from any cause, such as hard work, not specifically from time zones."
+          "feedback": "Wrong. The conclusion restricts rather than prohibits use, and does not weigh the benefit as always outweighed."
         },
         {
           "letter": "B",
-          "text": "exhaustion",
+          "text": "The trial showed that sleep quality is unrelated to taking medication for blood pressure.",
           "is_correct": false,
-          "feedback": "Wrong. 'Exhaustion' is extreme tiredness from physical effort or illness, not from a change of time zone."
+          "feedback": "Wrong. The trial found a connection between the drug and worse sleep."
+        },
+        {
+          "letter": "C",
+          "text": "The trial failed because the drug did not reduce blood pressure as the researchers expected.",
+          "is_correct": false,
+          "feedback": "Wrong. The passage states that the drug did lower blood pressure as expected."
         },
         {
           "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Wrong. 'Insomnia' is simply difficulty sleeping, which can come from many causes unrelated to flying."
+          "text": "The trial confirmed the drug's intended effect while revealing a side effect that narrows where it should be used.",
+          "is_correct": true,
+          "feedback": "Correct. This states both the confirmed effect and the new restriction on use, which is the passage's actual conclusion."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "A mixed-outcome passage must be summarised with both the confirmed expectation and the newly discovered complication.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",

@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct past simple form of the verb 'to visit' in this sentence: 'Last Saturday I ___ my grandmother.'",
+      "context": "A student describes last weekend in a short message.",
       "options": [
         {
-          "letter": "B",
-          "text": "accommodation",
+          "letter": "A",
+          "text": "visited",
           "is_correct": true,
-          "feedback": "Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday."
+          "feedback": "Correct. A regular verb in the past simple takes the -ed ending, and 'last Saturday' fixes the action in a finished past period."
         },
         {
-          "letter": "A",
-          "text": "transportation",
+          "letter": "B",
+          "text": "was visit",
           "is_correct": false,
-          "feedback": "'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep."
+          "feedback": "Wrong. 'Was visit' lacks the past participle required after the auxiliary 'was'."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "visiting",
           "is_correct": false,
-          "feedback": "'Entertainment' is the fun or activities you enjoy, not the building or room where you stay."
+          "feedback": "Wrong. 'Visiting' is a gerund and cannot serve as the finite verb of a clause with 'I'."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "visits",
           "is_correct": false,
-          "feedback": "'Currency' is the money of a country, which has nothing to do with where you sleep."
+          "feedback": "Wrong. 'Visits' is the third person singular present form, which cannot follow the pronoun 'I' in the past."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Regular verbs add -ed to the base form in the past simple, which is the form to use with a finished time expression such as 'last Saturday'.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -54,36 +54,36 @@
     },
     {
       "id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'We ___ to Cusco last month and it was wonderful.'",
+      "context": "A diarist records a journey to the coast.",
       "options": [
         {
-          "letter": "B",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route."
+          "letter": "A",
+          "text": "travel",
+          "is_correct": false,
+          "feedback": "Wrong. 'Travel' is the base form and cannot be the past simple of a completed journey."
         },
         {
-          "letter": "A",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "'Baggage' is the suitcases and bags you travel with, not the written plan of the trip."
+          "letter": "B",
+          "text": "travelled",
+          "is_correct": true,
+          "feedback": "Correct. British and Peruvian spelling doubles the final consonant, so the past simple is 'travelled' for a single 'l' base form."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "travelling",
           "is_correct": false,
-          "feedback": "'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan."
+          "feedback": "Wrong. 'Travelling' is the gerund form used in continuous structures, not in the past simple."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "travels",
           "is_correct": false,
-          "feedback": "'Passport' is the travel document that lets you cross a border, not the schedule of your trip."
+          "feedback": "Wrong. 'Travels' is the third person singular present and does not agree with the plural subject 'we'."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "explanation": "Spellings that end in a single consonant plus 'l' double that consonant in the past simple and in other British-style inflections.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -99,40 +99,40 @@
     },
     {
       "id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct past simple form of the irregular verb 'to buy'.",
+      "context": "A museum guide describes what happened in the past.",
       "options": [
         {
-          "letter": "D",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place someone or something is going or being sent to."
-        },
-        {
           "letter": "A",
-          "text": "departure",
+          "text": "buied",
           "is_correct": false,
-          "feedback": "'Departure' is the action of leaving, the opposite end of the journey from the destination."
+          "feedback": "Wrong. 'Buied' attempts a -ed ending and does not correspond to any standard irregular pattern."
         },
         {
           "letter": "B",
-          "text": "arrival",
+          "text": "buyed",
           "is_correct": false,
-          "feedback": "'Arrival' is the act of getting there; the place you arrive at is the destination."
+          "feedback": "Wrong. 'Buyed' is not an English word; the past simple of 'buy' is irregular and adds no suffix."
         },
         {
           "letter": "C",
-          "text": "journey",
+          "text": "bought",
+          "is_correct": true,
+          "feedback": "Correct. 'Buy' is irregular, and its past simple is 'bought', which must be memorised as one of the main irregular groups."
+        },
+        {
+          "letter": "D",
+          "text": "buy",
           "is_correct": false,
-          "feedback": "'Journey' is the whole trip from start to finish, not the place you are heading to."
+          "feedback": "Wrong. 'Buy' is the base form and would be required only after a modal or an auxiliary."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "The past simple has three shapes: -ed for regular verbs, a consonant doubling and a silent -e drop, and a fully irregular set that must be learned.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Remember",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
       "periodo": 3,
@@ -144,41 +144,41 @@
     },
     {
       "id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct negative past simple sentence.",
+      "context": "A witness gives evidence about a shop robbery.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip."
+          "text": "He not saw the thief.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Not' cannot stand alone before a bare verb in standard English; it must follow an auxiliary."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "He didn't saw the thief.",
           "is_correct": false,
-          "feedback": "'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself."
+          "feedback": "Wrong. After 'did' the verb must be the base form; 'saw' after 'did' is a double marking of the past."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "He doesn't see the thief.",
           "is_correct": false,
-          "feedback": "'Flight' is the journey by plane, or the plane itself; the bags are called luggage."
+          "feedback": "Wrong. 'Doesn't' is present tense negation and would place the witnessing at the present moment."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "'Reservation' is the booking you make for a seat or a room, not the bags you pack."
+          "text": "He didn't see the thief.",
+          "is_correct": true,
+          "feedback": "Correct. A negative past simple uses the auxiliary 'did' plus 'not' plus the base form, so the verb stays in its original form."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "The key rule is that after 'did' the verb returns to its base form, since 'did' already carries the past tense.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -189,41 +189,41 @@
     },
     {
       "id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which past simple question is correctly formed?",
+      "context": "A classmate asks about yesterday's homework.",
       "options": [
         {
-          "letter": "B",
-          "text": "passenger",
+          "letter": "A",
+          "text": "Did you finish the report?",
           "is_correct": true,
-          "feedback": "Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew."
+          "feedback": "Correct. A yes/no question in the past simple begins with the auxiliary 'did' and is followed by the subject and the base form."
         },
         {
-          "letter": "A",
-          "text": "pedestrian",
+          "letter": "B",
+          "text": "You did finish the report?",
           "is_correct": false,
-          "feedback": "'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all."
+          "feedback": "Wrong. As written this is a statement rather than a question, and the inversion required by a question is missing."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "Did you finished the report?",
           "is_correct": false,
-          "feedback": "'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case."
+          "feedback": "Wrong. The past form 'finished' must not follow 'did'; the auxiliary already carries the tense."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "Do you finish the report?",
           "is_correct": false,
-          "feedback": "'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents."
+          "feedback": "Wrong. 'Do' is the present auxiliary and cannot be used to ask about a completed past action."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "Past simple questions invert the auxiliary 'did' to the front of the sentence and keep the main verb in its base form.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -234,40 +234,40 @@
     },
     {
       "id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The storm ___ the roof of our house last night.' Which past simple is correct for the verb 'to break'?",
+      "context": "A weather report describes the storm.",
       "options": [
         {
-          "letter": "C",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage."
-        },
-        {
           "letter": "A",
-          "text": "security",
+          "text": "breaked",
           "is_correct": false,
-          "feedback": "'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in."
+          "feedback": "Wrong. 'Breaked' does not exist in English; the verb 'break' is fully irregular."
         },
         {
           "letter": "B",
-          "text": "terminal",
+          "text": "broke",
+          "is_correct": true,
+          "feedback": "Correct. 'Break' is irregular and its past simple is 'broke', following the internal vowel change pattern."
+        },
+        {
+          "letter": "C",
+          "text": "broken",
           "is_correct": false,
-          "feedback": "'Terminal' is the whole building where passengers wait, eat and catch their flights."
+          "feedback": "Wrong. 'Broken' is the past participle, which would appear after 'have' or 'been', not as the past simple."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "broked",
           "is_correct": false,
-          "feedback": "'Gate' is the particular door you board through, not the place where officials inspect your luggage."
+          "feedback": "Wrong. 'Broked' follows no standard inflection pattern for this verb."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "The pattern break, broke, broken shows a change in the stem vowel; the middle form 'broke' is what the past simple requires.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
       "periodo": 3,
@@ -279,41 +279,41 @@
     },
     {
       "id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that reports a past plan which was not carried out.",
+      "context": "A friend describes a weekend plan that never happened.",
       "options": [
         {
-          "letter": "C",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board."
-        },
-        {
           "letter": "A",
-          "text": "visa",
+          "text": "We were go to visit Ayacucho, but we didn't went.",
           "is_correct": false,
-          "feedback": "'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane."
+          "feedback": "Wrong. After 'were' the verb must be the gerund, and the second clause after 'did' must use the base form."
         },
         {
           "letter": "B",
-          "text": "receipt",
+          "text": "We are going to visit Ayacucho, but we don't go.",
           "is_correct": false,
-          "feedback": "'Receipt' is the proof of payment for a purchase, not the travel document for boarding."
+          "feedback": "Wrong. 'Are going to' states a present or future intention, which does not match a plan that belongs to the past."
+        },
+        {
+          "letter": "C",
+          "text": "We were going to visit Ayacucho, but we didn't go.",
+          "is_correct": true,
+          "feedback": "Correct. 'Were going to' expresses an intention formed in the past, and the second clause uses the past simple for the outcome that failed."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "We went to visit Ayacucho, but we don't go.",
           "is_correct": false,
-          "feedback": "'Brochure' is a small booklet of tourist information, not the document that lets you board."
+          "feedback": "Wrong. 'Went' states that the visit did happen, which contradicts the report of an unfulfilled plan."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "Past intentions that were abandoned or not realised use the pattern 'was or were going to' followed by the base form.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -324,41 +324,41 @@
     },
     {
       "id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly separates an action and a later state.",
+      "context": "A reporter gives a sequence of events in a news summary.",
       "options": [
         {
-          "letter": "C",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'Sightseeing' is the activity of visiting the places of interest in a location."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
+          "text": "The class ended and then it empties.",
           "is_correct": false,
-          "feedback": "'Shopping' is buying things in stores, which is not the same as visiting the sights of a place."
+          "feedback": "Wrong. 'Empties' is present tense; a sequence of completed past events needs the past simple or past continuous."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "The class ends and then it was empty.",
           "is_correct": false,
-          "feedback": "'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions."
+          "feedback": "Wrong. 'Ends' is present tense and cannot join two past events in sequence."
+        },
+        {
+          "letter": "C",
+          "text": "The class ended and then it was emptying.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Was emptying' describes an action in progress rather than the resulting state of the room."
         },
         {
           "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "'Camping' is staying outdoors in a tent, not visiting the sights of a location."
+          "text": "The class ended and then it was empty.",
+          "is_correct": true,
+          "feedback": "Correct. The class ending is the past simple action and the resulting condition is a state described in the past, which 'was empty' expresses."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "English often marks the second element of a past sequence as a state rather than an action, so a simple adjective normally follows the verb 'was'.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that is grammatically correct in the negative past simple.",
+      "context": "A detective interview reconstructs what someone did.",
       "options": [
         {
-          "letter": "C",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited."
-        },
-        {
           "letter": "A",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "'Gift' is something you give to another person; a souvenir is kept by the person who took the trip."
+          "text": "She never went to the library on Sundays.",
+          "is_correct": true,
+          "feedback": "Correct. The adverb 'never' already carries the negative meaning, so no extra auxiliary is needed and the past simple follows directly."
         },
         {
           "letter": "B",
-          "text": "award",
+          "text": "She went never to the library on Sundays.",
           "is_correct": false,
-          "feedback": "'Award' is a prize given for an achievement, not an object bought or kept as a memory."
+          "feedback": "Wrong. Placing 'never' after the verb changes the emphasis and is not the standard word order for this negation."
+        },
+        {
+          "letter": "C",
+          "text": "She never gone to the library on Sundays.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Never' cannot be followed directly by a past participle such as 'gone' in simple negative sentences."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "She never goes to the library on Sundays.",
           "is_correct": false,
-          "feedback": "'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey."
+          "feedback": "Wrong. 'Never goes' is present tense, which contradicts the reconstructed past described in the interview."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Adverbs of frequency such as never, ever, always and rarely make the auxiliary unnecessary when the tense is already clear from the verb form.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly uses a verb ending in a consonant plus 'y' in the past simple.",
+      "context": "A student explains what she did during a gap year.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra time by which something ends up late or gets postponed."
+          "text": "She studyed medicine in Lima.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Studyed' keeps the -y and adds -ed, which is not how this spelling pattern inflects."
         },
         {
           "letter": "B",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "'Cancellation' means the event does not happen at all, not that it happens later than planned."
+          "text": "She studied medicine in Lima.",
+          "is_correct": true,
+          "feedback": "Correct. When a verb ending in consonant plus 'y' is made past, the -y changes to -i and -ed is added, giving 'studied'."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "She studies medicine in Lima.",
           "is_correct": false,
-          "feedback": "'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost."
+          "feedback": "Wrong. 'Studies' is the third person singular present and does not describe a completed course of study."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "She studdied medicine in Lima.",
           "is_correct": false,
-          "feedback": "'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination."
+          "feedback": "Wrong. 'Studdied' doubles the final consonant, a rule that applies only after a single vowel."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "The orthographic rule is simple: consonant plus y becomes -ied in the past simple, whereas vowel plus y simply adds -ed, as in 'played'.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -459,41 +459,41 @@
     },
     {
       "id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence with the correct past simple: 'The airline ___ our flight to Arequipa because of the storm.'",
+      "context": "A travel agent recounts a cancelled booking.",
       "options": [
         {
-          "letter": "C",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter."
-        },
-        {
           "letter": "A",
-          "text": "check-out",
+          "text": "canceld",
           "is_correct": false,
-          "feedback": "'Check-out' is the opposite moment, when you leave the hotel or hand back the room."
+          "feedback": "Wrong. 'Canceld' drops the required doubling and produces a non-standard form."
         },
         {
           "letter": "B",
-          "text": "booking",
+          "text": "canceled",
           "is_correct": false,
-          "feedback": "'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in."
+          "feedback": "Wrong. 'Cancelled' with one 'l' is a frequent error; doubling is required in this spelling of the word."
+        },
+        {
+          "letter": "C",
+          "text": "cancelled",
+          "is_correct": true,
+          "feedback": "Correct. With a single 'l' and the stress on the final syllable, the -ed ending is written with a double 'l' in the standard form."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "cancelling",
           "is_correct": false,
-          "feedback": "'Reservation' is the booking document, not the act of reporting your presence at the desk."
+          "feedback": "Wrong. 'Cancelling' is the gerund, which would require an auxiliary before it."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "British and Peruvian spelling usually doubles the final consonant before -ed, so the past simple is written 'canceled' in American usage.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -504,41 +504,41 @@
     },
     {
       "id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly expresses the past simple after the connector 'after'.",
+      "context": "A news item reports a transport strike in full.",
       "options": [
         {
-          "letter": "B",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! A 'layover' is a period of rest or waiting between two stages of a journey."
+          "letter": "A",
+          "text": "After the strike ended, the trains are starting again.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Are starting again' is present continuous, which describes an action still in progress rather than a completed sequence."
         },
         {
-          "letter": "A",
-          "text": "stopover",
+          "letter": "B",
+          "text": "After the strike is ending, the trains started again.",
           "is_correct": false,
-          "feedback": "'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights."
+          "feedback": "Wrong. 'Is ending' is present continuous, which cannot precede a past simple main event in a past sequence."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "After the strike ended, the trains start again.",
           "is_correct": false,
-          "feedback": "'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting."
+          "feedback": "Wrong. 'Start again' is present tense and cannot continue a sequence that is entirely in the past."
         },
         {
           "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "'Transit' is a system of moving people and goods through a city, not a break between two flights."
+          "text": "After the strike ended, the trains started again.",
+          "is_correct": true,
+          "feedback": "Correct. In a sequence of completed past events joined by 'after', both events take the past simple."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "The simple past and the present perfect differ in sequence rules: with the past simple, 'after' can link two completed events in the same time frame.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -549,41 +549,41 @@
     },
     {
       "id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly reports a single finished event and distinguishes it from a repeated past pattern.",
+      "context": "A writer contrasts a past habit with a past single event.",
       "options": [
         {
           "letter": "A",
-          "text": "currency",
+          "text": "We visited the museum twice last year; we usually visited the coast in January.",
           "is_correct": true,
-          "feedback": "Correct! 'Currency' is the money system in general use in a particular country."
+          "feedback": "Correct. 'Last year' fixes the finished time for the visit and 'usually' marks the repeated January pattern, both in the past simple."
         },
         {
           "letter": "B",
-          "text": "coin",
+          "text": "We have visited the museum twice last year; we usually visit the coast in January.",
           "is_correct": false,
-          "feedback": "'Coin' is a single metal piece of money, one item within the currency, not the whole system."
+          "feedback": "Wrong. 'Have visited' is the present perfect, which cannot be followed by 'last year' because that time is finished."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "We visited the museum twice last year; we usually are visiting the coast in January.",
           "is_correct": false,
-          "feedback": "'Banknote' is a paper bill, one item of the currency rather than the system of money itself."
+          "feedback": "Wrong. 'Usually are visiting' misuses the continuous, since a repeated January habit is expressed in the past simple."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "We visit the museum twice last year; we usually visit the coast in January.",
           "is_correct": false,
-          "feedback": "'Cash' means money in the physical form you hold, not the money system of a country."
+          "feedback": "Wrong. 'We visit' in the simple present cannot be combined with the finished time expression 'last year'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "The present perfect cannot be used with finished time expressions such as 'last year', so a single event in that period must use the past simple.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -594,41 +594,41 @@
     },
     {
       "id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct question to ask about a past decision.",
+      "context": "A friend asks about a decision made last week.",
       "options": [
         {
           "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book of information about a place written for visitors and tourists."
+          "text": "Do you decide to study abroad?",
+          "is_correct": false,
+          "feedback": "Wrong. 'Do' asks about a present or general decision, not one taken last week."
         },
         {
           "letter": "B",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "'Map' is a single sheet or screen showing the layout of a place, not a book of information."
+          "text": "Did you decide to study abroad?",
+          "is_correct": true,
+          "feedback": "Correct. 'Did' inverts to the front of the question and 'decide' stays in its base form because the auxiliary carries the past tense."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "You did decide to study abroad?",
           "is_correct": false,
-          "feedback": "'Dictionary' is a book of word definitions of a language, not information about a place for visitors."
+          "feedback": "Wrong. This is a statement, and it lacks the inversion that a yes/no question requires."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "Did you decided to study abroad?",
           "is_correct": false,
-          "feedback": "'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place."
+          "feedback": "Wrong. The past form 'decided' must not follow 'did' in a question any more than in a statement."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Questions and negatives with 'did' share one rule: the auxiliary does the work, so the main verb never takes a past ending.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -639,41 +639,41 @@
     },
     {
       "id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly reports a decision taken at a precise moment in the past.",
+      "context": "A colleague talks about a promotion she was offered.",
       "options": [
         {
           "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! A 'backpack' is the bag with shoulder straps that you carry on your back."
+          "text": "She accepts the offer on Friday afternoon.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Accepts' is present tense and cannot be placed with a finished time such as Friday afternoon."
         },
         {
           "letter": "B",
-          "text": "suitcase",
+          "text": "She was accepting the offer on Friday afternoon.",
           "is_correct": false,
-          "feedback": "'Suitcase' is a case with a handle that you pull along, not a bag worn on the back."
+          "feedback": "Wrong. 'Was accepting' describes an ongoing process rather than a decision that was completed at a stated moment."
         },
         {
           "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "'Briefcase' is a case for documents and a laptop, carried in the hand for work."
+          "text": "She accepted the offer on Friday afternoon.",
+          "is_correct": true,
+          "feedback": "Correct. A decision completed at a precise past moment takes the past simple, which is the standard treatment of 'on' plus a day and time."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "She has accepted the offer on Friday afternoon.",
           "is_correct": false,
-          "feedback": "'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps."
+          "feedback": "Wrong. 'Has accepted' cannot be used with a finished past time; that combination belongs to the present simple for now."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "A precise past time expression in the first, as in 'on Friday afternoon', signals the past simple rather than the present perfect.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -684,41 +684,41 @@
     },
     {
       "id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly uses the past simple because the time period is closed.",
+      "context": "An exam compares the past simple and the present perfect.",
       "options": [
         {
-          "letter": "C",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'Overseas' means in or to a foreign country, especially one across the sea."
-        },
-        {
           "letter": "A",
-          "text": "domestic",
+          "text": "I am finishing my project last week.",
           "is_correct": false,
-          "feedback": "'Domestic' means inside your own country, the opposite of overseas."
+          "feedback": "Wrong. 'Am finishing' is present continuous and has no connection to a closed past period."
         },
         {
           "letter": "B",
-          "text": "local",
+          "text": "I had finished my project last week.",
           "is_correct": false,
-          "feedback": "'Local' means in the area where you are, even more restricted than domestic; it never crosses a border."
+          "feedback": "Wrong. The past perfect would place the completion before another past event, and there is no earlier past reference in the sentence."
+        },
+        {
+          "letter": "C",
+          "text": "I finished my project last week.",
+          "is_correct": false,
+          "feedback": "Wrong. The present perfect cannot be combined with a closed past time such as 'last week'."
         },
         {
           "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "'National' refers to a whole country without saying it is foreign, so it does not imply going abroad."
+          "text": "I have finished my project last week.",
+          "is_correct": true,
+          "feedback": "Correct. 'Last week' is a closed period, so the completed action must be expressed with the past simple."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "A closed time period in the past excludes the present perfect, because that form deliberately leaves the time of the action unspecified.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -729,41 +729,41 @@
     },
     {
       "id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct past simple of the verb 'to travel' in the spelling used by the newspaper.",
+      "context": "A researcher writes about a subject with a zero vowel in the first syllable.",
       "options": [
         {
-          "letter": "C",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! A 'budget' is the estimate of income and expenditure planned for a set period."
-        },
-        {
           "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "'Expense' is a single cost already paid; the definition is the estimate for the whole period."
+          "text": "travelled",
+          "is_correct": true,
+          "feedback": "Correct. American spelling writes the base form 'travel' and adds -ed directly, giving 'traveled' with a single consonant."
         },
         {
           "letter": "B",
-          "text": "cost",
+          "text": "travell",
           "is_correct": false,
-          "feedback": "'Cost' is the price of one thing, whereas a budget covers all income and all spending."
+          "feedback": "Wrong. 'Travell' is not an English word form and lacks both the base and the past inflection."
+        },
+        {
+          "letter": "C",
+          "text": "travel",
+          "is_correct": false,
+          "feedback": "Wrong. 'Travel' is the base form and cannot serve as the past simple of a completed trip."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "traveled",
           "is_correct": false,
-          "feedback": "'Price' is the amount a single item costs, not a plan of income and expenditure over time."
+          "feedback": "Wrong. 'Travelled' is the British and Peruvian double-l form; the American newspaper keeps the single consonant."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "Orthographic variation allows both 'traveled' and 'travelled', but a publication must apply one convention consistently within the same text.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -774,41 +774,41 @@
     },
     {
       "id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that is correct when two past events are described with 'when'.",
+      "context": "A historian dates a set of events precisely.",
       "options": [
         {
           "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium."
+          "text": "When we arrived, the ceremony had already started.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Arrived' and 'started' as two past simple events leave the order of events unstated and often imply the wrong sequence."
         },
         {
           "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract."
+          "text": "When we arrived, the ceremony already started.",
+          "is_correct": true,
+          "feedback": "Correct. The past perfect shows that the ceremony began before the moment of arrival, which is the required order of the two past events."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "When we were arriving, the ceremony had started already tomorrow.",
           "is_correct": false,
-          "feedback": "'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium."
+          "feedback": "Wrong. 'Tomorrow' is a future time and cannot appear in a past sequence, and 'were arriving' implies duration."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "When we did arrive, the ceremony already has started.",
           "is_correct": false,
-          "feedback": "'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance."
+          "feedback": "Wrong. The auxiliary 'did' cannot be combined with a past perfect in this structure, and 'already has started' is not a valid form."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "When the earlier of two past events must be presented as completed before the later one, English uses the past perfect for the earlier event.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence in which the past simple reports the more recent and interrupting past event.",
+      "context": "A comparison task examines subtle differences in meaning.",
       "options": [
         {
           "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease."
+          "text": "While he was packing, he suddenly will remember his passport.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Will remember' is future and would place the realisation after the moment of narration."
         },
         {
           "letter": "B",
-          "text": "medication",
+          "text": "While he will pack, he suddenly remembered his passport.",
           "is_correct": false,
-          "feedback": "'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one."
+          "feedback": "Wrong. 'Will pack' is future tense and cannot form a background for a past event."
         },
         {
           "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself."
+          "text": "While he was packing, he suddenly remembered his passport.",
+          "is_correct": true,
+          "feedback": "Correct. The background action is the past continuous and the interrupting realisation is the past simple, exactly the sequence being tested."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "While he packs, he suddenly remembered his passport.",
           "is_correct": false,
-          "feedback": "'Infection' is the state of having the disease; vaccination is what protects you before you get it."
+          "feedback": "Wrong. 'Packs' in the simple present cannot serve as a past background for 'remembered'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "The difference between the past continuous and the past simple in this structure is purely one of duration and of role in the sequence.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence in which the past simple is used with an expression of unreal or hypothetical past.",
+      "context": "A linguistics task asks which sentence a learner wrote correctly.",
       "options": [
         {
-          "letter": "C",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones."
-        },
-        {
           "letter": "A",
-          "text": "fatigue",
+          "text": "If I would study harder, I had passed.",
           "is_correct": false,
-          "feedback": "'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones."
+          "feedback": "Wrong. 'Would' cannot open an if-clause, and 'I had passed' would require an earlier past reference."
         },
         {
           "letter": "B",
-          "text": "exhaustion",
+          "text": "If I studied harder, I passed.",
           "is_correct": false,
-          "feedback": "'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect."
+          "feedback": "Wrong. 'I passed' states a real past result, which converts the sentence into a statement of fact rather than a hypothetical."
+        },
+        {
+          "letter": "C",
+          "text": "If I had studied harder, I would have passed.",
+          "is_correct": false,
+          "feedback": "Wrong. 'If I studied' plus 'would have passed' mixes the second and third conditionals and is not a standard structure."
         },
         {
           "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock."
+          "text": "If I studied harder, I would have passed.",
+          "is_correct": true,
+          "feedback": "Correct. The third conditional pairs the past perfect in the if-clause with 'would have' plus the past participle in the main clause."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "Exam questions on hypotheticals test the sequence carefully: an unreal past situation requires the past perfect in the condition and would have plus a participle in the result.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",

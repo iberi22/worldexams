@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses 'to be' correctly with an adjective describing a state?",
+      "context": "Your Ecuadorian pen friend describes the weather in the highlands: the mornings are cold and the afternoons are sunny.",
       "options": [
         {
-          "letter": "D",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'Accommodation' is the word for a place where you live or stay temporarily while you are away from home."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "Wrong. 'Transportation' names the way you travel, such as buses, trains or planes, not the place where you stay."
+          "text": "The mornings are cold and the afternoons are sunny.",
+          "is_correct": true,
+          "feedback": "Correct! 'Are' agrees with the plural subjects 'the mornings' and 'the afternoons', which is what a plural subject needs."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "The mornings is cold and the afternoons are sunny.",
           "is_correct": false,
-          "feedback": "Wrong. 'Entertainment' is the activity of enjoying shows, films or games, not a place where you sleep."
+          "feedback": "'Is' agrees with a singular subject, but 'the mornings' is plural, so the verb should be 'are cold'."
         },
         {
           "letter": "C",
-          "text": "currency",
+          "text": "The mornings be cold and the afternoons be sunny.",
           "is_correct": false,
-          "feedback": "Wrong. 'Currency' is the money used in a country, which has nothing to do with lodging."
+          "feedback": "'Be' is an infinitive and cannot open the clause; the present simple of 'to be' after a plural subject is 'are'."
+        },
+        {
+          "letter": "D",
+          "text": "The mornings are cold and the afternoons is sunny.",
+          "is_correct": false,
+          "feedback": "The first 'are' is right, but 'the afternoons' is also plural, so its verb should be 'are sunny' and not 'is sunny'."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "The verb 'to be' has three present forms: am with I, is with he, she, it and one singular noun, and are with you, we, they and every plural subject. Spanish speakers often over-apply 'is' because every other verb takes -s in the singular, but 'are' is the verb for any plural subject.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -54,81 +54,36 @@
     },
     {
       "id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct form of 'to be' to complete the sentence: 'The weather (be) unpredictable above three thousand metres.'",
+      "context": "Priest in Otavalo: the volcano is a tourist attraction, but the weather is unpredictable above three thousand metres.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is the planned route of a journey together with the places and times along the way."
+          "text": "The weather am unpredictable above three thousand metres.",
+          "is_correct": false,
+          "feedback": "'Am' is used only with the pronoun 'I' and never with a noun such as 'the weather'."
         },
         {
           "letter": "B",
-          "text": "baggage",
+          "text": "The weather are unpredictable above three thousand metres.",
           "is_correct": false,
-          "feedback": "Wrong. 'Baggage' is the suitcases and bags themselves, not the plan of the trip."
+          "feedback": "'Are' goes with a plural subject; 'the weather' is a singular noun in English, however abstract the idea it names."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "The weather be unpredictable above three thousand metres.",
           "is_correct": false,
-          "feedback": "Wrong. A 'destination' is only the place where the journey ends, while an itinerary lists the whole route."
+          "feedback": "'Be' is the bare infinitive and needs a subject before it in a simple statement of state."
         },
         {
           "letter": "D",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "Wrong. A 'passport' is the travel document that proves who you are, not the plan of the journey."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "destination",
+          "text": "The weather is unpredictable above three thousand metres.",
           "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place someone or something is going to or being sent to."
-        },
-        {
-          "letter": "A",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Wrong. A 'departure' is the act of leaving and the place you leave from, the opposite end of the trip."
-        },
-        {
-          "letter": "B",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Wrong. An 'arrival' is the event of getting there, not the place that is being travelled to."
-        },
-        {
-          "letter": "C",
-          "text": "journey",
-          "is_correct": false,
-          "feedback": "Wrong. A 'journey' is the whole trip from start to finish, not the place at the end of it."
+          "feedback": "Correct! 'The weather' is singular even though it names an uncountable idea, so it takes 'is' before an adjective."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "explanation": "Abstract nouns such as 'weather', 'news', 'information' and 'advice' are singular in English, so they take 'is': the weather is cold, the news is bad. This is the opposite of the Spanish, where weather and news are also singular but the learner often over-applies the plural habit of the verb.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -143,173 +98,38 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-v3",
+      "statement": "Complete the dialogue with the correct short answer: 'Are you a university student?' '___'",
+      "context": "Damian is at the University of Guayaquil and he studies marine biology.",
       "options": [
         {
-          "letter": "B",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'Luggage' is the collective word for the suitcases and bags you pack your belongings in."
+          "letter": "A",
+          "text": "No, I not.",
+          "is_correct": false,
+          "feedback": "A negative answer needs the same verb as the question, and the verb that goes with 'I' is 'am', not the bare word 'not'."
         },
         {
-          "letter": "A",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "Wrong. A 'ticket' is the document that pays for and authorises a journey, not the bag you pack."
+          "letter": "B",
+          "text": "No, I am.",
+          "is_correct": true,
+          "feedback": "Correct! 'I' takes the verb 'am' in every case, so the short answer after a negative question is 'No, I am.'"
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "No, I is.",
           "is_correct": false,
-          "feedback": "Wrong. A 'flight' is the journey by plane itself, not the bags carried on it."
+          "feedback": "'Is' belongs to he, she and it; the pronoun 'I' requires 'am' in both questions and answers."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "No, me not.",
           "is_correct": false,
-          "feedback": "Wrong. A 'reservation' is the booking you make for a seat or a room, not the baggage itself."
+          "feedback": "'Me' is an object pronoun and cannot serve as the subject of a short answer in English."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "explanation": "The pronoun 'I' is always followed by 'am', in affirmative statements, negatives and short answers alike: I am tired, I am not tired, Yes, I am. The subject 'I' is also the only one that takes the contraction 'I'm', never 'I are' or 'I is'.\n---",
       "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! A 'passenger' is anyone travelling in a vehicle who is not the one driving or piloting it."
-        },
-        {
-          "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "Wrong. A 'pedestrian' travels on foot, so they are not aboard any conveyance at all."
-        },
-        {
-          "letter": "B",
-          "text": "commuter",
-          "is_correct": false,
-          "feedback": "Wrong. A 'commuter' is defined by making the same trip regularly to work or school, not by being a passenger in general."
-        },
-        {
-          "letter": "D",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "Wrong. A 'tourist' is defined by travelling for pleasure, not simply by riding in a vehicle."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'Customs' is the office where officials check the goods and the people coming in from abroad."
-        },
-        {
-          "letter": "B",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Wrong. 'Security' is the police or staff who keep order, while customs staff collect duties on goods."
-        },
-        {
-          "letter": "C",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "Wrong. A 'terminal' is the building where you arrive or depart, not the office that checks imports."
-        },
-        {
-          "letter": "D",
-          "text": "gate",
-          "is_correct": false,
-          "feedback": "Wrong. A 'gate' is the door you pass through to reach the plane; customs is the check itself."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! A 'boarding pass' is the document the airline hands you at check-in that lets you board the plane."
-        },
-        {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "Wrong. A 'visa' is the official permission a government gives to enter a country, granted before you travel."
-        },
-        {
-          "letter": "B",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Wrong. A 'receipt' only proves that you paid for something; it does not admit you to the aircraft."
-        },
-        {
-          "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "Wrong. A 'brochure' is advertising material about destinations, not a travel document for boarding."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -323,38 +143,218 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-v4",
+      "statement": "Choose the sentence with the correct verb after the plural subject 'Ana and her brother'.",
+      "context": "Ana and her brother are waiting at the airport; their flight to Madrid leaves at midnight.",
       "options": [
         {
-          "letter": "B",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'Sightseeing' means going round and looking at the famous sights of a place as a visitor."
+          "letter": "A",
+          "text": "Ana and her brother is waiting at the airport.",
+          "is_correct": false,
+          "feedback": "'Is' agrees with a single subject, but 'Ana and her brother' names two people and therefore takes 'are waiting'."
         },
         {
-          "letter": "A",
-          "text": "shopping",
+          "letter": "B",
+          "text": "Ana and her brother am waiting at the airport.",
           "is_correct": false,
-          "feedback": "Wrong. 'Shopping' is buying things in a city, a different activity from visiting its places of interest."
+          "feedback": "'Am' is reserved for the pronoun 'I'; no combination of two third person subjects can take 'am waiting'."
         },
         {
           "letter": "C",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "Wrong. 'Hiking' is walking long distances in the countryside on marked trails, not touring the sights of a location."
+          "text": "Ana and her brother are waiting at the airport.",
+          "is_correct": true,
+          "feedback": "Correct! When two subjects are joined by 'and' they form a plural subject, so the verb of 'to be' is 'are'."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "Ana and her brother be waiting at the airport.",
           "is_correct": false,
-          "feedback": "Wrong. 'Camping' means staying the night outdoors in a tent, not a day of visiting places of interest."
+          "feedback": "'Be' is an infinitive and cannot follow a subject directly in a present continuous sentence."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Two subjects joined by 'and' always make a plural subject, so the verb agrees in the plural: Ana and her brother are late. The trap is a singular noun immediately next to 'is'; reading the whole subject before deciding the number avoids it.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-v5",
+      "statement": "Choose the sentence where 'to be' correctly describes a quality of a thing.",
+      "context": "The coffee from Loja is famous because the altitude is high and the climate is cool.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The altitude is high and the climate is cool.",
+          "is_correct": true,
+          "feedback": "Correct! Both 'the altitude' and 'the climate' are singular nouns, so each one takes 'is' before the adjective."
+        },
+        {
+          "letter": "B",
+          "text": "The altitude are high and the climate are cool.",
+          "is_correct": false,
+          "feedback": "'Are' is the plural form and does not agree with either of these two singular subjects."
+        },
+        {
+          "letter": "C",
+          "text": "The altitude be high and the climate be cool.",
+          "is_correct": false,
+          "feedback": "'Be' is the bare infinitive of the verb and needs an auxiliary or a subject of its own to stand as the finite verb."
+        },
+        {
+          "letter": "D",
+          "text": "The altitude is high and the climate are cool.",
+          "is_correct": false,
+          "feedback": "The first clause is correct, but 'the climate' is singular as well, so its verb should be 'is cool'."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "When 'to be' links a subject to an adjective, the verb agrees with the subject alone. A singular noun takes 'is' and a plural noun takes 'are'. Descriptions of things follow this rule without exception, which makes them a good place to practise subject and verb agreement.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-v6",
+      "statement": "Choose the sentence that correctly distinguishes singular and plural subjects with 'to be'.",
+      "context": "Notebooks, pens and the dictionary are in the backpack; the water bottle is on the table.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The notebooks are in the backpack and the pen are on the table.",
+          "is_correct": false,
+          "feedback": "The first clause is correct, but the second subject 'the pen' is singular, so its verb should be 'is on the table'."
+        },
+        {
+          "letter": "B",
+          "text": "The notebooks and the pen is in the backpack.",
+          "is_correct": false,
+          "feedback": "'Is' agrees with a singular subject, but 'the notebooks and the pen' adds up to two items and is plural."
+        },
+        {
+          "letter": "C",
+          "text": "The notebooks and the pen are in the backpack.",
+          "is_correct": true,
+          "feedback": "Correct! Two nouns joined by 'and' form one plural subject, so the verb of 'to be' is 'are'."
+        },
+        {
+          "letter": "D",
+          "text": "The notebook and the pens is in the backpack.",
+          "is_correct": false,
+          "feedback": "'Is' is right for the singular 'the notebook', but 'and the pens' makes the whole subject plural and requires 'are'."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Agreement is decided by the whole subject, not by the noun closest to the verb. A subject made of two nouns joined by 'and' is plural, so the verb is 'are'. When two separate clauses carry their own subjects, each clause must be checked on its own.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-v7",
+      "statement": "Choose the sentence that correctly reports the state of the family.",
+      "context": "Your host family is from Cuenca and they are preparing a traditional meal for the weekend.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Your host family are from Cuenca and they are preparing a traditional meal.",
+          "is_correct": false,
+          "feedback": "'Family' is singular in standard usage, so 'are from Cuenca' does not agree with it; 'they are' in the second clause is correct."
+        },
+        {
+          "letter": "B",
+          "text": "Your host family are from Cuenca and they is preparing a traditional meal.",
+          "is_correct": false,
+          "feedback": "'Are' does not agree with the singular noun 'family'; the verb after that subject must be 'is'."
+        },
+        {
+          "letter": "C",
+          "text": "Your host family is from Cuenca and they is preparing a traditional meal.",
+          "is_correct": false,
+          "feedback": "The first clause is correct, but the pronoun 'they' is always plural and takes 'are preparing'."
+        },
+        {
+          "letter": "D",
+          "text": "Your host family is from Cuenca and they are preparing a traditional meal.",
+          "is_correct": true,
+          "feedback": "Correct! A noun ending in -y such as 'family' is singular in English, so it takes 'is', while the pronoun 'they' correctly takes 'are'."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "A singular noun such as 'family', 'class' or 'team' stays singular even when it names several people, so it takes 'is'. The number is decided by the word itself, not by the meaning it carries. The pronoun 'they', on the other hand, is always plural and always takes 'are'.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-v8",
+      "statement": "Choose the option that uses 'to be' correctly in both clauses.",
+      "context": "The students are excited because the results of the exam are on the notice board.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The students is excited because the results is on the notice board.",
+          "is_correct": false,
+          "feedback": "'Is' does not agree with 'the students' in the first clause, and 'the results' needs 'are' in the second clause."
+        },
+        {
+          "letter": "B",
+          "text": "The students are excited because the results are on the notice board.",
+          "is_correct": true,
+          "feedback": "Correct! 'The students' is plural, so it takes 'are', and 'the results' is also plural in English, so 'are' is right again."
+        },
+        {
+          "letter": "C",
+          "text": "The students is excited because the results are on the notice board.",
+          "is_correct": false,
+          "feedback": "The second clause is correct, but 'the students' is a plural subject and therefore takes 'are excited'."
+        },
+        {
+          "letter": "D",
+          "text": "The students are excited because the results is on the notice board.",
+          "is_correct": false,
+          "feedback": "The first clause is correct, but 'the results' is a plural noun, so its verb should be 'are on the notice board'."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "Nouns that end in -s are plural even when the idea seems singular, so 'the results are', 'the news are' in British usage and, more widely, 'the results are'. Each clause of a sentence has its own subject and its own verb, so agreement is checked clause by clause.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -369,217 +369,37 @@
     },
     {
       "id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the dialogue with the correct short answers.",
+      "context": "Is your brother a doctor? No, he isn't. He is an engineer at a construction company.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
+          "text": "No, he isn't. He is an engineer.",
           "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is an object kept afterwards as a reminder of the trip and of the people or places on it."
+          "feedback": "Correct! The question uses 'is', so the negative short answer repeats 'isn't' in its contracted form."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "No, he doesn't. He is an engineer.",
           "is_correct": false,
-          "feedback": "Wrong. A 'gift' is chosen to be given to somebody else, while a souvenir is kept by the traveller."
+          "feedback": "'Doesn't' answers a question built with 'do' or 'does', such as 'Does he work here?', not a question with 'is'."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "No, he not. He is an engineer.",
           "is_correct": false,
-          "feedback": "Wrong. An 'award' is a distinction given for an achievement, not a keepsake bought on a trip."
+          "feedback": "A negative short answer keeps the verb of the question; 'not' on its own cannot form a short answer in English."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "No, he aren't. He is an engineer.",
           "is_correct": false,
-          "feedback": "Wrong. A 'prize' is what a competitor wins in a contest; it says nothing about remembering a journey."
+          "feedback": "'Aren't' is the plural form of 'be' and cannot agree with the singular pronoun 'he'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra period of time by which a departure or arrival is postponed."
-        },
-        {
-          "letter": "A",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "Wrong. A 'cancellation' calls the plan off entirely, whereas a delay only postpones it by some hours."
-        },
-        {
-          "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Wrong. 'Departure' is simply the moment of leaving; the lateness is measured separately from it."
-        },
-        {
-          "letter": "D",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Wrong. An 'arrival' is the moment of getting there, not the amount of time a plan runs late."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'Check-in' is when you arrive and register, and the desk records your presence and gives you your pass."
-        },
-        {
-          "letter": "A",
-          "text": "check-out",
-          "is_correct": false,
-          "feedback": "Wrong. 'Check-out' is the opposite moment, when you pay and hand back the room key before leaving."
-        },
-        {
-          "letter": "B",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Wrong. A 'booking' is the reservation made earlier, while check-in is the reporting of your arrival."
-        },
-        {
-          "letter": "C",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Wrong. A 'reservation' holds a room or a seat for you in advance, not the act of registering on arrival."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! A 'layover' is the wait between two flights, usually at the connecting airport, before you continue."
-        },
-        {
-          "letter": "A",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "Wrong. A 'stopover' is a deliberate break in a long journey to spend extra time at a place, not a wait between flights."
-        },
-        {
-          "letter": "B",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "Wrong. A 'transfer' is the flight or vehicle that moves you from one place to another, not the waiting itself."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Wrong. 'Transit' names the general passing through an area or a country, not a specific rest between stages."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'Currency' is the whole monetary system a country uses, not any single object."
-        },
-        {
-          "letter": "A",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Wrong. A 'coin' is one round metal piece of money, while the definition covers the entire money system."
-        },
-        {
-          "letter": "B",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "Wrong. A 'banknote' is a single paper note, while the definition is about the money system of a whole country."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "Wrong. 'Cash' is the money in coins and notes that you are holding, regardless of any country's system."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "A short answer repeats the auxiliary of the question with a pronoun in front of it. With 'is' the pair is 'he is' or 'he isn't', and with 'does' it is 'he does' or 'he doesn't'. Mixing the two forms, such as answering a question with 'is' using 'doesn't', breaks the exchange.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -593,38 +413,218 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-v10",
+      "statement": "Choose the exchange that correctly matches a 'where' question with its answer.",
+      "context": "Where are the keys? They are on the kitchen counter, next to the fruit bowl.",
       "options": [
         {
-          "letter": "B",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book written about a place to help visitors find their way around it."
+          "letter": "A",
+          "text": "'Where is the keys?' 'They are on the kitchen counter.'",
+          "is_correct": false,
+          "feedback": "'Is' does not agree with 'the keys', which is plural, so the question needs 'Where are the keys?'"
         },
         {
-          "letter": "A",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "Wrong. A 'map' is a single drawing of an area, not the book of practical information about the place."
+          "letter": "B",
+          "text": "'Where are the keys?' 'They are on the kitchen counter.'",
+          "is_correct": true,
+          "feedback": "Correct! 'Are' agrees with the plural subject 'the keys' and 'they' answers it with the same plural pronoun."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "'Where are the keys?' 'It is on the kitchen counter.'",
           "is_correct": false,
-          "feedback": "Wrong. A 'dictionary' lists words and their meanings, not practical details about a destination."
+          "feedback": "'It' is the singular pronoun and cannot stand for 'the keys', which is plural; the answer must use 'they are'."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "'Where the keys are?' 'They are on the kitchen counter.'",
           "is_correct": false,
-          "feedback": "Wrong. An 'encyclopedia' covers all knowledge on a subject, while a guidebook is written about one specific place."
+          "feedback": "A question needs the auxiliary before the subject, so the order is 'Where are the keys?' and never 'Where the keys are?'."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "In a question with 'to be' the auxiliary is inverted in front of the subject: where are they, who is she, what is it. The answer then repeats the same number with a matching pronoun: they are, he is, it is. Number has to agree on both sides of the exchange.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-v11",
+      "statement": "Choose the correct sentence with 'to be' and a present participle.",
+      "context": "My grandfather is retired, but he is still very active in the community.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "My grandfather is retired, but he is still very act.",
+          "is_correct": false,
+          "feedback": "'Act' is the base form of a verb; a quality such as 'active' needs the adjective form before it can follow 'is'."
+        },
+        {
+          "letter": "B",
+          "text": "My grandfather is retire, but he is still very active.",
+          "is_correct": false,
+          "feedback": "'Retire' is the base form of the verb, but after 'is' a state is described with an adjective or with a past participle, not with a base form."
+        },
+        {
+          "letter": "C",
+          "text": "My grandfather retired, but he is still very active.",
+          "is_correct": false,
+          "feedback": "'Retired' without 'is' leaves the clause without a finite verb, so the sentence has no complete structure."
+        },
+        {
+          "letter": "D",
+          "text": "My grandfather is retired, but he is still very active.",
+          "is_correct": true,
+          "feedback": "Correct! 'Retired' is an adjective describing a state and 'active' describes a quality, so both stand after 'is'."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "After 'is' a state can be described with an adjective, as in 'the door is open', or with a past participle standing as an adjective, as in 'he is retired'. What never follows 'is' is the bare base form of a verb: 'he is retire' is not English.\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-v12",
+      "statement": "Choose the option that correctly answers the question with the right pronoun.",
+      "context": "Is this yours? No, it isn't mine. My bag is the blue one.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, it not mine. My bag is the blue one.",
+          "is_correct": false,
+          "feedback": "A negative short answer needs the contracted verb, so 'is not' becomes 'isn't' after the pronoun."
+        },
+        {
+          "letter": "B",
+          "text": "No, they isn't mine. My bag is the blue one.",
+          "is_correct": false,
+          "feedback": "'They' is plural and cannot agree with the singular verb 'isn't' in the short answer."
+        },
+        {
+          "letter": "C",
+          "text": "No, it isn't mine. My bag is the blue one.",
+          "is_correct": true,
+          "feedback": "Correct! 'It' is the singular pronoun that stands for a single object, and it matches the 'isn't' of the short answer."
+        },
+        {
+          "letter": "D",
+          "text": "No, this isn't mine. My bag is the blue one.",
+          "is_correct": false,
+          "feedback": "Repeating the demonstrative 'this' answers the question but breaks the pronoun pattern of a short answer, which requires a pronoun."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A short answer begins with a pronoun: I, you, he, she, it, we or they. The pronoun has to match the subject of the question in number, and the verb that follows has to be the same auxiliary that appeared in the question. 'This' and 'that' are demonstratives, not pronouns of the personal series.\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-v13",
+      "statement": "Choose the sentence where both instances of 'to be' agree with their subjects.",
+      "context": "Camila's laptop is broken, but her phone is working perfectly.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Camila's laptop is broken, but her phone is working perfectly.",
+          "is_correct": true,
+          "feedback": "Correct! Both subjects are singular, so both take 'is', whether the following word is a participle or an adverb."
+        },
+        {
+          "letter": "B",
+          "text": "Camila's laptop are broken, but her phone is working perfectly.",
+          "is_correct": false,
+          "feedback": "'Are' does not agree with the singular noun 'laptop', so the first clause is wrong."
+        },
+        {
+          "letter": "C",
+          "text": "Camila's laptop is broken, but her phone are working perfectly.",
+          "is_correct": false,
+          "feedback": "The first clause is correct, but 'her phone' is singular as well and therefore takes 'is working'."
+        },
+        {
+          "letter": "D",
+          "text": "Camila's laptop are broken, but her phone are working perfectly.",
+          "is_correct": false,
+          "feedback": "Both subjects are singular, so neither of them can take 'are'; both clauses need 'is'."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Agreement is decided by the subject in front of 'to be', not by the participle or the adverb that follows it. Two singular subjects produce two 'is' forms, even when one clause carries an adjective and the other a present participle. In this exercise every 'to be' must be checked against its own noun.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-v14",
+      "statement": "Choose the option that correctly handles both singular and plural subjects.",
+      "context": "Everything in the kitchen is ready, but the salad isn't because the tomatoes are missing.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Everything is ready, but the salad aren't because the tomatoes are missing.",
+          "is_correct": false,
+          "feedback": "'The salad' is a singular noun, so its negative short answer must be 'isn't' and not 'aren't'."
+        },
+        {
+          "letter": "B",
+          "text": "Everything are ready, but the salad isn't because the tomatoes are missing.",
+          "is_correct": false,
+          "feedback": "'Everything' is a singular word that means all the items, so it never takes the plural verb 'are'."
+        },
+        {
+          "letter": "C",
+          "text": "Everything is ready, but the salad isn't because the tomatoes are missing.",
+          "is_correct": true,
+          "feedback": "Correct! 'Everything' is singular and takes 'is', 'the salad' is singular and takes 'isn't', and 'the tomatoes' is plural and takes 'are'."
+        },
+        {
+          "letter": "D",
+          "text": "Everything are ready, but the salad isn't because the tomatoes is missing.",
+          "is_correct": false,
+          "feedback": "'The tomatoes' is plural because it ends in -s, so its verb is 'are missing' and not 'is missing'."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Words like 'everything', 'something', 'nothing' and 'each' are singular in English even when they refer to several objects, so they take 'is'. Plurals ending in -s take 'are'. Recognising which category a word belongs to is what makes the choice automatic.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -639,40 +639,40 @@
     },
     {
       "id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence with the correct plural demonstrative and the correct verb.",
+      "context": "These shoes are new, and those boots are very old.",
       "options": [
         {
-          "letter": "B",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! A 'backpack' has two shoulder straps and is designed to be carried on your back."
+          "letter": "A",
+          "text": "These shoe is new, and those boot are very old.",
+          "is_correct": false,
+          "feedback": "'Shoe' and 'boot' are singular nouns, so they cannot be introduced by the plural demonstratives 'these' and 'those'."
         },
         {
-          "letter": "A",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "Wrong. A 'suitcase' is a flat box with a handle that you pull along beside you."
+          "letter": "B",
+          "text": "These shoes are new, and those boots are very old.",
+          "is_correct": true,
+          "feedback": "Correct! 'These' points to something near the speaker and 'those' to something farther away, and both take the plural verb 'are'."
         },
         {
           "letter": "C",
-          "text": "briefcase",
+          "text": "This shoes are new, and those boots is very old.",
           "is_correct": false,
-          "feedback": "Wrong. A 'briefcase' is a stiff case for papers that you carry in your hand at work."
+          "feedback": "'This' is singular and cannot introduce the plural noun 'shoes'; the plural demonstrative is 'these'."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "These shoes is new, and those boots is very old.",
           "is_correct": false,
-          "feedback": "Wrong. A 'handbag' is held in the hand and has no straps at all."
+          "feedback": "Both subjects are plural, so neither of them can take the singular verb 'is'."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "Demonstratives agree with the number of the noun they introduce: this shoe, these shoes, that boot, those boots. The distance idea is separate from the number: this and these point near the speaker, that and those point farther away. A plural subject always needs 'are'.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-bundle",
       "periodo": 3,
@@ -684,37 +684,172 @@
     },
     {
       "id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the option that correctly applies agreement to both nouns.",
+      "context": "The questions on the test are difficult, but the instructions are clear.",
       "options": [
         {
-          "letter": "D",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'Overseas' means to or in another country reached by crossing the sea."
-        },
-        {
           "letter": "A",
-          "text": "domestic",
+          "text": "The question on the test are difficult, but the instruction are clear.",
           "is_correct": false,
-          "feedback": "Wrong. 'Domestic' means inside the borders of your own country, which is the opposite of overseas."
+          "feedback": "'The question' and 'the instruction' are singular, so each would need 'is' if the sentence meant one item only."
         },
         {
           "letter": "B",
-          "text": "local",
+          "text": "The questions on the test is difficult, but the instructions is clear.",
           "is_correct": false,
-          "feedback": "Wrong. 'Local' means in a particular small area or town, which may well be inside your own country."
+          "feedback": "Both subjects are plural, so neither of them can take the singular verb 'is'."
         },
         {
           "letter": "C",
-          "text": "national",
+          "text": "The questions on the test are difficult, but the instructions is clear.",
           "is_correct": false,
-          "feedback": "Wrong. 'National' means concerning the nation as a whole, not travelling away from it across the sea."
+          "feedback": "The first clause is correct, but 'the instructions' is plural and its verb should be 'are clear'."
+        },
+        {
+          "letter": "D",
+          "text": "The questions on the test are difficult, but the instructions are clear.",
+          "is_correct": true,
+          "feedback": "Correct! 'The questions' and 'the instructions' are both plural nouns, so both take the plural verb 'are'."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "Plural nouns ending in -s always take 'are', and that includes abstract nouns such as 'questions' and 'instructions'. Each clause of a contrast with 'but' carries its own subject and verb, so both must be checked separately before the sentence can be called correct.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-v17",
+      "statement": "Choose the option that correctly completes the exchange.",
+      "context": "Are the windows open? No, they are closed because it is very cold outside.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, they are closed because it is very cold outside.",
+          "is_correct": true,
+          "feedback": "Correct! 'They are' answers the plural subject 'the windows', and 'it is' agrees with the singular pronoun 'it'."
+        },
+        {
+          "letter": "B",
+          "text": "No, they is closed because it is very cold outside.",
+          "is_correct": false,
+          "feedback": "'They' is plural and always takes 'are', never the singular 'is'."
+        },
+        {
+          "letter": "C",
+          "text": "No, it are closed because it are very cold outside.",
+          "is_correct": false,
+          "feedback": "'It' is singular, so its verb is 'is' and the subject of the second clause cannot be 'it are'."
+        },
+        {
+          "letter": "D",
+          "text": "No, they are closed because it are very cold outside.",
+          "is_correct": false,
+          "feedback": "'It' refers to the weather or the temperature here, and that singular subject takes 'is', not 'are'."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The pronoun 'it' is used for the weather, for the time and for a single unnamed thing, and it is always singular: it is cold, it is late, it is raining. The pronoun 'they' is always plural, so 'they are closed' is the only correct short answer to a question about several windows.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-v18",
+      "statement": "Choose the sentence where both subjects and both verbs agree.",
+      "context": "My cousins live in Guayaquil and they are both engineers.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "My cousin live in Guayaquil, and they are both engineers.",
+          "is_correct": false,
+          "feedback": "'Live' has no -s and 'my cousin' is a singular noun, so this combination breaks agreement in the first clause."
+        },
+        {
+          "letter": "B",
+          "text": "My cousins live in Guayaquil, and they are both engineers.",
+          "is_correct": true,
+          "feedback": "Correct! 'My cousins' is plural and takes 'live', and the pronoun 'they' is plural as well, so 'are' is correct."
+        },
+        {
+          "letter": "C",
+          "text": "My cousins lives in Guayaquil, and they are both engineers.",
+          "is_correct": false,
+          "feedback": "'Lives' carries the -s of the third person singular, but 'my cousins' is plural and therefore takes the base form 'live'."
+        },
+        {
+          "letter": "D",
+          "text": "My cousins live in Guayaquil, and they is both engineers.",
+          "is_correct": false,
+          "feedback": "'They' is always plural, so its verb must be 'are both engineers' and not 'is both engineers'."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Two rules work together here: a plural noun such as 'cousins' takes the base form of a full verb, while the plural pronouns 'we', 'they' and 'you' take 'are' with the verb 'to be'. Checking the number of each subject before its own verb avoids both errors.\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-v19",
+      "statement": "Choose the option that correctly answers with a possessive pronoun.",
+      "context": "Is this your bag? No, mine is over there, next to the door.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, that is over there, next to the door.",
+          "is_correct": false,
+          "feedback": "'That' is a demonstrative and points at an object rather than naming a possessor in a short answer."
+        },
+        {
+          "letter": "B",
+          "text": "No, my is over there, next to the door.",
+          "is_correct": false,
+          "feedback": "'My' is an adjective and always stands in front of a noun, so it cannot be the subject of a clause."
+        },
+        {
+          "letter": "C",
+          "text": "No, it are over there, next to the door.",
+          "is_correct": false,
+          "feedback": "'It' is a singular pronoun and takes 'is'; the form 'it are' is not grammatical in English."
+        },
+        {
+          "letter": "D",
+          "text": "No, mine is over there, next to the door.",
+          "is_correct": true,
+          "feedback": "Correct! 'Mine' is the possessive pronoun that replaces the noun, and as a singular subject it takes 'is'."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Possessive pronouns stand alone where a noun would go: mine, yours, his, hers, ours, theirs. They are used without an article or an adjective, unlike 'my', 'your' and 'their', which must be followed by a noun. A singular possessive pronoun takes 'is' in the present simple.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -728,173 +863,38 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! A 'budget' estimates planned income and spending over a set period such as a month or a year."
-        },
-        {
-          "letter": "B",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "Wrong. An 'expense' is a single outgoing payment, not a plan covering a whole period."
-        },
-        {
-          "letter": "C",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "Wrong. The 'cost' is the price of one thing or service, with no timeframe attached to it."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "Wrong. A 'price' is the amount a single item sells for, not an estimate of a period's finances."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement where a company pays compensation for a specified loss in exchange for a premium."
-        },
-        {
-          "letter": "A",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Wrong. A 'warranty' covers a defective product for a limited time and is given by the maker, not for illness or death."
-        },
-        {
-          "letter": "B",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "Wrong. A 'guarantee' is a promise about the quality of a product or service, with no payment of a premium."
-        },
-        {
-          "letter": "C",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "Wrong. A 'policy' is the written document that records an insurance contract, not the practice of compensation itself."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'Vaccination' is the administration of a vaccine that makes the immune system ready against a disease."
-        },
-        {
-          "letter": "B",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Wrong. 'Medication' treats the symptoms of an illness you already have; it does not create immunity beforehand."
-        },
-        {
-          "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Wrong. A 'prescription' is the doctor's written order for a medicine, not the vaccine itself."
-        },
-        {
-          "letter": "D",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "Wrong. An 'infection' is the invasion of the body by a pathogen, which is the opposite of preventing it."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
       "id": "EC-ING-11-2026-W03-stative-verbs-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence with the correct use of 'there is' and 'there are' with quantifiers.",
+      "context": "There isn't much milk left in the fridge, but there are still six eggs.",
       "options": [
         {
-          "letter": "D",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the tiredness and disturbed body clock caused by crossing several time zones in a flight."
-        },
-        {
           "letter": "A",
-          "text": "fatigue",
+          "text": "There are much milk left in the fridge, but there is still six eggs.",
           "is_correct": false,
-          "feedback": "Wrong. 'Fatigue' is general tiredness from any cause, such as hard work, not specifically from time zones."
+          "feedback": "'Much' and 'milk' need 'there isn't', because an uncountable noun is treated as singular; 'six eggs' is plural and needs 'are'."
         },
         {
           "letter": "B",
-          "text": "exhaustion",
+          "text": "There isn't many milk left in the fridge, but there are still six eggs.",
           "is_correct": false,
-          "feedback": "Wrong. 'Exhaustion' is extreme tiredness from physical effort or illness, not from a change of time zone."
+          "feedback": "'Many' is used with countable plural nouns such as 'eggs', and it is never placed before an uncountable noun like 'milk'."
         },
         {
           "letter": "C",
-          "text": "insomnia",
+          "text": "There isn't much milk left in the fridge, but there are still six eggs.",
+          "is_correct": true,
+          "feedback": "Correct! 'Much' describes the uncountable noun 'milk', which takes 'there isn't', and 'six eggs' is plural, so it takes 'there are'."
+        },
+        {
+          "letter": "D",
+          "text": "There isn't much milk left in the fridge, but there is still six eggs.",
           "is_correct": false,
-          "feedback": "Wrong. 'Insomnia' is simply difficulty sleeping, which can come from many causes unrelated to flying."
+          "feedback": "'Six eggs' is plural, so the second clause needs 'there are still six eggs' and not 'there is'."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "Uncountable nouns take 'there is' and are quantified with 'much' or 'a lot of'; countable plural nouns take 'there are' and are quantified with 'many' or 'a few'. Pairing the quantifier with the right noun is what keeps the two clauses consistent.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",

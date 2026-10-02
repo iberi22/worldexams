@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence expresses the zero conditional correctly?",
+      "context": "Conditionals type 0 and 1, San Juan, grado 11, W13.",
       "options": [
         {
-          "letter": "D",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay."
+          "text": "If you heat ice, it melts.",
+          "is_correct": true,
+          "feedback": "Correcto. El condicional cero expresa una verdad general y usa presente en ambas partes de la frase."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "If you heated ice, it would melt.",
           "is_correct": false,
-          "feedback": "'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place."
+          "feedback": "Incorrecto. Esa frase es un condicional de tipo dos, que habla de una situacion hipotetica y no de una verdad general."
         },
         {
           "letter": "C",
-          "text": "currency",
+          "text": "If you will heat ice, it melts.",
           "is_correct": false,
-          "feedback": "'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay."
+          "feedback": "Incorrecto. El condicional cero no lleva 'will' en la clausula de 'if'; en presente simple basta con 'heat'."
+        },
+        {
+          "letter": "D",
+          "text": "If you heat ice, it would melted.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el condicional cero la segunda parte tambien va en presente simple y no en forma condicional."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "El condicional cero expresa hechos generales y siempre verificables, con presente simple en las dos partes. Se usa con 'if', 'when', 'every time' o 'as soon as' y describe lo que ocurre siempre que se cumpla la condicion.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 13,
@@ -54,40 +54,40 @@
     },
     {
       "id": "PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'If it ____ (rain) tomorrow, we will cancel the picnic.'",
+      "context": "Conditionals type 1, Ponce, grado 11, W13.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order."
+          "text": "will rain",
+          "is_correct": false,
+          "feedback": "Incorrecto. La clausula de 'if' no lleva 'will' en el condicional tipo uno; la forma correcta es 'rains'."
         },
         {
           "letter": "B",
-          "text": "baggage",
+          "text": "rained",
           "is_correct": false,
-          "feedback": "'baggage' means the suitcases and bags you travel with, not the plan that organises the trip."
+          "feedback": "Incorrecto. 'Rained' es pasado simple y corresponde al condicional tipo tres, no a una condicion futura."
         },
         {
           "letter": "C",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself."
+          "text": "rains",
+          "is_correct": true,
+          "feedback": "Correcto. El condicional tipo uno usa presente simple en la clausula de 'if' y futuro con 'will' en la principal."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "is raining",
           "is_correct": false,
-          "feedback": "'passport' is the official travel document you show at the border, not a description of the journey route."
+          "feedback": "Incorrecto. El presente continuo no se usa en la clausula de 'if' del condicional tipo uno."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "El condicional tipo uno describe una condicion real y posible. Su estructura es fija: presente simple mas 'if' en la clausula condicional y futuro con 'will' mas infinitivo en la principal. Anadir 'will' a la clausula de 'if' es el error mas comun de esta unidad.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 13,
@@ -99,40 +99,40 @@
     },
     {
       "id": "PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'If you freeze water, it ____ (turn) into ice.'",
+      "context": "Conditionals type 0 with scientific facts, Carolina, grado 11, W13.",
       "options": [
         {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place to which someone or something is going or being sent."
-        },
-        {
           "letter": "A",
-          "text": "departure",
+          "text": "will turn",
           "is_correct": false,
-          "feedback": "'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action."
+          "feedback": "Incorrecto. 'Will turn' corresponde al condicional tipo uno, que necesita una condicion futura posible y no un hecho general."
         },
         {
           "letter": "B",
-          "text": "arrival",
+          "text": "turns",
+          "is_correct": true,
+          "feedback": "Correcto. Es un hecho general y verificable, asi que ambas partes van en presente simple, como exige el condicional cero."
+        },
+        {
+          "letter": "C",
+          "text": "would turn",
           "is_correct": false,
-          "feedback": "'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it."
+          "feedback": "Incorrecto. 'Would' pertenece a los condicionales de tipo dos y tres, no al condicional cero."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "turned",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, whereas the definition names only where it ends."
+          "feedback": "Incorrecto. 'Turned' es pasado simple y describe una situacion hipotetica que no se da en el condicional cero."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "correct_answer": "B",
+      "explanation": "El condicional cero se emplea con hechos cientificos ypository��� reglas generales. La razon de usarlo es que el resultado es siempre el mismo, y por eso presente simple en las dos partes resulta la opcion mas natural.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 13,
@@ -144,40 +144,40 @@
     },
     {
       "id": "PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'Unless you hurry, you ____ (miss) the last boat to Vieques.'",
+      "context": "Conditionals type 1 with unless, Bayamon, grado 11, W13.",
       "options": [
         {
-          "letter": "C",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "miss",
           "is_correct": false,
-          "feedback": "a 'ticket' is the document that gives you the right to travel; it carries nothing at all."
+          "feedback": "Incorrecto. Con una condicion negativa y resultado futuro, la principal necesita 'will' mas infinitivo."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "would miss",
           "is_correct": false,
-          "feedback": "a 'flight' is the trip itself by plane, not the bags you pack for it."
+          "feedback": "Incorrecto. 'Would' corresponde a una hipotesis del condicional tipo dos, no a un resultado futuro probable."
+        },
+        {
+          "letter": "C",
+          "text": "missed",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Missed' es pasado simple y no concuerda con la consecuencia futura que expresa la frase."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "a 'reservation' is the booking held for a seat or a room, not the container where clothes go."
+          "text": "will miss",
+          "is_correct": true,
+          "feedback": "Correcto. 'Unless' equivale a 'if not', de modo que la frase se lee como condicional tipo uno con futuro en la principal."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "'Unless' significa 'si no' y siempre introduce la clausula negativa, de modo que despues se coloca el resultado. La estructura resultante es la misma que un condicional tipo uno con 'if' en positivo.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 13,
@@ -189,40 +189,40 @@
     },
     {
       "id": "PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct form: 'If I ____ (have) time, I will call you tonight.'",
+      "context": "Conditionals type 1 with first person, Arecibo, grado 11, W13.",
       "options": [
         {
-          "letter": "C",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
+          "text": "am having",
           "is_correct": false,
-          "feedback": "a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all."
+          "feedback": "Incorrecto. El presente continuo no aparece en la clausula de 'if' de un condicional tipo uno."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "will have",
           "is_correct": false,
-          "feedback": "a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance."
+          "feedback": "Incorrecto. La clausula condicional no lleva 'will' cuando se expresa una condicion presente con consecuencia futura."
+        },
+        {
+          "letter": "C",
+          "text": "would have",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Would have' pertenece al condicional tipo tres, que se refiere a una situacion pasada ya cerrada."
         },
         {
           "letter": "D",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle."
+          "text": "have",
+          "is_correct": true,
+          "feedback": "Correcto. En la primera persona el condicional tipo uno admite 'if' con presente o con pasado simple, y ambas formas son correctas."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "D",
+      "explanation": "Hay una excepcion importante: en primera persona, el condicional tipo uno admite 'if' con pasado simple. Asi, 'if I have time' y 'if I had time' son ambos naturales, y el segundo se usa para hablar de una posibilidad mas incierta.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 13,
@@ -234,40 +234,40 @@
     },
     {
       "id": "PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is correct?",
+      "context": "Conditionals type 0 with when and as soon as, Humacao, grado 11, W13.",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage."
+          "text": "When you will switch the light on, the room lights up.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La clausula de 'when' no lleva 'will' cuando describe una relacion habitual y general."
         },
         {
           "letter": "B",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs."
+          "text": "When you switch the light on, the room lights up.",
+          "is_correct": true,
+          "feedback": "Correcto. 'When' introduce un hecho general y ambas partes van en presente simple, como en el condicional cero."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "When you switched the light on, the room would light up.",
           "is_correct": false,
-          "feedback": "a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done."
+          "feedback": "Incorrecto. Esa estructura pertenece al condicional tipo dos y no describe un hecho general."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "When you switch the light on, the room lit up.",
           "is_correct": false,
-          "feedback": "a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings."
+          "feedback": "Incorrecto. El pasado simple 'lit up' rompe la unidad de presente que exige el condicional cero."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "'When' y 'as soon as' pueden abrir tanto el condicional cero como el tipo uno, y el tiempo verbal de cada parte decide cual es. En presente simple en las dos partes, es un condicional cero; con futuro en la principal, es tipo uno.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 13,
@@ -279,37 +279,37 @@
     },
     {
       "id": "PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'You ____ (pass) the exam if you study every night.'",
+      "context": "Conditionals type 1 with first conditional order, Aguadilla, grado 11, W13.",
       "options": [
         {
-          "letter": "C",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board."
-        },
-        {
           "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "a 'visa' is the permission to enter a country, obtained before the trip and not from the airline."
+          "text": "will pass",
+          "is_correct": true,
+          "feedback": "Correcto. Invirtiendo el orden del condicional, la principal lleva 'will' mas infinitivo y la de 'if' queda en presente simple."
         },
         {
           "letter": "B",
-          "text": "receipt",
+          "text": "pass",
           "is_correct": false,
-          "feedback": "a 'receipt' only proves that you paid; it does not let you board the plane."
+          "feedback": "Incorrecto. Consecuencia futura expresada por la frase, la principal necesita 'will' para marcarla de forma explicita."
+        },
+        {
+          "letter": "C",
+          "text": "would pass",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Would' corresponde a una hipotesis del condicional tipo dos y no a una consecuencia futura probable."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "passed",
           "is_correct": false,
-          "feedback": "a 'brochure' is printed information about the airline or the destination, not a travel document."
+          "feedback": "Incorrecto. 'Passed' es pasado simple y no concuerda con una condicion presente ni con un resultado futuro."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "A",
+      "explanation": "El orden de las dos partes del condicional puede intercambiarse sin cambiar el significado. Si la principal va primero, se escribe con futuro, y si la clausula de 'if' va primero, la principal conserva tambien el futuro.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,37 +324,37 @@
     },
     {
       "id": "PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence expresses the zero conditional?",
+      "context": "Conditionals type 0 in scientific statements, Guayanilla, grado 11, W13.",
       "options": [
         {
-          "letter": "D",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' is the activity of visiting the places of interest of a location."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
+          "text": "If you mixed blue and yellow, you would get green.",
           "is_correct": false,
-          "feedback": "'shopping' is buying things in stores, not the general activity of visiting a place's sights."
+          "feedback": "Incorrecto. Esa frase es condicional tipo dos y presenta el hecho como hipotetico en lugar de general."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "If you will mix blue and yellow, you get green.",
           "is_correct": false,
-          "feedback": "'hiking' is one specific outdoor walk in nature, only one kind of activity out of many."
+          "feedback": "Incorrecto. La clausula de 'if' no lleva 'will' en el condicional cero ni en el tipo uno."
         },
         {
           "letter": "C",
-          "text": "camping",
+          "text": "If you mix blue and yellow, you get green.",
+          "is_correct": true,
+          "feedback": "Correcto. Las dos partes van en presente simple y describen una relacion constante, que es la funcion del condicional cero."
+        },
+        {
+          "letter": "D",
+          "text": "If you mix blue and yellow, you would get green.",
           "is_correct": false,
-          "feedback": "'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark."
+          "feedback": "Incorrecto. Mezclar presente en la condicion y condicional en la principal no corresponde a ningun tipo estandar."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "El condicional cero es el mas facil de reconocer porque las dos partes van en presente simple. En cuanto aparece 'would' o 'will' en cualquiera de las dos partes, deja de ser un condicional cero.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -369,37 +369,37 @@
     },
     {
       "id": "PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct form: 'If you want to pass, you ____ (study) more this term.'",
+      "context": "Conditionals type 1 with want to, Trujillo Alto, grado 11, W13.",
       "options": [
         {
-          "letter": "D",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event."
-        },
-        {
           "letter": "A",
-          "text": "gift",
+          "text": "should to",
           "is_correct": false,
-          "feedback": "a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event."
+          "feedback": "Incorrecto. El modal 'should' no lleva 'to' detras, porque ya contiene el modo infinitivo del verbo principal."
         },
         {
           "letter": "B",
-          "text": "award",
+          "text": "must to",
           "is_correct": false,
-          "feedback": "an 'award' is an honour granted by an institution for merit, not a keepsake."
+          "feedback": "Incorrecto. 'Must' no admite 'to' intermedia, y ademas una obligacion seria demasiado fuerte para una recomendacion."
         },
         {
           "letter": "C",
-          "text": "prize",
+          "text": "should",
+          "is_correct": true,
+          "feedback": "Correcto. 'If you want to, you should' es una estructura muy frecuente en el ingles hablado y encaja como advice condition."
+        },
+        {
+          "letter": "D",
+          "text": "must",
           "is_correct": false,
-          "feedback": "a 'prize' is the reward of a competition; the definition describes an object kept as a memento."
+          "feedback": "Incorrecto. 'Must' expresa una obligacion mas fuerte que la recomendacion que el enunciado pide, de modo que no responde a la intencion de la frase."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "En el condicional tipo uno la principal puede llevar futuro o un modal como 'should' o 'must'. La eleccion depende del grado de certeza y de la relacion entre las personas, y no de la estructura condicional en si misma.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -414,37 +414,37 @@
     },
     {
       "id": "PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which question is correct?",
+      "context": "Conditionals type 1 questions, Barceloneta, grado 11, W13.",
       "options": [
         {
-          "letter": "D",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra period of time by which something ends up late or postponed."
-        },
-        {
           "letter": "A",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "a 'cancellation' means the trip or event will not happen at all, not that it happens later."
+          "text": "What will you do if you win the scholarship?",
+          "is_correct": true,
+          "feedback": "Correcto. En una pregunta de condicional tipo uno el futuro abre la frase y la clausula de 'if' queda en presente simple."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "What you will do if you will win the scholarship?",
           "is_correct": false,
-          "feedback": "'departure' is simply the moment of leaving, which can be perfectly punctual."
+          "feedback": "Incorrecto. El orden interrogativo exige que 'what' abra la frase y que la clausula de 'if' no lleve 'will'."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "What will you do if you won the scholarship?",
           "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching the place, and it says nothing about being late."
+          "feedback": "Incorrecto. 'Won' es pasado simple y corresponde a una hipotesis del condicional tipo dos, no a una condicion futura."
+        },
+        {
+          "letter": "D",
+          "text": "What do you will do if you win the scholarship?",
+          "is_correct": false,
+          "feedback": "Incorrecto. El auxiliar 'do' no puede combinarse con 'will', porque ambos cumplen la misma funcion verbal."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "En una pregunta de condicional tipo uno el futuro va delante del sujeto. La clausula de 'if' conserva el presente simple y el verbo principal despues de 'will' vuelve a su forma base, sin terminacion.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -459,37 +459,37 @@
     },
     {
       "id": "PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'You ____ (not / understand) the lesson unless you pay attention in class.'",
+      "context": "Conditionals type 1 with unless, Maunabo, grado 11, W13.",
       "options": [
         {
           "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter."
+          "text": "don't understand",
+          "is_correct": false,
+          "feedback": "Incorrecto. El presente simple negativo no marca la consecuencia futura que introduce la frase."
         },
         {
           "letter": "B",
-          "text": "check-out",
+          "text": "will not understands",
           "is_correct": false,
-          "feedback": "'check-out' is the opposite moment, when you pay and hand the room key back before leaving."
+          "feedback": "Incorrecto. Detras de 'will not' el verbo va en forma base 'understand' y no en tercera persona, porque los verbos modales no conjugan el principal."
         },
         {
           "letter": "C",
-          "text": "booking",
+          "text": "would not understand",
           "is_correct": false,
-          "feedback": "'booking' is the reservation made beforehand; check-in is what you do on arrival."
+          "feedback": "Incorrecto. 'Would' pertenece al condicional tipo dos y convierte la consecuencia en hipotetica."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "a 'reservation' is the earlier record of your booking, not the act of registering your presence."
+          "text": "won't understand",
+          "is_correct": true,
+          "feedback": "Correcto. El negativo con 'will not' contracted da 'won't', y 'unless' introduce la condicion negativa equivalente a 'si no'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "D",
+      "explanation": "La forma contracta 'won't' y la extendida 'will not' expresan lo mismo. El condicional tipo uno se reconoce por la combinacion de presente simple en la clausula de 'if' o 'unless' y futuro en la principal, cualquier que sea la forma de ese futuro.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,37 +504,37 @@
     },
     {
       "id": "PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence expresses a warning correctly?",
+      "context": "Conditionals type 0 with warnings, Yauco, grado 11, W13.",
       "options": [
         {
-          "letter": "C",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! A 'layover' is a period of rest or waiting between two further stages of a journey."
-        },
-        {
           "letter": "A",
-          "text": "stopover",
+          "text": "If you touched that plant, you would get an allergic reaction.",
           "is_correct": false,
-          "feedback": "'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey."
+          "feedback": "Incorrecto. 'Would' lo convierte en condicional tipo dos, que suena menos directo como advertencia."
         },
         {
           "letter": "B",
-          "text": "transfer",
+          "text": "If you touch that plant, you will get an allergic reaction.",
+          "is_correct": true,
+          "feedback": "Correcto. El condicional tipo uno expresa una consecuencia probable que funciona como advertencia."
+        },
+        {
+          "letter": "C",
+          "text": "If you touching that plant, you will get an allergic reaction.",
           "is_correct": false,
-          "feedback": "a 'transfer' is the change from one vehicle or flight to another, not the pause itself."
+          "feedback": "Incorrecto. El presente continuo no cabe en la clausula de 'if' del condicional tipo uno."
         },
         {
           "letter": "D",
-          "text": "transit",
+          "text": "If you will touch that plant, you get an allergic reaction.",
           "is_correct": false,
-          "feedback": "'transit' means the action of passing through a place, with no idea of resting between stages."
+          "feedback": "Incorrecto. 'Will' no va en la clausula de 'if' y el presente simple en la principal tampoco marca consecuencia futura."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "El condicional tipo uno se usa con frecuencia para advertir. La estructura presente simple mas futuro comunica un riesgo probable, y por eso aparece en carteles, folletos y conversaciones sobre salud y seguridad.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -549,40 +549,40 @@
     },
     {
       "id": "PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'If she ____ (have) enough time, she will join the debate team.'",
+      "context": "Conditionals type 1 with the verb to have, Cayey, grado 11, W13.",
       "options": [
         {
-          "letter": "B",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'Currency' is the money system in general use in a particular country."
+          "letter": "A",
+          "text": "have",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Have' corresponde a I, you, we y they, y el sujeto 'she' es de tercera persona singular."
         },
         {
-          "letter": "A",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "a 'coin' is one single piece of money, not the whole system used in the country."
+          "letter": "B",
+          "text": "has",
+          "is_correct": true,
+          "feedback": "Correcto. 'Has' es la forma de presente simple de tercera persona y es la correcta en la clausula de 'if'."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "will have",
           "is_correct": false,
-          "feedback": "a 'banknote' is one single paper note of that system, not the system itself."
+          "feedback": "Incorrecto. La clausula de 'if' no lleva 'will' en el condicional tipo uno; ademas sobraria el futuro."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "having",
           "is_correct": false,
-          "feedback": "'cash' means money in coins and notes in general, not the specific monetary system of a country."
+          "feedback": "Incorrecto. El gerundio no ocupa el lugar del verbo principal en la clausula condicional de esta unidad."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "En el condicional tipo uno la clausula de 'if' va en presente simple y respeta la concordancia con el sujeto. Los errores mas frecuentes consisten en anadir 'will' o en conjugar mal el verbo por mirar solo la regla general y no el sujeto.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 13,
@@ -594,37 +594,37 @@
     },
     {
       "id": "PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is NOT grammatically correct?",
+      "context": "Conditionals type 0 with daily routines, Arecibo, grado 11, W13.",
       "options": [
         {
-          "letter": "B",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists."
+          "letter": "A",
+          "text": "If you drink coffee at night, you don't sleep well.",
+          "is_correct": false,
+          "feedback": "Incorrecto como distractor: 'drink' concuerda con 'you' y ambas partes en presente simple forman un condicional cero correcto."
         },
         {
-          "letter": "A",
-          "text": "map",
+          "letter": "B",
+          "text": "If he drinks coffee at night, he doesn't sleep well.",
           "is_correct": false,
-          "feedback": "a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information."
+          "feedback": "Incorrecto como distractor: 'drinks' es la tercera persona singular correcta para el sujeto 'he'."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "If they drink coffee at night, they don't sleep well.",
           "is_correct": false,
-          "feedback": "a 'dictionary' gives the meaning of words, not details about a destination for travellers."
+          "feedback": "Incorrecto como distractor: 'drink' concuerda con el sujeto plural 'they' y la frase es perfectamente gramatical."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "an encyclopedia covers all branches of knowledge rather than one particular place for visitors."
+          "text": "If I drinks coffee at night, I don't sleep well.",
+          "is_correct": true,
+          "feedback": "Correcto como respuesta: esta es la frase incorrecta, porque 'I' exige la forma base 'drink' y no 'drinks' en presente simple."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "En el condicional cero ambas partes van en presente simple y respetan la concordancia del sujeto. Olvidar la -s de la tercera persona singular en la clausula de 'if' es un error tan frecuente como anadir 'will' donde solo corresponde presente simple.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -639,40 +639,40 @@
     },
     {
       "id": "PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'Will you help me ____ I explain the problem to you?'",
+      "context": "Conditionals type 1 with mixed order, Camuy, grado 11, W13.",
       "options": [
         {
-          "letter": "C",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back."
-        },
-        {
           "letter": "A",
-          "text": "suitcase",
+          "text": "that",
           "is_correct": false,
-          "feedback": "a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps."
+          "feedback": "Incorrecto. 'That' no introduce una condicion en esta unidad; el conector correcto para una clausula condicional es 'if'."
         },
         {
           "letter": "B",
-          "text": "briefcase",
+          "text": "when",
           "is_correct": false,
-          "feedback": "a 'briefcase' is a case for documents and a laptop that is carried in the hand."
+          "feedback": "Incorrecto. 'When' pasaria a marcar una relacion temporal ya cerrada y no una condicion futura."
+        },
+        {
+          "letter": "C",
+          "text": "if",
+          "is_correct": true,
+          "feedback": "Correcto. 'If' introduce la clausula condicional y el futuro 'will you' abre la frase principal."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "what",
           "is_correct": false,
-          "feedback": "a 'handbag' is a small bag held in the hand, not carried on the back."
+          "feedback": "Incorrecto. 'What' introduce una clausula indirecta interrogativa y no conecta dos proposiciones condicionales."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "Cuando la principal va primero, el futuro abre la oracion y la clausula condicional se coloca al final, separada por una coma. El conector sigue siendo 'if' y la parte que le sigue va en presente simple.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 13,
@@ -684,40 +684,40 @@
     },
     {
       "id": "PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence describes a constant result in the present?",
+      "context": "Conditionals type 0 with everyday consequences, Luquillo, grado 11, W13.",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
+          "text": "If you push that button, the machine stops.",
           "is_correct": true,
-          "feedback": "Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea."
+          "feedback": "Correcto. Ambas partes en presente simple describen un resultado constante, que es el uso tipico del condicional cero."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "If you pushed that button, the machine would stop.",
           "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
+          "feedback": "Incorrecto. Esa frase es un condicional tipo dos y presenta el resultado como hipotetico."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "If you will push that button, the machine stops.",
           "is_correct": false,
-          "feedback": "'local' means belonging to the area where you already are, again the opposite meaning."
+          "feedback": "Incorrecto. El condicional cero no admite 'will' en la clausula de 'if' en ningun caso."
         },
         {
           "letter": "D",
-          "text": "national",
+          "text": "If you push that button, the machine would stop.",
           "is_correct": false,
-          "feedback": "'national' refers to the nation as a whole, but it does not mean being abroad."
+          "feedback": "Incorrecto. El condicional cero mantiene presente simple en las dos partes, nunca 'would'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "El condicional cero se apoya en la logica de causa y efecto determinista: si ocurre A, ocurre B siempre. Esa logica es la que permite usarlo para instrucciones tecnicas, recetas, normas de seguridad y reglas de funcionamiento cotidiano.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 13,
@@ -729,40 +729,40 @@
     },
     {
       "id": "PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Question: 'If it rains, will you stay home?' Answer: '____'",
+      "context": "Conditionals type 1 in short answers, Toa Baja, grado 11, W13.",
       "options": [
         {
-          "letter": "C",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time."
-        },
-        {
           "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "an 'expense' is a single cost; a budget gathers all income and spending over a period."
+          "text": "Yes, I will.",
+          "is_correct": true,
+          "feedback": "Correcto. La respuesta corta al condicional tipo uno usa 'will', igual que la pregunta, sin repetir la condicion."
         },
         {
           "letter": "B",
-          "text": "cost",
+          "text": "Yes, I would.",
           "is_correct": false,
-          "feedback": "'cost' is the amount paid for one thing, not an estimate for a whole period."
+          "feedback": "Incorrecto. En una respuesta corta al condicional tipo uno se repite 'will', y 'would' pertenece a otro tipo de condicional."
+        },
+        {
+          "letter": "C",
+          "text": "Yes, I do.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Do' responde a una pregunta de presente simple y no a una construida con 'will'."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "Yes, I am.",
           "is_correct": false,
-          "feedback": "'price' is the figure written on a product, not a plan of income and expenditure."
+          "feedback": "Incorrecto. 'Am' pertenece al verbo 'to be' y no corresponde a una pregunta con futuro en la principal."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "A",
+      "explanation": "En una respuesta corta al condicional tipo uno se repite el auxiliar de la pregunta, que en presente es 'will'. Como la condicion no se repite, tambien es posible usar 'would', que aporta una lectura mas hipotetica de la respuesta.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 13,
@@ -774,40 +774,40 @@
     },
     {
       "id": "PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence correctly expresses a negative condition about the future?",
+      "context": "Conditionals type 1 with negative conditions, Naguabo, grado 11, W13.",
       "options": [
         {
-          "letter": "B",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium."
+          "letter": "A",
+          "text": "If you will not leave now, you will miss the concert.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La clausula de 'if' no lleva 'will not'; el futuro pertenece a la principal."
         },
         {
-          "letter": "A",
-          "text": "warranty",
+          "letter": "B",
+          "text": "If you didn't leave now, you will miss the concert.",
           "is_correct": false,
-          "feedback": "a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only."
+          "feedback": "Incorrecto. 'Didn't' es pasado simple y pertenece al condicional tipo tres, no a una condicion presente."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "If you not leave now, you will miss the concert.",
           "is_correct": false,
-          "feedback": "a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement."
+          "feedback": "Incorrecto. Falta el auxiliar 'do', que es el que construye la negacion de presente simple."
         },
         {
           "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "a 'policy' is the written document of the contract, not the practice of insuring itself."
+          "text": "If you don't leave now, you will miss the concert.",
+          "is_correct": true,
+          "feedback": "Correcto. La condicion va en presente simple negativo y la consecuencia en futuro, estructura propia del condicional tipo uno."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "La negacion en la clausula de 'if' se hace con 'do not' o 'don't' en presente simple. Igual que en cualquier otra oracion de presente, el auxiliar 'do' es obligatorio y el verbo principal conserva su forma base.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 13,
@@ -819,40 +819,40 @@
     },
     {
       "id": "PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence expresses a probable future consequence?",
+      "context": "Conditionals type 1 with probability, Hatillo, grado 11, W13.",
       "options": [
         {
-          "letter": "D",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease."
-        },
-        {
           "letter": "A",
-          "text": "medication",
+          "text": "If she studies hard, she would probably pass the test.",
           "is_correct": false,
-          "feedback": "'medication' treats the symptoms of a disease; it does not create immunity against it."
+          "feedback": "Incorrecto. 'Would probably' pertenece al condicional tipo dos y situa la accion en un mundo hipotetico."
         },
         {
           "letter": "B",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself."
+          "text": "If she studies hard, she will probably pass the test.",
+          "is_correct": true,
+          "feedback": "Correcto. 'Will probably' indica una consecuencia probable y mantiene la estructura del condicional tipo uno."
         },
         {
           "letter": "C",
-          "text": "infection",
+          "text": "If she will study hard, she probably passes the test.",
           "is_correct": false,
-          "feedback": "an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease."
+          "feedback": "Incorrecto. La clausula de 'if' no lleva 'will', y el presente simple en la principal no marca consecuencia futura."
+        },
+        {
+          "letter": "D",
+          "text": "If she studied hard, she probably passed the test.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos partes en pasado simple describen una situacion pasada y no una consecuencia futura probable."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "B",
+      "explanation": "El condicional tipo uno expresa una relacion causal real entre una condicion presente y un resultado futuro probable. Los adverbios de probabilidad como 'probably', 'maybe' o 'perhaps' pueden colocarse entre 'will' y el infinitivo sin alterar la estructura.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 13,
@@ -864,40 +864,40 @@
     },
     {
       "id": "PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'Every time I ____ (drink) coffee, I get a headache.'",
+      "context": "Conditionals type 0 with everyday routines, Yabucoa, grado 11, W13.",
       "options": [
         {
-          "letter": "B",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones."
+          "letter": "A",
+          "text": "drinks",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Drinks' es tercera persona singular y el sujeto de la frase es 'I'."
         },
         {
-          "letter": "A",
-          "text": "fatigue",
+          "letter": "B",
+          "text": "will drink",
           "is_correct": false,
-          "feedback": "'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones."
+          "feedback": "Incorrecto. 'Every time' describe una repeticion y corresponde al condicional cero, sin futuro en la clausula."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones."
+          "text": "drink",
+          "is_correct": true,
+          "feedback": "Correcto. 'Every time' introduce un condicional cero y 'drink' concuerda con el sujeto 'I' en primera persona."
         },
         {
           "letter": "D",
-          "text": "insomnia",
+          "text": "drank",
           "is_correct": false,
-          "feedback": "'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight."
+          "feedback": "Incorrecto. 'Drank' es pasado simple irregular y describe una sola vez, no una repeticion habitual."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "Las expresiones que indican repeticion, como 'every time', 'whenever' o 'always', pertenecen al condicional cero. En ellas ambas partes van en presente simple porque describen algo que ocurre de manera constante.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 13,
