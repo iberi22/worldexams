@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "She can speak three languages.",
           "is_correct": true,
-          "feedback": "Correcto. 'Can' expresa habilidad y le sigue directamente la forma base del verbo, sin terminacion."
+          "feedback": "Correct. 'Can' expresses ability and is followed directly by the base form of the verb, with no ending."
         },
         {
           "letter": "B",
           "text": "She cans speak three languages.",
           "is_correct": false,
-          "feedback": "Incorrecto. El modal 'can' nunca lleva -s, porque no es un verbo principal con sujeto propio."
+          "feedback": "Incorrect. The modal 'can' never takes -s, because it is not a main verb with its own subject."
         },
         {
           "letter": "C",
           "text": "She can speaking three languages.",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de un modal la forma base es obligatoria; el gerundio pertenece al modo indicativo con 'to be'."
+          "feedback": "Incorrect. After a modal, the base form is required; the gerund is used with 'to be' in the indicative."
         },
         {
           "letter": "D",
           "text": "She can speaks three languages.",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de 'can' el verbo va en forma base 'speak' y no en tercera persona 'speaks'."
+          "feedback": "Incorrect. After 'can', the verb takes the base form 'speak', not the third-person form 'speaks'."
         }
       ],
       "correct_answer": "A",
@@ -61,25 +61,25 @@
           "letter": "A",
           "text": "don't able to",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Do' no combina con 'to be', y la forma larga de 'can' exige 'to be' mas 'able'."
+          "feedback": "Incorrect. 'Do' does not combine with 'to be', and the long form of 'can' requires 'to be' plus 'able'."
         },
         {
           "letter": "B",
           "text": "isn't able",
           "is_correct": false,
-          "feedback": "Incorrecto. Falta el 'to' antes de 'able' y antes del infinitivo, que es obligatorio en esta estructura."
+          "feedback": "Incorrect. 'to' is missing before 'able' and before the infinitive, and this structure requires it."
         },
         {
           "letter": "C",
           "text": "isn't able to",
           "is_correct": true,
-          "feedback": "Correcto. 'Be able to' es la forma larga de 'can' y admite negacion con 'not' detras de 'to be'."
+          "feedback": "Correct. 'Be able to' is the long form of 'can', and it is made negative by putting 'not' after 'to be'."
         },
         {
           "letter": "D",
           "text": "not is able to",
           "is_correct": false,
-          "feedback": "Incorrecto. El orden es 'to be' mas 'not' mas 'able to', y no 'not' antes del verbo 'to be'."
+          "feedback": "Incorrect. The correct order is 'to be' plus 'not' plus 'able to', not 'not' before the verb 'to be'."
         }
       ],
       "correct_answer": "C",
@@ -106,25 +106,25 @@
           "letter": "A",
           "text": "May I coming in?",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de un modal la forma base es obligatoria, de modo que el gerundio 'coming' es incorrecto."
+          "feedback": "Incorrect. A modal must be followed by the base form, so the gerund 'coming' is wrong."
         },
         {
           "letter": "B",
           "text": "May I come in?",
           "is_correct": true,
-          "feedback": "Correcto. 'May I' es la forma mas formal y educada de pedir permiso para entrar o sentarse."
+          "feedback": "Correct. 'May I' is the most formal and polite way to ask permission to come in or sit down."
         },
         {
           "letter": "C",
           "text": "May I comes in?",
           "is_correct": false,
-          "feedback": "Incorrecto. El verbo principal queda en forma base 'come' y no en tercera persona 'comes'."
+          "feedback": "Incorrect. The main verb stays in the base form 'come', not the third-person form 'comes'."
         },
         {
           "letter": "D",
           "text": "I may to come in?",
           "is_correct": false,
-          "feedback": "Incorrecto. La estructura de la oracion es invertida, con el modal delante del sujeto y sin 'to' despues."
+          "feedback": "Incorrect. The sentence structure is inverted, with the modal before the subject and no 'to' after it."
         }
       ],
       "correct_answer": "B",
@@ -151,25 +151,25 @@
           "letter": "A",
           "text": "You cans leave early today.",
           "is_correct": false,
-          "feedback": "Incorrecto. Los verbos modales no se conjugan con -s, porque no tienen marca de persona gramatical."
+          "feedback": "Incorrect. Modal verbs do not take -s, because they are not marked for grammatical person."
         },
         {
           "letter": "B",
           "text": "You can leaving early today.",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de 'can' solo cabe la forma base del verbo, no el gerundio."
+          "feedback": "Incorrect. After 'can', only the base form of the verb is possible, not the gerund."
         },
         {
           "letter": "C",
           "text": "You can leaves early today.",
           "is_correct": false,
-          "feedback": "Incorrecto. La forma base 'leave' sustituye a 'leaves' detras de cualquier modal."
+          "feedback": "Incorrect. After any modal, the base form 'leave' is used instead of 'leaves'."
         },
         {
           "letter": "D",
           "text": "You can leave early today.",
           "is_correct": true,
-          "feedback": "Correcto. 'Can' con afirmacion concede permiso y es el registro natural en el aula."
+          "feedback": "Correct. Affirmative 'can' grants permission and is the natural choice in the classroom."
         }
       ],
       "correct_answer": "D",
@@ -196,25 +196,25 @@
           "letter": "A",
           "text": "Open the window.",
           "is_correct": false,
-          "feedback": "Incorrecto. Es una orden directa y no constituye una peticion cortés."
+          "feedback": "Incorrect. It is a direct command, not a polite request."
         },
         {
           "letter": "B",
           "text": "You open the window.",
           "is_correct": false,
-          "feedback": "Incorrecto. El orden de la frase no es de peticion y suena como una afirmacion sobre el oyente."
+          "feedback": "Incorrect. The word order is not that of a request, so it sounds like a statement about the listener."
         },
         {
           "letter": "C",
           "text": "Can you opening the window?",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de 'can' el verbo va en forma base 'open' y no en gerundio 'opening'."
+          "feedback": "Incorrect. After 'can', the verb takes the base form 'open', not the gerund 'opening'."
         },
         {
           "letter": "D",
           "text": "Could you open the window, please?",
           "is_correct": true,
-          "feedback": "Correcto. 'Could' es la forma mas cortés del ingles para pedir, y 'please' refuerza la cortesía."
+          "feedback": "Correct. 'Could' is the most polite way to make a request in English, and 'please' adds to the politeness."
         }
       ],
       "correct_answer": "D",
@@ -241,25 +241,25 @@
           "letter": "A",
           "text": "must to",
           "is_correct": false,
-          "feedback": "Incorrecto. El modal 'must' no lleva 'to' detras, porque los modales van seguidos de la forma base directamente."
+          "feedback": "Incorrect. The modal 'must' is not followed by 'to', because a modal is followed directly by the base form."
         },
         {
           "letter": "B",
           "text": "have to",
           "is_correct": true,
-          "feedback": "Correcto. 'Have to' expresa una obligacion externa que proviene de una regla o disposicion ajena al hablante."
+          "feedback": "Correct. 'Have to' expresses an external obligation that comes from a rule or regulation, not from the speaker."
         },
         {
           "letter": "C",
           "text": "should to",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Should' expresa recomendacion y ademas no admite 'to' entre el modal y el verbo principal."
+          "feedback": "Incorrect. 'Should' expresses a recommendation, and it cannot take 'to' between the modal and the main verb."
         },
         {
           "letter": "D",
           "text": "can to",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Can' expresa habilidad o permiso, no obligacion, y la estructura con 'to' detras tampoco es valida."
+          "feedback": "Incorrect. 'Can' expresses ability or permission, not obligation, and it cannot be followed by 'to' either."
         }
       ],
       "correct_answer": "B",
@@ -286,25 +286,25 @@
           "letter": "A",
           "text": "She could swim when she was five.",
           "is_correct": true,
-          "feedback": "Correcto. 'Could' es la forma pasada de 'can' y expresa una habilidad que se tenia en el pasado."
+          "feedback": "Correct. 'Could' is the past form of 'can' and expresses an ability someone had in the past."
         },
         {
           "letter": "B",
           "text": "She can swim when she was five.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Can' describe una capacidad del presente y no encaja con 'when she was five'."
+          "feedback": "Incorrect. 'Can' describes a present ability and does not fit with 'when she was five'."
         },
         {
           "letter": "C",
           "text": "She can swimming when she was five.",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de un modal nunca aparece el gerundio, sea cual sea el tiempo verbal."
+          "feedback": "Incorrect. A modal is never followed by a gerund, whatever the tense."
         },
         {
           "letter": "D",
           "text": "She could swim when she is five.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Is' describe el presente y contradice la marca temporal 'was' de la oracion."
+          "feedback": "Incorrect. 'Is' describes the present and contradicts the time marker 'was' in the sentence."
         }
       ],
       "correct_answer": "A",
@@ -331,25 +331,25 @@
           "letter": "A",
           "text": "Do",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Do' es un auxiliar del presente simple y no expresa peticion de permiso."
+          "feedback": "Incorrect. 'Do' is a present simple auxiliary and does not express a request for permission."
         },
         {
           "letter": "B",
           "text": "Must",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Must' expresa obligacion y la frase seria una imposicion, no una peticion."
+          "feedback": "Incorrect. 'Must' expresses obligation, so the sentence would impose something instead of making a request."
         },
         {
           "letter": "C",
           "text": "May",
           "is_correct": true,
-          "feedback": "Correcto. 'May I' es la estructura formal para pedir permiso sobre algo que pertenece a otra persona."
+          "feedback": "Correct. 'May I' is the formal structure for asking permission to use something that belongs to someone else."
         },
         {
           "letter": "D",
           "text": "Am",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Am' pertenece al verbo 'to be' en primera persona y no se usa para pedir permiso."
+          "feedback": "Incorrect. 'Am' is the first-person form of 'to be' and is not used to ask permission."
         }
       ],
       "correct_answer": "C",
@@ -376,25 +376,25 @@
           "letter": "A",
           "text": "Can she plays the saxophone?",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de 'can' la tercera persona no lleva -s, de modo que corresponde 'play'."
+          "feedback": "Incorrect. After 'can', the third person does not take -s, so the correct form is 'play'."
         },
         {
           "letter": "B",
           "text": "Does she can play the saxophone?",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Can' ya es un modal y no admite el auxiliar 'does' delante."
+          "feedback": "Incorrect. 'Can' is already a modal, so it cannot have the auxiliary 'does' before it."
         },
         {
           "letter": "C",
           "text": "Can she play the saxophone?",
           "is_correct": true,
-          "feedback": "Correcto. 'Can' abre la pregunta y el verbo principal queda en forma base 'play'."
+          "feedback": "Correct. 'Can' opens the question and the main verb stays in the base form 'play'."
         },
         {
           "letter": "D",
           "text": "Is she can play the saxophone?",
           "is_correct": false,
-          "feedback": "Incorrecto. Un modal no puede combinarse con 'to be' en la misma frase como auxiliar."
+          "feedback": "Incorrect. A modal cannot be combined with 'to be' as an auxiliary in the same sentence."
         }
       ],
       "correct_answer": "C",
@@ -421,25 +421,25 @@
           "letter": "A",
           "text": "'Must' shows the speaker's obligation and 'have to' an external rule.",
           "is_correct": true,
-          "feedback": "Correcto. Los dos expresan obligacion, pero 'must' proviene del hablante y 'have to' de una disposicion externa."
+          "feedback": "Correct. Both express obligation, but 'must' comes from the speaker and 'have to' from an external rule."
         },
         {
           "letter": "B",
           "text": "'Must' is past and 'have to' is present.",
           "is_correct": false,
-          "feedback": "Incorrecto. Los dos son formas presentes; el pasado de 'must' es 'had to' y el de 'have to' es 'had to'."
+          "feedback": "Incorrect. Both are present forms; the past of 'must' is 'had to', and the past of 'have to' is also 'had to'."
         },
         {
           "letter": "C",
           "text": "'Must' is more polite than 'have to'.",
           "is_correct": false,
-          "feedback": "Incorrecto. La relacion de cortesia es la inversa: 'have to' suena mas suave porque la obligacion no proviene del propio hablante."
+          "feedback": "Incorrect. The politeness relationship is the reverse: 'have to' sounds softer because the obligation does not come from the speaker."
         },
         {
           "letter": "D",
           "text": "'Must' can be negated with 'not' in every context.",
           "is_correct": false,
-          "feedback": "Incorrecto. En sentido de obligacion fuerte 'must not' no admite negacion, y en el sentido de prohibicion significa precisamente 'prohibido'."
+          "feedback": "Incorrect. In the sense of strong obligation, 'must not' does not allow negation, and in the sense of prohibition it means precisely 'prohibido'."
         }
       ],
       "correct_answer": "A",
@@ -466,25 +466,25 @@
           "letter": "A",
           "text": "You may using my car this weekend.",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de 'may' el verbo va en forma base 'use' y no en gerundio 'using'."
+          "feedback": "Incorrect. After 'may' the verb goes in the base form 'use', not the gerund 'using'."
         },
         {
           "letter": "B",
           "text": "You may uses my car this weekend.",
           "is_correct": false,
-          "feedback": "Incorrecto. El modal 'may' no cambia segun el sujeto y el verbo principal queda en forma base."
+          "feedback": "Incorrect. The modal 'may' does not change with the subject, and the main verb stays in the base form."
         },
         {
           "letter": "C",
           "text": "You may to use my car this weekend.",
           "is_correct": false,
-          "feedback": "Incorrecto. No se anade 'to' entre el modal y el verbo principal, porque el modal ya marca el modo infinitivo."
+          "feedback": "Incorrect. No 'to' is added between the modal and the main verb, because the modal already marks the infinitive."
         },
         {
           "letter": "D",
           "text": "You may use my car this weekend.",
           "is_correct": true,
-          "feedback": "Correcto. 'May' en afirmacion concede permiso de manera formal y cordial."
+          "feedback": "Correct. Affirmative 'May' grants permission in a formal and courteous way."
         }
       ],
       "correct_answer": "D",
@@ -511,25 +511,25 @@
           "letter": "A",
           "text": "to open",
           "is_correct": false,
-          "feedback": "Incorrecto. En el enunciado se pide una sola forma, y la estructura con gerundio es la que corresponde a una peticion de accion."
+          "feedback": "Incorrect. The prompt asks for a single form, and the gerund structure is the one used to request an action."
         },
         {
           "letter": "B",
           "text": "opening",
           "is_correct": true,
-          "feedback": "Correcto. En 'would you mind' seguido de gerundio se pide permiso para una accion, y aqui la accion es abrir la ventana."
+          "feedback": "Correct. With 'would you mind' followed by a gerund, you ask permission for an action, and here the action is opening the window."
         },
         {
           "letter": "C",
           "text": "open",
           "is_correct": false,
-          "feedback": "Incorrecto. El gerundio o el infinitivo son las dos unicas formas admitidas detras de 'would you mind'."
+          "feedback": "Incorrect. The gerund and the infinitive are the only two forms allowed after 'would you mind'."
         },
         {
           "letter": "D",
           "text": "opened",
           "is_correct": false,
-          "feedback": "Incorrecto. El participio no aparece en ninguna de las dos estructuras de 'would you mind'."
+          "feedback": "Incorrect. The participle does not appear in either of the two 'would you mind' structures."
         }
       ],
       "correct_answer": "B",
@@ -556,25 +556,25 @@
           "letter": "A",
           "text": "don't",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Don't' es el auxiliar del presente simple y no niega la capacidad."
+          "feedback": "Incorrect. 'Don't' is the present simple auxiliary and does not negate ability."
         },
         {
           "letter": "B",
           "text": "can't",
           "is_correct": true,
-          "feedback": "Correcto. 'Can't' es la forma contracta de 'cannot' y es la negacion mas natural para la habilidad."
+          "feedback": "Correct. 'Can't' is the contracted form of 'cannot' and is the most natural negation for ability."
         },
         {
           "letter": "C",
           "text": "doesn't can",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Can' es un modal y no admite auxiliares como 'does' delante."
+          "feedback": "Incorrect. 'Can' is a modal and does not take auxiliaries like 'does' in front of it."
         },
         {
           "letter": "D",
           "text": "isn't able",
           "is_correct": false,
-          "feedback": "Incorrecto. Falta el 'to' antes del infinitivo, que es obligatorio en 'be able to'."
+          "feedback": "Incorrect. The 'to' before the infinitive is missing, and it is mandatory in 'be able to'."
         }
       ],
       "correct_answer": "B",
@@ -601,25 +601,25 @@
           "letter": "A",
           "text": "It is not necessary.",
           "is_correct": false,
-          "feedback": "Incorrecto. Para expresar que no es necesario se usa 'don't have to', no 'must not'."
+          "feedback": "Incorrect. To express that something is not necessary, use 'don't have to', not 'must not'."
         },
         {
           "letter": "B",
           "text": "It is optional.",
           "is_correct": false,
-          "feedback": "Incorrecto. Una accion opcional se expresa con 'can' o 'may', nunca con 'must not'."
+          "feedback": "Incorrect. An optional action is expressed with 'can' or 'may', never with 'must not'."
         },
         {
           "letter": "C",
           "text": "It is not possible.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Must not' habla de permiso y obligacion, mientras que la imposibilidad se expresa con 'cannot'."
+          "feedback": "Incorrect. 'Must not' is about permission and obligation, whereas impossibility is expressed with 'cannot'."
         },
         {
           "letter": "D",
           "text": "It is prohibited.",
           "is_correct": true,
-          "feedback": "Correcto. 'Must not' expresa prohibicion y significa que la accion no esta permitida bajo ninguna circunstancia."
+          "feedback": "Correct. 'Must not' expresses prohibition and means the action is not allowed under any circumstances."
         }
       ],
       "correct_answer": "D",
@@ -646,25 +646,25 @@
           "letter": "A",
           "text": "Yes, you can.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Can' tambien concede permiso, pero la respuesta a una pregunta con 'may' se formula con 'may'."
+          "feedback": "Incorrect. 'Can' also grants permission, but the answer to a question with 'may' is formed with 'may'."
         },
         {
           "letter": "B",
           "text": "Yes, you must.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Must' expresa obligacion y no es la respuesta a una pregunta de permiso."
+          "feedback": "Incorrect. 'Must' expresses obligation and is not the answer to a permission question."
         },
         {
           "letter": "C",
           "text": "Yes, you may.",
           "is_correct": true,
-          "feedback": "Correcto. La respuesta corta repite el modal 'may' de la pregunta, que es la forma esperada."
+          "feedback": "Correct. The short answer repeats the modal 'may' from the question, which is the expected form."
         },
         {
           "letter": "D",
           "text": "Yes, you do.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Do' es el auxiliar del presente simple y no corresponde a una pregunta con modal."
+          "feedback": "Incorrect. 'Do' is the present simple auxiliary and does not fit a question with a modal."
         }
       ],
       "correct_answer": "C",
@@ -691,25 +691,25 @@
           "letter": "A",
           "text": "been able to",
           "is_correct": true,
-          "feedback": "Correcto. 'Has been able to' es la estructura del presente perfecto con 'be able to', y expresses una capacidad que se conserva."
+          "feedback": "Correct. 'Has been able to' is the present perfect structure with 'be able to', and it expresses an ability that is still retained."
         },
         {
           "letter": "B",
           "text": "be able to",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Has' exige el participio 'been' antes de 'able to' para poder funcionar como presente perfecto."
+          "feedback": "Incorrect. 'Has' requires the participle 'been' before 'able to' to work as present perfect."
         },
         {
           "letter": "C",
           "text": "can",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Can' no tiene forma de presente perfecto, de modo que no puede combinarse con 'has' ni con 'since'."
+          "feedback": "Incorrect. 'Can' has no present perfect form, so it cannot be combined with 'has' or 'since'."
         },
         {
           "letter": "D",
           "text": "being able to",
           "is_correct": false,
-          "feedback": "Incorrecto. El gerundio no forma el presente perfecto con 'has', que exige siempre el participio pasado."
+          "feedback": "Incorrect. The gerund does not form the present perfect with 'has', which always requires the past participle."
         }
       ],
       "correct_answer": "A",
@@ -736,25 +736,25 @@
           "letter": "A",
           "text": "Would you be so kind as to open the door?",
           "is_correct": true,
-          "feedback": "Correcto. Es la estructura de peticion mas formal del ingles, con 'would' y una formula de cortesía elaborate."
+          "feedback": "Correct. It is the most formal request structure in English, with 'would' and an elaborate politeness formula."
         },
         {
           "letter": "B",
           "text": "Open the door, please.",
           "is_correct": false,
-          "feedback": "Incorrecto. Es correcta y cortes en el dia a dia, pero no es la forma mas formal de las propuestas."
+          "feedback": "Incorrect. It is correct and polite in everyday use, but it is not the most formal of the options given."
         },
         {
           "letter": "C",
           "text": "Can you open the door?",
           "is_correct": false,
-          "feedback": "Incorrecto. Es una peticion de cortesia normal entre compañeros, no la opcion mas formal."
+          "feedback": "Incorrect. It is a normal polite request between peers, not the most formal option."
         },
         {
           "letter": "D",
           "text": "You open the door now.",
           "is_correct": false,
-          "feedback": "Incorrecto. Es una orden y no una peticion, por lo que no encaja en este ejercicio."
+          "feedback": "Incorrect. It is an order, not a request, so it does not fit this exercise."
         }
       ],
       "correct_answer": "A",
@@ -799,7 +799,7 @@
           "letter": "D",
           "text": "He cans play the guitar very well.",
           "is_correct": true,
-          "feedback": "Correcto. Esta es la frase incorrecta: los modales no llevan -s, de modo que no puede existir la forma 'cans'."
+          "feedback": "Correct. This is the incorrect sentence: modals do not take -s, so the form 'cans' cannot exist."
         }
       ],
       "correct_answer": "D",
@@ -826,25 +826,25 @@
           "letter": "A",
           "text": "Do you mind if I opening the window?",
           "is_correct": false,
-          "feedback": "Incorrecto. Despues de 'if' la frase va en presente simple y no en gerundio."
+          "feedback": "Incorrect. After 'if' the clause goes in the present simple, not the gerund."
         },
         {
           "letter": "B",
           "text": "Do you mind if I open the window?",
           "is_correct": true,
-          "feedback": "Correcto. 'Do you mind if' seguido de presente simple es una de las estructuras mas usadas para pedir permiso."
+          "feedback": "Correct. 'Do you mind if' followed by the present simple is one of the most common structures for asking permission."
         },
         {
           "letter": "C",
           "text": "Do you mind if I opened the window?",
           "is_correct": false,
-          "feedback": "Incorrecto. Con 'if' se usa presente simple, porque la condicion se presenta como algo posible y no pasado."
+          "feedback": "Incorrect. With 'if' the present simple is used, because the condition is presented as something possible, not past."
         },
         {
           "letter": "D",
           "text": "Do you mind me open the window?",
           "is_correct": false,
-          "feedback": "Incorrecto. La estructura lleva 'if' mas una clausula completa, no un infinitivo suelto tras 'me'."
+          "feedback": "Incorrect. The structure takes 'if' plus a full clause, not a bare infinitive after 'me'."
         }
       ],
       "correct_answer": "B",
@@ -871,7 +871,7 @@
           "letter": "A",
           "text": "Do",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Do' no combina con 'to be' mas 'able', porque esa forma es un verbo 'to be' y no un verbo de accion."
+          "feedback": "Incorrect. 'Do' does not combine with 'to be' plus 'able', because that form is built on the verb 'to be', not an action verb."
         },
         {
           "letter": "B",
@@ -883,13 +883,13 @@
           "letter": "C",
           "text": "Are",
           "is_correct": true,
-          "feedback": "Correcto. 'Are you able to' es la forma interrogativa de 'be able to' y el infinitivo 'to help' completa la estructura."
+          "feedback": "Correct. 'Are you able to' is the question form of 'be able to', and the infinitive 'to help' completes the structure."
         },
         {
           "letter": "D",
           "text": "Are you able helping me with this project?",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de 'able' hace falta la preposicion 'to' antes del infinitivo 'help'."
+          "feedback": "Incorrect. After 'able' you need the preposition 'to' before the infinitive 'help'."
         }
       ],
       "correct_answer": "C",

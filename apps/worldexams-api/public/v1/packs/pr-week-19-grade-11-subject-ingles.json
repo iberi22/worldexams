@@ -16,7 +16,7 @@
           "letter": "A",
           "text": "The student whose brother lives in Carolina won the scholarship.",
           "is_correct": true,
-          "feedback": "Correcto. 'whose brother lives in Carolina' identifica al estudiante mediante su hermano, de modo que la clausula es estrictamente definitoria."
+          "feedback": "Correct. 'whose brother lives in Carolina' identifies the student through their brother, so the clause is strictly defining."
         },
         {
           "letter": "B",
@@ -28,13 +28,13 @@
           "letter": "C",
           "text": "The student, who lives in Carolina, won the scholarship.",
           "is_correct": false,
-          "feedback": "Incorrecto. Las comas indican una clausula explicativa opcional, que no es necesaria para identificar al estudiante."
+          "feedback": "Incorrect. Commas signal an optional non-defining clause, which is not needed to identify the student."
         },
         {
           "letter": "D",
           "text": "The student lives in Carolina and won the scholarship.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'And' une dos verbos en coordinadas y no forma ninguna clausula relativa."
+          "feedback": "Incorrect. 'And' joins two verbs in coordinate clauses and does not form a relative clause."
         }
       ],
       "correct_answer": "A",
@@ -61,25 +61,25 @@
           "letter": "A",
           "text": "which",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Which' se reserva para cosas y no para personas cuando se trata de un sujeto."
+          "feedback": "Incorrect. 'Which' is reserved for things, not people, when it acts as a subject."
         },
         {
           "letter": "B",
           "text": "whom",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Whom' es el objeto de la preposicion y no puede ser el sujeto del verbo 'designed'."
+          "feedback": "Incorrect. 'Whom' is the object of a preposition and cannot be the subject of the verb 'designed'."
         },
         {
           "letter": "C",
           "text": "who",
           "is_correct": true,
-          "feedback": "Correcto. 'Who' se usa para personas y funciona como sujeto del verbo 'designed' dentro de la clausula relativa."
+          "feedback": "Correct. 'Who' is used for people and functions as the subject of the verb 'designed' within the relative clause."
         },
         {
           "letter": "D",
           "text": "what",
           "is_correct": false,
-          "feedback": "Incorrecto. 'What' no puede ser sujeto de una clausula relativa en el ingles estandar de esta unidad."
+          "feedback": "Incorrect. 'What' cannot be the subject of a relative clause in the standard English of this unit."
         }
       ],
       "correct_answer": "C",
@@ -106,13 +106,13 @@
           "letter": "A",
           "text": "what",
           "is_correct": false,
-          "feedback": "Incorrecto. 'What' introduce una clausula sustantiva completa y no se usa como objeto relativo."
+          "feedback": "Incorrect. 'What' introduces a complete noun clause and is not used as a relative object."
         },
         {
           "letter": "B",
           "text": "that",
           "is_correct": true,
-          "feedback": "Correcto. 'That' puede ser objeto de la clausula relativa y no lleva coma en su uso definitorio."
+          "feedback": "Correct. 'That' can be the object of the relative clause and takes no comma in its defining use."
         },
         {
           "letter": "C",
@@ -124,7 +124,7 @@
           "letter": "D",
           "text": "where",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Where' introduce un adverbio de lugar y no puede ser objeto directo de 'bought'."
+          "feedback": "Incorrect. 'Where' introduces an adverb of place and cannot be the direct object of 'bought'."
         }
       ],
       "correct_answer": "B",
@@ -151,7 +151,7 @@
           "letter": "A",
           "text": "which",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Which' funciona como sujeto u objeto, pero no puede expresar un lugar sin la preposicion 'in'."
+          "feedback": "Incorrect. 'Which' works as a subject or object, but it cannot express a place without the preposition 'in'."
         },
         {
           "letter": "B",
@@ -163,13 +163,13 @@
           "letter": "C",
           "text": "when",
           "is_correct": false,
-          "feedback": "Incorrecto. 'When' introduce tiempo y no lugar, de modo que no corresponde a la idea de la casa."
+          "feedback": "Incorrect. 'When' introduces time, not place, so it does not fit the idea of the house."
         },
         {
           "letter": "D",
           "text": "where",
           "is_correct": true,
-          "feedback": "Correcto. 'Where' sustituye a un adverbio de lugar y la preposicion 'in' queda incluida en el pronombre relativo."
+          "feedback": "Correct. 'Where' replaces an adverb of place, and the preposition 'in' is built into the relative pronoun."
         }
       ],
       "correct_answer": "D",
@@ -196,25 +196,25 @@
           "letter": "A",
           "text": "who",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Who' no puede expresar posesion; para ese uso existe el pronombre relativo 'whose'."
+          "feedback": "Incorrect. 'Who' cannot express possession; the relative pronoun 'whose' is used for that."
         },
         {
           "letter": "B",
           "text": "which",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Which' se usa para cosas pero no para indicar a quien pertenece algo."
+          "feedback": "Incorrect. 'Which' is used for things, but not to show who something belongs to."
         },
         {
           "letter": "C",
           "text": "whom",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Whom' es objeto de preposicion y no expresa una relacion de pertenencia."
+          "feedback": "Incorrect. 'Whom' is the object of a preposition and does not express possession."
         },
         {
           "letter": "D",
           "text": "whose",
           "is_correct": true,
-          "feedback": "Correcto. 'Whose' indica pertenencia y conecta la clausula con el sustantivo 'lecture'."
+          "feedback": "Correct. 'Whose' shows possession and connects the clause to the noun 'lecture'."
         }
       ],
       "correct_answer": "D",
@@ -247,19 +247,19 @@
           "letter": "B",
           "text": "The woman whom I spoke to is the new principal.",
           "is_correct": true,
-          "feedback": "Correcto. En el uso formal la preposicion se coloca delante del pronombre 'whom'."
+          "feedback": "Correct. In formal usage, the preposition is placed before the pronoun 'whom'."
         },
         {
           "letter": "C",
           "text": "The woman which I spoke to is the new principal.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Which' no se usa para referenciar a personas y la forma correcta es 'who' o 'whom'."
+          "feedback": "Incorrect. 'Which' is not used to refer to people; the correct form is 'who' or 'whom'."
         },
         {
           "letter": "D",
           "text": "The woman to who I spoke is the new principal.",
           "is_correct": false,
-          "feedback": "Incorrecto. En el uso formal la preposicion va detras del pronombre relativo, no delante."
+          "feedback": "Incorrect. In formal usage, the preposition goes after the relative pronoun, not before it."
         }
       ],
       "correct_answer": "B",
@@ -286,25 +286,25 @@
           "letter": "A",
           "text": "The commas around it.",
           "is_correct": true,
-          "feedback": "Correcto. Las comas delimitan una clausula opcional que anade informacion extra y no identifica al sustantivo."
+          "feedback": "Correct. The commas set off an optional clause that adds extra information and does not identify the noun."
         },
         {
           "letter": "B",
           "text": "The use of 'which' instead of 'that'.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Which' tambien puede aparecer en clausulas definitorias, de modo que no es la marca de opcionalidad."
+          "feedback": "Incorrect. 'Which' can also appear in defining clauses, so it is not what marks a clause as optional."
         },
         {
           "letter": "C",
           "text": "The use of the past tense in the clause.",
           "is_correct": false,
-          "feedback": "Incorrecto. El tiempo verbal no determina si la clausula es definitoria o explicativa."
+          "feedback": "Incorrect. Verb tense does not determine whether the clause is defining or non-defining."
         },
         {
           "letter": "D",
           "text": "The absence of a subject in the clause.",
           "is_correct": false,
-          "feedback": "Incorrecto. Una clausula relativa siempre lleva su propio sujeto y no puede construirse sin el."
+          "feedback": "Incorrect. A relative clause always has its own subject and cannot be built without one."
         }
       ],
       "correct_answer": "A",
@@ -331,7 +331,7 @@
           "letter": "A",
           "text": "what",
           "is_correct": false,
-          "feedback": "Incorrecto. 'What' no se usa como pronombre relativo de objeto seguido de una preposicion temporal."
+          "feedback": "Incorrect. 'What' is not used as an object relative pronoun followed by a time preposition."
         },
         {
           "letter": "B",
@@ -343,13 +343,13 @@
           "letter": "C",
           "text": "that",
           "is_correct": true,
-          "feedback": "Correcto. 'That' funciona como objeto de la preposicion 'for' y puede quedar seguido por ella al final de la clausula."
+          "feedback": "Correct. 'That' functions as the object of the preposition 'for', and the preposition can stay at the end of the clause."
         },
         {
           "letter": "D",
           "text": "where",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Where' expresa lugar y aqui la relacion es de objeto con la preposicion 'for'."
+          "feedback": "Incorrect. 'Where' expresses place, but here the relationship is that of an object of the preposition 'for'."
         }
       ],
       "correct_answer": "C",
@@ -376,25 +376,25 @@
           "letter": "A",
           "text": "Because commas are not allowed in English sentences.",
           "is_correct": false,
-          "feedback": "Incorrecto. Las comas se usan con frecuencia y son obligatorias en las clausulas no definitorias."
+          "feedback": "Incorrect. Commas are often used and are required in non-defining clauses."
         },
         {
           "letter": "B",
           "text": "Because the clause is always short.",
           "is_correct": false,
-          "feedback": "Incorrecto. La longitud no determina el tratamiento de las comas en una clausula relativa."
+          "feedback": "Incorrect. Length does not determine how commas are used in a relative clause."
         },
         {
           "letter": "C",
           "text": "Because the information is essential to identify the noun.",
           "is_correct": true,
-          "feedback": "Correcto. Sin la clausula el sustantivo seria demasiado vago y la oracion no tendria sentido completo."
+          "feedback": "Correct. Without the clause, the noun would be too vague and the sentence would not make complete sense."
         },
         {
           "letter": "D",
           "text": "Because the verb must be in the present tense.",
           "is_correct": false,
-          "feedback": "Incorrecto. El tiempo verbal es independiente del tipo de clausula relativa que se este usando."
+          "feedback": "Incorrect. Verb tense is independent of the type of relative clause being used."
         }
       ],
       "correct_answer": "C",
@@ -421,25 +421,25 @@
           "letter": "A",
           "text": "that",
           "is_correct": true,
-          "feedback": "Correcto. 'That' es el objeto de 'bought' y funciona como pronombre relativo neutro para cosas."
+          "feedback": "Correct. 'That' is the object of 'bought' and works as a neutral relative pronoun for things."
         },
         {
           "letter": "B",
           "text": "which",
           "is_correct": false,
-          "feedback": "Incorrecto. Aunque 'which' funciona con cosas, el enunciado pide la forma mas economica para un antecedente no humano en funcion de objeto."
+          "feedback": "Incorrect. Although 'which' works with things, the prompt asks for the most economical form for a non-human antecedent acting as an object."
         },
         {
           "letter": "C",
           "text": "what",
           "is_correct": false,
-          "feedback": "Incorrecto. 'What' no puede funcionar como objeto relativo dentro de una clausula de este tipo."
+          "feedback": "Incorrect. 'What' cannot function as a relative object within this type of clause."
         },
         {
           "letter": "D",
           "text": "whose",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Whose' expresa pertenencia y no sustituye al objeto directo del verbo 'bought'."
+          "feedback": "Incorrect. 'Whose' expresses possession and does not replace the direct object of the verb 'bought'."
         }
       ],
       "correct_answer": "A",
@@ -466,25 +466,25 @@
           "letter": "A",
           "text": "who",
           "is_correct": false,
-          "feedback": "Incorrecto. En el uso formal con preposicion delante del pronombre, la forma exigida es 'whom' y no 'who'."
+          "feedback": "Incorrect. In formal usage with the preposition before the pronoun, the required form is 'whom', not 'who'."
         },
         {
           "letter": "B",
           "text": "which",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Which' no se usa para persons cuando se refiere al objeto de una preposicion."
+          "feedback": "Incorrect. 'Which' is not used for people when it refers to the object of a preposition."
         },
         {
           "letter": "C",
           "text": "what",
           "is_correct": false,
-          "feedback": "Incorrecto. 'What' introduce una clausula sustantiva y no un pronombre relativo de objeto."
+          "feedback": "Incorrect. 'What' introduces a noun clause and is not an object relative pronoun."
         },
         {
           "letter": "D",
           "text": "whom",
           "is_correct": true,
-          "feedback": "Correcto. 'Whom' es el objeto de la preposicion 'to' y se usa con personas en el registro formal."
+          "feedback": "Correct. 'Whom' is the object of the preposition 'to' and is used for people in formal register."
         }
       ],
       "correct_answer": "D",
@@ -517,19 +517,19 @@
           "letter": "B",
           "text": "when",
           "is_correct": true,
-          "feedback": "Correcto. 'When' sustituye a un adverbio de tiempo y no se puede sustituir por 'that' en este caso."
+          "feedback": "Correct. 'When' replaces an adverb of time and cannot be replaced by 'that' in this case."
         },
         {
           "letter": "C",
           "text": "that",
           "is_correct": false,
-          "feedback": "Incorrecto. 'That' no puede sustituir a un adverbio de tiempo; para eso existe el pronombre 'when'."
+          "feedback": "Incorrect. 'That' cannot replace an adverb of time; the pronoun 'when' is used for that."
         },
         {
           "letter": "D",
           "text": "where",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Where' introduce lugar y el enunciado se refiere a un dia, no a un sitio."
+          "feedback": "Incorrect. 'Where' introduces place, and the prompt refers to a day, not a location."
         }
       ],
       "correct_answer": "B",
@@ -562,19 +562,19 @@
           "letter": "B",
           "text": "why",
           "is_correct": true,
-          "feedback": "Correcto. 'Why' introduce una clausula de razon y es el pronombre relativo que sustituye a 'the reason'."
+          "feedback": "Correct. 'Why' introduces a clause of reason and is the relative pronoun that replaces 'the reason'."
         },
         {
           "letter": "C",
           "text": "what",
           "is_correct": false,
-          "feedback": "Incorrecto. 'What' no es un pronombre relativo de razon y no sustituye al sintagma 'the reason'."
+          "feedback": "Incorrect. 'What' is not a relative pronoun of reason and does not replace the phrase 'the reason'."
         },
         {
           "letter": "D",
           "text": "when",
           "is_correct": false,
-          "feedback": "Incorrecto. 'When' introduce tiempo y la clausula explica un motivo, no un momento."
+          "feedback": "Incorrect. 'When' introduces time, but the clause explains a reason, not a moment."
         }
       ],
       "correct_answer": "B",
@@ -601,13 +601,13 @@
           "letter": "A",
           "text": "what",
           "is_correct": false,
-          "feedback": "Incorrecto. 'What' no funciona como pronombre relativo de objeto con un verbo transitivo."
+          "feedback": "Incorrect. 'What' does not function as an object relative pronoun with a transitive verb."
         },
         {
           "letter": "B",
           "text": "where",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Where' expresa lugar, pero el verbo 'visited' ya es transitivo y el pronombre debe ser un objeto."
+          "feedback": "Incorrect. 'Where' expresses place, but 'visited' is a transitive verb, so the pronoun must be an object."
         },
         {
           "letter": "C",
@@ -619,7 +619,7 @@
           "letter": "D",
           "text": "that",
           "is_correct": true,
-          "feedback": "Correcto. 'That' es el objeto de 'visited' y la clausula identifica cual de las islas es."
+          "feedback": "Correct. 'That' is the object of 'visited', and the clause identifies which of the islands is meant."
         }
       ],
       "correct_answer": "D",
@@ -646,25 +646,25 @@
           "letter": "A",
           "text": "what",
           "is_correct": false,
-          "feedback": "Incorrecto. 'What' introduce una clausula sustantiva y no funciona como objeto relativo."
+          "feedback": "Incorrect. 'What' introduces a noun clause and does not function as a relative object."
         },
         {
           "letter": "B",
           "text": "where",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Where' expresa lugar y la relacion de la clausula con el sustantivo es de objeto."
+          "feedback": "Incorrect. 'Where' expresses place, but the clause relates to the noun as an object."
         },
         {
           "letter": "C",
           "text": "that",
           "is_correct": true,
-          "feedback": "Correcto. 'That' funciona como objeto de 'wrote' y no lleva coma en su uso definitorio."
+          "feedback": "Correct. 'That' functions as the object of 'wrote' and takes no comma in its defining use."
         },
         {
           "letter": "D",
           "text": "when",
           "is_correct": false,
-          "feedback": "Incorrecto. 'When' introduce tiempo y no un objeto directo como el que exige el verbo 'wrote'."
+          "feedback": "Incorrect. 'When' introduces time, not the direct object that the verb 'wrote' requires."
         }
       ],
       "correct_answer": "C",
@@ -691,25 +691,25 @@
           "letter": "A",
           "text": "Because it defines exactly which person or thing the sentence refers to.",
           "is_correct": true,
-          "feedback": "Correcto. Su funcion es limitar el significado del sustantivo a una unidad concreta y determinada."
+          "feedback": "Correct. Its function is to narrow the meaning of the noun to one specific, particular item."
         },
         {
           "letter": "B",
           "text": "Because it is the longest clause in the sentence.",
           "is_correct": false,
-          "feedback": "Incorrecto. La longitud no determina el nombre ni el comportamiento de la clausula."
+          "feedback": "Incorrect. Length does not determine the name or behavior of the clause."
         },
         {
           "letter": "C",
           "text": "Because it always comes at the beginning of the sentence.",
           "is_correct": false,
-          "feedback": "Incorrecto. La clausula puede ir despues del sustantivo o separada por comas en su version explicativa."
+          "feedback": "Incorrect. The clause can follow the noun directly or be set off by commas in its non-defining form."
         },
         {
           "letter": "D",
           "text": "Because it is required in every English sentence.",
           "is_correct": false,
-          "feedback": "Incorrecto. Muchas oraciones son correctas sin ninguna clausula relativa; es la informacion la que puede requerirla."
+          "feedback": "Incorrect. Many sentences are correct without any relative clause; it is the information that may require one."
         }
       ],
       "correct_answer": "A",
@@ -736,13 +736,13 @@
           "letter": "A",
           "text": "that",
           "is_correct": true,
-          "feedback": "Correcto. 'That' es el objeto de 'watched' y funciona como pronombre relativo para antecedentes no humanos."
+          "feedback": "Correct. 'That' is the object of 'watched' and works as a relative pronoun for non-human antecedents."
         },
         {
           "letter": "B",
           "text": "what",
           "is_correct": false,
-          "feedback": "Incorrecto. 'What' no puede ocupar la funcion de objeto directo de un verbo transitivo."
+          "feedback": "Incorrect. 'What' cannot act as the direct object of a transitive verb."
         },
         {
           "letter": "C",
@@ -754,7 +754,7 @@
           "letter": "D",
           "text": "who",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Who' se reserva para personas y el antecedente de esta frase es una pelicula."
+          "feedback": "Incorrect. 'Who' is reserved for people, and the antecedent in this sentence is a movie."
         }
       ],
       "correct_answer": "A",
@@ -781,25 +781,25 @@
           "letter": "A",
           "text": "This is the equipment what we need for the experiment.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'What' no se usa como objeto relativo en el ingles estandar de esta unidad."
+          "feedback": "Incorrect. 'What' is not used as a relative object in the standard English of this unit."
         },
         {
           "letter": "B",
           "text": "This is the equipment which what we need for the experiment.",
           "is_correct": false,
-          "feedback": "Incorrecto. No se pueden combinar dos pronombres relativos en una misma clausula."
+          "feedback": "Incorrect. Two relative pronouns cannot be combined in the same clause."
         },
         {
           "letter": "C",
           "text": "This is the equipment where we need for the experiment.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Where' expresa lugar y no puede ser el objeto del verbo 'need'."
+          "feedback": "Incorrect. 'Where' expresses place and cannot be the object of the verb 'need'."
         },
         {
           "letter": "D",
           "text": "This is the equipment that we need for the experiment.",
           "is_correct": true,
-          "feedback": "Correcto. 'That' es objeto de 'need' y la clausula identifica el equipo concreto que se utiliza."
+          "feedback": "Correct. 'That' is the object of 'need', and the clause identifies the specific equipment being used."
         }
       ],
       "correct_answer": "D",
@@ -826,25 +826,25 @@
           "letter": "A",
           "text": "who",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Who' se usa como sujeto u objeto pero no expresa una relacion de pertenencia como la del enunciado."
+          "feedback": "Incorrect. 'Who' is used as a subject or object, but it does not express possession as the prompt requires."
         },
         {
           "letter": "B",
           "text": "whose",
           "is_correct": true,
-          "feedback": "Correcto. 'Whose' expresa la posesion del trabajo y conecta la clausula con el sustantivo 'students'."
+          "feedback": "Correct. 'Whose' expresses possession of the work and connects the clause to the noun 'students'."
         },
         {
           "letter": "C",
           "text": "what",
           "is_correct": false,
-          "feedback": "Incorrecto. 'What' no es un pronombre relativo de posesion y no puede enlazar con 'work ethic'."
+          "feedback": "Incorrect. 'What' is not a possessive relative pronoun and cannot link to 'work ethic'."
         },
         {
           "letter": "D",
           "text": "which",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Which' no expresa pertenencia, y la oracion necesita un vinculo de ese tipo entre el sujeto y el sustantivo."
+          "feedback": "Incorrect. 'Which' does not express possession, and the sentence needs that kind of link between the subject and the noun."
         }
       ],
       "correct_answer": "B",
@@ -871,25 +871,25 @@
           "letter": "A",
           "text": "who",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Who' no expresa pertenencia, que es la relacion que describe el sustantivo 'advice'."
+          "feedback": "Incorrect. 'Who' does not express possession, which is the relationship the noun 'advice' describes."
         },
         {
           "letter": "B",
           "text": "that",
           "is_correct": false,
-          "feedback": "Incorrecto. 'That' funciona como objeto o sujeto, pero no como vinculo de posesion entre 'teacher' y 'advice'."
+          "feedback": "Incorrect. 'That' works as an object or subject, but not as a possessive link between 'teacher' and 'advice'."
         },
         {
           "letter": "C",
           "text": "whose",
           "is_correct": true,
-          "feedback": "Correcto. 'Whose' indica que el consejo pertenece a la profesora y por eso la clausula resulta significativa."
+          "feedback": "Correct. 'Whose' shows that the advice belongs to the teacher, which is why the clause is meaningful."
         },
         {
           "letter": "D",
           "text": "which",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Which' no expresa una relacion de pertenencia y por eso no puede depender del sustantivo 'advice'."
+          "feedback": "Incorrect. 'Which' does not express possession, so it cannot depend on the noun 'advice'."
         }
       ],
       "correct_answer": "C",
