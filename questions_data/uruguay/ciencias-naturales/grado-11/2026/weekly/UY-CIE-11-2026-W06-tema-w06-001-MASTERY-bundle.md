@@ -306,20 +306,20 @@ La herencia ligada al sexo sigue patrones característicos asociados a los cromo
 **Expected_Success:** 0.45
 **Contexto:** Para el proyecto final de ciencias en el Liceo N° 2 de Tacuarembó, Agustín investiga acerca de primera ley de mendel.
 ### Enunciado
-Si cruzás dos plantas de arveja homocigotas puras, una de semilla amarilla dominante ($AA$) y otra de semilla verde recesiva ($aa$), ¿qué fenotipos se esperan en la primera generación filial ($F_1$)?
+En un cruzamiento controlado, el 100% de las plantas de la primera generación muestran el mismo fenotipo y la segunda generación aparece en proporción 3:1. ¿Qué cruzamiento produce ese resultado?
 
 ### Opciones
-- [x] C) 100% plantas de semilla amarilla.
-  <!-- feedback: Correcto. Toda la descendencia $F_1$ es heterocigota ($Aa$) y exhibe el fenotipo asociado al alelo dominante. -->
-- [ ] A) 50% plantas amarillas y 50% verdes.
-  <!-- feedback: Incorrecto. Esta proporción corresponde a un cruce de prueba entre un heterocigoto y un homocigoto recesivo. -->
-- [ ] B) 75% plantas amarillas y 25% verdes.
-  <!-- feedback: Incorrecto. Esta proporción es la clásica segregación fenotípica de la generación filial $F_2$. -->
-- [ ] D) 100% plantas verdes de bajo vigor.
-  <!-- feedback: Incorrecto. El alelo recesivo queda enmascarado por el dominante en la generación $F_1$. -->
+- [ ] A) El cruce de dos Individuals homocigotas recesivas, que solo pueden dar descendientes recesivos.
+  <!-- feedback: Dos homocigotas recesivas producen una primera generación 100% recesiva, de modo que no puede aparecer después la proporción 3:1 que describe el enunciado. -->
+- [x] B) El cruce de dos plantas heterocigotas del mismo carácter, que se separan según la ley 3:1.
+  <!-- feedback: El cruce de dos heterocigotas produce 1:2:1 en genotipos y 3:1 en fenotipos, y es el resultado clásico de la ley de segregación de Mendel. -->
+- [ ] C) El cruce de una planta dominante con otra recesiva, que siempre da 50% de cada fenotipo.
+  <!-- feedback: Ese cruce corresponde al retrocruzamiento de prueba y arroja 1:1, una proporción distinta de la separación 3:1 que se observa en la generación siguiente. -->
+- [ ] D) El cruce de dos plantas con distinto carácter, que produce la proporción 9:3:3:1.
+  <!-- feedback: La proporción 9:3:3:1 corresponde a la dihibridación, con dos caracteres diferentes, y no a un solo carácter como el del enunciado. -->
 
 ### Explicación Pedagógica
-La ley de la uniformidad establece que al cruzar dos líneas puras para un carácter, toda la descendencia híbrida es idéntica fenotípicamente. En este contexto, Agustín de Tacuarembó determinó correctamente la respuesta correcta.
+La proporción 3:1 en fenotipos es la firma del cruce entre dos individuos heterocigotas de un mismo carácter, y en la primera generación todos los descendientes muestran el alelo dominante. Agustín de Tacuarembó reconoció el patrón antes de contar las plantas.
 
 ---
 ## Question 14 [D7-D8]
@@ -467,26 +467,17 @@ En codominancia ambos alelos se manifiestan en el fenotipo del heterocigoto con 
 **Expected_Success:** 0.30
 **Contexto:** En el taller de Ciencias Naturales en Melo, Mateo observa un modelo experimental de herencia ligada al sexo.
 ### Enunciado
-¿Por qué las enfermedades recesivas ligadas al cromosoma X (como la hemofilia) se expresan con mayor frecuencia fenotípica en hombres que en mujeres?
+En una línea de Drosophila, un macho hemofílico se cruza con una hembra portadora sana. ¿Qué proporción de la descendencia masculina presenta la enfermedad?
 
 ### Opciones
-- [x] B) Los hombres son hemicigotos para el cromosoma X, por lo que un solo alelo mutado determina la afección.
-  <!-- feedback: Correcto. Como los hombres tienen cariotipo XY, no disponen de un segundo cromosoma X que pueda compensar la mutación recesiva. -->
-- [ ] A) Las hormonas masculinas como la testosterona aumentan la tasa de mutaciones génicas.
-  <!-- feedback: Incorrecto. Las hormonas sexuales regulan caracteres secundarios pero no alteran la tasa mutacional cromosómica general. -->
-- [ ] C) Las mujeres carecen de cromosoma X y transmiten la mutación mediante mitocondrias.
-  <!-- feedback: Incorrecto. Las mujeres tienen dos cromosomas X (XX) y transmiten la hemofilia de manera normal como portadoras saludables. -->
-- [ ] D) El cromosoma Y masculino silencia la expresión de las enzimas de coagulación sanguínea.
-  <!-- feedback: Incorrecto. El cromosoma Y posee pocos genes específicos y no interfiere con los genes del cromosoma X. -->
+- [ ] A) El 100% de los machos, porque cualquier alelo recesivo se expresa sin necesidad de homocigosis.
+  <!-- feedback: La hemofilia es recesiva ligada al cromosoma X, por lo que un varón, que posee una sola X, la expresa solo si esa X lleva el alelo mutado. -->
+- [ ] B) El 0% de los machos, porque el progenitor sano transmite siempre el alelo normal.
+  <!-- feedback: La hembra es portadora, de modo que transmite el alelo mutado a la mitad de sus hijos varones, que sí pueden heredar el alelo normal del padre. -->
+- [x] C) El 50% de los machos, porque la madre portadora transmite el alelo mutado a la mitad de sus hijos.
+  <!-- feedback: Cada varón recibe su único cromosoma X de la madre, y una portadora lo reparte a partes iguales entre la X con el alelo sano y la X con el mutante. -->
+- [ ] D) El 25% de los machos, porque el cruce corresponde a una proporción dihíbrida 9:3:3:1.
+  <!-- feedback: La proporción 9:3:3:1 pertenece a la herencia de dos caracteres simultáneos; aquí se analiza un único locus recesivo ligado al sexo. -->
 
 ### Explicación Pedagógica
-La herencia ligada al sexo sigue patrones característicos asociados a los cromosomas que determinan el sexo biológico. En este contexto, Mateo de Melo determinó correctamente la respuesta correcta.
-
-### Revision de Calidad
-| Dimension | Puntaje |
-|-----------|---------|
-| Tecnico | 30/30 |
-| Curricular | 40/40 |
-| Contexto | 20/20 |
-| Redaccion | 10/10 |
-| **Total** | **100/100** |
+Al estar el gen ligado al cromosoma X, los varones son hemicigotos: basta una copia del alelo recesivo para expresar la enfermedad, y esa copia la reciben de la madre. Mateo de Melo calculó que la mitad de los varones la presentan, mientras que entre las hembras solo la presenta la mitad.

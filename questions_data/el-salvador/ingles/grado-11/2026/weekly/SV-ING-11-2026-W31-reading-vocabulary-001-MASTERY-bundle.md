@@ -28,457 +28,458 @@ creador: "Jules-Agent"
 **Bloom:** Apply
 **EJE:** reading vocabulary
 **Expected_Success:** 0.80
-**Contexto:** English class in San Salvador, SV.
+**Contexto:** An article about how a new library programme runs evening reading clubs in the poorest districts of the city.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+Read: 'Volunteers are required to commit to a full school term.' What does 'commit to' mean here?
 
 ### Opciones
-- [x] B) am
-  <!-- feedback: Correct! With the subject 'I', the present continuous is built with 'am' followed by the -ing form. -->
-- [ ] A) is
-  <!-- feedback: 'is' goes with he, she, it and singular nouns, but the subject here is 'I', which takes 'am'. -->
-- [ ] C) are
-  <!-- feedback: 'are' goes with you, we and they, while 'I' is the first person singular and takes 'am'. -->
-- [ ] D) be
-  <!-- feedback: 'be' is the bare infinitive used in the dictionary form; the present continuous needs the auxiliary 'am' before 'reading'. -->
+- [x] B) promise themselves to do it
+  <!-- feedback: 'Commit to' means to promise to do something and not to change your mind, which is what the programme demands. -->
+- [ ] A) complain about doing it
+  <!-- feedback: Complaining would be described with a complaint verb such as 'resent', never with 'commit to'. -->
+- [ ] C) pay money for it
+  <!-- feedback: Payment appears with words like 'fee' or 'pay', and 'commit to' refers to a promise, not to a sum of money. -->
+- [ ] D) refuse to do it
+  <!-- feedback: Refusing is expressed with 'decline' or 'turn down'; the sentence asks volunteers to promise, the opposite of refusing. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
+To commit to something is to promise to do it and to keep that promise, so the volunteers must stay for the whole term.
 
 ## Question 2 [D3-D4]
 **ID:** SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **EJE:** reading vocabulary
 **Expected_Success:** 0.80
-**Contexto:** English class in San Miguel, SV.
+**Contexto:** A school report that describes how students responded to a new reading requirement in two different ways.
 
 ### Enunciado
-What does 'benevolent' mean?
+Read: 'Some parents were sceptical about the reading lists.' What does 'sceptical' express?
 
 ### Opciones
-- [x] B) Kind and generous
-  <!-- feedback: Correct! 'Benevolent' means kind, charitable and willing to give help to others. -->
-- [ ] A) Mean and cruel
-  <!-- feedback: 'Mean and cruel' is the opposite of benevolent, a word built from bene- for well and volens for wishing. -->
-- [ ] C) Quick and fast
-  <!-- feedback: 'Quick and fast' describes speed, which says nothing about kindness or giving. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: 'Slow and lazy' describes someone's effort or pace, not their generosity towards other people. -->
+- [x] C) Doubtful, not yet convinced
+  <!-- feedback: 'Sceptical' means having doubts and not being convinced, which is exactly the attitude described in the report. -->
+- [ ] A) Completely convinced
+  <!-- feedback: Being convinced is the opposite of being sceptical, and the report presents doubt rather than agreement. -->
+- [ ] B) Extremely enthusiastic
+  <!-- feedback: Enthusiasm is a positive reaction; sceptical is a negative one that questions whether something is a good idea. -->
+- [ ] D) Indifferent because they never heard of it
+  <!-- feedback: Indifference means not caring either way, whereas sceptical parents know about the lists and actively doubt them. -->
 
 ### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
+Sceptical describes people who have doubts about a claim, while enthusiastic describes people who are excited and convinced about it.
 
 ## Question 3 [D3-D4]
 **ID:** SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v3
 **Bloom:** Analyze
 **EJE:** reading vocabulary
 **Expected_Success:** 0.70
-**Contexto:** English class in Mejicanos, SV.
+**Contexto:** A passage about a coastal town that lost most of its coral reef in a single decade and what happened after the disaster.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+Read: 'The reef recovered faster than anyone had expected.' What does the word 'recovered' suggest in the passage?
 
 ### Opciones
-- [x] A) Bees are important for pollination and honey
-  <!-- feedback: Correct! The text links bees to two jobs, pollinating flowers and producing honey, and that is its central idea. -->
-- [ ] B) Bees are dangerous insects
-  <!-- feedback: The text never claims that bees are dangerous; it focuses on the useful work they do for flowering plants. -->
-- [ ] C) Honey is the only product bees make
-  <!-- feedback: The word 'only' overstates the text, which mentions pollination as well as honey, so bees do more than make honey. -->
-- [ ] D) Flowers don't need bees
-  <!-- feedback: The text says that bees pollinate flowers, so it presents flowering plants as depending on them. -->
+- [x] A) The reef returned to a healthier state
+  <!-- feedback: To recover is to get back to a good condition after damage, and the faster-than-expected comparison stresses that return. -->
+- [ ] B) The reef disappeared from the map
+  <!-- feedback: Losing something is not recovering it; the sentence states the opposite, a return to health. -->
+- [ ] C) The reef was sold to another country
+  <!-- feedback: A change of ownership would be described with verbs like 'sold' or 'transferred', not with 'recovered'. -->
+- [ ] D) The reef was moved to a deeper sea
+  <!-- feedback: Being relocated is not recovery, because the sentence speaks about regaining a healthy state in the same place. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
+To recover is to become healthy or functional again after a period of damage, so the sentence shows a positive change in the reef.
 
 ## Question 4 [D3-D4]
 **ID:** SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v4
 **Bloom:** Remember
 **EJE:** reading vocabulary
 **Expected_Success:** 0.85
-**Contexto:** English class in San Miguel, SV.
+**Contexto:** A workshop handout that explains the vocabulary students will meet in a text about volunteer work.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+Which word in a text usually means the opposite of 'increase'?
 
 ### Opciones
-- [x] C) went
-  <!-- feedback: Correct! 'Go' is an irregular verb, so its simple past is 'went' and not 'goed'. -->
-- [ ] A) goed
-  <!-- feedback: 'goed' only looks like the past of 'go' because of the German spelling; no English verb takes that form. -->
-- [ ] B) gone
-  <!-- feedback: 'gone' is the past participle used after 'have', as in 'has gone', and not the simple past. -->
-- [ ] D) going
-  <!-- feedback: 'going' is the -ing form, which builds the present continuous rather than the simple past. -->
+- [x] D) decrease
+  <!-- feedback: 'Increase' means to grow in amount, and 'decrease' means to go down, so the two words are direct opposites. -->
+- [ ] A) expand
+  <!-- feedback: 'Expand' is a synonym of increase, because it also means to grow larger, so it is not the opposite. -->
+- [ ] B) promote
+  <!-- feedback: To promote is to encourage something, and in finance it can mean to raise a value, but it is not the antonym. -->
+- [ ] C) rise
+  <!-- feedback: 'Rise' is another word for going up in amount, so it belongs to the same side of the pair as 'increase'. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
+Antonyms state the opposite: increase and decrease, rise and fall, expand and shrink, gain and lose.
 
 ## Question 5 [D5-D6]
 **ID:** SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v5
 **Bloom:** Remember
 **EJE:** reading vocabulary
 **Expected_Success:** 0.85
-**Contexto:** English class in Santa Ana, SV.
+**Contexto:** A dictionary exercise where students must choose a precise word to replace a vague one in a report.
 
 ### Enunciado
-Which sentence uses the present simple correctly?
+Choose the most precise verb to replace the vague phrase in 'The team made a decision.'
 
 ### Opciones
-- [x] B) She goes to school every day.
-  <!-- feedback: Correct! In the present simple with 'she' the verb takes the -s ending, so 'goes' is the right form here. -->
-- [ ] A) She go to school every day.
-  <!-- feedback: With 'she' in the present simple the verb must carry the -s ending, so 'go' is not correct in this sentence. -->
-- [ ] C) She going to school every day.
-  <!-- feedback: This follows the present continuous pattern, which needs 'is' before 'going' rather than the present simple. -->
-- [ ] D) She gone to school every day.
-  <!-- feedback: This mixes two forms, because 'gone' is a past participle and does not fit the present simple sentence. -->
+- [x] B) decided
+  <!-- feedback: 'Decided' states exactly what the team did, while 'made' only reports that something happened without naming the action. -->
+- [ ] A) did
+  <!-- feedback: 'Did' is as vague as 'made' and gives the reader no idea about the kind of action that took place. -->
+- [ ] C) took
+  <!-- feedback: 'Took' needs a companion, as in 'took a decision', and on its own it explains nothing about the action. -->
+- [ ] D) made up
+  <!-- feedback: 'Made up' means invented, and the sentence gives no sign that the decision was invented rather than reached. -->
 
 ### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
+A precise verb names the action itself: the team decided, the board approved, the committee rejected, and the judge awarded.
 
 ## Question 6 [D5-D6]
 **ID:** SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** reading vocabulary
 **Expected_Success:** 0.80
-**Contexto:** English class in San Miguel, SV.
+**Contexto:** An article about how a rural school introduced a garden project so that pupils could grow their own vegetables.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+Read: 'The garden provided a hands-on lesson in nutrition.' What does 'hands-on' mean?
 
 ### Opciones
-- [x] C) am
-  <!-- feedback: Correct! With the subject 'I', the present continuous is built with 'am' followed by the -ing form. -->
-- [ ] A) is
-  <!-- feedback: 'is' goes with he, she, it and singular nouns, but the subject here is 'I', which takes 'am'. -->
-- [ ] B) are
-  <!-- feedback: 'are' goes with you, we and they, while 'I' is the first person singular and takes 'am'. -->
-- [ ] D) be
-  <!-- feedback: 'be' is the bare infinitive used in the dictionary form; the present continuous needs the auxiliary 'am' before 'reading'. -->
+- [x] C) learned by doing it
+  <!-- feedback: 'Hands-on' means involving practical activity, and the garden forces pupils to plant and harvest instead of only reading. -->
+- [ ] A) learned only from books
+  <!-- feedback: A purely theoretical lesson is the opposite of hands-on, because the phrase points to real practice. -->
+- [ ] B) written with great care
+  <!-- feedback: Careful writing would be described as meticulous or polished, and that has nothing to do with this phrase. -->
+- [ ] D) taught by an outside expert
+  <!-- feedback: An outside teacher describes who gives the lesson, while 'hands-on' describes how the lesson is learned. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
+Hands-on means involving practical experience: a hands-on lesson, a hands-on workshop, and learning by doing the task yourself.
 
 ## Question 7 [D5-D6]
 **ID:** SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v7
 **Bloom:** Understand
 **EJE:** reading vocabulary
 **Expected_Success:** 0.80
-**Contexto:** English class in Mejicanos, SV.
+**Contexto:** A newspaper piece that compares two schools in the same city and explains why their results differ so much.
 
 ### Enunciado
-What does 'benevolent' mean?
+Read: 'The headteacher attributes the success to a very small class size.' What does 'attributes X to Y' mean?
 
 ### Opciones
-- [x] C) Kind and generous
-  <!-- feedback: Correct! 'Benevolent' means kind, charitable and willing to give help to others. -->
-- [ ] A) Mean and cruel
-  <!-- feedback: 'Mean and cruel' is the opposite of benevolent, a word built from bene- for well and volens for wishing. -->
-- [ ] B) Quick and fast
-  <!-- feedback: 'Quick and fast' describes speed, which says nothing about kindness or giving. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: 'Slow and lazy' describes someone's effort or pace, not their generosity towards other people. -->
+- [x] A) says X is caused by Y
+  <!-- feedback: To attribute something to something is to name the cause of it, and the sentence links the success to the class size. -->
+- [ ] B) says X is different from Y
+  <!-- feedback: Comparing would need a verb such as 'compares' or 'contrasts'; attributing links an effect to its cause. -->
+- [ ] C) says X happened before Y
+  <!-- feedback: Ordering in time is expressed with 'precedes' or 'comes before', which is not what this verb expresses. -->
+- [ ] D) says X is worth the same as Y
+  <!-- feedback: Equating is expressed with 'equates to'; the verb in the sentence names a cause and an effect instead. -->
 
 ### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
+To attribute an effect to a cause is to claim that the first happened because of the second, a frequent structure in report writing.
 
 ## Question 8 [D5-D6]
 **ID:** SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v8
 **Bloom:** Analyze
 **EJE:** reading vocabulary
 **Expected_Success:** 0.70
-**Contexto:** English class in Mejicanos, SV.
+**Contexto:** A study of a factory where the management reduced the working week and measured what happened to production.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+Read: 'Contrary to expectations, output rose after the change.' What does the expression 'contrary to expectations' do in the text?
 
 ### Opciones
-- [x] C) Bees are important for pollination and honey
-  <!-- feedback: Correct! The text links bees to two jobs, pollinating flowers and producing honey, and that is its central idea. -->
-- [ ] A) Bees are dangerous insects
-  <!-- feedback: The text never claims that bees are dangerous; it focuses on the useful work they do for flowering plants. -->
-- [ ] B) Honey is the only product bees make
-  <!-- feedback: The word 'only' overstates the text, which mentions pollination as well as honey, so bees do more than make honey. -->
-- [ ] D) Flowers don't need bees
-  <!-- feedback: The text says that bees pollinate flowers, so it presents flowering plants as depending on them. -->
+- [x] C) It signals that the result went against the usual belief
+  <!-- feedback: 'Contrary to' introduces an idea that does not match what people believed, which is what makes the result surprising. -->
+- [ ] A) It confirms what the managers predicted
+  <!-- feedback: Confirming a prediction would use words such as 'as expected'; this phrase states the opposite of that. -->
+- [ ] B) It introduces a personal opinion about the weather
+  <!-- feedback: Nothing in the phrase refers to weather or to an opinion; it is a marker of contrast inside the report. -->
+- [ ] D) It announces a fact the readers cannot verify
+  <!-- feedback: The phrase reports the accepted view and then denies it, and it is not a statement about what is verifiable. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
+Contrary to, surprisingly, unexpectedly and in contrast are discourse markers that announce a result which opposes the usual expectation.
 
 ## Question 9 [D5-D6]
 **ID:** SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v9
 **Bloom:** Remember
 **EJE:** reading vocabulary
 **Expected_Success:** 0.85
-**Contexto:** English class in Soyapango, SV.
+**Contexto:** A dictionary page for learners where each entry pairs a word with a short example and its opposite.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+Which pair consists of two true opposites?
 
 ### Opciones
-- [x] B) went
-  <!-- feedback: Correct! 'Go' is an irregular verb, so its simple past is 'went' and not 'goed'. -->
-- [ ] A) goed
-  <!-- feedback: 'goed' only looks like the past of 'go' because of the German spelling; no English verb takes that form. -->
-- [ ] C) gone
-  <!-- feedback: 'gone' is the past participle used after 'have', as in 'has gone', and not the simple past. -->
-- [ ] D) going
-  <!-- feedback: 'going' is the -ing form, which builds the present continuous rather than the simple past. -->
+- [x] B) generous and mean
+  <!-- feedback: A generous person gives freely, while a mean person refuses to share, so the two words describe opposite attitudes. -->
+- [ ] A) generous and polite
+  <!-- feedback: Being polite is about manners and does not contradict being generous, so these two words are not opposites. -->
+- [ ] C) generous and humble
+  <!-- feedback: Humility and generosity can both describe the same person, which shows the two words are not opposites. -->
+- [ ] D) generous and honest
+  <!-- feedback: Honesty and generosity are separate qualities that can be combined, so the pair does not form an opposition. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
+Real opposites exclude each other, while unrelated qualities can belong to the same person at the same time.
 
 ## Question 10 [D5-D6]
 **ID:** SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v10
 **Bloom:** Remember
 **EJE:** reading vocabulary
 **Expected_Success:** 0.85
-**Contexto:** English class in Soyapango, SV.
+**Contexto:** A lesson plan that asks students to rewrite a passage replacing formal words with simpler ones.
 
 ### Enunciado
-Which sentence uses the present simple correctly?
+Which word is closest in meaning to the formal word 'endeavour'?
 
 ### Opciones
-- [x] C) She goes to school every day.
-  <!-- feedback: Correct! In the present simple with 'she' the verb takes the -s ending, so 'goes' is the right form here. -->
-- [ ] A) She go to school every day.
-  <!-- feedback: With 'she' in the present simple the verb must carry the -s ending, so 'go' is not correct in this sentence. -->
-- [ ] B) She going to school every day.
-  <!-- feedback: This follows the present continuous pattern, which needs 'is' before 'going' rather than the present simple. -->
-- [ ] D) She gone to school every day.
-  <!-- feedback: This mixes two forms, because 'gone' is a past participle and does not fit the present simple sentence. -->
+- [x] C) try
+  <!-- feedback: 'Endeavour' is the formal version of 'try', used in official writing, and the two share the same basic meaning. -->
+- [ ] A) escape
+  <!-- feedback: Escaping is the opposite of making an effort, so the word is not close in meaning to 'endeavour' in any sense. -->
+- [ ] B) avoid
+  <!-- feedback: To avoid is to stay away from something, and that is the opposite of making the effort that 'endeavour' describes. -->
+- [ ] D) remember
+  <!-- feedback: Remembering is a mental act and has no connection to the effort implied by the formal verb 'endeavour'. -->
 
 ### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
+Formal and informal registers often share one meaning: endeavour and try, purchase and buy, assistance and help, and commence and begin.
 
 ## Question 11 [D7-D8]
 **ID:** SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** reading vocabulary
 **Expected_Success:** 0.80
-**Contexto:** English class in Soyapango, SV.
+**Contexto:** A report about a city that installed sensors on its streets to count traffic and reduce pollution at busy hours.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+Read: 'The sensors were installed in order to monitor air quality.' What does 'in order to' express?
 
 ### Opciones
-- [x] B) am
-  <!-- feedback: Correct! With the subject 'I', the present continuous is built with 'am' followed by the -ing form. -->
-- [ ] A) is
-  <!-- feedback: 'is' goes with he, she, it and singular nouns, but the subject here is 'I', which takes 'am'. -->
-- [ ] C) are
-  <!-- feedback: 'are' goes with you, we and they, while 'I' is the first person singular and takes 'am'. -->
-- [ ] D) be
-  <!-- feedback: 'be' is the bare infinitive used in the dictionary form; the present continuous needs the auxiliary 'am' before 'reading'. -->
+- [x] A) the purpose of the action
+  <!-- feedback: 'In order to' introduces the purpose for which the sensors were installed, which is the monitoring of air quality. -->
+- [ ] B) a comparison between two things
+  <!-- feedback: Comparisons use 'while', 'whereas' or 'compared with', and none of those meanings belongs to this phrase. -->
+- [ ] C) a result that happened by chance
+  <!-- feedback: Chance is expressed with 'by chance' or 'accidentally', while this phrase announces a deliberate purpose. -->
+- [ ] D) a condition that was never met
+  <!-- feedback: Unmet conditions appear in 'unless' or 'in case', and the sentence presents a clear intention instead. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
+Purpose is frequently marked with 'in order to', 'so as to', 'to' and 'for the purpose of', all of which answer the question why.
 
 ## Question 12 [D7-D8]
 **ID:** SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v12
 **Bloom:** Understand
 **EJE:** reading vocabulary
 **Expected_Success:** 0.80
-**Contexto:** English class in San Miguel, SV.
+**Contexto:** An article that explains how a hospital started a programme so that patients could check their own blood pressure at home.
 
 ### Enunciado
-What does 'benevolent' mean?
+Read: 'The programme proved to be a lifesaver during the emergency.' What does 'a lifesaver' suggest?
 
 ### Opciones
-- [x] C) Kind and generous
-  <!-- feedback: Correct! 'Benevolent' means kind, charitable and willing to give help to others. -->
-- [ ] A) Mean and cruel
-  <!-- feedback: 'Mean and cruel' is the opposite of benevolent, a word built from bene- for well and volens for wishing. -->
-- [ ] B) Quick and fast
-  <!-- feedback: 'Quick and fast' describes speed, which says nothing about kindness or giving. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: 'Slow and lazy' describes someone's effort or pace, not their generosity towards other people. -->
+- [x] D) something that prevents a very bad situation
+  <!-- feedback: A lifesaver is something that keeps people out of danger, and the sentence credits the programme with that role. -->
+- [ ] A) a person who works for a hospital
+  <!-- feedback: Staff are described with words such as 'nurse' or 'technician'; here the phrase names the value of a service. -->
+- [ ] B) a device that measures blood pressure
+  <!-- feedback: That device is the blood pressure monitor, and the sentence praises the whole programme rather than the instrument. -->
+- [ ] C) a rule that patients must follow
+  <!-- feedback: Rules appear in 'regulation' or 'requirement'; the phrase in the sentence describes a benefit, not an obligation. -->
 
 ### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
+Figurative expressions name a benefit in vivid words: a lifesaver, a turning point, a godsend, or a breath of fresh air.
 
 ## Question 13 [D7-D8]
 **ID:** SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** reading vocabulary
 **Expected_Success:** 0.70
-**Contexto:** English class in San Salvador, SV.
+**Contexto:** A piece about a young scientist whose experiment was rejected twice by a scientific journal before it was finally published.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+Read: 'Her paper was rejected, but she did not give up on her hypothesis.' What does 'give up on' mean here?
 
 ### Opciones
-- [x] A) Bees are important for pollination and honey
-  <!-- feedback: Correct! The text links bees to two jobs, pollinating flowers and producing honey, and that is its central idea. -->
-- [ ] B) Bees are dangerous insects
-  <!-- feedback: The text never claims that bees are dangerous; it focuses on the useful work they do for flowering plants. -->
-- [ ] C) Honey is the only product bees make
-  <!-- feedback: The word 'only' overstates the text, which mentions pollination as well as honey, so bees do more than make honey. -->
-- [ ] D) Flowers don't need bees
-  <!-- feedback: The text says that bees pollinate flowers, so it presents flowering plants as depending on them. -->
+- [x] B) stop believing in it
+  <!-- feedback: To give up on something is to abandon it, and the sentence contrasts that abandonment with her persistence. -->
+- [ ] A) accept it immediately
+  <!-- feedback: Acceptance is expressed with 'accept', and the sentence describes the opposite of accepting, which is persisting. -->
+- [ ] C) publish it somewhere else
+  <!-- feedback: Publishing elsewhere is a separate decision, and the phrase in the sentence describes a change of attitude instead. -->
+- [ ] D) prove that it is false
+  <!-- feedback: Disproving a hypothesis is expressed with 'refute' or 'prove wrong', which is not the meaning of the phrase. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
+To give up on a plan, a job or an idea is to stop trying, and the phrase is common in reporting setbacks: the team gave up on the design.
 
 ## Question 14 [D7-D8]
 **ID:** SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v14
 **Bloom:** Remember
 **EJE:** reading vocabulary
 **Expected_Success:** 0.85
-**Contexto:** English class in San Salvador, SV.
+**Contexto:** A vocabulary sheet that shows how a single word family forms several different words used in a news report.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+Which of these words comes from the same family as the noun 'decision'?
 
 ### Opciones
-- [x] C) went
-  <!-- feedback: Correct! 'Go' is an irregular verb, so its simple past is 'went' and not 'goed'. -->
-- [ ] A) goed
-  <!-- feedback: 'goed' only looks like the past of 'go' because of the German spelling; no English verb takes that form. -->
-- [ ] B) gone
-  <!-- feedback: 'gone' is the past participle used after 'have', as in 'has gone', and not the simple past. -->
-- [ ] D) going
-  <!-- feedback: 'going' is the -ing form, which builds the present continuous rather than the simple past. -->
+- [x] C) decide
+  <!-- feedback: The family decision, decide and decided share one root, so the verb belongs to the same group as the noun. -->
+- [ ] A) delight
+  <!-- feedback: 'Delight' is a different word built on the root for happiness, and it is not part of the decision family. -->
+- [ ] B) decay
+  <!-- feedback: 'Decay' is related to damage over time and does not share the root of the decision family. -->
+- [ ] D) descend
+  <!-- feedback: 'Descend' means to go down and has a different root, so it belongs to another word family entirely. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
+Word families share one root: decide, decision and decisive; grow, growth and grower; create, creation and creative.
 
 ## Question 15 [D7-D8]
 **ID:** SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v15
 **Bloom:** Remember
 **EJE:** reading vocabulary
 **Expected_Success:** 0.85
-**Contexto:** English class in Santa Ana, SV.
+**Contexto:** A classroom task in which students rewrite a formal letter so that a younger class can understand it.
 
 ### Enunciado
-Which sentence uses the present simple correctly?
+Which word is the simplest alternative to 'terminate the agreement'?
 
 ### Opciones
-- [x] C) She goes to school every day.
-  <!-- feedback: Correct! In the present simple with 'she' the verb takes the -s ending, so 'goes' is the right form here. -->
-- [ ] A) She go to school every day.
-  <!-- feedback: With 'she' in the present simple the verb must carry the -s ending, so 'go' is not correct in this sentence. -->
-- [ ] B) She going to school every day.
-  <!-- feedback: This follows the present continuous pattern, which needs 'is' before 'going' rather than the present simple. -->
-- [ ] D) She gone to school every day.
-  <!-- feedback: This mixes two forms, because 'gone' is a past participle and does not fit the present simple sentence. -->
+- [x] A) end the agreement
+  <!-- feedback: 'End' is the plain version of the formal verb 'terminate', and both describe bringing something to a close. -->
+- [ ] B) renew the agreement
+  <!-- feedback: Renewing means making something continue, which is the opposite of ending it. -->
+- [ ] C) copy the agreement
+  <!-- feedback: Copying reproduces a document and has no relation to finishing it, so it is not a simplification. -->
+- [ ] D) hide the agreement
+  <!-- feedback: Hiding is about concealment and says nothing about bringing a contract to its end. -->
 
 ### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
+Simplifying a register means replacing long formal words with short common ones: terminate becomes end, purchase becomes buy, assistance becomes help.
 
 ## Question 16 [D7-D8]
 **ID:** SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v16
 **Bloom:** Apply
 **EJE:** reading vocabulary
 **Expected_Success:** 0.80
-**Contexto:** English class in San Salvador, SV.
+**Contexto:** A summary of a project in which local farmers were taught to read soil reports before deciding which crops to plant.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+Read: 'Farmers were taught to consult the report before deciding on the crop.' Which word in the second clause names the action of making a choice?
 
 ### Opciones
-- [x] C) am
-  <!-- feedback: Correct! With the subject 'I', the present continuous is built with 'am' followed by the -ing form. -->
-- [ ] A) is
-  <!-- feedback: 'is' goes with he, she, it and singular nouns, but the subject here is 'I', which takes 'am'. -->
-- [ ] B) are
-  <!-- feedback: 'are' goes with you, we and they, while 'I' is the first person singular and takes 'am'. -->
-- [ ] D) be
-  <!-- feedback: 'be' is the bare infinitive used in the dictionary form; the present continuous needs the auxiliary 'am' before 'reading'. -->
+- [x] D) deciding
+  <!-- feedback: 'Deciding' is the -ing form of the verb 'decide', and it names the act of choosing among several options. -->
+- [ ] A) consulting
+  <!-- feedback: 'Consulting' belongs to the first clause and means looking at the report, which is not the act of choosing. -->
+- [ ] B) teaching
+  <!-- feedback: 'Teaching' describes what the programme did to the farmers, not what they themselves did with the report. -->
+- [ ] C) reporting
+  <!-- feedback: 'Reporting' would mean giving information to others, while the clause describes a choice made by the farmer. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
+Decide, choose, select and pick all name the action of making a choice, and they differ only in register and in how formal the decision is.
 
 ## Question 17 [D9-D10]
 **ID:** SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v17
 **Bloom:** Understand
 **EJE:** reading vocabulary
 **Expected_Success:** 0.80
-**Contexto:** English class in San Miguel, SV.
+**Contexto:** A piece about a company that had to close a factory and how the workers organised their own cooperative to keep working.
 
 ### Enunciado
-What does 'benevolent' mean?
+Read: 'The workers took over the machinery and started a cooperative.' What does 'took over' mean?
 
 ### Opciones
-- [x] B) Kind and generous
-  <!-- feedback: Correct! 'Benevolent' means kind, charitable and willing to give help to others. -->
-- [ ] A) Mean and cruel
-  <!-- feedback: 'Mean and cruel' is the opposite of benevolent, a word built from bene- for well and volens for wishing. -->
-- [ ] C) Quick and fast
-  <!-- feedback: 'Quick and fast' describes speed, which says nothing about kindness or giving. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: 'Slow and lazy' describes someone's effort or pace, not their generosity towards other people. -->
+- [x] C) began controlling it
+  <!-- feedback: To take over is to gain control of something, and the sentence shows the workers assuming that control themselves. -->
+- [ ] A) destroyed it
+  <!-- feedback: Destroying is the opposite of taking control of something, and the workers clearly wanted to keep using it. -->
+- [ ] B) paid for it
+  <!-- feedback: Paying is expressed with 'paid for'; the sentence is about who controls the equipment, not about a purchase. -->
+- [ ] D) repaired it completely
+  <!-- feedback: Repairing would need 'repaired' or 'fixed', and the sentence focuses on the change of control rather than on repairs. -->
 
 ### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
+To take over is to assume control, and the phrase is frequent in reporting: the new manager took over, the army took over the building.
 
 ## Question 18 [D9-D10]
 **ID:** SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** reading vocabulary
 **Expected_Success:** 0.70
-**Contexto:** English class in San Miguel, SV.
+**Contexto:** A report comparing two recycling plants, one of which is efficient and the other which loses most of the material it receives.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+Read: 'The second plant runs at a loss because it wastes most of what it receives.' What does 'runs at a loss' mean in a business text?
 
 ### Opciones
-- [x] A) Bees are important for pollination and honey
-  <!-- feedback: Correct! The text links bees to two jobs, pollinating flowers and producing honey, and that is its central idea. -->
-- [ ] B) Bees are dangerous insects
-  <!-- feedback: The text never claims that bees are dangerous; it focuses on the useful work they do for flowering plants. -->
-- [ ] C) Honey is the only product bees make
-  <!-- feedback: The word 'only' overstates the text, which mentions pollination as well as honey, so bees do more than make honey. -->
-- [ ] D) Flowers don't need bees
-  <!-- feedback: The text says that bees pollinate flowers, so it presents flowering plants as depending on them. -->
+- [x] A) it spends more than it earns
+  <!-- feedback: A business that runs at a loss spends more money than it takes in, which is the situation the report describes. -->
+- [ ] B) it earns more than it spends
+  <!-- feedback: Earning more than it spends is a profit, the opposite outcome of the one stated in the sentence. -->
+- [ ] C) it cannot find any workers
+  <!-- feedback: Staffing problems appear with 'short of staff', and the sentence gives a financial cause for the problem instead. -->
+- [ ] D) it makes a profit every year
+  <!-- feedback: A yearly profit is a gain, and it contradicts the idea of a loss that the sentence reports explicitly. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
+In business reports, run at a loss means spending more than earning, while its opposite turn a profit means earning more than spending.
 
 ## Question 19 [D9-D10]
 **ID:** SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v19
 **Bloom:** Remember
 **EJE:** reading vocabulary
 **Expected_Success:** 0.85
-**Contexto:** English class in San Salvador, SV.
+**Contexto:** A dictionary appendix where each entry lists the noun form first and then the words most often seen around it.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+Which word is the noun form of the verb 'to decide'?
 
 ### Opciones
-- [x] A) went
-  <!-- feedback: Correct! 'Go' is an irregular verb, so its simple past is 'went' and not 'goed'. -->
-- [ ] B) goed
-  <!-- feedback: 'goed' only looks like the past of 'go' because of the German spelling; no English verb takes that form. -->
-- [ ] C) gone
-  <!-- feedback: 'gone' is the past participle used after 'have', as in 'has gone', and not the simple past. -->
-- [ ] D) going
-  <!-- feedback: 'going' is the -ing form, which builds the present continuous rather than the simple past. -->
+- [x] A) decision
+  <!-- feedback: The verb 'decide' becomes the noun 'decision' with the suffix -ion, and both share the same root. -->
+- [ ] B) decisive
+  <!-- feedback: 'Decisive' is an adjective describing a person or a moment, not the noun that names the act of deciding. -->
+- [ ] C) undecided
+  <!-- feedback: 'Undecided' is an adjective with a negative prefix and it does not name the act at all. -->
+- [ ] D) decidedly
+  <!-- feedback: 'Decidedly' is an adverb that modifies another verb, and adverbs form a different word class from nouns. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
+The main noun suffixes in English are -tion, -ment, -ness, -ity and -ance, as in decision, argument, darkness, ability and importance.
 
 ## Question 20 [D9-D10]
 **ID:** SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v20
-**Bloom:** Remember
+**Bloom:** Evaluate
 **EJE:** reading vocabulary
-**Expected_Success:** 0.85
-**Contexto:** English class in Santa Ana, SV.
+**Expected_Success:** 0.75
+**Contexto:** A summary of a six-week course in which students learned to read a budget, write a report and give a short presentation.
 
 ### Enunciado
-Which sentence uses the present simple correctly?
+Which of these four sentences uses its vocabulary accurately?
 
 ### Opciones
-- [x] A) She goes to school every day.
-  <!-- feedback: Correct! In the present simple with 'she' the verb takes the -s ending, so 'goes' is the right form here. -->
-- [ ] B) She go to school every day.
-  <!-- feedback: With 'she' in the present simple the verb must carry the -s ending, so 'go' is not correct in this sentence. -->
-- [ ] C) She going to school every day.
-  <!-- feedback: This follows the present continuous pattern, which needs 'is' before 'going' rather than the present simple. -->
-- [ ] D) She gone to school every day.
-  <!-- feedback: This mixes two forms, because 'gone' is a past participle and does not fit the present simple sentence. -->
+- [x] B) The course covers budgeting, report writing and short presentations.
+  <!-- feedback: 'Covers' is used with subjects that contain several parts, and budgeting, reports and presentations are exactly the three areas named. -->
+- [ ] A) The course covers the writing of a report, and the covers of the books were also damaged.
+  <!-- feedback: The second clause changes the sense of 'covers' into book covers, so the word is no longer used with the same meaning. -->
+- [ ] C) The course budgets the presentation and the report writes it.
+  <!-- feedback: Budget is a noun there, not a verb, and a report cannot write anything; the two verbs are assigned to the wrong nouns. -->
+- [ ] D) The course presents the report and the presentations present the course.
+  <!-- feedback: The sentence repeats 'presents' in two different senses and turns the last one into an impossible relationship. -->
 
 ### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
+Vocabulary is used accurately when one word keeps a single meaning in a sentence: covers means includes, and not the outer part of a book.
+

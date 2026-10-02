@@ -91,16 +91,16 @@ La longitud de una circunferencia se calcula mediante la fórmula $L = 2\pi r$. 
 **Contexto:** En Fajardo, Carmen analiza un problema de modelación matemática para un proyecto de la Escuela Superior Dr. Santiago Veve Calzada.
 
 ### Enunciado
-Determina la longitud de la circunferencia para un círculo de radio $r = 6$ cm. (Usa $\pi \approx 3.14$)
+Determina la longitud de la circunferencia para un círculo de radio $r = 3$ cm. (usa $\pi \approx 3.14$)
 
 ### Opciones
-- [ ] B) 113.04 cm <!-- feedback: Incorrecto. Se calculó el área del círculo. -->
-- [ ] C) 12 cm <!-- feedback: Incorrecto. Este representa el diámetro de la circunferencia. -->
-- [ ] D) 18.84 cm <!-- feedback: Incorrecto. No se multiplicó por 2 la fórmula. -->
-- [x] A) 37.68 cm <!-- feedback: Correcto. Aplicando $L = 2\pi r$. -->
+- [x] A) $18.84\text{ cm}$ <!-- feedback: Correcto. La longitud de la circunferencia es $C = 2\pi r = 2 \times 3.14 \times 3 = 18.84$ cm. -->
+- [ ] B) $6\text{ cm}$ <!-- feedback: Incorrecto. $6$ cm es el diámetro del círculo, no la longitud de su circunferencia. -->
+- [ ] C) $28.26\text{ cm}^2$ <!-- feedback: Incorrecto. Ese valor corresponde al área del círculo, pues $\pi r^2 = 28.26$, no a la longitud de la circunferencia. -->
+- [ ] D) $9.42\text{ cm}$ <!-- feedback: Incorrecto. Ese resultado corresponde a la semicircunferencia, porque falta el factor $2$ de la fórmula $C=2\pi r$. -->
 
 ### Explicacion Pedagogica
-La longitud de una circunferencia se calcula mediante la fórmula $L = 2\pi r$. Con $r = 6$ cm y $\pi \approx 3.14$: $L \approx 2 \times 3.14 \times 6 = 37.68$ cm.
+La longitud de la circunferencia se calcula con $C = 2\pi r$. Sustituyendo $r=3$ y $\pi \approx 3.14$ se obtiene $C = 2 \times 3.14 \times 3 = 18.84$ cm. El diámetro, el área y la semicircunferencia son magnitudes distintas y ninguna corresponde a lo pedido.
 
 ---
 
@@ -114,16 +114,16 @@ La longitud de una circunferencia se calcula mediante la fórmula $L = 2\pi r$. 
 **Contexto:** En Cidra, Keylor estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior Luis Muñoz Iglesias.
 
 ### Enunciado
-Determina la longitud de la circunferencia para un círculo de radio $r = 6$ cm. (Usa $\pi \approx 3.14$)
+Determina la longitud de la circunferencia para un círculo de radio $r = 4$ cm. (usa $\pi \approx 3.14$)
 
 ### Opciones
-- [ ] A) 113.04 cm <!-- feedback: Incorrecto. Se calculó el área del círculo. -->
-- [ ] B) 12 cm <!-- feedback: Incorrecto. Este representa el diámetro de la circunferencia. -->
-- [ ] D) 18.84 cm <!-- feedback: Incorrecto. No se multiplicó por 2 la fórmula. -->
-- [x] C) 37.68 cm <!-- feedback: Correcto. Aplicando $L = 2\pi r$. -->
+- [ ] A) $8\text{ cm}$ <!-- feedback: Incorrecto. $8$ cm es el diámetro del círculo, no la longitud de su circunferencia. -->
+- [x] B) $25.12\text{ cm}$ <!-- feedback: Correcto. La longitud de la circunferencia es $C = 2\pi r = 2 \times 3.14 \times 4 = 25.12$ cm. -->
+- [ ] C) $50.24\text{ cm}^2$ <!-- feedback: Incorrecto. Ese valor corresponde al área del círculo, pues $\pi r^2 = 50.24$, no a la longitud de la circunferencia. -->
+- [ ] D) $12.56\text{ cm}$ <!-- feedback: Incorrecto. Ese resultado corresponde a la semicircunferencia, porque falta el factor $2$ de la fórmula $C=2\pi r$. -->
 
 ### Explicacion Pedagogica
-La longitud de una circunferencia se calcula mediante la fórmula $L = 2\pi r$. Con $r = 6$ cm y $\pi \approx 3.14$: $L \approx 2 \times 3.14 \times 6 = 37.68$ cm.
+La longitud de la circunferencia se calcula con $C = 2\pi r$. Sustituyendo $r=4$ y $\pi \approx 3.14$ se obtiene $C = 2 \times 3.14 \times 4 = 25.12$ cm. El diámetro, el área y la semicircunferencia son magnitudes distintas y ninguna corresponde a lo pedido.
 
 ---
 
@@ -177,16 +177,16 @@ La longitud de una circunferencia se calcula mediante la fórmula $L = 2\pi r$. 
 **Contexto:** En Mayagüez, Gabriel diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior de Mayagüez (SILA).
 
 ### Enunciado
-Determina la longitud de la circunferencia para un círculo de radio $r = 9$ cm. (Usa $\pi \approx 3.14$)
+Determina la longitud de la circunferencia para un círculo de radio $r = 5$ cm. (usa $\pi \approx 3.14$)
 
 ### Opciones
-- [ ] A) 18 cm <!-- feedback: Incorrecto. Este representa el diámetro de la circunferencia. -->
-- [ ] B) 254.34 cm <!-- feedback: Incorrecto. Se calculó el área del círculo. -->
-- [ ] D) 28.26 cm <!-- feedback: Incorrecto. No se multiplicó por 2 la fórmula. -->
-- [x] C) 56.52 cm <!-- feedback: Correcto. Aplicando $L = 2\pi r$. -->
+- [ ] A) $10\text{ cm}$ <!-- feedback: Incorrecto. $10$ cm es el diámetro del círculo, no la longitud de su circunferencia. -->
+- [ ] B) $78.5\text{ cm}^2$ <!-- feedback: Incorrecto. Ese valor corresponde al área del círculo, pues $\pi r^2 = 78.5$, no a la longitud de la circunferencia. -->
+- [x] C) $31.4\text{ cm}$ <!-- feedback: Correcto. La longitud de la circunferencia es $C = 2\pi r = 2 \times 3.14 \times 5 = 31.4$ cm. -->
+- [ ] D) $15.7\text{ cm}$ <!-- feedback: Incorrecto. Ese resultado corresponde a la semicircunferencia, porque falta el factor $2$ de la fórmula $C=2\pi r$. -->
 
 ### Explicacion Pedagogica
-La longitud de una circunferencia se calcula mediante la fórmula $L = 2\pi r$. Con $r = 9$ cm y $\pi \approx 3.14$: $L \approx 2 \times 3.14 \times 9 = 56.52$ cm.
+La longitud de la circunferencia se calcula con $C = 2\pi r$. Sustituyendo $r=5$ y $\pi \approx 3.14$ se obtiene $C = 2 \times 3.14 \times 5 = 31.4$ cm. El diámetro, el área y la semicircunferencia son magnitudes distintas y ninguna corresponde a lo pedido.
 
 ---
 
@@ -198,16 +198,16 @@ La longitud de una circunferencia se calcula mediante la fórmula $L = 2\pi r$. 
 **Contexto:** Un grupo de estudiantes de la Escuela Superior Patria Latorre Ramírez en Humacao realiza una investigación guiada por Sofía.
 
 ### Enunciado
-Determina la longitud de la circunferencia para un círculo de radio $r = 3$ cm. (Usa $\pi \approx 3.14$)
+Determina la longitud de la circunferencia para un círculo de radio $r = 6$ cm. (usa $\pi \approx 3.14$)
 
 ### Opciones
-- [x] D) 18.84 cm <!-- feedback: Correcto. Aplicando $L = 2\pi r$. -->
-- [ ] A) 28.26 cm <!-- feedback: Incorrecto. Se calculó el área del círculo. -->
-- [ ] B) 6 cm <!-- feedback: Incorrecto. Este representa el diámetro de la circunferencia. -->
-- [ ] C) 9.42 cm <!-- feedback: Incorrecto. No se multiplicó por 2 la fórmula. -->
+- [ ] A) $12\text{ cm}$ <!-- feedback: Incorrecto. $12$ cm es el diámetro del círculo, no la longitud de su circunferencia. -->
+- [ ] B) $113.04\text{ cm}^2$ <!-- feedback: Incorrecto. Ese valor corresponde al área del círculo, pues $\pi r^2 = 113.04$, no a la longitud de la circunferencia. -->
+- [ ] C) $18.84\text{ cm}$ <!-- feedback: Incorrecto. Ese resultado corresponde a la semicircunferencia, porque falta el factor $2$ de la fórmula $C=2\pi r$. -->
+- [x] D) $37.68\text{ cm}$ <!-- feedback: Correcto. La longitud de la circunferencia es $C = 2\pi r = 2 \times 3.14 \times 6 = 37.68$ cm. -->
 
 ### Explicacion Pedagogica
-La longitud de una circunferencia se calcula mediante la fórmula $L = 2\pi r$. Con $r = 3$ cm y $\pi \approx 3.14$: $L \approx 2 \times 3.14 \times 3 = 18.84$ cm.
+La longitud de la circunferencia se calcula con $C = 2\pi r$. Sustituyendo $r=6$ y $\pi \approx 3.14$ se obtiene $C = 2 \times 3.14 \times 6 = 37.68$ cm. El diámetro, el área y la semicircunferencia son magnitudes distintas y ninguna corresponde a lo pedido.
 
 ---
 
@@ -219,16 +219,16 @@ La longitud de una circunferencia se calcula mediante la fórmula $L = 2\pi r$. 
 **Contexto:** En Arecibo, José estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior Luis Muñoz Marín.
 
 ### Enunciado
-Determina la longitud de la circunferencia para un círculo de radio $r = 3$ cm. (Usa $\pi \approx 3.14$)
+Determina la longitud de la circunferencia para un círculo de radio $r = 7$ cm. (usa $\pi \approx 3.14$)
 
 ### Opciones
-- [x] B) 18.84 cm <!-- feedback: Correcto. Aplicando $L = 2\pi r$. -->
-- [ ] A) 28.26 cm <!-- feedback: Incorrecto. Se calculó el área del círculo. -->
-- [ ] C) 6 cm <!-- feedback: Incorrecto. Este representa el diámetro de la circunferencia. -->
-- [ ] D) 9.42 cm <!-- feedback: Incorrecto. No se multiplicó por 2 la fórmula. -->
+- [x] A) $43.96\text{ cm}$ <!-- feedback: Correcto. La longitud de la circunferencia es $C = 2\pi r = 2 \times 3.14 \times 7 = 43.96$ cm. -->
+- [ ] B) $14\text{ cm}$ <!-- feedback: Incorrecto. $14$ cm es el diámetro del círculo, no la longitud de su circunferencia. -->
+- [ ] C) $153.86\text{ cm}^2$ <!-- feedback: Incorrecto. Ese valor corresponde al área del círculo, pues $\pi r^2 = 153.86$, no a la longitud de la circunferencia. -->
+- [ ] D) $21.98\text{ cm}$ <!-- feedback: Incorrecto. Ese resultado corresponde a la semicircunferencia, porque falta el factor $2$ de la fórmula $C=2\pi r$. -->
 
 ### Explicacion Pedagogica
-La longitud de una circunferencia se calcula mediante la fórmula $L = 2\pi r$. Con $r = 3$ cm y $\pi \approx 3.14$: $L \approx 2 \times 3.14 \times 3 = 18.84$ cm.
+La longitud de la circunferencia se calcula con $C = 2\pi r$. Sustituyendo $r=7$ y $\pi \approx 3.14$ se obtiene $C = 2 \times 3.14 \times 7 = 43.96$ cm. El diámetro, el área y la semicircunferencia son magnitudes distintas y ninguna corresponde a lo pedido.
 
 ---
 
@@ -242,16 +242,16 @@ La longitud de una circunferencia se calcula mediante la fórmula $L = 2\pi r$. 
 **Contexto:** Un grupo de estudiantes de la Escuela Superior Medardo Carazo en Trujillo Alto realiza una investigación guiada por Diego.
 
 ### Enunciado
-Determina la longitud de la circunferencia para un círculo de radio $r = 9$ cm. (Usa $\pi \approx 3.14$)
+Determina la longitud de la circunferencia para un círculo de radio $r = 8$ cm. (usa $\pi \approx 3.14$)
 
 ### Opciones
-- [ ] B) 18 cm <!-- feedback: Incorrecto. Este representa el diámetro de la circunferencia. -->
-- [ ] C) 254.34 cm <!-- feedback: Incorrecto. Se calculó el área del círculo. -->
-- [ ] D) 28.26 cm <!-- feedback: Incorrecto. No se multiplicó por 2 la fórmula. -->
-- [x] A) 56.52 cm <!-- feedback: Correcto. Aplicando $L = 2\pi r$. -->
+- [ ] A) $16\text{ cm}$ <!-- feedback: Incorrecto. $16$ cm es el diámetro del círculo, no la longitud de su circunferencia. -->
+- [x] B) $50.24\text{ cm}$ <!-- feedback: Correcto. La longitud de la circunferencia es $C = 2\pi r = 2 \times 3.14 \times 8 = 50.24$ cm. -->
+- [ ] C) $200.96\text{ cm}^2$ <!-- feedback: Incorrecto. Ese valor corresponde al área del círculo, pues $\pi r^2 = 200.96$, no a la longitud de la circunferencia. -->
+- [ ] D) $25.12\text{ cm}$ <!-- feedback: Incorrecto. Ese resultado corresponde a la semicircunferencia, porque falta el factor $2$ de la fórmula $C=2\pi r$. -->
 
 ### Explicacion Pedagogica
-La longitud de una circunferencia se calcula mediante la fórmula $L = 2\pi r$. Con $r = 9$ cm y $\pi \approx 3.14$: $L \approx 2 \times 3.14 \times 9 = 56.52$ cm.
+La longitud de la circunferencia se calcula con $C = 2\pi r$. Sustituyendo $r=8$ y $\pi \approx 3.14$ se obtiene $C = 2 \times 3.14 \times 8 = 50.24$ cm. El diámetro, el área y la semicircunferencia son magnitudes distintas y ninguna corresponde a lo pedido.
 
 ---
 
@@ -263,16 +263,16 @@ La longitud de una circunferencia se calcula mediante la fórmula $L = 2\pi r$. 
 **Contexto:** En San Juan, Camila diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior de la Universidad de Puerto Rico.
 
 ### Enunciado
-Determina la longitud de la circunferencia para un círculo de radio $r = 3$ cm. (Usa $\pi \approx 3.14$)
+Determina la longitud de la circunferencia para un círculo de radio $r = 9$ cm. (usa $\pi \approx 3.14$)
 
 ### Opciones
-- [x] D) 18.84 cm <!-- feedback: Correcto. Aplicando $L = 2\pi r$. -->
-- [ ] A) 28.26 cm <!-- feedback: Incorrecto. Se calculó el área del círculo. -->
-- [ ] B) 6 cm <!-- feedback: Incorrecto. Este representa el diámetro de la circunferencia. -->
-- [ ] C) 9.42 cm <!-- feedback: Incorrecto. No se multiplicó por 2 la fórmula. -->
+- [ ] A) $18\text{ cm}$ <!-- feedback: Incorrecto. $18$ cm es el diámetro del círculo, no la longitud de su circunferencia. -->
+- [ ] B) $254.34\text{ cm}^2$ <!-- feedback: Incorrecto. Ese valor corresponde al área del círculo, pues $\pi r^2 = 254.34$, no a la longitud de la circunferencia. -->
+- [x] C) $56.52\text{ cm}$ <!-- feedback: Correcto. La longitud de la circunferencia es $C = 2\pi r = 2 \times 3.14 \times 9 = 56.52$ cm. -->
+- [ ] D) $28.26\text{ cm}$ <!-- feedback: Incorrecto. Ese resultado corresponde a la semicircunferencia, porque falta el factor $2$ de la fórmula $C=2\pi r$. -->
 
 ### Explicacion Pedagogica
-La longitud de una circunferencia se calcula mediante la fórmula $L = 2\pi r$. Con $r = 3$ cm y $\pi \approx 3.14$: $L \approx 2 \times 3.14 \times 3 = 18.84$ cm.
+La longitud de la circunferencia se calcula con $C = 2\pi r$. Sustituyendo $r=9$ y $\pi \approx 3.14$ se obtiene $C = 2 \times 3.14 \times 9 = 56.52$ cm. El diámetro, el área y la semicircunferencia son magnitudes distintas y ninguna corresponde a lo pedido.
 
 ---
 
@@ -284,16 +284,16 @@ La longitud de una circunferencia se calcula mediante la fórmula $L = 2\pi r$. 
 **Contexto:** En Fajardo, Mateo diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Dr. Santiago Veve Calzada.
 
 ### Enunciado
-Determina la longitud de la circunferencia para un círculo de radio $r = 6$ cm. (Usa $\pi \approx 3.14$)
+Determina la longitud de la circunferencia para un círculo de radio $r = 10$ cm. (usa $\pi \approx 3.14$)
 
 ### Opciones
-- [ ] A) 113.04 cm <!-- feedback: Incorrecto. Se calculó el área del círculo. -->
-- [ ] B) 12 cm <!-- feedback: Incorrecto. Este representa el diámetro de la circunferencia. -->
-- [ ] C) 18.84 cm <!-- feedback: Incorrecto. No se multiplicó por 2 la fórmula. -->
-- [x] D) 37.68 cm <!-- feedback: Correcto. Aplicando $L = 2\pi r$. -->
+- [ ] A) $20\text{ cm}$ <!-- feedback: Incorrecto. $20$ cm es el diámetro del círculo, no la longitud de su circunferencia. -->
+- [ ] B) $314.0\text{ cm}^2$ <!-- feedback: Incorrecto. Ese valor corresponde al área del círculo, pues $\pi r^2 = 314.0$, no a la longitud de la circunferencia. -->
+- [ ] C) $31.4\text{ cm}$ <!-- feedback: Incorrecto. Ese resultado corresponde a la semicircunferencia, porque falta el factor $2$ de la fórmula $C=2\pi r$. -->
+- [x] D) $62.8\text{ cm}$ <!-- feedback: Correcto. La longitud de la circunferencia es $C = 2\pi r = 2 \times 3.14 \times 10 = 62.8$ cm. -->
 
 ### Explicacion Pedagogica
-La longitud de una circunferencia se calcula mediante la fórmula $L = 2\pi r$. Con $r = 6$ cm y $\pi \approx 3.14$: $L \approx 2 \times 3.14 \times 6 = 37.68$ cm.
+La longitud de la circunferencia se calcula con $C = 2\pi r$. Sustituyendo $r=10$ y $\pi \approx 3.14$ se obtiene $C = 2 \times 3.14 \times 10 = 62.8$ cm. El diámetro, el área y la semicircunferencia son magnitudes distintas y ninguna corresponde a lo pedido.
 
 ---
 
@@ -305,16 +305,16 @@ La longitud de una circunferencia se calcula mediante la fórmula $L = 2\pi r$. 
 **Contexto:** Como parte de las olimpiades científicas en Río Piedras, Valentina aplica conceptos algebraicos en la Escuela Superior Ramón Power y Giralt.
 
 ### Enunciado
-Determina la longitud de la circunferencia para un círculo de radio $r = 6$ cm. (Usa $\pi \approx 3.14$)
+Determina la longitud de la circunferencia para un círculo de radio $r = 11$ cm. (usa $\pi \approx 3.14$)
 
 ### Opciones
-- [ ] B) 113.04 cm <!-- feedback: Incorrecto. Se calculó el área del círculo. -->
-- [ ] C) 12 cm <!-- feedback: Incorrecto. Este representa el diámetro de la circunferencia. -->
-- [ ] D) 18.84 cm <!-- feedback: Incorrecto. No se multiplicó por 2 la fórmula. -->
-- [x] A) 37.68 cm <!-- feedback: Correcto. Aplicando $L = 2\pi r$. -->
+- [x] A) $69.08\text{ cm}$ <!-- feedback: Correcto. La longitud de la circunferencia es $C = 2\pi r = 2 \times 3.14 \times 11 = 69.08$ cm. -->
+- [ ] B) $22\text{ cm}$ <!-- feedback: Incorrecto. $22$ cm es el diámetro del círculo, no la longitud de su circunferencia. -->
+- [ ] C) $379.94\text{ cm}^2$ <!-- feedback: Incorrecto. Ese valor corresponde al área del círculo, pues $\pi r^2 = 379.94$, no a la longitud de la circunferencia. -->
+- [ ] D) $34.54\text{ cm}$ <!-- feedback: Incorrecto. Ese resultado corresponde a la semicircunferencia, porque falta el factor $2$ de la fórmula $C=2\pi r$. -->
 
 ### Explicacion Pedagogica
-La longitud de una circunferencia se calcula mediante la fórmula $L = 2\pi r$. Con $r = 6$ cm y $\pi \approx 3.14$: $L \approx 2 \times 3.14 \times 6 = 37.68$ cm.
+La longitud de la circunferencia se calcula con $C = 2\pi r$. Sustituyendo $r=11$ y $\pi \approx 3.14$ se obtiene $C = 2 \times 3.14 \times 11 = 69.08$ cm. El diámetro, el área y la semicircunferencia son magnitudes distintas y ninguna corresponde a lo pedido.
 
 ---
 
@@ -326,16 +326,16 @@ La longitud de una circunferencia se calcula mediante la fórmula $L = 2\pi r$. 
 **Contexto:** En Guaynabo, José analiza un problema de modelación matemática para un proyecto de la Escuela Superior Margarita Janer Palacios.
 
 ### Enunciado
-Determina la longitud de la circunferencia para un círculo de radio $r = 6$ cm. (Usa $\pi \approx 3.14$)
+Determina la longitud de la circunferencia para un círculo de radio $r = 12$ cm. (usa $\pi \approx 3.14$)
 
 ### Opciones
-- [ ] B) 113.04 cm <!-- feedback: Incorrecto. Se calculó el área del círculo. -->
-- [ ] C) 12 cm <!-- feedback: Incorrecto. Este representa el diámetro de la circunferencia. -->
-- [ ] D) 18.84 cm <!-- feedback: Incorrecto. No se multiplicó por 2 la fórmula. -->
-- [x] A) 37.68 cm <!-- feedback: Correcto. Aplicando $L = 2\pi r$. -->
+- [ ] A) $24\text{ cm}$ <!-- feedback: Incorrecto. $24$ cm es el diámetro del círculo, no la longitud de su circunferencia. -->
+- [x] B) $75.36\text{ cm}$ <!-- feedback: Correcto. La longitud de la circunferencia es $C = 2\pi r = 2 \times 3.14 \times 12 = 75.36$ cm. -->
+- [ ] C) $452.16\text{ cm}^2$ <!-- feedback: Incorrecto. Ese valor corresponde al área del círculo, pues $\pi r^2 = 452.16$, no a la longitud de la circunferencia. -->
+- [ ] D) $37.68\text{ cm}$ <!-- feedback: Incorrecto. Ese resultado corresponde a la semicircunferencia, porque falta el factor $2$ de la fórmula $C=2\pi r$. -->
 
 ### Explicacion Pedagogica
-La longitud de una circunferencia se calcula mediante la fórmula $L = 2\pi r$. Con $r = 6$ cm y $\pi \approx 3.14$: $L \approx 2 \times 3.14 \times 6 = 37.68$ cm.
+La longitud de la circunferencia se calcula con $C = 2\pi r$. Sustituyendo $r=12$ y $\pi \approx 3.14$ se obtiene $C = 2 \times 3.14 \times 12 = 75.36$ cm. El diámetro, el área y la semicircunferencia son magnitudes distintas y ninguna corresponde a lo pedido.
 
 ---
 
@@ -347,16 +347,16 @@ La longitud de una circunferencia se calcula mediante la fórmula $L = 2\pi r$. 
 **Contexto:** En Utuado, Mateo estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior Luis Muñoz Rivera.
 
 ### Enunciado
-Determina la longitud de la circunferencia para un círculo de radio $r = 9$ cm. (Usa $\pi \approx 3.14$)
+Determina la longitud de la circunferencia para un círculo de radio $r = 13$ cm. (usa $\pi \approx 3.14$)
 
 ### Opciones
-- [ ] B) 18 cm <!-- feedback: Incorrecto. Este representa el diámetro de la circunferencia. -->
-- [ ] C) 254.34 cm <!-- feedback: Incorrecto. Se calculó el área del círculo. -->
-- [ ] D) 28.26 cm <!-- feedback: Incorrecto. No se multiplicó por 2 la fórmula. -->
-- [x] A) 56.52 cm <!-- feedback: Correcto. Aplicando $L = 2\pi r$. -->
+- [ ] A) $26\text{ cm}$ <!-- feedback: Incorrecto. $26$ cm es el diámetro del círculo, no la longitud de su circunferencia. -->
+- [ ] B) $530.66\text{ cm}^2$ <!-- feedback: Incorrecto. Ese valor corresponde al área del círculo, pues $\pi r^2 = 530.66$, no a la longitud de la circunferencia. -->
+- [x] C) $81.64\text{ cm}$ <!-- feedback: Correcto. La longitud de la circunferencia es $C = 2\pi r = 2 \times 3.14 \times 13 = 81.64$ cm. -->
+- [ ] D) $40.82\text{ cm}$ <!-- feedback: Incorrecto. Ese resultado corresponde a la semicircunferencia, porque falta el factor $2$ de la fórmula $C=2\pi r$. -->
 
 ### Explicacion Pedagogica
-La longitud de una circunferencia se calcula mediante la fórmula $L = 2\pi r$. Con $r = 9$ cm y $\pi \approx 3.14$: $L \approx 2 \times 3.14 \times 9 = 56.52$ cm.
+La longitud de la circunferencia se calcula con $C = 2\pi r$. Sustituyendo $r=13$ y $\pi \approx 3.14$ se obtiene $C = 2 \times 3.14 \times 13 = 81.64$ cm. El diámetro, el área y la semicircunferencia son magnitudes distintas y ninguna corresponde a lo pedido.
 
 ---
 
@@ -370,16 +370,16 @@ La longitud de una circunferencia se calcula mediante la fórmula $L = 2\pi r$. 
 **Contexto:** Como parte de las olimpiades científicas en Utuado, María aplica conceptos algebraicos en la Escuela Superior Luis Muñoz Rivera.
 
 ### Enunciado
-Determina la longitud de la circunferencia para un círculo de radio $r = 9$ cm. (Usa $\pi \approx 3.14$)
+Determina la longitud de la circunferencia para un círculo de radio $r = 14$ cm. (usa $\pi \approx 3.14$)
 
 ### Opciones
-- [ ] A) 18 cm <!-- feedback: Incorrecto. Este representa el diámetro de la circunferencia. -->
-- [ ] B) 254.34 cm <!-- feedback: Incorrecto. Se calculó el área del círculo. -->
-- [ ] D) 28.26 cm <!-- feedback: Incorrecto. No se multiplicó por 2 la fórmula. -->
-- [x] C) 56.52 cm <!-- feedback: Correcto. Aplicando $L = 2\pi r$. -->
+- [ ] A) $28\text{ cm}$ <!-- feedback: Incorrecto. $28$ cm es el diámetro del círculo, no la longitud de su circunferencia. -->
+- [ ] B) $615.44\text{ cm}^2$ <!-- feedback: Incorrecto. Ese valor corresponde al área del círculo, pues $\pi r^2 = 615.44$, no a la longitud de la circunferencia. -->
+- [ ] C) $43.96\text{ cm}$ <!-- feedback: Incorrecto. Ese resultado corresponde a la semicircunferencia, porque falta el factor $2$ de la fórmula $C=2\pi r$. -->
+- [x] D) $87.92\text{ cm}$ <!-- feedback: Correcto. La longitud de la circunferencia es $C = 2\pi r = 2 \times 3.14 \times 14 = 87.92$ cm. -->
 
 ### Explicacion Pedagogica
-La longitud de una circunferencia se calcula mediante la fórmula $L = 2\pi r$. Con $r = 9$ cm y $\pi \approx 3.14$: $L \approx 2 \times 3.14 \times 9 = 56.52$ cm.
+La longitud de la circunferencia se calcula con $C = 2\pi r$. Sustituyendo $r=14$ y $\pi \approx 3.14$ se obtiene $C = 2 \times 3.14 \times 14 = 87.92$ cm. El diámetro, el área y la semicircunferencia son magnitudes distintas y ninguna corresponde a lo pedido.
 
 ---
 
@@ -391,16 +391,16 @@ La longitud de una circunferencia se calcula mediante la fórmula $L = 2\pi r$. 
 **Contexto:** Durante un taller de preparación académica en la Escuela Superior Dra. Concepción Aponte de Bayamón, Yaritza resuelve un ejercicio propuesto.
 
 ### Enunciado
-Determina la longitud de la circunferencia para un círculo de radio $r = 3$ cm. (Usa $\pi \approx 3.14$)
+Determina la longitud de la circunferencia para un círculo de radio $r = 15$ cm. (usa $\pi \approx 3.14$)
 
 ### Opciones
-- [x] C) 18.84 cm <!-- feedback: Correcto. Aplicando $L = 2\pi r$. -->
-- [ ] A) 28.26 cm <!-- feedback: Incorrecto. Se calculó el área del círculo. -->
-- [ ] B) 6 cm <!-- feedback: Incorrecto. Este representa el diámetro de la circunferencia. -->
-- [ ] D) 9.42 cm <!-- feedback: Incorrecto. No se multiplicó por 2 la fórmula. -->
+- [x] A) $94.2\text{ cm}$ <!-- feedback: Correcto. La longitud de la circunferencia es $C = 2\pi r = 2 \times 3.14 \times 15 = 94.2$ cm. -->
+- [ ] B) $30\text{ cm}$ <!-- feedback: Incorrecto. $30$ cm es el diámetro del círculo, no la longitud de su circunferencia. -->
+- [ ] C) $706.5\text{ cm}^2$ <!-- feedback: Incorrecto. Ese valor corresponde al área del círculo, pues $\pi r^2 = 706.5$, no a la longitud de la circunferencia. -->
+- [ ] D) $47.1\text{ cm}$ <!-- feedback: Incorrecto. Ese resultado corresponde a la semicircunferencia, porque falta el factor $2$ de la fórmula $C=2\pi r$. -->
 
 ### Explicacion Pedagogica
-La longitud de una circunferencia se calcula mediante la fórmula $L = 2\pi r$. Con $r = 3$ cm y $\pi \approx 3.14$: $L \approx 2 \times 3.14 \times 3 = 18.84$ cm.
+La longitud de la circunferencia se calcula con $C = 2\pi r$. Sustituyendo $r=15$ y $\pi \approx 3.14$ se obtiene $C = 2 \times 3.14 \times 15 = 94.2$ cm. El diámetro, el área y la semicircunferencia son magnitudes distintas y ninguna corresponde a lo pedido.
 
 ---
 
@@ -412,16 +412,16 @@ La longitud de una circunferencia se calcula mediante la fórmula $L = 2\pi r$. 
 **Contexto:** En Arecibo, Gabriel estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior Luis Muñoz Marín.
 
 ### Enunciado
-Determina la longitud de la circunferencia para un círculo de radio $r = 3$ cm. (Usa $\pi \approx 3.14$)
+Determina la longitud de la circunferencia para un círculo de radio $r = 16$ cm. (usa $\pi \approx 3.14$)
 
 ### Opciones
-- [x] A) 18.84 cm <!-- feedback: Correcto. Aplicando $L = 2\pi r$. -->
-- [ ] B) 28.26 cm <!-- feedback: Incorrecto. Se calculó el área del círculo. -->
-- [ ] C) 6 cm <!-- feedback: Incorrecto. Este representa el diámetro de la circunferencia. -->
-- [ ] D) 9.42 cm <!-- feedback: Incorrecto. No se multiplicó por 2 la fórmula. -->
+- [ ] A) $32\text{ cm}$ <!-- feedback: Incorrecto. $32$ cm es el diámetro del círculo, no la longitud de su circunferencia. -->
+- [x] B) $100.48\text{ cm}$ <!-- feedback: Correcto. La longitud de la circunferencia es $C = 2\pi r = 2 \times 3.14 \times 16 = 100.48$ cm. -->
+- [ ] C) $803.84\text{ cm}^2$ <!-- feedback: Incorrecto. Ese valor corresponde al área del círculo, pues $\pi r^2 = 803.84$, no a la longitud de la circunferencia. -->
+- [ ] D) $50.24\text{ cm}$ <!-- feedback: Incorrecto. Ese resultado corresponde a la semicircunferencia, porque falta el factor $2$ de la fórmula $C=2\pi r$. -->
 
 ### Explicacion Pedagogica
-La longitud de una circunferencia se calcula mediante la fórmula $L = 2\pi r$. Con $r = 3$ cm y $\pi \approx 3.14$: $L \approx 2 \times 3.14 \times 3 = 18.84$ cm.
+La longitud de la circunferencia se calcula con $C = 2\pi r$. Sustituyendo $r=16$ y $\pi \approx 3.14$ se obtiene $C = 2 \times 3.14 \times 16 = 100.48$ cm. El diámetro, el área y la semicircunferencia son magnitudes distintas y ninguna corresponde a lo pedido.
 
 ---
 
@@ -433,15 +433,15 @@ La longitud de una circunferencia se calcula mediante la fórmula $L = 2\pi r$. 
 **Contexto:** En Cabo Rojo, Yaritza diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Monserrate León de Irizarry.
 
 ### Enunciado
-Determina la longitud de la circunferencia para un círculo de radio $r = 9$ cm. (Usa $\pi \approx 3.14$)
+Determina la longitud de la circunferencia para un círculo de radio $r = 17$ cm. (usa $\pi \approx 3.14$)
 
 ### Opciones
-- [ ] B) 18 cm <!-- feedback: Incorrecto. Este representa el diámetro de la circunferencia. -->
-- [ ] C) 254.34 cm <!-- feedback: Incorrecto. Se calculó el área del círculo. -->
-- [ ] D) 28.26 cm <!-- feedback: Incorrecto. No se multiplicó por 2 la fórmula. -->
-- [x] A) 56.52 cm <!-- feedback: Correcto. Aplicando $L = 2\pi r$. -->
+- [ ] A) $34\text{ cm}$ <!-- feedback: Incorrecto. $34$ cm es el diámetro del círculo, no la longitud de su circunferencia. -->
+- [ ] B) $907.46\text{ cm}^2$ <!-- feedback: Incorrecto. Ese valor corresponde al área del círculo, pues $\pi r^2 = 907.46$, no a la longitud de la circunferencia. -->
+- [x] C) $106.76\text{ cm}$ <!-- feedback: Correcto. La longitud de la circunferencia es $C = 2\pi r = 2 \times 3.14 \times 17 = 106.76$ cm. -->
+- [ ] D) $53.38\text{ cm}$ <!-- feedback: Incorrecto. Ese resultado corresponde a la semicircunferencia, porque falta el factor $2$ de la fórmula $C=2\pi r$. -->
 
 ### Explicacion Pedagogica
-La longitud de una circunferencia se calcula mediante la fórmula $L = 2\pi r$. Con $r = 9$ cm y $\pi \approx 3.14$: $L \approx 2 \times 3.14 \times 9 = 56.52$ cm.
+La longitud de la circunferencia se calcula con $C = 2\pi r$. Sustituyendo $r=17$ y $\pi \approx 3.14$ se obtiene $C = 2 \times 3.14 \times 17 = 106.76$ cm. El diámetro, el área y la semicircunferencia son magnitudes distintas y ninguna corresponde a lo pedido.
 
 ---

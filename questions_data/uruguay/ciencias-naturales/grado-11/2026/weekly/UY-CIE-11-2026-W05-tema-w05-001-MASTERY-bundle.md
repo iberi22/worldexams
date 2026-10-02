@@ -283,20 +283,20 @@ La recombinación genética por crossing-over junto a la segregación independie
 **Expected_Success:** 0.46
 **Contexto:** En la clase práctica del Liceo Piloto en Tacuarembó, Diego y sus compañeros debaten sobre diferencias ploidía mitosis vs meiosis.
 ### Enunciado
-¿Cuál es el resultado final respecto a la ploidía y número celular al comparar mitosis con meiosis en humanos?
+Un alumno de cuarto año observa que, tras la meiosis I, cada célula presenta cromosomas todavía formados por dos cromátidas hermanas. ¿Qué explica ese resultado?
 
 ### Opciones
-- [x] A) La mitosis produce 2 células diploides ($2n$) idénticas; la meiosis genera 4 gametos haploides ($n$) modificados.
-  <!-- feedback: Correcto. La mitosis conserva el número de cromosomas para crecimiento y reparación; la meiosis lo reduce a la mitad para gametogénesis. -->
-- [ ] B) La mitosis produce 4 células haploides de origen somático; la meiosis da 2 células diploides totipotentes.
-  <!-- feedback: Incorrecto. La mitosis humana produce dos células idénticas con 46 cromosomas diploides. -->
-- [ ] C) Ambos procesos resultan en 2 células diploides idénticas con idéntica tasa mutacional.
-  <!-- feedback: Incorrecto. La meiosis difiere profundamente de la mitosis en ploidía (haploide) y diversidad genómica. -->
-- [ ] D) La mitosis duplica la ploidía originando células tetraploides ($4n$) necesarias para la masa de tejidos.
-  <!-- feedback: Incorrecto. No se producen células tetraploides funcionales en la división somática humana normal. -->
+- [ ] A) Que la meiosis I ya separó las cromátidas hermanas de cada cromosoma.
+  <!-- feedback: La meiosis I separa cromosomas homólogos, no cromátidas hermanas; las cromátidas permanecen juntas hasta la meiosis II, y por eso la división primera no reduce el número de cromosomas por célula. -->
+- [x] B) Que la separación de cromátidas hermanas corresponde a la meiosis II, mientras la primera reduce la ploidía.
+  <!-- feedback: La división en dos etapas explica el hallazgo: la meiosis I reparte los cromosomas homólogos y deja células haploides con cromátidas hermanas, que recién se separan en la meiosis II. -->
+- [ ] C) Que la meiosis I no produce división celular y solo reorganiza el material genético.
+  <!-- feedback: La meiosis I sí divide la célula: reparte cada par de homólogos en una célula distinta, y esa reparto es precisamente lo que reduce el número de cromosomas. -->
+- [ ] D) Que las cromátidas hermanas se fusionan durante la interfase previa a la meiosis.
+  <!-- feedback: Las cromátidas hermanas se forman en la fase S de la interfase y se mantienen unidas hasta la separación en la meiosis II; no se fusionan ni desaparecen antes. -->
 
 ### Explicación Pedagógica
-La reducción del número de cromosomas a la mitad ($2n \rightarrow n$) en la meiosis evita la duplicación indefinida del genoma tras la fecundación. En este contexto, Diego de Tacuarembó determinó correctamente la respuesta correcta.
+El hallazgo se explica por la división en dos etapas de la meiosis: la primera separa homólogos y reduce la ploidía, y la segunda separa las cromátidas hermanas. Diego de Tacuarembó identificó que las cromátidas quedan intactas porque su separación corresponde a la meiosis II.
 
 ---
 ## Question 13 [D7-D8]
@@ -306,20 +306,20 @@ La reducción del número de cromosomas a la mitad ($2n \rightarrow n$) en la me
 **Expected_Success:** 0.45
 **Contexto:** Para el proyecto final de ciencias en el Liceo N° 1 Departamental de Punta del Este, Clara investiga acerca de la replicación del adn en el ciclo celular.
 ### Enunciado
-¿En qué fase específica de la interfase del ciclo celular ocurre la duplicación del material genético?
+Antes de una división celular, una célula interphase duplicó su ADN y ahora contiene 46 cromosomas, cada uno formado por dos cromátidas hermanas. ¿Qué proceso está por iniciar?
 
 ### Opciones
-- [x] A) Fase S (Síntesis).
-  <!-- feedback: Correcto. Durante la fase S se replica fielmente el ADN, de modo que cada cromosoma queda constituido por dos cromátidas hermanas. -->
-- [ ] B) Fase G1 (Primer intervalo).
-  <!-- feedback: Incorrecto. En G1 ocurre el crecimiento celular general y la síntesis intensiva de ARN y proteínas. -->
-- [ ] C) Fase G2 (Segundo intervalo).
-  <!-- feedback: Incorrecto. G2 es la fase de preparación final para la condensación cromosómica y ensamblaje del huso mitótico. -->
-- [ ] D) Fase M (Mitosis o división nuclear).
-  <!-- feedback: Incorrecto. La fase M es la segregación física del material ya duplicado, no su síntesis. -->
+- [ ] A) La meiosis II, que separa las cromátidas de células ya diploides.
+  <!-- feedback: La meiosis II opera sobre células haploides que ya undergone la meiosis I; aquí la célula es diploide y aún no ha ocurrido ninguna división. -->
+- [x] B) La mitosis, que separa las cromátidas hermanas y conserva el número de cromosomas.
+  <!-- feedback: La mitosis separa las cromátidas hermanas de un cromosoma diploide y reparte las células resultantes con 46 cromosomas, igual que la célula inicial. -->
+- [ ] C) La meiosis I, que reduce a la mitad el número de cromosomas.
+  <!-- feedback: La meiosis I separa cromosomas homólogos, no cromátidas hermanas, y es el paso que reduce la ploidía; la división que separa cromátidas hermanas es la segunda. -->
+- [ ] D) La citocinesis, que reparte el citoplasma entre dos células.
+  <!-- feedback: La citocinesis divide el citoplasma y acompaña a la mitosis, pero no es el proceso que separa las cromátidas hermanas ni organiza el reparto de los cromosomas. -->
 
 ### Explicación Pedagógica
-La replicación precisa en la fase S garantiza que las células hijas resultantes de la mitosis reciban una copia exacta del genoma. En este contexto, Clara de Punta del Este determinó correctamente la respuesta correcta.
+Cuando una célula diploide con cromátidas hermanas entra en división, la mitosis separa esas cromátidas y conserva la ploidía; la meiosis I, en cambio, separa cromosomas homólogos. Clara de Punta del Este distinguió el proceso según el tipo de cromosoma que se separa.
 
 ---
 ## Question 14 [D7-D8]
@@ -375,20 +375,20 @@ La recombinación genética por crossing-over junto a la segregación independie
 **Expected_Success:** 0.36
 **Contexto:** Durante una actividad de laboratorio en el Liceo N° 4 de Fray Bentos, Valentina analiza diferencias ploidía mitosis vs meiosis.
 ### Enunciado
-¿Cuál es el resultado final respecto a la ploidía y número celular al comparar mitosis con meiosis en humanos?
+Un alumno afirma: «en la mitosis se forman células con la mitad de los cromosomas de la original». ¿Qué corrección describe mejor lo que ocurre?
 
 ### Opciones
-- [x] B) La mitosis produce 2 células diploides ($2n$) idénticas; la meiosis genera 4 gametos haploides ($n$) modificados.
-  <!-- feedback: Correcto. La mitosis conserva el número de cromosomas para crecimiento y reparación; la meiosis lo reduce a la mitad para gametogénesis. -->
-- [ ] A) La mitosis produce 4 células haploides de origen somático; la meiosis da 2 células diploides totipotentes.
-  <!-- feedback: Incorrecto. La mitosis humana produce dos células idénticas con 46 cromosomas diploides. -->
-- [ ] C) Ambos procesos resultan en 2 células diploides idénticas con idéntica tasa mutacional.
-  <!-- feedback: Incorrecto. La meiosis difiere profundamente de la mitosis en ploidía (haploide) y diversidad genómica. -->
-- [ ] D) La mitosis duplica la ploidía originando células tetraploides ($4n$) necesarias para la masa de tejidos.
-  <!-- feedback: Incorrecto. No se producen células tetraploides funcionales en la división somática humana normal. -->
+- [x] A) Es falso: la mitosis conserva el número de cromosomas y la meiosis lo reduce a la mitad.
+  <!-- feedback: La mitosis mantiene la ploidía porque separa cromátidas hermanas de un mismo cromosoma; reducir el número de cromosomas es justamente la función de la meiosis I. -->
+- [ ] B) Es cierto solo para las células germinales que se dividen durante la embriogénesis.
+  <!-- feedback: Las células germinales ofrecen el caso contrario: al dividirse por meiosis forman gametos con la mitad de los cromosomas, mientras las somáticas se dividen por mitosis. -->
+- [ ] C) Es cierto, y la reducción ocurre en la metafase de la mitosis.
+  <!-- feedback: La metafase organiza los cromosomas en el plano ecuatorial, pero ninguna fase de la mitosis reduce el número de cromosomas de la célula. -->
+- [ ] D) Es falso, y la meiosis también conserva el número de cromosomas.
+  <!-- feedback: La segunda mitad de la afirmación es la que falla: la meiosis es precisamente el proceso que pasa de células diploides a células haploides. -->
 
 ### Explicación Pedagógica
-La reducción del número de cromosomas a la mitad ($2n \rightarrow n$) en la meiosis evita la duplicación indefinida del genoma tras la fecundación. En este contexto, Valentina de Fray Bentos determinó correctamente la respuesta correcta.
+La afirmación confunde los dos procesos: la mitosis mantiene el número de cromosomas y sirve para crecer o reparar tejidos, mientras la meiosis lo reduce a la mitad para formar gametos. Valentina de Fray Bentos identificó el error al fijar cada proceso en su función.
 
 ---
 ## Question 17 [D9-D10]
@@ -467,26 +467,17 @@ La recombinación genética por crossing-over junto a la segregación independie
 **Expected_Success:** 0.30
 **Contexto:** En el taller de Ciencias Naturales en Las Piedras, Camila observa un modelo experimental de diferencias ploidía mitosis vs meiosis.
 ### Enunciado
-¿Cuál es el resultado final respecto a la ploidía y número celular al comparar mitosis con meiosis en humanos?
+En un cultivo, una célula completa su mitosis y otra termina la meiosis I. ¿Qué diferencia observable permite distinguir los dos procesos?
 
 ### Opciones
-- [x] A) La mitosis produce 2 células diploides ($2n$) idénticas; la meiosis genera 4 gametos haploides ($n$) modificados.
-  <!-- feedback: Correcto. La mitosis conserva el número de cromosomas para crecimiento y reparación; la meiosis lo reduce a la mitad para gametogénesis. -->
-- [ ] B) La mitosis produce 4 células haploides de origen somático; la meiosis da 2 células diploides totipotentes.
-  <!-- feedback: Incorrecto. La mitosis humana produce dos células idénticas con 46 cromosomas diploides. -->
-- [ ] C) Ambos procesos resultan en 2 células diploides idénticas con idéntica tasa mutacional.
-  <!-- feedback: Incorrecto. La meiosis difiere profundamente de la mitosis en ploidía (haploide) y diversidad genómica. -->
-- [ ] D) La mitosis duplica la ploidía originando células tetraploides ($4n$) necesarias para la masa de tejidos.
-  <!-- feedback: Incorrecto. No se producen células tetraploides funcionales en la división somática humana normal. -->
+- [x] A) La célula en mitosis conserva 46 cromosomas, mientras la célula en meiosis I queda con 23.
+  <!-- feedback: Al finalizar la mitosis las células conservan el número diploide; al terminar la meiosis I cada célula ha recibido un juego de cromosomas, con la mitad del número inicial. -->
+- [ ] B) Ambas conservan 46 cromosomas, y solo cambia la forma del núcleo.
+  <!-- feedback: El número de cromosomas no es un detalle de la forma del núcleo: es exactamente lo que la meiosis I modifica respecto de la mitosis. -->
+- [ ] C) La célula en mitosis tiene 23 cromosomas, porque se trata de una célula somática.
+  <!-- feedback: Las células somáticas son las diploides, de modo que la mitosis mantiene los 46 cromosomas; el número reducido corresponde a las células que atraviesan meiosis. -->
+- [ ] D) La diferencia está en la cantidad de citoplasma que recibe cada célula.
+  <!-- feedback: La reparto de citoplasma varía entre tipos celulares, pero no es lo que distingue a la mitosis de la meiosis I: esa distinción se mide en el número de cromosomas. -->
 
 ### Explicación Pedagógica
-La reducción del número de cromosomas a la mitad ($2n \rightarrow n$) en la meiosis evita la duplicación indefinida del genoma tras la fecundación. En este contexto, Camila de Las Piedras determinó correctamente la respuesta correcta.
-
-### Revision de Calidad
-| Dimension | Puntaje |
-|-----------|---------|
-| Tecnico | 30/30 |
-| Curricular | 40/40 |
-| Contexto | 20/20 |
-| Redaccion | 10/10 |
-| **Total** | **100/100** |
+La diferencia verificable entre ambos procesos es el número de cromosomas por célula: la mitosis lo conserva y la meiosis I lo reduce a la mitad. Camila de Las Piedras resolvió el contraste observando ese dato y no características secundarias del proceso.
