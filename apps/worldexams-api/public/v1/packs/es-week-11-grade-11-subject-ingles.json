@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "ES-ING-11-2026-W11-reported-speech-statements-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "She said that she ___ tired. Choose the correct reported form.",
+      "context": "A student repeats what her friend said about feeling tired.",
       "options": [
         {
-          "letter": "B",
-          "text": "accommodation",
+          "letter": "A",
+          "text": "was",
           "is_correct": true,
-          "feedback": "Correct! 'Accommodation' is the word for a place where you live or stay temporarily while you are away from home."
+          "feedback": "Was is correct: the present am backshifts to the past when the reporting verb said is in the past."
         },
         {
-          "letter": "A",
-          "text": "transportation",
+          "letter": "B",
+          "text": "is",
           "is_correct": false,
-          "feedback": "Wrong. 'Transportation' names the way you travel, such as buses, trains or planes, not the place where you stay."
+          "feedback": "Is keeps the present tense and breaks the backshift that reported speech requires."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "were",
           "is_correct": false,
-          "feedback": "Wrong. 'Entertainment' is the activity of enjoying shows, films or games, not a place where you sleep."
+          "feedback": "Were would need a plural subject, but the reported subject she is singular."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "be",
           "is_correct": false,
-          "feedback": "Wrong. 'Currency' is the money used in a country, which has nothing to do with lodging."
+          "feedback": "Be is the bare infinitive and cannot carry the past tense of the report."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Because the reporting verb said is past, am backshifts to was, so the report reads she said that she was tired.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -54,37 +54,37 @@
     },
     {
       "id": "ES-ING-11-2026-W11-reported-speech-statements-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "He said that he ___ in Madrid. Choose the correct reported form.",
+      "context": "A boy tells his mother what his friend said about his home city.",
       "options": [
         {
-          "letter": "D",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is the planned route of a journey together with the places and times along the way."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "lives",
           "is_correct": false,
-          "feedback": "Wrong. 'Baggage' is the suitcases and bags themselves, not the plan of the trip."
+          "feedback": "Lives stays in the present and does not follow the backshift rule."
         },
         {
           "letter": "B",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "Wrong. A 'destination' is only the place where the journey ends, while an itinerary lists the whole route."
+          "text": "lived",
+          "is_correct": true,
+          "feedback": "Lived is correct: the present simple live backshifts to the past simple after said."
         },
         {
           "letter": "C",
-          "text": "passport",
+          "text": "live",
           "is_correct": false,
-          "feedback": "Wrong. A 'passport' is the travel document that proves who you are, not the plan of the journey."
+          "feedback": "Live is the plural present form and also keeps the wrong tense."
+        },
+        {
+          "letter": "D",
+          "text": "living",
+          "is_correct": false,
+          "feedback": "Living is a participle and cannot be the finite verb of the clause."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "The present simple live becomes the past simple lived because the reporting verb is past.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -99,37 +99,37 @@
     },
     {
       "id": "ES-ING-11-2026-W11-reported-speech-statements-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "They said that they ___ English. Choose the correct reported form.",
+      "context": "Two students report what their classmates announced before lunch.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place someone or something is going to or being sent to."
+          "text": "are studying",
+          "is_correct": false,
+          "feedback": "Are studying keeps the present continuous, which the backshift rule changes."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "studied",
           "is_correct": false,
-          "feedback": "Wrong. A 'departure' is the act of leaving and the place you leave from, the opposite end of the trip."
+          "feedback": "Studied changes the progressive aspect into the simple past, losing the idea of an action in progress."
         },
         {
           "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Wrong. An 'arrival' is the event of getting there, not the place that is being travelled to."
+          "text": "were studying",
+          "is_correct": true,
+          "feedback": "Were studying is correct: the present continuous backshifts to the past continuous."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "study",
           "is_correct": false,
-          "feedback": "Wrong. A 'journey' is the whole trip from start to finish, not the place at the end of it."
+          "feedback": "Study is the present simple and does not show the past report."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "correct_answer": "C",
+      "explanation": "In reported speech the present continuous are studying becomes the past continuous were studying.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -144,36 +144,36 @@
     },
     {
       "id": "ES-ING-11-2026-W11-reported-speech-statements-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "She said that she ___ swim very well. Choose the correct reported form.",
+      "context": "A girl repeats a skill her cousin mentioned during a call.",
       "options": [
         {
-          "letter": "C",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'Luggage' is the collective word for the suitcases and bags you pack your belongings in."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "can",
           "is_correct": false,
-          "feedback": "Wrong. A 'ticket' is the document that pays for and authorises a journey, not the bag you pack."
+          "feedback": "Can keeps the present modal and ignores the backshift."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "can to",
           "is_correct": false,
-          "feedback": "Wrong. A 'flight' is the journey by plane itself, not the bags carried on it."
+          "feedback": "Can to is wrong because can never takes the particle to."
+        },
+        {
+          "letter": "C",
+          "text": "could to",
+          "is_correct": false,
+          "feedback": "Could to is wrong because a modal verb is followed by the bare infinitive."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Wrong. A 'reservation' is the booking you make for a seat or a room, not the baggage itself."
+          "text": "could",
+          "is_correct": true,
+          "feedback": "Could is correct: the modal can backshifts to could in reported speech."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "The modal can has no third form, so it backshifts to could after a past reporting verb.\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -189,40 +189,40 @@
     },
     {
       "id": "ES-ING-11-2026-W11-reported-speech-statements-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "He said that he would call me ___. Choose the correct time expression.",
+      "context": "A man repeats a promise his colleague made about a phone call.",
       "options": [
         {
-          "letter": "C",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! A 'passenger' is anyone travelling in a vehicle who is not the one driving or piloting it."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "Wrong. A 'pedestrian' travels on foot, so they are not aboard any conveyance at all."
+          "text": "the next day",
+          "is_correct": true,
+          "feedback": "The next day is correct: the adverb tomorrow shifts to the next day in reported speech."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "tomorrow",
           "is_correct": false,
-          "feedback": "Wrong. A 'commuter' is defined by making the same trip regularly to work or school, not by being a passenger in general."
+          "feedback": "Tomorrow keeps the original viewpoint and is not adjusted for the report."
+        },
+        {
+          "letter": "C",
+          "text": "today",
+          "is_correct": false,
+          "feedback": "Today points to the day of the report, not to the day after the original words."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "yesterday",
           "is_correct": false,
-          "feedback": "Wrong. A 'tourist' is defined by travelling for pleasure, not simply by riding in a vehicle."
+          "feedback": "Yesterday points backwards and reverses the meaning of tomorrow."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "When tomorrow is reported from a later day, it becomes the next day, and you becomes me.\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W11-reported-speech-statements-001-MASTERY-bundle",
       "periodo": 11,
@@ -234,40 +234,40 @@
     },
     {
       "id": "ES-ING-11-2026-W11-reported-speech-statements-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "She said that she had bought a new phone ___. Choose the correct time expression.",
+      "context": "A woman repeats a purchase her sister described after the weekend.",
       "options": [
         {
-          "letter": "B",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'Customs' is the office where officials check the goods and the people coming in from abroad."
+          "letter": "A",
+          "text": "yesterday",
+          "is_correct": false,
+          "feedback": "Yesterday keeps the original day and does not match the past perfect report."
         },
         {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Wrong. 'Security' is the police or staff who keep order, while customs staff collect duties on goods."
+          "letter": "B",
+          "text": "the day before",
+          "is_correct": true,
+          "feedback": "The day before is correct: yesterday shifts backwards to the day before in reported speech."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "the next day",
           "is_correct": false,
-          "feedback": "Wrong. A 'terminal' is the building where you arrive or depart, not the office that checks imports."
+          "feedback": "The next day points forward and reverses the meaning of yesterday."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "now",
           "is_correct": false,
-          "feedback": "Wrong. A 'gate' is the door you pass through to reach the plane; customs is the check itself."
+          "feedback": "Now is a present adverb and cannot replace a past day."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "The past simple bought becomes had bought, and yesterday shifts to the day before.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W11-reported-speech-statements-001-MASTERY-bundle",
       "periodo": 11,
@@ -279,36 +279,36 @@
     },
     {
       "id": "ES-ING-11-2026-W11-reported-speech-statements-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The boss told me that I ___ finish the report. Choose the correct reported form.",
+      "context": "A boss gives an instruction that an employee later repeats.",
       "options": [
         {
-          "letter": "C",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! A 'boarding pass' is the document the airline hands you at check-in that lets you board the plane."
-        },
-        {
           "letter": "A",
-          "text": "visa",
+          "text": "must",
           "is_correct": false,
-          "feedback": "Wrong. A 'visa' is the official permission a government gives to enter a country, granted before you travel."
+          "feedback": "Must keeps the present obligation and does not follow the backshift."
         },
         {
           "letter": "B",
-          "text": "receipt",
+          "text": "must to",
           "is_correct": false,
-          "feedback": "Wrong. A 'receipt' only proves that you paid for something; it does not admit you to the aircraft."
+          "feedback": "Must to is wrong because a modal verb never takes the particle to."
+        },
+        {
+          "letter": "C",
+          "text": "had to",
+          "is_correct": true,
+          "feedback": "Had to is correct: the modal must backshifts to had to in a past report."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "have to",
           "is_correct": false,
-          "feedback": "Wrong. A 'brochure' is advertising material about destinations, not a travel document for boarding."
+          "feedback": "Have to keeps the present tense, which the past report changes."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "explanation": "For an obligation reported in the past, must becomes had to because must has no past form.\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -324,36 +324,36 @@
     },
     {
       "id": "ES-ING-11-2026-W11-reported-speech-statements-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "He said that he ___ that film twice. Choose the correct reported form.",
+      "context": "A fan repeats what an actor said about a film.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'Sightseeing' means going round and looking at the famous sights of a place as a visitor."
+          "text": "has seen",
+          "is_correct": false,
+          "feedback": "Has seen keeps the present perfect and ignores the backshift."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "saw",
           "is_correct": false,
-          "feedback": "Wrong. 'Shopping' is buying things in a city, a different activity from visiting its places of interest."
+          "feedback": "Saw is the simple past and loses the earlier-perfect meaning of the original."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "seen",
           "is_correct": false,
-          "feedback": "Wrong. 'Hiking' is walking long distances in the countryside on marked trails, not touring the sights of a location."
+          "feedback": "Seen is only the past participle and cannot stand alone as the finite verb."
         },
         {
           "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "Wrong. 'Camping' means staying the night outdoors in a tent, not a day of visiting places of interest."
+          "text": "had seen",
+          "is_correct": true,
+          "feedback": "Had seen is correct: the present perfect have seen backshifts to the past perfect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "The present perfect have seen becomes the past perfect had seen after the reporting verb said.\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,37 +369,37 @@
     },
     {
       "id": "ES-ING-11-2026-W11-reported-speech-statements-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Marta said that ___ parents were travelling to Rome. Choose the correct possessive.",
+      "context": "A girl reports what a classmate said about her family trip.",
       "options": [
         {
-          "letter": "B",
-          "text": "souvenir",
+          "letter": "A",
+          "text": "her",
           "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is an object kept afterwards as a reminder of the trip and of the people or places on it."
+          "feedback": "Her is correct: the possessive my shifts to her when a third person reports the words of Marta."
         },
         {
-          "letter": "A",
-          "text": "gift",
+          "letter": "B",
+          "text": "my",
           "is_correct": false,
-          "feedback": "Wrong. A 'gift' is chosen to be given to somebody else, while a souvenir is kept by the traveller."
+          "feedback": "My would keep Marta speaking in her own voice, which the report does not."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "his",
           "is_correct": false,
-          "feedback": "Wrong. An 'award' is a distinction given for an achievement, not a keepsake bought on a trip."
+          "feedback": "His refers to a male owner, but the speaker Marta is female."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "their",
           "is_correct": false,
-          "feedback": "Wrong. A 'prize' is what a competitor wins in a contest; it says nothing about remembering a journey."
+          "feedback": "Their refers to a plural owner, while Marta alone owns the parents in the report."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "A",
+      "explanation": "In reported speech the possessive pronoun my changes to her to match the third person subject.\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -414,36 +414,36 @@
     },
     {
       "id": "ES-ING-11-2026-W11-reported-speech-statements-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The teacher ___ me that he was busy. Choose the correct reporting verb.",
+      "context": "A student repeats a message that a teacher gave him.",
       "options": [
         {
-          "letter": "B",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra period of time by which a departure or arrival is postponed."
+          "letter": "A",
+          "text": "said",
+          "is_correct": false,
+          "feedback": "Said cannot take the object me directly; the correct form would be said to me."
         },
         {
-          "letter": "A",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "Wrong. A 'cancellation' calls the plan off entirely, whereas a delay only postpones it by some hours."
+          "letter": "B",
+          "text": "told",
+          "is_correct": true,
+          "feedback": "Told is correct: the reporting verb told takes a personal object, so told me is right."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "spoke",
           "is_correct": false,
-          "feedback": "Wrong. 'Departure' is simply the moment of leaving; the lateness is measured separately from it."
+          "feedback": "Spoke is not used to report a statement; it describes the act of speaking."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "talked",
           "is_correct": false,
-          "feedback": "Wrong. An 'arrival' is the moment of getting there, not the amount of time a plan runs late."
+          "feedback": "Talked needs the preposition to before a person, as in talked to me."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
+      "explanation": "Reported statements use tell plus a person or say plus to a person, so told me is correct here.\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -459,126 +459,36 @@
     },
     {
       "id": "ES-ING-11-2026-W11-reported-speech-statements-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence correctly reports the statement I am reading a book now?",
+      "context": "A student chooses the best reported version of a friend's words.",
       "options": [
         {
-          "letter": "B",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'Check-in' is when you arrive and register, and the desk records your presence and gives you your pass."
-        },
-        {
           "letter": "A",
-          "text": "check-out",
+          "text": "She said she is reading a book now.",
           "is_correct": false,
-          "feedback": "Wrong. 'Check-out' is the opposite moment, when you pay and hand back the room key before leaving."
-        },
-        {
-          "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Wrong. A 'booking' is the reservation made earlier, while check-in is the reporting of your arrival."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Wrong. A 'reservation' holds a room or a seat for you in advance, not the act of registering on arrival."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W11-reported-speech-statements-001-MASTERY-bundle",
-      "periodo": 11,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W11-reported-speech-statements-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! A 'layover' is the wait between two flights, usually at the connecting airport, before you continue."
-        },
-        {
-          "letter": "A",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "Wrong. A 'stopover' is a deliberate break in a long journey to spend extra time at a place, not a wait between flights."
-        },
-        {
-          "letter": "C",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "Wrong. A 'transfer' is the flight or vehicle that moves you from one place to another, not the waiting itself."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Wrong. 'Transit' names the general passing through an area or a country, not a specific rest between stages."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W11-reported-speech-statements-001-MASTERY-bundle",
-      "periodo": 11,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W11-reported-speech-statements-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'Currency' is the whole monetary system a country uses, not any single object."
-        },
-        {
-          "letter": "A",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Wrong. A 'coin' is one round metal piece of money, while the definition covers the entire money system."
+          "feedback": "Is reading keeps the present continuous and now stays in the present, so no backshift happens."
         },
         {
           "letter": "B",
-          "text": "banknote",
+          "text": "She said she was reading a book now.",
           "is_correct": false,
-          "feedback": "Wrong. A 'banknote' is a single paper note, while the definition is about the money system of a whole country."
+          "feedback": "Was reading is right but now must become then in the reported version."
         },
         {
           "letter": "C",
-          "text": "cash",
+          "text": "She said she was reading a book then.",
+          "is_correct": true,
+          "feedback": "Was reading is correct, and now becomes then because the report is made later."
+        },
+        {
+          "letter": "D",
+          "text": "She said she read a book then.",
           "is_correct": false,
-          "feedback": "Wrong. 'Cash' is the money in coins and notes that you are holding, regardless of any country's system."
+          "feedback": "Read is the simple past and loses the progressive meaning of the original."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "The present continuous am reading backshifts to was reading, and the adverb now shifts to then.\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
@@ -593,37 +503,127 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W11-reported-speech-statements-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "ES-ING-11-2026-W11-reported-speech-statements-001-MASTERY-bundle-v12",
+      "statement": "Which sentence correctly reports the statement The sun rises in the east?",
+      "context": "A teacher quotes a scientific fact and a student reports it.",
       "options": [
         {
           "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book written about a place to help visitors find their way around it."
+          "text": "The teacher said that the sun rose in the east.",
+          "is_correct": false,
+          "feedback": "Rose would suggest the fact was true only in the past, which is wrong for a general truth."
         },
         {
           "letter": "B",
-          "text": "map",
+          "text": "The teacher said that the sun had risen in the east.",
           "is_correct": false,
-          "feedback": "Wrong. A 'map' is a single drawing of an area, not the book of practical information about the place."
+          "feedback": "Had risen adds a past perfect that a timeless fact does not need."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "The teacher said the sun rise in the east.",
           "is_correct": false,
-          "feedback": "Wrong. A 'dictionary' lists words and their meanings, not practical details about a destination."
+          "feedback": "Rise is the plural form and does not agree with the singular subject the sun."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "The teacher said that the sun rises in the east.",
+          "is_correct": true,
+          "feedback": "Rises is correct: a general truth keeps the present simple even after a past reporting verb."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "General truths are not backshifted, so the present simple rises stays unchanged in the report.\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W11-reported-speech-statements-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W11-reported-speech-statements-001-MASTERY-bundle-v13",
+      "statement": "Which sentence correctly reports the statement I saw Maria at the market?",
+      "context": "A witness reports what a neighbour said about a market.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tom said that he had seen Maria at the market.",
+          "is_correct": true,
+          "feedback": "Had seen is correct: the past simple saw backshifts to the past perfect."
+        },
+        {
+          "letter": "B",
+          "text": "Tom said that he saw Maria at the market.",
           "is_correct": false,
-          "feedback": "Wrong. An 'encyclopedia' covers all knowledge on a subject, while a guidebook is written about one specific place."
+          "feedback": "Saw keeps the simple past and does not show that the action is earlier than the report."
+        },
+        {
+          "letter": "C",
+          "text": "Tom said that he has seen Maria at the market.",
+          "is_correct": false,
+          "feedback": "Has seen mixes a present perfect with a past reporting verb."
+        },
+        {
+          "letter": "D",
+          "text": "Tom said that he sees Maria at the market.",
+          "is_correct": false,
+          "feedback": "Sees keeps the present simple and ignores the backshift."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
+      "explanation": "After a past reporting verb the simple past saw becomes the past perfect had seen.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W11-reported-speech-statements-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W11-reported-speech-statements-001-MASTERY-bundle-v14",
+      "statement": "Which sentence correctly reports the statement You should rest more?",
+      "context": "A patient repeats the advice given by a doctor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The doctor told me that I shall rest more.",
+          "is_correct": false,
+          "feedback": "Shall is a different modal and does not match the original should."
+        },
+        {
+          "letter": "B",
+          "text": "The doctor told me that I should rest more.",
+          "is_correct": true,
+          "feedback": "Should is correct: the modal should has no past form and stays unchanged."
+        },
+        {
+          "letter": "C",
+          "text": "The doctor told me that I will rest more.",
+          "is_correct": false,
+          "feedback": "Will changes the meaning from advice to a future prediction."
+        },
+        {
+          "letter": "D",
+          "text": "The doctor told me that I would rest more.",
+          "is_correct": false,
+          "feedback": "Would changes should into a conditional form that the original does not have."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Modals such as should keep the same form in reported speech because they have no past tense.\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -639,37 +639,37 @@
     },
     {
       "id": "ES-ING-11-2026-W11-reported-speech-statements-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence correctly reports the statement I will lend you my car?",
+      "context": "A brother repeats a promise about a car.",
       "options": [
         {
           "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! A 'backpack' has two shoulder straps and is designed to be carried on your back."
+          "text": "Ana told me she will lend me my car.",
+          "is_correct": false,
+          "feedback": "Will keeps the present modal and my does not change to her."
         },
         {
           "letter": "B",
-          "text": "suitcase",
+          "text": "Ana told me she would lend me my car.",
           "is_correct": false,
-          "feedback": "Wrong. A 'suitcase' is a flat box with a handle that you pull along beside you."
+          "feedback": "Would is right but the possessive my must become her in the report."
         },
         {
           "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Wrong. A 'briefcase' is a stiff case for papers that you carry in your hand at work."
+          "text": "Ana told me she would lend me her car.",
+          "is_correct": true,
+          "feedback": "Would and her are correct: will backshifts to would and the possessive my becomes her."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "Ana told me I would lend her my car.",
           "is_correct": false,
-          "feedback": "Wrong. A 'handbag' is held in the hand and has no straps at all."
+          "feedback": "The pronouns are reversed: Ana is the lender and I am the receiver."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "The report changes will to would and adjusts both pronouns: she would lend me her car.\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -684,36 +684,36 @@
     },
     {
       "id": "ES-ING-11-2026-W11-reported-speech-statements-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence correctly reports the statement We finished the project last week?",
+      "context": "A team repeats what its members said about a project.",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'Overseas' means to or in another country reached by crossing the sea."
+          "text": "They said they finished the project last week.",
+          "is_correct": false,
+          "feedback": "Finished keeps the simple past and last week is not adjusted for the report."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "They said they have finished the project last week.",
           "is_correct": false,
-          "feedback": "Wrong. 'Domestic' means inside the borders of your own country, which is the opposite of overseas."
+          "feedback": "Have finished mixes a present perfect with a past reporting verb."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "They said they had finished the project next week.",
           "is_correct": false,
-          "feedback": "Wrong. 'Local' means in a particular small area or town, which may well be inside your own country."
+          "feedback": "Had finished is right but next week reverses the direction of last week."
         },
         {
           "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Wrong. 'National' means concerning the nation as a whole, not travelling away from it across the sea."
+          "text": "They said they had finished the project the week before.",
+          "is_correct": true,
+          "feedback": "Had finished and the week before are correct: the past simple backshifts and last week shifts back."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "The past simple finished becomes had finished, and last week becomes the week before.\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -729,36 +729,36 @@
     },
     {
       "id": "ES-ING-11-2026-W11-reported-speech-statements-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence correctly reports the statement I had already left when you called?",
+      "context": "A listener reports what a friend said about a missed call.",
       "options": [
         {
-          "letter": "B",
-          "text": "budget",
+          "letter": "A",
+          "text": "He said he had already left when I called.",
           "is_correct": true,
-          "feedback": "Correct! A 'budget' estimates planned income and spending over a set period such as a month or a year."
+          "feedback": "Had left is correct: the past perfect stays past perfect, and you becomes I for the listener."
         },
         {
-          "letter": "A",
-          "text": "expense",
+          "letter": "B",
+          "text": "He said he has already left when I called.",
           "is_correct": false,
-          "feedback": "Wrong. An 'expense' is a single outgoing payment, not a plan covering a whole period."
+          "feedback": "Has left changes the past perfect into a present perfect."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "He said he already left when I called.",
           "is_correct": false,
-          "feedback": "Wrong. The 'cost' is the price of one thing or service, with no timeframe attached to it."
+          "feedback": "Left reduces the past perfect to a simple past and loses the order of events."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "He said he would already leave when I called.",
           "is_correct": false,
-          "feedback": "Wrong. A 'price' is the amount a single item sells for, not an estimate of a period's finances."
+          "feedback": "Would leave turns a completed action into a conditional one."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "A past perfect in the original remains past perfect, so had left is left unchanged in the report.\n---",
       "difficulty": "9",
       "images": [],
       "tags": [],
@@ -774,37 +774,37 @@
     },
     {
       "id": "ES-ING-11-2026-W11-reported-speech-statements-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which direct statement is the source of Tom said that he had been working all morning?",
+      "context": "A student matches a reported sentence with the words it comes from.",
       "options": [
         {
-          "letter": "C",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement where a company pays compensation for a specified loss in exchange for a premium."
-        },
-        {
           "letter": "A",
-          "text": "warranty",
+          "text": "I am working all morning, Tom said.",
           "is_correct": false,
-          "feedback": "Wrong. A 'warranty' covers a defective product for a limited time and is given by the maker, not for illness or death."
+          "feedback": "Am working would backshift to was working, not to had been working."
         },
         {
           "letter": "B",
-          "text": "guarantee",
+          "text": "I have been working all morning, Tom said.",
+          "is_correct": true,
+          "feedback": "Have been working is correct: the present perfect continuous backshifts to the past perfect continuous."
+        },
+        {
+          "letter": "C",
+          "text": "I worked all morning, Tom said.",
           "is_correct": false,
-          "feedback": "Wrong. A 'guarantee' is a promise about the quality of a product or service, with no payment of a premium."
+          "feedback": "Worked would backshift to had worked, a simple past perfect without the continuous idea."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "I will work all morning, Tom said.",
           "is_correct": false,
-          "feedback": "Wrong. A 'policy' is the written document that records an insurance contract, not the practice of compensation itself."
+          "feedback": "Will work would backshift to would work, a future form, not a perfect continuous."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "The reported had been working points back to the present perfect continuous have been working.\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -819,36 +819,36 @@
     },
     {
       "id": "ES-ING-11-2026-W11-reported-speech-statements-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence correctly reports the statement I will meet you here tomorrow?",
+      "context": "A girl repeats what a friend said about a meeting place and day.",
       "options": [
         {
           "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'Vaccination' is the administration of a vaccine that makes the immune system ready against a disease."
+          "text": "He said he will meet me here tomorrow.",
+          "is_correct": false,
+          "feedback": "Will, here and tomorrow all stay in the original viewpoint."
         },
         {
           "letter": "B",
-          "text": "medication",
+          "text": "He said he would meet me here tomorrow.",
           "is_correct": false,
-          "feedback": "Wrong. 'Medication' treats the symptoms of an illness you already have; it does not create immunity beforehand."
+          "feedback": "Would is right but here and tomorrow are not adjusted for the report."
         },
         {
           "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Wrong. A 'prescription' is the doctor's written order for a medicine, not the vaccine itself."
+          "text": "He said he would meet me there the next day.",
+          "is_correct": true,
+          "feedback": "Would, there and the next day are all correct shifts of will, here and tomorrow."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "He said he would meet me there yesterday.",
           "is_correct": false,
-          "feedback": "Wrong. An 'infection' is the invasion of the body by a pathogen, which is the opposite of preventing it."
+          "feedback": "Would is right but yesterday reverses the meaning of tomorrow."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "Three shifts apply at once: will to would, here to there, and tomorrow to the next day.\n---",
       "difficulty": "9",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "ES-ING-11-2026-W11-reported-speech-statements-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence correctly reports the statement I do not know where my brother is?",
+      "context": "A boy repeats what his sister said about their brother.",
       "options": [
         {
-          "letter": "B",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the tiredness and disturbed body clock caused by crossing several time zones in a flight."
+          "letter": "A",
+          "text": "Laura told me she does not know where her brother is.",
+          "is_correct": false,
+          "feedback": "Does not know and is keep both verbs in the present, so no backshift happens."
         },
         {
-          "letter": "A",
-          "text": "fatigue",
+          "letter": "B",
+          "text": "Laura told me she did not know where her brother is.",
           "is_correct": false,
-          "feedback": "Wrong. 'Fatigue' is general tiredness from any cause, such as hard work, not specifically from time zones."
+          "feedback": "Did not know is right, but the verb is in the second clause must also backshift to was."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "Laura told me she does not know where her brother was.",
           "is_correct": false,
-          "feedback": "Wrong. 'Exhaustion' is extreme tiredness from physical effort or illness, not from a change of time zone."
+          "feedback": "Does not know is wrong for the report even though was is correct in the second clause."
         },
         {
           "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Wrong. 'Insomnia' is simply difficulty sleeping, which can come from many causes unrelated to flying."
+          "text": "Laura told me she did not know where her brother was.",
+          "is_correct": true,
+          "feedback": "Both clauses backshift and the possessive changes: did not know and was, with her for my."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
+      "correct_answer": "D",
+      "explanation": "Every verb in the reported clause backshifts, so the sentence needs did not know and was, plus her.\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The lights in the laboratory are on; the teacher ____ be inside.",
+      "context": "A student walks into a school building at night and sees a lit corridor.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
+          "text": "must",
           "is_correct": true,
-          "feedback": "'accommodation' is the word for a place where you live or stay, including on holiday."
+          "feedback": "Correct! 'Must' expresses a strong deduction drawn from present evidence."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "might",
           "is_correct": false,
-          "feedback": "'transportation' means the way you travel, such as buses or planes, not where you stay."
+          "feedback": "'Might' would leave the deduction open and weak, and the evidence here is clear."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "should",
           "is_correct": false,
-          "feedback": "'entertainment' is the activity of enjoying shows, films or games, not a place to live."
+          "feedback": "'Should' expresses expectation based on norms, not on direct evidence."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "would",
           "is_correct": false,
-          "feedback": "'currency' is the money of a country, such as the colon; a place to stay is not money."
+          "feedback": "'Would' belongs to conditional or polite structures, not to deduction."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "explanation": "In present deductions, 'must' signals certainty from evidence and 'might' signals only a possibility. The strength of the conclusion chooses the modal.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle",
       "periodo": 22,
@@ -54,40 +54,40 @@
     },
     {
       "id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Look at those wet shoes; he ____ have walked through the flooded street.",
+      "context": "A classmate notices a detail in the shoes of another classmate after a storm.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "'itinerary' is a detailed plan of a journey, listing the route and the stops along the way."
+          "text": "cannot",
+          "is_correct": false,
+          "feedback": "'Cannot' would deny the action, but the shoes are a sign that it happened."
         },
         {
           "letter": "B",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "text": "must",
+          "is_correct": true,
+          "feedback": "Correct! 'Must' draws a certain conclusion from a visible sign."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "should",
           "is_correct": false,
-          "feedback": "'destination' is only the place you are going to; the plan of the route is the itinerary."
+          "feedback": "'Should' expresses a general expectation and ignores the evidence."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "can",
           "is_correct": false,
-          "feedback": "'passport' is the travel document you show at the border, not the plan of a journey."
+          "feedback": "'Can' states capacity and says nothing about what occurred."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "Physical evidence about the present is exactly the kind of signal that licenses a 'must' deduction about a past action.\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle",
       "periodo": 22,
@@ -99,40 +99,40 @@
     },
     {
       "id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "She ____ be the new coordinator, because no one has told her about the meeting.",
+      "context": "An office assistant notes that a colleague was not informed about a meeting.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "'destination' names the place a person or thing is going or being sent to."
+          "text": "must",
+          "is_correct": false,
+          "feedback": "'Must' would assert the opposite conclusion."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "should",
           "is_correct": false,
-          "feedback": "'departure' is the action of leaving, not the place you leave for."
+          "feedback": "'Should' would express a general expectation about the job, not an inference."
         },
         {
           "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching a place, not the place itself."
+          "text": "cannot",
+          "is_correct": true,
+          "feedback": "Correct! 'Cannot' expresses a negative conclusion drawn from the missing information."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "would",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, not the place at the end of it."
+          "feedback": "'Would' would form a conditional that the sentence does not contain."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "correct_answer": "C",
+      "explanation": "The negative deduction uses 'cannot' plus the bare infinitive. The evidence in the second clause is the reason for the conclusion in the first.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle",
       "periodo": 22,
@@ -144,40 +144,40 @@
     },
     {
       "id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "There is no light in the classroom and all the chairs are stacked, so the janitor ____ have left the keys on his desk.",
+      "context": "A cleaner arrives early in the morning of a school day.",
       "options": [
         {
-          "letter": "D",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "'luggage' is the collective word for the suitcases and bags you pack for a trip."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "must",
           "is_correct": false,
-          "feedback": "'ticket' is the document you buy that admits you to the journey."
+          "feedback": "'Must' would claim certainty, which the sparse evidence does not support."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "cannot",
           "is_correct": false,
-          "feedback": "'flight' is the plane or the scheduled trip itself, not the bags you carry."
+          "feedback": "'Cannot' would deny that the keys were left, and nothing indicates that."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "should",
           "is_correct": false,
-          "feedback": "'reservation' is the booking you hold for a seat or a room."
+          "feedback": "'Should' expresses an expectation about normal procedure rather than an inference."
+        },
+        {
+          "letter": "D",
+          "text": "may",
+          "is_correct": true,
+          "feedback": "Correct! 'May' leaves the possibility open, which fits a conclusion that is plausible but not certain."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "explanation": "Deductions about the past use 'might', 'could' or 'may' when the evidence is incomplete. The strength of the claim is what the modal carries.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle",
       "periodo": 22,
@@ -189,127 +189,37 @@
     },
     {
       "id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew."
-        },
-        {
-          "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, not on a bus, a train or a plane."
-        },
-        {
-          "letter": "C",
-          "text": "commuter",
-          "is_correct": false,
-          "feedback": "'commuter' is someone who travels regularly between home and work, a narrower idea than passenger."
-        },
-        {
-          "letter": "D",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "hn"
-    },
-    {
-      "id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The children ____ be tired; they have been playing for six hours.",
+      "context": "A teacher watches a group of students in a school yard.",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
+          "text": "must",
           "is_correct": true,
-          "feedback": "'customs' is the office where officials check the goods, the luggage and the travellers entering a country."
+          "feedback": "Correct! 'Must' states a certain present conclusion based on the length of the activity."
         },
         {
           "letter": "B",
-          "text": "security",
+          "text": "cannot",
           "is_correct": false,
-          "feedback": "'security' refers to the staff and the measures that keep the airport safe, not to the goods check."
+          "feedback": "'Cannot' would deny the tiredness that the evidence supports."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "might",
           "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for and board your flight."
+          "feedback": "'Might' would weaken a conclusion the facts make obvious."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "should not",
           "is_correct": false,
-          "feedback": "'gate' is the door you board the plane through, not the place where officials check luggage."
+          "feedback": "'Should not' would give advice, and no action is being advised against."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "hn"
-    },
-    {
-      "id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "'boarding pass' is the slip the airline hands over at check-in that lets you board the plane."
-        },
-        {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "'visa' is the official permission to enter and stay in a foreign country."
-        },
-        {
-          "letter": "B",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "'receipt' is the proof of payment for the ticket, not the document that lets you board."
-        },
-        {
-          "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "'brochure' is a small booklet with tourist information, not a travel document."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "explanation": "The second clause gives the reason, so the modal in the first must express a certain conclusion: 'must' in the present.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -323,38 +233,128 @@
       "country": "hn"
     },
     {
-      "id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle-v6",
+      "statement": "He is wearing a wool sweater inside the classroom; he ____ be feeling cold.",
+      "context": "A student observes a classmate dressed for cold weather in a warm classroom.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "'sightseeing' is visiting the places of interest of a location in order to look at them."
+          "text": "might",
+          "is_correct": false,
+          "feedback": "'Might' would be a weaker inference than the situation allows."
         },
         {
           "letter": "B",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "'shopping' is buying things, which is a different activity from visiting sights."
+          "text": "must",
+          "is_correct": true,
+          "feedback": "Correct! 'Must' draws a certain conclusion from the clothing in a warm room."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "cannot",
           "is_correct": false,
-          "feedback": "'hiking' is walking in the countryside along a trail, usually for exercise."
+          "feedback": "'Cannot' would deny the sensation that the sweater suggests."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "should",
           "is_correct": false,
-          "feedback": "'camping' means spending the night outdoors in a tent."
+          "feedback": "'Should' would express a general expectation about room temperature."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "A single clear sign justifies 'must'. The deduction is about a present state, so the modal is not followed by 'have' plus a participle.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle-v7",
+      "statement": "The bread on the table has been cut, so someone ____ have used the kitchen.",
+      "context": "A student returns to a shared kitchen and finds the food already prepared.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "cannot",
+          "is_correct": false,
+          "feedback": "'Cannot' would deny the use of the kitchen, but the cut bread is a sign against that."
+        },
+        {
+          "letter": "B",
+          "text": "should",
+          "is_correct": false,
+          "feedback": "'Should' would express a norm about kitchen use."
+        },
+        {
+          "letter": "C",
+          "text": "must",
+          "is_correct": true,
+          "feedback": "Correct! 'Must' with 'have' plus a participle draws a certain conclusion about a past action."
+        },
+        {
+          "letter": "D",
+          "text": "may not",
+          "is_correct": false,
+          "feedback": "'May not' would leave the possibility open, and the evidence is direct."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Past deductions with a present sign use 'must have' plus a participle. The perfect structure marks the action as finished before the moment of speaking.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle-v8",
+      "statement": "He is wet from head to toe; he ____ have been swimming in the river.",
+      "context": "A group returns from an outdoor activity beside a river in a tropical region.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "should",
+          "is_correct": false,
+          "feedback": "'Should' would be an expectation about what a wet person normally did."
+        },
+        {
+          "letter": "B",
+          "text": "can",
+          "is_correct": false,
+          "feedback": "'Can' expresses capacity and not deduction."
+        },
+        {
+          "letter": "C",
+          "text": "would",
+          "is_correct": false,
+          "feedback": "'Would' would form a conditional or a polite offer."
+        },
+        {
+          "letter": "D",
+          "text": "must",
+          "is_correct": true,
+          "feedback": "Correct! 'Must' plus 'have been' plus a participle states a certain conclusion about a past activity."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The deduction combines a certain modal with a perfect auxiliary, which places the deduced action before the moment of observation.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -369,40 +369,40 @@
     },
     {
       "id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "I did not see her at the party, so she ____ not have received my message.",
+      "context": "A person explains an absence at a family event to a mutual friend.",
       "options": [
         {
-          "letter": "B",
-          "text": "souvenir",
+          "letter": "A",
+          "text": "might",
           "is_correct": true,
-          "feedback": "'souvenir' is an object kept because it reminds you of a person, a place or an event."
+          "feedback": "Correct! 'Might not' leaves open whether the message arrived, which matches the limited evidence."
         },
         {
-          "letter": "A",
-          "text": "gift",
+          "letter": "B",
+          "text": "must",
           "is_correct": false,
-          "feedback": "'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder."
+          "feedback": "'Must' would assert that the message was received, and nothing shows that."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "cannot",
           "is_correct": false,
-          "feedback": "'award' is a distinction given for a merit or an achievement."
+          "feedback": "'Cannot' would state that it was impossible for her to receive it."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "should",
           "is_correct": false,
-          "feedback": "'prize' is what is won in a competition, not an object bought to remember a trip."
+          "feedback": "'Should' would express an expectation about replying."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "A",
+      "explanation": "Absence at an event is weak evidence. 'Might not' is the honest form: it removes the conclusion without denying the possibility.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle",
       "periodo": 22,
@@ -414,37 +414,37 @@
     },
     {
       "id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The ground outside is soaked, ____ somebody watered the plants last night.",
+      "context": "A resident observes the ground of a courtyard in the early morning.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "'delay' is the extra period of time by which something becomes late or is postponed."
+          "text": "because",
+          "is_correct": false,
+          "feedback": "'because' would present the cause first, but the sentence starts from the result."
         },
         {
           "letter": "B",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "'cancellation' ends the booking or the trip altogether rather than pushing it back."
+          "text": "so",
+          "is_correct": true,
+          "feedback": "Correct! 'so' links the observed result with the deduced cause that a later clause would explain."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "although",
           "is_correct": false,
-          "feedback": "'departure' is the time a vehicle is scheduled to leave, not a postponement."
+          "feedback": "'although' would need a contrast, and both clauses agree."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "unless",
           "is_correct": false,
-          "feedback": "'arrival' is the moment you reach the destination, not the waiting time."
+          "feedback": "'unless' would state a condition that has to be met, and it is the opposite of the relation here."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "The first clause is the evidence and the second is the deduction. 'So' is the connector that turns observation into inference.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -459,37 +459,37 @@
     },
     {
       "id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "She has failed two exams, so she ____ revise harder if she wants to pass.",
+      "context": "A student reviews a report card showing two low grades.",
       "options": [
         {
-          "letter": "C",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "'check-in' is reporting your presence at the airport or the hotel and registering."
-        },
-        {
           "letter": "A",
-          "text": "check-out",
+          "text": "can",
           "is_correct": false,
-          "feedback": "'check-out' is the opposite moment: leaving the hotel and settling the bill."
+          "feedback": "'Can' would describe a capacity rather than what she ought to do."
         },
         {
           "letter": "B",
-          "text": "booking",
+          "text": "would",
           "is_correct": false,
-          "feedback": "'booking' is reserving the room or the seat in advance, which happens before you arrive."
+          "feedback": "'Would' would form a conditional whose main clause is missing here."
+        },
+        {
+          "letter": "C",
+          "text": "must",
+          "is_correct": true,
+          "feedback": "Correct! 'Must' states a strong requirement of effort in this situation."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "should",
           "is_correct": false,
-          "feedback": "'reservation' is the record of that booking, not the act of reporting your presence."
+          "feedback": "'Should' would give softer advice, and the results make a firm requirement necessary."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "'Must' can express obligation deduced from circumstances. 'Should' gives advice, while 'must' states the requirement the results impose.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,82 +504,37 @@
     },
     {
       "id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "This restaurant ____ be excellent; there was a queue at seven in the morning.",
+      "context": "A traveller passes a small eating place that is full very early in the day.",
       "options": [
         {
           "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "'layover' is the rest or the waiting period between two stages of a journey."
+          "text": "cannot",
+          "is_correct": false,
+          "feedback": "'Cannot' would deny the quality, which the queue contradicts."
         },
         {
           "letter": "B",
-          "text": "stopover",
+          "text": "may",
           "is_correct": false,
-          "feedback": "'stopover' is a break in a journey during which you leave the vehicle, often overnight."
+          "feedback": "'May' would only suggest a possibility, and the evidence is strong."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "would",
           "is_correct": false,
-          "feedback": "'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time."
+          "feedback": "'Would' would be a conditional form with no main clause."
         },
         {
           "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "'transit' means passage through a place or the system that carries people, not the pause itself."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "hn"
-    },
-    {
-      "id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "currency",
+          "text": "must",
           "is_correct": true,
-          "feedback": "'currency' is the whole money system in general use in a particular country."
-        },
-        {
-          "letter": "A",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "'coin' is a single round piece of metal money, only one part of a currency."
-        },
-        {
-          "letter": "B",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "'banknote' is a paper note, again only one part of a country's money system."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "'cash' is money in coins and notes seen as a form of payment, not the system a country has."
+          "feedback": "Correct! 'Must' states a certain conclusion from a long queue at an unusual hour."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "D",
+      "explanation": "The strength of the evidence sets the modal. A long queue at an abnormal hour makes the conclusion more than a bare possibility.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -593,38 +548,83 @@
       "country": "hn"
     },
     {
-      "id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle-v13",
+      "statement": "The students ____ have left early, because the classroom is empty and the lights are off.",
+      "context": "A teacher arrives at a classroom and finds it empty at the end of the day.",
       "options": [
         {
-          "letter": "D",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "'guidebook' is a book of information about a place written for the use of visitors."
-        },
-        {
           "letter": "A",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "'map' is a drawing of the area, not a book of information."
+          "text": "must",
+          "is_correct": true,
+          "feedback": "Correct! 'Must have' plus a participle states a certain conclusion about a completed past action."
         },
         {
           "letter": "B",
-          "text": "dictionary",
+          "text": "should",
           "is_correct": false,
-          "feedback": "'dictionary' explains the words of a language, not the places of a region."
+          "feedback": "'Should' would express a norm about leaving time, which the evidence does not address."
         },
         {
           "letter": "C",
-          "text": "encyclopedia",
+          "text": "might",
           "is_correct": false,
-          "feedback": "'encyclopedia' covers all branches of knowledge, not one destination for tourists."
+          "feedback": "'Might' would weaken a conclusion the empty room clearly supports."
+        },
+        {
+          "letter": "D",
+          "text": "can",
+          "is_correct": false,
+          "feedback": "'Can' expresses capacity in the present, not a deduction about the past."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "An empty room is a present sign of a past action, which is the definition of a deduction with 'must have' plus a participle.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle-v14",
+      "statement": "He ____ not be at home, because his car is not in the driveway.",
+      "context": "A visitor arrives at a house and checks the driveway before knocking.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "might",
+          "is_correct": false,
+          "feedback": "'Might' would leave the conclusion open even though the evidence points one way."
+        },
+        {
+          "letter": "B",
+          "text": "must",
+          "is_correct": true,
+          "feedback": "Correct! 'Must not' expresses a certain negative conclusion from the missing car."
+        },
+        {
+          "letter": "C",
+          "text": "can",
+          "is_correct": false,
+          "feedback": "'Can' expresses capacity and cannot state a negative deduction in this structure."
+        },
+        {
+          "letter": "D",
+          "text": "would",
+          "is_correct": false,
+          "feedback": "'Would' would require a conditional clause that is not present."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A certain negative conclusion takes 'must not'. Hedging with 'might' would be more cautious than the evidence requires.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -639,40 +639,40 @@
     },
     {
       "id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The sauce smells strange and the date on the carton expired last month; it ____ be spoiled.",
+      "context": "A cook checks a carton before adding it to a family meal.",
       "options": [
         {
-          "letter": "B",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "'backpack' has shoulder straps and is carried on the back."
+          "letter": "A",
+          "text": "might",
+          "is_correct": false,
+          "feedback": "'Might' would understate the certainty that the expired date provides."
         },
         {
-          "letter": "A",
-          "text": "suitcase",
+          "letter": "B",
+          "text": "cannot",
           "is_correct": false,
-          "feedback": "'suitcase' is a case with a handle that is pulled along, not one worn on the back."
+          "feedback": "'Cannot' would deny the spoilage that the smell and date support."
         },
         {
           "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "'briefcase' is a flat case for documents that you carry by hand at work."
+          "text": "must",
+          "is_correct": true,
+          "feedback": "Correct! 'Must' states a certain conclusion from two independent signs."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "should",
           "is_correct": false,
-          "feedback": "'handbag' is a small bag held in the hand, usually for personal items."
+          "feedback": "'Should' would express an expectation about how long a carton stays fresh."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "When several signs point the same way, 'must' is the modal that reports the conclusion the reader expects.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle",
       "periodo": 22,
@@ -684,40 +684,40 @@
     },
     {
       "id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "You ____ have told me about the change of schedule; I waited an hour at the stop.",
+      "context": "A student complains about information that arrived too late.",
       "options": [
         {
-          "letter": "D",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "'overseas' means in or to a foreign country, especially one across the sea."
-        },
-        {
           "letter": "A",
-          "text": "domestic",
+          "text": "must",
           "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
+          "feedback": "'Must' would state an obligation that the past narrative does not describe as broken."
         },
         {
           "letter": "B",
-          "text": "local",
+          "text": "can",
           "is_correct": false,
-          "feedback": "'local' means belonging to a small area nearby, not to a foreign country."
+          "feedback": "'Can' states capacity, which is irrelevant to the reproach."
         },
         {
           "letter": "C",
-          "text": "national",
+          "text": "would",
           "is_correct": false,
-          "feedback": "'national' means concerning the whole nation and says nothing about being abroad."
+          "feedback": "'Would' would form a conditional, and the second clause is the consequence, not a condition."
+        },
+        {
+          "letter": "D",
+          "text": "should",
+          "is_correct": true,
+          "feedback": "Correct! 'Should' expresses what was expected of the other person, and the speaker was let down."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "Reproach for a past omission takes 'should have' plus a participle. The modal describes an expectation, not a rule.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle",
       "periodo": 22,
@@ -729,37 +729,37 @@
     },
     {
       "id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "He ____ have taken the last bus, but he arrived home before eight, so he must have walked part of the way.",
+      "context": "A friend reasons aloud about how a colleague managed to arrive home early in bad weather.",
       "options": [
         {
-          "letter": "B",
-          "text": "budget",
+          "letter": "A",
+          "text": "should",
           "is_correct": true,
-          "feedback": "'budget' is an estimate of income and expenditure planned for a set period."
+          "feedback": "Correct! 'Should' is the balanced modal to open a statement, while 'must' states the certain conclusion in the second clause."
         },
         {
-          "letter": "A",
-          "text": "expense",
+          "letter": "B",
+          "text": "must",
           "is_correct": false,
-          "feedback": "'expense' is a single amount of money that is spent, not the plan for a whole period."
+          "feedback": "'Must' in the first clause would contradict the evidence given after the comma."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "might",
           "is_correct": false,
-          "feedback": "'cost' is what one item or one service costs, again not an estimate for a period."
+          "feedback": "'Might' would open a weak statement that the rest of the sentence contradicts."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "can",
           "is_correct": false,
-          "feedback": "'price' is the sum a customer pays for one product; a budget covers income and spending together."
+          "feedback": "'Can' expresses capacity and cannot open a statement about a past journey."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "A",
+      "explanation": "Contrast between the expected and the certain requires two different modals: 'should' for the expected course of events and 'must' for the observed one.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -774,40 +774,40 @@
     },
     {
       "id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The teacher ____ be looking for the exam papers, because she has been searching in every drawer.",
+      "context": "A student notices a teacher opening several cupboards in a preparation room.",
       "options": [
         {
           "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium."
+          "text": "might",
+          "is_correct": false,
+          "feedback": "'Might' would weaken a conclusion that the repeated search clearly supports."
         },
         {
           "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge."
+          "text": "must",
+          "is_correct": true,
+          "feedback": "Correct! 'Must be' plus a gerund states a certain present deduction about what somebody is doing now."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "cannot",
           "is_correct": false,
-          "feedback": "'guarantee' is a general promise of quality and does not involve paying a premium."
+          "feedback": "'Cannot' would deny the search that the teacher is performing."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "would",
           "is_correct": false,
-          "feedback": "'policy' is the written document that states what an insurance contract covers."
+          "feedback": "'Would' would express a past habit or a conditional."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "Present continuous deductions take 'must be' plus a gerund, because the action is unfinished at the moment of speaking.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle",
       "periodo": 22,
@@ -819,37 +819,37 @@
     },
     {
       "id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "He ____ have missed the last examination, since his name was not on the list of candidates.",
+      "context": "An office checks the list of candidates registered for a final examination.",
       "options": [
         {
-          "letter": "C",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "'vaccination' is the treatment with a vaccine that makes the body immune to a disease."
-        },
-        {
           "letter": "A",
-          "text": "medication",
+          "text": "must",
           "is_correct": false,
-          "feedback": "'medication' is a drug taken to treat an illness, not to prevent one."
+          "feedback": "'Must' would assert the absence as certain, which the list does not prove on its own."
         },
         {
           "letter": "B",
-          "text": "prescription",
+          "text": "cannot",
           "is_correct": false,
-          "feedback": "'prescription' is the written order that authorises a medicine, not the treatment itself."
+          "feedback": "'Cannot' would deny that he missed it, and no reason indicates that."
+        },
+        {
+          "letter": "C",
+          "text": "might",
+          "is_correct": true,
+          "feedback": "Correct! 'Might have' plus a participle leaves open the reason for the missing name."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "should",
           "is_correct": false,
-          "feedback": "'infection' is the disease itself, the opposite of the protection a vaccination gives."
+          "feedback": "'Should' would express an expectation about registering for exams."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "explanation": "A missing name admits several explanations, so the honest modal is the hedged 'might have' rather than a certain 'must have'.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -864,40 +864,40 @@
     },
     {
       "id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Look, the pavement is wet and his umbrella is open; it ____ have rained in the last hour.",
+      "context": "A pedestrian notices the ground and an open umbrella beside a street.",
       "options": [
         {
-          "letter": "B",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight."
+          "letter": "A",
+          "text": "will",
+          "is_correct": false,
+          "feedback": "'Will' would place the rain in the future, which the wet pavement denies."
         },
         {
-          "letter": "A",
-          "text": "fatigue",
+          "letter": "B",
+          "text": "can",
           "is_correct": false,
-          "feedback": "'fatigue' is tiredness that can come from any long effort, not specifically from a flight."
+          "feedback": "'Can' expresses capacity and cannot be followed here by a conclusion about the past."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "shall",
           "is_correct": false,
-          "feedback": "'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep."
+          "feedback": "'Shall' is used for offers and formal statements, not for deduction."
         },
         {
           "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "'insomnia' is the inability to fall asleep, which has many causes besides travel."
+          "text": "must",
+          "is_correct": true,
+          "feedback": "Correct! 'Must' with 'have' plus a participle states a certain conclusion about a recent past event."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "'Must have' plus a participle is the standard form for a certain conclusion about a completed past action.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle",
       "periodo": 22,

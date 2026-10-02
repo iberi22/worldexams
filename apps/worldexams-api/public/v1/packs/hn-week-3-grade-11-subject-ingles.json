@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "HN-ING-11-2026-W03-present-perfect-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "I ___ in Paris twice, and both trips were wonderful.",
+      "context": "The experience happened at an unspecified time before now.",
       "options": [
         {
-          "letter": "D",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay."
+          "text": "have been",
+          "is_correct": true,
+          "feedback": "Correct! Life experience with no stated past time is expressed with the present perfect."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "went",
           "is_correct": false,
-          "feedback": "'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place."
+          "feedback": "The past simple would need a finished past time, such as in 2019, to justify this use."
         },
         {
           "letter": "C",
-          "text": "currency",
+          "text": "am going",
           "is_correct": false,
-          "feedback": "'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay."
+          "feedback": "A present continuous would describe a current or imminent trip, not two completed journeys."
+        },
+        {
+          "letter": "D",
+          "text": "had been",
+          "is_correct": false,
+          "feedback": "The past perfect needs a past reference point before the journeys, and there is none."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "correct_answer": "A",
+      "explanation": "The present perfect with have been covers experience at any time up to now when the time is irrelevant. Twice tells us the number, not the date.\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W03-present-perfect-001-MASTERY-bundle",
       "periodo": 3,
@@ -54,40 +54,40 @@
     },
     {
       "id": "HN-ING-11-2026-W03-present-perfect-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "We ___ the treaty in 1998, and it is still in force.",
+      "context": "A past action with an explicit finished time.",
       "options": [
         {
-          "letter": "A",
-          "text": "itinerary",
+          "letter": "B",
+          "text": "signed",
           "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order."
+          "feedback": "Correct! A finished past time such as in 1998 requires the past simple."
         },
         {
-          "letter": "B",
-          "text": "baggage",
+          "letter": "A",
+          "text": "have signed",
           "is_correct": false,
-          "feedback": "'baggage' means the suitcases and bags you travel with, not the plan that organises the trip."
+          "feedback": "The present perfect cannot be used with a finished past time, because then the action would no longer relate to now."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "will sign",
           "is_correct": false,
-          "feedback": "'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself."
+          "feedback": "A future form contradicts a date that has already passed."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "are signing",
           "is_correct": false,
-          "feedback": "'passport' is the official travel document you show at the border, not a description of the journey route."
+          "feedback": "A present continuous would place the signing in the present, which the year makes impossible."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "A precise finished past time locks the action into the past. The still in force clause reports the present result, but the signing itself is simply past.\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W03-present-perfect-001-MASTERY-bundle",
       "periodo": 3,
@@ -99,40 +99,40 @@
     },
     {
       "id": "HN-ING-11-2026-W03-present-perfect-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "He ___ in this city for twelve years.",
+      "context": "The period began in the past and is still open now.",
       "options": [
         {
           "letter": "C",
-          "text": "destination",
+          "text": "has lived",
           "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place to which someone or something is going or being sent."
+          "feedback": "Correct! For with a duration that reaches the present calls for the present perfect."
         },
         {
           "letter": "A",
-          "text": "departure",
+          "text": "lived",
           "is_correct": false,
-          "feedback": "'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action."
+          "feedback": "The past simple would suggest the living ended, and it does not work with the for phrase used in this open sense."
         },
         {
           "letter": "B",
-          "text": "arrival",
+          "text": "is living",
           "is_correct": false,
-          "feedback": "'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it."
+          "feedback": "The present continuous works with for only in the sense of a temporary or non-permanent arrangement."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "had lived",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, whereas the definition names only where it ends."
+          "feedback": "The past perfect would place the twelve years before another past point, and there is none in the sentence."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "explanation": "For plus a period of time is a signature of the present perfect, because the period reaches up to now. For twelve years in this city means she still lives there.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W03-present-perfect-001-MASTERY-bundle",
       "periodo": 3,
@@ -144,40 +144,40 @@
     },
     {
       "id": "HN-ING-11-2026-W03-present-perfect-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "___ you ever ___ in a helicopter?",
+      "context": "A result is important in the present, so no past time is given.",
       "options": [
         {
-          "letter": "B",
-          "text": "luggage",
+          "letter": "D",
+          "text": "Have ... flown",
           "is_correct": true,
-          "feedback": "Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling."
+          "feedback": "Correct! Ever belongs to the present perfect and is used with the participle after have."
         },
         {
           "letter": "A",
-          "text": "ticket",
+          "text": "Did ... fly",
           "is_correct": false,
-          "feedback": "a 'ticket' is the document that gives you the right to travel; it carries nothing at all."
+          "feedback": "Did with ever is not the standard form, and did asks about a definite past moment."
+        },
+        {
+          "letter": "B",
+          "text": "Have ... flying",
+          "is_correct": false,
+          "feedback": "The present perfect needs the past participle flown, not the -ing form flying."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "Do ... fly",
           "is_correct": false,
-          "feedback": "a 'flight' is the trip itself by plane, not the bags you pack for it."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "a 'reservation' is the booking held for a seat or a room, not the container where clothes go."
+          "feedback": "Do builds the present simple and cannot be combined with ever in this way."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "Ever is a present perfect marker. The structure is have plus ever plus past participle, with the subject and the auxiliary in the right order in the question.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W03-present-perfect-001-MASTERY-bundle",
       "periodo": 3,
@@ -189,40 +189,40 @@
     },
     {
       "id": "HN-ING-11-2026-W03-present-perfect-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "She ___ never ___ spicy food in her life.",
+      "context": "A negative statement covering the whole period up to now.",
       "options": [
         {
-          "letter": "B",
-          "text": "passenger",
+          "letter": "A",
+          "text": "has ... eaten",
           "is_correct": true,
-          "feedback": "Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew."
+          "feedback": "Correct! In her life covers all time up to now, so the present perfect negative is correct."
         },
         {
-          "letter": "A",
-          "text": "pedestrian",
+          "letter": "B",
+          "text": "did ... eat",
           "is_correct": false,
-          "feedback": "a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all."
+          "feedback": "Did refers to a definite past moment, while in her life is deliberately open ended."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "have ... ate",
           "is_correct": false,
-          "feedback": "a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance."
+          "feedback": "After have the verb must be a past participle, and ate is the past simple form."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "is ... eating",
           "is_correct": false,
-          "feedback": "a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle."
+          "feedback": "A present continuous would describe an action happening now, not the whole life up to now."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "A",
+      "explanation": "Expressions such as in her life, so far and up to now all point to the present perfect, in both the affirmative and the negative. The participle form is what follows has.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W03-present-perfect-001-MASTERY-bundle",
       "periodo": 3,
@@ -234,40 +234,40 @@
     },
     {
       "id": "HN-ING-11-2026-W03-present-perfect-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "He ___ his homework an hour ago, so he is free now.",
+      "context": "The action is finished and the exact time is stated.",
       "options": [
         {
-          "letter": "A",
-          "text": "customs",
+          "letter": "B",
+          "text": "finished",
           "is_correct": true,
-          "feedback": "Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage."
+          "feedback": "Correct! An hour ago is a finished past time, so the past simple is used."
         },
         {
-          "letter": "B",
-          "text": "security",
+          "letter": "A",
+          "text": "has finished",
           "is_correct": false,
-          "feedback": "'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs."
+          "feedback": "The present perfect cannot stand with an hour ago, because that time cuts the action off from the present."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "finishes",
           "is_correct": false,
-          "feedback": "a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done."
+          "feedback": "The present simple would make the finishing a habit, but the sentence reports one finished action."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "has been finishing",
           "is_correct": false,
-          "feedback": "a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings."
+          "feedback": "The present perfect continuous would need an open period still going on."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "The rule is about the time expression, not about the result. A finished past time such as an hour ago, yesterday or in 2010 always takes the past simple.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W03-present-perfect-001-MASTERY-bundle",
       "periodo": 3,
@@ -279,37 +279,37 @@
     },
     {
       "id": "HN-ING-11-2026-W03-present-perfect-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "It ___ since six this morning, and it has not stopped once.",
+      "context": "The activity started in the past and is still running.",
       "options": [
         {
-          "letter": "D",
-          "text": "boarding pass",
+          "letter": "C",
+          "text": "has been raining",
           "is_correct": true,
-          "feedback": "Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board."
+          "feedback": "Correct! Since six this morning with an activity still running takes the present perfect continuous."
         },
         {
           "letter": "A",
-          "text": "visa",
+          "text": "rained",
           "is_correct": false,
-          "feedback": "a 'visa' is the permission to enter a country, obtained before the trip and not from the airline."
+          "feedback": "The past simple would present the rain as over, while has not stopped once shows it continues."
         },
         {
           "letter": "B",
-          "text": "receipt",
+          "text": "is raining",
           "is_correct": false,
-          "feedback": "a 'receipt' only proves that you paid; it does not let you board the plane."
+          "feedback": "The present continuous would lose the link with the starting time given by since."
         },
         {
-          "letter": "C",
-          "text": "brochure",
+          "letter": "D",
+          "text": "had been raining",
           "is_correct": false,
-          "feedback": "a 'brochure' is printed information about the airline or the destination, not a travel document."
+          "feedback": "The past perfect continuous would need a past reference point, and this morning is still today."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "The present perfect continuous emphasises duration from a past start up to now. Since plus a clock time is one of its clearest markers, and the continuing result confirms it.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,37 +324,37 @@
     },
     {
       "id": "HN-ING-11-2026-W03-present-perfect-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "They ___ married for eight years before they moved abroad.",
+      "context": "A finished period measured from a point in the past.",
       "options": [
         {
           "letter": "D",
-          "text": "sightseeing",
+          "text": "had been",
           "is_correct": true,
-          "feedback": "Correct! 'sightseeing' is the activity of visiting the places of interest of a location."
+          "feedback": "Correct! The past perfect continuous measures a period completed before another past event, the move."
         },
         {
           "letter": "A",
-          "text": "shopping",
+          "text": "have been",
           "is_correct": false,
-          "feedback": "'shopping' is buying things in stores, not the general activity of visiting a place's sights."
+          "feedback": "The present perfect continuous cannot look back from a past event such as the move."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "are",
           "is_correct": false,
-          "feedback": "'hiking' is one specific outdoor walk in nature, only one kind of activity out of many."
+          "feedback": "A present continuous would place the marriage in the present, which the move contradicts."
         },
         {
           "letter": "C",
-          "text": "camping",
+          "text": "will have been",
           "is_correct": false,
-          "feedback": "'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark."
+          "feedback": "The future perfect projects forward from a future point, and the move is in the past."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "Before they moved abroad is a past reference point. Measuring a duration that ended at that point requires had plus been plus the participle.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -369,37 +369,37 @@
     },
     {
       "id": "HN-ING-11-2026-W03-present-perfect-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "___ you ___ the results yet?",
+      "context": "A recent action whose present result is the point of the sentence.",
       "options": [
         {
-          "letter": "B",
-          "text": "souvenir",
+          "letter": "A",
+          "text": "Have ... received",
           "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event."
+          "feedback": "Correct! Yet belongs to the present perfect and asks about a result that has not arrived."
         },
         {
-          "letter": "A",
-          "text": "gift",
+          "letter": "B",
+          "text": "Did ... receive",
           "is_correct": false,
-          "feedback": "a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event."
+          "feedback": "Did with yet is not used, because yet places the question in the present period."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "Have ... receiving",
           "is_correct": false,
-          "feedback": "an 'award' is an honour granted by an institution for merit, not a keepsake."
+          "feedback": "The present perfect needs the participle received, not the -ing form."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "Will ... receive",
           "is_correct": false,
-          "feedback": "a 'prize' is the reward of a competition; the definition describes an object kept as a memento."
+          "feedback": "A future form would ask about an expectation, not about whether the result is already in."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "A",
+      "explanation": "Yet is another present perfect marker, used for things expected but not yet received. The question is about the present state of the result.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -414,37 +414,37 @@
     },
     {
       "id": "HN-ING-11-2026-W03-present-perfect-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "I ___ three emails since I sat down this morning.",
+      "context": "A non-continuous verb completed within an open period.",
       "options": [
         {
           "letter": "B",
-          "text": "delay",
+          "text": "have sent",
           "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra period of time by which something ends up late or postponed."
+          "feedback": "Correct! A countable verb completed in a period that reaches now takes the present perfect."
         },
         {
           "letter": "A",
-          "text": "cancellation",
+          "text": "sent",
           "is_correct": false,
-          "feedback": "a 'cancellation' means the trip or event will not happen at all, not that it happens later."
+          "feedback": "The past simple would need a finished past time, but since I sat down keeps the period open."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "am sending",
           "is_correct": false,
-          "feedback": "'departure' is simply the moment of leaving, which can be perfectly punctual."
+          "feedback": "A present continuous would suggest the sending is going on right now rather than completed three times."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "had sent",
           "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching the place, and it says nothing about being late."
+          "feedback": "The past perfect would place the emails before another past point, which the sentence does not have."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "With verbs that do not continue, the present perfect counts completed actions inside an open period. Continuous verbs take the continuous form and count events the same way.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -459,37 +459,37 @@
     },
     {
       "id": "HN-ING-11-2026-W03-present-perfect-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The museum ___ from its collection, but the catalogue still lists the painting.",
+      "context": "The information is no longer available.",
       "options": [
         {
-          "letter": "A",
-          "text": "check-in",
+          "letter": "C",
+          "text": "has removed",
           "is_correct": true,
-          "feedback": "Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter."
+          "feedback": "Correct! The catalogue still lists it, so the removal is relevant in the present."
+        },
+        {
+          "letter": "A",
+          "text": "removed",
+          "is_correct": false,
+          "feedback": "The past simple would leave the present relevance unstated, and the contradiction with the catalogue needs the link to now."
         },
         {
           "letter": "B",
-          "text": "check-out",
+          "text": "is removing",
           "is_correct": false,
-          "feedback": "'check-out' is the opposite moment, when you pay and hand the room key back before leaving."
-        },
-        {
-          "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "'booking' is the reservation made beforehand; check-in is what you do on arrival."
+          "feedback": "A present continuous would suggest the removal is still under way, which the catalogue does not support."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "had removed",
           "is_correct": false,
-          "feedback": "a 'reservation' is the earlier record of your booking, not the act of registering your presence."
+          "feedback": "The past perfect would need a past point to look back from, and there is none."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "The present perfect is used when a past action explains the present. The still lists clause is the present state that makes the present perfect necessary.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,37 +504,37 @@
     },
     {
       "id": "HN-ING-11-2026-W03-present-perfect-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "I didn't go to the concert, ___ because I had no money then.",
+      "context": "A negative statement about a period in the past that has closed.",
       "options": [
         {
-          "letter": "B",
-          "text": "layover",
+          "letter": "D",
+          "text": "because",
           "is_correct": true,
-          "feedback": "Correct! A 'layover' is a period of rest or waiting between two further stages of a journey."
+          "feedback": "Correct! Because introduces the reason for a negative past statement."
         },
         {
           "letter": "A",
-          "text": "stopover",
+          "text": "although",
           "is_correct": false,
-          "feedback": "'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey."
+          "feedback": "Although would contrast two facts without giving the reason, so the causal link is lost."
+        },
+        {
+          "letter": "B",
+          "text": "so",
+          "is_correct": false,
+          "feedback": "So gives a result, and the sentence is explaining a cause rather than a consequence."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "unless",
           "is_correct": false,
-          "feedback": "a 'transfer' is the change from one vehicle or flight to another, not the pause itself."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "'transit' means the action of passing through a place, with no idea of resting between stages."
+          "feedback": "Unless introduces a condition, and no condition is being proposed here."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "A negative past statement often takes because to explain the cause. The reason for not going is given directly, and a contrast would need although or however.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -549,40 +549,40 @@
     },
     {
       "id": "HN-ING-11-2026-W03-present-perfect-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "They ___ in the same town all their lives, and they are not planning to leave.",
+      "context": "The form of the present perfect with an irregular verb.",
       "options": [
         {
           "letter": "A",
-          "text": "currency",
+          "text": "have lived",
           "is_correct": true,
-          "feedback": "Correct! 'Currency' is the money system in general use in a particular country."
+          "feedback": "Correct! 'Live' takes lived in the past participle, so the correct form is have lived."
         },
         {
           "letter": "B",
-          "text": "coin",
+          "text": "have livied",
           "is_correct": false,
-          "feedback": "a 'coin' is one single piece of money, not the whole system used in the country."
+          "feedback": "The spelling is wrong: the past participle of live is lived, with no extra i."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "have live",
           "is_correct": false,
-          "feedback": "a 'banknote' is one single paper note of that system, not the system itself."
+          "feedback": "After have the verb must be a past participle, and the base form live does not work here."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "are living",
           "is_correct": false,
-          "feedback": "'cash' means money in coins and notes in general, not the specific monetary system of a country."
+          "feedback": "A present continuous with all their lives is possible for a temporary arrangement, but it loses the open duration."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "Regular verbs add -ed to the participle, and live simply doubles the final e. All their lives is the open period that points to the present perfect.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W03-present-perfect-001-MASTERY-bundle",
       "periodo": 3,
@@ -594,40 +594,40 @@
     },
     {
       "id": "HN-ING-11-2026-W03-present-perfect-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Have you ___ the invitation from the mayor yet?",
+      "context": "The sentence needs the participle, not the past simple.",
       "options": [
         {
-          "letter": "D",
-          "text": "guidebook",
+          "letter": "B",
+          "text": "received",
           "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists."
+          "feedback": "Correct! 'Receive' is a regular verb and its past participle is received."
         },
         {
           "letter": "A",
-          "text": "map",
+          "text": "receivid",
           "is_correct": false,
-          "feedback": "a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information."
-        },
-        {
-          "letter": "B",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "a 'dictionary' gives the meaning of words, not details about a destination for travellers."
+          "feedback": "That is not a word in English; the participle of receive is received."
         },
         {
           "letter": "C",
-          "text": "encyclopedia",
+          "text": "receiving",
           "is_correct": false,
-          "feedback": "an encyclopedia covers all branches of knowledge rather than one particular place for visitors."
+          "feedback": "The -ing form belongs to continuous tenses, not to the present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "receives",
+          "is_correct": false,
+          "feedback": "Receives is the third person singular present form and cannot follow have."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Regular verbs form the participle with -ed, and the spelling of receive keeps the e. What matters is that the word after have is a participle, not a base form.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W03-present-perfect-001-MASTERY-bundle",
       "periodo": 3,
@@ -639,37 +639,37 @@
     },
     {
       "id": "HN-ING-11-2026-W03-present-perfect-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "I ___ never ___ such a long exam in my life.",
+      "context": "The state began in the past and still holds.",
       "options": [
         {
           "letter": "C",
-          "text": "backpack",
+          "text": "have ... sat",
           "is_correct": true,
-          "feedback": "Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back."
+          "feedback": "Correct! Never and in my life both point to the present perfect, and sit has the irregular participle sat."
         },
         {
           "letter": "A",
-          "text": "suitcase",
+          "text": "did ... sit",
           "is_correct": false,
-          "feedback": "a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps."
+          "feedback": "Did is for a definite past moment, while in my life covers all of the past up to now."
         },
         {
           "letter": "B",
-          "text": "briefcase",
+          "text": "have ... sitted",
           "is_correct": false,
-          "feedback": "a 'briefcase' is a case for documents and a laptop that is carried in the hand."
+          "feedback": "Sitted is not the participle; the correct irregular participle of sit is sat."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "am ... sitting",
           "is_correct": false,
-          "feedback": "a 'handbag' is a small bag held in the hand, not carried on the back."
+          "feedback": "A present continuous would describe a current action and cannot cover the whole life."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "Never and in my life are present perfect markers, and the participle of sit is sat. Both halves of the sentence work together to close the period at now.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -684,40 +684,40 @@
     },
     {
       "id": "HN-ING-11-2026-W03-present-perfect-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "They ___ in La Paz since 2010, and they still go there every year.",
+      "context": "A state that is still true, expressed with a stative verb.",
       "options": [
         {
-          "letter": "C",
-          "text": "overseas",
+          "letter": "D",
+          "text": "have lived",
           "is_correct": true,
-          "feedback": "Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea."
+          "feedback": "Correct! Since 2010 with a state that continues is expressed with the present perfect."
         },
         {
           "letter": "A",
-          "text": "domestic",
+          "text": "lived",
           "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
+          "feedback": "The past simple would suggest they no longer live there, and the since phrase rules that out."
         },
         {
           "letter": "B",
-          "text": "local",
+          "text": "are living",
           "is_correct": false,
-          "feedback": "'local' means belonging to the area where you already are, again the opposite meaning."
+          "feedback": "A present continuous would suggest the arrangement is temporary or not permanent."
         },
         {
-          "letter": "D",
-          "text": "national",
+          "letter": "C",
+          "text": "had lived",
           "is_correct": false,
-          "feedback": "'national' refers to the nation as a whole, but it does not mean being abroad."
+          "feedback": "The past perfect would need a past point to look back from, and since 2010 is not that."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Since plus a year is a present perfect marker, and the second clause confirms that the state continues. The two clauses together rule out every past tense.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W03-present-perfect-001-MASTERY-bundle",
       "periodo": 3,
@@ -729,40 +729,40 @@
     },
     {
       "id": "HN-ING-11-2026-W03-present-perfect-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The committee ___ the budget on 5 March and announced it the same evening.",
+      "context": "The action was performed on a date and there is no present relevance.",
       "options": [
         {
-          "letter": "C",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time."
-        },
-        {
           "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "an 'expense' is a single cost; a budget gathers all income and spending over a period."
+          "text": "approved",
+          "is_correct": true,
+          "feedback": "Correct! The date closes the action in the past, so the past simple is correct."
         },
         {
           "letter": "B",
-          "text": "cost",
+          "text": "has approved",
           "is_correct": false,
-          "feedback": "'cost' is the amount paid for one thing, not an estimate for a whole period."
+          "feedback": "The present perfect cannot be used with a finished past date such as 5 March."
+        },
+        {
+          "letter": "C",
+          "text": "approves",
+          "is_correct": false,
+          "feedback": "The present simple would place the approval in the present, which the date denies."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "was approving",
           "is_correct": false,
-          "feedback": "'price' is the figure written on a product, not a plan of income and expenditure."
+          "feedback": "A past continuous would suggest the approval was still in progress, which it was not."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "A",
+      "explanation": "A precise date is a finished past time. The present perfect is reserved for actions whose present relevance is being reported, and none is reported here.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W03-present-perfect-001-MASTERY-bundle",
       "periodo": 3,
@@ -774,40 +774,40 @@
     },
     {
       "id": "HN-ING-11-2026-W03-present-perfect-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "___ you ___ anything to eat since breakfast?",
+      "context": "A short unfinished period, expressed with a countable verb.",
       "options": [
         {
           "letter": "B",
-          "text": "insurance",
+          "text": "Have ... had",
           "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium."
+          "feedback": "Correct! Since breakfast starts an open period, and the participle of have is had."
         },
         {
           "letter": "A",
-          "text": "warranty",
+          "text": "Did ... have",
           "is_correct": false,
-          "feedback": "a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only."
+          "feedback": "Did is not used with since, because since keeps the period reaching the present."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "Have ... having",
           "is_correct": false,
-          "feedback": "a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement."
+          "feedback": "After have the verb must be a participle, and having is the -ing form."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "Are ... having",
           "is_correct": false,
-          "feedback": "a 'policy' is the written document of the contract, not the practice of insuring itself."
+          "feedback": "A present continuous question would ask about the moment of speaking, not the period since breakfast."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "explanation": "Since plus a meal or a moment of the day opens a period that is still open at the moment of speaking. The countable verb take therefore appears in the present perfect with had.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W03-present-perfect-001-MASTERY-bundle",
       "periodo": 3,
@@ -819,40 +819,40 @@
     },
     {
       "id": "HN-ING-11-2026-W03-present-perfect-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The delegation ___ at the airport; the officials are waiting outside.",
+      "context": "The person has arrived and the arrival matters now.",
       "options": [
         {
-          "letter": "B",
-          "text": "vaccination",
+          "letter": "C",
+          "text": "has arrived",
           "is_correct": true,
-          "feedback": "Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease."
+          "feedback": "Correct! The waiting officials show the arrival is complete and relevant now."
         },
         {
           "letter": "A",
-          "text": "medication",
+          "text": "arrived",
           "is_correct": false,
-          "feedback": "'medication' treats the symptoms of a disease; it does not create immunity against it."
+          "feedback": "The past simple would leave the present moment open, and the officials waiting outside closes it."
         },
         {
-          "letter": "C",
-          "text": "prescription",
+          "letter": "B",
+          "text": "is arriving",
           "is_correct": false,
-          "feedback": "a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself."
+          "feedback": "A present continuous would suggest the plane is still on its way, not that the arrival is complete."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "will arrive",
           "is_correct": false,
-          "feedback": "an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease."
+          "feedback": "A future form contradicts the officials already waiting for the delegation."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "C",
+      "explanation": "The present perfect reports a completed arrival whose consequence is happening now. The second clause is the present evidence that the tense must reach up to now.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W03-present-perfect-001-MASTERY-bundle",
       "periodo": 3,
@@ -864,40 +864,40 @@
     },
     {
       "id": "HN-ING-11-2026-W03-present-perfect-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "She ___ the report, ___ she has read every article twice.",
+      "context": "A negative sentence contrasting two activities in the same period.",
       "options": [
         {
-          "letter": "A",
-          "text": "jet lag",
+          "letter": "D",
+          "text": "has not finished ... but",
           "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones."
+          "feedback": "Correct! But contrasts the unfinished report with the completed reading, both inside the present period."
+        },
+        {
+          "letter": "A",
+          "text": "did not finish ... so",
+          "is_correct": false,
+          "feedback": "Did places the actions in a finished past moment, and so would give a result rather than a contrast."
         },
         {
           "letter": "B",
-          "text": "fatigue",
+          "text": "has not finished ... because",
           "is_correct": false,
-          "feedback": "'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones."
+          "feedback": "Because gives a reason, and the second clause is not the reason why the report is unfinished."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "was not finishing ... although",
           "is_correct": false,
-          "feedback": "'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones."
-        },
-        {
-          "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight."
+          "feedback": "A past continuous would place the first action in a past scene that the present perfect reading contradicts."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "Both activities belong to the present period, so both need the present perfect, and but marks the contrast. Choosing the connector changes the meaning of the whole sentence.",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W03-present-perfect-001-MASTERY-bundle",
       "periodo": 3,

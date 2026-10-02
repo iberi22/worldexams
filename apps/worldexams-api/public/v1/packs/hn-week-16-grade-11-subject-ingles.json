@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "My sister, ___ lives in Spain, is visiting us next week.",
+      "context": "A non-defining clause, which takes a comma and never that.",
       "options": [
         {
-          "letter": "B",
-          "text": "accommodation",
+          "letter": "A",
+          "text": "who",
           "is_correct": true,
-          "feedback": "Correct! 'Accommodation' is the word for a place where you live or stay temporarily while you are away from home."
+          "feedback": "Correct! A non-defining clause uses who for a person and is set off by commas."
         },
         {
-          "letter": "A",
-          "text": "transportation",
+          "letter": "B",
+          "text": "that",
           "is_correct": false,
-          "feedback": "Wrong. 'Transportation' names the way you travel, such as buses, trains or planes, not the place where you stay."
+          "feedback": "That is not used in a non-defining clause, because a restrictive meaning is what that always carries."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "which",
           "is_correct": false,
-          "feedback": "Wrong. 'Entertainment' is the activity of enjoying shows, films or games, not a place where you sleep."
+          "feedback": "Which refers to things, and the antecedent is my sister."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "what",
           "is_correct": false,
-          "feedback": "Wrong. 'Currency' is the money used in a country, which has nothing to do with lodging."
+          "feedback": "What cannot be used with a preceding noun as an antecedent."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "A non-defining clause adds extra information about an already identified person or thing. It is separated by commas and uses who, whom, whose or which, never that.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle",
       "periodo": 16,
@@ -54,40 +54,40 @@
     },
     {
       "id": "HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Maria, ___ brother works in Madrid, is a dentist.",
+      "context": "A non-defining clause with a possessive pronoun.",
       "options": [
         {
           "letter": "B",
-          "text": "itinerary",
+          "text": "whose",
           "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is the planned route of a journey together with the places and times along the way."
+          "feedback": "Correct! Whose expresses the relationship between Maria and her brother inside a non-defining clause."
         },
         {
           "letter": "A",
-          "text": "baggage",
+          "text": "who",
           "is_correct": false,
-          "feedback": "Wrong. 'Baggage' is the suitcases and bags themselves, not the plan of the trip."
+          "feedback": "Who would be the subject of the clause, but the clause has no verb of its own."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "that",
           "is_correct": false,
-          "feedback": "Wrong. A 'destination' is only the place where the journey ends, while an itinerary lists the whole route."
+          "feedback": "That cannot introduce a non-defining clause and would wrongly restrict the name Maria."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "which",
           "is_correct": false,
-          "feedback": "Wrong. A 'passport' is the travel document that proves who you are, not the plan of the journey."
+          "feedback": "Which cannot refer to a person, and the antecedent is Maria."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "explanation": "Whose works in both defining and non-defining clauses. In the non-defining form it simply adds a piece of extra information about the person named.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle",
       "periodo": 16,
@@ -99,40 +99,40 @@
     },
     {
       "id": "HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The novel, ___ was published in 1994, is taught in schools.",
+      "context": "A non-defining clause about a thing.",
       "options": [
         {
-          "letter": "B",
-          "text": "destination",
+          "letter": "C",
+          "text": "which",
           "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place someone or something is going to or being sent to."
+          "feedback": "Correct! Which is the pronoun used for things in a non-defining clause, with the comma marking it as extra information."
         },
         {
           "letter": "A",
-          "text": "departure",
+          "text": "that",
           "is_correct": false,
-          "feedback": "Wrong. A 'departure' is the act of leaving and the place you leave from, the opposite end of the trip."
+          "feedback": "That is reserved for defining clauses and would wrongly restrict which novel is meant."
         },
         {
-          "letter": "C",
-          "text": "arrival",
+          "letter": "B",
+          "text": "what",
           "is_correct": false,
-          "feedback": "Wrong. An 'arrival' is the event of getting there, not the place that is being travelled to."
+          "feedback": "What cannot be preceded by a noun antecedent."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "who",
           "is_correct": false,
-          "feedback": "Wrong. A 'journey' is the whole trip from start to finish, not the place at the end of it."
+          "feedback": "Who refers to people, and the antecedent is the novel."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "The comma is what makes a clause non-defining. Which is the standard pronoun for a thing in that position, and that is excluded.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle",
       "periodo": 16,
@@ -144,40 +144,40 @@
     },
     {
       "id": "HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "She passed the exam, ___ surprised everybody in the room.",
+      "context": "A non-defining clause added to a whole clause rather than a noun.",
       "options": [
         {
-          "letter": "B",
-          "text": "luggage",
+          "letter": "D",
+          "text": "which",
           "is_correct": true,
-          "feedback": "Correct! 'Luggage' is the collective word for the suitcases and bags you pack your belongings in."
+          "feedback": "Correct! Which can stand for an entire clause in a non-defining position, and the comma marks the extra comment."
         },
         {
           "letter": "A",
-          "text": "ticket",
+          "text": "it",
           "is_correct": false,
-          "feedback": "Wrong. A 'ticket' is the document that pays for and authorises a journey, not the bag you pack."
+          "feedback": "It has no antecedent, and the whole preceding clause has not been turned into a noun."
+        },
+        {
+          "letter": "B",
+          "text": "this",
+          "is_correct": false,
+          "feedback": "This cannot introduce a relative clause, and it has no clear antecedent here."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "that",
           "is_correct": false,
-          "feedback": "Wrong. A 'flight' is the journey by plane itself, not the bags carried on it."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Wrong. A 'reservation' is the booking you make for a seat or a room, not the baggage itself."
+          "feedback": "That is used for defining clauses and would restrict the meaning in a way the comma denies."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "A non-defining which can refer back to a whole clause rather than to a single noun. It then adds a comment about the entire statement.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle",
       "periodo": 16,
@@ -189,40 +189,40 @@
     },
     {
       "id": "HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The teacher, ___ we spoke to yesterday, is leaving the school.",
+      "context": "A non-defining clause with a preposition at the end.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
+          "text": "whom",
           "is_correct": true,
-          "feedback": "Correct! A 'passenger' is anyone travelling in a vehicle who is not the one driving or piloting it."
+          "feedback": "Correct! The formal object pronoun is the right form after a preposition that closes a non-defining clause."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "who",
           "is_correct": false,
-          "feedback": "Wrong. A 'pedestrian' travels on foot, so they are not aboard any conveyance at all."
+          "feedback": "Who would leave the clause without an object, because spoke needs one before to."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "to who",
           "is_correct": false,
-          "feedback": "Wrong. A 'commuter' is defined by making the same trip regularly to work or school, not by being a passenger in general."
+          "feedback": "In English the preposition stays at the end of the clause, and to who is not a possible order."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "that",
           "is_correct": false,
-          "feedback": "Wrong. A 'tourist' is defined by travelling for pleasure, not simply by riding in a vehicle."
+          "feedback": "That is excluded from non-defining clauses altogether."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "explanation": "When a non-defining clause ends in a preposition, whom is the correct pronoun in formal English. In everyday speech the clause is often avoided altogether.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle",
       "periodo": 16,
@@ -234,40 +234,40 @@
     },
     {
       "id": "HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Dr. Reyes, ___ I met at the conference, is an expert on volcanoes.",
+      "context": "A non-defining clause about a person, with the pronoun as object.",
       "options": [
         {
-          "letter": "D",
-          "text": "customs",
+          "letter": "B",
+          "text": "whom",
           "is_correct": true,
-          "feedback": "Correct! 'Customs' is the office where officials check the goods and the people coming in from abroad."
+          "feedback": "Correct! The pronoun is the object of met, and the formal form is whom."
         },
         {
           "letter": "A",
-          "text": "security",
+          "text": "who",
           "is_correct": false,
-          "feedback": "Wrong. 'Security' is the police or staff who keep order, while customs staff collect duties on goods."
-        },
-        {
-          "letter": "B",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "Wrong. A 'terminal' is the building where you arrive or depart, not the office that checks imports."
+          "feedback": "Who cannot be an object, and met needs an object in this sentence."
         },
         {
           "letter": "C",
-          "text": "gate",
+          "text": "which",
           "is_correct": false,
-          "feedback": "Wrong. A 'gate' is the door you pass through to reach the plane; customs is the check itself."
+          "feedback": "Which cannot refer to a person."
+        },
+        {
+          "letter": "D",
+          "text": "that",
+          "is_correct": false,
+          "feedback": "That is not available in a non-defining clause, and whom is the correct register here."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "Whom is the object form of who and is used in formal English, particularly after a preposition. In everyday speech who is often used loosely, but that is not correct for an object.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle",
       "periodo": 16,
@@ -279,37 +279,37 @@
     },
     {
       "id": "HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The results, ___ by the review board, will be published in June.",
+      "context": "A non-defining clause with a past participle, which is not possible with the comma form.",
       "options": [
         {
-          "letter": "A",
-          "text": "boarding pass",
+          "letter": "C",
+          "text": "approved",
           "is_correct": true,
-          "feedback": "Correct! A 'boarding pass' is the document the airline hands you at check-in that lets you board the plane."
+          "feedback": "Correct! A non-defining clause is never reduced, so the participle appears with the full pronoun."
+        },
+        {
+          "letter": "A",
+          "text": "that approved",
+          "is_correct": false,
+          "feedback": "A reduced clause drops the pronoun, and that is in any case not used non-definingly."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "which approved",
           "is_correct": false,
-          "feedback": "Wrong. A 'visa' is the official permission a government gives to enter a country, granted before you travel."
-        },
-        {
-          "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Wrong. A 'receipt' only proves that you paid for something; it does not admit you to the aircraft."
+          "feedback": "Which approved would put the results in the subject position of the clause, which is wrong."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "being approved",
           "is_correct": false,
-          "feedback": "Wrong. A 'brochure' is advertising material about destinations, not a travel document for boarding."
+          "feedback": "Being belongs to continuous passives and cannot serve as a reduced relative pronoun here."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "Only defining clauses can be reduced to a participle. A non-defining clause keeps its full structure, because the information it adds is not essential to the noun.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,37 +324,37 @@
     },
     {
       "id": "HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Her parents, ___ in Choluteca, visit her every summer.",
+      "context": "A non-defining clause about a place, formal version.",
       "options": [
         {
-          "letter": "B",
-          "text": "sightseeing",
+          "letter": "D",
+          "text": "live",
           "is_correct": true,
-          "feedback": "Correct! 'Sightseeing' means going round and looking at the famous sights of a place as a visitor."
+          "feedback": "Correct! In everyday English a clause about a place is often written with the verb and no relative pronoun at all."
         },
         {
           "letter": "A",
-          "text": "shopping",
+          "text": "which live",
           "is_correct": false,
-          "feedback": "Wrong. 'Shopping' is buying things in a city, a different activity from visiting its places of interest."
+          "feedback": "Which would refer to a thing rather than to a person, and it is a clumsy solution here."
+        },
+        {
+          "letter": "B",
+          "text": "where",
+          "is_correct": false,
+          "feedback": "Where replaces a place preposition, but the verb live already stands in the clause and does not need one."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "who",
           "is_correct": false,
-          "feedback": "Wrong. 'Hiking' is walking long distances in the countryside on marked trails, not touring the sights of a location."
-        },
-        {
-          "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "Wrong. 'Camping' means staying the night outdoors in a tent, not a day of visiting places of interest."
+          "feedback": "Who would need a verb after it, and the verb is already present."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "In non-defining clauses about place or time, English frequently omits the pronoun altogether and just keeps the verb. This is the ordinary conversational pattern.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -369,37 +369,37 @@
     },
     {
       "id": "HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The company, ___ factory is in Choluteca, employs four hundred people.",
+      "context": "A non-defining clause with a possessive pronoun about an organisation.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
+          "text": "whose",
           "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is an object kept afterwards as a reminder of the trip and of the people or places on it."
+          "feedback": "Correct! Whose links the company to the factory as its possessor, and it is the right pronoun here."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "who",
           "is_correct": false,
-          "feedback": "Wrong. A 'gift' is chosen to be given to somebody else, while a souvenir is kept by the traveller."
+          "feedback": "Who would be the subject of a verb, and the clause has no verb of its own."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "that",
           "is_correct": false,
-          "feedback": "Wrong. An 'award' is a distinction given for an achievement, not a keepsake bought on a trip."
+          "feedback": "That is not used in a non-defining clause and would wrongly restrict which company is meant."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "which",
           "is_correct": false,
-          "feedback": "Wrong. A 'prize' is what a competitor wins in a contest; it says nothing about remembering a journey."
+          "feedback": "Which cannot express possession, and the relationship is that of owner to owned."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "explanation": "Whose expresses possession and works with people, places and organisations. The noun it modifies follows it directly, with no article or determiner in between.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -414,37 +414,37 @@
     },
     {
       "id": "HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Who is the author of the book, ___ won the prize?",
+      "context": "A non-defining clause in a question.",
       "options": [
         {
-          "letter": "D",
-          "text": "delay",
+          "letter": "B",
+          "text": "which",
           "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra period of time by which a departure or arrival is postponed."
+          "feedback": "Correct! Which refers back to the whole preceding clause, and the comma marks it as extra information."
         },
         {
           "letter": "A",
-          "text": "cancellation",
+          "text": "that",
           "is_correct": false,
-          "feedback": "Wrong. A 'cancellation' calls the plan off entirely, whereas a delay only postpones it by some hours."
-        },
-        {
-          "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Wrong. 'Departure' is simply the moment of leaving; the lateness is measured separately from it."
+          "feedback": "That cannot be used non-definingly, and it would restrict the noun to one particular book."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "what",
           "is_correct": false,
-          "feedback": "Wrong. An 'arrival' is the moment of getting there, not the amount of time a plan runs late."
+          "feedback": "What cannot be used after a clause has already been completed with its own question word."
+        },
+        {
+          "letter": "D",
+          "text": "it",
+          "is_correct": false,
+          "feedback": "It has no antecedent, because the preceding words form a clause and not a noun."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "A non-defining which can follow a whole clause in a question as well as a statement. The extra information is what the question is really asking about.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -459,37 +459,37 @@
     },
     {
       "id": "HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "My brother, ___ is a lawyer, is visiting us.",
+      "context": "A non-defining clause that could be misunderstood without the comma.",
       "options": [
         {
-          "letter": "B",
-          "text": "check-in",
+          "letter": "C",
+          "text": "who",
           "is_correct": true,
-          "feedback": "Correct! 'Check-in' is when you arrive and register, and the desk records your presence and gives you your pass."
+          "feedback": "Correct! Who is the subject of the clause, and the commas show that the information is extra."
         },
         {
           "letter": "A",
-          "text": "check-out",
+          "text": "what",
           "is_correct": false,
-          "feedback": "Wrong. 'Check-out' is the opposite moment, when you pay and hand back the room key before leaving."
+          "feedback": "What cannot be used with a preceding noun as an antecedent."
         },
         {
-          "letter": "C",
-          "text": "booking",
+          "letter": "B",
+          "text": "whom",
           "is_correct": false,
-          "feedback": "Wrong. A 'booking' is the reservation made earlier, while check-in is the reporting of your arrival."
+          "feedback": "Whom is the object form and would leave the clause without a subject."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "where",
           "is_correct": false,
-          "feedback": "Wrong. A 'reservation' holds a room or a seat for you in advance, not the act of registering on arrival."
+          "feedback": "Where replaces a place preposition, and is a lawyer is not a place."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "A clause about the same person as the main clause is the case where the comma matters most. Without it, the reader might think the two mentions referred to different people.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,37 +504,37 @@
     },
     {
       "id": "HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The car, ___ engine overheated, needed repairs.",
+      "context": "A non-defining clause about a thing with a possessive.",
       "options": [
         {
           "letter": "D",
-          "text": "layover",
+          "text": "whose",
           "is_correct": true,
-          "feedback": "Correct! A 'layover' is the wait between two flights, usually at the connecting airport, before you continue."
+          "feedback": "Correct! The engine belongs to the car, and whose is the pronoun that expresses that link."
         },
         {
           "letter": "A",
-          "text": "stopover",
+          "text": "which",
           "is_correct": false,
-          "feedback": "Wrong. A 'stopover' is a deliberate break in a long journey to spend extra time at a place, not a wait between flights."
+          "feedback": "Which would refer to a thing, and the antecedent the car is a thing, but it cannot express the possessive relationship."
         },
         {
           "letter": "B",
-          "text": "transfer",
+          "text": "what",
           "is_correct": false,
-          "feedback": "Wrong. A 'transfer' is the flight or vehicle that moves you from one place to another, not the waiting itself."
+          "feedback": "What cannot be preceded by a noun antecedent."
         },
         {
           "letter": "C",
-          "text": "transit",
+          "text": "who",
           "is_correct": false,
-          "feedback": "Wrong. 'Transit' names the general passing through an area or a country, not a specific rest between stages."
+          "feedback": "Who refers to people, and the antecedent is the car."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "Whose applies to inanimate as well as animate antecedents. The car whose engine overheated shows ownership rather than identity.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -549,40 +549,40 @@
     },
     {
       "id": "HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The director, ___ can pay for the trip, refused to sign it.",
+      "context": "A non-defining clause with a modal that does not change.",
       "options": [
         {
-          "letter": "D",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'Currency' is the whole monetary system a country uses, not any single object."
-        },
-        {
           "letter": "A",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Wrong. A 'coin' is one round metal piece of money, while the definition covers the entire money system."
+          "text": "can",
+          "is_correct": true,
+          "feedback": "Correct! Modal verbs keep their form in any relative clause, defining or not."
         },
         {
           "letter": "B",
-          "text": "banknote",
+          "text": "could",
           "is_correct": false,
-          "feedback": "Wrong. A 'banknote' is a single paper note, while the definition is about the money system of a whole country."
+          "feedback": "Could would be the reported form, and this clause is not inside a reported statement."
         },
         {
           "letter": "C",
-          "text": "cash",
+          "text": "will",
           "is_correct": false,
-          "feedback": "Wrong. 'Cash' is the money in coins and notes that you are holding, regardless of any country's system."
+          "feedback": "A future form would change the meaning from present ability to a future possibility."
+        },
+        {
+          "letter": "D",
+          "text": "must",
+          "is_correct": false,
+          "feedback": "Must would express a deduction or an obligation, and the original is a plain claim about ability."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "A",
+      "explanation": "A modal is the same whatever the clause does. A non-defining clause with a modal keeps the modal exactly as it appears in the direct statement.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle",
       "periodo": 16,
@@ -594,40 +594,40 @@
     },
     {
       "id": "HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The witnesses, ___ the police, gave a detailed description.",
+      "context": "A non-defining clause in a sentence with a past perfect.",
       "options": [
         {
-          "letter": "D",
-          "text": "guidebook",
+          "letter": "B",
+          "text": "whom",
           "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book written about a place to help visitors find their way around it."
+          "feedback": "Correct! The formal object pronoun after a comma is the correct form for a non-defining object clause."
         },
         {
           "letter": "A",
-          "text": "map",
+          "text": "which",
           "is_correct": false,
-          "feedback": "Wrong. A 'map' is a single drawing of an area, not the book of practical information about the place."
-        },
-        {
-          "letter": "B",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "Wrong. A 'dictionary' lists words and their meanings, not practical details about a destination."
+          "feedback": "Which refers to things, and the antecedent is the witnesses."
         },
         {
           "letter": "C",
-          "text": "encyclopedia",
+          "text": "who",
           "is_correct": false,
-          "feedback": "Wrong. An 'encyclopedia' covers all knowledge on a subject, while a guidebook is written about one specific place."
+          "feedback": "Who cannot be an object, and the preposition the police needs a direct object."
+        },
+        {
+          "letter": "D",
+          "text": "that",
+          "is_correct": false,
+          "feedback": "That is excluded from non-defining clauses."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "One of the clearest uses of whom is a non-defining clause ending in a preposition, because there is no other way to express the object formally.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle",
       "periodo": 16,
@@ -639,40 +639,40 @@
     },
     {
       "id": "HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "San Pedro Sula, ___ I was born, has grown very fast.",
+      "context": "A non-defining clause attached to a place name.",
       "options": [
         {
-          "letter": "B",
-          "text": "backpack",
+          "letter": "C",
+          "text": "where",
           "is_correct": true,
-          "feedback": "Correct! A 'backpack' has two shoulder straps and is designed to be carried on your back."
+          "feedback": "Correct! Where replaces in which and the clause then has its own subject I and verb was born."
         },
         {
           "letter": "A",
-          "text": "suitcase",
+          "text": "which",
           "is_correct": false,
-          "feedback": "Wrong. A 'suitcase' is a flat box with a handle that you pull along beside you."
+          "feedback": "Which would refer to a thing and cannot replace a place preposition with a full verb clause."
         },
         {
-          "letter": "C",
-          "text": "briefcase",
+          "letter": "B",
+          "text": "that",
           "is_correct": false,
-          "feedback": "Wrong. A 'briefcase' is a stiff case for papers that you carry in your hand at work."
+          "feedback": "That cannot replace a preposition, and the clause has its own verb."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "what",
           "is_correct": false,
-          "feedback": "Wrong. A 'handbag' is held in the hand and has no straps at all."
+          "feedback": "What cannot be used with a proper noun as an antecedent."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "In a non-defining clause about a place, where is the natural choice because the clause has its own subject and verb. In which is the formal alternative.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle",
       "periodo": 16,
@@ -684,40 +684,40 @@
     },
     {
       "id": "HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "He missed the last bus, ___ meant he had to walk home.",
+      "context": "A non-defining clause about a whole clause with a negative.",
       "options": [
         {
-          "letter": "C",
-          "text": "overseas",
+          "letter": "D",
+          "text": "which",
           "is_correct": true,
-          "feedback": "Correct! 'Overseas' means to or in another country reached by crossing the sea."
+          "feedback": "Correct! The non-defining which refers to the whole clause and the comma marks the consequence as extra."
         },
         {
           "letter": "A",
-          "text": "domestic",
+          "text": "it",
           "is_correct": false,
-          "feedback": "Wrong. 'Domestic' means inside the borders of your own country, which is the opposite of overseas."
+          "feedback": "It has no antecedent, because the preceding words are a clause rather than a noun."
         },
         {
           "letter": "B",
-          "text": "local",
+          "text": "that",
           "is_correct": false,
-          "feedback": "Wrong. 'Local' means in a particular small area or town, which may well be inside your own country."
+          "feedback": "That would restrict the bus and is not available in a non-defining clause."
         },
         {
-          "letter": "D",
-          "text": "national",
+          "letter": "C",
+          "text": "this",
           "is_correct": false,
-          "feedback": "Wrong. 'National' means concerning the nation as a whole, not travelling away from it across the sea."
+          "feedback": "This cannot introduce a relative clause at all."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "A whole-clause which is a standard way of adding a comment. The comma is essential, because without it the reader would expect a noun to follow.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle",
       "periodo": 16,
@@ -729,40 +729,40 @@
     },
     {
       "id": "HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The university, ___ students live on campus, has a new library.",
+      "context": "A non-defining clause with a possessive pronoun about a university.",
       "options": [
         {
           "letter": "A",
-          "text": "budget",
+          "text": "whose",
           "is_correct": true,
-          "feedback": "Correct! A 'budget' estimates planned income and spending over a set period such as a month or a year."
+          "feedback": "Correct! Whose links the university to its students, and it works with organisations."
         },
         {
           "letter": "B",
-          "text": "expense",
+          "text": "which",
           "is_correct": false,
-          "feedback": "Wrong. An 'expense' is a single outgoing payment, not a plan covering a whole period."
+          "feedback": "Which could refer to the university, but it cannot connect the university to its students in a possessive way."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "who",
           "is_correct": false,
-          "feedback": "Wrong. The 'cost' is the price of one thing or service, with no timeframe attached to it."
+          "feedback": "Who refers to people, and the antecedent is the university."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "what",
           "is_correct": false,
-          "feedback": "Wrong. A 'price' is the amount a single item sells for, not an estimate of a period's finances."
+          "feedback": "What cannot be used after a noun antecedent."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "explanation": "Whose is not limited to people. Institutions, objects and places all take whose when the relationship is one of belonging or ownership.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle",
       "periodo": 16,
@@ -774,40 +774,40 @@
     },
     {
       "id": "HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"She lives in France, ___ speaks four languages,\" he said. He said that she lived in France, ___ spoke four languages.",
+      "context": "A non-defining clause reported in the past.",
       "options": [
         {
           "letter": "B",
-          "text": "insurance",
+          "text": "lived ... spoke",
           "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement where a company pays compensation for a specified loss in exchange for a premium."
+          "feedback": "Correct! Both present simple verbs backshift to the past simple, and the non-defining clause keeps its pronoun."
         },
         {
           "letter": "A",
-          "text": "warranty",
+          "text": "lives ... speaks",
           "is_correct": false,
-          "feedback": "Wrong. A 'warranty' covers a defective product for a limited time and is given by the maker, not for illness or death."
+          "feedback": "Keeping the present would require a present reporting verb, and he said is in the past."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "had lived ... had spoken",
           "is_correct": false,
-          "feedback": "Wrong. A 'guarantee' is a promise about the quality of a product or service, with no payment of a premium."
+          "feedback": "A past perfect would backshift twice, and present simple only takes one step back."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "lives ... had spoken",
           "is_correct": false,
-          "feedback": "Wrong. A 'policy' is the written document that records an insurance contract, not the practice of compensation itself."
+          "feedback": "The first clause is not shifted at all, which leaves the two clauses in inconsistent tenses."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "explanation": "Backshift applies inside a non-defining clause exactly as it does in the main one. Each verb moves one step back independently of the other.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle",
       "periodo": 16,
@@ -819,40 +819,40 @@
     },
     {
       "id": "HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The report, ___ three committees reviewed, will be published next week.",
+      "context": "A non-defining clause about a thing with a verb of its own.",
       "options": [
         {
-          "letter": "A",
-          "text": "vaccination",
+          "letter": "C",
+          "text": "which",
           "is_correct": true,
-          "feedback": "Correct! 'Vaccination' is the administration of a vaccine that makes the immune system ready against a disease."
+          "feedback": "Correct! Which is the subject of the clause, which has its own passive verb and agent."
+        },
+        {
+          "letter": "A",
+          "text": "that",
+          "is_correct": false,
+          "feedback": "That is not used in a non-defining clause and would wrongly restrict the report."
         },
         {
           "letter": "B",
-          "text": "medication",
+          "text": "whom",
           "is_correct": false,
-          "feedback": "Wrong. 'Medication' treats the symptoms of an illness you already have; it does not create immunity beforehand."
-        },
-        {
-          "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Wrong. A 'prescription' is the doctor's written order for a medicine, not the vaccine itself."
+          "feedback": "Whom is the object form, and three committees is the subject of the clause here."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "whose",
           "is_correct": false,
-          "feedback": "Wrong. An 'infection' is the invasion of the body by a pathogen, which is the opposite of preventing it."
+          "feedback": "Whose expresses possession, and the relationship here is that of agent to action."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "C",
+      "explanation": "A non-defining clause can hold a complete passive structure of its own, with its own subject, verb and by phrase.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle",
       "periodo": 16,
@@ -864,40 +864,40 @@
     },
     {
       "id": "HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "My aunt, ___ is a doctor, ___ teaches at the local clinic, is coming to visit.",
+      "context": "Two non-defining clauses attached to the same noun.",
       "options": [
         {
-          "letter": "A",
-          "text": "jet lag",
+          "letter": "D",
+          "text": "who ... who",
           "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the tiredness and disturbed body clock caused by crossing several time zones in a flight."
+          "feedback": "Correct! Each non-defining clause repeats the full pronoun, and each is separated by its own comma."
+        },
+        {
+          "letter": "A",
+          "text": "who ... that",
+          "is_correct": false,
+          "feedback": "That cannot introduce a non-defining clause, and the mixed usage would break the parallel structure."
         },
         {
           "letter": "B",
-          "text": "fatigue",
+          "text": "which ... who",
           "is_correct": false,
-          "feedback": "Wrong. 'Fatigue' is general tiredness from any cause, such as hard work, not specifically from time zones."
+          "feedback": "Which cannot refer to the person who is the antecedent of the first clause."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "who ... and who",
           "is_correct": false,
-          "feedback": "Wrong. 'Exhaustion' is extreme tiredness from physical effort or illness, not from a change of time zone."
-        },
-        {
-          "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Wrong. 'Insomnia' is simply difficulty sleeping, which can come from many causes unrelated to flying."
+          "feedback": "Joining the clauses with and would produce a different structure, and the two commas would no longer mark separate clauses."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "Each non-defining clause is independent and repeats its own pronoun. The commas around them tell the reader where one extra piece of information ends and the next begins.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle",
       "periodo": 16,

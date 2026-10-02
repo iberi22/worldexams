@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence contains a present participle clause?",
+      "context": "Sofia, a student in Heredia, waits for the bus to campus.",
       "options": [
         {
-          "letter": "C",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "'accommodation' is the word for a place where you live or stay, including on holiday."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "'transportation' means the way you travel, such as buses or planes, not where you stay."
+          "text": "Waiting for the bus, Sofia checked her phone again.",
+          "is_correct": true,
+          "feedback": "Correct. 'Waiting for the bus' is a present participle phrase with an understood subject that shares Sofia with the main clause."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "The bus waited while Sofia checked her phone again.",
           "is_correct": false,
-          "feedback": "'entertainment' is the activity of enjoying shows, films or games, not a place to live."
+          "feedback": "This uses 'while' to build a full subordinate clause, not an -ing clause, so no participle is present."
+        },
+        {
+          "letter": "C",
+          "text": "Sofia was waited for the bus at the corner.",
+          "is_correct": false,
+          "feedback": "Here 'was waited for' is a broken passive; the subject Sofia cannot be waited for, she waits for the bus."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "Sofia checked her phone again and waited for the bus.",
           "is_correct": false,
-          "feedback": "'currency' is the money of a country, such as the colon; a place to stay is not money."
+          "feedback": "Two finite verbs joined by 'and' form a compound clause, and no participle phrase appears here."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "A present participle clause is a verb group beginning with -ing that has its own understood subject. It normally shares the subject of the main clause and adds a circumstance, not a second action.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -54,41 +54,41 @@
     },
     {
       "id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "In 'Counting on her fingers, she explained the currents', what does the -ing clause do?",
+      "context": "A student in Alajuela explains ocean currents at a school fair.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "'itinerary' is a detailed plan of a journey, listing the route and the stops along the way."
+          "text": "It tells when she started the explanation.",
+          "is_correct": false,
+          "feedback": "An -ing phrase placed before the main clause shows something simultaneous with it, not the moment it began."
         },
         {
           "letter": "B",
-          "text": "baggage",
+          "text": "It explains why she needed a whiteboard.",
           "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "feedback": "No cause is stated anywhere in the sentence, so the phrase cannot be the reason a whiteboard was needed."
         },
         {
           "letter": "C",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "'destination' is only the place you are going to; the plan of the route is the itinerary."
+          "text": "It adds a detail about how she explained the currents.",
+          "is_correct": true,
+          "feedback": "Correct. A fronted -ing phrase with the same subject describes the manner or accompanying action of the main verb."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "It identifies the people she was explaining them to.",
           "is_correct": false,
-          "feedback": "'passport' is the travel document you show at the border, not the plan of a journey."
+          "feedback": "The listeners are never named, and the phrase attaches to 'she' as its subject rather than to any people."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "When an -ing clause stands before the main clause, its implied subject is the subject of the main verb. It then adds manner, accompaniment or cause, and it never introduces a time.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
+      "bloom": "Understand",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -99,41 +99,41 @@
     },
     {
       "id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "In 'the photographs taken in Cartago', the participle phrase is what?",
+      "context": "A photo exhibit shows restored images of colonial Cartago buildings.",
       "options": [
         {
-          "letter": "B",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "'destination' names the place a person or thing is going or being sent to."
+          "letter": "A",
+          "text": "an active clause meaning the photographs took something",
+          "is_correct": false,
+          "feedback": "'Taken' is past participle form, so it is passive; the photographs cannot take anything in this context."
         },
         {
-          "letter": "A",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is the action of leaving, not the place you leave for."
+          "letter": "B",
+          "text": "a reduced relative clause with passive meaning",
+          "is_correct": true,
+          "feedback": "Correct. A past participle after a noun is a reduced relative clause in the passive: someone else took the photographs."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "a gerund clause serving as the subject of the sentence",
           "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching a place, not the place itself."
+          "feedback": "The noun 'photographs' is the subject of the sentence, not a gerund phrase, and no -ing form appears at all."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "an adverbial clause of time telling when the photos arrived",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, not the place at the end of it."
+          "feedback": "A reduced relative modifies the noun beside it; it does not give a time, and no time adverb such as 'when' is present."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "explanation": "A past participle placed after a noun is a reduced relative clause in the passive voice. The noun is the object of the participle, so the doer stays unnamed unless a 'by' phrase restores it.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -144,41 +144,41 @@
     },
     {
       "id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which version turns that cause clause into a participle clause?",
+      "context": "Mariana got a good seat at the National Theatre in San Jose because she arrived early.",
       "options": [
         {
-          "letter": "D",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "'luggage' is the collective word for the suitcases and bags you pack for a trip."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "Early arrived, Mariana got a good seat.",
           "is_correct": false,
-          "feedback": "'ticket' is the document you buy that admits you to the journey."
+          "feedback": "'Early' is an adjective, not a participle, and the clause can never start with it in this position."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "Having arrived early, Mariana was given a good seat.",
           "is_correct": false,
-          "feedback": "'flight' is the plane or the scheduled trip itself, not the bags you carry."
+          "feedback": "This perfect participle changes the meaning: she is no longer the one who gets the seat but the one who receives it."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "Arriving to early, Mariana got a good seat.",
           "is_correct": false,
-          "feedback": "'reservation' is the booking you hold for a seat or a room."
+          "feedback": "'Arrive' is intransitive and never takes the preposition 'to', so this prepositional phrase is ungrammatical."
+        },
+        {
+          "letter": "D",
+          "text": "Arriving early, Mariana got a good seat.",
+          "is_correct": true,
+          "feedback": "Correct. The reason clause 'because she arrived early' becomes the -ing clause 'arriving early' with the same subject."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "explanation": "An adverbial clause of cause built with 'because' is often converted into a -ing clause. The subject of the participle must remain the subject of the main verb, and the meaning must stay unchanged.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -189,41 +189,41 @@
     },
     {
       "id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence shows the exams happening before the form is sent?",
+      "context": "Diego in Alajuela finishes two exams and then submits a scholarship form.",
       "options": [
         {
-          "letter": "B",
-          "text": "passenger",
+          "letter": "A",
+          "text": "Having finished both exams, Diego submitted the scholarship form.",
           "is_correct": true,
-          "feedback": "'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew."
+          "feedback": "Correct. 'Having finished' is the perfect participle, so it marks an action completed before the main verb began."
         },
         {
-          "letter": "A",
-          "text": "pedestrian",
+          "letter": "B",
+          "text": "Finishing both exams, Diego has submitted the scholarship form.",
           "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, not on a bus, a train or a plane."
+          "feedback": "A present participle followed by a present perfect wrongly suggests Diego is still sending the form now."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "Being finished both exams, Diego submitted the form.",
           "is_correct": false,
-          "feedback": "'commuter' is someone who travels regularly between home and work, a narrower idea than passenger."
+          "feedback": "'Being finished' makes Diego the thing being finished, which reverses who does the action and is not the meaning."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "Finished both exams, Diego submitted the form.",
           "is_correct": false,
-          "feedback": "'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew."
+          "feedback": "'Finished' on its own is a bare past participle; the action would be read as an absolute phrase with no linked subject."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "The perfect participle 'having' plus past participle places one action strictly before another in time. It is required when the earlier action must be shown as complete before the main clause starts.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -234,41 +234,41 @@
     },
     {
       "id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "In 'Farmers working in the shade talk about the harvest', what type of clause is it?",
+      "context": "A reporter in Puntarenas interviews coffee farmers during the wet season.",
       "options": [
         {
-          "letter": "C",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "'customs' is the office where officials check the goods, the luggage and the travellers entering a country."
-        },
-        {
           "letter": "A",
-          "text": "security",
+          "text": "A participle clause of reason explaining why they talk.",
           "is_correct": false,
-          "feedback": "'security' refers to the staff and the measures that keep the airport safe, not to the goods check."
+          "feedback": "No cause is stated in the sentence, and the phrase describes farmers rather than giving a reason for talking."
         },
         {
           "letter": "B",
-          "text": "terminal",
+          "text": "A reduced relative clause describing which farmers are meant.",
+          "is_correct": true,
+          "feedback": "Correct. The -ing phrase follows the noun 'Farmers' and narrows which farmers are talking, so it is a reduced relative."
+        },
+        {
+          "letter": "C",
+          "text": "An absolute construction with its own subject and verb.",
           "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for and board your flight."
+          "feedback": "An absolute construction stands alone with its own subject; here the phrase is attached to the noun 'Farmers'."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "A gerund clause serving as the subject of 'talk'.",
           "is_correct": false,
-          "feedback": "'gate' is the door you board the plane through, not the place where officials check luggage."
+          "feedback": "A gerund clause would work as the subject, but 'Farmers working in the shade' already fills that subject slot."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "A participle phrase sitting right after a noun modifies that noun and is a reduced relative clause. It narrows the reference of the noun rather than commenting on the verb or standing alone.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -279,41 +279,41 @@
     },
     {
       "id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence wrongly leaves the participle without a subject in the main clause?",
+      "context": "A caption for a photo of the collapse of a road near Cartago.",
       "options": [
         {
-          "letter": "B",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "'boarding pass' is the slip the airline hands over at check-in that lets you board the plane."
+          "letter": "A",
+          "text": "Driving in the rain, the driver saw the landslide ahead.",
+          "is_correct": false,
+          "feedback": "This is correct: the driver is the understood subject of 'Driving' and also the subject of 'saw'."
         },
         {
-          "letter": "A",
-          "text": "visa",
+          "letter": "B",
+          "text": "The landslide, seen from the road, blocked both lanes.",
           "is_correct": false,
-          "feedback": "'visa' is the official permission to enter and stay in a foreign country."
+          "feedback": "This is correct and the phrase is a reduced relative in the passive, so no subject is needed after 'landslide'."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "Hitting the road at dawn, the landslide damaged a bridge.",
           "is_correct": false,
-          "feedback": "'receipt' is the proof of payment for the ticket, not the document that lets you board."
+          "feedback": "Here the landslide, not a person, is doing the hitting, so the understood subject of the participle matches 'landslide'."
         },
         {
           "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "'brochure' is a small booklet with tourist information, not a travel document."
+          "text": "Walking along the road, the landslide looked enormous.",
+          "is_correct": true,
+          "feedback": "Wrong. A landslide cannot walk; the participle dangles because its implied subject does not match the main subject."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "D",
+      "explanation": "A dangling participle appears when the implied subject of an -ing clause has no match in the main clause. Grammar then wrongly assigns the action to an object or an inanimate thing that cannot do it.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -324,41 +324,41 @@
     },
     {
       "id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which 'with' sentence correctly describes what the weather did?",
+      "context": "A cook in Puntarenas describes a stormy night on the coast.",
       "options": [
         {
-          "letter": "B",
-          "text": "sightseeing",
+          "letter": "A",
+          "text": "With the rain pouring down, the fishermen stayed in port.",
           "is_correct": true,
-          "feedback": "'sightseeing' is visiting the places of interest of a location in order to look at them."
+          "feedback": "Correct. The pattern is 'with' plus noun plus -ing, which is an absolute construction adding accompanying circumstance."
         },
         {
-          "letter": "A",
-          "text": "shopping",
+          "letter": "B",
+          "text": "With rain to pour down, the fishermen stayed in port.",
           "is_correct": false,
-          "feedback": "'shopping' is buying things, which is a different activity from visiting sights."
+          "feedback": "An infinitive 'to pour' after 'with' can only carry purpose, so it fails to show the rain actually happening."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "With the rain poured down, the fishermen stayed in port.",
           "is_correct": false,
-          "feedback": "'hiking' is walking in the countryside along a trail, usually for exercise."
+          "feedback": "A past participle after 'with' suggests the rain had finished pouring, which changes when the storm was occurring."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "With pouring the rain, the fishermen stayed in port.",
           "is_correct": false,
-          "feedback": "'camping' means spending the night outdoors in a tent."
+          "feedback": "A bare noun cannot follow 'with' and then take an object like 'the rain'; the noun must sit before the participle."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "In the absolute construction 'with' plus object plus -ing, one subject belongs to the main clause and the other follows 'with'. A past participle would suggest completion first.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Expand the phrase 'the crater photographed in 2019' how?",
+      "context": "A student in Alajuela describes a volcano crater photographed during a field trip.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "'souvenir' is an object kept because it reminds you of a person, a place or an event."
+          "text": "the crater which photographed in 2019",
+          "is_correct": false,
+          "feedback": "An active 'which photographed' claims the crater took the picture, and a bare relative pronoun needs a full verb here."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "the crater what was photographed in 2019",
           "is_correct": false,
-          "feedback": "'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder."
+          "feedback": "'What' cannot introduce a relative clause in English; it is only a question or a free relative subject."
         },
         {
           "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "'award' is a distinction given for a merit or an achievement."
+          "text": "the crater that was photographed in 2019",
+          "is_correct": true,
+          "feedback": "Correct. The past participle 'photographed' is passive, so the full form needs 'was' plus 'that'."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "the crater which is photographing in 2019",
           "is_correct": false,
-          "feedback": "'prize' is what is won in a competition, not an object bought to remember a trip."
+          "feedback": "'Is photographing' is present progressive and passive in meaning, but it does not match the past participle form."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "Expanding a reduced relative with a past participle requires the passive auxiliary 'was' and the relative pronoun 'that' or 'which'. The tense of the participle decides the tense of the full verb.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which rewrite keeps the meaning and uses a reduced participle phrase?",
+      "context": "An editor at a Heredia newspaper tightens a long sentence about a school project.",
       "options": [
         {
-          "letter": "C",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "'delay' is the extra period of time by which something becomes late or is postponed."
-        },
-        {
           "letter": "A",
-          "text": "cancellation",
+          "text": "The report, which was written by a student, was published on Friday.",
           "is_correct": false,
-          "feedback": "'cancellation' ends the booking or the trip altogether rather than pushing it back."
+          "feedback": "This keeps the full relative clause with 'which was written', so nothing has been reduced to a participle phrase."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "The report written by a student was published on Friday.",
+          "is_correct": true,
+          "feedback": "Correct. The passive relative clause contracts to the reduced form 'written by a student', with the noun as its object."
+        },
+        {
+          "letter": "C",
+          "text": "The report writing by a student was published on Friday.",
           "is_correct": false,
-          "feedback": "'departure' is the time a vehicle is scheduled to leave, not a postponement."
+          "feedback": "'Writing by a student' is active in form, so it wrongly claims the report itself wrote something."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "The report was write by a student was published on Friday.",
           "is_correct": false,
-          "feedback": "'arrival' is the moment you reach the destination, not the waiting time."
+          "feedback": "'Was write' is not a valid verb form; the past participle 'written' is needed after 'was'."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "A reduced relative keeps the participle but drops the relative pronoun and the auxiliary. It shortens a sentence only when the noun plays the object role.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -459,41 +459,41 @@
     },
     {
       "id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which repair removes the dangler in 'Riding uphill, my chain came off'?",
+      "context": "A cyclist on the road to Espuma writes about a mechanical problem.",
       "options": [
         {
-          "letter": "B",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "'check-in' is reporting your presence at the airport or the hotel and registering."
+          "letter": "A",
+          "text": "Uphill, ridden, my chain came off.",
+          "is_correct": false,
+          "feedback": "'Ridden' is a past participle used passively here, but the scattered order leaves the clause with no real subject."
         },
         {
-          "letter": "A",
-          "text": "check-out",
+          "letter": "B",
+          "text": "Riding uphill was what made my chain come off.",
           "is_correct": false,
-          "feedback": "'check-out' is the opposite moment: leaving the hotel and settling the bill."
+          "feedback": "This makes the activity itself the subject and changes the meaning into a claim about what caused the failure."
         },
         {
           "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "'booking' is reserving the room or the seat in advance, which happens before you arrive."
+          "text": "Riding uphill, I felt the chain come off my bike.",
+          "is_correct": true,
+          "feedback": "Correct. Naming 'I' as the subject of the participle removes the dangler and keeps the rider as the doer."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "Being ridden uphill, the chain came off my bike.",
           "is_correct": false,
-          "feedback": "'reservation' is the record of that booking, not the act of reporting your presence."
+          "feedback": "This reverses the roles: it claims the chain was being ridden, yet the chain is the subject of 'came off'."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "To repair a dangling participle you must either supply the real doer as the main subject or turn the phrase into a full clause. The participle's implied subject has to match the main subject.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -504,41 +504,41 @@
     },
     {
       "id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses an absolute construction with two different subjects?",
+      "context": "A cook in San Jose describes a busy morning at a restaurant.",
       "options": [
         {
           "letter": "A",
-          "text": "layover",
+          "text": "With the vegetables washed, the onions were chopped.",
           "is_correct": true,
-          "feedback": "'layover' is the rest or the waiting period between two stages of a journey."
+          "feedback": "Correct. 'With the vegetables washed' is an absolute structure, so the onions and the vegetables are two subjects."
         },
         {
           "letter": "B",
-          "text": "stopover",
+          "text": "Having washed the vegetables, the onions were chopped.",
           "is_correct": false,
-          "feedback": "'stopover' is a break in a journey during which you leave the vehicle, often overnight."
+          "feedback": "The perfect participle implies the onions washed themselves, but the main subject is 'the onions', so this dangles."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "Washing the vegetables, I chopped the onions.",
           "is_correct": false,
-          "feedback": "'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time."
+          "feedback": "This is an ordinary participle clause: one subject, 'I', acts in both the -ing phrase and the main verb."
         },
         {
           "letter": "D",
-          "text": "transit",
+          "text": "The vegetables washed, I chopped the onions.",
           "is_correct": false,
-          "feedback": "'transit' means passage through a place or the system that carries people, not the pause itself."
+          "feedback": "The phrase 'the vegetables washed' is a passive absolute that has no linking word and cannot stand before the main clause this way."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
+      "explanation": "An absolute construction contains its own subject that is not the main clause subject. The 'with' plus past participle form is the clearest passive absolute and needs no linking word such as 'while'.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -549,41 +549,41 @@
     },
     {
       "id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses the perfect participle with a correctly understood subject?",
+      "context": "A coordinator in Liberia reports on a volunteer workshop in Guanacaste.",
       "options": [
         {
           "letter": "A",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "'currency' is the whole money system in general use in a particular country."
+          "text": "Having trained the volunteers, the workshop began at eight.",
+          "is_correct": false,
+          "feedback": "The workshop cannot be the one who trained the volunteers, so the implied subject of the participle dangles."
         },
         {
           "letter": "B",
-          "text": "coin",
+          "text": "Having trained, the volunteers the workshop.",
           "is_correct": false,
-          "feedback": "'coin' is a single round piece of metal money, only one part of a currency."
+          "feedback": "The phrase is ungrammatical: 'having trained' has no object and the main verb is missing entirely."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "The volunteers, having trained each other, the workshop began.",
           "is_correct": false,
-          "feedback": "'banknote' is a paper note, again only one part of a country's money system."
+          "feedback": "Two finite subjects clash in one clause, and the second half lacks a main verb to pair with 'began'."
         },
         {
           "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "'cash' is money in coins and notes seen as a form of payment, not the system a country has."
+          "text": "Having trained the volunteers, Carla began the workshop.",
+          "is_correct": true,
+          "feedback": "Correct. 'Carla' is the subject of both 'Having trained' and 'began', so the perfect participle is properly anchored."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "D",
+      "explanation": "In a perfect participle clause the implied subject must be the same person as the main clause subject. If they differ, the sentence is ungrammatical and needs two clauses.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -594,41 +594,41 @@
     },
     {
       "id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence avoids a dangler while keeping the fisherman as the actor?",
+      "context": "A fisherman in Puerto Viejo describes losing a net during a storm.",
       "options": [
         {
           "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "'guidebook' is a book of information about a place written for the use of visitors."
+          "text": "Catching the net, the tide rose quickly.",
+          "is_correct": false,
+          "feedback": "This dangles: the tide cannot be the one catching a net, so the participle has no matching subject."
         },
         {
           "letter": "B",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "'map' is a drawing of the area, not a book of information."
+          "text": "As the fisherman caught the net, the tide rose quickly.",
+          "is_correct": true,
+          "feedback": "Correct. Recasting the phrase as a full subordinate clause gives the fisherman an explicit subject, so nothing dangles."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "The net caught, the tide rose quickly.",
           "is_correct": false,
-          "feedback": "'dictionary' explains the words of a language, not the places of a region."
+          "feedback": "This is an absolute construction, so the fisherman disappears as the doer and the net becomes the focus."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "Catching the net was done as the tide rose.",
           "is_correct": false,
-          "feedback": "'encyclopedia' covers all branches of knowledge, not one destination for tourists."
+          "feedback": "This nominalizes the action with 'was done', which hides who caught the net and drops the original emphasis."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Whenever the doer of the participle is not the main clause subject, the safe repairs are a full clause or an absolute. That keeps the original actor visible instead of dangling.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -639,41 +639,41 @@
     },
     {
       "id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "In 'Racing down the road, the car passed two cyclists', who is racing?",
+      "context": "A cyclist in Cartago describes a training ride in the mountains.",
       "options": [
         {
-          "letter": "D",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "'backpack' has shoulder straps and is carried on the back."
-        },
-        {
           "letter": "A",
-          "text": "suitcase",
+          "text": "Both the car and the cyclists, because the sentence mentions both.",
           "is_correct": false,
-          "feedback": "'suitcase' is a case with a handle that is pulled along, not one worn on the back."
+          "feedback": "The participle takes only one implied subject, and it cannot refer to two different nouns at the same time."
         },
         {
           "letter": "B",
-          "text": "briefcase",
+          "text": "The cyclists, because they are named nearest to the participle.",
           "is_correct": false,
-          "feedback": "'briefcase' is a flat case for documents that you carry by hand at work."
+          "feedback": "Distance is not the deciding factor; the attachment rule follows the subject of the main verb, not the closest noun."
         },
         {
           "letter": "C",
-          "text": "handbag",
+          "text": "The car, because it is the subject of the main verb 'passed'.",
+          "is_correct": true,
+          "feedback": "Correct. A fronted participle phrase attaches to the main clause subject, so the car is understood as the one racing."
+        },
+        {
+          "letter": "D",
+          "text": "Nobody is racing, since the phrase adds no real information.",
           "is_correct": false,
-          "feedback": "'handbag' is a small bag held in the hand, usually for personal items."
+          "feedback": "The phrase carries a clear meaning, and it also creates a misleading impression that a car was doing the racing."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "A participle clause at the front of a sentence normally modifies the subject of the main verb. That attachment rule is why a misplaced participle can accuse the wrong person of an action.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -684,41 +684,41 @@
     },
     {
       "id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses the wrong participle form for its meaning?",
+      "context": "A naturalist in Quepos leads a group through a mangrove reserve.",
       "options": [
         {
-          "letter": "D",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "'overseas' means in or to a foreign country, especially one across the sea."
-        },
-        {
           "letter": "A",
-          "text": "domestic",
+          "text": "Protected for decades, the mangroves now shelter young fish.",
           "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
+          "feedback": "This is correct: a past participle in the passive shows the mangroves were protected by someone else."
         },
         {
           "letter": "B",
-          "text": "local",
+          "text": "Being protected by the reserve, the mangroves shelter young fish.",
           "is_correct": false,
-          "feedback": "'local' means belonging to a small area nearby, not to a foreign country."
+          "feedback": "This is correct too: 'being protected' is the passive continuous form and keeps both subjects in view."
         },
         {
           "letter": "C",
-          "text": "national",
+          "text": "Protected by trained staff, the trails are safe for visitors.",
           "is_correct": false,
-          "feedback": "'national' means concerning the whole nation and says nothing about being abroad."
+          "feedback": "This is correct: the passive participle 'Protected' takes the trails as its subject and the trails are protected."
+        },
+        {
+          "letter": "D",
+          "text": "Performing by a guide, the walk through the reserve lasts two hours.",
+          "is_correct": true,
+          "feedback": "Wrong. 'By a guide' requires a passive participle, so 'performed' would be right while 'performing' is not."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "A 'by' phrase always signals a passive construction, so it must be paired with a past participle or a passive continuous form. An active -ing form cannot be completed by 'by' plus an agent.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -729,41 +729,41 @@
     },
     {
       "id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which rewrite of the clumsy version is correct and keeps the meaning?",
+      "context": "Students in Escazu rebuild planters for a park out of reused material.",
       "options": [
         {
           "letter": "A",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "'budget' is an estimate of income and expenditure planned for a set period."
+          "text": "Used recycled materials, the students built planters for the park.",
+          "is_correct": false,
+          "feedback": "'Used' is a past participle and would make the students the thing being used, reversing the roles entirely."
         },
         {
           "letter": "B",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "'expense' is a single amount of money that is spent, not the plan for a whole period."
+          "text": "Using recycled materials, the students built planters for the park.",
+          "is_correct": true,
+          "feedback": "Correct. The students are the active subject of both 'Using' and 'built', so the participle clause is anchored."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "Having using recycled materials, planters were built for the park.",
           "is_correct": false,
-          "feedback": "'cost' is what one item or one service costs, again not an estimate for a period."
+          "feedback": "'Having using' is not a valid form; the perfect participle needs 'having used', and the participle subject dangles."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "Using recycled materials, planters was built for the park.",
           "is_correct": false,
-          "feedback": "'price' is the sum a customer pays for one product; a budget covers income and spending together."
+          "feedback": "Here the planters become the subject of 'Using', so the planters recycle something, and the verb also disagrees."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "B",
+      "explanation": "An -ing clause upgrading a clumsy sentence must keep one subject across both the participle and the main verb. A past participle in the same position would invert agency.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -774,41 +774,41 @@
     },
     {
       "id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence shows the correct order of the two events?",
+      "context": "A volunteer crew in Nicoya plans a morning cleanup at a beach.",
       "options": [
         {
-          "letter": "B",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium."
+          "letter": "A",
+          "text": "Collecting the bottles and having filled the bags, the crew left.",
+          "is_correct": false,
+          "feedback": "Putting the present participle first reverses the real sequence, since filling the bags must happen after collecting."
         },
         {
-          "letter": "A",
-          "text": "warranty",
+          "letter": "B",
+          "text": "Collecting bottles, the crew had filled the bags and left.",
           "is_correct": false,
-          "feedback": "'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge."
+          "feedback": "A present participle paired with a past perfect leaves the aspect unsettled and blurs which action came first."
         },
         {
           "letter": "C",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "'guarantee' is a general promise of quality and does not involve paying a premium."
+          "text": "Having collected the bottles, the crew filled the bags and left.",
+          "is_correct": true,
+          "feedback": "Correct. The perfect participle comes first because collecting the bottles finished before the bags were filled."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "The bottles collected, the crew filled the bags and left.",
           "is_correct": false,
-          "feedback": "'policy' is the written document that states what an insurance contract covers."
+          "feedback": "This is a passive absolute with the bottles as subject, so it loses the crew as the doer of the collecting."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "When one clause uses 'having done' and another uses 'doing', the perfect participle comes first. That fixed order marks the earlier completed action before the later one.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is fully correct and keeps the region as the agent?",
+      "context": "A soil researcher in Guapiles reports on flooding after the loss of forest cover.",
       "options": [
         {
-          "letter": "B",
-          "text": "vaccination",
+          "letter": "A",
+          "text": "Having lost most of the dry forest, the region now floods each season.",
           "is_correct": true,
-          "feedback": "'vaccination' is the treatment with a vaccine that makes the body immune to a disease."
+          "feedback": "Correct. The perfect participle and the main verb share the subject 'the region', so nothing dangles."
         },
         {
-          "letter": "A",
-          "text": "medication",
+          "letter": "B",
+          "text": "Losing the dry forest, the soil washes into the rivers.",
           "is_correct": false,
-          "feedback": "'medication' is a drug taken to treat an illness, not to prevent one."
+          "feedback": "This dangles because the soil cannot lose forest; the real doer, the region, is missing from the participle's subject."
         },
         {
           "letter": "C",
-          "text": "prescription",
+          "text": "The forest lost, the region now floods every rainy season.",
           "is_correct": false,
-          "feedback": "'prescription' is the written order that authorises a medicine, not the treatment itself."
+          "feedback": "This is a passive absolute where the forest becomes the subject, so the region is no longer presented as the agent."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "Losing most of the dry forest, the rain fell on the whole valley.",
           "is_correct": false,
-          "feedback": "'infection' is the disease itself, the opposite of the protection a vaccination gives."
+          "feedback": "This dangles because the rain cannot lose forest, yet 'the rain' is the subject of the main verb 'fell'."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "A",
+      "explanation": "The perfect participle is safest when the earlier action was completed. Its implied subject must match the main clause subject, otherwise the phrase dangles and the agent vanishes.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is fully correct and clearest for a university report?",
+      "context": "A graduate researcher at UCR summarizes a year of field work on the Savegre.",
       "options": [
         {
-          "letter": "B",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight."
+          "letter": "A",
+          "text": "Sampling the river for a year, the data were conclusive.",
+          "is_correct": false,
+          "feedback": "This dangles: 'the data' cannot sample a river, so the phrase leaves the research team unnamed."
         },
         {
-          "letter": "A",
-          "text": "fatigue",
+          "letter": "B",
+          "text": "Having sampled the river, the data proved the species had changed.",
           "is_correct": false,
-          "feedback": "'fatigue' is tiredness that can come from any long effort, not specifically from a flight."
+          "feedback": "This dangles again: the subject is 'the data', yet the perfect participle implies the data did the sampling."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "Sampling the river, the team had collected samples for a year.",
           "is_correct": false,
-          "feedback": "'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep."
+          "feedback": "A present participle with a past perfect leaves the aspect confused and mixes two views of the same activity."
         },
         {
           "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "'insomnia' is the inability to fall asleep, which has many causes besides travel."
+          "text": "Having sampled the river for a year, the team proved the change was real.",
+          "is_correct": true,
+          "feedback": "Correct. The team is the subject of both parts, the perfect participle shows the earlier year, and the claim stays clear."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
+      "correct_answer": "D",
+      "explanation": "In formal academic prose a perfect participle with a shared subject gives the cleanest sequence of completed work and its result. A mismatch between the two subjects becomes a dangler.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",

@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which part of an argumentative essay clearly states your position on the topic?",
+      "context": "Students at Liceo Nacional de Cartago write a five-paragraph argumentative essay.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
+          "text": "The thesis statement",
           "is_correct": true,
-          "feedback": "'accommodation' is the word for a place where you live or stay, including on holiday."
+          "feedback": "A thesis statement declares the writer's position and argument in one clear sentence, usually at the end of the intro."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "A body paragraph",
           "is_correct": false,
-          "feedback": "'transportation' means the way you travel, such as buses or planes, not where you stay."
+          "feedback": "A body paragraph develops reasons and evidence to prove that thesis, so it states the position only indirectly."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "The conclusion",
           "is_correct": false,
-          "feedback": "'entertainment' is the activity of enjoying shows, films or games, not a place to live."
+          "feedback": "The conclusion sums up the arguments and leaves the reader with the final message, not the first claim."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "A counterargument sentence",
           "is_correct": false,
-          "feedback": "'currency' is the money of a country, such as the colon; a place to stay is not money."
+          "feedback": "A counterargument sentence concedes the opposing view so the writer can answer it later in the essay."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "explanation": "An argumentative essay has introduction with thesis, body paragraphs, counterargument, and conclusion.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -54,41 +54,41 @@
     },
     {
       "id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence introduces a counterargument in an essay?",
+      "context": "In San Jose, a student argues that the city should add more bicycle lanes.",
       "options": [
         {
-          "letter": "D",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "'itinerary' is a detailed plan of a journey, listing the route and the stops along the way."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "Bicycle lanes would make traffic safer and faster for everyone.",
           "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "feedback": "This is a supporting reason for the writer's own position, so it belongs in a body paragraph, not a counterargument."
         },
         {
           "letter": "B",
-          "text": "destination",
+          "text": "In conclusion, San Jose should build more bicycle lanes.",
           "is_correct": false,
-          "feedback": "'destination' is only the place you are going to; the plan of the route is the itinerary."
+          "feedback": "The phrase 'In conclusion' marks a closing move, so this sentence summarizes the argument instead of opposing it."
         },
         {
           "letter": "C",
-          "text": "passport",
+          "text": "Some drivers argue that bike lanes take too much road space.",
+          "is_correct": true,
+          "feedback": "This sentence voices the opposing side's view, which is exactly what a counterargument does before the writer answers it."
+        },
+        {
+          "letter": "D",
+          "text": "My essay discusses bike lanes, safety and road space.",
           "is_correct": false,
-          "feedback": "'passport' is the travel document you show at the border, not the plan of a journey."
+          "feedback": "This sentence only names the parts of the essay, so it takes no side and cannot present an opposing view."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "A counterargument states the strongest opposing claim, and the writer then refutes it to strengthen the thesis.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
+      "bloom": "Understand",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -99,41 +99,41 @@
     },
     {
       "id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which thesis is clear, arguable and specific enough for that essay?",
+      "context": "A Heredia student wants to argue that homework in high school should be reduced.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "'destination' names the place a person or thing is going or being sent to."
+          "text": "Homework is something that students have.",
+          "is_correct": false,
+          "feedback": "It names a topic but states no position, so the reader cannot tell what the writer wants to prove."
         },
         {
           "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is the action of leaving, not the place you leave for."
+          "text": "High schools in Costa Rica should cut homework because it reduces sleep and motivation.",
+          "is_correct": true,
+          "feedback": "It takes a clear position, names a reason, and is arguable, so it works as a thesis for a persuasive essay."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "Some students do not like homework.",
           "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching a place, not the place itself."
+          "feedback": "This reports a vague group feeling without an arguable claim, so it cannot guide body paragraphs."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "This essay will talk about homework and schools.",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, not the place at the end of it."
+          "feedback": "This announces the topic instead of arguing a position, which makes it a topic sentence, not a thesis."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "correct_answer": "B",
+      "explanation": "A strong thesis takes a clear stance on a debatable issue and hints at the reasons, not only the topic.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -144,41 +144,41 @@
     },
     {
       "id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "In an argumentative essay, what does the last sentence of the introduction do?",
+      "context": "In Alajuela, a student argues that the city should fund more bicycle lanes.",
       "options": [
         {
-          "letter": "B",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "'luggage' is the collective word for the suitcases and bags you pack for a trip."
+          "letter": "A",
+          "text": "It gives statistics about the city.",
+          "is_correct": false,
+          "feedback": "Statistics belong in body paragraphs as evidence, not as the closing move of an introduction."
         },
         {
-          "letter": "A",
-          "text": "ticket",
+          "letter": "B",
+          "text": "It lists every paragraph of the essay.",
           "is_correct": false,
-          "feedback": "'ticket' is the document you buy that admits you to the journey."
+          "feedback": "Outlining the paragraphs previews the structure, but an introduction ends with the position, not a list."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "It answers the strongest opposing view.",
           "is_correct": false,
-          "feedback": "'flight' is the plane or the scheduled trip itself, not the bags you carry."
+          "feedback": "Answering the opposing view happens in the body, after the thesis is already on the table."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "'reservation' is the booking you hold for a seat or a room."
+          "text": "It presents the thesis statement.",
+          "is_correct": true,
+          "feedback": "Introductions move from background to the writer's claim, so the thesis closes the paragraph and guides the body."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "The introduction funnels from context to the thesis, and the thesis sentence anchors every body paragraph.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -189,41 +189,41 @@
     },
     {
       "id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which thesis best answers the prompt about free fares on city buses?",
+      "context": "A student from Alajuela must defend one position about public transport in an essay.",
       "options": [
         {
-          "letter": "C",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, not on a bus, a train or a plane."
+          "text": "Free bus fares in Alajuela would boost ridership and cut traffic, so the city should test them.",
+          "is_correct": true,
+          "feedback": "It answers the prompt directly, takes a side, and gives a reason, which is what an effective thesis must do."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "Buses in Alajuela have fares and routes.",
           "is_correct": false,
-          "feedback": "'commuter' is someone who travels regularly between home and work, a narrower idea than passenger."
+          "feedback": "This only states a fact about fares, so it leaves no argument for the reader to follow or disagree with."
+        },
+        {
+          "letter": "C",
+          "text": "Fares are free in some cities.",
+          "is_correct": false,
+          "feedback": "This is a fact about other cities, not a position on Alajuela, so the prompt is never really addressed."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "People in Alajuela can take the bus.",
           "is_correct": false,
-          "feedback": "'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew."
+          "feedback": "This describes a service, not an opinion, so it cannot serve as the thesis of an argumentative essay."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Answering the prompt matters as much as taking a stance: the thesis must cover the exact issue that was asked.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -234,41 +234,41 @@
     },
     {
       "id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which thesis would be the strongest for that essay?",
+      "context": "A Monteverde student argues that tourism businesses should pay a local conservation fee.",
       "options": [
         {
-          "letter": "D",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "'customs' is the office where officials check the goods, the luggage and the travellers entering a country."
-        },
-        {
           "letter": "A",
-          "text": "security",
+          "text": "Tourism is very important for Monteverde.",
           "is_correct": false,
-          "feedback": "'security' refers to the staff and the measures that keep the airport safe, not to the goods check."
+          "feedback": "This is a fact about an industry, so it offers no position for the writer to defend or a reader to reject."
         },
         {
           "letter": "B",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for and board your flight."
+          "text": "Monteverde hotels should fund reforestation, since tourism depends on the cloud forest.",
+          "is_correct": true,
+          "feedback": "It names who should act, what they should do, and why it matters, which makes the thesis specific and arguable."
         },
         {
           "letter": "C",
-          "text": "gate",
+          "text": "Many people visit Monteverde every year.",
           "is_correct": false,
-          "feedback": "'gate' is the door you board the plane through, not the place where officials check luggage."
+          "feedback": "This is a statistic about visitors, so it belongs in body paragraphs as background, not as the claim."
+        },
+        {
+          "letter": "D",
+          "text": "My favourite place in Costa Rica is Monteverde.",
+          "is_correct": false,
+          "feedback": "A personal preference cannot be argued with reasons and evidence, so it cannot serve as a thesis."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "A thesis names the actors, the action proposed and the reason behind it, not only the subject of the essay.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -279,41 +279,41 @@
     },
     {
       "id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Why is this body sentence weak: 'Vegetarian meals are good for everyone'?",
+      "context": "A Cartago student argues that the canteen should offer more vegetarian meals.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "'boarding pass' is the slip the airline hands over at check-in that lets you board the plane."
+          "text": "It uses the word 'good', but key words are always allowed in essays.",
+          "is_correct": false,
+          "feedback": "Key words from the prompt are welcome in a thesis, so the problem here is not the choice of words."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "It is a short sentence, and short sentences weaken an argument.",
           "is_correct": false,
-          "feedback": "'visa' is the official permission to enter and stay in a foreign country."
+          "feedback": "Sentence length has no effect on argument quality; a short claim simply needs supporting evidence after it."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "It repeats the idea of the topic sentence instead of giving proof.",
           "is_correct": false,
-          "feedback": "'receipt' is the proof of payment for the ticket, not the document that lets you board."
+          "feedback": "This restates the paragraph's point in new words, so it adds no reason, example or statistic to prove it."
         },
         {
           "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "'brochure' is a small booklet with tourist information, not a travel document."
+          "text": "It is too informal because it uses the word 'everyone'.",
+          "is_correct": true,
+          "feedback": "The word 'everyone' is common in student writing; the real problem is that the sentence claims no evidence."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "D",
+      "explanation": "Body sentences must prove the topic sentence with facts, examples or reasons; restating the claim proves nothing.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -324,41 +324,41 @@
     },
     {
       "id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence belongs in the counterargument paragraph, not the body?",
+      "context": "A student in Puntarenas argues that buses should run later at night for ferry workers.",
       "options": [
         {
-          "letter": "B",
-          "text": "sightseeing",
+          "letter": "A",
+          "text": "Some residents say the extra night buses would increase noise complaints.",
           "is_correct": true,
-          "feedback": "'sightseeing' is visiting the places of interest of a location in order to look at them."
+          "feedback": "This reports what an opposing group believes, which is the material a counterargument paragraph refutes."
         },
         {
-          "letter": "A",
-          "text": "shopping",
+          "letter": "B",
+          "text": "Night workers currently wait up to two hours for the last bus home.",
           "is_correct": false,
-          "feedback": "'shopping' is buying things, which is a different activity from visiting sights."
+          "feedback": "This is evidence for the writer's own claim, so it belongs in a body paragraph supporting the thesis."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "The city has run three different bus schedules in the last year.",
           "is_correct": false,
-          "feedback": "'hiking' is walking in the countryside along a trail, usually for exercise."
+          "feedback": "This is a neutral fact about the city's history, so it explains the topic without arguing either side."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "Later night service is exactly what ferry workers have asked the city for.",
           "is_correct": false,
-          "feedback": "'camping' means spending the night outdoors in a tent."
+          "feedback": "This restates the thesis with a source, so it strengthens the writer's position instead of opposing it."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "A counterargument paragraph presents the other side's claim and then answers it, unlike body paragraphs that back your own thesis.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which closing sentence best finishes that argumentative essay?",
+      "context": "A Heredia student argues that homework should be cut in favour of sports practice.",
       "options": [
         {
-          "letter": "D",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "'souvenir' is an object kept because it reminds you of a person, a place or an event."
-        },
-        {
           "letter": "A",
-          "text": "gift",
+          "text": "In this essay I talked about homework, sports and school.",
           "is_correct": false,
-          "feedback": "'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder."
+          "feedback": "This only lists the sections of the essay, so it is a summary of the structure and not a persuasive ending."
         },
         {
           "letter": "B",
-          "text": "award",
+          "text": "Homework and sports are both important things in school life.",
           "is_correct": false,
-          "feedback": "'award' is a distinction given for a merit or an achievement."
+          "feedback": "This is a general observation about two topics, so it adds no argument and simply restates what is already clear."
         },
         {
           "letter": "C",
-          "text": "prize",
+          "text": "Schools that cut homework now give students back the hours that training and rest require.",
+          "is_correct": true,
+          "feedback": "It returns to the thesis and extends it with a consequence, which is what a strong conclusion should do."
+        },
+        {
+          "letter": "D",
+          "text": "I really liked writing about this topic for my essay.",
           "is_correct": false,
-          "feedback": "'prize' is what is won in a competition, not an object bought to remember a trip."
+          "feedback": "This comments on the writer's own writing, not on the topic, so it tells the reader nothing new."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "A good conclusion restates the claim and adds a consequence, a recommendation or a new idea rather than repeating the intro.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which evidence best supports the claim that more shade trees are needed?",
+      "context": "A Liberia student argues for more shade trees around the school playground.",
       "options": [
         {
-          "letter": "B",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "'delay' is the extra period of time by which something becomes late or is postponed."
+          "letter": "A",
+          "text": "Trees are nice and everybody likes them.",
+          "is_correct": false,
+          "feedback": "This is a general opinion with no evidence, so it shows the writer's taste rather than proving the need."
         },
         {
-          "letter": "A",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "'cancellation' ends the booking or the trip altogether rather than pushing it back."
+          "letter": "B",
+          "text": "The school nurse counted 30 students treated for heat headaches last term.",
+          "is_correct": true,
+          "feedback": "Specific measured data from the school itself supports the claim and can be checked by the reader."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "Trees grow in many parts of Costa Rica.",
           "is_correct": false,
-          "feedback": "'departure' is the time a vehicle is scheduled to leave, not a postponement."
+          "feedback": "This only states where trees can grow, so it says nothing about conditions on this playground."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "My friend says the playground feels hot at noon.",
           "is_correct": false,
-          "feedback": "'arrival' is the moment you reach the destination, not the waiting time."
+          "feedback": "One friend's impression is anecdotal and unverified, so it is far weaker than recorded data."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "Strong evidence is specific, measurable and checkable; opinions and single impressions prove nothing to a critical reader.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -459,41 +459,41 @@
     },
     {
       "id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence best states the opposing view in this essay?",
+      "context": "A student in San Jose argues that recycling bins should be added to every classroom.",
       "options": [
         {
-          "letter": "D",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "'check-in' is reporting your presence at the airport or the hotel and registering."
-        },
-        {
           "letter": "A",
-          "text": "check-out",
+          "text": "Recycling bins should be added to every classroom.",
           "is_correct": false,
-          "feedback": "'check-out' is the opposite moment: leaving the hotel and settling the bill."
+          "feedback": "This is the writer's own thesis, so it belongs in the introduction and not with the opposing position."
         },
         {
           "letter": "B",
-          "text": "booking",
+          "text": "Recycling protects the environment for future generations.",
           "is_correct": false,
-          "feedback": "'booking' is reserving the room or the seat in advance, which happens before you arrive."
+          "feedback": "This supports the thesis with a benefit, so it serves as a body paragraph reason rather than a counter claim."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "Some teachers argue that bins in classrooms create more mess than they solve.",
+          "is_correct": true,
+          "feedback": "It names who disagrees and what they believe, which is precisely what the counterargument paragraph must present."
+        },
+        {
+          "letter": "D",
+          "text": "In conclusion, schools should teach recycling from primary school.",
           "is_correct": false,
-          "feedback": "'reservation' is the record of that booking, not the act of reporting your presence."
+          "feedback": "A closing statement like 'In conclusion' belongs at the end, so this sentence cannot open the opposing argument."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "A counterargument sentence attributes a claim to the other side and then answers it, which keeps the reader's trust.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -504,41 +504,41 @@
     },
     {
       "id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which choice turns this vague claim into a debatable thesis?",
+      "context": "A Turrialba student argues that the town should build a public bike repair station.",
       "options": [
         {
           "letter": "A",
-          "text": "layover",
+          "text": "Bikes help people in Turrialba get around town faster.",
           "is_correct": true,
-          "feedback": "'layover' is the rest or the waiting period between two stages of a journey."
+          "feedback": "This is a general true statement, so it gives the writer nothing to argue about and readers nothing to dispute."
         },
         {
           "letter": "B",
-          "text": "stopover",
+          "text": "Public bicycle repair stations exist in many cities.",
           "is_correct": false,
-          "feedback": "'stopover' is a break in a journey during which you leave the vehicle, often overnight."
+          "feedback": "This is a fact about other cities, so it gives context but takes no position on what Turrialba should do."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "Turrialba should build a public bike repair station near the main park.",
           "is_correct": false,
-          "feedback": "'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time."
+          "feedback": "It states a clear proposal about a specific place, so readers can agree or disagree and the essay has a real question."
         },
         {
           "letter": "D",
-          "text": "transit",
+          "text": "My cousin rides a bicycle to work every morning.",
           "is_correct": false,
-          "feedback": "'transit' means passage through a place or the system that carries people, not the pause itself."
+          "feedback": "A single personal habit is an anecdote, not an arguable position that a whole essay could defend."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
+      "explanation": "A thesis is arguable when readers could reasonably disagree, so it must propose something instead of stating a fact.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -549,41 +549,41 @@
     },
     {
       "id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which option repairs this flaw in the thesis 'School is not perfect for us'?",
+      "context": "A student in Puntarenas argues that school start times should be later.",
       "options": [
         {
           "letter": "A",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "'currency' is the whole money system in general use in a particular country."
+          "text": "School is not perfect for anybody anywhere in the world.",
+          "is_correct": false,
+          "feedback": "Adding 'anywhere in the world' keeps the claim vague, so the writer still avoids naming who should act."
         },
         {
           "letter": "B",
-          "text": "coin",
+          "text": "School is not perfect, and that is fine.",
           "is_correct": false,
-          "feedback": "'coin' is a single round piece of metal money, only one part of a currency."
+          "feedback": "Adding 'and that is fine' turns the complaint into agreement, so the thesis no longer argues for a change."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "School is the most perfect system that was ever built.",
           "is_correct": false,
-          "feedback": "'banknote' is a paper note, again only one part of a country's money system."
+          "feedback": "Calling school the most perfect system contradicts the critical tone and drops the argument about start times."
         },
         {
           "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "'cash' is money in coins and notes seen as a form of payment, not the system a country has."
+          "text": "Costa Rican high schools should start at 7:30 a.m. so students get more sleep.",
+          "is_correct": true,
+          "feedback": "It adds a specific actor, a concrete proposal and a reason, which turns a complaint into a defensible thesis."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "D",
+      "explanation": "A thesis needs a specific proposal plus a reason; vague complaints about a system cannot be argued for or against.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -594,41 +594,41 @@
     },
     {
       "id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which paragraph would most weaken the argument that water data should be public?",
+      "context": "A student in Tibas writes an essay arguing that the municipality should publish water quality reports.",
       "options": [
         {
           "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "'guidebook' is a book of information about a place written for the use of visitors."
+          "text": "Only three families in Tibas read the newspaper, so reports reach few people.",
+          "is_correct": false,
+          "feedback": "A small readership may limit impact, but it does not remove the public's right to know how their water is treated."
         },
         {
           "letter": "B",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "'map' is a drawing of the area, not a book of information."
+          "text": "The ministry already publishes national water data every year, so local reports would add nothing.",
+          "is_correct": true,
+          "feedback": "Existing national data makes the local proposal redundant, which removes the writer's reason for asking for change."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "Water quality in Tibas has improved since the treatment plant was rebuilt.",
           "is_correct": false,
-          "feedback": "'dictionary' explains the words of a language, not the places of a region."
+          "feedback": "Improved quality supports the writer's concern and shows the system works, so it strengthens rather than weakens it."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "Reading about water takes time that students would rather spend playing sports.",
           "is_correct": false,
-          "feedback": "'encyclopedia' covers all branches of knowledge, not one destination for tourists."
+          "feedback": "Saying people prefer other activities criticises their choices instead of the argument, so it is not a real objection."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "A strong objection attacks the necessity or logic of the proposal, not the habits or preferences of the people involved.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -639,41 +639,41 @@
     },
     {
       "id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which reply most convincingly refutes the objection about cost?",
+      "context": "A student in Liberia argues that the canton should replace diesel buses with electric ones.",
       "options": [
         {
-          "letter": "B",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "'backpack' has shoulder straps and is carried on the back."
+          "letter": "A",
+          "text": "Electric buses cost nothing, so the cost objection is simply false.",
+          "is_correct": false,
+          "feedback": "Saying the cost is zero is factually untrue, so this reply loses credibility instead of answering the objection."
         },
         {
-          "letter": "A",
-          "text": "suitcase",
+          "letter": "B",
+          "text": "The canton should think about money more carefully before buying anything new.",
           "is_correct": false,
-          "feedback": "'suitcase' is a case with a handle that is pulled along, not one worn on the back."
+          "feedback": "This asks readers to agree on tone rather than reasons, so it offers no evidence to settle the money question."
         },
         {
           "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "'briefcase' is a flat case for documents that you carry by hand at work."
+          "text": "Over ten years the lower fuel and maintenance costs repay the price, plus grants cover part of it.",
+          "is_correct": true,
+          "feedback": "It answers with a time frame, comparable costs and funding, so it meets the objection with evidence rather than slogans."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "Diesel buses are the cheapest option, so the canton should keep them.",
           "is_correct": false,
-          "feedback": "'handbag' is a small bag held in the hand, usually for personal items."
+          "feedback": "Restating the objection as the writer's conclusion abandons the thesis, so the argument collapses instead of being defended."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "To refute an objection you must answer the same point with data or reasoning, not change the subject or drop your thesis.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -684,41 +684,41 @@
     },
     {
       "id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which plan best answers this prompt about a protected bike lane in Alajuela?",
+      "context": "A student in Alajuela argues that the town should build a protected bike lane network.",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "'overseas' means in or to a foreign country, especially one across the sea."
+          "text": "This essay will describe the history of bicycles in Alajuela.",
+          "is_correct": false,
+          "feedback": "Announcing a history is only a topic, so the plan never commits to a position the reader could debate."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "In this essay I will discuss my favourite bike and where I ride it.",
           "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
+          "feedback": "Focusing on a private favourite narrows the essay to the writer, so it cannot persuade the whole community."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "The word bike comes from English and refers to a two-wheeled vehicle.",
           "is_correct": false,
-          "feedback": "'local' means belonging to a small area nearby, not to a foreign country."
+          "feedback": "Defining the word 'bike' is a vocabulary step, so it prepares no argument at all about the town's transport."
         },
         {
           "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "'national' means concerning the whole nation and says nothing about being abroad."
+          "text": "This essay argues that Alajuela should build protected bike lanes and refutes the cost objection.",
+          "is_correct": true,
+          "feedback": "It names the stance and the objection to answer, which is exactly what an argumentative essay plan must promise."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "An argumentative plan states the position plus the arguments and objections, while a narrative or descriptive plan would not.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -729,41 +729,41 @@
     },
     {
       "id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which revised sentence turns this weak claim into a strong argumentative thesis?",
+      "context": "A Monteverde student argues that eco-tour operators should limit daily visitor numbers.",
       "options": [
         {
-          "letter": "C",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "'budget' is an estimate of income and expenditure planned for a set period."
-        },
-        {
           "letter": "A",
-          "text": "expense",
+          "text": "Tourists should think about nature when they visit cloud forests.",
           "is_correct": false,
-          "feedback": "'expense' is a single amount of money that is spent, not the plan for a whole period."
+          "feedback": "This is gentle advice with no proposal, so there is nothing for readers to support or reject in the essay."
         },
         {
           "letter": "B",
-          "text": "cost",
+          "text": "Reserving cloud forest trails will protect fragile habitats and keep local guides employed.",
+          "is_correct": true,
+          "feedback": "It proposes one action and gives two benefits, so it is specific, arguable and supported by the paragraphs to follow."
+        },
+        {
+          "letter": "C",
+          "text": "Monteverde is a beautiful place that many tourists like to visit.",
           "is_correct": false,
-          "feedback": "'cost' is what one item or one service costs, again not an estimate for a period."
+          "feedback": "A compliment to the destination supports neither side of the debate, so it cannot carry an argumentative thesis."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "The trail system was built a long time ago and it is still used today.",
           "is_correct": false,
-          "feedback": "'price' is the sum a customer pays for one product; a budget covers income and spending together."
+          "feedback": "This historical note gives background context, which belongs in the introduction rather than in the thesis itself."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "B",
+      "explanation": "A strong thesis proposes a specific action and adds a reason, so the essay can spend its paragraphs proving that benefit.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -774,41 +774,41 @@
     },
     {
       "id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence belongs in the introduction rather than the body?",
+      "context": "A student in Heredia argues that public libraries should stay open on Sundays.",
       "options": [
         {
-          "letter": "C",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium."
-        },
-        {
           "letter": "A",
-          "text": "warranty",
+          "text": "Last year 4,300 people borrowed books on Saturdays.",
           "is_correct": false,
-          "feedback": "'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge."
+          "feedback": "A yearly borrowing figure is evidence, so it belongs in a body paragraph that supports the thesis."
         },
         {
           "letter": "B",
-          "text": "guarantee",
+          "text": "Students who work weekends lose all library access during the week.",
           "is_correct": false,
-          "feedback": "'guarantee' is a general promise of quality and does not involve paying a premium."
+          "feedback": "This explains who loses access and why, so it works as a body reason that justifies the thesis."
+        },
+        {
+          "letter": "C",
+          "text": "Libraries in Heredia should remain open on Sundays so working students can study.",
+          "is_correct": true,
+          "feedback": "It states the position the whole essay defends, which is the thesis sentence that opens the introduction."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "Some people prefer buying books in a shop instead of borrowing them.",
           "is_correct": false,
-          "feedback": "'policy' is the written document that states what an insurance contract covers."
+          "feedback": "This reports an opposing preference, so it belongs in the counterargument paragraph, not the introduction."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "explanation": "The introduction states the claim and hints at the reasons; the body then proves them with evidence one at a time.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which reason would be most convincing inside a body paragraph?",
+      "context": "A Cartago student argues that the university should offer more evening classes.",
       "options": [
         {
           "letter": "A",
-          "text": "vaccination",
+          "text": "Two thousand students work in the morning, so evening classes would let them keep studying.",
           "is_correct": true,
-          "feedback": "'vaccination' is the treatment with a vaccine that makes the body immune to a disease."
+          "feedback": "It links a measurable group to a specific benefit, so the reason is relevant, checkable and supports the thesis."
         },
         {
           "letter": "B",
-          "text": "medication",
+          "text": "Evening classes sound nice and would probably be fun.",
           "is_correct": false,
-          "feedback": "'medication' is a drug taken to treat an illness, not to prevent one."
+          "feedback": "A pleasant impression with 'probably' shows taste and doubt, so it proves nothing about student needs."
         },
         {
           "letter": "C",
-          "text": "prescription",
+          "text": "The university has been the same for a long time.",
           "is_correct": false,
-          "feedback": "'prescription' is the written order that authorises a medicine, not the treatment itself."
+          "feedback": "Pointing out that the university is old adds nothing to the case for new evening timetables."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "I would like evening classes for my own convenience.",
           "is_correct": false,
-          "feedback": "'infection' is the disease itself, the opposite of the protection a vaccination gives."
+          "feedback": "Personal convenience is a narrow motive and it ignores the wider benefit the essay claims for other students."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
+      "explanation": "A convincing body reason answers 'so what' with facts, numbers or causes that matter to the people affected.\n\n---",
       "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which evidence is strongest for the claim that plastic bottles waste water?",
+      "context": "A student in Guapiles argues that the school should replace drinking fountains with bottle fillers.",
       "options": [
         {
           "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight."
+          "text": "Students prefer cold water from fountains over warm tap water.",
+          "is_correct": false,
+          "feedback": "This describes a preference, so it says nothing measurable about how much water the two systems consume."
         },
         {
           "letter": "B",
-          "text": "fatigue",
+          "text": "Bottle fillers are a modern idea that some schools already use.",
           "is_correct": false,
-          "feedback": "'fatigue' is tiredness that can come from any long effort, not specifically from a flight."
+          "feedback": "This proves that the idea exists elsewhere, but it gives no figure about water use in this school."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "Cleaning one fountain and refilling a bottle uses about eight times less water than washing a new bottle.",
           "is_correct": false,
-          "feedback": "'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep."
+          "feedback": "The general remark offers no data, so a reader cannot judge whether bottles really waste water."
         },
         {
           "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "'insomnia' is the inability to fall asleep, which has many causes besides travel."
+          "text": "Plastic bottles are everywhere in the world today.",
+          "is_correct": true,
+          "feedback": "It compares quantified water use for both systems, so readers can verify the claim and accept it."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
+      "correct_answer": "D",
+      "explanation": "Comparative figures that contrast two options turn a general claim into evidence a reader can check.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",

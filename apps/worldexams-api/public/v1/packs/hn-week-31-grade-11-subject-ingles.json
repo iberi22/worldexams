@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which option best states the main idea of the whole text?",
+      "context": "A text describes how a fishing village in a dry region stores rainwater, treats it and rations it during the dry months.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
+          "text": "The text explains how a coastal community manages its water supply.",
           "is_correct": true,
-          "feedback": "'accommodation' is the word for a place where you live or stay, including on holiday."
+          "feedback": "Correct! This option covers the whole text without adding anything it does not contain."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "The text lists the names of the wells dug in the region.",
           "is_correct": false,
-          "feedback": "'transportation' means the way you travel, such as buses or planes, not where you stay."
+          "feedback": "The names of the wells are only a detail inside one section of the text."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "The text compares two families who live by the sea.",
           "is_correct": false,
-          "feedback": "'entertainment' is the activity of enjoying shows, films or games, not a place to live."
+          "feedback": "The two families appear in a single paragraph and are not the subject of the whole text."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "The text describes a storm that damaged a village in 1998.",
           "is_correct": false,
-          "feedback": "'currency' is the money of a country, such as the colon; a place to stay is not money."
+          "feedback": "The storm is one episode, and the text uses it only to introduce the wider problem."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "explanation": "The main idea is the point the whole text serves. An option that covers every paragraph without adding material is the one that answers the question.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle",
       "periodo": 31,
@@ -54,40 +54,40 @@
     },
     {
       "id": "HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "What is the best title for the text?",
+      "context": "The same text explains water collection, filtration and community rules in a dry region.",
       "options": [
         {
-          "letter": "C",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "'itinerary' is a detailed plan of a journey, listing the route and the stops along the way."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "A Village Lost in a Storm",
           "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "feedback": "The storm is one event in one paragraph and cannot represent the whole text."
         },
         {
           "letter": "B",
-          "text": "destination",
+          "text": "Saving Water in a Dry Region",
+          "is_correct": true,
+          "feedback": "Correct! The title covers the topic of the whole text in a few words."
+        },
+        {
+          "letter": "C",
+          "text": "The Names of Old Wells",
           "is_correct": false,
-          "feedback": "'destination' is only the place you are going to; the plan of the route is the itinerary."
+          "feedback": "The names of the wells are a detail that appears briefly."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "Two Families of the Coast",
           "is_correct": false,
-          "feedback": "'passport' is the travel document you show at the border, not the plan of a journey."
+          "feedback": "The two families are a short episode and do not represent the subject of the text."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "A good title is broad enough to include every paragraph and narrow enough not to include material the text does not treat.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle",
       "periodo": 31,
@@ -99,40 +99,40 @@
     },
     {
       "id": "HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which paragraph would you read first to find out what the main problem is?",
+      "context": "A six-paragraph text moves from the problem to the responses and ends with general comments.",
       "options": [
         {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "'destination' names the place a person or thing is going or being sent to."
-        },
-        {
           "letter": "A",
-          "text": "departure",
+          "text": "The last paragraph, which gives a list of figures.",
           "is_correct": false,
-          "feedback": "'departure' is the action of leaving, not the place you leave for."
+          "feedback": "The last paragraph gives figures, which are details rather than the statement of the problem."
         },
         {
           "letter": "B",
-          "text": "arrival",
+          "text": "The fourth paragraph, which describes a family.",
           "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching a place, not the place itself."
+          "feedback": "The fourth paragraph describes a family, which is an episode and not the framing of the text."
+        },
+        {
+          "letter": "C",
+          "text": "The first paragraph, which presents the shortage.",
+          "is_correct": true,
+          "feedback": "Correct! The first paragraph presents the shortage, which is the problem the rest of the text addresses."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "The sixth paragraph, which mentions an old custom.",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, not the place at the end of it."
+          "feedback": "The sixth paragraph mentions a custom, which is a closing detail."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "explanation": "Texts normally introduce their main problem at the beginning. Reading the opening paragraph is the fastest way to identify the subject.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle",
       "periodo": 31,
@@ -144,40 +144,40 @@
     },
     {
       "id": "HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The text says the water committee was created in 1996. What does this detail mainly tell the reader?",
+      "context": "A text about water management states that the local committee was set up some years before the worst drought.",
       "options": [
         {
-          "letter": "D",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "'luggage' is the collective word for the suitcases and bags you pack for a trip."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "That the committee has no members today.",
           "is_correct": false,
-          "feedback": "'ticket' is the document you buy that admits you to the journey."
+          "feedback": "The text does not say that the committee has no members."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "That the region has no wells at all.",
           "is_correct": false,
-          "feedback": "'flight' is the plane or the scheduled trip itself, not the bags you carry."
+          "feedback": "The text says the opposite, since the wells are the source of the system."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "That the community rejected the idea of saving water.",
           "is_correct": false,
-          "feedback": "'reservation' is the booking you hold for a seat or a room."
+          "feedback": "The text describes the opposite, since the committee exists precisely to save water."
+        },
+        {
+          "letter": "D",
+          "text": "That the solution is older than the crisis it responds to.",
+          "is_correct": true,
+          "feedback": "Correct! The date places the committee before the drought, so the response predates the crisis it solves."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "explanation": "A detail matters most when it shows the relationship between two facts stated elsewhere in the text. The date places the committee before the drought.\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle",
       "periodo": 31,
@@ -189,40 +189,40 @@
     },
     {
       "id": "HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which of these is NOT an argument the text uses?",
+      "context": "A text argues for water saving, better storage and clear rules for sharing a limited supply.",
       "options": [
         {
-          "letter": "C",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, not on a bus, a train or a plane."
+          "text": "That tourism should be limited in the region.",
+          "is_correct": true,
+          "feedback": "Correct! The text never argues about tourism, so that argument does not appear in it."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "That every drop must be counted.",
           "is_correct": false,
-          "feedback": "'commuter' is someone who travels regularly between home and work, a narrower idea than passenger."
+          "feedback": "Counting every drop is one of the recommendations the text makes."
+        },
+        {
+          "letter": "C",
+          "text": "That rules are needed to share the supply.",
+          "is_correct": false,
+          "feedback": "Clear rules for sharing the supply are a central proposal of the text."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "That rainwater storage must be improved.",
           "is_correct": false,
-          "feedback": "'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew."
+          "feedback": "Improving rainwater storage is described as the practical solution."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "A",
+      "explanation": "To find what the text does not use, check each option against the arguments it does develop. Tourism is never mentioned as a problem.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle",
       "periodo": 31,
@@ -234,40 +234,40 @@
     },
     {
       "id": "HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "How would you summarise the text in one sentence?",
+      "context": "A text presents a community response to a water shortage through storage, filtration and local rules.",
       "options": [
         {
-          "letter": "D",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "'customs' is the office where officials check the goods, the luggage and the travellers entering a country."
-        },
-        {
           "letter": "A",
-          "text": "security",
+          "text": "Several paragraphs describe the weather of a coastal plain.",
           "is_correct": false,
-          "feedback": "'security' refers to the staff and the measures that keep the airport safe, not to the goods check."
+          "feedback": "The weather is not the subject of the text and appears only as background."
         },
         {
           "letter": "B",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for and board your flight."
+          "text": "A dry region solved a water shortage by combining storage, filtration and community rules.",
+          "is_correct": true,
+          "feedback": "Correct! This summary keeps the problem, the three measures and the result, and omits the illustrations."
         },
         {
           "letter": "C",
-          "text": "gate",
+          "text": "The text lists the different wells dug since 1996.",
           "is_correct": false,
-          "feedback": "'gate' is the door you board the plane through, not the place where officials check luggage."
+          "feedback": "The wells are listed as a detail, not as the substance of the text."
+        },
+        {
+          "letter": "D",
+          "text": "Two neighbouring villages argued about how to share a well.",
+          "is_correct": false,
+          "feedback": "The disagreement between two villages is a short episode, not the topic."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "A summary keeps the topic, the main actions and the outcome, and leaves out the illustrations and the small details.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle",
       "periodo": 31,
@@ -279,40 +279,40 @@
     },
     {
       "id": "HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "What is the function of the second paragraph of the text?",
+      "context": "The first paragraph presents the shortage, the second the filtration process and the last the rules.",
       "options": [
         {
-          "letter": "D",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "'boarding pass' is the slip the airline hands over at check-in that lets you board the plane."
-        },
-        {
           "letter": "A",
-          "text": "visa",
+          "text": "It concludes the whole argument with a final recommendation.",
           "is_correct": false,
-          "feedback": "'visa' is the official permission to enter and stay in a foreign country."
+          "feedback": "The conclusion is in the last paragraph, not in the second."
         },
         {
           "letter": "B",
-          "text": "receipt",
+          "text": "It introduces the problem the text is about.",
           "is_correct": false,
-          "feedback": "'receipt' is the proof of payment for the ticket, not the document that lets you board."
+          "feedback": "The introduction of the problem is in the first paragraph."
         },
         {
           "letter": "C",
-          "text": "brochure",
+          "text": "It explains how the collected water is treated before it is used.",
+          "is_correct": true,
+          "feedback": "Correct! The second paragraph develops the text by explaining how the water is treated."
+        },
+        {
+          "letter": "D",
+          "text": "It presents a personal opinion of the author.",
           "is_correct": false,
-          "feedback": "'brochure' is a small booklet with tourist information, not a travel document."
+          "feedback": "The author reports a community process and does not give a personal opinion."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "Paragraph function is read from its place in the structure: introduction, development, examples and conclusion each have their own job.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle",
       "periodo": 31,
@@ -324,40 +324,40 @@
     },
     {
       "id": "HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which statement best describes the general idea of the last paragraph?",
+      "context": "A text about water management closes by explaining what makes the community system sustainable.",
       "options": [
         {
-          "letter": "D",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "'sightseeing' is visiting the places of interest of a location in order to look at them."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
+          "text": "Most families keep the water for their own use.",
           "is_correct": false,
-          "feedback": "'shopping' is buying things, which is a different activity from visiting sights."
+          "feedback": "The text says the opposite, since hoarding water would defeat the shared system."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "The wells have dried up completely.",
           "is_correct": false,
-          "feedback": "'hiking' is walking in the countryside along a trail, usually for exercise."
+          "feedback": "The text describes wells that still work, not wells that have dried up."
         },
         {
           "letter": "C",
-          "text": "camping",
+          "text": "The region has more water than it did in the past.",
           "is_correct": false,
-          "feedback": "'camping' means spending the night outdoors in a tent."
+          "feedback": "The region is described as having less water than before, not more."
+        },
+        {
+          "letter": "D",
+          "text": "The rules work only if the whole community follows them.",
+          "is_correct": true,
+          "feedback": "Correct! The closing paragraph generalises by stating the condition on which the system works."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "A concluding paragraph usually generalises from the details. The condition for success is the idea it leaves the reader with.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle",
       "periodo": 31,
@@ -369,40 +369,40 @@
     },
     {
       "id": "HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The text mentions a public meeting. Why is it included?",
+      "context": "A text describes a public meeting at which residents agreed on new rules for the water supply.",
       "options": [
         {
-          "letter": "C",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "'souvenir' is an object kept because it reminds you of a person, a place or an event."
-        },
-        {
           "letter": "A",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder."
+          "text": "To show how a decision was agreed by the community.",
+          "is_correct": true,
+          "feedback": "Correct! The meeting is included to show that the rules were agreed by the people who follow them."
         },
         {
           "letter": "B",
-          "text": "award",
+          "text": "To prove that the water committee was a failure.",
           "is_correct": false,
-          "feedback": "'award' is a distinction given for a merit or an achievement."
+          "feedback": "The text presents the meeting as a success, not as a failure."
+        },
+        {
+          "letter": "C",
+          "text": "To describe the personal life of a committee member.",
+          "is_correct": false,
+          "feedback": "Nothing about a member's personal life is described there."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "To fill the paragraph with an unrelated anecdote.",
           "is_correct": false,
-          "feedback": "'prize' is what is won in a competition, not an object bought to remember a trip."
+          "feedback": "The anecdote is directly related to the main argument, so it is not filler."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "A",
+      "explanation": "Details in a text are included for a reason. An example of a meeting shows how the rules were accepted, which supports the main argument.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle",
       "periodo": 31,
@@ -414,40 +414,40 @@
     },
     {
       "id": "HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which detail is least relevant to the main idea of the text?",
+      "context": "A text on water management mixes the core argument with one short reference to a school visit.",
       "options": [
         {
-          "letter": "C",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "'delay' is the extra period of time by which something becomes late or is postponed."
-        },
-        {
           "letter": "A",
-          "text": "cancellation",
+          "text": "The need to store rainwater.",
           "is_correct": false,
-          "feedback": "'cancellation' ends the booking or the trip altogether rather than pushing it back."
+          "feedback": "Storing rainwater is one of the three measures the text describes."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "The name of the school that visited the wells.",
+          "is_correct": true,
+          "feedback": "Correct! The school visit is a passing mention and removing it would leave the argument intact."
+        },
+        {
+          "letter": "C",
+          "text": "The shortage of water in the dry months.",
           "is_correct": false,
-          "feedback": "'departure' is the time a vehicle is scheduled to leave, not a postponement."
+          "feedback": "The shortage is the problem the whole text exists to address."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "The rules for sharing the supply.",
           "is_correct": false,
-          "feedback": "'arrival' is the moment you reach the destination, not the waiting time."
+          "feedback": "The rules for sharing the supply are the central recommendation."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "A detail is relevant when it supports the main idea. The school visit is a passing mention that could be removed without changing the argument.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle",
       "periodo": 31,
@@ -459,40 +459,40 @@
     },
     {
       "id": "HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "What does the text want the reader to remember at the end?",
+      "context": "A text argues that a water crisis was addressed through both technical measures and local agreements.",
       "options": [
         {
-          "letter": "D",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "'check-in' is reporting your presence at the airport or the hotel and registering."
-        },
-        {
           "letter": "A",
-          "text": "check-out",
+          "text": "That wells are more useful than rainfall.",
           "is_correct": false,
-          "feedback": "'check-out' is the opposite moment: leaving the hotel and settling the bill."
+          "feedback": "The text does not rank wells above rainfall but treats both as parts of the system."
         },
         {
           "letter": "B",
-          "text": "booking",
+          "text": "That one family solved the problem alone.",
           "is_correct": false,
-          "feedback": "'booking' is reserving the room or the seat in advance, which happens before you arrive."
+          "feedback": "No single family is presented as having solved the problem."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "That saving water depends on both engineering and community agreement.",
+          "is_correct": true,
+          "feedback": "Correct! The conclusion reinforces that the solution combined physical works with community agreement."
+        },
+        {
+          "letter": "D",
+          "text": "That the region has no need for new rules.",
           "is_correct": false,
-          "feedback": "'reservation' is the record of that booking, not the act of reporting your presence."
+          "feedback": "The text argues for exactly such new rules."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "The message a text wants remembered is the one its conclusion reinforces and the whole text has been building towards.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle",
       "periodo": 31,
@@ -504,40 +504,40 @@
     },
     {
       "id": "HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which word or phrase in the text best shows that the situation was serious?",
+      "context": "A text about a water shortage uses several expressions to describe how little water families had left.",
       "options": [
         {
-          "letter": "D",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "'layover' is the rest or the waiting period between two stages of a journey."
-        },
-        {
           "letter": "A",
-          "text": "stopover",
+          "text": "A pleasant surprise",
           "is_correct": false,
-          "feedback": "'stopover' is a break in a journey during which you leave the vehicle, often overnight."
+          "feedback": "A pleasant surprise contradicts the serious tone of the text."
         },
         {
           "letter": "B",
-          "text": "transfer",
+          "text": "A minor inconvenience",
           "is_correct": false,
-          "feedback": "'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time."
+          "feedback": "A minor inconvenience understates a shortage that closed public buildings."
         },
         {
           "letter": "C",
-          "text": "transit",
+          "text": "An unexpected holiday",
           "is_correct": false,
-          "feedback": "'transit' means passage through a place or the system that carries people, not the pause itself."
+          "feedback": "An unexpected holiday has no connection to the water problem."
+        },
+        {
+          "letter": "D",
+          "text": "Only a few hours of water",
+          "is_correct": true,
+          "feedback": "Correct! A quantified expression such as 'only a few hours' shows the severity of the shortage."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "Lexical markers of severity are quantified expressions, and they carry the gravity of the situation better than a general opinion.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle",
       "periodo": 31,
@@ -549,37 +549,37 @@
     },
     {
       "id": "HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "How does the text organise its information?",
+      "context": "A text on water management opens with the shortage, develops the solutions and closes with a condition.",
       "options": [
         {
           "letter": "A",
-          "text": "currency",
+          "text": "By moving from the problem to the measures and ending with their condition of success.",
           "is_correct": true,
-          "feedback": "'currency' is the whole money system in general use in a particular country."
+          "feedback": "Correct! The text follows the standard order of problem, measures and conclusion."
         },
         {
           "letter": "B",
-          "text": "coin",
+          "text": "By listing the wells in the order in which they were dug.",
           "is_correct": false,
-          "feedback": "'coin' is a single round piece of metal money, only one part of a currency."
+          "feedback": "The wells appear as examples inside the text, not as its organisational principle."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "By presenting three unrelated anecdotes in order.",
           "is_correct": false,
-          "feedback": "'banknote' is a paper note, again only one part of a country's money system."
+          "feedback": "The paragraphs are connected and build one argument, so they are not unrelated."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "By comparing the region with two other countries.",
           "is_correct": false,
-          "feedback": "'cash' is money in coins and notes seen as a form of payment, not the system a country has."
+          "feedback": "The text stays within the region and does not compare it with other countries."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "Organisation is recognised by the order of the paragraphs: problem, development, examples and conclusion form a clear progression.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -594,40 +594,40 @@
     },
     {
       "id": "HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which option expresses an idea that the text supports with evidence?",
+      "context": "A text presents technical measures together with changes in daily habits inside the home.",
       "options": [
         {
-          "letter": "C",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "'guidebook' is a book of information about a place written for the use of visitors."
-        },
-        {
           "letter": "A",
-          "text": "map",
+          "text": "That the problem can be solved without any change in behaviour.",
           "is_correct": false,
-          "feedback": "'map' is a drawing of the area, not a book of information."
+          "feedback": "The text argues the opposite, since behaviour change is part of the solution."
         },
         {
           "letter": "B",
-          "text": "dictionary",
+          "text": "That simple household changes also reduce the pressure on the supply.",
+          "is_correct": true,
+          "feedback": "Correct! The text gives specific household measures, so this idea is supported with evidence."
+        },
+        {
+          "letter": "C",
+          "text": "That only large companies are responsible for the shortage.",
           "is_correct": false,
-          "feedback": "'dictionary' explains the words of a language, not the places of a region."
+          "feedback": "The text focuses on households and the local committee, not on companies."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "That the wells produce more water than they used to.",
           "is_correct": false,
-          "feedback": "'encyclopedia' covers all branches of knowledge, not one destination for tourists."
+          "feedback": "The text describes a decline in the yield of the wells, not an increase."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "An idea supported with evidence is one the text develops with figures, examples or named measures. Claims left without support cannot be traced back.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle",
       "periodo": 31,
@@ -639,40 +639,40 @@
     },
     {
       "id": "HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The text says the committee meets 'twice a month'. What does this expression do in the text?",
+      "context": "A text mentions a fixed meeting schedule for a local water committee as evidence of how the rules are applied.",
       "options": [
         {
-          "letter": "C",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "'backpack' has shoulder straps and is carried on the back."
-        },
-        {
           "letter": "A",
-          "text": "suitcase",
+          "text": "It proves that the committee is inactive most of the time.",
           "is_correct": false,
-          "feedback": "'suitcase' is a case with a handle that is pulled along, not one worn on the back."
+          "feedback": "Meeting twice a month is a normal working rhythm, not inactivity."
         },
         {
           "letter": "B",
-          "text": "briefcase",
+          "text": "It indicates that nobody attends the meetings.",
           "is_correct": false,
-          "feedback": "'briefcase' is a flat case for documents that you carry by hand at work."
+          "feedback": "The text says nothing about attendance at those meetings."
+        },
+        {
+          "letter": "C",
+          "text": "It shows the rules are checked regularly, not only once.",
+          "is_correct": true,
+          "feedback": "Correct! A regular schedule shows that the rules are applied continuously, not as a single decision."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "It suggests the committee has run out of funds.",
           "is_correct": false,
-          "feedback": "'handbag' is a small bag held in the hand, usually for personal items."
+          "feedback": "Nothing in the sentence concerns the funds of the committee."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "Frequency expressions in a text are rarely decorative. Here the schedule shows the rules have a permanent mechanism behind them.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle",
       "periodo": 31,
@@ -684,40 +684,40 @@
     },
     {
       "id": "HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which question would the reader be least able to answer after reading the text?",
+      "context": "A text about water management explains the causes of the shortage and the local response to it.",
       "options": [
         {
-          "letter": "C",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "'overseas' means in or to a foreign country, especially one across the sea."
-        },
-        {
           "letter": "A",
-          "text": "domestic",
+          "text": "Why the region suffers from a water shortage.",
           "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
+          "feedback": "The causes of the shortage are explained in the opening of the text."
         },
         {
           "letter": "B",
-          "text": "local",
+          "text": "How the community stores and treats water.",
           "is_correct": false,
-          "feedback": "'local' means belonging to a small area nearby, not to a foreign country."
+          "feedback": "The storage and treatment of water are described in the middle sections."
+        },
+        {
+          "letter": "C",
+          "text": "What rules the community agreed to follow.",
+          "is_correct": false,
+          "feedback": "The agreed rules are set out in the later paragraphs."
         },
         {
           "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "'national' means concerning the whole nation and says nothing about being abroad."
+          "text": "How much a new roof costs in the capital.",
+          "is_correct": true,
+          "feedback": "Correct! The text says nothing about the price of roofs, so that question remains unanswered."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "A reader can only answer what the text actually covers. Questions about unrelated costs are left unanswered by design.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle",
       "periodo": 31,
@@ -729,37 +729,37 @@
     },
     {
       "id": "HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence would not belong in this text?",
+      "context": "A text treats water management in a dry region, with examples of tanks, rules and meetings.",
       "options": [
         {
           "letter": "A",
-          "text": "budget",
+          "text": "There are twenty-four different species of parrot in the region.",
           "is_correct": true,
-          "feedback": "'budget' is an estimate of income and expenditure planned for a set period."
+          "feedback": "Correct! The number of parrot species has no connection to water management and does not belong."
         },
         {
           "letter": "B",
-          "text": "expense",
+          "text": "The committee meets twice a month to review the supply.",
           "is_correct": false,
-          "feedback": "'expense' is a single amount of money that is spent, not the plan for a whole period."
+          "feedback": "The meeting schedule is part of the account of how the rules are applied."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "Storage tanks were built on the roofs of the oldest houses.",
           "is_correct": false,
-          "feedback": "'cost' is what one item or one service costs, again not an estimate for a period."
+          "feedback": "The storage tanks are one of the measures the text describes."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "The rules were accepted after a public meeting in the village.",
           "is_correct": false,
-          "feedback": "'price' is the sum a customer pays for one product; a budget covers income and spending together."
+          "feedback": "The public meeting is the example that shows how the rules were agreed."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "explanation": "A sentence belongs when it supports the subject of the text. A fact about birds has no link to the water supply.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -774,37 +774,37 @@
     },
     {
       "id": "HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "What is the attitude of the writer towards the community rules?",
+      "context": "A text treats the community agreements as the decisive part of a water management programme.",
       "options": [
         {
-          "letter": "C",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium."
-        },
-        {
           "letter": "A",
-          "text": "warranty",
+          "text": "Hostile, because the text criticises the people who break them.",
           "is_correct": false,
-          "feedback": "'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge."
+          "feedback": "The text does not criticise the community, and the writer's tone is approving."
         },
         {
           "letter": "B",
-          "text": "guarantee",
+          "text": "Positive, because the text presents them as the element that makes the works succeed.",
+          "is_correct": true,
+          "feedback": "Correct! The writer supports the rules, since the text closes by presenting them as the decisive element."
+        },
+        {
+          "letter": "C",
+          "text": "Indifferent, because the writer never mentions them.",
           "is_correct": false,
-          "feedback": "'guarantee' is a general promise of quality and does not involve paying a premium."
+          "feedback": "The rules occupy a central part of the text, so they are not ignored."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "Doubtful, because the text says they failed completely.",
           "is_correct": false,
-          "feedback": "'policy' is the written document that states what an insurance contract covers."
+          "feedback": "The text presents the programme as working, not as a complete failure."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "Attitude is inferred from the choices the writer makes: what is emphasised, approved or criticised. A text that ends by praising an element is positive towards it.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -819,37 +819,37 @@
     },
     {
       "id": "HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which option would make the best concluding sentence for a text like this one?",
+      "context": "A text explains a community programme and is expected to end by generalising its lesson.",
       "options": [
         {
           "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "'vaccination' is the treatment with a vaccine that makes the body immune to a disease."
+          "text": "The wells are located near the river that feeds them.",
+          "is_correct": false,
+          "feedback": "The location of the wells is a fact that belongs in the body of the text."
         },
         {
           "letter": "B",
-          "text": "medication",
+          "text": "The committee was created in the year 1996.",
           "is_correct": false,
-          "feedback": "'medication' is a drug taken to treat an illness, not to prevent one."
+          "feedback": "The date of the committee is a piece of information, not a conclusion."
         },
         {
           "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "'prescription' is the written order that authorises a medicine, not the treatment itself."
+          "text": "The programme will last only if the agreements are kept by everyone.",
+          "is_correct": true,
+          "feedback": "Correct! This sentence generalises the lesson of the text rather than adding a new detail."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "Rainfall in the region has decreased over the last decade.",
           "is_correct": false,
-          "feedback": "'infection' is the disease itself, the opposite of the protection a vaccination gives."
+          "feedback": "The decrease in rainfall belongs in the section on the causes."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "C",
+      "explanation": "A conclusion generalises, it does not introduce a new fact. The first option takes the details of the text and draws the general lesson from them.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -864,37 +864,37 @@
     },
     {
       "id": "HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which of the following best captures the purpose of the whole text?",
+      "context": "A text presents a community response to a water shortage and argues that the approach works.",
       "options": [
         {
-          "letter": "D",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight."
-        },
-        {
           "letter": "A",
-          "text": "fatigue",
+          "text": "To entertain the reader with an account of a long journey.",
           "is_correct": false,
-          "feedback": "'fatigue' is tiredness that can come from any long effort, not specifically from a flight."
+          "feedback": "There is no narrative journey to entertain the reader with."
         },
         {
           "letter": "B",
-          "text": "exhaustion",
+          "text": "To list the personal details of several committee members.",
           "is_correct": false,
-          "feedback": "'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep."
+          "feedback": "No personal details of members are given."
         },
         {
           "letter": "C",
-          "text": "insomnia",
+          "text": "To persuade readers to visit the region as tourists.",
           "is_correct": false,
-          "feedback": "'insomnia' is the inability to fall asleep, which has many causes besides travel."
+          "feedback": "The text never addresses tourism and does not invite a visit."
+        },
+        {
+          "letter": "D",
+          "text": "To explain and justify a local response to an environmental problem.",
+          "is_correct": true,
+          "feedback": "Correct! The text explains a response and defends it, which is an informational and persuasive purpose."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "explanation": "Purpose is the action the text performs on the reader. Explaining and justifying an answer to a problem is a purpose, and the others belong to other genres.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
