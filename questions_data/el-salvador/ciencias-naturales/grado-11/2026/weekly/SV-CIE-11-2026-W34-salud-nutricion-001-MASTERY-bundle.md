@@ -26,459 +26,459 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v1
 **Bloom:** Understand
-**EJE:** salud nutricion
+**EJE:** salud-nutricion
 **Expected_Success:** 0.80
-**Contexto:** Clase de ciencias en Soyapango estudiando salud nutricion.
+**Contexto:** Karla analiza la etiqueta nutricional de un cereal en la clase de biología de Santa Tecla.
 
 ### Enunciado
-¿Qué proceso conviierte luz solar en energía química en las plantas?
+¿Qué información de la etiqueta nutricional indica cuánto de la energía diaria recomendada aporta el producto?
 
 ### Opciones
-- [x] A) Fotosíntesis
-  <!-- feedback: En la fotosíntesis las plantas captan la energía de la luz y la guardan como enlaces químicos en la glucosa. -->
-- [ ] B) Respiración celular
-  <!-- feedback: La respiración celular libera energía a partir de la glucosa ya elaborada; no es la que convierte la luz en energía química. -->
-- [ ] C) Fermentación
-  <!-- feedback: La fermentación es una vía anaerobia que produce etanol o láctico a partir de azúcares, sin intervenir la luz. -->
-- [ ] D) Digestión
-  <!-- feedback: La digestión es la degradación de los alimentos en el cuerpo; ocurre dentro del organismo y no en la planta iluminada. -->
+- [x] A) El porcentaje de valor diario que aparece junto a cada nutriente
+  <!-- feedback: Correcto. La etiqueta expresa cada cantidad como porcentaje del valor diario de referencia. Asi el comprador puede saber de un vistazo si el producto aporta mucho o poco de lo que necesita en un dia. -->
+- [ ] B) El peso total del envase en gramos
+  <!-- feedback: El peso del envase dice cuanto producto hay, pero no cuanto valor nutricional aporta. Para eso estan los porcentajes de valor diario, que comparan la cantidad con la referencia de una dieta normal. -->
+- [ ] C) El número de calories por cada 100 gramos
+  <!-- feedback: Las calorías por 100 gramos indican la densidad energetica del alimento, y no la proporcion de una dieta completa. El porcentaje de valor diario es el que indica cuanto cubre el producto de las necesidades diarias. -->
+- [ ] D) La lista de ingredientes ordenados por cantidad
+  <!-- feedback: La lista de ingredientes informa de que lleva el producto y en que proporción. Lo que permite saber cuanto aporta respecto a la dieta diaria es el porcentaje de valor diario, y no el orden de la lista. -->
 
 ### Explicacion Pedagogica
-La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.
+El porcentaje de valor diario compara la cantidad de un nutriente con la referencia de una dieta equilibrada. Valores altos indican que el producto aporta mucho de ese nutriente en una sola ración.
 
 ## Question 2 [D3-D4]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v2
-**Bloom:** Apply
-**EJE:** salud nutricion
+**Bloom:** Understand
+**EJE:** salud-nutricion
 **Expected_Success:** 0.80
-**Contexto:** Clase de ciencias en San Salvador estudiando salud nutricion.
+**Contexto:** Mateo lleva el almuerzo a la escuela y lo come junto a sus compañeros en San Miguel.
 
 ### Enunciado
-Objeto de 5 kg acelera a 5 m/s². ¿Fuerza aplicada? (F=ma)
+¿Por qué las vitaminas del grupo B son esenciales para el organismo humano?
 
 ### Opciones
-- [x] D) 25 N
-  <!-- feedback: La segunda ley de Newton da $F = ma = 5\,\text{kg} \times 5\,\text{m/s}^2 = 25\,\text{N}$. -->
-- [ ] A) 20 N
-  <!-- feedback: Se obtendría con una aceleración de 4\,\text{m/s}^2$, pero el enunciado da 5\,\text{m/s}^2 y el producto es 25. -->
-- [ ] B) 30 N
-  <!-- feedback: Se obtendría con una aceleración de 6\,\text{m/s}^2$, pero el enunciado da 5\,\text{m/s}^2 y el producto es 25. -->
-- [ ] C) 5 N
-  <!-- feedback: Ese número es la masa del objeto; la fuerza exige multiplicarla por la aceleración, y $m \times a = 25\,\text{N}$. -->
+- [x] B) Porque participates en el metabolismo de la energía liberada de los alimentos
+  <!-- feedback: Correcto. Las vitaminas del grupo B actúan como cofactores en reacciones que liberan la energía de los carbohidratos. Sin ellas, el cuerpo no puede aprovechar bien lo que come, aunque haya suficiente alimento. -->
+- [ ] A) Porque forman directamente los huesos y los dientes junto al calcio
+  <!-- feedback: Los huesos necesitan calcio, y a veces vitamina D para fijar ese calcio. Las vitaminas del grupo B no participan en esa estructura, y su funcion se relaciona con el metabolismo de la energía. -->
+- [ ] C) Porque son la única fuente de oxígeno para la sangre
+  <!-- feedback: El oxígeno lo transporta la hemoglobina de la sangre y llega por la respiracion, no por la dieta. Las vitaminas del grupo B no producen oxigeno, y su papel esta en permitir que se aproveche la energía de los alimentos. -->
+- [ ] D) Porque aumentan directamente la masa muscular del cuerpo
+  <!-- feedback: La masa muscular depende del ejercicio y de las proteínas de la dieta, entre otros factores. Las vitaminas del grupo B ayudan a liberar energia para el trabajo muscular, y no a aumentar el volumen del músculo por si mismas. -->
 
 ### Explicacion Pedagogica
-F = ma = 5×5 = 25 N.
+Las vitaminas del grupo B son cofactores de reacciones enzimáticas que degradan glucosa y grasas. Por eso se necesitan en pequeñas cantidades, pero su ausencia impide aprovechar la energía de los alimentos.
 
 ## Question 3 [D3-D4]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v3
-**Bloom:** Remember
-**EJE:** salud nutricion
-**Expected_Success:** 0.85
-**Contexto:** Clase de ciencias en Soyapango estudiando salud nutricion.
+**Bloom:** Understand
+**EJE:** salud-nutricion
+**Expected_Success:** 0.80
+**Contexto:** Lucía lee sobre elabolism de las proteínas en la clase de biología de Soyapango.
 
 ### Enunciado
-¿Cuál es el órgano más grande del cuerpo humano?
+¿Qué ocurre con las proteínas de la dieta que el cuerpo no utiliza para construir tejidos?
 
 ### Opciones
-- [x] C) La piel
-  <!-- feedback: La piel es el órgano más grande del cuerpo humano y pesa cerca de 4 kg en un adulto. -->
-- [ ] A) El hígado
-  <!-- feedback: El hígado es la glándula más grande, de unos 1,5 kg, pero no el órgano de mayor tamaño. -->
-- [ ] B) El corazón
-  <!-- feedback: El corazón es una bomba muscular pequeña, de unos 300 g de masa. -->
-- [ ] D) Los pulmones
-  <!-- feedback: Los pulmones son órganos pares que ocupan buena parte de la cavidad torácica, pero no el máximo tamaño corporal. -->
+- [x] A) Que se degradan y sus componentes nitrogenados se eliminan en la orina
+  <!-- feedback: Correcto. Las proteinas que sobran se rompen en aminoacidos y sus grupos nitrogenados se convierten en urea. Esa urea se filtra en el rinn y se expulsa por la orina, y el resto se puede usar como energia. -->
+- [ ] B) Que se almacenan en el hígado sin llegar a eliminarse nunca
+  <!-- feedback: El higado almacena glucogeno y grasa, y no guarda proteins indefinidamente. Lo que no se usa para formar tejidos acaba degradandose, y sus restos nitrogenados se eliminan por la orina. -->
+- [ ] C) Que se convierten directamente en glucosa dentro del hígado
+  <!-- feedback: Las proteinas no se convierten de forma directa en glucosa en condiciones normales. Lo que se almacena como reserva de hidratos de carbono procede del glucogeno, y no de las proteinas de la dieta de la dieta. -->
+- [ ] D) Que se acumulan en los músculos hasta saturar el almacenamiento
+  <!-- feedback: Los musculos almacenan glucogeno, y no grandes cantidades de proteina. El exceso de proteina se degrada, y si hay mas de lo que el organismo puede usar, se elimina como residuo nitrogenado. -->
 
 ### Explicacion Pedagogica
-La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.
+El catabolismo de proteinas libera aminoacidos, y de su grupo nitrogenado se forma urea. Esa sustancia se filtra en el rinn y se elimina por la orina, lo que regula el balance de nitrogeno del organismo.
 
-## Question 4 [D3-D4]
+## Question 4 [D5-D6]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v4
-**Bloom:** Analyze
-**EJE:** salud nutricion
-**Expected_Success:** 0.70
-**Contexto:** Clase de ciencias en San Miguel estudiando salud nutricion.
+**Bloom:** Apply
+**EJE:** salud-nutricion
+**Expected_Success:** 0.80
+**Contexto:** Andrés calcula las calorías de su desayuno en la clase de nutrición de San Salvador.
 
 ### Enunciado
-En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?
+¿Qué nutrimento proporciona aproximadamente 9 kilocalorías por cada gramo?
 
 ### Opciones
-- [x] D) La exposición a la luz
-  <!-- feedback: Es la variable que el investigador modifica deliberadamente, y por eso es la independiente. -->
-- [ ] A) El crecimiento de las plantas
-  <!-- feedback: El crecimiento es lo que se mide al final para comparar; al responder a la luz, es la variable dependiente. -->
-- [ ] B) La temperatura ambiente
-  <!-- feedback: La temperatura no se está variando en el experimento, así que no es la variable independiente. -->
-- [ ] C) El tipo de planta
-  <!-- feedback: Se mantuvo el mismo tipo de planta en ambos grupos, por lo que no es la variable que se modifica. -->
+- [x] C) Las grasas, que aportan más del doble de energía que los carbohidratos
+  <!-- feedback: Correcto. Un gramo de grasa aporta unas 9 kilocalorias, mientras que un gramo de hidratos de carbono o de proteina aporta unas 4. Por eso las grasas, pese a ser pequeñas en cantidad, elevan mucho el valor energetico de un alimento. -->
+- [ ] A) Los carbohidratos, que aportan la energía principal de la dieta
+  <!-- feedback: Los hidratos de carbono aportan unas 4 kilocalorias por gramo. Aunque son la fuente energetica mas abundante, no alcanzan el valor calorico de las grasas por gramo. -->
+- [ ] B) Las proteínas, que construyen los tejidos del cuerpo
+  <!-- feedback: Las proteinas aportan tambien unas 4 kilocalorias por gramo. Su funcion principal es construir y reparar tejidos, y no aportan tanta energia por gramo como la grasa. -->
+- [ ] D) Las vitaminas, que no aportan energía pero son necesarias
+  <!-- feedback: Las vitaminas no tienen valor calorico, porque no aportan kilocalorias. Aunque son imprescindible para el metabolismo, no deben usarse para medir la energia que aporta un alimento. -->
 
 ### Explicacion Pedagogica
-La variable independiente es la que manipula el investigador: la luz.
+Las grasas son el nutrimento mas energetico con unas 9 kilocalorias por gramo, frente a las 4 de los hidratos de carbono y de las proteinas. Las vitaminas, por su parte, no aportan energia alguna.
 
 ## Question 5 [D5-D6]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v5
-**Bloom:** Remember
-**EJE:** salud nutricion
-**Expected_Success:** 0.85
-**Contexto:** Clase de ciencias en San Miguel estudiando salud nutricion.
+**Bloom:** Apply
+**EJE:** salud-nutricion
+**Expected_Success:** 0.80
+**Contexto:** Sofía lee la etiqueta de una bebida isotónica en la clase de nutrición de Ahuachapán.
 
 ### Enunciado
-¿Cuál es la unidad básica de la vida?
+¿Por qué las bebidas isotónicas se recomiendan después de hacer ejercicio intenso?
 
 ### Opciones
-- [x] A) La célula
-  <!-- feedback: La célula es la unidad mínima capaz de vivir de forma autónoma, y en ella ocurren las funciones de la vida. -->
-- [ ] B) El átomo
-  <!-- feedback: El átomo es la unidad mínima de la materia, pero no tiene vida propia. -->
-- [ ] C) La molécula
-  <!-- feedback: Una molécula es un conjunto de átomos; solo algunas, como las de la biología, forman estructuras vivas. -->
-- [ ] D) El tejido
-  <!-- feedback: El tejido es un conjunto de células del mismo tipo, por lo que es más complejo que la célula. -->
+- [x] B) Porque reponen agua y sales minerales perdidas con el sudor
+  <!-- feedback: Correcto. Durante el ejercicio se pierden agua, sodio y otros iones por la sudoración. Una bebida isotónica repone esa pérdida, porque tiene una concentración de sales parecida a la de los líquidos del cuerpo. -->
+- [ ] A) Porque contienen azúcar suficiente para sustituir una comida completa
+  <!-- feedback: Una bebida isotónica aporta agua, sales y algo de azúcar, pero no proteinas ni vitaminas. Sustituir una comida entera con una bebida de este tipo deja sin nutrientes esenciales a quien la toma. -->
+- [ ] C) Porque llevan gases que ayudan a digerir el alimento
+  <!-- feedback: Los gases de las bebidas no tienen relacion con la reposición de sales. La utilidad de una bebida isotónica está en su contenido de electrolitos, y no en la presencia de carbonatación alguna. -->
+- [ ] D) Porque son más caras y por eso tienen mejor calidad nutricional
+  <!-- feedback: El precio de un producto no determina su valor nutricional. Lo que hace que una bebida sea isotónica es su concentracion de sales, y no lo que se cobre por ella. -->
 
 ### Explicacion Pedagogica
-La célula es la unidad estructural y funcional básica de los seres vivos.
+El sudor pierde agua y electrolitos como el sodio. Las bebidas isotónicas contienen una proporción de sales parecida a la del líquido corporal, de modo que hidratan y repponen esos iones sin descompensar el equilibrio osmótico.
 
 ## Question 6 [D5-D6]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**EJE:** salud nutricion
+**EJE:** salud-nutricion
 **Expected_Success:** 0.80
-**Contexto:** Clase de ciencias en San Salvador estudiando salud nutricion.
+**Contexto:** Carlos prepara una charla sobre la fibra en la dieta en la clase de biología de San Francisco Gotera.
 
 ### Enunciado
-¿Qué proceso conviierte luz solar en energía química en las plantas?
+¿Qué beneficio principal aportan las fibras dietéticas al funcionamiento del intestino?
 
 ### Opciones
-- [x] C) Fotosíntesis
-  <!-- feedback: En la fotosíntesis las plantas captan la energía de la luz y la guardan como enlaces químicos en la glucosa. -->
-- [ ] A) Respiración celular
-  <!-- feedback: La respiración celular libera energía a partir de la glucosa ya elaborada; no es la que convierte la luz en energía química. -->
-- [ ] B) Fermentación
-  <!-- feedback: La fermentación es una vía anaerobia que produce etanol o láctico a partir de azúcares, sin intervenir la luz. -->
-- [ ] D) Digestión
-  <!-- feedback: La digestión es la degradación de los alimentos en el cuerpo; ocurre dentro del organismo y no en la planta iluminada. -->
+- [x] A) Que aumentan el volumen del contenido intestinal y facilitan la eliminación
+  <!-- feedback: Correcto. Las fibras no se digieren en su mayor parte, de modo que retienen agua y dan volumen al bolo. Eso facilita el transito intestinal y previene el estreñimiento de forma mecánica y natural. -->
+- [ ] B) Que aportan calorías al igual que las grasas, por ser.Carbohidratos
+  <!-- feedback: Las fibras no aportan kilocalorias apreciables, porque el organismo no las digiere. Su papel es estructural en el intestino, y no energetico como el de las grasas o los hidratos de carbono. -->
+- [ ] C) Que digieren el alimento en el estómago antes de llegar al intestino
+  <!-- feedback: La digestion de los alimentos ocurre en la boca, el estomago y el intestino delgado. Las fibras llegan al intestino sin haber sido digeridas, y alli es donde cumplen su funcion de dar volumen al contenido. -->
+- [ ] D) Que aumentan la absorción de vitaminas en el intestino delgado
+  <!-- feedback: Las fibras pueden incluso reducir la absorcion de algunos nutrientes si son excesivo. Lo que aportan es volumen y regularidad, y no una mejora de la absorcion de vitaminas. -->
 
 ### Explicacion Pedagogica
-La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.
+Las fibras alimentarias no se digieren, pero retienen agua y dan volumen al contenido del intestino. Ese efecto favorece el transito y la eliminacion, y por eso se recomiendan en una dieta equilibrada.
 
-## Question 7 [D5-D6]
+## Question 7 [D7-D8]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** salud nutricion
+**EJE:** salud-nutricion
 **Expected_Success:** 0.80
-**Contexto:** Clase de ciencias en San Salvador estudiando salud nutricion.
+**Contexto:** Iván analiza un hemograma en el laboratorio de la clase de biologia de Ayutuxte.
 
 ### Enunciado
-Objeto de 4 kg acelera a 3 m/s². ¿Fuerza aplicada? (F=ma)
+¿Qué respuesta del organismo indica una deficiencia de hierro?
 
 ### Opciones
-- [x] D) 12 N
-  <!-- feedback: La segunda ley de Newton da $F = ma = 4\,\text{kg} \times 3\,\text{m/s}^2 = 12\,\text{N}$. -->
-- [ ] A) 8 N
-  <!-- feedback: Se obtendría con una aceleración de 2\,\text{m/s}^2$, pero el enunciado da 3\,\text{m/s}^2 y el producto es 12. -->
-- [ ] B) 15 N
-  <!-- feedback: Se obtendría con una masa de 5\,\text{kg}$, pero el objeto indicado pesa 4\,\text{kg}$. -->
-- [ ] C) 4 N
-  <!-- feedback: Ese número es la masa del objeto; la fuerza exige multiplicarla por la aceleración, y $m \times a = 12\,\text{N}$. -->
+- [x] C) Menos hemoglobina, porque el hierro es necesario para transportar oxígeno
+  <!-- feedback: Correcto. El hierro forma parte del grupo hemo de la hemoglobina. Sin suficiente hierro, la sangre fabrica menos hemoglobina, el oxigeno llega peor a los tejidos y aparece la anemia. -->
+- [ ] A) Más glucosa en sangre, porque el hierro acelera su absorción
+  <!-- feedback: El hierro tiene que ver con el transporte de oxigeno, y no con el control de la glucosa. Un exceso de glucosa en sangre se relaciona con problemas de metabolismo de los hidratos de carbono. -->
+- [ ] B) Menos sodio, porque el hierro se combina con él en la sangre
+  <!-- feedback: El sodio es un mineral que se mantiene disuelto por sí solo en los líquidos del cuerpo. No necesita hierro para estar presente, de modo que la deficiencia de hierro no reduce el sodio circulante. -->
+- [ ] D) Más calcio en los huesos, porque el hierro se fija en el esqueleto
+  <!-- feedback: El calcio se fija en el hueso con ayuda de la vitamina D, y no del hierro. Una deficiencia de hierro produce anemia, y no un aumento del calcio óseo. -->
 
 ### Explicacion Pedagogica
-F = ma = 4×3 = 12 N.
+El hierro es un componente del grupo hemo de la hemoglobina. Cuando falta, la sangre produce menos hemoglobina y los tejidos reciben menos oxigeno, lo que produce anemia y cansancio.
 
-## Question 8 [D5-D6]
+## Question 8 [D7-D8]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v8
-**Bloom:** Remember
-**EJE:** salud nutricion
-**Expected_Success:** 0.85
-**Contexto:** Clase de ciencias en San Salvador estudiando salud nutricion.
+**Bloom:** Evaluate
+**EJE:** salud-nutricion
+**Expected_Success:** 0.80
+**Contexto:** Wendy revisa las recomendaciones de la clase de salud de San Juan Bautista.
 
 ### Enunciado
-¿Cuál es el órgano más grande del cuerpo humano?
+¿Por qué se recomienda consumir alimentos con grasas insaturadas en lugar de grasas trans?
 
 ### Opciones
-- [x] B) La piel
-  <!-- feedback: La piel es el órgano más grande del cuerpo humano y pesa cerca de 4 kg en un adulto. -->
-- [ ] A) El hígado
-  <!-- feedback: El hígado es la glándula más grande, de unos 1,5 kg, pero no el órgano de mayor tamaño. -->
-- [ ] C) El corazón
-  <!-- feedback: El corazón es una bomba muscular pequeña, de unos 300 g de masa. -->
-- [ ] D) Los pulmones
-  <!-- feedback: Los pulmones son órganos pares que ocupan buena parte de la cavidad torácica, pero no el máximo tamaño corporal. -->
+- [x] B) Porque las grasas insaturadas ayudan a mantener niveles adecuados de colesterol
+  <!-- feedback: Correcto. Las grasas insaturadas tienen dobles enlaces en su cadena y ayudan a reducir el colesterol LDL. Las grasas trans, en cambio, elevan el colesterol LDL y aumentan el riesgo de enfermedad cardiovascular. -->
+- [ ] A) Porque las grasas insaturadas no aportan calorías al cuerpo
+  <!-- feedback: Las grasas insaturadas siguen aportando 9 kilocalorias por gramo, igual que las saturadas. Lo que cambia es su efecto sobre el colesterol, y no su valor energetico, que es el mismo. -->
+- [ ] C) Porque las grasas trans no se digieren en el intestino
+  <!-- feedback: Las grasas trans si se digieren y se absorben en el intestino. El problema con ellas no es la digestibilidad, sino el efecto adverso que ejercen sobre los niveles de colesterol en la sangre. -->
+- [ ] D) Porque las grasas insaturadas contienen vitaminas y las trans no
+  <!-- feedback: La presencia de vitaminas no depende del grado de insaturación de la grasa. Las grasas no llevan vitaminas, y lo que distingue a unas de otras es su estructura química y su efecto en la salud cardiovascular. -->
 
 ### Explicacion Pedagogica
-La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.
+Las grasas insaturadas contienen dobles enlaces que reducen el colesterol LDL, el llamado colesterol malo. Las grasas trans, aunque también son insaturadas, elevan ese colesterol y elevan el riesgo de infarto y de ACV.
 
-## Question 9 [D5-D6]
+## Question 9 [D7-D8]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v9
-**Bloom:** Analyze
-**EJE:** salud nutricion
-**Expected_Success:** 0.70
-**Contexto:** Clase de ciencias en San Miguel estudiando salud nutricion.
+**Bloom:** Understand
+**EJE:** salud-nutricion
+**Expected_Success:** 0.80
+**Contexto:** Rosa María explica a sus compañeros cómo funciona el equilibrio entre la insulina y el glucosa en la clase de salud de San Vicente.
 
 ### Enunciado
-En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?
+¿Qué ocurre en el organismo después de una comida rica en carbohidratos?
 
 ### Opciones
-- [x] D) La exposición a la luz
-  <!-- feedback: Es la variable que el investigador modifica deliberadamente, y por eso es la independiente. -->
-- [ ] A) El crecimiento de las plantas
-  <!-- feedback: El crecimiento es lo que se mide al final para comparar; al responder a la luz, es la variable dependiente. -->
-- [ ] B) La temperatura ambiente
-  <!-- feedback: La temperatura no se está variando en el experimento, así que no es la variable independiente. -->
-- [ ] C) El tipo de planta
-  <!-- feedback: Se mantuvo el mismo tipo de planta en ambos grupos, por lo que no es la variable que se modifica. -->
+- [x] A) La insulina aumenta y permite que las células capten glucosa de la sangre
+  <!-- feedback: Correcto. Al subir la glucosa tras la comida, el pancreas libera insulina. Esa hormona hace que las células del organismo absorban glucosa y la conviertan en energia o la guarden como glucogeno. -->
+- [ ] B) El pancreas deja de producir insulina para ahorrar energía
+  <!-- feedback: La insulina se libera precisamente cuando la glucosa sube, no para ahorrar. Si la secreción decrease, la glucosa permanece alta en sangre, y eso es lo que ocurre en la diabetes. -->
+- [ ] C) El hígado destruye toda la glucosa antes de que llegue a la sangre
+  <!-- feedback: El higado regula la glucosa, pero no la destruye por completo tras una comida. Parte se consume como energia y parte se almacena como glucogeno para las horas siguientes. -->
+- [ ] D) Los músculos almacenan toda la glucosa sin necesidad de insulina
+  <!-- feedback: Los músculos usan la insulina para captar glucosa del plasma. Sin esa hormona, la glucosa queda circulando en la sangre en lugar de entrar en las células, y por eso su niveles se elevan. -->
 
 ### Explicacion Pedagogica
-La variable independiente es la que manipula el investigador: la luz.
+Tras una comida, la glucosa aumenta y el pancreas responde liberando insulina. La insulina facilita la entrada de glucosa en las células y su almacenamiento como glucogeno, con lo que la cifra de glucosa en sangre vuelve a su rango normal.
 
-## Question 10 [D5-D6]
+## Question 10 [D7-D8]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v10
-**Bloom:** Remember
-**EJE:** salud nutricion
-**Expected_Success:** 0.85
-**Contexto:** Clase de ciencias en San Miguel estudiando salud nutricion.
+**Bloom:** Evaluate
+**EJE:** salud-nutricion
+**Expected_Success:** 0.80
+**Contexto:** Priscilla revisa la lista de additives en un producto de la clase de nutrición de San Juan Bautista.
 
 ### Enunciado
-¿Cuál es la unidad básica de la vida?
+¿Qué criterio es más adecuado para elegir un alimento según su lista de ingredientes?
 
 ### Opciones
-- [x] A) La célula
-  <!-- feedback: La célula es la unidad mínima capaz de vivir de forma autónoma, y en ella ocurren las funciones de la vida. -->
-- [ ] B) El átomo
-  <!-- feedback: El átomo es la unidad mínima de la materia, pero no tiene vida propia. -->
-- [ ] C) La molécula
-  <!-- feedback: Una molécula es un conjunto de átomos; solo algunas, como las de la biología, forman estructuras vivas. -->
-- [ ] D) El tejido
-  <!-- feedback: El tejido es un conjunto de células del mismo tipo, por lo que es más complejo que la célula. -->
+- [x] D) Que los ingredientes naturales aparezcan primero en la lista
+  <!-- feedback: Correcto. Los ingredientes se ordenan por cantidad decreciente, de manera que los primeros son los que mas abunda. Que los naturales figuren al principio es un indicio de que el producto es poco procesado. -->
+- [ ] A) Que la lista tenga menos de tres ingredientes en total
+  <!-- feedback: El numero de ingredientes no dice nada sobre la calidad. Un producto puede tener dos ingredientes y ser muy azucarado, mientras que otro con ocho puede ser equilibrado si sus proporciones son buenas. -->
+- [ ] B) Que no contenga ninguna palabra de más de diez letras
+  <!-- feedback: La longitud de las palabras no tiene relacion con la seguridad alimentaria. Lo que importa es identificar los aditivos y su cantidad, y no la extension de los nombres que aparecen en la etiqueta. -->
+- [ ] C) Que termine con la palabra natural en el último ingrediente
+  <!-- feedback: La posicion de la palabra natural no aporta informacion real. El orden de la lista solo indica cantidades, de modo que hay que leer los ingredientes en ese orden y no buscar palabras comodin al final. -->
 
 ### Explicacion Pedagogica
-La célula es la unidad estructural y funcional básica de los seres vivos.
+La lista de ingredientes se ordena por cantidad decreciente. Por eso los primeros de la lista son los que mas aportan al producto, y revisar ese orden es la forma practica de saber que lleva realmente.
 
 ## Question 11 [D7-D8]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v11
-**Bloom:** Understand
-**EJE:** salud nutricion
+**Bloom:** Remember
+**EJE:** salud-nutricion
 **Expected_Success:** 0.80
-**Contexto:** Clase de ciencias en Mejicanos estudiando salud nutricion.
+**Contexto:** Christian prepara una maqueta del aparato digestivo en la clase de biología de Antiguo Cuscatlán.
 
 ### Enunciado
-¿Qué proceso conviierte luz solar en energía química en las plantas?
+En qué parte del aparato digestivo se absorbe la mayor parte de los nutrientes?
 
 ### Opciones
-- [x] B) Fotosíntesis
-  <!-- feedback: En la fotosíntesis las plantas captan la energía de la luz y la guardan como enlaces químicos en la glucosa. -->
-- [ ] A) Respiración celular
-  <!-- feedback: La respiración celular libera energía a partir de la glucosa ya elaborada; no es la que convierte la luz en energía química. -->
-- [ ] C) Fermentación
-  <!-- feedback: La fermentación es una vía anaerobia que produce etanol o láctico a partir de azúcares, sin intervenir la luz. -->
-- [ ] D) Digestión
-  <!-- feedback: La digestión es la degradación de los alimentos en el cuerpo; ocurre dentro del organismo y no en la planta iluminada. -->
+- [x] A) En el intestino delgado, gracias a las vellosidades que aumentan la superficie
+  <!-- feedback: Correcto. El intestino delgado tiene pliegues, vellosidades y microvellosidades que multiplican la superficie de contacto. Gracias a esa estructura, absorve la mayor parte de los nutrientes de la dieta antes de que lleguen al intestino grueso. -->
+- [ ] B) En el estómago, porque allí se mezclan los alimentos con los jugos
+  <!-- feedback: En el estomago ocurre parte de la digestion de proteinas y se regula la velocidad del vaciamiento. La absorcion de nutrientes, sin embargo, ocurre de forma mayoritaria en el intestino delgado. -->
+- [ ] C) En el intestino grueso, porque retiene el alimento más tiempo
+  <!-- feedback: El intestino grueso absorbe agua y electrolitos, y en él se forman las heces. Los nutrientes principales ya fueron absorbidos antes, en el intestino delgado. -->
+- [ ] D) En la boca, porque la saliva comienza a absorber los azúcares
+  <!-- feedback: La saliva inicia la digestion de los almidones, y no su absorcion. La mucosa intestinal del intestino delgado es la que está especializada en captar los nutrientes hacia la sangre. -->
 
 ### Explicacion Pedagogica
-La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.
+El intestino delgado es el sitio principal de absorcion gracias a su enorme superficie, debida a las vellosidades y microvellosidades. Cada nutriente atraviese la mucosa y pasa a la sangre o a la linfa segun su naturaleza.
 
-## Question 12 [D7-D8]
+## Question 12 [D9-D10]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**EJE:** salud nutricion
+**EJE:** salud-nutricion
 **Expected_Success:** 0.80
-**Contexto:** Clase de ciencias en San Miguel estudiando salud nutricion.
+**Contexto:** Fernando compara dos dietas en la clase de salud de La Libertad.
 
 ### Enunciado
-Objeto de 6 kg acelera a 4 m/s². ¿Fuerza aplicada? (F=ma)
+¿Qué relación existe entre la actividad física y el gasto energético del organismo?
 
 ### Opciones
-- [x] A) 24 N
-  <!-- feedback: La segunda ley de Newton da $F = ma = 6\,\text{kg} \times 4\,\text{m/s}^2 = 24\,\text{N}$. -->
-- [ ] B) 18 N
-  <!-- feedback: Se obtendría con una aceleración de 3\,\text{m/s}^2$, pero el enunciado da 4\,\text{m/s}^2 y el producto es 24. -->
-- [ ] C) 28 N
-  <!-- feedback: Se obtendría con una masa de 7\,\text{kg}$, pero el objeto indicado pesa 6\,\text{kg}$. -->
-- [ ] D) 6 N
-  <!-- feedback: Ese número es la masa del objeto; la fuerza exige multiplicarla por la aceleración, y $m \times a = 24\,\text{N}$. -->
+- [x] B) Que cuanto más ejercicio se hace, mayor es el gasto de energía
+  <!-- feedback: Correcto. El músculo en actividad consume mas glucosa y libera mas calor que el músculo en reposo. Por eso el gasto energético total de una persona aumenta de forma notable con el ejercicio, y por eso se queman mas calorias. -->
+- [ ] A) Que el ejercicio no altera el gasto, porque el gasto depende solo de la temperatura
+  <!-- feedback: La temperatura ambiental tiene su efecto, pero el ejercicio es el factor que mas incrementa el gasto energético. Un esfuerzo moderado puede multiplicarlo varias veces respecto al reposo. -->
+- [ ] C) Que el ejercicio reduce el gasto, porque el cuerpo ahorra energía al moverse
+  <!-- feedback: El ahorro del cuerpo ocurre cuando hay escasez de alimento, y no durante el movimiento. Durante el esfuerzo los musculos consumen energia, de modo que el gasto total sube en lugar de bajar. -->
+- [ ] D) Que el gasto solo depende del peso, con independencia del esfuerzo
+  <!-- feedback: El peso influye en el gasto, y el esfuerzo tambien, y ambos determinan la energia consumida. Una persona que hace deporte gasta mas que otra del mismo peso pero sedentaria, porque sus musculos trabajan mas. -->
 
 ### Explicacion Pedagogica
-F = ma = 6×4 = 24 N.
+El gasto energético depende del tipo de actividad, de su intensidad y de su duración. El ejercicio aumenta el consumo de oxigeno y la quema de substrates del organismo, y por eso es un factor clave del balance energético.
 
-## Question 13 [D7-D8]
+## Question 13 [D9-D10]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v13
-**Bloom:** Remember
-**EJE:** salud nutricion
-**Expected_Success:** 0.85
-**Contexto:** Clase de ciencias en Soyapango estudiando salud nutricion.
+**Bloom:** Apply
+**EJE:** salud-nutricion
+**Expected_Success:** 0.80
+**Contexto:** Guadalupe y su equipo revisan el balance energético del proyecto de educacion para la salud de San Francisco Gotera.
 
 ### Enunciado
-¿Cuál es el órgano más grande del cuerpo humano?
+Si una persona ingiere 2.000 kilocalorías al día y gasta 2.300, ¿qué ocurre con su reserva de grasa?
 
 ### Opciones
-- [x] C) La piel
-  <!-- feedback: La piel es el órgano más grande del cuerpo humano y pesa cerca de 4 kg en un adulto. -->
-- [ ] A) El hígado
-  <!-- feedback: El hígado es la glándula más grande, de unos 1,5 kg, pero no el órgano de mayor tamaño. -->
-- [ ] B) El corazón
-  <!-- feedback: El corazón es una bomba muscular pequeña, de unos 300 g de masa. -->
-- [ ] D) Los pulmones
-  <!-- feedback: Los pulmones son órganos pares que ocupan buena parte de la cavidad torácica, pero no el máximo tamaño corporal. -->
+- [x] B) Que disminuye, porque el organismo usa la grasa almacenada para cubrir el déficit
+  <!-- feedback: Correcto. Un balance negativo de 300 kilocalorias obliga al organismo a recurrir a sus reservas. Esa grasa movilizada procede en buena medida del tejido adiposo, y por eso el deficit energetico adelgaza con el tiempo. -->
+- [ ] A) Que aumenta, porque comer menos de lo que se gasta hace crecer la grasa
+  <!-- feedback: La relacion es al reves. Cuando el gasto supera a la ingesta, no hay energia sobrante que se convierta en grasa, sino al contrario: el organismo consume la que ya tiene almacenada. -->
+- [ ] C) Que no cambia, porque las grasa almacenada no se usa nunca
+  <!-- feedback: Las reservas de grasa si se movilizan cuando falta energia en la dieta. El organismo prefiere usar la grasa antes que otros tejidos, y por eso un deficit prolongado adelgaza de forma visible. -->
+- [ ] D) Que se transforma en músculo, porque el ejercicio la convierte en fibras
+  <!-- feedback: Las reservas de grasa no se transforman en fibras musculares. Esa conversion de un tipo de tejido a otro no ocurre en el organismo humano, y el adelgazamiento se debe a la pérdida de esa misma grasa. -->
 
 ### Explicacion Pedagogica
-La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.
+El balance energético es la diferencia entre lo que se ingiere y lo que se gasta. Si es negativo, el organismo recurre a sus reservas, y con el tiempo eso reduce el tejido adiposo de forma progresiva.
 
-## Question 14 [D7-D8]
+## Question 14 [D9-D10]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** salud nutricion
-**Expected_Success:** 0.70
-**Contexto:** Clase de ciencias en San Salvador estudiando salud nutricion.
+**Bloom:** Evaluate
+**EJE:** salud-nutricion
+**Expected_Success:** 0.80
+**Contexto:** Sandra prepara material sobre higiene alimentaria en la clase de salud de Metapán.
 
 ### Enunciado
-En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?
+¿Qué medida de higiene alimentaria reduce mejor el riesgo de intoxicación por alimentos?
 
 ### Opciones
-- [x] B) La exposición a la luz
-  <!-- feedback: Es la variable que el investigador modifica deliberadamente, y por eso es la independiente. -->
-- [ ] A) El crecimiento de las plantas
-  <!-- feedback: El crecimiento es lo que se mide al final para comparar; al responder a la luz, es la variable dependiente. -->
-- [ ] C) La temperatura ambiente
-  <!-- feedback: La temperatura no se está variando en el experimento, así que no es la variable independiente. -->
-- [ ] D) El tipo de planta
-  <!-- feedback: Se mantuvo el mismo tipo de planta en ambos grupos, por lo que no es la variable que se modifica. -->
+- [x] A) Cocinar bien la carne y el huevo, hasta que alcancen una temperatura elevada
+  <!-- feedback: Correcto. El calentamiento alcanza temperaturas que destruyen los microorganismos causantes de intoxicaciones. Por eso cocinar a fondo la carne, el huevo y sus derivados es una de las medidas mas importantes en la cocina. -->
+- [ ] B) Lavar la fruta con agua antes de comerla
+  <!-- feedback: Lavar la fruta elimina parte de la suciedad, y eso está bien hecho, pero no elimina los microorganismos internos. Cocinar bien la came y el huevo es lo que destruye los gérmenes por calor. -->
+- [ ] C) Comprar siempre el alimento más caro del mercado
+  <!-- feedback: El precio de un alimento no indica que este libre de microorganismos. La seguridad depende de como se conserva y se cocina, y no de cuanto se pague por el producto. -->
+- [ ] D) Guardar los alimentos en su envase original y sin abrir
+  <!-- feedback: Mantener el envase cerrado evita la contaminación de fuera, pero no elimina los germenes que ya vienen dentro. La cocción elevada sigue siendo la medida que más protege frente a las intoxicaciones. -->
 
 ### Explicacion Pedagogica
-La variable independiente es la que manipula el investigador: la luz.
+La temperatura es el factor que más elimina microorganismos en la cocina. Cocinar a fondo la came, el huevo y los derivados reduce de forma decisiva el riesgo de intoxicacion alimentaria.
 
-## Question 15 [D7-D8]
+## Question 15 [D9-D10]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v15
 **Bloom:** Remember
-**EJE:** salud nutricion
-**Expected_Success:** 0.85
-**Contexto:** Clase de ciencias en Mejicanos estudiando salud nutricion.
-
-### Enunciado
-¿Cuál es la unidad básica de la vida?
-
-### Opciones
-- [x] C) La célula
-  <!-- feedback: La célula es la unidad mínima capaz de vivir de forma autónoma, y en ella ocurren las funciones de la vida. -->
-- [ ] A) El átomo
-  <!-- feedback: El átomo es la unidad mínima de la materia, pero no tiene vida propia. -->
-- [ ] B) La molécula
-  <!-- feedback: Una molécula es un conjunto de átomos; solo algunas, como las de la biología, forman estructuras vivas. -->
-- [ ] D) El tejido
-  <!-- feedback: El tejido es un conjunto de células del mismo tipo, por lo que es más complejo que la célula. -->
-
-### Explicacion Pedagogica
-La célula es la unidad estructural y funcional básica de los seres vivos.
-
-## Question 16 [D7-D8]
-**ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v16
-**Bloom:** Understand
-**EJE:** salud nutricion
+**EJE:** salud-nutricion
 **Expected_Success:** 0.80
-**Contexto:** Clase de ciencias en Soyapango estudiando salud nutricion.
+**Contexto:** Iván prepara un cartel sobre agua potable para el proyecto de salud de Ayutuxte.
 
 ### Enunciado
-¿Qué proceso conviierte luz solar en energía química en las plantas?
+¿Qué porcentaje aproximado del peso del cuerpo humano corresponde al agua?
 
 ### Opciones
-- [x] A) Fotosíntesis
-  <!-- feedback: En la fotosíntesis las plantas captan la energía de la luz y la guardan como enlaces químicos en la glucosa. -->
-- [ ] B) Respiración celular
-  <!-- feedback: La respiración celular libera energía a partir de la glucosa ya elaborada; no es la que convierte la luz en energía química. -->
-- [ ] C) Fermentación
-  <!-- feedback: La fermentación es una vía anaerobia que produce etanol o láctico a partir de azúcares, sin intervenir la luz. -->
-- [ ] D) Digestión
-  <!-- feedback: La digestión es la degradación de los alimentos en el cuerpo; ocurre dentro del organismo y no en la planta iluminada. -->
+- [x] C) Alrededor del 60 por ciento
+  <!-- feedback: Correcto. Cerca del 60 por ciento del peso de una persona adulta es agua. Esa proportion participa en el transporte de nutrientes, la regulacion de la temperatura y de countless reacciones quimicas dentro del organismo. -->
+- [ ] A) Alrededor del 5 por ciento
+  <!-- feedback: Cinco por ciento es una fraccion demasiado baja para el agua corporal. Un porcentaje tan pequeno no permitiria ni el transporte de sustancias ni la regulacion termica que el organismo necesita. -->
+- [ ] B) Alrededor del 90 por ciento
+  <!-- feedback: Noventa por ciento corresponde al agua en tejidos muy jóvenes o en algunos animales acuaticos. En el cuerpo humano adulto la proportion ronda el 60 por ciento, y no llega a ese nivel. -->
+- [ ] D) Alrededor del 25 por ciento
+  <!-- feedback: Veinticinco por ciento se acerca a la proporcion de grasa corporal media. El agua representa una cantidad bastante mayor en el organismohumano adulto, cercana a los tres quintos de su peso. -->
 
 ### Explicacion Pedagogica
-La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.
+El agua forma parte de la sangre, del citoplasma y de los tejidos blandos, y representa cerca del 60 por ciento del peso corporal en un adulto. Es el disolvente en el que ocurren la mayoria de las reacciones metabolicas.
+
+## Question 16 [D9-D10]
+**ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v16
+**Bloom:** Evaluate
+**EJE:** salud-nutricion
+**Expected_Success:** 0.80
+**Contexto:** Karla y sus compañeros comparan el contenido de dosoxicillin etiquetas de productos en el aula de San Francisco Gotera.
+
+### Enunciado
+Si dos alimentos aportan la misma cantidad de grasa pero uno tiene más fibra, ¿cuál es la diferencia relevante?
+
+### Opciones
+- [x] B) Que el alimento con más fibra ayuda más al funcionamiento del intestino
+  <!-- feedback: Correcto. La fibra no aporta calorías, y sin embargo mejora el transito intestinal y la saciedad. Por eso un alimento con mas fibra resulta mas conveniente para la salud digestiva, aun con la misma grasa. -->
+- [ ] A) Que el alimento con más fibra tiene más calorías totales
+  <!-- feedback: La fibra es practicamente avida en calorias porque no la digerimos. Un alimento con mas fibra tiene, si todo lo demas es igual, el mismo aporte energetico, e incluso algo menor. -->
+- [ ] C) Que el alimento con más fibra aporta más grasa al organismo
+  <!-- feedback: La cantidad de grasa es la misma en los dos casos, segun el enunciado. La fibra aporta volumen y regularidad, y no modifica el aporte de grasa ni su valor calorico. -->
+- [ ] D) Que la fibra aumenta el colesterol en sangre
+  <!-- feedback: La fibra insoluble tiende a reducir la absorcion de colesterol, y no a aumentarlo. Por eso se asocia con una menor captacion de colesterol y no con un incremento de sus niveles. -->
+
+### Explicacion Pedagogica
+La fibra aporta volumen, regula el transito intestinal y disminuye la captacion de colesterol. Al no ser digerida, no aporta calorias, de modo que mejora la salud digestiva sin cargar el balance energetico.
 
 ## Question 17 [D9-D10]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v17
 **Bloom:** Apply
-**EJE:** salud nutricion
+**EJE:** salud-nutricion
 **Expected_Success:** 0.80
-**Contexto:** Clase de ciencias en San Miguel estudiando salud nutricion.
+**Contexto:** Rosa María anota en una lista los alimentos que compra para la semana en la clase de salud de San Vicente.
 
 ### Enunciado
-Objeto de 3 kg acelera a 3 m/s². ¿Fuerza aplicada? (F=ma)
+Si una persona tiene hipertensión, ¿por qué se le recomienda reducir la sal?
 
 ### Opciones
-- [x] B) 9 N
-  <!-- feedback: La segunda ley de Newton da $F = ma = 3\,\text{kg} \times 3\,\text{m/s}^2 = 9\,\text{N}$. -->
-- [ ] A) 6 N
-  <!-- feedback: Se obtendría con una aceleración de 2\,\text{m/s}^2$, pero el enunciado da 3\,\text{m/s}^2 y el producto es 9. -->
-- [ ] C) 12 N
-  <!-- feedback: Se obtendría con una aceleración de 4\,\text{m/s}^2$, pero el enunciado da 3\,\text{m/s}^2 y el producto es 9. -->
-- [ ] D) 3 N
-  <!-- feedback: Ese número es la masa del objeto; la fuerza exige multiplicarla por la aceleración, y $m \times a = 9\,\text{N}$. -->
+- [x] A) Porque el exceso de sodio hace que el organismo retenga agua y aumente la presión arterial
+  <!-- feedback: Correcto. El sodio retiene agua para diluir la concentración en la sangre. Ese liquido extra aumenta el volumen circulante, y con el el la presion contra las paredes de las arterias. -->
+- [ ] B) Porque la sal produce hipertension directamente, con independencia de la cantidad de agua
+  <!-- feedback: La sal no eleva la presion por si sola, sino por su efecto sobre la retencion de agua. Por eso el problema aparece con un exceso de sodio, y no con una cantidad moderada del mismo. -->
+- [ ] C) Porque la sal absorbe el oxígeno de la sangre y reduce el oxigeno disponible
+  <!-- feedback: El sodio no absorbe el oxigeno de la sangre. Su efecto se relaciona con el equilibrio de liquidos y con el volumen circulante, que es lo que influye en la presion arterial. -->
+- [ ] D) Porque la sal elimina el potasio del organismo, y eso sube la presión
+  <!-- feedback: El sodio y el potasio funcionan en equilibrio dentro del organismo. Reducir la sal disminuye la retencion de liquidos, y eso es lo que ayuda a bajar la presion, y no la eliminacion de potasio. -->
 
 ### Explicacion Pedagogica
-F = ma = 3×3 = 9 N.
+El sodio de la sal aumenta la retencion de agua para mantener el equilibrio osmótico. El volumen de liquido circulante aumenta con ella, y ese mayor volumen es lo que comprime las arterias y eleva la presion.
 
 ## Question 18 [D9-D10]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v18
-**Bloom:** Remember
-**EJE:** salud nutricion
-**Expected_Success:** 0.85
-**Contexto:** Clase de ciencias en Mejicanos estudiando salud nutricion.
+**Bloom:** Understand
+**EJE:** salud-nutricion
+**Expected_Success:** 0.80
+**Contexto:** Priscilla revisa cómo se almacenan las vitaminas en la farmacia del barrio en la clase de salud de San Juan Bautista.
 
 ### Enunciado
-¿Cuál es el órgano más grande del cuerpo humano?
+¿Por qué las vitaminas se almacenan en recipientes oscuros y cerrados?
 
 ### Opciones
-- [x] C) La piel
-  <!-- feedback: La piel es el órgano más grande del cuerpo humano y pesa cerca de 4 kg en un adulto. -->
-- [ ] A) El hígado
-  <!-- feedback: El hígado es la glándula más grande, de unos 1,5 kg, pero no el órgano de mayor tamaño. -->
-- [ ] B) El corazón
-  <!-- feedback: El corazón es una bomba muscular pequeña, de unos 300 g de masa. -->
-- [ ] D) Los pulmones
-  <!-- feedback: Los pulmones son órganos pares que ocupan buena parte de la cavidad torácica, pero no el máximo tamaño corporal. -->
+- [x] B) Porque la luz, el aire y la humedad degradan muchas vitaminas
+  <!-- feedback: Correcto. La luz oxida muchas vitaminas, el oxigeno las altera y la humedad puede degradarlas. Un envase oscuro, hermetico y seco es lo que permite conservar su actividad durante la fecha de caducidad. -->
+- [ ] A) Porque las vitaminas necesitan oscuridad para cambiar de color
+  <!-- feedback: Las vitaminas no cambian de color por necesidad de oscuridad. Lo que hace la luz es acelerar su degradacion, y por eso los envases opacos son una forma de protegerlas. -->
+- [ ] C) Porque en la luz las vitaminas se convierten en sales minerales
+  <!-- feedback: Las vitaminas no se transforman en sales minerales con la luz. Lo que ocurre es una oxidacion que reduce su actividad, y por eso se protegen de la radiacion y del aire. -->
+- [ ] D) Porque el recipiente cerrado aumenta la cantidad de vitaminas
+  <!-- feedback: Cerrar el recipiente no aumenta la cantidad de vitamina que hay dentro. Simplemente evita que se deteriore, y por eso conserva la eficacia del producto hasta su fecha de caducidad. -->
 
 ### Explicacion Pedagogica
-La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.
+Muchas vitaminas son sensibles a la luz, al oxigeno y a la humedad. Envasarlas en recipientes oscuros, hermeticos y secos retrasa su degradacion y conserva su actividad durante mas tiempo.
 
 ## Question 19 [D9-D10]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v19
-**Bloom:** Analyze
-**EJE:** salud nutricion
-**Expected_Success:** 0.70
-**Contexto:** Clase de ciencias en San Miguel estudiando salud nutricion.
+**Bloom:** Evaluate
+**EJE:** salud-nutricion
+**Expected_Success:** 0.80
+**Contexto:** Christian revisa las recomendaciones de la organización de salud sobre el agua en la clase de salud de Antiguo Cuscatlán.
 
 ### Enunciado
-En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?
+¿Qué cantidad diaria de agua se recomienda beber para mantener una buena hidratación?
 
 ### Opciones
-- [x] A) La exposición a la luz
-  <!-- feedback: Es la variable que el investigador modifica deliberadamente, y por eso es la independiente. -->
-- [ ] B) El crecimiento de las plantas
-  <!-- feedback: El crecimiento es lo que se mide al final para comparar; al responder a la luz, es la variable dependiente. -->
-- [ ] C) La temperatura ambiente
-  <!-- feedback: La temperatura no se está variando en el experimento, así que no es la variable independiente. -->
-- [ ] D) El tipo de planta
-  <!-- feedback: Se mantuvo el mismo tipo de planta en ambos grupos, por lo que no es la variable que se modifica. -->
+- [x] A) Entre dos y tres litros, ajustados al clima y a la actividad física
+  <!-- feedback: Correcto. La recomendación general se sitúa entre dos y tres litros al día, aunque esa cifra sube con el calor y con el ejercicio. Es una referencia orientativa, y no un tope fijo para todas las personas. -->
+- [ ] B) Menos de medio litro, porque el cuerpo obtiene agua de los alimentos
+  <!-- feedback: Los alimentos y el metabolismo aportan algo de agua, pero muy poco comparado con lo que se pierde por la orina y el sudor. Con medio litro la hidratacion seria insuficiente en condiciones normales. -->
+- [ ] C) Al menos diez litros, porque el agua nunca sobra en el cuerpo
+  <!-- feedback: Beber diez litros al dia no es recomendable en una persona sana, y puede ser peligroso. El riñón tiene capacidad limitada para excretar ese exceso, de modo que la cantidad debe ser moderada. -->
+- [ ] D) Exactamente un litro, porque la sed indica la necesidad exacta
+  <!-- feedback: La sed es un indicador tardio y poco preciso de la hidratacion. La cantidad necesaria varia con el clima y la actividad, de modo que un litro fijo no sirve como referencia general. -->
 
 ### Explicacion Pedagogica
-La variable independiente es la que manipula el investigador: la luz.
+Las necesidades de agua dependen de la temperatura, de la actividad y de la alimentacion. La referencia general de dos a tres litros diarios se ajusta a esas circunstancias, y la sed no es el unico indicador de hidratacion.
 
 ## Question 20 [D9-D10]
 **ID:** SV-CIE-11-2026-W34-salud-nutricion-001-MASTERY-bundle-v20
-**Bloom:** Remember
-**EJE:** salud nutricion
-**Expected_Success:** 0.85
-**Contexto:** Clase de ciencias en San Miguel estudiando salud nutricion.
+**Bloom:** Apply
+**EJE:** salud-nutricion
+**Expected_Success:** 0.80
+**Contexto:** Wendy prepara una clase sobre metabolismo en el colegio de la zona sur del país.
 
 ### Enunciado
-¿Cuál es la unidad básica de la vida?
+Si el metabolismo basal de una persona es de 1.500 kilocalorías y realiza un trabajo de 500, ¿cuál es su gasto total diario?
 
 ### Opciones
-- [x] C) La célula
-  <!-- feedback: La célula es la unidad mínima capaz de vivir de forma autónoma, y en ella ocurren las funciones de la vida. -->
-- [ ] A) El átomo
-  <!-- feedback: El átomo es la unidad mínima de la materia, pero no tiene vida propia. -->
-- [ ] B) La molécula
-  <!-- feedback: Una molécula es un conjunto de átomos; solo algunas, como las de la biología, forman estructuras vivas. -->
-- [ ] D) El tejido
-  <!-- feedback: El tejido es un conjunto de células del mismo tipo, por lo que es más complejo que la célula. -->
+- [x] B) 2.000 kilocalorías, porque el gasto total suma el metabolismo basal y la actividad
+  <!-- feedback: Correcto. El gasto energético total es la suma del metabolismo basal y del gasto por la actividad realizada. Sumar 1.500 y 500 da 2.000 kilocalorías, que es lo que el organismo consume en ese día. -->
+- [ ] A) 1.000 kilocalorías, porque una actividad resta energía al metabolismo basal
+  <!-- feedback: La actividad no resta energia del metabolismo basal: se suma a el. Ese basal es el gasto minimo en reposo, y el movimiento del dia se contabiliza aparte, de modo que el total resulta mayor. -->
+- [ ] C) 1.500 kilocalorías, porque el metabolismo basal ya incluye todo el día
+  <!-- feedback: El metabolismo basal solo cubre el gasto en reposo, y no el del trabajo realizado. Por eso hay que anadirle el gasto de la actividad para obtener el total diario deldia. -->
+- [ ] D) 2.500 kilocalorías, porque el trabajo se cuenta dos veces por la tarde y la mañana
+  <!-- feedback: Contar la misma actividad dos veces daria un total inflado y sin fundamento. El gasto total se obtiene sumando cada actividad una sola vez, y por eso aqui la cifra correcta es 2.000. -->
 
 ### Explicacion Pedagogica
-La célula es la unidad estructural y funcional básica de los seres vivos.
+El metabolismo basal representa el gasto minimo del organismohumano en reposo. Al sumar el gasto de las actividades del dia se obtiene el total, que es la cifra que debe compararse con la comida ingerida.
