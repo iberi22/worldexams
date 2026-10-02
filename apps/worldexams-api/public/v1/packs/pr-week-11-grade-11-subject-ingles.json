@@ -646,13 +646,13 @@
           "letter": "A",
           "text": "You must arrive on time.",
           "is_correct": false,
-          "feedback": "Esta frase si es correcta, porque 'must' expresa obligacion sin necesitar 'to' detras."
+          "feedback": "This sentence is correct, because 'must' expresses obligation without needing 'to' after it."
         },
         {
           "letter": "B",
           "text": "You have to arrive on time.",
           "is_correct": false,
-          "feedback": "Esta frase si es correcta, porque 'have to' expresa la misma obligacion desde una regla externa."
+          "feedback": "This sentence is correct, because 'have to' expresses the same obligation coming from an external rule."
         },
         {
           "letter": "C",
@@ -664,7 +664,7 @@
           "letter": "D",
           "text": "You should arrive on time.",
           "is_correct": false,
-          "feedback": "Esta frase si es correcta, porque 'should' expresa una recomendacion suave."
+          "feedback": "This sentence is correct, because 'should' expresses a gentle recommendation."
         }
       ],
       "correct_answer": "C",

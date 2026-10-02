@@ -459,11 +459,11 @@ Which sentence is NOT correct?
 
 ### Opciones
 - [ ] A) I have lived in San Juan for ten years.
-  <!-- feedback: Esta frase si es correcta, porque 'live' es un verbo de estado y se expresa en presente perfecto simple. -->
+  <!-- feedback: This sentence is correct, because 'live' is a stative verb and takes the present perfect simple. -->
 - [ ] B) I have been working in San Juan for ten years.
-  <!-- feedback: Esta frase si es correcta, porque 'work' es una actividad y admite el presente perfecto continuo. -->
+  <!-- feedback: This sentence is correct, because 'work' is an activity verb and allows the present perfect continuous. -->
 - [ ] C) I have been studying in San Juan for ten years.
-  <!-- feedback: Esta frase si es correcta, porque 'study' es una actividad y combina bien con la duracion. -->
+  <!-- feedback: This sentence is correct, because 'study' is an activity verb and combines well with the duration. -->
 - [x] D) I have been living in San Juan for ten years.
   <!-- feedback: Correct. This is the incorrect sentence: 'live' is a stative verb and does not allow the present perfect continuous. -->
 
