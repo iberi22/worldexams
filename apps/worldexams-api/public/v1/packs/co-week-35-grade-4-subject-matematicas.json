@@ -107,7 +107,7 @@
         {
           "letter": "A",
           "text": "84 cm²",
-          "is_correct": false,
+          "is_correct": true,
           "feedback": "Correcto. El área de un rectángulo es base × altura = 12 × 7 = 84 cm²."
         },
         {
@@ -124,12 +124,12 @@
         },
         {
           "letter": "D",
-          "text": "84 cm² (ver explicación)",
-          "is_correct": true,
-          "feedback": "Incorrecto. Esta opción es igual a A, que es la respuesta correcta. El área es 12 × 7 = 84 cm²."
+          "text": "168 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. 168 cm² no es el resultado del problema. Es un error típico de cálculo: ese valor no aparece al aplicar bien la fórmula. El cálculo correcto es: El área de un rectángulo es base × altura = 12 × 7 = 84 cm²."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": "El área de un rectángulo se calcula multiplicando la base por la altura: A = base × altura. Con base de 12 cm y altura de 7 cm, el área es 12 × 7 = 84 cm². Es importante recordar que el área mide la superficie encerrada por la figura, mientras que el perímetro mide el contorno.",
       "difficulty": "6",
       "images": [],
@@ -199,7 +199,7 @@
         {
           "letter": "A",
           "text": "25 cm²",
-          "is_correct": false,
+          "is_correct": true,
           "feedback": "Correcto. Si el perímetro es 20 cm, cada lado mide 20 ÷ 4 = 5 cm. El área es 5 × 5 = 25 cm²."
         },
         {
@@ -216,12 +216,12 @@
         },
         {
           "letter": "D",
-          "text": "25 cm² (ver explicación)",
-          "is_correct": true,
-          "feedback": "Incorrecto. Esta opción es igual a A, que es la respuesta correcta. El área es 5 × 5 = 25 cm²."
+          "text": "50 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. 50 cm² no es el resultado del problema. Es un error típico de cálculo: ese valor no aparece al aplicar bien la fórmula. El cálculo correcto es: Si el perímetro es 20 cm, cada lado mide 20 ÷ 4 = 5 cm. El área es 5 × 5 = 25 cm²."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": "Para encontrar el área de un cuadrado a partir del perímetro, primero se divide el perímetro entre 4 para obtener la longitud del lado: 20 ÷ 4 = 5 cm. Luego se calcula el área: A = lado × lado = 5 × 5 = 25 cm². Es importante no confundir el perímetro con el lado directamente.",
       "difficulty": "6",
       "images": [],
@@ -291,7 +291,7 @@
         {
           "letter": "A",
           "text": "21 cm",
-          "is_correct": false,
+          "is_correct": true,
           "feedback": "Correcto. El perímetro de un triángulo es la suma de sus tres lados: 5 + 7 + 9 = 21 cm."
         },
         {
@@ -308,12 +308,12 @@
         },
         {
           "letter": "D",
-          "text": "21 cm (ver explicación)",
-          "is_correct": true,
-          "feedback": "Incorrecto. Esta opción es igual a A, que es la respuesta correcta. El perímetro es 5 + 7 + 9 = 21 cm."
+          "text": "42 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. 42 cm no es el resultado del problema. Es un error típico de cálculo: ese valor no aparece al aplicar bien la fórmula. El cálculo correcto es: El perímetro de un triángulo es la suma de sus tres lados: 5 + 7 + 9 = 21 cm."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": "El perímetro de un triángulo es la suma de las longitudes de sus tres lados. Con lados de 5 cm, 7 cm y 9 cm, el perímetro es 5 + 7 + 9 = 21 cm. Es importante no confundir el perímetro con el área, que requeriría conocer la altura del triángulo y usar la fórmula A = (base × altura) ÷ 2.",
       "difficulty": "8",
       "images": [],

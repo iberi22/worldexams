@@ -20,24 +20,24 @@
         },
         {
           "letter": "B",
-          "text": "a² + b² = c²",
-          "is_correct": true,
-          "feedback": "Correcto. El teorema de Pitágoras establece que la suma de los cuadrados de los catetos es igual al cuadrado de la hipotenusa."
-        },
-        {
-          "letter": "C",
           "text": "a × b = c",
           "is_correct": false,
           "feedback": "Incorrecto. La fórmula no es una multiplicación. El teorema de Pitágoras usa cuadrados de los lados."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "a² - b² = c²",
           "is_correct": false,
           "feedback": "Incorrecto. La operación es suma, no resta. La fórmula correcta es a² + b² = c²."
+        },
+        {
+          "letter": "D",
+          "text": "a² + b² = c²",
+          "is_correct": true,
+          "feedback": "Correcto. El teorema de Pitágoras establece que la suma de los cuadrados de los catetos es igual al cuadrado de la hipotenusa."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "El teorema de Pitágoras establece que en todo triángulo rectángulo, la suma de los cuadrados de los catetos es igual al cuadrado de la hipotenusa. La fórmula se escribe como a² + b² = c², donde a y b son los catetos y c es la hipotenusa. Este teorema es fundamental para calcular distancias en geometría y tiene muchas aplicaciones prácticas.",
       "difficulty": "4",
       "images": [],
@@ -106,27 +106,27 @@
       "options": [
         {
           "letter": "A",
-          "text": "5 cm",
-          "is_correct": false,
-          "feedback": "Correcto. Usando el teorema de Pitágoras: 3² + 4² = 9 + 16 = 25, y la raíz cuadrada de 25 es 5 cm."
-        },
-        {
-          "letter": "B",
           "text": "6 cm",
           "is_correct": false,
           "feedback": "Incorrecto. 6 cm no satisface el teorema de Pitágoras porque 3² + 4² = 25, no 36. La hipotenusa correcta es 5 cm."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "7 cm",
           "is_correct": false,
           "feedback": "Incorrecto. 7 cm no satisface el teorema de Pitágoras porque 3² + 4² = 25, no 49. La hipotenusa correcta es 5 cm."
         },
         {
+          "letter": "C",
+          "text": "10 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. 10 cm no es el resultado del problema. Es un error típico de cálculo: ese valor no aparece al aplicar bien la fórmula. El cálculo correcto es: Usando el teorema de Pitágoras: 3² + 4² = 9 + 16 = 25, y la raíz cuadrada de 25 es 5 cm."
+        },
+        {
           "letter": "D",
-          "text": "5 cm (ver explicación)",
+          "text": "5 cm",
           "is_correct": true,
-          "feedback": "Incorrecto. Esta opción es igual a A, que es la respuesta correcta. La hipotenusa es √(3² + 4²) = 5 cm."
+          "feedback": "Correcto. Usando el teorema de Pitágoras: 3² + 4² = 9 + 16 = 25, y la raíz cuadrada de 25 es 5 cm."
         }
       ],
       "correct_answer": "D",
@@ -152,21 +152,21 @@
       "options": [
         {
           "letter": "A",
-          "text": "12 cm",
-          "is_correct": true,
-          "feedback": "Correcto. Usando el teorema de Pitágoras: b² = 13² - 5² = 169 - 25 = 144, y la raíz cuadrada de 144 es 12 cm."
-        },
-        {
-          "letter": "B",
           "text": "8 cm",
           "is_correct": false,
           "feedback": "Incorrecto. 8 cm no satisface el teorema de Pitágoras porque 5² + 8² = 25 + 64 = 89, no 169. El cateto correcto es 12 cm."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "10 cm",
           "is_correct": false,
           "feedback": "Incorrecto. 10 cm no satisface el teorema de Pitágoras porque 5² + 10² = 25 + 100 = 125, no 169. El cateto correcto es 12 cm."
+        },
+        {
+          "letter": "C",
+          "text": "12 cm",
+          "is_correct": true,
+          "feedback": "Correcto. Usando el teorema de Pitágoras: b² = 13² - 5² = 169 - 25 = 144, y la raíz cuadrada de 144 es 12 cm."
         },
         {
           "letter": "D",
@@ -175,7 +175,7 @@
           "feedback": "Incorrecto. Esta opción es igual a A, que es la respuesta correcta. El cateto es √(13² - 5²) = 12 cm."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Cuando se conoce la hipotenusa y un cateto, se despeja el otro cateto del teorema de Pitágoras: b² = c² - a². Con hipotenusa de 13 cm y cateto de 5 cm, tenemos b² = 13² - 5² = 169 - 25 = 144. El cateto es la raíz cuadrada de 144, que es 12 cm. Este es otro caso común: el triángulo 5-12-13.",
       "difficulty": "6",
       "images": [],

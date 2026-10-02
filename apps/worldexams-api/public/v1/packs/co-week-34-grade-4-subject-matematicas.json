@@ -14,30 +14,30 @@
       "options": [
         {
           "letter": "A",
-          "text": "El conjunto de puntos equidistantes de un punto central",
-          "is_correct": true,
-          "feedback": "Correcto. La circunferencia es el conjunto de todos los puntos que están a la misma distancia (radio) de un punto central."
-        },
-        {
-          "letter": "B",
           "text": "El área encerrada por una curva cerrada",
           "is_correct": false,
           "feedback": "Incorrecto. Eso describe el círculo, no la circunferencia. La circunferencia es solo la línea curva, no el área interior."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Un segmento que une dos puntos de la curva",
           "is_correct": false,
           "feedback": "Incorrecto. Eso describe una cuerda, no la circunferencia. La circunferencia es toda la línea curva."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Un segmento que pasa por el centro",
           "is_correct": false,
           "feedback": "Incorrecto. Eso describe el diámetro, no la circunferencia. La circunferencia es la línea curva completa."
+        },
+        {
+          "letter": "D",
+          "text": "El conjunto de puntos equidistantes de un punto central",
+          "is_correct": true,
+          "feedback": "Correcto. La circunferencia es el conjunto de todos los puntos que están a la misma distancia (radio) de un punto central."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Una circunferencia es el conjunto de todos los puntos de un plano que están a la misma distancia de un punto fijo llamado centro. Esa distancia constante se llama radio. La circunferencia es solo la línea curva que delimita al círculo, no el área interior. Es importante no confundir la circunferencia (la línea) con el círculo (la región).",
       "difficulty": "4",
       "images": [],
@@ -106,30 +106,30 @@
       "options": [
         {
           "letter": "A",
-          "text": "31.4 cm",
-          "is_correct": false,
-          "feedback": "Correcto. La circunferencia se calcula con C = π × d = 3.14 × 10 = 31.4 cm."
-        },
-        {
-          "letter": "B",
           "text": "62.8 cm",
           "is_correct": false,
           "feedback": "Incorrecto. 62.8 cm sería el resultado de usar el radio en lugar del diámetro: 3.14 × 20 = 62.8. La fórmula correcta usa el diámetro."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "15.7 cm",
           "is_correct": false,
           "feedback": "Incorrecto. 15.7 cm sería la mitad del resultado correcto. La fórmula es C = π × d, no C = π × d ÷ 2."
         },
         {
-          "letter": "D",
-          "text": "31.4 cm (ver explicación)",
+          "letter": "C",
+          "text": "31.4 cm",
           "is_correct": true,
-          "feedback": "Incorrecto. Esta opción es igual a A, que es la respuesta correcta. La circunferencia es 3.14 × 10 = 31.4 cm."
+          "feedback": "Correcto. La circunferencia se calcula con C = π × d = 3.14 × 10 = 31.4 cm."
+        },
+        {
+          "letter": "D",
+          "text": "47.1 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. 47.1 cm no es el resultado del problema. Es un error típico de cálculo: ese valor no aparece al aplicar bien la fórmula. El cálculo correcto es: La circunferencia se calcula con C = π × d = 3.14 × 10 = 31.4 cm."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": "La longitud de una circunferencia se calcula con la fórmula C = π × d, donde d es el diámetro. Con un diámetro de 10 cm y π ≈ 3.14, la circunferencia es 3.14 × 10 = 31.4 cm. Es importante no confundir esta fórmula con la del área, que usa el radio al cuadrado: A = π × r².",
       "difficulty": "6",
       "images": [],
@@ -152,27 +152,27 @@
       "options": [
         {
           "letter": "A",
-          "text": "78.5 cm²",
-          "is_correct": false,
-          "feedback": "Correcto. El área se calcula con A = π × r² = 3.14 × 5² = 3.14 × 25 = 78.5 cm²."
-        },
-        {
-          "letter": "B",
           "text": "31.4 cm²",
           "is_correct": false,
           "feedback": "Incorrecto. 31.4 cm² sería la circunferencia (π × d = 3.14 × 10), no el área. El área usa el radio al cuadrado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "15.7 cm²",
           "is_correct": false,
           "feedback": "Incorrecto. 15.7 cm² sería la mitad del resultado correcto. La fórmula es A = π × r², no A = π × r² ÷ 2."
         },
         {
+          "letter": "C",
+          "text": "157 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. 157 cm² no es el resultado del problema. Es un error típico de cálculo: ese valor no aparece al aplicar bien la fórmula. El cálculo correcto es: El área se calcula con A = π × r² = 3.14 × 5² = 3.14 × 25 = 78.5 cm²."
+        },
+        {
           "letter": "D",
-          "text": "78.5 cm² (ver explicación)",
+          "text": "78.5 cm²",
           "is_correct": true,
-          "feedback": "Incorrecto. Esta opción es igual a A, que es la respuesta correcta. El área es 3.14 × 25 = 78.5 cm²."
+          "feedback": "Correcto. El área se calcula con A = π × r² = 3.14 × 5² = 3.14 × 25 = 78.5 cm²."
         }
       ],
       "correct_answer": "D",
@@ -291,7 +291,7 @@
         {
           "letter": "A",
           "text": "8 cm",
-          "is_correct": false,
+          "is_correct": true,
           "feedback": "Correcto. Usando A = π × r², despejamos r² = 50.24 ÷ 3.14 = 16, entonces r = 4 cm. El diámetro es el doble: d = 2 × 4 = 8 cm."
         },
         {
@@ -308,12 +308,12 @@
         },
         {
           "letter": "D",
-          "text": "8 cm (ver explicación)",
-          "is_correct": true,
-          "feedback": "Incorrecto. Esta opción es igual a A, que es la respuesta correcta. El diámetro es 2 × 4 = 8 cm."
+          "text": "12 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. 12 cm no es el resultado del problema. Es un error típico de cálculo: ese valor no aparece al aplicar bien la fórmula. El cálculo correcto es: Usando A = π × r², despejamos r² = 50.24 ÷ 3.14 = 16, entonces r = 4 cm. El diámetro es el doble: d = 2 × 4 = 8 cm."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": "Para encontrar el diámetro a partir del área, primero se despeja el radio: r² = A ÷ π = 50.24 ÷ 3.14 = 16. Luego se calcula el radio: r = √16 = 4 cm. Finalmente, el diámetro es el doble del radio: d = 2 × 4 = 8 cm. Es importante no confundir el radio con el diámetro en el resultado final.",
       "difficulty": "8",
       "images": [],

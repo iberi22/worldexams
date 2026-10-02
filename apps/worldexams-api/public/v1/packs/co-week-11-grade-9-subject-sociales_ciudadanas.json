@@ -383,29 +383,29 @@
         {
           "letter": "A",
           "text": "La revocatoria del mandato",
-          "is_correct": false,
+          "is_correct": true,
           "feedback": "Correcto. La revocatoria del mandato permite a los ciudadanos destituir a un funcionario elegido antes de que termine su período si no cumple con su programa de gobierno."
         },
         {
           "letter": "B",
           "text": "La acción de tutela",
           "is_correct": false,
-          "feedback": "Incorrecto. La acción de tutela protege derechos fundamentales, no controla directamente la gestión de los funcionarios públicos."
+          "feedback": "Incorrecto. La acción de tutela protege derechos fundamentales frente a la vulneración de un derecho, no controla la gestión de un funcionario."
         },
         {
           "letter": "C",
           "text": "La acción popular",
           "is_correct": false,
-          "feedback": "Incorrecto. La acción popular protege derechos colectivos, no controla la gestión de funcionarios específicos."
+          "feedback": "Incorrecto. La acción popular protege derechos colectivos como el ambiente o la salud pública, no el control directo de la gestión de un funcionario."
         },
         {
           "letter": "D",
-          "text": "La revocatoria del mandato (ver explicación)",
-          "is_correct": true,
-          "feedback": "Incorrecto. Esta opción es igual a A, que es la respuesta correcta. La revocatoria del mandato es el mecanismo de control político."
+          "text": "El referendo revocatorio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El referendo consulta la opinión de los ciudadanos sobre una decisión general; para destituir directamente a un funcionario existe la revocatoria del mandato."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": "La revocatoria del mandato es un mecanismo de participación ciudadana y control político que permite a los ciudadanos destituir a un funcionario elegido (como alcaldes o gobernadores) antes de que termine su período, si consideran que no está cumpliendo con su programa de gobierno. Para activarla se requiere un número significativo de firmas y una votación popular.",
       "difficulty": "8",
       "images": [],
@@ -480,24 +480,24 @@
         },
         {
           "letter": "B",
-          "text": "La baja participación ciudadana en las elecciones",
-          "is_correct": true,
-          "feedback": "Correcto. La baja participación ciudadana debilita la democracia porque reduce la legitimidad de los elegidos y permite que unos pocos decidan por todos."
-        },
-        {
-          "letter": "C",
           "text": "La separación de poderes",
           "is_correct": false,
           "feedback": "Incorrecto. La separación de poderes es una garantía democrática, no un desafío, porque evita la concentración del poder."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "La existencia de mecanismos de participación ciudadana",
           "is_correct": false,
           "feedback": "Incorrecto. Los mecanismos de participación ciudadana fortalecen la democracia, no la debilitan, porque permiten al pueblo intervenir en las decisiones."
+        },
+        {
+          "letter": "D",
+          "text": "La baja participación ciudadana en las elecciones",
+          "is_correct": true,
+          "feedback": "Correcto. La baja participación ciudadana debilita la democracia porque reduce la legitimidad de los elegidos y permite que unos pocos decidan por todos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La baja participación ciudadana en las elecciones es un desafío para la democracia colombiana porque reduce la legitimidad de los gobernantes elegidos. Cuando pocos ciudadanos votan, los elegidos representan a una minoría y no a la mayoría. Esto puede generar desconfianza en las instituciones y debilitar el sistema democrático. Fomentar la participación activa es esencial para fortalecer la democracia.",
       "difficulty": "10",
       "images": [],
@@ -532,18 +532,18 @@
         },
         {
           "letter": "C",
-          "text": "Participar activamente en elecciones, organizaciones sociales y mecanismos de participación ciudadana",
-          "is_correct": true,
-          "feedback": "Correcto. Los jóvenes pueden fortalecer la democracia participando en elecciones, organizaciones sociales, veedurías ciudadanas, cabildos abiertos y otros mecanismos de participación."
-        },
-        {
-          "letter": "D",
           "text": "Esperar a ser mayores de edad para involucrarse en política",
           "is_correct": false,
           "feedback": "Incorrecto. Los jóvenes no necesitan esperar a ser mayores de edad para involucrarse en política. Pueden participar en organizaciones estudiantiles, juveniles y comunitarias desde ahora."
+        },
+        {
+          "letter": "D",
+          "text": "Participar activamente en elecciones, organizaciones sociales y mecanismos de participación ciudadana",
+          "is_correct": true,
+          "feedback": "Correcto. Los jóvenes pueden fortalecer la democracia participando en elecciones, organizaciones sociales, veedurías ciudadanas, cabildos abiertos y otros mecanismos de participación."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Los jóvenes pueden fortalecer la democracia colombiana participando activamente en diferentes espacios: votando en todas las elecciones (no solo las presidenciales), uniéndose a organizaciones sociales y juveniles, participando en veedurías ciudadanas, asistiendo a cabildos abiertos, y usando mecanismos como la iniciativa legislativa y el referendo. La participación juvenil es esencial para renovar la política y garantizar que las decisiones públicas reflejen las necesidades de todas las generaciones.",
       "difficulty": "10",
       "images": [],
