@@ -92,7 +92,7 @@ Además de recibir el tratamiento indicado, ¿qué medida ayuda mejor a evitar q
 
 ### Explicacion Pedagogica
 
-La prevención incluye acciones que reducen la propagación de las enfermedades. Lavarse las manos y mantener una higiene adecuada Helps romper la cadena de transmisión del virus.
+La prevención incluye acciones que reducen la propagación de las enfermedades. Lavarse las manos y mantener una higiene adecuada ayudan a romper la cadena de transmisión del virus.
 
 ## Question 4 [D5-D6]
 **ID:** CO-SOC-6-2026-W30-la-salud-y-la-prevencion-001-MASTERY-bundle-v4
