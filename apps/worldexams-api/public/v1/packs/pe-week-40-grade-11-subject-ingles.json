@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which greeting is appropriate in this situation?",
+      "context": "A student must greet a teacher formally at a school event.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
+          "text": "Good evening, Mr Salas. It is a pleasure to see you again.",
           "is_correct": true,
-          "feedback": "Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday."
+          "feedback": "Correct. A time-based greeting with the title and surname is the conventional formal address for a school event."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "Yo, how is it going, teacher?",
           "is_correct": false,
-          "feedback": "'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep."
+          "feedback": "Wrong. 'Yo' is conversational and the greeting gives no title or surname."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "Hey, teacher, what is up?",
           "is_correct": false,
-          "feedback": "'Entertainment' is the fun or activities you enjoy, not the building or room where you stay."
+          "feedback": "Wrong. 'Hey' and the contracted question are far too casual for a formal occasion."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "Hiya, Salas! Great to see you, mate.",
           "is_correct": false,
-          "feedback": "'Currency' is the money of a country, which has nothing to do with where you sleep."
+          "feedback": "Wrong. 'Hiya' and 'mate' are informal and inappropriate when addressing a teacher."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "explanation": "Greeting a teacher formally requires a conventional time-based greeting together with the title and surname.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -54,36 +54,36 @@
     },
     {
       "id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which apology is appropriate in this situation?",
+      "context": "A student must apologise for arriving late to a class.",
       "options": [
         {
-          "letter": "B",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route."
+          "letter": "A",
+          "text": "Sorry, my bad, the bus broke down.",
+          "is_correct": false,
+          "feedback": "Wrong. 'My bad' is informal slang and does not suit addressing a teacher."
         },
         {
-          "letter": "A",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "'Baggage' is the suitcases and bags you travel with, not the written plan of the trip."
+          "letter": "B",
+          "text": "I am sorry I arrived late; the bus broke down on the way.",
+          "is_correct": true,
+          "feedback": "Correct. This apologises, gives a brief reason and stays in an appropriately polite register for a teacher."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "Apologies, I dunno, the bus was broken I think.",
           "is_correct": false,
-          "feedback": "'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan."
+          "feedback": "Wrong. 'I dunno' and 'I think' make the excuse uncertain and informal at once."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "I apologise for the lateness of my arrival on this occasion, if you would permit me to explain.",
           "is_correct": false,
-          "feedback": "'Passport' is the travel document that lets you cross a border, not the schedule of your trip."
+          "feedback": "Wrong. 'If you would permit me to explain' is stiff to the point of being unnatural in speech."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "explanation": "A spoken apology to a teacher needs the apology itself and a short reason, delivered without slang or excessive hedging.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -99,41 +99,41 @@
     },
     {
       "id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which question asks for clarification politely?",
+      "context": "A student must ask for clarification in class.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place someone or something is going or being sent to."
+          "text": "What did you say at the end?",
+          "is_correct": false,
+          "feedback": "Wrong. This asks for repetition in a slightly accusatory tone rather than politely."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "Repeat the last part.",
           "is_correct": false,
-          "feedback": "'Departure' is the action of leaving, the opposite end of the journey from the destination."
+          "feedback": "Wrong. The bare imperative is abrupt and does not account for the teacher's need to understand the situation."
         },
         {
           "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'Arrival' is the act of getting there; the place you arrive at is the destination."
+          "text": "Sorry, could you repeat the last part, please?",
+          "is_correct": true,
+          "feedback": "Correct. The apology plus the modal plus please softens the request while making its purpose clear."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "You lost me after the second point.",
           "is_correct": false,
-          "feedback": "'Journey' is the whole trip from start to finish, not the place you are heading to."
+          "feedback": "Wrong. 'You lost me' blames the teacher for the difficulty rather than asking for help."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "Politeness in a classroom request comes from a softener such as could together with please, and from avoiding any implied blame.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -144,41 +144,41 @@
     },
     {
       "id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which question is most appropriate in a shop?",
+      "context": "A student must ask a shop assistant about a product.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip."
+          "text": "Give me the small version of this thing.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Give me' is a direct order and is inappropriate when asking a member of staff."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "I want this small one, obviously.",
           "is_correct": false,
-          "feedback": "'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself."
+          "feedback": "Wrong. 'Obviously' is rude and the sentence gives no reason for the request."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "Hey, you got this in small?",
           "is_correct": false,
-          "feedback": "'Flight' is the journey by plane, or the plane itself; the bags are called luggage."
+          "feedback": "Wrong. 'Hey, you got' is informal and abrupt with someone who is serving the customer."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "'Reservation' is the booking you make for a seat or a room, not the bags you pack."
+          "text": "Excuse me, do you have this in a smaller size?",
+          "is_correct": true,
+          "feedback": "Correct. 'Excuse me' and the full question form are polite and clear when speaking to a member of staff."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "Asking a member of staff requires an opener such as excuse me and a question, rather than an order or a contracted form.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -189,40 +189,40 @@
     },
     {
       "id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence disagrees politely while still engaging with the point made?",
+      "context": "A student must disagree with a classmate politely during a discussion.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
+          "text": "I see what you mean, though I would read that figure a different way.",
           "is_correct": true,
-          "feedback": "Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew."
+          "feedback": "Correct. The sentence acknowledges the speaker's view before offering a different reading of the evidence."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "I think you are wrong, but that is fine because opinions differ.",
           "is_correct": false,
-          "feedback": "'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all."
+          "feedback": "Wrong. The final clause accepts the disagreement as irrelevant rather than answering it."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "No. I disagree.",
           "is_correct": false,
-          "feedback": "'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case."
+          "feedback": "Wrong. 'No' alone closes the discussion without any engagement with the point made."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "That is completely wrong and you have not understood it.",
           "is_correct": false,
-          "feedback": "'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents."
+          "feedback": "Wrong. 'Completely wrong' dismisses the speaker and the second clause is personally offensive."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "Polite disagreement first acknowledges what was said and then signals the difference, without personalising it.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-bundle",
       "periodo": 40,
@@ -234,40 +234,40 @@
     },
     {
       "id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which offer is most appropriate?",
+      "context": "A student must offer help to a classmate.",
       "options": [
         {
-          "letter": "B",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage."
+          "letter": "A",
+          "text": "You will want my notes from yesterday, I am sure.",
+          "is_correct": false,
+          "feedback": "Wrong. 'You will want' assumes what the listener needs instead of offering a choice."
         },
         {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in."
+          "letter": "B",
+          "text": "Would you like me to send you my notes from yesterday?",
+          "is_correct": true,
+          "feedback": "Correct. The offer is phrased as a conditional question that leaves the listener free to accept or decline."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "I give notes, if you want notes, notes are mine.",
           "is_correct": false,
-          "feedback": "'Terminal' is the whole building where passengers wait, eat and catch their flights."
+          "feedback": "Wrong. The repetition of 'notes' makes the offer unintelligible and unnatural."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "Here, notes, yesterday, for you.",
           "is_correct": false,
-          "feedback": "'Gate' is the particular door you board through, not the place where officials inspect your luggage."
+          "feedback": "Wrong. The word-by-word delivery contains no grammatical sentence and cannot be a real offer."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "An offer in speech uses a conditional structure so that the listener's choice is respected.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-bundle",
       "periodo": 40,
@@ -279,41 +279,41 @@
     },
     {
       "id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which phrase interrupts politely in a meeting?",
+      "context": "A student must interrupt politely in a meeting.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board."
+          "text": "I want to talk now.",
+          "is_correct": false,
+          "feedback": "Wrong. 'I want to talk now' asserts a right rather than requesting permission."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "Wait. Stop talking.",
           "is_correct": false,
-          "feedback": "'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane."
+          "feedback": "Wrong. 'Wait' and 'Stop talking' are imperatives that are rude in a meeting."
         },
         {
           "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "'Receipt' is the proof of payment for a purchase, not the travel document for boarding."
+          "text": "Sorry, may I add something to what Rosa said?",
+          "is_correct": true,
+          "feedback": "Correct. The apology and the request for permission interrupt without implying that the current speaker is at fault."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "Could I perhaps just say one more thing before you finish?",
           "is_correct": false,
-          "feedback": "'Brochure' is a small booklet of tourist information, not the document that lets you board."
+          "feedback": "Wrong. 'Could I perhaps just' stacks three softeners and loses the directness a meeting requires."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "Polite interruption combines a brief apology with a request for permission, without criticising the current speaker.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -324,41 +324,41 @@
     },
     {
       "id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is most appropriate for requesting an extension?",
+      "context": "A student must ask for an extension of a deadline.",
       "options": [
         {
-          "letter": "D",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'Sightseeing' is the activity of visiting the places of interest in a location."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
+          "text": "Can I have Thursday, I need it, I am very busy, please.",
           "is_correct": false,
-          "feedback": "'Shopping' is buying things in stores, which is not the same as visiting the sights of a place."
+          "feedback": "Wrong. The repeated demands give no reason and the sentence runs on without clear structure."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "It is Thursday, obviously, and the work is ready.",
           "is_correct": false,
-          "feedback": "'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions."
+          "feedback": "Wrong. 'Obviously' is rude and the sentence explains nothing about why the request is made."
         },
         {
           "letter": "C",
-          "text": "camping",
+          "text": "Give me until Thursday.",
           "is_correct": false,
-          "feedback": "'Camping' is staying outdoors in a tent, not visiting the sights of a location."
+          "feedback": "Wrong. 'Give me until Thursday' is a direct order and is inappropriate as a request."
+        },
+        {
+          "letter": "D",
+          "text": "I was wondering whether it might be possible to hand it in on Thursday instead.",
+          "is_correct": true,
+          "feedback": "Correct. The conditional structure presents the request as a possibility and leaves the decision to the reader."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
+      "explanation": "A request is softened by making it hypothetical, so that the other person retains the decision.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which opening is appropriate for a telephone call to a company?",
+      "context": "A student must make a telephone call to arrange an appointment.",
       "options": [
         {
-          "letter": "C",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited."
-        },
-        {
           "letter": "A",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "'Gift' is something you give to another person; a souvenir is kept by the person who took the trip."
+          "text": "Good morning, could I speak to the person who deals with appointments, please?",
+          "is_correct": true,
+          "feedback": "Correct. A greeting plus a request to speak to the relevant person is the correct form for such a call."
         },
         {
           "letter": "B",
-          "text": "award",
+          "text": "Tell me about appointments now.",
           "is_correct": false,
-          "feedback": "'Award' is a prize given for an achievement, not an object bought or kept as a memory."
+          "feedback": "Wrong. 'Tell me' is a command and does not identify who the caller wishes to reach."
+        },
+        {
+          "letter": "C",
+          "text": "Hello, is appointments there?",
+          "is_correct": false,
+          "feedback": "Wrong. 'Is appointments there' treats a department as a person and is not grammatical."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "Yeah, appointments. Who is that?",
           "is_correct": false,
-          "feedback": "'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey."
+          "feedback": "Wrong. The opening is conversational and never identifies the purpose of the call."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "A business call opens with a greeting, a request for the relevant person and a clear statement of purpose.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which response accepts a compliment gracefully?",
+      "context": "A student must respond to a compliment.",
       "options": [
         {
-          "letter": "B",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra time by which something ends up late or gets postponed."
+          "letter": "A",
+          "text": "Oh, do not be silly, it was nothing.",
+          "is_correct": false,
+          "feedback": "Wrong. Dismissing the compliment as 'nothing' reads as false modesty rather than as grace."
         },
         {
-          "letter": "A",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "'Cancellation' means the event does not happen at all, not that it happens later than planned."
+          "letter": "B",
+          "text": "Thank you very much, that is very kind of you.",
+          "is_correct": true,
+          "feedback": "Correct. This thanks the speaker and acknowledges the kindness directly, which is the conventional graceful response."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "What? Me?",
           "is_correct": false,
-          "feedback": "'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost."
+          "feedback": "Wrong. 'What?' is a demand for repetition rather than a response to the compliment."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "Yes, I am good at that.",
           "is_correct": false,
-          "feedback": "'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination."
+          "feedback": "Wrong. The response turns the compliment back on the speaker without any thanks."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
+      "explanation": "A gracious response thanks the other person and accepts what was said, without false modesty or self-promotion.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -459,41 +459,41 @@
     },
     {
       "id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which phrase closes a conversation politely?",
+      "context": "A student must leave a conversation politely.",
       "options": [
         {
-          "letter": "D",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter."
-        },
-        {
           "letter": "A",
-          "text": "check-out",
+          "text": "Right, I am off, you coming or not?",
           "is_correct": false,
-          "feedback": "'Check-out' is the opposite moment, when you leave the hotel or hand back the room."
+          "feedback": "Wrong. The final question imposes on the other person and shows no courtesy about leaving."
         },
         {
           "letter": "B",
-          "text": "booking",
+          "text": "OK, bye.",
           "is_correct": false,
-          "feedback": "'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in."
+          "feedback": "Wrong. 'OK, bye' is abrupt and gives no indication that the conversation was valued."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "It was really good talking with you, but I have to go now.",
+          "is_correct": true,
+          "feedback": "Correct. The phrase values the exchange and states the reason for leaving in the same sentence."
+        },
+        {
+          "letter": "D",
+          "text": "So that is that then.",
           "is_correct": false,
-          "feedback": "'Reservation' is the booking document, not the act of reporting your presence at the desk."
+          "feedback": "Wrong. 'So that is that then' dismisses the exchange without warmth."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "A polite closing combines an acknowledgement of the other person with a brief statement of why the conversation must end.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -504,41 +504,41 @@
     },
     {
       "id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which opening gives an opinion clearly and gives the group a reason to hear more?",
+      "context": "A student is asked to give an opinion in a class discussion.",
       "options": [
         {
-          "letter": "D",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! A 'layover' is a period of rest or waiting between two stages of a journey."
-        },
-        {
           "letter": "A",
-          "text": "stopover",
+          "text": "Maybe someone else should say something first.",
           "is_correct": false,
-          "feedback": "'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights."
+          "feedback": "Wrong. The speaker declines to participate and gives no view at all."
         },
         {
           "letter": "B",
-          "text": "transfer",
+          "text": "Everyone knows what they think, so.",
           "is_correct": false,
-          "feedback": "'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting."
+          "feedback": "Wrong. The sentence says nothing and does not contribute to the discussion."
         },
         {
           "letter": "C",
-          "text": "transit",
+          "text": "I have an opinion about that, but it is complicated.",
           "is_correct": false,
-          "feedback": "'Transit' is a system of moving people and goods through a city, not a break between two flights."
+          "feedback": "Wrong. The speaker announces that an opinion exists without stating it."
+        },
+        {
+          "letter": "D",
+          "text": "I think the longer timetable is better, mainly because it reduces the number of free periods.",
+          "is_correct": true,
+          "feedback": "Correct. The sentence states the opinion and then gives the main reason, which invites further discussion."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "Contributing to a discussion requires the opinion itself plus a reason that gives the group something to respond to.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -549,41 +549,41 @@
     },
     {
       "id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which pair shows the register shift required when moving from speaking to a teacher to speaking to a friend?",
+      "context": "A student is checking a role-play for an appropriate register shift.",
       "options": [
         {
-          "letter": "D",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'Currency' is the money system in general use in a particular country."
-        },
-        {
           "letter": "A",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "'Coin' is a single metal piece of money, one item within the currency, not the whole system."
+          "text": "Could you explain that again, please? / Can you say that again?",
+          "is_correct": true,
+          "feedback": "Correct. The first version is formal, with a modal and please, while the second is the contracted form used with a friend."
         },
         {
           "letter": "B",
-          "text": "banknote",
+          "text": "I do not understand. / I do not understand.",
           "is_correct": false,
-          "feedback": "'Banknote' is a paper bill, one item of the currency rather than the system of money itself."
+          "feedback": "Wrong. Both versions are identical, and the first is blunt enough to be unsuitable with a teacher."
         },
         {
           "letter": "C",
-          "text": "cash",
+          "text": "Could you explain that again, please? / Could you explain that again, please?",
           "is_correct": false,
-          "feedback": "'Cash' means money in the physical form you hold, not the money system of a country."
+          "feedback": "Wrong. There is no register shift at all in this option."
+        },
+        {
+          "letter": "D",
+          "text": "Can you explain that again, please? / Could you explain that again, please?",
+          "is_correct": false,
+          "feedback": "Wrong. This reverses the order and would make the informal version the one used with the teacher."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "Register shift is shown by the difference between the polite form used with an authority figure and the contracted form used with a peer.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -594,41 +594,41 @@
     },
     {
       "id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sequence is most effective for giving clear spoken instructions?",
+      "context": "A student is explaining something step by step.",
       "options": [
         {
-          "letter": "D",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book of information about a place written for visitors and tourists."
-        },
-        {
           "letter": "A",
-          "text": "map",
+          "text": "Connect every step with 'and then' so the list runs together.",
           "is_correct": false,
-          "feedback": "'Map' is a single sheet or screen showing the layout of a place, not a book of information."
+          "feedback": "Wrong. Repeated 'and then' removes the boundaries between steps and makes the list harder to follow."
         },
         {
           "letter": "B",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "'Dictionary' is a book of word definitions of a language, not information about a place for visitors."
+          "text": "Number each step, use a short sentence for each, and pause between them.",
+          "is_correct": true,
+          "feedback": "Correct. Numbered steps with short sentences and pauses give the listener a clear structure to follow."
         },
         {
           "letter": "C",
-          "text": "encyclopedia",
+          "text": "Give the overall aim first and leave the individual steps until the end.",
           "is_correct": false,
-          "feedback": "'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place."
+          "feedback": "Wrong. Stating the aim first is fine, but the individual steps must still be given and not deferred to the end."
+        },
+        {
+          "letter": "D",
+          "text": "Describe each step at length, including the reason behind it.",
+          "is_correct": false,
+          "feedback": "Wrong. Explaining the reason behind each step adds length without aiding the sequence of actions."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Spoken instructions work best when each step is a separate, signalled unit rather than one continuous sentence.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -639,41 +639,41 @@
     },
     {
       "id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which refusal is both polite and clear?",
+      "context": "A student is preparing for a role-play in which they must refuse politely.",
       "options": [
         {
-          "letter": "D",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! A 'backpack' is the bag with shoulder straps that you carry on your back."
-        },
-        {
           "letter": "A",
-          "text": "suitcase",
+          "text": "I cannot, and I do not want to.",
           "is_correct": false,
-          "feedback": "'Suitcase' is a case with a handle that you pull along, not a bag worn on the back."
+          "feedback": "Wrong. 'I do not want to' restates the refusal on personal grounds and adds nothing to it."
         },
         {
           "letter": "B",
-          "text": "briefcase",
+          "text": "No.",
           "is_correct": false,
-          "feedback": "'Briefcase' is a case for documents and a laptop, carried in the hand for work."
+          "feedback": "Wrong. A bare 'No' gives no explanation and no alternative."
         },
         {
           "letter": "C",
-          "text": "handbag",
+          "text": "I am afraid I cannot take that on at the moment, but I could help you with something else.",
+          "is_correct": true,
+          "feedback": "Correct. The refusal is softened and the speaker offers an alternative, so the request is not simply rejected."
+        },
+        {
+          "letter": "D",
+          "text": "If I cannot do it then maybe you should ask someone who can.",
           "is_correct": false,
-          "feedback": "'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps."
+          "feedback": "Wrong. Suggesting the requester ask someone else passes the problem back without offering any help."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "A polite refusal states the inability clearly, softens it and offers an alternative where one exists.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -684,41 +684,41 @@
     },
     {
       "id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which practice most helps a presenter handle an unexpected question?",
+      "context": "A student is preparing to take part in a formal presentation.",
       "options": [
         {
-          "letter": "B",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'Overseas' means in or to a foreign country, especially one across the sea."
+          "letter": "A",
+          "text": "Avoiding the question by repeating the presentation from the beginning.",
+          "is_correct": false,
+          "feedback": "Wrong. Repeating the presentation does not answer the question and appears evasive to the audience."
         },
         {
-          "letter": "A",
-          "text": "domestic",
+          "letter": "B",
+          "text": "Memorising the exact wording of every sentence so nothing can go wrong.",
           "is_correct": false,
-          "feedback": "'Domestic' means inside your own country, the opposite of overseas."
+          "feedback": "Wrong. Exact memorisation is abandoned the moment a question the presenter did not predict arrives."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "Reading the presentation aloud alone at full speed to check fluency.",
           "is_correct": false,
-          "feedback": "'Local' means in the area where you are, even more restricted than domestic; it never crosses a border."
+          "feedback": "Wrong. Reading aloud alone does not prepare the content for questions that were not scripted."
         },
         {
           "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "'National' refers to a whole country without saying it is foreign, so it does not imply going abroad."
+          "text": "Anticipating likely questions and deciding the main point of the answer before the presentation.",
+          "is_correct": true,
+          "feedback": "Correct. Anticipation gives the presenter a decided main point to return to, which makes an unscripted answer manageable."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Preparing for questions means having decided the main point of each answer, not having scripted every possible exchange.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -729,41 +729,41 @@
     },
     {
       "id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which piece of feedback is specific and actionable?",
+      "context": "A student is giving feedback to a classmate's presentation.",
       "options": [
         {
           "letter": "A",
-          "text": "budget",
+          "text": "Your second slide had four points, so the audience had no time to take any of them in.",
           "is_correct": true,
-          "feedback": "Correct! A 'budget' is the estimate of income and expenditure planned for a set period."
+          "feedback": "Correct. This identifies a specific point in the presentation and states its effect, so the classmate can act on it."
         },
         {
           "letter": "B",
-          "text": "expense",
+          "text": "Try to be more interesting next time.",
           "is_correct": false,
-          "feedback": "'Expense' is a single cost already paid; the definition is the estimate for the whole period."
+          "feedback": "Wrong. The advice is vague and offers no particular action to take."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "You speak too fast.",
           "is_correct": false,
-          "feedback": "'Cost' is the price of one thing, whereas a budget covers all income and all spending."
+          "feedback": "Wrong. 'Too fast' gives no reference point, so the classmate cannot tell how much to slow down."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "Your presentation was not very good.",
           "is_correct": false,
-          "feedback": "'Price' is the amount a single item costs, not a plan of income and expenditure over time."
+          "feedback": "Wrong. The judgement is general and gives the classmate nothing to change."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "explanation": "Actionable feedback names a specific feature of what was done and explains its effect, rather than evaluating the whole performance.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -774,41 +774,41 @@
     },
     {
       "id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which opening is appropriate for a patient beginning a consultation?",
+      "context": "A student must take part in a role-play as a patient at a clinic.",
       "options": [
         {
-          "letter": "D",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium."
-        },
-        {
           "letter": "A",
-          "text": "warranty",
+          "text": "Morning. Pain. Throat. Three days.",
           "is_correct": false,
-          "feedback": "'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract."
+          "feedback": "Wrong. Single words form no grammatical sentences, so the clinician learns almost nothing."
         },
         {
           "letter": "B",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium."
+          "text": "Good morning. I have had a pain in my throat for about three days.",
+          "is_correct": true,
+          "feedback": "Correct. The greeting is polite and the sentence reports the symptom and how long it has lasted."
         },
         {
           "letter": "C",
-          "text": "policy",
+          "text": "Hello doctor, come and see this sore throat of mine quickly.",
           "is_correct": false,
-          "feedback": "'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance."
+          "feedback": "Wrong. 'Quickly' presses the clinician and 'of mine' is unnecessarily informal here."
+        },
+        {
+          "letter": "D",
+          "text": "You need to look at my throat, which has hurt me since Monday for three days now.",
+          "is_correct": false,
+          "feedback": "Wrong. 'You need to' is an instruction to the clinician and reverses the roles in a consultation."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "In a consultation the speaker's job is to report a symptom clearly, which requires a greeting and a complete sentence.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Speaker A: 'Could you perhaps possibly let me know by Friday?' Speaker B: 'Perhaps. Maybe.' What does this exchange show?",
+      "context": "A student is analysing a conversation between two people.",
       "options": [
         {
-          "letter": "B",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease."
+          "letter": "A",
+          "text": "Speaker A is being rude, because hedging is always inappropriate in English.",
+          "is_correct": false,
+          "feedback": "Wrong. Hedging is a normal way to soften a request and is not inherently rude."
         },
         {
-          "letter": "A",
-          "text": "medication",
+          "letter": "B",
+          "text": "Speaker B refuses the request politely and definitively.",
           "is_correct": false,
-          "feedback": "'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one."
+          "feedback": "Wrong. 'Perhaps' and 'maybe' signal hesitation rather than a definite refusal."
         },
         {
           "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself."
+          "text": "Neither speaker commits clearly, so the interaction achieves very little.",
+          "is_correct": true,
+          "feedback": "Correct. The hedged request and the hedged reply leave both parties without a clear commitment."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "Speaker B agrees enthusiastically and promises to answer by Friday.",
           "is_correct": false,
-          "feedback": "'Infection' is the state of having the disease; vaccination is what protects you before you get it."
+          "feedback": "Wrong. The reply is far too tentative to count as enthusiasm or a promise."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "Analysing a conversation means judging the commitment each side actually makes, and excessive hedging removes it.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which statement best describes a good question in a group discussion?",
+      "context": "A student is asked which statement best describes a good question in a discussion.",
       "options": [
         {
-          "letter": "C",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones."
-        },
-        {
           "letter": "A",
-          "text": "fatigue",
+          "text": "It asks the group to decide immediately, because decisions should be made without further information.",
           "is_correct": false,
-          "feedback": "'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones."
+          "feedback": "Wrong. Demanding an immediate decision discourages exactly the evidence a discussion should produce."
         },
         {
           "letter": "B",
-          "text": "exhaustion",
+          "text": "It is short and closed, because a narrow answer keeps the discussion under control.",
           "is_correct": false,
-          "feedback": "'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect."
+          "feedback": "Wrong. A narrow question limits the discussion rather than opening it up."
+        },
+        {
+          "letter": "C",
+          "text": "It invites everyone to agree, because agreement keeps a discussion moving smoothly.",
+          "is_correct": false,
+          "feedback": "Wrong. A question that only seeks agreement contributes nothing to the substance of a discussion."
         },
         {
           "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock."
+          "text": "It opens a point that the group can answer with evidence or a reason, rather than inviting only agreement.",
+          "is_correct": true,
+          "feedback": "Correct. This describes a question that generates substance, unlike one that only seeks agreement."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "A good discussion question opens a matter for argument and evidence, rather than settling it in advance.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W40-speaking-situations-001-MASTERY-bundle",
       "periodo": 40,
       "protocol_version": "5.2",

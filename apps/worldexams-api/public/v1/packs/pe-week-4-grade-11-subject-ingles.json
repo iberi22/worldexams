@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'At nine o'clock last night we ___ dinner when the power went out.'",
+      "context": "A witness describes what was happening when the accident occurred.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
+          "text": "were having",
           "is_correct": true,
-          "feedback": "'accommodation' is the word for a place where you live or stay, including on holiday."
+          "feedback": "Correct. 'Were having' is the past continuous, which marks the longer action that was already under way when the second event happened."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "are having",
           "is_correct": false,
-          "feedback": "'transportation' means the way you travel, such as buses or planes, not where you stay."
+          "feedback": "Wrong. 'Are having' is present continuous, which places the dinner at the current moment instead of last night."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "had",
           "is_correct": false,
-          "feedback": "'entertainment' is the activity of enjoying shows, films or games, not a place to live."
+          "feedback": "Wrong. 'Had' would require a past participle after it and describes an earlier completed state, not an ongoing dinner."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "have",
           "is_correct": false,
-          "feedback": "'currency' is the money of a country, such as the colon; a place to stay is not money."
+          "feedback": "Wrong. 'Have' is the base form and cannot carry the past progressive meaning on its own."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "explanation": "The structure 'was or were plus verb-ing' expresses an action in progress in the past, which is exactly what an interrupted dinner is.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -54,36 +54,36 @@
     },
     {
       "id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct past continuous form of the verb 'to sleep'.",
+      "context": "A friend describes a scene from a film.",
       "options": [
         {
-          "letter": "D",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "'itinerary' is a detailed plan of a journey, listing the route and the stops along the way."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "slept",
           "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "feedback": "Wrong. 'Slept' is the past simple, which marks a completed action rather than an ongoing one."
         },
         {
           "letter": "B",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "'destination' is only the place you are going to; the plan of the route is the itinerary."
+          "text": "was sleeping",
+          "is_correct": true,
+          "feedback": "Correct. The singular subject takes 'was' plus the gerund, giving the past continuous form 'was sleeping'."
         },
         {
           "letter": "C",
-          "text": "passport",
+          "text": "were sleeping",
           "is_correct": false,
-          "feedback": "'passport' is the travel document you show at the border, not the plan of a journey."
+          "feedback": "Wrong. 'Were' is the plural auxiliary and does not agree with a singular subject such as 'he'."
+        },
+        {
+          "letter": "D",
+          "text": "sleep",
+          "is_correct": false,
+          "feedback": "Wrong. 'Sleep' is the base form and cannot express any tense without an auxiliary."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "The past continuous always pairs was or were with the gerund, and the auxiliary must agree in number with the subject.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -99,41 +99,41 @@
     },
     {
       "id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence in which the past continuous marks the shorter, backgrounded action.",
+      "context": "A detective reconstructs an interrupted conversation.",
       "options": [
         {
-          "letter": "B",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "'destination' names the place a person or thing is going or being sent to."
+          "letter": "A",
+          "text": "I rang when the phone was ringing.",
+          "is_correct": false,
+          "feedback": "Wrong. 'I rang' in the main clause would make the call the long background action, which is not the situation described."
         },
         {
-          "letter": "A",
-          "text": "departure",
+          "letter": "B",
+          "text": "I was ringing when the phone rang.",
           "is_correct": false,
-          "feedback": "'departure' is the action of leaving, not the place you leave for."
+          "feedback": "Wrong. 'I was ringing' makes the call the background action and the phone the interruption, which reverses the narrative."
         },
         {
           "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching a place, not the place itself."
+          "text": "I was cooking when the phone rang.",
+          "is_correct": true,
+          "feedback": "Correct. Cooking is the longer action already in progress, so it takes the past continuous while the call is the interruption."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "I rang when I rang the phone.",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, not the place at the end of it."
+          "feedback": "Wrong. 'I rang when I rang the phone' repeats the same action and cannot express an interruption."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "The action that is presented as already under way takes the past continuous; the shorter action that cuts into it takes the past simple.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -144,41 +144,41 @@
     },
     {
       "id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'While my sister ___ the guitar, my brother was doing his homework.'",
+      "context": "A student compares two things happening at the same past moment.",
       "options": [
         {
-          "letter": "C",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "'luggage' is the collective word for the suitcases and bags you pack for a trip."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "has playing",
           "is_correct": false,
-          "feedback": "'ticket' is the document you buy that admits you to the journey."
+          "feedback": "Wrong. 'Has playing' lacks a past participle after 'has' and is not a valid form."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "plays",
           "is_correct": false,
-          "feedback": "'flight' is the plane or the scheduled trip itself, not the bags you carry."
+          "feedback": "Wrong. 'Plays' is present tense and cannot share a past time frame with 'was doing'."
+        },
+        {
+          "letter": "C",
+          "text": "played",
+          "is_correct": false,
+          "feedback": "Wrong. 'Played' in the while-clause would make the two actions sequential rather than simultaneous."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "'reservation' is the booking you hold for a seat or a room."
+          "text": "was playing",
+          "is_correct": true,
+          "feedback": "Correct. Two simultaneous past actions, both in progress, take the past continuous with matching was or were forms."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "When two past actions run at the same time, English uses the past continuous for both, which makes the simultaneity explicit.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -189,40 +189,40 @@
     },
     {
       "id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct negative past continuous sentence.",
+      "context": "A negative past continuous is needed in a description.",
       "options": [
         {
-          "letter": "D",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, not on a bus, a train or a plane."
+          "text": "She wasn't sleeping at eleven.",
+          "is_correct": true,
+          "feedback": "Correct. Negating the auxiliary with 'was not' plus the gerund produces the negative past continuous, contracted to 'wasn't'."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "She not was sleeping at eleven.",
           "is_correct": false,
-          "feedback": "'commuter' is someone who travels regularly between home and work, a narrower idea than passenger."
+          "feedback": "Wrong. 'Not' cannot precede the auxiliary in standard English word order."
         },
         {
           "letter": "C",
-          "text": "tourist",
+          "text": "She wasn't sleep at eleven.",
           "is_correct": false,
-          "feedback": "'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew."
+          "feedback": "Wrong. 'Wasn't sleep' lacks the gerund; after the auxiliary the verb must appear as 'sleeping'."
+        },
+        {
+          "letter": "D",
+          "text": "She didn't sleep at eleven.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Didn't sleep' is a negative past simple and would describe a single completed action rather than an ongoing one."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "Negation in the continuous is formed on the auxiliary, not on the gerund, which is why 'wasn't sleeping' is the correct structure.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-bundle",
       "periodo": 4,
@@ -234,41 +234,41 @@
     },
     {
       "id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct past continuous question.",
+      "context": "A teacher asks about a scene in a photograph.",
       "options": [
         {
-          "letter": "C",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "'customs' is the office where officials check the goods, the luggage and the travellers entering a country."
-        },
-        {
           "letter": "A",
-          "text": "security",
+          "text": "What did you do at that moment?",
           "is_correct": false,
-          "feedback": "'security' refers to the staff and the measures that keep the airport safe, not to the goods check."
+          "feedback": "Wrong. 'Did you do' asks about a single completed action, not about what was in progress."
         },
         {
           "letter": "B",
-          "text": "terminal",
+          "text": "What were you doing at that moment?",
+          "is_correct": true,
+          "feedback": "Correct. A question in the past continuous inverts the auxiliary to the front and keeps the gerund after the subject."
+        },
+        {
+          "letter": "C",
+          "text": "What was you doing at that moment?",
           "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for and board your flight."
+          "feedback": "Wrong. 'Was' cannot be used with the subject 'you'; the plural auxiliary 'were' is required."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "What you were doing at that moment?",
           "is_correct": false,
-          "feedback": "'gate' is the door you board the plane through, not the place where officials check luggage."
+          "feedback": "Wrong. Without the auxiliary at the front there is no question structure, so this is not a well-formed question."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "The plural auxiliary 'were' is obligatory with 'you', and it must be inverted to the front of the question.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -279,41 +279,41 @@
     },
     {
       "id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly uses two past continuous clauses for simultaneous states.",
+      "context": "A report links two background states in the past.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "'boarding pass' is the slip the airline hands over at check-in that lets you board the plane."
+          "text": "The lights were flickering and the room froze.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Froze' is past simple and presents the cold as a completed change rather than a continuing condition."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "The lights flickered and the room was freezing.",
           "is_correct": false,
-          "feedback": "'visa' is the official permission to enter and stay in a foreign country."
+          "feedback": "Wrong. 'Flickered' in the simple past suggests the flickering came to an end, which a state description should not do."
         },
         {
           "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "'receipt' is the proof of payment for the ticket, not the document that lets you board."
+          "text": "The lights were flickering and the room was freezing.",
+          "is_correct": true,
+          "feedback": "Correct. Describing two ongoing states at the same moment requires the past continuous in both clauses."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "The lights flickered and the room froze.",
           "is_correct": false,
-          "feedback": "'brochure' is a small booklet with tourist information, not a travel document."
+          "feedback": "Wrong. Two past simple clauses give a sequence of finished events instead of a simultaneous shared scene."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "Shared scenes in narration are best rendered with the past continuous, because it presents the situation as a single moment rather than a chain of events.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -324,41 +324,41 @@
     },
     {
       "id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly marks the action in progress in the past and the habit with the past simple.",
+      "context": "An interview distinguishes an action from a habit.",
       "options": [
         {
-          "letter": "D",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "'sightseeing' is visiting the places of interest of a location in order to look at them."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
+          "text": "At that moment he smokes, although he avoided cigarettes.",
           "is_correct": false,
-          "feedback": "'shopping' is buying things, which is a different activity from visiting sights."
+          "feedback": "Wrong. 'Smokes' is present tense, which cannot sit in a sentence narrated from a past viewpoint."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "At that moment he was smoking, although he usually was avoiding cigarettes.",
           "is_correct": false,
-          "feedback": "'hiking' is walking in the countryside along a trail, usually for exercise."
+          "feedback": "Wrong. 'Usually was avoiding' misplaces the adverb before the auxiliary and assigns a continuous to a habit."
         },
         {
           "letter": "C",
-          "text": "camping",
+          "text": "At that moment he smoked, although he was usually avoiding cigarettes.",
           "is_correct": false,
-          "feedback": "'camping' means spending the night outdoors in a tent."
+          "feedback": "Wrong. 'He smoked' would place the action at a completed past moment and 'was usually avoiding' describes an ongoing state, inverting both roles."
+        },
+        {
+          "letter": "D",
+          "text": "At that moment he was smoking, although he usually avoided cigarettes.",
+          "is_correct": true,
+          "feedback": "Correct. The specific ongoing action uses the past continuous while 'usually' plus the past simple presents the general habit."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
+      "explanation": "The same contrast that separates the present simple from the present continuous also operates in the past, since English marks duration rather than time of narration.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly joins two past continuous clauses with 'while'.",
+      "context": "A novelist describes a parallel background action.",
       "options": [
         {
-          "letter": "D",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "'souvenir' is an object kept because it reminds you of a person, a place or an event."
-        },
-        {
           "letter": "A",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder."
+          "text": "While the rain was pouring, the children were playing in the yard.",
+          "is_correct": true,
+          "feedback": "Correct. Both clauses use the past continuous, which is the standard way to present two simultaneous past actions."
         },
         {
           "letter": "B",
-          "text": "award",
+          "text": "While the rain was pouring, the children were play in the yard.",
           "is_correct": false,
-          "feedback": "'award' is a distinction given for a merit or an achievement."
+          "feedback": "Wrong. 'Were play' lacks the gerund after the plural auxiliary."
         },
         {
           "letter": "C",
-          "text": "prize",
+          "text": "While the rain was pouring, the children played in the yard.",
           "is_correct": false,
-          "feedback": "'prize' is what is won in a competition, not an object bought to remember a trip."
+          "feedback": "Wrong. 'Played' in the main clause would present the children as finishing their play rather than continuing it."
+        },
+        {
+          "letter": "D",
+          "text": "While the rain poured, the children were playing in the yard.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Rain poured' in the past simple suggests a completed downpour rather than an action continuing."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "The while-clause and the main clause should share the same past frame when both actions overlap in time.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'I ___ for a scholarship last March, so I missed the deadline.'",
+      "context": "A job application mentions a task in progress at a past deadline.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "'delay' is the extra period of time by which something becomes late or is postponed."
+          "text": "applied",
+          "is_correct": false,
+          "feedback": "Wrong. 'Applied' is the past simple and would present the application as a single completed event."
         },
         {
           "letter": "B",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "'cancellation' ends the booking or the trip altogether rather than pushing it back."
+          "text": "was applying",
+          "is_correct": true,
+          "feedback": "Correct. An application under way at a stated past moment takes the past continuous to show it was still running."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "am applying",
           "is_correct": false,
-          "feedback": "'departure' is the time a vehicle is scheduled to leave, not a postponement."
+          "feedback": "Wrong. 'Am applying' is present continuous, which has no connection to last March."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "apply",
           "is_correct": false,
-          "feedback": "'arrival' is the moment you reach the destination, not the waiting time."
+          "feedback": "Wrong. 'Apply' is the base form and cannot convey a past situation without an auxiliary."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "The past continuous is the form that marks an activity as still in progress at a specific past reference point.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -459,41 +459,41 @@
     },
     {
       "id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly describes an action in progress at a precise past moment.",
+      "context": "A traveller tells what was happening at a past moment.",
       "options": [
         {
-          "letter": "D",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "'check-in' is reporting your presence at the airport or the hotel and registering."
-        },
-        {
           "letter": "A",
-          "text": "check-out",
+          "text": "At noon we have waited at the airport.",
           "is_correct": false,
-          "feedback": "'check-out' is the opposite moment: leaving the hotel and settling the bill."
+          "feedback": "Wrong. 'Have waited' is the present perfect, which cannot be placed with a finished past time such as noon."
         },
         {
           "letter": "B",
-          "text": "booking",
+          "text": "At noon we waited at the airport.",
           "is_correct": false,
-          "feedback": "'booking' is reserving the room or the seat in advance, which happens before you arrive."
+          "feedback": "Wrong. 'Waited' is the past simple and suggests the waiting completed at noon rather than continuing."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "At noon we were waiting at the airport.",
+          "is_correct": true,
+          "feedback": "Correct. A precise past moment with an activity that was still ongoing is best expressed with the past continuous."
+        },
+        {
+          "letter": "D",
+          "text": "At noon we are waiting at the airport.",
           "is_correct": false,
-          "feedback": "'reservation' is the record of that booking, not the act of reporting your presence."
+          "feedback": "Wrong. 'Are waiting' is present continuous and belongs to the current moment rather than to a past period."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "A specific past clock time is the classic trigger for the past continuous because it locates an action inside that moment.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -504,41 +504,41 @@
     },
     {
       "id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence in which 'while' correctly introduces the longer background action.",
+      "context": "A grammar task compares the past simple and the past continuous with 'while'.",
       "options": [
         {
           "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "'layover' is the rest or the waiting period between two stages of a journey."
+          "text": "While she is revising her notes, the bell rang.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Is revising' is present continuous and cannot serve as the background of a past simple event."
         },
         {
           "letter": "B",
-          "text": "stopover",
+          "text": "While she was revising her notes, the bell rang already.",
           "is_correct": false,
-          "feedback": "'stopover' is a break in a journey during which you leave the vehicle, often overnight."
+          "feedback": "Wrong. 'Rang already' adds an adverb that conflicts with the simple past form and does not repair the meaning."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "While she revised her notes, the bell was ringing.",
           "is_correct": false,
-          "feedback": "'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time."
+          "feedback": "Wrong. 'The bell was ringing' makes the bell the background, but a short sound is better presented as an interruption."
         },
         {
           "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "'transit' means passage through a place or the system that carries people, not the pause itself."
+          "text": "While she was revising her notes, the bell rang.",
+          "is_correct": true,
+          "feedback": "Correct. Revision is the longer ongoing activity and the bell is the brief interrupting event, which is the standard past continuous plus past simple pattern."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Which action takes the continuous depends on which one lasted longer, not on which clause appears first in the sentence.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -549,41 +549,41 @@
     },
     {
       "id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly describes a longer activity extending up to a past point.",
+      "context": "A historian notes what had been happening before a decision.",
       "options": [
         {
-          "letter": "B",
-          "text": "currency",
+          "letter": "A",
+          "text": "They had been working on the project for months before the funding stopped.",
           "is_correct": true,
-          "feedback": "'currency' is the whole money system in general use in a particular country."
+          "feedback": "Correct. A duration extending up to a past point requires the past perfect continuous, since the activity outlasted the earlier reference moment."
         },
         {
-          "letter": "A",
-          "text": "coin",
+          "letter": "B",
+          "text": "They worked on the project for months before the funding stopped.",
           "is_correct": false,
-          "feedback": "'coin' is a single round piece of metal money, only one part of a currency."
+          "feedback": "Wrong. 'Worked' is the past simple and would express a single bounded action rather than an extended duration."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "They have been working on the project for months before the funding stopped.",
           "is_correct": false,
-          "feedback": "'banknote' is a paper note, again only one part of a country's money system."
+          "feedback": "Wrong. 'Have been working' is the present perfect continuous and belongs to the present, not to a past reference point."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "They were working on the project for months before the funding stopped.",
           "is_correct": false,
-          "feedback": "'cash' is money in coins and notes seen as a form of payment, not the system a country has."
+          "feedback": "Wrong. 'Were working' marks an action in progress but not one that continued right up to the earlier past moment."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "English reserves the perfect continuous for durations that lead up to a past moment, and that is precisely the situation described here.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -594,41 +594,41 @@
     },
     {
       "id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct short answer to the question 'Were you revising at nine?'",
+      "context": "A classmate asks about an ongoing activity from a past point of view.",
       "options": [
         {
-          "letter": "D",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "'guidebook' is a book of information about a place written for the use of visitors."
-        },
-        {
           "letter": "A",
-          "text": "map",
+          "text": "No, I didn't.",
           "is_correct": false,
-          "feedback": "'map' is a drawing of the area, not a book of information."
+          "feedback": "Wrong. 'Didn't' is the past simple auxiliary and answers a different question about a completed action."
         },
         {
           "letter": "B",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "'dictionary' explains the words of a language, not the places of a region."
+          "text": "No, I wasn't.",
+          "is_correct": true,
+          "feedback": "Correct. A negative short answer to a past continuous question repeats the auxiliary 'was' with 'not' and omits the gerund."
         },
         {
           "letter": "C",
-          "text": "encyclopedia",
+          "text": "No, I not revising.",
           "is_correct": false,
-          "feedback": "'encyclopedia' covers all branches of knowledge, not one destination for tourists."
+          "feedback": "Wrong. 'Not' cannot stand alone in a short answer, and the gerund form is wrong after 'was'."
+        },
+        {
+          "letter": "D",
+          "text": "No, I wasn't revise.",
+          "is_correct": false,
+          "feedback": "Wrong. 'I wasn't revise' lacks the gerund; a short answer contains only the pronoun and the auxiliary."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Short answers consist of a pronoun plus the auxiliary, so a negative reply to a past continuous question must use 'wasn't'.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -639,41 +639,41 @@
     },
     {
       "id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence in which the past continuous and the past simple are used in a way that creates an illogical overlap.",
+      "context": "A reviewer points out an inconsistency in a student's narrative.",
       "options": [
         {
-          "letter": "C",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "'backpack' has shoulder straps and is carried on the back."
-        },
-        {
           "letter": "A",
-          "text": "suitcase",
+          "text": "He was driving home while he realised he had left his wallet at the office.",
           "is_correct": false,
-          "feedback": "'suitcase' is a case with a handle that is pulled along, not one worn on the back."
+          "feedback": "Wrong. 'While he realised' sets the realisation as background rather than as the moment of interruption, which weakens the sequence."
         },
         {
           "letter": "B",
-          "text": "briefcase",
+          "text": "He was driving home when he realised he leaves his wallet at the office.",
           "is_correct": false,
-          "feedback": "'briefcase' is a flat case for documents that you carry by hand at work."
+          "feedback": "Wrong. 'He realises' is present tense, which clashes with the past narration and is the inconsistency the reviewer is flagging."
+        },
+        {
+          "letter": "C",
+          "text": "He was driving home when he realised he had left his wallet at the office.",
+          "is_correct": true,
+          "feedback": "Correct. 'He was driving' is a valid ongoing past action but 'he realises' is present tense and cannot form the interrupting clause."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "He drives home when he realised he had left his wallet at the office.",
           "is_correct": false,
-          "feedback": "'handbag' is a small bag held in the hand, usually for personal items."
+          "feedback": "Wrong. 'He drives home' is present tense and cannot belong to a sentence anchored in the past."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "A narrative built on the past requires consistency: an interrupting event in such a sentence must be expressed with the past simple.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -684,41 +684,41 @@
     },
     {
       "id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly describes movement that continued inside a limited area at a past moment.",
+      "context": "An athlete describes a specific instant of movement.",
       "options": [
         {
-          "letter": "B",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "'overseas' means in or to a foreign country, especially one across the sea."
+          "letter": "A",
+          "text": "He was run up and down the court when the whistle blew.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Was run' uses the base form after the auxiliary, which is only correct with a participle."
         },
         {
-          "letter": "A",
-          "text": "domestic",
+          "letter": "B",
+          "text": "He runs up and down the court when the whistle blew.",
           "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
+          "feedback": "Wrong. 'Runs' is present tense and cannot be coordinated with a past interruption."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "He ran up and down the court when the whistle blew.",
           "is_correct": false,
-          "feedback": "'local' means belonging to a small area nearby, not to a foreign country."
+          "feedback": "Wrong. 'Ran' presents the movement as completed before the whistle, which removes the sense of activity at that instant."
         },
         {
           "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "'national' means concerning the whole nation and says nothing about being abroad."
+          "text": "He was running up and down the court when the whistle blew.",
+          "is_correct": true,
+          "feedback": "Correct. Movement contained within a limited area and still in progress takes the past continuous."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Verbs of movement restricted by an adverb such as 'up and down' are conventionally tested with the continuous because the movement is ongoing.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -729,41 +729,41 @@
     },
     {
       "id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly contrasts an action under way with a single repeated event inside a past period.",
+      "context": "A linguistic exercise examines a subtle difference in aspect.",
       "options": [
         {
-          "letter": "D",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "'budget' is an estimate of income and expenditure planned for a set period."
-        },
-        {
           "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "'expense' is a single amount of money that is spent, not the plan for a whole period."
+          "text": "He was cycling to school every day that week.",
+          "is_correct": true,
+          "feedback": "Correct. The continuous with a repeated adverb phrase presents each instance as an unfinished process within the period."
         },
         {
           "letter": "B",
-          "text": "cost",
+          "text": "He has cycled to school every day that week.",
           "is_correct": false,
-          "feedback": "'cost' is what one item or one service costs, again not an estimate for a period."
+          "feedback": "Wrong. 'Has cycled' is the present perfect and cannot be used with the closed past phrase 'that week'."
         },
         {
           "letter": "C",
-          "text": "price",
+          "text": "He was cycling to school once that week.",
           "is_correct": false,
-          "feedback": "'price' is the sum a customer pays for one product; a budget covers income and spending together."
+          "feedback": "Wrong. 'Once' would be incompatible with a continuous, since a single completed trip is better rendered with the simple past."
+        },
+        {
+          "letter": "D",
+          "text": "He cycled to school every day that week.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Cycled' presents the cycling as a series of completed events, which is the habitual reading of that phrase."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "Continuous aspect with a repeated phrase inside a past period changes the reading from discrete completed events to processes that were individually under way.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -774,41 +774,41 @@
     },
     {
       "id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct version of the sentence the editor accepts.",
+      "context": "An editing task corrects an aspect error in a travel narrative.",
       "options": [
         {
-          "letter": "C",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium."
-        },
-        {
           "letter": "A",
-          "text": "warranty",
+          "text": "We were driving along the coast when the engine makes a strange noise.",
           "is_correct": false,
-          "feedback": "'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge."
+          "feedback": "Wrong. 'Makes' is present tense and breaks the past frame established by 'were driving'."
         },
         {
           "letter": "B",
-          "text": "guarantee",
+          "text": "We were driving along the coast when the engine started making a strange noise.",
+          "is_correct": true,
+          "feedback": "Correct. The journey is background and ongoing, while the engine noise is the short event that interrupted it, both anchored in the past."
+        },
+        {
+          "letter": "C",
+          "text": "We drive along the coast when the engine started making a strange noise.",
           "is_correct": false,
-          "feedback": "'guarantee' is a general promise of quality and does not involve paying a premium."
+          "feedback": "Wrong. 'Drive' is present tense and contradicts 'started making' in the same clause."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "We drove along the coast while the engine was making a strange noise.",
           "is_correct": false,
-          "feedback": "'policy' is the written document that states what an insurance contract covers."
+          "feedback": "Wrong. 'While' turns the engine noise into a longer background action rather than the interruption."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "The editing task tests whether the learner can keep the aspect distinction consistent within a single past narration.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which statement correctly explains why the second sentence is preferred in formal writing?",
+      "context": "A comparison of two sentences is the object of the task.",
       "options": [
         {
-          "letter": "C",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "'vaccination' is the treatment with a vaccine that makes the body immune to a disease."
-        },
-        {
           "letter": "A",
-          "text": "medication",
+          "text": "'The committee debated the proposal' is less accurate because the past simple cannot describe completed actions.",
           "is_correct": false,
-          "feedback": "'medication' is a drug taken to treat an illness, not to prevent one."
+          "feedback": "Wrong. The past simple describes completed actions perfectly well, so the claim in this option is false."
         },
         {
           "letter": "B",
-          "text": "prescription",
+          "text": "'The committee was debating the proposal' is preferred because the continuous is always more formal than the simple past.",
           "is_correct": false,
-          "feedback": "'prescription' is the written order that authorises a medicine, not the treatment itself."
+          "feedback": "Wrong. The continuous is not uniformly more formal; register plays a separate role and this explanation is inaccurate."
+        },
+        {
+          "letter": "C",
+          "text": "'The committee was debating the proposal' presents the discussion as an ongoing process, which suits a description of a stage in a long process.",
+          "is_correct": true,
+          "feedback": "Correct. This explains the aspectual difference rather than asserting a blanket rule, and it correctly identifies what the continuous contributes."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "'The committee was debating the proposal' is preferred because English has no simple past form of the verb to debate.",
           "is_correct": false,
-          "feedback": "'infection' is the disease itself, the opposite of the protection a vaccination gives."
+          "feedback": "Wrong. 'Debate' has a regular simple past form, so the claim that no such form exists is incorrect."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "explanation": "A strong statement of preference rests on the meaning of the forms involved, not on a false generalisation about register or existence of inflections.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly avoids the past continuous with a state verb.",
+      "context": "An exam item tests the negative past continuous with stative verbs.",
       "options": [
         {
-          "letter": "C",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight."
-        },
-        {
           "letter": "A",
-          "text": "fatigue",
+          "text": "She not know the answer at that point.",
           "is_correct": false,
-          "feedback": "'fatigue' is tiredness that can come from any long effort, not specifically from a flight."
+          "feedback": "Wrong. 'Not' cannot precede the base form without an auxiliary and 'know' would also be the wrong tense."
         },
         {
           "letter": "B",
-          "text": "exhaustion",
+          "text": "She didn't knew the answer at that point.",
           "is_correct": false,
-          "feedback": "'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep."
+          "feedback": "Wrong. After 'did' the verb must be the base form, so 'knew' cannot follow it."
+        },
+        {
+          "letter": "C",
+          "text": "She wasn't knowing the answer at that point.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Wasn't knowing' is ungrammatical; stative verbs generally resist the progressive form."
         },
         {
           "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "'insomnia' is the inability to fall asleep, which has many causes besides travel."
+          "text": "She didn't know the answer at that point.",
+          "is_correct": true,
+          "feedback": "Correct. 'Know' is a stative verb, so standard English uses the simple past and does not allow the progressive in this sense."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "The restriction on the progressive with stative verbs is one of the most frequently tested points in English grammar examinations.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W04-past-continuous-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",

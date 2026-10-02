@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses the passive voice correctly?",
+      "context": "Passive voice in present and past, San Juan, grado 11, W15.",
       "options": [
         {
-          "letter": "B",
-          "text": "accommodation",
+          "letter": "A",
+          "text": "The library was built in 1975.",
           "is_correct": true,
-          "feedback": "Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday."
+          "feedback": "Correcto. 'Was built' es pasiva de pasado: 'to be' en pasado mas el participio del verbo principal."
         },
         {
-          "letter": "A",
-          "text": "transportation",
+          "letter": "B",
+          "text": "The library was build in 1975.",
           "is_correct": false,
-          "feedback": "'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep."
+          "feedback": "Incorrecto. La pasiva exige el participio 'built' y no la forma base 'build' detras del auxiliar."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "The library is built in 1975.",
           "is_correct": false,
-          "feedback": "'Entertainment' is the fun or activities you enjoy, not the building or room where you stay."
+          "feedback": "Incorrecto. 'Is built' es pasiva de presente y no concuerda con la fecha '1975', que exige pasado."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "The library built in 1975.",
           "is_correct": false,
-          "feedback": "'Currency' is the money of a country, which has nothing to do with where you sleep."
+          "feedback": "Incorrecto. Sin 'to be' no hay pasiva, porque el verbo principal queda como activo y sin objeto."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "La voz pasiva se construye con el verbo 'to be' en el tiempo correspondiente mas el participio pasado del verbo principal. El agente puede omitirse cuando no es relevante o cuando ya se conoce por el contexto.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle",
       "periodo": 15,
@@ -54,40 +54,40 @@
     },
     {
       "id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'English ____ (speak) in many countries around the world.'",
+      "context": "Passive voice in present simple, Ponce, grado 11, W15.",
       "options": [
         {
-          "letter": "C",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "speaks",
           "is_correct": false,
-          "feedback": "'Baggage' is the suitcases and bags you travel with, not the written plan of the trip."
+          "feedback": "Incorrecto. 'Speaks' es voz activa y ademas no concuerda con el sujeto 'English', que es singular."
         },
         {
           "letter": "B",
-          "text": "destination",
+          "text": "is speak",
           "is_correct": false,
-          "feedback": "'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan."
+          "feedback": "Incorrecto. Detras de 'is' el verbo va en participio 'spoken' y no en la forma base 'speak'."
+        },
+        {
+          "letter": "C",
+          "text": "is spoken",
+          "is_correct": true,
+          "feedback": "Correcto. 'Is spoken' es pasiva de presente y describe una costumbre general sin nombrar a quien la realiza."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "are spoken",
           "is_correct": false,
-          "feedback": "'Passport' is the travel document that lets you cross a border, not the schedule of your trip."
+          "feedback": "Incorrecto. 'Are' corresponde a un sujeto plural y 'English' es singular en esta frase."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "explanation": "En la pasiva de presente el auxiliar es 'is' o 'are' segun el sujeto, y el participio no cambia de forma. Los participios irregulares como 'spoken', 'written' o 'built' deben aprenderse aparte, igual que en los tiempos verbales activos.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle",
       "periodo": 15,
@@ -99,40 +99,40 @@
     },
     {
       "id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The bridge ____ (build) in 1998 by the municipal government.'",
+      "context": "Passive voice in past simple, Carolina, grado 11, W15.",
       "options": [
         {
-          "letter": "B",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place someone or something is going or being sent to."
+          "letter": "A",
+          "text": "is built",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Is built' es pasiva de presente y contradice la fecha '1998' de la frase."
         },
         {
-          "letter": "A",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'Departure' is the action of leaving, the opposite end of the journey from the destination."
+          "letter": "B",
+          "text": "was built",
+          "is_correct": true,
+          "feedback": "Correcto. 'Was built' es pasiva de pasado y el agente se menciona al final con 'by'."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "was build",
           "is_correct": false,
-          "feedback": "'Arrival' is the act of getting there; the place you arrive at is the destination."
+          "feedback": "Incorrecto. La pasiva de pasado requiere el participio 'built' y no la forma base del verbo."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "built",
           "is_correct": false,
-          "feedback": "'Journey' is the whole trip from start to finish, not the place you are heading to."
+          "feedback": "Incorrecto. Sin el auxiliar 'to be' la frase no tiene voz pasiva y el verbo queda sin objeto."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "explanation": "El agente de una pasiva se introduce con la preposicion 'by'. Puede colocarse al final de la oracion o intercalarse entre el auxiliar y el participio, y en ambos casos la construccion es correcta.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle",
       "periodo": 15,
@@ -144,40 +144,40 @@
     },
     {
       "id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is correct?",
+      "context": "Passive voice with modals, Bayamon, grado 11, W15.",
       "options": [
         {
-          "letter": "B",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip."
+          "letter": "A",
+          "text": "The work must finished before Friday.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la pasiva con modal siempre aparece el 'be' entre el modal y el participio."
         },
         {
-          "letter": "A",
-          "text": "ticket",
+          "letter": "B",
+          "text": "The work must be finish before Friday.",
           "is_correct": false,
-          "feedback": "'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself."
+          "feedback": "Incorrecto. Detras de 'be' el verbo va en participio 'finished' y no en la forma base."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "The work is must be finished before Friday.",
           "is_correct": false,
-          "feedback": "'Flight' is the journey by plane, or the plane itself; the bags are called luggage."
+          "feedback": "Incorrecto. Un modal no se combina con el auxiliar 'to be' en presente de esa manera."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "'Reservation' is the booking you make for a seat or a room, not the bags you pack."
+          "text": "The work must be finished before Friday.",
+          "is_correct": true,
+          "feedback": "Correcto. Los modales forman la pasiva con 'modal' mas 'be' mas participio."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "La pasiva con verbos modales tiene una estructura fija: modal mas 'be' mas participio. Se aplica con 'can', 'must', 'should', 'may' y 'could', y es una de las construcciones mas frecuentes en instrucciones y normas de seguridad.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle",
       "periodo": 15,
@@ -189,40 +189,40 @@
     },
     {
       "id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Why is the passive voice often used?",
+      "context": "Passive voice with by-phrases, Arecibo, grado 11, W15.",
       "options": [
         {
-          "letter": "B",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew."
+          "letter": "A",
+          "text": "To make the sentence shorter in every case.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pasiva suele ser mas larga que la activa, porque anade el auxiliar 'to be'."
         },
         {
-          "letter": "A",
-          "text": "pedestrian",
+          "letter": "B",
+          "text": "To avoid using the past tense.",
           "is_correct": false,
-          "feedback": "'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all."
+          "feedback": "Incorrecto. La pasiva funciona en todos los tiempos; por eso existe con 'was' y con 'is'."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "To show who performed the action more clearly.",
           "is_correct": false,
-          "feedback": "'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case."
+          "feedback": "Incorrecto. Justamente al contrario: la pasiva oculta o relega al agente, y la activa lo emphasise."
         },
         {
           "letter": "D",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents."
+          "text": "To focus on the action or the result rather than the agent.",
+          "is_correct": true,
+          "feedback": "Correcto. La pasiva destaca el resultado y permite omitir al agente cuando no es importante o ya se conoce."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "D",
+      "explanation": "La eleccion entre activa y pasiva depende de la prioridad del mensaje. Cuando el agente es desconocido, irrelevante o ya conocido, la pasiva evita repetirlo y mantiene el foco en el resultado de la accion.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle",
       "periodo": 15,
@@ -234,40 +234,40 @@
     },
     {
       "id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'These books ____ (write) by a famous Puerto Rican author.'",
+      "context": "Passive voice in present and past, Humacao, grado 11, W15.",
       "options": [
         {
-          "letter": "B",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage."
+          "letter": "A",
+          "text": "was written",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Was' corresponde a un sujeto singular y 'these books' es plural en esta oracion."
         },
         {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in."
+          "letter": "B",
+          "text": "were written",
+          "is_correct": true,
+          "feedback": "Correcto. 'Were written' es pasiva de pasado y concuerda con el sujeto plural 'these books'."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "are write",
           "is_correct": false,
-          "feedback": "'Terminal' is the whole building where passengers wait, eat and catch their flights."
+          "feedback": "Incorrecto. Detras del auxiliar el verbo va en participio 'written' y no en la forma base 'write'."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "have written",
           "is_correct": false,
-          "feedback": "'Gate' is the particular door you board through, not the place where officials inspect your luggage."
+          "feedback": "Incorrecto. 'Have written' es presente perfecto activo, no pasiva, porque conserva un sujeto como agente."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "El auxiliar de la pasiva concuerda con el sujeto, no con el agente. Un sujeto plural exige 'were' o 'are', y uno singular 'was' o 'is', independientemente de quien haya realizado la accion.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle",
       "periodo": 15,
@@ -279,37 +279,37 @@
     },
     {
       "id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The decision ____ (take) yesterday afternoon by the committee.'",
+      "context": "Passive voice with irregular participles, Aguadilla, grado 11, W15.",
       "options": [
         {
-          "letter": "D",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board."
-        },
-        {
           "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane."
+          "text": "was taken",
+          "is_correct": true,
+          "feedback": "Correcto. El participio de 'to take' es 'taken' y 'was taken' forma la pasiva de pasado."
         },
         {
           "letter": "B",
-          "text": "receipt",
+          "text": "was taked",
           "is_correct": false,
-          "feedback": "'Receipt' is the proof of payment for a purchase, not the travel document for boarding."
+          "feedback": "Incorrecto. Anadir -ed a un verbo irregular no forma parte del ingles, de modo que 'taked' no existe."
         },
         {
           "letter": "C",
-          "text": "brochure",
+          "text": "is taken",
           "is_correct": false,
-          "feedback": "'Brochure' is a small booklet of tourist information, not the document that lets you board."
+          "feedback": "Incorrecto. 'Is taken' es pasiva de presente y contradice la expresion temporal 'yesterday afternoon'."
+        },
+        {
+          "letter": "D",
+          "text": "has taken",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Has taken' es activo, porque el sujeto de la pasiva debe ser el objeto de la accion."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "A",
+      "explanation": "En la pasiva el sujeto recibe la accion, mientras que en la activa lo realiza. Por eso el verbo 'to take' con el objeto como sujeto produce 'was taken' y no 'has taken', que conserva el sentido activo.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,37 +324,37 @@
     },
     {
       "id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which question is correct?",
+      "context": "Passive voice in questions, Guayanilla, grado 11, W15.",
       "options": [
         {
-          "letter": "C",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'Sightseeing' is the activity of visiting the places of interest in a location."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
+          "text": "When did the museum opened?",
           "is_correct": false,
-          "feedback": "'Shopping' is buying things in stores, which is not the same as visiting the sights of a place."
+          "feedback": "Incorrecto. 'Did' exige la forma base 'open' detras del auxiliar y no un participio."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "When was the museum open?",
           "is_correct": false,
-          "feedback": "'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions."
+          "feedback": "Incorrecto. Detras de 'was' el verbo va en participio 'opened' y no en la forma base 'open'."
+        },
+        {
+          "letter": "C",
+          "text": "When was the museum opened?",
+          "is_correct": true,
+          "feedback": "Correcto. En una pregunta pasiva de pasado el auxiliar 'was' va delante del sujeto y el participio despues."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "When the museum was opened?",
           "is_correct": false,
-          "feedback": "'Camping' is staying outdoors in a tent, not visiting the sights of a location."
+          "feedback": "Incorrecto. El orden interrogativo exige que 'when' abra la frase y que el auxiliar 'was' siga al sujeto."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "En una pregunta pasiva se conserva la estructura auxiliar, sujeto y participio, y lo que se hace es colocar el elemento interrogativo delante. La pasiva no cambia el orden de palabras dentro del grupo verbal.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -369,40 +369,40 @@
     },
     {
       "id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which verbs are NOT normally used in the passive voice?",
+      "context": "Passive voice with go and come, Trujillo Alto, grado 11, W15.",
       "options": [
         {
-          "letter": "C",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited."
-        },
-        {
           "letter": "A",
-          "text": "gift",
+          "text": "Verbs that describe a process, such as 'to build'.",
           "is_correct": false,
-          "feedback": "'Gift' is something you give to another person; a souvenir is kept by the person who took the trip."
+          "feedback": "Incorrecto. Los verbos transitivos de proceso forman pasiva con normalidad, como en 'the house was built'."
         },
         {
           "letter": "B",
-          "text": "award",
+          "text": "Verbs whose past participle is irregular, such as 'to take'.",
           "is_correct": false,
-          "feedback": "'Award' is a prize given for an achievement, not an object bought or kept as a memory."
+          "feedback": "Incorrecto. Un participio irregular no impide la pasiva, y 'was taken' es una construccion totalmente estandar."
+        },
+        {
+          "letter": "C",
+          "text": "Verbs of movement such as 'to go' and 'to arrive'.",
+          "is_correct": true,
+          "feedback": "Correcto. Los verbos intransitivos no tienen objeto que pueda pasar a sujeto, y por eso no forman pasiva."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "Verbs that take the auxiliary 'to be'.",
           "is_correct": false,
-          "feedback": "'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey."
+          "feedback": "Incorrecto. Los verbos de estado como 'to be' o 'to seem' no forman pasiva, pero no es por su participado irregular."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "explanation": "La pasiva solo es posible con verbos transitivos, porque necesita un objeto que se convierta en sujeto. Los verbos intransitivos como 'to go', 'to arrive', 'to fall' o 'to sleep' carecen de ese objeto y no admiten construccion pasiva.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle",
       "periodo": 15,
@@ -414,37 +414,37 @@
     },
     {
       "id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The results ____ (announce) next Friday at the school.'",
+      "context": "Passive voice in present simple, Barceloneta, grado 11, W15.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
+          "text": "will be announced",
           "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra time by which something ends up late or gets postponed."
+          "feedback": "Correcto. 'Will be announced' es pasiva de futuro y encaja con la fecha futura 'next Friday'."
         },
         {
           "letter": "B",
-          "text": "cancellation",
+          "text": "will announce",
           "is_correct": false,
-          "feedback": "'Cancellation' means the event does not happen at all, not that it happens later than planned."
+          "feedback": "Incorrecto. Sin 'be' la frase es activa, y ademas el sujeto 'the results' no realiza la accion."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "are announce",
           "is_correct": false,
-          "feedback": "'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost."
+          "feedback": "Incorrecto. Detras de 'are' el verbo va en participio 'announced' y no en la forma base 'announce'."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "will be announce",
           "is_correct": false,
-          "feedback": "'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination."
+          "feedback": "Incorrecto. La pasiva exige el participio 'announced' y no la forma infinita del verbo base."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "La pasiva funciona en todos los tiempos: 'is built', 'was built', 'will be built', 'has been built'. Lo unico que cambia es la forma del auxiliar 'to be', que conserva la concordancia con el sujeto.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -459,37 +459,37 @@
     },
     {
       "id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct negative: 'The pool ____ (not / open) on Mondays.'",
+      "context": "Passive voice in negatives, Maunabo, grado 11, W15.",
       "options": [
         {
           "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter."
+          "text": "doesn't opened",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Doesn't' exige la forma base 'open' detras del auxiliar y no un participio."
         },
         {
           "letter": "B",
-          "text": "check-out",
+          "text": "isn't open",
           "is_correct": false,
-          "feedback": "'Check-out' is the opposite moment, when you leave the hotel or hand back the room."
+          "feedback": "Incorrecto. 'Open' es un adjetivo o la forma base del verbo, pero la pasiva necesita el participio 'opened'."
         },
         {
           "letter": "C",
-          "text": "booking",
+          "text": "wasn't opened",
           "is_correct": false,
-          "feedback": "'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in."
+          "feedback": "Incorrecto. 'Wasn't' es pasado y la frase describe una rutina presente que no cambia de tense."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "'Reservation' is the booking document, not the act of reporting your presence at the desk."
+          "text": "isn't opened",
+          "is_correct": true,
+          "feedback": "Correcto. 'Isn't opened' es pasiva de presente negativa y describe una rutina de apertura del centro."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "D",
+      "explanation": "La negacion de la pasiva se hace con 'not' detras del auxiliar 'to be'. El participio se mantiene igual que en las formas afirmativas, porque la negacion afecta al auxiliar y no al verbo principal.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,37 +504,37 @@
     },
     {
       "id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence places the agent correctly?",
+      "context": "Passive voice with by-phrases, Yauco, grado 11, W15.",
       "options": [
         {
-          "letter": "B",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! A 'layover' is a period of rest or waiting between two stages of a journey."
+          "letter": "A",
+          "text": "was painted with a group of students",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'With' indica la herramienta o el material usado, no la persona que realizo la pintura."
         },
         {
-          "letter": "A",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights."
+          "letter": "B",
+          "text": "The mural was painted by a group of students.",
+          "is_correct": true,
+          "feedback": "Correcto. El agente aparece tras la preposicion 'by', que es la marca propia de la pasiva."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "The mural was painted of a group of students.",
           "is_correct": false,
-          "feedback": "'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting."
+          "feedback": "Incorrecto. 'Of' no introduce al agente pasivo; la preposicion correcta es 'by'."
         },
         {
           "letter": "D",
-          "text": "transit",
+          "text": "The mural was painted by the group students.",
           "is_correct": false,
-          "feedback": "'Transit' is a system of moving people and goods through a city, not a break between two flights."
+          "feedback": "Incorrecto. Falta el articulo o el posesivo detras de 'group', que debe ser 'by a group' o 'by the group of students'."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "La preposicion 'by' introduce al agente de la pasiva y es la forma estandar en ingles escrito. Otras preposiciones como 'from' o 'with' pueden indicar el medio o la herramienta, pero no-who realiza la accion.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -549,37 +549,37 @@
     },
     {
       "id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Why do instructions often use the passive voice?",
+      "context": "Passive voice for processes, Cayey, grado 11, W15.",
       "options": [
         {
           "letter": "A",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'Currency' is the money system in general use in a particular country."
+          "text": "To make the instructions shorter and easier to follow.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pasiva no es necesariamente mas corta y anade el auxiliar 'to be' a cada frase."
         },
         {
           "letter": "B",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "'Coin' is a single metal piece of money, one item within the currency, not the whole system."
+          "text": "To describe the action without emphasizing the person performing it.",
+          "is_correct": true,
+          "feedback": "Correcto. En una receta el foco esta en el proceso y no en quien lo ejecuta, y la pasiva lo refleja."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "To hide important information from the reader.",
           "is_correct": false,
-          "feedback": "'Banknote' is a paper bill, one item of the currency rather than the system of money itself."
+          "feedback": "Incorrecto. El uso de la pasiva es una cuestion de foco, no de ocultar datos de manera deliberada."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "To use fewer different verb forms in the text.",
           "is_correct": false,
-          "feedback": "'Cash' means money in the physical form you hold, not the money system of a country."
+          "feedback": "Incorrecto. La pasiva mantiene el mismo numero de formas verbales que la activa, solo cambia el auxiliar."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "B",
+      "explanation": "En recetas, instrucciones de montaje y normas de seguridad, la pasiva es natural porque el proceso importa mas que la persona. El resultado es un texto en el que el foco permanece en cada etapa de la accion.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -594,40 +594,40 @@
     },
     {
       "id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The roof ____ (repair) several times since the hurricane.'",
+      "context": "Passive voice in the present perfect, San Sebastian, grado 11, W15.",
       "options": [
         {
-          "letter": "B",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book of information about a place written for visitors and tourists."
+          "letter": "A",
+          "text": "has repaired",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin 'been' la frase es activa, y el sujeto 'the roof' no realiza la reparacion."
         },
         {
-          "letter": "A",
-          "text": "map",
+          "letter": "B",
+          "text": "was repaired",
           "is_correct": false,
-          "feedback": "'Map' is a single sheet or screen showing the layout of a place, not a book of information."
+          "feedback": "Incorrecto. 'Was repaired' es pasiva de pasado simple y no admite la expresion 'since the hurricane'."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "has been repair",
           "is_correct": false,
-          "feedback": "'Dictionary' is a book of word definitions of a language, not information about a place for visitors."
+          "feedback": "Incorrecto. Detras de 'been' el verbo va en participio 'repaired' y no en la forma base 'repair'."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place."
+          "text": "has been repaired",
+          "is_correct": true,
+          "feedback": "Correcto. 'Has been' mas participio forma la pasiva del presente perfecto, con 'since' como marca temporal."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "La pasiva del presente perfecto tiene tres piezas: 'have been' o 'has been' mas el participio. Es la construccion adecuada cuando la accion se repite desde un punto de partida pasado y el agente no se menciona.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle",
       "periodo": 15,
@@ -639,40 +639,40 @@
     },
     {
       "id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The problem ____ (not / see) by anyone in the meeting.'",
+      "context": "Passive voice with the verb to see, Camuy, grado 11, W15.",
       "options": [
         {
           "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! A 'backpack' is the bag with shoulder straps that you carry on your back."
+          "text": "didn't see",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Didn't see' es activa y ademas el sujeto 'the problem' no puede ver a nadie."
         },
         {
           "letter": "B",
-          "text": "suitcase",
+          "text": "wasn't saw",
           "is_correct": false,
-          "feedback": "'Suitcase' is a case with a handle that you pull along, not a bag worn on the back."
+          "feedback": "Incorrecto. Detras de 'was' el verbo va en participio 'seen' y no en el pasado irregular 'saw'."
         },
         {
           "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "'Briefcase' is a case for documents and a laptop, carried in the hand for work."
+          "text": "wasn't seen",
+          "is_correct": true,
+          "feedback": "Correcto. 'Wasn't seen' es pasiva de pasado negativa y 'anyone' aparece dentro de la clausula del agente."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "isn't seen",
           "is_correct": false,
-          "feedback": "'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps."
+          "feedback": "Incorrecto. 'Isn't seen' es presente y la frase describe un hecho que ya ocurrio en una reunion pasada."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "En la pasiva, el sujeto de la oracion es siempre el objeto de la accion. Esa es la razon por la que 'the problem wasn't seen' tiene sentido y 'the problem didn't see' no lo tiene.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle",
       "periodo": 15,
@@ -684,37 +684,127 @@
     },
     {
       "id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'A new sports centre ____ (build) in our town next year.'",
+      "context": "Passive voice in the future, Luquillo, grado 11, W15.",
       "options": [
         {
-          "letter": "D",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'Overseas' means in or to a foreign country, especially one across the sea."
-        },
-        {
           "letter": "A",
-          "text": "domestic",
-          "is_correct": false,
-          "feedback": "'Domestic' means inside your own country, the opposite of overseas."
+          "text": "will be built",
+          "is_correct": true,
+          "feedback": "Correcto. 'Will be built' es pasiva de futuro y el agente se omite porque no es relevante todavia."
         },
         {
           "letter": "B",
-          "text": "local",
+          "text": "will build",
           "is_correct": false,
-          "feedback": "'Local' means in the area where you are, even more restricted than domestic; it never crosses a border."
+          "feedback": "Incorrecto. Sin 'be' la frase es activa y el sujeto no lleva a cabo la construccion."
         },
         {
           "letter": "C",
-          "text": "national",
+          "text": "will be build",
           "is_correct": false,
-          "feedback": "'National' refers to a whole country without saying it is foreign, so it does not imply going abroad."
+          "feedback": "Incorrecto. La pasiva de futuro exige el participio 'built' y no la forma base del verbo."
+        },
+        {
+          "letter": "D",
+          "text": "is going to build",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa estructura es activa y ademas corresponde a un plan, no a una pasiva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El futuro pasivo combina 'will' con 'be' y el participio. Se emplea mucho en noticias y comunicados, donde el proyecto importa mas que la empresa que lo ejecuta y esa informacion todavia no se conoce.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle-v17",
+      "statement": "Choose the correct question: '____ the documents signed before the meeting?'",
+      "context": "Passive voice in questions, Toa Baja, grado 11, W15.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Were",
+          "is_correct": true,
+          "feedback": "Correcto. El auxiliar 'were' abre la pregunta pasiva de pasado y el verbo principal queda en participio."
+        },
+        {
+          "letter": "B",
+          "text": "Did",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Did' es un auxiliar activo y exige la forma base 'sign' detras, no un participio."
+        },
+        {
+          "letter": "C",
+          "text": "Have",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Have' corresponde al presente perfecto y la frase necesita la pasiva de pasado."
+        },
+        {
+          "letter": "D",
+          "text": "Was",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Was' es singular y el sujeto 'the documents' es plural, de modo que 'were' es la forma correcta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En las preguntas pasivas el auxiliar 'to be' abre la oracion y respeta la concordancia con el sujeto. El participio se mantiene al final del grupo verbal, igual que en las afirmaciones.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle-v18",
+      "statement": "Which active sentence is equivalent to 'The song was written by my cousin'?",
+      "context": "Passive voice versus active rewriting, Naguabo, grado 11, W15.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "My cousin was written the song.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase mezcla pasiva y activa: el sujeto realizaria la escritura y ademas recibiria el objeto."
+        },
+        {
+          "letter": "B",
+          "text": "The song wrote my cousin.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la forma activa correcta, pero con los papeles de sujeto y objeto intercambiados."
+        },
+        {
+          "letter": "C",
+          "text": "My cousin is writing the song.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es presente continuo y no equivale a un hecho pasado ya completado."
+        },
+        {
+          "letter": "D",
+          "text": "My cousin wrote the song.",
+          "is_correct": true,
+          "feedback": "Correcto. Al devolver el agente al sujeto y el objeto al final se recupera la forma activa de la oracion."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "Pasar de la pasiva a la activa consiste en devolver el agente de la clausula 'by' al sujeto y devolver el objeto pasivo al lugar del objeto directo. El tiempo verbal se conserva durante todo el proceso.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -728,131 +818,41 @@
       "country": "pr"
     },
     {
-      "id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! A 'budget' is the estimate of income and expenditure planned for a set period."
-        },
-        {
-          "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "'Expense' is a single cost already paid; the definition is the estimate for the whole period."
-        },
-        {
-          "letter": "C",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "'Cost' is the price of one thing, whereas a budget covers all income and all spending."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "'Price' is the amount a single item costs, not a plan of income and expenditure over time."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle",
-      "periodo": 15,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pr"
-    },
-    {
-      "id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium."
-        },
-        {
-          "letter": "A",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract."
-        },
-        {
-          "letter": "C",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium."
-        },
-        {
-          "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle",
-      "periodo": 15,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pr"
-    },
-    {
       "id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The theft ____ (report) to the police yesterday evening.'",
+      "context": "Passive voice with reporting verbs, Hatillo, grado 11, W15.",
       "options": [
         {
           "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease."
+          "text": "was report",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pasiva exige el participio 'reported' y no la forma base 'report' detras del auxiliar."
         },
         {
           "letter": "B",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one."
+          "text": "was reported",
+          "is_correct": true,
+          "feedback": "Correcto. 'Was reported' es pasiva de pasado y describe el hecho sin darle importancia a quien lo denuncio."
         },
         {
           "letter": "C",
-          "text": "prescription",
+          "text": "is reported",
           "is_correct": false,
-          "feedback": "'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself."
+          "feedback": "Incorrecto. 'Is reported' es presente y contradice la expresion 'yesterday evening'."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "has reported",
           "is_correct": false,
-          "feedback": "'Infection' is the state of having the disease; vaccination is what protects you before you get it."
+          "feedback": "Incorrecto. 'Has reported' es activa, porque el sujeto 'the theft' no puede realizar la denuncia."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "B",
+      "explanation": "La pasiva es habitual con verbos de comunicacion como 'to report', 'to announce' o 'to declare', porque el contenido de la informacion importa mas que quien la transmite.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle",
       "periodo": 15,
@@ -864,40 +864,40 @@
     },
     {
       "id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The chairs ____ (make) of wood in small factories.'",
+      "context": "Passive voice with the verb to make, Yabucoa, grado 11, W15.",
       "options": [
         {
           "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones."
+          "text": "are make",
+          "is_correct": false,
+          "feedback": "Incorrecto. Detras de 'are' el verbo va en participio 'made' y no en la forma base 'make'."
         },
         {
           "letter": "B",
-          "text": "fatigue",
+          "text": "was made",
           "is_correct": false,
-          "feedback": "'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones."
+          "feedback": "Incorrecto. 'Was made' es pasado y la oracion describe un proceso general que sigue vigente."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect."
+          "text": "are made",
+          "is_correct": true,
+          "feedback": "Correcto. 'Are made' es pasiva de presente y 'of wood' indica el material en lugar del agente."
         },
         {
           "letter": "D",
-          "text": "insomnia",
+          "text": "make",
           "is_correct": false,
-          "feedback": "'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock."
+          "feedback": "Incorrecto. Sin el auxiliar 'to be' la frase es activa, y 'the chairs' no realiza la fabricacion."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "El participio de 'to make' es 'made', una forma irregular que hay que conocer aparte. En pasiva de presente se combina con 'are' o 'is' segun el sujeto, y con 'of' se indica el material.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle",
       "periodo": 15,

@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "A factory has replaced night shifts with an early finish. Within a year, the number of resignations fell by half, and several employees who had planned to leave changed their minds. Production figures were unchanged. The manager concluded that the change had been well received, though no survey of staff opinion was carried out.",
+      "context": "A passage that implies a conclusion without stating it.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
+          "text": "The change appears to have been welcomed, since fewer people left, though no direct opinion was collected.",
           "is_correct": true,
-          "feedback": "'accommodation' is the word for a place where you live or stay, including on holiday."
+          "feedback": "Correct. This draws a reasonable inference from the reduced resignations while acknowledging that no survey was done."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "The manager asked staff for their opinion before making the change.",
           "is_correct": false,
-          "feedback": "'transportation' means the way you travel, such as buses or planes, not where you stay."
+          "feedback": "Wrong. The passage says no survey was carried out, so no opinion was sought."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "Production fell after the change, since the figures are described as unchanged.",
           "is_correct": false,
-          "feedback": "'entertainment' is the activity of enjoying shows, films or games, not a place to live."
+          "feedback": "Wrong. Unchanged production figures indicate no fall in output."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "The change was unpopular, because resignation figures are the only measure of staff opinion.",
           "is_correct": false,
-          "feedback": "'currency' is the money of a country, such as the colon; a place to stay is not money."
+          "feedback": "Wrong. A fall in resignations is normally read as improved satisfaction, not as dissatisfaction."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "explanation": "An inference must be supported by evidence in the passage while going beyond what the passage states literally.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
+      "bloom": "Understand",
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -54,41 +54,41 @@
     },
     {
       "id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "A small cinema has cut its ticket prices in half. Attendance more than doubled, so the cinema now sells many more tickets than before. The manager reports that total revenue is slightly lower than it was last year, since the extra customers did not buy any refreshments.",
+      "context": "A passage that implies a conclusion about money.",
       "options": [
         {
-          "letter": "C",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "'itinerary' is a detailed plan of a journey, listing the route and the stops along the way."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "The cinema is earning more, because twice as many tickets were sold.",
           "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "feedback": "Wrong. More tickets at half the price yields less revenue, which the passage confirms."
         },
         {
           "letter": "B",
-          "text": "destination",
+          "text": "The cinema is busier but earning marginally less, because the extra customers spend nothing extra.",
+          "is_correct": true,
+          "feedback": "Correct. This combines the two facts given, higher attendance and slightly lower revenue, and explains the reason provided."
+        },
+        {
+          "letter": "C",
+          "text": "Refreshments have become more popular, since revenue stayed about the same.",
           "is_correct": false,
-          "feedback": "'destination' is only the place you are going to; the plan of the route is the itinerary."
+          "feedback": "Wrong. Refreshment spending did not rise, which is exactly why revenue fell."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "The cinema has lost customers, since attendance doubled only after the price cut.",
           "is_correct": false,
-          "feedback": "'passport' is the travel document you show at the border, not the plan of a journey."
+          "feedback": "Wrong. Attendance doubled, so the cinema gained customers."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "Inference questions often require combining two statements in the passage to reach a conclusion neither states on its own.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
+      "bloom": "Understand",
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -99,41 +99,41 @@
     },
     {
       "id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The author notes that the report was 'rigorous', 'long-awaited' and 'the most thorough to date'. The author also writes that it runs to four hundred pages and that three of its appendices reproduce earlier surveys in full.",
+      "context": "A passage that implies an attitude.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "'destination' names the place a person or thing is going or being sent to."
+          "text": "The author is hostile to the report, since the length is presented as a criticism.",
+          "is_correct": false,
+          "feedback": "Wrong. Praise followed by a remark on length is qualified approval, not hostility."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "The author is entirely neutral, because all the comments are factual.",
           "is_correct": false,
-          "feedback": "'departure' is the action of leaving, not the place you leave for."
+          "feedback": "Wrong. Words such as rigorous and long-awaited carry clear positive evaluation."
         },
         {
           "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching a place, not the place itself."
+          "text": "The author is probably positive about the report but mildly frustrated by its length.",
+          "is_correct": true,
+          "feedback": "Correct. Praise plus attention to excessive length suggests qualified approval rather than outright enthusiasm."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "The author has not read the report, because the comments are only about presentation.",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, not the place at the end of it."
+          "feedback": "Wrong. The author comments on the substance by calling it the most thorough to date."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "Attitude is inferred from evaluative wording and from the pairing of praise with criticism.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -144,41 +144,41 @@
     },
     {
       "id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "After the new lighting was installed in the workshop, workers reported fewer headaches. The workshop also introduced two short breaks in the morning at about the same time. The safety officer reports that both changes were introduced together, so it is not possible to say which produced the improvement.",
+      "context": "A passage that implies a causal link.",
       "options": [
         {
-          "letter": "D",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "'luggage' is the collective word for the suitcases and bags you pack for a trip."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "The safety officer deliberately hid the second change from the workers.",
           "is_correct": false,
-          "feedback": "'ticket' is the document you buy that admits you to the journey."
+          "feedback": "Wrong. Nothing suggests concealment; the officer reports both changes openly."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "The breaks had no effect on the workers' symptoms.",
           "is_correct": false,
-          "feedback": "'flight' is the plane or the scheduled trip itself, not the bags you carry."
+          "feedback": "Wrong. The officer says it is not possible to say which change produced the effect, rather than that the breaks had none."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "The lighting was the sole cause of the improvement, since the breaks were introduced later.",
           "is_correct": false,
-          "feedback": "'reservation' is the booking you hold for a seat or a room."
+          "feedback": "Wrong. The breaks were introduced at about the same time, not later."
+        },
+        {
+          "letter": "D",
+          "text": "The reduction in headaches cannot be attributed to the lighting alone, because a second change was introduced at the same time.",
+          "is_correct": true,
+          "feedback": "Correct. This is the conclusion the passage supports: two simultaneous changes prevent a single-cause attribution."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "explanation": "When a passage reports two simultaneous changes, it blocks a single-cause inference, and recognising that is the point.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -189,41 +189,41 @@
     },
     {
       "id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "A newspaper repeated a photograph it had already published two years earlier, adding no new caption. The editor defended the decision by saying the photograph had been requested many times by readers. Readers who noticed the repetition described it as lazy journalism.",
+      "context": "A passage that implies a motive.",
       "options": [
         {
-          "letter": "D",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, not on a bus, a train or a plane."
+          "text": "The editor's stated reason and the readers' reaction point in opposite directions, suggesting the real motive was to save effort.",
+          "is_correct": true,
+          "feedback": "Correct. This infers a mismatch between the stated motive and the reactions, which is what the passage sets up."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "The editor published the photograph twice by accident and admitted it in the defence.",
           "is_correct": false,
-          "feedback": "'commuter' is someone who travels regularly between home and work, a narrower idea than passenger."
+          "feedback": "Wrong. The editor defended the decision with reader demand rather than admitting an accident."
         },
         {
           "letter": "C",
-          "text": "tourist",
+          "text": "The readers who noticed were mistaken, since the photograph had never been published before.",
           "is_correct": false,
-          "feedback": "'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew."
+          "feedback": "Wrong. The passage states that the photograph had been published two years earlier."
+        },
+        {
+          "letter": "D",
+          "text": "The editor repeated the photograph because readers requested it, and the readers who noticed agreed.",
+          "is_correct": false,
+          "feedback": "Wrong. The readers who noticed the repetition disagreed with the editor's defence."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "An inference about motive draws on the gap between what a speaker says and what the surrounding evidence suggests.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -234,41 +234,41 @@
     },
     {
       "id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Attendance at evening classes has fallen each year for three years. The centre has responded by adding a Saturday morning class, which is currently full. A second Saturday class has been scheduled for the same period next term.",
+      "context": "A passage that implies a likely future development.",
       "options": [
         {
-          "letter": "B",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "'customs' is the office where officials check the goods, the luggage and the travellers entering a country."
+          "letter": "A",
+          "text": "Evening classes will recover soon, because the centre has added a Saturday morning class.",
+          "is_correct": false,
+          "feedback": "Wrong. Nothing in the passage suggests evening numbers will recover."
         },
         {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "'security' refers to the staff and the measures that keep the airport safe, not to the goods check."
+          "letter": "B",
+          "text": "A further Saturday class is likely to be needed, since demand has grown while supply has only partly kept pace.",
+          "is_correct": true,
+          "feedback": "Correct. This is the most reasonable inference from three years of falling evening numbers and a full Saturday class."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "The Saturday morning class is likely to become empty as evening numbers fall.",
           "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for and board your flight."
+          "feedback": "Wrong. The Saturday class is currently full, so it is more likely to need a second than to empty."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "The centre plans to close its evening programme entirely by the end of the year.",
           "is_correct": false,
-          "feedback": "'gate' is the door you board the plane through, not the place where officials check luggage."
+          "feedback": "Wrong. The centre is expanding capacity, not closing the evening programme."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "explanation": "A well-supported inference stays within the direction the evidence points and does not invent a reversal.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -279,41 +279,41 @@
     },
     {
       "id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "In the novel, the guide explains at length how to prepare for the climb. The reader learns later that the guide has not climbed the mountain in ten years. The novel never comments on this, and the guide's advice is accurate throughout.",
+      "context": "A passage that implies a character's awareness.",
       "options": [
         {
-          "letter": "B",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "'boarding pass' is the slip the airline hands over at check-in that lets you board the plane."
+          "letter": "A",
+          "text": "The novel criticises the guide for pretending to have climbed the mountain recently.",
+          "is_correct": false,
+          "feedback": "Wrong. The novel never comments on the ten years, so there is no criticism in the text."
         },
         {
-          "letter": "A",
-          "text": "visa",
+          "letter": "B",
+          "text": "The guide gives poor advice because he has not climbed the mountain for a long time.",
           "is_correct": false,
-          "feedback": "'visa' is the official permission to enter and stay in a foreign country."
+          "feedback": "Wrong. The passage states that the advice is accurate, which contradicts poor advice."
         },
         {
           "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "'receipt' is the proof of payment for the ticket, not the document that lets you board."
+          "text": "The guide knows the mountain well enough to advise correctly despite not having climbed it recently.",
+          "is_correct": true,
+          "feedback": "Correct. This is what the passage supports: the advice is accurate, so experience clearly underlies it."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "The guide's advice is based entirely on written material with no practical experience behind it.",
           "is_correct": false,
-          "feedback": "'brochure' is a small booklet with tourist information, not a travel document."
+          "feedback": "Wrong. Ten years is not 'entirely no experience', and the accuracy of the advice points to real knowledge."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "Inference about a character must stay within what the passage establishes, and here it establishes that the guide's knowledge is genuine.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -324,41 +324,41 @@
     },
     {
       "id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The council wants to widen the road but has not acted. A survey shows that two-thirds of the houses affected are listed buildings. Planning officers have stated that any change affecting a listed facade requires approval from the heritage authority, a process that takes about a year.",
+      "context": "A passage that implies a constraint on a decision.",
       "options": [
         {
-          "letter": "C",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "'sightseeing' is visiting the places of interest of a location in order to look at them."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
+          "text": "The survey shows that owners of listed buildings opposed the road in a formal vote.",
           "is_correct": false,
-          "feedback": "'shopping' is buying things, which is a different activity from visiting sights."
+          "feedback": "Wrong. No formal vote is mentioned in the passage."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "The council has already received the required heritage approval.",
           "is_correct": false,
-          "feedback": "'hiking' is walking in the countryside along a trail, usually for exercise."
+          "feedback": "Wrong. The passage says approval is required and has not yet been obtained."
+        },
+        {
+          "letter": "C",
+          "text": "Widening the road will be completed next year without difficulty.",
+          "is_correct": false,
+          "feedback": "Wrong. Nothing in the passage indicates the work will be completed or that it is easy."
         },
         {
           "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "'camping' means spending the night outdoors in a tent."
+          "text": "The approval process is likely to be a significant obstacle, since most affected buildings cannot be altered without it.",
+          "is_correct": true,
+          "feedback": "Correct. This is a reasonable inference from the proportion of listed buildings and the length of the approval process."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "An inference about feasibility follows from a stated requirement and its timescale rather than from any explicit prediction.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The notice in the library asks readers not to leave bags unattended. It does not say why. The building has three CCTV cameras, one at each entrance, installed two years ago, and the library manager mentions that theft from reading rooms has not occurred since.",
+      "context": "A passage that implies an unstated purpose.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
+          "text": "The notice is part of a broader effort to deter theft, since cameras were installed and theft stopped afterwards.",
           "is_correct": true,
-          "feedback": "'souvenir' is an object kept because it reminds you of a person, a place or an event."
+          "feedback": "Correct. This connects the unexplained notice to the surrounding evidence about cameras and the absence of theft."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "The notice was written after a theft in a reading room that the manager has not yet mentioned.",
           "is_correct": false,
-          "feedback": "'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder."
+          "feedback": "Wrong. The passage states that no theft has occurred since the cameras were installed."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "The cameras were installed to monitor readers' reading habits rather than to prevent theft.",
           "is_correct": false,
-          "feedback": "'award' is a distinction given for a merit or an achievement."
+          "feedback": "Wrong. The connection drawn in the passage is between cameras and theft, not reading habits."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "The notice exists because readers have asked for clearer rules about bags.",
           "is_correct": false,
-          "feedback": "'prize' is what is won in a competition, not an object bought to remember a trip."
+          "feedback": "Wrong. Nothing in the passage reports that readers requested the rule."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
+      "explanation": "When a passage supplies unexplained context around an item, the inference connects them without asserting anything the text omits.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "In two similar-sized schools, the first introduced a reading hour at the start of the day and the second did not. Students in the first school scored higher on reading tests. The report adds that the schools recruit from the same neighbourhood and that the test was administered under identical conditions.",
+      "context": "A passage that supports a comparative inference.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "'delay' is the extra period of time by which something becomes late or is postponed."
+          "text": "The reading hour has been proven to improve reading scores.",
+          "is_correct": false,
+          "feedback": "Wrong. Two schools cannot constitute proof, and the report does not claim it."
         },
         {
           "letter": "B",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "'cancellation' ends the booking or the trip altogether rather than pushing it back."
+          "text": "The first school's results suggest the reading hour may help, though the evidence comes from only two schools.",
+          "is_correct": true,
+          "feedback": "Correct. This draws a cautious conclusion and correctly notes the very small evidence base."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "The two schools are so similar that no comparison is possible.",
           "is_correct": false,
-          "feedback": "'departure' is the time a vehicle is scheduled to leave, not a postponement."
+          "feedback": "Wrong. The passage emphasises the similarity of the schools precisely to make the comparison possible."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "The second school's lower scores are explained by the quality of its teachers.",
           "is_correct": false,
-          "feedback": "'arrival' is the moment you reach the destination, not the waiting time."
+          "feedback": "Wrong. Teacher quality is not mentioned anywhere in the passage."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "A strong inference must be limited by the strength of the evidence offered, and two comparable cases support a cautious claim only.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -459,41 +459,41 @@
     },
     {
       "id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The shop moved its fruit display closer to the entrance to encourage impulse purchases. Sales of fruit rose. Sales of snacks did not change, but sales of shopping baskets fell, and the manager has now placed a basket stand between the entrance and the display.",
+      "context": "A passage that supports an inference about unintended effects.",
       "options": [
         {
-          "letter": "B",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "'check-in' is reporting your presence at the airport or the hotel and registering."
+          "letter": "A",
+          "text": "Snacks became more popular after the fruit display was moved to the entrance.",
+          "is_correct": false,
+          "feedback": "Wrong. Snack sales did not change at all."
         },
         {
-          "letter": "A",
-          "text": "check-out",
+          "letter": "B",
+          "text": "The manager moved the basket stand because customers complained about the fruit display.",
           "is_correct": false,
-          "feedback": "'check-out' is the opposite moment: leaving the hotel and settling the bill."
+          "feedback": "Wrong. The basket stand was placed where it would catch customers before they reach the display."
         },
         {
           "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "'booking' is reserving the room or the seat in advance, which happens before you arrive."
+          "text": "Bringing the display closer to the entrance appears to have discouraged some customers from taking a basket at all.",
+          "is_correct": true,
+          "feedback": "Correct. This connects the fall in basket sales to the new location of the display, which the manager's response also suggests."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "The shop lost money overall because the basket sales fell by more than the fruit gains.",
           "is_correct": false,
-          "feedback": "'reservation' is the record of that booking, not the act of reporting your presence."
+          "feedback": "Wrong. The passage does not state that the losses outweighed the gains in money."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "Unintended effects are inferred from changes that follow an action without having been aimed at them, and the manager's own adjustment supports the reading.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -504,41 +504,41 @@
     },
     {
       "id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "An article begins with the worst figures first: a rising number of complaints and falling satisfaction. It then explains the cause of each problem and ends with what has already been fixed. The author does not mention any remaining problems.",
+      "context": "A passage that supports an inference about the writer's purpose.",
       "options": [
         {
-          "letter": "D",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "'layover' is the rest or the waiting period between two stages of a journey."
-        },
-        {
           "letter": "A",
-          "text": "stopover",
+          "text": "The article was written to promote the organisation, since it ends on what has been fixed.",
           "is_correct": false,
-          "feedback": "'stopover' is a break in a journey during which you leave the vehicle, often overnight."
+          "feedback": "Wrong. Closing with fixes does support a promotional aim, but the passage as a whole omits remaining problems, which the option does not account for."
         },
         {
           "letter": "B",
-          "text": "transfer",
+          "text": "The article is intended to criticise the organisation, since it leaves out the problems still outstanding.",
           "is_correct": false,
-          "feedback": "'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time."
+          "feedback": "Wrong. Beginning with the worst figures would work against a critical purpose."
         },
         {
           "letter": "C",
-          "text": "transit",
+          "text": "The article is neutral because it presents figures without any recommendation.",
           "is_correct": false,
-          "feedback": "'transit' means passage through a place or the system that carries people, not the pause itself."
+          "feedback": "Wrong. The structure is itself a framing device and cannot be described as neutral presentation."
+        },
+        {
+          "letter": "D",
+          "text": "The order of the presentation makes the article read as an improvement story rather than a neutral survey.",
+          "is_correct": true,
+          "feedback": "Correct. Leading with problems and closing with fixes frames the material as progress, which is the inference the structure supports."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "An author's purpose can be inferred from the shape of a piece, since the order in which material is presented is itself a choice.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -549,41 +549,41 @@
     },
     {
       "id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Two reports give different figures for the same year's exports. The first was compiled by the ministry and gives a total that matches the tax records. The second was compiled by a trade association and gives a considerably higher figure. The association states that it included small exporters that the ministry's method excludes.",
+      "context": "A passage that supports an inference about reliability.",
       "options": [
         {
-          "letter": "D",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "'currency' is the whole money system in general use in a particular country."
-        },
-        {
           "letter": "A",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "'coin' is a single round piece of metal money, only one part of a currency."
+          "text": "The two figures may both be defensible, since they appear to count different groups of exporters.",
+          "is_correct": true,
+          "feedback": "Correct. This infers a difference in coverage rather than an error in either source, which the stated methods support."
         },
         {
           "letter": "B",
-          "text": "banknote",
+          "text": "Neither report can be trusted, because they disagree.",
           "is_correct": false,
-          "feedback": "'banknote' is a paper note, again only one part of a country's money system."
+          "feedback": "Wrong. The passage offers a reason for the discrepancy, so both can be usable with their own coverage noted."
         },
         {
           "letter": "C",
-          "text": "cash",
+          "text": "The association inflated the figure deliberately in order to strengthen its campaign.",
           "is_correct": false,
-          "feedback": "'cash' is money in coins and notes seen as a form of payment, not the system a country has."
+          "feedback": "Wrong. The association gives a methodological explanation, and no deliberate inflation is claimed."
+        },
+        {
+          "letter": "D",
+          "text": "The ministry's figure is wrong because it is lower than the association's.",
+          "is_correct": false,
+          "feedback": "Wrong. A lower total does not by itself make a figure wrong, especially when coverage differs."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "A plausible methodological difference explains a discrepancy without requiring either source to be unreliable.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -594,41 +594,41 @@
     },
     {
       "id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The programme requires every participating clinic to send monthly data by a fixed format. Of the forty clinics that agreed to take part, twenty-eight sent data on time in the first three months. A further nine sent it late, and three sent nothing. The coordinator notes that the clinic that missed the deadline most often is the one with the fewest administrative staff.",
+      "context": "A passage that supports an inference about a plan's feasibility.",
       "options": [
         {
-          "letter": "B",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "'guidebook' is a book of information about a place written for the use of visitors."
+          "letter": "A",
+          "text": "Most clinics have failed to meet the programme's requirements in the first three months.",
+          "is_correct": false,
+          "feedback": "Wrong. Twenty-eight of forty sent data on time, so a clear majority complied."
         },
         {
-          "letter": "A",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "'map' is a drawing of the area, not a book of information."
+          "letter": "B",
+          "text": "Capacity, rather than willingness, appears to be the main obstacle, since the weakest reporting came from the clinic least staffed.",
+          "is_correct": true,
+          "feedback": "Correct. This infers that staffing capacity drove the reporting record, which the coordinator's observation supports."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "The coordinator believes the format should be simplified for every clinic.",
           "is_correct": false,
-          "feedback": "'dictionary' explains the words of a language, not the places of a region."
+          "feedback": "Wrong. The coordinator identifies a staffing issue rather than calling for a general change of format."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "The clinic with the fewest staff sent the most complete data of all.",
           "is_correct": false,
-          "feedback": "'encyclopedia' covers all branches of knowledge, not one destination for tourists."
+          "feedback": "Wrong. The clinic with the fewest staff reported worst, not best."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
+      "explanation": "When a passage links a poor outcome to a resource, the inference is that capacity rather than willingness is the constraint.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -639,41 +639,41 @@
     },
     {
       "id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The article praises the design of the new stadium and describes its cost and capacity in detail. It does not mention attendance figures, ticket prices or transport. It does note that the architect designed two other stadiums that closed within five years.",
+      "context": "A passage that supports a negative inference.",
       "options": [
         {
           "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "'backpack' has shoulder straps and is carried on the back."
+          "text": "The article presents the stadium as a failure, since it mentions two closed stadiums.",
+          "is_correct": false,
+          "feedback": "Wrong. The article praises the design and raises the closed stadiums as a reason for caution."
         },
         {
           "letter": "B",
-          "text": "suitcase",
+          "text": "The article's silence proves that attendance is low.",
           "is_correct": false,
-          "feedback": "'suitcase' is a case with a handle that is pulled along, not one worn on the back."
+          "feedback": "Wrong. Silence is not proof of low attendance, and the author might simply be out of scope for that question."
         },
         {
           "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "'briefcase' is a flat case for documents that you carry by hand at work."
+          "text": "The absence of any information about who uses the stadium suggests the author chose not to examine that question.",
+          "is_correct": true,
+          "feedback": "Correct. This treats the silence as a deliberate choice about scope rather than as evidence about attendance."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "The architect designed the closed stadiums in order to show that stadiums always fail.",
           "is_correct": false,
-          "feedback": "'handbag' is a small bag held in the hand, usually for personal items."
+          "feedback": "Wrong. The architect is credited with the designs, and no motive is attributed for the closures."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "A well-hedged inference about omission stays at the level of the author's choice of scope and does not convert silence into proof.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -684,41 +684,41 @@
     },
     {
       "id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "A charity has run a reading programme for volunteers for ten years. Demand from schools has grown faster than the number of volunteers, so applications from schools were refused for the first time last year. The charity now plans to train volunteers rather than recruit them, since training is quicker. It has also begun paying expenses, which it did not do before.",
+      "context": "A passage with a conclusion the reader must draw across several sentences.",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "'overseas' means in or to a foreign country, especially one across the sea."
+          "text": "The charity introduced expenses payments because volunteers had complained about them specifically.",
+          "is_correct": false,
+          "feedback": "Wrong. The passage does not say the payment was a response to complaints."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "The charity has solved its volunteer shortage and will soon accept all school applications again.",
           "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
+          "feedback": "Wrong. The shortage is not yet solved; training is planned precisely to address it."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "The charity is responding to a fall in interest from schools over the last ten years.",
           "is_correct": false,
-          "feedback": "'local' means belonging to a small area nearby, not to a foreign country."
+          "feedback": "Wrong. Demand grew rather than falling, which is why applications were refused."
         },
         {
           "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "'national' means concerning the whole nation and says nothing about being abroad."
+          "text": "The charity is responding to a shortage of volunteers rather than to a shortage of demand from schools.",
+          "is_correct": true,
+          "feedback": "Correct. This synthesises the growing demand, the refusals and the shift to training into one conclusion."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "A multi-sentence inference requires the reader to connect a series of facts into a single explanation rather than to restate any one of them.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -729,41 +729,41 @@
     },
     {
       "id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Visitors to the site are asked to remain on the marked paths. The notice does not say what happens if they leave the paths. A ranger states that two of the marked paths lead to viewpoints where visitors are usually allowed to step off, and that people stepping off elsewhere have caused erosion.",
+      "context": "A passage about a rule and its exceptions.",
       "options": [
         {
-          "letter": "C",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "'budget' is an estimate of income and expenditure planned for a set period."
-        },
-        {
           "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "'expense' is a single amount of money that is spent, not the plan for a whole period."
+          "text": "The rule is applied in practice according to where the visitor goes, rather than enforced uniformly.",
+          "is_correct": true,
+          "feedback": "Correct. This infers that enforcement varies by location from the ranger's distinction between viewpoints and everywhere else."
         },
         {
           "letter": "B",
-          "text": "cost",
+          "text": "The notice about the paths was written before the viewpoints were added to the route.",
           "is_correct": false,
-          "feedback": "'cost' is what one item or one service costs, again not an estimate for a period."
+          "feedback": "Wrong. The timing of the two viewpoints relative to the notice is not addressed."
+        },
+        {
+          "letter": "C",
+          "text": "Visitors who step off the paths anywhere on the site are fined immediately.",
+          "is_correct": false,
+          "feedback": "Wrong. Nothing in the passage mentions fines at all."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "The ranger intends to close the viewpoints because stepping off the paths has caused erosion.",
           "is_correct": false,
-          "feedback": "'price' is the sum a customer pays for one product; a budget covers income and spending together."
+          "feedback": "Wrong. The ranger says stepping off is allowed at viewpoints, so closure of those areas is not the intention."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "Inference about how a rule operates in practice follows from the stated exception rather than from the wording of the rule itself.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -774,41 +774,41 @@
     },
     {
       "id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The committee says the report contains no recommendations at all. Two pages later it lists three measures and describes each of them as something the committee recommends.",
+      "context": "A passage that implies a contradiction in the writer's own account.",
       "options": [
         {
           "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium."
+          "text": "The committee is correct, because the three measures are described as observations rather than recommendations.",
+          "is_correct": false,
+          "feedback": "Wrong. The passage states that the measures are things the committee recommends, which makes them recommendations."
         },
         {
           "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge."
+          "text": "The committee's claim that the report has no recommendations appears inconsistent with the later pages.",
+          "is_correct": true,
+          "feedback": "Correct. A document with no recommendations cannot also list three measures it recommends, so the account is internally inconsistent."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "The two pages belong to a different document that was bound in by mistake.",
           "is_correct": false,
-          "feedback": "'guarantee' is a general promise of quality and does not involve paying a premium."
+          "feedback": "Wrong. The passage presents both statements as belonging to the same report."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "The report was revised after the committee's statement was published.",
           "is_correct": false,
-          "feedback": "'policy' is the written document that states what an insurance contract covers."
+          "feedback": "Wrong. No revision or publication sequence is mentioned in the passage."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "Inference questions sometimes target a tension inside a text, and a contradiction between two claims is a legitimate conclusion.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The new parking charges are doubled outside the shopping centre but unchanged inside it. The centre says this encourages visitors to stay longer once they have arrived. A residents' group objects that people who only want to park will now avoid the area entirely, and it has collected two thousand signatures.",
+      "context": "A passage that supports an inference about who benefits.",
       "options": [
         {
-          "letter": "B",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "'vaccination' is the treatment with a vaccine that makes the body immune to a disease."
+          "letter": "A",
+          "text": "The residents' group supports the change and collected signatures to thank the centre.",
+          "is_correct": false,
+          "feedback": "Wrong. The group is objecting to the change, which is what collecting signatures against it indicates."
         },
         {
-          "letter": "A",
-          "text": "medication",
+          "letter": "B",
+          "text": "The change benefits everyone equally, since the centre's own explanation covers all visitors.",
           "is_correct": false,
-          "feedback": "'medication' is a drug taken to treat an illness, not to prevent one."
+          "feedback": "Wrong. The residents' objection shows the benefits are not shared equally."
         },
         {
           "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "'prescription' is the written order that authorises a medicine, not the treatment itself."
+          "text": "The change shifts custom towards those who spend longer inside at the expense of short visits and nearby residents.",
+          "is_correct": true,
+          "feedback": "Correct. This weighs the centre's stated benefit against the group's stated cost, which is what the passage sets out."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "The centre intends to double all charges, including those inside the centre, within a year.",
           "is_correct": false,
-          "feedback": "'infection' is the disease itself, the opposite of the protection a vaccination gives."
+          "feedback": "Wrong. The passage states that charges inside the centre are unchanged and gives no intention to alter them."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "A fair inference identifies who gains and who loses according to the two accounts the passage reports.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Four of the twenty small businesses in the arcade closed within a year of the building being repainted. The landlord attributes this to the loss of the previous tenant, who had run a laundrette. The traders point out that the two premises that closed were the ones with the highest rents.",
+      "context": "A passage where a cautious inference is the only defensible one.",
       "options": [
         {
           "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight."
+          "text": "The closures were unrelated to the arcade, as the landlord suggests.",
+          "is_correct": false,
+          "feedback": "Wrong. The landlord's explanation concerns one lost tenant, not the other closures."
         },
         {
           "letter": "B",
-          "text": "fatigue",
+          "text": "The repainting caused the closures, since every closure followed the works.",
           "is_correct": false,
-          "feedback": "'fatigue' is tiredness that can come from any long effort, not specifically from a flight."
+          "feedback": "Wrong. Two of the four businesses remained open, so the works did not cause every closure."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "Rent is proven to be the only cause of the closures in the arcade.",
           "is_correct": false,
-          "feedback": "'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep."
+          "feedback": "Wrong. The passage links rent to two of the four closures, so it cannot be the only cause."
         },
         {
           "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "'insomnia' is the inability to fall asleep, which has many causes besides travel."
+          "text": "Rent appears to be a factor, though the passage does not establish it as the only cause of the closures.",
+          "is_correct": true,
+          "feedback": "Correct. The pattern the traders point to supports a link with rent without ruling out other factors."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "The defensible inference from a partial pattern is a contributing factor rather than a proven sole cause.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W33-reading-inference-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",

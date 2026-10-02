@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Excerpt: A brilliant show, funny from start to finish. Do not miss it. What is the tone?",
+      "context": "Lucia is reading a film blog that praises a new comedy warmly.",
       "options": [
         {
-          "letter": "C",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "'accommodation' is the word for a place where you live or stay, including on holiday."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
+          "text": "enthusiastic",
           "is_correct": false,
-          "feedback": "'transportation' means the way you travel, such as buses or planes, not where you stay."
+          "feedback": "Correct! Enthusiastic correctly captures the glowing praise and strong recommendation, which shows the writer feels delighted and eager to convince readers."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "critical",
+          "is_correct": true,
+          "feedback": "The label critical is wrong for this extract because critical means focusing on faults and weaknesses, while the blog only offers warm praise without any complaint."
+        },
+        {
+          "letter": "C",
+          "text": "neutral",
           "is_correct": false,
-          "feedback": "'entertainment' is the activity of enjoying shows, films or games, not a place to live."
+          "feedback": "The label neutral is wrong here because neutral means presenting facts without feeling, whereas the blog uses emotional praise that clearly reveals personal delight."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "bored",
           "is_correct": false,
-          "feedback": "'currency' is the money of a country, such as the colon; a place to stay is not money."
+          "feedback": "The label bored is wrong because bored means uninterested and flat, which contradicts the lively adjectives and eager recommendation visible in the blog."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "Enthusiastic tone uses glowing adjectives like brilliant and unmissable plus exclamation and recommendation. Recognizing praise vocabulary helps learners separate genuine admiration from polite or neutral reporting in opinion texts.",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -54,82 +54,37 @@
     },
     {
       "id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Excerpt: The battery is weak, the camera is disappointing, and the price is absurd. What is the tone?",
+      "context": "Diego is reading a phone review that lists faults in cold language.",
       "options": [
         {
-          "letter": "C",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "'itinerary' is a detailed plan of a journey, listing the route and the stops along the way."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "enthusiastic",
           "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "feedback": "The label enthusiastic is wrong because enthusiastic requires praise and excitement, while the review only lists defects and shows clear disappointment with the phone."
         },
         {
           "letter": "B",
-          "text": "destination",
+          "text": "critical",
           "is_correct": false,
-          "feedback": "'destination' is only the place you are going to; the plan of the route is the itinerary."
+          "feedback": "Correct! Critical correctly identifies the fault finding language and negative judgement, which proves the reviewer disapproves of the phone and warns readers."
+        },
+        {
+          "letter": "C",
+          "text": "neutral",
+          "is_correct": false,
+          "feedback": "The label neutral is wrong because neutral avoids judgement, whereas this review evaluates harshly and openly expresses dissatisfaction with the product."
         },
         {
           "letter": "D",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "'passport' is the travel document you show at the border, not the plan of a journey."
+          "text": "nostalgic",
+          "is_correct": true,
+          "feedback": "The label nostalgic is wrong because nostalgic looks back fondly to the past, while the review focuses on present faults without any warm memory."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "A critical tone judges negatively with words like disappointing, flawed, and overpriced. Unlike neutral reporting, it evaluates and recommends against. Spotting evaluative adjectives is the fastest clue to criticism.",
       "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "'destination' names the place a person or thing is going or being sent to."
-        },
-        {
-          "letter": "A",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is the action of leaving, not the place you leave for."
-        },
-        {
-          "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching a place, not the place itself."
-        },
-        {
-          "letter": "D",
-          "text": "journey",
-          "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, not the place at the end of it."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -143,38 +98,83 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle-v3",
+      "statement": "Excerpt: The council met on Tuesday and approved the plan by 12 votes to 8. What is the tone?",
+      "context": "Carmen is reading a news report that only gives dates and numbers.",
       "options": [
         {
-          "letter": "C",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "'luggage' is the collective word for the suitcases and bags you pack for a trip."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "'ticket' is the document you buy that admits you to the journey."
+          "text": "angry",
+          "is_correct": true,
+          "feedback": "The label angry is wrong because angry needs strong negative emotion and blame, while the report stays calm and limits itself to dates and plain numbers."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "ironic",
           "is_correct": false,
-          "feedback": "'flight' is the plane or the scheduled trip itself, not the bags you carry."
+          "feedback": "The label ironic is wrong because ironic says the opposite of what is meant for effect, while this report means exactly what it states without wordplay."
+        },
+        {
+          "letter": "C",
+          "text": "neutral",
+          "is_correct": false,
+          "feedback": "Correct! Neutral correctly describes factual reporting without personal feeling, which matches a text that only presents dates, figures, and balanced verbs."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "sarcastic",
           "is_correct": false,
-          "feedback": "'reservation' is the booking you hold for a seat or a room."
+          "feedback": "The label sarcastic is wrong because sarcastic mocks through cutting remarks, whereas the news text contains no mockery and maintains an impartial factual style."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Neutral tone reports facts without adjectives of feeling or judgement. It uses numbers, dates, and balanced verbs like stated or reported. Absence of evaluative language distinguishes it from opinionated tones.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle-v4",
+      "statement": "Excerpt: What a wonderful traffic jam, another brilliant morning. What tone does the writer use?",
+      "context": "Pablo is reading a column that says the opposite of what it means.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sincere praise",
+          "is_correct": false,
+          "feedback": "The label sincere praise is wrong because sincere praise means the writer truly admires, while here the compliments clash with the described traffic chaos."
+        },
+        {
+          "letter": "B",
+          "text": "ironic",
+          "is_correct": false,
+          "feedback": "Correct! Ironic correctly captures saying the opposite for effect, because calling a traffic jam wonderful cannot be literal and clearly mocks the situation."
+        },
+        {
+          "letter": "C",
+          "text": "purely informative",
+          "is_correct": true,
+          "feedback": "The label purely informative is wrong because purely informative gives neutral facts, whereas wonderful traffic jam adds an evaluative twist that signals mockery."
+        },
+        {
+          "letter": "D",
+          "text": "deeply nostalgic",
+          "is_correct": false,
+          "feedback": "The label deeply nostalgic is wrong because deeply nostalgic recalls the past with warmth, while the column mocks a present failure without any longing."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "explanation": "Ironic tone praises in words but blames in meaning, often about obvious failures. Clues include exaggerated compliments followed by negative facts. Readers must contrast literal words with the real situation described.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -189,40 +189,40 @@
     },
     {
       "id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Excerpt: This supposedly miracle method claims fluency in a week. Really? Which attitude fits best?",
+      "context": "Sara is reading an editorial that doubts a miracle study method.",
       "options": [
         {
-          "letter": "D",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, not on a bus, a train or a plane."
+          "text": "fully trusting",
+          "is_correct": true,
+          "feedback": "The option fully trusting is wrong because fully trusting accepts claims without doubt, while the editorial questions the method and demands stronger proof."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "openly hostile",
           "is_correct": false,
-          "feedback": "'commuter' is someone who travels regularly between home and work, a narrower idea than passenger."
+          "feedback": "The option openly hostile is wrong because openly hostile attacks with anger and insults, whereas the editorial doubts calmly and asks for evidence instead."
         },
         {
           "letter": "C",
-          "text": "tourist",
+          "text": "skeptical",
           "is_correct": false,
-          "feedback": "'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew."
+          "feedback": "Correct! Skeptical correctly describes doubting the miracle claim until evidence appears, which matches the questioning words supposedly and claims in the text."
+        },
+        {
+          "letter": "D",
+          "text": "wildly enthusiastic",
+          "is_correct": false,
+          "feedback": "The option wildly enthusiastic is wrong because wildly enthusiastic celebrates without reservation, which contradicts the cautious doubt expressed toward the study method."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "A",
+      "explanation": "Skeptical tone doubts claims and asks for evidence with words like supposedly, claims, and so called. It does not reject aggressively but suspends belief. Questioning language is the hallmark of healthy skepticism.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle",
       "periodo": 29,
@@ -234,36 +234,126 @@
     },
     {
       "id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Excerpt: Those golden summers in the village, long evenings by the river. What tone is this?",
+      "context": "Jorge is reading a travel article full of love for his village.",
       "options": [
         {
-          "letter": "C",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "'customs' is the office where officials check the goods, the luggage and the travellers entering a country."
-        },
-        {
           "letter": "A",
-          "text": "security",
+          "text": "nostalgic",
           "is_correct": false,
-          "feedback": "'security' refers to the staff and the measures that keep the airport safe, not to the goods check."
+          "feedback": "Correct! Nostalgic correctly reflects warm longing for past summers, because the phrases golden summers and long evenings idealize childhood village life."
         },
         {
           "letter": "B",
-          "text": "terminal",
+          "text": "fearful",
           "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for and board your flight."
+          "feedback": "The option fearful is wrong because fearful expresses worry about danger ahead, while the article glows with affection and shows no anxiety about the village."
+        },
+        {
+          "letter": "C",
+          "text": "dismissive",
+          "is_correct": true,
+          "feedback": "The option dismissive is wrong because dismissive belittles something as unimportant, whereas the writer treasures every detail of village life with deep affection."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "purely critical",
           "is_correct": false,
-          "feedback": "'gate' is the door you board the plane through, not the place where officials check luggage."
+          "feedback": "The option purely critical is wrong because purely critical focuses on faults, while the article celebrates the past warmly without judging or complaining."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "explanation": "Nostalgic tone idealizes the past with warm memory words like those golden summers and we used to. It contrasts past warmth with present loss. Sensory detail about childhood is a strong signal of nostalgia.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle-v7",
+      "statement": "Review A calls it cozy and delightful. Review B calls it noisy and rude. What contrast fits?",
+      "context": "Elena compares two reviews of the same restaurant with opposite feelings.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "positive versus negative",
+          "is_correct": false,
+          "feedback": "Correct! Positive versus negative correctly captures the contrast, because cozy and delightful praise the place while noisy and rude clearly condemn the same restaurant."
+        },
+        {
+          "letter": "B",
+          "text": "neutral versus neutral",
+          "is_correct": false,
+          "feedback": "The option neutral versus neutral is wrong because neutral means no feeling, while both reviews use strong evaluative adjectives that reveal clear opposite feelings."
+        },
+        {
+          "letter": "C",
+          "text": "ironic versus literal",
+          "is_correct": false,
+          "feedback": "The option ironic versus literal is wrong because neither review says the opposite of its meaning, as both state their praise or complaint directly and sincerely."
+        },
+        {
+          "letter": "D",
+          "text": "formal versus informal",
+          "is_correct": true,
+          "feedback": "The option formal versus informal is wrong because the difference here is feeling and judgement, not levels of formality or polite versus casual style."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparing paired adjectives reveals tone contrast quickly. Warm words like cozy and delightful signal approval, while cold words like noisy and rude signal disapproval. Juxtaposing lexical sets trains readers to track stance shifts.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle-v8",
+      "statement": "Excerpt: Thanks so much for ignoring all our messages. What tone is the writer using?",
+      "context": "Raul is reading a letter that hides criticism behind polite smiles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "genuine thanks",
+          "is_correct": false,
+          "feedback": "The label genuine thanks is wrong because genuine thanks expresses real gratitude, while the letter complains about being ignored and uses thanks as a weapon."
+        },
+        {
+          "letter": "B",
+          "text": "neutral report",
+          "is_correct": true,
+          "feedback": "The label neutral report is wrong because neutral report avoids feeling, whereas the exaggerated politeness carries a clear bitter and mocking edge."
+        },
+        {
+          "letter": "C",
+          "text": "sincere apology",
+          "is_correct": false,
+          "feedback": "The label sincere apology is wrong because sincere apology admits fault and seeks forgiveness, while the writer blames the reader and offers no regret."
+        },
+        {
+          "letter": "D",
+          "text": "sarcastic",
+          "is_correct": false,
+          "feedback": "Correct! Sarcastic correctly identifies polite words used to criticize, because thanking someone for ignoring every message can only be bitter mockery."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sarcastic tone uses polite wording to wound, with exaggeration like thanks so much for ignoring us. Context of complaint exposes the bite. Learners must weigh situation against literal politeness to detect sarcasm.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -278,131 +368,41 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "'boarding pass' is the slip the airline hands over at check-in that lets you board the plane."
-        },
-        {
-          "letter": "B",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "'visa' is the official permission to enter and stay in a foreign country."
-        },
-        {
-          "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "'receipt' is the proof of payment for the ticket, not the document that lets you board."
-        },
-        {
-          "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "'brochure' is a small booklet with tourist information, not a travel document."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "'sightseeing' is visiting the places of interest of a location in order to look at them."
-        },
-        {
-          "letter": "B",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "'shopping' is buying things, which is a different activity from visiting sights."
-        },
-        {
-          "letter": "C",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "'hiking' is walking in the countryside along a trail, usually for exercise."
-        },
-        {
-          "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "'camping' means spending the night outdoors in a tent."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
       "id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence shows a cautious tone about a possible danger?",
+      "context": "Nora is studying which sentence signals worry in an opinion text.",
       "options": [
         {
-          "letter": "B",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "'souvenir' is an object kept because it reminds you of a person, a place or an event."
+          "letter": "A",
+          "text": "The river may flood unless barriers improve.",
+          "is_correct": false,
+          "feedback": "The sentence about risks is correct because warning that the river may flood unless barriers improve expresses careful concern rather than certainty or celebration."
         },
         {
-          "letter": "A",
-          "text": "gift",
+          "letter": "B",
+          "text": "The festival was joyful and bright.",
           "is_correct": false,
-          "feedback": "'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder."
+          "feedback": "The option The festival was joyful and bright is wrong because joyful and bright express celebration, which contains no warning or careful concern about danger."
         },
         {
           "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "'award' is a distinction given for a merit or an achievement."
+          "text": "Everyone agrees the plan is perfect.",
+          "is_correct": true,
+          "feedback": "The option Everyone agrees the plan is perfect is wrong because perfect agreement shows total confidence, which is opposite to the careful doubt of caution."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "The results prove total success.",
           "is_correct": false,
-          "feedback": "'prize' is what is won in a competition, not an object bought to remember a trip."
+          "feedback": "The option The results prove total success is wrong because prove total success claims certain triumph, while cautious tone stresses possible danger and needed care."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "Cautious tone warns with hedges like may, might, risks, and unless we act. It advises care without panic. Modal verbs plus risk vocabulary reliably mark caution in editorials and reports.",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle",
       "periodo": 29,
@@ -414,40 +414,40 @@
     },
     {
       "id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Excerpt: Free buses are essential and fairer for all families. What stance does the writer take?",
+      "context": "Iker is reading an essay that strongly supports free school buses.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
+          "text": "opposed",
           "is_correct": true,
-          "feedback": "'delay' is the extra period of time by which something becomes late or is postponed."
+          "feedback": "The label opposed is wrong because opposed argues against a proposal, while the essay lists benefits of buses and urges the council to fund them."
         },
         {
           "letter": "B",
-          "text": "cancellation",
+          "text": "undecided",
           "is_correct": false,
-          "feedback": "'cancellation' ends the booking or the trip altogether rather than pushing it back."
+          "feedback": "The label undecided is wrong because undecided balances both sides without choice, whereas the essay takes a clear side and pushes for free buses."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "supportive",
           "is_correct": false,
-          "feedback": "'departure' is the time a vehicle is scheduled to leave, not a postponement."
+          "feedback": "Correct! Supportive correctly names arguing in favor with benefits, because calling buses essential and fairer shows the writer champions the proposal actively."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "mocking",
           "is_correct": false,
-          "feedback": "'arrival' is the moment you reach the destination, not the waiting time."
+          "feedback": "The label mocking is wrong because mocking ridicules through scorn, while the essay treats buses seriously and argues with respectful benefit language."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
+      "explanation": "Supportive tone argues in favor with benefit language like essential, fairer, and helps families. It proposes action rather than merely describing. Benefit plus proposal structure marks advocacy clearly.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle",
       "periodo": 29,
@@ -459,40 +459,40 @@
     },
     {
       "id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The review praises one phone as perfect and never mentions its faults. What is this called?",
+      "context": "Marta is checking whether a review is balanced or one sided.",
       "options": [
         {
           "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "'check-in' is reporting your presence at the airport or the hotel and registering."
+          "text": "biased",
+          "is_correct": false,
+          "feedback": "Correct! Biased correctly means favoring one phone while hiding its flaws, because praising only one model with superlatives and silence reveals unfair preference."
         },
         {
           "letter": "B",
-          "text": "check-out",
+          "text": "balanced",
           "is_correct": false,
-          "feedback": "'check-out' is the opposite moment: leaving the hotel and settling the bill."
+          "feedback": "The option balanced is wrong because balanced weighs both strengths and weaknesses fairly, while the review praises one phone and ignores its obvious drawbacks."
         },
         {
           "letter": "C",
-          "text": "booking",
+          "text": "neutral",
           "is_correct": false,
-          "feedback": "'booking' is reserving the room or the seat in advance, which happens before you arrive."
+          "feedback": "The option neutral is wrong because neutral reports without taking sides, whereas the review clearly champions one brand with loaded and selective praise."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "'reservation' is the record of that booking, not the act of reporting your presence."
+          "text": "purely descriptive",
+          "is_correct": true,
+          "feedback": "The option purely descriptive is wrong because purely descriptive lists features factually, while the review evaluates with glowing adjectives that push one choice."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Biased tone favors one side by hiding drawbacks and using loaded praise only for its choice. Balanced writing admits limits on both sides. Spotting one sided superlatives without concessions reveals bias fast.",
       "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle",
       "periodo": 29,
@@ -504,37 +504,37 @@
     },
     {
       "id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Excerpt: Although the app is slow at times, it remains useful. What tone is this?",
+      "context": "Alba reads a paragraph where the author admits a small fault politely.",
       "options": [
         {
-          "letter": "C",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "'layover' is the rest or the waiting period between two stages of a journey."
-        },
-        {
           "letter": "A",
-          "text": "stopover",
+          "text": "furious attack",
           "is_correct": false,
-          "feedback": "'stopover' is a break in a journey during which you leave the vehicle, often overnight."
+          "feedback": "The option furious attack is wrong because furious attack uses violent blame and insults, while the paragraph admits limits calmly with polite concession language."
         },
         {
           "letter": "B",
-          "text": "transfer",
+          "text": "measured",
+          "is_correct": true,
+          "feedback": "Correct! Measured correctly describes calm and balanced judgement, because admitting a small fault with although shows fairness rather than rage or blind praise."
+        },
+        {
+          "letter": "C",
+          "text": "wild celebration",
           "is_correct": false,
-          "feedback": "'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time."
+          "feedback": "The option wild celebration is wrong because wild celebration praises without reserve, whereas the author qualifies approval by openly recognizing a weakness."
         },
         {
           "letter": "D",
-          "text": "transit",
+          "text": "total indifference",
           "is_correct": false,
-          "feedback": "'transit' means passage through a place or the system that carries people, not the pause itself."
+          "feedback": "The option total indifference is wrong because total indifference shows no interest at all, while the author cares enough to weigh strengths against weaknesses."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Measured tone concedes limits with softeners like although, however, and to some extent. It stays fair while still judging. Concession plus calm evaluation marks thoughtful and moderate opinion writing.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -549,40 +549,40 @@
     },
     {
       "id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Excerpt: Plastic is choking our seas. We must act now before it is too late. What is the tone?",
+      "context": "Hugo reads an opinion piece full of urgent warnings about plastic.",
       "options": [
         {
-          "letter": "B",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "'currency' is the whole money system in general use in a particular country."
+          "letter": "A",
+          "text": "relaxed",
+          "is_correct": false,
+          "feedback": "The label relaxed is wrong because relaxed suggests calm acceptance, while the piece uses crisis language and urgent calls that demand immediate action now."
         },
         {
-          "letter": "A",
-          "text": "coin",
+          "letter": "B",
+          "text": "amused",
           "is_correct": false,
-          "feedback": "'coin' is a single round piece of metal money, only one part of a currency."
+          "feedback": "The label amused is wrong because amused finds something funny, whereas the article treats plastic pollution as a serious emergency without any humor."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "alarmed",
           "is_correct": false,
-          "feedback": "'banknote' is a paper note, again only one part of a country's money system."
+          "feedback": "Correct! Alarmed correctly captures urgent warning about a crisis, because phrases like before it is too late create pressure for immediate action."
         },
         {
           "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "'cash' is money in coins and notes seen as a form of payment, not the system a country has."
+          "text": "nostalgic",
+          "is_correct": true,
+          "feedback": "The label nostalgic is wrong because nostalgic longs for the past warmly, while the piece fears the future and pushes readers to act against plastic waste."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Alarmed tone stresses urgency with words like crisis, now, before it is too late. It demands immediate action. Time pressure vocabulary plus imperatives distinguishes alarm from calm caution.",
       "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle",
       "periodo": 29,
@@ -594,37 +594,37 @@
     },
     {
       "id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Excerpt: The wait was the worst in human history, a total disaster. What tone is used?",
+      "context": "Leire studies how exaggeration changes the tone of a complaint.",
       "options": [
         {
-          "letter": "C",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "'guidebook' is a book of information about a place written for the use of visitors."
-        },
-        {
           "letter": "A",
-          "text": "map",
+          "text": "literal and precise",
           "is_correct": false,
-          "feedback": "'map' is a drawing of the area, not a book of information."
+          "feedback": "The option literal and precise is wrong because literal and precise sticks to verifiable facts, while worst meal in human history wildly exaggerates beyond any proof."
         },
         {
           "letter": "B",
-          "text": "dictionary",
+          "text": "hyperbolic",
           "is_correct": false,
-          "feedback": "'dictionary' explains the words of a language, not the places of a region."
+          "feedback": "Correct! Hyperbolic correctly names deliberate exaggeration for effect, because calling a slow meal the worst in human history inflates annoyance into comedy."
+        },
+        {
+          "letter": "C",
+          "text": "neutral and factual",
+          "is_correct": true,
+          "feedback": "The option neutral and factual is wrong because neutral and factual avoids evaluation, whereas total disaster judges emotionally with extreme and unmeasured language."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "gently supportive",
           "is_correct": false,
-          "feedback": "'encyclopedia' covers all branches of knowledge, not one destination for tourists."
+          "feedback": "The option gently supportive is wrong because gently supportive encourages kindly, while the sentence attacks the restaurant with sweeping and hostile overstatement."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "Hyperbolic tone inflates with extremes like worst ever and total disaster. It vents feeling rather than informing precisely. Absolute superlatives without evidence signal comic or angry overstatement.",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -639,40 +639,40 @@
     },
     {
       "id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Headline A: A green jewel for the city. Headline B: A concrete waste of money. What contrast fits?",
+      "context": "Mario reads two headlines about the same new park and compares stance.",
       "options": [
         {
           "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "'backpack' has shoulder straps and is carried on the back."
+          "text": "celebratory versus disapproving",
+          "is_correct": false,
+          "feedback": "Correct! Celebratory versus disapproving correctly maps the contrast, because green jewel praises the park while concrete waste condemns the same project as misuse."
         },
         {
           "letter": "B",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "'suitcase' is a case with a handle that is pulled along, not one worn on the back."
+          "text": "both neutral",
+          "is_correct": true,
+          "feedback": "The option both neutral is wrong because both neutral would require plain facts, while jewel and waste are loaded evaluations that reveal opposite feelings."
         },
         {
           "letter": "C",
-          "text": "briefcase",
+          "text": "both humorous",
           "is_correct": false,
-          "feedback": "'briefcase' is a flat case for documents that you carry by hand at work."
+          "feedback": "The option both humorous is wrong because both humorous would need jokes or wordplay, whereas the headlines judge seriously with praise versus blame."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "both nostalgic",
           "is_correct": false,
-          "feedback": "'handbag' is a small bag held in the hand, usually for personal items."
+          "feedback": "The option both nostalgic is wrong because both nostalgic would recall the past fondly, while the headlines evaluate a present park without any backward longing."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "B",
+      "explanation": "Headline diction reveals stance. Green jewel celebrates value, while concrete waste condemns cost. Noun phrases carry judgement even without verbs. Tracking positive versus negative images unlocks headline tone.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle",
       "periodo": 29,
@@ -684,40 +684,40 @@
     },
     {
       "id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Excerpt: Superb acting, yet a weak and predictable plot. What best describes the tone?",
+      "context": "Clara reads a review that mixes praise for acting with dislike of plot.",
       "options": [
         {
-          "letter": "D",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "'overseas' means in or to a foreign country, especially one across the sea."
-        },
-        {
           "letter": "A",
-          "text": "domestic",
-          "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
+          "text": "purely negative",
+          "is_correct": true,
+          "feedback": "The label purely negative is wrong because purely negative allows no praise, while the review admires the acting warmly even as it rejects the weak plot."
         },
         {
           "letter": "B",
-          "text": "local",
+          "text": "purely positive",
           "is_correct": false,
-          "feedback": "'local' means belonging to a small area nearby, not to a foreign country."
+          "feedback": "The label purely positive is wrong because purely positive allows no complaint, whereas the review clearly criticizes the slow and predictable story."
         },
         {
           "letter": "C",
-          "text": "national",
+          "text": "mixed",
           "is_correct": false,
-          "feedback": "'national' means concerning the whole nation and says nothing about being abroad."
+          "feedback": "Correct! Mixed correctly describes praising one element while criticizing another, because superb acting yet weak plot balances admiration against clear disappointment."
+        },
+        {
+          "letter": "D",
+          "text": "completely indifferent",
+          "is_correct": false,
+          "feedback": "The label completely indifferent is wrong because completely indifferent shows no feeling, while the review expresses strong admiration and strong annoyance together."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "Mixed tone balances praise and criticism with contrast markers like yet, but, and despite. It shows nuanced judgement rather than simple love or hate. But structures are reliable signs of two sided evaluation.",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle",
       "periodo": 29,
@@ -729,37 +729,37 @@
     },
     {
       "id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Excerpt: You have the talent and the energy to build a brighter future. What is the tone?",
+      "context": "Adrian reads a speech that encourages teens with strong hopeful words.",
       "options": [
         {
           "letter": "A",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "'budget' is an estimate of income and expenditure planned for a set period."
+          "text": "pessimistic",
+          "is_correct": false,
+          "feedback": "The label pessimistic is wrong because pessimistic expects failure and gloom, while the speech stresses opportunity and confident belief in teen ability."
         },
         {
           "letter": "B",
-          "text": "expense",
+          "text": "cynical",
           "is_correct": false,
-          "feedback": "'expense' is a single amount of money that is spent, not the plan for a whole period."
+          "feedback": "The label cynical is wrong because cynical distrusts motives and mocks effort, whereas the speech trusts teens and urges them to shape a brighter future."
         },
         {
           "letter": "C",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "'cost' is what one item or one service costs, again not an estimate for a period."
+          "text": "resigned",
+          "is_correct": true,
+          "feedback": "The label resigned is wrong because resigned accepts defeat passively, while the speech calls for energetic action and hopeful commitment to change."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "optimistic",
           "is_correct": false,
-          "feedback": "'price' is the sum a customer pays for one product; a budget covers income and spending together."
+          "feedback": "Correct! Optimistic correctly captures hopeful encouragement about the future, because opportunity and we can inspire confidence rather than fear or doubt."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "C",
+      "explanation": "Optimistic tone inspires with future oriented lexis like opportunity, we can, brighter tomorrow. It acknowledges problems but stresses agency. Hope plus action verbs marks constructive optimism in speeches.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -774,40 +774,40 @@
     },
     {
       "id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The library opened in 2019. It is a wonderful success. The two sentences are what?",
+      "context": "Aitor studies a paragraph where facts and opinions are woven together.",
       "options": [
         {
-          "letter": "D",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium."
-        },
-        {
           "letter": "A",
-          "text": "warranty",
+          "text": "fact plus opinion",
           "is_correct": false,
-          "feedback": "'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge."
+          "feedback": "Correct! Fact plus opinion correctly splits the paragraph, because opened in 2019 is verifiable history while wonderful success adds personal judgement that cannot be proved."
         },
         {
           "letter": "B",
-          "text": "guarantee",
+          "text": "two facts",
           "is_correct": false,
-          "feedback": "'guarantee' is a general promise of quality and does not involve paying a premium."
+          "feedback": "The option two facts is wrong because two facts would both be verifiable, while wonderful success expresses evaluation rather than checkable data."
         },
         {
           "letter": "C",
-          "text": "policy",
+          "text": "two opinions",
           "is_correct": false,
-          "feedback": "'policy' is the written document that states what an insurance contract covers."
+          "feedback": "The option two opinions is wrong because two opinions would both be judgements, whereas opened in 2019 states a date that can be verified objectively."
+        },
+        {
+          "letter": "D",
+          "text": "question plus answer",
+          "is_correct": true,
+          "feedback": "The option question plus answer is wrong because question plus answer needs an interrogative, while the paragraph contains two statements and no question at all."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "explanation": "Fact states verifiable data like opened in 2019, while opinion adds judgement like wonderful success. Modal plus adjective test separates them. B2 readers must split objective clauses from evaluative clauses inside one paragraph.",
+      "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle",
       "periodo": 29,
@@ -819,36 +819,36 @@
     },
     {
       "id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The editorial lists harm to farms but never praises the dam directly. What is the hidden stance?",
+      "context": "Nerea reads a long editorial and must infer the hidden position of the author.",
       "options": [
         {
-          "letter": "C",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "'vaccination' is the treatment with a vaccine that makes the body immune to a disease."
-        },
-        {
           "letter": "A",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "'medication' is a drug taken to treat an illness, not to prevent one."
+          "text": "openly in favor",
+          "is_correct": true,
+          "feedback": "The option openly in favor is wrong because openly in favor states support directly, while the author never praises the dam and only stresses its serious harms."
         },
         {
           "letter": "B",
-          "text": "prescription",
+          "text": "strictly neutral",
           "is_correct": false,
-          "feedback": "'prescription' is the written order that authorises a medicine, not the treatment itself."
+          "feedback": "The option strictly neutral is wrong because strictly neutral balances benefits and harms evenly, whereas the editorial selects only damage and faint praise for builders."
+        },
+        {
+          "letter": "C",
+          "text": "quietly opposed",
+          "is_correct": false,
+          "feedback": "Correct! Quietly opposed correctly infers hidden resistance, because emphasizing harm to farms while giving only faint polite credit reveals underlying disapproval of the dam."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "openly mocking",
           "is_correct": false,
-          "feedback": "'infection' is the disease itself, the opposite of the protection a vaccination gives."
+          "feedback": "The option openly mocking is wrong because openly mocking uses sarcasm and ridicule, while the editorial stays serious and lets careful selection imply its quiet opposition."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Implicit stance hides in selection and irony rather than direct I oppose. Praising opponents weakly while detailing harms signals quiet opposition. Tracking what is emphasized versus minimized reveals the true position.",
       "difficulty": "9",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which clue most reliably reveals the overall tone of an opinion text?",
+      "context": "Unai must choose the most reliable clue when judging tone under exam pressure.",
       "options": [
         {
-          "letter": "C",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight."
-        },
-        {
           "letter": "A",
-          "text": "fatigue",
+          "text": "a single exclamation mark",
           "is_correct": false,
-          "feedback": "'fatigue' is tiredness that can come from any long effort, not specifically from a flight."
+          "feedback": "The option a single exclamation mark is wrong because a single exclamation mark can show excitement, alarm, or irony, so alone it cannot reliably prove any particular overall tone."
         },
         {
           "letter": "B",
-          "text": "exhaustion",
+          "text": "the length of the text",
+          "is_correct": true,
+          "feedback": "The option the length of the text is wrong because the length of the text measures quantity rather than attitude, so long or short passages can share the same tone."
+        },
+        {
+          "letter": "C",
+          "text": "the font of the article",
           "is_correct": false,
-          "feedback": "'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep."
+          "feedback": "The option the font of the article is wrong because the font of the article is a visual design choice that carries no reliable information about author attitude or stance."
         },
         {
           "letter": "D",
-          "text": "insomnia",
+          "text": "repeated evaluative language plus purpose",
           "is_correct": false,
-          "feedback": "'insomnia' is the inability to fall asleep, which has many causes besides travel."
+          "feedback": "Correct! Repeated evaluative language plus purpose correctly gives the safest evidence, because consistent adjectives and the call to action confirm stance beyond isolated words."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
+      "correct_answer": "B",
+      "explanation": "Reliable tone clues combine repeated evaluative adjectives with rhetorical purpose across the whole text. Single words can mislead through irony, but consistent lexical sets plus call to action confirm stance. This meta skill prevents hasty judgement from isolated phrases.",
       "difficulty": "10",
       "images": [],
       "tags": [],

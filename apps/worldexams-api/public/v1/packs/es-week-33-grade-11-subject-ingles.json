@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence correctly gives an opinion to start a discussion turn?",
+      "context": "Lucia wants to start her turn in a class debate about school uniforms.",
       "options": [
         {
-          "letter": "D",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "'accommodation' is the word for a place where you live or stay, including on holiday."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
+          "text": "In my view, uniforms save time.",
           "is_correct": false,
-          "feedback": "'transportation' means the way you travel, such as buses or planes, not where you stay."
+          "feedback": "Correct! In my view correctly opens a personal opinion politely, so it perfectly starts Lucia turn about school uniforms in a class debate."
         },
         {
           "letter": "B",
-          "text": "entertainment",
-          "is_correct": false,
-          "feedback": "'entertainment' is the activity of enjoying shows, films or games, not a place to live."
+          "text": "Close the door, please.",
+          "is_correct": true,
+          "feedback": "The option Close the door is wrong because Close the door is an instruction about the classroom, which expresses no opinion and cannot open a debate turn."
         },
         {
           "letter": "C",
-          "text": "currency",
+          "text": "What time is it now?",
           "is_correct": false,
-          "feedback": "'currency' is the money of a country, such as the colon; a place to stay is not money."
+          "feedback": "The option What time is it is wrong because What time is it asks for information about time, which contributes no viewpoint to the uniform discussion."
+        },
+        {
+          "letter": "D",
+          "text": "I have a pen here.",
+          "is_correct": false,
+          "feedback": "The option I have a pen is wrong because I have a pen states possession of an object, which is irrelevant and offers no stance on uniforms."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "Giving opinions in discussion uses clear frames like In my view or From my perspective. These signals mark a personal stance politely and invite response. Memorizing two or three frames gives B2 speakers confident openings.",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -54,37 +54,82 @@
     },
     {
       "id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which question best asks others for their opinions in a discussion?",
+      "context": "Diego wants to ask his classmates what they think about homework.",
       "options": [
         {
-          "letter": "C",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "'itinerary' is a detailed plan of a journey, listing the route and the stops along the way."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "Do your homework now.",
           "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "feedback": "The option Do your homework now is wrong because Do your homework now is a command to act, which asks for no viewpoint and closes discussion."
         },
         {
           "letter": "B",
-          "text": "destination",
+          "text": "Give me your pen, please.",
           "is_correct": false,
-          "feedback": "'destination' is only the place you are going to; the plan of the route is the itinerary."
+          "feedback": "The option Give me your pen is wrong because Give me your pen requests an object, which is unrelated to inviting classmates to share views."
+        },
+        {
+          "letter": "C",
+          "text": "What do you think about homework?",
+          "is_correct": false,
+          "feedback": "Correct! What do you think about homework correctly asks for viewpoints openly, so it perfectly invites classmates to share varied opinions in discussion."
         },
         {
           "letter": "D",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "'passport' is the travel document you show at the border, not the plan of a journey."
+          "text": "The homework is long today.",
+          "is_correct": true,
+          "feedback": "The option The homework is long is wrong as an invitation because although it states one view, it does not ask others for their thoughts at all."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Asking for opinions uses What do you think or How do you feel about. These open questions invite others to speak and keep discussion moving. Closed yes or no questions without opinion verbs are weaker for discussion.",
       "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v3",
+      "statement": "Carmen wants to agree strongly. Which response fits best?",
+      "context": "Carmen agrees strongly with her friend about banning plastic bottles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I totally disagree with you.",
+          "is_correct": true,
+          "feedback": "The option I totally disagree is wrong because I totally disagree expresses strong opposition, which contradicts Carmen wish to support the plastic bottle ban."
+        },
+        {
+          "letter": "B",
+          "text": "I totally agree with you.",
+          "is_correct": false,
+          "feedback": "Correct! I totally agree with you correctly shows strong agreement, so it perfectly supports her friend proposal to ban plastic bottles at school."
+        },
+        {
+          "letter": "C",
+          "text": "I have no idea about it.",
+          "is_correct": false,
+          "feedback": "The option I have no idea is wrong because I have no idea admits lack of knowledge, which avoids taking any supportive stance in the discussion."
+        },
+        {
+          "letter": "D",
+          "text": "Change the topic right now.",
+          "is_correct": false,
+          "feedback": "The option Change the topic now is wrong because Change the topic now refuses to engage, which blocks agreement and stops the discussion from progressing."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Strong agreement uses I totally agree or You are absolutely right. These emphatic frames show full support and strengthen group consensus. Adding a reason after agreement makes the turn more persuasive and natural.",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -98,86 +143,41 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "'destination' names the place a person or thing is going or being sent to."
-        },
-        {
-          "letter": "A",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is the action of leaving, not the place you leave for."
-        },
-        {
-          "letter": "B",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching a place, not the place itself."
-        },
-        {
-          "letter": "C",
-          "text": "journey",
-          "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, not the place at the end of it."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle",
-      "periodo": 33,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
       "id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which reply disagrees politely and keeps the discussion respectful?",
+      "context": "Pablo must disagree politely with a classmate about late school start.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "'luggage' is the collective word for the suitcases and bags you pack for a trip."
+          "text": "You are completely wrong.",
+          "is_correct": false,
+          "feedback": "The option You are completely wrong is wrong because You are completely wrong attacks the speaker directly, which sounds rude and breaks polite discussion norms."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "Shut up right now.",
           "is_correct": false,
-          "feedback": "'ticket' is the document you buy that admits you to the journey."
+          "feedback": "The option Shut up right now is wrong because Shut up right now is aggressive and silences the partner, which destroys respectful turn taking completely."
         },
         {
           "letter": "C",
-          "text": "flight",
-          "is_correct": false,
-          "feedback": "'flight' is the plane or the scheduled trip itself, not the bags you carry."
+          "text": "I see your point, but I disagree.",
+          "is_correct": true,
+          "feedback": "Correct! I see your point, but I disagree correctly softens opposition, so it politely contrasts views about late school start while respecting the classmate."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "That is stupid nonsense.",
           "is_correct": false,
-          "feedback": "'reservation' is the booking you hold for a seat or a room."
+          "feedback": "The option That is stupid nonsense is wrong because That is stupid nonsense insults the idea harshly, which offends the speaker and violates polite disagreement rules."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "Polite disagreement softens with I see your point, but or I am afraid I disagree because. Direct You are wrong sounds rude and breaks discussion flow. Softeners keep debate respectful while still showing contrast.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle",
       "periodo": 33,
@@ -189,37 +189,37 @@
     },
     {
       "id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence interrupts a discussion politely and appropriately?",
+      "context": "Sara wants to interrupt kindly because she has an urgent point.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
+          "text": "Stop talking at once.",
           "is_correct": true,
-          "feedback": "'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew."
+          "feedback": "The option Stop talking at once is wrong because Stop talking at once orders the speaker to be silent, which is abrupt and violates polite interruption norms."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "Sorry to interrupt, but may I add something?",
           "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, not on a bus, a train or a plane."
+          "feedback": "Correct! Sorry to interrupt, but may I add something correctly apologizes and requests entry, so it kindly introduces an urgent point without offending."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "You never let me speak.",
           "is_correct": false,
-          "feedback": "'commuter' is someone who travels regularly between home and work, a narrower idea than passenger."
+          "feedback": "The option You never let me speak is wrong because You never let me speak accuses the partner of selfishness, which creates conflict rather than polite entry."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "I am leaving right now.",
           "is_correct": false,
-          "feedback": "'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew."
+          "feedback": "The option I am leaving right now is wrong because I am leaving right now abandons the discussion entirely, which fails to introduce any point at all."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "explanation": "Polite interruption uses Sorry to interrupt, but or May I add something here. Apology plus request protects the current speaker face. Bare interruptions like Listen to me sound abrupt and damage cooperation.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -234,81 +234,36 @@
     },
     {
       "id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence hedges an opinion correctly and sounds cautious?",
+      "context": "Jorge is hedging his claim so he does not sound too absolute.",
       "options": [
         {
-          "letter": "C",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "'customs' is the office where officials check the goods, the luggage and the travellers entering a country."
-        },
-        {
           "letter": "A",
-          "text": "security",
+          "text": "Everyone knows it is true.",
           "is_correct": false,
-          "feedback": "'security' refers to the staff and the measures that keep the airport safe, not to the goods check."
+          "feedback": "The option Everyone knows it is true is wrong because Everyone knows it is true claims absolute certainty, which is the opposite of careful hedging."
         },
         {
           "letter": "B",
-          "text": "terminal",
+          "text": "It seems that homework helps sometimes.",
           "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for and board your flight."
+          "feedback": "Correct! It seems that homework helps sometimes correctly hedges the claim, so it sounds cautious and thoughtful rather than absolute and dogmatic."
         },
-        {
-          "letter": "D",
-          "text": "gate",
-          "is_correct": false,
-          "feedback": "'gate' is the door you board the plane through, not the place where officials check luggage."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle",
-      "periodo": 33,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
         {
           "letter": "C",
-          "text": "boarding pass",
+          "text": "It is one hundred percent proven.",
           "is_correct": true,
-          "feedback": "'boarding pass' is the slip the airline hands over at check-in that lets you board the plane."
-        },
-        {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "'visa' is the official permission to enter and stay in a foreign country."
-        },
-        {
-          "letter": "B",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "'receipt' is the proof of payment for the ticket, not the document that lets you board."
+          "feedback": "The option It is one hundred percent proven is wrong because It is one hundred percent proven asserts total certainty, which removes all caution from the statement."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "No one can ever doubt it.",
           "is_correct": false,
-          "feedback": "'brochure' is a small booklet with tourist information, not a travel document."
+          "feedback": "The option No one can ever doubt it is wrong because No one can ever doubt it forbids disagreement entirely, which clashes with the modest tone of hedging."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "explanation": "Hedging softens claims with It seems, Perhaps, or In general. Hedges show caution and academic care, unlike absolutes like Everyone knows. B2 speakers use hedges to sound thoughtful rather than dogmatic.",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -323,41 +278,86 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v7",
+      "statement": "Your partner says phones help learning. Which follow up keeps discussion alive?",
+      "context": "Elena must choose the best follow up question to keep talk going.",
       "options": [
         {
-          "letter": "B",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "'sightseeing' is visiting the places of interest of a location in order to look at them."
+          "letter": "A",
+          "text": "Anyway, what is for lunch?",
+          "is_correct": false,
+          "feedback": "The option Anyway, what is for lunch is wrong because Anyway, what is for lunch abandons the topic abruptly, which kills the discussion instead of extending it."
         },
         {
-          "letter": "A",
-          "text": "shopping",
+          "letter": "B",
+          "text": "Why do you think so?",
           "is_correct": false,
-          "feedback": "'shopping' is buying things, which is a different activity from visiting sights."
+          "feedback": "Correct! Why do you think so correctly requests reasons and extends the turn, so it keeps the discussion moving while showing active listening."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "Repeat that word again.",
           "is_correct": false,
-          "feedback": "'hiking' is walking in the countryside along a trail, usually for exercise."
+          "feedback": "The option Repeat that word again is wrong because Repeat that word again focuses on pronunciation only, which does not explore ideas or deepen the debate."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "I must go right now.",
+          "is_correct": true,
+          "feedback": "The option I must go right now is wrong because I must go right now ends participation immediately, which stops any further exchange of opinions."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Good follow ups request reasons with Why do you think so or Can you give an example. They extend turns and show listening. Topic changes or bare repetitions stall discussion instead of deepening it.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v8",
+      "statement": "Which response best shows active listening in a discussion?",
+      "context": "Raul wants to show he is listening before giving his own view.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "So you mean buses are too crowded?",
           "is_correct": false,
-          "feedback": "'camping' means spending the night outdoors in a tent."
+          "feedback": "Correct! So you mean buses are too crowded correctly paraphrases the partner, so it proves listening and checks meaning before Raul gives his own view."
+        },
+        {
+          "letter": "B",
+          "text": "I do not care at all.",
+          "is_correct": true,
+          "feedback": "The option I do not care at all is wrong because I do not care at all dismisses the partner message, which shows zero listening and blocks cooperative discussion."
+        },
+        {
+          "letter": "C",
+          "text": "Talk about something else.",
+          "is_correct": false,
+          "feedback": "The option Talk about something else is wrong because Talk about something else rejects the current idea, which ignores the speaker and changes direction rudely."
+        },
+        {
+          "letter": "D",
+          "text": "My idea is much better.",
+          "is_correct": false,
+          "feedback": "The option My idea is much better is wrong because My idea is much better jumps to self promotion, which skips acknowledgement and sounds arrogant in discussion."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
+      "explanation": "Active listening signals include nodding plus So you mean or If I understand correctly. Paraphrase proves attention and checks meaning before responding. Ignoring and jumping straight to self blocks cooperation.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle",
       "periodo": 33,
@@ -369,36 +369,36 @@
     },
     {
       "id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence rejects an idea firmly yet politely? It concerns a class trip.",
+      "context": "Nora must reject an idea firmly but without insulting her partner.",
       "options": [
         {
-          "letter": "B",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "'souvenir' is an object kept because it reminds you of a person, a place or an event."
+          "letter": "A",
+          "text": "Your idea is ridiculous.",
+          "is_correct": false,
+          "feedback": "The option Your idea is ridiculous is wrong because Your idea is ridiculous insults the proposal harshly, which offends the partner and breaks respectful debate."
         },
         {
-          "letter": "A",
-          "text": "gift",
+          "letter": "B",
+          "text": "You know nothing at all.",
           "is_correct": false,
-          "feedback": "'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder."
+          "feedback": "The option You know nothing at all is wrong because You know nothing at all attacks personal knowledge, which is rude and irrelevant to the actual proposal."
         },
         {
           "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "'award' is a distinction given for a merit or an achievement."
+          "text": "I am not convinced because of the cost.",
+          "is_correct": true,
+          "feedback": "Correct! I am not convinced because of the cost correctly holds a firm stance politely, so it rejects the idea with a clear reason and without insult."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "Whatever, do what you want.",
           "is_correct": false,
-          "feedback": "'prize' is what is won in a competition, not an object bought to remember a trip."
+          "feedback": "The option Whatever, do what you want is wrong because Whatever, do what you want surrenders without argument, which abandons discussion rather than rejecting with reasons."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "Firm but polite rejection uses I am not convinced because plus a reason. It holds ground while respecting the other speaker. Insults or silence either offend or fail to argue.",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -414,40 +414,40 @@
     },
     {
       "id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which phrase best manages turn taking when both speakers overlap?",
+      "context": "Iker and a friend both want the last word in a heated debate.",
       "options": [
         {
-          "letter": "C",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "'delay' is the extra period of time by which something becomes late or is postponed."
-        },
-        {
           "letter": "A",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "'cancellation' ends the booking or the trip altogether rather than pushing it back."
+          "text": "I will shout louder now.",
+          "is_correct": true,
+          "feedback": "The option I will shout louder now is wrong because I will shout louder now tries to dominate by volume, which destroys fair turn taking and respectful listening."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "Let us take turns so each can finish.",
           "is_correct": false,
-          "feedback": "'departure' is the time a vehicle is scheduled to leave, not a postponement."
+          "feedback": "Correct! Let us take turns so each can finish correctly negotiates the floor fairly, so both speakers can complete ideas without shouting or overlap."
+        },
+        {
+          "letter": "C",
+          "text": "You must never speak again.",
+          "is_correct": false,
+          "feedback": "The option You must never speak again is wrong because You must never speak again bans the partner permanently, which ends discussion and violates equal participation."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "I always speak the truth.",
           "is_correct": false,
-          "feedback": "'arrival' is the moment you reach the destination, not the waiting time."
+          "feedback": "The option I always speak the truth is wrong because I always speak the truth claims personal superiority, which does not solve the practical problem of overlapping turns."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Turn taking phrases like After you or Let us take turns manage floor fairly. Explicit negotiation prevents shouting overlaps. Demanding the floor aggressively creates conflict and stops listening.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle",
       "periodo": 33,
@@ -459,40 +459,40 @@
     },
     {
       "id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which spoken reason is strongest in a discussion about green spaces?",
+      "context": "Alba compares two ways of giving reasons in a spoken argument.",
       "options": [
         {
-          "letter": "C",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "'check-in' is reporting your presence at the airport or the hotel and registering."
-        },
-        {
           "letter": "A",
-          "text": "check-out",
+          "text": "Parks help health because children play outside daily.",
           "is_correct": false,
-          "feedback": "'check-out' is the opposite moment: leaving the hotel and settling the bill."
+          "feedback": "Correct! Parks help health because children play outside daily correctly links claim and concrete evidence, so it forms a strong spoken reason that persuades listeners."
         },
         {
           "letter": "B",
-          "text": "booking",
+          "text": "Parks are good, trust me.",
           "is_correct": false,
-          "feedback": "'booking' is reserving the room or the seat in advance, which happens before you arrive."
+          "feedback": "The option Parks are good, trust me is wrong because Parks are good, trust me offers a slogan without evidence, which sounds weak and unconvincing in debate."
+        },
+        {
+          "letter": "C",
+          "text": "Parks, parks, parks forever.",
+          "is_correct": false,
+          "feedback": "The option Parks, parks, parks forever is wrong because Parks, parks, parks forever merely repeats the noun, which provides no reason or supporting detail at all."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "'reservation' is the record of that booking, not the act of reporting your presence."
+          "text": "Everyone loves parks, bye.",
+          "is_correct": true,
+          "feedback": "The option Everyone loves parks, bye is wrong because Everyone loves parks, bye asserts popularity and then exits, which avoids giving any real supporting reason."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Strong spoken reasons link claim and evidence with Because and For example. Bare slogans without support sound weak. Because plus concrete detail persuades listeners and structures the turn clearly for B2 discussion.",
       "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle",
       "periodo": 33,
@@ -504,40 +504,40 @@
     },
     {
       "id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Replace the rude reply with the most polite alternative that keeps the meaning.",
+      "context": "Hugo hears a rude reply and must replace it with a polite alternative.",
       "options": [
         {
-          "letter": "B",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "'layover' is the rest or the waiting period between two stages of a journey."
+          "letter": "A",
+          "text": "What nonsense are you saying?",
+          "is_correct": false,
+          "feedback": "The option What nonsense are you saying is wrong because What nonsense are you saying mocks the partner contribution, which is rude and blocks respectful exchange."
         },
         {
-          "letter": "A",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "'stopover' is a break in a journey during which you leave the vehicle, often overnight."
+          "letter": "B",
+          "text": "You are talking rubbish now.",
+          "is_correct": true,
+          "feedback": "The option You are talking rubbish now is wrong because You are talking rubbish now insults the speaker content, which offends and escalates conflict in discussion."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "Could you clarify what you mean?",
           "is_correct": false,
-          "feedback": "'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time."
+          "feedback": "Correct! Could you clarify what you mean correctly requests explanation politely, so it repairs the rude reply while keeping the wish to understand the idea."
         },
         {
           "letter": "D",
-          "text": "transit",
+          "text": "Nobody cares about that.",
           "is_correct": false,
-          "feedback": "'transit' means passage through a place or the system that carries people, not the pause itself."
+          "feedback": "The option Nobody cares about that is wrong because Nobody cares about that dismisses the idea as worthless, which silences the partner and ends cooperation."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "Polite alternatives replace commands with requests and insults with I language. Could you clarify replaces What nonsense. Rephrasing keeps meaning but repairs tone, a key discussion repair skill.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle",
       "periodo": 33,
@@ -549,36 +549,36 @@
     },
     {
       "id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence concedes a point gracefully and then defends the main view?",
+      "context": "Leire must concede a small point before defending her main idea.",
       "options": [
         {
-          "letter": "C",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "'currency' is the whole money system in general use in a particular country."
-        },
-        {
           "letter": "A",
-          "text": "coin",
+          "text": "You are totally wrong about all.",
           "is_correct": false,
-          "feedback": "'coin' is a single round piece of metal money, only one part of a currency."
+          "feedback": "The option You are totally wrong about all is wrong because You are totally wrong about all denies everything, which misses the chance to concede a valid small point gracefully."
         },
         {
           "letter": "B",
-          "text": "banknote",
+          "text": "I give up on everything now.",
           "is_correct": false,
-          "feedback": "'banknote' is a paper note, again only one part of a country's money system."
+          "feedback": "The option I give up on everything now is wrong because I give up on everything now surrenders the whole argument, which abandons the main idea instead of defending it."
+        },
+        {
+          "letter": "C",
+          "text": "You are right about cost, however quality matters.",
+          "is_correct": false,
+          "feedback": "Correct! You are right about cost, however quality matters correctly concedes one point then pivots, so it builds credibility while still defending the main idea."
         },
         {
           "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "'cash' is money in coins and notes seen as a form of payment, not the system a country has."
+          "text": "Cost never matters at all.",
+          "is_correct": true,
+          "feedback": "The option Cost never matters at all is wrong because Cost never matters at all denies an obvious fact, which sounds unreasonable and weakens the speaker credibility."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Concession structures like You are right about cost, however quality matters admit truth then pivot. They build credibility before countering. Total surrender or total denial both miss the partial agreement move.",
       "difficulty": "7",
       "images": [],
       "tags": [],
@@ -594,40 +594,40 @@
     },
     {
       "id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which invitation best includes a quiet student in the discussion?",
+      "context": "Mario wants to invite a quiet classmate to join the debate.",
       "options": [
         {
-          "letter": "D",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "'guidebook' is a book of information about a place written for the use of visitors."
-        },
-        {
           "letter": "A",
-          "text": "map",
+          "text": "Speak now or stay silent forever.",
           "is_correct": false,
-          "feedback": "'map' is a drawing of the area, not a book of information."
+          "feedback": "The option Speak now or stay silent forever is wrong because Speak now or stay silent forever threatens the quiet student, which raises anxiety and discourages participation."
         },
         {
           "letter": "B",
-          "text": "dictionary",
+          "text": "We have not heard from you yet, Ana, what do you think?",
           "is_correct": false,
-          "feedback": "'dictionary' explains the words of a language, not the places of a region."
+          "feedback": "The option Ana agrees with me, right is wrong because Ana agrees with me, right speaks for Ana and pressures agreement, which denies her a genuine voice."
         },
         {
           "letter": "C",
-          "text": "encyclopedia",
+          "text": "Ana agrees with me, right?",
+          "is_correct": true,
+          "feedback": "Correct! We have not heard from you yet, Ana, what do you think correctly names and invites gently, so the quiet classmate feels welcomed to join safely."
+        },
+        {
+          "letter": "D",
+          "text": "Let the best students talk only.",
           "is_correct": false,
-          "feedback": "'encyclopedia' covers all branches of knowledge, not one destination for tourists."
+          "feedback": "The option Let the best students talk only is wrong because Let the best students talk only excludes quieter voices explicitly, which contradicts inclusive invitation completely."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "Inviting quiet speakers uses We have not heard from you yet or What is your view, Ana. Naming plus open question lowers pressure. Speaking for them or ordering them to talk increases anxiety.",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle",
       "periodo": 33,
@@ -639,40 +639,40 @@
     },
     {
       "id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence best closes a turn and passes the floor politely?",
+      "context": "Clara must end her discussion turn and hand the floor to the next speaker.",
       "options": [
         {
           "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "'backpack' has shoulder straps and is carried on the back."
+          "text": "I stop here and say nothing.",
+          "is_correct": false,
+          "feedback": "The option I stop here and say nothing is wrong because I stop here and say nothing ends abruptly without handover, which leaves the next speaker unsure when to start."
         },
         {
           "letter": "B",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "'suitcase' is a case with a handle that is pulled along, not one worn on the back."
+          "text": "I am tired of this topic.",
+          "is_correct": true,
+          "feedback": "The option I am tired of this topic is wrong because I am tired of this topic complains about boredom, which closes negatively rather than handing over positively."
         },
         {
           "letter": "C",
-          "text": "briefcase",
+          "text": "That is my view on clubs, what about you?",
           "is_correct": false,
-          "feedback": "'briefcase' is a flat case for documents that you carry by hand at work."
+          "feedback": "Correct! That is my view on clubs, what about you correctly summarizes and invites the next speaker, so it hands the floor clearly and keeps flow."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "This topic is finished forever.",
           "is_correct": false,
-          "feedback": "'handbag' is a small bag held in the hand, usually for personal items."
+          "feedback": "The option This topic is finished forever is wrong because This topic is finished forever declares the debate closed for all, which denies others their turn to speak."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "B",
+      "explanation": "Closing a turn uses That is my view, what about you or Over to you. Explicit handover avoids awkward silence and shows control. Simply stopping or walking away leaves the floor unclear.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle",
       "periodo": 33,
@@ -684,36 +684,81 @@
     },
     {
       "id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which reply most constructively builds on a weak idea about school trips?",
+      "context": "Adrian must pick the most constructive response to a weak argument.",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
+          "text": "That idea is totally useless.",
           "is_correct": true,
-          "feedback": "'overseas' means in or to a foreign country, especially one across the sea."
+          "feedback": "The option That idea is totally useless is wrong because That idea is totally useless attacks without offering help, which discourages the speaker and stalls collaborative progress."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "Nice idea, let us talk football.",
           "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
+          "feedback": "Correct! That is a good start, and we could also consider cost correctly validates effort then adds a dimension, so it constructively improves the weak argument."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "That is a good start, and we could also consider cost.",
           "is_correct": false,
-          "feedback": "'local' means belonging to a small area nearby, not to a foreign country."
+          "feedback": "The option Nice idea, let us talk football is wrong because Nice idea, let us talk football praises then abandons the topic, which wastes the chance to strengthen the argument."
         },
         {
           "letter": "D",
-          "text": "national",
+          "text": "I already knew all that.",
           "is_correct": false,
-          "feedback": "'national' means concerning the whole nation and says nothing about being abroad."
+          "feedback": "The option I already knew all that is wrong because I already knew all that boasts about self knowledge, which ignores the proposal and adds no useful extension."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
+      "explanation": "Constructive feedback adds ideas with That is a good start, plus we could also consider. It validates effort then extends. Pure praise without addition or pure attack without help both stall progress.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v17",
+      "statement": "Which phrasing fits a formal panel discussion about exams best?",
+      "context": "Aitor compares formal and informal ways to state views in a panel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I dunno, exams stink.",
+          "is_correct": false,
+          "feedback": "The option I dunno, exams stink is wrong because I dunno, exams stink uses slang and vague complaint, which sounds careless and weak in a formal panel."
+        },
+        {
+          "letter": "B",
+          "text": "From my perspective, exams cause stress.",
+          "is_correct": false,
+          "feedback": "Correct! From my perspective, exams cause stress correctly uses formal framing, so it suits a panel with teachers and shows respectful academic register."
+        },
+        {
+          "letter": "C",
+          "text": "Stuff about exams rules.",
+          "is_correct": true,
+          "feedback": "The option Stuff about exams rules is wrong because Stuff about exams rules is vague slang without structure, which fails to convey a clear formal position."
+        },
+        {
+          "letter": "D",
+          "text": "Yeah, whatever, exams whatever.",
+          "is_correct": false,
+          "feedback": "The option Yeah, whatever, exams whatever is wrong because Yeah, whatever, exams whatever signals indifference with filler, which undermines credibility in formal discussion."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Formal discussion prefers From my perspective and The evidence suggests over slang like I dunno, stuff rules. Register matching shows awareness of audience. Slang in a formal panel sounds careless and weakens authority.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -728,37 +773,37 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v18",
+      "statement": "Which summary fairly reports group opinions before voting on school hours?",
+      "context": "Nerea must summarize group views fairly before the class vote.",
       "options": [
         {
-          "letter": "B",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "'budget' is an estimate of income and expenditure planned for a set period."
+          "letter": "A",
+          "text": "We all agree with my idea.",
+          "is_correct": false,
+          "feedback": "The option We all agree with my idea is wrong because We all agree with my idea falsely claims unanimity, which hides dissent and distorts the group position."
         },
         {
-          "letter": "A",
-          "text": "expense",
+          "letter": "B",
+          "text": "Only smart people support libraries.",
           "is_correct": false,
-          "feedback": "'expense' is a single amount of money that is spent, not the plan for a whole period."
+          "feedback": "The option Only smart people support libraries is wrong because Only smart people support libraries insults opponents as ignorant, which is biased and unfair to other views."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "Forget the vote, I decide.",
           "is_correct": false,
-          "feedback": "'cost' is what one item or one service costs, again not an estimate for a period."
+          "feedback": "The option Forget the vote, I decide is wrong because Forget the vote, I decide seizes control autocratically, which cancels democratic discussion and fair summary."
         },
         {
           "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "'price' is the sum a customer pays for one product; a budget covers income and spending together."
+          "text": "Some of us support late start while others prefer early.",
+          "is_correct": true,
+          "feedback": "Correct! Some of us support late start while others prefer early correctly reports both sides neutrally, so it fairly summarizes views before the class vote."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Fair summaries report both sides with Some of us think while others feel. They avoid bias toward personal preference. One sided summaries distort the vote and break trust in discussion leadership.",
       "difficulty": "9",
       "images": [],
       "tags": [],
@@ -773,82 +818,37 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium."
-        },
-        {
-          "letter": "A",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge."
-        },
-        {
-          "letter": "B",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "'guarantee' is a general promise of quality and does not involve paying a premium."
-        },
-        {
-          "letter": "C",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "'policy' is the written document that states what an insurance contract covers."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle",
-      "periodo": 33,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
       "id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence best brings the discussion back to recycling politely?",
+      "context": "Unai faces a partner who keeps changing the subject away from recycling.",
       "options": [
         {
-          "letter": "C",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "'vaccination' is the treatment with a vaccine that makes the body immune to a disease."
-        },
-        {
           "letter": "A",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "'medication' is a drug taken to treat an illness, not to prevent one."
+          "text": "You always avoid the truth.",
+          "is_correct": true,
+          "feedback": "The option You always avoid the truth is wrong because You always avoid the truth accuses the partner of dishonesty, which creates conflict rather than calmly refocusing the talk."
         },
         {
           "letter": "B",
-          "text": "prescription",
+          "text": "Fine, let us talk about games.",
           "is_correct": false,
-          "feedback": "'prescription' is the written order that authorises a medicine, not the treatment itself."
+          "feedback": "The option Fine, let us talk about games is wrong because Fine, let us talk about games surrenders to the tangent, which abandons recycling and loses discussion focus."
+        },
+        {
+          "letter": "C",
+          "text": "Stop talking forever, please.",
+          "is_correct": false,
+          "feedback": "The option Stop talking forever, please is wrong because Stop talking forever, please silences the partner completely, which ends cooperation and solves no focus problem."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "Let us return to recycling since time is short.",
           "is_correct": false,
-          "feedback": "'infection' is the disease itself, the opposite of the protection a vaccination gives."
+          "feedback": "Correct! Let us return to recycling since time is short correctly names the topic with a practical reason, so it politely refocuses discussion without accusing anyone."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Redirecting politely uses Let us return to recycling because time is short. It names the topic and gives a practical reason. Accusing the partner of evasion or following every tangent both lose focus and control.",
       "difficulty": "9",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which mediator line best handles strong disagreement in a panel discussion?",
+      "context": "Ane leads a difficult panel where two speakers strongly disagree.",
       "options": [
         {
-          "letter": "D",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight."
-        },
-        {
           "letter": "A",
-          "text": "fatigue",
+          "text": "You are right and you are wrong.",
           "is_correct": false,
-          "feedback": "'fatigue' is tiredness that can come from any long effort, not specifically from a flight."
+          "feedback": "The option You are right and you are wrong is wrong because You are right and you are wrong takes sides openly, which violates neutral mediation and inflames the losing speaker."
         },
         {
           "letter": "B",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep."
+          "text": "You both raise valid concerns, so let us compare evidence.",
+          "is_correct": true,
+          "feedback": "The option Stop arguing and be quiet is wrong because Stop arguing and be quiet shuts debate by command, which suppresses ideas instead of guiding evidence based comparison."
         },
         {
           "letter": "C",
-          "text": "insomnia",
+          "text": "Stop arguing and be quiet.",
           "is_correct": false,
-          "feedback": "'insomnia' is the inability to fall asleep, which has many causes besides travel."
+          "feedback": "The option My view is the only correct one is wrong because My view is the only correct one imposes the mediator personal stance, which abandons facilitation for domination."
+        },
+        {
+          "letter": "D",
+          "text": "My view is the only correct one.",
+          "is_correct": false,
+          "feedback": "Correct! You both raise valid concerns, so let us compare evidence correctly validates both speakers then proposes criteria, which mediates disagreement productively and fairly."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
+      "correct_answer": "B",
+      "explanation": "Mediating disagreement uses You both raise valid concerns, so let us compare evidence. It validates both sides then proposes criteria. Taking sides or shutting debate down fails the mediator role in panel discussion.",
       "difficulty": "10",
       "images": [],
       "tags": [],

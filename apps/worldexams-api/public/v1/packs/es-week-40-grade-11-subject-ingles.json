@@ -9,126 +9,36 @@
   "questions": [
     {
       "id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Notice: Bring your draft poster to Room 12 before Thursday lunch for printing. What must you do first?",
+      "context": "Your class is preparing a science exhibition and you read the notice board before acting.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday."
+          "text": "Take the draft poster to Room 12 before Thursday lunch.",
+          "is_correct": false,
+          "feedback": "Correct! Taking the draft poster to Room 12 before Thursday lunch uses the place, the object and the deadline exactly as the notice states."
         },
         {
           "letter": "B",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep."
-        },
-        {
-          "letter": "C",
-          "text": "entertainment",
-          "is_correct": false,
-          "feedback": "'Entertainment' is the fun or activities you enjoy, not the building or room where you stay."
-        },
-        {
-          "letter": "D",
-          "text": "currency",
-          "is_correct": false,
-          "feedback": "'Currency' is the money of a country, which has nothing to do with where you sleep."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "itinerary",
+          "text": "Send the final poster by email on Friday evening.",
           "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route."
-        },
-        {
-          "letter": "A",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "'Baggage' is the suitcases and bags you travel with, not the written plan of the trip."
-        },
-        {
-          "letter": "B",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan."
-        },
-        {
-          "letter": "D",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "'Passport' is the travel document that lets you cross a border, not the schedule of your trip."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place someone or something is going or being sent to."
-        },
-        {
-          "letter": "A",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'Departure' is the action of leaving, the opposite end of the journey from the destination."
+          "feedback": "This option fails because sending the final poster by email on Friday evening changes the place, the version and the deadline stated in the notice."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "Buy printing paper at the shop after school.",
           "is_correct": false,
-          "feedback": "'Arrival' is the act of getting there; the place you arrive at is the destination."
+          "feedback": "This option fails because buying printing paper at the shop after school ignores the required object, place and deadline and invents a new shopping task."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "Wait in Room 12 until Thursday lunch without the poster.",
           "is_correct": false,
-          "feedback": "'Journey' is the whole trip from start to finish, not the place you are heading to."
+          "feedback": "This option fails because waiting in Room 12 until Thursday lunch without the poster keeps the place and time but drops the essential object to deliver."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "explanation": "Integrated reading means scanning an announcement for who, where and when, then turning those facts into one correct action instead of guessing from a single word.",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -143,38 +53,128 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v2",
+      "statement": "Message: My train arrives at six and I am vegetarian. Which reply uses both pieces of information correctly?",
+      "context": "Your exchange partner sends an email about arrival time and food needs before your meeting.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip."
+          "text": "I will meet you at the station at six with a vegetarian dinner ready.",
+          "is_correct": false,
+          "feedback": "Correct! Meeting at the station at six with a vegetarian dinner ready correctly reuses both the arrival time and the vegetarian need from the message."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "I will meet you at midnight with a meat stew ready.",
           "is_correct": false,
-          "feedback": "'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself."
+          "feedback": "This option fails because meeting at midnight with a meat stew ready changes the stated six o clock arrival and contradicts the vegetarian need completely."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "I will ignore your train and cook only fish soup.",
           "is_correct": false,
-          "feedback": "'Flight' is the journey by plane, or the plane itself; the bags are called luggage."
+          "feedback": "This option fails because ignoring the train and cooking only fish soup drops the arrival information and fish soup does not satisfy a vegetarian request."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "I will meet you at six but serve only beef burgers.",
+          "is_correct": true,
+          "feedback": "This option fails because meeting at six but serving only beef burgers keeps the time right yet directly violates the vegetarian need with beef burgers."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "A good written reply proves you understood two separate facts from reading and you reuse both accurately, which is the core of reading into writing integration.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v3",
+      "statement": "You hear: I lost my blue jacket near the gym yesterday. Which spoken response shows you understood and helps next?",
+      "context": "You listen to a classmate describing a lost jacket and you must respond with helpful speech.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Did you say a blue jacket near the gym yesterday, so shall we look there together?",
+          "is_correct": true,
+          "feedback": "Correct! Asking about the blue jacket lost near the gym yesterday repeats the color, place and time and offers concrete help to look there."
+        },
+        {
+          "letter": "B",
+          "text": "Did you lose a red hat in the library, so shall we buy a new one?",
           "is_correct": false,
-          "feedback": "'Reservation' is the booking you make for a seat or a room, not the bags you pack."
+          "feedback": "This option fails because asking about a red hat lost in the library changes the color, object and place that the classmate actually described."
+        },
+        {
+          "letter": "C",
+          "text": "I had pasta for lunch today and the canteen was very crowded at noon.",
+          "is_correct": false,
+          "feedback": "This option fails because talking about your own lunch menu ignores the lost jacket completely and offers no listening based response at all."
+        },
+        {
+          "letter": "D",
+          "text": "I never go to the gym, so I cannot help you with anything today.",
+          "is_correct": false,
+          "feedback": "This option fails because saying you never go to the gym dismisses the location detail and refuses the cooperative speaking move the task needs."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "explanation": "Listening into speaking means catching the key details of what you heard and reflecting them back in a helpful spoken turn instead of giving a generic answer.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v4",
+      "statement": "Timetable: Chemistry moves to Lab 3 at three. Note: Bring your notebook to chemistry. What will you do?",
+      "context": "You read a timetable change and a teacher note together before planning your afternoon.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Go to Lab 3 at three with your notebook ready.",
+          "is_correct": false,
+          "feedback": "Correct! Going to Lab 3 at three with your notebook combines the new room and time from the timetable with the notebook order from the teacher note."
+        },
+        {
+          "letter": "B",
+          "text": "Go to Lab 1 at two with a novel to read.",
+          "is_correct": false,
+          "feedback": "This option fails because going to Lab 1 at two with a novel uses the old timetable data and replaces the notebook with an unrelated novel."
+        },
+        {
+          "letter": "C",
+          "text": "Stay home at three with your notebook ready.",
+          "is_correct": true,
+          "feedback": "This option fails because staying home at three with your notebook keeps the notebook idea but disobeys the timetable change to attend Lab 3."
+        },
+        {
+          "letter": "D",
+          "text": "Go to Lab 3 at three without bringing anything.",
+          "is_correct": false,
+          "feedback": "This option fails because going to Lab 3 at three without anything respects the new timetable but drops the teacher instruction to bring your notebook."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Real multitask reading forces you to combine two short texts and keep only the conclusion that respects both, discarding options that use just one source.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -189,40 +189,40 @@
     },
     {
       "id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Guide: Member Diaz, card 4421, returns books on 12 May. Fill the card with the correct details.",
+      "context": "You read a library guide while filling in your new membership card at the desk.",
       "options": [
         {
-          "letter": "D",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all."
+          "text": "Diaz, card 4421, return date 12 May.",
+          "is_correct": true,
+          "feedback": "Correct! Writing Diaz, card 4421, return date 12 May copies the surname, card number and date exactly as the guide and example card show."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "Garcia, card 4421, return date 12 May.",
           "is_correct": false,
-          "feedback": "'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case."
+          "feedback": "This option fails because writing Garcia, card 4421, return date 12 May keeps number and date but changes the surname from Diaz to Garcia."
         },
         {
           "letter": "C",
-          "text": "tourist",
+          "text": "Diaz, card 2214, return date 12 May.",
           "is_correct": false,
-          "feedback": "'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents."
+          "feedback": "This option fails because writing Diaz, card 2214, return date 12 May keeps name and date but copies the wrong card number 2214."
+        },
+        {
+          "letter": "D",
+          "text": "Diaz, card 4421, return date 20 June.",
+          "is_correct": false,
+          "feedback": "This option fails because writing Diaz, card 4421, return date 20 June keeps name and number but invents a June date instead of 12 May."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "A",
+      "explanation": "Form filling from reading trains selective transfer, copying names, numbers and dates exactly as printed while ignoring decorative information around them.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Remember",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle",
       "periodo": 40,
@@ -234,36 +234,216 @@
     },
     {
       "id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Subtitles: Bees pollinate one third of our food crops. Which notebook line best summarizes the video for tomorrow?",
+      "context": "You watch a short video with subtitles and take notes for a class summary the next day.",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage."
+          "text": "The video explains that bees pollinate one third of our food.",
+          "is_correct": false,
+          "feedback": "Correct! The video explains that bees pollinate one third of our food correctly condenses the subtitle message into one clear grammatical summary sentence."
         },
         {
           "letter": "B",
-          "text": "security",
+          "text": "The video shows bees eating one third of our food.",
           "is_correct": false,
-          "feedback": "'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in."
+          "feedback": "This option fails because the video shows bees eating one third of our food changes the verb pollinate to eating and reverses the scientific meaning."
         },
         {
           "letter": "C",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "'Terminal' is the whole building where passengers wait, eat and catch their flights."
+          "text": "The video sells televisions to one third of bees.",
+          "is_correct": true,
+          "feedback": "This option fails because the video sells televisions to one third of bees invents televisions and selling, which never appeared in the subtitles at all."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "Bees, food, third, video.",
           "is_correct": false,
-          "feedback": "'Gate' is the particular door you board through, not the place where officials inspect your luggage."
+          "feedback": "This option fails because bees, food, third, video lists content words without a verb or structure and therefore is not a usable summary sentence."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Watching with subtitles plus note taking builds the habit of turning spoken and written input together into a short grammatical sentence that keeps the main fact.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v7",
+      "statement": "Steps: research the topic, make slides, rehearse aloud, present to class. Which order completes the multitask correctly?",
+      "context": "Your group must order the steps for a class presentation that mixes reading and speaking tasks.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Research, then slides, then rehearse, then present.",
+          "is_correct": false,
+          "feedback": "Correct! Research, then slides, then rehearse, then present follows the only logical workflow where each step prepares the material needed for the next step."
+        },
+        {
+          "letter": "B",
+          "text": "Present, then research, then slides, then rehearse.",
+          "is_correct": false,
+          "feedback": "This option fails because present, then research, then slides, then rehearse puts delivery first when there is nothing researched or prepared to deliver."
+        },
+        {
+          "letter": "C",
+          "text": "Rehearse, then present, then research, then slides.",
+          "is_correct": false,
+          "feedback": "This option fails because rehearse, then present, then research, then slides rehearses an empty talk and researches only after the presentation is finished."
+        },
+        {
+          "letter": "D",
+          "text": "Slides, then present, then research, then rehearse.",
+          "is_correct": true,
+          "feedback": "This option fails because slides, then present, then research, then rehearse makes slides before research and presents before any rehearsal has happened."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Sequencing a multitask project teaches logical workflow, research must come before slides and rehearsal must come before delivery, or the later steps have no content.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v8",
+      "statement": "Paragraph 1 praises city bikes. Paragraph 2 lists safety rules. Which sentence best connects both paragraphs?",
+      "context": "You are joining two paragraphs of a blog post with a linking sentence about city bikes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "This habit is useful, but riders must learn the safety rules below.",
+          "is_correct": false,
+          "feedback": "Correct! This habit is useful, but riders must learn the safety rules below correctly bridges the benefit idea to the rules paragraph that follows next."
+        },
+        {
+          "letter": "B",
+          "text": "Bikes were invented a long time ago in history.",
+          "is_correct": true,
+          "feedback": "This option fails because bikes were invented a long time ago in history drops the benefit thread and jumps to history instead of the coming safety rules."
+        },
+        {
+          "letter": "C",
+          "text": "I like pizza and films on weekends.",
+          "is_correct": false,
+          "feedback": "This option fails because I like pizza and films on weekends abandons the bike topic entirely and connects to nothing in either surrounding paragraph."
+        },
+        {
+          "letter": "D",
+          "text": "The rules are boring and nobody should read them.",
+          "is_correct": false,
+          "feedback": "This option fails because the rules are boring and nobody should read them contradicts the purpose of the second paragraph and breaks the forward link."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cohesive linking across paragraphs requires a bridge sentence that picks up the bike idea from paragraph one and points forward to safety rules in paragraph two.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v9",
+      "statement": "Source: The school trip visited the river park. Summary: The trip visited the river park and the museum. What is the error?",
+      "context": "You compare a source text with a classmate summary to find the integration mistake.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The summary adds a museum never mentioned in the source.",
+          "is_correct": false,
+          "feedback": "Correct! Pointing out that the summary adds a museum never mentioned shows you compared every detail to the source and caught the invented integration error."
+        },
+        {
+          "letter": "B",
+          "text": "The summary is perfect and needs no change.",
+          "is_correct": false,
+          "feedback": "This option fails because saying the summary is perfect and needs no change misses the invented museum detail and shows no source comparison at all."
+        },
+        {
+          "letter": "C",
+          "text": "The summary has bad handwriting and spelling errors.",
+          "is_correct": true,
+          "feedback": "This option fails because complaining about handwriting and spelling focuses on appearance while ignoring the factual museum error in the content itself."
+        },
+        {
+          "letter": "D",
+          "text": "The source mentions a museum, so the summary is right.",
+          "is_correct": false,
+          "feedback": "This option fails because claiming the source mentions a museum defends the mistake and proves the comparison with the real source was not done."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Checking a summary against its source trains critical reading, you must spot added, missing or twisted facts rather than trusting a fluent but faulty retelling.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v10",
+      "statement": "Review: A small clean quiet hotel near the beach. Which sentence paraphrases it accurately for your travel diary?",
+      "context": "You read a hotel review and choose the paraphrase that keeps both meaning and grammar correct.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The small hotel near the beach was clean and quiet.",
+          "is_correct": true,
+          "feedback": "Correct! The small hotel near the beach was clean and quiet keeps small, beach location and positive evaluation with correct grammar throughout the sentence."
+        },
+        {
+          "letter": "B",
+          "text": "The huge hotel in the mountains was dirty and noisy.",
+          "is_correct": false,
+          "feedback": "This option fails because the huge hotel in the mountains was dirty and noisy changes size, location and evaluation, reversing almost every detail of the review."
+        },
+        {
+          "letter": "C",
+          "text": "The small hotel near the beach was dirty and noisy.",
+          "is_correct": false,
+          "feedback": "This option fails because the small hotel near the beach was dirty and noisy keeps size and place but flips clean and quiet into a negative judgment."
+        },
+        {
+          "letter": "D",
+          "text": "Hotel beach small clean quiet.",
+          "is_correct": false,
+          "feedback": "This option fails because hotel beach small clean quiet removes verbs and articles so the grammar collapses even though the content words look similar."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "explanation": "Paraphrasing under test conditions means preserving tense, place and evaluation together, a single changed adjective or verb can flip praise into complaint.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -278,217 +458,37 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board."
-        },
-        {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane."
-        },
-        {
-          "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "'Receipt' is the proof of payment for a purchase, not the travel document for boarding."
-        },
-        {
-          "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "'Brochure' is a small booklet of tourist information, not the document that lets you board."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'Sightseeing' is the activity of visiting the places of interest in a location."
-        },
-        {
-          "letter": "A",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "'Shopping' is buying things in stores, which is not the same as visiting the sights of a place."
-        },
-        {
-          "letter": "B",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions."
-        },
-        {
-          "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "'Camping' is staying outdoors in a tent, not visiting the sights of a location."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v11",
+      "statement": "Dialogue: Ana and Pablo will watch a film on Saturday. Which follow up question keeps the conversation going?",
+      "context": "After reading a dialogue about weekend plans you must ask a useful follow up question.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited."
+          "text": "Shall we bring tickets for the Saturday film with Ana?",
+          "is_correct": false,
+          "feedback": "Correct! Asking if you should bring tickets for the Saturday film with Ana reuses the plan details and moves the joint decision forward naturally."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "What did Ana eat for breakfast last year?",
           "is_correct": false,
-          "feedback": "'Gift' is something you give to another person; a souvenir is kept by the person who took the trip."
+          "feedback": "This option fails because asking what Ana ate for breakfast last year drops the weekend plan and jumps to an unrelated past meal."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "Can fish ride bicycles in winter?",
           "is_correct": false,
-          "feedback": "'Award' is a prize given for an achievement, not an object bought or kept as a memory."
+          "feedback": "This option fails because asking whether fish can ride bicycles ignores Ana, Saturday and the film and breaks all links to the dialogue."
         },
         {
           "letter": "D",
-          "text": "prize",
-          "is_correct": false,
-          "feedback": "'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "delay",
+          "text": "I hate cinemas and I will stay home.",
           "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra time by which something ends up late or gets postponed."
-        },
-        {
-          "letter": "A",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "'Cancellation' means the event does not happen at all, not that it happens later than planned."
-        },
-        {
-          "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost."
-        },
-        {
-          "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination."
+          "feedback": "This option fails because stating you hate cinemas and will stay home shuts down the joint plan instead of asking a cooperative follow up question."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter."
-        },
-        {
-          "letter": "A",
-          "text": "check-out",
-          "is_correct": false,
-          "feedback": "'Check-out' is the opposite moment, when you leave the hotel or hand back the room."
-        },
-        {
-          "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "'Reservation' is the booking document, not the act of reporting your presence at the desk."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
+      "explanation": "A strong follow up question proves integrated listening, it reuses names, times and intentions from the dialogue and pushes the joint plan one step forward.",
       "difficulty": "7",
       "images": [],
       "tags": [],
@@ -504,37 +504,82 @@
     },
     {
       "id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Chart: showers 45 percent, garden 25 percent, drinking 5 percent. Article: cut shower time. Which conclusion uses both sources?",
+      "context": "You combine a bar chart on water use with a short article before drawing a conclusion.",
       "options": [
         {
           "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! A 'layover' is a period of rest or waiting between two stages of a journey."
+          "text": "Showers use the most water, so shorter showers save most.",
+          "is_correct": false,
+          "feedback": "Correct! Showers use the most water so shorter showers save most correctly reads the tallest bar and links it to the article advice about shower time."
         },
         {
           "letter": "B",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights."
+          "text": "Garden watering uses the most water of all uses.",
+          "is_correct": true,
+          "feedback": "This option fails because garden watering uses the most water misreads the chart since the shower bar is clearly taller than the garden bar."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "Drinking water uses the most water of all uses.",
           "is_correct": false,
-          "feedback": "'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting."
+          "feedback": "This option fails because drinking water uses the most water confuses the smallest bar with the largest and ignores the article focus on showers."
         },
         {
           "letter": "D",
-          "text": "transit",
+          "text": "Charts are useless and articles always lie.",
           "is_correct": false,
-          "feedback": "'Transit' is a system of moving people and goods through a city, not a break between two flights."
+          "feedback": "This option fails because charts are useless and articles lie refuses to integrate either source and offers no evidence based conclusion at all."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Chart plus text synthesis is a classic integrated skill, the correct conclusion must agree with the numbers in the graphic and the causes named in the article.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v13",
+      "statement": "Task: write a formal email to your teacher asking about the project deadline. Which option fits best?",
+      "context": "You must reply to a teacher request and choose the register that fits a formal email.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dear Mrs Lopez, could you please confirm the deadline?",
+          "is_correct": false,
+          "feedback": "Correct! Dear Mrs Lopez, could you please confirm the deadline uses a formal greeting, polite modal and full forms suited to a teacher email."
+        },
+        {
+          "letter": "B",
+          "text": "Hey Lopez, gimme the deadline now!",
+          "is_correct": false,
+          "feedback": "This option fails because Hey Lopez, gimme the deadline now uses a rude greeting plus slang gimme, which is wrong for a formal teacher email."
+        },
+        {
+          "letter": "C",
+          "text": "Yo teacher, what is up with homework?",
+          "is_correct": false,
+          "feedback": "This option fails because Yo teacher, what is up with homework uses street greeting and vague wording that ignores formal email conventions completely."
+        },
+        {
+          "letter": "D",
+          "text": "An emoji with no words.",
+          "is_correct": true,
+          "feedback": "This option fails because sending only an emoji with no words provides no greeting, request or polite structure needed for a formal written message."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Register control is part of integrated writing, you read who will receive the message and then select formal openers, polite modals and full forms accordingly.",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -548,86 +593,41 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v14",
+      "statement": "Report 1: Forty volunteers joined. Report 2: Three tons were collected. Which summary best integrates both reports?",
+      "context": "You read two river cleanup reports and judge which student summary integrates both texts well.",
       "options": [
         {
-          "letter": "B",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'Currency' is the money system in general use in a particular country."
+          "letter": "A",
+          "text": "Forty volunteers joined and three tons were collected.",
+          "is_correct": false,
+          "feedback": "Correct! Praising the summary that names forty volunteers and three tons collected rewards coverage of both reports with exact numbers and no invented facts."
         },
         {
-          "letter": "A",
-          "text": "coin",
+          "letter": "B",
+          "text": "Forty volunteers joined the river event.",
           "is_correct": false,
-          "feedback": "'Coin' is a single metal piece of money, one item within the currency, not the whole system."
+          "feedback": "This option fails because praising the summary that mentions only volunteers rewards partial coverage and ignores the three tons fact from the second report."
         },
         {
           "letter": "C",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "'Banknote' is a paper bill, one item of the currency rather than the system of money itself."
+          "text": "Three tons were collected somewhere somehow.",
+          "is_correct": true,
+          "feedback": "This option fails because praising the summary that mentions only three tons rewards the opposite partial coverage and drops the forty volunteers fact."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "A concert and fireworks closed the river event.",
           "is_correct": false,
-          "feedback": "'Cash' means money in the physical form you hold, not the money system of a country."
+          "feedback": "This option fails because praising the summary that adds a concert and fireworks rewards invented details that appear in neither of the two reports."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "Judging summaries across two reports demands checking coverage, the winner mentions volunteers from report one and tons collected from report two without invention.",
       "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book of information about a place written for visitors and tourists."
-        },
-        {
-          "letter": "A",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "'Map' is a single sheet or screen showing the layout of a place, not a book of information."
-        },
-        {
-          "letter": "C",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "'Dictionary' is a book of word definitions of a language, not information about a place for visitors."
-        },
-        {
-          "letter": "D",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle",
       "periodo": 40,
@@ -639,37 +639,37 @@
     },
     {
       "id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Announcement: Bilbao train moves to platform four. Board: Bilbao 18:30. Your friend says platform one at six. How do you correct him?",
+      "context": "You hear a station announcement while reading the departure board to correct a friend.",
       "options": [
         {
-          "letter": "B",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! A 'backpack' is the bag with shoulder straps that you carry on your back."
+          "letter": "A",
+          "text": "The Bilbao train now leaves at half past six from platform four.",
+          "is_correct": false,
+          "feedback": "Correct! Stating the Bilbao train now leaves at half past six from platform four combines the announced platform change with the board time exactly."
         },
         {
-          "letter": "A",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "'Suitcase' is a case with a handle that you pull along, not a bag worn on the back."
+          "letter": "B",
+          "text": "The Bilbao train left yesterday from platform one.",
+          "is_correct": true,
+          "feedback": "This option fails because stating the Bilbao train left yesterday from platform one uses a past day and old platform that match neither current source."
         },
         {
           "letter": "C",
-          "text": "briefcase",
+          "text": "The Bilbao train leaves from the cafe at midnight.",
           "is_correct": false,
-          "feedback": "'Briefcase' is a case for documents and a laptop, carried in the hand for work."
+          "feedback": "This option fails because stating the Bilbao train leaves from the cafe at midnight invents a cafe departure and a midnight time from no source."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "All trains are cancelled today.",
           "is_correct": false,
-          "feedback": "'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps."
+          "feedback": "This option fails because stating all trains are cancelled today contradicts both the announcement and the board, which both confirm the Bilbao departure."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "Correcting a friend from announcement plus board models real station multitasking, listening gives the platform change and reading confirms the new time.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -684,37 +684,127 @@
     },
     {
       "id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Story: Lucia cycles to school every morning. Friend says every night. Which correction retells the fact correctly?",
+      "context": "You read a short story opening and choose the sentence that fixes a false detail for retelling.",
       "options": [
         {
-          "letter": "B",
-          "text": "overseas",
+          "letter": "A",
+          "text": "Lucia cycles to school every morning, not every night.",
           "is_correct": true,
-          "feedback": "Correct! 'Overseas' means in or to a foreign country, especially one across the sea."
+          "feedback": "Correct! Stating Lucia cycles to school every morning, not every night corrects only the wrong time word while keeping actor, verb and place intact."
         },
         {
-          "letter": "A",
-          "text": "domestic",
+          "letter": "B",
+          "text": "Lucia flies to school every night.",
           "is_correct": false,
-          "feedback": "'Domestic' means inside your own country, the opposite of overseas."
+          "feedback": "This option fails because stating Lucia flies to school every night keeps the wrong night and replaces cycling with impossible flying."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "Lucia never leaves her house at all.",
           "is_correct": false,
-          "feedback": "'Local' means in the area where you are, even more restricted than domestic; it never crosses a border."
+          "feedback": "This option fails because stating Lucia never leaves her house at all denies the whole true story frame instead of fixing just the time word."
         },
         {
           "letter": "D",
-          "text": "national",
+          "text": "Night cycles Lucia school morning.",
           "is_correct": false,
-          "feedback": "'National' refers to a whole country without saying it is foreign, so it does not imply going abroad."
+          "feedback": "This option fails because stating night cycles Lucia school morning scrambles word order into ungrammatical fragments despite containing some right words."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Fixing a false statement while retelling checks careful reading plus accurate grammar, you keep the true frame and swap only the wrong time, place or actor.",
       "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v17",
+      "statement": "Voicemail: Your visit moves to Tuesday at five. Calendar: football training Tuesday at five. What should you write?",
+      "context": "You listen to a voicemail about a dentist change while viewing a calendar to write back.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Thanks, Tuesday at five is noted, but it clashes with football training.",
+          "is_correct": false,
+          "feedback": "Correct! Confirming Tuesday at five and noting the football clash shows you heard the new time, read the calendar clash and wrote both into the reply."
+        },
+        {
+          "letter": "B",
+          "text": "Thanks, Monday at nine is perfect with no problems.",
+          "is_correct": false,
+          "feedback": "This option fails because confirming Monday at nine with no clash keeps an old time and misses the football clash shown on the calendar."
+        },
+        {
+          "letter": "C",
+          "text": "Thanks, Tuesday at five is fine and I will keep both appointments.",
+          "is_correct": true,
+          "feedback": "This option fails because confirming Tuesday at five but promising two appointments accepts the new time yet creates a double booking instead of flagging the clash."
+        },
+        {
+          "letter": "D",
+          "text": "I refuse any dentist visit ever again.",
+          "is_correct": false,
+          "feedback": "This option fails because refusing any dentist visit ever ignores the voicemail information and the calendar and ends communication instead of integrating sources."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Voicemail into calendar into message is triple integration, you extract the new appointment fact by listening, check the clash by reading, then write politely.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle",
+      "periodo": 40,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v18",
+      "statement": "You hear: Always wear gloves. You read: Pour the liquid next. Which action integrates listening and reading safely?",
+      "context": "You follow spoken lab rules while reading the written steps to choose the safe action.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Wait for gloves before pouring the liquid.",
+          "is_correct": false,
+          "feedback": "Correct! Waiting for gloves before pouring the liquid obeys both the spoken glove warning and the written pour step in the safe combined order."
+        },
+        {
+          "letter": "B",
+          "text": "Pour the liquid now without gloves.",
+          "is_correct": false,
+          "feedback": "This option fails because pouring the liquid now without gloves obeys the pour step but directly disobeys the spoken glove warning about safety."
+        },
+        {
+          "letter": "C",
+          "text": "Leave the lab shouting about gloves.",
+          "is_correct": false,
+          "feedback": "This option fails because leaving the lab shouting about gloves abandons the written task entirely instead of sequencing gloves first and then pouring."
+        },
+        {
+          "letter": "D",
+          "text": "Taste the liquid to check its power.",
+          "is_correct": true,
+          "feedback": "This option fails because tasting the liquid to check its power misreads both sources dangerously and proposes an unsafe action no instruction ever allowed."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Lab safety multitasking proves why integration matters, the spoken warning plus the written step together forbid the tempting shortcut that each source alone might allow.",
+      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -728,127 +818,37 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! A 'budget' is the estimate of income and expenditure planned for a set period."
-        },
-        {
-          "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "'Expense' is a single cost already paid; the definition is the estimate for the whole period."
-        },
-        {
-          "letter": "C",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "'Cost' is the price of one thing, whereas a budget covers all income and all spending."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "'Price' is the amount a single item costs, not a plan of income and expenditure over time."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium."
-        },
-        {
-          "letter": "A",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract."
-        },
-        {
-          "letter": "B",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium."
-        },
-        {
-          "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle",
-      "periodo": 40,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
       "id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Interviews give lively quotes. Survey: seventy percent want a garden. Which blog draft best integrates both sources?",
+      "context": "You compare two drafts of a class blog that should combine interview quotes and survey data.",
       "options": [
         {
-          "letter": "D",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease."
-        },
-        {
           "letter": "A",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one."
+          "text": "A draft with one student quote plus seventy percent survey support.",
+          "is_correct": true,
+          "feedback": "Correct! Choosing the draft with one student quote plus seventy percent survey support rewards true weaving of interview voice and survey number together."
         },
         {
           "letter": "B",
-          "text": "prescription",
+          "text": "A draft with three quotes and no numbers.",
           "is_correct": false,
-          "feedback": "'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself."
+          "feedback": "This option fails because choosing the draft with three quotes and no numbers rewards voice only and drops the seventy percent survey evidence entirely."
         },
         {
           "letter": "C",
-          "text": "infection",
+          "text": "A draft with only numbers and no voices.",
           "is_correct": false,
-          "feedback": "'Infection' is the state of having the disease; vaccination is what protects you before you get it."
+          "feedback": "This option fails because choosing the draft with only numbers and no voices rewards data only and loses the human interview perspective required."
+        },
+        {
+          "letter": "D",
+          "text": "A draft copied from last year.",
+          "is_correct": false,
+          "feedback": "This option fails because choosing the draft copied from last year rewards recycling that uses neither the new quotes nor the new survey data."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Evaluating integrated drafts means rewarding the text that weaves a human quote together with a precise survey figure while rejecting drafts that use only one source.",
       "difficulty": "9",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Debate heard pros and cons of late buses. Vote: nine to six for late transport. Which written proposal integrates hearing, voting and writing?",
+      "context": "You lead a debate, a vote and a proposal that must merge arguments heard and texts read.",
       "options": [
         {
-          "letter": "B",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones."
+          "letter": "A",
+          "text": "We propose late buses on Fridays after a nine to six vote for late transport.",
+          "is_correct": false,
+          "feedback": "Correct! Proposing late buses on Fridays after a nine to six vote for late transport synthesizes the heard debate, the counted vote and formal written phrasing."
         },
         {
-          "letter": "A",
-          "text": "fatigue",
-          "is_correct": false,
-          "feedback": "'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones."
+          "letter": "B",
+          "text": "We propose no buses ever for anyone.",
+          "is_correct": true,
+          "feedback": "This option fails because proposing no buses ever despite a nine to six vote for late transport ignores the counted majority and the debate outcome."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "We propose magic carpets for all students.",
           "is_correct": false,
-          "feedback": "'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect."
+          "feedback": "This option fails because proposing magic carpets for all students abandons both the debate content and the vote count for a fantasy unrelated to sources."
         },
         {
           "letter": "D",
-          "text": "insomnia",
+          "text": "Results now vote buses late Friday.",
           "is_correct": false,
-          "feedback": "'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock."
+          "feedback": "This option fails because shouting results now vote buses late Friday scrambles syntax into notes rather than a formal proposal sentence the council can adopt."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
+      "explanation": "Leading debate into vote into proposal is the highest multitask, you must hold opposing spoken arguments, respect the majority count and phrase the decision in formal written syntax.",
       "difficulty": "10",
       "images": [],
       "tags": [],

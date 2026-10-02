@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that compares two things as equal.",
+      "context": "Semana W21 de ingles, grado 11: ejercicio 1 de 20 sobre comparatives of equality and superiority.",
       "options": [
         {
-          "letter": "B",
-          "text": "accommodation",
+          "letter": "A",
+          "text": "This exam is as difficult as the final one.",
           "is_correct": true,
-          "feedback": "'accommodation' is the word for a place where you live or stay, including on holiday."
+          "feedback": "Correct! Equality is expressed with 'as ... as', with the same adjective on both sides of the pair."
         },
         {
-          "letter": "A",
-          "text": "transportation",
+          "letter": "B",
+          "text": "This exam is as difficult like the final one.",
           "is_correct": false,
-          "feedback": "'transportation' means the way you travel, such as buses or planes, not where you stay."
+          "feedback": "No. 'As ... like' mixes two different patterns; the second half of equality needs 'as', not 'like'."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "This exam is so difficult as the final one.",
           "is_correct": false,
-          "feedback": "'entertainment' is the activity of enjoying shows, films or games, not a place to live."
+          "feedback": "No. 'So ... as' is a fixed pair in the negative, and this sentence is affirmative, so the structure does not fit."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "This exam is as difficult than the final one.",
           "is_correct": false,
-          "feedback": "'currency' is the money of a country, such as the colon; a place to stay is not money."
+          "feedback": "No. 'As ... than' cannot be combined; 'than' belongs to comparison of difference, not equality."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Equality is expressed with 'as ... as', with the same adjective on both sides of the pair. In this item the choice that works is 'This exam is as difficult as the final one.', because it is the option that matches what the sentence and the task require.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle",
       "periodo": 21,
@@ -54,37 +54,217 @@
     },
     {
       "id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence expresses superiority correctly?",
+      "context": "Semana W21 de ingles, grado 11: ejercicio 2 de 20 sobre comparatives of equality and superiority.",
       "options": [
         {
-          "letter": "A",
-          "text": "itinerary",
+          "letter": "B",
+          "text": "The mountain trail is more difficult than the coastal path.",
           "is_correct": true,
-          "feedback": "'itinerary' is a detailed plan of a journey, listing the route and the stops along the way."
+          "feedback": "Correct! Superiority takes the comparative form plus 'than', and the sentence ends cleanly there."
         },
         {
-          "letter": "B",
-          "text": "baggage",
+          "letter": "A",
+          "text": "The mountain trail is more difficult than the coastal path is.",
           "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "feedback": "No. Repeating the verb after 'than' would need a full relative clause such as 'than the coastal path is', which is clumsy and wrong here."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "The mountain trail is more difficult of the coastal path.",
           "is_correct": false,
-          "feedback": "'destination' is only the place you are going to; the plan of the route is the itinerary."
+          "feedback": "No. 'More difficult of' is not a comparison structure; comparison of difference requires 'than'."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "The mountain trail is the more difficult than the coastal path.",
           "is_correct": false,
-          "feedback": "'passport' is the travel document you show at the border, not the plan of a journey."
+          "feedback": "No. 'The more difficult' needs a comparative clause after it, so 'the' cannot simply stand in front of the adjective."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Superiority takes the comparative form plus 'than', and the sentence ends cleanly there. In this item the choice that works is 'The mountain trail is more difficult than the coastal path.', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle-v3",
+      "statement": "Which sentence correctly shows that one thing is less good than another?",
+      "context": "Semana W21 de ingles, grado 11: ejercicio 3 de 20 sobre comparatives of equality and superiority.",
+      "options": [
+        {
+          "letter": "C",
+          "text": "This restaurant is less expensive than the one near the pier.",
+          "is_correct": true,
+          "feedback": "Correct! 'Less' plus the adjective expresses inferiority, and 'than' introduces the second term of the comparison."
+        },
+        {
+          "letter": "A",
+          "text": "This restaurant is less expensive than the one near the pier is.",
+          "is_correct": false,
+          "feedback": "No. The verb cannot be repeated after 'than' in this short comparative form."
+        },
+        {
+          "letter": "B",
+          "text": "This restaurant is more cheap than the one near the pier.",
+          "is_correct": false,
+          "feedback": "No. 'More cheap' is not standard; short adjectives take 'cheaper', not 'more' plus the base form."
+        },
+        {
+          "letter": "D",
+          "text": "This restaurant is as cheap than the one near the pier.",
+          "is_correct": false,
+          "feedback": "No. 'As ... than' mixes equality and difference and is not a valid comparison."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Less' plus the adjective expresses inferiority, and 'than' introduces the second term of the comparison. In this item the choice that works is 'This restaurant is less expensive than the one near the pier.', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle-v4",
+      "statement": "Complete the sentence: 'Her presentation was ___ the one given by her group.'",
+      "context": "Semana W21 de ingles, grado 11: ejercicio 4 de 20 sobre comparatives of equality and superiority.",
+      "options": [
+        {
+          "letter": "D",
+          "text": "better than",
+          "is_correct": true,
+          "feedback": "Correct! Superiority is expressed with the comparative 'better' followed by 'than', which introduces what it is better than."
+        },
+        {
+          "letter": "A",
+          "text": "better from",
+          "is_correct": false,
+          "feedback": "No. 'Better from' is not used for comparing two presentations; comparison of difference needs 'than'."
+        },
+        {
+          "letter": "B",
+          "text": "as good as",
+          "is_correct": false,
+          "feedback": "No. 'As good as' states that the two are equal, which is the opposite of what the sentence requires."
+        },
+        {
+          "letter": "C",
+          "text": "more good that",
+          "is_correct": false,
+          "feedback": "No. 'More good' is not a correct comparative form, and 'that' cannot follow a comparative."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Superiority is expressed with the comparative 'better' followed by 'than', which introduces what it is better than. In this item the choice that works is 'better than', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle-v5",
+      "statement": "Which sentence correctly uses 'not as ... as' to express inferiority?",
+      "context": "Semana W21 de ingles, grado 11: ejercicio 5 de 20 sobre comparatives of equality and superiority.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The bus is not as fast as the train.",
+          "is_correct": true,
+          "feedback": "Correct! 'Not as ... as' is the standard way to say one thing is less good or less fast than another."
+        },
+        {
+          "letter": "B",
+          "text": "The bus is not so fast as the train.",
+          "is_correct": false,
+          "feedback": "No. 'Not so ... as' belongs to the negative with 'so'; 'not as ... as' is the form that goes with 'as'."
+        },
+        {
+          "letter": "C",
+          "text": "The bus is not as fast than the train.",
+          "is_correct": false,
+          "feedback": "No. The second term of an 'as ... as' comparison takes 'as', never 'than'."
+        },
+        {
+          "letter": "D",
+          "text": "The bus is not as fast as than the train.",
+          "is_correct": false,
+          "feedback": "No. Repeating 'as' before and after 'than' creates a structure that does not exist in English."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "explanation": "'Not as ... as' is the standard way to say one thing is less good or less fast than another. In this item the choice that works is 'The bus is not as fast as the train.', because it is the option that matches what the sentence and the task require.\n---",
       "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle-v6",
+      "statement": "Choose the sentence with a correctly formed comparative of a two-syllable adjective ending in -y.",
+      "context": "Semana W21 de ingles, grado 11: ejercicio 6 de 20 sobre comparatives of equality and superiority.",
+      "options": [
+        {
+          "letter": "B",
+          "text": "The second test was easier than the first one.",
+          "is_correct": true,
+          "feedback": "Correct! Adjectives ending in -y change the 'y' to 'i' and take the ending -er, giving 'easier'."
+        },
+        {
+          "letter": "A",
+          "text": "The second test was more easy than the first one.",
+          "is_correct": false,
+          "feedback": "No. 'More easy' is not standard for this adjective; the -ier form is the correct comparative."
+        },
+        {
+          "letter": "C",
+          "text": "The second test was easely than the first one.",
+          "is_correct": false,
+          "feedback": "No. 'Easily' is the adverb, and adverbs in -ly cannot take the comparative ending -er."
+        },
+        {
+          "letter": "D",
+          "text": "The second test was most easy than the first one.",
+          "is_correct": false,
+          "feedback": "No. 'Most' builds the superlative, not the comparative, and it does not take 'than'."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Adjectives ending in -y change the 'y' to 'i' and take the ending -er, giving 'easier'. In this item the choice that works is 'The second test was easier than the first one.', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -98,218 +278,38 @@
       "country": "pr"
     },
     {
-      "id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "'destination' names the place a person or thing is going or being sent to."
-        },
-        {
-          "letter": "A",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is the action of leaving, not the place you leave for."
-        },
-        {
-          "letter": "B",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching a place, not the place itself."
-        },
-        {
-          "letter": "C",
-          "text": "journey",
-          "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, not the place at the end of it."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle",
-      "periodo": 21,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pr"
-    },
-    {
-      "id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "'luggage' is the collective word for the suitcases and bags you pack for a trip."
-        },
-        {
-          "letter": "A",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "'ticket' is the document you buy that admits you to the journey."
-        },
-        {
-          "letter": "C",
-          "text": "flight",
-          "is_correct": false,
-          "feedback": "'flight' is the plane or the scheduled trip itself, not the bags you carry."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "'reservation' is the booking you hold for a seat or a room."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle",
-      "periodo": 21,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pr"
-    },
-    {
-      "id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle-v7",
+      "statement": "Which sentence expresses equality between two scores correctly?",
+      "context": "Semana W21 de ingles, grado 11: ejercicio 7 de 20 sobre comparatives of equality and superiority.",
       "options": [
         {
           "letter": "C",
-          "text": "passenger",
+          "text": "She scored as many goals as her brother.",
           "is_correct": true,
-          "feedback": "'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew."
+          "feedback": "Correct! With countable nouns the equality pair is 'as many ... as', and 'as many' keeps the plural form."
         },
         {
           "letter": "A",
-          "text": "pedestrian",
+          "text": "She scored as many goals than her brother.",
           "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, not on a bus, a train or a plane."
+          "feedback": "No. 'Than' introduces comparison of difference, so it cannot follow the first half of an 'as ... as' pair."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "She scored many goals as her brother.",
           "is_correct": false,
-          "feedback": "'commuter' is someone who travels regularly between home and work, a narrower idea than passenger."
+          "feedback": "No. 'Many goals as' without the first 'as' does not form a comparison at all."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "She scored as more goals as her brother.",
           "is_correct": false,
-          "feedback": "'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew."
+          "feedback": "No. 'As more' combines the two patterns; equality takes 'as many', not 'as more'."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle",
-      "periodo": 21,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pr"
-    },
-    {
-      "id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "'customs' is the office where officials check the goods, the luggage and the travellers entering a country."
-        },
-        {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "'security' refers to the staff and the measures that keep the airport safe, not to the goods check."
-        },
-        {
-          "letter": "C",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for and board your flight."
-        },
-        {
-          "letter": "D",
-          "text": "gate",
-          "is_correct": false,
-          "feedback": "'gate' is the door you board the plane through, not the place where officials check luggage."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle",
-      "periodo": 21,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pr"
-    },
-    {
-      "id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "'boarding pass' is the slip the airline hands over at check-in that lets you board the plane."
-        },
-        {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "'visa' is the official permission to enter and stay in a foreign country."
-        },
-        {
-          "letter": "B",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "'receipt' is the proof of payment for the ticket, not the document that lets you board."
-        },
-        {
-          "letter": "C",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "'brochure' is a small booklet with tourist information, not a travel document."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "explanation": "With countable nouns the equality pair is 'as many ... as', and 'as many' keeps the plural form. In this item the choice that works is 'She scored as many goals as her brother.', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,37 +324,37 @@
     },
     {
       "id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly compares two uncountable nouns for equality.",
+      "context": "Semana W21 de ingles, grado 11: ejercicio 8 de 20 sobre comparatives of equality and superiority.",
       "options": [
         {
           "letter": "D",
-          "text": "sightseeing",
+          "text": "The water in the bottle is not as cold as the water in the glass.",
           "is_correct": true,
-          "feedback": "'sightseeing' is visiting the places of interest of a location in order to look at them."
+          "feedback": "Correct! The pattern is 'not as + adjective + as', and 'as' must be repeated in front of the second term being compared."
         },
         {
           "letter": "A",
-          "text": "shopping",
+          "text": "The water in the bottle is not as many cold as the water in the glass.",
           "is_correct": false,
-          "feedback": "'shopping' is buying things, which is a different activity from visiting sights."
+          "feedback": "No. 'As many' is reserved for countable plural nouns; a quality such as coldness takes 'as' plus the adjective."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "The water in the bottle is not as colder as the water in the glass.",
           "is_correct": false,
-          "feedback": "'hiking' is walking in the countryside along a trail, usually for exercise."
+          "feedback": "No. 'Colder' is the comparative form, which needs 'than', not the 'as ... as' pattern used here."
         },
         {
           "letter": "C",
-          "text": "camping",
+          "text": "The water in the bottle is not as more cold as the water in the glass.",
           "is_correct": false,
-          "feedback": "'camping' means spending the night outdoors in a tent."
+          "feedback": "No. 'As more' mixes the two patterns; the equality pair never contains 'more'."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "The pattern is 'not as + adjective + as', and 'as' must be repeated in front of the second term being compared. In this item the choice that works is 'The water in the bottle is not as cold as the water in the glass.', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -369,36 +369,36 @@
     },
     {
       "id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is grammatically correct when comparing quantities with 'much more'?",
+      "context": "Semana W21 de ingles, grado 11: ejercicio 9 de 20 sobre comparatives of equality and superiority.",
       "options": [
         {
-          "letter": "B",
-          "text": "souvenir",
+          "letter": "A",
+          "text": "The new stadium has much more seating than the old one.",
           "is_correct": true,
-          "feedback": "'souvenir' is an object kept because it reminds you of a person, a place or an event."
+          "feedback": "Correct! 'Much more' strengthens the comparative and 'than' introduces the second term being compared."
         },
         {
-          "letter": "A",
-          "text": "gift",
+          "letter": "B",
+          "text": "The new stadium has much more seating than the old one have.",
           "is_correct": false,
-          "feedback": "'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder."
+          "feedback": "No. The verb cannot be repeated after 'than' when the noun phrase is the comparative element."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "The new stadium has much more seatings than the old one.",
           "is_correct": false,
-          "feedback": "'award' is a distinction given for a merit or an achievement."
+          "feedback": "No. 'Seatings' is not a plural here; the uncountable 'seating' names the capacity and takes no 's'."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "The new stadium has much more seating of the old one.",
           "is_correct": false,
-          "feedback": "'prize' is what is won in a competition, not an object bought to remember a trip."
+          "feedback": "No. 'Of' does not introduce the second term of a comparison; 'than' does that job."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "'Much more' strengthens the comparative and 'than' introduces the second term being compared. In this item the choice that works is 'The new stadium has much more seating than the old one.', because it is the option that matches what the sentence and the task require.\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -414,37 +414,37 @@
     },
     {
       "id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The new library is ___ the old one in terms of size.'",
+      "context": "Semana W21 de ingles, grado 11: ejercicio 10 de 20 sobre comparatives of equality and superiority.",
       "options": [
         {
-          "letter": "D",
-          "text": "delay",
+          "letter": "B",
+          "text": "far bigger than",
           "is_correct": true,
-          "feedback": "'delay' is the extra period of time by which something becomes late or is postponed."
+          "feedback": "Correct! 'Far' is an intensifier that can be placed before a short comparative, and 'than' completes the comparison of difference."
         },
         {
           "letter": "A",
-          "text": "cancellation",
+          "text": "far bigger of",
           "is_correct": false,
-          "feedback": "'cancellation' ends the booking or the trip altogether rather than pushing it back."
-        },
-        {
-          "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is the time a vehicle is scheduled to leave, not a postponement."
+          "feedback": "No. 'Of' never introduces the second term of a comparison in English."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "as big like",
           "is_correct": false,
-          "feedback": "'arrival' is the moment you reach the destination, not the waiting time."
+          "feedback": "No. 'As ... like' mixes the equality pattern with a preposition, and neither half is correct."
+        },
+        {
+          "letter": "D",
+          "text": "most big than",
+          "is_correct": false,
+          "feedback": "No. 'Most' builds the superlative, which takes 'in' or 'of', never 'than'."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "'Far' is an intensifier that can be placed before a short comparative, and 'than' completes the comparison of difference. In this item the choice that works is 'far bigger than', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -459,40 +459,40 @@
     },
     {
       "id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence compares two qualities of the same person correctly?",
+      "context": "Semana W21 de ingles, grado 11: ejercicio 11 de 20 sobre comparatives of equality and superiority.",
       "options": [
         {
-          "letter": "D",
-          "text": "check-in",
+          "letter": "C",
+          "text": "Ana is taller than she is thin.",
           "is_correct": true,
-          "feedback": "'check-in' is reporting your presence at the airport or the hotel and registering."
+          "feedback": "Correct! Repetition of the verb allows a shorter comparative, so 'taller than she is thin' compares two qualities of Ana."
         },
         {
           "letter": "A",
-          "text": "check-out",
+          "text": "Ana is taller than she is slim.",
           "is_correct": false,
-          "feedback": "'check-out' is the opposite moment: leaving the hotel and settling the bill."
+          "feedback": "No. 'Slim' describes the body in a general way and breaks the parallel structure of the comparison."
         },
         {
           "letter": "B",
-          "text": "booking",
+          "text": "Ana is more tall than she is thin.",
           "is_correct": false,
-          "feedback": "'booking' is reserving the room or the seat in advance, which happens before you arrive."
+          "feedback": "No. 'More tall' is not the correct comparative form for a short adjective like 'tall'."
         },
         {
-          "letter": "C",
-          "text": "reservation",
+          "letter": "D",
+          "text": "Ana is tall than she is thin.",
           "is_correct": false,
-          "feedback": "'reservation' is the record of that booking, not the act of reporting your presence."
+          "feedback": "No. 'Than' requires the comparative form, so the base form 'tall' cannot stand before it."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "Repetition of the verb allows a shorter comparative, so 'taller than she is thin' compares two qualities of Ana. In this item the choice that works is 'Ana is taller than she is thin.', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle",
       "periodo": 21,
@@ -504,37 +504,82 @@
     },
     {
       "id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence correctly expresses that the price did not change in comparison with last year?",
+      "context": "Semana W21 de ingles, grado 11: ejercicio 12 de 20 sobre comparatives of equality and superiority.",
       "options": [
         {
           "letter": "D",
-          "text": "layover",
+          "text": "The price is the same as it was last year.",
           "is_correct": true,
-          "feedback": "'layover' is the rest or the waiting period between two stages of a journey."
+          "feedback": "Correct! When the first term already contains the adjective 'same', the second half keeps 'as' to signal equality."
         },
         {
           "letter": "A",
-          "text": "stopover",
+          "text": "The price is as same as it was last year.",
           "is_correct": false,
-          "feedback": "'stopover' is a break in a journey during which you leave the vehicle, often overnight."
+          "feedback": "No. 'As same' is redundant: 'same' already means equality, so only one 'as' is needed."
         },
         {
           "letter": "B",
-          "text": "transfer",
+          "text": "The price is the same than it was last year.",
           "is_correct": false,
-          "feedback": "'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time."
+          "feedback": "No. 'The same' is already an equality expression, so 'than' would wrongly signal a difference."
         },
         {
           "letter": "C",
-          "text": "transit",
+          "text": "The price is so same as it was last year.",
           "is_correct": false,
-          "feedback": "'transit' means passage through a place or the system that carries people, not the pause itself."
+          "feedback": "No. 'So ... as' belongs with adjectives such as 'tall', and 'same' does not work in that pattern."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "When the first term already contains the adjective 'same', the second half keeps 'as' to signal equality. In this item the choice that works is 'The price is the same as it was last year.', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle-v13",
+      "statement": "Which sentence compares two quantities with 'fewer' correctly?",
+      "context": "Semana W21 de ingles, grado 11: ejercicio 13 de 20 sobre comparatives of equality and superiority.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "This plan has fewer stops than the plan we followed in June.",
+          "is_correct": true,
+          "feedback": "Correct! 'Fewer' is the comparative for countable plural nouns, and 'stops' is plural, so the form matches."
+        },
+        {
+          "letter": "B",
+          "text": "This plan has less stops than the plan we followed in June.",
+          "is_correct": false,
+          "feedback": "No. 'Less' is used for uncountable nouns; countable plural 'stops' needs 'fewer'."
+        },
+        {
+          "letter": "C",
+          "text": "This plan has fewer stop than the plan we followed in June.",
+          "is_correct": false,
+          "feedback": "No. The plural noun 'stops' requires the plural form 'fewer stops', not the singular 'fewer stop'."
+        },
+        {
+          "letter": "D",
+          "text": "This plan has as fewer stops than the plan we followed in June.",
+          "is_correct": false,
+          "feedback": "No. 'As fewer' would be a difference comparison, and the pair 'as ... as' states equality instead."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Fewer' is the comparative for countable plural nouns, and 'stops' is plural, so the form matches. In this item the choice that works is 'This plan has fewer stops than the plan we followed in June.', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -548,86 +593,41 @@
       "country": "pr"
     },
     {
-      "id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "'currency' is the whole money system in general use in a particular country."
-        },
-        {
-          "letter": "A",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "'coin' is a single round piece of metal money, only one part of a currency."
-        },
-        {
-          "letter": "B",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "'banknote' is a paper note, again only one part of a country's money system."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "'cash' is money in coins and notes seen as a form of payment, not the system a country has."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle",
-      "periodo": 21,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pr"
-    },
-    {
       "id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence expresses a comparison in which the second term is inferior to the first?",
+      "context": "Semana W21 de ingles, grado 11: ejercicio 14 de 20 sobre comparatives of equality and superiority.",
       "options": [
         {
-          "letter": "C",
-          "text": "guidebook",
+          "letter": "B",
+          "text": "My phone is newer, but my battery lasts longer than his does.",
           "is_correct": true,
-          "feedback": "'guidebook' is a book of information about a place written for the use of visitors."
+          "feedback": "Correct! 'Longer than' states that my battery outlasts his, which is the comparison of difference required."
         },
         {
           "letter": "A",
-          "text": "map",
+          "text": "My phone is newer, but my battery lasts less longer than his does.",
           "is_correct": false,
-          "feedback": "'map' is a drawing of the area, not a book of information."
+          "feedback": "No. 'Less longer' is not a valid comparative; 'longer' is already comparative and cannot be made comparative again."
         },
         {
-          "letter": "B",
-          "text": "dictionary",
+          "letter": "C",
+          "text": "My phone is newer, but my battery lasts more longer than his does.",
           "is_correct": false,
-          "feedback": "'dictionary' explains the words of a language, not the places of a region."
+          "feedback": "No. 'More longer' repeats the same mistake; short comparatives never take 'more' plus the -er form."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "My phone is newer, but my battery lasts longer from his does.",
           "is_correct": false,
-          "feedback": "'encyclopedia' covers all branches of knowledge, not one destination for tourists."
+          "feedback": "No. 'From' does not introduce the second term of a comparison; that function belongs to 'than'."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "'Longer than' states that my battery outlasts his, which is the comparison of difference required. In this item the choice that works is 'My phone is newer, but my battery lasts longer than his does.', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle",
       "periodo": 21,
@@ -639,37 +639,37 @@
     },
     {
       "id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence correctly compares two adjectives that both end in -er?",
+      "context": "Semana W21 de ingles, grado 11: ejercicio 15 de 20 sobre comparatives of equality and superiority.",
       "options": [
         {
-          "letter": "D",
-          "text": "backpack",
+          "letter": "C",
+          "text": "This route is shorter and less crowded than the highway.",
           "is_correct": true,
-          "feedback": "'backpack' has shoulder straps and is carried on the back."
+          "feedback": "Correct! Two comparatives can be coordinated, and 'shorter' plus 'less crowded' compares both features against the highway."
         },
         {
           "letter": "A",
-          "text": "suitcase",
+          "text": "This route is more short and less crowded than the highway.",
           "is_correct": false,
-          "feedback": "'suitcase' is a case with a handle that is pulled along, not one worn on the back."
+          "feedback": "No. 'More short' is not standard for a short adjective; 'shorter' is the correct comparative."
         },
         {
           "letter": "B",
-          "text": "briefcase",
+          "text": "This route is shortest and less crowded than the highway.",
           "is_correct": false,
-          "feedback": "'briefcase' is a flat case for documents that you carry by hand at work."
+          "feedback": "No. 'Shortest' is the superlative and cannot be followed by 'than', which requires a comparative."
         },
         {
-          "letter": "C",
-          "text": "handbag",
+          "letter": "D",
+          "text": "This route is short and least crowded than the highway.",
           "is_correct": false,
-          "feedback": "'handbag' is a small bag held in the hand, usually for personal items."
+          "feedback": "No. 'Short' is the base form and 'least' is the superlative, so neither can appear in this comparison."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "Two comparatives can be coordinated, and 'shorter' plus 'less crowded' compares both features against the highway. In this item the choice that works is 'This route is shorter and less crowded than the highway.', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -684,37 +684,82 @@
     },
     {
       "id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'Walking to school takes ___ time than taking the bus.'",
+      "context": "Semana W21 de ingles, grado 11: ejercicio 16 de 20 sobre comparatives of equality and superiority.",
       "options": [
         {
-          "letter": "C",
-          "text": "overseas",
+          "letter": "D",
+          "text": "less",
           "is_correct": true,
-          "feedback": "'overseas' means in or to a foreign country, especially one across the sea."
+          "feedback": "Correct! 'Less' plus an uncountable noun states that the time is inferior to the time taken by bus."
         },
         {
           "letter": "A",
-          "text": "domestic",
+          "text": "more less",
           "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
+          "feedback": "No. 'More less' combines the intensifier with the comparative and is not a grammatical combination."
         },
         {
           "letter": "B",
-          "text": "local",
+          "text": "as less",
           "is_correct": false,
-          "feedback": "'local' means belonging to a small area nearby, not to a foreign country."
+          "feedback": "No. 'As less' would express equality, but 'less time' needs the comparison of difference with 'than'."
+        },
+        {
+          "letter": "C",
+          "text": "least",
+          "is_correct": false,
+          "feedback": "No. 'Least' is the superlative and cannot be followed by 'than'."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "'Less' plus an uncountable noun states that the time is inferior to the time taken by bus. In this item the choice that works is 'less', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle-v17",
+      "statement": "Which sentence is correct when the comparison repeats the verb after 'than'?",
+      "context": "Semana W21 de ingles, grado 11: ejercicio 17 de 20 sobre comparatives of equality and superiority.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The written test is harder than the practical one is.",
+          "is_correct": true,
+          "feedback": "Correct! When the verb is repeated after 'than', it agrees with the subject 'the practical one', which is singular."
+        },
+        {
+          "letter": "B",
+          "text": "The written test is harder than the practical one are.",
+          "is_correct": false,
+          "feedback": "No. The plural 'are' would be needed only if the subject were plural, and 'the practical one' is singular."
+        },
+        {
+          "letter": "C",
+          "text": "The written test is harder than the practical one were.",
+          "is_correct": false,
+          "feedback": "No. 'Were' is the past of 'be'; the simple present comparative requires 'is' here."
         },
         {
           "letter": "D",
-          "text": "national",
+          "text": "The written test is harder than is the practical one.",
           "is_correct": false,
-          "feedback": "'national' means concerning the whole nation and says nothing about being abroad."
+          "feedback": "No. Putting 'than is' first inverts the word order and breaks the comparison structure."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "When the verb is repeated after 'than', it agrees with the subject 'the practical one', which is singular. In this item the choice that works is 'The written test is harder than the practical one is.', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -728,86 +773,41 @@
       "country": "pr"
     },
     {
-      "id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle-v18",
+      "statement": "Which sentence expresses equality between two prices without repeating the noun?",
+      "context": "Semana W21 de ingles, grado 11: ejercicio 18 de 20 sobre comparatives of equality and superiority.",
       "options": [
         {
           "letter": "B",
-          "text": "budget",
+          "text": "The blue bag costs as much as the red one.",
           "is_correct": true,
-          "feedback": "'budget' is an estimate of income and expenditure planned for a set period."
+          "feedback": "Correct! 'As much as' expresses that the two prices are equal, and omitting the noun after the second 'as' is natural."
         },
         {
           "letter": "A",
-          "text": "expense",
+          "text": "The blue bag costs as many as the red one.",
           "is_correct": false,
-          "feedback": "'expense' is a single amount of money that is spent, not the plan for a whole period."
+          "feedback": "No. 'As many' is for countable plural nouns; a price is uncountable and needs 'much'."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "The blue bag costs much as the red one.",
           "is_correct": false,
-          "feedback": "'cost' is what one item or one service costs, again not an estimate for a period."
+          "feedback": "No. 'Much as' without the first 'as' does not form an equality comparison."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "The blue bag costs as more as the red one.",
           "is_correct": false,
-          "feedback": "'price' is the sum a customer pays for one product; a budget covers income and spending together."
+          "feedback": "No. 'As more' builds a difference pattern, which would need 'than' rather than a second 'as'."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "explanation": "'As much as' expresses that the two prices are equal, and omitting the noun after the second 'as' is natural. In this item the choice that works is 'The blue bag costs as much as the red one.', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle",
-      "periodo": 21,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pr"
-    },
-    {
-      "id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium."
-        },
-        {
-          "letter": "A",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge."
-        },
-        {
-          "letter": "B",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "'guarantee' is a general promise of quality and does not involve paying a premium."
-        },
-        {
-          "letter": "C",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "'policy' is the written document that states what an insurance contract covers."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle",
       "periodo": 21,
@@ -819,40 +819,40 @@
     },
     {
       "id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence correctly compares two adjectives of one syllable using the -er form?",
+      "context": "Semana W21 de ingles, grado 11: ejercicio 19 de 20 sobre comparatives of equality and superiority.",
       "options": [
         {
-          "letter": "A",
-          "text": "vaccination",
+          "letter": "C",
+          "text": "The new rule is stricter than the old one.",
           "is_correct": true,
-          "feedback": "'vaccination' is the treatment with a vaccine that makes the body immune to a disease."
+          "feedback": "Correct! 'Stricter' is the -er comparative of the one-syllable adjective 'strict', and 'than' introduces the second term."
+        },
+        {
+          "letter": "A",
+          "text": "The new rule is more strict than the old one.",
+          "is_correct": false,
+          "feedback": "No. 'More strict' is not standard; one-syllable adjectives build the comparative with -er alone."
         },
         {
           "letter": "B",
-          "text": "medication",
+          "text": "The new rule is strictest than the old one.",
           "is_correct": false,
-          "feedback": "'medication' is a drug taken to treat an illness, not to prevent one."
-        },
-        {
-          "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "'prescription' is the written order that authorises a medicine, not the treatment itself."
+          "feedback": "No. 'Strictest' is the superlative and takes 'the' with 'in' or 'of', never 'than'."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "The new rule is most strict than the old one.",
           "is_correct": false,
-          "feedback": "'infection' is the disease itself, the opposite of the protection a vaccination gives."
+          "feedback": "No. 'Most' is used for longer adjectives; with one syllable the -er ending is the correct form."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "C",
+      "explanation": "'Stricter' is the -er comparative of the one-syllable adjective 'strict', and 'than' introduces the second term. In this item the choice that works is 'The new rule is stricter than the old one.', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Remember",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle",
       "periodo": 21,
@@ -864,40 +864,40 @@
     },
     {
       "id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is correct when comparing with 'the same as' followed by a noun phrase?",
+      "context": "Semana W21 de ingles, grado 11: ejercicio 20 de 20 sobre comparatives of equality and superiority.",
       "options": [
         {
-          "letter": "B",
-          "text": "jet lag",
+          "letter": "D",
+          "text": "My result is the same as yours.",
           "is_correct": true,
-          "feedback": "'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight."
+          "feedback": "Correct! 'The same as' is a complete equality expression, so the noun phrase 'yours' can follow it directly."
         },
         {
           "letter": "A",
-          "text": "fatigue",
+          "text": "My result is the same than yours.",
           "is_correct": false,
-          "feedback": "'fatigue' is tiredness that can come from any long effort, not specifically from a flight."
+          "feedback": "No. 'The same' already signals equality, so 'than' would wrongly introduce a difference."
+        },
+        {
+          "letter": "B",
+          "text": "My result is as same as yours.",
+          "is_correct": false,
+          "feedback": "No. 'As same' is redundant; 'same' carries the equality and only one 'as' is required."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "My result is the same as than yours.",
           "is_correct": false,
-          "feedback": "'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep."
-        },
-        {
-          "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "'insomnia' is the inability to fall asleep, which has many causes besides travel."
+          "feedback": "No. 'As than' combines the equality and difference patterns and exists in no standard usage."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "'The same as' is a complete equality expression, so the noun phrase 'yours' can follow it directly. In this item the choice that works is 'My result is the same as yours.', because it is the option that matches what the sentence and the task require.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle",
       "periodo": 21,

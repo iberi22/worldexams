@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence expresses strong obligation correctly?",
+      "context": "Modal verbs for obligation, San Juan, grado 11, W11.",
       "options": [
         {
-          "letter": "D",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "'accommodation' is the word for a place where you live or stay, including on holiday."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "'transportation' means the way you travel, such as buses or planes, not where you stay."
+          "text": "You must submit the form before Friday.",
+          "is_correct": true,
+          "feedback": "Correcto. 'Must' expresa obligacion fuerte y le sigue directamente la forma base del verbo."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "You must to submit the form before Friday.",
           "is_correct": false,
-          "feedback": "'entertainment' is the activity of enjoying shows, films or games, not a place to live."
+          "feedback": "Incorrecto. El modal 'must' no lleva 'to' detras, porque el verbo principal va directamente en forma base."
         },
         {
           "letter": "C",
-          "text": "currency",
+          "text": "You must submits the form before Friday.",
           "is_correct": false,
-          "feedback": "'currency' is the money of a country, such as the colon; a place to stay is not money."
+          "feedback": "Incorrecto. Detras de un modal la forma es la base, de modo que corresponde 'submit' y no 'submits'."
+        },
+        {
+          "letter": "D",
+          "text": "You must submitting the form before Friday.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El gerundio no puede seguir a un modal en ningun tiempo verbal de esta unidad."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Los verbos modales no tienen forma propia de infinitivo ni de tercera persona. Siempre van seguidos de la forma base del verbo principal, y anadir 'to' o una terminacion de persona es siempre incorrecto.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle",
       "periodo": 11,
@@ -54,40 +54,40 @@
     },
     {
       "id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'Students ____ wear the school uniform every day.'",
+      "context": "Modal verbs for obligation with have to, Ponce, grado 11, W11.",
       "options": [
         {
-          "letter": "B",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "'itinerary' is a detailed plan of a journey, listing the route and the stops along the way."
+          "letter": "A",
+          "text": "must to",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Must' no lleva 'to' detras y ademas el enunciado pide una forma para un sujeto plural."
         },
         {
-          "letter": "A",
-          "text": "baggage",
+          "letter": "B",
+          "text": "must",
           "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "feedback": "Incorrecto. 'Must' con el sujeto plural 'students' no concuerda y ademas el enunciado pide la forma de una regla externa, no la obligacion del hablante."
         },
         {
           "letter": "C",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "'destination' is only the place you are going to; the plan of the route is the itinerary."
+          "text": "have to",
+          "is_correct": true,
+          "feedback": "Correcto. 'Have to' expresa una obligacion impuesta por una regla externa, como el reglamento del centro."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "shall to",
           "is_correct": false,
-          "feedback": "'passport' is the travel document you show at the border, not the plan of a journey."
+          "feedback": "Incorrecto. 'Shall' no admite 'to' detras y ademas expresa propuesta o determinacion, no obligacion administrativa."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "La diferencia entre 'must' y 'have to' es sutil pero real. 'Must' expresa una obligacion que viene del hablante o de sus valores, mientras que 'have to' expresa una obligacion impuesta por una disposicion externa que el hablante no puede cambiar.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle",
       "periodo": 11,
@@ -99,40 +99,40 @@
     },
     {
       "id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence expresses prohibition?",
+      "context": "Modal verbs for prohibition, Carolina, grado 11, W11.",
       "options": [
         {
-          "letter": "B",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "'destination' names the place a person or thing is going or being sent to."
+          "letter": "A",
+          "text": "You must not to use your phone during the test.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El gerundio o el infinitivo no pueden seguir a un modal; detras va la forma base 'use'."
         },
         {
-          "letter": "A",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is the action of leaving, not the place you leave for."
+          "letter": "B",
+          "text": "You must not use your phone during the test.",
+          "is_correct": true,
+          "feedback": "Correcto. 'Must not' expresa prohibicion absoluta y significa que la accion no esta permitida."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "You don't must use your phone during the test.",
           "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching a place, not the place itself."
+          "feedback": "Incorrecto. Un modal nunca va precedido de 'do not', porque los modales ya son la forma negativa."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "You must not uses your phone during the test.",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, not the place at the end of it."
+          "feedback": "Incorrecto. Detras de 'must not' el verbo va en forma base 'use' y no en tercera persona."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "explanation": "'Must not' y 'don't have to' no significan lo mismo. 'Must not' prohibe de manera absoluta y 'don't have to' indica que algo no es obligatorio, es decir que queda libre. Confundirlas cambia por completo el sentido de la frase.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle",
       "periodo": 11,
@@ -144,40 +144,40 @@
     },
     {
       "id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence gives advice?",
+      "context": "Modal verbs for advice, Bayamon, grado 11, W11.",
       "options": [
         {
-          "letter": "C",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "'luggage' is the collective word for the suitcases and bags you pack for a trip."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "You should to see a doctor if you have a fever.",
           "is_correct": false,
-          "feedback": "'ticket' is the document you buy that admits you to the journey."
+          "feedback": "Incorrecto. 'Should' va seguido de la forma base y no admite 'to' entre el modal y el verbo."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "You should seeing a doctor if you have a fever.",
           "is_correct": false,
-          "feedback": "'flight' is the plane or the scheduled trip itself, not the bags you carry."
+          "feedback": "Incorrecto. El gerundio detras de un modal es siempre incorrecto, y aqui corresponde 'see'."
+        },
+        {
+          "letter": "C",
+          "text": "You shall see a doctor if you have a fever.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Shall' expresa propuesta o determinacion, y no una recomendacion dirigida a la segunda persona."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "'reservation' is the booking you hold for a seat or a room."
+          "text": "You should see a doctor if you have a fever.",
+          "is_correct": true,
+          "feedback": "Correcto. 'Should' expresa recomendacion y ofrece una solucion razonable a la situacion."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "'Should' se usa para recomendar, que es diferente de obligar. En el pasado, 'should have' mas participio señala una accion que era recomendable y no se hizo, y esa estructura se prueba con frecuencia en los exámenes.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle",
       "periodo": 11,
@@ -189,40 +189,40 @@
     },
     {
       "id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'You ____ have told me about the exam; I would have studied.'",
+      "context": "Modal verbs for obligation in the past, Arecibo, grado 11, W11.",
       "options": [
         {
-          "letter": "B",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew."
+          "letter": "A",
+          "text": "should to",
+          "is_correct": false,
+          "feedback": "Incorrecto. En pasado el modal 'should' se combina directamente con 'have' y el participio, sin 'to' intermedia."
         },
         {
-          "letter": "A",
-          "text": "pedestrian",
+          "letter": "B",
+          "text": "must",
           "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, not on a bus, a train or a plane."
+          "feedback": "Incorrecto. El pasado de 'must' es 'had to', y 'must have' pertenece al presente y no al pasado."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "could",
           "is_correct": false,
-          "feedback": "'commuter' is someone who travels regularly between home and work, a narrower idea than passenger."
+          "feedback": "Incorrecto. 'Could have' habla de una posibilidad pasada, no de una recomendacion incumplida como la del enunciado."
         },
         {
           "letter": "D",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew."
+          "text": "should",
+          "is_correct": true,
+          "feedback": "Correcto. 'Should have' mas participio expresa una accion pasada que era recomendable y que no se realizo."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "D",
+      "explanation": "'Should have' mas participio es la estructura de reproche suave mas usada del ingles. Critica una decision pasada sin afirmar que estaba prohibida, y por eso suele acompanarse de 'you' o 'we' en segunda persona.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle",
       "periodo": 11,
@@ -234,40 +234,40 @@
     },
     {
       "id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'Because the streets flooded, we ____ (not / have) to leave the house for two days.",
+      "context": "Modal verbs for obligation with had to, Humacao, grado 11, W11.",
       "options": [
         {
-          "letter": "D",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "'customs' is the office where officials check the goods, the luggage and the travellers entering a country."
-        },
-        {
           "letter": "A",
-          "text": "security",
+          "text": "must not have",
           "is_correct": false,
-          "feedback": "'security' refers to the staff and the measures that keep the airport safe, not to the goods check."
+          "feedback": "Incorrecto. 'Must not have' expresa una prohibicion pasada y ademas necesita participio detras."
         },
         {
           "letter": "B",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for and board your flight."
+          "text": "didn't have to",
+          "is_correct": true,
+          "feedback": "Correcto. 'Didn't have to' es pasado simple y expresa que la obligacion no llego a aplicarse."
         },
         {
           "letter": "C",
-          "text": "gate",
+          "text": "should not have",
           "is_correct": false,
-          "feedback": "'gate' is the door you board the plane through, not the place where officials check luggage."
+          "feedback": "Incorrecto. 'Should not have' significa que no era recomendable hacerlo, y no expresa la ausencia de obligacion."
+        },
+        {
+          "letter": "D",
+          "text": "had not must",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Had to' es el pasado de 'have to' y no admite 'must' detras como auxiliar."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "Las estructuras con 'have' del pasado modal forman combinaciones fijas. 'Had to' expresa obligacion pasada, 'should have' expresa recomendacion incumplida y 'must have' expresa una suposicion sobre el pasado. No se pueden mezclar entre si.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle",
       "periodo": 11,
@@ -279,37 +279,37 @@
     },
     {
       "id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct form: 'You ____ take an umbrella; it is not raining.'",
+      "context": "Modal verbs for prohibition with don't have to, Aguadilla, grado 11, W11.",
       "options": [
         {
-          "letter": "B",
-          "text": "boarding pass",
+          "letter": "A",
+          "text": "don't have to",
           "is_correct": true,
-          "feedback": "'boarding pass' is the slip the airline hands over at check-in that lets you board the plane."
+          "feedback": "Correcto. 'Don't have to' indica que algo no es obligatorio, y por tanto la accion queda libre."
         },
         {
-          "letter": "A",
-          "text": "visa",
+          "letter": "B",
+          "text": "must to",
           "is_correct": false,
-          "feedback": "'visa' is the official permission to enter and stay in a foreign country."
+          "feedback": "Incorrecto. El modal 'must' no lleva 'to' detras, de modo que 'must to' no es una forma del ingles."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "must not to",
           "is_correct": false,
-          "feedback": "'receipt' is the proof of payment for the ticket, not the document that lets you board."
+          "feedback": "Incorrecto. 'Must' no lleva 'to' detras y la estructura seria incorrecta incluso sin ese 'to'."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "don't must",
           "is_correct": false,
-          "feedback": "'brochure' is a small booklet with tourist information, not a travel document."
+          "feedback": "Incorrecto. Un modal nunca va despues de 'do not', porque el modal ya forma la negacion por si mismo."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "A",
+      "explanation": "'Mustn't' y 'don't have to' expresan cosas distintas. 'Mustn't' prohibe y 'don't have to' levanta la obligacion. En este caso el enunciado pide la opcion que deja libre la decision, y esa es la forma con 'don't have to'.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,37 +324,37 @@
     },
     {
       "id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which question is correct?",
+      "context": "Modal verbs for obligation in questions, Guayanilla, grado 11, W11.",
       "options": [
         {
-          "letter": "C",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "'sightseeing' is visiting the places of interest of a location in order to look at them."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
+          "text": "Do I must wear a tie to the ceremony?",
           "is_correct": false,
-          "feedback": "'shopping' is buying things, which is a different activity from visiting sights."
+          "feedback": "Incorrecto. Un modal no va precedido de 'do', porque los modales ya son auxiliares por si mismos."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "Must I wearing a tie to the ceremony?",
           "is_correct": false,
-          "feedback": "'hiking' is walking in the countryside along a trail, usually for exercise."
+          "feedback": "Incorrecto. Detras del modal va la forma base 'wear' y no el gerundio 'wearing'."
+        },
+        {
+          "letter": "C",
+          "text": "Must I wear a tie to the ceremony?",
+          "is_correct": true,
+          "feedback": "Correcto. El modal 'must' abre la pregunta y el verbo principal queda en forma base 'wear'."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "Must I to wear a tie to the ceremony?",
           "is_correct": false,
-          "feedback": "'camping' means spending the night outdoors in a tent."
+          "feedback": "Incorrecto. No se anade 'to' entre el modal y el verbo principal, porque el modal ya contiene el modo infinitivo."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "En las preguntas con modal no se usa ningun auxiliar adicional. El propio 'must', 'should', 'may' o 'can' abre la oracion, y el verbo principal conserva siempre su forma base. Esa es una diferencia fundamental frente a las preguntas con 'do' o 'does'.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -369,37 +369,37 @@
     },
     {
       "id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'If you want to pass the course, you ____ study every day.'",
+      "context": "Modal verbs for obligation and advice, Trujillo Alto, grado 11, W11.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "'souvenir' is an object kept because it reminds you of a person, a place or an event."
+          "text": "should to",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modal 'should' va seguido de la forma base y no admite 'to' entre el modal y el verbo."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "should have studied",
           "is_correct": false,
-          "feedback": "'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder."
+          "feedback": "Incorrecto. 'Should have studied' observa la situacion desde el pasado y no encaja con la condicion presente del enunciado."
         },
         {
           "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "'award' is a distinction given for a merit or an achievement."
+          "text": "should",
+          "is_correct": true,
+          "feedback": "Correcto. 'Should' expresa una recomendacion smoothly conectada con la condicion de la frase."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "should studying",
           "is_correct": false,
-          "feedback": "'prize' is what is won in a competition, not an object bought to remember a trip."
+          "feedback": "Incorrecto. Detras de un modal el verbo va en forma base 'study' y no en gerundio 'studying'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "'Should' expresa una recomendacion y encaja bien con las clausulas condicionales de tipo uno. Cuando la recomendacion se refiere a una duracion, puedeAppear con el continuo 'should be studying', y las dos formas son correctas segun el matiz.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -414,37 +414,37 @@
     },
     {
       "id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct negative: 'You ____ open that door; it is locked and nobody is inside.'",
+      "context": "Modal verbs for obligation in the negative, Barceloneta, grado 11, W11.",
       "options": [
         {
-          "letter": "B",
-          "text": "delay",
+          "letter": "A",
+          "text": "mustn't",
           "is_correct": true,
-          "feedback": "'delay' is the extra period of time by which something becomes late or is postponed."
+          "feedback": "Correcto. 'Mustn't' es la forma contracta de 'must not' y expresa la prohibicion de forma natural y breve."
         },
         {
-          "letter": "A",
-          "text": "cancellation",
+          "letter": "B",
+          "text": "must not to",
           "is_correct": false,
-          "feedback": "'cancellation' ends the booking or the trip altogether rather than pushing it back."
+          "feedback": "Incorrecto. 'Must' no lleva 'to' detras y la forma contracta de la prohibicion es 'mustn't' sin 'to'."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "don't must",
           "is_correct": false,
-          "feedback": "'departure' is the time a vehicle is scheduled to leave, not a postponement."
+          "feedback": "Incorrecto. 'Do not' nunca precede a un modal, porque el modal ya constituye la forma negativa."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "must not opening",
           "is_correct": false,
-          "feedback": "'arrival' is the moment you reach the destination, not the waiting time."
+          "feedback": "Incorrecto. Detras de 'must not' va la forma base 'open' y no el gerundio 'opening'."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "La prohibicion en presente se expresa con 'must not' o con su forma contracta 'mustn't'. En pasado se usa 'was not allowed to' o 'wasn't allowed to', porque el pasado de 'must' es 'had to' y ya no admite negacion modal directa.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -459,40 +459,40 @@
     },
     {
       "id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "What does 'He must have forgotten the appointment' express?",
+      "context": "Modal verbs for supposition, Maunabo, grado 11, W11.",
       "options": [
         {
-          "letter": "D",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "'check-in' is reporting your presence at the airport or the hotel and registering."
-        },
-        {
           "letter": "A",
-          "text": "check-out",
+          "text": "An obligation in the past.",
           "is_correct": false,
-          "feedback": "'check-out' is the opposite moment: leaving the hotel and settling the bill."
+          "feedback": "Incorrecto. La obligacion pasada se expresa con 'had to' y no con 'must have'."
         },
         {
           "letter": "B",
-          "text": "booking",
+          "text": "A recommendation about the past.",
           "is_correct": false,
-          "feedback": "'booking' is reserving the room or the seat in advance, which happens before you arrive."
+          "feedback": "Incorrecto. La recomendacion incumplida se expresa con 'should have' mas participio."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "A prohibition in the past.",
           "is_correct": false,
-          "feedback": "'reservation' is the record of that booking, not the act of reporting your presence."
+          "feedback": "Incorrecto. La prohibicion pasada se expresa con 'was not allowed to' y no con 'must have'."
+        },
+        {
+          "letter": "D",
+          "text": "A certain supposition about the past.",
+          "is_correct": true,
+          "feedback": "Correcto. 'Must have' mas participio expresa una suposicion casi segura sobre un hecho pasado."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "'Must have' mas participio expresa una conclusion logica sobre el pasado. El hablante no lo vio pero la evidencia apunta a ello. Lo mismo ocurre con 'might have' para una suposicion mas dudosa y con 'can't have' para descartar una posibilidad.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle",
       "periodo": 11,
@@ -504,37 +504,37 @@
     },
     {
       "id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'You ____ to apologise; what you did was wrong.'",
+      "context": "Modal verbs for obligation with ought to, Yauco, grado 11, W11.",
       "options": [
         {
-          "letter": "D",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "'layover' is the rest or the waiting period between two stages of a journey."
-        },
-        {
           "letter": "A",
-          "text": "stopover",
+          "text": "ought",
           "is_correct": false,
-          "feedback": "'stopover' is a break in a journey during which you leave the vehicle, often overnight."
+          "feedback": "Incorrecto. 'Ought' necesita la preposicion 'to' detras para funcionar como modal equivalente a 'should'."
         },
         {
           "letter": "B",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time."
+          "text": "ought to",
+          "is_correct": true,
+          "feedback": "Correcto. 'Ought to' expresa obligacion moral y es equivalente a 'should' en significado."
         },
         {
           "letter": "C",
-          "text": "transit",
+          "text": "ought to apologising",
           "is_correct": false,
-          "feedback": "'transit' means passage through a place or the system that carries people, not the pause itself."
+          "feedback": "Incorrecto. Detras del modal y de la preposicion va el infinitivo 'apologise' y no el gerundio 'apologising'."
+        },
+        {
+          "letter": "D",
+          "text": "ought to be",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Ought to be' deja la oracion incompleta, porque el verbo principal 'apologise' sigue siendo obligatorio."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "'Ought to' significa lo mismo que 'should' y es un poco mas formal. Al llevar preposicion detras del modal, necesita 'to' antes del infinitivo, lo que la hace una estructura particular dentro de la familia de los verbos modales.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -549,40 +549,40 @@
     },
     {
       "id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'They ____ arrived earlier; the hotel was full.'",
+      "context": "Modal verbs for advice in the past, Cayey, grado 11, W11.",
       "options": [
         {
           "letter": "A",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "'currency' is the whole money system in general use in a particular country."
+          "text": "should arrived",
+          "is_correct": false,
+          "feedback": "Incorrecto. Detras de 'should have' el verbo va en participio 'arrived' y no en forma base ni en pasado simple."
         },
         {
           "letter": "B",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "'coin' is a single round piece of metal money, only one part of a currency."
+          "text": "should have",
+          "is_correct": true,
+          "feedback": "Correcto. 'Should have' mas participio indica que.man llegar antes habria resuelto el problema."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "must have",
           "is_correct": false,
-          "feedback": "'banknote' is a paper note, again only one part of a country's money system."
+          "feedback": "Incorrecto. 'Must have' expresa una suposicion sobre el pasado, no una recomendacion incumplida."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "had must",
           "is_correct": false,
-          "feedback": "'cash' is money in coins and notes seen as a form of payment, not the system a country has."
+          "feedback": "Incorrecto. El pasado de 'must' es 'had to' y la estructura con 'had must' no existe en ingles."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "B",
+      "explanation": "'Should have' mas participio retrospective: el hablante mira hacia atras y evaluations what alguien debio hacer. La estructura es fija y no admite ninguna otra forma del verbo principal.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle",
       "periodo": 11,
@@ -594,40 +594,40 @@
     },
     {
       "id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Question: 'Should we hand in the assignment today?' Answer: '____'",
+      "context": "Modal verbs for obligation with questions, San Sebastian, grado 11, W11.",
       "options": [
         {
           "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "'guidebook' is a book of information about a place written for the use of visitors."
+          "text": "Yes, we must.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Must' expresa obligacion y no es la respuesta a una pregunta de recomendacion."
         },
         {
           "letter": "B",
-          "text": "map",
+          "text": "Yes, we do.",
           "is_correct": false,
-          "feedback": "'map' is a drawing of the area, not a book of information."
+          "feedback": "Incorrecto. 'Do' es el auxiliar del presente simple y no corresponde a una pregunta con modal."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "Yes, we have to.",
           "is_correct": false,
-          "feedback": "'dictionary' explains the words of a language, not the places of a region."
+          "feedback": "Incorrecto. 'Have to' expresa obligacion externa y no es la forma de la respuesta a 'should we'."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "'encyclopedia' covers all branches of knowledge, not one destination for tourists."
+          "text": "Yes, we should.",
+          "is_correct": true,
+          "feedback": "Correcto. La respuesta corta repite el modal 'should' de la pregunta, que es la forma esperada."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Las respuestas cortas repiten el modal de la pregunta. A una pregunta con 'should' se responde con 'should', y a una pregunta con 'must' se responde con 'must'. Ese es el criterio para elegir la forma correcta.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle",
       "periodo": 11,
@@ -639,37 +639,37 @@
     },
     {
       "id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is NOT correct?",
+      "context": "Modal verbs for obligation and permission, Camuy, grado 11, W11.",
       "options": [
         {
-          "letter": "B",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "'backpack' has shoulder straps and is carried on the back."
+          "letter": "A",
+          "text": "You must arrive on time.",
+          "is_correct": false,
+          "feedback": "Esta frase si es correcta, porque 'must' expresa obligacion sin necesitar 'to' detras."
         },
         {
-          "letter": "A",
-          "text": "suitcase",
+          "letter": "B",
+          "text": "You have to arrive on time.",
           "is_correct": false,
-          "feedback": "'suitcase' is a case with a handle that is pulled along, not one worn on the back."
+          "feedback": "Esta frase si es correcta, porque 'have to' expresa la misma obligacion desde una regla externa."
         },
         {
           "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "'briefcase' is a flat case for documents that you carry by hand at work."
+          "text": "You must to arrive on time.",
+          "is_correct": true,
+          "feedback": "Correcto. Esta es la frase incorrecta: el modal 'must' no lleva 'to' antes del verbo principal."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "You should arrive on time.",
           "is_correct": false,
-          "feedback": "'handbag' is a small bag held in the hand, usually for personal items."
+          "feedback": "Esta frase si es correcta, porque 'should' expresa una recomendacion suave."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "La presencia del infinitivo 'to' despues de un modal es un error de interlengua muy frecuente entre estudiantes hispanohablantes. Los modales ya contienen el modo infinitivo, de modo que el verbo principal se mantiene en forma base.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -684,37 +684,127 @@
     },
     {
       "id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: '____ eat in the library; it is against the rules.'",
+      "context": "Modal verbs for prohibition with rules, Luquillo, grado 11, W11.",
       "options": [
         {
-          "letter": "B",
-          "text": "overseas",
+          "letter": "A",
+          "text": "You mustn't",
           "is_correct": true,
-          "feedback": "'overseas' means in or to a foreign country, especially one across the sea."
+          "feedback": "Correcto. 'Mustn't' expresa la prohibicion que impone el reglamento de la biblioteca."
         },
         {
-          "letter": "A",
-          "text": "domestic",
+          "letter": "B",
+          "text": "You must not to",
           "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
+          "feedback": "Incorrecto. 'Must' no lleva 'to' detras y ademas el gerundio es la forma usada en el enunciado."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "You don't must",
           "is_correct": false,
-          "feedback": "'local' means belonging to a small area nearby, not to a foreign country."
+          "feedback": "Incorrecto. 'Do not' nunca precede a un modal en la lengua inglesa."
         },
         {
           "letter": "D",
-          "text": "national",
+          "text": "You must not eating",
           "is_correct": false,
-          "feedback": "'national' means concerning the whole nation and says nothing about being abroad."
+          "feedback": "Incorrecto. Detras de 'must not' va la forma base 'eat' y no el gerundio 'eating'."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "Cuando la prohibicion proviene de una regla externa, 'must not' o 'mustn't' es la forma natural. Tambien seria posible decir 'you are not allowed to eat', pero 'mustn't' es mas breve y aparece con frecuencia en la señalizacion de espacios publicos.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle-v17",
+      "statement": "Complete the sentence: 'You ____ rest; you look exhausted after the tournament.'",
+      "context": "Modal verbs for advice with need to, Toa Baja, grado 11, W11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "need to",
+          "is_correct": true,
+          "feedback": "Correcto. 'Need to' expresa necesidad y funciona en presente y en pasado como un verbo auxiliar normal."
+        },
+        {
+          "letter": "B",
+          "text": "must",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oracion informa de una necesidad, y el verbo modale adecuado para esa funcion es 'need to' y no 'must'."
+        },
+        {
+          "letter": "C",
+          "text": "need",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Need' sin 'to' no funciona como modal de necesidad, porque solo el sustantivo 'need' significa 'necesidad'."
+        },
+        {
+          "letter": "D",
+          "text": "must to",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Must' no lleva 'to' detras, de modo que la estructura con 'to' despues del modal es incorrecta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Need to' y 'must' expresan necesidad y son intercambiables en presente. La diferencia aparece en el pasado: 'need to' conserva la estructura normal del verbo y 'must' pasa a 'had to' para hablar del pasado.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle-v18",
+      "statement": "Which sentence expresses a less certain supposition?",
+      "context": "Modal verbs for supposition and deduction, Naguabo, grado 11, W11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He must have lost the keys somewhere.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Must have' expresa una conclusion casi segura y no una suposicion dudosa."
+        },
+        {
+          "letter": "B",
+          "text": "He should have lost the keys somewhere.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Should have' expresa una recomendacion incumplida y no una deduccion sobre el pasado."
+        },
+        {
+          "letter": "C",
+          "text": "He can't have lost the keys somewhere.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Can't have' descarta una posibilidad en lugar de plantear una suposicion posible."
+        },
+        {
+          "letter": "D",
+          "text": "He may have lost the keys somewhere.",
+          "is_correct": true,
+          "feedback": "Correcto. 'May have' mas participio expresa una suposicion posible pero no confirmada sobre el pasado."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los verbos modales ordenan el grado de certeza: 'must have' indica una conclusion muy probable, 'may have' o 'might have' una posibilidad abierta y 'can't have' descarta una posibilidad sobre el pasado.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -728,131 +818,41 @@
       "country": "pr"
     },
     {
-      "id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "'budget' is an estimate of income and expenditure planned for a set period."
-        },
-        {
-          "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "'expense' is a single amount of money that is spent, not the plan for a whole period."
-        },
-        {
-          "letter": "C",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "'cost' is what one item or one service costs, again not an estimate for a period."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "'price' is the sum a customer pays for one product; a budget covers income and spending together."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle",
-      "periodo": 11,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pr"
-    },
-    {
-      "id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium."
-        },
-        {
-          "letter": "A",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge."
-        },
-        {
-          "letter": "C",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "'guarantee' is a general promise of quality and does not involve paying a premium."
-        },
-        {
-          "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "'policy' is the written document that states what an insurance contract covers."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle",
-      "periodo": 11,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pr"
-    },
-    {
       "id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'When the storm reached the coast, the residents ____ (not / have) to evacuate.'",
+      "context": "Modal verbs for obligation with had to, Hatillo, grado 11, W11.",
       "options": [
         {
-          "letter": "D",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "'vaccination' is the treatment with a vaccine that makes the body immune to a disease."
-        },
-        {
           "letter": "A",
-          "text": "medication",
+          "text": "mustn't have",
           "is_correct": false,
-          "feedback": "'medication' is a drug taken to treat an illness, not to prevent one."
+          "feedback": "Incorrecto. 'Mustn't have' expresa una prohibicion pasada, que no es el sentido de esta frase."
         },
         {
           "letter": "B",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "'prescription' is the written order that authorises a medicine, not the treatment itself."
+          "text": "didn't have to",
+          "is_correct": true,
+          "feedback": "Correcto. 'Didn't have to' indica que la obligacion de evacuar llego tarde y por eso no se aplico."
         },
         {
           "letter": "C",
-          "text": "infection",
+          "text": "shouldn't have",
           "is_correct": false,
-          "feedback": "'infection' is the disease itself, the opposite of the protection a vaccination gives."
+          "feedback": "Incorrecto. 'Shouldn't have' significa que no era evacuar y no fue necesario, en lugar de indicar que llego tarde."
+        },
+        {
+          "letter": "D",
+          "text": "had to not",
+          "is_correct": false,
+          "feedback": "Incorrecto. La negacion del pasado de 'have to' se forma con 'didn't', no colocando 'not' detras de 'had to'."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "B",
+      "explanation": "Los verbos modales ordenan el grado de certeza: 'must have' indica una conclusion muy probable, 'may have' o 'might have' una posibilidad abierta y 'can't have' descarta una posibilidad sobre el pasado.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle",
       "periodo": 11,
@@ -864,40 +864,40 @@
     },
     {
       "id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is correct?",
+      "context": "Modal verbs for obligation and advice, Yabucoa, grado 11, W11.",
       "options": [
         {
           "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight."
+          "text": "Students don't should use their phones during class.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un modal nunca va despues de 'do not', porque el modal ya forma la negacion."
         },
         {
           "letter": "B",
-          "text": "fatigue",
+          "text": "Students should not to use their phones during class.",
           "is_correct": false,
-          "feedback": "'fatigue' is tiredness that can come from any long effort, not specifically from a flight."
+          "feedback": "Incorrecto. No se anade 'to' entre el modal y el verbo principal."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep."
+          "text": "Students shouldn't use their phones during class.",
+          "is_correct": true,
+          "feedback": "Correcto. 'Shouldn't' expresa una recomendacion en contra de una accion, sin llegar a la prohibicion."
         },
         {
           "letter": "D",
-          "text": "insomnia",
+          "text": "Students should using their phones during class.",
           "is_correct": false,
-          "feedback": "'insomnia' is the inability to fall asleep, which has many causes besides travel."
+          "feedback": "Incorrecto. Detras de 'should' el verbo va en forma base 'use' y no en gerundio 'using'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "'Shouldn't' es el modal de la recomendacion negativa y se coloca directamente delante de la forma base. La combinacion con 'do not' y con 'to' entre el modal y el verbo son errores que el validador detecta en cualquier examen de la unidad.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle",
       "periodo": 11,

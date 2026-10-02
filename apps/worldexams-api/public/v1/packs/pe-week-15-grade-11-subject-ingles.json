@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'Would you like ___ coffee?'",
+      "context": "A student offers you something you may or may not want.",
       "options": [
         {
-          "letter": "D",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "'accommodation' is the word for a place where you live or stay, including on holiday."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "'transportation' means the way you travel, such as buses or planes, not where you stay."
+          "text": "some",
+          "is_correct": true,
+          "feedback": "Correct. 'Some' is used in offers and requests, where the speaker does not know whether the listener wants any."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "few",
           "is_correct": false,
-          "feedback": "'entertainment' is the activity of enjoying shows, films or games, not a place to live."
+          "feedback": "Wrong. 'Few' is used with countable plurals and would be nonsense with coffee."
         },
         {
           "letter": "C",
-          "text": "currency",
+          "text": "much",
           "is_correct": false,
-          "feedback": "'currency' is the money of a country, such as the colon; a place to stay is not money."
+          "feedback": "Wrong. 'Much' is used mainly with uncountable nouns in negative and question contexts, not in offers."
+        },
+        {
+          "letter": "D",
+          "text": "a",
+          "is_correct": false,
+          "feedback": "Wrong. 'A' is a countable singular article and cannot modify the uncountable noun 'coffee'."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Some and any differ in expectation rather than in countability, and an offer or request takes some because a positive answer is anticipated.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -54,41 +54,41 @@
     },
     {
       "id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'How ___ do you need?' in a question about an uncountable amount.",
+      "context": "A shopkeeper asks about the amount a customer wants.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "'itinerary' is a detailed plan of a journey, listing the route and the stops along the way."
+          "text": "many",
+          "is_correct": false,
+          "feedback": "Wrong. 'How many' is used with countable plural nouns and would be wrong with an uncountable item."
         },
         {
           "letter": "B",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "text": "much",
+          "is_correct": true,
+          "feedback": "Correct. 'How much' is the question form used with uncountable nouns such as sugar or money."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "few",
           "is_correct": false,
-          "feedback": "'destination' is only the place you are going to; the plan of the route is the itinerary."
+          "feedback": "Wrong. 'How few' likewise asks about countable plurals and does not fit this noun."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "little",
           "is_correct": false,
-          "feedback": "'passport' is the travel document you show at the border, not the plan of a journey."
+          "feedback": "Wrong. 'How little' asks about the degree of a quality rather than the amount of a substance."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "How much and how many are fixed question phrases, and the choice between them depends on whether the noun is countable.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -99,41 +99,41 @@
     },
     {
       "id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'There are ___ students in the laboratory.'",
+      "context": "A teacher explains a countable quantity in the classroom.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "'destination' names the place a person or thing is going or being sent to."
+          "text": "much",
+          "is_correct": false,
+          "feedback": "Wrong. 'Much' also takes uncountable nouns in negative and question contexts."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "little",
           "is_correct": false,
-          "feedback": "'departure' is the action of leaving, not the place you leave for."
+          "feedback": "Wrong. 'Little' is used with uncountable nouns, and students are countable."
         },
         {
           "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching a place, not the place itself."
+          "text": "few",
+          "is_correct": true,
+          "feedback": "Correct. 'Few' is used with countable plural nouns and signals a small number."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "less",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, not the place at the end of it."
+          "feedback": "Wrong. 'Less' is the comparative of little and requires a comparison with something else."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "Few belongs to the countable family and little to the uncountable one, and mixing them up is a frequent learner error.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -144,40 +144,40 @@
     },
     {
       "id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly compares two quantities of fruit.",
+      "context": "Two shops compare their stock of fruit.",
       "options": [
         {
-          "letter": "D",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "'luggage' is the collective word for the suitcases and bags you pack for a trip."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "This shop has most fruit than the other one.",
           "is_correct": false,
-          "feedback": "'ticket' is the document you buy that admits you to the journey."
+          "feedback": "Wrong. 'Most' is the superlative and cannot be followed by 'than'."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "This shop has many fruit than the other one.",
           "is_correct": false,
-          "feedback": "'flight' is the plane or the scheduled trip itself, not the bags you carry."
+          "feedback": "Wrong. 'Many' cannot be used with an uncountable noun, and it does not compare by itself."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "This shop has more fruits than the other one.",
           "is_correct": false,
-          "feedback": "'reservation' is the booking you hold for a seat or a room."
+          "feedback": "Wrong. 'Fruits' is not standard English when referring to fruit in general, and countability rules out the plural here."
+        },
+        {
+          "letter": "D",
+          "text": "This shop has more fruit than the other one.",
+          "is_correct": true,
+          "feedback": "Correct. 'More' is the comparative form used with uncountable nouns, and fruit has no plural form."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "explanation": "Countability governs quantifier choice, so an uncountable noun such as fruit takes more and much rather than many and most.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-bundle",
       "periodo": 15,
@@ -189,40 +189,40 @@
     },
     {
       "id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the question: '___ bags do you have with you?'",
+      "context": "A traveller asks about the number of bags on a trip.",
       "options": [
         {
-          "letter": "B",
-          "text": "passenger",
+          "letter": "A",
+          "text": "How many",
           "is_correct": true,
-          "feedback": "'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew."
+          "feedback": "Correct. 'How many' is the question form used with countable plural nouns such as bags."
         },
         {
-          "letter": "A",
-          "text": "pedestrian",
+          "letter": "B",
+          "text": "How often",
           "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, not on a bus, a train or a plane."
+          "feedback": "Wrong. 'How often' asks about frequency, not about a number of items."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "How long",
           "is_correct": false,
-          "feedback": "'commuter' is someone who travels regularly between home and work, a narrower idea than passenger."
+          "feedback": "Wrong. 'How long' asks about duration or length."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "How much",
           "is_correct": false,
-          "feedback": "'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew."
+          "feedback": "Wrong. 'How much' is for uncountable nouns and would be wrong with the plural 'bags'."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "English has separate question forms for number, quantity, duration and frequency, and only how many counts discrete items.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-bundle",
       "periodo": 15,
@@ -234,41 +234,41 @@
     },
     {
       "id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the negative sentence using the correct quantifier.",
+      "context": "A sentence reports that nothing is available.",
       "options": [
         {
-          "letter": "B",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "'customs' is the office where officials check the goods, the luggage and the travellers entering a country."
+          "letter": "A",
+          "text": "There isn't a bread left.",
+          "is_correct": false,
+          "feedback": "Wrong. 'A bread' treats an uncountable noun as countable, which is not possible."
         },
         {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "'security' refers to the staff and the measures that keep the airport safe, not to the goods check."
+          "letter": "B",
+          "text": "There isn't any bread left.",
+          "is_correct": true,
+          "feedback": "Correct. 'Any' is the standard negative quantifier with an uncountable noun and a singular subject such as there."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "There aren't any bread left.",
           "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for and board your flight."
+          "feedback": "Wrong. 'Aren't' does not agree with the singular existential subject 'there', and bread is uncountable."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "There isn't much bread left.",
           "is_correct": false,
-          "feedback": "'gate' is the door you board the plane through, not the place where officials check luggage."
+          "feedback": "Wrong. 'Much' in a negative sentence is possible, but 'any' is the general form and fits an indefinite reference better."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "In negative existential sentences, any is the usual quantifier and the auxiliary agrees with the singular subject there.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -279,41 +279,41 @@
     },
     {
       "id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the statement that correctly explains the use of 'some' in a question.",
+      "context": "A grammarian explains an exception to the some and any rule.",
       "options": [
         {
-          "letter": "B",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "'boarding pass' is the slip the airline hands over at check-in that lets you board the plane."
+          "letter": "A",
+          "text": "'Some' appears in questions whenever the noun is uncountable, regardless of the speaker's expectations.",
+          "is_correct": false,
+          "feedback": "Wrong. Countability is not the trigger; expectation and the speech act are what decide between some and any."
         },
         {
-          "letter": "A",
-          "text": "visa",
+          "letter": "B",
+          "text": "'Some' can never appear in a question under any circumstances, because questions always take 'any'.",
           "is_correct": false,
-          "feedback": "'visa' is the official permission to enter and stay in a foreign country."
+          "feedback": "Wrong. The claim is too absolute, because asking for some is perfectly normal when the answer is expected."
         },
         {
           "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "'receipt' is the proof of payment for the ticket, not the document that lets you board."
+          "text": "'Some' can appear in a question when the speaker expects the answer to be yes, or when offering something.",
+          "is_correct": true,
+          "feedback": "Correct. This accounts for both the expectation and the offering reading, which are the two accepted exceptions."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "'Some' in a question always indicates doubt about whether the listener can pay.",
           "is_correct": false,
-          "feedback": "'brochure' is a small booklet with tourist information, not a travel document."
+          "feedback": "Wrong. There is no fixed link between some and any question about payment."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "The choice between some and any is driven by speaker expectation and speech act, so the rule has recognised exceptions.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -324,41 +324,41 @@
     },
     {
       "id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly states that every student submitted the work.",
+      "context": "An exercise tests the distinction between all, every and each.",
       "options": [
         {
-          "letter": "C",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "'sightseeing' is visiting the places of interest of a location in order to look at them."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
+          "text": "Each of the work submitted the students.",
           "is_correct": false,
-          "feedback": "'shopping' is buying things, which is a different activity from visiting sights."
+          "feedback": "Wrong. 'Each of' modifies a singular noun and cannot be inverted with the objects in this way."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "Every of the students submitted the work.",
           "is_correct": false,
-          "feedback": "'hiking' is walking in the countryside along a trail, usually for exercise."
+          "feedback": "Wrong. 'Every' is never followed by 'of' in this construction; it takes a singular noun directly."
+        },
+        {
+          "letter": "C",
+          "text": "All of the student submitted the work.",
+          "is_correct": false,
+          "feedback": "Wrong. 'The student' is singular and does not agree with 'all of', which requires a plural noun."
         },
         {
           "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "'camping' means spending the night outdoors in a tent."
+          "text": "All of the students submitted the work.",
+          "is_correct": true,
+          "feedback": "Correct. 'All of the' is followed by a plural noun with the definite article, which matches the sentence structure."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "All of takes a plural noun with the article, while every takes a singular noun and cannot be followed by of.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly advertises a small quantity.",
+      "context": "A shop advertises a limited quantity of stock.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
+          "text": "Only a few tickets are left.",
           "is_correct": true,
-          "feedback": "'souvenir' is an object kept because it reminds you of a person, a place or an event."
+          "feedback": "Correct. 'A few' is used with countable plural nouns and correctly agrees with the plural verb 'are'."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "Only a few ticket are left.",
           "is_correct": false,
-          "feedback": "'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder."
+          "feedback": "Wrong. 'Ticket' is singular and does not agree with 'are' or with the determiner 'a few'."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "Only few tickets are left.",
           "is_correct": false,
-          "feedback": "'award' is a distinction given for a merit or an achievement."
+          "feedback": "Wrong. 'Only few' normally requires a determiner before 'few', and the article is needed here."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "Only a little tickets are left.",
           "is_correct": false,
-          "feedback": "'prize' is what is won in a competition, not an object bought to remember a trip."
+          "feedback": "Wrong. 'Little' is used with uncountable nouns and cannot modify the plural 'tickets'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
+      "explanation": "A few implies a small but positive quantity of countable items, which requires both the article and a plural noun.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly states a quantity of items in whole numbers.",
+      "context": "A report describes whole numbers as opposed to fractions.",
       "options": [
         {
-          "letter": "D",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "'delay' is the extra period of time by which something becomes late or is postponed."
-        },
-        {
           "letter": "A",
-          "text": "cancellation",
+          "text": "There were a number of complaint about the noise.",
           "is_correct": false,
-          "feedback": "'cancellation' ends the booking or the trip altogether rather than pushing it back."
+          "feedback": "Wrong. 'Complaint' is singular and does not agree with 'a number of', which requires a plural."
         },
         {
           "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is the time a vehicle is scheduled to leave, not a postponement."
+          "text": "There were a number of complaints about the noise.",
+          "is_correct": true,
+          "feedback": "Correct. 'A number of' takes a plural noun, and this construction conveys an unspecified but definite total."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "There were number of complaints about the noise.",
           "is_correct": false,
-          "feedback": "'arrival' is the moment you reach the destination, not the waiting time."
+          "feedback": "Wrong. 'Number of' without a determiner is not acceptable; a number of needs the article."
+        },
+        {
+          "letter": "D",
+          "text": "There were the number of complaints about the noise.",
+          "is_correct": false,
+          "feedback": "Wrong. 'The number of' refers to a specific number already known, which changes the meaning entirely."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "A number of and the number of are easy to confuse but differ in determinacy and in the information they convey.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -459,41 +459,41 @@
     },
     {
       "id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that uses quantifiers formally and correctly.",
+      "context": "A teacher writes a comment about an informal use of quantifiers.",
       "options": [
         {
-          "letter": "C",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "'check-in' is reporting your presence at the airport or the hotel and registering."
-        },
-        {
           "letter": "A",
-          "text": "check-out",
+          "text": "There is few time and there is little alternatives.",
           "is_correct": false,
-          "feedback": "'check-out' is the opposite moment: leaving the hotel and settling the bill."
+          "feedback": "Wrong. 'Few time' and 'little alternatives' invert the countability of both nouns."
         },
         {
           "letter": "B",
-          "text": "booking",
+          "text": "There is little times and there are few alternative.",
           "is_correct": false,
-          "feedback": "'booking' is reserving the room or the seat in advance, which happens before you arrive."
+          "feedback": "Wrong. 'Times' and 'alternative' wrongly pluralise nouns that belong to the opposite countability class."
+        },
+        {
+          "letter": "C",
+          "text": "There is little time and there are few alternatives.",
+          "is_correct": true,
+          "feedback": "Correct. Uncountable time takes 'little' with a singular verb and countable alternatives take 'few' with a plural verb."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "There are little time and there is few alternatives.",
           "is_correct": false,
-          "feedback": "'reservation' is the record of that booking, not the act of reporting your presence."
+          "feedback": "Wrong. 'Are little time' breaks subject-verb agreement and mixes up both quantifiers."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "When a sentence contains both countable and uncountable nouns, the quantifier and the verb number must match each noun separately.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -504,41 +504,41 @@
     },
     {
       "id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly expresses that nearly all members were present.",
+      "context": "A speaker qualifies a general statement with an exception.",
       "options": [
         {
-          "letter": "B",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "'layover' is the rest or the waiting period between two stages of a journey."
+          "letter": "A",
+          "text": "Almost all of came to the seminar.",
+          "is_correct": false,
+          "feedback": "Wrong. 'All of came' lacks the noun that 'all of' must refer to."
         },
         {
-          "letter": "A",
-          "text": "stopover",
+          "letter": "B",
+          "text": "Almost all student came to the seminar.",
           "is_correct": false,
-          "feedback": "'stopover' is a break in a journey during which you leave the vehicle, often overnight."
+          "feedback": "Wrong. 'Almost all student' omits the article that the construction requires."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "Almost all the student came to the seminar.",
           "is_correct": false,
-          "feedback": "'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time."
+          "feedback": "Wrong. 'All of the student' uses a singular noun, which does not agree with the quantifier."
         },
         {
           "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "'transit' means passage through a place or the system that carries people, not the pause itself."
+          "text": "Almost all the students came to the seminar.",
+          "is_correct": true,
+          "feedback": "Correct. 'All of' is followed by 'the students', giving the required plural noun with the definite article."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Nearly, almost, most and all are determiners that are followed by a determiner plus a correctly inflected noun.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -549,41 +549,41 @@
     },
     {
       "id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly uses a negative quantifier with a countable plural noun.",
+      "context": "An exercise examines quantifiers in negative contexts.",
       "options": [
         {
           "letter": "A",
-          "text": "currency",
+          "text": "I don't have many friends in this city.",
           "is_correct": true,
-          "feedback": "'currency' is the whole money system in general use in a particular country."
+          "feedback": "Correct. 'Many' is the normal negative or question quantifier with countable plural nouns."
         },
         {
           "letter": "B",
-          "text": "coin",
+          "text": "I don't have few friends in this city.",
           "is_correct": false,
-          "feedback": "'coin' is a single round piece of metal money, only one part of a currency."
+          "feedback": "Wrong. 'Few' in a negative context would mean almost none, which is a stronger and different claim."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "I don't have a many friends in this city.",
           "is_correct": false,
-          "feedback": "'banknote' is a paper note, again only one part of a country's money system."
+          "feedback": "Wrong. 'A many' places an article before a quantifier that does not take one."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "I don't have much friends in this city.",
           "is_correct": false,
-          "feedback": "'cash' is money in coins and notes seen as a form of payment, not the system a country has."
+          "feedback": "Wrong. 'Much' is reserved for uncountable nouns and cannot modify the plural 'friends'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "In negatives, many signals that the quantity is not large, whereas few signals that it is nearly zero, so they are not interchangeable.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -594,41 +594,41 @@
     },
     {
       "id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly uses the superlative of 'little'.",
+      "context": "A survey reports on participation across three groups.",
       "options": [
         {
-          "letter": "B",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "'guidebook' is a book of information about a place written for the use of visitors."
+          "letter": "A",
+          "text": "This group showed the less interest of the three.",
+          "is_correct": false,
+          "feedback": "Wrong. 'The less' is a comparative form and cannot compare three items at once."
         },
         {
-          "letter": "A",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "'map' is a drawing of the area, not a book of information."
+          "letter": "B",
+          "text": "This group showed the least interest of the three.",
+          "is_correct": true,
+          "feedback": "Correct. 'The least' is the superlative of little and correctly compares three groups using of rather than than."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "This group showed the least interest than the three.",
           "is_correct": false,
-          "feedback": "'dictionary' explains the words of a language, not the places of a region."
+          "feedback": "Wrong. A superlative takes of or in, not than, so 'than the three' is incorrect here."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "This group showed little interest of the three.",
           "is_correct": false,
-          "feedback": "'encyclopedia' covers all branches of knowledge, not one destination for tourists."
+          "feedback": "Wrong. 'Little' in its base form cannot carry the superlative sense on its own."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "Superlatives are followed by of or in, and the comparative of little with a negative sense would otherwise be expressed with the least.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -639,41 +639,41 @@
     },
     {
       "id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly uses 'fewer'.",
+      "context": "A reader asks why a text says 'fewer' rather than 'less'.",
       "options": [
         {
-          "letter": "D",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "'backpack' has shoulder straps and is carried on the back."
-        },
-        {
           "letter": "A",
-          "text": "suitcase",
+          "text": "There are fewer student this year than last year.",
           "is_correct": false,
-          "feedback": "'suitcase' is a case with a handle that is pulled along, not one worn on the back."
+          "feedback": "Wrong. 'Fewer student' is singular and fails to agree with 'there are'."
         },
         {
           "letter": "B",
-          "text": "briefcase",
+          "text": "There are less students this year than last year.",
           "is_correct": false,
-          "feedback": "'briefcase' is a flat case for documents that you carry by hand at work."
+          "feedback": "Wrong. 'Less' compares uncountable quantities and cannot modify the plural 'students'."
         },
         {
           "letter": "C",
-          "text": "handbag",
+          "text": "There are fewer students this year than last year.",
+          "is_correct": true,
+          "feedback": "Correct. 'Fewer' compares countable nouns, and students is a countable plural, so this is the correct choice."
+        },
+        {
+          "letter": "D",
+          "text": "There are the fewer students this year than last year.",
           "is_correct": false,
-          "feedback": "'handbag' is a small bag held in the hand, usually for personal items."
+          "feedback": "Wrong. 'The fewer' places an article before a comparative, which is not the standard form here."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "The distinction between fewer and less depends entirely on whether the noun being counted is countable or uncountable.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -684,41 +684,41 @@
     },
     {
       "id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly uses 'a little'.",
+      "context": "A grammar task tests a quantifier that means a limited amount of an uncountable noun.",
       "options": [
         {
-          "letter": "C",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "'overseas' means in or to a foreign country, especially one across the sea."
-        },
-        {
           "letter": "A",
-          "text": "domestic",
+          "text": "He spoke with a little of hesitation in his voice.",
           "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
+          "feedback": "Wrong. 'Of' cannot be inserted between 'a little' and the noun it quantifies."
         },
         {
           "letter": "B",
-          "text": "local",
+          "text": "He spoke with a few hesitation in his voice.",
           "is_correct": false,
-          "feedback": "'local' means belonging to a small area nearby, not to a foreign country."
+          "feedback": "Wrong. 'A few' takes countable plural nouns and does not fit hesitation."
+        },
+        {
+          "letter": "C",
+          "text": "He spoke with a little hesitations in his voice.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Hesitations' pluralises an uncountable noun, which is not permitted here."
         },
         {
           "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "'national' means concerning the whole nation and says nothing about being abroad."
+          "text": "He spoke with a little hesitation in his voice.",
+          "is_correct": true,
+          "feedback": "Correct. 'A little' takes an uncountable noun, and hesitation is uncountable in this meaning."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "A little and a few are the affirmative pair, and each one takes a noun from its own countability class.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -729,41 +729,41 @@
     },
     {
       "id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence states that almost no participants disagreed?",
+      "context": "A writing task asks the learner to choose the sentence with the strongest quantity claim.",
       "options": [
         {
-          "letter": "D",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "'budget' is an estimate of income and expenditure planned for a set period."
-        },
-        {
           "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "'expense' is a single amount of money that is spent, not the plan for a whole period."
+          "text": "Hardly any participants disagreed with the proposal.",
+          "is_correct": true,
+          "feedback": "Correct. 'Hardly any' combines the negative adverb with any to state that virtually nobody disagreed."
         },
         {
           "letter": "B",
-          "text": "cost",
+          "text": "Hardly the participants disagreed with the proposal.",
           "is_correct": false,
-          "feedback": "'cost' is what one item or one service costs, again not an estimate for a period."
+          "feedback": "Wrong. 'Hardly the participants' has no quantifier and does not express a quantity at all."
         },
         {
           "letter": "C",
-          "text": "price",
+          "text": "Hardly many participants disagreed with the proposal.",
           "is_correct": false,
-          "feedback": "'price' is the sum a customer pays for one product; a budget covers income and spending together."
+          "feedback": "Wrong. 'Hardly many' would be understood but 'hardly' plus many is not the idiomatic form for this claim."
+        },
+        {
+          "letter": "D",
+          "text": "Hardly a participant disagreed with the proposal.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Hardly a participant' is awkward and does not use a quantifier that suits a plural subject."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "Negated quantifiers express degrees of absence, and hardly any is the conventional way of saying almost none.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -774,41 +774,41 @@
     },
     {
       "id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the statement that accurately describes 'a few'.",
+      "context": "A linguistics exercise examines a quantifier exception.",
       "options": [
         {
-          "letter": "B",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium."
+          "letter": "A",
+          "text": "It means a large number and is used mainly in formal writing.",
+          "is_correct": false,
+          "feedback": "Wrong. 'A few' indicates a small number, not a large one, and it is common in everyday speech."
         },
         {
-          "letter": "A",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge."
+          "letter": "B",
+          "text": "It means a small number and implies that the number is positive, whereas 'few' implies that it is close to zero.",
+          "is_correct": true,
+          "feedback": "Correct. This captures the positive versus negative nuance that distinguishes a few from few."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "It is interchangeable with 'few' in every context.",
           "is_correct": false,
-          "feedback": "'guarantee' is a general promise of quality and does not involve paying a premium."
+          "feedback": "Wrong. The two forms differ in meaning and are not interchangeable, which is precisely why both exist."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "It is a determiner that can modify both countable and uncountable nouns.",
           "is_correct": false,
-          "feedback": "'policy' is the written document that states what an insurance contract covers."
+          "feedback": "Wrong. 'A few' takes countable plural nouns only."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "explanation": "English distinguishes a small positive number from a near-zero one, and the two articles plus quantifiers encode exactly that difference.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly uses 'every' with an uncountable noun.",
+      "context": "An exam tests quantifiers with universal time expressions.",
       "options": [
         {
-          "letter": "C",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "'vaccination' is the treatment with a vaccine that makes the body immune to a disease."
-        },
-        {
           "letter": "A",
-          "text": "medication",
+          "text": "The machine works everyday without stopping.",
           "is_correct": false,
-          "feedback": "'medication' is a drug taken to treat an illness, not to prevent one."
+          "feedback": "Wrong. 'Everyday' written as one word is an adjective meaning daily, not the determiner every plus day."
         },
         {
           "letter": "B",
-          "text": "prescription",
+          "text": "The machine works every days without stopping.",
           "is_correct": false,
-          "feedback": "'prescription' is the written order that authorises a medicine, not the treatment itself."
+          "feedback": "Wrong. 'Every days' pluralises the noun, but every must be followed by a singular one."
+        },
+        {
+          "letter": "C",
+          "text": "The machine works every day without stopping.",
+          "is_correct": true,
+          "feedback": "Correct. 'Every day' takes a singular noun, so 'every day' is the correct pattern here."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "The machine works all day without stopping.",
           "is_correct": false,
-          "feedback": "'infection' is the disease itself, the opposite of the protection a vaccination gives."
+          "feedback": "Wrong. 'All day' means the entire duration and expresses duration rather than repeated frequency."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "explanation": "Every is a determiner that requires a singular countable noun, so the following noun can never be plural.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly limits the scope of the quantifier to a specific group.",
+      "context": "A grammar exercise examines quantifier scope.",
       "options": [
         {
-          "letter": "B",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight."
+          "letter": "A",
+          "text": "All of passed the students.",
+          "is_correct": false,
+          "feedback": "Wrong. 'All of passed' separates the quantifier from the noun it quantifies, which is not permitted."
         },
         {
-          "letter": "A",
-          "text": "fatigue",
+          "letter": "B",
+          "text": "All the students all passed the test.",
           "is_correct": false,
-          "feedback": "'fatigue' is tiredness that can come from any long effort, not specifically from a flight."
+          "feedback": "Wrong. Repeating 'all' across the verb and the noun is redundant and stylistically poor."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "All students passed the test.",
           "is_correct": false,
-          "feedback": "'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep."
+          "feedback": "Wrong. 'All students' is acceptable and often preferred, but it leaves the determiner structure implicit rather than marked."
         },
         {
           "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "'insomnia' is the inability to fall asleep, which has many causes besides travel."
+          "text": "All of the students passed the test.",
+          "is_correct": true,
+          "feedback": "Correct. 'All of the students' marks the plural noun explicitly with the article and gives the intended scope."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "Quantifier scope is marked structurally by keeping the quantifier adjacent to the noun it applies to, never by separating them.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W15-quantifiers-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",

@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the modal that expresses ability in the present.",
+      "context": "This task is really difficult. I ___ finish it before Friday.",
       "options": [
         {
-          "letter": "C",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "'accommodation' is the word for a place where you live or stay, including on holiday."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "'transportation' means the way you travel, such as buses or planes, not where you stay."
+          "text": "I can't finish it before Friday, so I need more time.",
+          "is_correct": true,
+          "feedback": "Correct! 'Can't' is the contracted negative of 'cannot' and is followed by the base form of the verb."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "I not can finish it before Friday, so I need more time.",
           "is_correct": false,
-          "feedback": "'entertainment' is the activity of enjoying shows, films or games, not a place to live."
+          "feedback": "A modal verb is already negative in form, so 'not' cannot be placed in front of it."
+        },
+        {
+          "letter": "C",
+          "text": "I can't to finish it before Friday, so I need more time.",
+          "is_correct": false,
+          "feedback": "'Can't to' adds an infinitive marker that never follows a modal; modals are always followed by the base form."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "I am can finish it before Friday, so I need more time.",
           "is_correct": false,
-          "feedback": "'currency' is the money of a country, such as the colon; a place to stay is not money."
+          "feedback": "'Am can' combines two auxiliaries that cannot appear together in the same verb phrase."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "The modals 'can', 'could', 'may', 'might', 'must', 'should' and 'will' are followed by the base form of the verb with no infinitive marker and no ending. They are already negative in their contracted forms, which is why 'can not' never appears beside 'not'.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -54,81 +54,36 @@
     },
     {
       "id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the modal that expresses past ability.",
+      "context": "When I was ten, I ___ swim across the river, but now I can't.",
       "options": [
         {
-          "letter": "B",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "'itinerary' is a detailed plan of a journey, listing the route and the stops along the way."
+          "letter": "A",
+          "text": "When I was ten, I was could swim across the river.",
+          "is_correct": false,
+          "feedback": "'Was could' combines the auxiliary 'was' with the modal 'could', which is not a valid combination."
         },
         {
-          "letter": "A",
-          "text": "baggage",
+          "letter": "B",
+          "text": "When I was ten, I can swim across the river.",
           "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "feedback": "'Can' describes a present ability, so it contradicts the later statement that the speaker cannot swim now."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "When I was ten, I could to swim across the river.",
           "is_correct": false,
-          "feedback": "'destination' is only the place you are going to; the plan of the route is the itinerary."
+          "feedback": "'Could to' needs the base form after the modal, so the correct form is 'could swim'."
         },
         {
           "letter": "D",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "'passport' is the travel document you show at the border, not the plan of a journey."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-bundle",
-      "periodo": 11,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "destination",
+          "text": "When I was ten, I could swim across the river.",
           "is_correct": true,
-          "feedback": "'destination' names the place a person or thing is going or being sent to."
-        },
-        {
-          "letter": "A",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is the action of leaving, not the place you leave for."
-        },
-        {
-          "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching a place, not the place itself."
-        },
-        {
-          "letter": "D",
-          "text": "journey",
-          "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, not the place at the end of it."
+          "feedback": "Correct! 'Could' is the past form of 'can' and describes an ability that existed in the past."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "'Could' is the past of 'can' and is used both for past ability and for polite requests in the present. It never takes an infinitive marker, so 'could to swim' is not English.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -143,173 +98,38 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v3",
+      "statement": "Complete the sentence with the modal that expresses prohibition.",
+      "context": "You ___ drive without a licence; the police will fine you if they catch you.",
       "options": [
         {
-          "letter": "C",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "'luggage' is the collective word for the suitcases and bags you pack for a trip."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "You must not to drive without a licence.",
           "is_correct": false,
-          "feedback": "'ticket' is the document you buy that admits you to the journey."
+          "feedback": "'Must not to' adds an infinitive marker that never follows a modal verb."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "You must not drive without a licence.",
+          "is_correct": true,
+          "feedback": "Correct! 'Must not' expresses a prohibition, which is the opposite of the obligation carried by 'must' alone."
+        },
+        {
+          "letter": "C",
+          "text": "You not must drive without a licence.",
           "is_correct": false,
-          "feedback": "'flight' is the plane or the scheduled trip itself, not the bags you carry."
+          "feedback": "'Not must' places 'not' before the modal, but a modal already carries its own negation with 'must not'."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "You must driving without a licence.",
           "is_correct": false,
-          "feedback": "'reservation' is the booking you hold for a seat or a room."
+          "feedback": "'Must driving' needs the base form after the modal, so the correct form is 'must not drive'."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "'Must' expresses strong obligation, 'must not' expresses a total prohibition and 'don't have to' expresses the absence of any obligation. Confusing the last two is the most frequent error with this trio.\n---",
       "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-bundle",
-      "periodo": 11,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew."
-        },
-        {
-          "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, not on a bus, a train or a plane."
-        },
-        {
-          "letter": "B",
-          "text": "commuter",
-          "is_correct": false,
-          "feedback": "'commuter' is someone who travels regularly between home and work, a narrower idea than passenger."
-        },
-        {
-          "letter": "C",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-bundle",
-      "periodo": 11,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "'customs' is the office where officials check the goods, the luggage and the travellers entering a country."
-        },
-        {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "'security' refers to the staff and the measures that keep the airport safe, not to the goods check."
-        },
-        {
-          "letter": "B",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for and board your flight."
-        },
-        {
-          "letter": "C",
-          "text": "gate",
-          "is_correct": false,
-          "feedback": "'gate' is the door you board the plane through, not the place where officials check luggage."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-bundle",
-      "periodo": 11,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "'boarding pass' is the slip the airline hands over at check-in that lets you board the plane."
-        },
-        {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "'visa' is the official permission to enter and stay in a foreign country."
-        },
-        {
-          "letter": "B",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "'receipt' is the proof of payment for the ticket, not the document that lets you board."
-        },
-        {
-          "letter": "C",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "'brochure' is a small booklet with tourist information, not a travel document."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -323,38 +143,218 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v4",
+      "statement": "Choose the correct form of the polite request.",
+      "context": "Could you open the window? It's very hot in here.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "'sightseeing' is visiting the places of interest of a location in order to look at them."
+          "text": "Could you open the window? No, you could not.",
+          "is_correct": false,
+          "feedback": "The second line turns the request into a statement about an impossibility and does not answer the question."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "Could you opening the window, please?",
           "is_correct": false,
-          "feedback": "'shopping' is buying things, which is a different activity from visiting sights."
+          "feedback": "'Could you opening' needs the base form after the modal, so the correct form is 'could you open'."
         },
         {
           "letter": "C",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "'hiking' is walking in the countryside along a trail, usually for exercise."
+          "text": "Could you open the window, please?",
+          "is_correct": true,
+          "feedback": "Correct! 'Could you' is the most polite way to ask for something, and the modal is followed by the base form."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "Can you opened the window, please?",
           "is_correct": false,
-          "feedback": "'camping' means spending the night outdoors in a tent."
+          "feedback": "'Can you opened' places a past participle after 'can', which is not the form a modal requires."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Requests are made polite by using 'could', 'would' or 'might' together with 'you' and the base form. 'Could you send me the file?' is the standard polite version of 'Can you send me the file?' in both speech and writing.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v5",
+      "statement": "Complete the sentence with the modal that expresses a strong possibility in the present.",
+      "context": "It's raining and we have no umbrella. We ___ walk home.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "We might have to walk home if it keeps raining.",
+          "is_correct": true,
+          "feedback": "Correct! 'Might' plus 'have to' reports a possible obligation in the future, which fits the situation described."
+        },
+        {
+          "letter": "B",
+          "text": "We might has to walk home if it keeps raining.",
+          "is_correct": false,
+          "feedback": "'Might has' mixes a modal with another auxiliary; 'might' already carries the modal meaning on its own."
+        },
+        {
+          "letter": "C",
+          "text": "We might to walk home if it keeps raining.",
+          "is_correct": false,
+          "feedback": "'Might to' adds an infinitive marker that never follows a modal verb."
+        },
+        {
+          "letter": "D",
+          "text": "We are might to walk home if it keeps raining.",
+          "is_correct": false,
+          "feedback": "'Are might' combines the auxiliary 'are' with the modal 'might', which is not grammatical in English."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "'Might', 'may' and 'could' all express possibility, and each one can be followed by another verb phrase such as 'have to go', 'be late' or 'need to leave'. A modal of possibility combined with an obligation modal is a frequent construction in spoken English.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v6",
+      "statement": "Choose the modal that expresses the speaker's opinion about what is necessary.",
+      "context": "We have to be there by eight, so we really ___ leave now.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "We really should leaving now, because we have to be there by eight.",
+          "is_correct": false,
+          "feedback": "'Should leaving' needs the base form after the modal rather than the -ing form."
+        },
+        {
+          "letter": "B",
+          "text": "We really should to leave now, because we have to be there by eight.",
+          "is_correct": false,
+          "feedback": "'Should to' needs the base form after the modal, so the correct form is 'should leave'."
+        },
+        {
+          "letter": "C",
+          "text": "We really should leave now, because we have to be there by eight.",
+          "is_correct": true,
+          "feedback": "Correct! 'Should' expresses advice based on the situation, while 'have to' states the external requirement."
+        },
+        {
+          "letter": "D",
+          "text": "We really are should leave now, because we have to be there by eight.",
+          "is_correct": false,
+          "feedback": "'Are should' combines the auxiliary 'are' with the modal 'should', which is not a valid combination."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Should' gives advice, 'must' and 'have to' give rules or requirements and 'ought to' is a formal alternative to 'should'. All of them are followed by the base form of the verb.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v7",
+      "statement": "Choose the modal that expresses a formal obligation in written rules.",
+      "context": "The instructions say that we ___ use the laboratory without a supervisor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "We must to not use the laboratory without a supervisor.",
+          "is_correct": false,
+          "feedback": "'Must to not' inserts a second infinitive marker after the modal, which is not English."
+        },
+        {
+          "letter": "B",
+          "text": "We must not using the laboratory without a supervisor.",
+          "is_correct": false,
+          "feedback": "'Must not using' needs the base form after the modal, so the correct form is 'must not use'."
+        },
+        {
+          "letter": "C",
+          "text": "We not must use the laboratory without a supervisor.",
+          "is_correct": false,
+          "feedback": "'Not must' places 'not' before the modal, which is not how English forms a negative with modals."
+        },
+        {
+          "letter": "D",
+          "text": "We must not use the laboratory without a supervisor.",
+          "is_correct": true,
+          "feedback": "Correct! 'Must not' states a formal prohibition written in the rules of the laboratory."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Written instructions and regulations are usually expressed with 'must', 'must not' and 'should'. These modals describe obligations that come from outside the speaker, unlike 'can' and 'might', which describe possibility.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v8",
+      "statement": "Choose the modal that expresses a possible situation that the speaker cannot confirm.",
+      "context": "I'm not sure, but she ___ be at home now; her car is in the driveway.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She may being at home now, because her car is in the driveway.",
+          "is_correct": false,
+          "feedback": "'May being' needs the base form after the modal, so the correct form is 'may be'."
+        },
+        {
+          "letter": "B",
+          "text": "She may be at home now, because her car is in the driveway.",
+          "is_correct": true,
+          "feedback": "Correct! 'May be' expresses a possibility that the speaker cannot confirm, and the evidence supports it."
+        },
+        {
+          "letter": "C",
+          "text": "She may to be at home now, because her car is in the driveway.",
+          "is_correct": false,
+          "feedback": "'May to be' adds an infinitive marker that never follows a modal verb."
+        },
+        {
+          "letter": "D",
+          "text": "She is may be at home now, because her car is in the driveway.",
+          "is_correct": false,
+          "feedback": "'Is may' combines the auxiliary 'is' with the modal 'may', which is not grammatical in English."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'May', 'might' and 'could' all express uncertainty about a present situation. 'May' is the most formal of the three, 'might' is the most common in speech and 'could' is often used for a possibility the speaker would rather not think about.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -369,217 +369,37 @@
     },
     {
       "id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the modal that expresses obligation deduced from the situation.",
+      "context": "The plane will take off in twenty minutes. We ___ go to the gate now.",
       "options": [
         {
-          "letter": "D",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "'souvenir' is an object kept because it reminds you of a person, a place or an event."
-        },
-        {
           "letter": "A",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder."
+          "text": "We must go to the gate now, because the flight is about to leave.",
+          "is_correct": true,
+          "feedback": "Correct! 'Must' expresses the strong deduction that the situation leaves no other possibility."
         },
         {
           "letter": "B",
-          "text": "award",
+          "text": "We must going to the gate now, because the flight is about to leave.",
           "is_correct": false,
-          "feedback": "'award' is a distinction given for a merit or an achievement."
+          "feedback": "'Must going' needs the base form after the modal, so the correct form is 'must go'."
         },
         {
           "letter": "C",
-          "text": "prize",
+          "text": "We must to go to the gate now, because the flight is about to leave.",
           "is_correct": false,
-          "feedback": "'prize' is what is won in a competition, not an object bought to remember a trip."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-bundle",
-      "periodo": 11,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "'delay' is the extra period of time by which something becomes late or is postponed."
-        },
-        {
-          "letter": "A",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "'cancellation' ends the booking or the trip altogether rather than pushing it back."
-        },
-        {
-          "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is the time a vehicle is scheduled to leave, not a postponement."
+          "feedback": "'Must to' adds an infinitive marker that never follows a modal verb."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "We musts go to the gate now, because the flight is about to leave.",
           "is_correct": false,
-          "feedback": "'arrival' is the moment you reach the destination, not the waiting time."
+          "feedback": "'Musts' is not a form of the modal; the third person singular of 'must' is the same 'must'."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-bundle",
-      "periodo": 11,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "'check-in' is reporting your presence at the airport or the hotel and registering."
-        },
-        {
-          "letter": "A",
-          "text": "check-out",
-          "is_correct": false,
-          "feedback": "'check-out' is the opposite moment: leaving the hotel and settling the bill."
-        },
-        {
-          "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "'booking' is reserving the room or the seat in advance, which happens before you arrive."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "'reservation' is the record of that booking, not the act of reporting your presence."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-bundle",
-      "periodo": 11,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "'layover' is the rest or the waiting period between two stages of a journey."
-        },
-        {
-          "letter": "A",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "'stopover' is a break in a journey during which you leave the vehicle, often overnight."
-        },
-        {
-          "letter": "C",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "'transit' means passage through a place or the system that carries people, not the pause itself."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-bundle",
-      "periodo": 11,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "'currency' is the whole money system in general use in a particular country."
-        },
-        {
-          "letter": "A",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "'coin' is a single round piece of metal money, only one part of a currency."
-        },
-        {
-          "letter": "B",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "'banknote' is a paper note, again only one part of a country's money system."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "'cash' is money in coins and notes seen as a form of payment, not the system a country has."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "A",
+      "explanation": "'Must' has two uses: strong obligation and strong deduction about what is certainly true. In both cases it is followed by the base form and never changes for the third person singular.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -593,38 +413,218 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v10",
+      "statement": "Complete the sentence with the modal that expresses a clear prohibition.",
+      "context": "You ___ touch the paintings; some of them are two hundred years old.",
       "options": [
         {
-          "letter": "B",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "'guidebook' is a book of information about a place written for the use of visitors."
+          "letter": "A",
+          "text": "You must not to touch the paintings.",
+          "is_correct": false,
+          "feedback": "'Must not to' adds an infinitive marker that never follows a modal verb."
         },
         {
-          "letter": "A",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "'map' is a drawing of the area, not a book of information."
+          "letter": "B",
+          "text": "You must not touch the paintings.",
+          "is_correct": true,
+          "feedback": "Correct! 'Must not' expresses a total prohibition, which is what the age of the paintings requires."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "You not must touch the paintings.",
           "is_correct": false,
-          "feedback": "'dictionary' explains the words of a language, not the places of a region."
+          "feedback": "'Not must' places 'not' before the modal, but the negative form of 'must' is 'must not'."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "You must touches the paintings.",
           "is_correct": false,
-          "feedback": "'encyclopedia' covers all branches of knowledge, not one destination for tourists."
+          "feedback": "'Must touches' carries the third person ending after the modal, which is never the case in English."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "'Must not' is the strongest prohibition available and is used in warnings, signs and instructions. For a softer version, 'shouldn't' or 'better not' can be used instead, all with the base form of the verb.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v11",
+      "statement": "Choose the modal that expresses a deduction based on evidence.",
+      "context": "He studied medicine, so he ___ be able to help with that injury.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He musts be able to help, because he studied medicine.",
+          "is_correct": false,
+          "feedback": "'Musts' is not a form of the modal; 'must' is identical for every person of the present."
+        },
+        {
+          "letter": "B",
+          "text": "He must be able to helping, because he studied medicine.",
+          "is_correct": false,
+          "feedback": "'Must be helping' is the past continuous plus a modal and does not express a deduction about ability."
+        },
+        {
+          "letter": "C",
+          "text": "He must to be able to help, because he studied medicine.",
+          "is_correct": false,
+          "feedback": "'Must to be' adds an infinitive marker that never follows a modal verb."
+        },
+        {
+          "letter": "D",
+          "text": "He must be able to help, because he studied medicine.",
+          "is_correct": true,
+          "feedback": "Correct! 'Must be' expresses a deduction that follows logically from the study he completed."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "A deduction with 'must' is followed by the base form, so the verb that comes next may itself be a form of 'be': he must be tired, he must be at home, she must be reading. The evidence in the sentence makes the conclusion strong.\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v12",
+      "statement": "Choose the modal that expresses a guess about a present situation.",
+      "context": "Where are the keys? They ___ be in my bag, but I can't find them.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They may to be in my bag, but I can't find them.",
+          "is_correct": false,
+          "feedback": "'May to be' adds an infinitive marker that never follows a modal verb."
+        },
+        {
+          "letter": "B",
+          "text": "They may being in my bag, but I can't find them.",
+          "is_correct": false,
+          "feedback": "'May being' needs the base form after the modal, so the correct form is 'may be'."
+        },
+        {
+          "letter": "C",
+          "text": "They may be in my bag, but I can't find them.",
+          "is_correct": true,
+          "feedback": "Correct! 'May be' presents a reasonable hypothesis about the present that the speaker cannot confirm."
+        },
+        {
+          "letter": "D",
+          "text": "They are may be in my bag, but I can't find them.",
+          "is_correct": false,
+          "feedback": "'Are may' combines the auxiliary 'are' with the modal 'may', which is not grammatical in English."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Hypotheses about the present are expressed with 'may', 'might' or 'could'. When the modal is followed by the verb 'to be', the sequence is 'may be', which is often heard as a single word in fast speech.\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v13",
+      "statement": "Choose the sentence that correctly reassures the listener with a modal.",
+      "context": "Don't worry about the exam. You ___ be able to do much better than you think.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You must be able to do much better than you think.",
+          "is_correct": true,
+          "feedback": "Correct! 'Must be able' expresses a confident prediction about what the listener is capable of doing."
+        },
+        {
+          "letter": "B",
+          "text": "You must being able to do much better than you think.",
+          "is_correct": false,
+          "feedback": "'Must being' needs the base form after the modal, so the correct form is 'must be'."
+        },
+        {
+          "letter": "C",
+          "text": "You must to be able to do much better than you think.",
+          "is_correct": false,
+          "feedback": "'Must to be' adds an infinitive marker that never follows a modal verb."
+        },
+        {
+          "letter": "D",
+          "text": "You must able to do much better than you think.",
+          "is_correct": false,
+          "feedback": "'Must able' is missing the verb 'be' between the modal and the adjective 'able'."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A modal is always followed by a verb, so 'must' requires 'be' before an adjective: it must be cold. Modal combinations such as 'must be able', 'should have' and 'can't have' are fixed phrases built with that same structure.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v14",
+      "statement": "Choose the modal that gives a strong recommendation.",
+      "context": "You have been working for nine hours. You ___ go home and rest now.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You had better going home and rest now.",
+          "is_correct": false,
+          "feedback": "'Had better going' needs the base form after the modal, so the correct form is 'had better go'."
+        },
+        {
+          "letter": "B",
+          "text": "You had better stay home and rest now.",
+          "is_correct": false,
+          "feedback": "'Stay home' is a different recommendation from going out; the situation calls for going home and resting, not for staying in."
+        },
+        {
+          "letter": "C",
+          "text": "You had better go home and rest now.",
+          "is_correct": true,
+          "feedback": "Correct! 'Had better' is the standard form for a strong recommendation and is followed by the base form."
+        },
+        {
+          "letter": "D",
+          "text": "You had better to going home and rest now.",
+          "is_correct": false,
+          "feedback": "'Better to going' mixes an infinitive marker with an -ing form, which is not a construction in English."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Had better' is used to warn somebody about the consequences of continuing: you had better leave now. It is followed by the base form and is slightly less strong than 'must' but stronger than 'should'.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -639,40 +639,40 @@
     },
     {
       "id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the modal that expresses a rule in an institutional notice.",
+      "context": "Visitors ___ use their own food in the dormitory; the kitchen is shared.",
       "options": [
         {
-          "letter": "D",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "'backpack' has shoulder straps and is carried on the back."
-        },
-        {
           "letter": "A",
-          "text": "suitcase",
+          "text": "Visitors must not using their own food in the dormitory.",
           "is_correct": false,
-          "feedback": "'suitcase' is a case with a handle that is pulled along, not one worn on the back."
+          "feedback": "'Must not using' needs the base form after the modal, so the correct form is 'must not use'."
         },
         {
           "letter": "B",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "'briefcase' is a flat case for documents that you carry by hand at work."
+          "text": "Visitors must not use their own food in the dormitory.",
+          "is_correct": true,
+          "feedback": "Correct! 'Must not' is the phrasing used in a formal notice to state a rule that is not permitted."
         },
         {
           "letter": "C",
-          "text": "handbag",
+          "text": "Visitors not must use their own food in the dormitory.",
           "is_correct": false,
-          "feedback": "'handbag' is a small bag held in the hand, usually for personal items."
+          "feedback": "'Not must' places 'not' in front of the modal instead of after it, which is not the word order of English."
+        },
+        {
+          "letter": "D",
+          "text": "Visitors must to not use their own food in the dormitory.",
+          "is_correct": false,
+          "feedback": "'Must to not' adds a second infinitive marker after the modal and is not grammatical."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "B",
+      "explanation": "Institutional English relies on 'must', 'must not' and 'should'. These modals are chosen by the writer according to how firm the rule is, and they never change form for the third person singular.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-bundle",
       "periodo": 11,
@@ -684,37 +684,172 @@
     },
     {
       "id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the modal that expresses an uncertain prediction about the weather.",
+      "context": "It ___ rain tomorrow, but I am not sure; the forecast is uncertain.",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "'overseas' means in or to a foreign country, especially one across the sea."
+          "text": "It might raining tomorrow, but I am not sure.",
+          "is_correct": false,
+          "feedback": "'Might raining' needs the base form after the modal, so the correct form is 'might rain'."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "It might rains tomorrow, but I am not sure.",
           "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
+          "feedback": "'Might rains' adds the third person ending, but after a modal the verb keeps its base form."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "It might to rain tomorrow, but I am not sure.",
           "is_correct": false,
-          "feedback": "'local' means belonging to a small area nearby, not to a foreign country."
+          "feedback": "'Might to rain' adds an infinitive marker that never follows a modal verb."
         },
         {
           "letter": "D",
-          "text": "national",
+          "text": "It might rain tomorrow, but I am not sure.",
+          "is_correct": true,
+          "feedback": "Correct! 'Might' plus the base form expresses a probable but uncertain prediction about tomorrow."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Weather predictions are frequently hedged with 'might', 'could' or 'may'. The choice between them depends on how confident the speaker is: 'will' for certainty, 'probably' for a firm expectation and 'might' for a real doubt.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v17",
+      "statement": "Choose the modal that explains a past success by an existing ability.",
+      "context": "She ___ speak three languages, which is why she got the job at the embassy.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She can speak three languages, which is why she got the job.",
+          "is_correct": true,
+          "feedback": "Correct! 'Can speak' expresses the ability that explains the success, and the verb stays in the base form."
+        },
+        {
+          "letter": "B",
+          "text": "She cans speak three languages, which is why she got the job.",
           "is_correct": false,
-          "feedback": "'national' means concerning the whole nation and says nothing about being abroad."
+          "feedback": "'Cans' is not a form of the modal; 'can' is identical for every person of the present."
+        },
+        {
+          "letter": "C",
+          "text": "She can to speak three languages, which is why she got the job.",
+          "is_correct": false,
+          "feedback": "'Can to speak' adds an infinitive marker that never follows a modal verb."
+        },
+        {
+          "letter": "D",
+          "text": "She can speaking three languages, which is why she got the job.",
+          "is_correct": false,
+          "feedback": "'Can speaking' needs the base form after the modal, so the correct form is 'can speak'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "'Can' describes ability in the present and 'could' describes ability in the past or a polite possibility. Neither takes the -s of the third person singular, because modals have no inflection for person or number.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v18",
+      "statement": "Choose the modal that expresses what the speaker expected in the past.",
+      "context": "You have been on the phone for an hour. You ___ have called me if you needed help.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You should have call me if you had needed help.",
+          "is_correct": false,
+          "feedback": "'Should have call' needs the past participle 'called' after 'should have'."
+        },
+        {
+          "letter": "B",
+          "text": "You should have called me if you had needed help.",
+          "is_correct": true,
+          "feedback": "Correct! 'Should have called' expresses an expectation about the past, and 'had needed' is the third form of 'need'."
+        },
+        {
+          "letter": "C",
+          "text": "You should called me if you had needed help.",
+          "is_correct": false,
+          "feedback": "'Should called' uses only two forms; the third form needs 'have' between the modal and the participle."
+        },
+        {
+          "letter": "D",
+          "text": "You should have to called me if you had needed help.",
+          "is_correct": false,
+          "feedback": "'Should have to called' adds an infinitive marker that never appears after 'have' in this structure."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Should have' plus the past participle criticises or advises about a past situation, while 'if you had needed' is the third form of 'need' and describes a situation that did not turn out to exist. Both forms appear together whenever the speaker is speculating about the past.\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v19",
+      "statement": "Choose the modal that reports an instruction in indirect speech.",
+      "context": "The manager said that all the students ___ submit the form before Friday.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The manager said that all the students must submitting the form before Friday.",
+          "is_correct": false,
+          "feedback": "'Must submitting' needs the base form after the modal, so the correct form is 'must submit'."
+        },
+        {
+          "letter": "B",
+          "text": "The manager said that all the students must submits the form before Friday.",
+          "is_correct": false,
+          "feedback": "'Must submits' adds the third person ending after a modal, which never happens in English."
+        },
+        {
+          "letter": "C",
+          "text": "The manager said that all the students must to submit the form before Friday.",
+          "is_correct": false,
+          "feedback": "'Must to submit' adds an infinitive marker that never follows a modal verb."
+        },
+        {
+          "letter": "D",
+          "text": "The manager said that all the students must submit the form before Friday.",
+          "is_correct": true,
+          "feedback": "Correct! 'Must submit' is the original instruction and it survives the change of speaker without any alteration."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Modals such as 'must', 'can' and 'will' do not change when a sentence is reported, because they carry meaning rather than time. What can change in indirect speech is the tense of ordinary verbs, as in 'he said he was tired'.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -728,173 +863,38 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "'budget' is an estimate of income and expenditure planned for a set period."
-        },
-        {
-          "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "'expense' is a single amount of money that is spent, not the plan for a whole period."
-        },
-        {
-          "letter": "B",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "'cost' is what one item or one service costs, again not an estimate for a period."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "'price' is the sum a customer pays for one product; a budget covers income and spending together."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-bundle",
-      "periodo": 11,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium."
-        },
-        {
-          "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge."
-        },
-        {
-          "letter": "C",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "'guarantee' is a general promise of quality and does not involve paying a premium."
-        },
-        {
-          "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "'policy' is the written document that states what an insurance contract covers."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-bundle",
-      "periodo": 11,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "'vaccination' is the treatment with a vaccine that makes the body immune to a disease."
-        },
-        {
-          "letter": "A",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "'medication' is a drug taken to treat an illness, not to prevent one."
-        },
-        {
-          "letter": "B",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "'prescription' is the written order that authorises a medicine, not the treatment itself."
-        },
-        {
-          "letter": "D",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "'infection' is the disease itself, the opposite of the protection a vaccination gives."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-bundle",
-      "periodo": 11,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
       "id": "EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that politely declines an offer with a modal.",
+      "context": "I'm afraid I ___ help you with the luggage; my bag is already full.",
       "options": [
         {
-          "letter": "C",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight."
-        },
-        {
           "letter": "A",
-          "text": "fatigue",
+          "text": "I'm afraid I can't to help you with the luggage; my bag is already full.",
           "is_correct": false,
-          "feedback": "'fatigue' is tiredness that can come from any long effort, not specifically from a flight."
+          "feedback": "'Can't to help' adds an infinitive marker that never follows a modal verb."
         },
         {
           "letter": "B",
-          "text": "exhaustion",
+          "text": "I'm afraid I not help you with the luggage; my bag is already full.",
           "is_correct": false,
-          "feedback": "'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep."
+          "feedback": "'Not help' places 'not' before the main verb, but a modal carries its own negation."
+        },
+        {
+          "letter": "C",
+          "text": "I'm afraid I can't help you with the luggage; my bag is already full.",
+          "is_correct": true,
+          "feedback": "Correct! 'I'm afraid I can't' is the standard polite way to decline, with the modal followed by the base form."
         },
         {
           "letter": "D",
-          "text": "insomnia",
+          "text": "I'm afraid I am not can help you with the luggage; my bag is already full.",
           "is_correct": false,
-          "feedback": "'insomnia' is the inability to fall asleep, which has many causes besides travel."
+          "feedback": "'Am not can' combines two auxiliaries and is not a grammatical structure in English."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "explanation": "Modal verbs make refusals sound softer because they frame the statement as a limitation rather than a decision. 'I can't', 'I am afraid I can't' and 'I'm afraid it's not possible' all decline without sounding abrupt.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",

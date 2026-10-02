@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the wish with the correct form of the verb 'know'.",
+      "context": "I wish I (know) the answer to this question.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
+          "text": "I wish I knew the answer to this question.",
           "is_correct": true,
-          "feedback": "'accommodation' is the word for a place where you live or stay, including on holiday."
+          "feedback": "Correct! 'Knew' is the past simple used after 'wish', because the wish concerns a situation in the present that is not real."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "I wish I know the answer to this question.",
           "is_correct": false,
-          "feedback": "'transportation' means the way you travel, such as buses or planes, not where you stay."
+          "feedback": "'Know' is the present simple and would describe a real situation rather than an unreal one."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "I wish I would know the answer to this question.",
           "is_correct": false,
-          "feedback": "'entertainment' is the activity of enjoying shows, films or games, not a place to live."
+          "feedback": "'Would know' places a modal after the subject, but 'wish' is normally followed by the past simple."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "I wish I knowing the answer to this question.",
           "is_correct": false,
-          "feedback": "'currency' is the money of a country, such as the colon; a place to stay is not money."
+          "feedback": "'Knowing' is an -ing form and needs the auxiliary 'were' before it, as in 'I wish I were knowing'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "explanation": "'Wish' about the present is followed by the past simple and 'would' that something were true: I wish I knew, she wishes she were taller. The tense is backshifted to show that the situation is not real.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -54,81 +54,36 @@
     },
     {
       "id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the wish with the correct form of the verb 'have'.",
+      "context": "He wishes he (have) more time to finish the project.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "'itinerary' is a detailed plan of a journey, listing the route and the stops along the way."
+          "text": "He wishes he having more time to finish the project.",
+          "is_correct": false,
+          "feedback": "'Having' needs the auxiliary 'were' before it, so the form would have to be 'he were having'."
         },
         {
           "letter": "B",
-          "text": "baggage",
+          "text": "He wishes he has more time to finish the project.",
           "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "feedback": "'Has' is the present simple and would describe a real amount of time rather than a wish about a larger amount."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "He wishes he would has more time to finish the project.",
           "is_correct": false,
-          "feedback": "'destination' is only the place you are going to; the plan of the route is the itinerary."
+          "feedback": "'Would has' combines a modal with a present form, which does not occur after 'wishes'."
         },
         {
           "letter": "D",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "'passport' is the travel document you show at the border, not the plan of a journey."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "destination",
+          "text": "He wishes he had more time to finish the project.",
           "is_correct": true,
-          "feedback": "'destination' names the place a person or thing is going or being sent to."
-        },
-        {
-          "letter": "A",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is the action of leaving, not the place you leave for."
-        },
-        {
-          "letter": "B",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching a place, not the place itself."
-        },
-        {
-          "letter": "D",
-          "text": "journey",
-          "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, not the place at the end of it."
+          "feedback": "Correct! 'Wishes he had' follows the standard pattern of a wish about the present, with 'had' after the subject."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "After 'wish', 'wishes' and 'if only', the past simple is used for situations in the present and the past perfect for situations in the past: I wish I had more time, I wish I had bought it earlier.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -143,173 +98,38 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v3",
+      "statement": "Complete the exclamation with 'if only' and the correct verb form.",
+      "context": "If only I (listen) to my parents more often!",
       "options": [
         {
-          "letter": "C",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "'luggage' is the collective word for the suitcases and bags you pack for a trip."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "If only I listen to my parents more often!",
           "is_correct": false,
-          "feedback": "'ticket' is the document you buy that admits you to the journey."
+          "feedback": "'Listen' is the present simple and would express a real possibility rather than an unreal regret."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "If only I listened to my parents more often!",
+          "is_correct": true,
+          "feedback": "Correct! 'If only' is followed by the past simple, expressing regret about a situation in the present that cannot now change."
+        },
+        {
+          "letter": "C",
+          "text": "If only I would listen to my parents more often!",
           "is_correct": false,
-          "feedback": "'flight' is the plane or the scheduled trip itself, not the bags you carry."
+          "feedback": "'Would listen' places a modal after the subject, but 'if only' is normally followed by the past simple."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "If only I am listening to my parents more often!",
           "is_correct": false,
-          "feedback": "'reservation' is the booking you hold for a seat or a room."
+          "feedback": "'Am listening' is a present continuous and describes what is happening now, not a wish about the past."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "'If only' expresses an intense unreal wish about the present, and it takes the past simple exactly like 'wish'. The phrase carries strong emotion, so it usually appears with an exclamation mark.\n---",
       "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew."
-        },
-        {
-          "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, not on a bus, a train or a plane."
-        },
-        {
-          "letter": "B",
-          "text": "commuter",
-          "is_correct": false,
-          "feedback": "'commuter' is someone who travels regularly between home and work, a narrower idea than passenger."
-        },
-        {
-          "letter": "D",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "'customs' is the office where officials check the goods, the luggage and the travellers entering a country."
-        },
-        {
-          "letter": "B",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "'security' refers to the staff and the measures that keep the airport safe, not to the goods check."
-        },
-        {
-          "letter": "C",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for and board your flight."
-        },
-        {
-          "letter": "D",
-          "text": "gate",
-          "is_correct": false,
-          "feedback": "'gate' is the door you board the plane through, not the place where officials check luggage."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "'boarding pass' is the slip the airline hands over at check-in that lets you board the plane."
-        },
-        {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "'visa' is the official permission to enter and stay in a foreign country."
-        },
-        {
-          "letter": "B",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "'receipt' is the proof of payment for the ticket, not the document that lets you board."
-        },
-        {
-          "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "'brochure' is a small booklet with tourist information, not a travel document."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -323,38 +143,218 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v4",
+      "statement": "Complete the wish with the correct negative form of 'say'.",
+      "context": "She wished she (not say) those words so harshly to her friend.",
       "options": [
         {
-          "letter": "B",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "'sightseeing' is visiting the places of interest of a location in order to look at them."
+          "letter": "A",
+          "text": "She wished she had not say those words so harshly.",
+          "is_correct": false,
+          "feedback": "'Had not say' uses the base form after 'had not'; that construction needs the past participle."
         },
         {
-          "letter": "A",
-          "text": "shopping",
+          "letter": "B",
+          "text": "She wished she did not say those words so harshly.",
           "is_correct": false,
-          "feedback": "'shopping' is buying things, which is a different activity from visiting sights."
+          "feedback": "'Did not say' is the past simple negative, which belongs to the third conditional rather than to a wish."
         },
         {
           "letter": "C",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "'hiking' is walking in the countryside along a trail, usually for exercise."
+          "text": "She wished she had not said those words so harshly.",
+          "is_correct": true,
+          "feedback": "Correct! 'Had not said' is the past perfect negative, which places the words before the moment of wishing."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "She wished she not had said those words so harshly.",
           "is_correct": false,
-          "feedback": "'camping' means spending the night outdoors in a tent."
+          "feedback": "'Not had' places 'not' in front of the auxiliary, but English forms the negative as 'had not'."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A wish about a regret in the past uses the past perfect: I wish I had known, he wished he had stayed. The negative is formed by placing 'not' after the auxiliary, giving 'had not said'.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v5",
+      "statement": "Complete the wish with the correct form of the verb 'be'.",
+      "context": "I wish my brother (be) more careful with his homework.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I wish my brother were more careful with his homework.",
+          "is_correct": true,
+          "feedback": "Correct! 'Were' is the subjunctive form used after 'wish' to describe a present quality that is not true."
+        },
+        {
+          "letter": "B",
+          "text": "I wish my brother was more careful with his homework.",
+          "is_correct": false,
+          "feedback": "'Was' is the past simple, which is the form used in a second conditional but not after 'wish' in standard English."
+        },
+        {
+          "letter": "C",
+          "text": "I wish my brother would be more careful with his homework.",
+          "is_correct": false,
+          "feedback": "'Would be' places a modal after the subject; a wish takes the past subjunctive instead."
+        },
+        {
+          "letter": "D",
+          "text": "I wish my brother be more careful with his homework.",
+          "is_correct": false,
+          "feedback": "'Be' is the bare infinitive and needs a past form before it in a wish about the present."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "After 'wish' the verb 'to be' takes the form 'were' with every subject: I wish it were cheaper, she wishes she were taller. This subjunctive form is the one clear sign that a wish concerns an unreal situation.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v6",
+      "statement": "Complete the sentence with the correct verb form.",
+      "context": "They had left before the party started, so we really (wish) they had stayed.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They had left before the party started, so we really wished they stay.",
+          "is_correct": false,
+          "feedback": "'Wished they stay' uses the present simple after the past tense of 'wish', which is not the correct backshift."
+        },
+        {
+          "letter": "B",
+          "text": "They had left before the party started, so we really wish they had stay.",
+          "is_correct": false,
+          "feedback": "'Had stay' uses the base form after 'had'; that construction needs the past participle."
+        },
+        {
+          "letter": "C",
+          "text": "They had left before the party started, so we really wish they had stayed.",
+          "is_correct": true,
+          "feedback": "Correct! 'Wish they had stayed' is the standard wish about a regret in the past, using 'had' plus the participle."
+        },
+        {
+          "letter": "D",
+          "text": "They had left before the party started, so we really wish they had been stay.",
+          "is_correct": false,
+          "feedback": "'Had been stay' uses a participle after 'been' where the wish needs the past perfect 'had stayed'."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The wish about the past follows the pattern 'wish' plus subject plus 'had' plus past participle: I wish I had come, we wish they had told us. The tense of 'wish' may be present or past without changing this structure.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v7",
+      "statement": "Complete the wish with the correct form of the modal 'can'.",
+      "context": "I wish I (can) drive, because I would like to travel on my own.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I wish I am can drive, because I would like to travel on my own.",
+          "is_correct": false,
+          "feedback": "'Am can' combines two auxiliaries, which is not a grammatical structure in English."
+        },
+        {
+          "letter": "B",
+          "text": "I wish I can drive, because I would like to travel on my own.",
+          "is_correct": false,
+          "feedback": "'Can' is the present form and would describe a real ability rather than an unreal wish."
+        },
+        {
+          "letter": "C",
+          "text": "I wish I would can drive, because I would like to travel on my own.",
+          "is_correct": false,
+          "feedback": "'Would can' combines two modals, and that combination does not exist in English."
+        },
+        {
+          "letter": "D",
+          "text": "I wish I could drive, because I would like to travel on my own.",
+          "is_correct": true,
+          "feedback": "Correct! 'Could' is the past form of 'can' used after 'wish', because the wish concerns an ability the speaker does not have."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Modal verbs are also backshifted after 'wish': can becomes could and will becomes would. 'I wish I could' and 'I wish I would' are among the most frequent wishes in spoken English.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v8",
+      "statement": "Complete the wish with the correct past simple of 'study'.",
+      "context": "He wishes he (study) more chemistry at school.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He wishes he study more chemistry at school.",
+          "is_correct": false,
+          "feedback": "'Study' is the base form and would describe a real wish about the present without backshift."
+        },
+        {
+          "letter": "B",
+          "text": "He wishes he studied more chemistry at school.",
+          "is_correct": true,
+          "feedback": "Correct! 'Studied' is the past simple with the consonant plus -y spelling rule, and it is the form a wish requires."
+        },
+        {
+          "letter": "C",
+          "text": "He wishes he would studied more chemistry at school.",
+          "is_correct": false,
+          "feedback": "'Would studied' places a modal before a past form, which never occurs after 'wishes'."
+        },
+        {
+          "letter": "D",
+          "text": "He wishes he studys more chemistry at school.",
+          "is_correct": false,
+          "feedback": "'Studys' adds the third person ending, but the past simple has no ending and no -s."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "Wishes take the past simple of the verb, and that past simple is spelled exactly as it would be in any past sentence: studied, worked, played. The only difference from a normal past sentence is the presence of 'wish' before it.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -369,217 +369,37 @@
     },
     {
       "id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "'souvenir' is an object kept because it reminds you of a person, a place or an event."
-        },
-        {
-          "letter": "A",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder."
-        },
-        {
-          "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "'award' is a distinction given for a merit or an achievement."
-        },
-        {
-          "letter": "D",
-          "text": "prize",
-          "is_correct": false,
-          "feedback": "'prize' is what is won in a competition, not an object bought to remember a trip."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "'delay' is the extra period of time by which something becomes late or is postponed."
-        },
-        {
-          "letter": "A",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "'cancellation' ends the booking or the trip altogether rather than pushing it back."
-        },
-        {
-          "letter": "C",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is the time a vehicle is scheduled to leave, not a postponement."
-        },
-        {
-          "letter": "D",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'arrival' is the moment you reach the destination, not the waiting time."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "'check-in' is reporting your presence at the airport or the hotel and registering."
-        },
-        {
-          "letter": "A",
-          "text": "check-out",
-          "is_correct": false,
-          "feedback": "'check-out' is the opposite moment: leaving the hotel and settling the bill."
-        },
-        {
-          "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "'booking' is reserving the room or the seat in advance, which happens before you arrive."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "'reservation' is the record of that booking, not the act of reporting your presence."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "'layover' is the rest or the waiting period between two stages of a journey."
-        },
-        {
-          "letter": "A",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "'stopover' is a break in a journey during which you leave the vehicle, often overnight."
-        },
-        {
-          "letter": "C",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "'transit' means passage through a place or the system that carries people, not the pause itself."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the wish with the correct negative past form of 'argue'.",
+      "context": "I wish we (not argue) about money every single month.",
       "options": [
         {
           "letter": "A",
-          "text": "currency",
+          "text": "I wish we did not argue about money every single month.",
           "is_correct": true,
-          "feedback": "'currency' is the whole money system in general use in a particular country."
+          "feedback": "Correct! 'Did not argue' is the negative past simple and is the form a wish about a present habit requires."
         },
         {
           "letter": "B",
-          "text": "coin",
+          "text": "I wish we not argued about money every single month.",
           "is_correct": false,
-          "feedback": "'coin' is a single round piece of metal money, only one part of a currency."
+          "feedback": "'Not argued' places 'not' before the verb, but English needs the auxiliary 'did' before the negation."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "I wish we did not arguing about money every single month.",
           "is_correct": false,
-          "feedback": "'banknote' is a paper note, again only one part of a country's money system."
+          "feedback": "'Did not arguing' uses the -ing form after 'did not', where the base form is required."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "I wish we are not argue about money every single month.",
           "is_correct": false,
-          "feedback": "'cash' is money in coins and notes seen as a form of payment, not the system a country has."
+          "feedback": "'Are not argue' mixes the auxiliary 'are' with a base form, which is not a valid structure."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "A negative wish about a present habit uses 'did not' plus the base form: I wish we didn't argue, he wishes he didn't smoke. The negative is carried by the auxiliary, so the verb loses its ending.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -593,38 +413,218 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v10",
+      "statement": "Complete the wish with the correct form of the verb 'work'.",
+      "context": "I wish my phone (work) properly; it keeps turning off by itself.",
       "options": [
         {
           "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "'guidebook' is a book of information about a place written for the use of visitors."
+          "text": "I wish my phone work properly; it keeps turning off.",
+          "is_correct": false,
+          "feedback": "'Work' is the base form and would describe a real situation rather than a wish."
         },
         {
           "letter": "B",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "'map' is a drawing of the area, not a book of information."
+          "text": "I wish my phone worked properly; it keeps turning off.",
+          "is_correct": true,
+          "feedback": "Correct! 'Worked' is the past simple after 'wish' and describes the situation the speaker is not living at present."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "I wish my phone would works properly; it keeps turning off.",
           "is_correct": false,
-          "feedback": "'dictionary' explains the words of a language, not the places of a region."
+          "feedback": "'Would works' mixes a modal with a present form, which never happens after 'wish'."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "I wish my phone working properly; it keeps turning off.",
           "is_correct": false,
-          "feedback": "'encyclopedia' covers all branches of knowledge, not one destination for tourists."
+          "feedback": "'Working' is an -ing form and needs the auxiliary 'were' before it."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The past simple after 'wish' describes a present situation as if it were different, which is why 'I wish my phone worked' means it does not work. The same tense is used for wishes about a person: I wish I lived nearer.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v11",
+      "statement": "Choose the sentence that correctly reports a wish with 'were'.",
+      "context": "She wished that everything (be) different when she was a student.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She wished that everything be different when she was a student.",
+          "is_correct": false,
+          "feedback": "'Be' is the bare infinitive and needs a past subjunctive before it in a wish."
+        },
+        {
+          "letter": "B",
+          "text": "She wished that everything was different when she was a student.",
+          "is_correct": false,
+          "feedback": "'Was' is the past simple, but a wish uses 'were' to describe the unreal situation of the past."
+        },
+        {
+          "letter": "C",
+          "text": "She wished that everything would be different when she was a student.",
+          "is_correct": false,
+          "feedback": "'Would be' places a modal in the that clause, which is not the structure of a wish."
+        },
+        {
+          "letter": "D",
+          "text": "She wished that everything were different when she was a student.",
+          "is_correct": true,
+          "feedback": "Correct! 'Wished that everything were' reports the wish with the subjunctive 'were', as a that clause requires."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "A 'wish that' clause takes the past simple, and with the verb 'to be' that form is 'were'. It is common in writing: he wished that he were taller, she wished that they were closer.\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v12",
+      "statement": "Complete the wish with the correct form of the verb 'tell'.",
+      "context": "I wish you (tell) me earlier when you change your plans.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I wish you would told me earlier when you change your plans.",
+          "is_correct": false,
+          "feedback": "'Would told' mixes a modal with a past form, which never occurs after 'wish'."
+        },
+        {
+          "letter": "B",
+          "text": "I wish you tell me earlier when you change your plans.",
+          "is_correct": false,
+          "feedback": "'Tell' is the base form and would describe a real request rather than an unreal wish."
+        },
+        {
+          "letter": "C",
+          "text": "I wish you told me earlier when you change your plans.",
+          "is_correct": true,
+          "feedback": "Correct! 'Told' is the irregular past simple required after 'wish', in the same sentence structure."
+        },
+        {
+          "letter": "D",
+          "text": "I wish you telling me earlier when you change your plans.",
+          "is_correct": false,
+          "feedback": "'Telling' is an -ing form and needs the auxiliary 'were' before it."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Irregular verbs take their own past simple after 'wish': told, knew, spoke, came. Those forms have to be memorised, because no rule produces them.\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v13",
+      "statement": "Complete the wish with the correct negative form of the verb 'drink'.",
+      "context": "He wishes he (not drink) so much coffee in the evening.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He wishes he did not drink so much coffee in the evening.",
+          "is_correct": true,
+          "feedback": "Correct! 'Did not drink' is the negative past simple and is the form a wish about a present habit takes."
+        },
+        {
+          "letter": "B",
+          "text": "He wished he not drank so much coffee in the evening.",
+          "is_correct": false,
+          "feedback": "'Not drank' places 'not' before the verb and uses the past simple, so it carries the negation in the wrong way."
+        },
+        {
+          "letter": "C",
+          "text": "He wishes he did not drinking so much coffee in the evening.",
+          "is_correct": false,
+          "feedback": "'Did not drinking' uses the -ing form after the auxiliary, where the base form belongs."
+        },
+        {
+          "letter": "D",
+          "text": "He wishes he is not drink so much coffee in the evening.",
+          "is_correct": false,
+          "feedback": "'Is not drink' mixes the auxiliary 'is' with a base form, which is not a valid structure."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "A negative wish uses the auxiliary to carry the negation: I wish I didn't smoke, he wishes he didn't eat so much. The main verb therefore appears in its base form.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v14",
+      "statement": "Complete the exclamation with the correct form of the verb 'listen'.",
+      "context": "If only the government (listen) to the young people who protest in the cities!",
+      "options": [
+        {
+          "letter": "A",
+          "text": "If only the government would listen to the young people who protest!",
+          "is_correct": false,
+          "feedback": "'Would listen' places a modal after the subject, but 'if only' is followed by the past simple."
+        },
+        {
+          "letter": "B",
+          "text": "If only the government listens to the young people who protest!",
+          "is_correct": false,
+          "feedback": "'Listens' is the present simple third person singular and would describe a real, repeated action."
+        },
+        {
+          "letter": "C",
+          "text": "If only the government listened to the young people who protest!",
+          "is_correct": true,
+          "feedback": "Correct! 'Listened' is the past simple after 'if only', which expresses a wish about a situation in the present."
+        },
+        {
+          "letter": "D",
+          "text": "If only the government listening to the young people who protest!",
+          "is_correct": false,
+          "feedback": "'Listening' needs the auxiliary 'were' before it, so the clause would be 'if only the government were listening'."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Expressing dissatisfaction about the present is one of the commonest uses of 'if only'. The past simple keeps the sentence in the unreal register that a wish requires.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -639,40 +639,40 @@
     },
     {
       "id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the wish with the correct negative form of the verb 'live'.",
+      "context": "I wish my grandmother (not live) so far away from us.",
       "options": [
         {
-          "letter": "D",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "'backpack' has shoulder straps and is carried on the back."
-        },
-        {
           "letter": "A",
-          "text": "suitcase",
+          "text": "I wish my grandmother not lived so far away from us.",
           "is_correct": false,
-          "feedback": "'suitcase' is a case with a handle that is pulled along, not one worn on the back."
+          "feedback": "'Not lived' places 'not' before the verb, but English needs the auxiliary 'did' before the negation."
         },
         {
           "letter": "B",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "'briefcase' is a flat case for documents that you carry by hand at work."
+          "text": "I wish my grandmother didn't live so far away from us.",
+          "is_correct": true,
+          "feedback": "Correct! 'Didn't live' is the negative past simple, which is the form a wish about a present situation takes."
         },
         {
           "letter": "C",
-          "text": "handbag",
+          "text": "I wish my grandmother didn't living so far away from us.",
           "is_correct": false,
-          "feedback": "'handbag' is a small bag held in the hand, usually for personal items."
+          "feedback": "'Didn't living' uses the -ing form after the auxiliary, where the base form is required."
+        },
+        {
+          "letter": "D",
+          "text": "I wish my grandmother isn't live so far away from us.",
+          "is_correct": false,
+          "feedback": "'Isn't live' mixes the auxiliary 'is' with a base form, which is not a grammatical structure."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "B",
+      "explanation": "'Didn't' plus the base form is the negative past simple, and that is exactly what appears after 'wish': I wish she didn't live abroad, he wishes he didn't have to work. The base form shows that the auxiliary carries both the tense and the negation.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-bundle",
       "periodo": 16,
@@ -684,37 +684,172 @@
     },
     {
       "id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the reported form of the wish.",
+      "context": "She said she wished she (be) able to join the expedition.",
       "options": [
         {
-          "letter": "C",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "'overseas' means in or to a foreign country, especially one across the sea."
-        },
-        {
           "letter": "A",
-          "text": "domestic",
+          "text": "She said she wished she be able to join the expedition.",
           "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
+          "feedback": "'Be' is the bare infinitive and needs a past subjunctive before it."
         },
         {
           "letter": "B",
-          "text": "local",
+          "text": "She said she wished she was able to join the expedition.",
           "is_correct": false,
-          "feedback": "'local' means belonging to a small area nearby, not to a foreign country."
+          "feedback": "'Was' is the ordinary past simple, but a wish requires 'were' in this expression."
+        },
+        {
+          "letter": "C",
+          "text": "She said she wished she would be able to join the expedition.",
+          "is_correct": false,
+          "feedback": "'Would be' places a modal after the subject and is not the form used in a wish clause."
         },
         {
           "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "'national' means concerning the whole nation and says nothing about being abroad."
+          "text": "She said she wished she were able to join the expedition.",
+          "is_correct": true,
+          "feedback": "Correct! In reported speech the wish keeps the subjunctive 'were', so the structure reads 'wished she were'."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Reporting a wish does not change its structure: she said she wished she were tired keeps the same subjunctive that she said she wished she were tired would have in direct speech.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v17",
+      "statement": "Complete the wish with the correct modal structure.",
+      "context": "I wish I (be able) to speak three languages by now.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I wish I were able to speak three languages by now.",
+          "is_correct": true,
+          "feedback": "Correct! 'Were able' is the subjunctive of 'be able', which is the form a wish about the present requires."
+        },
+        {
+          "letter": "B",
+          "text": "I wish I was able to speak three languages by now.",
+          "is_correct": false,
+          "feedback": "'Was able' is the past simple, but a wish uses 'were' in this expression."
+        },
+        {
+          "letter": "C",
+          "text": "I wish I would able to speak three languages by now.",
+          "is_correct": false,
+          "feedback": "'Would able' is missing the verb 'be', which a modal always requires before an adjective."
+        },
+        {
+          "letter": "D",
+          "text": "I wish I am able to speak three languages by now.",
+          "is_correct": false,
+          "feedback": "'Am able' describes a real ability rather than a wish about an ability the speaker lacks."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Wishes about ability use 'were able' rather than 'could', because the verb 'to be' appears after the subject and takes the subjunctive: I wish I were taller, I wish she were able to come.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v18",
+      "statement": "Choose the sentence that correctly expresses regret with 'what a shame'.",
+      "context": "What a shame that we (miss) the last train!",
+      "options": [
+        {
+          "letter": "A",
+          "text": "What a shame that we miss the last train!",
+          "is_correct": false,
+          "feedback": "'Miss' is the present simple and would describe a habit rather than the missed train of last night."
+        },
+        {
+          "letter": "B",
+          "text": "What a shame that we missed the last train!",
+          "is_correct": true,
+          "feedback": "Correct! 'Missed' is the past simple, which reports the completed event that the regret is about."
+        },
+        {
+          "letter": "C",
+          "text": "What a shame that we would missed the last train!",
+          "is_correct": false,
+          "feedback": "'Would missed' mixes a modal with a past form, which never happens in English."
+        },
+        {
+          "letter": "D",
+          "text": "What a shame that we missing the last train!",
+          "is_correct": false,
+          "feedback": "'Missing' is an -ing form and needs the auxiliary 'were' before it."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'What a shame that' introduces a regret about the past, and the clause that follows it takes the past simple. It is one of the standard patterns for expressing disappointment about something that cannot now be changed.\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v19",
+      "statement": "Choose the sentence that correctly uses a gerund after 'stop' in a wish.",
+      "context": "I wish you would stop (making) so much noise; I cannot concentrate.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I wish you would stopping so much noise.",
+          "is_correct": false,
+          "feedback": "'Stopping' needs an auxiliary before it, so it cannot follow 'would stop' as written."
+        },
+        {
+          "letter": "B",
+          "text": "I wish you would stop to make so much noise.",
+          "is_correct": false,
+          "feedback": "'Stop to make' describes starting another action, which would mean stopping in order to make noise."
+        },
+        {
+          "letter": "C",
+          "text": "I wish you would stop made so much noise.",
+          "is_correct": false,
+          "feedback": "'Stop made' uses a past participle where the gerund belongs after this particular verb."
+        },
+        {
+          "letter": "D",
+          "text": "I wish you would stop making so much noise.",
+          "is_correct": true,
+          "feedback": "Correct! After 'stop' the gerund names the activity that is being interrupted: stop making noise means stop doing it."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Several verbs take either a gerund or an infinitive with a change of meaning, and 'stop' is one of the clearest cases: stop doing something means to interrupt an activity, while stop to do something means to halt in order to begin another one.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -728,173 +863,38 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "'budget' is an estimate of income and expenditure planned for a set period."
-        },
-        {
-          "letter": "B",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "'expense' is a single amount of money that is spent, not the plan for a whole period."
-        },
-        {
-          "letter": "C",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "'cost' is what one item or one service costs, again not an estimate for a period."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "'price' is the sum a customer pays for one product; a budget covers income and spending together."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium."
-        },
-        {
-          "letter": "A",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge."
-        },
-        {
-          "letter": "C",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "'guarantee' is a general promise of quality and does not involve paying a premium."
-        },
-        {
-          "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "'policy' is the written document that states what an insurance contract covers."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "'vaccination' is the treatment with a vaccine that makes the body immune to a disease."
-        },
-        {
-          "letter": "A",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "'medication' is a drug taken to treat an illness, not to prevent one."
-        },
-        {
-          "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "'prescription' is the written order that authorises a medicine, not the treatment itself."
-        },
-        {
-          "letter": "D",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "'infection' is the disease itself, the opposite of the protection a vaccination gives."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
       "id": "EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the reported wish with the correct verb form.",
+      "context": "Everyone says they wish the government (act) faster on housing problems.",
       "options": [
         {
-          "letter": "C",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight."
-        },
-        {
           "letter": "A",
-          "text": "fatigue",
+          "text": "Everyone says they wish the government would acted faster on housing problems.",
           "is_correct": false,
-          "feedback": "'fatigue' is tiredness that can come from any long effort, not specifically from a flight."
+          "feedback": "'Would acted' mixes a modal with a past form, which never occurs in a wish clause."
         },
         {
           "letter": "B",
-          "text": "exhaustion",
+          "text": "Everyone says they wish the government acts faster on housing problems.",
           "is_correct": false,
-          "feedback": "'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep."
+          "feedback": "'Acts' is the present simple and would describe what the government actually does."
+        },
+        {
+          "letter": "C",
+          "text": "Everyone says they wish the government acted faster on housing problems.",
+          "is_correct": true,
+          "feedback": "Correct! 'Acted' is the past simple required in a wish clause, and the sense is that the government does not act faster."
         },
         {
           "letter": "D",
-          "text": "insomnia",
+          "text": "Everyone says they wish the government acting faster on housing problems.",
           "is_correct": false,
-          "feedback": "'insomnia' is the inability to fall asleep, which has many causes besides travel."
+          "feedback": "'Acting' is an -ing form and needs the auxiliary 'were' before it."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "explanation": "A wish about a present situation always takes the past simple, even when the wish itself is reported in the present: they wish the government acted faster. The verb describes what is not true at the moment of speaking.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",

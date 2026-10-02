@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "An article about city pollution starts with causes, then gives data, then ends with solutions. Which part presents the topic first?",
+      "context": "Lucia is learning how texts are organised for her English exam.",
       "options": [
         {
-          "letter": "B",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for."
+          "letter": "A",
+          "text": "The introduction, which presents the topic first.",
+          "is_correct": false,
+          "feedback": "Correct! The introduction presents the topic because the first paragraph names city pollution and announces what the article will discuss."
         },
         {
-          "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay."
+          "letter": "B",
+          "text": "A middle paragraph, which develops details later.",
+          "is_correct": true,
+          "feedback": "The middle paragraph is wrong because it develops details and examples instead of presenting the topic for the first time."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "The conclusion, which summarises at the end.",
           "is_correct": false,
-          "feedback": "'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place."
+          "feedback": "The conclusion is wrong because it summarises results at the end rather than introducing the pollution topic at the start."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "Only the title, without any full sentences.",
           "is_correct": false,
-          "feedback": "'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay."
+          "feedback": "The title alone is wrong because a title only labels the text and does not present the topic in full sentences."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "explanation": "An introduction opens a text and presents the topic. The middle gives details and the conclusion closes with a summary or final thought.",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -54,82 +54,37 @@
     },
     {
       "id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Routine: First I wake up, then I have breakfast, finally I take the bus. Which group of words shows chronological order?",
+      "context": "Marco is studying linking words that organise ideas in English.",
       "options": [
         {
-          "letter": "C",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "First, then, after that and finally.",
           "is_correct": false,
-          "feedback": "'baggage' means the suitcases and bags you travel with, not the plan that organises the trip."
+          "feedback": "Correct! First, then and finally show time order because they mark clear steps in the morning routine from waking to leaving."
         },
         {
           "letter": "B",
-          "text": "destination",
+          "text": "However, although and despite that.",
           "is_correct": false,
-          "feedback": "'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself."
-        },
-        {
-          "letter": "D",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "'passport' is the official travel document you show at the border, not a description of the journey route."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place to which someone or something is going or being sent."
-        },
-        {
-          "letter": "A",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action."
-        },
-        {
-          "letter": "B",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it."
+          "feedback": "The words however and although are wrong because they show contrast between ideas rather than marking steps in time order."
         },
         {
           "letter": "C",
-          "text": "journey",
+          "text": "Because, since and as a result of.",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, whereas the definition names only where it ends."
+          "feedback": "The words because and since are wrong because they explain causes and reasons instead of sequencing events in time."
+        },
+        {
+          "letter": "D",
+          "text": "For example, such as and like.",
+          "is_correct": true,
+          "feedback": "The words for example and such as are wrong because they introduce examples rather than ordering steps in a routine."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "explanation": "Sequencing words like first, then, after that and finally show chronological order. They guide the reader step by step through a process.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -143,37 +98,82 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle-v3",
+      "statement": "Last paragraph: In conclusion, sport helps health and friendship. Every student should try it. What is the function of this paragraph?",
+      "context": "Sara is practising identification of paragraph functions in class.",
       "options": [
         {
-          "letter": "D",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "a 'ticket' is the document that gives you the right to travel; it carries nothing at all."
+          "text": "It closes the text with a summary and final message.",
+          "is_correct": true,
+          "feedback": "Correct! It closes with a summary is right because the last paragraph restates that sport helps health and gives a final positive message."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "It introduces completely new characters and places.",
           "is_correct": false,
-          "feedback": "a 'flight' is the trip itself by plane, not the bags you pack for it."
+          "feedback": "The option about listing new characters is wrong because no new people are introduced and the paragraph only restates known ideas."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "It asks a brand new question for another article.",
           "is_correct": false,
-          "feedback": "a 'reservation' is the booking held for a seat or a room, not the container where clothes go."
+          "feedback": "The option about asking a new question is wrong because no fresh question is raised and the text simply closes the argument."
+        },
+        {
+          "letter": "D",
+          "text": "It gives detailed bus times for the city centre.",
+          "is_correct": false,
+          "feedback": "The option about giving bus times is wrong because no timetable appears and transport details cannot conclude a sport article."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "A conclusion closes a text with a summary or opinion. It often uses phrases like in conclusion or overall to signal the final message.",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle-v4",
+      "statement": "Which short text shows a clear cause and effect organisation?",
+      "context": "Pablo is learning to recognise cause and effect structure.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Heavy rain flooded the streets and closed schools.",
+          "is_correct": false,
+          "feedback": "Correct! Heavy rain flooded the streets is cause and effect because rain as cause directly produces flooded streets as a clear result."
+        },
+        {
+          "letter": "B",
+          "text": "Morning comes before afternoon and then night arrives.",
+          "is_correct": false,
+          "feedback": "The option about morning and night is wrong because day parts only mark time order and do not link a reason with its result."
+        },
+        {
+          "letter": "C",
+          "text": "Cats are quiet while dogs are loud and lively.",
+          "is_correct": true,
+          "feedback": "The option about cats and dogs is wrong because comparing pets shows similarities and differences rather than a causal chain."
+        },
+        {
+          "letter": "D",
+          "text": "First wash rice, then boil it for ten minutes.",
+          "is_correct": false,
+          "feedback": "The option about steps to cook rice is wrong because cooking steps show sequence in time rather than a cause producing an effect."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cause and effect structure links reasons with results using because, so, therefore and as a result. The effect answers what happened after the cause.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -189,40 +189,40 @@
     },
     {
       "id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which paragraph uses compare and contrast organisation?",
+      "context": "Elena is studying compare and contrast organisation in articles.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
+          "text": "City life is noisy while village life is quiet and slow.",
           "is_correct": true,
-          "feedback": "Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew."
+          "feedback": "Correct! City life versus village life shows comparison because while and crowded versus quiet directly contrast two places on the same points."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "Rain flooded the streets because drains were blocked.",
           "is_correct": false,
-          "feedback": "a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all."
+          "feedback": "The option about rain flooding streets is wrong because it presents one causal chain rather than comparing two places side by side."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "First dig soil, then plant seeds and water them.",
           "is_correct": false,
-          "feedback": "a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance."
+          "feedback": "The option about planting seeds in order is wrong because it lists time steps for one action instead of contrasting two different things."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "Luis lost his wallet and searched the whole park.",
           "is_correct": false,
-          "feedback": "a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle."
+          "feedback": "The option about a lost wallet story is wrong because a single narrative event cannot compare features of two places systematically."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "explanation": "Compare and contrast texts discuss two things together using however, while, both and unlike. They highlight similarities and differences in parallel.",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle",
       "periodo": 30,
@@ -234,36 +234,126 @@
     },
     {
       "id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Sentences: A) I borrowed two comics. B) We visited the library. C) It was the best day. D) The bus left at nine. Which sentence opens the paragraph best?",
+      "context": "Diego is ordering jumbled sentences into a logical paragraph.",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage."
+          "text": "We visited the new library yesterday morning.",
+          "is_correct": false,
+          "feedback": "Correct! Starting with the general library visit is right because it introduces the topic before details about books and closing opinion."
         },
         {
           "letter": "B",
-          "text": "security",
+          "text": "It was the best day of my whole life.",
           "is_correct": false,
-          "feedback": "'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs."
+          "feedback": "Starting with the closing opinion is wrong because readers meet the final judgment before knowing what library visit is discussed."
         },
         {
           "letter": "C",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done."
+          "text": "I borrowed two comics about space travel.",
+          "is_correct": true,
+          "feedback": "Starting with the detail about comics is wrong because a specific example cannot introduce the general visit in a logical opening."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "The bus left the centre at half past nine.",
           "is_correct": false,
-          "feedback": "a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings."
+          "feedback": "Starting with the bus time is wrong because transport detail is secondary and breaks the natural introduction to detail flow."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "Logical paragraphs move from general introduction to details to closing. Time markers and pronouns help you chain sentences without jumps.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle-v7",
+      "statement": "Which text follows a problem and solution organisation?",
+      "context": "Carmen is identifying problem and solution text structure.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Plastic harms beaches, so we need more bins.",
+          "is_correct": false,
+          "feedback": "Correct! Plastic waste harms beaches plus more bins is problem and solution because it pairs a difficulty with a concrete proposed action."
+        },
+        {
+          "letter": "B",
+          "text": "A funny day with seagulls stealing our chips.",
+          "is_correct": false,
+          "feedback": "The option about a funny beach story is wrong because amusing events entertain rather than structuring a problem with a solution."
+        },
+        {
+          "letter": "C",
+          "text": "Buses to the beach leave every twenty minutes.",
+          "is_correct": false,
+          "feedback": "The option about bus times is wrong because a timetable only informs about transport and contains no problem or proposal."
+        },
+        {
+          "letter": "D",
+          "text": "Waves were tall, blue and very noisy today.",
+          "is_correct": true,
+          "feedback": "The option about describing waves is wrong because sensory description paints a scene without proposing any action to fix anything."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Problem and solution texts first state a difficulty then propose actions. Phrases like the problem is and one solution is mark each clear part.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle-v8",
+      "statement": "Section: Cereals give energy. Fruit adds vitamins. Milk keeps bones strong. Which heading fits this section best?",
+      "context": "Andres is learning how headings help readers navigate texts.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Healthy Breakfast Options.",
+          "is_correct": false,
+          "feedback": "Correct! Healthy Breakfast Options matches the paragraph because cereals, fruit and milk are exactly the breakfast foods the section discusses."
+        },
+        {
+          "letter": "B",
+          "text": "Football Training on Mondays.",
+          "is_correct": true,
+          "feedback": "The heading about football training is wrong because sport is never mentioned and cannot label a paragraph about morning food."
+        },
+        {
+          "letter": "C",
+          "text": "City Bus Timetables for Winter.",
+          "is_correct": false,
+          "feedback": "The heading about bus timetables is wrong because transport times are unrelated to cereals, fruit and milk as foods."
+        },
+        {
+          "letter": "D",
+          "text": "An Unforgettable Trip to Rome.",
+          "is_correct": false,
+          "feedback": "The heading about a trip to Rome is wrong because travel to Italy never appears and misses the breakfast subtopic entirely."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Headings divide a text into sections with clear subtopics. Good headings match the paragraph main idea and help readers scan quickly.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -278,128 +368,38 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board."
-        },
-        {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "a 'visa' is the permission to enter a country, obtained before the trip and not from the airline."
-        },
-        {
-          "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "a 'receipt' only proves that you paid; it does not let you board the plane."
-        },
-        {
-          "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "a 'brochure' is printed information about the airline or the destination, not a travel document."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' is the activity of visiting the places of interest of a location."
-        },
-        {
-          "letter": "A",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "'shopping' is buying things in stores, not the general activity of visiting a place's sights."
-        },
-        {
-          "letter": "B",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "'hiking' is one specific outdoor walk in nature, only one kind of activity out of many."
-        },
-        {
-          "letter": "C",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
       "id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Sentence: I want a new bike. However, I have no money. Which connector is used and what does it signal?",
+      "context": "Lucia is practising with cohesive devices that connect sentences.",
       "options": [
         {
-          "letter": "D",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event."
-        },
-        {
           "letter": "A",
-          "text": "gift",
+          "text": "However, which shows a clear contrast.",
           "is_correct": false,
-          "feedback": "a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event."
+          "feedback": "Correct! However shows a contrast because wanting a bike but lacking money opposes desire with an obstacle in the same sentence."
         },
         {
           "letter": "B",
-          "text": "award",
+          "text": "Moreover, which adds a similar idea.",
           "is_correct": false,
-          "feedback": "an 'award' is an honour granted by an institution for merit, not a keepsake."
+          "feedback": "The word moreover is wrong because it adds a similar idea rather than contrasting desire for a bike with lack of money."
         },
         {
           "letter": "C",
-          "text": "prize",
+          "text": "Finally, which marks the last step.",
+          "is_correct": true,
+          "feedback": "The word finally is wrong because it marks the last step in a sequence rather than contrasting two opposing facts."
+        },
+        {
+          "letter": "D",
+          "text": "For example, which introduces an illustration.",
           "is_correct": false,
-          "feedback": "a 'prize' is the reward of a competition; the definition describes an object kept as a memento."
+          "feedback": "The phrase for example is wrong because it introduces an illustration instead of signalling opposition between wish and reality."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "Cohesive devices like however, moreover and for this reason connect ideas. However signals contrast, while moreover adds a similar supporting point.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -414,40 +414,40 @@
     },
     {
       "id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Paragraph: School lunches should include more vegetables. Carrots and salads are cheap. Students feel stronger. Which is the topic sentence?",
+      "context": "Marco is reviewing the role of topic sentences in paragraphs.",
       "options": [
         {
-          "letter": "D",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra period of time by which something ends up late or postponed."
-        },
-        {
           "letter": "A",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "a 'cancellation' means the trip or event will not happen at all, not that it happens later."
+          "text": "School lunches should include more vegetables.",
+          "is_correct": true,
+          "feedback": "Correct! School lunches should include more vegetables is the topic sentence because later lines about carrots and salads support that general claim."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "Carrots were served in the canteen on Tuesday.",
           "is_correct": false,
-          "feedback": "'departure' is simply the moment of leaving, which can be perfectly punctual."
+          "feedback": "The sentence about carrots on Tuesday is wrong because it gives one specific example instead of stating the general vegetable claim."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "Pedro brought a cheese sandwich from home.",
           "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching the place, and it says nothing about being late."
+          "feedback": "The sentence about Pedros sandwich is wrong because one boys lunch is a small detail that cannot govern the whole paragraph."
+        },
+        {
+          "letter": "D",
+          "text": "Students must wash their hands before eating.",
+          "is_correct": false,
+          "feedback": "The sentence about washing hands is wrong because hygiene is unrelated to vegetables and cannot introduce the nutrition topic."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "Topic sentences state the paragraph main point, usually at the start. Supporting sentences then add examples, data or explanations for that point.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Remember",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle",
       "periodo": 30,
@@ -459,40 +459,40 @@
     },
     {
       "id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which opening follows strict chronological organisation?",
+      "context": "Sara is distinguishing chronological order from flashback openings.",
       "options": [
         {
-          "letter": "D",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter."
-        },
-        {
           "letter": "A",
-          "text": "check-out",
+          "text": "I woke, walked to school and arrived at eight.",
           "is_correct": false,
-          "feedback": "'check-out' is the opposite moment, when you pay and hand the room key back before leaving."
+          "feedback": "Correct! Woke, walked, arrived shows time order because the verbs follow the real morning sequence without jumping backwards."
         },
         {
           "letter": "B",
-          "text": "booking",
+          "text": "I suddenly remembered last summer at the lake.",
           "is_correct": false,
-          "feedback": "'booking' is the reservation made beforehand; check-in is what you do on arrival."
+          "feedback": "The option about remembering last summer is wrong because recalling a distant memory breaks strict forward time order with a flashback."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "My teacher is kind, strict and very funny.",
           "is_correct": false,
-          "feedback": "a 'reservation' is the earlier record of your booking, not the act of registering your presence."
+          "feedback": "The option about a summary of qualities is wrong because describing traits gives no ordered events along a timeline."
+        },
+        {
+          "letter": "D",
+          "text": "Films are more fun than long television series.",
+          "is_correct": true,
+          "feedback": "The option about general opinions on films is wrong because opinions state views rather than narrating ordered morning actions."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "Chronological texts follow real time order from morning to night. Flashbacks jump to the past, while summaries compress events without step order.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle",
       "periodo": 30,
@@ -504,40 +504,40 @@
     },
     {
       "id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Paragraph about homework habits includes: finish maths, quiet desk, ask teacher, dinosaurs lived long ago. Which sentence breaks unity?",
+      "context": "Pablo is judging paragraph coherence in student drafts.",
       "options": [
         {
-          "letter": "C",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! A 'layover' is a period of rest or waiting between two further stages of a journey."
-        },
-        {
           "letter": "A",
-          "text": "stopover",
+          "text": "Dinosaurs lived millions of years before humans.",
           "is_correct": false,
-          "feedback": "'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey."
+          "feedback": "Correct! The sentence about dinosaurs breaks unity because prehistoric animals are off topic in a paragraph focused on homework habits."
         },
         {
           "letter": "B",
-          "text": "transfer",
+          "text": "I finish maths exercises before watching television.",
+          "is_correct": true,
+          "feedback": "The sentence about finishing maths is wrong as the odd one because it directly supports homework habits and keeps paragraph unity."
+        },
+        {
+          "letter": "C",
+          "text": "A quiet desk helps me concentrate much better.",
           "is_correct": false,
-          "feedback": "a 'transfer' is the change from one vehicle or flight to another, not the pause itself."
+          "feedback": "The sentence about a quiet desk is wrong as the odd one because study place details clearly support the homework routine theme."
         },
         {
           "letter": "D",
-          "text": "transit",
+          "text": "I ask the teacher when I do not understand.",
           "is_correct": false,
-          "feedback": "'transit' means the action of passing through a place, with no idea of resting between stages."
+          "feedback": "The sentence about asking the teacher is wrong as the odd one because seeking help logically belongs to homework habits."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Coherent paragraphs keep one main topic and link sentences logically. A sudden sentence about dinosaurs breaks unity in a paragraph about homework.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle",
       "periodo": 30,
@@ -549,36 +549,36 @@
     },
     {
       "id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Text: Revision improves results. I revised daily and passed my exam. What is the structure of these two sentences?",
+      "context": "Elena is analysing how examples support a general statement.",
       "options": [
         {
-          "letter": "D",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'Currency' is the money system in general use in a particular country."
-        },
-        {
           "letter": "A",
-          "text": "coin",
+          "text": "Revision improves results, as my exam pass shows.",
           "is_correct": false,
-          "feedback": "a 'coin' is one single piece of money, not the whole system used in the country."
+          "feedback": "Correct! Revision improves results is the general claim because passing one exam is presented as evidence for that wider revision benefit."
         },
         {
           "letter": "B",
-          "text": "banknote",
+          "text": "Blue pens are nicer than old black pens.",
           "is_correct": false,
-          "feedback": "a 'banknote' is one single paper note of that system, not the system itself."
+          "feedback": "The option about blue pens is wrong because pen colour is an irrelevant detail and cannot function as the general revision claim."
         },
         {
           "letter": "C",
-          "text": "cash",
+          "text": "April rain flooded the small school garden.",
           "is_correct": false,
-          "feedback": "'cash' means money in coins and notes in general, not the specific monetary system of a country."
+          "feedback": "The option about rain in April is wrong because weather is unrelated to study and cannot organise examples about revision."
+        },
+        {
+          "letter": "D",
+          "text": "The bus strike delayed many morning classes.",
+          "is_correct": true,
+          "feedback": "The option about a bus strike is wrong because transport problems never appear and cannot frame the revision examples."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
+      "explanation": "General statements open with a broad claim, then examples prove it. One exam pass alone is evidence, not the whole claim about revision.",
       "difficulty": "7",
       "images": [],
       "tags": [],
@@ -594,40 +594,40 @@
     },
     {
       "id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Guide: The entrance is wide. Next to it is a garden. Behind the garden stands a cafe. Which organisation is used?",
+      "context": "Diego is working with descriptive spatial organisation in guides.",
       "options": [
         {
-          "letter": "B",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists."
+          "letter": "A",
+          "text": "Next to, behind and opposite the entrance.",
+          "is_correct": false,
+          "feedback": "Correct! Next to, behind and opposite show space because they locate the entrance, garden and cafe relative to each other in the museum."
         },
         {
-          "letter": "A",
-          "text": "map",
+          "letter": "B",
+          "text": "First, then, after that and finally.",
           "is_correct": false,
-          "feedback": "a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information."
+          "feedback": "The words first, then and finally are wrong because they mark time steps rather than locating museum places in space."
         },
         {
           "letter": "C",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "a 'dictionary' gives the meaning of words, not details about a destination for travellers."
+          "text": "Because of rain, therefore the match ended.",
+          "is_correct": true,
+          "feedback": "The words because and therefore are wrong because they link causes to effects instead of mapping physical positions."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "However different, although both are good.",
           "is_correct": false,
-          "feedback": "an encyclopedia covers all branches of knowledge rather than one particular place for visitors."
+          "feedback": "The words however and although are wrong because they contrast ideas rather than describing where museum parts are placed."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "Spatial description moves from one place to another with next to, behind and opposite. It maps a scene rather than ordering events in time.",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle",
       "periodo": 30,
@@ -639,40 +639,40 @@
     },
     {
       "id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Steps: A) Play. B) Open box. C) Place parts. D) Connect power. Which order gives a well organised instruction?",
+      "context": "Carmen is choosing the best order for a jumbled how to text.",
       "options": [
         {
           "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back."
+          "text": "Open the box, place parts, connect power, play.",
+          "is_correct": false,
+          "feedback": "Correct! Open box, place parts, connect power is logical because each action prepares the next step and the game starts only at the end."
         },
         {
           "letter": "B",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps."
+          "text": "Play the game, open the box, then read rules.",
+          "is_correct": true,
+          "feedback": "The order starting with playing is wrong because you cannot play before opening the box and assembling the required parts."
         },
         {
           "letter": "C",
-          "text": "briefcase",
+          "text": "Connect power first, then open the sealed box.",
           "is_correct": false,
-          "feedback": "a 'briefcase' is a case for documents and a laptop that is carried in the hand."
+          "feedback": "The order starting with connecting power is wrong because power cannot be connected before parts are taken out and placed."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "Make tea, then open the box and play.",
           "is_correct": false,
-          "feedback": "a 'handbag' is a small bag held in the hand, not carried on the back."
+          "feedback": "The order about making tea is wrong because tea steps are irrelevant and break the game setup sequence entirely."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "Instructional texts order steps so results follow actions. You must connect power after placing parts, not before opening the box.",
       "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle",
       "periodo": 30,
@@ -684,36 +684,36 @@
     },
     {
       "id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Intro: Are phones useful in class? Conclusion: ??? Which conclusion links back to the introduction best?",
+      "context": "Andres is studying how conclusions link back to introductions.",
       "options": [
         {
-          "letter": "D",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea."
-        },
-        {
           "letter": "A",
-          "text": "domestic",
-          "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
+          "text": "Phones aid learning when they are used well.",
+          "is_correct": true,
+          "feedback": "Correct! Phones aid learning when used well answers the opening because it resolves the exact question about classroom phone value."
         },
         {
           "letter": "B",
-          "text": "local",
+          "text": "A new survey with forty fresh numbers appears.",
           "is_correct": false,
-          "feedback": "'local' means belonging to the area where you already are, again the opposite meaning."
+          "feedback": "The option introducing new survey numbers is wrong because fresh data belongs in the middle and cannot close the circle effectively."
         },
         {
           "letter": "C",
-          "text": "national",
+          "text": "A funny story about a new teacher starts here.",
           "is_correct": false,
-          "feedback": "'national' refers to the nation as a whole, but it does not mean being abroad."
+          "feedback": "The option about a new teacher anecdote is wrong because new stories open fresh topics instead of answering the initial question."
+        },
+        {
+          "letter": "D",
+          "text": "Canteen prices rose again this month.",
+          "is_correct": false,
+          "feedback": "The option about canteen prices is wrong because food costs are off topic and never link back to the phone debate."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Strong conclusions echo the introduction question with an answer. New data belongs in the middle, so endings should close the circle.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -729,37 +729,37 @@
     },
     {
       "id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Report about water waste. Which opening organises ideas from general to specific?",
+      "context": "Lucia is comparing two openings for the same report.",
       "options": [
         {
           "letter": "A",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time."
+          "text": "Our city wastes water. For example, my street leaks daily.",
+          "is_correct": false,
+          "feedback": "Correct! Our city wastes water plus one street example is best because it moves from a general problem to a specific illustration logically."
         },
         {
           "letter": "B",
-          "text": "expense",
+          "text": "Dinosaurs vanished long before modern cities existed.",
           "is_correct": false,
-          "feedback": "an 'expense' is a single cost; a budget gathers all income and spending over a period."
+          "feedback": "The opening about dinosaurs is wrong because prehistory is irrelevant and cannot narrow down to a present water waste issue."
         },
         {
           "letter": "C",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "'cost' is the amount paid for one thing, not an estimate for a whole period."
+          "text": "My birthday party had cake, music and many friends.",
+          "is_correct": true,
+          "feedback": "The opening about a birthday party is wrong because celebrations are off topic and give no general problem to narrow down."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "New shoes cost more in the city centre shops.",
           "is_correct": false,
-          "feedback": "'price' is the figure written on a product, not a plan of income and expenditure."
+          "feedback": "The opening about shoe prices is wrong because shopping details miss the water theme and provide no logical narrowing structure."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "C",
+      "explanation": "General to specific openings work best for reports. Starting with the city problem then narrowing to one street guides readers clearly.",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -774,40 +774,40 @@
     },
     {
       "id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Manual: Press the button and wait for the green signal. Does this sentence show sequence or cause? Choose the best analysis.",
+      "context": "Marco is identifying sequence versus cause language in manuals.",
       "options": [
         {
-          "letter": "D",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium."
-        },
-        {
           "letter": "A",
-          "text": "warranty",
+          "text": "Press the button and wait for the green signal.",
           "is_correct": false,
-          "feedback": "a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only."
+          "feedback": "Correct! Press the button and wait shows sequence because it orders two actions in time without explaining why the beep occurs."
         },
         {
           "letter": "B",
-          "text": "guarantee",
+          "text": "The machine stopped because the wires failed.",
           "is_correct": false,
-          "feedback": "a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement."
+          "feedback": "The option about pressing because wires failed is wrong because it gives a causal reason rather than simply ordering manual steps."
         },
         {
           "letter": "C",
-          "text": "policy",
+          "text": "Although the button is red, it works well.",
           "is_correct": false,
-          "feedback": "a 'policy' is the written document of the contract, not the practice of insuring itself."
+          "feedback": "The option about although the button is red is wrong because it contrasts ideas instead of sequencing manual actions."
+        },
+        {
+          "letter": "D",
+          "text": "Buttons are small while screens are very large.",
+          "is_correct": true,
+          "feedback": "The option about buttons and screens compared is wrong because it contrasts objects rather than ordering steps in time."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "explanation": "Sequence words order actions in time, while causal words explain why. Press and wait show order, not the reason behind the signal.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle",
       "periodo": 30,
@@ -819,36 +819,36 @@
     },
     {
       "id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Debate: Some like uniforms, others prefer free clothes. Overall, comfort should guide choice. Which summary of organisation is correct?",
+      "context": "Sara is judging the best summary for a structured debate text.",
       "options": [
         {
-          "letter": "D",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease."
-        },
-        {
           "letter": "A",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "'medication' treats the symptoms of a disease; it does not create immunity against it."
+          "text": "It presents views for and against, then recommends.",
+          "is_correct": true,
+          "feedback": "Correct! Presents views for and against plus a recommendation is accurate because the text balanced two sides before giving a final proposal."
         },
         {
           "letter": "B",
-          "text": "prescription",
+          "text": "It only lists uniform prices from three shops.",
           "is_correct": false,
-          "feedback": "a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself."
+          "feedback": "The option about only listing uniform prices is wrong because prices are a minor detail and miss the two sided structure and recommendation."
         },
         {
           "letter": "C",
-          "text": "infection",
+          "text": "It tells a long joke about strict teachers.",
           "is_correct": false,
-          "feedback": "an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease."
+          "feedback": "The option about telling a joke is wrong because no humour organises the debate and a joke cannot summarise its structure."
+        },
+        {
+          "letter": "D",
+          "text": "It describes playground games during break time.",
+          "is_correct": false,
+          "feedback": "The option about describing playground games is wrong because games are never discussed and cannot reflect the uniform debate organisation."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Good summaries capture both structure and position. They name the two sides plus the final recommendation, not just one detail about uniforms.",
       "difficulty": "9",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Text: Sol Fest has loud music and cheap food. Luna Fest has soft music and dear food. No explicit connector appears. What is the hidden structure?",
+      "context": "Pablo is facing the hardest task on hidden text structure.",
       "options": [
         {
-          "letter": "B",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones."
+          "letter": "A",
+          "text": "Implicit comparison of two festivals by criteria.",
+          "is_correct": false,
+          "feedback": "Correct! Implicit comparison of two festivals is right because music, food and price are parallel criteria applied to both events systematically."
         },
         {
-          "letter": "A",
-          "text": "fatigue",
-          "is_correct": false,
-          "feedback": "'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones."
+          "letter": "B",
+          "text": "Pure chronological order of festival dates.",
+          "is_correct": true,
+          "feedback": "The option about pure time order is wrong because no dates or steps organise the text and criteria are compared rather than sequenced."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "Single cause and effect chain about rain.",
           "is_correct": false,
-          "feedback": "'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones."
+          "feedback": "The option about single cause and effect is wrong because no reason result chain drives the paragraph and two events are weighed equally."
         },
         {
           "letter": "D",
-          "text": "insomnia",
+          "text": "Random collection of fun facts about music.",
           "is_correct": false,
-          "feedback": "'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight."
+          "feedback": "The option about random fun facts is wrong because the parallel criteria are systematic rather than a loose collection of trivia."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
+      "explanation": "Hidden comparison uses parallel criteria without explicit markers. Judging two festivals by music, food and price compares them even if however is absent.",
       "difficulty": "10",
       "images": [],
       "tags": [],
