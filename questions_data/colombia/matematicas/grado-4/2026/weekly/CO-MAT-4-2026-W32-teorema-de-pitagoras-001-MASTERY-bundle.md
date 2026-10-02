@@ -36,13 +36,12 @@ En esta semana los estudiantes de grado 4 van a aprender el teorema de Pitágora
 ### Opciones
 - [ ] A) a + b = c
   <!-- feedback: Incorrecto. La fórmula no es una suma simple. El teorema de Pitágoras relaciona los cuadrados de los catetos con el cuadrado de la hipotenusa. -->
-- [x] B) a² + b² = c²
-  <!-- feedback: Correcto. El teorema de Pitágoras establece que la suma de los cuadrados de los catetos es igual al cuadrado de la hipotenusa. -->
-- [ ] C) a × b = c
+- [ ] B) a × b = c
   <!-- feedback: Incorrecto. La fórmula no es una multiplicación. El teorema de Pitágoras usa cuadrados de los lados. -->
-- [ ] D) a² - b² = c²
+- [ ] C) a² - b² = c²
   <!-- feedback: Incorrecto. La operación es suma, no resta. La fórmula correcta es a² + b² = c². -->
-
+- [x] D) a² + b² = c²
+  <!-- feedback: Correcto. El teorema de Pitágoras establece que la suma de los cuadrados de los catetos es igual al cuadrado de la hipotenusa. -->
 ### Explicacion Pedagogica
 El teorema de Pitágoras establece que en todo triángulo rectángulo, la suma de los cuadrados de los catetos es igual al cuadrado de la hipotenusa. La fórmula se escribe como a² + b² = c², donde a y b son los catetos y c es la hipotenusa. Este teorema es fundamental para calcular distancias en geometría y tiene muchas aplicaciones prácticas.
 
@@ -80,17 +79,16 @@ En un triángulo rectángulo, la hipotenusa es el lado más largo y siempre est�
 ¿Cuánto mide la hipotenusa de un triángulo rectángulo con catetos de 3 cm y 4 cm?
 
 ### Opciones
-- [ ] A) 5 cm
-  <!-- feedback: Correcto. Usando el teorema de Pitágoras: 3² + 4² = 9 + 16 = 25, y la raíz cuadrada de 25 es 5 cm. -->
-- [ ] B) 6 cm
+- [ ] A) 6 cm
   <!-- feedback: Incorrecto. 6 cm no satisface el teorema de Pitágoras porque 3² + 4² = 25, no 36. La hipotenusa correcta es 5 cm. -->
-- [ ] C) 7 cm
+- [ ] B) 7 cm
   <!-- feedback: Incorrecto. 7 cm no satisface el teorema de Pitágoras porque 3² + 4² = 25, no 49. La hipotenusa correcta es 5 cm. -->
-- [x] D) 5 cm (ver explicación)
-  <!-- feedback: Incorrecto. Esta opción es igual a A, que es la respuesta correcta. La hipotenusa es √(3² + 4²) = 5 cm. -->
+- [ ] C) 10 cm
+  <!-- feedback: Incorrecto. 10 cm no es el resultado del problema. Es un error típico de cálculo: ese valor no aparece al aplicar bien la fórmula. El cálculo correcto es: Usando el teorema de Pitágoras: 3² + 4² = 9 + 16 = 25, y la raíz cuadrada de 25 es 5 cm. -->
+- [x] D) 5 cm
+  <!-- feedback: Correcto. Usando el teorema de Pitágoras: 3² + 4² = 9 + 16 = 25, y la raíz cuadrada de 25 es 5 cm. -->
 ### Explicacion Pedagogica
 Para calcular la hipotenusa se aplica el teorema de Pitágoras: c² = a² + b². Con catetos de 3 cm y 4 cm, tenemos c² = 3² + 4² = 9 + 16 = 25. La hipotenusa es la raíz cuadrada de 25, que es 5 cm. Este es el famoso triángulo 3-4-5, uno de los casos más comunes en problemas de geometría.
-
 ## Question 4 [D5-D6]
 **ID:** CO-MAT-4-2026-W32-teorema-de-pitagoras-001-MASTERY-bundle-v4
 **Bloom:** Apply
@@ -102,12 +100,12 @@ Para calcular la hipotenusa se aplica el teorema de Pitágoras: c² = a² + b².
 ¿Cuánto mide el otro cateto de un triángulo rectángulo con hipotenusa de 13 cm y un cateto de 5 cm?
 
 ### Opciones
-- [x] A) 12 cm
-  <!-- feedback: Correcto. Usando el teorema de Pitágoras: b² = 13² - 5² = 169 - 25 = 144, y la raíz cuadrada de 144 es 12 cm. -->
-- [ ] B) 8 cm
+- [ ] A) 8 cm
   <!-- feedback: Incorrecto. 8 cm no satisface el teorema de Pitágoras porque 5² + 8² = 25 + 64 = 89, no 169. El cateto correcto es 12 cm. -->
-- [ ] C) 10 cm
+- [ ] B) 10 cm
   <!-- feedback: Incorrecto. 10 cm no satisface el teorema de Pitágoras porque 5² + 10² = 25 + 100 = 125, no 169. El cateto correcto es 12 cm. -->
+- [x] C) 12 cm
+  <!-- feedback: Correcto. Usando el teorema de Pitágoras: b² = 13² - 5² = 169 - 25 = 144, y la raíz cuadrada de 144 es 12 cm. -->
 - [ ] D) 12 cm (ver explicación)
   <!-- feedback: Incorrecto. Esta opción es igual a A, que es la respuesta correcta. El cateto es √(13² - 5²) = 12 cm. -->
 ### Explicacion Pedagogica

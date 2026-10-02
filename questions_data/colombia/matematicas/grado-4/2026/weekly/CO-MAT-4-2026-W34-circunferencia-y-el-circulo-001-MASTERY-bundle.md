@@ -34,15 +34,14 @@ En esta semana los estudiantes de grado 4 van a aprender qué es una circunferen
 ¿Qué es una circunferencia?
 
 ### Opciones
-- [x] A) El conjunto de puntos equidistantes de un punto central
-  <!-- feedback: Correcto. La circunferencia es el conjunto de todos los puntos que están a la misma distancia (radio) de un punto central. -->
-- [ ] B) El área encerrada por una curva cerrada
+- [ ] A) El área encerrada por una curva cerrada
   <!-- feedback: Incorrecto. Eso describe el círculo, no la circunferencia. La circunferencia es solo la línea curva, no el área interior. -->
-- [ ] C) Un segmento que une dos puntos de la curva
+- [ ] B) Un segmento que une dos puntos de la curva
   <!-- feedback: Incorrecto. Eso describe una cuerda, no la circunferencia. La circunferencia es toda la línea curva. -->
-- [ ] D) Un segmento que pasa por el centro
+- [ ] C) Un segmento que pasa por el centro
   <!-- feedback: Incorrecto. Eso describe el diámetro, no la circunferencia. La circunferencia es la línea curva completa. -->
-
+- [x] D) El conjunto de puntos equidistantes de un punto central
+  <!-- feedback: Correcto. La circunferencia es el conjunto de todos los puntos que están a la misma distancia (radio) de un punto central. -->
 ### Explicacion Pedagogica
 Una circunferencia es el conjunto de todos los puntos de un plano que están a la misma distancia de un punto fijo llamado centro. Esa distancia constante se llama radio. La circunferencia es solo la línea curva que delimita al círculo, no el área interior. Es importante no confundir la circunferencia (la línea) con el círculo (la región).
 
@@ -80,17 +79,16 @@ El diámetro de una circunferencia es el doble del radio. Si el radio mide 7 cm,
 ¿Cuánto mide la circunferencia de un círculo con diámetro de 10 cm? (Usa π ≈ 3.14)
 
 ### Opciones
-- [ ] A) 31.4 cm
-  <!-- feedback: Correcto. La circunferencia se calcula con C = π × d = 3.14 × 10 = 31.4 cm. -->
-- [ ] B) 62.8 cm
+- [ ] A) 62.8 cm
   <!-- feedback: Incorrecto. 62.8 cm sería el resultado de usar el radio en lugar del diámetro: 3.14 × 20 = 62.8. La fórmula correcta usa el diámetro. -->
-- [ ] C) 15.7 cm
+- [ ] B) 15.7 cm
   <!-- feedback: Incorrecto. 15.7 cm sería la mitad del resultado correcto. La fórmula es C = π × d, no C = π × d ÷ 2. -->
-- [x] D) 31.4 cm (ver explicación)
-  <!-- feedback: Incorrecto. Esta opción es igual a A, que es la respuesta correcta. La circunferencia es 3.14 × 10 = 31.4 cm. -->
+- [x] C) 31.4 cm
+  <!-- feedback: Correcto. La circunferencia se calcula con C = π × d = 3.14 × 10 = 31.4 cm. -->
+- [ ] D) 47.1 cm
+  <!-- feedback: Incorrecto. 47.1 cm no es el resultado del problema. Es un error típico de cálculo: ese valor no aparece al aplicar bien la fórmula. El cálculo correcto es: La circunferencia se calcula con C = π × d = 3.14 × 10 = 31.4 cm. -->
 ### Explicacion Pedagogica
 La longitud de una circunferencia se calcula con la fórmula C = π × d, donde d es el diámetro. Con un diámetro de 10 cm y π ≈ 3.14, la circunferencia es 3.14 × 10 = 31.4 cm. Es importante no confundir esta fórmula con la del área, que usa el radio al cuadrado: A = π × r².
-
 ## Question 4 [D5-D6]
 **ID:** CO-MAT-4-2026-W34-circunferencia-y-el-circulo-001-MASTERY-bundle-v4
 **Bloom:** Apply
@@ -102,17 +100,16 @@ La longitud de una circunferencia se calcula con la fórmula C = π × d, donde 
 ¿Cuál es el área de un círculo con radio de 5 cm? (Usa π ≈ 3.14)
 
 ### Opciones
-- [ ] A) 78.5 cm²
-  <!-- feedback: Correcto. El área se calcula con A = π × r² = 3.14 × 5² = 3.14 × 25 = 78.5 cm². -->
-- [ ] B) 31.4 cm²
+- [ ] A) 31.4 cm²
   <!-- feedback: Incorrecto. 31.4 cm² sería la circunferencia (π × d = 3.14 × 10), no el área. El área usa el radio al cuadrado. -->
-- [ ] C) 15.7 cm²
+- [ ] B) 15.7 cm²
   <!-- feedback: Incorrecto. 15.7 cm² sería la mitad del resultado correcto. La fórmula es A = π × r², no A = π × r² ÷ 2. -->
-- [x] D) 78.5 cm² (ver explicación)
-  <!-- feedback: Incorrecto. Esta opción es igual a A, que es la respuesta correcta. El área es 3.14 × 25 = 78.5 cm². -->
+- [ ] C) 157 cm²
+  <!-- feedback: Incorrecto. 157 cm² no es el resultado del problema. Es un error típico de cálculo: ese valor no aparece al aplicar bien la fórmula. El cálculo correcto es: El área se calcula con A = π × r² = 3.14 × 5² = 3.14 × 25 = 78.5 cm². -->
+- [x] D) 78.5 cm²
+  <!-- feedback: Correcto. El área se calcula con A = π × r² = 3.14 × 5² = 3.14 × 25 = 78.5 cm². -->
 ### Explicacion Pedagogica
 El área de un círculo se calcula con la fórmula A = π × r², donde r es el radio. Con un radio de 5 cm y π ≈ 3.14, el área es 3.14 × 5² = 3.14 × 25 = 78.5 cm². Es fundamental elevar el radio al cuadrado antes de multiplicar por π. Un error común es usar el diámetro en lugar del radio, lo que daría un resultado incorrecto.
-
 ## Question 5 [D5-D6]
 **ID:** CO-MAT-4-2026-W34-circunferencia-y-el-circulo-001-MASTERY-bundle-v5
 **Bloom:** Apply
@@ -170,17 +167,16 @@ Cuando se duplica el radio de un círculo, el área se cuadruplica. El primer c�
 ¿Cuál es el diámetro de un círculo con área de 50.24 cm²? (Usa π ≈ 3.14)
 
 ### Opciones
-- [ ] A) 8 cm
+- [x] A) 8 cm
   <!-- feedback: Correcto. Usando A = π × r², despejamos r² = 50.24 ÷ 3.14 = 16, entonces r = 4 cm. El diámetro es el doble: d = 2 × 4 = 8 cm. -->
 - [ ] B) 4 cm
   <!-- feedback: Incorrecto. 4 cm sería el radio, no el diámetro. El diámetro es el doble del radio: 2 × 4 = 8 cm. -->
 - [ ] C) 16 cm
   <!-- feedback: Incorrecto. 16 cm no satisface la fórmula A = π × r² porque 3.14 × 64 = 200.96, no 50.24. El diámetro correcto es 8 cm. -->
-- [x] D) 8 cm (ver explicación)
-  <!-- feedback: Incorrecto. Esta opción es igual a A, que es la respuesta correcta. El diámetro es 2 × 4 = 8 cm. -->
+- [ ] D) 12 cm
+  <!-- feedback: Incorrecto. 12 cm no es el resultado del problema. Es un error típico de cálculo: ese valor no aparece al aplicar bien la fórmula. El cálculo correcto es: Usando A = π × r², despejamos r² = 50.24 ÷ 3.14 = 16, entonces r = 4 cm. El diámetro es el doble: d = 2 × 4 = 8 cm. -->
 ### Explicacion Pedagogica
 Para encontrar el diámetro a partir del área, primero se despeja el radio: r² = A ÷ π = 50.24 ÷ 3.14 = 16. Luego se calcula el radio: r = √16 = 4 cm. Finalmente, el diámetro es el doble del radio: d = 2 × 4 = 8 cm. Es importante no confundir el radio con el diámetro en el resultado final.
-
 ## Question 8 [D9-D10]
 **ID:** CO-MAT-4-2026-W34-circunferencia-y-el-circulo-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
