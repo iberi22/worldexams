@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-33-grade-9-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-02T12:33:13.211Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-9-2026-W33-la-seguridad-ciudadana-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes acciones corresponde a una medida de prevención del delito?",
+      "context": "En un barrio de Medellín, los vecinos se organizan para mejorar la seguridad de su comunidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Organizar rondas de vigilancia vecinal con horarios rotativos",
+          "is_correct": true,
+          "feedback": "Correcto. Las rondas vecinales son una estrategia de prevención porque disuaden la presencia de delincuentes antes de que ocurra un hecho delictivo."
+        },
+        {
+          "letter": "B",
+          "text": "Esperar a que ocurra un robo para llamar a la Policía",
+          "is_correct": false,
+          "feedback": "Incorrecto. Actuar solo después del delito es una reacción tardía, no una prevención; la prevención busca evitar que el hecho suceda."
+        },
+        {
+          "letter": "C",
+          "text": "Comprar un arma de fuego para defenderse sin permiso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Portar un arma sin la autorización legal correspondiente es un delito en sí mismo y no constituye una medida preventiva legítima."
+        },
+        {
+          "letter": "D",
+          "text": "Ignorar las situaciones sospechosas para no involucrarse",
+          "is_correct": false,
+          "feedback": "Incorrecto. La indiferencia ante señales de riesgo elimina la oportunidad de prevenir el delito y debilita la convivencia comunitaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La prevención del delito son acciones que se toman antes de que ocurra un hecho delictivo para reducir las oportunidades de que suceda. Las rondas vecinales, la iluminación de espacios públicos y la organización comunitaria son ejemplos de prevención. Reaccionar después del hecho o actuar fuera de la ley no constituye prevención.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-9-2026-W33-la-seguridad-ciudadana-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W33-la-seguridad-ciudadana-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el mecanismo correcto para denunciar un caso de acoso escolar en Colombia?",
+      "context": "Un estudiante de Bogotá presencia un caso de acoso escolar en el colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacer pública la situación en redes sociales sin verificar los hechos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Exponer el caso en redes sin verificar puede generar estigmatización, ciberacoso y viola el debido proceso y la privacidad de los involucrados."
+        },
+        {
+          "letter": "B",
+          "text": "Informar a los profesores o al personero estudiantil para activar el protocolo de convivencia",
+          "is_correct": true,
+          "feedback": "Correcto. El personero estudiantil y los docentes son los canales institucionales que activan el protocolo de convivencia escolar para atender el caso."
+        },
+        {
+          "letter": "C",
+          "text": "Confrontar físicamente al agresor para defender al compañero",
+          "is_correct": false,
+          "feedback": "Incorrecto. La agresión física es una forma de violencia que agrava el conflicto y puede constituir un nuevo hecho sancionable dentro y fuera del colegio."
+        },
+        {
+          "letter": "D",
+          "text": "Guardar silencio para evitar problemas con los compañeros",
+          "is_correct": false,
+          "feedback": "Incorrecto. El silencio perpetúa el acoso y deja a la víctima sin protección; la convivencia escolar exige reportar los casos a las autoridades competentes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El acoso escolar (bullying) se denuncia a través de los canales institucionales del colegio: docentes, personero estudiantil y el comité de convivencia. Estos mecanismos garantizan un proceso de atención que protege a la víctima y sanciona al agresor conforme al manual de convivencia, sin recurrir a la violencia ni a la exposición pública.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.88,
+      "bundle_id": "CO-SOC-9-2026-W33-la-seguridad-ciudadana-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W33-la-seguridad-ciudadana-001-MASTERY-bundle-v3",
+      "statement": "¿Qué es la mediación como mecanismo de resolución de conflictos?",
+      "context": "En Cali, un grupo de jóvenes participa en un programa de resolución de conflictos en su comuna.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un enfrentamiento directo entre las partes para determinar quién tiene la razón",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enfrentamiento directo sin intermediario es una confrontación, no una mediación; la mediación requiere un tercero que facilite el diálogo."
+        },
+        {
+          "letter": "B",
+          "text": "Una decisión impuesta por un juez que las partes deben obedecer",
+          "is_correct": false,
+          "feedback": "Incorrecto. La decisión judicial impuesta es la sentencia, no la mediación; en la mediación el acuerdo lo construyen las partes, no lo impone un tercero."
+        },
+        {
+          "letter": "C",
+          "text": "Un proceso voluntario donde un tercero imparcial ayuda a las partes a llegar a un acuerdo",
+          "is_correct": true,
+          "feedback": "Correcto. La mediación es un mecanismo alternativo de solución de conflictos en el que un mediador neutral facilita el diálogo para que las partes construyan su propio acuerdo."
+        },
+        {
+          "letter": "D",
+          "text": "Un proceso donde una de las partes renuncia a sus derechos para evitar el conflicto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Renunciar a los derechos no resuelve el conflicto de fondo; la mediación busca acuerdos mutuos donde ambas partes conservan sus garantías."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La mediación es un mecanismo alternativo de resolución de conflictos reconocido en Colombia. Un mediador imparcial facilita la comunicación entre las partes en disputa para que ellas mismas encuentren una solución mutuamente aceptable. A diferencia del proceso judicial, no hay un ganador ni un perdedor impuesto, sino un acuerdo construido colectivamente.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.87,
+      "bundle_id": "CO-SOC-9-2026-W33-la-seguridad-ciudadana-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W33-la-seguridad-ciudadana-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la función principal de la Policía Nacional en materia de seguridad ciudadana?",
+      "context": "En Barranquilla, la comunidad debate sobre el papel de la Policía en la seguridad ciudadana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Financiar los programas sociales de prevención del delito",
+          "is_correct": false,
+          "feedback": "Incorrecto. El financiamiento de programas sociales corresponde al gobierno nacional y a las alcaldías; la Policía ejecuta operativos, no administra presupuesto social."
+        },
+        {
+          "letter": "B",
+          "text": "Administrar justicia y dictar sentencias penales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Administrar justicia corresponde a los jueces y tribunales, no a la Policía; la Policía investiga y captura, pero no sentencia."
+        },
+        {
+          "letter": "C",
+          "text": "Elaborar las leyes que definen los delitos y las penas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La creación de leyes es función del Congreso de la República; la Policía aplica las normas existentes, no las crea."
+        },
+        {
+          "letter": "D",
+          "text": "Prevenir, disuadir y atender los delitos y contravenciones en el territorio",
+          "is_correct": true,
+          "feedback": "Correcto. La Policía Nacional tiene la misión constitucional de mantener el orden público, prevenir delitos y proteger a los ciudadanos mediante la presencia y la atención oportuna."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La Policía Nacional de Colombia es un cuerpo civil armado cuya función principal es la seguridad ciudadana: prevenir delitos, mantener el orden público, proteger a las personas y sus bienes, y apoyar la investigación judicial. No administra justicia (eso corresponde al poder judicial) ni crea leyes (eso corresponde al Congreso).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.86,
+      "bundle_id": "CO-SOC-9-2026-W33-la-seguridad-ciudadana-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W33-la-seguridad-ciudadana-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál de las siguientes acciones es la más efectiva para que la comunidad aborde este problema de seguridad?",
+      "context": "En un barrio de Pereira, un grupo de vecinos nota que el alumbrado público de la plaza principal está dañado y hay robos frecuentes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar un derecho de petición a la Alcaldía solicitando la reparación del alumbrado y mayor presencia policial",
+          "is_correct": true,
+          "feedback": "Correcto. El derecho de petición es el mecanismo legal que permite a los ciudadanos exigir a las autoridades la atención de un problema público; la falta de alumbrado es responsabilidad del municipio."
+        },
+        {
+          "letter": "B",
+          "text": "Organizar un paro nacional para exigir seguridad en todo el país",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un paro nacional no resuelve el problema específico del alumbrado local; la acción debe dirigirse a la autoridad competente para ese territorio concreto."
+        },
+        {
+          "letter": "C",
+          "text": "Instalar cámaras de vigilancia privadas sin coordinarse con las autoridades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las cámaras privadas sin coordinación institucional no garantizan respuesta ante un delito y pueden generar problemas de privacidad y manejo de evidencia."
+        },
+        {
+          "letter": "D",
+          "text": "Mudarse del barrio para evitar la inseguridad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Abandonar el territorio no resuelve el problema estructural y debilita la comunidad; la seguridad ciudadana se construye con participación y exigibilidad de derechos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La seguridad ciudadana es una responsabilidad compartida entre el Estado y la comunidad. Cuando un espacio público presenta condiciones de riesgo (como falta de alumbrado), la vía efectiva es la acción colectiva organizada: presentar derechos de petición a la Alcaldía, que es la entidad responsable del alumbrado público, y coordinar con la Policía para la vigilancia. La participación ciudadana organizada es más efectiva que la acción individual o la huida del problema.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.82,
+      "bundle_id": "CO-SOC-9-2026-W33-la-seguridad-ciudadana-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W33-la-seguridad-ciudadana-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la acción más adecuada que debe tomar un testigo de un delito en el transporte público?",
+      "context": "En Cartagena, un joven es testigo de un robo en un transporte público y debe decidir cómo actuar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anotar características del hecho y del agresor, y llamar al 112 para reportar el delito",
+          "is_correct": true,
+          "feedback": "Correcto. El 112 es la línea de emergencias en Colombia; reportar con datos precisos (hora, lugar, descripción) permite la intervención oportuna y la investigación del hecho."
+        },
+        {
+          "letter": "B",
+          "text": "Grabar un video y publicarlo en redes sociales para denunciar el robo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Publicar el hecho en redes sin reportarlo a las autoridades no activa la investigación y puede poner en riesgo al testigo y a otras víctimas."
+        },
+        {
+          "letter": "C",
+          "text": "Perseguir al agresor para recuperar los objetos robados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Perseguir al agresor expone al testigo a un riesgo físico innecesario; la seguridad personal debe priorizarse sobre la recuperación de objetos."
+        },
+        {
+          "letter": "D",
+          "text": "No intervenir porque el robo no le afecta directamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. La omisión ante un delito debilita la seguridad colectiva; la ciudadanía activa exige reportar los hechos para proteger a toda la comunidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ante un delito, el testigo debe priorizar su seguridad y la de los demás, y reportar el hecho a las autoridades a través de los canales oficiales (línea 112, Policía, o transporte público con botón de pánico). Proporcionar información precisa (descripción del agresor, dirección, hora) es fundamental para la investigación. Actuar por cuenta propia o ignorar el hecho son conductas que no contribuyen a la seguridad ciudadana.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-9-2026-W33-la-seguridad-ciudadana-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W33-la-seguridad-ciudadana-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el rol del mediador escolar en un conflicto entre estudiantes?",
+      "context": "En Bucaramanga, un colegio implementa un programa de convivencia que incluye la figura del mediador escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Determinar qué estudiante es culpable y aplicar el castigo correspondiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Determinar culpabilidad y castigar es función del comité de convivencia o las autoridades disciplinarias, no del mediador; el mediador es neutral y no sanciona."
+        },
+        {
+          "letter": "B",
+          "text": "Facilitar el diálogo entre las partes para que encuentren una solución mutuamente aceptable",
+          "is_correct": true,
+          "feedback": "Correcto. El mediador escolar no impone sanciones ni toma partido; su función es guiar la comunicación para que los estudiantes lleguen a un acuerdo que restaure la convivencia."
+        },
+        {
+          "letter": "C",
+          "text": "Representar legalmente a uno de los estudiantes en el proceso",
+          "is_correct": false,
+          "feedback": "Incorrecto. La representación legal corresponde a abogados o defensores de familia; el mediador escolar es un facilitador del diálogo, no un representante legal."
+        },
+        {
+          "letter": "D",
+          "text": "Evitar que el conflicto llegue a las autoridades del colegio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocultar el conflicto no lo resuelve y puede agravarlo; la mediación busca transformar el conflicto en un acuerdo, no invisibilizarlo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La mediación escolar es un mecanismo de resolución de conflictos donde un estudiante o docente capacitado (mediador) facilita la comunicación entre las partes en disputa. El mediador no juzga ni sanciona; ayuda a los estudiantes a expresar sus perspectivas, identificar intereses comunes y construir acuerdos. Este mecanismo desarrolla habilidades de diálogo y convivencia pacífica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.78,
+      "bundle_id": "CO-SOC-9-2026-W33-la-seguridad-ciudadana-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W33-la-seguridad-ciudadana-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de las siguientes estrategias es más efectiva para prevenir el reclutamiento forzado de jóvenes en una comunidad?",
+      "context": "En Manizales, una comunidad rural enfrenta la presencia de un grupo armado ilegal que recluta jóvenes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aislar a los jóvenes en sus hogares para evitar que sean contactados",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aislamiento no es sostenible ni respeta los derechos de los jóvenes; la prevención requiere oportunidades y protección, no encierro."
+        },
+        {
+          "letter": "B",
+          "text": "Negociar directamente con el grupo armado para que deje de reclutar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Negociar directamente con grupos armados ilegales sin mediación del Estado es peligroso y no garantiza la protección de los jóvenes; la respuesta debe ser institucional."
+        },
+        {
+          "letter": "C",
+          "text": "Fortalecer la presencia institucional con programas educativos, laborales y de protección a la infancia",
+          "is_correct": true,
+          "feedback": "Correcto. El reclutamiento forzado se previene con oportunidades reales: educación, empleo juvenil y protección integral; la ausencia del Estado es el factor que los grupos armados aprovechan."
+        },
+        {
+          "letter": "D",
+          "text": "Ignorar la situación esperando que el grupo armado se retire solo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La inacción del Estado y la comunidad permite que el reclutamiento continúe; la prevención exige acción coordinada de las autoridades y la comunidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El reclutamiento forzado de menores es un delito grave que se previene con presencia integral del Estado: educación de calidad, oportunidades laborales para jóvenes, programas de protección a la infancia y acceso a la justicia. Las comunidades más vulnerables son aquellas donde el Estado tiene menor presencia. La prevención requiere coordinación entre autoridades locales, nacionales y la comunidad organizada.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.76,
+      "bundle_id": "CO-SOC-9-2026-W33-la-seguridad-ciudadana-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W33-la-seguridad-ciudadana-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál de las siguientes afirmaciones explica mejor la relación entre desempleo juvenil y delincuencia?",
+      "context": "En Villavicencio, un estudio revela que los barrios con mayor desempleo juvenil presentan tasas más altas de delincuencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los jóvenes desempleados se convierten en delincuentes",
+          "is_correct": false,
+          "feedback": "Incorrecto. La afirmación es una generalización falsa; la mayoría de los jóvenes desempleados no delinquen, y la delincuencia tiene múltiples causas además del desempleo."
+        },
+        {
+          "letter": "B",
+          "text": "La falta de oportunidades económicas puede llevar a algunos jóvenes a involucrarse en actividades ilícitas como medio de subsistencia",
+          "is_correct": true,
+          "feedback": "Correcto. La exclusión económica reduce las opciones legítimas de subsistencia; cuando no hay empleo ni educación, algunos jóvenes encuentran en la delincuencia una vía de ingresos, aunque no es la única causa del delito."
+        },
+        {
+          "letter": "C",
+          "text": "La delincuencia es la única causa del desempleo juvenil",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación causal es inversa: el desempleo y la exclusión son factores de riesgo para la delincuencia, no al revés; además, la delincuencia no es la única causa del desempleo."
+        },
+        {
+          "letter": "D",
+          "text": "El desempleo juvenil no tiene ninguna relación con la seguridad ciudadana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Múltiples estudios muestran correlación entre exclusión socioeconómica y delincuencia; negar esta relación impide diseñar políticas de prevención efectivas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La relación entre desempleo juvenil y delincuencia es un fenómeno complejo. La exclusión económica (falta de empleo, educación y oportunidades) es un factor de riesgo que puede empujar a algunos jóvenes hacia actividades ilícitas, pero no es la única causa ni determina que todos los desempleados delincan. La prevención efectiva requiere políticas integrales de empleo juvenil, educación y desarrollo comunitario.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.72,
+      "bundle_id": "CO-SOC-9-2026-W33-la-seguridad-ciudadana-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W33-la-seguridad-ciudadana-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál de las siguientes afirmaciones analiza de manera más equilibrada el debate sobre cámaras de vigilancia y privacidad?",
+      "context": "En Pasto, una comunidad debate si la instalación de cámaras de vigilancia en espacios públicos viola la privacidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las cámaras pueden mejorar la seguridad, pero su uso debe estar regulado para proteger la privacidad y evitar la vigilancia masiva",
+          "is_correct": true,
+          "feedback": "Correcto. El análisis equilibrado reconoce el beneficio de seguridad de las cámaras y exige un marco legal que limite su uso, garantice el acceso a las imágenes y evite la vigilancia arbitraria."
+        },
+        {
+          "letter": "B",
+          "text": "Las cámaras siempre violan la privacidad y deben prohibirse sin excepción",
+          "is_correct": false,
+          "feedback": "Incorrecto. La afirmación es absoluta e ignora que las cámaras reguladas pueden ser herramientas legítimas de seguridad; la prohibición total no considera contextos donde su uso es proporcional y legal."
+        },
+        {
+          "letter": "C",
+          "text": "Las cámaras son la solución definitiva a todos los problemas de seguridad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las cámaras son una herramienta, no una solución completa; la seguridad ciudadana requiere también presencia policial, prevención social y participación comunitaria."
+        },
+        {
+          "letter": "D",
+          "text": "La privacidad no es importante cuando se trata de seguridad",
+          "is_correct": false,
+          "feedback": "Incorrecto. La privacidad es un derecho fundamental que no se pierde por vivir en sociedad; la seguridad no justifica la vigilancia ilimitada ni la vulneración de derechos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El debate sobre cámaras de vigilancia en espacios públicos involucra dos derechos: la seguridad y la privacidad. Un análisis equilibrado reconoce que las cámaras pueden disuadir delitos y facilitar investigaciones, pero su uso debe estar regulado por normas que definan dónde se instalan, quién accede a las imágenes, cuánto tiempo se almacenan y con qué finalidad. Sin regulación, existe el riesgo de vigilancia masiva y vulneración de derechos fundamentales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-9-2026-W33-la-seguridad-ciudadana-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W33-la-seguridad-ciudadana-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál de las siguientes afirmaciones describe correctamente la responsabilidad de un testigo de violencia intrafamiliar?",
+      "context": "En Armenia, un caso de violencia intrafamiliar es reportado por un vecino que escuchó gritos y golpes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El testigo debe esperar a que la víctima pida ayuda antes de actuar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esperar a que la víctima pida ayuda puede ser demasiado tarde; muchas víctimas no pueden pedir ayuda por miedo o dependencia, y la ley permite que terceros reporten."
+        },
+        {
+          "letter": "B",
+          "text": "El testigo no debe intervenir porque es un asunto privado de la familia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La violencia intrafamiliar no es un asunto privado; es un delito público que afecta derechos fundamentales y la intervención puede salvar vidas."
+        },
+        {
+          "letter": "C",
+          "text": "El testigo debe confrontar directamente al agresor para detener la violencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confrontar al agresor puede escalar la violencia y poner en riesgo al testigo y a la víctima; la vía correcta es reportar a las autoridades capacitadas para intervenir."
+        },
+        {
+          "letter": "D",
+          "text": "El testigo debe reportar el hecho a las autoridades (Policía, ICBF o Fiscalía) para activar la protección de la víctima",
+          "is_correct": true,
+          "feedback": "Correcto. La violencia intrafamiliar es un delito y una violación de derechos; cualquier persona que tenga conocimiento puede y debe reportarla para que las autoridades activen los mecanismos de protección."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La violencia intrafamiliar es un delito en Colombia y una violación de los derechos humanos. Cualquier persona que tenga conocimiento de un caso puede reportarlo ante la Policía, el ICBF (Instituto Colombiano de Bienestar Familiar) o la Fiscalía. La ley no exige que la víctima denuncie; los terceros pueden y deben reportar para activar los mecanismos de protección. La intervención directa puede ser peligrosa; la vía correcta es la denuncia institucional.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.68,
+      "bundle_id": "CO-SOC-9-2026-W33-la-seguridad-ciudadana-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W33-la-seguridad-ciudadana-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál de las siguientes afirmaciones evalúa mejor la propuesta de un consejo de seguridad comunitaria?",
+      "context": "En Neiva, un grupo de ciudadanos propone crear un consejo de seguridad comunitaria coordinado con la Policía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El consejo es innecesario porque la Policía ya hace todo el trabajo de seguridad",
+          "is_correct": false,
+          "feedback": "Incorrecto. La seguridad ciudadana es una responsabilidad compartida; la Policía no puede conocer el territorio como la comunidad, y la cooperación mejora la prevención y la respuesta."
+        },
+        {
+          "letter": "B",
+          "text": "El consejo debe tener poder para detener y juzgar a los delincuentes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Detener y juzgar son funciones exclusivas del Estado (Policía y jueces); un consejo comunitario que asuma esas funciones actuaría fuera de la ley y violaría el debido proceso."
+        },
+        {
+          "letter": "C",
+          "text": "El consejo puede mejorar la coordinación entre comunidad y autoridades, pero debe respetar los derechos humanos y no sustituir la función policial",
+          "is_correct": true,
+          "feedback": "Correcto. La evaluación equilibrada reconoce el valor de la coordinación comunitaria y establece los límites: el consejo es un espacio de colaboración, no un grupo de vigilancia que reemplace a la Policía ni que viole derechos."
+        },
+        {
+          "letter": "D",
+          "text": "El consejo debe estar armado para enfrentar a los delincuentes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un consejo comunitario armado se convertiría en un grupo paramilitar ilegal; la seguridad ciudadana se construye con presencia institucional y participación civil, no con justicia privada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los consejos de seguridad comunitaria son espacios de coordinación entre la comunidad y las autoridades (Policía, Alcaldía) para identificar problemas, diseñar estrategias de prevención y mejorar la respuesta ante delitos. Su valor está en el conocimiento del territorio y la confianza comunitaria. Sin embargo, deben operar dentro del marco legal: no pueden detener, juzgar ni portar armas, pues esas funciones son exclusivas del Estado. La participación ciudadana fortalece la seguridad cuando se ejerce con respeto a los derechos humanos y a la ley.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-9-2026-W33-la-seguridad-ciudadana-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
