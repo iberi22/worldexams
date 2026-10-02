@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "sociales_ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-25-grade-9-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-02T11:47:41.537Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-9-2026-W25-las-comunidades-indigenas-001-MASTERY-bundle-v1",
+      "statement": "Cual de las siguientes opciones describe una característica fundamental de las comunidades indígenas en Colombia?",
+      "context": "En un colegio de Pasto, los estudiantes de grado 9 preparan una exposición sobre la diversidad cultural de Colombia y necesitan identificar características fundamentales de las comunidades indígenas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Poseen una identidad cultural propia, con lenguas, tradiciones y formas de organización social distintas a la sociedad mayoritaria.",
+          "is_correct": true,
+          "feedback": "Correcto. Las comunidades indígenas se distinguen por mantener una identidad cultural propia que incluye lenguas, costumbres y estructuras organizativas diferentes a las de la población mayoritaria."
+        },
+        {
+          "letter": "B",
+          "text": "Son grupos que abandonaron sus tradiciones y se integraron completamente a la cultura urbana colombiana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto describe un proceso de asimilación cultural, no la realidad de las comunidades indígenas que mantienen vivas sus tradiciones y su identidad propia."
+        },
+        {
+          "letter": "C",
+          "text": "Son exclusivamente poblaciones que habitan en zonas rurales dedicadas a la ganaderia extensiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las comunidades indígenas no se definen por la ganaderia; su identidad esta ligada a su cultura, territorio y formas de organización ancestral, no a una actividad económica especifica."
+        },
+        {
+          "letter": "D",
+          "text": "Son grupos que no reconocen la Constitución política de Colombia y rechazan cualquier forma de participación ciudadana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las comunidades indígenas participan en la vida política del país a traves de mecanismos de representación y consultas, y reconocen la Constitución como marco de sus derechos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las comunidades indígenas en Colombia son grupos poblacionales que mantienen una identidad cultural propia, con lenguas, sistemas de organización social, prácticas espirituales y formas de relación con el territorio que son distintas a las de la sociedad mayoritaria. Este reconocimiento de la diversidad cultural es un principio fundamental del Estado colombiano, que se define como multietico y pluricultural. Comprender esta característica es esencial para valorar la riqueza cultural del país y para entender por que existen políticas públicas especificas dirigidas a estas comunidades.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-9-2026-W25-las-comunidades-indigenas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W25-las-comunidades-indigenas-001-MASTERY-bundle-v2",
+      "statement": "Que significa que Colombia sea un Estado que reconoce la diversidad étnica y cultural?",
+      "context": "En una clase de sociales en Medellín, la profesora explica que Colombia se define como un Estado social de derecho que reconoce la diversidad étnica y cultural de la nación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Significa que todas las culturas del país deben unificarse en una sola identidad nacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La unificación cultural contradice el principio de diversidad; el Estado colombiano valora y protege las distintas culturas, no las elimina."
+        },
+        {
+          "letter": "B",
+          "text": "Significa que el Estado valora y protege las diferentes culturas, lenguas y tradiciones de los grupos que habitan el territorio nacional.",
+          "is_correct": true,
+          "feedback": "Correcto. Reconocer la diversidad étnica y cultural implica que el Estado protege y promueve las distintas expresiones culturales, lenguas y formas de vida de todos los grupos poblacionales."
+        },
+        {
+          "letter": "C",
+          "text": "Significa que solo las comunidades indígenas tienen derechos culturales, mientras que los demas grupos no.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diversidad étnica y cultural abarca a todos los grupos del país, incluyendo afrocolombianos, raizales, gitanos y la población mayoritaria, no solo a los indígenas."
+        },
+        {
+          "letter": "D",
+          "text": "Significa que el gobierno puede imponer una cultura oficial sobre las comunidades indígenas y afrocolombianas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Imponer una cultura oficial viola el principio de diversidad; el Estado debe garantizar la autonomía cultural de las comunidades, no suprimirla."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El reconocimiento de la diversidad étnica y cultural en Colombia significa que el Estado acepta y protege la existencia de múltiples culturas, lenguas y formas de vida dentro de su territorio. Este principio, consagrado en la Constitución política de 1991, establece que Colombia es una nación pluricultural y multietnica, lo que obliga al Estado a garantizar los derechos culturales de todas las comunidades, incluyendo a los indígenas, afrocolombianos, raizales y gitanos. Este reconocimiento es la base para políticas de inclusión y respeto a la diferencia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-9-2026-W25-las-comunidades-indigenas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W25-las-comunidades-indigenas-001-MASTERY-bundle-v3",
+      "statement": "Ante esta situación, que mecanismo de protección de derechos deberia activarse para garantizar la participación de la comunidad indígena en la decisión sobre el proyecto minero?",
+      "context": "En el municipio de Silvia, Cauca, una empresa minera quiere iniciar un proyecto de exploración en un territorio habitado por comunidades indígenas. Los lideres indígenas han expresado su preocupación por el impacto ambiental y cultural del proyecto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La consulta popular, porque permite que todos los ciudadanos del municipio voten sobre el proyecto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La consulta popular es un mecanismo de participación ciudadana general, pero no es el mecanismo especifico para proteger los derechos de las comunidades indígenas frente a proyectos en sus territorios."
+        },
+        {
+          "letter": "B",
+          "text": "El derecho de petición, porque permite a los ciudadanos solicitar información a las autoridades.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El derecho de petición es un mecanismo individual para solicitar información o intervención de autoridades, pero no garantiza la participación colectiva de la comunidad en decisiones que afectan su territorio."
+        },
+        {
+          "letter": "C",
+          "text": "La consulta previa, porque es el mecanismo que garantiza a las comunidades indígenas ser consultadas antes de la adopción de medidas que puedan afectar sus territorios o su cultura.",
+          "is_correct": true,
+          "feedback": "Correcto. La consulta previa es el mecanismo especifico que permite a las comunidades indígenas participar en las decisiones que afectan sus territorios, su cultura o su forma de vida, garantizando su derecho a ser escuchados antes de la implementación de proyectos."
+        },
+        {
+          "letter": "D",
+          "text": "La acción de tutela, porque protege los derechos fundamentales cuando son vulnerados por acciones u omisiones de autoridades o particulares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La acción de tutela es un mecanismo judicial para proteger derechos fundamentales ya vulnerados, no un mecanismo preventivo de participación en decisiones administrativas como la aprobación de un proyecto minero."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La consulta previa es un mecanismo fundamental de protección de los derechos de las comunidades indígenas y afrocolombianas. Consiste en el derecho de estas comunidades a ser consultadas de manera previa, libre e informada cuando se pretende adoptar una medida legislativa o administrativa que pueda afectar directamente sus territorios, su cultura o su forma de vida. En el caso de proyectos de exploración o explotación de recursos naturales en territorios indígenas, la consulta previa garantiza que la comunidad pueda participar en la decisión y que sus intereses sean considerados antes de autorizar el proyecto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-9-2026-W25-las-comunidades-indigenas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W25-las-comunidades-indigenas-001-MASTERY-bundle-v4",
+      "statement": "Cual de las siguientes opciones describe correctamente la autonomía de las comunidades indígenas en sus territorios?",
+      "context": "En Bogotá, un grupo de estudiantes de grado 9 investiga sobre los territorios indígenas y descubre que estas comunidades tienen formas especiales de administración y gobierno dentro de sus resguardos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las comunidades indígenas pueden crear sus propias leyes sin ninguna relación con el ordenamiento jurídico colombiano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La autonomía indígena no es absoluta; las comunidades deben ejercer su gobierno propio dentro del marco de la Constitución y las leyes de la República."
+        },
+        {
+          "letter": "B",
+          "text": "Las comunidades indígenas no tienen ninguna autonomía y deben seguir exclusivamente las normas de los municipios donde se ubican.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Negar toda autonomía contradice el reconocimiento constitucional de las comunidades indígenas como sujetos colectivos con derecho a su gobierno propio y a la administración de sus territorios."
+        },
+        {
+          "letter": "C",
+          "text": "Las comunidades indígenas pueden elegir a sus propias autoridades y administrar sus territorios, pero siempre dentro del marco de la Constitución política de Colombia.",
+          "is_correct": true,
+          "feedback": "Correcto. La autonomía indígena permite a las comunidades elegir sus autoridades, administrar sus territorios y aplicar su derecho propio, pero esta autonomía se ejerce dentro del marco constitucional y legal del país."
+        },
+        {
+          "letter": "D",
+          "text": "Las comunidades indígenas solo tienen autonomía en temas religiosos, pero no en la administración de sus territorios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La autonomía indígena abarca multiples dimensiones, incluyendo la administración territorial, la justicia propia y la organización social, no se limita a lo religioso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las comunidades indígenas en Colombia tienen reconocido un derecho a la autonomía y al gobierno propio dentro de sus territorios. Esta autonomía incluye la capacidad de elegir a sus autoridades tradicionales, administrar sus resguardos, aplicar su derecho propio en la resolución de conflictos internos y gestionar los recursos naturales de sus territorios. Sin embargo, esta autonomía no es absoluta: debe ejecutarse dentro del marco de la Constitución política y las leyes de la República, respetando los derechos fundamentales y la unidad del Estado colombiano.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-9-2026-W25-las-comunidades-indigenas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W25-las-comunidades-indigenas-001-MASTERY-bundle-v5",
+      "statement": "Que tipo de enfoque educativo seria el más apropiado para garantizar que los estudiantes Embera reciban una educación que respete su cultura y al mismo tiempo les permita acceder a los contenidos del sistema educativo colombiano?",
+      "context": "En el departamento del Choco, una escuela rural atiende a estudiantes de la comunidad Embera. La institución quiere implementar un programa educativo que respete la cultura de los estudiantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un enfoque de educación bilingue e intercultural que combine la ensenanza de la lengua y cultura Embera con los contenidos del curriculo nacional.",
+          "is_correct": true,
+          "feedback": "Correcto. La educación bilingue e intercultural permite a los estudiantes indígenas mantener su lengua y cultura mientras acceden a los conocimientos del sistema educativo nacional, garantizando una formación integral y respetuosa de su identidad."
+        },
+        {
+          "letter": "B",
+          "text": "Un programa de educación en español unicamente, para que los estudiantes se integren rápidamente a la cultura mayoritaria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Imponer solo el español y la cultura mayoritaria constituye un proceso de asimilación forzada que viola el derecho de los estudiantes indígenas a una educación que respete su identidad cultural."
+        },
+        {
+          "letter": "C",
+          "text": "Un programa educativo separado del sistema nacional, donde los estudiantes solo aprendan sobre su cultura sin contenidos academicos generales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aislar a los estudiantes indígenas del curriculo nacional limita sus oportunidades de acceso a la educación superior y al mercado laboral, perpetuando la desigualdad en lugar de superarla."
+        },
+        {
+          "letter": "D",
+          "text": "Un programa que ensene exclusivamente en la lengua Embera, sin incluir el español ni contenidos del sistema educativo colombiano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Enseñar solo en la lengua Embera sin incluir el español ni el curriculo nacional limita las oportunidades futuras de los estudiantes y no cumple con el derecho a una educación integral."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La educación bilingue e intercultural es el enfoque pedagogico que permite a las comunidades indígenas mantener su lengua, cultura y tradiciones mientras acceden a los contenidos academicos del sistema educativo colombiano. Este enfoque reconoce que los estudiantes indígenas tienen derecho a una educación que sea pertinente a su contexto cultural, pero que también les brinde las herramientas para participar en la sociedad amplia. La educación intercultural beneficia no solo a los estudiantes indígenas, sino a toda la sociedad, al fomentar el respeto y la valoración de la diversidad cultural.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-9-2026-W25-las-comunidades-indigenas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W25-las-comunidades-indigenas-001-MASTERY-bundle-v6",
+      "statement": "Analice esta situación: la instalación de equipos de una empresa de servicios públicos en territorio indígena sin consulta previa. Que tipo de vulneración de derechos se presenta?",
+      "context": "En Cali, un estudiante de grado 9 lee en el periodico que una comunidad indígena del Cauca ha denunciado que una empresa de servicios públicos instalo equipos en su territorio sin consultar a la comunidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo una vulneración de derechos de propiedad privada, porque la empresa invadio un terreno privado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema central no es la propiedad privada, sino la falta de consulta previa a la comunidad indígena, que es un derecho colectivo de participación y autonomía territorial."
+        },
+        {
+          "letter": "B",
+          "text": "Una vulneración del derecho a la consulta previa y a la autonomía territorial de la comunidad indígena.",
+          "is_correct": true,
+          "feedback": "Correcto. La instalación de equipos en territorio indígena sin consulta previa vulnera el derecho colectivo de la comunidad a ser consultada sobre decisiones que afectan su territorio, así como su autonomía para administrar sus espacios."
+        },
+        {
+          "letter": "C",
+          "text": "Una vulneración del derecho a la educación, porque los equipos pueden interferir con las actividades escolares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque los equipos pudieran afectar indirectamente la educación, la vulneración directa en este caso es del derecho a la consulta previa y la autonomía territorial, no del derecho a la educación."
+        },
+        {
+          "letter": "D",
+          "text": "Una vulneración del derecho a la libre empresa, porque la comunidad esta limitando la actividad económica de la empresa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La consulta previa no limita la libre empresa, sino que garantiza que las comunidades indígenas participen en decisiones que las afectan; el derecho a la consulta previa es un derecho colectivo que debe respetarse."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La instalación de equipos o infraestructura en territorios indígenas sin consulta previa constituye una vulneración de derechos fundamentales de estas comunidades. El derecho a la consulta previa es un mecanismo de protección que busca garantizar que las comunidades indígenas participen en las decisiones que afectan sus territorios, su cultura y su forma de vida. Cuando una empresa o entidad estatal realiza obras en territorio indígena sin consultar a la comunidad, vulnera no solo el derecho a la consulta previa, sino también la autonomía territorial y el derecho colectivo de estas comunidades a decidir sobre su propio desarrollo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-9-2026-W25-las-comunidades-indigenas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W25-las-comunidades-indigenas-001-MASTERY-bundle-v7",
+      "statement": "Analice la afirmación del estudiante. Cual es la explicación más precisa sobre las causas de la desigualdad que afecta a las comunidades indígenas?",
+      "context": "En Barranquilla, un grupo de estudiantes de grado 9 debate sobre las causas de la desigualdad que afecta a las comunidades indígenas en Colombia. Uno de los estudiantes afirma que la pobreza de estas comunidades se debe a que \"no quieren integrarse a la sociedad moderna\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La desigualdad se debe a que las comunidades indígenas tienen una cultura que no es compatible con el desarrollo económico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Culpar a la cultura indígena de la desigualdad es un prejuicio que ignora las causas estructurales como el despojo territorial, la falta de acceso a servicios y la discriminación histórica."
+        },
+        {
+          "letter": "B",
+          "text": "La desigualdad se debe a que las comunidades indígenas no reciben ninguna ayuda del Estado colombiano.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque las políticas públicas pueden ser insuficientes, el Estado colombiano si tiene programas y recursos dirigidos a las comunidades indígenas; el problema es más complejo que la simple ausencia de ayuda."
+        },
+        {
+          "letter": "C",
+          "text": "La desigualdad se explica por una combinación de factores historicos como el despojo territorial, la discriminación y el acceso desigual a servicios básicos como salud y educación.",
+          "is_correct": true,
+          "feedback": "Correcto. La desigualdad de las comunidades indígenas tiene causas estructurales multiples: el despojo histórico de sus tierras, la discriminación sistematica y el acceso desigual a servicios de salud, educación y oportunidades economicas."
+        },
+        {
+          "letter": "D",
+          "text": "La desigualdad se debe a que las comunidades indígenas prefieren vivir en condiciones de pobreza para mantener sus tradiciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta afirmación es un estereotipo que culpa a las victimas de su propia situación; las comunidades indígenas no eligen la pobreza, sino que son victimas de procesos historicos de exclusión y despojo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La desigualdad que afecta a las comunidades indígenas en Colombia no puede explicarse por un solo factor, sino por una combinación de causas estructurales. Entre estas se encuentran el despojo histórico de sus territorios durante la colonia y la república, la discriminación sistematica que han sufrido a lo largo de la historia, y el acceso desigual a servicios básicos como salud, educación y oportunidades economicas. Además, muchas comunidades indígenas habitan en zonas rurales alejadas donde la presencia del Estado es limitada. Comprender estas causas es fundamental para disenar políticas públicas efectivas que promuevan la inclusión y la equidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-9-2026-W25-las-comunidades-indigenas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W25-las-comunidades-indigenas-001-MASTERY-bundle-v8",
+      "statement": "Analice la situación: la expansión de proyectos turisticos en la Sierra Nevada de Santa Marta ha reducido el territorio disponible para las comunidades indígenas. Que impacto tiene esta situación en la comunidad?",
+      "context": "En un colegio de Bogotá, los estudiantes de grado 9 analizan un caso en el que una comunidad indígena de la Sierra Nevada de Santa Marta ha perdido parte de su territorio tradicional debido a la expansión de proyectos turisticos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un impacto positivo, porque el turismo genera empleo y desarrollo económico para la comunidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el turismo puede generar algunos empleos, en este caso se describe una reducción del territorio que afecta negativamente a la comunidad, no un beneficio."
+        },
+        {
+          "letter": "B",
+          "text": "Un impacto neutro, porque las comunidades indígenas no dependen del territorio para su supervivencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El territorio es fundamental para las comunidades indígenas, ya que de el dependen su alimentación, su cultura, su espiritualidad y su forma de vida; perderlo tiene un impacto profundo."
+        },
+        {
+          "letter": "C",
+          "text": "Un impacto negativo, porque la perdida del territorio afecta la capacidad de la comunidad para mantener su cultura, su alimentación y su forma de vida tradicional.",
+          "is_correct": true,
+          "feedback": "Correcto. El territorio es esencial para las comunidades indígenas: de el obtienen alimentos, medicinas y materiales, y en el desarrollan sus prácticas culturales y espirituales; perderlo afecta su supervivencia cultural y física."
+        },
+        {
+          "letter": "D",
+          "text": "Un impacto positivo, porque el turismo ayuda a preservar la cultura indígena al mostrarla a los visitantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el turismo puede difundir la cultura, la perdida de territorio es un dano que supera cualquier beneficio cultural; además, el turismo no controlado puede distorsionar y comercializar la cultura de manera irrespetuosa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El territorio tiene un significado fundamental para las comunidades indígenas que va mucho alla de la propiedad de la tierra. Para estas comunidades, el territorio es el espacio donde desarrollan su cultura, su espiritualidad, su alimentación y su forma de vida tradicional. La perdida de territorio debido a la expansión de proyectos turisticos, mineros o agroindustriales afecta directamente la capacidad de las comunidades para mantener su identidad cultural y su autosuficiencia alimentaria. Además, la perdida territorial puede generar desplazamiento forzado, pobreza y desintegración social, profundizando la desigualdad que ya afecta a estas comunidades.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-9-2026-W25-las-comunidades-indigenas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W25-las-comunidades-indigenas-001-MASTERY-bundle-v9",
+      "statement": "Evalue la siguiente afirmación: \"Las políticas públicas en Colombia han sido suficientes para garantizar los derechos de las comunidades indígenas\". Cual es la posición más crítica y fundamentada?",
+      "context": "En un debate escolar en Medellín, los estudiantes de grado 9 discuten sobre la efectividad de las políticas públicas para proteger los derechos de las comunidades indígenas en Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es insuficiente, porque aunque existen marcos legales y políticas públicas, en la práctica persisten problemas como el despojo territorial, la falta de consulta previa y la violencia contra lideres indígenas.",
+          "is_correct": true,
+          "feedback": "Correcto. Aunque Colombia tiene un marco legal avanzado, la implementación de políticas públicas es insuficiente: persisten el despojo territorial, la falta de consulta previa efectiva y la violencia contra comunidades y lideres indígenas."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es correcta, porque Colombia tiene una de las legislaciones más avanzadas del mundo en derechos indígenas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la legislación colombiana es avanzada, tener leyes no garantiza su cumplimiento efectivo; en la práctica, las comunidades indígenas siguen enfrentando violaciones de derechos y falta de protección estatal."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es correcta, porque las comunidades indígenas tienen sus propios sistemas de gobierno y no necesitan políticas públicas del Estado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque las comunidades indígenas tienen autonomía, esto no elimina la responsabilidad del Estado de garantizar sus derechos; la autonomía no sustituye la protección estatal ni el acceso a servicios básicos."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es insuficiente, porque las comunidades indígenas no quieren participar en las políticas públicas del Estado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Culpar a las comunidades indígenas de su propia exclusión es un prejuicio; el problema es la falta de voluntad política y recursos para implementar políticas efectivas, no la falta de interes de las comunidades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar la efectividad de las políticas públicas para las comunidades indígenas requiere analizar tanto el marco legal como su implementación práctica. Colombia tiene una legislación avanzada en derechos indígenas, incluyendo el reconocimiento de la diversidad cultural, los territorios indígenas y la consulta previa. Sin embargo, en la práctica persisten problemas graves: el despojo territorial por parte de actores armados y empresas, la falta de consulta previa efectiva, la violencia contra lideres indígenas y la insuficiencia de recursos para programas de salud y educación. Una posición crítica debe reconocer los avances legales senalando las brechas de implementación.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-W25-las-comunidades-indigenas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W25-las-comunidades-indigenas-001-MASTERY-bundle-v10",
+      "statement": "Evalue cual de las siguientes acciones de la sociedad civil seria más efectiva para contribuir a la protección de los derechos de las comunidades indígenas en Colombia?",
+      "context": "En un foro estudiantil en Cali, los estudiantes de grado 9 discuten sobre el papel de la sociedad civil en la protección de los derechos de las comunidades indígenas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Organizar campañas de donación de ropa y alimentos para las comunidades indígenas, sin consultar sus necesidades reales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las donaciones sin consultar las necesidades de la comunidad pueden ser inapropiadas o incluso contraproducentes; la ayuda efectiva requiere escuchar y respetar la autonomía de las comunidades."
+        },
+        {
+          "letter": "B",
+          "text": "Apoyar las iniciativas de las propias comunidades indígenas, respetando su autonomía y participando en sus procesos de consulta y decisión.",
+          "is_correct": true,
+          "feedback": "Correcto. La sociedad civil puede contribuir de manera efectiva apoyando las iniciativas que las propias comunidades indígenas definen, respetando su autonomía y participando en sus procesos de decisión, en lugar de imponer soluciones externas."
+        },
+        {
+          "letter": "C",
+          "text": "Promover la integración de las comunidades indígenas a la cultura mayoritaria como unica solución a la desigualdad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La integración forzada viola el derecho de las comunidades a mantener su cultura; la solución a la desigualdad no es la asimilación, sino la inclusión con respeto a la diversidad cultural."
+        },
+        {
+          "letter": "D",
+          "text": "Evitar cualquier contacto con las comunidades indígenas para no interferir en su forma de vida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aislamiento no es una forma de respeto; la sociedad civil puede y debe apoyar a las comunidades indígenas de manera respetuosa, sin que esto implique interferencia o imposición."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La sociedad civil puede jugar un papel importante en la protección de los derechos de las comunidades indígenas, pero debe hacerlo de manera respetuosa y colaborativa. La forma más efectiva de contribuir es apoyar las iniciativas que las propias comunidades indígenas definen, respetando su autonomía y participando en sus procesos de consulta y decisión. Esto implica escuchar sus necesidades, respetar sus formas de organización y evitar imponer soluciones externas que no correspondan a su realidad. La solidaridad efectiva no es caridad, sino colaboración basada en el respeto mutuo y el reconocimiento de la autonomía de las comunidades.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-W25-las-comunidades-indigenas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W25-las-comunidades-indigenas-001-MASTERY-bundle-v11",
+      "statement": "Evalue la siguiente afirmación: \"La defensa del territorio indígena es también una forma de proteger el medio ambiente\". Cual es la posición más fundamentada?",
+      "context": "En un proyecto de investigación en Pasto, los estudiantes de grado 9 analizan la relación entre la defensa del territorio indígena y la protección del medio ambiente en Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es incorrecta, porque las comunidades indígenas no tienen conocimientos sobre conservación ambiental.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las comunidades indígenas poseen conocimientos tradicionales sobre el manejo sostenible de los ecosistemas, acumulados a lo largo de generaciones, que son valiosos para la conservación ambiental."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es incorrecta, porque la defensa del territorio indígena solo beneficia a las comunidades y no tiene impacto en el medio ambiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La defensa del territorio indígena tiene un impacto directo en la conservación ambiental, ya que las comunidades indígenas son guardianes de ecosistemas como la Amazonia y los bosques tropicales."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es correcta, porque las comunidades indígenas son las principales responsables de la deforestación en Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las comunidades indígenas no son las principales responsables de la deforestación; esta es causada principalmente por la expansión agropecuaria, la mineria ilegal y el narcotrafico, no por las comunidades indígenas."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es correcta, porque las comunidades indígenas han demostrado ser guardianes de la biodiversidad y sus territorios coinciden con las áreas más conservadas del país.",
+          "is_correct": true,
+          "feedback": "Correcto. Las comunidades indígenas han demostrado ser guardianes de la biodiversidad: sus territorios tradicionales coinciden con las áreas mejor conservadas de Colombia, y sus prácticas culturales promueven el uso sostenible de los recursos naturales."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La defensa del territorio indígena y la protección del medio ambiente estan profundamente conectadas. Las comunidades indígenas han demostrado ser guardianes de la biodiversidad: sus territorios tradicionales coinciden con las áreas mejor conservadas de Colombia, como la Amazonia, la Sierra Nevada de Santa Marta y los bosques del Pacifico. Sus prácticas culturales, basadas en el respeto a la naturaleza y el uso sostenible de los recursos, han contribuido a preservar ecosistemas que son fundamentales para el equilibrio ambiental del planeta. Reconocer esta conexion es esencial para valorar el papel de las comunidades indígenas en la lucha contra el cambio climatico y la perdida de biodiversidad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-W25-las-comunidades-indigenas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W25-las-comunidades-indigenas-001-MASTERY-bundle-v12",
+      "statement": "Evalue cual de las siguientes opciones explica mejor por que es importante la representación política de las comunidades indígenas en los espacios de decisión de Colombia?",
+      "context": "En un consejo estudiantil en Bogotá, los estudiantes de grado 9 discuten sobre la importancia de la representación política de las comunidades indígenas en los espacios de decisión del país.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es importante porque las comunidades indígenas necesitan que otros decidan por ellos, ya que no tienen capacidad de gobierno propio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las comunidades indígenas si tienen capacidad de gobierno propio; la representación política no es para que otros decidan por ellos, sino para que sus voces sean escuchadas en decisiones que les afectan."
+        },
+        {
+          "letter": "B",
+          "text": "Es importante porque las comunidades indígenas son la mayoria de la población colombiana y por eso deben tener mayor representación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las comunidades indígenas no son la mayoria de la población colombiana; su representación se justifica por su condición de grupo vulnerable y por el principio de inclusión, no por su numero."
+        },
+        {
+          "letter": "C",
+          "text": "Es importante porque las comunidades indígenas deben tener representación en todos los espacios de decisión, sin ninguna limitación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la representación es importante, esta debe ser proporcional y respetuosa de la autonomía de las comunidades; no se trata de una representación ilimitada, sino de una participación significativa."
+        },
+        {
+          "letter": "D",
+          "text": "Es importante porque garantiza que las voces y perspectivas de las comunidades indígenas sean consideradas en las decisiones que afectan sus territorios, su cultura y sus derechos.",
+          "is_correct": true,
+          "feedback": "Correcto. La representación política de las comunidades indígenas garantiza que sus perspectivas y necesidades sean consideradas en las decisiones que les afectan, promoviendo la inclusión y la equidad en la toma de decisiones del país."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La representación política de las comunidades indígenas en los espacios de decisión de Colombia es fundamental para garantizar la inclusión y la equidad. Cuando las comunidades indígenas participan en la toma de decisiones, sus voces y perspectivas son consideradas en temas que afectan directamente sus territorios, su cultura y sus derechos. Esta representación no solo beneficia a las comunidades indígenas, sino a toda la sociedad, al enriquecer el debate público con visiones diversas y promover políticas públicas más justas e inclusivas. La participación política es un derecho fundamental que fortalece la democracia y la convivencia en una sociedad plural.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-W25-las-comunidades-indigenas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

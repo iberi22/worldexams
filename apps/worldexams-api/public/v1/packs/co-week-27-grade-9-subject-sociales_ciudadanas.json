@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "sociales_ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-27-grade-9-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-02T11:47:41.538Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-9-2026-W27-el-ambiente-y-el-desarrollo-sostenible-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la principal causa de la contaminación de fuentes hídricas en zonas urbanas colombianas?",
+      "context": "En Medellín, una comunidad del barrio Popular ha notado que el río Medellín cada vez tiene menos agua limpia. Los líderes comunitarios quieren entender por qué ocurre esto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La falta de lluvias en todo el territorio nacional",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el clima influye, la contaminación del agua urbana no se debe principalmente a la falta de lluvias, sino a actividades humanas directas."
+        },
+        {
+          "letter": "B",
+          "text": "El vertimiento de aguas residuales sin tratamiento adecuado",
+          "is_correct": true,
+          "feedback": "Correcto. El vertimiento de aguas residuales domésticas e industriales sin tratamiento es la principal causa de contaminación hídrica en ciudades colombianas."
+        },
+        {
+          "letter": "C",
+          "text": "La presencia de peces nativos en los ríos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los peces nativos son parte del ecosistema acuático saludable y no causan contaminación; su presencia indica un ambiente equilibrado."
+        },
+        {
+          "letter": "D",
+          "text": "La construcción de parques y zonas verdes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los parques y zonas verdes mejoran la calidad ambiental y ayudan a filtrar contaminantes, no contaminan las fuentes de agua."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La contaminación de fuentes hídricas en zonas urbanas colombianas se produce principalmente por el vertimiento de aguas residuales domésticas e industriales sin tratamiento adecuado. En ciudades como Medellín, Bogotá y Cali, las plantas de tratamiento de aguas residuales son insuficientes o no funcionan correctamente, lo que permite que desechos orgánicos, químicos y sólidos lleguen directamente a los ríos. Este problema afecta la salud pública, la biodiversidad acuática y la disponibilidad de agua potable para las comunidades.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-9-2026-W27-el-ambiente-y-el-desarrollo-sostenible-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W27-el-ambiente-y-el-desarrollo-sostenible-001-MASTERY-bundle-v2",
+      "statement": "¿Qué significa el concepto de \"desarrollo sostenible\" en el contexto de la gestión de residuos?",
+      "context": "En Bogotá, el gobierno distrital implementó un programa de reciclaje que busca reducir la cantidad de residuos que van al relleno sanitario Doña Juana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Satisfacer las necesidades actuales sin comprometer la capacidad de las futuras generaciones",
+          "is_correct": true,
+          "feedback": "Correcto. El desarrollo sostenible se define como satisfacer las necesidades del presente sin comprometer la capacidad de las futuras generaciones para satisfacer las suyas."
+        },
+        {
+          "letter": "B",
+          "text": "Producir la mayor cantidad de residuos posible para la economía",
+          "is_correct": false,
+          "feedback": "Incorrecto. Producir más residuos va en contra de la sostenibilidad, ya que agota recursos y genera contaminación que afecta a las futuras generaciones."
+        },
+        {
+          "letter": "C",
+          "text": "Utilizar todos los recursos naturales disponibles sin restricciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usar recursos sin restricciones agota las reservas naturales y destruye ecosistemas, lo cual es insostenible a largo plazo."
+        },
+        {
+          "letter": "D",
+          "text": "Dejar de producir bienes y servicios para proteger el ambiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desarrollo sostenible no implica dejar de producir, sino producir de manera responsable, equilibrando economía, sociedad y ambiente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El desarrollo sostenible es un concepto que busca equilibrar el crecimiento económico con la protección ambiental y el bienestar social. En la gestión de residuos, esto significa implementar prácticas como el reciclaje, la reutilización y la reducción en la fuente, que permitan satisfacer las necesidades actuales de la sociedad sin agotar los recursos naturales ni degradar los ecosistemas para las futuras generaciones. La definición clásica proviene del Informe Brundtland de 1987.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-9-2026-W27-el-ambiente-y-el-desarrollo-sostenible-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W27-el-ambiente-y-el-desarrollo-sostenible-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de las siguientes acciones sería más efectiva para que la empresa reduzca su impacto ambiental?",
+      "context": "En Cali, una empresa de manufactura quiere reducir su huella ambiental. Actualmente usa energía de combustibles fósiles y genera 500 kg de residuos mensuales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumentar la producción para economías de escala",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aumentar la producción sin cambiar los métodos incrementaría el consumo de energía y la generación de residuos, empeorando el impacto ambiental."
+        },
+        {
+          "letter": "B",
+          "text": "Contratar más personal para limpiar la fábrica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contratar personal de limpieza no reduce la generación de residuos ni el consumo de energía; solo maneja los desechos después de que se producen."
+        },
+        {
+          "letter": "C",
+          "text": "Implementar un sistema de energía solar y programa de reciclaje",
+          "is_correct": true,
+          "feedback": "Correcto. La energía solar reduce la dependencia de combustibles fósiles y el reciclaje disminuye los residuos que van al relleno sanitario, atacando ambas fuentes de impacto ambiental."
+        },
+        {
+          "letter": "D",
+          "text": "Mover la fábrica a una zona rural lejana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mover la fábrica no reduce el impacto ambiental; solo traslada el problema a otra zona, además de aumentar las emisiones por transporte de productos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para reducir el impacto ambiental de una empresa, es necesario atacar las fuentes de contaminación: el consumo de energía y la generación de residuos. Implementar energías renovables como la solar reduce las emisiones de gases de efecto invernadero, mientras que un programa de reciclaje permite reutilizar materiales y disminuir la cantidad de desechos que llegan a los rellenos sanitarios. Estas acciones son más efectivas que medidas superficiales porque transforman el proceso productivo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-9-2026-W27-el-ambiente-y-el-desarrollo-sostenible-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W27-el-ambiente-y-el-desarrollo-sostenible-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de los siguientes beneficios económicos y ambientales se obtiene al promover el uso de bicicletas en una ciudad?",
+      "context": "En Barranquilla, el distrito quiere promover el uso de bicicletas como transporte alternativo para reducir la contaminación del aire y mejorar la movilidad urbana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumento en la venta de combustibles fósiles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Promover bicicletas reduce el uso de vehículos motorizados, lo cual disminuye la demanda de combustibles fósiles, no la aumenta."
+        },
+        {
+          "letter": "B",
+          "text": "Reducción de emisiones de gases contaminantes y ahorro en costos de transporte",
+          "is_correct": true,
+          "feedback": "Correcto. Las bicicletas no emiten gases contaminantes y representan un ahorro significativo en combustible, mantenimiento y costos de transporte para los ciudadanos."
+        },
+        {
+          "letter": "C",
+          "text": "Mayor congestión vehicular en las vías principales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las bicicletas ocupan menos espacio que los automóviles y reducen la congestión vehicular, no la aumentan."
+        },
+        {
+          "letter": "D",
+          "text": "Incremento en los accidentes de tránsito",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque se deben tomar medidas de seguridad, el uso de bicicletas bien reguladas no incrementa los accidentes; de hecho, reduce la velocidad del tráfico y mejora la seguridad vial."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Promover el uso de bicicletas como transporte urbano genera beneficios tanto económicos como ambientales. Ambientalmente, las bicicletas no emiten gases de efecto invernadero ni partículas contaminantes, lo que mejora la calidad del aire en ciudades como Barranquilla. Económicamente, los ciudadanos ahorran en combustible, mantenimiento de vehículos y costos de estacionamiento, mientras que el Estado reduce la inversión en infraestructura vial y los costos de salud asociados a la contaminación del aire.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-9-2026-W27-el-ambiente-y-el-desarrollo-sostenible-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W27-el-ambiente-y-el-desarrollo-sostenible-001-MASTERY-bundle-v5",
+      "statement": "¿Qué práctica agrícola sostenible deberían implementar los caficultores para obtener la certificación?",
+      "context": "En Manizales, una cooperativa de caficultores quiere obtener un certificado de comercio justo y sostenibilidad ambiental para vender su café a mejor precio en mercados internacionales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Deforestar más terreno para aumentar la producción",
+          "is_correct": false,
+          "feedback": "Incorrecto. La deforestación destruye ecosistemas, reduce la biodiversidad y va en contra de los principios de sostenibilidad ambiental que exigen las certificaciones."
+        },
+        {
+          "letter": "B",
+          "text": "Usar más fertilizantes químicos para mejorar el rendimiento",
+          "is_correct": false,
+          "feedback": "Incorrecto. El uso excesivo de fertilizantes químicos contamina el suelo y las fuentes de agua, lo cual es incompatible con las certificaciones de sostenibilidad ambiental."
+        },
+        {
+          "letter": "C",
+          "text": "Implementar sistemas agroforestales que combinen café con árboles nativos",
+          "is_correct": true,
+          "feedback": "Correcto. Los sistemas agroforestales protegen la biodiversidad, previenen la erosión del suelo y capturan carbono, cumpliendo con los estándares de sostenibilidad ambiental."
+        },
+        {
+          "letter": "D",
+          "text": "Aumentar el uso de maquinaria pesada para reducir costos laborales",
+          "is_correct": false,
+          "feedback": "Incorrecto. La maquinaria pesada compacta el suelo, aumenta la erosión y consume combustibles fósiles, lo cual no cumple con los criterios de sostenibilidad ambiental."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los sistemas agroforestales combinan cultivivos como el café con árboles nativos, creando un ecosistema que protege la biodiversidad, previene la erosión del suelo y captura carbono de la atmósfera. Esta práctica es fundamental para obtener certificaciones de sostenibilidad ambiental porque demuestra que la producción agrícola puede ser rentable sin degradar los recursos naturales. Además, los árboles proporcionan sombra al café, mejorando su calidad y reduciendo la necesidad de riego.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-9-2026-W27-el-ambiente-y-el-desarrollo-sostenible-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W27-el-ambiente-y-el-desarrollo-sostenible-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el objetivo principal del impuesto al carbono en Colombia?",
+      "context": "En Colombia, el gobierno nacional implementó el impuesto al carbono como parte de su estrategia para reducir las emisiones de gases de efecto invernadero y cumplir con los compromisos del Acuerdo de París.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desincentivar el uso de combustibles fósiles mediante un costo económico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el impuesto al carbono busca desincentivar los combustibles fósiles, esta opción no es la respuesta correcta porque el mecanismo específico es internalizar los costos ambientales."
+        },
+        {
+          "letter": "B",
+          "text": "Financiar exclusivamente la exploración de nuevos yacimientos petroleros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Financiar la exploración petrolera contradice el objetivo del impuesto, que es reducir la dependencia de combustibles fósiles y las emisiones de carbono."
+        },
+        {
+          "letter": "C",
+          "text": "Aumentar los ingresos del gobierno sin afectar el comportamiento de los consumidores",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si el impuesto no afecta el comportamiento de los consumidores, no logra su objetivo ambiental; el propósito es precisamente cambiar los patrones de consumo."
+        },
+        {
+          "letter": "D",
+          "text": "Internalizar los costos ambientales de las emisiones para cambiar el comportamiento",
+          "is_correct": true,
+          "feedback": "Correcto. El impuesto al carbono internaliza los costos ambientales de las emisiones, haciendo que los combustibles fósiles sean más caros y desincentivando su uso."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El impuesto al carbono es una herramienta económica que busca internalizar los costos ambientales de las emisiones de gases de efecto invernadero. Al hacer que los combustibles fósiles sean más costosos, se desincentiva su consumo y se promueven alternativas más limpias como las energías renovables. En Colombia, este impuesto forma parte de la estrategia nacional para cumplir con los compromisos del Acuerdo de París y reducir las emisiones en un 51% para el año 2030.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-9-2026-W27-el-ambiente-y-el-desarrollo-sostenible-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W27-el-ambiente-y-el-desarrollo-sostenible-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el conflicto central entre la minería a gran escala y las comunidades locales en zonas de reserva forestal?",
+      "context": "En el departamento de Antioquia, una empresa minera quiere explotar oro en una zona de reserva forestal. Las comunidades locales se oponen porque dependen del agua y los bosques de la región.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las comunidades quieren más empleos mineros pero la empresa no los contrata",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conflicto no es por falta de empleo minero, sino porque la minería destruye los recursos naturales de los que dependen las comunidades para su sustento."
+        },
+        {
+          "letter": "B",
+          "text": "La empresa minera quiere proteger el ambiente pero las comunidades no",
+          "is_correct": false,
+          "feedback": "Incorrecto. La empresa minera busca extraer recursos naturales para obtener ganancias, no proteger el ambiente; son las comunidades las que defienden la conservación."
+        },
+        {
+          "letter": "C",
+          "text": "La minería destruye ecosistemas y fuentes de agua de las que dependen las comunidades",
+          "is_correct": true,
+          "feedback": "Correcto. La minería a gran escala deforesta, contamina el agua y destruye hábitats, afectando directamente los medios de vida de las comunidades que dependen de esos recursos."
+        },
+        {
+          "letter": "D",
+          "text": "Las comunidades quieren cobrar impuestos a la empresa minera",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conflicto no es fiscal; las comunidades se oponen porque la minería amenaza su acceso al agua, la tierra y los bosques que son esenciales para su supervivencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El conflicto entre la minería a gran escala y las comunidades locales en zonas de reserva forestal se centra en el uso y conservación de los recursos naturales. La minería requiere deforestar grandes extensiones de tierra, consume y contamina fuentes de agua, y destruye hábitats de flora y fauna. Las comunidades locales, que dependen directamente de estos recursos para su alimentación, agua potable y actividades económicas como la agricultura y el ecoturismo, ven amenazados sus medios de vida. Este conflicto refleja la tensión entre el desarrollo económico extractivista y la sostenibilidad ambiental.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-9-2026-W27-el-ambiente-y-el-desarrollo-sostenible-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W27-el-ambiente-y-el-desarrollo-sostenible-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de las siguientes prácticas agropecuarias contribuye más a la mitigación del cambio climático?",
+      "context": "En Colombia, el sector agropecuario es uno de los principales emisores de gases de efecto invernadero debido a la ganadería extensiva y el uso de fertilizantes químicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ampliar la frontera agrícola deforestando bosques",
+          "is_correct": false,
+          "feedback": "Incorrecto. Deforestar bosques libera grandes cantidades de carbono almacenado y reduce la capacidad de absorción de CO2, aumentando las emisiones netas."
+        },
+        {
+          "letter": "B",
+          "text": "Implementar pastoreo rotativo que permite la recuperación de los suelos",
+          "is_correct": true,
+          "feedback": "Correcto. El pastoreo rotativo mejora la salud del suelo, aumenta su capacidad de captura de carbono y reduce la necesidad de fertilizantes químicos."
+        },
+        {
+          "letter": "C",
+          "text": "Usar más fertilizantes químicos para aumentar la producción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los fertilizantes químicos emiten óxido nitroso, un potente gas de efecto invernadero, y degradan la salud del suelo a largo plazo."
+        },
+        {
+          "letter": "D",
+          "text": "Quemar residuos agrícolas para limpiar los campos rápidamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quemar residuos agrícolas libera CO2 y partículas contaminantes a la atmósfera, contribuyendo al cambio climático y a la contaminación del aire."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El pastoreo rotativo es una práctica agropecuaria sostenible que consiste en mover el ganado entre diferentes potreros, permitiendo que los pastos se regeneren y los suelos se recuperen. Esta práctica aumenta la materia orgánica del suelo, lo que mejora su capacidad de captura y almacenamiento de carbono. Además, reduce la necesidad de fertilizantes químicos y previene la degradación de la tierra, contribuyendo a la mitigación del cambio climático mientras mantiene la productividad ganadera.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-9-2026-W27-el-ambiente-y-el-desarrollo-sostenible-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W27-el-ambiente-y-el-desarrollo-sostenible-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál de las siguientes posiciones es más coherente con el principio de desarrollo sostenible?",
+      "context": "En Colombia, el gobierno nacional debe decidir entre promover la explotación petrolera en el Catatumbo para aumentar los ingresos fiscales o proteger la zona como reserva ambiental para conservar la biodiversidad y el agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evaluar los impactos ambientales y sociales antes de decidir, buscando un equilibrio",
+          "is_correct": true,
+          "feedback": "Correcto. El desarrollo sostenible exige evaluar los impactos ambientales, sociales y económicos antes de tomar decisiones, buscando un equilibrio entre las tres dimensiones."
+        },
+        {
+          "letter": "B",
+          "text": "Proteger la zona indefinidamente sin considerar las necesidades económicas de la región",
+          "is_correct": false,
+          "feedback": "Incorrecto. La protección absoluta sin considerar el desarrollo económico y social de las comunidades locales también es insostenible, pues ignora la dimensión social."
+        },
+        {
+          "letter": "C",
+          "text": "Explotar el petróleo inmediatamente para maximizar los ingresos fiscales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Maximizar ingresos a corto plazo sin considerar los costos ambientales y sociales a largo plazo viola el principio de desarrollo sostenible."
+        },
+        {
+          "letter": "D",
+          "text": "Dejar que las empresas decidan libremente sin regulación estatal",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ausencia de regulación estatal permite que las empresas prioricen ganancias sobre la protección ambiental, lo cual es contrario al desarrollo sostenible."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El desarrollo sostenible exige un equilibrio entre tres dimensiones: económica, social y ambiental. Antes de decidir sobre la explotación de recursos naturales en zonas sensibles como el Catatumbo, es necesario realizar estudios de impacto ambiental y social que evalúen los costos y beneficios a corto y largo plazo. La decisión debe buscar maximizar el bienestar social mientras se minimiza el daño ambiental, garantizando que las futuras generaciones también puedan beneficiarse de los recursos naturales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-W27-el-ambiente-y-el-desarrollo-sostenible-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W27-el-ambiente-y-el-desarrollo-sostenible-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál de las siguientes críticas es más válida respecto a los incentivos económicos para la sostenibilidad ambiental?",
+      "context": "En Medellín, el gobierno local implementó un programa de \"bonos verdes\" que otorga incentivos económicos a empresas que reducen su huella de carbono y adoptan prácticas sostenibles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los incentivos pueden ser insuficientes si no van acompañados de regulación y monitoreo",
+          "is_correct": true,
+          "feedback": "Correcto. Los incentivos económicos por sí solos pueden no ser suficientes; sin regulación y monitoreo, algunas empresas pueden continuar con prácticas contaminantes mientras reciben beneficios."
+        },
+        {
+          "letter": "B",
+          "text": "Los incentivos son innecesarios porque todas las empresas ya son sostenibles",
+          "is_correct": false,
+          "feedback": "Incorrecto. No todas las empresas adoptan prácticas sostenibles voluntariamente; los incentivos son necesarios para motivar el cambio en sectores con altos costos de transición."
+        },
+        {
+          "letter": "C",
+          "text": "Los incentivos deben eliminarse porque aumentan los impuestos a todos los ciudadanos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eliminar los incentivos eliminaría una herramienta efectiva para promover la sostenibilidad; el problema no es el incentivo en sí, sino su diseño e implementación."
+        },
+        {
+          "letter": "D",
+          "text": "Los incentivos solo benefician a las grandes empresas y nunca a las pequeñas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque puede haber desafíos de acceso, los incentivos bien diseñados pueden beneficiar a empresas de todos los tamaños, incluyendo pequeñas y medianas empresas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los incentivos económicos como los \"bonos verdes\" son herramientas efectivas para promover la sostenibilidad ambiental, pero tienen limitaciones. Si no van acompañadas de regulación clara, monitoreo riguroso y sanciones por incumplimiento, algunas empresas pueden aprovechar los beneficios sin realizar cambios reales en sus prácticas. Para que sean efectivos, los incentivos deben diseñarse con metas medibles, plazos definidos y mecanismos de verificación que garanticen que el dinero público se invierte en transformaciones ambientales reales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-W27-el-ambiente-y-el-desarrollo-sostenible-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W27-el-ambiente-y-el-desarrollo-sostenible-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál de las siguientes estrategias es más efectiva para garantizar la seguridad energética y la sostenibilidad ambiental en Colombia?",
+      "context": "En Colombia, el sector eléctrico depende en un 70% de la energía hidroeléctrica, lo que lo hace vulnerable a los fenómenos de El Niño y La Niña que alteran los patrones de lluvia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Construir más represas hidroeléctricas en todas las cuencas del país",
+          "is_correct": false,
+          "feedback": "Incorrecto. Construir más represas sin evaluar impactos ambientales y sociales puede destruir ecosistemas y desplazar comunidades, además de no resolver la vulnerabilidad al cambio climático."
+        },
+        {
+          "letter": "B",
+          "text": "Aumentar la generación de energía a partir de carbón y petróleo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los combustibles fósiles aumentan las emisiones de gases de efecto invernadero y contribuyen al cambio climático, lo cual es contrario a la sostenibilidad ambiental."
+        },
+        {
+          "letter": "C",
+          "text": "Importar energía de países vecinos para cubrir la demanda",
+          "is_correct": false,
+          "feedback": "Incorrecto. Importar energía no resuelve la vulnerabilidad energética del país; además, puede aumentar los costos y no necesariamente garantiza energía limpia."
+        },
+        {
+          "letter": "D",
+          "text": "Diversificar la matriz energética con energías renovables como solar y eólica",
+          "is_correct": true,
+          "feedback": "Correcto. Diversificar la matriz energética reduce la dependencia de una sola fuente, aumenta la resiliencia ante el cambio climático y promueve energías limpias y sostenibles."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La seguridad energética y la sostenibilidad ambiental requieren diversificar la matriz energética para reducir la dependencia de una sola fuente. Colombia tiene un gran potencial para desarrollar energías renovables como la solar, eólica y biomasa, que son menos vulnerables a la variabilidad climática que la energía hidroeléctrica. Una matriz diversificada no solo garantiza el suministro eléctrico durante fenómenos como El Niño, sino que también reduce las emisiones de gases de efecto invernadero y promueve el desarrollo de nuevas industrias verdes.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-W27-el-ambiente-y-el-desarrollo-sostenible-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W27-el-ambiente-y-el-desarrollo-sostenible-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál de las siguientes afirmaciones refleja mejor la relación entre justicia ambiental y derechos territoriales en Colombia?",
+      "context": "En Colombia, las comunidades indígenas y afrodescendientes han sido históricamente las más afectadas por la explotación de recursos naturales en sus territorios, a pesar de que son quienes mejor han conservado los ecosistemas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las comunidades indígenas y afrodescendientes deben abandonar sus territorios para proteger el ambiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Desplazar a las comunidades de sus territorios es injusto y contraproducente; son ellas quienes han conservado los ecosistemas mediante sus prácticas tradicionales."
+        },
+        {
+          "letter": "B",
+          "text": "La explotación de recursos naturales debe continuar sin consultar a las comunidades porque genera empleo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La explotación sin consulta previa viola los derechos territoriales de las comunidades y ha demostrado ser insostenible ambiental y socialmente."
+        },
+        {
+          "letter": "C",
+          "text": "Las comunidades deben pagar impuestos por conservar los recursos naturales en sus territorios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cobrar impuestos por conservar el ambiente es injusto; las comunidades ya proveen un servicio ambiental invaluable que beneficia a toda la sociedad."
+        },
+        {
+          "letter": "D",
+          "text": "La protección ambiental requiere reconocer y garantizar los derechos territoriales de las comunidades",
+          "is_correct": true,
+          "feedback": "Correcto. Las comunidades indígenas y afrodescendientes han demostrado ser los mejores guardianes de los ecosistemas; garantizar sus derechos territoriales es esencial para la sostenibilidad ambiental."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La justicia ambiental reconoce que las comunidades indígenas y afrodescendientes han sido las más afectadas por la explotación de recursos naturales, a pesar de ser quienes mejor han conservado los ecosistemas mediante sus prácticas tradicionales. Garantizar sus derechos territoriales no solo es una cuestión de justicia social, sino también una estrategia efectiva de conservación ambiental. Cuando las comunidades tienen control sobre sus territorios, implementan prácticas sostenibles que protegen la biodiversidad, los bosques y las fuentes de agua para las futuras generaciones.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-W27-el-ambiente-y-el-desarrollo-sostenible-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

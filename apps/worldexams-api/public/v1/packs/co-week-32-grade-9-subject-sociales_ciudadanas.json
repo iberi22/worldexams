@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "sociales_ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-32-grade-9-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-02T11:47:41.540Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-9-2026-W32-la-democracia-y-el-proceso-electoral-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes opciones describe mejor la democracia como sistema político?",
+      "context": "En un colegio de Medellín, la profesora de sociales explica a sus estudiantes qué es la democracia antes de la elección de personero estudiantil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un sistema donde el poder lo ejerce una sola persona de forma vitalicia",
+          "is_correct": false,
+          "feedback": "Incorrecto. En una dictadura o monarquía absoluta el poder lo ejerce una sola persona, no en la democracia donde el poder emana del pueblo."
+        },
+        {
+          "letter": "B",
+          "text": "Un sistema donde las decisiones las toma únicamente el ejército",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cuando el ejército toma las decisiones políticas se trata de un gobierno militar, no de una democracia."
+        },
+        {
+          "letter": "C",
+          "text": "Un sistema donde los cargos públicos se heredan de padres a hijos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La herencia de cargos públicos corresponde a sistemas monárquicos o aristocráticos, no a la democracia."
+        },
+        {
+          "letter": "D",
+          "text": "Un sistema donde el pueblo elige a sus gobernantes mediante el voto",
+          "is_correct": true,
+          "feedback": "Correcto. La democracia se define porque el pueblo elige a sus gobernantes a través del voto libre y periódico."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La democracia es un sistema político en el cual el poder reside en el pueblo, quien lo ejerce directamente o a través de representantes elegidos mediante elecciones libres y periódicas. En Colombia, la Constitución de 1991 establece que la soberanía reside en el pueblo, y los ciudadanos eligen a sus gobernantes a través del voto. Este mecanismo de elección popular es lo que distingue a la democracia de otros sistemas como las dictaduras, las monarquías o los gobiernos militares.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-9-2026-W32-la-democracia-y-el-proceso-electoral-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W32-la-democracia-y-el-proceso-electoral-001-MASTERY-bundle-v2",
+      "statement": "¿Cuántas ramas del poder público existen en Colombia según la Constitución Política?",
+      "context": "En una clase de sociales en Cali, el profesor pregunta sobre las ramas del poder público en Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dos: ejecutiva y legislativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colombia tiene tres ramas del poder público, no dos; la rama judicial es independiente y autónoma."
+        },
+        {
+          "letter": "B",
+          "text": "Tres: ejecutiva, legislativa y judicial",
+          "is_correct": true,
+          "feedback": "Correcto. La Constitución de 1991 establece tres ramas del poder público: ejecutiva, legislativa y judicial."
+        },
+        {
+          "letter": "C",
+          "text": "Cuatro: ejecutiva, legislativa, judicial y electoral",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque existe un Consejo Nacional Electoral, la Constitución establece tres ramas del poder público."
+        },
+        {
+          "letter": "D",
+          "text": "Cinco: ejecutiva, legislativa, judicial, electoral y de control",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Constitución colombiana define tres ramas del poder público, no cinco."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Constitución Política de Colombia de 1991 establece que el poder público se organiza en tres ramas: la ejecutiva, encargada de gobernar y administrar el país; la legislativa, encargada de crear las leyes; y la judicial, encargada de administrar justicia. Esta división de poderes es un principio fundamental de la democracia que busca evitar la concentración del poder en una sola persona o institución, garantizando así el equilibrio y la protección de los derechos ciudadanos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-9-2026-W32-la-democracia-y-el-proceso-electoral-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W32-la-democracia-y-el-proceso-electoral-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué es importante que los ciudadanos participen en las elecciones democráticas?",
+      "context": "En un barrio de Bogotá, un grupo de jóvenes discute sobre la importancia de participar en las elecciones locales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la participación ciudadana legitima a las autoridades elegidas",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando los ciudadanos votan, otorgan legitimidad democrática a las autoridades que los representarán."
+        },
+        {
+          "letter": "B",
+          "text": "Porque así se garantiza que el gobierno tenga más dinero para gastar",
+          "is_correct": false,
+          "feedback": "Incorrecto. La participación electoral no determina directamente el presupuesto del gobierno; su importancia radica en la legitimidad democrática."
+        },
+        {
+          "letter": "C",
+          "text": "Porque permite que los partidos políticos reciban más financiación",
+          "is_correct": false,
+          "feedback": "Incorrecto. La financiación de los partidos no depende directamente de la participación electoral, sino de otras normas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el voto es obligatorio en Colombia y se castiga a quien no vota",
+          "is_correct": false,
+          "feedback": "Incorrecto. En Colombia el voto es un derecho y un deber, pero no es obligatorio; no hay sanción por abstenerse."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La participación ciudadana en las elecciones es fundamental para la democracia porque otorga legitimidad a las autoridades elegidas. Cuando los ciudadanos votan, expresan su voluntad y confieren a sus representantes la autoridad para gobernar en su nombre. Además, la participación electoral permite que la diversidad de opiniones e intereses de la sociedad esté representada en las instituciones públicas, fortaleciendo así el sistema democrático y la rendición de cuentas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-9-2026-W32-la-democracia-y-el-proceso-electoral-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W32-la-democracia-y-el-proceso-electoral-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la función principal del Concejo Municipal en Colombia?",
+      "context": "En una asamblea de vecinos en Barranquilla, se discute sobre las funciones del Concejo Municipal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ejecutar las obras públicas del municipio",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ejecución de obras públicas corresponde a la alcaldía municipal, no al Concejo."
+        },
+        {
+          "letter": "B",
+          "text": "Administrar justicia en el municipio",
+          "is_correct": false,
+          "feedback": "Incorrecto. La administración de justicia corresponde a los jueces y tribunales, no al Concejo Municipal."
+        },
+        {
+          "letter": "C",
+          "text": "Aprobar el presupuesto municipal y vigilar la administración",
+          "is_correct": true,
+          "feedback": "Correcto. El Concejo Municipal aprueba el presupuesto y ejerce control político sobre la administración municipal."
+        },
+        {
+          "letter": "D",
+          "text": "Dirigir la policía local",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dirección de la policía corresponde al alcalde como jefe de la fuerza pública en el municipio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Concejo Municipal es el órgano de control político y legislativo en los municipios de Colombia. Sus funciones principales incluyen aprobar el presupuesto municipal, expedir las normas de convivencia, vigilar la administración del alcalde y representar los intereses de la comunidad. Esta corporación es elegida popularmente y actúa como contrapeso al poder del alcalde, garantizando así la separación de poderes a nivel local y la participación ciudadana en las decisiones públicas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-9-2026-W32-la-democracia-y-el-proceso-electoral-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W32-la-democracia-y-el-proceso-electoral-001-MASTERY-bundle-v5",
+      "statement": "Si un estudiante quiere postularse como candidato a personero estudiantil, ¿qué requisito debe cumplir según la normativa colombiana?",
+      "context": "En un colegio de Bucaramanga, los estudiantes preparan una campaña para elegir al personero estudiantil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tener más de 18 años de edad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los estudiantes de colegio son menores de edad; no se exige mayoría de edad para ser personero estudiantil."
+        },
+        {
+          "letter": "B",
+          "text": "Ser hijo de un empleado de la institución",
+          "is_correct": false,
+          "feedback": "Incorrecto. El parentesco con empleados del colegio no es un requisito para ser personero estudiantil."
+        },
+        {
+          "letter": "C",
+          "text": "Tener un promedio académico perfecto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque se valora el buen rendimiento, no se exige un promedio perfecto para ser personero estudiantil."
+        },
+        {
+          "letter": "D",
+          "text": "Estar matriculado en la institución educativa",
+          "is_correct": true,
+          "feedback": "Correcto. Para ser personero estudiantil se requiere estar matriculado en la institución educativa correspondiente."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El personero estudiantil es un estudiante elegido por sus compañeros para representar sus intereses y velar por el cumplimiento de sus derechos dentro de la institución educativa. Para postularse como candidato, el estudiante debe estar matriculado en la institución y cumplir con los requisitos establecidos en el manual de convivencia. Este cargo es una forma de participación democrática desde la escuela, donde los estudiantes aprenden sobre el proceso electoral, la representación y la defensa de los derechos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-9-2026-W32-la-democracia-y-el-proceso-electoral-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W32-la-democracia-y-el-proceso-electoral-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál de las siguientes situaciones es un ejemplo de democracia directa en Colombia?",
+      "context": "En una discusión en Cartagena, dos amigos debaten sobre la diferencia entre democracia directa y democracia representativa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Participar en un referéndum para aprobar una reforma",
+          "is_correct": true,
+          "feedback": "Correcto. En un referéndum los ciudadanos deciden directamente sobre una materia, sin intermediarios."
+        },
+        {
+          "letter": "B",
+          "text": "Elegir al presidente de la República mediante el voto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elegir al presidente es un ejemplo de democracia representativa, donde se elige a un representante."
+        },
+        {
+          "letter": "C",
+          "text": "Votar para elegir a los concejales municipales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elegir concejales es democracia representativa, pues se elige a alguien que tomará decisiones en nombre de los ciudadanos."
+        },
+        {
+          "letter": "D",
+          "text": "Elegir a los miembros de la Cámara de Representantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. La elección de representatives es un mecanismo de democracia representativa, no directa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La democracia directa es aquella en la que los ciudadanos toman decisiones directamente, sin intermediarios, mientras que en la democracia representativa los ciudadanos eligen a representantes que toman decisiones en su nombre. En Colombia, la democracia es principalmente representativa, pero existen mecanismos de democracia directa como el referéndum, el plebiscito, la consulta popular y la revocatoria del mandato. Estos mecanismos permiten que los ciudadanos participan directamente en decisiones trascendentales, complementando así la representación política.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-W32-la-democracia-y-el-proceso-electoral-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W32-la-democracia-y-el-proceso-electoral-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la principal función de los partidos políticos en una democracia?",
+      "context": "En una clase de sociales en Pereira, el profesor explica sobre los partidos políticos en Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Administrar los recursos del Estado",
+          "is_correct": false,
+          "feedback": "Incorrecto. La administración de los recursos del Estado corresponde al gobierno, no a los partidos políticos."
+        },
+        {
+          "letter": "B",
+          "text": "Representar intereses y aspiraciones de la ciudadanía",
+          "is_correct": true,
+          "feedback": "Correcto. Los partidos políticos representan los intereses y aspiraciones de diferentes grupos de la sociedad."
+        },
+        {
+          "letter": "C",
+          "text": "Nombrar a los jueces de la República",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los jueces son elegidos por mérito y concurso, no nombrados por los partidos políticos."
+        },
+        {
+          "letter": "D",
+          "text": "Controlar las fuerzas militares",
+          "is_correct": false,
+          "feedback": "Incorrecto. El control de las fuerzas militares corresponde al presidente como comandante en jefe, no a los partidos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los partidos políticos son organizaciones que representan los intereses, aspiraciones y valores de diferentes grupos de la sociedad. Su función principal en una democracia es articular las demandas ciudadanas, formar propuestas de gobierno y presentar candidatos a las elecciones. Además, los partidos políticos sirven como vehículo de participación ciudadana, permitiendo que las personas se agrupen en torno a ideas comunes y compitan democráticamente por el poder. En Colombia, la Constitución garantiza el derecho de asociación política y la existencia de múltiples partidos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-W32-la-democracia-y-el-proceso-electoral-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W32-la-democracia-y-el-proceso-electoral-001-MASTERY-bundle-v8",
+      "statement": "¿Cómo contribuyen los medios de comunicación al funcionamiento de la democracia en Colombia?",
+      "context": "En un debate en Manizales, los estudiantes analizan el papel de los medios de comunicación en la democracia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nombrando a los funcionarios públicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los medios de comunicación no tienen la facultad de nombrar funcionarios públicos; esa corresponde a las autoridades electas o designadas."
+        },
+        {
+          "letter": "B",
+          "text": "Elegiendo a los candidatos a cargos públicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La elección de candidatos corresponde a los ciudadanos a través del voto, no a los medios de comunicación."
+        },
+        {
+          "letter": "C",
+          "text": "Informando y formando opinión pública sobre asuntos de interés general",
+          "is_correct": true,
+          "feedback": "Correcto. Los medios de comunicación informan a la ciudadanía y forman opinión pública sobre temas de interés general."
+        },
+        {
+          "letter": "D",
+          "text": "Redactando las leyes de la República",
+          "is_correct": false,
+          "feedback": "Incorrecto. La redacción de leyes corresponde al Congreso de la República, no a los medios de comunicación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los medios de comunicación desempeñan un papel fundamental en la democracia al informar a los ciudadanos sobre los asuntos públicos, investigar las acciones del gobierno y proporcionar espacios para el debate y la discusión. A través de su labor periodística, los medios permiten que los ciudadanos estén informados para tomar decisiones conscientes, especialmente durante los procesos electorales. Además, los medios actúan como un contrapeso al poder, denunciando irregularidades y promoviendo la transparencia en la gestión pública.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-W32-la-democracia-y-el-proceso-electoral-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W32-la-democracia-y-el-proceso-electoral-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál de los siguientes representa un desafío para la democracia colombiana en la actualidad?",
+      "context": "En una mesa de trabajo en Villavicencio, líderes comunitarios analizan los desafíos de la democracia colombiana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La existencia de múltiples partidos políticos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La existencia de múltiples partidos políticos fortalece la democracia, pues permite la pluralidad de ideas."
+        },
+        {
+          "letter": "B",
+          "text": "La división de poderes en el Estado",
+          "is_correct": false,
+          "feedback": "Incorrecto. La división de poderes es un principio que fortalece la democracia, no un desafío para ella."
+        },
+        {
+          "letter": "C",
+          "text": "La existencia de elecciones periódicas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las elecciones periódicas son un mecanismo esencial de la democracia, no un desafío."
+        },
+        {
+          "letter": "D",
+          "text": "La baja participación ciudadana en las elecciones",
+          "is_correct": true,
+          "feedback": "Correcto. La baja participación electoral debilita la legitimidad democrática y la representatividad de las autoridades."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La baja participación ciudadana en las elecciones es un desafío significativo para la democracia colombiana, ya que debilita la legitimidad de las autoridades elegidas y reduce la representatividad del sistema político. Cuando una gran proporción de ciudadanos no vota, las decisiones públicas pueden no reflejar los intereses de toda la sociedad, especialmente de los grupos más vulnerables. Para fortalecer la democracia, es necesario promover la educación cívica, facilitar el acceso al voto y fomentar la confianza en las instituciones.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-9-2026-W32-la-democracia-y-el-proceso-electoral-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W32-la-democracia-y-el-proceso-electoral-001-MASTERY-bundle-v10",
+      "statement": "¿Por qué la Constitución Política de Colombia es considerada la norma suprema del ordenamiento jurídico?",
+      "context": "En un foro estudiantil en Armenia, se discute sobre la importancia de la Constitución Política de Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque todas las demás normas deben estar de acuerdo con ella",
+          "is_correct": true,
+          "feedback": "Correcto. La Constitución es la norma suprema porque todas las leyes y normas deben respetar sus principios y disposiciones."
+        },
+        {
+          "letter": "B",
+          "text": "Porque es la única norma que no puede ser modificada",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Constitución puede ser modificada mediante reformas constitucionales aprobadas por el Congreso o una Asamblea Constituyente."
+        },
+        {
+          "letter": "C",
+          "text": "Porque fue escrita por un solo presidente",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Constitución de 1991 fue elaborada por una Asamblea Constituyente elegida por el pueblo, no por un solo presidente."
+        },
+        {
+          "letter": "D",
+          "text": "Porque es la constitución más antigua de América Latina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Constitución colombiana de 1991 es relativamente reciente; su supremacía no depende de su antigüedad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Constitución Política de Colombia es la norma suprema del ordenamiento jurídico porque establece los principios, derechos y estructuras fundamentales del Estado, y todas las demás normas deben estar en concordancia con ella. Esto significa que cualquier ley o decreto que contradiga la Constitución puede ser declarado inconstitucional por la Corte Constitucional. La supremacía constitucional garantiza la protección de los derechos fundamentales, la organización del poder público y el respeto por el Estado social de derecho, pilares esenciales de la democracia colombiana.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-9-2026-W32-la-democracia-y-el-proceso-electoral-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W32-la-democracia-y-el-proceso-electoral-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál de las siguientes acciones fortalece la participación ciudadana en la democracia colombiana?",
+      "context": "En una reunión comunitaria en Pasto, se analiza el papel de la sociedad civil en la democracia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evitar el debate sobre temas políticos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evitar el debate político debilita la participación ciudadana y el intercambio de ideas en la democracia."
+        },
+        {
+          "letter": "B",
+          "text": "Mantenerse informado y participar en espacios de deliberación pública",
+          "is_correct": true,
+          "feedback": "Correcto. Mantenerse informado y participar en espacios de deliberación fortalece la democracia y la toma de decisiones."
+        },
+        {
+          "letter": "C",
+          "text": "No conocer los derechos y deberes ciudadanos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Desconocer los derechos y deberes ciudadanos limita la capacidad de participación y defensa de los intereses propios."
+        },
+        {
+          "letter": "D",
+          "text": "Desconfiar de todas las instituciones sin excepción",
+          "is_correct": false,
+          "feedback": "Incorrecto. La desconfianza generalizada sin fundamento debilita la legitimidad de las instituciones democráticas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La participación ciudadana se fortalece cuando los ciudadanos se informan sobre los asuntos públicos, conocen sus derechos y deberes, y participan activamente en los espacios de deliberación y toma de decisiones. Esta participación puede darse a través del voto, la pertenencia a organizaciones sociales, la asistencia a reuniones comunitarias, la formulación de propuestas a las autoridades o el ejercicio del control social. Una sociedad civil activa y comprometida es esencial para el fortalecimiento de la democracia, pues permite que las voces de los ciudadanos sean escuchadas y consideradas en las decisiones públicas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-9-2026-W32-la-democracia-y-el-proceso-electoral-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W32-la-democracia-y-el-proceso-electoral-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál de los siguientes valores es esencial para el funcionamiento de la democracia?",
+      "context": "En un taller de formación ciudadana en Neiva, se reflexiona sobre los valores democráticos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La intolerancia hacia las opiniones diferentes",
+          "is_correct": false,
+          "feedback": "Incorrecto. La intolerancia hacia opiniones diferentes es contraria a la democracia, que se basa en el respeto por la pluralidad."
+        },
+        {
+          "letter": "B",
+          "text": "La concentración del poder en una sola persona",
+          "is_correct": false,
+          "feedback": "Incorrecto. La concentración del poder en una sola persona es característica de las dictaduras, no de la democracia."
+        },
+        {
+          "letter": "C",
+          "text": "La exclusión de grupos minoritarios de la vida política",
+          "is_correct": false,
+          "feedback": "Incorrecto. La exclusión de grupos minoritarios viola los principios de igualdad y participación que sustentan la democracia."
+        },
+        {
+          "letter": "D",
+          "text": "El respeto por la diversidad de pensamiento y la tolerancia",
+          "is_correct": true,
+          "feedback": "Correcto. El respeto por la diversidad de pensamiento y la tolerancia son valores esenciales de la democracia."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El respeto por la diversidad de pensamiento y la tolerancia son valores fundamentales para el funcionamiento de la democracia, pues permiten la convivencia pacífica entre personas con diferentes ideas, creencias y formas de vida. En una democracia, la pluralidad de opiniones no es una amenaza, sino una riqueza que enriquece el debate público y la toma de decisiones. La tolerancia implica escuchar y respetar las opiniones ajenas, incluso cuando se discrepa de ellas, y resolver los conflictos a través del diálogo y los mecanismos institucionales, no a través de la violencia o la imposición.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-9-2026-W32-la-democracia-y-el-proceso-electoral-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
