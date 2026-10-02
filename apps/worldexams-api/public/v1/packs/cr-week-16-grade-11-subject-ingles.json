@@ -8,131 +8,131 @@
   },
   "questions": [
     {
-      "id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W16-critical-analysis-texts-v1",
+      "statement": "What position does the author take?",
+      "context": "Text: 'Some people say the country should build more roads. Roads cost money, take up land and encourage longer car journeys; without them, most journeys would be shorter and cheaper.'",
       "options": [
         {
-          "letter": "C",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay."
+          "text": "Against building more roads",
+          "is_correct": true,
+          "feedback": "Every point listed counts against new roads, which reveals an opposing position."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "In favour of building more roads",
           "is_correct": false,
-          "feedback": "'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place."
-        },
-        {
-          "letter": "D",
-          "text": "currency",
-          "is_correct": false,
-          "feedback": "'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order."
-        },
-        {
-          "letter": "A",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "'baggage' means the suitcases and bags you travel with, not the plan that organises the trip."
-        },
-        {
-          "letter": "B",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself."
+          "feedback": "An author arguing for roads would list benefits rather than costs."
         },
         {
           "letter": "C",
-          "text": "passport",
+          "text": "Neutral, because the author never takes a side",
           "is_correct": false,
-          "feedback": "'passport' is the official travel document you show at the border, not a description of the journey route."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place to which someone or something is going or being sent."
-        },
-        {
-          "letter": "A",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action."
-        },
-        {
-          "letter": "B",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it."
+          "feedback": "The consistent direction of the arguments shows a position, even though the word 'oppose' is absent."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "In favour of replacing roads with railways",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, whereas the definition names only where it ends."
+          "feedback": "Railways are never mentioned, so the author is not proposing an alternative transport mode."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "A position can be detected from the direction of the evidence even when no explicit verdict appears. Listing only disadvantages of a proposal is itself a stance.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W16-critical-analysis-texts-v2",
+      "statement": "What criticism is the text making?",
+      "context": "Text: 'Every year the city spends a great deal on traffic signs. Almost nobody has ever asked whether the signs are in the right places.'",
+      "options": [
+        {
+          "letter": "C",
+          "text": "The city spends money without checking whether the spending is useful",
+          "is_correct": true,
+          "feedback": "Spending is presented as routine while the question of its value is raised but ignored, which is the criticism."
+        },
+        {
+          "letter": "D",
+          "text": "The city spends too little on traffic signs",
+          "is_correct": false,
+          "feedback": "The text criticises unchecked spending, not the amount spent."
+        },
+        {
+          "letter": "A",
+          "text": "The city has too many traffic accidents",
+          "is_correct": false,
+          "feedback": "No accident figures appear anywhere in the text."
+        },
+        {
+          "letter": "B",
+          "text": "The city should remove all traffic signs",
+          "is_correct": false,
+          "feedback": "Removing signs is a conclusion the text does not draw; it questions placement rather than existence."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Critical texts often express criticism through the gap between what is done and what is examined. Naming that gap is more accurate than supplying a conclusion the writer never reached.\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.85,
+      "bundle_id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W16-critical-analysis-texts-v3",
+      "statement": "What should a critical reader notice about this evidence?",
+      "context": "Text: 'The proposal would certainly help farmers, and everyone in the room smiled when it was announced.'",
+      "options": [
+        {
+          "letter": "D",
+          "text": "It reports reactions rather than results, and reactions prove nothing about effectiveness",
+          "is_correct": true,
+          "feedback": "A smile measures approval in the moment, which is a different question from whether a policy improves incomes."
+        },
+        {
+          "letter": "A",
+          "text": "It proves the proposal works, because the room responded well",
+          "is_correct": false,
+          "feedback": "A favourable reaction does not establish an outcome that the text never reports."
+        },
+        {
+          "letter": "B",
+          "text": "It shows that the proposal was rejected later",
+          "is_correct": false,
+          "feedback": "The text records approval rather than rejection."
+        },
+        {
+          "letter": "C",
+          "text": "It shows that farmers were present in the room",
+          "is_correct": false,
+          "feedback": "The room is not identified as containing farmers, so that cannot be concluded."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Critical analysis asks what kind of evidence a text offers. Reactions are evidence about perceptions, not about effects, and confusing the two is a common reading error.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle",
       "periodo": 16,
@@ -143,37 +143,37 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W16-critical-analysis-texts-v4",
+      "statement": "Why is the absence of a cost figure significant?",
+      "context": "Text: 'The programme ran for two years and reached four hundred people. Its total cost is not stated anywhere in the report.'",
       "options": [
         {
-          "letter": "C",
-          "text": "luggage",
+          "letter": "D",
+          "text": "Without a cost, the value of the programme cannot be assessed",
           "is_correct": true,
-          "feedback": "Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling."
+          "feedback": "A programme's value depends on what it achieved against what it required, so a missing cost blocks any assessment of efficiency."
         },
         {
           "letter": "A",
-          "text": "ticket",
+          "text": "The cost is unimportant for judging a social programme",
           "is_correct": false,
-          "feedback": "a 'ticket' is the document that gives you the right to travel; it carries nothing at all."
+          "feedback": "Cost is precisely what makes efficiency measurable, so dismissing it removes the only comparison available."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "The cost was zero",
           "is_correct": false,
-          "feedback": "a 'flight' is the trip itself by plane, not the bags you pack for it."
+          "feedback": "Nothing in the text states that no money was spent."
         },
         {
-          "letter": "D",
-          "text": "reservation",
+          "letter": "C",
+          "text": "The cost was considered too sensitive to publish",
           "is_correct": false,
-          "feedback": "a 'reservation' is the booking held for a seat or a room, not the container where clothes go."
+          "feedback": "The reason for the omission is not given, and inventing one would go beyond the text."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Critiquing a text does not require accusing it of deception. Noting which necessary information is absent is a precise and defensible observation about its limitations.\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -188,37 +188,217 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W16-critical-analysis-texts-v5",
+      "statement": "What kind of text does this passage represent?",
+      "context": "Text: 'Some people believe that the new stadium will attract tourists. Others argue that it will simply cost the city money it needs for schools.'",
       "options": [
         {
           "letter": "D",
-          "text": "passenger",
+          "text": "A text presenting two opposed positions without choosing one",
           "is_correct": true,
-          "feedback": "Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew."
+          "feedback": "Two statements joined by opposing framing present a debate and settle nothing."
         },
         {
           "letter": "A",
-          "text": "pedestrian",
+          "text": "A text arguing strongly for the stadium",
           "is_correct": false,
-          "feedback": "a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all."
+          "feedback": "Neither view is endorsed, so the passage is not an argument for the stadium."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "A text reporting the outcome of the stadium project",
           "is_correct": false,
-          "feedback": "a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance."
+          "feedback": "The stadium is still a proposal here, so no outcome is reported."
         },
         {
           "letter": "C",
-          "text": "tourist",
+          "text": "A text explaining how stadiums are financed",
           "is_correct": false,
-          "feedback": "a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle."
+          "feedback": "No financing mechanism appears in the text."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "explanation": "Recognising whether a text argues, reports or merely presents alternatives changes how a reader should evaluate it. A balanced text cannot be criticised for a conclusion it deliberately avoids.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W16-critical-analysis-texts-v6",
+      "statement": "What kind of evidence supports the claim about the scheme?",
+      "context": "Text: 'The scheme reduced illness in the villages where it was introduced. Villages not covered by the scheme experienced no such reduction during the same period.'",
+      "options": [
+        {
+          "letter": "C",
+          "text": "A comparison between treated and untreated places over the same period",
+          "is_correct": true,
+          "feedback": "Comparing two groups that differed in exposure but not in time is the structure of an experimental comparison."
+        },
+        {
+          "letter": "D",
+          "text": "A list of official opinions supporting the scheme",
+          "is_correct": false,
+          "feedback": "No opinions are quoted anywhere in the text."
+        },
+        {
+          "letter": "A",
+          "text": "A calculation of how much the scheme cost",
+          "is_correct": false,
+          "feedback": "Cost is not mentioned and would not be evidence of effectiveness."
+        },
+        {
+          "letter": "B",
+          "text": "A description of how the scheme was designed",
+          "is_correct": false,
+          "feedback": "Design describes how the scheme works rather than showing that it worked."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evidence type matters more than evidence volume. A controlled comparison supports a causal claim in a way that an opinion or a cost figure never can.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W16-critical-analysis-texts-v7",
+      "statement": "What weakness does this text reveal in its own evidence?",
+      "context": "Text: 'Experts agree that the new building is impressive. When asked to justify the claim, most of them mentioned the design alone.'",
+      "options": [
+        {
+          "letter": "B",
+          "text": "The experts rely on one aspect, so the general agreement covers only that aspect",
+          "is_correct": true,
+          "feedback": "If every justification rests on the design, the claim of expert agreement is agreement about one narrow point presented as a general verdict."
+        },
+        {
+          "letter": "C",
+          "text": "The experts disagree among themselves about the design",
+          "is_correct": false,
+          "feedback": "The text reports agreement rather than disagreement."
+        },
+        {
+          "letter": "D",
+          "text": "The design is not impressive in fact",
+          "is_correct": false,
+          "feedback": "The text presents the design as the basis of the praise, so this reverses its content."
+        },
+        {
+          "letter": "A",
+          "text": "No experts were consulted at all",
+          "is_correct": false,
+          "feedback": "Experts are quoted throughout, so the last reading contradicts the passage."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A claim wider than the evidence supporting it is a common defect in persuasive writing. This item asks the student to compare the scope of a conclusion with the scope of the reasons given.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W16-critical-analysis-texts-v8",
+      "statement": "What does the contrast between the first two sentences produce?",
+      "context": "Text: 'Nobody wants another shopping centre. Yet three more opened in the region last year, and rents in every nearby village have risen.'",
+      "options": [
+        {
+          "letter": "B",
+          "text": "It sets a stated preference against an opposite trend in practice",
+          "is_correct": true,
+          "feedback": "The opening states a lack of demand while the second reports three openings and rising rents, producing an unresolved contradiction."
+        },
+        {
+          "letter": "C",
+          "text": "It shows that village rents caused the shopping centres to open",
+          "is_correct": false,
+          "feedback": "The second sentence reports an outcome of the openings rather than their cause."
+        },
+        {
+          "letter": "D",
+          "text": "It confirms that the first sentence is factually wrong",
+          "is_correct": false,
+          "feedback": "The text leaves the contradiction open rather than resolving it against the first sentence."
+        },
+        {
+          "letter": "A",
+          "text": "It argues that nobody should rent in the region",
+          "is_correct": false,
+          "feedback": "Nothing in the text suggests that anyone should avoid renting."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A text can contain a tension without resolving it, and noticing that tension is more useful than forcing a conclusion. The contradiction here may be the author's point or simply the puzzle of the passage.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W16-critical-analysis-texts-v9",
+      "statement": "What does the repeated figurative expression accomplish?",
+      "context": "Text: 'The writer describes the old market as a living record of how the town ate, traded and argued. She uses the word twice more in the paragraph, each time in the same sense.'",
+      "options": [
+        {
+          "letter": "C",
+          "text": "It builds a consistent picture of the market as something alive and communal",
+          "is_correct": true,
+          "feedback": "A phrase about eating, trading and arguing makes the market a living presence, and repetition reinforces that image."
+        },
+        {
+          "letter": "D",
+          "text": "It gives the market a literal documentary purpose",
+          "is_correct": false,
+          "feedback": "The expression is figurative and does not describe a documentary function."
+        },
+        {
+          "letter": "A",
+          "text": "It criticises the market as chaotic",
+          "is_correct": false,
+          "feedback": "The word 'record' is neutral and the description is affectionate rather than critical."
+        },
+        {
+          "letter": "B",
+          "text": "It compares the market with a written archive only",
+          "is_correct": false,
+          "feedback": "The image is an extended metaphor about a whole way of life, not a simple comparison with a written archive."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Repetition of a figurative phrase is a rhetorical choice that builds meaning cumulatively. Tracking where a metaphor appears and how it develops is part of analysing a text critically.\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -233,42 +413,132 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W16-critical-analysis-texts-v10",
+      "statement": "What is the most substantial criticism available?",
+      "context": "Text: 'The article claims that a change in the diet of the population explains the rise in a disease. It gives no information about what that diet was before the change or about other possible causes.'",
       "options": [
         {
           "letter": "D",
-          "text": "customs",
+          "text": "The explanation is offered without the baseline or the alternatives it would need",
           "is_correct": true,
-          "feedback": "Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage."
+          "feedback": "Without a before-and-after comparison and a consideration of other causes, the explanation cannot be evaluated."
         },
         {
           "letter": "A",
-          "text": "security",
+          "text": "The article is written in an unsuitable register",
           "is_correct": false,
-          "feedback": "'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs."
+          "feedback": "Register is not the issue described in the text."
         },
         {
           "letter": "B",
-          "text": "terminal",
+          "text": "The article is too short to be published",
           "is_correct": false,
-          "feedback": "a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done."
+          "feedback": "Length does not determine whether an argument is adequately supported."
         },
         {
           "letter": "C",
-          "text": "gate",
+          "text": "The disease is not mentioned often enough",
           "is_correct": false,
-          "feedback": "a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings."
+          "feedback": "Frequency of mention is not a measure of argumentative adequacy."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "explanation": "Substantive criticism concerns the relationship between a claim and its evidence. This item separates that kind of critique from the cosmetic observations that often pass for analysis.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.75,
+      "bundle_id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W16-critical-analysis-texts-v11",
+      "statement": "What is the significance of the two words?",
+      "context": "Text: 'The author writes that the plan was 'unambitious'. Later in the same article, the same plan is described as 'realistic' given the resources available.",
+      "options": [
+        {
+          "letter": "C",
+          "text": "They are evaluative and carry opposite judgements depending on the standard applied",
+          "is_correct": true,
+          "feedback": "'Unambitious' judges the plan against a maximal standard and 'realistic' judges it against what was achievable, so the difference lies in the criterion."
+        },
+        {
+          "letter": "D",
+          "text": "They are synonyms and reinforce the same judgement",
+          "is_correct": false,
+          "feedback": "The two words convey opposite evaluations rather than the same one."
+        },
+        {
+          "letter": "A",
+          "text": "They are factual descriptions with no evaluative content",
+          "is_correct": false,
+          "feedback": "Both are judgements rather than measurements, so they are not merely factual."
+        },
+        {
+          "letter": "B",
+          "text": "They show that the author changed his mind about the plan",
+          "is_correct": false,
+          "feedback": "Applying two standards to one plan is not the same as changing an opinion about it."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluative words in criticism carry a standard with them. Reading them critically means asking what standard makes a judgement fair, which is what the item sets the student to do.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.75,
+      "bundle_id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W16-critical-analysis-texts-v12",
+      "statement": "What should a critical reader take from this pairing of photograph and caption?",
+      "context": "Text: 'A photograph shows a line of people waiting outside a clinic. The caption reads: 'Residents queue for medical care in the capital.' The date on the image is ten years old.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The caption describes the scene accurately but the image may not represent conditions now",
+          "is_correct": true,
+          "feedback": "A precise caption paired with an old photograph can mislead a reader about the present, because the description sounds current."
+        },
+        {
+          "letter": "B",
+          "text": "The caption was written ten years ago and is therefore worthless",
+          "is_correct": false,
+          "feedback": "An old caption remains informative about its own time, so it is not worthless."
+        },
+        {
+          "letter": "C",
+          "text": "The photograph proves that conditions have not changed",
+          "is_correct": false,
+          "feedback": "The date cannot prove that conditions are unchanged; the opposite reading is equally available."
+        },
+        {
+          "letter": "D",
+          "text": "The date was added later to make the image look recent",
+          "is_correct": false,
+          "feedback": "The text gives no basis for accusing anyone of manipulating the date."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Images and captions are separate claims that must be evaluated separately. Noticing that a description may be accurate yet outdated is a habit of careful reading that applies well beyond photographs.\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -278,87 +548,132 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board."
-        },
-        {
-          "letter": "B",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "a 'visa' is the permission to enter a country, obtained before the trip and not from the airline."
-        },
-        {
-          "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "a 'receipt' only proves that you paid; it does not let you board the plane."
-        },
-        {
-          "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "a 'brochure' is printed information about the airline or the destination, not a travel document."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W16-critical-analysis-texts-v13",
+      "statement": "What does the omission of the reply suggest about the newspaper's treatment of the claim?",
+      "context": "Text: 'The newspaper printed a letter claiming that a factory discharges waste into the river. The factory replied the next day, and the newspaper did not report the reply.",
       "options": [
         {
           "letter": "B",
-          "text": "sightseeing",
+          "text": "The newspaper published an allegation without giving the other party a chance as it presents the story",
           "is_correct": true,
-          "feedback": "Correct! 'sightseeing' is the activity of visiting the places of interest of a location."
-        },
-        {
-          "letter": "A",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "'shopping' is buying things in stores, not the general activity of visiting a place's sights."
+          "feedback": "Publishing a damaging allegation and leaving a published reply unreported shows a one-sided presentation."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "The newspaper was not interested in the story at all",
           "is_correct": false,
-          "feedback": "'hiking' is one specific outdoor walk in nature, only one kind of activity out of many."
+          "feedback": "Reporting a claim indicates interest in the story rather than the absence of it."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "The reply must have supported the factory completely",
           "is_correct": false,
-          "feedback": "'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark."
+          "feedback": "The content of the reply is unknown, so its supposed support cannot be inferred."
+        },
+        {
+          "letter": "A",
+          "text": "The newspaper believed the reply was unimportant",
+          "is_correct": false,
+          "feedback": "The text describes an omission, not a judgement that the reply was unimportant."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
+      "explanation": "Balance is a testable property of reporting. What a source omits, and in what order, is often more revealing about its stance than what it states.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.75,
+      "bundle_id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W16-critical-analysis-texts-v14",
+      "statement": "What conflict of interest does this reveal?",
+      "context": "Text: 'The report was written by a committee whose members all work in the same industry. It recommends measures that would affect their own companies'",
+      "options": [
+        {
+          "letter": "D",
+          "text": "Those who would be affected by the recommendations helped write them",
+          "is_correct": true,
+          "feedback": "When the people deciding what to recommend are among the people who gain or lose from it, the assessment of benefit is not independent."
+        },
+        {
+          "letter": "A",
+          "text": "The committee was too small to be representative",
+          "is_correct": false,
+          "feedback": "Size is a separate question from independence, and the text does not raise it."
+        },
+        {
+          "letter": "B",
+          "text": "The recommendations were written in an informal register",
+          "is_correct": false,
+          "feedback": "Nothing in the text concerns the register of the recommendations."
+        },
+        {
+          "letter": "C",
+          "text": "The industry has no legal obligation to follow them",
+          "is_correct": false,
+          "feedback": "No legal obligation is mentioned anywhere in the passage."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluating a source includes asking who produced it and what their interests are. This is the standard first question in media and research literacy, and it applies to any text that recommends something.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.75,
+      "bundle_id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W16-critical-analysis-texts-v15",
+      "statement": "What two questions would a critical reader ask about this claim?",
+      "context": "Text: 'The article claims the new system 'works better in every way' and offers no comparison with the old one and no definition of 'better'.",
+      "options": [
+        {
+          "letter": "C",
+          "text": "Better than what, and measured how?",
+          "is_correct": true,
+          "feedback": "A sweeping comparative claim requires a comparison and a criterion, and the text supplies neither."
+        },
+        {
+          "letter": "D",
+          "text": "Who wrote it, and how long is it?",
+          "is_correct": false,
+          "feedback": "Authorship and length bear on credibility and presentation, not on whether the comparison holds."
+        },
+        {
+          "letter": "A",
+          "text": "Where was it published, and by whom?",
+          "is_correct": false,
+          "feedback": "Publication details identify the source rather than test the substance of the claim."
+        },
+        {
+          "letter": "B",
+          "text": "Is it long, and is it expensive?",
+          "is_correct": false,
+          "feedback": "Length and cost are irrelevant to the meaning of a comparative claim about performance."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Two questions cover most sweeping claims: what is it being compared with, and by what measure. This item asks the student to produce them rather than judge the outcome, which is the reusable skill.\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -368,132 +683,42 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event."
-        },
-        {
-          "letter": "A",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event."
-        },
-        {
-          "letter": "B",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "an 'award' is an honour granted by an institution for merit, not a keepsake."
-        },
-        {
-          "letter": "D",
-          "text": "prize",
-          "is_correct": false,
-          "feedback": "a 'prize' is the reward of a competition; the definition describes an object kept as a memento."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W16-critical-analysis-texts-v16",
+      "statement": "What is the most serious problem with this evidence?",
+      "context": "Text: A blog post argues that remote work must be permanent, citing a single survey of volunteers who had already chosen to work that way.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
+          "text": "The people surveyed had already selected the arrangement being praised",
           "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra period of time by which something ends up late or postponed."
+          "feedback": "People who chose a mode of work are not a neutral sample for judging whether everyone should adopt it, so the group is biased from the start."
         },
         {
           "letter": "B",
-          "text": "cancellation",
+          "text": "The survey was conducted too recently",
           "is_correct": false,
-          "feedback": "a 'cancellation' means the trip or event will not happen at all, not that it happens later."
+          "feedback": "Recency is not the weakness; the problem lies in how the sample was formed."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "The blog post is too short",
           "is_correct": false,
-          "feedback": "'departure' is simply the moment of leaving, which can be perfectly punctual."
+          "feedback": "Length does not determine the validity of evidence."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "Remote work is not mentioned often enough",
           "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching the place, and it says nothing about being late."
+          "feedback": "Frequency of a term is not a measure of argumentative strength."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter."
-        },
-        {
-          "letter": "B",
-          "text": "check-out",
-          "is_correct": false,
-          "feedback": "'check-out' is the opposite moment, when you pay and hand the room key back before leaving."
-        },
-        {
-          "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "'booking' is the reservation made beforehand; check-in is what you do on arrival."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "a 'reservation' is the earlier record of your booking, not the act of registering your presence."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
+      "explanation": "A biased sample cannot be corrected by a larger number of responses. This item asks the student to name the defect in how the evidence was gathered rather than in how it was reported.\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.7,
       "bundle_id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -503,177 +728,42 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! A 'layover' is a period of rest or waiting between two further stages of a journey."
-        },
-        {
-          "letter": "A",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey."
-        },
-        {
-          "letter": "B",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "a 'transfer' is the change from one vehicle or flight to another, not the pause itself."
-        },
-        {
-          "letter": "C",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "'transit' means the action of passing through a place, with no idea of resting between stages."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'Currency' is the money system in general use in a particular country."
-        },
-        {
-          "letter": "A",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "a 'coin' is one single piece of money, not the whole system used in the country."
-        },
-        {
-          "letter": "B",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "a 'banknote' is one single paper note of that system, not the system itself."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "'cash' means money in coins and notes in general, not the specific monetary system of a country."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists."
-        },
-        {
-          "letter": "A",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information."
-        },
-        {
-          "letter": "B",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "a 'dictionary' gives the meaning of words, not details about a destination for travellers."
-        },
-        {
-          "letter": "C",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "an encyclopedia covers all branches of knowledge rather than one particular place for visitors."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W16-critical-analysis-texts-v17",
+      "statement": "What kind of language appears in the discrepancy?",
+      "context": "Text: 'The brochure promises that the tour visits three communities. In practice, guests pass through two of them without stopping and only dine in the third.'",
       "options": [
         {
           "letter": "B",
-          "text": "backpack",
+          "text": "Promotional language that overstates what the experience delivers",
           "is_correct": true,
-          "feedback": "Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back."
-        },
-        {
-          "letter": "A",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps."
+          "feedback": "A brochure is an advertisement, and 'visits' implies a contact that the actual itinerary does not deliver."
         },
         {
           "letter": "C",
-          "text": "briefcase",
+          "text": "Legal language designed to bind the company",
           "is_correct": false,
-          "feedback": "a 'briefcase' is a case for documents and a laptop that is carried in the hand."
+          "feedback": "Legal obligation would require reference to terms or conditions, and none appears."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "Technical language describing a research method",
           "is_correct": false,
-          "feedback": "a 'handbag' is a small bag held in the hand, not carried on the back."
+          "feedback": "No method is being described in a brochure."
+        },
+        {
+          "letter": "A",
+          "text": "Satirical language mocking the tourists",
+          "is_correct": false,
+          "feedback": "There is no mocking tone in either the text or the description."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
+      "explanation": "Comparing a claim with the practice it describes is one of the sharpest forms of critical reading. This item asks the student to name the register of the overstated text as well as the defect.\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",
@@ -683,222 +773,132 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W16-critical-analysis-texts-v18",
+      "statement": "What does the disagreement suggest about the ruling?",
+      "context": "Text: 'Two commentaries on the same ruling disagree. One says the court expanded access to the remedy. The other says the court left the law exactly as it was.'",
       "options": [
         {
           "letter": "B",
-          "text": "overseas",
+          "text": "Its meaning depends on which parts of it each reader emphasises",
           "is_correct": true,
-          "feedback": "Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea."
-        },
-        {
-          "letter": "A",
-          "text": "domestic",
-          "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
+          "feedback": "Two readings of the same document producing opposite descriptions shows that its operative language leaves room for interpretation."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "One of the two commentators must be lying",
           "is_correct": false,
-          "feedback": "'local' means belonging to the area where you already are, again the opposite meaning."
+          "feedback": "Disagreement between commentators is common on contested rulings and does not establish deception."
         },
         {
           "letter": "D",
-          "text": "national",
+          "text": "The ruling was issued by two different courts",
           "is_correct": false,
-          "feedback": "'national' refers to the nation as a whole, but it does not mean being abroad."
+          "feedback": "The passage describes one ruling discussed by two people, not two courts."
+        },
+        {
+          "letter": "A",
+          "text": "The ruling has no text that can be read",
+          "is_correct": false,
+          "feedback": "A written ruling exists and is precisely what both commentators read."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "Disagreement about a document is evidence about the document's ambiguity rather than about the honesty of its readers. This distinction is central to critical analysis of any institutional text.\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W16-critical-analysis-texts-v19",
+      "statement": "How should these two adjectives be treated?",
+      "context": "Text: 'The article describes the neighbourhood as 'quiet and authentic'. No data support the word quiet, and no evidence is offered for authentic.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "As unsupported evaluations rather than as descriptions that can be verified",
+          "is_correct": true,
+          "feedback": "'Quiet' and 'authentic' are value judgements presented as descriptions, and neither is measurable as stated."
+        },
+        {
+          "letter": "B",
+          "text": "As precise technical terms with agreed definitions",
+          "is_correct": false,
+          "feedback": "Neither word is a technical term with an agreed definition in this context."
+        },
+        {
+          "letter": "C",
+          "text": "As quotations from residents that require no support",
+          "is_correct": false,
+          "feedback": "No one is quoted, so the adjectives are not attributable to a speaker."
+        },
+        {
+          "letter": "D",
+          "text": "As evidence that the article favours the neighbourhood",
+          "is_correct": false,
+          "feedback": "The presence of favourable words does show a preference, but the item asks how to treat them as evidence."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluating language means separating descriptive claims that can be checked from judgements that cannot. Naming the two kinds precisely is more useful than merely calling the text biased.\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.7,
+      "bundle_id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W16-critical-analysis-texts-v20",
+      "statement": "What is the strongest conclusion a careful reader can draw?",
+      "context": "Text: A reviewer says a book is 'the first account of the period in Spanish'. The publisher's page says a book with a similar title appeared three years earlier in Spanish.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The reviewer's claim of priority is contradicted by an existing earlier book",
+          "is_correct": true,
+          "feedback": "A claim of being the first is checkable, and a documented earlier book of the same kind defeats it."
+        },
+        {
+          "letter": "B",
+          "text": "The reviewer must have misread the earlier book",
+          "is_correct": false,
+          "feedback": "The reviewer's claim is unsupported, but no reason exists to assume a misreading rather than an error of information."
+        },
+        {
+          "letter": "C",
+          "text": "The publisher's page must be wrong",
+          "is_correct": false,
+          "feedback": "Nothing in the description favours the publisher's page over the reviewer's statement."
+        },
+        {
+          "letter": "D",
+          "text": "Both books may be useful despite the disagreement",
+          "is_correct": false,
+          "feedback": "The usefulness of the books is beside the point, because the issue is a verifiable claim about priority."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Critical analysis distinguishes claims that can be checked from opinions that cannot. This item asks the student to identify which kind of claim a priority statement is, and what follows when the check fails.",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time."
-        },
-        {
-          "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "an 'expense' is a single cost; a budget gathers all income and spending over a period."
-        },
-        {
-          "letter": "B",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "'cost' is the amount paid for one thing, not an estimate for a whole period."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "'price' is the figure written on a product, not a plan of income and expenditure."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium."
-        },
-        {
-          "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only."
-        },
-        {
-          "letter": "C",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement."
-        },
-        {
-          "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "a 'policy' is the written document of the contract, not the practice of insuring itself."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease."
-        },
-        {
-          "letter": "A",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "'medication' treats the symptoms of a disease; it does not create immunity against it."
-        },
-        {
-          "letter": "B",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself."
-        },
-        {
-          "letter": "D",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones."
-        },
-        {
-          "letter": "B",
-          "text": "fatigue",
-          "is_correct": false,
-          "feedback": "'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones."
-        },
-        {
-          "letter": "C",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones."
-        },
-        {
-          "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "CR-ING-11-2026-W16-critical-analysis-texts-001-MASTERY-bundle",
       "periodo": 16,
       "protocol_version": "5.2",

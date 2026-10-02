@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The bag is open, so I ___ the lid back in a second.",
+      "context": "A decision taken now, at the moment of speaking.",
       "options": [
         {
-          "letter": "D",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "'accommodation' is the word for a place where you live or stay, including on holiday."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "'transportation' means the way you travel, such as buses or planes, not where you stay."
+          "text": "will close",
+          "is_correct": true,
+          "feedback": "Correct! A spontaneous decision taken at the moment of speaking is expressed with will."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "am closing",
           "is_correct": false,
-          "feedback": "'entertainment' is the activity of enjoying shows, films or games, not a place to live."
+          "feedback": "The present continuous would describe an arrangement fixed in advance, and this decision is being made right now."
         },
         {
           "letter": "C",
-          "text": "currency",
+          "text": "have closed",
           "is_correct": false,
-          "feedback": "'currency' is the money of a country, such as the colon; a place to stay is not money."
+          "feedback": "The present perfect would claim the action is already finished, but the speaker is only about to do it."
+        },
+        {
+          "letter": "D",
+          "text": "was closing",
+          "is_correct": false,
+          "feedback": "The past continuous belongs to a past scene, and there is no past reference here."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "correct_answer": "A",
+      "explanation": "Will carries several present-time meanings: willingness, a promise, a request and a decision taken on the spot. The open bag and the immediate reaction are the classic signal.\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle",
       "periodo": 2,
@@ -54,40 +54,40 @@
     },
     {
       "id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "We ___ to the coast next Saturday; we bought the tickets yesterday.",
+      "context": "The plan and the intention already existed before this moment.",
       "options": [
         {
-          "letter": "A",
-          "text": "itinerary",
+          "letter": "B",
+          "text": "are going",
           "is_correct": true,
-          "feedback": "'itinerary' is a detailed plan of a journey, listing the route and the stops along the way."
+          "feedback": "Correct! A prior intention plus a fixed plan is expressed with be going to."
         },
         {
-          "letter": "B",
-          "text": "baggage",
+          "letter": "A",
+          "text": "go",
           "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "feedback": "A bare present form would need a time clause, and here the trip is an intention rather than a timetable entry."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "will",
           "is_correct": false,
-          "feedback": "'destination' is only the place you are going to; the plan of the route is the itinerary."
+          "feedback": "'Will' suggests the decision is being taken now, but the tickets show the plan already existed."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "are travelling",
           "is_correct": false,
-          "feedback": "'passport' is the travel document you show at the border, not the plan of a journey."
+          "feedback": "A present continuous for travel usually means an ongoing or imminent single trip, not a plan made in advance."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "Be going to is the future of intention and evidence. Buying the tickets yesterday is the proof that the decision came before the moment of speaking.\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle",
       "periodo": 2,
@@ -99,40 +99,40 @@
     },
     {
       "id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The school bus ___ at seven in the morning, according to the timetable.",
+      "context": "A fixed timetable that belongs to the institution, not to the speaker.",
       "options": [
         {
           "letter": "C",
-          "text": "destination",
+          "text": "leaves",
           "is_correct": true,
-          "feedback": "'destination' names the place a person or thing is going or being sent to."
+          "feedback": "Correct! Timetable events use the present simple with a future meaning."
         },
         {
           "letter": "A",
-          "text": "departure",
+          "text": "is leaving",
           "is_correct": false,
-          "feedback": "'departure' is the action of leaving, not the place you leave for."
+          "feedback": "A present continuous would turn the departure into a personal arrangement instead of a published schedule."
         },
         {
           "letter": "B",
-          "text": "arrival",
+          "text": "will leave",
           "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching a place, not the place itself."
+          "feedback": "The future simple implies a decision taken now, but a timetable entry is already fixed."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "is going to leave",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, not the place at the end of it."
+          "feedback": "This would suggest the speaker has a personal plan or visible evidence, which a printed timetable does not."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "explanation": "Fixed future events that are part of a public schedule take the present simple. The phrase according to the timetable is the reason.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle",
       "periodo": 2,
@@ -144,40 +144,40 @@
     },
     {
       "id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "This time tomorrow we ___ across the border on the night bus.",
+      "context": "The action will be running at a certain moment in the future.",
       "options": [
         {
-          "letter": "A",
-          "text": "luggage",
+          "letter": "D",
+          "text": "will be travelling",
           "is_correct": true,
-          "feedback": "'luggage' is the collective word for the suitcases and bags you pack for a trip."
+          "feedback": "Correct! The future continuous describes an action in progress at a stated future time."
+        },
+        {
+          "letter": "A",
+          "text": "travel",
+          "is_correct": false,
+          "feedback": "The bare present would make the trip a routine, not an event located at one future moment."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "will travel",
           "is_correct": false,
-          "feedback": "'ticket' is the document you buy that admits you to the journey."
+          "feedback": "The future simple locates the action in the future without presenting it as already under way at that hour."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "will have travelled",
           "is_correct": false,
-          "feedback": "'flight' is the plane or the scheduled trip itself, not the bags you carry."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "'reservation' is the booking you hold for a seat or a room."
+          "feedback": "The future perfect needs a second reference point after the travelling is completed, which the sentence lacks."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "This time tomorrow sets a single future point. The future continuous then places a continuous action at that point, and this is a common pattern in narrative and exam questions.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle",
       "periodo": 2,
@@ -189,40 +189,40 @@
     },
     {
       "id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "By the end of the exam you ___ every reading text twice.",
+      "context": "The action will be finished before another future deadline.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
+          "text": "will have read",
           "is_correct": true,
-          "feedback": "'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew."
+          "feedback": "Correct! By the end of plus a future point requires the future perfect."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "have read",
           "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, not on a bus, a train or a plane."
+          "feedback": "The present perfect looks back from now, and the sentence is projected forward from today."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "will read",
           "is_correct": false,
-          "feedback": "'commuter' is someone who travels regularly between home and work, a narrower idea than passenger."
+          "feedback": "The future simple places the reading at or after the deadline instead of before it."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "are reading",
           "is_correct": false,
-          "feedback": "'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew."
+          "feedback": "A present continuous cannot carry the projection to a future deadline."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "explanation": "By the end of the exam is a future deadline. What matters at that deadline is a completed action, so the future perfect will have plus participle is the required form.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle",
       "periodo": 2,
@@ -234,40 +234,40 @@
     },
     {
       "id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "I promise I ___ the dishes before my sister comes home.",
+      "context": "A promise made in the present about a future obligation.",
       "options": [
         {
-          "letter": "C",
-          "text": "customs",
+          "letter": "B",
+          "text": "will wash",
           "is_correct": true,
-          "feedback": "'customs' is the office where officials check the goods, the luggage and the travellers entering a country."
+          "feedback": "Correct! A promise given now about future action is expressed with will."
         },
         {
           "letter": "A",
-          "text": "security",
+          "text": "am washing",
           "is_correct": false,
-          "feedback": "'security' refers to the staff and the measures that keep the airport safe, not to the goods check."
+          "feedback": "A present continuous would describe an arrangement already agreed, and no agreement has been announced."
         },
         {
-          "letter": "B",
-          "text": "terminal",
+          "letter": "C",
+          "text": "would wash",
           "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for and board your flight."
+          "feedback": "'Would' belongs to conditionals and to polite requests, not to the flat promise the sentence announces."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "have washed",
           "is_correct": false,
-          "feedback": "'gate' is the door you board the plane through, not the place where officials check luggage."
+          "feedback": "The present perfect would claim the washing is already done, which contradicts the promise about what is still ahead."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "Will is the tense of promises, offers and volunteer statements made at the moment of speaking. The contract here is between the speaker and the listener.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle",
       "periodo": 2,
@@ -279,37 +279,37 @@
     },
     {
       "id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Do not touch the pan. It ___ not hot because the flame is still on.",
+      "context": "A negative prediction based on a present fact.",
       "options": [
         {
-          "letter": "A",
-          "text": "boarding pass",
+          "letter": "C",
+          "text": "will be",
           "is_correct": true,
-          "feedback": "'boarding pass' is the slip the airline hands over at check-in that lets you board the plane."
+          "feedback": "Correct! A negative prediction made at the moment of speaking uses will."
+        },
+        {
+          "letter": "A",
+          "text": "is being",
+          "is_correct": false,
+          "feedback": "A passive present continuous would suggest the pan is being heated by someone right now, not a prediction."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "has been",
           "is_correct": false,
-          "feedback": "'visa' is the official permission to enter and stay in a foreign country."
-        },
-        {
-          "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "'receipt' is the proof of payment for the ticket, not the document that lets you board."
+          "feedback": "The present perfect refers back to a past stretch of time and cannot carry the prediction."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "were",
           "is_correct": false,
-          "feedback": "'brochure' is a small booklet with tourist information, not a travel document."
+          "feedback": "The subjunctive were belongs to unreal situations and formal constructions, not to an ordinary prediction."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "The warning plus the visible flame is a prediction drawn from present evidence at the moment of speaking. Will plus the adjective hot expresses the expectation.\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,40 +324,40 @@
     },
     {
       "id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Look at that dark cloud. It ___ rain, and we are going to cancel the match.",
+      "context": "Distinguish the two future forms in the same sentence.",
       "options": [
         {
-          "letter": "B",
-          "text": "sightseeing",
+          "letter": "D",
+          "text": "will",
           "is_correct": true,
-          "feedback": "'sightseeing' is visiting the places of interest of a location in order to look at them."
+          "feedback": "Correct! The first clause is a prediction made now, so will is used, while the second states an existing intention."
         },
         {
           "letter": "A",
-          "text": "shopping",
+          "text": "is going to",
           "is_correct": false,
-          "feedback": "'shopping' is buying things, which is a different activity from visiting sights."
+          "feedback": "Using be going to in the first clause would blur it with the intention reported in the second half of the sentence."
+        },
+        {
+          "letter": "B",
+          "text": "would",
+          "is_correct": false,
+          "feedback": "'Would' does not express a plain prediction about the immediate weather."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "shall",
           "is_correct": false,
-          "feedback": "'hiking' is walking in the countryside along a trail, usually for exercise."
-        },
-        {
-          "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "'camping' means spending the night outdoors in a tent."
+          "feedback": "Shall is mainly used in offers and suggestions, not for predicting rain."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "The same sentence can carry both future forms when they carry different meanings. The first half is a prediction and the second half an intention, and each clause keeps its own form.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle",
       "periodo": 2,
@@ -369,37 +369,37 @@
     },
     {
       "id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The trip ___ on Friday afternoon; the flight is already booked.",
+      "context": "A future obligation based on an agreement already made.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
+          "text": "is leaving",
           "is_correct": true,
-          "feedback": "'souvenir' is an object kept because it reminds you of a person, a place or an event."
+          "feedback": "Correct! A present continuous with a future time expression describes a fixed arrangement."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "leaves",
           "is_correct": false,
-          "feedback": "'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder."
+          "feedback": "The present simple is for timetables and routines, and a personal booked trip is an arrangement instead."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "will leave",
           "is_correct": false,
-          "feedback": "'award' is a distinction given for a merit or an achievement."
+          "feedback": "The future simple would suggest a decision being taken at the moment of speaking, but the booking is already done."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "has left",
           "is_correct": false,
-          "feedback": "'prize' is what is won in a competition, not an object bought to remember a trip."
+          "feedback": "The present perfect reports a departure that has happened, not one still ahead of us."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "explanation": "Arrangements have participants, a place and a time agreed in advance, so the present continuous is used. The booked flight is the evidence for that choice.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -414,40 +414,40 @@
     },
     {
       "id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "We ___ meet at the corner at eight; I already told everyone the plan.",
+      "context": "The plan is definite and known to the listener.",
       "options": [
         {
-          "letter": "C",
-          "text": "delay",
+          "letter": "B",
+          "text": "are going to",
           "is_correct": true,
-          "feedback": "'delay' is the extra period of time by which something becomes late or is postponed."
+          "feedback": "Correct! A prior intention with an announced plan is expressed with be going to."
         },
         {
           "letter": "A",
-          "text": "cancellation",
+          "text": "are meeting",
           "is_correct": false,
-          "feedback": "'cancellation' ends the booking or the trip altogether rather than pushing it back."
+          "feedback": "A present continuous would work for a scheduled arrangement, but the emphasis here is on the announced intention."
         },
         {
-          "letter": "B",
-          "text": "departure",
+          "letter": "C",
+          "text": "will meet",
           "is_correct": false,
-          "feedback": "'departure' is the time a vehicle is scheduled to leave, not a postponement."
+          "feedback": "'Will' would make the meeting sound like a decision taken on the spot, which the announcement denies."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "would meet",
           "is_correct": false,
-          "feedback": "'arrival' is the moment you reach the destination, not the waiting time."
+          "feedback": "'Would' is conditional or polite, and it cannot report a definite plan."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "I already told everyone signals that the decision is in place. When the intention and the information about it precede the moment of speaking, the future is be going to.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle",
       "periodo": 2,
@@ -459,37 +459,37 @@
     },
     {
       "id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "By the time we reach the summit, we ___ the whole descent in record time.",
+      "context": "The completion of one action precedes another future action.",
       "options": [
         {
           "letter": "C",
-          "text": "check-in",
+          "text": "will have walked",
           "is_correct": true,
-          "feedback": "'check-in' is reporting your presence at the airport or the hotel and registering."
+          "feedback": "Correct! What matters before reaching the summit is a completed walk, so the future perfect is required."
         },
         {
           "letter": "A",
-          "text": "check-out",
+          "text": "will walk",
           "is_correct": false,
-          "feedback": "'check-out' is the opposite moment: leaving the hotel and settling the bill."
+          "feedback": "The future simple leaves the walking open after the summit, so nothing is completed before the deadline."
         },
         {
           "letter": "B",
-          "text": "booking",
+          "text": "have walked",
           "is_correct": false,
-          "feedback": "'booking' is reserving the room or the seat in advance, which happens before you arrive."
+          "feedback": "The present perfect would place the completion before now rather than before a future point."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "are walking",
           "is_correct": false,
-          "feedback": "'reservation' is the record of that booking, not the act of reporting your presence."
+          "feedback": "A present continuous would describe the walk as an ongoing arrangement, not as something finished by a deadline."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "By the time is a future reference point and everything before it is looked at from there. The future perfect covers exactly that backward view from a future moment.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,37 +504,37 @@
     },
     {
       "id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "What ___ you going to do after the tournament?",
+      "context": "A question about a future plan, with the correct auxiliary.",
       "options": [
         {
           "letter": "D",
-          "text": "layover",
+          "text": "are",
           "is_correct": true,
-          "feedback": "'layover' is the rest or the waiting period between two stages of a journey."
+          "feedback": "Correct! The question keeps the present continuous because the question is about an existing intention."
         },
         {
           "letter": "A",
-          "text": "stopover",
+          "text": "do",
           "is_correct": false,
-          "feedback": "'stopover' is a break in a journey during which you leave the vehicle, often overnight."
+          "feedback": "Do cannot build the be going to form, which needs the auxiliary are or am."
         },
         {
           "letter": "B",
-          "text": "transfer",
+          "text": "will",
           "is_correct": false,
-          "feedback": "'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time."
+          "feedback": "A will question would ask about a decision taken now, not about the plan already formed."
         },
         {
           "letter": "C",
-          "text": "transit",
+          "text": "did",
           "is_correct": false,
-          "feedback": "'transit' means passage through a place or the system that carries people, not the pause itself."
+          "feedback": "Did belongs to the past simple and has no connection with a future intention."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "In questions and negatives the auxiliary of be going to changes to am or are while going stays in the base form: what are you going to do, why are they not coming.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -549,40 +549,40 @@
     },
     {
       "id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The ceremony ___ on the fifteenth at nine in the morning, according to the programme.",
+      "context": "A future event with a definite day and place, fixed by the organisation.",
       "options": [
         {
           "letter": "A",
-          "text": "currency",
+          "text": "will take place",
           "is_correct": true,
-          "feedback": "'currency' is the whole money system in general use in a particular country."
+          "feedback": "Correct! A published programme fixes the event, and will take place is the standard neutral way to announce it."
         },
         {
           "letter": "B",
-          "text": "coin",
+          "text": "is taking place",
           "is_correct": false,
-          "feedback": "'coin' is a single round piece of metal money, only one part of a currency."
+          "feedback": "A present continuous would read as a personal arrangement, whereas the programme is an official announcement."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "takes place",
           "is_correct": false,
-          "feedback": "'banknote' is a paper note, again only one part of a country's money system."
+          "feedback": "The present simple is the British norm for timetables, but with an exact programme a future form is the safer choice."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "has taken place",
           "is_correct": false,
-          "feedback": "'cash' is money in coins and notes seen as a form of payment, not the system a country has."
+          "feedback": "The present perfect would report an event that has already happened, while the programme still lists it ahead."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "Take place is a useful phrase for events with a time and a venue. The future form in the announcement and the present simple in the British version are both defensible, and the programme settles it.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle",
       "periodo": 2,
@@ -594,40 +594,40 @@
     },
     {
       "id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The phone has been ringing for a minute. Someone ___ be in the other room.",
+      "context": "A prediction about someone else's action, neutral in tone.",
       "options": [
         {
-          "letter": "D",
-          "text": "guidebook",
+          "letter": "B",
+          "text": "must",
           "is_correct": true,
-          "feedback": "'guidebook' is a book of information about a place written for the use of visitors."
+          "feedback": "Correct! 'Must' expresses a deduction made from present evidence, and it is neutral in tone."
         },
         {
           "letter": "A",
-          "text": "map",
+          "text": "will",
           "is_correct": false,
-          "feedback": "'map' is a drawing of the area, not a book of information."
-        },
-        {
-          "letter": "B",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "'dictionary' explains the words of a language, not the places of a region."
+          "feedback": "A will here would predict an action, while the sentence infers what is happening at this moment."
         },
         {
           "letter": "C",
-          "text": "encyclopedia",
+          "text": "can",
           "is_correct": false,
-          "feedback": "'encyclopedia' covers all branches of knowledge, not one destination for tourists."
+          "feedback": "Can expresses possibility or ability and is far weaker than the certainty the evidence supports here."
+        },
+        {
+          "letter": "D",
+          "text": "should",
+          "is_correct": false,
+          "feedback": "'Should' carries advice or an expectation and is a weaker deduction than must."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Modal verbs for deduction rank by strength: must for certain, may for possibility, cannot for a rejected idea. The ringing phone is the evidence behind the inference.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle",
       "periodo": 2,
@@ -639,40 +639,40 @@
     },
     {
       "id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Would you mind opening the window? No, ___ not, it is too cold.",
+      "context": "A refusal to accept a proposal made just now.",
       "options": [
         {
           "letter": "C",
-          "text": "backpack",
+          "text": "I would",
           "is_correct": true,
-          "feedback": "'backpack' has shoulder straps and is carried on the back."
+          "feedback": "Correct! Will is the standard auxiliary for refusing an offer or request made in the present."
         },
         {
           "letter": "A",
-          "text": "suitcase",
+          "text": "I did",
           "is_correct": false,
-          "feedback": "'suitcase' is a case with a handle that is pulled along, not one worn on the back."
+          "feedback": "Did belongs to the past, and the offer is being made right now."
         },
         {
           "letter": "B",
-          "text": "briefcase",
+          "text": "I do",
           "is_correct": false,
-          "feedback": "'briefcase' is a flat case for documents that you carry by hand at work."
+          "feedback": "Do cannot carry a refusal on its own, and the sentence has no main verb without a modal."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "I am",
           "is_correct": false,
-          "feedback": "'handbag' is a small bag held in the hand, usually for personal items."
+          "feedback": "A present continuous would be unusual here, and no form of be alone can answer the offer."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "Will is also the modal of refusal. The contraction would not is built from the subject plus would plus not, and it closes an offer politely.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle",
       "periodo": 2,
@@ -684,37 +684,82 @@
     },
     {
       "id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Shh. The baby ___ . Please close the door quietly.",
+      "context": "An action that begins now and continues for a period.",
       "options": [
         {
-          "letter": "C",
-          "text": "overseas",
+          "letter": "D",
+          "text": "is sleeping",
           "is_correct": true,
-          "feedback": "'overseas' means in or to a foreign country, especially one across the sea."
+          "feedback": "Correct! A present continuous describes an action happening at this moment."
         },
         {
           "letter": "A",
-          "text": "domestic",
+          "text": "sleeps",
           "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
+          "feedback": "The present simple describes a habit and would not explain the immediate request to be quiet."
         },
         {
           "letter": "B",
-          "text": "local",
+          "text": "has slept",
           "is_correct": false,
-          "feedback": "'local' means belonging to a small area nearby, not to a foreign country."
+          "feedback": "The present perfect would report a completed sleep, but the baby is still asleep."
+        },
+        {
+          "letter": "C",
+          "text": "will sleep",
+          "is_correct": false,
+          "feedback": "A future form is impossible here, since the request is about the situation in front of the speaker."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The present continuous is the tense of now. The imperative about the door confirms that the noise is happening at this exact moment, so the baby is sleeping.\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle-v17",
+      "statement": "When you ___ the ticket, show it at the gate; they will not let you in without it.",
+      "context": "Two future events, one completed before the other begins.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "print",
+          "is_correct": true,
+          "feedback": "Correct! A future time clause takes the present simple, and the print is the first step before entry."
+        },
+        {
+          "letter": "B",
+          "text": "will print",
+          "is_correct": false,
+          "feedback": "This is the common error: a future form inside a when clause that refers to the future."
+        },
+        {
+          "letter": "C",
+          "text": "have printed",
+          "is_correct": false,
+          "feedback": "The present perfect would suggest the printing is already complete, but the ticket is still needed."
         },
         {
           "letter": "D",
-          "text": "national",
+          "text": "would print",
           "is_correct": false,
-          "feedback": "'national' means concerning the whole nation and says nothing about being abroad."
+          "feedback": "'Would' has no place in a neutral future time clause."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "The main clause carries the future, so the when clause stays in the present. Print and then show is also a natural order of two future steps described in sequence.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -728,86 +773,41 @@
       "country": "hn"
     },
     {
-      "id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "'budget' is an estimate of income and expenditure planned for a set period."
-        },
-        {
-          "letter": "B",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "'expense' is a single amount of money that is spent, not the plan for a whole period."
-        },
-        {
-          "letter": "C",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "'cost' is what one item or one service costs, again not an estimate for a period."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "'price' is the sum a customer pays for one product; a budget covers income and spending together."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle",
-      "periodo": 2,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "hn"
-    },
-    {
       "id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "If you leave now, you ___ the closing ceremony.",
+      "context": "An expectation about a probable result.",
       "options": [
         {
-          "letter": "D",
-          "text": "insurance",
+          "letter": "B",
+          "text": "will catch",
           "is_correct": true,
-          "feedback": "'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium."
+          "feedback": "Correct! A first conditional uses will for the open and likely future condition."
         },
         {
           "letter": "A",
-          "text": "warranty",
+          "text": "would catch",
           "is_correct": false,
-          "feedback": "'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge."
-        },
-        {
-          "letter": "B",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "'guarantee' is a general promise of quality and does not involve paying a premium."
+          "feedback": "'Would' belongs to the second conditional, which describes an unreal or less likely situation."
         },
         {
           "letter": "C",
-          "text": "policy",
+          "text": "catch",
           "is_correct": false,
-          "feedback": "'policy' is the written document that states what an insurance contract covers."
+          "feedback": "A bare present after if could be read as a zero conditional about a rule, not as a future prediction."
+        },
+        {
+          "letter": "D",
+          "text": "will have caught",
+          "is_correct": false,
+          "feedback": "The future perfect needs a later reference point, and the sentence has none."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "The first conditional pairs a present condition with a probable future result: if plus present, will plus base verb. Leaving now is realistic, so the result is a real prediction.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle",
       "periodo": 2,
@@ -819,40 +819,40 @@
     },
     {
       "id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "I ___ call the office right after this class and get you the dates.",
+      "context": "A spoken plan made during the conversation.",
       "options": [
         {
           "letter": "C",
-          "text": "vaccination",
+          "text": "will",
           "is_correct": true,
-          "feedback": "'vaccination' is the treatment with a vaccine that makes the body immune to a disease."
+          "feedback": "Correct! A decision taken during the conversation is expressed with will."
         },
         {
           "letter": "A",
-          "text": "medication",
+          "text": "am going to",
           "is_correct": false,
-          "feedback": "'medication' is a drug taken to treat an illness, not to prevent one."
+          "feedback": "Be going to points to a plan formed earlier, and this call is being decided on the spot."
         },
         {
           "letter": "B",
-          "text": "prescription",
+          "text": "would",
           "is_correct": false,
-          "feedback": "'prescription' is the written order that authorises a medicine, not the treatment itself."
+          "feedback": "'Would' suggests a hypothetical or a polite offer rather than a firm on-the-spot decision."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "have called",
           "is_correct": false,
-          "feedback": "'infection' is the disease itself, the opposite of the protection a vaccination gives."
+          "feedback": "The present perfect would claim the call is already behind us, which is the opposite of the intent."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "explanation": "The temporal phrase right after this class is the difference. A plan made now takes will, while a plan made earlier would take be going to.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle",
       "periodo": 2,
@@ -864,40 +864,40 @@
     },
     {
       "id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "I usually work at home on Fridays, but this Friday I ___ from the office.",
+      "context": "An arrangement that has a habit-like quality for the speaker.",
       "options": [
         {
-          "letter": "A",
-          "text": "jet lag",
+          "letter": "D",
+          "text": "will be working",
           "is_correct": true,
-          "feedback": "'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight."
+          "feedback": "Correct! The contrast between the usual routine and the specific future moment is carried by the future continuous."
+        },
+        {
+          "letter": "A",
+          "text": "am working",
+          "is_correct": false,
+          "feedback": "A present continuous would describe the present Friday or an arrangement, not the Friday that is still coming."
         },
         {
           "letter": "B",
-          "text": "fatigue",
+          "text": "will work",
           "is_correct": false,
-          "feedback": "'fatigue' is tiredness that can come from any long effort, not specifically from a flight."
+          "feedback": "The future simple states the fact but loses the contrast with the ongoing routine the sentence opens with."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "have been working",
           "is_correct": false,
-          "feedback": "'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep."
-        },
-        {
-          "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "'insomnia' is the inability to fall asleep, which has many causes besides travel."
+          "feedback": "The present perfect continuous would need a present starting point, and this Friday is in the future."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "A future arrangement that stands out against a background routine is often expressed with the future continuous. The contrast between usually and this Friday justifies the choice.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle",
       "periodo": 2,

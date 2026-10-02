@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-26-grade-6-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-02T00:37:04.390Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-6-2026-W26-el-agua-como-recurso-y-su-cuidado-001-MASTERY-bundle-v1",
+      "statement": "¿Por qué es importante cuidar el agua?",
+      "context": "En Bogotá, una familia cierra la llave mientras se cepilla los dientes para ahorrar agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque es un recurso esencial para la vida y puede agotarse",
+          "is_correct": true,
+          "feedback": "Correcto. El agua es indispensable para la vida de todos los seres vivos y aunque hay mucha en el planeta, el agua dulce disponible es limitada."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el agua es un recurso infinito que nunca se acaba",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua dulce es un recurso limitado; aunque el ciclo del agua la renueva, la contaminación y el mal uso pueden agotar las fuentes disponibles."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el agua solo se usa para beber",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua tiene muchos usos: beber, cocinar, limpiar, regar cultivos, producir energía y mantener los ecosistemas; no solo se usa para beber."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el agua no es necesaria para los seres vivos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua es esencial para la vida; todos los seres vivos necesitan agua para sobrevivir y mantener sus funciones biológicas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El agua es un recurso natural esencial para la vida. Aunque cubre gran parte del planeta, solo una pequeña proporción es agua dulce disponible para el consumo humano. Su cuidado es fundamental para garantizar que las generaciones futuras tengan acceso a este recurso vital.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-6-2026-W26-el-agua-como-recurso-y-su-cuidado-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W26-el-agua-como-recurso-y-su-cuidado-001-MASTERY-bundle-v2",
+      "statement": "¿Qué consecuencia tiene la contaminación de un río para la comunidad?",
+      "context": "En Medellín, un río cercano a la ciudad está contaminado por los desechos de una fábrica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mejora la calidad del agua para el consumo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La contaminación empeora la calidad del agua, haciéndola peligrosa para el consumo y para la vida acuática; no la mejora."
+        },
+        {
+          "letter": "B",
+          "text": "Afecta la salud de las personas y los ecosistemas",
+          "is_correct": true,
+          "feedback": "Correcto. La contaminación del agua afecta la salud de las personas que la consumen y daña los ecosistemas acuáticos, poniendo en riesgo la biodiversidad."
+        },
+        {
+          "letter": "C",
+          "text": "Aumenta la cantidad de agua disponible",
+          "is_correct": false,
+          "feedback": "Incorrecto. La contaminación no aumenta la cantidad de agua; la hace inutilizable y peligrosa, reduciendo el agua disponible para el consumo."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene ningún efecto en el medio ambiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. La contaminación del agua tiene efectos graves en el medio ambiente, afectando a los peces, las plantas y a todos los seres vivos que dependen del agua."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La contaminación del agua tiene consecuencias graves para la salud humana y el medio ambiente. Los desechos industriales, domésticos y agrícolas pueden hacer que el agua sea peligrosa para el consumo y destruir los ecosistemas acuáticos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.88,
+      "bundle_id": "CO-SOC-6-2026-W26-el-agua-como-recurso-y-su-cuidado-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W26-el-agua-como-recurso-y-su-cuidado-001-MASTERY-bundle-v3",
+      "statement": "¿Qué acción está realizando la comunidad para cuidar el recurso hídrico?",
+      "context": "En Cali, una comunidad organiza una jornada de limpieza de las orillas del río.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contaminando el río con desechos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La comunidad está limpiando el río, no contaminándolo; la jornada de limpieza busca eliminar los desechos que contaminan el agua."
+        },
+        {
+          "letter": "B",
+          "text": "Ignorando la contaminación del río",
+          "is_correct": false,
+          "feedback": "Incorrecto. La comunidad no está ignorando el problema; está actuando activamente para limpiar el río y proteger el recurso hídrico."
+        },
+        {
+          "letter": "C",
+          "text": "Protegiendo el ecosistema acuático",
+          "is_correct": true,
+          "feedback": "Correcto. La limpieza de las orillas del río es una forma de proteger el ecosistema acuático, eliminando los desechos que contaminan el agua y dañan a los seres vivos."
+        },
+        {
+          "letter": "D",
+          "text": "Aumentando la extracción de agua del río",
+          "is_correct": false,
+          "feedback": "Incorrecto. La comunidad no está extrayendo más agua; está limpiando el río para protegerlo, lo que es una acción de conservación, no de sobreexplotación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La limpieza de los ríos es una acción comunitaria que ayuda a proteger el recurso hídrico. Eliminar los desechos de las orillas y del agua previene la contaminación y protege a los seres vivos que dependen de este ecosistema.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-6-2026-W26-el-agua-como-recurso-y-su-cuidado-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W26-el-agua-como-recurso-y-su-cuidado-001-MASTERY-bundle-v4",
+      "statement": "¿Qué acción está realizando esta persona con respecto al cuidado del agua?",
+      "context": "En Barranquilla, una persona deja la llave abierta mientras se enjabona las manos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desperdiciando el agua",
+          "is_correct": true,
+          "feedback": "Correcto. Dejar la llave abierta mientras se enjabona las manos desperdicia agua que podría ahorrarse cerrando la llave durante ese tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "Cuidando el agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dejar la llave abierta no es cuidar el agua; es desperdiciar un recurso valioso que podría ahorrarse con un simple gesto."
+        },
+        {
+          "letter": "C",
+          "text": "Reciclando el agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reciclar el agua implica reutilizarla para otro propósito; dejar la llave abierta no es reciclar, es desperdiciar."
+        },
+        {
+          "letter": "D",
+          "text": "Protegiendo el agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Proteger el agua implica evitar su desperdicio y contaminación; dejar la llave abierta es lo contrario, es malgastar el recurso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El desperdicio del agua es un problema que afecta la disponibilidad de este recurso. Pequeñas acciones como cerrar la llave mientras se enjabona las manos o se cepilla los dientes pueden ahorrar grandes cantidades de agua a lo largo del tiempo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.83,
+      "bundle_id": "CO-SOC-6-2026-W26-el-agua-como-recurso-y-su-cuidado-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W26-el-agua-como-recurso-y-su-cuidado-001-MASTERY-bundle-v5",
+      "statement": "¿Qué ventaja tiene el sistema de riego por goteo frente al riego tradicional?",
+      "context": "En Bucaramanga, un agricultor utiliza un sistema de riego por goteo para regar sus cultivos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gasta más agua que el riego tradicional",
+          "is_correct": false,
+          "feedback": "Incorrecto. El riego por goteo gasta menos agua que el riego tradicional; su ventaja principal es la eficiencia en el uso del recurso hídrico."
+        },
+        {
+          "letter": "B",
+          "text": "Ahorra agua al aplicarla directamente a las raíces de las plantas",
+          "is_correct": true,
+          "feedback": "Correcto. El riego por goteo aplica el agua directamente a las raíces de las plantas, reduciendo el desperdicio por evaporación y escurrimiento."
+        },
+        {
+          "letter": "C",
+          "text": "No requiere mantenimiento",
+          "is_correct": false,
+          "feedback": "Incorrecto. El riego por goteo sí requiere mantenimiento para evitar obstrucciones en los conductos; su ventaja es el ahorro de agua, no la ausencia de mantenimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Es más costoso y menos eficiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque puede ser más costoso inicialmente, el riego por goteo es más eficiente en el uso del agua, lo que lo hace más sostenible a largo plazo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El riego por goteo es una técnica eficiente que aplica el agua directamente a las raíces de las plantas, reduciendo el desperdicio. Esta técnica es especialmente importante en zonas donde el agua es escasa, ya que permite maximizar el uso del recurso hídrico.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-6-2026-W26-el-agua-como-recurso-y-su-cuidado-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W26-el-agua-como-recurso-y-su-cuidado-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál de las siguientes opciones explica mejor por qué esta acción es perjudicial para la comunidad?",
+      "context": "En Pereira, una empresa vierte desechos tóxicos a un río sin tratamiento previo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los desechos tóxicos mejoran la calidad del agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los desechos tóxicos empeoran la calidad del agua, haciéndola peligrosa para el consumo y para la vida acuática; no la mejoran."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los desechos tóxicos no afectan a los seres vivos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los desechos tóxicos afectan gravemente a los seres vivos, contaminando el agua y dañando a los peces, las plantas y a las personas que la consumen."
+        },
+        {
+          "letter": "C",
+          "text": "Porque contamina el agua y pone en riesgo la salud de las personas y los ecosistemas",
+          "is_correct": true,
+          "feedback": "Correcto. Los desechos tóxicos contaminan el agua, haciéndola peligrosa para el consumo y dañando los ecosistemas acuáticos, lo que pone en riesgo la salud de toda la comunidad."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los desechos tóxicos aumentan la cantidad de agua disponible",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los desechos tóxicos no aumentan la cantidad de agua; la contaminan y la hacen inutilizable, reduciendo el agua disponible para el consumo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La contaminación del agua con desechos tóxicos tiene consecuencias graves para la salud humana y el medio ambiente. Las empresas tienen la responsabilidad de tratar sus desechos antes de verterlos a los ríos, y la comunidad tiene derecho a exigir que se cumpla esta obligación.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.78,
+      "bundle_id": "CO-SOC-6-2026-W26-el-agua-como-recurso-y-su-cuidado-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W26-el-agua-como-recurso-y-su-cuidado-001-MASTERY-bundle-v7",
+      "statement": "¿Qué problema social enfrenta esta comunidad por la falta de acceso al agua potable?",
+      "context": "En Cartagena, una comunidad rural no tiene acceso a agua potable y debe caminar varios kilómetros para obtener agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mayor disponibilidad de agua para el consumo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falta de acceso al agua potable reduce la disponibilidad de agua para el consumo; no la aumenta."
+        },
+        {
+          "letter": "B",
+          "text": "Mejora en la calidad de vida de los habitantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falta de acceso al agua potable empeora la calidad de vida; los habitantes deben dedicar tiempo y esfuerzo a obtener agua en lugar de estudiar o trabajar."
+        },
+        {
+          "letter": "C",
+          "text": "Dificultad para mantener la higiene y la salud",
+          "is_correct": true,
+          "feedback": "Correcto. Sin acceso a agua potable, la comunidad tiene dificultades para mantener la higiene personal y doméstica, lo que aumenta el riesgo de enfermedades."
+        },
+        {
+          "letter": "D",
+          "text": "Aumento de la productividad agrícola",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falta de acceso al agua potable no aumenta la productividad agrícola; la escasez de agua limita la capacidad de regar cultivos y mantener la producción."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El acceso al agua potable es un derecho fundamental que afecta directamente la calidad de vida de las personas. Las comunidades que no tienen acceso a este recurso enfrentan problemas de salud, higiene y desarrollo económico, lo que perpetúa la desigualdad social.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-6-2026-W26-el-agua-como-recurso-y-su-cuidado-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W26-el-agua-como-recurso-y-su-cuidado-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es el objetivo principal de este programa de concienciación?",
+      "context": "En Cúcuta, el gobierno local implementa un programa para concienciar a la población sobre el cuidado del agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumentar el consumo de agua en la ciudad",
+          "is_correct": false,
+          "feedback": "Incorrecto. El objetivo no es aumentar el consumo, sino promover un uso responsable y eficiente del agua para garantizar su disponibilidad a largo plazo."
+        },
+        {
+          "letter": "B",
+          "text": "Vender más agua a la población",
+          "is_correct": false,
+          "feedback": "Incorrecto. El programa no busca vender agua; busca concienciar sobre la importancia de cuidar este recurso para que todos tengan acceso a ella."
+        },
+        {
+          "letter": "C",
+          "text": "Promover el uso responsable y la conservación del agua",
+          "is_correct": true,
+          "feedback": "Correcto. El objetivo del programa es educar a la población sobre la importancia de usar el agua de manera responsable y conservar este recurso para las generaciones futuras."
+        },
+        {
+          "letter": "D",
+          "text": "Construir más edificios en la ciudad",
+          "is_correct": false,
+          "feedback": "Incorrecto. El programa no está relacionado con la construcción de edificios; se enfoca en la educación y concienciación sobre el cuidado del agua."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La concienciación sobre el cuidado del agua es fundamental para garantizar la sostenibilidad de este recurso. Educar a la población sobre el uso responsable del agua ayuda a reducir el desperdicio y a proteger las fuentes hídricas para las generaciones futuras.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.72,
+      "bundle_id": "CO-SOC-6-2026-W26-el-agua-como-recurso-y-su-cuidado-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W26-el-agua-como-recurso-y-su-cuidado-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál de las siguientes opciones evalúa mejor esta situación desde la perspectiva de los derechos sociales?",
+      "context": "En Armenia, una empresa minera utiliza grandes cantidades de agua para sus operaciones, dejando sin agua a las comunidades cercanas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es aceptable porque la minería genera empleo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la minería puede generar empleo, no puede hacerse a costa del derecho al agua de las comunidades; los derechos sociales deben respetarse siempre."
+        },
+        {
+          "letter": "B",
+          "text": "Es una violación del derecho al agua de las comunidades cercanas",
+          "is_correct": true,
+          "feedback": "Correcto. El derecho al agua es fundamental; las empresas no pueden usar el agua de manera que deje sin acceso a este recurso a las comunidades cercanas."
+        },
+        {
+          "letter": "C",
+          "text": "Es una buena decisión porque la minería es importante para la economía",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la minería puede ser importante económicamente, no puede vulnerar el derecho al agua de las comunidades; el desarrollo económico no puede ser a costa de los derechos sociales."
+        },
+        {
+          "letter": "D",
+          "text": "Es una situación neutra que no afecta a nadie",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta situación afecta directamente a las comunidades cercanas, dejándolas sin acceso al agua; no es una situación neutra, es una violación de derechos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El derecho al agua es un derecho fundamental que debe ser protegido por el Estado y respetado por todas las empresas y personas. Las actividades económicas no pueden realizarse a costa de vulnerar este derecho esencial para la vida y la dignidad de las personas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-6-2026-W26-el-agua-como-recurso-y-su-cuidado-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W26-el-agua-como-recurso-y-su-cuidado-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál de las siguientes opciones evalúa mejor esta decisión desde la perspectiva del cuidado del agua?",
+      "context": "En Manizales, una familia decide instalar un sistema de recolección de agua lluvia en su casa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una acción responsable que contribuye a la conservación del recurso hídrico",
+          "is_correct": true,
+          "feedback": "Correcto. Recolectar agua lluvia reduce el consumo de agua potable y aprovecha un recurso natural de manera sostenible, contribuyendo a la conservación del agua."
+        },
+        {
+          "letter": "B",
+          "text": "Es una acción innecesaria porque el agua es abundante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el agua es abundante en algunas regiones, el agua potable es limitada; recolectar agua lluvia es una forma responsable de reducir el consumo."
+        },
+        {
+          "letter": "C",
+          "text": "Es una acción que afecta a los vecinos de la familia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Recolectar agua lluvia no afecta a los vecinos; es una acción individual que reduce el consumo de agua potable y beneficia a toda la comunidad."
+        },
+        {
+          "letter": "D",
+          "text": "Es una acción costosa que no tiene beneficios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque puede tener un costo inicial, la recolección de agua lluvia tiene beneficios ambientales y económicos a largo plazo, reduciendo el consumo de agua potable."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La recolección de agua lluvia es una práctica sostenible que aprovecha un recurso natural de manera eficiente. Esta acción reduce el consumo de agua potable y contribuye a la conservación del recurso hídrico, siendo una forma responsable de cuidar el agua.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.68,
+      "bundle_id": "CO-SOC-6-2026-W26-el-agua-como-recurso-y-su-cuidado-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

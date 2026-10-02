@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct form to complete the sentence: The letter ___ every morning.",
+      "context": "Every morning the same delivery arrives at the office.",
       "options": [
         {
-          "letter": "B",
-          "text": "accommodation",
+          "letter": "A",
+          "text": "is delivered",
           "is_correct": true,
-          "feedback": "'accommodation' is the word for a place where you live or stay, including on holiday."
+          "feedback": "Correct. The present simple passive is formed with is or are plus the past participle, so is delivered is right."
         },
         {
-          "letter": "A",
-          "text": "transportation",
+          "letter": "B",
+          "text": "delivers",
           "is_correct": false,
-          "feedback": "'transportation' means the way you travel, such as buses or planes, not where you stay."
+          "feedback": "Incorrect. Delivers is active present simple, but the letter cannot deliver itself."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "is delivering",
           "is_correct": false,
-          "feedback": "'entertainment' is the activity of enjoying shows, films or games, not a place to live."
+          "feedback": "Incorrect. Is delivering is present continuous active, which describes an action in progress, not a daily routine."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "delivered",
           "is_correct": false,
-          "feedback": "'currency' is the money of a country, such as the colon; a place to stay is not money."
+          "feedback": "Incorrect. Delivered alone is past simple active; the passive needs the auxiliary is before the participle."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "The present simple passive uses am, is or are plus the past participle. The letter receives the action, so we write is delivered every morning.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -54,37 +54,37 @@
     },
     {
       "id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence with the correct passive form: The bridge ___ in 1990.",
+      "context": "A local newspaper reported the history of the town.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "'itinerary' is a detailed plan of a journey, listing the route and the stops along the way."
+          "text": "built",
+          "is_correct": false,
+          "feedback": "Incorrect. Built is active past simple and would mean the bridge did the building."
         },
         {
           "letter": "B",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "text": "was built",
+          "is_correct": true,
+          "feedback": "Correct. The past simple passive is was or were plus the past participle, so was built fits the year 1990."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "is built",
           "is_correct": false,
-          "feedback": "'destination' is only the place you are going to; the plan of the route is the itinerary."
+          "feedback": "Incorrect. Is built is present simple passive and clashes with the finished past time in 1990."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "builds",
           "is_correct": false,
-          "feedback": "'passport' is the travel document you show at the border, not the plan of a journey."
+          "feedback": "Incorrect. Builds is active present simple and describes a routine, not a past event."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "A finished past action in the passive takes was or were plus the past participle, as in the bridge was built in 1990.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -99,37 +99,37 @@
     },
     {
       "id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which form correctly completes the sentence? The house ___ at the moment.",
+      "context": "The painters are still working on the old house.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "'destination' names the place a person or thing is going or being sent to."
+          "text": "is painting",
+          "is_correct": false,
+          "feedback": "Incorrect. Is painting is active; it would mean the house is applying paint itself."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "paints",
           "is_correct": false,
-          "feedback": "'departure' is the action of leaving, not the place you leave for."
+          "feedback": "Incorrect. Paints is active present simple and shows a habit, not an action happening now."
         },
         {
           "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching a place, not the place itself."
+          "text": "is being painted",
+          "is_correct": true,
+          "feedback": "Correct. The present continuous passive is is or are being plus the past participle, so is being painted describes work in progress."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "has painted",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, not the place at the end of it."
+          "feedback": "Incorrect. Has painted is active present perfect and does not express the ongoing action."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "correct_answer": "C",
+      "explanation": "To show an action in progress that is done to the subject, use is or are being plus the past participle.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -144,36 +144,36 @@
     },
     {
       "id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: The road ___ when we arrived.",
+      "context": "We reached the town while the workers were fixing the main road.",
       "options": [
         {
-          "letter": "C",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "'luggage' is the collective word for the suitcases and bags you pack for a trip."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "was repairing",
           "is_correct": false,
-          "feedback": "'ticket' is the document you buy that admits you to the journey."
+          "feedback": "Incorrect. Was repairing is active and means the road was fixing something."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "repaired",
           "is_correct": false,
-          "feedback": "'flight' is the plane or the scheduled trip itself, not the bags you carry."
+          "feedback": "Incorrect. Repaired is active past simple; it loses the idea of an action in progress."
+        },
+        {
+          "letter": "C",
+          "text": "is repaired",
+          "is_correct": false,
+          "feedback": "Incorrect. Is repaired is present passive and does not match the past moment when we arrived."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "'reservation' is the booking you hold for a seat or a room."
+          "text": "was being repaired",
+          "is_correct": true,
+          "feedback": "Correct. The past continuous passive is was or were being plus the past participle, so was being repaired shows the ongoing action."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "An ongoing past action done to the subject takes was or were being plus the past participle.\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -189,126 +189,36 @@
     },
     {
       "id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew."
-        },
-        {
-          "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, not on a bus, a train or a plane."
-        },
-        {
-          "letter": "B",
-          "text": "commuter",
-          "is_correct": false,
-          "feedback": "'commuter' is someone who travels regularly between home and work, a narrower idea than passenger."
-        },
-        {
-          "letter": "C",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence with the correct form: The report ___ yet.",
+      "context": "The manager is waiting for the monthly report.",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
+          "text": "has not been finished",
           "is_correct": true,
-          "feedback": "'customs' is the office where officials check the goods, the luggage and the travellers entering a country."
+          "feedback": "Correct. The present perfect passive is has or have been plus the past participle, so has not been finished is right."
         },
         {
           "letter": "B",
-          "text": "security",
+          "text": "has not finished",
           "is_correct": false,
-          "feedback": "'security' refers to the staff and the measures that keep the airport safe, not to the goods check."
+          "feedback": "Incorrect. Has not finished is active and suggests the report finished something by itself."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "is not finishing",
           "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for and board your flight."
+          "feedback": "Incorrect. Is not finishing is active present continuous and ignores the link to now."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "did not finish",
           "is_correct": false,
-          "feedback": "'gate' is the door you board the plane through, not the place where officials check luggage."
+          "feedback": "Incorrect. Did not finish is active past simple and drops the passive auxiliary been."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "'boarding pass' is the slip the airline hands over at check-in that lets you board the plane."
-        },
-        {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "'visa' is the official permission to enter and stay in a foreign country."
-        },
-        {
-          "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "'receipt' is the proof of payment for the ticket, not the document that lets you board."
-        },
-        {
-          "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "'brochure' is a small booklet with tourist information, not a travel document."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "explanation": "The present perfect passive links a past action to now with has or have been plus the past participle.\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -323,37 +233,127 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v6",
+      "statement": "Complete the sentence: The tickets ___ before we got there.",
+      "context": "We arrived late at the box office last night.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "'sightseeing' is visiting the places of interest of a location in order to look at them."
+          "text": "had sold",
+          "is_correct": false,
+          "feedback": "Incorrect. Had sold is active and would mean the tickets sold something themselves."
         },
         {
           "letter": "B",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "'shopping' is buying things, which is a different activity from visiting sights."
+          "text": "had been sold",
+          "is_correct": true,
+          "feedback": "Correct. The past perfect passive is had been plus the past participle, so had been sold marks the earlier past event."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "were selling",
           "is_correct": false,
-          "feedback": "'hiking' is walking in the countryside along a trail, usually for exercise."
+          "feedback": "Incorrect. Were selling is active past continuous and does not show the action was completed first."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "have sold",
           "is_correct": false,
-          "feedback": "'camping' means spending the night outdoors in a tent."
+          "feedback": "Incorrect. Have sold is active present perfect and does not fit a past before another past."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "The past perfect passive uses had been plus the past participle for an action completed before another past moment.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v7",
+      "statement": "Choose the correct form: The results ___ tomorrow.",
+      "context": "The judges are still deciding on the competition entries.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will announce",
+          "is_correct": false,
+          "feedback": "Incorrect. Will announce is active future and would mean the results announce something."
+        },
+        {
+          "letter": "B",
+          "text": "are announcing",
+          "is_correct": false,
+          "feedback": "Incorrect. Are announcing is active present continuous and does not express a future action in the passive."
+        },
+        {
+          "letter": "C",
+          "text": "will be announced",
+          "is_correct": true,
+          "feedback": "Correct. The future simple passive is will be plus the past participle, so will be announced is right."
+        },
+        {
+          "letter": "D",
+          "text": "announced",
+          "is_correct": false,
+          "feedback": "Incorrect. Announced is active past simple and clashes with tomorrow."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The future simple passive is will be plus the past participle for an action that will happen to the subject.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v8",
+      "statement": "Complete the sentence: By next year the project ___ .",
+      "context": "The construction company is working to a fixed schedule.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will have completed",
+          "is_correct": false,
+          "feedback": "Incorrect. Will have completed is active and means the project completes something else."
+        },
+        {
+          "letter": "B",
+          "text": "will be completing",
+          "is_correct": false,
+          "feedback": "Incorrect. Will be completing is active future continuous and loses the passive sense."
+        },
+        {
+          "letter": "C",
+          "text": "has completed",
+          "is_correct": false,
+          "feedback": "Incorrect. Has completed is active present perfect and cannot follow by next year."
+        },
+        {
+          "letter": "D",
+          "text": "will have been completed",
+          "is_correct": true,
+          "feedback": "Correct. The future perfect passive is will have been plus the past participle, so will have been completed fits by next year."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The future perfect passive uses will have been plus the past participle for an action finished before a future time.\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,36 +369,396 @@
     },
     {
       "id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: This form ___ by the manager.",
+      "context": "The company has a strict procedure for official documents.",
       "options": [
         {
-          "letter": "B",
-          "text": "souvenir",
+          "letter": "A",
+          "text": "must be signed",
           "is_correct": true,
-          "feedback": "'souvenir' is an object kept because it reminds you of a person, a place or an event."
+          "feedback": "Correct. After a modal the passive is be plus the past participle, so must be signed is the right form."
         },
         {
-          "letter": "A",
-          "text": "gift",
+          "letter": "B",
+          "text": "must sign",
           "is_correct": false,
-          "feedback": "'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder."
+          "feedback": "Incorrect. Must sign is active; it would mean the form signs something."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "must signing",
           "is_correct": false,
-          "feedback": "'award' is a distinction given for a merit or an achievement."
+          "feedback": "Incorrect. Must is followed by the bare infinitive, so must signing is not grammatical."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "must have sign",
           "is_correct": false,
-          "feedback": "'prize' is what is won in a competition, not an object bought to remember a trip."
+          "feedback": "Incorrect. Have must be followed by the past participle signed, not the noun sign."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Modal verbs form the passive with be plus the past participle, as in must be signed.\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v10",
+      "statement": "Which sentence is the correct passive form of Shakespeare wrote Hamlet?",
+      "context": "A teacher is explaining how to change an active sentence into the passive.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hamlet was wrote by Shakespeare.",
+          "is_correct": false,
+          "feedback": "Incorrect. Wrote is the past simple, but the passive needs the past participle written."
+        },
+        {
+          "letter": "B",
+          "text": "Hamlet was written by Shakespeare.",
+          "is_correct": true,
+          "feedback": "Correct. The past simple passive needs was or were plus the past participle written, and the agent follows by."
+        },
+        {
+          "letter": "C",
+          "text": "Hamlet is written by Shakespeare.",
+          "is_correct": false,
+          "feedback": "Incorrect. Is written is present passive and changes the tense of the original."
+        },
+        {
+          "letter": "D",
+          "text": "Hamlet wrote by Shakespeare.",
+          "is_correct": false,
+          "feedback": "Incorrect. Wrote is active and leaves the sentence without the passive auxiliary was."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
+      "explanation": "To turn an active past simple into the passive, use was or were plus the past participle and add by before the agent.\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v11",
+      "statement": "Choose the correct passive transformation of They have repaired the car.",
+      "context": "A mechanic has just finished working on the family car.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The car has repaired.",
+          "is_correct": false,
+          "feedback": "Incorrect. This is active present perfect and misses the passive auxiliary been."
+        },
+        {
+          "letter": "B",
+          "text": "The car is repairing.",
+          "is_correct": false,
+          "feedback": "Incorrect. Is repairing is active present continuous and changes the tense."
+        },
+        {
+          "letter": "C",
+          "text": "The car has been repaired.",
+          "is_correct": true,
+          "feedback": "Correct. The present perfect passive is has been plus the past participle, so The car has been repaired is right."
+        },
+        {
+          "letter": "D",
+          "text": "The car was repairing.",
+          "is_correct": false,
+          "feedback": "Incorrect. Was repairing is active past continuous and changes both tense and voice."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Transforming a present perfect active sentence into the passive keeps has or have and adds been before the past participle.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v12",
+      "statement": "Which tense and voice is used in The cake was being baked?",
+      "context": "A student is analysing the form of a sentence in a grammar exercise.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "past simple passive",
+          "is_correct": false,
+          "feedback": "Incorrect. The past simple passive would be was baked, without being."
+        },
+        {
+          "letter": "B",
+          "text": "present continuous passive",
+          "is_correct": false,
+          "feedback": "Incorrect. The present continuous passive would be is being baked."
+        },
+        {
+          "letter": "C",
+          "text": "past perfect passive",
+          "is_correct": false,
+          "feedback": "Incorrect. The past perfect passive would be had been baked."
+        },
+        {
+          "letter": "D",
+          "text": "past continuous passive",
+          "is_correct": true,
+          "feedback": "Correct. Was being plus the past participle is the past continuous passive, an action in progress in the past."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Was being baked combines the past auxiliary was, the continuous being and the participle baked, so it is the past continuous passive.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v13",
+      "statement": "Which sentence is grammatically correct?",
+      "context": "A student must choose the sentence that contains no grammar error.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The window was broken by the storm.",
+          "is_correct": true,
+          "feedback": "Correct. The passive uses was plus the past participle broken, and by introduces the agent."
+        },
+        {
+          "letter": "B",
+          "text": "The window was broke by the storm.",
+          "is_correct": false,
+          "feedback": "Incorrect. Broke is the past simple, but the passive requires the participle broken."
+        },
+        {
+          "letter": "C",
+          "text": "The window did broken by the storm.",
+          "is_correct": false,
+          "feedback": "Incorrect. Did cannot introduce a passive; the auxiliary must be was."
+        },
+        {
+          "letter": "D",
+          "text": "The window was break by the storm.",
+          "is_correct": false,
+          "feedback": "Incorrect. Break is the base form and cannot follow the auxiliary was."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The past simple passive is was or were plus the past participle, so broken is the only form that fits.\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v14",
+      "statement": "Complete the sentence: She hopes ___ to the party.",
+      "context": "The club organises a big party every December.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "to invite",
+          "is_correct": false,
+          "feedback": "Incorrect. To invite is active and means she will invite someone else."
+        },
+        {
+          "letter": "B",
+          "text": "to be invited",
+          "is_correct": true,
+          "feedback": "Correct. The passive infinitive is to be plus the past participle, so to be invited is right."
+        },
+        {
+          "letter": "C",
+          "text": "to be inviting",
+          "is_correct": false,
+          "feedback": "Incorrect. To be inviting is a continuous active form, not a passive infinitive."
+        },
+        {
+          "letter": "D",
+          "text": "inviting",
+          "is_correct": false,
+          "feedback": "Incorrect. Inviting is a gerund and does not follow hopes in this structure."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The passive infinitive is formed with to be plus the past participle, as in to be invited.\n---",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v15",
+      "statement": "Complete the sentence: He hates ___ .",
+      "context": "A speaker dislikes it when other people cut in while talking.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "interrupting",
+          "is_correct": false,
+          "feedback": "Incorrect. Interrupting is active and means he interrupts other people."
+        },
+        {
+          "letter": "B",
+          "text": "to be interrupt",
+          "is_correct": false,
+          "feedback": "Incorrect. The infinitive needs the participle interrupted, not the base form interrupt."
+        },
+        {
+          "letter": "C",
+          "text": "being interrupted",
+          "is_correct": true,
+          "feedback": "Correct. After hate the passive gerund is being plus the past participle, so being interrupted is right."
+        },
+        {
+          "letter": "D",
+          "text": "interrupt",
+          "is_correct": false,
+          "feedback": "Incorrect. Interrupt is a bare verb and cannot stand after hates in this meaning."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The passive gerund is being plus the past participle, so he hates being interrupted means others interrupt him.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v16",
+      "statement": "Complete the sentence: The window ___ by the children.",
+      "context": "A mother is trying to explain the damage to a neighbour.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "might have broken",
+          "is_correct": false,
+          "feedback": "Incorrect. This is active and would mean the window broke something."
+        },
+        {
+          "letter": "B",
+          "text": "might be breaking",
+          "is_correct": false,
+          "feedback": "Incorrect. This is active continuous and does not express a completed past action."
+        },
+        {
+          "letter": "C",
+          "text": "might broke",
+          "is_correct": false,
+          "feedback": "Incorrect. After might the verb needs the bare infinitive, so broke cannot follow it."
+        },
+        {
+          "letter": "D",
+          "text": "might have been broken",
+          "is_correct": true,
+          "feedback": "Correct. A modal perfect passive is modal plus have been plus the past participle, so might have been broken is right."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "A modal perfect passive combines the modal, have, been and the past participle to show a possible past action.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v17",
+      "statement": "Complete the question: ___ the letters sent yesterday?",
+      "context": "A secretary is checking whether the letters left the office yesterday.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Were",
+          "is_correct": true,
+          "feedback": "Correct. Were forms the past simple passive question together with the past participle sent."
+        },
+        {
+          "letter": "B",
+          "text": "Did",
+          "is_correct": false,
+          "feedback": "Incorrect. Did would create the active question Did the letters send, which is not passive."
+        },
+        {
+          "letter": "C",
+          "text": "Are",
+          "is_correct": false,
+          "feedback": "Incorrect. Are forms a present passive question and clashes with yesterday."
+        },
+        {
+          "letter": "D",
+          "text": "Have",
+          "is_correct": false,
+          "feedback": "Incorrect. Have would need the past participle been, as in have the letters been sent."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A past simple passive question begins with was or were and keeps the past participle sent.\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -413,37 +773,37 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v18",
+      "statement": "Complete the sentence: The email ___ by the assistant.",
+      "context": "An assistant forgot to send an important email.",
       "options": [
         {
-          "letter": "C",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "'delay' is the extra period of time by which something becomes late or is postponed."
-        },
-        {
           "letter": "A",
-          "text": "cancellation",
+          "text": "was not send",
           "is_correct": false,
-          "feedback": "'cancellation' ends the booking or the trip altogether rather than pushing it back."
+          "feedback": "Incorrect. Send is the base form; the passive needs the participle sent."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "was not sent",
+          "is_correct": true,
+          "feedback": "Correct. The negative past simple passive is was not plus the past participle, so was not sent is right."
+        },
+        {
+          "letter": "C",
+          "text": "did not sent",
           "is_correct": false,
-          "feedback": "'departure' is the time a vehicle is scheduled to leave, not a postponement."
+          "feedback": "Incorrect. Did not is active and must be followed by the base form, not sent."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "not sent",
           "is_correct": false,
-          "feedback": "'arrival' is the moment you reach the destination, not the waiting time."
+          "feedback": "Incorrect. The sentence lacks the auxiliary was, so it is not a complete passive."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "To make a past simple passive negative, put not after was or were and keep the past participle.\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -458,401 +818,41 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "'check-in' is reporting your presence at the airport or the hotel and registering."
-        },
-        {
-          "letter": "B",
-          "text": "check-out",
-          "is_correct": false,
-          "feedback": "'check-out' is the opposite moment: leaving the hotel and settling the bill."
-        },
-        {
-          "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "'booking' is reserving the room or the seat in advance, which happens before you arrive."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "'reservation' is the record of that booking, not the act of reporting your presence."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "'layover' is the rest or the waiting period between two stages of a journey."
-        },
-        {
-          "letter": "A",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "'stopover' is a break in a journey during which you leave the vehicle, often overnight."
-        },
-        {
-          "letter": "B",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time."
-        },
-        {
-          "letter": "C",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "'transit' means passage through a place or the system that carries people, not the pause itself."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "'currency' is the whole money system in general use in a particular country."
-        },
-        {
-          "letter": "B",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "'coin' is a single round piece of metal money, only one part of a currency."
-        },
-        {
-          "letter": "C",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "'banknote' is a paper note, again only one part of a country's money system."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "'cash' is money in coins and notes seen as a form of payment, not the system a country has."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "'guidebook' is a book of information about a place written for the use of visitors."
-        },
-        {
-          "letter": "A",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "'map' is a drawing of the area, not a book of information."
-        },
-        {
-          "letter": "C",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "'dictionary' explains the words of a language, not the places of a region."
-        },
-        {
-          "letter": "D",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "'encyclopedia' covers all branches of knowledge, not one destination for tourists."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "'backpack' has shoulder straps and is carried on the back."
-        },
-        {
-          "letter": "A",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "'suitcase' is a case with a handle that is pulled along, not one worn on the back."
-        },
-        {
-          "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "'briefcase' is a flat case for documents that you carry by hand at work."
-        },
-        {
-          "letter": "D",
-          "text": "handbag",
-          "is_correct": false,
-          "feedback": "'handbag' is a small bag held in the hand, usually for personal items."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "'overseas' means in or to a foreign country, especially one across the sea."
-        },
-        {
-          "letter": "A",
-          "text": "domestic",
-          "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
-        },
-        {
-          "letter": "B",
-          "text": "local",
-          "is_correct": false,
-          "feedback": "'local' means belonging to a small area nearby, not to a foreign country."
-        },
-        {
-          "letter": "C",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "'national' means concerning the whole nation and says nothing about being abroad."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "'budget' is an estimate of income and expenditure planned for a set period."
-        },
-        {
-          "letter": "B",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "'expense' is a single amount of money that is spent, not the plan for a whole period."
-        },
-        {
-          "letter": "C",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "'cost' is what one item or one service costs, again not an estimate for a period."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "'price' is the sum a customer pays for one product; a budget covers income and spending together."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium."
-        },
-        {
-          "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge."
-        },
-        {
-          "letter": "C",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "'guarantee' is a general promise of quality and does not involve paying a premium."
-        },
-        {
-          "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "'policy' is the written document that states what an insurance contract covers."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle",
-      "periodo": 9,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
       "id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: The song ___ by millions of people this week.",
+      "context": "The same popular song is playing in many shops this week.",
       "options": [
         {
-          "letter": "D",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "'vaccination' is the treatment with a vaccine that makes the body immune to a disease."
-        },
-        {
           "letter": "A",
-          "text": "medication",
+          "text": "is being sang",
           "is_correct": false,
-          "feedback": "'medication' is a drug taken to treat an illness, not to prevent one."
+          "feedback": "Incorrect. Sang is the past simple, but the passive needs the participle sung."
         },
         {
           "letter": "B",
-          "text": "prescription",
+          "text": "is singing",
           "is_correct": false,
-          "feedback": "'prescription' is the written order that authorises a medicine, not the treatment itself."
+          "feedback": "Incorrect. Is singing is active and means the song sings by itself."
         },
         {
           "letter": "C",
-          "text": "infection",
+          "text": "is being sung",
+          "is_correct": true,
+          "feedback": "Correct. The present continuous passive is is being plus the past participle sung, so is being sung is right."
+        },
+        {
+          "letter": "D",
+          "text": "is sung being",
           "is_correct": false,
-          "feedback": "'infection' is the disease itself, the opposite of the protection a vaccination gives."
+          "feedback": "Incorrect. The words are in the wrong order; being must come before sung."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "C",
+      "explanation": "The present continuous passive puts is or are being before the past participle, as in is being sung.\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle",
       "periodo": 9,
@@ -864,40 +864,40 @@
     },
     {
       "id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is active, not passive?",
+      "context": "A teacher asks the class to spot the sentence that is not in the passive voice.",
       "options": [
         {
-          "letter": "B",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight."
+          "letter": "A",
+          "text": "The meal was prepared by the chef.",
+          "is_correct": false,
+          "feedback": "Incorrect. Was prepared plus the agent by the chef makes this a passive sentence."
         },
         {
-          "letter": "A",
-          "text": "fatigue",
+          "letter": "B",
+          "text": "The meal has been prepared.",
           "is_correct": false,
-          "feedback": "'fatigue' is tiredness that can come from any long effort, not specifically from a flight."
+          "feedback": "Incorrect. Has been prepared is the present perfect passive."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "The meal is being prepared.",
           "is_correct": false,
-          "feedback": "'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep."
+          "feedback": "Incorrect. Is being prepared is the present continuous passive."
         },
         {
           "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "'insomnia' is the inability to fall asleep, which has many causes besides travel."
+          "text": "The chef prepared the meal.",
+          "is_correct": true,
+          "feedback": "Correct. The chef prepared the meal is active because the subject chef performs the action."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "A sentence is active when the subject performs the action, so the chef prepared the meal is active while the others are passive.\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle",
       "periodo": 9,

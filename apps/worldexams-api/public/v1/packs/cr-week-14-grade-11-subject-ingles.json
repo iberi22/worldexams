@@ -8,131 +8,131 @@
   },
   "questions": [
     {
-      "id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W14-reading-academic-texts-v1",
+      "statement": "What is the aim of the paper?",
+      "context": "Academic text: 'This paper examines whether urban tree cover reduces surface temperature. Using satellite data for eleven cities over a decade, the authors compare canopy cover with recorded summer temperatures.'",
       "options": [
         {
-          "letter": "A",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday."
-        },
-        {
           "letter": "B",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep."
+          "text": "To find out whether tree cover is related to lower city temperatures",
+          "is_correct": true,
+          "feedback": "The first sentence states the research question directly, and the second sentence describes the method used to answer it."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "To measure how many trees were planted in eleven cities",
           "is_correct": false,
-          "feedback": "'Entertainment' is the fun or activities you enjoy, not the building or room where you stay."
+          "feedback": "Counting planted trees is not mentioned; the study uses canopy cover recorded from satellite images."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "To argue that cities should plant more trees",
           "is_correct": false,
-          "feedback": "'Currency' is the money of a country, which has nothing to do with where you sleep."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route."
-        },
-        {
-          "letter": "B",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "'Baggage' is the suitcases and bags you travel with, not the written plan of the trip."
-        },
-        {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan."
-        },
-        {
-          "letter": "D",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "'Passport' is the travel document that lets you cross a border, not the schedule of your trip."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place someone or something is going or being sent to."
+          "feedback": "A recommendation to plant trees would belong to a discussion section, and the text does not make that claim."
         },
         {
           "letter": "A",
-          "text": "departure",
+          "text": "To compare the climates of eleven countries",
           "is_correct": false,
-          "feedback": "'Departure' is the action of leaving, the opposite end of the journey from the destination."
-        },
-        {
-          "letter": "B",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'Arrival' is the act of getting there; the place you arrive at is the destination."
-        },
-        {
-          "letter": "C",
-          "text": "journey",
-          "is_correct": false,
-          "feedback": "'Journey' is the whole trip from start to finish, not the place you are heading to."
+          "feedback": "The study concerns cities rather than countries, and the comparison is internal to each city."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "Academic texts state their aim in the opening sentence, before any method is described. Reading the aim first tells the reader what every later sentence is being used for.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W14-reading-academic-texts-v2",
+      "statement": "What feature of the design does 'assigned at random' describe?",
+      "context": "Academic text: 'Participants were assigned at random to two groups. One group received the training programme and the other received standard instruction.'",
+      "options": [
+        {
+          "letter": "B",
+          "text": "The groups are equivalent before the treatment begins",
+          "is_correct": true,
+          "feedback": "Random allocation is used precisely so that the two groups start comparable, which is what the design requires."
+        },
+        {
+          "letter": "C",
+          "text": "The participants chose their own group",
+          "is_correct": false,
+          "feedback": "Choosing one's own group is self-selection, which random assignment deliberately avoids."
+        },
+        {
+          "letter": "D",
+          "text": "The researchers decided the groups by convenience",
+          "is_correct": false,
+          "feedback": "Convenience placement is what random assignment exists to replace."
+        },
+        {
+          "letter": "A",
+          "text": "The results were assigned to the groups afterwards",
+          "is_correct": false,
+          "feedback": "Nothing in the sentence concerns results or any later stage of the study."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Method sections describe design decisions, and each phrase in them carries a technical meaning. 'Random assignment' is the standard feature that makes a comparison between two groups interpretable.\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.85,
+      "bundle_id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W14-reading-academic-texts-v3",
+      "statement": "What does this section establish?",
+      "context": "Academic text: 'Sample sizes were calculated in advance. The study was approved by the university ethics committee, and all participants gave written informed consent.'",
+      "options": [
+        {
+          "letter": "C",
+          "text": "That the study was planned formally and follows ethical requirements",
+          "is_correct": true,
+          "feedback": "Advance planning, ethical approval and written consent are the three markers of a properly governed study."
+        },
+        {
+          "letter": "D",
+          "text": "That the results were completely reliable",
+          "is_correct": false,
+          "feedback": "Ethical approval does not certify results; reliability is argued with evidence elsewhere in the text."
+        },
+        {
+          "letter": "A",
+          "text": "That the participants were representative of the whole country",
+          "is_correct": false,
+          "feedback": "Representativeness depends on how participants were selected, which this section does not address."
+        },
+        {
+          "letter": "B",
+          "text": "That the study was repeated in another country",
+          "is_correct": false,
+          "feedback": "No repetition in another country appears anywhere in the passage."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A methods section contains standard components: sample, procedure, ethics and analysis. Knowing them lets a reader locate in seconds the section that answers a question about how the study was carried out.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle",
       "periodo": 14,
@@ -143,37 +143,37 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W14-reading-academic-texts-v4",
+      "statement": "What does the word 'suggests' signal about the author's level of certainty?",
+      "context": "Academic text: 'The effect disappeared when the analysis excluded the two largest farms. This suggests that the overall result is driven by a small number of unusually large operations.'",
       "options": [
         {
-          "letter": "C",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself."
+          "text": "The explanation is offered as a likely interpretation rather than a proved fact",
+          "is_correct": true,
+          "feedback": "'Suggests' is a hedging verb that presents an inference the author believes is well founded but not demonstrated."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "The author is certain that the interpretation is correct",
           "is_correct": false,
-          "feedback": "'Flight' is the journey by plane, or the plane itself; the bags are called luggage."
+          "feedback": "A claim of certainty would require stronger wording, and the author deliberately avoided it."
+        },
+        {
+          "letter": "C",
+          "text": "The author doubts that the effect was ever measured",
+          "is_correct": false,
+          "feedback": "The effect is acknowledged as real before its cause is questioned, so the author is not doubting the measurement."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "The author is quoting another researcher without naming them",
           "is_correct": false,
-          "feedback": "'Reservation' is the booking you make for a seat or a room, not the bags you pack."
+          "feedback": "No attribution to another researcher appears in this sentence."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Hedging verbs such as 'suggests', 'indicates' and 'appears to' mark the boundary between evidence and interpretation. Advanced reading courses train students to notice exactly where an author stops claiming and starts interpreting.\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -188,400 +188,85 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W14-reading-academic-texts-v5",
+      "statement": "What does a confidence interval that includes zero indicate?",
+      "context": "Academic text: 'Table 3 shows the mean scores by group. The difference between the two groups was small, and the confidence interval included zero.'",
       "options": [
         {
           "letter": "D",
-          "text": "passenger",
+          "text": "The difference cannot be distinguished from no difference",
           "is_correct": true,
-          "feedback": "Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew."
+          "feedback": "When the interval spans zero, the data are consistent with no real difference between the groups."
         },
         {
           "letter": "A",
-          "text": "pedestrian",
+          "text": "The difference is exactly zero",
           "is_correct": false,
-          "feedback": "'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all."
+          "feedback": "An interval including zero does not prove the difference is precisely nothing, only that it cannot be ruled out."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "The study failed to measure anything",
           "is_correct": false,
-          "feedback": "'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case."
+          "feedback": "The measurement exists and is reported; what is uncertain is the interpretation of the gap."
         },
         {
           "letter": "C",
-          "text": "tourist",
+          "text": "The result has been fully confirmed",
           "is_correct": false,
-          "feedback": "'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents."
+          "feedback": "Confirmation would require an interval excluding zero, which is not the case here."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "explanation": "Reading a statistical report means knowing what the intervals permit. This item checks a piece of terminology that appears in every empirical paper and is very often misunderstood by readers.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W14-reading-academic-texts-v6",
+      "statement": "What should a careful reader note about this study?",
+      "context": "Academic text: 'We measured rainfall over eighteen months. The final three months of data were lost when the recording equipment failed, so the analysis uses fifteen months.'",
+      "options": [
+        {
+          "letter": "D",
+          "text": "The reported analysis covers less data than the study collected",
+          "is_correct": true,
+          "feedback": "The reader should notice that three months of collected data were excluded, which narrows what the results cover."
+        },
+        {
+          "letter": "A",
+          "text": "The study collected no data at all",
+          "is_correct": false,
+          "feedback": "Fifteen months of usable data remain, so the study did collect a substantial amount."
+        },
+        {
+          "letter": "B",
+          "text": "The equipment failure invalidates the remaining data",
+          "is_correct": false,
+          "feedback": "A failure that removes data is a limitation, not a reason to discard what was recorded successfully."
+        },
+        {
+          "letter": "C",
+          "text": "The analysis was extended to cover the missing months",
+          "is_correct": false,
+          "feedback": "The text states that the analysis uses the remaining fifteen months and no estimate of the missing ones."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Method sections disclose what happened, including data that could not be used. A reader who registers the difference between data collected and data analysed can weigh the conclusions accordingly.\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage."
-        },
-        {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in."
-        },
-        {
-          "letter": "B",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "'Terminal' is the whole building where passengers wait, eat and catch their flights."
-        },
-        {
-          "letter": "C",
-          "text": "gate",
-          "is_correct": false,
-          "feedback": "'Gate' is the particular door you board through, not the place where officials inspect your luggage."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board."
-        },
-        {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane."
-        },
-        {
-          "letter": "B",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "'Receipt' is the proof of payment for a purchase, not the travel document for boarding."
-        },
-        {
-          "letter": "C",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "'Brochure' is a small booklet of tourist information, not the document that lets you board."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'Sightseeing' is the activity of visiting the places of interest in a location."
-        },
-        {
-          "letter": "A",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "'Shopping' is buying things in stores, which is not the same as visiting the sights of a place."
-        },
-        {
-          "letter": "C",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions."
-        },
-        {
-          "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "'Camping' is staying outdoors in a tent, not visiting the sights of a location."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited."
-        },
-        {
-          "letter": "A",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "'Gift' is something you give to another person; a souvenir is kept by the person who took the trip."
-        },
-        {
-          "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "'Award' is a prize given for an achievement, not an object bought or kept as a memory."
-        },
-        {
-          "letter": "D",
-          "text": "prize",
-          "is_correct": false,
-          "feedback": "'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra time by which something ends up late or gets postponed."
-        },
-        {
-          "letter": "A",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "'Cancellation' means the event does not happen at all, not that it happens later than planned."
-        },
-        {
-          "letter": "C",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost."
-        },
-        {
-          "letter": "D",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter."
-        },
-        {
-          "letter": "A",
-          "text": "check-out",
-          "is_correct": false,
-          "feedback": "'Check-out' is the opposite moment, when you leave the hotel or hand back the room."
-        },
-        {
-          "letter": "B",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in."
-        },
-        {
-          "letter": "C",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "'Reservation' is the booking document, not the act of reporting your presence at the desk."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! A 'layover' is a period of rest or waiting between two stages of a journey."
-        },
-        {
-          "letter": "B",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights."
-        },
-        {
-          "letter": "C",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "'Transit' is a system of moving people and goods through a city, not a break between two flights."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'Currency' is the money system in general use in a particular country."
-        },
-        {
-          "letter": "A",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "'Coin' is a single metal piece of money, one item within the currency, not the whole system."
-        },
-        {
-          "letter": "B",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "'Banknote' is a paper bill, one item of the currency rather than the system of money itself."
-        },
-        {
-          "letter": "C",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "'Cash' means money in the physical form you hold, not the money system of a country."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
       "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle",
@@ -593,173 +278,83 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book of information about a place written for visitors and tourists."
-        },
-        {
-          "letter": "A",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "'Map' is a single sheet or screen showing the layout of a place, not a book of information."
-        },
-        {
-          "letter": "B",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "'Dictionary' is a book of word definitions of a language, not information about a place for visitors."
-        },
-        {
-          "letter": "C",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! A 'backpack' is the bag with shoulder straps that you carry on your back."
-        },
-        {
-          "letter": "A",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "'Suitcase' is a case with a handle that you pull along, not a bag worn on the back."
-        },
-        {
-          "letter": "B",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "'Briefcase' is a case for documents and a laptop, carried in the hand for work."
-        },
-        {
-          "letter": "C",
-          "text": "handbag",
-          "is_correct": false,
-          "feedback": "'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'Overseas' means in or to a foreign country, especially one across the sea."
-        },
-        {
-          "letter": "A",
-          "text": "domestic",
-          "is_correct": false,
-          "feedback": "'Domestic' means inside your own country, the opposite of overseas."
-        },
-        {
-          "letter": "B",
-          "text": "local",
-          "is_correct": false,
-          "feedback": "'Local' means in the area where you are, even more restricted than domestic; it never crosses a border."
-        },
-        {
-          "letter": "C",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "'National' refers to a whole country without saying it is foreign, so it does not imply going abroad."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W14-reading-academic-texts-v7",
+      "statement": "Why do the two sentences appear together?",
+      "context": "Academic text: 'Building codes require that new schools include ventilation openings. However, many schools built before the regulation are still in use, and their ventilation is unchanged.'",
       "options": [
         {
           "letter": "C",
-          "text": "budget",
+          "text": "The second sentence shows the limits of the first by identifying buildings it does not affect",
           "is_correct": true,
-          "feedback": "Correct! A 'budget' is the estimate of income and expenditure planned for a set period."
-        },
-        {
-          "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "'Expense' is a single cost already paid; the definition is the estimate for the whole period."
-        },
-        {
-          "letter": "B",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "'Cost' is the price of one thing, whereas a budget covers all income and all spending."
+          "feedback": "A general rule followed by an exception clarifies the rule's reach, which is what 'however' signals here."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "The second sentence contradicts the regulation",
           "is_correct": false,
-          "feedback": "'Price' is the amount a single item costs, not a plan of income and expenditure over time."
+          "feedback": "Older schools are unaffected rather than opposed, so there is no contradiction."
+        },
+        {
+          "letter": "A",
+          "text": "The second sentence provides evidence that ventilation causes illness",
+          "is_correct": false,
+          "feedback": "No link between ventilation and illness appears in the text."
+        },
+        {
+          "letter": "B",
+          "text": "The second sentence describes how the regulation was enforced",
+          "is_correct": false,
+          "feedback": "The sentence concerns buildings predating the regulation and describes nothing about enforcement."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "explanation": "Concessive markers in academic writing usually introduce a limitation rather than a counter-argument. Recognising that pattern tells a reader that the author is qualifying a claim rather than defending it.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W14-reading-academic-texts-v8",
+      "statement": "What is the most accurate characterisation of this study compared with the earlier one?",
+      "context": "Academic text: 'Compared with the previous survey, this one covers twice as many sites. Per site, however, the number of measurements taken was lower than before.'",
+      "options": [
+        {
+          "letter": "C",
+          "text": "Broader in coverage but thinner in measurement at each site",
+          "is_correct": true,
+          "feedback": "Doubling the number of sites while reducing measurements per site produces greater breadth with less depth."
+        },
+        {
+          "letter": "D",
+          "text": "More thorough in every respect than the previous survey",
+          "is_correct": false,
+          "feedback": "More sites is not more thorough, since each site is measured less completely."
+        },
+        {
+          "letter": "A",
+          "text": "Strictly a repetition of the earlier survey",
+          "is_correct": false,
+          "feedback": "The text describes a different design rather than the same survey repeated."
+        },
+        {
+          "letter": "B",
+          "text": "Narrower in coverage and equal in measurement",
+          "is_correct": false,
+          "feedback": "The coverage is wider, not narrower, and the measurements per site are lower rather than equal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comparisons in academic texts must be read on every dimension, since gains on one can cancel losses on another. This item trains the habit of checking each measurement separately instead of reading an overall improvement.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -773,42 +368,87 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W14-reading-academic-texts-v9",
+      "statement": "What does this passage do?",
+      "context": "Academic text: 'The authors acknowledge that they did not measure soil depth, and they state that this may have affected the classification of some plots.'",
       "options": [
         {
-          "letter": "B",
-          "text": "insurance",
+          "letter": "A",
+          "text": "It identifies a limitation that could have influenced the results",
           "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium."
+          "feedback": "By naming what was not measured and its possible effect, the authors disclose a limitation of their own method."
         },
         {
-          "letter": "A",
-          "text": "warranty",
+          "letter": "B",
+          "text": "It reports a finding that the classification was correct",
           "is_correct": false,
-          "feedback": "'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract."
+          "feedback": "The possible effect on classification means the outcome is uncertain, not confirmed."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "It explains how the soil depth was measured",
           "is_correct": false,
-          "feedback": "'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium."
+          "feedback": "The passage states that soil depth was not measured at all."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "It recommends that future studies measure soil depth",
           "is_correct": false,
-          "feedback": "'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance."
+          "feedback": "A suggestion for future research would belong in a recommendations section and is not made here."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "An explicit limitations statement strengthens a paper's credibility because it shows the authors know where their evidence ends. Advanced readers look for these statements as a sign of a mature study.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.75,
+      "bundle_id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W14-reading-academic-texts-v10",
+      "statement": "What problem does this create for interpreting the results?",
+      "context": "Academic text: 'The intervention was tested on eight schools. Three of them withdrew after the first term, and their results are reported separately.'",
+      "options": [
+        {
+          "letter": "B",
+          "text": "The schools that withdrew may differ from those that stayed, affecting the comparison",
+          "is_correct": true,
+          "feedback": "Withdrawal is rarely random, so the remaining schools may form a different group from the original sample."
+        },
+        {
+          "letter": "C",
+          "text": "The results cannot be published at all",
+          "is_correct": false,
+          "feedback": "Partial results with a clear explanation are publishable, and the authors report them separately."
+        },
+        {
+          "letter": "D",
+          "text": "The study now has more schools than it began with",
+          "is_correct": false,
+          "feedback": "Withdrawal reduces rather than increases the number of schools in the study."
+        },
+        {
+          "letter": "A",
+          "text": "The first term produced no data of any kind",
+          "is_correct": false,
+          "feedback": "Data were collected and are reported for the schools that continued."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "explanation": "Attrition is one of the most common weaknesses in educational research. Knowing the term lets a reader treat a result cautiously instead of accepting it at face value.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -818,42 +458,42 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W14-reading-academic-texts-v11",
+      "statement": "What distinction is the text drawing?",
+      "context": "Academic text: 'Correlation between sleep hours and test scores was strong, but scores rose only slightly for each extra hour. The authors caution against reading this as a direct cause.'",
       "options": [
         {
-          "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease."
-        },
-        {
           "letter": "B",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one."
+          "text": "Between the size of a correlation and the strength of a causal claim",
+          "is_correct": true,
+          "feedback": "A strong statistical association can exist without establishing that one variable produces the other."
         },
         {
           "letter": "C",
-          "text": "prescription",
+          "text": "Between two different kinds of test",
           "is_correct": false,
-          "feedback": "'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself."
+          "feedback": "The passage concerns one type of test and makes no comparison between kinds."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "Between adults and children",
           "is_correct": false,
-          "feedback": "'Infection' is the state of having the disease; vaccination is what protects you before you get it."
+          "feedback": "No ages are mentioned anywhere in the text."
+        },
+        {
+          "letter": "A",
+          "text": "Between morning and evening study sessions",
+          "is_correct": false,
+          "feedback": "Nothing in the text refers to the time of day when studying takes place."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "B",
+      "explanation": "The distinction between correlation and causation is the single most important idea in reading empirical research. The wording here flags exactly the reasoning error the authors want to prevent.\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
       "bundle_id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -863,42 +503,402 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W14-reading-academic-texts-v12",
+      "statement": "What does this observation tell the reader about the section?",
+      "context": "Academic text: 'The discussion repeats findings that have already been presented, and only the final two paragraphs consider what the findings mean for practice.'",
       "options": [
         {
-          "letter": "A",
-          "text": "jet lag",
+          "letter": "D",
+          "text": "The section is largely a restatement, with interpretation confined to its end",
           "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones."
+          "feedback": "Describing the section tells the reader where interpretation is actually located and that most of it repeats earlier material."
+        },
+        {
+          "letter": "A",
+          "text": "The section introduces brand new evidence",
+          "is_correct": false,
+          "feedback": "No new evidence is introduced; the point of the observation is repetition."
         },
         {
           "letter": "B",
-          "text": "fatigue",
+          "text": "The section contains the study's limitations",
           "is_correct": false,
-          "feedback": "'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones."
+          "feedback": "Limitations would be identified explicitly, and the passage attributes nothing of the kind to this section."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "The section explains the sampling method",
           "is_correct": false,
-          "feedback": "'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect."
-        },
-        {
-          "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock."
+          "feedback": "Sampling belongs to the method section and is not what this description concerns."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "Knowing the function of each section prevents wasted effort: a reader in a hurry can skip straight to the paragraphs that interpret rather than read a summary of what is already known.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W14-reading-academic-texts-v13",
+      "statement": "What does the vague quantifier 'several' do in this opening?",
+      "context": "Academic text: A review states that 'several studies' support the hypothesis, and lists four such studies in the next sentence.",
+      "options": [
+        {
+          "letter": "D",
+          "text": "It obscures the fact that the evidence base is small",
+          "is_correct": true,
+          "feedback": "A vague quantifier invites the reader to imagine more evidence than the sentence that follows actually provides."
+        },
+        {
+          "letter": "A",
+          "text": "It indicates that the number of studies is very large",
+          "is_correct": false,
+          "feedback": "Listing four studies immediately afterwards shows the number is modest rather than large."
+        },
+        {
+          "letter": "B",
+          "text": "It shows that the author has not read the studies",
+          "is_correct": false,
+          "feedback": "The reference list indicates the author knows the literature, so the vagueness is stylistic."
+        },
+        {
+          "letter": "C",
+          "text": "It establishes that the evidence is of high quality",
+          "is_correct": false,
+          "feedback": "Quality is argued elsewhere in the paper and is not established by a quantifier."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Academic style permits vague quantifiers where precision would be tedious, and reviewers reward the habit of counting what a vague phrase conceals. This item asks the reader to convert the quantifier into a number.\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
+      "bundle_id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W14-reading-academic-texts-v14",
+      "statement": "What should a reader conclude from these figures?",
+      "context": "Academic text: 'The intervention group improved by 12 per cent and the control group by 11 per cent. The authors report that the difference was not statistically significant.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The two groups improved almost equally, so no effect of the intervention was demonstrated",
+          "is_correct": true,
+          "feedback": "A one point difference that is not statistically significant does not distinguish the groups from each other."
+        },
+        {
+          "letter": "B",
+          "text": "The intervention was highly effective",
+          "is_correct": false,
+          "feedback": "Effectiveness would require a difference large and reliable enough to be distinguished from chance."
+        },
+        {
+          "letter": "C",
+          "text": "The control group improved because of the intervention",
+          "is_correct": false,
+          "feedback": "The control group received no intervention, so the text cannot attribute its improvement to one."
+        },
+        {
+          "letter": "D",
+          "text": "The study was too short to produce any result",
+          "is_correct": false,
+          "feedback": "The data exist and were analysed; what is inconclusive is the difference between the groups."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Statistical significance is the test that decides whether an observed difference can be separated from random variation. Reading the significance statement alongside the figures is what prevents a headline number from being over-interpreted.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.75,
+      "bundle_id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W14-reading-academic-texts-v15",
+      "statement": "What can be inferred about the sources used?",
+      "context": "Academic text: 'The reference list contains twenty entries, of which eleven are books, six are articles and three are reports published by organisations rather than by academics.",
+      "options": [
+        {
+          "letter": "B",
+          "text": "The authors draw on a range of source types rather than only academic articles",
+          "is_correct": true,
+          "feedback": "Books, articles and reports all appear in the list, so the source base is varied."
+        },
+        {
+          "letter": "C",
+          "text": "Most of the sources are academic articles",
+          "is_correct": false,
+          "feedback": "Books outnumber articles eleven to six, so articles are not the majority."
+        },
+        {
+          "letter": "D",
+          "text": "The authors avoided using organisational reports",
+          "is_correct": false,
+          "feedback": "Three reports from organisations are included, which is the opposite of avoiding them."
+        },
+        {
+          "letter": "A",
+          "text": "The sources are all recent publications",
+          "is_correct": false,
+          "feedback": "No publication dates appear in the description, so nothing supports a claim about recency."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The composition of a reference list tells a reader about the breadth of the research behind a paper. This item asks the reader to extract a pattern from a list of numbers.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W14-reading-academic-texts-v16",
+      "statement": "What does this discrepancy reveal about the model?",
+      "context": "Academic text: 'The model predicts a 30 per cent increase in output. When checked against a second dataset collected in a different region, the prediction fell to 8 per cent.'",
+      "options": [
+        {
+          "letter": "C",
+          "text": "Its performance depends on the data used to test it",
+          "is_correct": true,
+          "feedback": "A large change in predicted effect across datasets indicates that the model is not robust outside its original context."
+        },
+        {
+          "letter": "D",
+          "text": "The second dataset must contain an error",
+          "is_correct": false,
+          "feedback": "Questioning the dataset would be a conclusion the text does not support and would not be a reasonable inference."
+        },
+        {
+          "letter": "A",
+          "text": "A 30 per cent increase is the correct figure to report",
+          "is_correct": false,
+          "feedback": "Reporting the larger figure would ignore the evidence that the model performed weakly elsewhere."
+        },
+        {
+          "letter": "B",
+          "text": "The model cannot be used in any region",
+          "is_correct": false,
+          "feedback": "One poor performance in a second region does not establish that the model is unusable everywhere."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Testing a model on data it was not built for is the standard check on generality. A large fall in performance is a finding about the model's scope, and advanced readers treat it as a boundary of validity.\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W14-reading-academic-texts-v17",
+      "statement": "What can be concluded from this scenario?",
+      "context": "Academic text: 'Two reviewers of the same manuscript reached opposite conclusions about whether the sample was large enough. The editor requested a clarification from the authors.'",
+      "options": [
+        {
+          "letter": "C",
+          "text": "Adequacy of sample size is a matter of judgement within a field, not a simple calculation",
+          "is_correct": true,
+          "feedback": "Two expert readers disagreeing without either being demonstrably wrong shows that the criterion is interpretive."
+        },
+        {
+          "letter": "D",
+          "text": "One reviewer must be wrong about the sample",
+          "is_correct": false,
+          "feedback": "The disagreement itself cannot establish that either reviewer is mistaken."
+        },
+        {
+          "letter": "A",
+          "text": "The sample size can be calculated to settle the disagreement",
+          "is_correct": false,
+          "feedback": "If a calculation settled it, no disagreement between experts would occur."
+        },
+        {
+          "letter": "B",
+          "text": "The journal rejects papers with disputed sample sizes",
+          "is_correct": false,
+          "feedback": "The editor asked for clarification, which is not the same as rejecting the paper."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Peer review is a process of expert judgement. Recognising that some criteria are negotiated within a discipline helps a student interpret disagreement in a review report without treating it as a verdict.\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.7,
+      "bundle_id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W14-reading-academic-texts-v18",
+      "statement": "What does the passage require the reader to distinguish?",
+      "context": "Academic text: 'The text uses the term effect size to describe the difference in means, expressed in standard deviation units. The reader should note that a large effect size and a significant result are not the same thing.'",
+      "options": [
+        {
+          "letter": "D",
+          "text": "The size of an effect and whether it can be shown to be reliable",
+          "is_correct": true,
+          "feedback": "The final sentence explicitly separates the magnitude of a difference from whether statistical testing can rule out chance."
+        },
+        {
+          "letter": "A",
+          "text": "The type of variable and the type of data",
+          "is_correct": false,
+          "feedback": "Both items concern how variables are measured rather than the distinction the passage draws."
+        },
+        {
+          "letter": "B",
+          "text": "The sample size and the population size",
+          "is_correct": false,
+          "feedback": "The passage describes a difference in means and does not compare sample and population."
+        },
+        {
+          "letter": "C",
+          "text": "The mean and the median",
+          "is_correct": false,
+          "feedback": "No mention of medians appears in the text."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Vocabulary in academic English is always paired with a concept, and reading critically means holding both in mind. This item tests the conceptual content of a technical term rather than its spelling.\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W14-reading-academic-texts-v19",
+      "statement": "What is the purpose of this difference between the sections?",
+      "context": "Academic text: 'In the discussion, the authors interpret their findings in relation to two earlier studies. In the conclusion, they restate the findings without repeating the interpretation.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The discussion develops meaning and the conclusion keeps the summary compact",
+          "is_correct": true,
+          "feedback": "Sections have distinct functions: a discussion interprets, while a conclusion restates what should be remembered."
+        },
+        {
+          "letter": "B",
+          "text": "The authors disagree with themselves between the two sections",
+          "is_correct": false,
+          "feedback": "A difference of function is not evidence of inconsistency between the authors."
+        },
+        {
+          "letter": "C",
+          "text": "The conclusion adds new findings that the discussion omitted",
+          "is_correct": false,
+          "feedback": "No new findings are introduced in the conclusion by the passage's description."
+        },
+        {
+          "letter": "D",
+          "text": "The discussion was written first and the conclusion copied it",
+          "is_correct": false,
+          "feedback": "Nothing suggests that one section was produced by copying the other."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reading an academic paper section by section with each function in mind prevents two common errors: expecting new data in a conclusion and treating a restatement as a fresh insight.\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.7,
+      "bundle_id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W14-reading-academic-texts-v20",
+      "statement": "What limitation follows most directly from this description?",
+      "context": "Academic text: 'This study examines whether the new teaching sequence improves writing. The sample consisted of four schools in one province, and the teaching was carried out by their own staff.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The results may not generalise beyond that province or those schools",
+          "is_correct": true,
+          "feedback": "A single province and schools delivering their own programme limit how far the findings can be extended."
+        },
+        {
+          "letter": "B",
+          "text": "The study cannot be trusted at all",
+          "is_correct": false,
+          "feedback": "A limitation narrows the reach of a conclusion; it does not invalidate the whole study."
+        },
+        {
+          "letter": "C",
+          "text": "The teaching method does not work",
+          "is_correct": false,
+          "feedback": "The text does not report whether the method succeeded or failed."
+        },
+        {
+          "letter": "D",
+          "text": "Four schools are too few for any analysis to be possible",
+          "is_correct": false,
+          "feedback": "Four schools is a small but workable sample, and the problem is generalisability rather than feasibility."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The final item returns to the most common limitation in applied educational research. Naming it precisely, rather than dismissing the study, is what makes a reader's summary of a paper accurate and fair.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "CR-ING-11-2026-W14-reading-academic-texts-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",

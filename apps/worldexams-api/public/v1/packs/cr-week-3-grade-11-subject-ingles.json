@@ -8,131 +8,131 @@
   },
   "questions": [
     {
-      "id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "'accommodation' is the word for a place where you live or stay, including on holiday."
-        },
-        {
-          "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "'transportation' means the way you travel, such as buses or planes, not where you stay."
-        },
-        {
-          "letter": "B",
-          "text": "entertainment",
-          "is_correct": false,
-          "feedback": "'entertainment' is the activity of enjoying shows, films or games, not a place to live."
-        },
-        {
-          "letter": "C",
-          "text": "currency",
-          "is_correct": false,
-          "feedback": "'currency' is the money of a country, such as the colon; a place to stay is not money."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W03-collocations-academic-v1",
+      "statement": "Which word completes the academic collocation?",
+      "context": "In her university research paper, Daniela wrote that she would ____ her conclusions in the final chapter.",
       "options": [
         {
           "letter": "B",
-          "text": "itinerary",
+          "text": "draw",
           "is_correct": true,
-          "feedback": "'itinerary' is a detailed plan of a journey, listing the route and the stops along the way."
-        },
-        {
-          "letter": "A",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "feedback": "'Draw conclusions' is the fixed academic pair meaning to reach a result after examining evidence, and it matches her writing a paper."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "eat",
           "is_correct": false,
-          "feedback": "'destination' is only the place you are going to; the plan of the route is the itinerary."
+          "feedback": "'Eat conclusions' is not an English combination; the verb and the noun do not pair in any register."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "sleeve",
           "is_correct": false,
-          "feedback": "'passport' is the travel document you show at the border, not the plan of a journey."
+          "feedback": "A sleeve is part of a garment and has no connection to arguments or evidence."
+        },
+        {
+          "letter": "A",
+          "text": "burglar",
+          "is_correct": false,
+          "feedback": "A burglar is a person who breaks into houses, so the word belongs to crime, not academia."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "'destination' names the place a person or thing is going or being sent to."
-        },
-        {
-          "letter": "A",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is the action of leaving, not the place you leave for."
-        },
-        {
-          "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching a place, not the place itself."
-        },
-        {
-          "letter": "D",
-          "text": "journey",
-          "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, not the place at the end of it."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "explanation": "Academic writing depends on collocations rather than on single words. 'Draw conclusions' is a high-frequency pair in research English, and learning it as a unit prevents the learner from choosing a verb that is grammatically possible but academically wrong.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W03-collocations-academic-v2",
+      "statement": "Which phrase completes the sentence correctly?",
+      "context": "The thesis committee asked the student to ____ a clear definition of the key term.",
+      "options": [
+        {
+          "letter": "C",
+          "text": "provide",
+          "is_correct": true,
+          "feedback": "'Provide a definition' is the natural academic combination, and the committee is asking for that definition."
+        },
+        {
+          "letter": "D",
+          "text": "provide off",
+          "is_correct": false,
+          "feedback": "'Provide off' is not a phrasal verb in English, so it cannot complete any sentence of this kind."
+        },
+        {
+          "letter": "A",
+          "text": "providing",
+          "is_correct": false,
+          "feedback": "'Providing' is a gerund and cannot follow 'asked the student to' without a preposition."
+        },
+        {
+          "letter": "B",
+          "text": "providely",
+          "is_correct": false,
+          "feedback": "'Providely' is an adverb of manner and cannot act as the verb the sentence requires."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The exam tests whether the learner knows the verb that goes with the noun in an academic request. Only 'provide' forms the standard collocation here, and the other options are word forms that cannot serve as the main verb of the clause.\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.85,
+      "bundle_id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W03-collocations-academic-v3",
+      "statement": "Which pair is a correct academic collocation?",
+      "context": "A reviewer commented on a paper about coral bleaching in the Caribbean coast.",
+      "options": [
+        {
+          "letter": "C",
+          "text": "carry out an analysis",
+          "is_correct": true,
+          "feedback": "'Carry out an analysis' is the standard way of describing research activity in academic English."
+        },
+        {
+          "letter": "D",
+          "text": "eat an analysis",
+          "is_correct": false,
+          "feedback": "'Eat' pairs with food and cannot be used for intellectual work, however odd the context."
+        },
+        {
+          "letter": "A",
+          "text": "sleep an analysis",
+          "is_correct": false,
+          "feedback": "'Sleep' takes a person or a duration as object, not an abstract academic process."
+        },
+        {
+          "letter": "B",
+          "text": "wash an analysis",
+          "is_correct": false,
+          "feedback": "'Wash' pairs with clothes, dishes or money, and never with a noun that names a method of study."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Collocation errors in academic English usually involve a verb that is correct English but belongs to another field. The exercise trains the learner to attach methods of study to verbs of execution such as 'carry out', 'conduct' and 'perform'.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle",
       "periodo": 3,
@@ -143,37 +143,82 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W03-collocations-academic-v4",
+      "statement": "Which sentence uses a collocation correctly?",
+      "context": "A historical essay compares the trade routes of two colonial ports in the region.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
+          "text": "The essay makes a comparison between the two ports.",
           "is_correct": true,
-          "feedback": "'luggage' is the collective word for the suitcases and bags you pack for a trip."
+          "feedback": "'Make a comparison' pairs a verb with a noun, which is the standard academic construction."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "The essay makes a compare between the two ports.",
           "is_correct": false,
-          "feedback": "'ticket' is the document you buy that admits you to the journey."
+          "feedback": "'Make a compare' uses a verb where the noun is required, and 'compare' is the verb in English."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "The essay makes the compare of the two ports.",
           "is_correct": false,
-          "feedback": "'flight' is the plane or the scheduled trip itself, not the bags you carry."
+          "feedback": "'The compare of' treats a verb as if it were the noun form, a transfer from Spanish usage."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "The essay makes comparing between the two ports.",
           "is_correct": false,
-          "feedback": "'reservation' is the booking you hold for a seat or a room."
+          "feedback": "'Make comparing' needs a preposition after the gerund and has no object here."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "explanation": "Spanish 'hacer una comparación' is a calque that produces 'make a compare' in English. Academic English requires the nominal form 'comparison' with the noun, and knowing the noun as a fixed piece of vocabulary is what prevents the error.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W03-collocations-academic-v5",
+      "statement": "Which adverb completes the sentence?",
+      "context": "In the discussion section, the author explains that the results are ____ with earlier studies.",
+      "options": [
+        {
+          "letter": "C",
+          "text": "consistent",
+          "is_correct": true,
+          "feedback": "'Consistent with' is the fixed prepositional collocation used to compare results with previous research."
+        },
+        {
+          "letter": "D",
+          "text": "consist",
+          "is_correct": false,
+          "feedback": "'Consist' is the verb and cannot modify the noun 'results' in this position."
+        },
+        {
+          "letter": "A",
+          "text": "consistence",
+          "is_correct": false,
+          "feedback": "'Consistence' is a noun meaning existence, and it is not an adverb."
+        },
+        {
+          "letter": "B",
+          "text": "consistently-in",
+          "is_correct": false,
+          "feedback": "A hyphenated form built from the adverb has no place after the verb 'are'."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Adjective plus preposition combinations such as 'consistent with', 'responsible for' or 'aware of' are collocations of three words, not two. Mastering the whole phrase is what allows a student to describe a relationship between findings instead of translating word by word.\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -188,42 +233,222 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W03-collocations-academic-v6",
+      "statement": "The ministry intends to ____ the findings of the audit.",
+      "context": "The ministry published a report on public spending in education.",
       "options": [
         {
-          "letter": "B",
-          "text": "passenger",
+          "letter": "D",
+          "text": "publish",
           "is_correct": true,
-          "feedback": "'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew."
+          "feedback": "'Publish the findings' is the natural combination in official reports, since the ministry makes the results public."
         },
         {
           "letter": "A",
-          "text": "pedestrian",
+          "text": "publish off",
           "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, not on a bus, a train or a plane."
+          "feedback": "'Publish off' is not an English phrasal verb and cannot follow an infinitive in this way."
+        },
+        {
+          "letter": "B",
+          "text": "publisher",
+          "is_correct": false,
+          "feedback": "'Publisher' is a noun for a company that issues books, not a verb for a ministry."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "publishing",
           "is_correct": false,
-          "feedback": "'commuter' is someone who travels regularly between home and work, a narrower idea than passenger."
+          "feedback": "'Publishing' is a gerund and would need 'to' before it in the phrase 'intends to'."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Reporting verbs such as 'publish', 'present' and 'report' take findings, data or results as their object in research English. Choosing the right one is a matter of collocation rather than grammar, which is exactly what an academic writing course teaches.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W03-collocations-academic-v7",
+      "statement": "Which phrase is the natural English collocation for what the student does in the introduction?",
+      "context": "A student writes about the influence of social media on teenagers.",
+      "options": [
+        {
+          "letter": "D",
+          "text": "state the thesis clearly",
+          "is_correct": true,
+          "feedback": "'State a thesis' is the fixed academic phrase used in essay introductions."
+        },
+        {
+          "letter": "A",
+          "text": "eat the thesis clearly",
+          "is_correct": false,
+          "feedback": "'Eat' never pairs with a thesis, since the verb belongs to the domain of food."
+        },
+        {
+          "letter": "B",
+          "text": "slept the thesis clearly",
+          "is_correct": false,
+          "feedback": "'Slept' requires a person or a duration as its object and cannot express a scholarly act."
+        },
+        {
+          "letter": "C",
+          "text": "thieving the thesis clearly",
+          "is_correct": false,
+          "feedback": "'Thieving' is not a verb form used with a thesis, and it describes theft in any case."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "An essay in English is expected to state a thesis, argue a case and draw a conclusion, and each verb is fixed to its object. Students who translate from Spanish often search for the noun and choose any verb, and this item marks that habit as wrong.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W03-collocations-academic-v8",
+      "statement": "The second team was asked to ____ the results of the first team before publication.",
+      "context": "Two research groups were comparing their measurements of rainfall over ten years.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "verify",
+          "is_correct": true,
+          "feedback": "'Verify the results' is the correct collocation: to check that data are accurate before release."
+        },
+        {
+          "letter": "B",
+          "text": "verify off",
+          "is_correct": false,
+          "feedback": "'Verify off' is not a standard phrase in English and cannot express an academic check."
+        },
+        {
+          "letter": "C",
+          "text": "verification",
+          "is_correct": false,
+          "feedback": "'Verification' is a noun, so it cannot follow the auxiliary 'to' as a main verb."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "verify up",
           "is_correct": false,
-          "feedback": "'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew."
+          "feedback": "'Verify up' is not an idiom, and 'up' adds no meaning to this verb in any register."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Before publication, a team must verify data, confirm results or validate a model, and the choice among those verbs matters. Each of them is a collocation that names a slightly different scientific check, and this item selects the right one for accuracy.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W03-collocations-academic-v9",
+      "statement": "Which sentence uses academic collocations correctly throughout?",
+      "context": "An abstract summarises a study of soil degradation in the Central Valley.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The study examines the problem and reaches a conclusion based on field data.",
+          "is_correct": true,
+          "feedback": "Both verbs are fixed to their nouns in research English: 'examine a problem' and 'reach a conclusion'."
+        },
+        {
+          "letter": "B",
+          "text": "The study eats the problem and sleeps a conclusion based on field data.",
+          "is_correct": false,
+          "feedback": "Eating a problem and sleeping a conclusion are word combinations that no speaker of English produces."
+        },
+        {
+          "letter": "C",
+          "text": "The study examines the problem and reaches a conclusion based on field eat.",
+          "is_correct": false,
+          "feedback": "Field data are collected and measured, not eaten, so the last noun breaks the collocation."
+        },
+        {
+          "letter": "D",
+          "text": "The study examines the eat and reaches a conclusion based on field data.",
+          "is_correct": false,
+          "feedback": "The object of 'examine' must be a phenomenon, not food, which makes the sentence meaningless."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Academic sentences are evaluated as whole combinations rather than as a sum of correct words. A sentence can have perfect grammar and still sound wrong because two of its verbs are attached to the wrong nouns, and this item makes that habit visible.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.75,
+      "bundle_id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W03-collocations-academic-v10",
+      "statement": "Which word completes the phrase in an academic classroom?",
+      "context": "The teacher asked the class to ____ the readings assigned for Friday.",
+      "options": [
+        {
+          "letter": "B",
+          "text": "complete",
+          "is_correct": true,
+          "feedback": "'Complete the readings' is the standard classroom collocation for finishing assigned texts."
+        },
+        {
+          "letter": "C",
+          "text": "eat",
+          "is_correct": false,
+          "feedback": "'Eat the readings' is not English; the verb belongs to food, not to pages."
+        },
+        {
+          "letter": "D",
+          "text": "sleeve",
+          "is_correct": false,
+          "feedback": "A sleeve belongs to clothing, so it has no meaning in a study instruction."
+        },
+        {
+          "letter": "A",
+          "text": "burglar",
+          "is_correct": false,
+          "feedback": "A burglar is a criminal, and the word cannot complete any instruction given by a teacher."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "explanation": "'Complete a reading' and 'finish the assignment' are the pairs Costa Rican students hear in class every week. The three distractors are content words from other areas, which tests whether the learner selected by meaning or merely by shape.\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -233,42 +458,222 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W03-collocations-academic-v11",
+      "statement": "The agency must ____ the causes of the decline before it proposes measures.",
+      "context": "A government agency is examining why certain species are disappearing from the watershed.",
       "options": [
         {
           "letter": "C",
-          "text": "customs",
+          "text": "assess",
           "is_correct": true,
-          "feedback": "'customs' is the office where officials check the goods, the luggage and the travellers entering a country."
-        },
-        {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "'security' refers to the staff and the measures that keep the airport safe, not to the goods check."
-        },
-        {
-          "letter": "B",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for and board your flight."
+          "feedback": "'Assess the causes' is the correct collocation in policy research, meaning to evaluate them carefully."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "assess off",
           "is_correct": false,
-          "feedback": "'gate' is the door you board the plane through, not the place where officials check luggage."
+          "feedback": "'Assess off' is not an English phrase and cannot complete the clause."
+        },
+        {
+          "letter": "A",
+          "text": "assessor",
+          "is_correct": false,
+          "feedback": "'Assessor' is a person who evaluates, so it cannot follow the infinitive marker 'to' as a verb."
+        },
+        {
+          "letter": "B",
+          "text": "assessment",
+          "is_correct": false,
+          "feedback": "'Assessment' is the noun for the process and does not serve as the main verb of the sentence."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "explanation": "Institutional reports rely on the collocations 'assess the causes', 'identify the factors' and 'measure the impact'. Each verb names a different intellectual operation, and choosing the right one is what makes a policy document sound professional.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W03-collocations-academic-v12",
+      "statement": "Which word links the hypothesis to the theories in the correct academic way?",
+      "context": "A doctoral student compares her hypothesis with three earlier theories.",
+      "options": [
+        {
+          "letter": "D",
+          "text": "contrasts with",
+          "is_correct": true,
+          "feedback": "'Contrast with' is the standard phrase for placing two ideas side by side so the differences show."
+        },
+        {
+          "letter": "A",
+          "text": "contrasts off",
+          "is_correct": false,
+          "feedback": "'Contrast off' is not idiomatic in English and would not be understood by a reader."
+        },
+        {
+          "letter": "B",
+          "text": "contrasted",
+          "is_correct": false,
+          "feedback": "'Contrasted' is a past participle and cannot follow the verb 'compares' in this structure."
+        },
+        {
+          "letter": "C",
+          "text": "contrastingly",
+          "is_correct": false,
+          "feedback": "'Contrastingly' is not an English adverb; 'by contrast' is the phrase used instead."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparative academic sentences need a linking expression that names the relation being described. The item contrasts a correct verb plus preposition with two wrong word forms and one invented adverb, which is the typical shape of this error in student writing.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.75,
+      "bundle_id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W03-collocations-academic-v13",
+      "statement": "Which sentence describes her method with correct collocations?",
+      "context": "A laboratory technician repeats an experiment three times to be sure of the result.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She carried out the procedure three times and recorded the results each time.",
+          "is_correct": true,
+          "feedback": "'Carry out a procedure' and 'record results' are both fixed academic pairs, so the sentence is natural."
+        },
+        {
+          "letter": "B",
+          "text": "She carried out the procedure three times and recorded the foods each time.",
+          "is_correct": false,
+          "feedback": "'Foods' cannot replace 'results' here, because no food is produced by an experiment in this context."
+        },
+        {
+          "letter": "C",
+          "text": "She ate the procedure three times and recorded the results each time.",
+          "is_correct": false,
+          "feedback": "A procedure is a method, not something to eat, so the first verb breaks the collocation."
+        },
+        {
+          "letter": "D",
+          "text": "She carried out the procedure three times and recorded each time the results.",
+          "is_correct": false,
+          "feedback": "The final adverbial has been left without its noun, which leaves the object of 'recorded' unclear."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Method sections of research articles are built from repeated collocations such as 'carry out', 'record' and 'observe'. An item that asks the learner to judge a whole sentence trains the eye for these pairs rather than for a single verb.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.75,
+      "bundle_id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W03-collocations-academic-v14",
+      "statement": "The university plans to ____ a centre for environmental studies.",
+      "context": "A newspaper explains that the university will open a new research centre next year.",
+      "options": [
+        {
+          "letter": "C",
+          "text": "establish",
+          "is_correct": true,
+          "feedback": "'Establish a centre' is the collocation used in announcements about new institutions."
+        },
+        {
+          "letter": "D",
+          "text": "establish off",
+          "is_correct": false,
+          "feedback": "'Establish off' has no meaning in English and cannot follow an infinitive marker."
+        },
+        {
+          "letter": "A",
+          "text": "establishing",
+          "is_correct": false,
+          "feedback": "'Establishing' is a gerund and needs 'to' before it, which the sentence does not have."
+        },
+        {
+          "letter": "B",
+          "text": "established",
+          "is_correct": false,
+          "feedback": "'Established' is a past participle and would need an auxiliary verb in a future plan."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Institutional announcements prefer 'establish', 'open' or 'launch' to 'make' or 'do'. The item asks the learner to select the verb that sounds like professional English and rejects the other word forms of the same stem.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.75,
+      "bundle_id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W03-collocations-academic-v15",
+      "statement": "In the sentence 'The author arranges her evidence in three sections', what collocation appears?",
+      "context": "A reader describes how the author of the article organises her evidence.",
+      "options": [
+        {
+          "letter": "D",
+          "text": "arrange evidence",
+          "is_correct": true,
+          "feedback": "'Arrange evidence' pairs a verb of organisation with the noun that names what is organised."
+        },
+        {
+          "letter": "A",
+          "text": "arrange the evidence wrongly",
+          "is_correct": false,
+          "feedback": "Adding 'wrongly' introduces a judgement that the original sentence does not contain."
+        },
+        {
+          "letter": "B",
+          "text": "an evidence",
+          "is_correct": false,
+          "feedback": "'Evidence' is uncountable in English and never takes the article 'an'."
+        },
+        {
+          "letter": "C",
+          "text": "arrangement of evidence wrongly",
+          "is_correct": false,
+          "feedback": "'Arrangement' is the noun form and cannot act as the verb of the sentence."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Two things combine here: a verb that names organisation and a noun that is uncountable. Students who insert an article before 'evidence' reveal that they have learned the word as a countable noun, and the collocation exercise corrects both habits at once.\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -278,222 +683,42 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "'boarding pass' is the slip the airline hands over at check-in that lets you board the plane."
-        },
-        {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "'visa' is the official permission to enter and stay in a foreign country."
-        },
-        {
-          "letter": "B",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "'receipt' is the proof of payment for the ticket, not the document that lets you board."
-        },
-        {
-          "letter": "C",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "'brochure' is a small booklet with tourist information, not a travel document."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "'sightseeing' is visiting the places of interest of a location in order to look at them."
-        },
-        {
-          "letter": "A",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "'shopping' is buying things, which is a different activity from visiting sights."
-        },
-        {
-          "letter": "B",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "'hiking' is walking in the countryside along a trail, usually for exercise."
-        },
-        {
-          "letter": "C",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "'camping' means spending the night outdoors in a tent."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W03-collocations-academic-v16",
+      "statement": "Which sentence presents a typical academic collocation problem?",
+      "context": "A review of a biology paper describes the argument it makes about forest regeneration.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
+          "text": "The paper makes a research about tree recovery in the region.",
           "is_correct": true,
-          "feedback": "'souvenir' is an object kept because it reminds you of a person, a place or an event."
+          "feedback": "'Make a research' is a calque of Spanish and is not an English collocation; English says 'conduct research'."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "The paper carries out a study of tree recovery in the region.",
           "is_correct": false,
-          "feedback": "'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder."
+          "feedback": "'Carry out a study' is a standard pair and would be perfectly acceptable in a review."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "The paper presents evidence of tree recovery in the region.",
           "is_correct": false,
-          "feedback": "'award' is a distinction given for a merit or an achievement."
+          "feedback": "'Present evidence' is a fixed academic combination and would not be faulted."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "The paper discusses recovery of trees in the region.",
           "is_correct": false,
-          "feedback": "'prize' is what is won in a competition, not an object bought to remember a trip."
+          "feedback": "'Discuss a topic' is ordinary academic English and raises no collocation problem."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "'delay' is the extra period of time by which something becomes late or is postponed."
-        },
-        {
-          "letter": "A",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "'cancellation' ends the booking or the trip altogether rather than pushing it back."
-        },
-        {
-          "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is the time a vehicle is scheduled to leave, not a postponement."
-        },
-        {
-          "letter": "D",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'arrival' is the moment you reach the destination, not the waiting time."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "'check-in' is reporting your presence at the airport or the hotel and registering."
-        },
-        {
-          "letter": "A",
-          "text": "check-out",
-          "is_correct": false,
-          "feedback": "'check-out' is the opposite moment: leaving the hotel and settling the bill."
-        },
-        {
-          "letter": "B",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "'booking' is reserving the room or the seat in advance, which happens before you arrive."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "'reservation' is the record of that booking, not the act of reporting your presence."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
+      "explanation": "The task is to detect the odd one out among four sentences that are all grammatically correct. Only the first breaks the collocational pattern, because 'make' does not go with the noun 'research' in English.\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.7,
       "bundle_id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -503,87 +728,42 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W03-collocations-academic-v17",
+      "statement": "Which method description uses the correct collocation with 'analyse'?",
+      "context": "A student is writing the methodology section of a chemistry project on water quality.",
       "options": [
         {
           "letter": "B",
-          "text": "layover",
+          "text": "We analysed the samples and drew a conclusion about the purity of the water.",
           "is_correct": true,
-          "feedback": "'layover' is the rest or the waiting period between two stages of a journey."
-        },
-        {
-          "letter": "A",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "'stopover' is a break in a journey during which you leave the vehicle, often overnight."
+          "feedback": "'Drew a conclusion' is the fixed scientific phrase that follows the analysis of samples."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "We analysed the samples and ate a conclusion about the purity of the water.",
           "is_correct": false,
-          "feedback": "'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time."
+          "feedback": "Eating a conclusion is not English, since the verb belongs to the domain of food."
         },
         {
           "letter": "D",
-          "text": "transit",
+          "text": "We analysed the samples and slept a conclusion about the purity of the water.",
           "is_correct": false,
-          "feedback": "'transit' means passage through a place or the system that carries people, not the pause itself."
+          "feedback": "A person sleeps; a conclusion is never the object of that verb in scientific writing."
+        },
+        {
+          "letter": "A",
+          "text": "We analysed the samples and thiefed a conclusion about the purity of the water.",
+          "is_correct": false,
+          "feedback": "'Thiefed' is not a word, and theft has no place in a methodology section."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "'currency' is the whole money system in general use in a particular country."
-        },
-        {
-          "letter": "A",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "'coin' is a single round piece of metal money, only one part of a currency."
-        },
-        {
-          "letter": "B",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "'banknote' is a paper note, again only one part of a country's money system."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "'cash' is money in coins and notes seen as a form of payment, not the system a country has."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
+      "explanation": "Scientific English repeats a small number of collocations in every paper: 'analyse the samples', 'draw a conclusion', 'support the hypothesis'. The item uses three impossible verbs so the learner must retrieve the phrase as a unit instead of choosing any plausible verb.\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -593,267 +773,42 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "'guidebook' is a book of information about a place written for the use of visitors."
-        },
-        {
-          "letter": "A",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "'map' is a drawing of the area, not a book of information."
-        },
-        {
-          "letter": "B",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "'dictionary' explains the words of a language, not the places of a region."
-        },
-        {
-          "letter": "D",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "'encyclopedia' covers all branches of knowledge, not one destination for tourists."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "'backpack' has shoulder straps and is carried on the back."
-        },
-        {
-          "letter": "B",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "'suitcase' is a case with a handle that is pulled along, not one worn on the back."
-        },
-        {
-          "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "'briefcase' is a flat case for documents that you carry by hand at work."
-        },
-        {
-          "letter": "D",
-          "text": "handbag",
-          "is_correct": false,
-          "feedback": "'handbag' is a small bag held in the hand, usually for personal items."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "'overseas' means in or to a foreign country, especially one across the sea."
-        },
-        {
-          "letter": "A",
-          "text": "domestic",
-          "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
-        },
-        {
-          "letter": "B",
-          "text": "local",
-          "is_correct": false,
-          "feedback": "'local' means belonging to a small area nearby, not to a foreign country."
-        },
-        {
-          "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "'national' means concerning the whole nation and says nothing about being abroad."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "'budget' is an estimate of income and expenditure planned for a set period."
-        },
-        {
-          "letter": "B",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "'expense' is a single amount of money that is spent, not the plan for a whole period."
-        },
-        {
-          "letter": "C",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "'cost' is what one item or one service costs, again not an estimate for a period."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "'price' is the sum a customer pays for one product; a budget covers income and spending together."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium."
-        },
-        {
-          "letter": "A",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge."
-        },
-        {
-          "letter": "B",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "'guarantee' is a general promise of quality and does not involve paying a premium."
-        },
-        {
-          "letter": "C",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "'policy' is the written document that states what an insurance contract covers."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W03-collocations-academic-v18",
+      "statement": "Which sentence is the natural way to describe a result in a school project?",
+      "context": "Two schools are competing in the national science fair in June.",
       "options": [
         {
           "letter": "B",
-          "text": "vaccination",
+          "text": "The project achieved positive results in the regional trial.",
           "is_correct": true,
-          "feedback": "'vaccination' is the treatment with a vaccine that makes the body immune to a disease."
-        },
-        {
-          "letter": "A",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "'medication' is a drug taken to treat an illness, not to prevent one."
+          "feedback": "'Achieve results' is the standard combination for a project that produces a favourable outcome."
         },
         {
           "letter": "C",
-          "text": "prescription",
+          "text": "The project ate positive results in the regional trial.",
           "is_correct": false,
-          "feedback": "'prescription' is the written order that authorises a medicine, not the treatment itself."
+          "feedback": "Results are not edible, so 'ate' cannot describe a scientific outcome."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "The project cleaned positive results in the regional trial.",
           "is_correct": false,
-          "feedback": "'infection' is the disease itself, the opposite of the protection a vaccination gives."
+          "feedback": "Cleaning a result is not a scientific operation; cleaning applies to instruments or surfaces."
+        },
+        {
+          "letter": "A",
+          "text": "The project wore positive results in the regional trial.",
+          "is_correct": false,
+          "feedback": "Wearing a result would describe clothing, and the project produces data, not garments."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "explanation": "'Achieve positive results' appears in every research abstract in English and is one of the most frequent academic collocations in the language. Choosing it over verbs from other semantic fields is what makes student writing sound professional.\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.7,
       "bundle_id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -863,42 +818,87 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W03-collocations-academic-v19",
+      "statement": "Which phrase best expresses the author's position?",
+      "context": "An author explains why her article disagrees with a common assumption in the field.",
       "options": [
         {
           "letter": "D",
-          "text": "jet lag",
+          "text": "at odds with",
           "is_correct": true,
-          "feedback": "'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight."
+          "feedback": "'At odds with' means to disagree with something, which is the relation the article defends."
         },
         {
           "letter": "A",
-          "text": "fatigue",
+          "text": "at elbows with",
           "is_correct": false,
-          "feedback": "'fatigue' is tiredness that can come from any long effort, not specifically from a flight."
+          "feedback": "'At elbows with' is not an English expression, though 'elbow room' exists as a different noun phrase."
         },
         {
           "letter": "B",
-          "text": "exhaustion",
+          "text": "at loggerheads always",
           "is_correct": false,
-          "feedback": "'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep."
+          "feedback": "'At loggerheads' normally appears with 'at loggerheads over' and describes an active dispute, which is stronger than an academic disagreement."
         },
         {
           "letter": "C",
-          "text": "insomnia",
+          "text": "at sixes with",
           "is_correct": false,
-          "feedback": "'insomnia' is the inability to fall asleep, which has many causes besides travel."
+          "feedback": "'At sixes with' is not idiomatic English; 'at odds with' is the fixed phrase."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "explanation": "Prepositional phrases carry large amounts of meaning in academic English, and they are learned as units. The item sets the correct phrase against invented ones so the learner retrieves a real combination rather than assembling words by their individual meanings.\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
+      "bundle_id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W03-collocations-academic-v20",
+      "statement": "Which sentence is written with academic collocations in the standard way?",
+      "context": "A university press reviewed a book about the history of the coffee industry.",
+      "options": [
+        {
+          "letter": "B",
+          "text": "The book was well received by historians and it has been translated into several languages.",
+          "is_correct": true,
+          "feedback": "'Be well received' and 'be translated into' are both standard collocations of academic English."
+        },
+        {
+          "letter": "C",
+          "text": "The book was well ate by historians and it has been eaten into several languages.",
+          "is_correct": false,
+          "feedback": "A book cannot be eaten by historians or eaten into a language, so the first clause breaks the collocation."
+        },
+        {
+          "letter": "D",
+          "text": "The book was well cleaned by historians and it has been worn into several languages.",
+          "is_correct": false,
+          "feedback": "Cleaning and wearing do not describe how a book is judged or transformed into another language."
+        },
+        {
+          "letter": "A",
+          "text": "The book was well made by historians and it has been translated into several languages.",
+          "is_correct": false,
+          "feedback": "'Well made' describes manufacture and suggests the book was an object first, which changes the meaning of the review."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A review sentence combines passive collocations such as 'be received', 'be translated' and 'be praised'. The item asks the learner to reject the versions that keep the grammar but destroy the pairing, which is the most common way student writing sounds unacademic.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "CR-ING-11-2026-W03-collocations-academic-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",

@@ -8,131 +8,131 @@
   },
   "questions": [
     {
-      "id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W17-argument-structure-identification-v1",
+      "statement": "Which part of the argument is the claim?",
+      "context": "Argument: 'Public libraries should stay open in every district, because people without transport cannot reach the ones that remain.'",
       "options": [
         {
           "letter": "C",
-          "text": "accommodation",
+          "text": "That public libraries should stay open in every district",
           "is_correct": true,
-          "feedback": "Correct! 'Accommodation' is the word for a place where you live or stay temporarily while you are away from home."
-        },
-        {
-          "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "Wrong. 'Transportation' names the way you travel, such as buses, trains or planes, not the place where you stay."
-        },
-        {
-          "letter": "B",
-          "text": "entertainment",
-          "is_correct": false,
-          "feedback": "Wrong. 'Entertainment' is the activity of enjoying shows, films or games, not a place where you sleep."
+          "feedback": "The clause before 'because' states the position the writer wants the reader to accept, which is the claim."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "That people without transport cannot reach distant libraries",
           "is_correct": false,
-          "feedback": "Wrong. 'Currency' is the money used in a country, which has nothing to do with lodging."
+          "feedback": "The clause after 'because' supports the claim rather than being it."
+        },
+        {
+          "letter": "A",
+          "text": "That some libraries must close",
+          "is_correct": false,
+          "feedback": "No part of the argument proposes closing libraries."
+        },
+        {
+          "letter": "B",
+          "text": "That transport in the district is limited",
+          "is_correct": false,
+          "feedback": "Transport is a premise about access, not the central proposal."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is the planned route of a journey together with the places and times along the way."
-        },
-        {
-          "letter": "A",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "Wrong. 'Baggage' is the suitcases and bags themselves, not the plan of the trip."
-        },
-        {
-          "letter": "B",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "Wrong. A 'destination' is only the place where the journey ends, while an itinerary lists the whole route."
-        },
-        {
-          "letter": "C",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "Wrong. A 'passport' is the travel document that proves who you are, not the plan of the journey."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place someone or something is going to or being sent to."
-        },
-        {
-          "letter": "A",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Wrong. A 'departure' is the act of leaving and the place you leave from, the opposite end of the trip."
-        },
-        {
-          "letter": "B",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Wrong. An 'arrival' is the event of getting there, not the place that is being travelled to."
-        },
-        {
-          "letter": "D",
-          "text": "journey",
-          "is_correct": false,
-          "feedback": "Wrong. A 'journey' is the whole trip from start to finish, not the place at the end of it."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "explanation": "A simple argument has one claim and at least one reason, and the connective 'because' is the boundary between them. Learning to see that boundary is the foundation of argument analysis.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W17-argument-structure-identification-v2",
+      "statement": "What is the type of reasoning used?",
+      "context": "Argument: 'Traffic in the capital fell by a fifth after the cycle lane was built. Therefore, more cycle lanes will continue to reduce congestion.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A prediction based on a previous outcome",
+          "is_correct": true,
+          "feedback": "The writer projects a past result into the future, which is a prediction drawn from an observed outcome."
+        },
+        {
+          "letter": "B",
+          "text": "A comparison between two unrelated cases",
+          "is_correct": false,
+          "feedback": "The two situations are linked by the writer's claim rather than being unrelated."
+        },
+        {
+          "letter": "C",
+          "text": "An appeal to an authority",
+          "is_correct": false,
+          "feedback": "No expert or official is quoted as the source of the reasoning."
+        },
+        {
+          "letter": "D",
+          "text": "A definition of the word congestion",
+          "is_correct": false,
+          "feedback": "No definition of the term appears in the argument."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Arguments can be causal, predictive, comparative or analogical. Naming the type tells the reader what kind of evidence would support or weaken it.\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.85,
+      "bundle_id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W17-argument-structure-identification-v3",
+      "statement": "What is the weakness in this argument?",
+      "context": "Argument: 'No other country in the region has such a high proportion of forest cover. Therefore, the country should be proud of this achievement.'",
+      "options": [
+        {
+          "letter": "C",
+          "text": "The conclusion about pride does not follow from a comparison of forest cover",
+          "is_correct": true,
+          "feedback": "A relative ranking in one measure establishes a fact, not a conclusion about what the country should feel."
+        },
+        {
+          "letter": "D",
+          "text": "The comparison of forest cover is false",
+          "is_correct": false,
+          "feedback": "The text presents the comparison as accurate, and its truth is not the problem."
+        },
+        {
+          "letter": "A",
+          "text": "The argument is circular because it repeats the claim",
+          "is_correct": false,
+          "feedback": "There is no repetition of the claim, so the argument is not circular."
+        },
+        {
+          "letter": "B",
+          "text": "The word 'therefore' is used in the wrong sentence",
+          "is_correct": false,
+          "feedback": "The connector is used correctly; the defect lies in the leap from fact to recommendation."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The commonest weakness in a short argument is a gap between what is established and what is concluded. Naming that gap is more useful than dismissing the whole argument.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle",
       "periodo": 17,
@@ -143,37 +143,37 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W17-argument-structure-identification-v4",
+      "statement": "Which premise supports the conclusion?",
+      "context": "Argument: 'Cars emit more carbon dioxide per passenger than buses. Since buses carry more people per kilometre, replacing cars with buses would reduce emissions.'",
       "options": [
         {
-          "letter": "D",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'Luggage' is the collective word for the suitcases and bags you pack your belongings in."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "Wrong. A 'ticket' is the document that pays for and authorises a journey, not the bag you pack."
+          "text": "That buses carry more passengers per kilometre than cars",
+          "is_correct": true,
+          "feedback": "The conclusion depends on the number of passengers carried, which is the premise that does the work."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "That buses are cheaper to operate",
           "is_correct": false,
-          "feedback": "Wrong. A 'flight' is the journey by plane itself, not the bags carried on it."
+          "feedback": "Cost is not mentioned and does not bear on emissions."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "That people prefer buses to cars",
           "is_correct": false,
-          "feedback": "Wrong. A 'reservation' is the booking you make for a seat or a room, not the baggage itself."
+          "feedback": "Preference is not part of the reasoning."
+        },
+        {
+          "letter": "D",
+          "text": "That emissions are measured in grams per kilometre",
+          "is_correct": false,
+          "feedback": "The unit of measurement explains the figures but does not support the conclusion."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "In a chain of reasoning only some premises do the work. Identifying which ones connect the facts to the conclusion is what distinguishes a valid argument from a decoration of facts.\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -188,37 +188,172 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W17-argument-structure-identification-v5",
+      "statement": "What problem does this argument have?",
+      "context": "Argument: 'The policy failed in two schools. The other schools improved, so the policy is effective.'",
       "options": [
         {
-          "letter": "C",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! A 'passenger' is anyone travelling in a vehicle who is not the one driving or piloting it."
-        },
-        {
-          "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "Wrong. A 'pedestrian' travels on foot, so they are not aboard any conveyance at all."
-        },
-        {
           "letter": "B",
-          "text": "commuter",
+          "text": "The cases where it failed are set aside while the successes are generalised",
+          "is_correct": true,
+          "feedback": "Drawing a general conclusion while excluding the failures is selective use of evidence."
+        },
+        {
+          "letter": "C",
+          "text": "The argument is circular",
           "is_correct": false,
-          "feedback": "Wrong. A 'commuter' is defined by making the same trip regularly to work or school, not by being a passenger in general."
+          "feedback": "Nothing in the argument repeats the claim, so it is not circular."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "The argument relies on an appeal to authority",
           "is_correct": false,
-          "feedback": "Wrong. A 'tourist' is defined by travelling for pleasure, not simply by riding in a vehicle."
+          "feedback": "No authority is invoked anywhere in the passage."
+        },
+        {
+          "letter": "A",
+          "text": "The argument is too short to be assessed",
+          "is_correct": false,
+          "feedback": "Argument length has no bearing on whether the reasoning is sound."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "Weighing evidence means giving the cases that count against a conclusion the same attention as those that support it. This item isolates that principle in its clearest possible form.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W17-argument-structure-identification-v6",
+      "statement": "How does this argument use the second sentence?",
+      "context": "Argument: 'A bus fare of five hundred colones is affordable for most people in the region. The average weekly income in the region is thirty thousand colones.'",
+      "options": [
+        {
+          "letter": "B",
+          "text": "As a reason for the claim in the first sentence",
+          "is_correct": true,
+          "feedback": "The income figure is offered to justify the affordability claim, so it functions as a premise."
+        },
+        {
+          "letter": "C",
+          "text": "As a conclusion that summarises the argument",
+          "is_correct": false,
+          "feedback": "The first sentence states the claim, so the second cannot be the conclusion."
+        },
+        {
+          "letter": "D",
+          "text": "As a counterargument that the author rejects",
+          "is_correct": false,
+          "feedback": "Nothing in the passage rejects the figure, and it is used in support."
+        },
+        {
+          "letter": "A",
+          "text": "As a piece of evidence unrelated to the claim",
+          "is_correct": false,
+          "feedback": "The figure is directly relevant to whether the fare is affordable."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Arguments are recognised by position: the claim is what the writer wants accepted, and the premises are what is offered to secure it. One or two sentences can therefore be identified by their function rather than by a keyword.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W17-argument-structure-identification-v7",
+      "statement": "What assumption does this argument depend on?",
+      "context": "Argument: 'People who exercise regularly report fewer absences from work. Therefore, encouraging exercise in the workplace would reduce sick days.'",
+      "options": [
+        {
+          "letter": "B",
+          "text": "That encouragement at work would lead people to exercise regularly",
+          "is_correct": true,
+          "feedback": "The argument moves from what happens when people exercise to what would happen if a workplace encouraged it, and that bridge is assumed rather than shown."
+        },
+        {
+          "letter": "C",
+          "text": "That all workers already exercise every day",
+          "is_correct": false,
+          "feedback": "Claiming universal exercise contradicts the premise, which describes a correlation among some people."
+        },
+        {
+          "letter": "D",
+          "text": "That exercise has no effect on health",
+          "is_correct": false,
+          "feedback": "The premise states that fewer absences were reported, so the argument relies on exercise having an effect."
+        },
+        {
+          "letter": "A",
+          "text": "That sick days are unrelated to income",
+          "is_correct": false,
+          "feedback": "Nothing in the argument concerns income, so the last assumption is irrelevant."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "An unstated assumption is the link a writer does not spell out. Making it visible is often the most valuable part of analysing an argument, because assumptions are where the argument can fail.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W17-argument-structure-identification-v8",
+      "statement": "What does the structure of this text show?",
+      "context": "Argument: 'The scheme cost less than the original estimate. It also reached fewer people. In the opinion of one councillor, the scheme was still a success.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It presents two facts that cut against a verdict supplied by a single opinion",
+          "is_correct": true,
+          "feedback": "The factual sentences raise both an advantage and a disadvantage, and the verdict rests on one named person rather than on the evidence."
+        },
+        {
+          "letter": "B",
+          "text": "It gives three facts that all support the scheme",
+          "is_correct": false,
+          "feedback": "One of the two facts works against success, so the sentences do not all support it."
+        },
+        {
+          "letter": "C",
+          "text": "It reports a decision taken by the council",
+          "is_correct": false,
+          "feedback": "No decision is recorded in the passage."
+        },
+        {
+          "letter": "D",
+          "text": "It compares the cost of the scheme with the original estimate",
+          "is_correct": false,
+          "feedback": "The comparison with the estimate is one detail rather than the point of the text."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A text that gives balanced facts and then lets one opinion decide is making a visible gap between evidence and conclusion. Identifying that structure is more precise than calling the text biased.\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -233,42 +368,177 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W17-argument-structure-identification-v9",
+      "statement": "Which criticism applies to this argument?",
+      "context": "Argument: 'The city has built more bicycle lanes than any other city in the country. Everyone knows that cities with the most bicycle lanes have the healthiest populations.'",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
+          "text": "The health comparison is offered without evidence and assumes a link the argument does not show",
           "is_correct": true,
-          "feedback": "Correct! 'Customs' is the office where officials check the goods and the people coming in from abroad."
+          "feedback": "Asserting a general connection and calling it common knowledge substitutes reputation for evidence."
         },
         {
           "letter": "B",
-          "text": "security",
+          "text": "The claim about the number of lanes is false",
           "is_correct": false,
-          "feedback": "Wrong. 'Security' is the police or staff who keep order, while customs staff collect duties on goods."
+          "feedback": "The text presents the ranking as fact, and its accuracy is not the issue."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "The argument is too short to be convincing",
           "is_correct": false,
-          "feedback": "Wrong. A 'terminal' is the building where you arrive or depart, not the office that checks imports."
+          "feedback": "Length has no bearing on the presence of evidence."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "The word 'healthiest' is not a real word",
           "is_correct": false,
-          "feedback": "Wrong. A 'gate' is the door you pass through to reach the plane; customs is the check itself."
+          "feedback": "'Healthiest' is an ordinary superlative form and raises no lexical question."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "explanation": "The phrase 'everyone knows' is a rhetorical device that converts an assumption into an apparent fact. Analysing arguments means noticing such moves and asking what evidence would be needed.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.75,
+      "bundle_id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W17-argument-structure-identification-v10",
+      "statement": "What does the argument fail to rule out?",
+      "context": "Argument: 'Small shops closed on the high street at the same time as the new supermarket opened nearby. Therefore, the supermarket caused the closures.'",
+      "options": [
+        {
+          "letter": "B",
+          "text": "Another cause that affected both the shops and the supermarket decision at the same time",
+          "is_correct": true,
+          "feedback": "Two events occurring together do not establish a link, and a third factor is the standard alternative explanation."
+        },
+        {
+          "letter": "C",
+          "text": "The possibility that the supermarket also closed",
+          "is_correct": false,
+          "feedback": "Nothing suggests that the supermarket closed, and the argument depends on it operating."
+        },
+        {
+          "letter": "D",
+          "text": "The fact that small shops are usually profitable",
+          "is_correct": false,
+          "feedback": "The profitability of small shops is not raised by the timing described."
+        },
+        {
+          "letter": "A",
+          "text": "The cost of the supermarket building",
+          "is_correct": false,
+          "feedback": "The building cost is not mentioned and would not resolve the causal question."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Post hoc reasoning is the classic error in argument analysis: one event following another is treated as proof of connection. The standard counter is to look for a third factor that would explain both.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W17-argument-structure-identification-v11",
+      "statement": "What fallacious move does this argument make?",
+      "context": "Argument: 'The report was written by specialists. The report recommends extending the programme. Therefore, the recommendation is technically sound.'",
+      "options": [
+        {
+          "letter": "C",
+          "text": "It treats the credentials of the authors as proof of the quality of the conclusion",
+          "is_correct": true,
+          "feedback": "Authority supports the credibility of a claim rather than demonstrating that the reasoning inside the report is sound."
+        },
+        {
+          "letter": "D",
+          "text": "It assumes that specialists always disagree with each other",
+          "is_correct": false,
+          "feedback": "Nothing in the argument concerns disagreement between specialists."
+        },
+        {
+          "letter": "A",
+          "text": "It questions whether the report was actually written",
+          "is_correct": false,
+          "feedback": "The report is accepted as written, so authorship is not questioned."
+        },
+        {
+          "letter": "B",
+          "text": "It appeals to the general public rather than to experts",
+          "is_correct": false,
+          "feedback": "The appeal is to expertise, not to public opinion."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Appealing to authority is legitimate when the authority is relevant and the claim lies within its expertise, and weak when credentials are used as a substitute for reasoning. This item asks the student to judge the fit.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.75,
+      "bundle_id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W17-argument-structure-identification-v12",
+      "statement": "What is wrong with the conclusion?",
+      "context": "Argument: 'Every proposal submitted this year was reviewed by at least two committee members. Six of the eight proposals were approved. The committee is therefore efficient.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The conclusion about efficiency is not established by the figures given",
+          "is_correct": true,
+          "feedback": "Knowing how many proposals were approved says nothing about speed or efficiency, so the conclusion does not follow from the premises."
+        },
+        {
+          "letter": "B",
+          "text": "The figures about the proposals are false",
+          "is_correct": false,
+          "feedback": "The figures are stated as facts, and their accuracy is not the defect."
+        },
+        {
+          "letter": "C",
+          "text": "The argument contradicts itself",
+          "is_correct": false,
+          "feedback": "The sentences are consistent with one another, so there is no contradiction."
+        },
+        {
+          "letter": "D",
+          "text": "The committee did not follow its own rules",
+          "is_correct": false,
+          "feedback": "The review requirement appears to have been satisfied, since every proposal was reviewed."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A conclusion must be about the same thing as its premises. This item tests the simplest and most frequent form of non sequitur, where a valid set of facts leads to an unrelated verdict.\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -278,87 +548,87 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! A 'boarding pass' is the document the airline hands you at check-in that lets you board the plane."
-        },
-        {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "Wrong. A 'visa' is the official permission a government gives to enter a country, granted before you travel."
-        },
-        {
-          "letter": "B",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Wrong. A 'receipt' only proves that you paid for something; it does not admit you to the aircraft."
-        },
-        {
-          "letter": "C",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "Wrong. A 'brochure' is advertising material about destinations, not a travel document for boarding."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W17-argument-structure-identification-v13",
+      "statement": "What does this analogy assume?",
+      "context": "Argument: 'The old bridge and the new bridge carry similar traffic. The old bridge has never been repaired. The new bridge was rebuilt last year.'",
       "options": [
         {
           "letter": "B",
-          "text": "sightseeing",
+          "text": "That the two bridges are alike in the respects that matter for maintenance",
           "is_correct": true,
-          "feedback": "Correct! 'Sightseeing' means going round and looking at the famous sights of a place as a visitor."
-        },
-        {
-          "letter": "A",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "Wrong. 'Shopping' is buying things in a city, a different activity from visiting its places of interest."
+          "feedback": "Drawing a conclusion about the old bridge from the new one requires the two to share relevant properties, and the text does not establish that."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "That both bridges were built in the same decade",
           "is_correct": false,
-          "feedback": "Wrong. 'Hiking' is walking long distances in the countryside on marked trails, not touring the sights of a location."
+          "feedback": "The dates of construction are never given, so they cannot be part of the assumption."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "That traffic causes damage to a bridge",
           "is_correct": false,
-          "feedback": "Wrong. 'Camping' means staying the night outdoors in a tent, not a day of visiting places of interest."
+          "feedback": "The argument concerns repairs rather than the mechanism of damage."
+        },
+        {
+          "letter": "A",
+          "text": "That the new bridge is better designed",
+          "is_correct": false,
+          "feedback": "No design comparison appears anywhere in the passage."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
+      "explanation": "An analogy transfers a conclusion from one case to another and is only as strong as the similarity between the cases. Making the assumed similarity explicit is the essential step in evaluating one.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.75,
+      "bundle_id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W17-argument-structure-identification-v14",
+      "statement": "How does the second sentence function?",
+      "context": "Argument: 'Banning cars from the centre would improve air quality. But air quality has improved every year, and cars were present throughout that period.'",
+      "options": [
+        {
+          "letter": "D",
+          "text": "As an objection that weakens the argument, by showing improvement occurred without the ban",
+          "is_correct": true,
+          "feedback": "The pattern of improvement while cars were present undercuts the idea that removing them is what produces improvement."
+        },
+        {
+          "letter": "A",
+          "text": "As additional support for the ban",
+          "is_correct": false,
+          "feedback": "The sentence shows improvement without the ban, which is contrary to the argument's proposal."
+        },
+        {
+          "letter": "B",
+          "text": "As a second conclusion with the same content",
+          "is_correct": false,
+          "feedback": "It states a separate fact rather than repeating the claim."
+        },
+        {
+          "letter": "C",
+          "text": "As evidence that air quality cannot change",
+          "is_correct": false,
+          "feedback": "A trend over several years proves that the variable cannot change at all."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "An argument can be challenged by pointing out that the proposed cause has been present while the effect occurred anyway. Recognising this shape helps a reader evaluate the argument's central assumption.\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -368,87 +638,42 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W17-argument-structure-identification-v15",
+      "statement": "What kind of response is this to the original claim?",
+      "context": "Argument: 'The measure reduced the number of reported cases. Reported cases fall when people stop reporting, so the measure reduced reporting rather than the problem.'",
       "options": [
         {
-          "letter": "B",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is an object kept afterwards as a reminder of the trip and of the people or places on it."
-        },
-        {
-          "letter": "A",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "Wrong. A 'gift' is chosen to be given to somebody else, while a souvenir is kept by the traveller."
-        },
-        {
           "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "Wrong. An 'award' is a distinction given for an achievement, not a keepsake bought on a trip."
+          "text": "A counterargument that disputes the interpretation rather than the measurement",
+          "is_correct": true,
+          "feedback": "The response accepts the figures and offers an alternative reading of what they mean, which is the structure of a counterargument."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "A concession that agrees with the measurement",
           "is_correct": false,
-          "feedback": "Wrong. A 'prize' is what a competitor wins in a contest; it says nothing about remembering a journey."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
+          "feedback": "The responder agrees with the data, but disagreement about the meaning is not a concession on the result."
+        },
         {
           "letter": "A",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra period of time by which a departure or arrival is postponed."
+          "text": "A restatement of the original claim in other words",
+          "is_correct": false,
+          "feedback": "A restatement would repeat the claim; here the explanation of the claim is disputed."
         },
         {
           "letter": "B",
-          "text": "cancellation",
+          "text": "An analogy drawn from a different field",
           "is_correct": false,
-          "feedback": "Wrong. A 'cancellation' calls the plan off entirely, whereas a delay only postpones it by some hours."
-        },
-        {
-          "letter": "C",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Wrong. 'Departure' is simply the moment of leaving; the lateness is measured separately from it."
-        },
-        {
-          "letter": "D",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Wrong. An 'arrival' is the moment of getting there, not the amount of time a plan runs late."
+          "feedback": "No comparison from another field is offered."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "A counterargument can leave the evidence untouched and dispute only its interpretation. Separating measurement from explanation is what distinguishes this response from a denial of the data.\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
       "bundle_id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -458,132 +683,42 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W17-argument-structure-identification-v16",
+      "statement": "What is wrong with the way this argument reaches its conclusion?",
+      "context": "Argument: 'Because the evidence is strong and the proposal is popular, it must be the right decision.'",
       "options": [
         {
           "letter": "D",
-          "text": "check-in",
+          "text": "It treats strength of evidence and popularity as substitutes for the merits of the decision",
           "is_correct": true,
-          "feedback": "Correct! 'Check-in' is when you arrive and register, and the desk records your presence and gives you your pass."
+          "feedback": "Good evidence and public approval are relevant but do not by themselves settle what is the correct choice."
         },
         {
           "letter": "A",
-          "text": "check-out",
+          "text": "It uses the word 'because' in the wrong position",
           "is_correct": false,
-          "feedback": "Wrong. 'Check-out' is the opposite moment, when you pay and hand back the room key before leaving."
+          "feedback": "The connective is used in a standard position and is not the defect."
         },
         {
           "letter": "B",
-          "text": "booking",
+          "text": "It repeats the claim in a different form",
           "is_correct": false,
-          "feedback": "Wrong. A 'booking' is the reservation made earlier, while check-in is the reporting of your arrival."
+          "feedback": "Nothing in the sentence repeats the conclusion."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "It contains no conclusion at all",
           "is_correct": false,
-          "feedback": "Wrong. A 'reservation' holds a room or a seat for you in advance, not the act of registering on arrival."
+          "feedback": "The sentence does state a conclusion, which is what the last option denies."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! A 'layover' is the wait between two flights, usually at the connecting airport, before you continue."
-        },
-        {
-          "letter": "A",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "Wrong. A 'stopover' is a deliberate break in a long journey to spend extra time at a place, not a wait between flights."
-        },
-        {
-          "letter": "B",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "Wrong. A 'transfer' is the flight or vehicle that moves you from one place to another, not the waiting itself."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Wrong. 'Transit' names the general passing through an area or a country, not a specific rest between stages."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'Currency' is the whole monetary system a country uses, not any single object."
-        },
-        {
-          "letter": "A",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Wrong. A 'coin' is one round metal piece of money, while the definition covers the entire money system."
-        },
-        {
-          "letter": "C",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "Wrong. A 'banknote' is a single paper note, while the definition is about the money system of a whole country."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "Wrong. 'Cash' is the money in coins and notes that you are holding, regardless of any country's system."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
+      "explanation": "Some conclusions cannot be settled by the kinds of support a text offers. This item asks the student to name the substitution, which is the standard way of describing an argument of this kind.\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -593,42 +728,42 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W17-argument-structure-identification-v17",
+      "statement": "What does this classification accomplish?",
+      "context": "Argument: 'There are three kinds of position in this debate: those who favour the change, those who oppose it, and those who have not decided.'",
       "options": [
         {
           "letter": "C",
-          "text": "guidebook",
+          "text": "It divides all possible stances into exhaustive categories",
           "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book written about a place to help visitors find their way around it."
-        },
-        {
-          "letter": "A",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "Wrong. A 'map' is a single drawing of an area, not the book of practical information about the place."
-        },
-        {
-          "letter": "B",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "Wrong. A 'dictionary' lists words and their meanings, not practical details about a destination."
+          "feedback": "Every reader falls into one of the three groups, so the categories leave no place uncovered."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "It shows that the debate has no middle ground",
           "is_correct": false,
-          "feedback": "Wrong. An 'encyclopedia' covers all knowledge on a subject, while a guidebook is written about one specific place."
+          "feedback": "The third category exists precisely to hold those who have not taken a side, which is a middle position."
+        },
+        {
+          "letter": "A",
+          "text": "It proves that most people have not decided",
+          "is_correct": false,
+          "feedback": "No figures are given about how many people are in each group."
+        },
+        {
+          "letter": "B",
+          "text": "It argues in favour of the change",
+          "is_correct": false,
+          "feedback": "The classification is neutral and takes no position on the change."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "A three-way classification of a debate, for, against and undecided, is a standard way of analysing public positions. Recognising exhaustive categories helps a reader see when a text has left a real group out.\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Understand",
+      "expected_success": 0.7,
       "bundle_id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -638,42 +773,87 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W17-argument-structure-identification-v18",
+      "statement": "What logical mistake does this argument commit?",
+      "context": "Argument: 'If the new rule reduced inequality, then richer families would pay more tax. Richer families do pay more tax. Therefore, the new rule reduced inequality.'",
       "options": [
         {
-          "letter": "B",
-          "text": "backpack",
+          "letter": "D",
+          "text": "It treats the converse of a conditional as if it were the conditional itself",
           "is_correct": true,
-          "feedback": "Correct! A 'backpack' has two shoulder straps and is designed to be carried on your back."
+          "feedback": "From 'if the rule reduced inequality, richer families pay more', it does not follow that because they pay more the rule did so."
         },
         {
           "letter": "A",
-          "text": "suitcase",
+          "text": "It repeats the conclusion inside the premise",
           "is_correct": false,
-          "feedback": "Wrong. A 'suitcase' is a flat box with a handle that you pull along beside you."
+          "feedback": "The premises do not restate the conclusion, so the argument is not circular."
+        },
+        {
+          "letter": "B",
+          "text": "It relies on an appeal to popularity",
+          "is_correct": false,
+          "feedback": "No popularity is invoked anywhere in the passage."
         },
         {
           "letter": "C",
-          "text": "briefcase",
+          "text": "It draws a conclusion from a single example",
           "is_correct": false,
-          "feedback": "Wrong. A 'briefcase' is a stiff case for papers that you carry in your hand at work."
-        },
-        {
-          "letter": "D",
-          "text": "handbag",
-          "is_correct": false,
-          "feedback": "Wrong. A 'handbag' is held in the hand and has no straps at all."
+          "feedback": "The error is in the logical form rather than in the number of cases cited."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Converse error is a frequent defect in public argument. Naming it gives the reader a precise diagnosis rather than the impression that the argument is merely weak.\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.7,
+      "bundle_id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W17-argument-structure-identification-v19",
+      "statement": "What is the weakness in this reasoning?",
+      "context": "Argument: 'Two proposals were submitted. The first received more support and was approved. The second received less support and was rejected. Therefore, the committee decides by counting support.'",
+      "options": [
+        {
+          "letter": "D",
+          "text": "Two cases cannot establish a rule about how the committee always decides",
+          "is_correct": true,
+          "feedback": "A general claim about a decision procedure needs more than a single pair of cases to support it."
+        },
+        {
+          "letter": "A",
+          "text": "The number of supporters for each proposal is not given",
+          "is_correct": false,
+          "feedback": "The text states which proposal received more support, so the information is present."
+        },
+        {
+          "letter": "B",
+          "text": "The committee clearly did not decide by counting support",
+          "is_correct": false,
+          "feedback": "The conclusion follows the observed pattern and does not contradict it."
+        },
+        {
+          "letter": "C",
+          "text": "The two proposals should have been assessed on their merits",
+          "is_correct": false,
+          "feedback": "Comparing the proposals on merits is a different question that the argument does not raise."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Hasty generalisation from a small sample is a structural weakness rather than a factual error. This item asks the student to see the problem in the number of cases examined.\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -683,222 +863,42 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W17-argument-structure-identification-v20",
+      "statement": "Which question would test this argument most directly?",
+      "context": "Argument: 'The policy protects the river for future generations while providing benefits to farmers today, so it is the fairest option available.'",
       "options": [
         {
           "letter": "D",
-          "text": "overseas",
+          "text": "Which other options were considered and who would they have favoured?",
           "is_correct": true,
-          "feedback": "Correct! 'Overseas' means to or in another country reached by crossing the sea."
+          "feedback": "A claim about fairness depends on the alternatives, so establishing what else was considered is the direct test."
         },
         {
           "letter": "A",
-          "text": "domestic",
+          "text": "How many pages does the policy document contain?",
           "is_correct": false,
-          "feedback": "Wrong. 'Domestic' means inside the borders of your own country, which is the opposite of overseas."
+          "feedback": "The length of the document has no bearing on the substance of the argument."
         },
         {
           "letter": "B",
-          "text": "local",
+          "text": "Does the writer use a formal register throughout?",
           "is_correct": false,
-          "feedback": "Wrong. 'Local' means in a particular small area or town, which may well be inside your own country."
+          "feedback": "Register is a feature of presentation and does not test the claim about fairness."
         },
         {
           "letter": "C",
-          "text": "national",
+          "text": "Was the policy introduced recently or long ago?",
           "is_correct": false,
-          "feedback": "Wrong. 'National' means concerning the nation as a whole, not travelling away from it across the sea."
+          "feedback": "The date of introduction is not relevant to whether the option is the fairest."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! A 'budget' estimates planned income and spending over a set period such as a month or a year."
-        },
-        {
-          "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "Wrong. An 'expense' is a single outgoing payment, not a plan covering a whole period."
-        },
-        {
-          "letter": "C",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "Wrong. The 'cost' is the price of one thing or service, with no timeframe attached to it."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "Wrong. A 'price' is the amount a single item sells for, not an estimate of a period's finances."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "explanation": "When an argument concludes that something is the best or fairest option, the decisive question is always about the alternatives. This item asks the student to produce that question, which is the most transferable move in the whole area.",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement where a company pays compensation for a specified loss in exchange for a premium."
-        },
-        {
-          "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Wrong. A 'warranty' covers a defective product for a limited time and is given by the maker, not for illness or death."
-        },
-        {
-          "letter": "C",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "Wrong. A 'guarantee' is a promise about the quality of a product or service, with no payment of a premium."
-        },
-        {
-          "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "Wrong. A 'policy' is the written document that records an insurance contract, not the practice of compensation itself."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'Vaccination' is the administration of a vaccine that makes the immune system ready against a disease."
-        },
-        {
-          "letter": "A",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Wrong. 'Medication' treats the symptoms of an illness you already have; it does not create immunity beforehand."
-        },
-        {
-          "letter": "B",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Wrong. A 'prescription' is the doctor's written order for a medicine, not the vaccine itself."
-        },
-        {
-          "letter": "D",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "Wrong. An 'infection' is the invasion of the body by a pathogen, which is the opposite of preventing it."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the tiredness and disturbed body clock caused by crossing several time zones in a flight."
-        },
-        {
-          "letter": "A",
-          "text": "fatigue",
-          "is_correct": false,
-          "feedback": "Wrong. 'Fatigue' is general tiredness from any cause, such as hard work, not specifically from time zones."
-        },
-        {
-          "letter": "B",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "Wrong. 'Exhaustion' is extreme tiredness from physical effort or illness, not from a change of time zone."
-        },
-        {
-          "letter": "C",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Wrong. 'Insomnia' is simply difficulty sleeping, which can come from many causes unrelated to flying."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",

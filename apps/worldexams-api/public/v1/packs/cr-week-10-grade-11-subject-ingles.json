@@ -8,131 +8,131 @@
   },
   "questions": [
     {
-      "id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W10-passive-voice-causative-v1",
+      "statement": "What is the passive voice of this sentence?",
+      "context": "A sentence reads: 'The new library was built in 2019.'",
       "options": [
         {
           "letter": "C",
-          "text": "accommodation",
+          "text": "The builders built the new library in 2019.",
           "is_correct": true,
-          "feedback": "Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday."
-        },
-        {
-          "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep."
-        },
-        {
-          "letter": "B",
-          "text": "entertainment",
-          "is_correct": false,
-          "feedback": "'Entertainment' is the fun or activities you enjoy, not the building or room where you stay."
+          "feedback": "In the active, the builders become the subject and perform the action that the passive attributes to the library."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "The new library was building in 2019.",
           "is_correct": false,
-          "feedback": "'Currency' is the money of a country, which has nothing to do with where you sleep."
+          "feedback": "'Was building' is a passive progressive, which is not the simple event described in the sentence."
+        },
+        {
+          "letter": "A",
+          "text": "The new library is built in 2019.",
+          "is_correct": false,
+          "feedback": "'Is built' would place the construction in the present, while the original names the year 2019."
+        },
+        {
+          "letter": "B",
+          "text": "The new library built in 2019.",
+          "is_correct": false,
+          "feedback": "A passive sentence needs an auxiliary before the participle, and none appears here."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle",
-      "periodo": 10,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route."
-        },
-        {
-          "letter": "A",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "'Baggage' is the suitcases and bags you travel with, not the written plan of the trip."
-        },
-        {
-          "letter": "B",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan."
-        },
-        {
-          "letter": "D",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "'Passport' is the travel document that lets you cross a border, not the schedule of your trip."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle",
-      "periodo": 10,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place someone or something is going or being sent to."
-        },
-        {
-          "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'Departure' is the action of leaving, the opposite end of the journey from the destination."
-        },
-        {
-          "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'Arrival' is the act of getting there; the place you arrive at is the destination."
-        },
-        {
-          "letter": "D",
-          "text": "journey",
-          "is_correct": false,
-          "feedback": "'Journey' is the whole trip from start to finish, not the place you are heading to."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "explanation": "The passive moves the object of the active sentence into the subject position and adds an auxiliary. Recovering the active form is the fastest way to check whether a candidate transformation is correct.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W10-passive-voice-causative-v2",
+      "statement": "Which sentence is the active equivalent?",
+      "context": "A sentence reads: 'Rice is grown by thousands of small farmers in this region.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Thousands of small farmers grow rice in this region.",
+          "is_correct": true,
+          "feedback": "Moving 'rice' back to the object position and naming the farmers as the subject produces the active form."
+        },
+        {
+          "letter": "B",
+          "text": "Thousands of small farmers are growing rice here.",
+          "is_correct": false,
+          "feedback": "'Are growing' is the active of the present continuous, which is not the tense of the original sentence."
+        },
+        {
+          "letter": "C",
+          "text": "Rice grows by thousands of small farmers in this region.",
+          "is_correct": false,
+          "feedback": "'Rice' cannot be the subject that grows the crop, so this reading is nonsensical."
+        },
+        {
+          "letter": "D",
+          "text": "Thousands of small farmers grew rice in this region.",
+          "is_correct": false,
+          "feedback": "'Grew' is the past simple and changes the time reference of the sentence."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "An active equivalent must contain exactly the same participants, tense and meaning as the passive. Checking all three prevents students from producing a sentence that is active but says something different.\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.85,
+      "bundle_id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W10-passive-voice-causative-v3",
+      "statement": "Which sentence explains why the report uses the passive voice?",
+      "context": "A report reads: 'Fifty hectares of forest were destroyed by the fire last year.'",
+      "options": [
+        {
+          "letter": "C",
+          "text": "The action matters more than who performed it",
+          "is_correct": true,
+          "feedback": "Reports often keep the affected party as the subject and omit the agent, so the focus stays on the forest."
+        },
+        {
+          "letter": "D",
+          "text": "The writer wants to name the person who started the fire",
+          "is_correct": false,
+          "feedback": "If the agent were the point of the sentence, the active form would be the appropriate choice."
+        },
+        {
+          "letter": "A",
+          "text": "The sentence must be shorter in the active form",
+          "is_correct": false,
+          "feedback": "The passive is not used for length, and here the active sentence would be no shorter than the passive."
+        },
+        {
+          "letter": "B",
+          "text": "The active form would be grammatically impossible",
+          "is_correct": false,
+          "feedback": "An active form exists and is perfectly grammatical, as the equivalent question demonstrates."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Writers choose the passive when the agent is unknown, unimportant or already mentioned. Learning to ask why a text uses the passive is part of critical reading, because the choice of voice shapes what the reader notices.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle",
       "periodo": 10,
@@ -143,37 +143,37 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W10-passive-voice-causative-v4",
+      "statement": "Which active sentence does the passive describe?",
+      "context": "A sentence reads: 'The road is being repaired at the moment.'",
       "options": [
         {
           "letter": "D",
-          "text": "luggage",
+          "text": "Someone is repairing the road at the moment.",
           "is_correct": true,
-          "feedback": "Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip."
+          "feedback": "'Is being' plus participle is the passive continuous and its active counterpart uses 'is repairing' with an agent."
         },
         {
           "letter": "A",
-          "text": "ticket",
+          "text": "The road repairs itself at the moment.",
           "is_correct": false,
-          "feedback": "'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself."
+          "feedback": "A road cannot repair itself, so the passive subject cannot be the agent of the action."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "The road repaired at the moment.",
           "is_correct": false,
-          "feedback": "'Flight' is the journey by plane, or the plane itself; the bags are called luggage."
+          "feedback": "'Repaired' would be the simple past, which the continuous form excludes."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "Someone repaired the road at the moment.",
           "is_correct": false,
-          "feedback": "'Reservation' is the booking you make for a seat or a room, not the bags you pack."
+          "feedback": "The present continuous indicates an action in progress, not a completed one."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "explanation": "The passive continuous describes an action in progress at the moment of speaking. Its active equivalent always requires an agent, since the true subject of a repair is a person or a crew.\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -188,42 +188,267 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W10-passive-voice-causative-v5",
+      "statement": "What construction does this sentence use?",
+      "context": "A sentence reads: 'He had his car serviced before the trip.'",
       "options": [
         {
           "letter": "B",
-          "text": "passenger",
+          "text": "The causative with 'have' plus object plus past participle",
           "is_correct": true,
-          "feedback": "Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew."
-        },
-        {
-          "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all."
+          "feedback": "'Have' plus object plus participle describes having something done by someone else, which is the causative use."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "The passive voice with 'had' as the past auxiliary",
           "is_correct": false,
-          "feedback": "'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case."
+          "feedback": "'Had' can be the auxiliary of the past perfect, but here it belongs to the causative construction."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "The present perfect with a participle",
           "is_correct": false,
-          "feedback": "'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents."
+          "feedback": "The present perfect would need 'has' plus participle with the subject performing the action."
+        },
+        {
+          "letter": "A",
+          "text": "A relative clause modifying 'car'",
+          "is_correct": false,
+          "feedback": "No relative pronoun appears, so the sentence contains no relative clause."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "explanation": "The causative has two forms: 'have' plus object plus participle for arranged services, and 'get' plus object plus participle for arrangements the speaker obtains. The subject arranges the work rather than doing it.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W10-passive-voice-causative-v6",
+      "statement": "Which sentence is the active equivalent?",
+      "context": "A sentence reads: 'The letters have been delivered.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The postman has delivered the letters.",
+          "is_correct": true,
+          "feedback": "The present perfect passive becomes the present perfect active with the agent as subject and the object after the verb."
+        },
+        {
+          "letter": "B",
+          "text": "The letters has delivered the postman.",
+          "is_correct": false,
+          "feedback": "Agreement is wrong: a plural subject 'letters' requires 'have', not 'has'."
+        },
+        {
+          "letter": "C",
+          "text": "The letters have delivered themselves.",
+          "is_correct": false,
+          "feedback": "Letters cannot deliver themselves, so the passive subject cannot become the agent here."
+        },
+        {
+          "letter": "D",
+          "text": "The postman has been delivered the letters.",
+          "is_correct": false,
+          "feedback": "The structure mixes the auxiliary of a passive with the word order of an active and is ungrammatical."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The transformation of the present perfect passive follows the same pattern as any other passive: auxiliary plus participle becomes have plus past participle with the agent promoted to subject. The tense is preserved throughout.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W10-passive-voice-causative-v7",
+      "statement": "Which option explains the structure of this sentence?",
+      "context": "A sentence reads: 'It is widely believed that the species is disappearing.'",
+      "options": [
+        {
+          "letter": "D",
+          "text": "An impersonal passive report with a that-clause as subject",
+          "is_correct": true,
+          "feedback": "'It' is a dummy subject, 'is believed' is the passive, and the that-clause carries the real content of the report."
+        },
+        {
+          "letter": "A",
+          "text": "A passive sentence in which 'the species' is the agent",
+          "is_correct": false,
+          "feedback": "'The species' sits inside the that-clause as its subject and is the object of the verb 'believe', not the agent."
+        },
+        {
+          "letter": "B",
+          "text": "A causative construction with 'it' as the object",
+          "is_correct": false,
+          "feedback": "No causative construction is present, since there is no object receiving an arranged action."
+        },
+        {
+          "letter": "C",
+          "text": "A question in passive form",
+          "is_correct": false,
+          "feedback": "The sentence is a declarative statement and contains no auxiliary of question formation."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Reporting verbs such as 'believe', 'say' and 'report' are often used in the impersonal passive, which lets a writer avoid naming a source. This structure is extremely frequent in journalistic and academic English.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W10-passive-voice-causative-v8",
+      "statement": "Which sentence uses the causative correctly?",
+      "context": "A contractor is discussing a building project.",
+      "options": [
+        {
+          "letter": "D",
+          "text": "They had the roof repaired before the rains began.",
+          "is_correct": true,
+          "feedback": "In the causative, the object sits between 'had' and the past participle, which is the fixed pattern of the construction."
+        },
+        {
+          "letter": "A",
+          "text": "They had repaired the roof before the rains began.",
+          "is_correct": false,
+          "feedback": "'Had repaired' is a past perfect active form in which the contractor does the work personally."
+        },
+        {
+          "letter": "B",
+          "text": "They repaired the roof had before the rains began.",
+          "is_correct": false,
+          "feedback": "The participle cannot follow the object in this construction, so the word order is wrong."
+        },
+        {
+          "letter": "C",
+          "text": "They had the roof repair before the rains began.",
+          "is_correct": false,
+          "feedback": "The participle must be in the past form 'repaired', not the base form 'repair'."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The causative's fixed order is have plus object plus past participle. Students who place the participle immediately after 'have' produce a past perfect instead, which changes who performs the action.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W10-passive-voice-causative-v9",
+      "statement": "What does the sentence tell us about the speaker?",
+      "context": "A speaker says: 'I had my hair cut before the ceremony.'",
+      "options": [
+        {
+          "letter": "B",
+          "text": "The speaker arranged for a hairdresser to cut the hair",
+          "is_correct": true,
+          "feedback": "The causative always implies that someone else performs the action the speaker arranged."
+        },
+        {
+          "letter": "C",
+          "text": "The speaker cut her own hair at home",
+          "is_correct": false,
+          "feedback": "Cutting one's own hair would require the active form 'I cut my hair'."
+        },
+        {
+          "letter": "D",
+          "text": "The speaker's hair was already cut when she arrived",
+          "is_correct": false,
+          "feedback": "The past participle and the causative structure indicate an arrangement completed before the ceremony, not a pre-existing condition."
+        },
+        {
+          "letter": "A",
+          "text": "The speaker will cut her hair after the ceremony",
+          "is_correct": false,
+          "feedback": "The sentence is entirely in the past, so no future action is being described."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The causative separates the person who arranges an action from the person who performs it. That distinction is the whole point of the construction and it is often tested directly in exams.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W10-passive-voice-causative-v10",
+      "statement": "What time relation does this sentence express?",
+      "context": "A text reads: 'The bridge had been damaged before the earthquake struck.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The damage was already present before the earthquake began",
+          "is_correct": true,
+          "feedback": "The past perfect places the damage earlier than the past event named in the second clause."
+        },
+        {
+          "letter": "B",
+          "text": "The earthquake damaged the bridge during the quake",
+          "is_correct": false,
+          "feedback": "A simultaneous event would use the past simple in both halves."
+        },
+        {
+          "letter": "C",
+          "text": "The bridge will be repaired after the earthquake",
+          "is_correct": false,
+          "feedback": "Nothing in the sentence refers to a future repair."
+        },
+        {
+          "letter": "D",
+          "text": "The earthquake and the damage happened at the same moment",
+          "is_correct": false,
+          "feedback": "'Before' establishes that the two events are not simultaneous."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The past perfect always signals that one past event precedes another. It is frequently used with the passive in reports, where the writer establishes what was already known before the incident being described.\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -233,42 +458,222 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W10-passive-voice-causative-v11",
+      "statement": "What does this passive construction emphasise?",
+      "context": "A text reads: 'The proposal was met with strong opposition.'",
       "options": [
         {
-          "letter": "D",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage."
-        },
-        {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in."
-        },
-        {
           "letter": "B",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "'Terminal' is the whole building where passengers wait, eat and catch their flights."
+          "text": "The opposition itself rather than the group that expressed it",
+          "is_correct": true,
+          "feedback": "'Met with' makes the opposition the subject, so the response is what the sentence presents as important."
         },
         {
           "letter": "C",
-          "text": "gate",
+          "text": "The identity of the members of the committee",
           "is_correct": false,
-          "feedback": "'Gate' is the particular door you board through, not the place where officials inspect your luggage."
+          "feedback": "The group is not named at all in this sentence, so its identity is not the point."
+        },
+        {
+          "letter": "D",
+          "text": "The date when the opposition was expressed",
+          "is_correct": false,
+          "feedback": "No date appears anywhere in the sentence."
+        },
+        {
+          "letter": "A",
+          "text": "The reason why the committee objected",
+          "is_correct": false,
+          "feedback": "The sentence states that opposition was strong without giving any reason for it."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Several verbs change meaning in the passive, and 'meet' is the standard example in exam material. 'Was met with' always means a reaction was received, never that a meeting took place.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.75,
+      "bundle_id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W10-passive-voice-causative-v12",
+      "statement": "Which statement about this sentence is accurate?",
+      "context": "A worker says: 'I am having my kitchen redesigned.'",
+      "options": [
+        {
+          "letter": "B",
+          "text": "The worker arranged the work and a designer carries it out",
+          "is_correct": true,
+          "feedback": "The present form of the causative shows an arrangement in progress, with the designer as the real agent."
+        },
+        {
+          "letter": "C",
+          "text": "The worker is redesigning the kitchen alone",
+          "is_correct": false,
+          "feedback": "Doing the work alone would require the active form 'I am redesigning the kitchen'."
+        },
+        {
+          "letter": "D",
+          "text": "The kitchen is being redesigned by the worker now",
+          "is_correct": false,
+          "feedback": "That reading would need the passive form 'The kitchen is being redesigned by me'."
+        },
+        {
+          "letter": "A",
+          "text": "The design has already been completed",
+          "is_correct": false,
+          "feedback": "Nothing in the present form indicates that the work has already been finished."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Causatives exist in the present, the past and the past perfect, and the tense of the auxiliary shows the time of the arrangement itself. This item checks that the student separates the time of arranging from the time of doing.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.75,
+      "bundle_id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W10-passive-voice-causative-v13",
+      "statement": "Which sentence has the same modal meaning?",
+      "context": "A text reads: 'The samples must be tested before the results can be published.'",
+      "options": [
+        {
+          "letter": "C",
+          "text": "The laboratory must test the samples before the results can be published.",
+          "is_correct": true,
+          "feedback": "A modal passive becomes a modal active with the agent as subject and the modal unchanged before the base form of the verb."
+        },
+        {
+          "letter": "D",
+          "text": "The laboratory must be testing the samples before the results can be published.",
+          "is_correct": false,
+          "feedback": "'Must be testing' is a modal passive continuous, which expresses a different, ongoing obligation."
+        },
+        {
+          "letter": "A",
+          "text": "The samples must testing the laboratory before the results can be published.",
+          "is_correct": false,
+          "feedback": "A modal cannot be followed by a gerund with the object in front of it, so the word order is impossible."
+        },
+        {
+          "letter": "B",
+          "text": "The samples must tested before the results can be published.",
+          "is_correct": false,
+          "feedback": "A modal never takes a past participle directly, so 'must tested' is ungrammatical."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Modals pass unchanged from the passive to the active, which makes this transformation a reliable exercise. The base form after the modal is the feature students most often get wrong.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W10-passive-voice-causative-v14",
+      "statement": "What does the passive allow the writer to avoid naming?",
+      "context": "A text reads: 'Children should be given time to read before being asked to answer.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The person who gives the children the reading time",
+          "is_correct": true,
+          "feedback": "The agent of 'give' is left out, so the sentence focuses on what the children receive rather than on who provides it."
+        },
+        {
+          "letter": "B",
+          "text": "The children who are reading",
+          "is_correct": false,
+          "feedback": "The children are named as the subject of the sentence, so they are not what is avoided."
+        },
+        {
+          "letter": "C",
+          "text": "The time given for reading",
+          "is_correct": false,
+          "feedback": "The reading time appears in the sentence as the thing given."
+        },
+        {
+          "letter": "D",
+          "text": "The questions asked afterwards",
+          "is_correct": false,
+          "feedback": "The questions appear explicitly as the later activity."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Advice about children is often written with an agentless passive because the advisor does not want to name a parent or a teacher. The result is a general statement that applies to any adult who supervises reading.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.75,
+      "bundle_id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W10-passive-voice-causative-v15",
+      "statement": "Which tense does the passive use in this sentence?",
+      "context": "A sentence reads: 'The new law has been widely welcomed by farmers in the region.'",
+      "options": [
+        {
+          "letter": "D",
+          "text": "Present perfect passive",
+          "is_correct": true,
+          "feedback": "'Has been' plus participle is the present perfect passive, which connects a past event to its current relevance."
+        },
+        {
+          "letter": "A",
+          "text": "Past simple passive",
+          "is_correct": false,
+          "feedback": "The past simple passive would use 'was welcomed', and no past auxiliary appears here."
+        },
+        {
+          "letter": "B",
+          "text": "Present continuous passive",
+          "is_correct": false,
+          "feedback": "A continuous passive would need 'is being welcomed', which is absent."
+        },
+        {
+          "letter": "C",
+          "text": "Past continuous passive",
+          "is_correct": false,
+          "feedback": "The past continuous would require a specific past moment of the action, which the sentence does not name."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "explanation": "Tense in the passive is carried entirely by the auxiliary, because the participle never changes. Reading the auxiliary is therefore the fastest way to identify the tense of any passive sentence.\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -278,177 +683,42 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board."
-        },
-        {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane."
-        },
-        {
-          "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "'Receipt' is the proof of payment for a purchase, not the travel document for boarding."
-        },
-        {
-          "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "'Brochure' is a small booklet of tourist information, not the document that lets you board."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle",
-      "periodo": 10,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'Sightseeing' is the activity of visiting the places of interest in a location."
-        },
-        {
-          "letter": "B",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "'Shopping' is buying things in stores, which is not the same as visiting the sights of a place."
-        },
-        {
-          "letter": "C",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions."
-        },
-        {
-          "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "'Camping' is staying outdoors in a tent, not visiting the sights of a location."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle",
-      "periodo": 10,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited."
-        },
-        {
-          "letter": "A",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "'Gift' is something you give to another person; a souvenir is kept by the person who took the trip."
-        },
-        {
-          "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "'Award' is a prize given for an achievement, not an object bought or kept as a memory."
-        },
-        {
-          "letter": "D",
-          "text": "prize",
-          "is_correct": false,
-          "feedback": "'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle",
-      "periodo": 10,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W10-passive-voice-causative-v16",
+      "statement": "Why does the writer use two different passives in this report?",
+      "context": "A news article states: 'Three suspects were arrested in connection with the robbery, and they have since been released without charge.'",
       "options": [
         {
           "letter": "C",
-          "text": "delay",
+          "text": "The first records a past event and the second reports a change up to the present",
           "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra time by which something ends up late or gets postponed."
-        },
-        {
-          "letter": "A",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "'Cancellation' means the event does not happen at all, not that it happens later than planned."
-        },
-        {
-          "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost."
+          "feedback": "'Were arrested' fixes a completed action in the past, while 'have since been released' links the outcome to the present moment."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "The first hides the police and the second hides the suspects",
           "is_correct": false,
-          "feedback": "'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination."
+          "feedback": "Naming an agent is a choice about focus, and the difference between the two clauses lies in tense rather than agent."
+        },
+        {
+          "letter": "A",
+          "text": "The two passives repeat the same information in two registers",
+          "is_correct": false,
+          "feedback": "The two clauses report different facts, so they are not a repetition of the same information."
+        },
+        {
+          "letter": "B",
+          "text": "The second passive is a causative form of the first",
+          "is_correct": false,
+          "feedback": "A causative would require 'have' plus object plus participle, and no such structure appears."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "Reporters move from past to present as a story develops, and the passive makes both halves precise without naming an agent each time. Recognising the shift in tense is what lets a reader follow the sequence of events.\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.7,
       "bundle_id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -458,42 +728,87 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W10-passive-voice-causative-v17",
+      "statement": "Which option correctly identifies the two tenses present in the sentence?",
+      "context": "A sentence reads: 'The road was being widened when the accident happened.'",
       "options": [
         {
-          "letter": "D",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter."
-        },
-        {
           "letter": "A",
-          "text": "check-out",
-          "is_correct": false,
-          "feedback": "'Check-out' is the opposite moment, when you leave the hotel or hand back the room."
+          "text": "Past continuous passive and past simple",
+          "is_correct": true,
+          "feedback": "'Was being widened' describes work in progress during a past period, and 'happened' is the completed past simple event."
         },
         {
           "letter": "B",
-          "text": "booking",
+          "text": "Past simple passive and past continuous",
           "is_correct": false,
-          "feedback": "'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in."
+          "feedback": "The order is reversed: the continuous clause comes first and the simple clause second."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "Present perfect passive and past simple",
           "is_correct": false,
-          "feedback": "'Reservation' is the booking document, not the act of reporting your presence at the desk."
+          "feedback": "No present perfect auxiliary appears in the sentence, and 'have since' is not present."
+        },
+        {
+          "letter": "D",
+          "text": "Past perfect passive and present simple",
+          "is_correct": false,
+          "feedback": "A past perfect would require 'had been widened', which is not the form used."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Two tenses can appear in one sentence, and the past continuous passive plus past simple is a frequent combination in news narrative. Each clause is described separately, which is how a student should analyse any long sentence.\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W10-passive-voice-causative-v18",
+      "statement": "Which sentence is the active equivalent of the causative?",
+      "context": "A homeowner says: 'We are having the fence painted next week.'",
+      "options": [
+        {
+          "letter": "D",
+          "text": "We are arranging for someone to paint the fence next week.",
+          "is_correct": true,
+          "feedback": "A causative describes an arrangement, and the active paraphrase must make the arrangement and the agent both explicit."
+        },
+        {
+          "letter": "A",
+          "text": "We are painting the fence next week.",
+          "is_correct": false,
+          "feedback": "Painting personally would remove the distinction that the causative creates between arranging and performing."
+        },
+        {
+          "letter": "B",
+          "text": "The fence is painting itself next week.",
+          "is_correct": false,
+          "feedback": "A fence cannot paint itself, so the fence cannot become the agent of the action."
+        },
+        {
+          "letter": "C",
+          "text": "We are being painted the fence next week.",
+          "is_correct": false,
+          "feedback": "The structure misplaces the passive auxiliary and is not a grammatical English clause."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
+      "explanation": "The distinction between arranging and performing is the meaning of the causative. Any paraphrase that loses that distinction, such as a plain active, is not equivalent to the original.\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -503,402 +818,87 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! A 'layover' is a period of rest or waiting between two stages of a journey."
-        },
-        {
-          "letter": "A",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights."
-        },
-        {
-          "letter": "C",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "'Transit' is a system of moving people and goods through a city, not a break between two flights."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle",
-      "periodo": 10,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'Currency' is the money system in general use in a particular country."
-        },
-        {
-          "letter": "B",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "'Coin' is a single metal piece of money, one item within the currency, not the whole system."
-        },
-        {
-          "letter": "C",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "'Banknote' is a paper bill, one item of the currency rather than the system of money itself."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "'Cash' means money in the physical form you hold, not the money system of a country."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle",
-      "periodo": 10,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book of information about a place written for visitors and tourists."
-        },
-        {
-          "letter": "B",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "'Map' is a single sheet or screen showing the layout of a place, not a book of information."
-        },
-        {
-          "letter": "C",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "'Dictionary' is a book of word definitions of a language, not information about a place for visitors."
-        },
-        {
-          "letter": "D",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle",
-      "periodo": 10,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! A 'backpack' is the bag with shoulder straps that you carry on your back."
-        },
-        {
-          "letter": "A",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "'Suitcase' is a case with a handle that you pull along, not a bag worn on the back."
-        },
-        {
-          "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "'Briefcase' is a case for documents and a laptop, carried in the hand for work."
-        },
-        {
-          "letter": "D",
-          "text": "handbag",
-          "is_correct": false,
-          "feedback": "'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle",
-      "periodo": 10,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W10-passive-voice-causative-v19",
+      "statement": "Which sentence applies the instruction correctly?",
+      "context": "A writer is told to avoid the passive voice in an essay.",
       "options": [
         {
           "letter": "C",
-          "text": "overseas",
+          "text": "The research team collected the data over two months.",
           "is_correct": true,
-          "feedback": "Correct! 'Overseas' means in or to a foreign country, especially one across the sea."
-        },
-        {
-          "letter": "A",
-          "text": "domestic",
-          "is_correct": false,
-          "feedback": "'Domestic' means inside your own country, the opposite of overseas."
-        },
-        {
-          "letter": "B",
-          "text": "local",
-          "is_correct": false,
-          "feedback": "'Local' means in the area where you are, even more restricted than domestic; it never crosses a border."
+          "feedback": "The agent is named as the subject and the verb follows it directly, which is the active structure the instruction requires."
         },
         {
           "letter": "D",
-          "text": "national",
+          "text": "The data was collected over two months.",
           "is_correct": false,
-          "feedback": "'National' refers to a whole country without saying it is foreign, so it does not imply going abroad."
+          "feedback": "This is the passive form that the instruction explicitly rejects."
+        },
+        {
+          "letter": "A",
+          "text": "It was collected that the data took two months.",
+          "is_correct": false,
+          "feedback": "The dummy subject 'it' with an embedded clause is indirect and impersonal rather than active."
+        },
+        {
+          "letter": "B",
+          "text": "There was collected the data over two months.",
+          "is_correct": false,
+          "feedback": "An existential 'there' cannot serve as the subject of a transitive passive, so the sentence is ungrammatical."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "Avoiding the passive in an essay means naming the agent in the subject position. The three distractors represent the passive, an impersonal structure and an ungrammatical attempt, so the exercise tests the transformation itself.\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.7,
+      "bundle_id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W10-passive-voice-causative-v20",
+      "statement": "What does the construction 'was made to' express?",
+      "context": "A legal sentence reads: 'The witness was made to repeat the statement three times.'",
+      "options": [
+        {
+          "letter": "B",
+          "text": "Someone obliged the witness to repeat the statement against her will",
+          "is_correct": true,
+          "feedback": "'Make' plus object plus 'to' plus infinitive is causative and always carries the pressure of compulsion on the object."
+        },
+        {
+          "letter": "C",
+          "text": "The witness was asked politely and agreed willingly",
+          "is_correct": false,
+          "feedback": "Politeness and willingness would require a verb such as 'asked', not 'made'."
+        },
+        {
+          "letter": "D",
+          "text": "The witness repeated the statement on her own initiative",
+          "is_correct": false,
+          "feedback": "Doing it on her own initiative would need the active form with the witness as subject."
+        },
+        {
+          "letter": "A",
+          "text": "The witness was instructed to repeat it, without coercion",
+          "is_correct": false,
+          "feedback": "Coercion is precisely what the causative verb 'make' expresses, so the fourth reading removes its meaning."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "This item separates the causative from the passive, which look almost identical here. In the passive someone did something to the witness; in the causative someone obliged the witness to act, and the second reading is the one that matters legally.",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle",
-      "periodo": 10,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! A 'budget' is the estimate of income and expenditure planned for a set period."
-        },
-        {
-          "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "'Expense' is a single cost already paid; the definition is the estimate for the whole period."
-        },
-        {
-          "letter": "B",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "'Cost' is the price of one thing, whereas a budget covers all income and all spending."
-        },
-        {
-          "letter": "C",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "'Price' is the amount a single item costs, not a plan of income and expenditure over time."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle",
-      "periodo": 10,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium."
-        },
-        {
-          "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract."
-        },
-        {
-          "letter": "C",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium."
-        },
-        {
-          "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle",
-      "periodo": 10,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease."
-        },
-        {
-          "letter": "A",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one."
-        },
-        {
-          "letter": "B",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself."
-        },
-        {
-          "letter": "C",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "'Infection' is the state of having the disease; vaccination is what protects you before you get it."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle",
-      "periodo": 10,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones."
-        },
-        {
-          "letter": "A",
-          "text": "fatigue",
-          "is_correct": false,
-          "feedback": "'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones."
-        },
-        {
-          "letter": "B",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect."
-        },
-        {
-          "letter": "C",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
