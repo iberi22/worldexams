@@ -76,7 +76,7 @@ Los parques hacen parte del espacio público y su transformación puede democrá
 **Contexto:** En Medellín se va a remodelar un parque utilizado por familias, niños, adultos mayores y personas con discapacidad.
 
 ### Enunciado
-¿Qué acción permite.remodelar el parque de manera participativa, segura e inclusiva?
+¿Qué acción permite remodelar el parque de manera participativa, segura e inclusiva?
 
 ### Opciones
 - [ ] A) Consultar solo a los comerciantes y decidir la remodelación sin escuchar a los demás usuarios.
@@ -135,7 +135,7 @@ Ante esta situación, ¿qué decisión respeta mejor el carácter público y com
   <!-- feedback: Incorrecto. La privatización y el cobro de una tarifa limitan el acceso y debilitan el carácter público del espacio. -->
 
 ### Explicacion Pedagogica
-El espacio público permite el encuentro y el disfrute de todas las personas, por lo que requiere normas que respeten sus derechos y garanticen la convivencia. Acordar reglas compartidas también enseña que el bienestar del parque depende del cuidadoXS de toda la comunidad.
+El espacio público permite el encuentro y el disfrute de todas las personas, por lo que requiere normas que respeten sus derechos y garanticen la convivencia. Acordar reglas compartidas también enseña que el bienestar del parque depende del cuidado de toda la comunidad.
 
 ## Question 6 [D7-D8]
 **ID:** CO-SOC-6-2026-W28-los-parques-y-el-espacio-publico-001-MASTERY-bundle-v6
@@ -222,7 +222,7 @@ En un parque de Bogotá, la vía rápida pasa junto al juego infantil y un parqu
 - [ ] B) Ampliar el parqueadero para que cada visitante pueda llegar en carro y así usar mejor esta zona pública.
   <!-- feedback: Incorrecto. Ampliar el parqueadero prioriza el acceso en vehículo particular y reduce el espacio disponible para la circulación peatonal. -->
 - [ ] C) Mantener la distribución actual y colocar letreros grandes que inviten a todos los vecinos a usar la zona.
-  <!-- feedback: Incorrecto. Los letreros pueden informar, pero no eliminan el bloqueo peatonal ni exposed? la cercanía con el tránsito rápido. -->
+  <!-- feedback: Incorrecto. Los letreros pueden informar, pero no eliminan el bloqueo peatonal ni la cercanía con el tránsito rápido. -->
 - [ ] D) Rodear la zona con un muro y restringir la entrada para evitar conflictos entre los distintos usuarios.
   <!-- feedback: Incorrecto. Un muro y el acceso restringido limitan la circulación y el encuentro, funciones esenciales de un espacio público. -->
 

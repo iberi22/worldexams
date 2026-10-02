@@ -37,7 +37,7 @@ En Bogotá, ¿cómo puede ejercer la ciudadanía su derecho a participar en la g
   <!-- feedback: Correcto. El presupuesto participativo permite proponer, priorizar y hacer seguimiento a proyectos que se financian con recursos públicos. -->
 - [ ] B) Administrando personalmente todos los fondos distritales sin ningún tipo de control.
   <!-- feedback: Incorrecto. La participación ciudadana no reemplaza la administración pública ni permite disponer libremente de los recursos del distrito. -->
-- [ ] C) Elegiendo a todos los funcionarios distritales sin Performs? votación populaire.
+- [ ] C) Elegir a todos los funcionarios distritales sin pasar por una votación popular.
   <!-- feedback: Incorrecto. El presupuesto participativo no sustituye los procesos electorales ni permite elegir a todos los funcionarios del distrito. -->
 - [ ] D) Aprobando directamente las normas distritales sin la intervención del Consejo.
   <!-- feedback: Incorrecto. La participación en el presupuesto no equivale a aprobar normas; la discusión y aprobación distrital siguen sus procedimientos legales. -->
@@ -172,7 +172,7 @@ En un barrio de Bogotá, la comunidad participa en la elaboración del presupues
 
 ### Opciones
 - [ ] A) La comunidad solo elige al alcalde y, con esa decisión, el presupuesto participativo cumple su función sin que la población proponga obras.
-  <!-- feedback: Incorrecto. Elegir una autoridad electoral no reemplaza la participación ciudadana en laPriorización de obras y recursos. -->
+  <!-- feedback: Incorrecto. Elegir una autoridad electoral no reemplaza la participación ciudadana en la priorización de obras y recursos. -->
 - [ ] B) La comunidad paga sus impuestos y, con ese aporte, el presupuesto participativo deja de necesitar decisiones colectivas sobre las necesidades del barrio.
   <!-- feedback: Incorrecto. El pago de impuestos es una obligación tributaria, pero no sustituye la deliberación sobre las prioridades del presupuesto. -->
 - [x] C) La comunidad analiza sus necesidades y acuerda prioridades, de modo que los recursos públicos se orienten a las obras más importantes para el barrio.
@@ -181,7 +181,7 @@ En un barrio de Bogotá, la comunidad participa en la elaboración del presupues
   <!-- feedback: Incorrecto. Excluir a la comunidad de las decisiones contradice la participación ciudadana, que incluye proponer, discutir y priorizar necesidades. -->
 
 ### Explicacion Pedagogica
-El presupuesto participativo es un mecanismo de participación ciudadana en el que la comunidad propone, discute y prioriza proyectos. Sus acuerdos ayudan a orientar los recursos públicos y a construir convivencia al buscar soluciones.collectivas.
+El presupuesto participativo es un mecanismo de participación ciudadana en el que la comunidad propone, discute y prioriza proyectos. Sus acuerdos ayudan a orientar los recursos públicos y a construir convivencia al buscar soluciones colectivas.
 
 ## Question 8 [D7-D8]
 **ID:** CO-SOC-6-2026-W37-la-ciudadania-participativa-y-el-presupuesto-001-MASTERY-bundle-v8
@@ -241,13 +241,13 @@ En Bogotá, la comunidad de una escuela pública quiere decidir cómo se inviert
 
 ### Opciones
 - [ ] A) Los estudiantes eligen un proyecto sin escuchar a los demás y la dirección ejecuta la compra inmediatamente.
-  <!-- feedback: Incorrecto. La ciudadanía participativa exige diálogo y consideration de las necesidades de toda la comunidad. -->
+  <!-- feedback: Incorrecto. La ciudadanía participativa exige diálogo y que se consideren las necesidades de toda la comunidad. -->
 - [x] B) La comunidad analiza sus necesidades, discute las propuestas, vota un proyecto y la dirección informa sobre su ejecución.
   <!-- feedback: Correcto. La participación ciudadana combina deliberación, votación y seguimiento transparente del presupuesto asignado. -->
 - [ ] C) La dirección compra un proyecto, los estudiantes lo conocen después y solo pueden aceptar o rechazar la decisión.
   <!-- feedback: Incorrecto. Informar una decisión después de tomarla no garantiza la participación; la comunidad debe intervenir antes y durante la ejecución. -->
 - [ ] D) Los estudiantes elaboran un proyecto, pero la comunidad no lo debate porque la administracion decide si será incluido.
-  <!-- feedback: Incorrecto. Elaborar una propuesta sin deliberaciónMH reduce la ciudadanía participativa a una_simple presentación de ideas. -->
+  <!-- feedback: Incorrecto. Elaborar una propuesta sin deliberación reduce la ciudadanía participativa a una simple presentación de ideas. -->
 
 ### Explicacion Pedagogica
-La ciudadanía participativa permite que las personasbservable y dialoguen sobre los asuntos que las afectan, especialmente el uso de recursos públicos. Un presupuesto participativo incorpora sus necesidades,Prioriza propuestas y acompaña la ejecución para asegurar transparencia.
+La ciudadanía participativa permite que las personas discutan y dialoguen sobre los asuntos que las afectan, especialmente el uso de recursos públicos. Un presupuesto participativo incorpora sus necesidades, prioriza propuestas y acompaña la ejecución para asegurar transparencia.

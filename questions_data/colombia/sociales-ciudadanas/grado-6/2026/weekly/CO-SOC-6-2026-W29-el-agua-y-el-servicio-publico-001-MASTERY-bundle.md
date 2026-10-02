@@ -84,7 +84,7 @@ La Constitución colombiana, en el artículo 365, define los servicios públicos
 - [ ] B) Usar el agua sin límite y omitir el reporte, porque el servicio público genera pocas responsabilidades.
   <!-- feedback: Incorrecto. El uso responsable y la participación coproprieta el cuidado del agua y ayudan a garantizar el servicio. -->
 - [x] C) Reportar la avería, cuidar el consumo y promover que todas las familias tengan acceso igualitario.
-  <!-- feedback: Correcto. Esta actuación reconoce el agua como servicio público, Upturn? -->
+  <!-- feedback: Correcto. Esta actuación reconoce el agua como servicio público y respeta el acceso igualitario, porque reportar la avería y cuidar el consumo protegen el derecho de todas las familias. -->
 - [ ] D) Cortar la tubería principal para exigir una solución, aunque se prive de agua a todo el vecindario.
   <!-- feedback: Incorrecto. Esta acción vulnera el derecho de otras personas a un servicio esencial y perjudica el interés común. -->
 
@@ -103,7 +103,7 @@ El agua potable es un servicio público relacionado con el derecho de todas las 
 
 ### Opciones
 - [ ] A) Racionar el agua en todas las casas, aunque el nivel del Embalse de Ituango sea normal, para limitar cualquier consumo.
-  <!-- feedback: Incorrecto. El racionamiento es una medida excepcional para_epochs de escasez; no se aplica únicamente para evitar que las familias consuman agua. -->
+  <!-- feedback: Incorrecto. El racionamiento es una medida excepcional para épocas de escasez; no se aplica únicamente para evitar que las familias consuman agua. -->
 - [ ] B) Cobrar únicamente una tarifa fija, sin considerar el volumen consumido, para garantizar que todas las familias obtengan agua.
   <!-- feedback: Incorrecto. La tarifa del acueducto puede incluir un cargo fijo y otro por consumo; ignorar el volumen consumido no promueve el uso responsable. -->
 - [ ] C) Utilizar agua potable para llenar piscinas, porque el pago del servicio autoriza desperdiciar el recurso sin restricciones.
@@ -132,15 +132,12 @@ El agua potable es un recurso natural indispensable, y su distribución constitu
 - [ ] C) Reservar el agua para grandes empresas y dejar a los hogares sin agua en situaciones de emergencia.
   <!-- feedback: Incorrecto. Priorizar el agua para grandes empresas y desatender a las personas vulnera el principio de solidaridad y calidad social establecido en el artículo 365 de la Constitución Política. -->
 - [ ] D) Entregar el agua solo a quien pueda pagar la tarifa completa, sin considerar las capacidades económicas.
-  <!-- feedback: Incorrecto. La capacidad de pago no puede ser la única condición para acceder al agua, porque el servicio debe respetar la cobertura, laائب? -->
+  <!-- feedback: Incorrecto. La capacidad de pago no puede ser la única condición para acceder al agua, porque el servicio debe respetar la cobertura y atender las necesidades esenciales con solidaridad. -->
 
-
-Wait, I accidentally included weird Arabic? Need produce final clean. D feedback: "La capacidad de pago no puede ser la única condición para acceder al agua, porque este servicio debe garantizar cobertura y atender las necesidades esenciales con solidaridad." Article maybe no exclusion. Good.
 
 ### Explicacion Pedagogica
 El uso responsable del agua consiste en consumir solo lo necesario, evitar las fugas y participar en decisiones colectivas que protegan el acceso de todas las personas. Como servicio público, el agua debe administrarse con eficiencia, equidad y solidaridad, sin perjudicar las necesidades esenciales de la comunidad.
 
-Need D feedback length similar? Fine. Ensure no "laibility". Let's generate final.
 
 ## Question 6 [D7-D8]
 **ID:** CO-SOC-6-2026-W29-el-agua-y-el-servicio-publico-001-MASTERY-bundle-v6
@@ -154,7 +151,7 @@ Need D feedback length similar? Fine. Ensure no "laibility". Let's generate fina
 
 ### Opciones
 - [ ] A) Porque cualquier servicio genera un cobro a sus usuarios, por lo que pagar una tarifa es suficiente para considerarlo un servicio público.
-  <!-- feedback: Incorrecto. El pago de una tarifa no convierte cualquier actividad en servicio público; estos tienen una función social.yorlegal definida por el Estado. -->
+  <!-- feedback: Incorrecto. El pago de una tarifa no convierte cualquier actividad en servicio público; estos tienen una función social y legal definida por el Estado. -->
 - [x] B) Porque el agua es una necesidad colectiva y su distribución es un servicio público a cargo del Estado, aunque su operación se asigne a empresas privadas.
   <!-- feedback: Correcto. La Constitución Política, en el artículo 367, establece que los servicios públicos son inherentes a la función del Estado, aunque puedan ser prestados por particulares. -->
 - [ ] C) Porque, al commercializarse, el agua deja de cumplir una función social y pasa a tratarse únicamente como un bien privado.
@@ -254,7 +251,7 @@ En una zona ribereña de Bogotá, una lluvia intensa hace subir el río y arrast
 - [ ] C) La lluvia ocurre en Bogotá, pero la suspensión se realiza en otra ciudad sin relación espacial.
   <!-- feedback: Incorrecto. Niega la relación espacial, aunque la suspensión se lleva a cabo en sectores cercanos al río de Bogotá. -->
 - [ ] D) Los hechos ocurren en días distintos de Bogotá, aunque la suspensión siempre siga a la subida del río.
-  <!-- feedback: Incorrecto. Cambia la relación temporal al skillful afirmar que los hechos ocurrieron en días diferentes, pues sucedieron el mismo día. -->
+  <!-- feedback: Incorrecto. Cambia la relación temporal al afirmar que los hechos ocurrieron en días diferentes, pues sucedieron el mismo día. -->
 
 ### Explicacion Pedagogica
 
