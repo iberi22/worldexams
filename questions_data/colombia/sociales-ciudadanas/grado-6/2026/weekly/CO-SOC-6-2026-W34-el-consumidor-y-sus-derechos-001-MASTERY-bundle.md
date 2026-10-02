@@ -161,7 +161,7 @@ En una tienda de electrodomésticos de Bogotá, un cartel anuncia un televisor e
   <!-- feedback: Incorrecto. La retractación corresponde a ciertas compras a distancia; la situación analizada es el anuncio de un producto en una tienda física. -->
 
 ### Explicacion Pedagogica
-La publicidad debe aportar datos que permitan tomar una decisión informada, incluyendo el precio total y las condiciones económicas. Omitir esos datos vulnera el derecho a recibir información clara, veraz yopusortunа, reconocido en el artículo 24 de la Ley 1484 de 2011.
+La publicidad debe aportar datos que permitan tomar una decisión informada, incluyendo el precio total y las condiciones económicas. Omitir esos datos vulnera el derecho a recibir información clara, veraz y oportuna, reconocido en el artículo 24 de la Ley 1484 de 2011.
 
 ## Question 7 [D7-D8]
 **ID:** CO-SOC-6-2026-W34-el-consumidor-y-sus-derechos-001-MASTERY-bundle-v7

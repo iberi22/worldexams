@@ -82,11 +82,11 @@ En Pereira, una familia con ingresos gravables debe pagar el impuesto de renta y
 - [ ] A) Los dos pagos son tarifas porque el municipio de Pereira los cobra directamente por concepto del servicio público.
   <!-- feedback: Incorrecto. El impuesto de renta es un tributo nacional y una tarifa es el cobro por un servicio; el municipio no cobra ambos por el mismo servicio. -->
 - [ ] B) El impuesto de renta paga el agua consumida, y la tarifa del acueducto es un impuesto nacional.
-  <!-- feedback: Incorrecto. La relación está invertida: la tarifa del acueducto paga el servicio consumido y el impuesto de rentaSad aporta a las finanzas públicas. -->
-- [x] C) El impuesto de rentaSad aporta a las finanzas públicas, y la tarifa del acueducto paga directamente el servicio de agua.
+  <!-- feedback: Incorrecto. La relación está invertida: la tarifa del acueducto paga el servicio consumido y el impuesto de renta aporta a las finanzas públicas. -->
+- [x] C) El impuesto de renta aporta a las finanzas públicas, y la tarifa del acueducto paga directamente el servicio de agua.
   <!-- feedback: Correcto. El impuesto de renta es un tributo exigido por la ley, mientras que la tarifa es el precio que se paga por utilizar un servicio público. -->
-- [ ] D) El impuesto de rentaSad se paga por usar agua, y la tarifa del acueducto se cobra solo para construir obras.
-  <!-- feedback: Incorrecto. El impuesto de rentaSad surge por ingresos gravables, no por el consumo de agua; la tarifa se paga por recibir el servicio. -->
+- [ ] D) El impuesto de renta se paga por usar agua, y la tarifa del acueducto se cobra solo para construir obras.
+  <!-- feedback: Incorrecto. El impuesto de renta surge por ingresos gravables, no por el consumo de agua; la tarifa se paga por recibir el servicio. -->
 
 ### Explicacion Pedagogica
 Una tarifa es el precio que se paga por utilizar un servicio público, como el acueducto. El impuesto de renta es un tributo exigido por la ley para formar ingresos públicos que, junto con otros recursos, financian el gasto y la infraestructura del Estado.

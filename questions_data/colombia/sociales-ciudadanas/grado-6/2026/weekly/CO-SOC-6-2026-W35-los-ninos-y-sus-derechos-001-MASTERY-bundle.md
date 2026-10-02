@@ -132,10 +132,10 @@ De acuerdo con la Constitución Política de Colombia y la Convención sobre los
 - [ ] C) Decidir la medida sin consultarlos, porque los estudiantes son menores de edad y todavía no pueden asumir esa responsabilidad.
   <!-- feedback: Incorrecto. Porque la edad no elimina el derecho a la participación; los niños deben ser escuchados en los asuntos que los afectan. -->
 - [ ] D) Incluirlos únicamente para cumplir el trámite y evitar que su presencia tenga alguna influencia en la decisión final.
-  <!-- feedback: Incorrecto. Porque una participación solo formal, sin posibilidad deInfluence? influence real, no respeta el derecho a la participación. -->
+  <!-- feedback: Incorrecto. Porque una participación solo formal, sin posibilidad de influencia real, no respeta el derecho a la participación. -->
 
 ### Explicacion Pedagogica
-El derecho a la participar?
+El derecho a la participación de los niños, reconocido en el artículo 44 de la Constitución Política y en la Convención sobre los Derechos del Niño, no significa que ellos decidan por sí solos, sino que las autoridades escuchen sus opiniones, las consideren y respondan de forma clara sobre cómo se tendrá en cuenta su voz en las decisiones que los afectan.
 
 ## Question 6 [D7-D8]
 **ID:** CO-SOC-6-2026-W35-los-ninos-y-sus-derechos-001-MASTERY-bundle-v6
@@ -155,7 +155,7 @@ En Manizales, una cooperativa escolar vende artesanías por internet y debe deci
 - [ ] C) Entregar a los estudiantes toda la administración de las ventas, porque participar significa actuar sin el acompañamiento de un adulto.
   <!-- feedback: Incorrecto. El derecho a la participación no significa que los niños asuman todas las responsabilidades de los adultos, pues aún requieren protección y acompañamiento. -->
 - [ ] D) Excluir a los estudiantes de la conversación por los riesgos del comercio, porque protegerlos exige decidir sin escucharlos.
-  <!-- feedback: Incorrecto. El derecho a la protección exige acompañar y Fernand?Jo? a los niños, no privarlos de la posibilidad de expresar sus opiniones sobre decisiones que los afectan. -->
+  <!-- feedback: Incorrecto. El derecho a la protección exige acompañar y proteger a los niños, no privarlos de la posibilidad de expresar sus opiniones sobre decisiones que los afectan. -->
 
 ### Explicacion Pedagogica
 La participación de los niños significa poder expresar opiniones y que sean consideradas en las decisiones que los afectan. La protección de los menores no excluye su voz, sino que garantiza que puedan participar de manera segura yBuild accompanied.
@@ -221,13 +221,13 @@ En la localidad de Kennedy, en Bogotá, unos niños de sexto grado elaboran un m
   <!-- feedback: Correcto. El artículo 44 de la Constitución Política de Colombia reconoce el derecho de los niños a participar;expresar propuestas y ser escuchados es una forma de ejercerlo. -->
 - [ ] B) Excluir el parque del mapa y representar solo los lugares que elijan los adultos, porque los niños no pueden tomar decisiones públicas.
   <!-- feedback: Incorrecto. Limitar la participación a los adultos contradice el derecho de los niños a intervenir en los asuntos que los afectan, reconocido en el artículo 44. -->
-- [ ] C) Enviar propuestas individuales sin escuchar a los demás niños,.CREER que participar significa actuar sin diálogo ni consideración.
+- [ ] C) Enviar propuestas individuales sin escuchar a los demás niños, porque participar significa actuar sin diálogo ni consideración.
   <!-- feedback: Incorrecto. La participación infantile comprende el diálogo, el intercambio de opiniones y la búsqueda de acuerdos, no solo acciones aisladas. -->
 - [ ] D) Esperar pasivamente que la autoridad construya la ruta, porque participar únicamente significa recibir mejoras en los espacios públicos.
-  <!-- feedback: Incorrecto. El derecho a participar incluye la posibilidad de expresar ideas y propuestas, no solamenteCUITAR de las decisiones de los adultos. -->
+  <!-- feedback: Incorrecto. Participar no es solo recibir mejoras: el derecho incluye expresar ideas y propuestas sobre las decisiones que afectan a los niños. -->
 
 ### Explicacion Pedagogica
-La participación infantil permite que los niños expresen opiniones y propongan soluciones sobre los lugares y situaciones que los afectan. En este caso, interpretar el mapa y solicitar una ruta segura demuestra que su voz puede.mk Contribute a la toma de decisiones en su comunidad.
+La participación infantil permite que los niños expresen opiniones y propongan soluciones sobre los lugares y situaciones que los afectan. En este caso, interpretar el mapa y solicitar una ruta segura demuestra que su voz puede contribuir a la toma de decisiones en su comunidad.
 
 ## Question 10 [D9-D10]
 **ID:** CO-SOC-6-2026-W35-los-ninos-y-sus-derechos-001-MASTERY-bundle-v10
@@ -250,4 +250,4 @@ En una escuela de Medellín, se van a modificar las reglas del patio. ¿Cuál ac
   <!-- feedback: Incorrecto. La representación de los padres puede acompañar al niño, pero no reemplaza su derecho a expresar libremente su propia opinión. -->
 
 ### Explicacion Pedagogica
-El derecho a la participación significa que los niños pueden expresar sus opiniones sobre los asuntos que los afectan y que los adultos deben escucharlas con atención. En este caso, school's actuar correctamente implica consultar a los estudiantes antes de modificar las reglas y explicarles cómo se tendrá en cuenta su participación.
+El derecho a la participación significa que los niños pueden expresar sus opiniones sobre los asuntos que los afectan y que los adultos deben escucharlas con atención. En este caso, actuar correctamente implica consultar a los estudiantes antes de modificar las reglas y explicarles cómo se tendrá en cuenta su participación.
